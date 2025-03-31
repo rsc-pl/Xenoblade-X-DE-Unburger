@@ -1,0 +1,108 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev065503_MSG0001",
+      "style": 1,
+      "name": "Are you a BLADE? My name is Lucy,\nand I work in Skell development.[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev065503_MSG0002",
+      "style": 1,
+      "name": "I'm on break at the moment, though.\n...Er, did you need assistance with something?[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev065503_JNK0010",
+      "style": 4,
+      "name": "Query"
+    },
+    {
+      "$id": 4,
+      "label": "qev065503_SEL0011",
+      "style": 3,
+      "name": "Ask Lucy how she would describe herself."
+    },
+    {
+      "$id": 5,
+      "label": "qev065503_JNK0020",
+      "style": 4,
+      "name": "Inform"
+    },
+    {
+      "$id": 6,
+      "label": "qev065503_SEL0021",
+      "style": 3,
+      "name": "Tell Lucy that you know someone\nwho wants to meet her."
+    },
+    {
+      "$id": 7,
+      "label": "qev065503_MSG0003",
+      "style": 1,
+      "name": "My personality, you mean? Well, I'm not especially\ninterested in anything but my research. I suppose you'd\nsay that I lead a fairly dry life...[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev065503_MSG0004",
+      "style": 1,
+      "name": "On my days off, I'll stay in and do crosswords all day.\nI love the feel of watching my knowledge fill up those\nblanks.[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev065503_MSG0005",
+      "style": 1,
+      "name": "...Men? Oh, I'm no good with men. Though if there\nwas one who could accept my quirks, it might be\nnice to have some crossword company.[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev065503_MSG0006",
+      "style": 1,
+      "name": "I'm sorry, humor isn't really my forte. I'm sure it's a\nvery funny joke, but you'll need to explain it to...[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev065503_MSG0007",
+      "style": 1,
+      "name": "...Hmm? It's not a joke?[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev065503_MSG0008",
+      "style": 1,
+      "name": "I can't imagine it's any fun talking to me, but...\nWell, if he's interested in meeting me,\nI suppose the least I can do is talk to him.[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev065503_MSG0009",
+      "style": 1,
+      "name": "You're certain this wasn't a joke? I just can't believe\nthat someone like him could possibly be interested in\nme. It makes no sense.[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev065503_MSG0010",
+      "style": 1,
+      "name": "I'm a terrible bore. A woman with no interests outside\nof her work.[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev065503_MSG0011",
+      "style": 1,
+      "name": "But he listens to me talk as if it's the most interesting\nthing in the world. He's...very kind.[ST:wait ]"
+    }
+  ]
+}

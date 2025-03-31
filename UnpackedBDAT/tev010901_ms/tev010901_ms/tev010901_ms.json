@@ -1,0 +1,462 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev010901_JNK0010",
+      "style": 4,
+      "name": "Inquire"
+    },
+    {
+      "$id": 2,
+      "label": "tev010901_SEL0011",
+      "style": 3,
+      "name": "Ask Christopher for advice on\nhow to overpower your foes."
+    },
+    {
+      "$id": 3,
+      "label": "tev010901_JNK0020",
+      "style": 4,
+      "name": "Discuss"
+    },
+    {
+      "$id": 4,
+      "label": "tev010901_SEL0021",
+      "style": 3,
+      "name": "Ask Christopher about recent developments."
+    },
+    {
+      "$id": 5,
+      "label": "tev010901_SEL0031",
+      "style": 3,
+      "name": "Ask Christopher about Skells."
+    },
+    {
+      "$id": 6,
+      "label": "tev010901_SEL0041",
+      "style": 3,
+      "name": "Ask Christopher about Skell combat."
+    },
+    {
+      "$id": 7,
+      "label": "tev010901_SEL0061",
+      "style": 3,
+      "name": "Ask Christopher about the device Lin is making."
+    },
+    {
+      "$id": 8,
+      "label": "tev010901_SEL0081",
+      "style": 3,
+      "name": "Ask Christopher about the Skell flight module."
+    },
+    {
+      "$id": 9,
+      "label": "tev010901_SEL1021",
+      "style": 3,
+      "name": "Ask Christopher about recent developments."
+    },
+    {
+      "$id": 10,
+      "label": "tev010901_SEL2021",
+      "style": 3,
+      "name": "Ask Christopher about recent developments."
+    },
+    {
+      "$id": 11,
+      "label": "tev010901_MSG0001",
+      "style": 1,
+      "name": "When you're battling a nasty indigen,\nthe trick is to immobilize it.[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "tev010901_MSG0002",
+      "style": 1,
+      "name": "Stagger your target with a well-timed combo,\nthen topple it with a special attack.[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "tev010901_MSG0003",
+      "style": 1,
+      "name": "Once it's down, you can unleash your most powerful\nattacks with flawless accuracy.[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "tev010901_MSG0004",
+      "style": 1,
+      "name": "If you're using a Skell, once you've staggered an\nenemy, try binding it instead. This causes even greater\nresults than if you had merely toppled it![ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "tev010901_MSG0005",
+      "style": 1,
+      "name": "Not that that will matter much to you! They don't just\nlet any scrub off the street into the cockpit of a Skell,\nyou know? Thank goodness...[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "tev010901_MSG0011",
+      "style": 1,
+      "name": "When you're battling a nasty indigen,\nthe trick is to immobilize it.[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "tev010901_MSG0012",
+      "style": 1,
+      "name": "Stagger your target with a well-timed combo,\nthen topple it with a special attack.[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "tev010901_MSG0013",
+      "style": 1,
+      "name": "Once it's down, you can unleash your most powerful\nattacks with flawless accuracy.[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "tev010901_MSG0014",
+      "style": 1,
+      "name": "If you're using a Skell, once you've staggered an\nenemy, try binding it instead. This causes even greater\nresults than if you had merely toppled it![ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "tev010901_MSG0015",
+      "style": 1,
+      "name": "Of course, I'm one of relatively few BLADEs who has\nbeen proven worthy to pilot a Skell. What a delight it\nwould be to have a lady as lovely as yourself join me![ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "tev010901_MSG0021",
+      "style": 1,
+      "name": "A fine question. And I am just the man to answer it,\nas I have already purchased the Skell of my dreams.[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "tev010901_MSG0022",
+      "style": 1,
+      "name": "And I'm not talking about one of those hideous,\nsoulless hunks of steel BLADE issues to common grunts.[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "tev010901_MSG0023",
+      "style": 1,
+      "name": "My beloved Aphrodite is a work of art, so beautifully\nand lavishly customized as to be in a league of her\nown so far as BLADE Skells are concerned.[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "tev010901_MSG0024",
+      "style": 1,
+      "name": "All of her components have been custom-ordered from\nthe finest engineers in the business. They cost a pretty\npenny, but I spare no expense on the ones I love.[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "tev010901_MSG0025",
+      "style": 1,
+      "name": "When I see the way the light sparkles off Aphrodite's\nchassis, I know I've done right by her.[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "tev010901_MSG0026",
+      "style": 1,
+      "name": "Now if you'll excuse me, I am off to trek across Mira\nin Aphrodite's tender bosom, eradicating vile\npotamuses all the while![ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "tev010901_MSG0034",
+      "style": 1,
+      "name": "What? Seriously? What kind of self-respecting man\ndoesn't have a Skell license of his own?[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "tev010901_MSG0035",
+      "style": 1,
+      "name": "Do you think any woman in New LA is going to look\nat you twice if you don't have a Skell?[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "tev010901_MSG0036",
+      "style": 1,
+      "name": "Why don't you man up and go ask Commander\nVandham if you can take the licensing test already?[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "tev010901_MSG0037",
+      "style": 1,
+      "name": "Then again, I don't know how much getting a license\nwould help the likes of you.[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "tev010901_MSG0038",
+      "style": 1,
+      "name": "Women love me because everything I am and do is a\nwork of art. You, on the other hand...[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "tev010901_MSG0041",
+      "style": 1,
+      "name": "My dearest flower, am I to understand that you do not\nyet possess a Skell license?[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "tev010901_MSG0042",
+      "style": 1,
+      "name": "Perhaps you should go speak to Commander Vandham\nand ask him to let you take the licensing test.[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "tev010901_MSG0043",
+      "style": 1,
+      "name": "Dear me, what's this? The way you gaze upon me...\nHave you fallen head over heels for me already?[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "tev010901_MSG0044",
+      "style": 1,
+      "name": "While I could give you a great many things, I'm afraid\nthat my Skell license is not among them. Forgive me.[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "tev010901_MSG0046",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 37,
+      "label": "tev010901_MSG0049",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 38,
+      "label": "tev010901_MSG0050",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 39,
+      "label": "tev010901_MSG0051",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 40,
+      "label": "tev010901_MSG0052",
+      "style": 1,
+      "name": "As a veteran Skell pilot, allow me to share some advice\non how to comport yourself with proper grace upon the\nbattlefield.[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "tev010901_MSG0053",
+      "style": 1,
+      "name": "You'll earn little experience from battling foes that are\nsmaller than your Skell.[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "tev010901_MSG0054",
+      "style": 1,
+      "name": "If you wish to polish your own fighting skills,\nyou should exit your Skell and do battle on foot.\nIt is the far more efficient way.[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "tev010901_MSG0055",
+      "style": 1,
+      "name": "In other words, there is no poetry in tormenting a\nsmaller foe![ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "tev010901_MSG0056",
+      "style": 1,
+      "name": "As a fellow man, I expect to see you engaging in fair\nfights on the ground, not sullying your Skell with\nuncouth bullying of the weak.[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "tev010901_MSG0059",
+      "style": 1,
+      "name": "As a veteran Skell pilot, allow me to share some advice\non how to comport yourself with proper grace upon the\nbattlefield.[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "tev010901_MSG0060",
+      "style": 1,
+      "name": "You'll earn little experience from battling foes that are\nsmaller than your Skell.[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "tev010901_MSG0061",
+      "style": 1,
+      "name": "If you wish to polish your own fighting skills,\nyou should exit your Skell and do battle on foot.\nIt is the far more efficient way.[ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "tev010901_MSG0062",
+      "style": 1,
+      "name": "In other words, there is no poetry in tormenting a\nsmaller foe![ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "tev010901_MSG0063",
+      "style": 1,
+      "name": "It would wound me deeply to see a lady as lovely\nas you sully her Skell with uncouth bullying,\nrather than engaging in fair fights on the ground.[ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "tev010901_MSG1001",
+      "style": 1,
+      "name": "I continue to customize my beloved Aphrodite with all\nthe love and coin I can spare.[ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "tev010901_MSG1002",
+      "style": 1,
+      "name": "The way she shines in combat now? Ha ha!\nShe is many times the machine she was when I first\npurchased her.[ST:wait ]"
+    },
+    {
+      "$id": 52,
+      "label": "tev010901_MSG1003",
+      "style": 1,
+      "name": "I hope that you, too, will refuse to be satisfied merely\nwith owning a Skell, and will customize yours for far\ngreater things.[ST:wait ]"
+    },
+    {
+      "$id": 53,
+      "label": "tev010901_MSG1004",
+      "style": 1,
+      "name": "And when you do, we shall take our Skells out together\nand eradicate the tyrants that infect this world![ST:wait ]"
+    },
+    {
+      "$id": 54,
+      "label": "tev010901_MSG1009",
+      "style": 1,
+      "name": "To see our Skells taking flight like angels of heaven...\nWhat a poetic stroke of inspiration has struck our\nyoung Lin![ST:wait ]"
+    },
+    {
+      "$id": 55,
+      "label": "tev010901_MSG1010",
+      "style": 1,
+      "name": "Ah, but what would an ignorant savage like yourself\nunderstand of such poetry?[ST:wait ]"
+    },
+    {
+      "$id": 56,
+      "label": "tev010901_MSG1011",
+      "style": 1,
+      "name": "I understand that Commander Vandham is recruiting\ntest pilots for our new flying Skells via Mission Control.[ST:wait ]"
+    },
+    {
+      "$id": 57,
+      "label": "tev010901_MSG1012",
+      "style": 1,
+      "name": "If you're interested enough in the topic to discuss it with\nme, perhaps you should consider accepting the mission.[ST:wait ]"
+    },
+    {
+      "$id": 58,
+      "label": "tev010901_MSG1017",
+      "style": 1,
+      "name": "To see our Skells taking flight like angels of heaven...\nSuch a poetic stroke of inspiration could only strike\na woman![ST:wait ]"
+    },
+    {
+      "$id": 59,
+      "label": "tev010901_MSG1018",
+      "style": 1,
+      "name": "As a person of the female persuasion yourself,\nI'm sure you're able to appreciate the poetry of what\nLin has accomplished?[ST:wait ]"
+    },
+    {
+      "$id": 60,
+      "label": "tev010901_MSG1019",
+      "style": 1,
+      "name": "I understand that Commander Vandham is recruiting\ntest pilots for our new flying Skells via Mission Control.[ST:wait ]"
+    },
+    {
+      "$id": 61,
+      "label": "tev010901_MSG1020",
+      "style": 1,
+      "name": "If you're interested enough in the topic to discuss it with\nme, perhaps you should consider accepting the mission.[ST:wait ]"
+    },
+    {
+      "$id": 62,
+      "label": "tev010901_MSG1025",
+      "style": 1,
+      "name": "Needless to say, I had my beloved Aphrodite upgraded\nwith a Skell flight module immediately.[ST:wait ]"
+    },
+    {
+      "$id": 63,
+      "label": "tev010901_MSG1026",
+      "style": 1,
+      "name": "Seeing her gliding through the sky, unencumbered by\nthe bonds of the surface world—what a goddess she\nhas become![ST:wait ]"
+    },
+    {
+      "$id": 64,
+      "label": "tev010901_MSG1027",
+      "style": 1,
+      "name": "I must find a way to express the depth of my gratitude\nto the engineering team that made this feat possible.[ST:wait ]"
+    },
+    {
+      "$id": 65,
+      "label": "tev010901_MSG1028",
+      "style": 1,
+      "name": "Let us flap our steel wings and soar through the skies\ntogether—for now we BLADEs know true freedom![ST:wait ]"
+    },
+    {
+      "$id": 66,
+      "label": "tev010901_MSG0064",
+      "style": 1,
+      "name": "The goddess of beauty has sent me a goddess of love\nfrom the heavens above.[ST:wait ]"
+    },
+    {
+      "$id": 67,
+      "label": "tev010901_MSG0065",
+      "style": 1,
+      "name": "She brought me the final parts I needed for my\nbeloved Aphrodite. This is clearly destiny![ST:wait ]"
+    },
+    {
+      "$id": 68,
+      "label": "tev010901_MSG0066",
+      "style": 1,
+      "name": "Oh, how I love you, Dana! You are my true Aphrodite![ST:wait ]"
+    },
+    {
+      "$id": 69,
+      "label": "tev010901_MSG0067",
+      "style": 1,
+      "name": "Thank you, goddess of beauty!\nI will love her for all time![ST:wait ]"
+    },
+    {
+      "$id": 70,
+      "label": "tev010901_MSG0068",
+      "style": 1,
+      "name": "You, listen to me! I have been the victim of a cruel\nprank played by that woman, Dana![ST:wait ]"
+    },
+    {
+      "$id": 71,
+      "label": "tev010901_MSG0069",
+      "style": 1,
+      "name": "I opened what I had been told would be a love letter\nfrom her, but out of the envelope popped two red\nthallus antennae![ST:wait ]"
+    },
+    {
+      "$id": 72,
+      "label": "tev010901_MSG0070",
+      "style": 1,
+      "name": "The mere memory brings the bile to my throat!\nWhy would that woman do such a thing?\nIs she a demon in the service of Beelzebub?[ST:wait ]"
+    },
+    {
+      "$id": 73,
+      "label": "tev010901_MSG0071",
+      "style": 1,
+      "name": "And here I thought the gods had created all women\nto love me...[ST:wait ]"
+    },
+    {
+      "$id": 74,
+      "label": "tev010901_MSG0072",
+      "style": 1,
+      "name": "Well then. Apparently even the gods make mistakes.[ST:wait ]"
+    }
+  ]
+}

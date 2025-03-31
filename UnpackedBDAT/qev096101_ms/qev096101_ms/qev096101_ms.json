@@ -1,0 +1,396 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev096101_MSG0001",
+      "style": 1,
+      "name": "Hey there. Are you settling in all right?\nGetting used to life as a BLADE?[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev096101_JNK0010",
+      "style": 4,
+      "name": "Confirm"
+    },
+    {
+      "$id": 3,
+      "label": "qev096101_SEL0011",
+      "style": 3,
+      "name": "Say that it is second nature to you now."
+    },
+    {
+      "$id": 4,
+      "label": "qev096101_JNK0020",
+      "style": 4,
+      "name": "Deny"
+    },
+    {
+      "$id": 5,
+      "label": "qev096101_SEL0021",
+      "style": 3,
+      "name": "Say that things are still a bit unfamiliar."
+    },
+    {
+      "$id": 6,
+      "label": "qev096101_JNK0030",
+      "style": 4,
+      "name": "Complain"
+    },
+    {
+      "$id": 7,
+      "label": "qev096101_SEL0031",
+      "style": 3,
+      "name": "Gripe about how Elma is too harsh."
+    },
+    {
+      "$id": 8,
+      "label": "qev096101_MSG0002",
+      "style": 1,
+      "name": "Excellent. Glad to hear it.[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev096101_MSG0003",
+      "style": 1,
+      "name": "I know you've been through the damn wringer lately,\nbut you're still doing good work.[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev096101_MSG0004",
+      "style": 1,
+      "name": "Only natural, I suppose.[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev096101_MSG0005",
+      "style": 1,
+      "name": "For some, it's an indigen attack that does them in.\nFor others, it's the slow grind of tough missions that\neventually wears 'em down.[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev096101_MSG0006",
+      "style": 1,
+      "name": "You're tough, though. Adaptable. You're doing well.[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev096101_MSG0007",
+      "style": 1,
+      "name": "Gya hah hah![ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev096101_MSG0008",
+      "style": 1,
+      "name": "Glad to hear you and the boss are getting along.[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev096101_MSG0009",
+      "style": 1,
+      "name": "I'll take it that means you're well used to BLADE work,\nas well as life on Mira.[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev096101_MSG0010",
+      "style": 1,
+      "name": "Anything to ask me about? Any worries or requests?[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev096101_MSG0011",
+      "style": 1,
+      "name": "No need to hold back—I'm in a good mood today,\nso your head will probably stay on your shoulders.[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev096101_MSG0012",
+      "style": 1,
+      "name": "It's only natural for a commander to want to keep tabs\non his people, right?[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev096101_MSG0013",
+      "style": 1,
+      "name": "So come on! Lay it on me![ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev096101_JNK0040",
+      "style": 4,
+      "name": "Talk about Pay"
+    },
+    {
+      "$id": 21,
+      "label": "qev096101_SEL0041",
+      "style": 3,
+      "name": "Ask Vandham to double the\nreward for your next mission."
+    },
+    {
+      "$id": 22,
+      "label": "qev096101_JNK0050",
+      "style": 4,
+      "name": "Talk about Skells"
+    },
+    {
+      "$id": 23,
+      "label": "qev096101_SEL0051",
+      "style": 3,
+      "name": "Say that you would like to pilot a Skell."
+    },
+    {
+      "$id": 24,
+      "label": "qev096101_JNK0060",
+      "style": 4,
+      "name": "Nod"
+    },
+    {
+      "$id": 25,
+      "label": "qev096101_SEL0061",
+      "style": 3,
+      "name": "Say that you are satisfied with the current situation."
+    },
+    {
+      "$id": 26,
+      "label": "qev096101_MSG0014",
+      "style": 1,
+      "name": "You got it.[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev096101_MSG0015",
+      "style": 1,
+      "name": "Pay doubled. Done.[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev096101_MSG0016",
+      "style": 1,
+      "name": "You realize this means I'm sending you on a mission\nthat's twice as dangerous, right?[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev096101_MSG0017",
+      "style": 1,
+      "name": "Gyaaaa hah hah hah![ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev096101_MSG0018",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 31,
+      "label": "qev096101_MSG0019",
+      "style": 1,
+      "name": ".....[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev096101_MSG0020",
+      "style": 1,
+      "name": "That was a joke.[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev096101_MSG0021",
+      "style": 1,
+      "name": "But seriously, what's with the dollar signs in your eyes?\nYou saving up to buy a new Skell or something?[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev096101_MSG0022",
+      "style": 1,
+      "name": "Wait a minute...[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev096101_MSG0023",
+      "style": 1,
+      "name": "You don't even have an old Skell.[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev096101_MSG0024",
+      "style": 1,
+      "name": "Hell, you don't even have a Skell LICENSE![ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev096101_MSG0025",
+      "style": 1,
+      "name": "Whoops. Sorry about that. Oversight on my part.[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev096101_MSG0026",
+      "style": 1,
+      "name": "Put someone with your skills behind the wheel of a\nSkell, and you'd be a force of nature.[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "qev096101_MSG0027",
+      "style": 1,
+      "name": "I should've put you in line to get your Skell license\nfirst thing.[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "qev096101_MSG0028",
+      "style": 1,
+      "name": "Better to have it than not, right? So let's hurry up and\nget you cleared to pilot.[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "qev096101_MSG0029",
+      "style": 1,
+      "name": "Oh yeah?[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "qev096101_MSG0030",
+      "style": 1,
+      "name": "That's right, I forgot you didn't have one.[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "qev096101_MSG0031",
+      "style": 1,
+      "name": "Wait, you don't even have a Skell LICENSE, do you?[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "qev096101_MSG0032",
+      "style": 1,
+      "name": "Whoops. Sorry about that. Oversight on my part.[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "qev096101_MSG0033",
+      "style": 1,
+      "name": "You need a license to pilot a Skell, see?[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "qev096101_MSG0034",
+      "style": 1,
+      "name": "We only issue 'em to BLADEs with a proven track\nrecord. That way we know they have the skill to make\nuse of them.[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "qev096101_MSG0035",
+      "style": 1,
+      "name": "Given your track record, I'm tempted to issue you one\nright now, but it ain't standard operating procedure.\nWouldn't be fair to the others, you know?[ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "qev096101_MSG0036",
+      "style": 1,
+      "name": "But clear the license exam, and it's all yours.[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "qev096101_MSG0037",
+      "style": 1,
+      "name": "Gya hah hah!\nYou're a real cheap date, [ST:playername ]![ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "qev096101_MSG0038",
+      "style": 1,
+      "name": "But seriously, speak up. And don't say you're filing a\nharassment complaint about the \"cheap date\" thing,\nbecause it was a goddamn joke.[ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "qev096101_MSG0039",
+      "style": 1,
+      "name": "These are dangerous missions. People die.[ST:wait ]"
+    },
+    {
+      "$id": 52,
+      "label": "qev096101_MSG0040",
+      "style": 1,
+      "name": "If you're feeling even a bit distracted or dissatisfied—\nor if we're somehow not giving you what you need—\nyou could end up hurt or dead.[ST:wait ]"
+    },
+    {
+      "$id": 53,
+      "label": "qev096101_MSG0041",
+      "style": 1,
+      "name": "Even a Skell can only protect you from so much.[ST:wait ]"
+    },
+    {
+      "$id": 54,
+      "label": "qev096101_MSG0042",
+      "style": 1,
+      "name": "...Actually, wait. You don't have a Skell yet, do you?[ST:wait ]"
+    },
+    {
+      "$id": 55,
+      "label": "qev096101_MSG0043",
+      "style": 1,
+      "name": "Wait, you don't even have a LICENSE yet![ST:wait ]"
+    },
+    {
+      "$id": 56,
+      "label": "qev096101_MSG0044",
+      "style": 1,
+      "name": "Whoops. Sorry about that. Oversight on my part.[ST:wait ]"
+    },
+    {
+      "$id": 57,
+      "label": "qev096101_MSG0045",
+      "style": 1,
+      "name": "Put someone with your skills behind the wheel of a\nSkell, and you'd be a force of nature.[ST:wait ]"
+    },
+    {
+      "$id": 58,
+      "label": "qev096101_MSG0046",
+      "style": 1,
+      "name": "I should've put you in line to get your Skell license\nfirst thing.[ST:wait ]"
+    },
+    {
+      "$id": 59,
+      "label": "qev096101_MSG0047",
+      "style": 1,
+      "name": "Better to have it than not, right? So let's hurry up and\nget you cleared to pilot.[ST:wait ]"
+    },
+    {
+      "$id": 60,
+      "label": "qev096101_MSG0048",
+      "style": 1,
+      "name": "Once you get your eight certifications done,\ngo tell Walter in the hangars.[ST:wait ]"
+    },
+    {
+      "$id": 61,
+      "label": "qev096101_MSG0049",
+      "style": 1,
+      "name": "Then once you pass the final exam, you'll officially be a\nSkell pilot. Pretty exciting, yeah? Ha! Sure it is.[ST:wait ]"
+    },
+    {
+      "$id": 62,
+      "label": "qev096101_MSG0050",
+      "style": 1,
+      "name": "But getting you in a Skell will be good news for us\nBLADEs, too.[ST:wait ]"
+    },
+    {
+      "$id": 63,
+      "label": "qev096101_MSG0051",
+      "style": 1,
+      "name": "I've got high hopes for you. Good luck![ST:wait ]"
+    }
+  ]
+}

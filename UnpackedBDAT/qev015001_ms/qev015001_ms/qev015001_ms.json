@@ -1,0 +1,630 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev015001_MSG0001",
+      "style": 1,
+      "name": "Say, you're [ST:playername ], right? Nice!\nMy name's Dirk, and I'm out here on an\nassignment for the Harriers.[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev015001_MSG0002",
+      "style": 1,
+      "name": "I was just talking with the guys back at base about the\ncrazy new rookie working with Elma. I was hoping\nwe'd get a chance to talk someday![ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev015001_MSG0003",
+      "style": 1,
+      "name": "You guys have been cutting through the Ganglion like a\nhot knife through butter. What's the secret? You cook\nup genius plans before heading into battle or what?[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev015001_JNK0010",
+      "style": 4,
+      "name": "Confirm"
+    },
+    {
+      "$id": 5,
+      "label": "qev015001_SEL0011",
+      "style": 3,
+      "name": "Boast about the wide range of clever tactics you use."
+    },
+    {
+      "$id": 6,
+      "label": "qev015001_JNK0020",
+      "style": 4,
+      "name": "Correct"
+    },
+    {
+      "$id": 7,
+      "label": "qev015001_SEL0021",
+      "style": 3,
+      "name": "Tell Dirk that brute force is the only way to go."
+    },
+    {
+      "$id": 8,
+      "label": "qev015001_MSG0004",
+      "style": 1,
+      "name": "I'd love to hear your stories sometime. I'm a sniper\nmyself, so sneaky is pretty much my whole game.[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev015001_MSG0005",
+      "style": 1,
+      "name": "Against the things crawling around on Mira? Yeesh!\nHow much brute force does it take to pull THAT off?[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev015001_MSG0006",
+      "style": 1,
+      "name": "Hey, so are you free right now?[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev015001_MSG0007",
+      "style": 1,
+      "name": "Me and the rest of Team Jaeger are supposed to hunt\ndown critters in Sylvalum for materials.[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev015001_MSG0008",
+      "style": 1,
+      "name": "If you aren't doing anything else, maybe you'd like\nto come along?[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev015001_MSG0009",
+      "style": 1,
+      "name": "I just really want to watch you work.\nWould that be okay?[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev015001_MSG0010",
+      "style": 1,
+      "name": "Aw, nice! I'll be honest, this is my first time here,\nand I was feeling pretty nervous until now.[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev015001_MSG0011",
+      "style": 1,
+      "name": "Er, you don't mind, do you, Adelbert?\nThe list of materials we're after is pretty long this time.[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev015001_MSG0012",
+      "style": 1,
+      "name": "Fine by me. I'll take any help I can get.[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev015001_MSG0014",
+      "style": 1,
+      "name": "This area's teeming with dangerous indigens,\nand there are Ganglion forces around to boot.[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev015001_MSG0015",
+      "style": 1,
+      "name": "Frankly, I was worried about getting my work done\nwhile having to babysit the rookie.[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev015001_MSG0016",
+      "style": 1,
+      "name": "Hey! I've seen a few battles![ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev015001_MSG0017",
+      "style": 1,
+      "name": "Bah! I'll show them! This hunt is my chance to prove to\nPhina and Grette how far I've come![ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev015001_JNK0030",
+      "style": 4,
+      "name": "Caution"
+    },
+    {
+      "$id": 22,
+      "label": "qev015001_SEL0031",
+      "style": 3,
+      "name": "Tell Dirk to take it slow and careful."
+    },
+    {
+      "$id": 23,
+      "label": "qev015001_JNK0040",
+      "style": 4,
+      "name": "Encourage"
+    },
+    {
+      "$id": 24,
+      "label": "qev015001_SEL0041",
+      "style": 3,
+      "name": "Tell Dirk it'll be a piece of cake."
+    },
+    {
+      "$id": 25,
+      "label": "qev015001_MSG0018",
+      "style": 1,
+      "name": "Aw, not you too![ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev015001_MSG0019",
+      "style": 1,
+      "name": "Fine then. I'll just have to bag a big one and PROVE\nthat I'm no rookie![ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev015001_MSG0020",
+      "style": 1,
+      "name": "Thanks! I'm sure we'll bag a big one.[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev015001_MSG0021",
+      "style": 1,
+      "name": "I look forward to that when—and if—it happens, Rook.\nNow let's get this hunt started![ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev015001_MSG0022",
+      "style": 1,
+      "name": "Phina! Grette! I need a favor![ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev015001_MSG0023",
+      "style": 1,
+      "name": "We'll start the hunt here. But I need you to head to the\nbase and gather information on the materials we're\nlooking for.[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev015001_MSG0024",
+      "style": 1,
+      "name": "You think you can give me orders?\nAnd boring orders, no less?[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev015001_MSG0025",
+      "style": 1,
+      "name": "Whoa, easy! Backup's still an important role!\n...And besides, there's half an ice-cream cake left in\nthe freezer. We can eat it when we go back.[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev015001_MSG0026",
+      "style": 1,
+      "name": "Ice-cream cake? ...Yeah, all right. I'm sold.\nBut you owe Phina for this one, Adelbert![ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev015001_MSG0027",
+      "style": 1,
+      "name": "I'll keep that in mind. ...All right, let's secure the area.\nHunt down any intara monoceroses you find.[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev015001_MSG0028",
+      "style": 1,
+      "name": "How about a little race, [ST:playername ]?\nIf what I've heard about you is true,\nyou should have no trouble beating me![ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev015001_JNK0050",
+      "style": 4,
+      "name": "Accept"
+    },
+    {
+      "$id": 37,
+      "label": "qev015001_SEL0051",
+      "style": 3,
+      "name": "Take Adelbert's challenge."
+    },
+    {
+      "$id": 38,
+      "label": "qev015001_JNK0060",
+      "style": 4,
+      "name": "Scold"
+    },
+    {
+      "$id": 39,
+      "label": "qev015001_SEL0061",
+      "style": 3,
+      "name": "Tell Adelbert to take his work more seriously."
+    },
+    {
+      "$id": 40,
+      "label": "qev015001_MSG0029",
+      "style": 1,
+      "name": "Hah! I like your style![ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "qev015001_MSG0030",
+      "style": 1,
+      "name": "All right, I'm ready to do some damage!\nLet the games begin![ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "qev015001_MSG0031",
+      "style": 1,
+      "name": "Huh? Y-yeah, that's true, but this is just...[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "qev015001_MSG0032",
+      "style": 1,
+      "name": "Ha ha! Adelbert's always the one cracking the whip,\nbut right now he looks like a kid with his hand caught\nin the cookie jar![ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "qev015001_MSG0033",
+      "style": 1,
+      "name": "We'll see who's in trouble later, Rook!\n...Now, enough talk. Let's hunt![ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "qev015001_MSG0034",
+      "style": 1,
+      "name": "Stay on your toes, everyone! We're the only humans\nout here, and I don't want any accidents.[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "qev015001_MSG0035",
+      "style": 1,
+      "name": "Phina and Grette are back in the tent gathering info.[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "qev015001_MSG0036",
+      "style": 1,
+      "name": "Our job is to secure the area by clearing out all the\nintara monoceroses.[ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "qev015001_MSG0039",
+      "style": 1,
+      "name": "Hmm? Did I just...hear something?[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "qev015001_JNK0070",
+      "style": 4,
+      "name": "Dismiss"
+    },
+    {
+      "$id": 50,
+      "label": "qev015001_SEL0071",
+      "style": 3,
+      "name": "Tell Dirk it was nothing."
+    },
+    {
+      "$id": 51,
+      "label": "qev015001_JNK0080",
+      "style": 4,
+      "name": "Confirm"
+    },
+    {
+      "$id": 52,
+      "label": "qev015001_SEL0081",
+      "style": 3,
+      "name": "Tell Dirk to stay alert."
+    },
+    {
+      "$id": 53,
+      "label": "qev015001_MSG0040",
+      "style": 1,
+      "name": "Phew! If you say so, I'm sure it's true.[ST:wait ]"
+    },
+    {
+      "$id": 54,
+      "label": "qev015001_MSG0041",
+      "style": 1,
+      "name": "Heh, I guess hunting in unfamiliar territory still has me\na bit spooked.[ST:wait ]"
+    },
+    {
+      "$id": 55,
+      "label": "qev015001_MSG0042",
+      "style": 1,
+      "name": "It's weird. It wasn't like I heard it so much as...\nI don't know. Felt it, I guess?[ST:wait ]"
+    },
+    {
+      "$id": 56,
+      "label": "qev015001_MSG0043",
+      "style": 1,
+      "name": "We'd better stay ready for anything.[ST:wait ]"
+    },
+    {
+      "$id": 57,
+      "label": "qev015001_MSG0044",
+      "style": 1,
+      "name": "Adelbert... Oh no... What am I supposed to do?![ST:wait ]"
+    },
+    {
+      "$id": 58,
+      "label": "qev015001_MSG0045",
+      "style": 1,
+      "name": "Oh! It's you! I'm sorry! I'm sorry—what should I do?!\nIf I don't do something, they'll kill them![ST:wait ]"
+    },
+    {
+      "$id": 59,
+      "label": "qev015001_JNK0090",
+      "style": 4,
+      "name": "Inquire"
+    },
+    {
+      "$id": 60,
+      "label": "qev015001_SEL0091",
+      "style": 3,
+      "name": "Ask Dirk what happened."
+    },
+    {
+      "$id": 61,
+      "label": "qev015001_JNK0100",
+      "style": 4,
+      "name": "Calm"
+    },
+    {
+      "$id": 62,
+      "label": "qev015001_SEL0101",
+      "style": 3,
+      "name": "Tell Dirk to calm down."
+    },
+    {
+      "$id": 63,
+      "label": "qev015001_MSG0046",
+      "style": 1,
+      "name": "R-right. Sorry...[ST:wait ]"
+    },
+    {
+      "$id": 64,
+      "label": "qev015001_MSG0047",
+      "style": 1,
+      "name": "Calm...? R-right. Sorry.[ST:wait ]"
+    },
+    {
+      "$id": 65,
+      "label": "qev015001_MSG0048",
+      "style": 1,
+      "name": "Adelbert got back, so we were eating dinner here.[ST:wait ]"
+    },
+    {
+      "$id": 66,
+      "label": "qev015001_MSG0049",
+      "style": 1,
+      "name": "Then a whole army of those Prone guys came and...[ST:wait ]"
+    },
+    {
+      "$id": 67,
+      "label": "qev015001_MSG0050",
+      "style": 1,
+      "name": "And they...[ST:wait ]"
+    },
+    {
+      "$id": 68,
+      "label": "qev015001_MSG0051",
+      "style": 1,
+      "name": "They killed him! They killed Adelbert! He was trying to\nshield Grette. He rushed them, but they...[ST:wait ]"
+    },
+    {
+      "$id": 69,
+      "label": "qev015001_MSG0052",
+      "style": 1,
+      "name": "Then they stuffed Grette and Phina into sacks and took\nthem away! They fought like hell, but it didn't matter![ST:wait ]"
+    },
+    {
+      "$id": 70,
+      "label": "qev015001_MSG0053",
+      "style": 1,
+      "name": "Please, you have to save them.[ST:wait ]"
+    },
+    {
+      "$id": 71,
+      "label": "qev015001_MSG0054",
+      "style": 1,
+      "name": "They were headed to the northwest.\nThere's a cave there—that's got to be their hideout.[ST:wait ]"
+    },
+    {
+      "$id": 72,
+      "label": "qev015001_MSG0055",
+      "style": 1,
+      "name": "I just... I hid in the tent. I watched Adelbert die.\n...Watched the Prone capture the others.[ST:wait ]"
+    },
+    {
+      "$id": 73,
+      "label": "qev015001_MSG0056",
+      "style": 1,
+      "name": "I just...watched. It was all so overwhelming.\nMy body wouldn't move.[ST:wait ]"
+    },
+    {
+      "$id": 74,
+      "label": "qev015001_MSG0057",
+      "style": 1,
+      "name": "Please. Help Grette and Phina.[ST:wait ]"
+    },
+    {
+      "$id": 75,
+      "label": "qev015001_MSG0058",
+      "style": 1,
+      "name": "The Prone who attacked us headed to the northwest.\nThere's a cave there—that's got to be their hideout.[ST:wait ]"
+    },
+    {
+      "$id": 76,
+      "label": "qev015001_MSG0059",
+      "style": 1,
+      "name": "...Phina told me everything.[ST:wait ]"
+    },
+    {
+      "$id": 77,
+      "label": "qev015001_MSG0060",
+      "style": 1,
+      "name": "What happened to Grette was...\nI still can't even process it.[ST:wait ]"
+    },
+    {
+      "$id": 78,
+      "label": "qev015001_MSG0061",
+      "style": 1,
+      "name": "But even just Phina surviving is a miracle.[ST:wait ]"
+    },
+    {
+      "$id": 79,
+      "label": "qev015001_MSG0062",
+      "style": 1,
+      "name": "That never could have happened if not for you.\nSo thank you.[ST:wait ]"
+    },
+    {
+      "$id": 80,
+      "label": "qev015001_JNK0110",
+      "style": 4,
+      "name": "Inquire"
+    },
+    {
+      "$id": 81,
+      "label": "qev015001_SEL0111",
+      "style": 3,
+      "name": "Ask where Phina is now."
+    },
+    {
+      "$id": 82,
+      "label": "qev015001_JNK0120",
+      "style": 4,
+      "name": "Apologize"
+    },
+    {
+      "$id": 83,
+      "label": "qev015001_SEL0121",
+      "style": 3,
+      "name": "Express regret for not saving Grette."
+    },
+    {
+      "$id": 84,
+      "label": "qev015001_MSG0063",
+      "style": 1,
+      "name": "In the tent, asleep. She had to turn off feedback from\nher nerve circuits.[ST:wait ]"
+    },
+    {
+      "$id": 85,
+      "label": "qev015001_MSG0064",
+      "style": 1,
+      "name": "The slightest noise had her shaking and screaming.\nShe kept saying \"The Prone! The Prone!\" over and over.[ST:wait ]"
+    },
+    {
+      "$id": 86,
+      "label": "qev015001_MSG0065",
+      "style": 1,
+      "name": "Not that I can blame her...[ST:wait ]"
+    },
+    {
+      "$id": 87,
+      "label": "qev015001_MSG0066",
+      "style": 1,
+      "name": "She saw Grette's... She saw everything.[ST:wait ]"
+    },
+    {
+      "$id": 88,
+      "label": "qev015001_MSG0067",
+      "style": 1,
+      "name": "Phina kept bawling apologies to Grette until she finally\ncried herself to sleep.[ST:wait ]"
+    },
+    {
+      "$id": 89,
+      "label": "qev015001_MSG0068",
+      "style": 1,
+      "name": "The only one who should be apologizing is me.\nI was a coward who stood by and did nothing.[ST:wait ]"
+    },
+    {
+      "$id": 90,
+      "label": "qev015001_MSG0069",
+      "style": 1,
+      "name": "......[ST:wait ]"
+    },
+    {
+      "$id": 91,
+      "label": "qev015001_MSG0070",
+      "style": 1,
+      "name": "I'll take Phina and head back to the city.[ST:wait ]"
+    },
+    {
+      "$id": 92,
+      "label": "qev015001_MSG0071",
+      "style": 1,
+      "name": "I'm not leaving her side until she recovers.[ST:wait ]"
+    },
+    {
+      "$id": 93,
+      "label": "qev015001_MSG0072",
+      "style": 1,
+      "name": "No matter how long it takes![ST:wait ]"
+    },
+    {
+      "$id": 94,
+      "label": "qev015001_MSG0073",
+      "style": 1,
+      "name": "It's the only way I can atone for letting my fear stop\nme from helping Adelbert and Grette.[ST:wait ]"
+    },
+    {
+      "$id": 95,
+      "label": "qev015001_JNK0130",
+      "style": 4,
+      "name": "Support"
+    },
+    {
+      "$id": 96,
+      "label": "qev015001_SEL0131",
+      "style": 3,
+      "name": "Nod and say that's what they would want."
+    },
+    {
+      "$id": 97,
+      "label": "qev015001_JNK0140",
+      "style": 4,
+      "name": "Lecture"
+    },
+    {
+      "$id": 98,
+      "label": "qev015001_SEL0141",
+      "style": 3,
+      "name": "Chastise him for using Phina to alleviate his own guilt."
+    },
+    {
+      "$id": 99,
+      "label": "qev015001_MSG0074",
+      "style": 1,
+      "name": "You're like a saint. I hope I can find that kind of mercy\nand love in myself. Phina is going to need it.[ST:wait ]"
+    },
+    {
+      "$id": 100,
+      "label": "qev015001_MSG0075",
+      "style": 1,
+      "name": "...You're right. So I'll just have to make sure I'm helping\nher for the right reasons. She deserves that much.[ST:wait ]"
+    },
+    {
+      "$id": 101,
+      "label": "qev015001_MSG0076",
+      "style": 1,
+      "name": "We may never work as BLADEs again,\nbut I hope you'll continue to grow strong.[ST:wait ]"
+    },
+    {
+      "$id": 102,
+      "label": "qev015001_MSG0077",
+      "style": 1,
+      "name": "Here. I know it isn't much, but maybe it will be enough\nto help you save someone else.[ST:wait ]"
+    }
+  ]
+}

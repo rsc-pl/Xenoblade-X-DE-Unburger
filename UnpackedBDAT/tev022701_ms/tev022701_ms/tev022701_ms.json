@@ -1,0 +1,336 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev022701_JNK0010",
+      "style": 4,
+      "name": "Inquire"
+    },
+    {
+      "$id": 2,
+      "label": "tev022701_SEL0011",
+      "style": 3,
+      "name": "Ask Lucy about Armory Alley."
+    },
+    {
+      "$id": 3,
+      "label": "tev022701_JNK0020",
+      "style": 4,
+      "name": "Discuss"
+    },
+    {
+      "$id": 4,
+      "label": "tev022701_SEL0021",
+      "style": 3,
+      "name": "Ask Lucy if she's heard any interesting rumors."
+    },
+    {
+      "$id": 5,
+      "label": "tev022701_SEL0031",
+      "style": 3,
+      "name": "Ask Lucy if you can pilot a Skell right now."
+    },
+    {
+      "$id": 6,
+      "label": "tev022701_SEL0051",
+      "style": 3,
+      "name": "Ask Lucy about Ganglion weaponry."
+    },
+    {
+      "$id": 7,
+      "label": "tev022701_SEL0071",
+      "style": 3,
+      "name": "Ask Lucy about the special properties of Skells."
+    },
+    {
+      "$id": 8,
+      "label": "tev022701_SEL0091",
+      "style": 3,
+      "name": "Ask Lucy about Ganglion weaponry."
+    },
+    {
+      "$id": 9,
+      "label": "tev022701_SEL1021",
+      "style": 3,
+      "name": "Ask Lucy if she has any interesting news."
+    },
+    {
+      "$id": 10,
+      "label": "tev022701_SEL0111",
+      "style": 3,
+      "name": "Ask Lucy about the Prog Ares."
+    },
+    {
+      "$id": 11,
+      "label": "tev022701_SEL3021",
+      "style": 3,
+      "name": "Ask Lucy about recent developments."
+    },
+    {
+      "$id": 12,
+      "label": "tev022701_MSG0001",
+      "style": 1,
+      "name": "Have you been to Armory Alley in the\nadministrative district?[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "tev022701_MSG0002",
+      "style": 1,
+      "name": "You can buy ground gear from a variety of\nmanufacturers down there.[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "tev022701_MSG0003",
+      "style": 1,
+      "name": "Heck, you could even purchase a brand-new Skell from\nSakuraba Industries if you had the credits![ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "tev022701_MSG0004",
+      "style": 1,
+      "name": "You can also buy equipment that I helped design!\nAlthough I can't tell you what, because it's all covered\nunder an NDA.[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "tev022701_MSG0005",
+      "style": 1,
+      "name": "I just hope, from the bottom of my heart, that the\nproducts I designed will be of some use to you.[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "tev022701_MSG0006",
+      "style": 1,
+      "name": "If you leave through the west gate and follow the\ntrail to the northwest, you'll come across the Biahno\nGrassland base camp, where BLADEs can take shelter.[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "tev022701_MSG0007",
+      "style": 1,
+      "name": "If you continue past that and go through the Green\nThreshold, you'll find yourself on the thickly forested\ncontinent known as Noctilum.[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "tev022701_MSG0008",
+      "style": 1,
+      "name": "The terrain within Noctilum is extremely complex,\nso I've heard that lots of BLADEs have gotten lost\nthere.[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "tev022701_MSG0009",
+      "style": 1,
+      "name": "If you have business in Noctilum, please be careful![ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "tev022701_MSG0014",
+      "style": 1,
+      "name": "New LA's production system isn't able to build Skells as\nquickly as we'd like.[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "tev022701_MSG0015",
+      "style": 1,
+      "name": "So we aren't able to furnish Skells to new BLADE\nrecruits like yourself.[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "tev022701_MSG0016",
+      "style": 1,
+      "name": "As a result, we've established a system that restricts\nSkell ownership only to those who've earned a Skell\npilot's license.[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "tev022701_MSG0017",
+      "style": 1,
+      "name": "But I'm confident that with a lot of research and hard\nwork, one day we'll be able to mass-produce Skells\nhere on Mira. So please bear with us.[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "tev022701_MSG0021",
+      "style": 1,
+      "name": "I've been briefed about the \"Goetia\" xenoform that was\nencountered in Noctilum.[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "tev022701_MSG0022",
+      "style": 1,
+      "name": "Apparently she attacked our BLADEs with some sort\nof energy weapon.[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "tev022701_MSG0023",
+      "style": 1,
+      "name": "None of the equipment we've developed is able to\nwithstand an attack like that.[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "tev022701_MSG0024",
+      "style": 1,
+      "name": "We need to design some new equipment with special\nenergy-beam-resistant coatings as soon as possible![ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "tev022701_MSG0025",
+      "style": 1,
+      "name": "We researchers will do all that we can here.\nBut you can contribute by gathering as many new\nschematics as you can find.[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "tev022701_MSG0030",
+      "style": 1,
+      "name": "Needless to say, a Skell's incredible mobility is its\nmost potent weapon.[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "tev022701_MSG0031",
+      "style": 1,
+      "name": "But the destructive power of the weaponry mounted on\nSkells should not be underestimated.[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "tev022701_MSG0032",
+      "style": 1,
+      "name": "For the generators that power Skells also facilitate a\nvariety of high-firepower weapons systems.[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "tev022701_MSG0033",
+      "style": 1,
+      "name": "I hear there are some tyrants so tough they can't even\nbe scratched with conventional weapons.[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "tev022701_MSG0034",
+      "style": 1,
+      "name": "However, the weaponry available to Skells can punch\nright through their armor.[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "tev022701_MSG0039",
+      "style": 1,
+      "name": "As laboratory researchers, we rarely have the\nopportunity to see Ganglion machinery in motion.[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "tev022701_MSG0040",
+      "style": 1,
+      "name": "During the attack, it was quite exciting to be able to\nsee the invading Ganglion war machines over our\nmonitors![ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "tev022701_MSG0041",
+      "style": 1,
+      "name": "They were so powerful, and so mobile!\nWith tech like that, it's no wonder they\nwere able to obliterate Earth so easily.[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "tev022701_MSG0042",
+      "style": 1,
+      "name": "Now I understand why the developers at Meredith &\nCo. were so excited to reverse-engineer their weaponry.[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "tev022701_MSG0047",
+      "style": 1,
+      "name": "They say the machine Lao stole was still under\ndevelopment, but it already seems to possess an\nimpressive amount of power.[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "tev022701_MSG0048",
+      "style": 1,
+      "name": "All of us engineers at the arms manufacturers would\nlove to get a look at the tech behind the Ares model\non which it's based.[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "tev022701_MSG0049",
+      "style": 1,
+      "name": "We've petitioned BLADE HQ to provide us the info,\nbut so far, no dice.[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "tev022701_MSG0050",
+      "style": 1,
+      "name": "They've turned down every single request.[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "tev022701_MSG0051",
+      "style": 1,
+      "name": "There must be something about the machine on which\nit's based that makes it different from all the other\nweapons BLADE possesses.[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "tev022701_MSG1001",
+      "style": 1,
+      "name": "Someone left a stuffed lobster doll on the road that runs\nalong the wall outside the Outfitters test hangar.[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "tev022701_MSG1002",
+      "style": 1,
+      "name": "What were they thinking? Why would someone leave\na stuffed toy in a place like that?[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "tev022701_MSG2001",
+      "style": 1,
+      "name": "Lyvia is a really sweet person. She always listens so\nintently when I'm telling one of my boring stories.[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "tev022701_MSG2002",
+      "style": 1,
+      "name": "I can't really fall in love with her, since I'm not exactly\nwired that way...[ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "tev022701_MSG2003",
+      "style": 1,
+      "name": "But if we could become friends, I'd really like that.[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "tev022701_MSG3001",
+      "style": 1,
+      "name": "Apparently a Mediator named Justin was linked to the\nDefinians, and also giving weapons and funds to a\nbunch of criminals.[ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "tev022701_MSG3002",
+      "style": 1,
+      "name": "A lot of strange things have happened since we arrived\non this planet.[ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "tev022701_MSG3003",
+      "style": 1,
+      "name": "It makes me wonder if he was the one directing\nsome of those situations from behind the scenes.[ST:wait ]"
+    },
+    {
+      "$id": 52,
+      "label": "tev022701_MSG3004",
+      "style": 1,
+      "name": "But I guess we'll never know the truth now.[ST:wait ]"
+    },
+    {
+      "$id": 53,
+      "label": "tev022701_MSG3005",
+      "style": 1,
+      "name": "At least we found him. We owe a big debt of gratitude\nto the BLADE who figured it out and stopped him.[ST:wait ]"
+    }
+  ]
+}

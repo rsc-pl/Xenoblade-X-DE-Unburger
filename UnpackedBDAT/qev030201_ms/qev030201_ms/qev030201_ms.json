@@ -1,0 +1,144 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev030201_MSG0001",
+      "style": 1,
+      "name": "Hmm? You are not Cavern Clan.[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev030201_MSG0002",
+      "style": 1,
+      "name": "Who are you? Why are you here?[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev030201_JNK0010",
+      "style": 4,
+      "name": "Introduce"
+    },
+    {
+      "$id": 4,
+      "label": "qev030201_SEL0011",
+      "style": 3,
+      "name": "Say that you're a human."
+    },
+    {
+      "$id": 5,
+      "label": "qev030201_JNK0020",
+      "style": 4,
+      "name": "Explain"
+    },
+    {
+      "$id": 6,
+      "label": "qev030201_SEL0021",
+      "style": 3,
+      "name": "Tell Oll that you have come to rescue him."
+    },
+    {
+      "$id": 7,
+      "label": "qev030201_MSG0003",
+      "style": 1,
+      "name": "I see that. But why are you here?[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev030201_MSG0004",
+      "style": 1,
+      "name": "...Chieftain sent you? I am grateful.[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev030201_MSG0005",
+      "style": 1,
+      "name": "...Chieftain sent you? I knew he would help.[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev030201_MSG0006",
+      "style": 1,
+      "name": "This cell's key is held by Cavern clansman called Ajiba\nFalgo. Deal with him and take key.[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev030201_MSG0007",
+      "style": 1,
+      "name": "I count on you. My brother needs help. I must get free.[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev030201_MSG0008",
+      "style": 1,
+      "name": "This cell's key is held by Cavern clansman called Ajiba\nFalgo. Deal with him and take key.[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev030201_MSG0009",
+      "style": 1,
+      "name": "You freed me. Thank you.[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev030201_MSG0010",
+      "style": 1,
+      "name": "Now I can rescue Rada. I will free him even if it costs\nmy life.[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev030201_MSG0011",
+      "style": 1,
+      "name": "...What? You rescued Rada?[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev030201_MSG0012",
+      "style": 1,
+      "name": "Good. Then I must hurry back.[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev030201_MSG0013",
+      "style": 1,
+      "name": "Thank you, [ST:playername ]. You have done\nmuch for us. Soon Rada and I will eat meat again.\nYou must join us.[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev030201_MSG0014",
+      "style": 1,
+      "name": "...What? You will help him?[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev030201_MSG0015",
+      "style": 1,
+      "name": "...Yes. You are right. I was starved in captivity.\nI have little strength.[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev030201_MSG0016",
+      "style": 1,
+      "name": "I leave it to you. My brother is held in this base.[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev030201_MSG0017",
+      "style": 1,
+      "name": "Get him out safe. Be victorious![ST:wait ]"
+    }
+  ]
+}

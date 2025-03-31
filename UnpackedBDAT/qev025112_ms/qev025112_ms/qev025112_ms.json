@@ -1,0 +1,390 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev025112_MSG0001",
+      "style": 1,
+      "name": "You're the one from... Ha! You're late![ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev025112_MSG0002",
+      "style": 1,
+      "name": "And why come running to that Ackwar scum's rescue\nanyway, huh?[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev025112_MSG0003",
+      "style": 1,
+      "name": "Don't ya know what the little monster did?[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev025112_MSG0004",
+      "style": 1,
+      "name": "No. You're like them, ain't ya? Think the customer's\nalways right, which gives you the chance to heap\nabuse on the heads of the working man...[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev025112_MSG0005",
+      "style": 1,
+      "name": "In that case, I sentence you to DEATH![ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev025112_JNK0010",
+      "style": 4,
+      "name": "React Angrily"
+    },
+    {
+      "$id": 7,
+      "label": "qev025112_SEL0011",
+      "style": 3,
+      "name": "Demand that he take back his\nunkind words about Ackwar."
+    },
+    {
+      "$id": 8,
+      "label": "qev025112_JNK0020",
+      "style": 4,
+      "name": "React Calmly"
+    },
+    {
+      "$id": 9,
+      "label": "qev025112_SEL0021",
+      "style": 3,
+      "name": "Ask who is piloting the Skell."
+    },
+    {
+      "$id": 10,
+      "label": "qev025112_MSG0006",
+      "style": 1,
+      "name": "You think that trash deserved to live?[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev025112_MSG0007",
+      "style": 1,
+      "name": "Well what about my WIFE, huh? If not for him,\nshe'd still be alive! What does SHE deserve?![ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev025112_MSG0008",
+      "style": 1,
+      "name": "Forget grenade pizza... I shoulda forced a live grenade\nright down his stinkin' Ma-non throat![ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev025112_MSG0009",
+      "style": 1,
+      "name": "Shoulda chopped him to bits and used him for a\nsecret topping. Would have gone well with my famous\n\"Papa Powell's pizza sauce\"![ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev025112_MSG0010",
+      "style": 1,
+      "name": "You still don't get it? You're as slow as Ackwar![ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev025112_MSG0011",
+      "style": 1,
+      "name": "I'll give you a clue—grenade pizza!\nBlast of salami and cheese straight to the gut?\nFavorite of hateful little Ma-non everywhere?[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev025112_MSG0012",
+      "style": 1,
+      "name": "...Now don't tell me you forgot ol' Powell already?[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev025112_MSG0013",
+      "style": 1,
+      "name": "I figure you're not like those gluttonous freaks who just\neat any old pizza I throw out...[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev025112_MSG0014",
+      "style": 1,
+      "name": "Good thing I had a buddy from my old line of work\nscrounge up a Skell for me![ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev025112_JNK0030",
+      "style": 4,
+      "name": "Ask about Ackwar"
+    },
+    {
+      "$id": 20,
+      "label": "qev025112_SEL0031",
+      "style": 3,
+      "name": "Demand to know what happened to Ackwar."
+    },
+    {
+      "$id": 21,
+      "label": "qev025112_JNK0040",
+      "style": 4,
+      "name": "Ask about Powell"
+    },
+    {
+      "$id": 22,
+      "label": "qev025112_SEL0041",
+      "style": 3,
+      "name": "Question Powell about his past."
+    },
+    {
+      "$id": 23,
+      "label": "qev025112_MSG0015",
+      "style": 1,
+      "name": "My pizzas pack more punch than most.[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev025112_MSG0016",
+      "style": 1,
+      "name": "One bite, and Duduma, Gerome, and Ackwar's woman\nwere all hooked.[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev025112_MSG0017",
+      "style": 1,
+      "name": "And when I called the little idiot, now buried in the\nground over there, and told him I had a clue about\nthe killer, he came a'running...[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev025112_MSG0018",
+      "style": 1,
+      "name": "Just in time to taste the special grenade pizza I'd fixed\nhim! Ah ha ha ha![ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev025112_MSG0019",
+      "style": 1,
+      "name": "Guess he'd been working so hard he forgot to eat.\nHe dove at that pie like a starving dog![ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev025112_MSG0020",
+      "style": 1,
+      "name": "Ha ha ha! Guess your help wasn't enough to keep him\nalive after all![ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev025112_MSG0021",
+      "style": 1,
+      "name": "He'd narrowed it down to poison, but had no clue it\nwas my grenade pizzas that were carrying it![ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev025112_MSG0022",
+      "style": 1,
+      "name": "Hah! I gave all those Ma-non the house special—one\ngrenade pizza with the works as their send-off to hell!\nAnd you don't even wanna know why?[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev025112_MSG0023",
+      "style": 1,
+      "name": "Instead you want a history lesson? Well, never let it be\nsaid that Army Pizza let a customer down.[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev025112_MSG0024",
+      "style": 1,
+      "name": "I was special forces back on Earth. Did every dirty job\nthe army threw my way without whining or complaint.[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev025112_MSG0025",
+      "style": 1,
+      "name": "Like, oh say...drugging diplomats and arranging for a\nlittle fall so it looked like suicide?[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev025112_MSG0026",
+      "style": 1,
+      "name": "Or maybe attaching bombs to POWs to loosen their\ntraitorous tongues?[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev025112_MSG0027",
+      "style": 1,
+      "name": "Hell, I even took an enemy officer's family captive and\nfed 'em to crocodiles once.[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev025112_MSG0028",
+      "style": 1,
+      "name": "So I figured I'd give those Ma-non bastards a taste of\nthe works. It was my final gift to that monster Ackwar\nbefore I put him in the ground.[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev025112_MSG0029",
+      "style": 1,
+      "name": "You got this dumb look on your face, like \"But why?\"\nWell, I'll tell you...[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev025112_MSG0030",
+      "style": 1,
+      "name": "Revenge. Revenge on the bastards who destroyed the\none thing I cared about.[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "qev025112_MSG0031",
+      "style": 1,
+      "name": "The Ma-non aren't people. They're animals!\nRavenous, mindless hyenas![ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "qev025112_MSG0032",
+      "style": 1,
+      "name": "Every day my wife would run around delivering pizzas,\nand every day they'd hound her with complaint after\ncomplaint after complaint...[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "qev025112_MSG0033",
+      "style": 1,
+      "name": "\"This pizza's so so hot! It burned me!\"\nWell, GOOD! Pizza's SUPPOSED to be hot![ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "qev025112_MSG0034",
+      "style": 1,
+      "name": "\"The cheese is too too melty! This is two minutes late,\nisn't it? The slices are not all the exact same size, no?\"\nBlah blah blah SHADDAP ALREADY![ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "qev025112_MSG0035",
+      "style": 1,
+      "name": "Day after day after DAY... One insane complaint after\nthe other... My wife, she...she couldn't take it.\nHer nerves were shot.[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "qev025112_MSG0036",
+      "style": 1,
+      "name": "I could tell she wanted to scream at the SIGHT of\npizza, but still...[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "qev025112_MSG0037",
+      "style": 1,
+      "name": "She'd just put a sad little smile on her face and keep\non delivering those pizzas. For me.[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "qev025112_JNK0050",
+      "style": 4,
+      "name": "Empathize"
+    },
+    {
+      "$id": 47,
+      "label": "qev025112_SEL0051",
+      "style": 3,
+      "name": "Express sympathy for Powell's wife."
+    },
+    {
+      "$id": 48,
+      "label": "qev025112_JNK0060",
+      "style": 4,
+      "name": "Scoff"
+    },
+    {
+      "$id": 49,
+      "label": "qev025112_SEL0061",
+      "style": 3,
+      "name": "Say that's no justification for cold-blooded murder."
+    },
+    {
+      "$id": 50,
+      "label": "qev025112_MSG0038",
+      "style": 1,
+      "name": "You...you mean it? Hell, maybe you ain't like them\nafter all.[ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "qev025112_MSG0039",
+      "style": 1,
+      "name": "But this story keeps going.[ST:wait ]"
+    },
+    {
+      "$id": 52,
+      "label": "qev025112_MSG0040",
+      "style": 1,
+      "name": "Cram it! You don't know! You don't know how this\nstory ENDS![ST:wait ]"
+    },
+    {
+      "$id": 53,
+      "label": "qev025112_MSG0041",
+      "style": 1,
+      "name": "It was pouring that day, but she just put that smile on\nher face and headed out. And that's when Ackwar hit\nher with the final complaint.[ST:wait ]"
+    },
+    {
+      "$id": 54,
+      "label": "qev025112_MSG0042",
+      "style": 1,
+      "name": "\"The salami is not evenly distributed among the\nslices, is it?\" he said. \"Replace it at once.\"[ST:wait ]"
+    },
+    {
+      "$id": 55,
+      "label": "qev025112_MSG0043",
+      "style": 1,
+      "name": "That whiny little monster pushed her over the edge![ST:wait ]"
+    },
+    {
+      "$id": 56,
+      "label": "qev025112_MSG0044",
+      "style": 1,
+      "name": "Is a little salami worth more than a human life? Huh?\nWELL IS IT?![ST:wait ]"
+    },
+    {
+      "$id": 57,
+      "label": "qev025112_MSG0045",
+      "style": 1,
+      "name": "She couldn't take it any more, so on her way home,\nshe...she killed herself.[ST:wait ]"
+    },
+    {
+      "$id": 58,
+      "label": "qev025112_MSG0046",
+      "style": 1,
+      "name": "But I know it was really Ackwar who pulled the trigger.\nHe and those other animals backed her into a corner![ST:wait ]"
+    },
+    {
+      "$id": 59,
+      "label": "qev025112_MSG0047",
+      "style": 1,
+      "name": "And then! THEN! Then the bastard has the nerve to call\nme up and complain that his replacement pizza never\nARRIVED![ST:wait ]"
+    },
+    {
+      "$id": 60,
+      "label": "qev025112_MSG0048",
+      "style": 1,
+      "name": "I'll never forgive 'em! Or anyone who sides with 'em![ST:wait ]"
+    },
+    {
+      "$id": 61,
+      "label": "qev025112_MSG0049",
+      "style": 1,
+      "name": "They used to call me the Hellfire Margherita back in the\narmy—it's time to show you how I earned that name![ST:wait ]"
+    },
+    {
+      "$id": 62,
+      "label": "qev025112_MSG0050",
+      "style": 1,
+      "name": "I'll sear you to a golden crisp![ST:wait ]"
+    }
+  ]
+}

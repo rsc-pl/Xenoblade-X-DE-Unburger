@@ -1,0 +1,4116 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "Te_test1",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 2,
+      "label": "Te_test2",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 3,
+      "label": "Te_CmnErr_Ranking_NoListData",
+      "style": 72,
+      "name": "[ST:col p1=red ]No ranking data to display."
+    },
+    {
+      "$id": 4,
+      "label": "Te_CmnErr_Ranking_NoMyData",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 5,
+      "label": "Te_CmnErr_ChrSel_RentalChara",
+      "style": 72,
+      "name": "[ST:col p1=red ]Cannot apply changes to this character."
+    },
+    {
+      "$id": 6,
+      "label": "Te_CmnErr_ChrSel_RentalDoll",
+      "style": 72,
+      "name": "[ST:col p1=red ]Cannot apply changes to this Skell's gear."
+    },
+    {
+      "$id": 7,
+      "label": "Te_CmnErr_MoneyShortage",
+      "style": 72,
+      "name": "[ST:col p1=red ]Insufficient credits."
+    },
+    {
+      "$id": 8,
+      "label": "Te_CmnErr_ItemBoxFull",
+      "style": 72,
+      "name": "[ST:col p1=red ]Your inventory is full."
+    },
+    {
+      "$id": 9,
+      "label": "Te_CmnErr_DollGarageFull",
+      "style": 72,
+      "name": "[ST:col p1=red ]Your Skell garage is full."
+    },
+    {
+      "$id": 10,
+      "label": "Te_CmnErr_MatShortage",
+      "style": 72,
+      "name": "[ST:col p1=red ]Insufficient materials or precious resources."
+    },
+    {
+      "$id": 11,
+      "label": "Te_CmnErr_SlotLimit",
+      "style": 72,
+      "name": "[ST:col p1=red ]Maximum number of slots reached."
+    },
+    {
+      "$id": 12,
+      "label": "Te_CmnErr_AfixLimit",
+      "style": 72,
+      "name": "[ST:col p1=red ]Already upgraded the maximum number of times."
+    },
+    {
+      "$id": 13,
+      "label": "Te_CmnErr_EquNot_LvShortage",
+      "style": 72,
+      "name": "[ST:col p1=red ]Insufficient level."
+    },
+    {
+      "$id": 14,
+      "label": "Te_CmnErr_NoLicense",
+      "style": 72,
+      "name": "[ST:col p1=red ]You do not have a Skell license."
+    },
+    {
+      "$id": 15,
+      "label": "Te_CmnErr_InQuest",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 16,
+      "label": "Te_enemy_we_teresia_001",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 17,
+      "label": "Te_enemy_we_teresia_002",
+      "style": 72,
+      "name": "Telethia has gained damage reflection\nfor thermal and electric attacks."
+    },
+    {
+      "$id": 18,
+      "label": "Te_enemy_we_teresia_003",
+      "style": 72,
+      "name": "Telethia has gained damage reflection\nfor beam and ether attacks."
+    },
+    {
+      "$id": 19,
+      "label": "Te_enemy_we_teresia_004",
+      "style": 72,
+      "name": "Telethia has begun to read your thoughts."
+    },
+    {
+      "$id": 20,
+      "label": "Te_enemy_we_teresia_005",
+      "style": 72,
+      "name": "Telethia has gained increased defense."
+    },
+    {
+      "$id": 21,
+      "label": "Te_enemy_we_teresia_006",
+      "style": 72,
+      "name": "Telethia has begun to release\na current of powerful ether."
+    },
+    {
+      "$id": 22,
+      "label": "Te_enemy_we_teresia_007",
+      "style": 72,
+      "name": "Telethia is charging up."
+    },
+    {
+      "$id": 23,
+      "label": "Te_enemy_we_teresia_008",
+      "style": 72,
+      "name": "Telethia's movements have quickened."
+    },
+    {
+      "$id": 24,
+      "label": "Te_enemy_we_teresia_009",
+      "style": 72,
+      "name": "Telethia's fury is churning the atmosphere."
+    },
+    {
+      "$id": 25,
+      "label": "Te_enemy_we_anti_001",
+      "style": 72,
+      "name": "Yggralith is emanating an intense\ngravitational energy."
+    },
+    {
+      "$id": 26,
+      "label": "Te_enemy_we_anti_002",
+      "style": 72,
+      "name": "A filiavent has appeared."
+    },
+    {
+      "$id": 27,
+      "label": "Te_enemy_we_anti_003",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 28,
+      "label": "Te_enemy_we_anti_004",
+      "style": 72,
+      "name": "Yggralith's fury is churning the atmosphere."
+    },
+    {
+      "$id": 29,
+      "label": "Te_EN_SITUATION_MES_M04_001",
+      "style": 72,
+      "name": "A crackling electricity has enveloped Goetia."
+    },
+    {
+      "$id": 30,
+      "label": "Te_EN_SITUATION_MES_M06_001",
+      "style": 72,
+      "name": "The tainted sphinx is calling out to\nother nearby tainted creatures."
+    },
+    {
+      "$id": 31,
+      "label": "Te_EN_SITUATION_MES_M09_001",
+      "style": 72,
+      "name": "The Vasara is veiled in a barrier of energy."
+    },
+    {
+      "$id": 32,
+      "label": "Te_EN_SITUATION_MES_M12_001",
+      "style": 72,
+      "name": "The Vita has gained the protection\nof a shield satellis's ether barrier."
+    },
+    {
+      "$id": 33,
+      "label": "Te_EN_SITUATION_MES_M12_002",
+      "style": 72,
+      "name": "The Vita's ether barrier has dissipated."
+    },
+    {
+      "$id": 34,
+      "label": "Te_EN_SITUATION_MES_M12_011",
+      "style": 72,
+      "name": "Lao's chaotic memory has\ndriven him into a manic fit."
+    },
+    {
+      "$id": 35,
+      "label": "Te_Err_Ready_BHterminal",
+      "style": 72,
+      "name": "[ST:col p1=red ]Cannot be used during online missions."
+    },
+    {
+      "$id": 36,
+      "label": "Te_Err_Ready_SQDterminal",
+      "style": 72,
+      "name": "[ST:col p1=red ]Cannot be used during online missions."
+    },
+    {
+      "$id": 37,
+      "label": "Te_Err_MultiBHCustom",
+      "style": 72,
+      "name": "[ST:col p1=red ]Cannot be used during online missions."
+    },
+    {
+      "$id": 38,
+      "label": "Te_Err_NotReady_NLAdoor",
+      "style": 72,
+      "name": "[ST:col p1=red ]Exiting to the administrative district is prohibited\nonce an online mission has been accepted."
+    },
+    {
+      "$id": 39,
+      "label": "Te_Err_Ready_NLAdoor",
+      "style": 72,
+      "name": "[ST:col p1=red ]Exiting to the administrative district is prohibited\nonce an online mission has been accepted."
+    },
+    {
+      "$id": 40,
+      "label": "Te_CmnErr_LvUpMax",
+      "style": 72,
+      "name": "[ST:col p1=red ]Cannot upgrade any further."
+    },
+    {
+      "$id": 41,
+      "label": "Te_CmnErr_NotLearning",
+      "style": 72,
+      "name": "[ST:col p1=red ]You have not learned this yet,\nso you cannot upgrade or reset it."
+    },
+    {
+      "$id": 42,
+      "label": "Te_CmnErr_BPShortage",
+      "style": 72,
+      "name": "[ST:col p1=red ]Insufficient BP."
+    },
+    {
+      "$id": 43,
+      "label": "Te_CmnErr_SLV_TicketShortage",
+      "style": 72,
+      "name": "[ST:col p1=red ]You don't have a salvage ticket."
+    },
+    {
+      "$id": 44,
+      "label": "Te_CmnErr_DollTransfer",
+      "style": 72,
+      "name": "[ST:col p1=red ]Skell registration cannot be changed."
+    },
+    {
+      "$id": 45,
+      "label": "Te_CmnErr_DollGarage_QSave",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 46,
+      "label": "Te_CmnErr_DollGarage_QLoad",
+      "style": 72,
+      "name": "[ST:col p1=red ]No quick save data."
+    },
+    {
+      "$id": 47,
+      "label": "Te_CmnErr_DollGarage_Undo",
+      "style": 72,
+      "name": "[ST:col p1=red ]No colors have been changed."
+    },
+    {
+      "$id": 48,
+      "label": "Te_CmnErr_DollGarage_NotSale",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 49,
+      "label": "Te_CmnErr_MainMenu_MenuAccess",
+      "style": 72,
+      "name": "[ST:col p1=red ]You cannot use this now."
+    },
+    {
+      "$id": 50,
+      "label": "Te_EN_SITUATION_MES_EC01_001",
+      "style": 72,
+      "name": "Lugalbanda is luring the ovis."
+    },
+    {
+      "$id": 51,
+      "label": "Te_EN_SITUATION_MES_EC01_002",
+      "style": 72,
+      "name": "Lugalbanda's hunger is not fully sated."
+    },
+    {
+      "$id": 52,
+      "label": "Te_EN_SITUATION_MES_EC01_003",
+      "style": 72,
+      "name": "Feeding has increased Lugalbanda's strength."
+    },
+    {
+      "$id": 53,
+      "label": "Te_EN_SITUATION_MES_EC01_004",
+      "style": 72,
+      "name": "Now full, Lugalbanda is brimming with might."
+    },
+    {
+      "$id": 54,
+      "label": "Te_EN_SITUATION_MES_EC01_005",
+      "style": 72,
+      "name": "Lugalbanda is frenzied with hunger."
+    },
+    {
+      "$id": 55,
+      "label": "Te_CmnErr_Shop_Accese",
+      "style": 72,
+      "name": "[ST:col p1=red ]You cannot use this now."
+    },
+    {
+      "$id": 56,
+      "label": "Te_CmnTelop_Save_Successful",
+      "style": 72,
+      "name": "Save complete."
+    },
+    {
+      "$id": 57,
+      "label": "Te_CmnTelop_Save_Failed",
+      "style": 72,
+      "name": "[ST:col p1=red ]Save failed."
+    },
+    {
+      "$id": 58,
+      "label": "Te_CmnErr_EquNot_TypeMismatch",
+      "style": 72,
+      "name": "[ST:col p1=red ]Unable to equip with current class."
+    },
+    {
+      "$id": 59,
+      "label": "Te_SQ_telop_020_001",
+      "style": 72,
+      "name": "The other enemies have fled now that\nthe lophid's light has been extinguished!"
+    },
+    {
+      "$id": 60,
+      "label": "Te_SQ_telop_001_002",
+      "style": 72,
+      "name": "A millesaur looks to be rampaging!"
+    },
+    {
+      "$id": 61,
+      "label": "Te_SQ_telop_001_003",
+      "style": 72,
+      "name": "The millesaur summons its last strength!"
+    },
+    {
+      "$id": 62,
+      "label": "Te_SQ_telop_002_001",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 63,
+      "label": "Te_SQ_telop_003_001",
+      "style": 72,
+      "name": "Reinforcements have emerged from the clouds!"
+    },
+    {
+      "$id": 64,
+      "label": "Te_SQ_telop_003_002",
+      "style": 72,
+      "name": "The colubrim is charging up."
+    },
+    {
+      "$id": 65,
+      "label": "Te_SQ_telop_004_001",
+      "style": 72,
+      "name": "The sky changes with astonishing speed\nas time accelerates!"
+    },
+    {
+      "$id": 66,
+      "label": "Te_SQ_telop_007_001",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 67,
+      "label": "Te_SQ_telop_007_002",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 68,
+      "label": "Te_SQ_telop_010_001",
+      "style": 72,
+      "name": "The sabula is peering out from underground."
+    },
+    {
+      "$id": 69,
+      "label": "Te_SQ_telop_014_001",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 70,
+      "label": "Te_SQ_telop_014_002",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 71,
+      "label": "Te_SQ_telop_014_003",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 72,
+      "label": "Te_SQ_telop_015_001",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 73,
+      "label": "Te_SQ_telop_015_002",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 74,
+      "label": "Te_SQ_telop_015_003",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 75,
+      "label": "Te_SQ_telop_018_001",
+      "style": 72,
+      "name": "The Sylooth is quivering with rage\nat the loss of its partner!"
+    },
+    {
+      "$id": 76,
+      "label": "Te_SQ_telop_019_001",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 77,
+      "label": "Te_SQ_telop_019_002",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 78,
+      "label": "Te_SQ_telop_021_001",
+      "style": 72,
+      "name": "The change in weather has\ninvigorated the scintimure!"
+    },
+    {
+      "$id": 79,
+      "label": "Te_SQ_telop_021_002",
+      "style": 72,
+      "name": "The change in weather has\ninvigorated the balaena!"
+    },
+    {
+      "$id": 80,
+      "label": "Te_SQ_telop_022_001",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 81,
+      "label": "Te_SQ_telop_022_002",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 82,
+      "label": "Te_SQ_telop_023_002",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 83,
+      "label": "Te_SQ_telop_025_001",
+      "style": 72,
+      "name": "The coronid, worried for its partner,\nhas begun to drop its defenses!"
+    },
+    {
+      "$id": 84,
+      "label": "Te_SQ_telop_025_002",
+      "style": 72,
+      "name": "The coronid is enraged\nat the loss of its partner!"
+    },
+    {
+      "$id": 85,
+      "label": "Te_SQ_telop_026_001",
+      "style": 72,
+      "name": "The wounded saltat is\ndancing a peculiar dance!"
+    },
+    {
+      "$id": 86,
+      "label": "Te_SQ_telop_026_002",
+      "style": 72,
+      "name": "The saltat's dance is a gesture\nof homage to the auravises!"
+    },
+    {
+      "$id": 87,
+      "label": "Te_SQ_telop_027_001",
+      "style": 72,
+      "name": "The murra charges forward!"
+    },
+    {
+      "$id": 88,
+      "label": "Te_SQ_telop_029_001",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 89,
+      "label": "Te_SQ_telop_029_002",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 90,
+      "label": "Te_SQ_telop_029_003",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 91,
+      "label": "Te_SQ_telop_029_004",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 92,
+      "label": "Te_SQ_telop_029_005",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 93,
+      "label": "Te_SQ_telop_029_006",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 94,
+      "label": "Te_SQ_telop_029_007",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 95,
+      "label": "Te_SQ_telop_029_008",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 96,
+      "label": "Te_SQ_telop_029_009",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 97,
+      "label": "Te_SQ_telop_029_010",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 98,
+      "label": "Te_SQ_telop_029_011",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 99,
+      "label": "Te_SQ_telop_029_012",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 100,
+      "label": "Te_SQ_telop_029_013",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 101,
+      "label": "Te_SQ_telop_006_001",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 102,
+      "label": "Te_SQ_telop_029_015",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 103,
+      "label": "Te_SQ_telop_029_016",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 104,
+      "label": "Te_SQ_telop_029_017",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 105,
+      "label": "Te_SQ_telop_029_018",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 106,
+      "label": "Te_SQ_telop_029_019",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 107,
+      "label": "Te_SQ_telop_029_020",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 108,
+      "label": "Te_SQ_telop_029_021",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 109,
+      "label": "Te_SQ_telop_029_022",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 110,
+      "label": "Te_CmnTelop_DollClr_Back",
+      "style": 72,
+      "name": "Restored to the original color scheme."
+    },
+    {
+      "$id": 111,
+      "label": "Te_kizuna_telop_001",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 112,
+      "label": "Te_kizuna_telop_002",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 113,
+      "label": "Te_kizuna_telop_003",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 114,
+      "label": "Te_kizuna_telop_004",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 115,
+      "label": "Te_kizuna_telop_005",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 116,
+      "label": "Te_kizuna_telop_006",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 117,
+      "label": "Te_kizuna_telop_007",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 118,
+      "label": "Te_kizuna_telop_008",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 119,
+      "label": "Te_kizuna_telop_009",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 120,
+      "label": "Te_kizuna_telop_010",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 121,
+      "label": "Te_kizuna_telop_011",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 122,
+      "label": "Te_kizuna_telop_012",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 123,
+      "label": "Te_kizuna_telop_013",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 124,
+      "label": "Te_kizuna_telop_014",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 125,
+      "label": "Te_kizuna_telop_015",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 126,
+      "label": "Te_kizuna_telop_016",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 127,
+      "label": "Te_kizuna_telop_017",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 128,
+      "label": "Te_kizuna_telop_018",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 129,
+      "label": "Te_kizuna_telop_019",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 130,
+      "label": "Te_kizuna_telop_020",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 131,
+      "label": "Te_kizuna_telop_021",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 132,
+      "label": "Te_kizuna_telop_022",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 133,
+      "label": "Te_kizuna_telop_023",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 134,
+      "label": "Te_kizuna_telop_024",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 135,
+      "label": "Te_kizuna_telop_025",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 136,
+      "label": "Te_kizuna_telop_026",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 137,
+      "label": "Te_kizuna_telop_027",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 138,
+      "label": "Te_kizuna_telop_028",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 139,
+      "label": "Te_kizuna_telop_029",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 140,
+      "label": "Te_kizuna_telop_030",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 141,
+      "label": "Te_kizuna_telop_031",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 142,
+      "label": "Te_kizuna_telop_032",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 143,
+      "label": "Te_kizuna_telop_033",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 144,
+      "label": "Te_kizuna_telop_034",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 145,
+      "label": "Te_kizuna_telop_035",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 146,
+      "label": "Te_kizuna_telop_036",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 147,
+      "label": "Te_kizuna_telop_037",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 148,
+      "label": "Te_kizuna_telop_038",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 149,
+      "label": "Te_kizuna_telop_039",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 150,
+      "label": "Te_kizuna_telop_040",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 151,
+      "label": "Te_kizuna_telop_041",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 152,
+      "label": "Te_kizuna_telop_042",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 153,
+      "label": "Te_kizuna_telop_043",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 154,
+      "label": "Te_kizuna_telop_044",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 155,
+      "label": "Te_kizuna_telop_045",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 156,
+      "label": "Te_kizuna_telop_046",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 157,
+      "label": "Te_kizuna_telop_047",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 158,
+      "label": "Te_kizuna_telop_048",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 159,
+      "label": "Te_kizuna_telop_049",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 160,
+      "label": "Te_kizuna_telop_050",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 161,
+      "label": "Te_kizuna_telop_051",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 162,
+      "label": "Te_kizuna_telop_052",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 163,
+      "label": "Te_kizuna_telop_053",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 164,
+      "label": "Te_kizuna_telop_054",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 165,
+      "label": "Te_kizuna_telop_055",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 166,
+      "label": "Te_kizuna_telop_056",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 167,
+      "label": "Te_kizuna_telop_057",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 168,
+      "label": "Te_kizuna_telop_058",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 169,
+      "label": "Te_kizuna_telop_059",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 170,
+      "label": "Te_kizuna_telop_060",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 171,
+      "label": "Te_kizuna_telop_061",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 172,
+      "label": "Te_kizuna_telop_062",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 173,
+      "label": "Te_kizuna_telop_063",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 174,
+      "label": "Te_kizuna_telop_064",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 175,
+      "label": "Te_kizuna_telop_065",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 176,
+      "label": "Te_kizuna_telop_066",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 177,
+      "label": "Te_kizuna_telop_067",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 178,
+      "label": "Te_kizuna_telop_068",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 179,
+      "label": "Te_kizuna_telop_069",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 180,
+      "label": "Te_kizuna_telop_070",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 181,
+      "label": "Te_kizuna_telop_071",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 182,
+      "label": "Te_kizuna_telop_072",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 183,
+      "label": "Te_kizuna_telop_073",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 184,
+      "label": "Te_kizuna_telop_074",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 185,
+      "label": "Te_kizuna_telop_075",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 186,
+      "label": "Te_kizuna_telop_076",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 187,
+      "label": "Te_kizuna_telop_077",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 188,
+      "label": "Te_kizuna_telop_078",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 189,
+      "label": "Te_kizuna_telop_079",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 190,
+      "label": "Te_kizuna_telop_080",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 191,
+      "label": "Te_kizuna_telop_081",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 192,
+      "label": "Te_kizuna_telop_082",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 193,
+      "label": "Te_kizuna_telop_083",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 194,
+      "label": "Te_kizuna_telop_084",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 195,
+      "label": "Te_kizuna_telop_085",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 196,
+      "label": "Te_kizuna_telop_086",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 197,
+      "label": "Te_kizuna_telop_087",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 198,
+      "label": "Te_kizuna_telop_088",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 199,
+      "label": "Te_kizuna_telop_089",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 200,
+      "label": "Te_kizuna_telop_090",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 201,
+      "label": "Te_EN_SITUATION_MES_EC03_001",
+      "style": 72,
+      "name": "With the nanoparticles eliminated,\nNardacyon's power output increases."
+    },
+    {
+      "$id": 202,
+      "label": "Te_MultiTelop_partyleave",
+      "style": 72,
+      "name": "Mission abandoned."
+    },
+    {
+      "$id": 203,
+      "label": "Te_MultiTelop_HostMove",
+      "style": 72,
+      "name": "The host has changed."
+    },
+    {
+      "$id": 204,
+      "label": "Te_MultiTelop_Lefted",
+      "style": 72,
+      "name": "A communication error has occurred.\nThe mission has been abandoned."
+    },
+    {
+      "$id": 205,
+      "label": "Te_MultiTelop_QuestSuccess",
+      "style": 72,
+      "name": "Mission accomplished.\nReturning imminently."
+    },
+    {
+      "$id": 206,
+      "label": "Te_MultiTelop_TimeUp",
+      "style": 72,
+      "name": "The time limit has been exceeded.\nReturning to base."
+    },
+    {
+      "$id": 207,
+      "label": "Te_MultiTelop_Failure",
+      "style": 72,
+      "name": "You cannot respawn any more.\nAbandoning mission."
+    },
+    {
+      "$id": 208,
+      "label": "Te_MultiTelop_MainMenu",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 209,
+      "label": "Te_MultiTelop_BladeQuestTimeOver",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 210,
+      "label": "Te_MultiTelop_Respawn5",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 211,
+      "label": "Te_MultiTelop_Respawn4",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 212,
+      "label": "Te_MultiTelop_Respawn3",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 213,
+      "label": "Te_MultiTelop_Respawn2",
+      "style": 72,
+      "name": "Remaining retries: 2"
+    },
+    {
+      "$id": 214,
+      "label": "Te_MultiTelop_Respawn1",
+      "style": 72,
+      "name": "Remaining retries: 1"
+    },
+    {
+      "$id": 215,
+      "label": "Te_Qtelop_0603_001",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 216,
+      "label": "Te_Qtelop_0871_001",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 217,
+      "label": "Te_Qtelop_0871_002",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 218,
+      "label": "Te_Qtelop_0871_003",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 219,
+      "label": "Te_Qtelop_0871_004",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 220,
+      "label": "Te_Qtelop_0871_005",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 221,
+      "label": "Te_Qtelop_0853_001",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 222,
+      "label": "Te_Qtelop_0853_002",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 223,
+      "label": "Te_Qtelop_0853_003",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 224,
+      "label": "Te_Qtelop_0853_004",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 225,
+      "label": "Te_Qtelop_0853_005",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 226,
+      "label": "Te_Qtelop_0606_005",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 227,
+      "label": "Te_Qtelop_0610_005",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 228,
+      "label": "Te_Qtelop_0269_001",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 229,
+      "label": "Te_Qtelop_0269_002",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 230,
+      "label": "Te_Qtelop_0269_003",
+      "style": 72,
+      "name": "You obtained some usable-looking parts\nfrom the wreckage of the Zu Pharg."
+    },
+    {
+      "$id": 231,
+      "label": "Te_Qtelop_0269_004",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 232,
+      "label": "Te_Qtelop_0269_005",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 233,
+      "label": "Te_Qtelop_0269_006",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 234,
+      "label": "Te_Qtelop_0801_001",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 235,
+      "label": "Te_Qtelop_0801_002",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 236,
+      "label": "Te_Qtelop_0801_003",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 237,
+      "label": "Te_Qtelop_0801_004",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 238,
+      "label": "Te_Qtelop_0914_001",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 239,
+      "label": "Te_Qtelop_0914_002",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 240,
+      "label": "Te_Qtelop_0914_003",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 241,
+      "label": "Te_Qtelop_0978_003",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 242,
+      "label": "Te_City_telop_001_001",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 243,
+      "label": "Te_City_telop_001_002",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 244,
+      "label": "Te_City_telop_001_003",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 245,
+      "label": "Te_City_telop_001_004",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 246,
+      "label": "Te_Qtelop_0865_001",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 247,
+      "label": "Te_EN_SITUATION_MES_SP01_001",
+      "style": 72,
+      "name": "After ejecting the parasite,\nGradivus's temperament has changed."
+    },
+    {
+      "$id": 248,
+      "label": "Te_EN_SITUATION_MES_SP02_001",
+      "style": 72,
+      "name": "Pyotr is boiling with rage."
+    },
+    {
+      "$id": 249,
+      "label": "Te_CmnErr_NGWord",
+      "style": 72,
+      "name": "Inappropriate words are included."
+    },
+    {
+      "$id": 250,
+      "label": "Te_EN_SITUATION_MES_SP03_001",
+      "style": 72,
+      "name": "Atreides's roar echoes throughout\nthe Miran depths."
+    },
+    {
+      "$id": 251,
+      "label": "Te_EN_SITUATION_MES_SP04_001",
+      "style": 72,
+      "name": "Leva'el is veiled in a barrier of energy."
+    },
+    {
+      "$id": 252,
+      "label": "Te_EN_SITUATION_MES_SP04_002",
+      "style": 72,
+      "name": "Leva'el's energy barrier has dissipated."
+    },
+    {
+      "$id": 253,
+      "label": "Te_EN_SITUATION_MES_SP04_003",
+      "style": 72,
+      "name": "Time until Apocalypse Wand is ready:\n5 minutes"
+    },
+    {
+      "$id": 254,
+      "label": "Te_EN_SITUATION_MES_SP04_004",
+      "style": 72,
+      "name": "Time until Apocalypse Wand is ready:\n3 minutes"
+    },
+    {
+      "$id": 255,
+      "label": "Te_EN_SITUATION_MES_SP04_005",
+      "style": 72,
+      "name": "Time until Apocalypse Wand is ready:\n1 minute"
+    },
+    {
+      "$id": 256,
+      "label": "Te_EN_SITUATION_MES_SP04_006",
+      "style": 72,
+      "name": "Apocalypse Wand is ready."
+    },
+    {
+      "$id": 257,
+      "label": "Te_EN_SITUATION_MES_SP05_001",
+      "style": 72,
+      "name": "The pain from its weak fin\nhas enraged Shuravas."
+    },
+    {
+      "$id": 258,
+      "label": "Te_MultiQuest_WEResultPop",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 259,
+      "label": "Te_SQ_tasktelop_029_001",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 260,
+      "label": "Te_SQ_tasktelop_029_002",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 261,
+      "label": "Te_SQ_tasktelop_032_001",
+      "style": 72,
+      "name": "Enemy with the required materials detected."
+    },
+    {
+      "$id": 262,
+      "label": "Te_SQ_tasktelop_032_002",
+      "style": 72,
+      "name": "A hidden online mission has been unlocked."
+    },
+    {
+      "$id": 263,
+      "label": "Te_SQ_tasktelop_040_001",
+      "style": 72,
+      "name": "A suspicious foe is in the vicinity."
+    },
+    {
+      "$id": 264,
+      "label": "Te_SQ_tasktelop_040_002",
+      "style": 72,
+      "name": "A hidden online mission has been unlocked."
+    },
+    {
+      "$id": 265,
+      "label": "Te_SQ_tasktelop_045_001",
+      "style": 72,
+      "name": "A suspicious foe is in the vicinity."
+    },
+    {
+      "$id": 266,
+      "label": "Te_SQ_tasktelop_045_002",
+      "style": 72,
+      "name": "A hidden online mission has been unlocked."
+    },
+    {
+      "$id": 267,
+      "label": "Te_SQ_tasktelop_052_001",
+      "style": 72,
+      "name": "A suspicious object is in the vicinity."
+    },
+    {
+      "$id": 268,
+      "label": "Te_SQ_tasktelop_052_002",
+      "style": 72,
+      "name": "A hidden online mission has been unlocked."
+    },
+    {
+      "$id": 269,
+      "label": "Te_SQ_tasktelop_054_001",
+      "style": 72,
+      "name": "Enemy with the required materials detected."
+    },
+    {
+      "$id": 270,
+      "label": "Te_SQ_tasktelop_054_002",
+      "style": 72,
+      "name": "A hidden online mission has been unlocked."
+    },
+    {
+      "$id": 271,
+      "label": "Te_SQ_tasktelop_074_001",
+      "style": 72,
+      "name": "Enemy with the required materials detected."
+    },
+    {
+      "$id": 272,
+      "label": "Te_SQ_tasktelop_074_002",
+      "style": 72,
+      "name": "A hidden online mission has been unlocked."
+    },
+    {
+      "$id": 273,
+      "label": "Te_SQ_tasktelop_080_001",
+      "style": 72,
+      "name": "Enemy with the required materials detected."
+    },
+    {
+      "$id": 274,
+      "label": "Te_SQ_tasktelop_080_002",
+      "style": 72,
+      "name": "A hidden online mission has been unlocked."
+    },
+    {
+      "$id": 275,
+      "label": "Te_SQ_tasktelop_087_001",
+      "style": 72,
+      "name": "A suspicious object is in the vicinity."
+    },
+    {
+      "$id": 276,
+      "label": "Te_SQ_tasktelop_087_002",
+      "style": 72,
+      "name": "A hidden online mission has been unlocked."
+    },
+    {
+      "$id": 277,
+      "label": "Te_SQ_tasktelop_091_001",
+      "style": 72,
+      "name": "A suspicious foe is in the vicinity."
+    },
+    {
+      "$id": 278,
+      "label": "Te_SQ_tasktelop_091_002",
+      "style": 72,
+      "name": "A hidden online mission has been unlocked."
+    },
+    {
+      "$id": 279,
+      "label": "Te_SQ_tasktelop_093_001",
+      "style": 72,
+      "name": "A suspicious object is in the vicinity."
+    },
+    {
+      "$id": 280,
+      "label": "Te_SQ_tasktelop_093_002",
+      "style": 72,
+      "name": "A hidden online mission has been unlocked."
+    },
+    {
+      "$id": 281,
+      "label": "Te_SQ_tasktelop_101_001",
+      "style": 72,
+      "name": "Enemy with the required materials detected."
+    },
+    {
+      "$id": 282,
+      "label": "Te_SQ_tasktelop_101_002",
+      "style": 72,
+      "name": "A hidden online mission has been unlocked."
+    },
+    {
+      "$id": 283,
+      "label": "Te_SQ_tasktelop_102_001",
+      "style": 72,
+      "name": "Enemy with the required materials detected."
+    },
+    {
+      "$id": 284,
+      "label": "Te_SQ_tasktelop_102_002",
+      "style": 72,
+      "name": "A hidden online mission has been unlocked."
+    },
+    {
+      "$id": 285,
+      "label": "Te_SQ_tasktelop_114_001",
+      "style": 72,
+      "name": "A suspicious foe is in the vicinity."
+    },
+    {
+      "$id": 286,
+      "label": "Te_SQ_tasktelop_114_002",
+      "style": 72,
+      "name": "A hidden online mission has been unlocked."
+    },
+    {
+      "$id": 287,
+      "label": "Te_SQ_tasktelop_120_001",
+      "style": 72,
+      "name": "A suspicious object is in the vicinity."
+    },
+    {
+      "$id": 288,
+      "label": "Te_SQ_tasktelop_120_002",
+      "style": 72,
+      "name": "A hidden online mission has been unlocked."
+    },
+    {
+      "$id": 289,
+      "label": "Te_SQ_tasktelop_122_001",
+      "style": 72,
+      "name": "A suspicious foe is in the vicinity."
+    },
+    {
+      "$id": 290,
+      "label": "Te_SQ_tasktelop_122_002",
+      "style": 72,
+      "name": "A hidden online mission has been unlocked."
+    },
+    {
+      "$id": 291,
+      "label": "Te_SQ_tasktelop_128_001",
+      "style": 72,
+      "name": "A suspicious object is in the vicinity."
+    },
+    {
+      "$id": 292,
+      "label": "Te_SQ_tasktelop_128_002",
+      "style": 72,
+      "name": "A hidden online mission has been unlocked."
+    },
+    {
+      "$id": 293,
+      "label": "Te_SQ_tasktelop_129_001",
+      "style": 72,
+      "name": "A suspicious object is in the vicinity."
+    },
+    {
+      "$id": 294,
+      "label": "Te_SQ_tasktelop_129_002",
+      "style": 72,
+      "name": "A hidden online mission has been unlocked."
+    },
+    {
+      "$id": 295,
+      "label": "Te_SQ_tasktelop_131_001",
+      "style": 72,
+      "name": "A suspicious object is in the vicinity."
+    },
+    {
+      "$id": 296,
+      "label": "Te_SQ_tasktelop_131_002",
+      "style": 72,
+      "name": "A hidden online mission has been unlocked."
+    },
+    {
+      "$id": 297,
+      "label": "Te_SQ_tasktelop_133_001",
+      "style": 72,
+      "name": "A suspicious object is in the vicinity."
+    },
+    {
+      "$id": 298,
+      "label": "Te_SQ_tasktelop_133_002",
+      "style": 72,
+      "name": "A hidden online mission has been unlocked."
+    },
+    {
+      "$id": 299,
+      "label": "Te_SQ_tasktelop_135_001",
+      "style": 72,
+      "name": "A suspicious object is in the vicinity."
+    },
+    {
+      "$id": 300,
+      "label": "Te_SQ_tasktelop_135_002",
+      "style": 72,
+      "name": "A hidden online mission has been unlocked."
+    },
+    {
+      "$id": 301,
+      "label": "Te_SQ_tasktelop_140_001",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 302,
+      "label": "Te_SQ_tasktelop_140_002",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 303,
+      "label": "Te_SQ_tasktelop_144_001",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 304,
+      "label": "Te_SQ_tasktelop_144_002",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 305,
+      "label": "Te_SQ_tasktelop_146_001",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 306,
+      "label": "Te_SQ_tasktelop_146_002",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 307,
+      "label": "Te_SQ_tasktelop_151_001",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 308,
+      "label": "Te_SQ_tasktelop_151_002",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 309,
+      "label": "Te_SQ_tasktelop_160_001",
+      "style": 72,
+      "name": "Enemy with the required materials detected."
+    },
+    {
+      "$id": 310,
+      "label": "Te_SQ_tasktelop_160_002",
+      "style": 72,
+      "name": "A hidden online mission has been unlocked."
+    },
+    {
+      "$id": 311,
+      "label": "Te_SQ_tasktelop_167_001",
+      "style": 72,
+      "name": "Enemy with the required materials detected."
+    },
+    {
+      "$id": 312,
+      "label": "Te_SQ_tasktelop_167_002",
+      "style": 72,
+      "name": "A hidden online mission has been unlocked."
+    },
+    {
+      "$id": 313,
+      "label": "Te_SQ_tasktelop_169_001",
+      "style": 72,
+      "name": "A suspicious object is in the vicinity."
+    },
+    {
+      "$id": 314,
+      "label": "Te_SQ_tasktelop_169_002",
+      "style": 72,
+      "name": "A hidden online mission has been unlocked."
+    },
+    {
+      "$id": 315,
+      "label": "Te_SQ_tasktelop_175_001",
+      "style": 72,
+      "name": "A suspicious foe is in the vicinity."
+    },
+    {
+      "$id": 316,
+      "label": "Te_SQ_tasktelop_175_002",
+      "style": 72,
+      "name": "A hidden online mission has been unlocked."
+    },
+    {
+      "$id": 317,
+      "label": "Te_SQ_tasktelop_179_001",
+      "style": 72,
+      "name": "Enemy with the required materials detected."
+    },
+    {
+      "$id": 318,
+      "label": "Te_SQ_tasktelop_179_002",
+      "style": 72,
+      "name": "A hidden online mission has been unlocked."
+    },
+    {
+      "$id": 319,
+      "label": "Te_SQ_tasktelop_181_001",
+      "style": 72,
+      "name": "A suspicious object is in the vicinity."
+    },
+    {
+      "$id": 320,
+      "label": "Te_SQ_tasktelop_181_002",
+      "style": 72,
+      "name": "A hidden online mission has been unlocked."
+    },
+    {
+      "$id": 321,
+      "label": "Te_SQ_tasktelop_182_001",
+      "style": 72,
+      "name": "A suspicious object is in the vicinity."
+    },
+    {
+      "$id": 322,
+      "label": "Te_SQ_tasktelop_182_002",
+      "style": 72,
+      "name": "A hidden online mission has been unlocked."
+    },
+    {
+      "$id": 323,
+      "label": "Te_SQ_tasktelop_191_001",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 324,
+      "label": "Te_SQ_tasktelop_191_002",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 325,
+      "label": "Te_SQ_tasktelop_196_001",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 326,
+      "label": "Te_SQ_tasktelop_196_002",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 327,
+      "label": "Te_SquadQuestProgressTelop069",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 328,
+      "label": "Te_SquadQuestProgressTelop070",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 329,
+      "label": "Te_SquadQuestProgressTelop071",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 330,
+      "label": "Te_SquadQuestProgressTelop072",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 331,
+      "label": "Te_SquadQuestProgressTelop073",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 332,
+      "label": "Te_SquadQuestProgressTelop074",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 333,
+      "label": "Te_SquadQuestProgressTelop075",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 334,
+      "label": "Te_SquadQuestProgressTelop076",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 335,
+      "label": "Te_SquadQuestProgressTelop077",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 336,
+      "label": "Te_SquadQuestProgressTelop078",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 337,
+      "label": "Te_SquadQuestProgressTelop079",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 338,
+      "label": "Te_SquadQuestProgressTelop080",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 339,
+      "label": "Te_SquadQuestProgressTelop081",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 340,
+      "label": "Te_SquadQuestProgressTelop082",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 341,
+      "label": "Te_SquadQuestProgressTelop083",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 342,
+      "label": "Te_SquadQuestProgressTelop084",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 343,
+      "label": "Te_SquadQuestProgressTelop085",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 344,
+      "label": "Te_SquadQuestProgressTelop086",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 345,
+      "label": "Te_SquadQuestProgressTelop087",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 346,
+      "label": "Te_SquadQuestProgressTelop088",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 347,
+      "label": "Te_SquadQuestProgressTelop089",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 348,
+      "label": "Te_SquadQuestProgressTelop090",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 349,
+      "label": "Te_SquadQuestProgressTelop091",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 350,
+      "label": "Te_SquadQuestProgressTelop092",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 351,
+      "label": "Te_SquadQuestProgressTelop093",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 352,
+      "label": "Te_SquadQuestProgressTelop094",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 353,
+      "label": "Te_SquadQuestProgressTelop095",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 354,
+      "label": "Te_SquadQuestProgressTelop096",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 355,
+      "label": "Te_SquadQuestProgressTelop097",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 356,
+      "label": "Te_SquadQuestProgressTelop098",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 357,
+      "label": "Te_SquadQuestProgressTelop099",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 358,
+      "label": "Te_SquadQuestProgressTelop100",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 359,
+      "label": "Te_EN_SITUATION_MES_SP05_002",
+      "style": 72,
+      "name": "Its fin destroyed,\nShuravas's temper has climaxed."
+    },
+    {
+      "$id": 360,
+      "label": "Te_CmnTelop_Shop_Buy",
+      "style": 72,
+      "name": "Purchase complete."
+    },
+    {
+      "$id": 361,
+      "label": "Te_CmnErr_MiraniumShortage",
+      "style": 72,
+      "name": "[ST:col p1=red ]Insufficient miranium."
+    },
+    {
+      "$id": 362,
+      "label": "Te_CmnTelop_BLH_Change",
+      "style": 72,
+      "name": "Changed."
+    },
+    {
+      "$id": 363,
+      "label": "Te_CmnErr_ArmsComp_Lock",
+      "style": 72,
+      "name": "Required materials and/or precious resources\nunknown."
+    },
+    {
+      "$id": 364,
+      "label": "Te_CmnTelop_ArmsComp_Create",
+      "style": 72,
+      "name": "Augment created."
+    },
+    {
+      "$id": 365,
+      "label": "Te_CmnErr_NoAfix",
+      "style": 72,
+      "name": "No battle traits."
+    },
+    {
+      "$id": 366,
+      "label": "Te_unionsupport_00",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 367,
+      "label": "Te_unionsupport_01",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 368,
+      "label": "Te_unionsupport_02",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 369,
+      "label": "Te_unionsupport_03",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 370,
+      "label": "Te_unionsupport_04",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 371,
+      "label": "Te_unionsupport_05",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 372,
+      "label": "Te_unionsupport_06",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 373,
+      "label": "Te_unionsupport_07",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 374,
+      "label": "Te_unionsupport_08",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 375,
+      "label": "Te_SquadSelect_joinerr",
+      "style": 72,
+      "name": "Failed to join squad."
+    },
+    {
+      "$id": 376,
+      "label": "Te_MultiQuestResult_saving",
+      "style": 72,
+      "name": "Saving..."
+    },
+    {
+      "$id": 377,
+      "label": "Te_MultiQuestResult_saved",
+      "style": 72,
+      "name": "Save complete."
+    },
+    {
+      "$id": 378,
+      "label": "Te_MultiQuestOrder_miseisan",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 379,
+      "label": "Te_MultiQuestOrder_ordererr",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 380,
+      "label": "Te_MultiQuestOrder_levelerr",
+      "style": 72,
+      "name": "[ST:col p1=red ]Level requirement not met.\nThis mission cannot be accepted."
+    },
+    {
+      "$id": 381,
+      "label": "Te_MultiQuestOrder_we_miseisan",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 382,
+      "label": "Te_MultiQuestOrder_yukierr",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 383,
+      "label": "Te_MultiQuestOrder_we_deaderr",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 384,
+      "label": "Te_MultiQuestOrder_lm_miseisan",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 385,
+      "label": "Te_MultiQuestOrder_lm_deaderr",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 386,
+      "label": "Te_MultiQuestOrder_joinerr",
+      "style": 72,
+      "name": "[ST:col p1=red ]Failed to join mission."
+    },
+    {
+      "$id": 387,
+      "label": "Te_MultiQuestOrder_join_noneparty",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 388,
+      "label": "Te_MultiQuestOrder_join_levelerr",
+      "style": 72,
+      "name": "[ST:col p1=red ]Level requirement not met.\nThis mission cannot be accepted."
+    },
+    {
+      "$id": 389,
+      "label": "Te_MultiQuestOrder_use_short",
+      "style": 72,
+      "name": "[ST:col p1=red ]Insufficient material tickets."
+    },
+    {
+      "$id": 390,
+      "label": "Te_MultiQuestOrder_use_full",
+      "style": 72,
+      "name": "[ST:col p1=red ]Inventory full."
+    },
+    {
+      "$id": 391,
+      "label": "Te_MultiQuestOrder_use_ticketfull",
+      "style": 72,
+      "name": "[ST:col p1=red ]Cannot hold any more material tickets."
+    },
+    {
+      "$id": 392,
+      "label": "Te_MultiQuestinvi_miseisan",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 393,
+      "label": "Te_Memberlist_favorite",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 394,
+      "label": "Te_Memberlist_alreadyfavo",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 395,
+      "label": "Te_Memberlist_favo_limiterr",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 396,
+      "label": "Te_Memberlist_favo_release",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 397,
+      "label": "Te_Memberlist_favo_friendreq",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 398,
+      "label": "Te_Memberlist_alreadyfriend",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 399,
+      "label": "Te_Memberlist_fri_limiterr",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 400,
+      "label": "Te_Memberlist_alreadyblack",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 401,
+      "label": "Te_Memberlist_bla_limiterr",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 402,
+      "label": "Te_Memberlist_fri_order",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 403,
+      "label": "Te_Offline_err",
+      "style": 72,
+      "name": "[ST:col p1=red ]Unavailable while offline."
+    },
+    {
+      "$id": 404,
+      "label": "Te_CmnErr_MenberChangeExit",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 405,
+      "label": "Te_CmnErr_MenberChangeNoLeader",
+      "style": 72,
+      "name": "Select a character to control."
+    },
+    {
+      "$id": 406,
+      "label": "Te_CmnErr_MenberChangeNgMenber",
+      "style": 72,
+      "name": "Required members not present."
+    },
+    {
+      "$id": 407,
+      "label": "Te_CmnErr_MenberChangeRentalLeaderIn",
+      "style": 72,
+      "name": "[ST:col p1=red ]You cannot directly control recruited BLADEs."
+    },
+    {
+      "$id": 408,
+      "label": "Te_CmnErr_MenberChangeNgMenberOut",
+      "style": 72,
+      "name": "[ST:col p1=red ]Cannot remove this character."
+    },
+    {
+      "$id": 409,
+      "label": "Te_CmnErr_MenberChangeNoSpace",
+      "style": 72,
+      "name": "[ST:col p1=red ]Your active party is full."
+    },
+    {
+      "$id": 410,
+      "label": "Te_CmnErr_MenberChangeMaxOver",
+      "style": 72,
+      "name": "[ST:col p1=red ]Your active party cannot include\nany more members."
+    },
+    {
+      "$id": 411,
+      "label": "Te_Cmn_LevelSynchTelop",
+      "style": 72,
+      "name": "Character levels have been\nscaled accordingly."
+    },
+    {
+      "$id": 412,
+      "label": "Te_Cmn_TreasureDeal",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 413,
+      "label": "Te_CmnErr_BLPlayerQuestnotJoined",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 414,
+      "label": "Te_CmnErr_BLPlayerSquadnotJoined",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 415,
+      "label": "Te_CmnErr_UGCShut",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 416,
+      "label": "Te_CmnErr_EquFrNotChange",
+      "style": 72,
+      "name": "[ST:col p1=red ]The Skell itself cannot be changed."
+    },
+    {
+      "$id": 417,
+      "label": "Te_CmnErr_SimpleQuestMax",
+      "style": 72,
+      "name": "[ST:col p1=red ]You cannot accept more than\n20 basic missions at once."
+    },
+    {
+      "$id": 418,
+      "label": "Te_CmnErr_BtlNotUseInner",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 419,
+      "label": "Te_CmnErr_BtlNotUseDoll",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 420,
+      "label": "Te_CmnErr_EquNot_DlLvShortage",
+      "style": 72,
+      "name": "[ST:col p1=red ]Insufficient Skell level."
+    },
+    {
+      "$id": 421,
+      "label": "Te_CmnErr_EquNot_DlGenLvShortage",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 422,
+      "label": "Te_CmnErr_EquNot_DlArmLvShortage",
+      "style": 72,
+      "name": "[ST:col p1=red ]Cannot equip this item with\nthe current Skell type."
+    },
+    {
+      "$id": 423,
+      "label": "Te_CellUpdate_Gen",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 424,
+      "label": "Te_CellUpdate_Clear",
+      "style": 72,
+      "name": "Segment recon complete."
+    },
+    {
+      "$id": 425,
+      "label": "Te_SocialInfo_WE_Reward",
+      "style": 72,
+      "name": "Battle spoils can be collected by accessing the Network Console in the BLADE barracks."
+    },
+    {
+      "$id": 426,
+      "label": "Te_SocialInfo_FR_Reward",
+      "style": 72,
+      "name": "Battle spoils can be collected by accessing the Network Console in the BLADE barracks."
+    },
+    {
+      "$id": 427,
+      "label": "Te_test3",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 428,
+      "label": "Te_CmnErr_Item_NotSale",
+      "style": 72,
+      "name": "[ST:col p1=red ]This item cannot be sold."
+    },
+    {
+      "$id": 429,
+      "label": "Te_SocialInfo_Rental_Reward",
+      "style": 72,
+      "name": "Rewards are claimable via the BLADE Scout Console in the concourse for seven days."
+    },
+    {
+      "$id": 430,
+      "label": "Te_err_ComFailure",
+      "style": 72,
+      "name": "[ST:col p1=red ]Could not connect to server."
+    },
+    {
+      "$id": 431,
+      "label": "Te_CmnErr_AvataMake_Top_Mismatch",
+      "style": 72,
+      "name": "[ST:col p1=red ]You have gender-specific gear equipped.\nCannot change."
+    },
+    {
+      "$id": 432,
+      "label": "Te_CmnErr_AvataMake_Load_Mismatch",
+      "style": 72,
+      "name": "[ST:col p1=red ]Cannot load due to gender-specific elements."
+    },
+    {
+      "$id": 433,
+      "label": "Te_CmnErr_AvataMake_Load_NoData",
+      "style": 72,
+      "name": "[ST:col p1=red ]No avatar data exists."
+    },
+    {
+      "$id": 434,
+      "label": "Te_CmnErr_DollTransfer_LvShortage",
+      "style": 72,
+      "name": "[ST:col p1=red ]This character's level is too low."
+    },
+    {
+      "$id": 435,
+      "label": "Te_MultiTelop_Respawn0",
+      "style": 72,
+      "name": "Remaining retries: 0"
+    },
+    {
+      "$id": 436,
+      "label": "Te_CmnTelop_DollInsurance",
+      "style": 72,
+      "name": "Your insurance has replaced your lost Skell."
+    },
+    {
+      "$id": 437,
+      "label": "Te_CmnErr_SellEqu_ItemBoxFull",
+      "style": 72,
+      "name": "[ST:col p1=red ]Inventory full. Cannot remove augment."
+    },
+    {
+      "$id": 438,
+      "label": "Te_MemberList_MineErr",
+      "style": 72,
+      "name": "[ST:col p1=red ]This cannot be performed on yourself."
+    },
+    {
+      "$id": 439,
+      "label": "Te_CmnErr_EquNot_GenMismatch_MaleToFemale",
+      "style": 72,
+      "name": "[ST:col p1=red ]This item is female-specific. Cannot equip."
+    },
+    {
+      "$id": 440,
+      "label": "Te_CmnErr_EquNot_GenMismatch_FemaleToMale",
+      "style": 72,
+      "name": "[ST:col p1=red ]This item is male-specific. Cannot equip."
+    },
+    {
+      "$id": 441,
+      "label": "Te_CmnTelop_AddCMPoint",
+      "style": 72,
+      "name": "Use items designed by a particular AM in battle\nto earn R&D points for that AM and help it grow."
+    },
+    {
+      "$id": 442,
+      "label": "Te_CmnTelop_AddPTMember",
+      "style": 72,
+      "name": "A new character can now join your party."
+    },
+    {
+      "$id": 443,
+      "label": "Te_CmnErr_Equ_NoSlot",
+      "style": 72,
+      "name": "[ST:col p1=red ]No slots for this to occupy."
+    },
+    {
+      "$id": 444,
+      "label": "Te_CmnErr_Equ_NoWear",
+      "style": 72,
+      "name": "[ST:col p1=red ]You have nothing equipped."
+    },
+    {
+      "$id": 445,
+      "label": "Te_err_ChageOfflineMode",
+      "style": 72,
+      "name": "The game will be continued in offline mode. Some features will not be available."
+    },
+    {
+      "$id": 446,
+      "label": "Te_CmnTelop_SetFig",
+      "style": 72,
+      "name": "Holofigure set."
+    },
+    {
+      "$id": 447,
+      "label": "Te_CmnTelop_RelFig",
+      "style": 72,
+      "name": "Holofigure removed."
+    },
+    {
+      "$id": 448,
+      "label": "Te_CmnTelop_SystemData_Save",
+      "style": 72,
+      "name": "System data saved."
+    },
+    {
+      "$id": 449,
+      "label": "Te_CmnErr_ScoutConsole_Accese",
+      "style": 72,
+      "name": "[ST:col p1=red ]You cannot use this now."
+    },
+    {
+      "$id": 450,
+      "label": "Te_MultiQuestOrder_alreadyclear",
+      "style": 72,
+      "name": "[ST:col p1=red ]Cannot accept this mission. It has already\nbeen completed by your current squad."
+    },
+    {
+      "$id": 451,
+      "label": "Te_CmnErr_BLH_ClientAccese",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 452,
+      "label": "Te_Memberlist_fri_failure",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 453,
+      "label": "Te_Memberlist_favo_failure",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 454,
+      "label": "Te_Memberlist_favo_re_failure",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 455,
+      "label": "Te_Memberlist_bla_success",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 456,
+      "label": "Te_Memberlist_bla_failure",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 457,
+      "label": "Te_Err_NotJoin",
+      "style": 72,
+      "name": "Could not join the mission."
+    },
+    {
+      "$id": 458,
+      "label": "Te_Err_PartyBreak",
+      "style": 72,
+      "name": "A communication error has occurred.\nThe mission has been abandoned."
+    },
+    {
+      "$id": 459,
+      "label": "Te_Err_PartyLeave",
+      "style": 72,
+      "name": "A communication error has occurred.\nThe mission has been abandoned."
+    },
+    {
+      "$id": 460,
+      "label": "Te_Err_NotStart",
+      "style": 72,
+      "name": "A communication error has occurred.\nThe mission could not be started."
+    },
+    {
+      "$id": 461,
+      "label": "Te_CmnErr_NoDollFrame",
+      "style": 72,
+      "name": "[ST:col p1=red ]You do not have a Skell."
+    },
+    {
+      "$id": 462,
+      "label": "Te_err_RentalNoScout",
+      "style": 72,
+      "name": "[ST:col p1=red ]You have not scouted any BLADE operatives."
+    },
+    {
+      "$id": 463,
+      "label": "Te_err_RentalNoReward",
+      "style": 72,
+      "name": "[ST:col p1=red ]You do not have any scout rewards."
+    },
+    {
+      "$id": 464,
+      "label": "Te_Memberlist_fri_bla",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 465,
+      "label": "Te_Memberlist_favo_bla",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 466,
+      "label": "Te_Memberlist_bla_fri",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 467,
+      "label": "Te_Memberlist_bla_frireq",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 468,
+      "label": "Te_CellUpdate_Gen_Zone1001",
+      "style": 72,
+      "name": "A segment in the industrial district has been updated."
+    },
+    {
+      "$id": 469,
+      "label": "Te_CellUpdate_Gen_Zone1101",
+      "style": 72,
+      "name": "A segment in the commercial district has been updated."
+    },
+    {
+      "$id": 470,
+      "label": "Te_CellUpdate_Gen_Zone1201",
+      "style": 72,
+      "name": "A segment in the Ma-non ship has been updated."
+    },
+    {
+      "$id": 471,
+      "label": "Te_CellUpdate_Gen_Zone1301",
+      "style": 72,
+      "name": "A segment in the residential district has been updated."
+    },
+    {
+      "$id": 472,
+      "label": "Te_CellUpdate_Gen_Zone1401",
+      "style": 72,
+      "name": "A segment in the administrative district has been updated."
+    },
+    {
+      "$id": 473,
+      "label": "Te_CellUpdate_Gen_Zone1501",
+      "style": 72,
+      "name": "A segment in Primordia has been updated."
+    },
+    {
+      "$id": 474,
+      "label": "Te_CellUpdate_Gen_Zone1601",
+      "style": 72,
+      "name": "A segment in Noctilum has been updated."
+    },
+    {
+      "$id": 475,
+      "label": "Te_CellUpdate_Gen_Zone1701",
+      "style": 72,
+      "name": "A segment in Oblivia has been updated."
+    },
+    {
+      "$id": 476,
+      "label": "Te_CellUpdate_Gen_Zone2001",
+      "style": 72,
+      "name": "A segment in Cauldros has been updated."
+    },
+    {
+      "$id": 477,
+      "label": "Te_CellUpdate_Gen_Zone2201",
+      "style": 72,
+      "name": "A segment in Sylvalum has been updated."
+    },
+    {
+      "$id": 478,
+      "label": "Te_CellUpdate_Gen_Zone5000",
+      "style": 72,
+      "name": "A segment in the BLADE barracks has been updated."
+    },
+    {
+      "$id": 479,
+      "label": "Te_CmnErr_DollFuelMax",
+      "style": 72,
+      "name": "[ST:col p1=red ]Fuel already at maximum."
+    },
+    {
+      "$id": 480,
+      "label": "Te_CmnTelop_DollReFuel",
+      "style": 72,
+      "name": "Fuel replenished."
+    },
+    {
+      "$id": 481,
+      "label": "Te_SquadSelect_fullerr",
+      "style": 72,
+      "name": "[ST:col p1=red ]The party is already full. Cannot join."
+    },
+    {
+      "$id": 482,
+      "label": "Te_SquadSelect_sameerr",
+      "style": 72,
+      "name": "You are already in the same squad\nas this player."
+    },
+    {
+      "$id": 483,
+      "label": "Te_ScoutCounter_set",
+      "style": 72,
+      "name": "Registration complete."
+    },
+    {
+      "$id": 484,
+      "label": "Te_ScoutCounter_err01",
+      "style": 72,
+      "name": "[ST:col p1=red ]Could not scout this BLADE operative."
+    },
+    {
+      "$id": 485,
+      "label": "Te_CommonErr",
+      "style": 72,
+      "name": "[ST:col p1=red ]Could not complete due to an error."
+    },
+    {
+      "$id": 486,
+      "label": "Te_SocialInfo_Rental_Gage1",
+      "style": 72,
+      "name": "View in the Status section of the main menu."
+    },
+    {
+      "$id": 487,
+      "label": "Te_SocialInfo_UnionSalary",
+      "style": 72,
+      "name": "You can claim rewards by accessing the BLADE barracks Network Console."
+    },
+    {
+      "$id": 488,
+      "label": "Te_ScoutCounter_delete",
+      "style": 72,
+      "name": "Registered avatar removed."
+    },
+    {
+      "$id": 489,
+      "label": "Te_ScoutCounter_err02",
+      "style": 72,
+      "name": "[ST:col p1=red ]Nothing to display."
+    },
+    {
+      "$id": 490,
+      "label": "Te_MultiQuestOrder_we_escapeerr",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 491,
+      "label": "Te_MultiQuestOrder_lm_escapeerr",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 492,
+      "label": "Te_MultiQuestOrder_partyfullerr",
+      "style": 72,
+      "name": "[ST:col p1=red ]The party is already full. Cannot join."
+    },
+    {
+      "$id": 493,
+      "label": "Te_MultiQuestOrder_partynonerr",
+      "style": 72,
+      "name": "[ST:col p1=red ]The selected mission is no longer\naccepting new players."
+    },
+    {
+      "$id": 494,
+      "label": "Te_ScoutCounter_err03",
+      "style": 72,
+      "name": "[ST:col p1=red ]You can only scout up to three BLADEs\nat once. Try releasing an active scout."
+    },
+    {
+      "$id": 495,
+      "label": "Te_CmnErr_SquadNone",
+      "style": 72,
+      "name": "[ST:col p1=red ]The selected squad no longer exists."
+    },
+    {
+      "$id": 496,
+      "label": "Te_MultiQuestOrder_WEerr01",
+      "style": 72,
+      "name": "The results for your Global Nemesis battle\nare in. Please collect your rewards."
+    },
+    {
+      "$id": 497,
+      "label": "Te_MultiQuestOrder_WEerr02",
+      "style": 72,
+      "name": "Please return to the network menu and collect\nyour pending Global Nemesis rewards."
+    },
+    {
+      "$id": 498,
+      "label": "Te_MultiQuestOrder_WEerr03",
+      "style": 72,
+      "name": "You must first collect your pending Global\nNemesis rewards."
+    },
+    {
+      "$id": 499,
+      "label": "Te_MultiQuestOrder_WEerr04",
+      "style": 72,
+      "name": "Use the BLADE barracks Network Console to\ncollect Global Nemesis battle spoils."
+    },
+    {
+      "$id": 500,
+      "label": "Te_CmnErr_DropResult_NotSale",
+      "style": 72,
+      "name": "[ST:col p1=red ]No sellable items."
+    },
+    {
+      "$id": 501,
+      "label": "Te_SquadSelect_HostDroperr",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 502,
+      "label": "Te_MultiQuestOrder_UnionSalary_noselect",
+      "style": 72,
+      "name": "[ST:col p1=red ]This item cannot be selected."
+    },
+    {
+      "$id": 503,
+      "label": "Te_MultiQuestOrder_UnionSalary_already",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 504,
+      "label": "Te_MultiQuestOrder_UnionSelect_now",
+      "style": 72,
+      "name": "This is your current division."
+    },
+    {
+      "$id": 505,
+      "label": "Te_EN_SITUATION_MES_M08_001",
+      "style": 72,
+      "name": "Ryyz used Decoy to create 50 doppelgangers."
+    },
+    {
+      "$id": 506,
+      "label": "Te_EN_SITUATION_MES_M09_002",
+      "style": 72,
+      "name": "Ga Jiarg and Ga Buidhe are\nstrengthening their teamwork."
+    },
+    {
+      "$id": 507,
+      "label": "Te_SocialInfo_Rental_Reward_err",
+      "style": 72,
+      "name": "[ST:col p1=red ]The relevant reward data does not exist on\nthe server."
+    },
+    {
+      "$id": 508,
+      "label": "Te_BladeReport_Failure",
+      "style": 72,
+      "name": "[ST:col p1=red ]Could not file BLADE report."
+    },
+    {
+      "$id": 509,
+      "label": "Te_CmnErr_Console_Access",
+      "style": 72,
+      "name": "[ST:col p1=red ]You cannot use this now."
+    },
+    {
+      "$id": 510,
+      "label": "Te_Memberlist_fri_now",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 511,
+      "label": "Te_MultiQuestOrder_BQ_end",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 512,
+      "label": "Te_SQ_telop_008_001",
+      "style": 72,
+      "name": "The Rexoskell used Decoy to\ncreate 150 doppelgangers."
+    },
+    {
+      "$id": 513,
+      "label": "Te_SQ_telop_005_001",
+      "style": 72,
+      "name": "Reinforcements have responded\nto the Vasara's call!"
+    },
+    {
+      "$id": 514,
+      "label": "Te_SocialInfo_WE_NoReward",
+      "style": 72,
+      "name": "No spoils to claim for this Global Nemesis battle."
+    },
+    {
+      "$id": 515,
+      "label": "Te_SocialInfo_FR_NoReward",
+      "style": 72,
+      "name": "No spoils to claim for this Global Nemesis battle."
+    },
+    {
+      "$id": 516,
+      "label": "Te_GuideErr_Telop",
+      "style": 72,
+      "name": "[ST:col p1=red ]Progress conditions not met."
+    },
+    {
+      "$id": 517,
+      "label": "Te_CmnTelop_SegCompReward",
+      "style": 72,
+      "name": "You received 5,000 material tickets."
+    },
+    {
+      "$id": 518,
+      "label": "Te_Memberlist_timeout",
+      "style": 72,
+      "name": "Connection timed out.\nPlease wait a while and try again."
+    },
+    {
+      "$id": 519,
+      "label": "Te_AvatarMake_err",
+      "style": 72,
+      "name": "Please remove gender-specific items from\nground and fashion gear before accessing."
+    },
+    {
+      "$id": 520,
+      "label": "Te_PopUp_General01",
+      "style": 72,
+      "name": "Saving..."
+    },
+    {
+      "$id": 521,
+      "label": "Te_PopUp_Error02",
+      "style": 72,
+      "name": "[ST:col p1=red ]You have left the squad.\nSwitching to offline mode."
+    },
+    {
+      "$id": 522,
+      "label": "Te_PopUp_Error03",
+      "style": 72,
+      "name": "[ST:col p1=red ]Connection to Nintendo Switch Online\nhas been lost. Switching to offline mode."
+    },
+    {
+      "$id": 523,
+      "label": "Te_PopUp_Error04",
+      "style": 72,
+      "name": "[ST:col p1=red ]Could not connect to the internet.\nSwitching to offline mode."
+    },
+    {
+      "$id": 524,
+      "label": "Te_PopUp_center01",
+      "style": 72,
+      "name": "You are now following this player.\n(It may take some time for this to be reflected.)"
+    },
+    {
+      "$id": 525,
+      "label": "Te_PopUp_center02",
+      "style": 72,
+      "name": "Unable to follow.\n(Your list is full.)"
+    },
+    {
+      "$id": 526,
+      "label": "Te_PopUp_center03",
+      "style": 72,
+      "name": "You have stopped following this player.\n(It may take some time for this to be reflected.)"
+    },
+    {
+      "$id": 527,
+      "label": "Te_PopUp_Error01",
+      "style": 72,
+      "name": "[ST:col p1=red ]The selected character cannot equip\nthat category of weapon."
+    },
+    {
+      "$id": 528,
+      "label": "Te_Telop_Center02",
+      "style": 72,
+      "name": "The time has been changed."
+    },
+    {
+      "$id": 529,
+      "label": "Te_Telop_Center03",
+      "style": 72,
+      "name": "A new BLADE has been added to the party."
+    },
+    {
+      "$id": 530,
+      "label": "Te_Telop_Center04",
+      "style": 72,
+      "name": "[ST:col p1=red ]You have not scouted any BLADEs."
+    },
+    {
+      "$id": 531,
+      "label": "Te_Telop_Center05",
+      "style": 72,
+      "name": "The BLADE has been released. (You have been\nreimbursed based on remaining scout time.)"
+    },
+    {
+      "$id": 532,
+      "label": "Te_Telop_Center06",
+      "style": 72,
+      "name": "Avatar registered."
+    },
+    {
+      "$id": 533,
+      "label": "Te_Telop_Center07",
+      "style": 72,
+      "name": "[ST:col p1=red ]You have no avatar registered."
+    },
+    {
+      "$id": 534,
+      "label": "Te_Telop_Center08",
+      "style": 72,
+      "name": "Avatar registration deleted."
+    },
+    {
+      "$id": 535,
+      "label": "Te_Telop_Center09",
+      "style": 72,
+      "name": "[ST:col p1=red ]You have no avatar registered."
+    },
+    {
+      "$id": 536,
+      "label": "Te_Telop_high01",
+      "style": 72,
+      "name": "[ST:col p1=red ]You do not have enough credits."
+    },
+    {
+      "$id": 537,
+      "label": "Te_Telop_Center10",
+      "style": 72,
+      "name": "[ST:col p1=red ]You do not meet the level requirements."
+    },
+    {
+      "$id": 538,
+      "label": "Te_Telop_Center11",
+      "style": 72,
+      "name": "Your Skell has been replaced by your insurance."
+    },
+    {
+      "$id": 539,
+      "label": "Te_PopUp_Error05",
+      "style": 72,
+      "name": "[ST:col p1=red ]You cannot reset this,\nas it has not been upgraded."
+    },
+    {
+      "$id": 540,
+      "label": "Te_PopUp_Error06",
+      "style": 72,
+      "name": "[ST:col p1=red ]Unable to reset, as doing so would cause\nyour BP to exceed the maximum possible value."
+    },
+    {
+      "$id": 541,
+      "label": "Te_Telop_Center12",
+      "style": 72,
+      "name": "[ST:col p1=yellow ]Tracking canceled."
+    },
+    {
+      "$id": 542,
+      "label": "Te_Telop_Center13",
+      "style": 72,
+      "name": "Art levels have been reset."
+    },
+    {
+      "$id": 543,
+      "label": "Te_Telop_Center14",
+      "style": 72,
+      "name": "Skill levels have been reset."
+    },
+    {
+      "$id": 544,
+      "label": "Te_PopUp_Error07",
+      "style": 72,
+      "name": "[ST:col p1=red ]This character has not joined you."
+    },
+    {
+      "$id": 545,
+      "label": "Te_PopUp_Error08",
+      "style": 72,
+      "name": "[ST:col p1=red ]You cannot select this character."
+    },
+    {
+      "$id": 546,
+      "label": "Te_PopUp_Error09",
+      "style": 72,
+      "name": "[ST:col p1=red ]Your avatar cannot leave the party."
+    },
+    {
+      "$id": 547,
+      "label": "Te_Telop_Center15",
+      "style": 72,
+      "name": "Party members have been changed."
+    },
+    {
+      "$id": 548,
+      "label": "Te_Telop_Center16",
+      "style": 72,
+      "name": "[ST:col p1=red ]You have unclaimed Global Nemesis Rewards.\nPlease check them from the main menu."
+    },
+    {
+      "$id": 549,
+      "label": "Te_Telop_Center17",
+      "style": 72,
+      "name": "You have abandoned the mission."
+    },
+    {
+      "$id": 550,
+      "label": "Te_Telop_Center18",
+      "style": 72,
+      "name": "All party members have been gathered.\nPlease leave from the door."
+    },
+    {
+      "$id": 551,
+      "label": "Te_Telop_Center19",
+      "style": 72,
+      "name": "Your assigned division has been changed."
+    },
+    {
+      "$id": 552,
+      "label": "Te_Telop_Center20",
+      "style": 72,
+      "name": "You are already assigned to this division."
+    },
+    {
+      "$id": 553,
+      "label": "Te_PopUp_Error10",
+      "style": 72,
+      "name": "[ST:col p1=red ]You cannot hold any more of that type of item."
+    },
+    {
+      "$id": 554,
+      "label": "Te_PopUp_Error11",
+      "style": 72,
+      "name": "[ST:col p1=red ]You do not have enough material tickets."
+    },
+    {
+      "$id": 555,
+      "label": "Te_Telop_Center21",
+      "style": 72,
+      "name": "The purchased item has been equipped."
+    },
+    {
+      "$id": 556,
+      "label": "Te_Telop_Center22",
+      "style": 72,
+      "name": "The purchased item has been sent to\nyour inventory."
+    },
+    {
+      "$id": 557,
+      "label": "Te_Telop_Center23",
+      "style": 72,
+      "name": "Sold."
+    },
+    {
+      "$id": 558,
+      "label": "Te_Telop_Center24",
+      "style": 72,
+      "name": "Skell sold.\n(Equipped augments have been kept.)"
+    },
+    {
+      "$id": 559,
+      "label": "Te_PopUp_Error12",
+      "style": 72,
+      "name": "[ST:col p1=red ]You cannot classify equipped, favorite or\nunsellable items as junk."
+    },
+    {
+      "$id": 560,
+      "label": "Te_PopUp_Error13",
+      "style": 72,
+      "name": "[ST:col p1=red ]Cannot remove augments affixed to\nteammates' equipment."
+    },
+    {
+      "$id": 561,
+      "label": "Te_PopUp_Center25",
+      "style": 72,
+      "name": "[ST:col p1=red ]This feature can only be played in online mode."
+    },
+    {
+      "$id": 562,
+      "label": "Te_PopUp_Center26",
+      "style": 72,
+      "name": "The new Skell has been sent to the Barracks Hangar.\n(You can check it from the Customization Center.)"
+    },
+    {
+      "$id": 563,
+      "label": "Te_Telop_Center27",
+      "style": 72,
+      "name": "You have received Global Nemesis rewards."
+    },
+    {
+      "$id": 564,
+      "label": "Te_Telop_Center28",
+      "style": 72,
+      "name": "No scout rewards.\n(You get these when recruited by other players.)"
+    },
+    {
+      "$id": 565,
+      "label": "Te_Telop_Center29",
+      "style": 72,
+      "name": "You have received scout rewards."
+    },
+    {
+      "$id": 566,
+      "label": "Te_Telop_Center30",
+      "style": 72,
+      "name": "No division rewards.\n(You can receive these once per day.)"
+    },
+    {
+      "$id": 567,
+      "label": "Te_Telop_Center31",
+      "style": 72,
+      "name": "You have received division rewards."
+    },
+    {
+      "$id": 568,
+      "label": "Te_Telop_Center32",
+      "style": 72,
+      "name": "No Global Nemesis rewards.\n(Get these by defeating Global Nemeses.)"
+    },
+    {
+      "$id": 569,
+      "label": "Te_Telop_Center33",
+      "style": 72,
+      "name": "You have received Global Nemesis rewards."
+    },
+    {
+      "$id": 570,
+      "label": "Te_Telop_Center34",
+      "style": 72,
+      "name": "You have received rewards."
+    },
+    {
+      "$id": 571,
+      "label": "Te_PopUp_Error14",
+      "style": 72,
+      "name": "[ST:col p1=red ]You cannot add both Frye and Phog\nto your team at the same time."
+    },
+    {
+      "$id": 572,
+      "label": "Te_Telop_Center35",
+      "style": 72,
+      "name": "This feature will be unlocked later in the game."
+    },
+    {
+      "$id": 573,
+      "label": "Te_Telop_Center36",
+      "style": 72,
+      "name": "Recon for nearby segments has been unlocked."
+    },
+    {
+      "$id": 574,
+      "label": "Te_PopUp_Error15",
+      "style": 72,
+      "name": "[ST:col p1=red ]Not available in offline mode."
+    },
+    {
+      "$id": 575,
+      "label": "Te_PopUp_Error16",
+      "style": 72,
+      "name": "[ST:col p1=red ]You cannot place any more markers."
+    },
+    {
+      "$id": 576,
+      "label": "Te_Telop_Center37",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 577,
+      "label": "Te_enemy_boss_01",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 578,
+      "label": "Te_enemy_boss_02",
+      "style": 72,
+      "name": "Destroying the Samaarian shackle's casing has\nsealed Void's Elemental Shift (Physical) power."
+    },
+    {
+      "$id": 579,
+      "label": "Te_enemy_boss_03",
+      "style": 72,
+      "name": "Destroying the Samaarian shackle's casing has\nsealed Void's Elemental Shift (Beam) power."
+    },
+    {
+      "$id": 580,
+      "label": "Te_enemy_boss_04",
+      "style": 72,
+      "name": "Destroying the Samaarian shackle's casing has\nsealed Void's Elemental Shift (Ether) power."
+    },
+    {
+      "$id": 581,
+      "label": "Te_enemy_boss_05",
+      "style": 72,
+      "name": "Destroying the Samaarian shackle's casing has\nsealed Void's Elemental Shift (Thermal) power."
+    },
+    {
+      "$id": 582,
+      "label": "Te_enemy_boss_06",
+      "style": 72,
+      "name": "Destroying the Samaarian shackle's casing has\nsealed Void's Elemental Shift (Electric) power."
+    },
+    {
+      "$id": 583,
+      "label": "Te_enemy_boss_07",
+      "style": 72,
+      "name": "Destroying the Samaarian shackle's casing has\nsealed Void's Elemental Shift (Gravity) power."
+    },
+    {
+      "$id": 584,
+      "label": "Te_enemy_boss_08",
+      "style": 72,
+      "name": "You were unable to prevent Void's escape..."
+    },
+    {
+      "$id": 585,
+      "label": "Te_Telop_Center38",
+      "style": 72,
+      "name": "[ST:col p1=yellow ]You now have the required materials."
+    },
+    {
+      "$id": 586,
+      "label": "Te_PopUp_Error17",
+      "style": 72,
+      "name": "[ST:col p1=red ]You cannot deconstruct an augment\nthat's currently affixed to an item."
+    },
+    {
+      "$id": 587,
+      "label": "Te_PopUp_Error18",
+      "style": 72,
+      "name": "[ST:col p1=red ]Navigation can only be used\nfor story missions right now."
+    },
+    {
+      "$id": 588,
+      "label": "Te__old_skip_travel_error_1",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 589,
+      "label": "Te__old_skip_travel_error_2",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 590,
+      "label": "Te_PopUp_Error19",
+      "style": 72,
+      "name": "[ST:col p1=red ]You cannot scout more than three BLADEs."
+    },
+    {
+      "$id": 591,
+      "label": "Te_PopUp_Error20",
+      "style": 72,
+      "name": "[ST:col p1=red ]You cannot follow yourself."
+    },
+    {
+      "$id": 592,
+      "label": "Te_Telop_Center39",
+      "style": 72,
+      "name": "You must be registered as a Skell's pilot to use\nthis. Register pilots at the Customization Center."
+    },
+    {
+      "$id": 593,
+      "label": "Te_Telop_Center40",
+      "style": 72,
+      "name": "This will become available after advancing\nthe game's main story."
+    },
+    {
+      "$id": 594,
+      "label": "Te_Telop_Center41",
+      "style": 72,
+      "name": "This cannot be used in offline mode.\nFirst, connect to the internet and join a squad."
+    },
+    {
+      "$id": 595,
+      "label": "Te_Telop_Center43",
+      "style": 72,
+      "name": "You can change this by setting\n\"All\" to \"Manual.\""
+    },
+    {
+      "$id": 596,
+      "label": "Te_Telop_Center44",
+      "style": 72,
+      "name": "Settings have been saved."
+    },
+    {
+      "$id": 597,
+      "label": "Te_Telop_Center45",
+      "style": 72,
+      "name": "Reverted to default settings."
+    },
+    {
+      "$id": 598,
+      "label": "Te_Telop_Center46",
+      "style": 72,
+      "name": "[ST:col p1=red ]This setting can only be changed from\nthe in-game Settings screen."
+    },
+    {
+      "$id": 599,
+      "label": "Te_Telop_Center47",
+      "style": 72,
+      "name": "You can change this by going to Social\nNotifications and setting \"All\" to \"Manual.\""
+    },
+    {
+      "$id": 600,
+      "label": "Te_Telop_Center48",
+      "style": 72,
+      "name": "[ST:col p1=red ]This cannot be used in the BLADE barracks."
+    },
+    {
+      "$id": 601,
+      "label": "Te_Telop_Center49",
+      "style": 72,
+      "name": "[ST:col p1=red ]This cannot be used while piloting a Skell."
+    },
+    {
+      "$id": 602,
+      "label": "Te_Telop_Center50",
+      "style": 72,
+      "name": "[ST:col p1=red ]Cannot be used while your Skell is wrecked.\nYou can repair it at the Customization Center."
+    },
+    {
+      "$id": 603,
+      "label": "Te_Telop_Center51",
+      "style": 72,
+      "name": "[ST:col p1=red ]You cannot use this now."
+    },
+    {
+      "$id": 604,
+      "label": "Te_Telop_Center52",
+      "style": 72,
+      "name": "You are already connected to the server."
+    },
+    {
+      "$id": 605,
+      "label": "Te_PopUp_Error21",
+      "style": 72,
+      "name": "[ST:col p1=red ]This character is unable to equip\nthat type of armor."
+    },
+    {
+      "$id": 606,
+      "label": "Te_Telop_Center53",
+      "style": 72,
+      "name": "Treasure rank has been raised!"
+    },
+    {
+      "$id": 607,
+      "label": "Te_enemy_boss_01_01",
+      "style": 72,
+      "name": "The shackle has sealed away\na tiny portion of Void's power."
+    },
+    {
+      "$id": 608,
+      "label": "Te_enemy_boss_01_02",
+      "style": 72,
+      "name": "The two shackles have sealed away\na small fraction of Void's power."
+    },
+    {
+      "$id": 609,
+      "label": "Te_enemy_boss_01_03",
+      "style": 72,
+      "name": "The three shackles have sealed away\nsome of Void's power."
+    },
+    {
+      "$id": 610,
+      "label": "Te_enemy_boss_01_04",
+      "style": 72,
+      "name": "The four shackles have sealed away\nmuch of Void's power."
+    },
+    {
+      "$id": 611,
+      "label": "Te_enemy_boss_01_05",
+      "style": 72,
+      "name": "The five shackles have sealed away\na great deal of Void's power."
+    },
+    {
+      "$id": 612,
+      "label": "Te_enemy_boss_01_06",
+      "style": 72,
+      "name": "The six shackles have sealed away\nmost of Void's power."
+    },
+    {
+      "$id": 613,
+      "label": "Te_enemy_boss_09",
+      "style": 72,
+      "name": "Void is attempting to activate the cores."
+    },
+    {
+      "$id": 614,
+      "label": "Te_enemy_boss_10",
+      "style": 72,
+      "name": "Void is on the verge of activating all the cores."
+    },
+    {
+      "$id": 615,
+      "label": "Te_skip_travel_error_1",
+      "style": 72,
+      "name": "[ST:col p1=red ]Fast travel is not available right now."
+    },
+    {
+      "$id": 616,
+      "label": "Te_skip_travel_error_2",
+      "style": 72,
+      "name": "[ST:col p1=red ]You cannot fast travel to this location by Skell.\nExit your Skell first."
+    },
+    {
+      "$id": 617,
+      "label": "Te_Telop_Center54",
+      "style": 72,
+      "name": "Point Attack time limit has been changed."
+    },
+    {
+      "$id": 618,
+      "label": "Te_Telop_Center55",
+      "style": 72,
+      "name": "[ST:col p1=red ]You cannot use this without a Skell."
+    },
+    {
+      "$id": 619,
+      "label": "Te_PopUp_Error22",
+      "style": 72,
+      "name": "[ST:col p1=red ]This Skell cannot be sold."
+    },
+    {
+      "$id": 620,
+      "label": "Te_PopUp_Error23",
+      "style": 72,
+      "name": "[ST:col p1=red ]You cannot sell a damaged Skell."
+    },
+    {
+      "$id": 621,
+      "label": "Te_Telop_Center56",
+      "style": 72,
+      "name": "The pilot has been registered."
+    },
+    {
+      "$id": 622,
+      "label": "Te_Telop_Center57",
+      "style": 72,
+      "name": "Pilot registration has been deleted."
+    },
+    {
+      "$id": 623,
+      "label": "Te_Telop_Center58",
+      "style": 72,
+      "name": "[ST:col p1=red ]This character cannot change their\nassigned Skell right now."
+    },
+    {
+      "$id": 624,
+      "label": "Te_Telop_Center59",
+      "style": 72,
+      "name": "You obtained materials in exchange for your tickets."
+    },
+    {
+      "$id": 625,
+      "label": "Te_Telop_Center60",
+      "style": 72,
+      "name": "A new player has joined the mission."
+    },
+    {
+      "$id": 626,
+      "label": "Te_PopUp_Error24",
+      "style": 72,
+      "name": "[ST:col p1=red ]A player has disconnected."
+    },
+    {
+      "$id": 627,
+      "label": "Te_PopUp_Error25",
+      "style": 72,
+      "name": "[ST:col p1=red ]A player has abandoned the mission."
+    },
+    {
+      "$id": 628,
+      "label": "Te_Telop_Center61",
+      "style": 72,
+      "name": "You have joined a mission."
+    },
+    {
+      "$id": 629,
+      "label": "Te_Telop_Center62",
+      "style": 72,
+      "name": "A new player has joined the mission."
+    },
+    {
+      "$id": 630,
+      "label": "Te_PopUp_Error26",
+      "style": 72,
+      "name": "[ST:col p1=red ]The player that accepted the mission has\ndisconnected. The mission has been abandoned."
+    },
+    {
+      "$id": 631,
+      "label": "Te_PopUp_Error27",
+      "style": 72,
+      "name": "[ST:col p1=red ]The player that accepted the mission has \nwithdrawn. The mission has been abandoned."
+    },
+    {
+      "$id": 632,
+      "label": "Te_PopUp_Error28",
+      "style": 72,
+      "name": "[ST:col p1=red ]You cannot scrap this Skell."
+    },
+    {
+      "$id": 633,
+      "label": "Te_Telop_Center63",
+      "style": 72,
+      "name": "A BLADE has been released."
+    },
+    {
+      "$id": 634,
+      "label": "Te_PopUp_Error29",
+      "style": 72,
+      "name": "[ST:col p1=red ]You cannot change this Skell's colors."
+    },
+    {
+      "$id": 635,
+      "label": "Te_PopUp_Error30",
+      "style": 72,
+      "name": "[ST:col p1=red ]You cannot edit Soul Voices for characters\nother than the player avatar."
+    },
+    {
+      "$id": 636,
+      "label": "Te_Telop_Center64",
+      "style": 72,
+      "name": "[ST:col p1=red ]A communication error has occurred.\nThe mission has been abandoned."
+    },
+    {
+      "$id": 637,
+      "label": "Te_PopUp_Error31",
+      "style": 72,
+      "name": "[ST:col p1=red ]You have no items classified as junk."
+    },
+    {
+      "$id": 638,
+      "label": "Te_PopUp_Error32",
+      "style": 72,
+      "name": "[ST:col p1=red ]This has been classified as junk."
+    },
+    {
+      "$id": 639,
+      "label": "Te_Telop_Center65",
+      "style": 72,
+      "name": "Your Skell has been replaced free of charge,\nthanks to a successful Soul Challenge."
+    },
+    {
+      "$id": 640,
+      "label": "Te_PopUp_Error33",
+      "style": 72,
+      "name": "[ST:col p1=red ]Navigation cannot be canceled for\nthe current story mission."
+    },
+    {
+      "$id": 641,
+      "label": "Te_Telop_Center66",
+      "style": 72,
+      "name": "[ST:col p1=red ]You cannot change the pilot of this Skell."
+    },
+    {
+      "$id": 642,
+      "label": "Te_Telop_Center67",
+      "style": 72,
+      "name": "You have equipped a weapon of a different\ncategory. Please confirm your Arts selection."
+    },
+    {
+      "$id": 643,
+      "label": "Te_Telop_Center68",
+      "style": 72,
+      "name": "[ST:col p1=red ]You cannot change the name of this Skell."
+    },
+    {
+      "$id": 644,
+      "label": "Te_Telop_Center69",
+      "style": 72,
+      "name": "All augments have been removed."
+    },
+    {
+      "$id": 645,
+      "label": "Te_Telop_Center70",
+      "style": 72,
+      "name": "New equipment has been created."
+    },
+    {
+      "$id": 646,
+      "label": "Te_Telop_Center71",
+      "style": 72,
+      "name": "Online data has been saved."
+    },
+    {
+      "$id": 647,
+      "label": "Te_PopUp_Error34",
+      "style": 72,
+      "name": "[ST:col p1=red ]You cannot use this now."
+    },
+    {
+      "$id": 648,
+      "label": "Te_Telop_Center72",
+      "style": 72,
+      "name": "The selected character was registered as the pilot."
+    },
+    {
+      "$id": 649,
+      "label": "Te_Telop_Center73",
+      "style": 72,
+      "name": "Upgraded."
+    },
+    {
+      "$id": 650,
+      "label": "Te_Telop_Center74",
+      "style": 72,
+      "name": "[ST:col p1=yellow ]Target was set for tracking in navigation panel."
+    },
+    {
+      "$id": 651,
+      "label": "Te_Telop_Center75",
+      "style": 72,
+      "name": "[ST:col p1=red ]You cannot use this now."
+    },
+    {
+      "$id": 652,
+      "label": "Te_Telop_Center76",
+      "style": 72,
+      "name": "Your Skell has been replaced free of charge,\nowing to the ongoing emergency mission."
+    },
+    {
+      "$id": 653,
+      "label": "Te_Telop_Center77",
+      "style": 72,
+      "name": "Your Skell has been replaced free of charge,\nowing to your ongoing test flight."
+    },
+    {
+      "$id": 654,
+      "label": "Te_Telop_Center78",
+      "style": 72,
+      "name": "Your Skell has been replaced free of charge,\ndue to being destroyed in a de-mat event."
+    },
+    {
+      "$id": 655,
+      "label": "Te_Telop_Center79",
+      "style": 72,
+      "name": "[ST:col p1=red ]Insufficient materials."
+    },
+    {
+      "$id": 656,
+      "label": "Te_Telop_Center80",
+      "style": 72,
+      "name": "[ST:col p1=red ]No pilot is registered."
+    },
+    {
+      "$id": 657,
+      "label": "Te_Telop_Center81",
+      "style": 72,
+      "name": "[ST:col p1=red ]This Skell's pilot cannot be removed."
+    },
+    {
+      "$id": 658,
+      "label": "Te_Telop_Center82",
+      "style": 72,
+      "name": "The name has been changed."
+    },
+    {
+      "$id": 659,
+      "label": "Te_Telop_Center83",
+      "style": 72,
+      "name": "The new colors have been applied."
+    },
+    {
+      "$id": 660,
+      "label": "Te_PopUp_Error35",
+      "style": 72,
+      "name": "[ST:col p1=red ]You cannot change the equipment of\nscouted BLADEs."
+    },
+    {
+      "$id": 661,
+      "label": "Te_Telop_Center84",
+      "style": 72,
+      "name": "[ST:col p1=red ]You cannot sell items that are set as favorite."
+    },
+    {
+      "$id": 662,
+      "label": "Te_PopUp_Error36",
+      "style": 72,
+      "name": "[ST:col p1=red ]You cannot set multiple Soul Voices\nwith the same trigger condition."
+    },
+    {
+      "$id": 663,
+      "label": "Te_Telop_Center85",
+      "style": 72,
+      "name": "[ST:col p1=red ]Insufficient materials."
+    },
+    {
+      "$id": 664,
+      "label": "Te_Telop_Center86",
+      "style": 72,
+      "name": "The class has been changed."
+    },
+    {
+      "$id": 665,
+      "label": "Te_Telop_Center87",
+      "style": 72,
+      "name": "The Soul Voice has been changed."
+    },
+    {
+      "$id": 666,
+      "label": "Te_Telop_Center88",
+      "style": 72,
+      "name": "Trigger conditions have been changed."
+    },
+    {
+      "$id": 667,
+      "label": "Te_Telop_Center89",
+      "style": 72,
+      "name": "The profile has been changed."
+    },
+    {
+      "$id": 668,
+      "label": "Te_PopUp_Error37",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 669,
+      "label": "Te_Telop_Center90",
+      "style": 72,
+      "name": "[ST:col p1=yellow ]You have unclaimed Global Nemesis Rewards.\nThe rewards screen will be opened."
+    },
+    {
+      "$id": 670,
+      "label": "Te_PopUp_Error38",
+      "style": 72,
+      "name": "[ST:col p1=red ]You cannot hold any more Skell weapons."
+    },
+    {
+      "$id": 671,
+      "label": "Te_PopUp_Error39",
+      "style": 72,
+      "name": "[ST:col p1=red ]You cannot hold any more Skell armor."
+    },
+    {
+      "$id": 672,
+      "label": "Te_enemy_boss_11",
+      "style": 72,
+      "name": "The Ghost's barrier is blocking your attacks.\nIt must be powered by one of its appendages."
+    },
+    {
+      "$id": 673,
+      "label": "Te_enemy_boss_12",
+      "style": 72,
+      "name": "Target a Ghost appendage that's still vulnerable.\n(Switch appendages with [ST:icon p1=r ] + [ST:icon p1=a ] or [ST:icon p1=r ] + [ST:icon p1=y ].)"
+    },
+    {
+      "$id": 674,
+      "label": "Te_PopUp_Error40",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 675,
+      "label": "Te_Telop_Center91",
+      "style": 72,
+      "name": "Only the player who accepted the mission can\nchoose to begin or cancel a mission."
+    },
+    {
+      "$id": 676,
+      "label": "Te_PopUp_Error41",
+      "style": 72,
+      "name": "This player has not registered their avatar,\nso their status cannot be displayed."
+    },
+    {
+      "$id": 677,
+      "label": "Te_PopUp_Error42",
+      "style": 72,
+      "name": "[ST:col p1=red ]You cannot sell equipped items."
+    },
+    {
+      "$id": 678,
+      "label": "Te_PopUp_Error43",
+      "style": 72,
+      "name": "[ST:col p1=red ]You cannot favorite base equipment."
+    },
+    {
+      "$id": 679,
+      "label": "Te_PopUp_Error44",
+      "style": 72,
+      "name": "[ST:col p1=red ]You cannot favorite items of this category."
+    },
+    {
+      "$id": 680,
+      "label": "Te_Telop_Center92",
+      "style": 72,
+      "name": "The information has been registered."
+    },
+    {
+      "$id": 681,
+      "label": "Te_Telop_Center93",
+      "style": 72,
+      "name": "The bonus items have been received."
+    },
+    {
+      "$id": 682,
+      "label": "Te_PopUp_Error45",
+      "style": 72,
+      "name": "[ST:col p1=red ]Could not connect to server.\nClaimed RP could not be uploaded."
+    },
+    {
+      "$id": 683,
+      "label": "Te_PopUp_Error46",
+      "style": 72,
+      "name": "Cannot be used while an ally is piloting a Skell.\nTo order allies to disembark, press [ST:icon p1=r ] + [ST:icon p1=crsr ]."
+    }
+  ]
+}

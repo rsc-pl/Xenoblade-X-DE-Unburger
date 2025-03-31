@@ -1,0 +1,456 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev021301_JNK0010",
+      "style": 4,
+      "name": "Inquire[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev021301_SEL0011",
+      "style": 1,
+      "name": "Ask about Dana's duties as a BLADE.[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev021301_JNK0020",
+      "style": 1,
+      "name": "Discuss[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev021301_SEL0021",
+      "style": 3,
+      "name": "Ask Dana about recent developments.[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev021301_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 6,
+      "label": "tev021301_SEL0031",
+      "style": 3,
+      "name": "Ask Dana about the enemy attack.[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "tev021301_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 8,
+      "label": "tev021301_SEL0021",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 9,
+      "label": "tev021301_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 10,
+      "label": "tev021301_SEL0041",
+      "style": 3,
+      "name": "Ask Dana what she intends to do next.[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev021301_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 12,
+      "label": "tev021301_SEL0021",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 13,
+      "label": "tev021301_MSG0001",
+      "style": 1,
+      "name": "When I was on outer-wall guard duty, I heard what\nsounded like a grex's roar coming from near the\nwest gate.[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "tev021301_MSG0002",
+      "style": 1,
+      "name": "I ran down to intervene, but the noob that Colonel\nElma found had already taken it out.[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "tev021301_MSG0003",
+      "style": 1,
+      "name": "I'm curious to get a look at [ST:gender p1=him p2=her ]. I want to see what\nkind of new recruit is able to pull off Interceptor\ndefense work on their first day on the job![ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "tev021301_MSG0004",
+      "style": 1,
+      "name": "Well, you're looking at [ST:gender p1=him p2=her ], Dana.\nThis is [ST:playername ], the new recruit. [ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "tev021301_MSG0005",
+      "style": 1,
+      "name": "Oh no, Irina! I am so sorry!\nI didn't know the noob was on your team![ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "tev021301_MSG0006",
+      "style": 1,
+      "name": "The \"noob\" is leading this team.\nI'm just a member.[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "tev021301_MSG0007",
+      "style": 1,
+      "name": "Holy wow. [ST:gender p1=He p2=She ] must be some kind of super-noob if\nyou're working for [ST:gender p1=him p2=her ] now![ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "tev021301_MSG0008",
+      "style": 1,
+      "name": "I serve in the Interceptors division, and I wake up\nevery day excited to go to work.[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "tev021301_MSG0009",
+      "style": 1,
+      "name": "Though I still haven't quite mastered the art of piloting\na Skell, so I'm not very good at killing tough monsters.[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "tev021301_MSG0010",
+      "style": 1,
+      "name": "But what I lack in skill, I make up for in enthusiasm![ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "tev021301_MSG0011",
+      "style": 1,
+      "name": "I just wished Christopher would notice that and come\ntalk to me...[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "tev021301_MSG0012",
+      "style": 1,
+      "name": "Argh! I did not just say that out loud! Forget I said\nanything! I'm not out here to meet boys, all right?[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "tev021301_MSG0013",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 26,
+      "label": "tev021301_MSG0014",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 27,
+      "label": "tev021301_MSG0015",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 28,
+      "label": "tev021301_MSG0023",
+      "style": 1,
+      "name": "Their attack was brutal. We lost a ton of good\nInterceptors that day.[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "tev021301_MSG0024",
+      "style": 1,
+      "name": "And that includes an old friend of mine who jumped\nin front of a missile in order to protect New LA.[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "tev021301_MSG0025",
+      "style": 1,
+      "name": "What a brave, heroic...fool he was. Goddammit.\nWe have to find the Lifehold Core and bring him\nback as soon as humanly possible![ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "tev021301_MSG0026",
+      "style": 1,
+      "name": "And then, once we're all drinking the night away,\nI'm gonna ask him what it felt like to die like that.[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "tev021301_MSG0027",
+      "style": 1,
+      "name": "They found the Lifehold Core, right? So when are we\ngonna get our real bodies back?[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "tev021301_MSG0028",
+      "style": 1,
+      "name": "I have to bring all of our dead friends back.\nThen we're gonna gang up on Irina and make her go\ndrinking with us![ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "tev021301_MSG0029",
+      "style": 1,
+      "name": "I bet beer tastes even better when it's flowing through\na flesh-and-blood body.[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "tev021301_MSG0030",
+      "style": 1,
+      "name": "Marcus gave his life for us...[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "tev021301_MSG0031",
+      "style": 1,
+      "name": "Irina! Don't say things like that!\nWhat happened to that stiff upper lip of yours?[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "tev021301_MSG0032",
+      "style": 1,
+      "name": "We're gonna find the Lifehold Core and bring him\nback. And then I'm gonna punch him right in the face\nfor making you sad![ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "tev021301_MSG0033",
+      "style": 1,
+      "name": "Thanks, Dana. Your boundless enthusiasm always\nmakes me feel better.[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "tev021301_MSG0034",
+      "style": 1,
+      "name": "I'm sure it won't be long.[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "tev021301_MSG0035",
+      "style": 1,
+      "name": "That's great! When everyone comes back,\nwe're gonna make you come drink with us.[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "tev021301_MSG0036",
+      "style": 1,
+      "name": "I see you're as enthusiastic about your drinking as you\nare about your missions...[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "tev021301_MSG0037",
+      "style": 1,
+      "name": "Of course! Enthusiasm's pretty much all I've got![ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "tev021301_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 44,
+      "label": "tev021301_SEL0011",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 45,
+      "label": "tev021301_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 46,
+      "label": "tev021301_SEL0051",
+      "style": 1,
+      "name": "Ask Dana about recent developments.[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "tev021301_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 48,
+      "label": "tev021301_SEL0031",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 49,
+      "label": "tev021301_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 50,
+      "label": "tev021301_SEL0051",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 51,
+      "label": "tev021301_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 52,
+      "label": "tev021301_SEL0041",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 53,
+      "label": "tev021301_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 54,
+      "label": "tev021301_SEL0051",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 55,
+      "label": "tev021301_MSG0039",
+      "style": 1,
+      "name": "Christopher is so good to me. I couldn't be happier![ST:wait ]"
+    },
+    {
+      "$id": 56,
+      "label": "tev021301_MSG0042",
+      "style": 1,
+      "name": "And you're the cupid who brought us together!\nI owe such a debt of gratitude to both you and that\nweird Ma-non, Chiopitus.[ST:wait ]"
+    },
+    {
+      "$id": 57,
+      "label": "tev021301_MSG0043",
+      "style": 1,
+      "name": "Still, I'm not just going to lie back and rely on\nChristopher for everything.[ST:wait ]"
+    },
+    {
+      "$id": 58,
+      "label": "tev021301_MSG0044",
+      "style": 1,
+      "name": "I'm going to redouble my efforts as an Interceptor\nin order to protect our future together![ST:wait ]"
+    },
+    {
+      "$id": 59,
+      "label": "tev021301_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 60,
+      "label": "tev021301_SEL0011",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 61,
+      "label": "tev021301_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 62,
+      "label": "tev021301_SEL0061",
+      "style": 1,
+      "name": "Ask Dana about recent developments.[ST:wait ]"
+    },
+    {
+      "$id": 63,
+      "label": "tev021301_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 64,
+      "label": "tev021301_SEL0031",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 65,
+      "label": "tev021301_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 66,
+      "label": "tev021301_SEL0061",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 67,
+      "label": "tev021301_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 68,
+      "label": "tev021301_SEL0041",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 69,
+      "label": "tev021301_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 70,
+      "label": "tev021301_SEL0061",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 71,
+      "label": "tev021301_MSG0080",
+      "style": 1,
+      "name": "I never want to talk to you about Christopher again.[ST:wait ]"
+    },
+    {
+      "$id": 72,
+      "label": "tev021301_MSG0081",
+      "style": 1,
+      "name": "You and that Ma-non, Chiopitus or whatever,\nyou're like anti-cupids. Love withers and dies\nwhenever you're near.[ST:wait ]"
+    },
+    {
+      "$id": 73,
+      "label": "tev021301_MSG0082",
+      "style": 1,
+      "name": "We can talk about missions and stuff if you want,\nbut I don't ever want to hear you speak the name\n\"Christopher\" again![ST:wait ]"
+    }
+  ]
+}

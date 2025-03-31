@@ -1,0 +1,222 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev060601_MSG0001",
+      "style": 1,
+      "name": "Hello. *fsssh* Um, are you a Zaruboggan?[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev060601_JNK0010",
+      "style": 4,
+      "name": "Explain"
+    },
+    {
+      "$id": 3,
+      "label": "qev060601_SEL0011",
+      "style": 3,
+      "name": "Tell Orleron that you're not a Zaruboggan."
+    },
+    {
+      "$id": 4,
+      "label": "qev060601_JNK0020",
+      "style": 4,
+      "name": "Play Along"
+    },
+    {
+      "$id": 5,
+      "label": "qev060601_SEL0021",
+      "style": 3,
+      "name": "Say that you may, in fact, be a Zaruboggan."
+    },
+    {
+      "$id": 6,
+      "label": "qev060601_MSG0002",
+      "style": 1,
+      "name": "Not a Zaruboggan... *fsssh* Okay, got it.[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev060601_MSG0003",
+      "style": 1,
+      "name": "You seem really nice. *fsssh*[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev060601_MSG0004",
+      "style": 1,
+      "name": "You are one? *fsssh* Okay, got it.[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev060601_MSG0005",
+      "style": 1,
+      "name": "...Er, was that a joke? *fsssh*[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev060601_MSG0006",
+      "style": 1,
+      "name": "Um, hey! *fsssh* Did you know that I'm Orleron\nand I'm a Zaruboggan? [ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev060601_MSG0007",
+      "style": 1,
+      "name": "*fsssh* So I have to devoltanize.\nIt's my duty![ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev060601_MSG0008",
+      "style": 1,
+      "name": "But to do that, I need a new gorkwa, and there aren't\nany around here. *fsssh*[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev060601_MSG0009",
+      "style": 1,
+      "name": "Do you know gorkwas? *fsssh* The staves you use to\ndevoltanize? Where are they?[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev060601_JNK0050",
+      "style": 4,
+      "name": "Query"
+    },
+    {
+      "$id": 15,
+      "label": "qev060601_SEL0051",
+      "style": 3,
+      "name": "Ask Orleron to tell you more about gorkwas."
+    },
+    {
+      "$id": 16,
+      "label": "qev060601_JNK0060",
+      "style": 4,
+      "name": "Answer"
+    },
+    {
+      "$id": 17,
+      "label": "qev060601_SEL0061",
+      "style": 3,
+      "name": "Tell Orleron that you've seen\nother Zaruboggan with them."
+    },
+    {
+      "$id": 18,
+      "label": "qev060601_MSG0010",
+      "style": 1,
+      "name": "Zaruboggan use gorkwas to fulfill their sacred duty!\nBut there aren't any here. *fsssh*[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev060601_MSG0011",
+      "style": 1,
+      "name": "But that's their gorkwa! Not my gorkwa. *fsssh*\nI need a new one.[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev060601_MSG0012",
+      "style": 1,
+      "name": "Will you bring me a new gorkwa? *fsssh*\nThat way I can finally be a grown-up![ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev060601_MSG0013",
+      "style": 1,
+      "name": "*fsssh* And then I can fulfill my sacred duty![ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev060601_MSG0014",
+      "style": 1,
+      "name": "Okay, I'll wait. I can study about how to be a good\ngrown-up until you come back. *fsssh*[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev060601_MSG0015",
+      "style": 1,
+      "name": "But, um, where should I study?\n*fsssh* Can you tell me?[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev060601_JNK0030",
+      "style": 4,
+      "name": "Suggest NLA"
+    },
+    {
+      "$id": 25,
+      "label": "qev060601_SEL0031",
+      "style": 3,
+      "name": "Tell Orleron to study with the humans in New LA."
+    },
+    {
+      "$id": 26,
+      "label": "qev060601_JNK0040",
+      "style": 4,
+      "name": "Suggest the Ma-non Ship"
+    },
+    {
+      "$id": 27,
+      "label": "qev060601_SEL0041",
+      "style": 3,
+      "name": "Tell Orleron to study with the other\nZaruboggan in the Ma-non ship."
+    },
+    {
+      "$id": 28,
+      "label": "qev060601_MSG0016",
+      "style": 1,
+      "name": "Okay, got it. *fsssh* I'll study how to be a grown-up\nwith...yoomans.[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev060601_MSG0017",
+      "style": 1,
+      "name": "Okay, got it. *fsssh* I'll study how to be a grown-up\nwith Zaruboggan.[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev060601_MSG0018",
+      "style": 1,
+      "name": "Please find me a new gorkwa. *fsssh* I'll learn how to\ndo my sacred duty in the time it takes you to get it.[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev060601_MSG0021",
+      "style": 1,
+      "name": "So I'll be studying in Noo El Lay. *fsssh*\nI'll be waiting for you![ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev060601_MSG0022",
+      "style": 1,
+      "name": "I don't really know much about gorkwas either. *fsssh*\nJust, um... Just that I need one.[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev060601_MSG0023",
+      "style": 1,
+      "name": "If I have a gorkwa, I can fulfill my sacred duty! *fsssh*[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev060601_MSG0024",
+      "style": 1,
+      "name": "So I'll be studying with the Zaruboggan. *fsssh*\nI'll be waiting for you![ST:wait ]"
+    }
+  ]
+}

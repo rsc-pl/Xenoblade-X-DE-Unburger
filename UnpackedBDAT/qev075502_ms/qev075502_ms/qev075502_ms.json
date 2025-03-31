@@ -1,0 +1,270 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev075502_MSG0001",
+      "style": 1,
+      "name": "[ST:playername ]? What are you doing here,\nold friend? Did you come for a match?[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev075502_JNK0010",
+      "style": 4,
+      "name": "Explain"
+    },
+    {
+      "$id": 3,
+      "label": "qev075502_SEL0011",
+      "style": 3,
+      "name": "Tell Gi Zang about Go Rogan's request."
+    },
+    {
+      "$id": 4,
+      "label": "qev075502_JNK0020",
+      "style": 4,
+      "name": "Confirm"
+    },
+    {
+      "$id": 5,
+      "label": "qev075502_SEL0021",
+      "style": 3,
+      "name": "Nod and adopt a battle stance."
+    },
+    {
+      "$id": 6,
+      "label": "qev075502_MSG0002",
+      "style": 1,
+      "name": "Do you speak true? There's a lunatic out here attacking\nanyone and everyone they come across?[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev075502_MSG0003",
+      "style": 1,
+      "name": "Most strange. I've been training here for a long while\nand haven't seen anything like that.[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev075502_MSG0004",
+      "style": 1,
+      "name": "...Hmm? Who have I been training with?\nOh, just any strong-looking folk who pass by.\nWhenever I see them, I challenge them to a...[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev075502_MSG0005",
+      "style": 1,
+      "name": "Oh. Ah. I...I see. It appears the lunatic you are looking\nfor is most likely...me.[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev075502_JNK0030",
+      "style": 4,
+      "name": "Agree"
+    },
+    {
+      "$id": 11,
+      "label": "qev075502_SEL0031",
+      "style": 3,
+      "name": "Tell Gi Zang he should learn from this."
+    },
+    {
+      "$id": 12,
+      "label": "qev075502_JNK0040",
+      "style": 4,
+      "name": "Disagree"
+    },
+    {
+      "$id": 13,
+      "label": "qev075502_SEL0041",
+      "style": 3,
+      "name": "Insist that there must be another culprit."
+    },
+    {
+      "$id": 14,
+      "label": "qev075502_MSG0006",
+      "style": 1,
+      "name": "It seems I was so wrapped up in my training that I\ngot a little carried away. ...Or a lot.[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev075502_MSG0007",
+      "style": 1,
+      "name": "Thank you, old friend. I will go apologize at once.\nOh, but before I do...[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev075502_MSG0008",
+      "style": 1,
+      "name": "If someone were picking fights around here,\nI would certainly have taken them out by now.\nNo, the fault is mine and mine alone.[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev075502_MSG0009",
+      "style": 1,
+      "name": "I will go apologize to everyone at once.\nOh, but first...[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev075502_MSG0010",
+      "style": 1,
+      "name": "Let us have a match, you and I! I think I have finally\ntrained enough to get the edge on you![ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev075502_MSG0011",
+      "style": 1,
+      "name": "You never disappoint.[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev075502_MSG0012",
+      "style": 1,
+      "name": "But I warn you now, I have been practicing on every\nstrong-looking person who wandered past.[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev075502_MSG0013",
+      "style": 1,
+      "name": "I've come up with a new move—a real killer!\nYou're not beating me this time.[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev075502_MSG0014",
+      "style": 1,
+      "name": "We're going to need more space than this.\nLet's head to the second terrane of Talon Rock.[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev075502_MSG0015",
+      "style": 1,
+      "name": "Not again...[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev075502_MSG0016",
+      "style": 1,
+      "name": "That move was an old Hundred Hellions standby.\nIt was my grandfather's specialty.[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev075502_MSG0017",
+      "style": 1,
+      "name": "I always thought it was amazing, but it's only since\nlanding on Mira that I've actually been able to perform\nit myself.[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev075502_MSG0018",
+      "style": 1,
+      "name": "I cannot even fathom how strong you are! No matter\nhow hard I train, I don't feel like I'm catching up at all.\nThis is my life, and yet I'm starting to bore of trying...[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev075502_JNK0050",
+      "style": 4,
+      "name": "Encourage"
+    },
+    {
+      "$id": 28,
+      "label": "qev075502_SEL0051",
+      "style": 3,
+      "name": "Tell Gi Zang that you only won by a hair."
+    },
+    {
+      "$id": 29,
+      "label": "qev075502_JNK0060",
+      "style": 4,
+      "name": "Taunt"
+    },
+    {
+      "$id": 30,
+      "label": "qev075502_SEL0061",
+      "style": 3,
+      "name": "Smirk and ask Gi Zang if he's giving up already."
+    },
+    {
+      "$id": 31,
+      "label": "qev075502_MSG0019",
+      "style": 1,
+      "name": "Then said hair is a mile wide!\nYou truly put me to shame, old friend.[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev075502_MSG0020",
+      "style": 1,
+      "name": "You are the finest rival a warrior could ask for.\nFighting someone as skilled as you is enough to\nmake me forget about getting revenge.[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev075502_MSG0021",
+      "style": 1,
+      "name": "Rrgh, but I still hate losing! Next time!\nNext time for sure![ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev075502_MSG0022",
+      "style": 1,
+      "name": "You are cruel. And more than that, you are...[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev075502_MSG0023",
+      "style": 1,
+      "name": "You are the finest rival a warrior could ask for!\nHow can one give up when they have an opponent\nas tough and yet friendly as you?[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev075502_MSG0024",
+      "style": 1,
+      "name": "I do not care how badly you trounce me,\nI am not giving up. I will get you next time for sure![ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev075502_MSG0025",
+      "style": 1,
+      "name": "And with that loss fresh in my memory, I shall head\nback to town and apologize to everyone I have\nvictimized with my so-called \"training.\"[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev075502_MSG0026",
+      "style": 1,
+      "name": "Thinking on it, I really didn't hold back on them...\nDo you think they'll forgive me?[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "qev075502_MSG0027",
+      "style": 1,
+      "name": "He says my grandfather and the other Hellions saved\nhis life during the war.[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "qev075502_MSG0028",
+      "style": 1,
+      "name": "And since he owes a life-debt to them,\nhe is forgiving my transgressions.[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "qev075502_MSG0029",
+      "style": 1,
+      "name": "I did not expect my grandfather would still be bailing\nme out of trouble here on Mira.[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "qev075502_MSG0030",
+      "style": 1,
+      "name": "I need to shape up and do the Hellions proud![ST:wait ]"
+    }
+  ]
+}

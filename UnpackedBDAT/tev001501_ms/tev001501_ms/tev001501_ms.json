@@ -1,0 +1,396 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev001501_MSG0001",
+      "style": 1,
+      "name": "And what do you want, mmm? Have you found a\nmission that pays enough to be worth my time?[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev001501_MSG0002",
+      "style": 1,
+      "name": "If so, I'm all ears. All. Ears.[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev001501_MSG0003",
+      "style": 1,
+      "name": "But if you've simply come here to chat, I can't promise\nthat you'll live to hear the end of our conversation.[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev001501_MSG1001",
+      "style": 1,
+      "name": "Ah, [ST:playername ]. Pleasure.[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev001501_MSG1002",
+      "style": 1,
+      "name": "I was just thinking about how much I'd enjoy working\nwith a big strong BLADE like yourself again.[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "tev001501_MSG1003",
+      "style": 1,
+      "name": "No, no! I mean it. You really should take me along.[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "tev001501_JNK0010",
+      "style": 4,
+      "name": "Agree"
+    },
+    {
+      "$id": 8,
+      "label": "tev001501_SEL0011",
+      "style": 3,
+      "name": "Add the Murderess to your team."
+    },
+    {
+      "$id": 9,
+      "label": "tev001501_JNK0020",
+      "style": 4,
+      "name": "Refuse"
+    },
+    {
+      "$id": 10,
+      "label": "tev001501_SEL0021",
+      "style": 3,
+      "name": "Decline the Murderess's request for now."
+    },
+    {
+      "$id": 11,
+      "label": "tev001501_MSG1004",
+      "style": 1,
+      "name": "Wonderful. Oh, and relax. I promise not to shoot you\nin the back or anything.[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "tev001501_MSG1005",
+      "style": 1,
+      "name": "Well, that's a bummer. And here I thought I might\nactually get a decent payday for once.[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "tev001501_MSG1010",
+      "style": 1,
+      "name": "What? You're going to an infamously dangerous\nregion just to reclaim some old alien mech?[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "tev001501_MSG1011",
+      "style": 1,
+      "name": "Pass. I don't see the profit in it.[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "tev001501_MSG1016",
+      "style": 1,
+      "name": "So Little Miss Sweetness is in trouble, eh?[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "tev001501_MSG1017",
+      "style": 1,
+      "name": "Well, I'm certainly no fan of people being killed by the\nGanglion, so if you're going to save her, I'll chip in.[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "tev001501_JNK0070",
+      "style": 4,
+      "name": "Agree"
+    },
+    {
+      "$id": 18,
+      "label": "tev001501_SEL0071",
+      "style": 3,
+      "name": "Add the Murderess to your team."
+    },
+    {
+      "$id": 19,
+      "label": "tev001501_JNK0080",
+      "style": 4,
+      "name": "Refuse"
+    },
+    {
+      "$id": 20,
+      "label": "tev001501_SEL0081",
+      "style": 3,
+      "name": "Decline the Murderess's request for now."
+    },
+    {
+      "$id": 21,
+      "label": "tev001501_MSG1018",
+      "style": 1,
+      "name": "Let's get going. I'll never be able to cash in on favors\nfrom her if she dies.[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "tev001501_MSG1019",
+      "style": 1,
+      "name": "Well, that's a shame. I thought it would be an easy\nway to put her in my debt.[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "tev001501_MSG1024",
+      "style": 1,
+      "name": "If you're going to Sylvalum, there's a good chance you\nmight find some undiscovered treasures.[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "tev001501_MSG1025",
+      "style": 1,
+      "name": "Hmm... You know, if you need a hand, I suppose I'd\nbe willing to accompany you.[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "tev001501_JNK0090",
+      "style": 4,
+      "name": "Agree"
+    },
+    {
+      "$id": 26,
+      "label": "tev001501_SEL0091",
+      "style": 3,
+      "name": "Add the Murderess to your team."
+    },
+    {
+      "$id": 27,
+      "label": "tev001501_JNK0100",
+      "style": 4,
+      "name": "Refuse"
+    },
+    {
+      "$id": 28,
+      "label": "tev001501_SEL0101",
+      "style": 3,
+      "name": "Decline the Murderess's request for now."
+    },
+    {
+      "$id": 29,
+      "label": "tev001501_MSG1026",
+      "style": 1,
+      "name": "Perfect! Oh, and I hope you understand that if I'm\ngoing to such a dangerous place, I'll need a reward\ncommensurate with my efforts.[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "tev001501_MSG1027",
+      "style": 1,
+      "name": "My, aren't we cocky! Well, I'll overlook it this once.[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "tev001501_MSG1032",
+      "style": 1,
+      "name": "How's that? You received another mission straight from\nVandham? My my my, aren't we a big shot?[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "tev001501_MSG1033",
+      "style": 1,
+      "name": "I don't know what it entails, but I'm sure Vandham\nrewards you well for these sweetheart deals of his.\nSo count me IN![ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "tev001501_JNK0110",
+      "style": 4,
+      "name": "Agree"
+    },
+    {
+      "$id": 34,
+      "label": "tev001501_SEL0111",
+      "style": 3,
+      "name": "Add the Murderess to your team."
+    },
+    {
+      "$id": 35,
+      "label": "tev001501_JNK0120",
+      "style": 4,
+      "name": "Refuse"
+    },
+    {
+      "$id": 36,
+      "label": "tev001501_SEL0121",
+      "style": 3,
+      "name": "Decline the Murderess's request for now."
+    },
+    {
+      "$id": 37,
+      "label": "tev001501_MSG1034",
+      "style": 1,
+      "name": "Heh heh heh. If I complete this mission, I'll demand\nVandham put me on the sweetheart job track too![ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "tev001501_MSG1035",
+      "style": 1,
+      "name": "Shame. We'd have made such a lucrative team.[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "tev001501_MSG1040",
+      "style": 1,
+      "name": "Who knows what a man like that is thinking?\nOr what he'll do next?[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "tev001501_MSG1041",
+      "style": 1,
+      "name": "He needs to be removed from the picture before he can\ndo something else foolish.[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "tev001501_JNK0130",
+      "style": 4,
+      "name": "Agree"
+    },
+    {
+      "$id": 42,
+      "label": "tev001501_SEL0131",
+      "style": 3,
+      "name": "Add the Murderess to your team."
+    },
+    {
+      "$id": 43,
+      "label": "tev001501_JNK0140",
+      "style": 4,
+      "name": "Refuse"
+    },
+    {
+      "$id": 44,
+      "label": "tev001501_SEL0141",
+      "style": 3,
+      "name": "Decline the Murderess's request for now."
+    },
+    {
+      "$id": 45,
+      "label": "tev001501_MSG1042",
+      "style": 1,
+      "name": "Nice. I'll go sharpen my killin' blade.[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "tev001501_MSG1043",
+      "style": 1,
+      "name": "Without me, is Team Goody Two-shoes really equipped\nto do what needs to be done to that man?[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "tev001501_MSG1048",
+      "style": 1,
+      "name": "No matter how much money you hoard,\nyou still need to be alive to spend it.[ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "tev001501_MSG1049",
+      "style": 1,
+      "name": "So it's imperative that we complete this mission.\n...That's WE. Not you and someone else. We.[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "tev001501_JNK0150",
+      "style": 4,
+      "name": "Agree"
+    },
+    {
+      "$id": 50,
+      "label": "tev001501_SEL0151",
+      "style": 3,
+      "name": "Add the Murderess to your team."
+    },
+    {
+      "$id": 51,
+      "label": "tev001501_JNK0160",
+      "style": 4,
+      "name": "Refuse"
+    },
+    {
+      "$id": 52,
+      "label": "tev001501_SEL0161",
+      "style": 3,
+      "name": "Decline the Murderess's request for now."
+    },
+    {
+      "$id": 53,
+      "label": "tev001501_MSG1051",
+      "style": 1,
+      "name": "Does finding the Lifehold Core take us closer to heaven\nor hell? I can't wait to find out![ST:wait ]"
+    },
+    {
+      "$id": 54,
+      "label": "tev001501_MSG1052",
+      "style": 1,
+      "name": "Hmm. Well then, good luck. Oh, and make sure you\nsucceed, okay? Because if you don't...[ST:wait ]"
+    },
+    {
+      "$id": 55,
+      "label": "tev001501_MSG1053",
+      "style": 1,
+      "name": "...I'll find you in hell and kill you again. Ta-ta![ST:wait ]"
+    },
+    {
+      "$id": 56,
+      "label": "tev001501_MSG1058",
+      "style": 1,
+      "name": "The war is over, and the attention of Mira's inhabitants\nhas turned back to the accumulation of wealth.\nIt's about damn time.[ST:wait ]"
+    },
+    {
+      "$id": 57,
+      "label": "tev001501_MSG1059",
+      "style": 1,
+      "name": "And you better BELIEVE I'm getting in on the action.\nSo take me with you already![ST:wait ]"
+    },
+    {
+      "$id": 58,
+      "label": "tev001501_JNK0170",
+      "style": 4,
+      "name": "Agree"
+    },
+    {
+      "$id": 59,
+      "label": "tev001501_SEL0171",
+      "style": 3,
+      "name": "Add the Murderess to your team."
+    },
+    {
+      "$id": 60,
+      "label": "tev001501_JNK0180",
+      "style": 4,
+      "name": "Refuse"
+    },
+    {
+      "$id": 61,
+      "label": "tev001501_SEL0181",
+      "style": 3,
+      "name": "Decline the Murderess's request for now."
+    },
+    {
+      "$id": 62,
+      "label": "tev001501_MSG1060",
+      "style": 1,
+      "name": "Good. For my part, I'll see to it that any fools who\nstand in our way are expediently removed.[ST:wait ]"
+    },
+    {
+      "$id": 63,
+      "label": "tev001501_MSG1061",
+      "style": 1,
+      "name": "Shame. We'd have made such a lucrative team.[ST:wait ]"
+    }
+  ]
+}

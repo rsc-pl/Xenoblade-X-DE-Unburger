@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev051303_MSG0001",
+      "style": 1,
+      "name": "So you are [ST:playername ].\nI have heard tales of your dealings with my kind.[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev051303_MSG0002",
+      "style": 1,
+      "name": "It is precisely because of your reputation for strength\nthat I would ask you to meet with my master.[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev051303_MSG0003",
+      "style": 1,
+      "name": "It concerns a business proposal of a discreet nature.[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev051303_MSG0004",
+      "style": 1,
+      "name": "I ask that you come to the industrial district by night.\nI trust you understand the need for privacy?[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev051303_MSG0005",
+      "style": 1,
+      "name": "It's quite the lucrative offer—I assure you it will be well\nworth your time.[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev051303_MSG0006",
+      "style": 1,
+      "name": "Until then.[ST:wait ]"
+    }
+  ]
+}

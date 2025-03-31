@@ -1,0 +1,552 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev011301_MSG0001",
+      "style": 1,
+      "name": "Well, great. It's completely broken.\nJuuust lovely.[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev011301_MSG0002",
+      "style": 1,
+      "name": "Maybe coming this far out on your own was a bad\nidea. What do you think, girl? Bad idea? Yeaaaah.[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev011301_MSG0003",
+      "style": 1,
+      "name": "And you're out of SOS range, of course. Urrrrgh...\nWhat are you gonna do now?[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev011301_MSG0004",
+      "style": 1,
+      "name": "......[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev011301_JNK0010",
+      "style": 4,
+      "name": "Offer Help"
+    },
+    {
+      "$id": 6,
+      "label": "qev011301_SEL0011",
+      "style": 3,
+      "name": "Offer to lend May a hand."
+    },
+    {
+      "$id": 7,
+      "label": "qev011301_JNK0020",
+      "style": 4,
+      "name": "Ignore"
+    },
+    {
+      "$id": 8,
+      "label": "qev011301_SEL0021",
+      "style": 3,
+      "name": "Leave May to keep mumbling to herself."
+    },
+    {
+      "$id": 9,
+      "label": "qev011301_MSG0005",
+      "style": 1,
+      "name": "Oh, swell. Now you're seeing things.[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev011301_MSG0006",
+      "style": 1,
+      "name": "Your brain knows it's about to get eaten by monsters,\nso it's checked out early.[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev011301_MSG0008",
+      "style": 1,
+      "name": "......[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev011301_MSG0009",
+      "style": 1,
+      "name": "Wait, are you real? And a BLADE?\n...Seriously?[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev011301_MSG0010",
+      "style": 1,
+      "name": "...Yeah, this isn't getting fixed without new parts.\nOr at least some materials to patch up the old parts.[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev011301_MSG0011",
+      "style": 1,
+      "name": "And there is NOTHING around here like that,\nso instead you're going to sit here and get eaten\nby monsters.[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev011301_MSG0012",
+      "style": 1,
+      "name": "Faaantastic.[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev011301_MSG0013",
+      "style": 1,
+      "name": "Might as well jus—AAAAAUUGH!\nHoly crap! How long you been standing there?![ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev011301_MSG0014",
+      "style": 1,
+      "name": "Wait, are you a BLADE?[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev011301_MSG0015",
+      "style": 1,
+      "name": "Er, sorry, I just... I mean...[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev011301_MSG0016",
+      "style": 1,
+      "name": "Ugh! Apologies. I'm not very good at talking with\npeople. Let me take a deep breath here.[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev011301_MSG0017",
+      "style": 1,
+      "name": "......[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev011301_MSG0018",
+      "style": 1,
+      "name": "Okay. Whew. So here's the deal:\nI...was attacked by some indigens.[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev011301_MSG0019",
+      "style": 1,
+      "name": "Wrecked my Skell. No spare parts. Pretty much\nstranded. ...Aaaaand now you're caught up.[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev011301_JNK0110",
+      "style": 4,
+      "name": "Inquire"
+    },
+    {
+      "$id": 24,
+      "label": "qev011301_SEL0111",
+      "style": 3,
+      "name": "Ask May where the rest of her team is."
+    },
+    {
+      "$id": 25,
+      "label": "qev011301_JNK0120",
+      "style": 4,
+      "name": "Help"
+    },
+    {
+      "$id": 26,
+      "label": "qev011301_SEL0121",
+      "style": 3,
+      "name": "Offer to help May if she needs it."
+    },
+    {
+      "$id": 27,
+      "label": "qev011301_MSG0020",
+      "style": 1,
+      "name": "Team? Hah! Oh, please. Like anyone would want\nto work with me.[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev011301_MSG0021",
+      "style": 1,
+      "name": "I'm oblivious. I screw up like this all the time.\nDid I mention I'm not good at the whole \"talking\" deal?[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev011301_MSG0022",
+      "style": 1,
+      "name": "Anyway, I decided to try the lone-wolf thing.\nFigured I'd see how that worked out.[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev011301_MSG0023",
+      "style": 1,
+      "name": "......[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev011301_MSG0024",
+      "style": 1,
+      "name": "But, uh... Yeah.[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev011301_MSG0025",
+      "style": 1,
+      "name": "Not working out so great, is it? Even a lone wolf can't\ndo much with a busted Skell.[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev011301_MSG0026",
+      "style": 1,
+      "name": "......[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev011301_MSG0027",
+      "style": 1,
+      "name": "This is probably one of those inappropriate things to\nask, buuuut...[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev011301_MSG0028",
+      "style": 1,
+      "name": "don't suppose I could get you to gather some stuff\nto help me patch up my Skell?[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev011301_MSG0029",
+      "style": 1,
+      "name": "I'll pay you and junk. Plus, I should be able to handle\nthe repairs once I've got the goods.[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev011301_MSG0030",
+      "style": 1,
+      "name": "Yeaaah... Asking kind of a lot from a total stranger,\nright? Sorry. Look, just...forget it, yeah?[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev011301_MSG0031",
+      "style": 1,
+      "name": "What? No. Don't waste your time on me.[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "qev011301_MSG0032",
+      "style": 1,
+      "name": "I'm a perpetual screw-up. The whole reason I work\nalone is so I won't drag everyone down with me.[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "qev011301_MSG0033",
+      "style": 1,
+      "name": "Really. I couldn't trouble you.[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "qev011301_MSG0034",
+      "style": 1,
+      "name": "......[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "qev011301_MSG0035",
+      "style": 1,
+      "name": "Though I don't suppose there's any way for me to deal\nwith a busted Skell by myself...[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "qev011301_MSG0036",
+      "style": 1,
+      "name": "Look, I'll repay you as best I'm able! Er, not to assume\nyou'll help. I mean, I could use some spare Skell parts.\n...Man, this whole conversation just went backwards.[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "qev011301_MSG0037",
+      "style": 1,
+      "name": "But if I can't get new parts, then just the materials to\npatch up the broken parts will do. Once I have those,\nI can handle the repairs. So, um...please?[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "qev011301_MSG0038",
+      "style": 1,
+      "name": "Thanks a lot. And not just for the offer of help,\nbut...for talking to me.[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "qev011301_MSG0039",
+      "style": 1,
+      "name": "It's been a long time since I last talked to someone.\nI...I kinda missed it.[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "qev011301_MSG0040",
+      "style": 1,
+      "name": "Er, guess I should specify the actual stuff I need...\nI need four vials of viscous humour and two globs of\nsilvery cactaceous resin.[ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "qev011301_MSG0041",
+      "style": 1,
+      "name": "And I'm happy to wait, so no rush. Really.\nJust...whenever.[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "qev011301_MSG0042",
+      "style": 1,
+      "name": "I'll investigate this general area until you get back.\nHopefully I'll find some rare collectibles...or something.[ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "qev011301_MSG0043",
+      "style": 1,
+      "name": "Oh, yeah, I'm a Curator. Should have mentioned\nthat before, I guess.[ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "qev011301_MSG0044",
+      "style": 1,
+      "name": "So really, take your time. I'm good at keeping\nmyself busy.[ST:wait ]"
+    },
+    {
+      "$id": 52,
+      "label": "qev011301_MSG0045",
+      "style": 1,
+      "name": "Whenever you can bring those four vials of viscous\nhumour and two globs of silvery cactaceous resin\nis fine by me.[ST:wait ]"
+    },
+    {
+      "$id": 53,
+      "label": "qev011301_MSG0046",
+      "style": 1,
+      "name": "Ah, [ST:playername ]! Huge discovery!\nI was walking around the area a little while ago,\nand I found some dobobora broccoli![ST:wait ]"
+    },
+    {
+      "$id": 54,
+      "label": "qev011301_MSG0047",
+      "style": 1,
+      "name": "That stuff is SUPER rare![ST:wait ]"
+    },
+    {
+      "$id": 55,
+      "label": "qev011301_MSG0048",
+      "style": 1,
+      "name": "A lot of Curators strike out looking for it,\nand I just stumbled on it at random.[ST:wait ]"
+    },
+    {
+      "$id": 56,
+      "label": "qev011301_MSG0049",
+      "style": 1,
+      "name": "This assignment's still a disaster, but at least now I get\nto feel like I'm contributing something to the cause.[ST:wait ]"
+    },
+    {
+      "$id": 57,
+      "label": "qev011301_JNK0210",
+      "style": 4,
+      "name": "Praise"
+    },
+    {
+      "$id": 58,
+      "label": "qev011301_SEL0211",
+      "style": 3,
+      "name": "Encourage May by saying her luck must have changed."
+    },
+    {
+      "$id": 59,
+      "label": "qev011301_JNK0220",
+      "style": 4,
+      "name": "Remind"
+    },
+    {
+      "$id": 60,
+      "label": "qev011301_SEL0221",
+      "style": 3,
+      "name": "Remind May her find is meaningless\nas long as her Skell remains busted."
+    },
+    {
+      "$id": 61,
+      "label": "qev011301_MSG0050",
+      "style": 1,
+      "name": "Heh. Thanks.[ST:wait ]"
+    },
+    {
+      "$id": 62,
+      "label": "qev011301_MSG0051",
+      "style": 1,
+      "name": "Not that it means much if I can't get this Skell fixed\nand haul myself back to New LA in one piece.[ST:wait ]"
+    },
+    {
+      "$id": 63,
+      "label": "qev011301_MSG0052",
+      "style": 1,
+      "name": "Er, right. Sorry. I got excited. Forgot I'm relying on\nyou for preeeetty much everything right now.[ST:wait ]"
+    },
+    {
+      "$id": 64,
+      "label": "qev011301_MSG0053",
+      "style": 1,
+      "name": "See? This is why I'm no good. Sorry...[ST:wait ]"
+    },
+    {
+      "$id": 65,
+      "label": "qev011301_MSG0054",
+      "style": 1,
+      "name": "......[ST:wait ]"
+    },
+    {
+      "$id": 66,
+      "label": "qev011301_MSG0055",
+      "style": 1,
+      "name": "So, um...any luck finding those materials?[ST:wait ]"
+    },
+    {
+      "$id": 67,
+      "label": "qev011301_MSG0056",
+      "style": 1,
+      "name": "Wow, these are perfect! I can get to work fixing\nmy ride now![ST:wait ]"
+    },
+    {
+      "$id": 68,
+      "label": "qev011301_MSG0057",
+      "style": 1,
+      "name": "It's an experimental model. My Skell, I mean.\nJust happened to luck into a great deal on it.[ST:wait ]"
+    },
+    {
+      "$id": 69,
+      "label": "qev011301_MSG0058",
+      "style": 1,
+      "name": "Normally, it'd be way more than someone like me\ncould afford. Or deserve...[ST:wait ]"
+    },
+    {
+      "$id": 70,
+      "label": "qev011301_MSG0059",
+      "style": 1,
+      "name": "But yeah. Still really glad I can at least start fixing her\nup now. So I guess all that's left to do is reward you...[ST:wait ]"
+    },
+    {
+      "$id": 71,
+      "label": "qev011301_MSG0060",
+      "style": 1,
+      "name": "Actually, here! I don't have enough money to thank you\nproperly, but you can have this dobobora broccoli![ST:wait ]"
+    },
+    {
+      "$id": 72,
+      "label": "qev011301_MSG0061",
+      "style": 1,
+      "name": "No, really, I want you to have it. I only found it by\ndumb luck, and I'm sure someone like you can make\nbetter use of it anyway.[ST:wait ]"
+    },
+    {
+      "$id": 73,
+      "label": "qev011301_MSG0063",
+      "style": 1,
+      "name": "But yeah, I think I can manage from here.[ST:wait ]"
+    },
+    {
+      "$id": 74,
+      "label": "qev011301_MSG0064",
+      "style": 1,
+      "name": "You can finally get back to whatever job of yours\nI've been interrupting.[ST:wait ]"
+    },
+    {
+      "$id": 75,
+      "label": "qev011301_MSG0065",
+      "style": 1,
+      "name": "I'm really sorry for taking up so much of your time.\nThanks for everything![ST:wait ]"
+    },
+    {
+      "$id": 76,
+      "label": "qev011301_JNK0310",
+      "style": 4,
+      "name": "Worry"
+    },
+    {
+      "$id": 77,
+      "label": "qev011301_SEL0311",
+      "style": 3,
+      "name": "Express concern on whether May can\nmake it back safely on her lonesome."
+    },
+    {
+      "$id": 78,
+      "label": "qev011301_JNK0320",
+      "style": 4,
+      "name": "Support"
+    },
+    {
+      "$id": 79,
+      "label": "qev011301_SEL0321",
+      "style": 3,
+      "name": "Encourage May by telling her\nshe makes a great lone wolf."
+    },
+    {
+      "$id": 80,
+      "label": "qev011301_MSG0066",
+      "style": 1,
+      "name": "Oh, I couldn't possibly keep someone like you any\nlonger than I already have![ST:wait ]"
+    },
+    {
+      "$id": 81,
+      "label": "qev011301_MSG0067",
+      "style": 1,
+      "name": "Besides, I'm used to rolling solo by now. I'll get by.[ST:wait ]"
+    },
+    {
+      "$id": 82,
+      "label": "qev011301_MSG0068",
+      "style": 1,
+      "name": "I'm fine. Really. You go on ahead![ST:wait ]"
+    },
+    {
+      "$id": 83,
+      "label": "qev011301_MSG0069",
+      "style": 1,
+      "name": "I'll make my way around Mira without causing any\nfurther trouble. Promise![ST:wait ]"
+    },
+    {
+      "$id": 84,
+      "label": "qev011301_MSG0070",
+      "style": 1,
+      "name": "Wow, that's new. I've never really had anyone\nsay something like that to me before...[ST:wait ]"
+    },
+    {
+      "$id": 85,
+      "label": "qev011301_MSG0071",
+      "style": 1,
+      "name": "......[ST:wait ]"
+    },
+    {
+      "$id": 86,
+      "label": "qev011301_MSG0072",
+      "style": 1,
+      "name": "I'll, um... I'll do my best! I mean that. Still probably\nwon't get as much done as a proper team would,\nbuuut...[ST:wait ]"
+    },
+    {
+      "$id": 87,
+      "label": "qev011301_MSG0073",
+      "style": 1,
+      "name": "I'll do everything I can to contribute to BLADE![ST:wait ]"
+    },
+    {
+      "$id": 88,
+      "label": "qev011301_MSG0074",
+      "style": 1,
+      "name": "Take care now. And if we meet again somewhere,\num...I hope we can maybe talk some more?[ST:wait ]"
+    },
+    {
+      "$id": 89,
+      "label": "qev011301_MSG0075",
+      "style": 1,
+      "name": "Until then, I hope all your searches are fruitful![ST:wait ]"
+    }
+  ]
+}

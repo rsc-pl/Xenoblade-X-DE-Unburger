@@ -1,0 +1,90 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev000411_MSG0010",
+      "style": 1,
+      "name": "If you and the hero Alois Bernholt are\ntaking to the field, then I should be right\nthere with you.[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev000411_MSG0020",
+      "style": 1,
+      "name": "If I'm to reach the heights I was destined\nfor, I'll have to watch him closely and pick\nup all that I can. You don't mind, do you?[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev000411_JNK0030",
+      "style": 4,
+      "name": "Agree"
+    },
+    {
+      "$id": 4,
+      "label": "tev000411_SEL0040",
+      "style": 3,
+      "name": "Add H.B. to your team."
+    },
+    {
+      "$id": 5,
+      "label": "tev000411_MSG0050",
+      "style": 1,
+      "name": "Hm. As it should be.\n...Oh, don't worry. I'll do my job.\nFlawlessly, I might add.[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "tev000411_JNK0060",
+      "style": 4,
+      "name": "Refuse"
+    },
+    {
+      "$id": 7,
+      "label": "tev000411_SEL0070",
+      "style": 3,
+      "name": "Decline H.B.'s request for now."
+    },
+    {
+      "$id": 8,
+      "label": "tev000411_MSG0080",
+      "style": 1,
+      "name": "Gah... You're determined to thwart me,\naren't you? Well, I won't give up, or my\nname isn't Hector Birtwhistle![ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "tev000411_MSG0081",
+      "style": 0,
+      "name": "Final dungeon meetup event (when not in party)"
+    },
+    {
+      "$id": 10,
+      "label": "tev000411_MSG0090",
+      "style": 1,
+      "name": "Well, well. Look who decided to finally show up.[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev000411_MSG0100",
+      "style": 1,
+      "name": "In the time it took you to get here,\nI analyzed all enemy data we've collected\nto date. Twice. As any elite should.[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "tev000411_MSG0110",
+      "style": 1,
+      "name": "Well? We're done here, aren't we?\nIsn't it time we moved on?[ST:wait ]"
+    }
+  ]
+}

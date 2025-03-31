@@ -1,0 +1,264 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev026601_JNK0010",
+      "style": 4,
+      "name": "Inquire"
+    },
+    {
+      "$id": 2,
+      "label": "tev026601_SEL0011",
+      "style": 3,
+      "name": "Ask Satie about Skells."
+    },
+    {
+      "$id": 3,
+      "label": "tev026601_JNK0020",
+      "style": 4,
+      "name": "Discuss"
+    },
+    {
+      "$id": 4,
+      "label": "tev026601_SEL0021",
+      "style": 3,
+      "name": "Ask Satie about recent developments."
+    },
+    {
+      "$id": 5,
+      "label": "tev026601_SEL0041",
+      "style": 3,
+      "name": "Ask Satie about the Skell license test.[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "tev026601_SEL0051",
+      "style": 3,
+      "name": "Ask Satie about Skell insurance.[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "tev026601_SEL0061",
+      "style": 3,
+      "name": "Ask Satie about Skell flight mode."
+    },
+    {
+      "$id": 8,
+      "label": "tev026601_SEL0071",
+      "style": 3,
+      "name": "Ask Satie about Wolf."
+    },
+    {
+      "$id": 9,
+      "label": "tev026601_MSG0001",
+      "style": 1,
+      "name": "You want to pilot one of these? Then you must be a\nfellow Skell lover! I like you already.[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "tev026601_MSG0002",
+      "style": 1,
+      "name": "If you prove yourself as a BLADE, you'll get a crack\nbehind the stick one day.[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev026601_MSG0003",
+      "style": 1,
+      "name": "Until then, you're just gonna have to work those legs\nof yours and traverse Mira the old-fashioned way.\nNo pain, no gain.[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "tev026601_MSG0004",
+      "style": 1,
+      "name": "Oh, and if you have any combat questions,\nWolf's your guy.[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "tev026601_MSG0005",
+      "style": 1,
+      "name": "Just watch your tone, all right? He's a great instructor,\nbut they don't call him \"the Nutcracker\" for nothing.\n...Or I don't, anyway.[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "tev026601_MSG0008",
+      "style": 1,
+      "name": "There you are, [ST:playername ].\nThanks for delivering those supplies.[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "tev026601_MSG0009",
+      "style": 1,
+      "name": "Myles tells me that you're quite the BLADE.\nI think you inspired him.[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "tev026601_MSG0010",
+      "style": 1,
+      "name": "Now he's off on his next mission trying to outdo you\nso he can come home with something to brag about.[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "tev026601_MSG0011",
+      "style": 1,
+      "name": "I just hope he doesn't trash his Skell. It's fit for combat,\nbut I don't know about the pilot...[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "tev026601_MSG0012",
+      "style": 1,
+      "name": "I mean, would it kill him to treat Skells with just a\nsliver of the respect someone like me or Christopher\nhas for them?[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "tev026601_MSG0020",
+      "style": 1,
+      "name": "Hang on. Let me have a closer look at you...\nYeah... Mmm-hmm... Okay...[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "tev026601_MSG0021",
+      "style": 1,
+      "name": "Yessir! I'd say you're a winner! I'd trust you behind the\nstick of a Skell any day.[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "tev026601_MSG0022",
+      "style": 1,
+      "name": "I bet Wolf would give you his Nutcracker stamp of\napproval, too.[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "tev026601_MSG0023",
+      "style": 1,
+      "name": "Why don't you drop by the barracks and talk to\nCommander Vandham about getting a license?[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "tev026601_MSG0024",
+      "style": 1,
+      "name": "Knowing him, he'd probably leap at the chance to\nput you through your paces.[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "tev026601_MSG0030",
+      "style": 1,
+      "name": "I'm so eager to get a Skell license that I've been\nasking every BLADE I meet about the test.\nYou know? Just to get a leg up on it?[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "tev026601_MSG0031",
+      "style": 1,
+      "name": "For example, did you know you can find the rock\narmadillos you need for the Curator test in Noctilum?[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "tev026601_MSG0032",
+      "style": 1,
+      "name": "And the beagflea squashes are near Lake Basel in\nOblivia. But they're really hard to find...[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "tev026601_MSG0033",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 28,
+      "label": "tev026601_MSG0034",
+      "style": 1,
+      "name": "To be honest, the deeper I dig the more brutal the\ntest sounds—but I'm determined to pass. Just watch![ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "tev026601_MSG0040",
+      "style": 1,
+      "name": "All our Skells are insured. If you check the \"Skell\nInsurance\" column at the shop terminal, you'll see\na number.[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "tev026601_MSG0041",
+      "style": 1,
+      "name": "Until that number reaches zero, you can get your Skell\nright back in the event it is destroyed.[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "tev026601_MSG0042",
+      "style": 1,
+      "name": "But don't take that as a license to be reckless!\nSkells are pricey, and you need to take care of them.[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "tev026601_MSG0043",
+      "style": 1,
+      "name": "Don't be like Myles and let yours break down in\nthe middle of Primordia, or I guarantee a good nut-\ncracking from Wolf.[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "tev026601_MSG0048",
+      "style": 1,
+      "name": "Is Lin actually a god? How did she manage to come\nup with something like that? It's incredible![ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "tev026601_MSG0049",
+      "style": 1,
+      "name": "With flight mode, you'll be able to go just about\nanywhere, no matter how out of reach it seems.[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "tev026601_MSG0050",
+      "style": 1,
+      "name": "And those nasty indigens that gave you trouble before?\nNow you can fire on them from above with impunity![ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "tev026601_MSG0051",
+      "style": 1,
+      "name": "Also, your shots will be way more accurate because of\nthe vantage. I can't wait till I get a crack at it![ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "tev026601_MSG0056",
+      "style": 1,
+      "name": "Wolf finally caught wind that I'd been calling him \"the\nNutcracker.\" I was ready to get drawn and quartered...[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "tev026601_MSG0057",
+      "style": 1,
+      "name": "But it was weird. He didn't get mad. Like, at all.[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "tev026601_MSG0058",
+      "style": 1,
+      "name": "Instead, he flashed this sort of agonized grimace and\nmumbled something about how I was probably right.\nThen he just...walked off.[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "tev026601_MSG0059",
+      "style": 1,
+      "name": "He looked totally defeated. It was scary.[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "tev026601_MSG0060",
+      "style": 1,
+      "name": "Did something finally crack the Nutcracker?[ST:wait ]"
+    }
+  ]
+}

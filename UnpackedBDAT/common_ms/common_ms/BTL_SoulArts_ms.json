@@ -1,0 +1,522 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "SoulArts_P0101_name",
+      "style": 31,
+      "name": "+100% damage"
+    },
+    {
+      "$id": 2,
+      "label": "SoulArts_P0102_name",
+      "style": 31,
+      "name": "Inflict Stagger I"
+    },
+    {
+      "$id": 3,
+      "label": "SoulArts_P0103_name",
+      "style": 31,
+      "name": "+200 TP per hit"
+    },
+    {
+      "$id": 4,
+      "label": "SoulArts_P0201_name",
+      "style": 31,
+      "name": "+50% damage"
+    },
+    {
+      "$id": 5,
+      "label": "SoulArts_P0202_name",
+      "style": 31,
+      "name": "+1 tier to Buff Arts"
+    },
+    {
+      "$id": 6,
+      "label": "SoulArts_P0203_name",
+      "style": 31,
+      "name": "+1 tier to Debuff Arts / Bypass debuff resistances"
+    },
+    {
+      "$id": 7,
+      "label": "SoulArts_P0301_name",
+      "style": 31,
+      "name": "+100% damage (+200% from behind)"
+    },
+    {
+      "$id": 8,
+      "label": "SoulArts_P0302_name",
+      "style": 31,
+      "name": "+100 TP per hit"
+    },
+    {
+      "$id": 9,
+      "label": "SoulArts_P0303_name",
+      "style": 31,
+      "name": "Reduce cooldown by 50%"
+    },
+    {
+      "$id": 10,
+      "label": "SoulArts_P0401_name",
+      "style": 31,
+      "name": "+50% to Soul Heals"
+    },
+    {
+      "$id": 11,
+      "label": "SoulArts_P0402_name",
+      "style": 31,
+      "name": "+1 tier to Buff Arts"
+    },
+    {
+      "$id": 12,
+      "label": "SoulArts_P0403_name",
+      "style": 31,
+      "name": "+250 TP to target (rarely: +500 TP)"
+    },
+    {
+      "$id": 13,
+      "label": "SoulArts_P0501_name",
+      "style": 31,
+      "name": "+100% to Soul Heals (rarely: +300%)"
+    },
+    {
+      "$id": 14,
+      "label": "SoulArts_P0502_name",
+      "style": 31,
+      "name": "+25% to Soul Heals / Gain Invincibility I"
+    },
+    {
+      "$id": 15,
+      "label": "SoulArts_P0503_name",
+      "style": 31,
+      "name": "+500 TP to target (rarely: +1000 TP)"
+    },
+    {
+      "$id": 16,
+      "label": "SoulArts_P0601_name",
+      "style": 31,
+      "name": "+500 TP per hit"
+    },
+    {
+      "$id": 17,
+      "label": "SoulArts_P0602_name",
+      "style": 31,
+      "name": "+300 TP per hit"
+    },
+    {
+      "$id": 18,
+      "label": "SoulArts_P0603_name",
+      "style": 31,
+      "name": "Gain Invincibility III"
+    },
+    {
+      "$id": 19,
+      "label": "SoulArts_P0701_name",
+      "style": 31,
+      "name": "+50% damage"
+    },
+    {
+      "$id": 20,
+      "label": "SoulArts_P0702_name",
+      "style": 31,
+      "name": "+25 critical chance / Gain Critical Power I"
+    },
+    {
+      "$id": 21,
+      "label": "SoulArts_P0703_name",
+      "style": 31,
+      "name": "+1 tier to Debuff Arts / Bypass debuff resistances"
+    },
+    {
+      "$id": 22,
+      "label": "SoulArts_P0801_name",
+      "style": 31,
+      "name": "+150% damage (+400% from behind)"
+    },
+    {
+      "$id": 23,
+      "label": "SoulArts_P0802_name",
+      "style": 31,
+      "name": "Inflict Topple I"
+    },
+    {
+      "$id": 24,
+      "label": "SoulArts_P0803_name",
+      "style": 31,
+      "name": "+2 tiers to Debuff Arts / Bypass debuff resistances"
+    },
+    {
+      "$id": 25,
+      "label": "SoulArts_P0901_name",
+      "style": 31,
+      "name": "+25 critical chance / Gain Critical Power II"
+    },
+    {
+      "$id": 26,
+      "label": "SoulArts_P0902_name",
+      "style": 31,
+      "name": "+1 tier to Buff Arts / Gain Invincibility I"
+    },
+    {
+      "$id": 27,
+      "label": "SoulArts_P0903_name",
+      "style": 31,
+      "name": "+10 seconds to Overdrive time"
+    },
+    {
+      "$id": 28,
+      "label": "SoulArts_P1001_name",
+      "style": 31,
+      "name": "+50% damage (+100% from behind)"
+    },
+    {
+      "$id": 29,
+      "label": "SoulArts_P1002_name",
+      "style": 31,
+      "name": "+50% damage (+100% from the side)"
+    },
+    {
+      "$id": 30,
+      "label": "SoulArts_P1003_name",
+      "style": 31,
+      "name": "+1 tier to Debuff Arts / Bypass debuff resistances"
+    },
+    {
+      "$id": 31,
+      "label": "SoulArts_P1101_name",
+      "style": 31,
+      "name": "+50% to Soul Heals / Reduce cooldown by 20%"
+    },
+    {
+      "$id": 32,
+      "label": "SoulArts_P1102_name",
+      "style": 31,
+      "name": "+50% to Soul Heals / Remove debuffs"
+    },
+    {
+      "$id": 33,
+      "label": "SoulArts_P1103_name",
+      "style": 31,
+      "name": "+250 TP to target (50% chance of +500 TP)"
+    },
+    {
+      "$id": 34,
+      "label": "SoulArts_P1201_name",
+      "style": 31,
+      "name": "+10 seconds to Overdrive time"
+    },
+    {
+      "$id": 35,
+      "label": "SoulArts_P1202_name",
+      "style": 31,
+      "name": "Remove debuffs / Gain Invincibility II"
+    },
+    {
+      "$id": 36,
+      "label": "SoulArts_P1203_name",
+      "style": 31,
+      "name": "+1 tier to auras / Reduce cooldown by 50%"
+    },
+    {
+      "$id": 37,
+      "label": "SoulArts_C0101_name",
+      "style": 31,
+      "name": "Reduce cooldown by 50%"
+    },
+    {
+      "$id": 38,
+      "label": "SoulArts_C0102_name",
+      "style": 31,
+      "name": "Reduce cooldown by 50%"
+    },
+    {
+      "$id": 39,
+      "label": "SoulArts_C0103_name",
+      "style": 31,
+      "name": "+50% to Soul Heals / Rarely: +1,000 TP"
+    },
+    {
+      "$id": 40,
+      "label": "SoulArts_C0201_name",
+      "style": 31,
+      "name": "Gain Decoy III"
+    },
+    {
+      "$id": 41,
+      "label": "SoulArts_C0202_name",
+      "style": 31,
+      "name": "Gain Evasion Up III"
+    },
+    {
+      "$id": 42,
+      "label": "SoulArts_C0203_name",
+      "style": 31,
+      "name": "Inflict Shock I"
+    },
+    {
+      "$id": 43,
+      "label": "SoulArts_C0301_name",
+      "style": 31,
+      "name": "+10 critical chance / Gain Critical Power II"
+    },
+    {
+      "$id": 44,
+      "label": "SoulArts_C0302_name",
+      "style": 31,
+      "name": "+10 critical chance / Gain Critical Power II"
+    },
+    {
+      "$id": 45,
+      "label": "SoulArts_C0303_name",
+      "style": 31,
+      "name": "+80 critical chance"
+    },
+    {
+      "$id": 46,
+      "label": "SoulArts_C0401_name",
+      "style": 31,
+      "name": "Gain Weather Immunity I"
+    },
+    {
+      "$id": 47,
+      "label": "SoulArts_C0402_name",
+      "style": 31,
+      "name": "Gain Weather Immunity II"
+    },
+    {
+      "$id": 48,
+      "label": "SoulArts_C0403_name",
+      "style": 31,
+      "name": "+3 tiers to Debuff Arts / Bypass debuff resistances"
+    },
+    {
+      "$id": 49,
+      "label": "SoulArts_C0501_name",
+      "style": 31,
+      "name": "Gain Terrain Immunity III"
+    },
+    {
+      "$id": 50,
+      "label": "SoulArts_C0502_name",
+      "style": 31,
+      "name": "Gain Invincibility I"
+    },
+    {
+      "$id": 51,
+      "label": "SoulArts_C0503_name",
+      "style": 31,
+      "name": "Inflict Effect Stasis III"
+    },
+    {
+      "$id": 52,
+      "label": "SoulArts_C0601_name",
+      "style": 31,
+      "name": "Inflict Fatigue I"
+    },
+    {
+      "$id": 53,
+      "label": "SoulArts_C0602_name",
+      "style": 31,
+      "name": "Inflict Physical Res Down I"
+    },
+    {
+      "$id": 54,
+      "label": "SoulArts_C0603_name",
+      "style": 31,
+      "name": "Gain Supercharge II"
+    },
+    {
+      "$id": 55,
+      "label": "SoulArts_C0701_name",
+      "style": 31,
+      "name": "Remove debuffs / Rarely: +500 TP"
+    },
+    {
+      "$id": 56,
+      "label": "SoulArts_C0702_name",
+      "style": 31,
+      "name": "Gain Critical Power IV"
+    },
+    {
+      "$id": 57,
+      "label": "SoulArts_C0703_name",
+      "style": 31,
+      "name": "Reduce cooldown by 50% (rarely: 75%)"
+    },
+    {
+      "$id": 58,
+      "label": "SoulArts_C0801_name",
+      "style": 31,
+      "name": "+25% damage / +100 TP per hit"
+    },
+    {
+      "$id": 59,
+      "label": "SoulArts_C0802_name",
+      "style": 31,
+      "name": "+25% damage / +50 TP per hit"
+    },
+    {
+      "$id": 60,
+      "label": "SoulArts_C0803_name",
+      "style": 31,
+      "name": "+100% to Soul Heals"
+    },
+    {
+      "$id": 61,
+      "label": "SoulArts_C0901_name",
+      "style": 31,
+      "name": "+50% damage / +10 critical chance"
+    },
+    {
+      "$id": 62,
+      "label": "SoulArts_C0902_name",
+      "style": 31,
+      "name": "+50 TP per hit / +10 critical chance"
+    },
+    {
+      "$id": 63,
+      "label": "SoulArts_C0903_name",
+      "style": 31,
+      "name": "Gain Critical Power I / Rarely: +25 critical chance"
+    },
+    {
+      "$id": 64,
+      "label": "SoulArts_C1001_name",
+      "style": 31,
+      "name": "+200% damage (+400% from behind)"
+    },
+    {
+      "$id": 65,
+      "label": "SoulArts_C1002_name",
+      "style": 31,
+      "name": "+200% damage (+300% from the side)"
+    },
+    {
+      "$id": 66,
+      "label": "SoulArts_C1003_name",
+      "style": 31,
+      "name": "+2 tiers to Debuff Arts / Bypass debuff resistances"
+    },
+    {
+      "$id": 67,
+      "label": "SoulArts_C1101_name",
+      "style": 31,
+      "name": "+25% damage / +100 TP per hit"
+    },
+    {
+      "$id": 68,
+      "label": "SoulArts_C1102_name",
+      "style": 31,
+      "name": "+25% damage / +50 TP per hit"
+    },
+    {
+      "$id": 69,
+      "label": "SoulArts_C1103_name",
+      "style": 31,
+      "name": "+1 tier to Debuff Arts / Bypass debuff resistances"
+    },
+    {
+      "$id": 70,
+      "label": "SoulArts_C1201_name",
+      "style": 31,
+      "name": "+100% damage"
+    },
+    {
+      "$id": 71,
+      "label": "SoulArts_C1202_name",
+      "style": 31,
+      "name": "+100% damage"
+    },
+    {
+      "$id": 72,
+      "label": "SoulArts_C1203_name",
+      "style": 31,
+      "name": "Inflict Blaze I"
+    },
+    {
+      "$id": 73,
+      "label": "SoulArts_C1301_name",
+      "style": 31,
+      "name": "+150% damage (+200% from behind)"
+    },
+    {
+      "$id": 74,
+      "label": "SoulArts_C1302_name",
+      "style": 31,
+      "name": "+150% damage (+200% from the side)"
+    },
+    {
+      "$id": 75,
+      "label": "SoulArts_C1303_name",
+      "style": 31,
+      "name": "+1 second to Bind duration per hit"
+    },
+    {
+      "$id": 76,
+      "label": "SoulArts_C1401_name",
+      "style": 31,
+      "name": "Restore 30% appendage HP"
+    },
+    {
+      "$id": 77,
+      "label": "SoulArts_C1402_name",
+      "style": 31,
+      "name": "+400% appendage damage"
+    },
+    {
+      "$id": 78,
+      "label": "SoulArts_C1403_name",
+      "style": 31,
+      "name": "+200% appendage damage"
+    },
+    {
+      "$id": 79,
+      "label": "SoulArts_C1501_name",
+      "style": 31,
+      "name": "+400% to Soul Heals / Gain Invincibility II"
+    },
+    {
+      "$id": 80,
+      "label": "SoulArts_C1502_name",
+      "style": 31,
+      "name": "+3000 TP"
+    },
+    {
+      "$id": 81,
+      "label": "SoulArts_C1503_name",
+      "style": 31,
+      "name": "Restore 50% appendage HP / Full Art cooldown"
+    },
+    {
+      "$id": 82,
+      "label": "SoulArts_C1601_name",
+      "style": 31,
+      "name": "Restore 15% fuel"
+    },
+    {
+      "$id": 83,
+      "label": "SoulArts_C1602_name",
+      "style": 31,
+      "name": "Restore 10% fuel / +1,000 GP"
+    },
+    {
+      "$id": 84,
+      "label": "SoulArts_C1603_name",
+      "style": 31,
+      "name": "Restore 10% fuel / Restore 10% appendage HP"
+    }
+  ]
+}

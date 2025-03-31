@@ -1,0 +1,72 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev300061_MSG0001",
+      "style": 1,
+      "name": "Hey! You here with the miranium?[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev300061_MSG0002",
+      "style": 1,
+      "name": "I need it for my research—I'm looking into miranium\napplications for the integrated production plant.[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev300061_JNK0010",
+      "style": 4,
+      "name": "Deliver[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev300061_SEL0011",
+      "style": 3,
+      "name": "Hand over 1,200 units of miranium.[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev300061_JNK0020",
+      "style": 4,
+      "name": "Keep[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev300061_SEL0021",
+      "style": 3,
+      "name": "Hold on to your miranium for now.[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev300061_MSG0004",
+      "style": 1,
+      "name": "Perfect, thank you. Rest assured, it will be put to good\nuse for the sake of the city![ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev300061_MSG0005",
+      "style": 1,
+      "name": "Hmm. A pity.[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev300061_MSG0006",
+      "style": 1,
+      "name": "That's very kind, but I'm afraid this is less than the\nrequested quantity. I believe the posting was for\n1,200 units? Please come back when you have it.[ST:wait ]"
+    }
+  ]
+}

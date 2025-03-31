@@ -1,0 +1,366 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev051301_MSG0001",
+      "style": 1,
+      "name": "I am glad you came as you promised.[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev051301_MSG0002",
+      "style": 1,
+      "name": "Allow me to introduce my master, Adolphus.[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev051301_MSG0003",
+      "style": 1,
+      "name": "I wish we had the time to share a drink and become\nproperly acquainted, but I fear I must get straight to\nthe point.[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev051301_MSG0004",
+      "style": 1,
+      "name": "New rumors of the Celeste Three have arisen.[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev051301_MSG0005",
+      "style": 1,
+      "name": "A group of men are... Well, they WERE keeping a\nhoard of white gold.[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev051301_MSG0006",
+      "style": 1,
+      "name": "These men are no longer alive.[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev051301_MSG0007",
+      "style": 1,
+      "name": "Their treasure, however, remains hidden behind a door\narmed with a most formidable security system, or so\nthe stories go.[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev051301_JNK0010",
+      "style": 4,
+      "name": "Nod"
+    },
+    {
+      "$id": 9,
+      "label": "qev051301_SEL0011",
+      "style": 3,
+      "name": "Say it's a story you're well familiar with."
+    },
+    {
+      "$id": 10,
+      "label": "qev051301_JNK0020",
+      "style": 4,
+      "name": "Guess"
+    },
+    {
+      "$id": 11,
+      "label": "qev051301_SEL0021",
+      "style": 3,
+      "name": "Ask if Adolphus aims to open that door."
+    },
+    {
+      "$id": 12,
+      "label": "qev051301_MSG0008",
+      "style": 1,
+      "name": "Your information network is impressive.[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev051301_MSG0009",
+      "style": 1,
+      "name": "I knew Ga Bewhe would find me an astute BLADE\noperative, and I am not disappointed.[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev051301_MSG0010",
+      "style": 1,
+      "name": "Which brings us to my proposal.[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev051301_MSG0011",
+      "style": 1,
+      "name": "You will gather the four keys needed to open the door.[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev051301_MSG0012",
+      "style": 1,
+      "name": "In return, I will pay you a most fair reward.\nHow does five million credits sound?[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev051301_JNK0030",
+      "style": 4,
+      "name": "Accept"
+    },
+    {
+      "$id": 18,
+      "label": "qev051301_SEL0031",
+      "style": 3,
+      "name": "Agree to the deal."
+    },
+    {
+      "$id": 19,
+      "label": "qev051301_JNK0040",
+      "style": 4,
+      "name": "Negotiate"
+    },
+    {
+      "$id": 20,
+      "label": "qev051301_SEL0041",
+      "style": 3,
+      "name": "Press Adolphus for more money."
+    },
+    {
+      "$id": 21,
+      "label": "qev051301_MSG0013",
+      "style": 1,
+      "name": "Always a pleasure working with sensible people.[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev051301_MSG0014",
+      "style": 1,
+      "name": "White gold's trading price has always been infamously\nvolatile, you see.[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev051301_MSG0015",
+      "style": 1,
+      "name": "I was bracing for the worst when it came to negotiating\nour rate.[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev051301_MSG0016",
+      "style": 1,
+      "name": "It seems we have a [ST:gender p1=businessman p2=businesswoman ] on our hands.[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev051301_MSG0017",
+      "style": 1,
+      "name": "I suppose that's standard operating procedure for this\nsort of thing.[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev051301_MSG0018",
+      "style": 1,
+      "name": "The trading price for white gold is especially volatile,\neven compared to other rare metals. I expect you're\nwell aware of this fact, yes?[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev051301_MSG0019",
+      "style": 1,
+      "name": "I understand your desire to push for a higher price,\nbut my position already has a great deal of risk.\nThis is a gamble we'll need to take together.[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev051301_MSG0020",
+      "style": 1,
+      "name": "What I offer you is a fifty-fifty split,\nwhich is more than fair.[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev051301_MSG0021",
+      "style": 1,
+      "name": "Take it or leave it.[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev051301_MSG0022",
+      "style": 1,
+      "name": "As I said, you will be gathering four keys in total.\nPlease begin your search immediately.[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev051301_MSG0023",
+      "style": 1,
+      "name": "I await your report, and trust it will be good news.[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev051301_MSG0024",
+      "style": 1,
+      "name": "When next we meet, I expect it will be in front of the\nvault door. I look forward to it greatly.[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev051301_MSG0025",
+      "style": 1,
+      "name": "Now, as for the keys' whereabouts, I believe I can be\nof some help.[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev051301_MSG0026",
+      "style": 1,
+      "name": "If I am not mistaken, you are in possession of three of\nthem yourself.[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev051301_MSG0027",
+      "style": 1,
+      "name": "My master is not yet aware of that particular fact,\nbut you need not hide it from me.[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev051301_MSG0028",
+      "style": 1,
+      "name": "I selected you for this job precisely because I knew you\nheld them.[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev051301_MSG0029",
+      "style": 1,
+      "name": "If you supply those three, I will supply you with the\nlocation of the fourth.[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev051301_MSG0030",
+      "style": 1,
+      "name": "A win-win proposal, don't you think?[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "qev051301_MSG0031",
+      "style": 1,
+      "name": "All I ask in return is a portion of your share.\nI think that a more pleasant option for both of us\nthan for me to attempt to take your keys by force.[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "qev051301_JNK0050",
+      "style": 4,
+      "name": "Query"
+    },
+    {
+      "$id": 41,
+      "label": "qev051301_SEL0051",
+      "style": 3,
+      "name": "Ask Ga Bewhe why she hasn't told\nAdolphus about your keys."
+    },
+    {
+      "$id": 42,
+      "label": "qev051301_JNK0060",
+      "style": 4,
+      "name": "Tease"
+    },
+    {
+      "$id": 43,
+      "label": "qev051301_SEL0061",
+      "style": 3,
+      "name": "Mock Ga Bewhe for being such a schemer."
+    },
+    {
+      "$id": 44,
+      "label": "qev051301_MSG0032",
+      "style": 1,
+      "name": "I hope that you will give me your trust, seeing as I am\nthe one who included you in this proposal.[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "qev051301_MSG0033",
+      "style": 1,
+      "name": "My master's trade draws massive profits,\nbut my salary remains a pittance.[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "qev051301_MSG0034",
+      "style": 1,
+      "name": "I require as much money as possible to ease the\npoverty my people face.[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "qev051301_MSG0035",
+      "style": 1,
+      "name": "And for your part, you stand to receive a fortune for\nthe small effort of acquiring but one more key.[ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "qev051301_MSG0036",
+      "style": 1,
+      "name": "Far from it, I assure you—it is my employer who is the\nvillain here.[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "qev051301_MSG0037",
+      "style": 1,
+      "name": "But the influence he holds makes him unassailable.[ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "qev051301_MSG0038",
+      "style": 1,
+      "name": "I am merely trying to secure money to improve the\nconditions of my impoverished people.[ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "qev051301_MSG0039",
+      "style": 1,
+      "name": "Surely that is reasonable justification?[ST:wait ]"
+    },
+    {
+      "$id": 52,
+      "label": "qev051301_MSG0040",
+      "style": 1,
+      "name": "Now, as for the final key...[ST:wait ]"
+    },
+    {
+      "$id": 53,
+      "label": "qev051301_MSG0041",
+      "style": 1,
+      "name": "It seems a BLADE named Law is in possession of it.[ST:wait ]"
+    },
+    {
+      "$id": 54,
+      "label": "qev051301_MSG0042",
+      "style": 1,
+      "name": "He works for a fellow called Wang—I believe their\nteam is currently in Sylvalum on a mission.[ST:wait ]"
+    },
+    {
+      "$id": 55,
+      "label": "qev051301_MSG0043",
+      "style": 1,
+      "name": "As a fellow BLADE, you should have no problem\napproaching them in the field.[ST:wait ]"
+    },
+    {
+      "$id": 56,
+      "label": "qev051301_MSG0044",
+      "style": 1,
+      "name": "Perhaps if you join them in their work,\nan opportunity to secure the key will present itself.[ST:wait ]"
+    },
+    {
+      "$id": 57,
+      "label": "qev051301_MSG0045",
+      "style": 1,
+      "name": "I leave the means to you, though. As far as we are\nconcerned, all that matters is that you acquire it.[ST:wait ]"
+    },
+    {
+      "$id": 58,
+      "label": "qev051301_MSG0046",
+      "style": 1,
+      "name": "I wish you great success.[ST:wait ]"
+    }
+  ]
+}

@@ -1,0 +1,468 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev055501_MSG0001",
+      "style": 1,
+      "name": "Ah, perfect. I am glad that I waited.[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev055501_MSG0002",
+      "style": 1,
+      "name": "You are the one who will complete any task no matter\nhow difficult, are you not? I heard stories of your valor\nfrom the other residents.[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev055501_MSG0003",
+      "style": 1,
+      "name": "Lately, it has become difficult to ascertain the will of my\nOvah. It is quite the predicament.[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev055501_JNK0010",
+      "style": 4,
+      "name": "Ask about Ovah[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev055501_SEL0011",
+      "style": 3,
+      "name": "Inquire if that's something that happens to Orpheans.[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev055501_JNK0020",
+      "style": 4,
+      "name": "Ask about Causes[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev055501_SEL0021",
+      "style": 3,
+      "name": "Ask if Nan'celeg has any idea why this is happening.[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev055501_MSG0004",
+      "style": 1,
+      "name": "It is not completely unheard of, and one's environment\nand circumstances can be major factors.[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev055501_MSG0005",
+      "style": 1,
+      "name": "Also, in the course of decline due to old age,\nsome Orpheans go berserk and must be...subdued.[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev055501_MSG0006",
+      "style": 1,
+      "name": "Thankfully, I am still young.\nThat ought not be an issue.[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev055501_MSG0007",
+      "style": 1,
+      "name": "Hmm... Well, it began when I moved to New LA.\nPerhaps the cause lies there.[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev055501_MSG0008",
+      "style": 1,
+      "name": "Still, that is far from a concrete diagnosis.[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev055501_MSG0009",
+      "style": 1,
+      "name": "I plan to begin a trial treatment presently.[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev055501_MSG0010",
+      "style": 1,
+      "name": "The procedure is a simple administration of lumenoa\nleaf, a Miran herb.[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev055501_MSG0011",
+      "style": 1,
+      "name": "It is a method I came across in a database while\nworking as a researcher for the Ganglion.[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev055501_MSG0012",
+      "style": 1,
+      "name": "Can I ask you to locate and harvest that herb for me?[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev055501_MSG0013",
+      "style": 1,
+      "name": "My research shows that the herb can be found on the\nFar Isle of Tzu'o in Cauldros.[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev055501_MSG0014",
+      "style": 1,
+      "name": "I am confident you will fulfill my request most\nsatisfactorily. You have my thanks.[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev055501_MSG0015",
+      "style": 1,
+      "name": "The herb should be found growing on the Far Isle of\nTzu'o in Cauldros.[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev055501_MSG0016",
+      "style": 1,
+      "name": "I am certain that will clear my condition right up.\nI thank you for the help.[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev055501_MSG0017",
+      "style": 1,
+      "name": "Ah, yes. I have been waiting for you.\nHave you acquired the herb I requested?[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev055501_MSG0018",
+      "style": 1,
+      "name": "Thank you. *chomp* *chew* *munch*[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev055501_MSG0019",
+      "style": 1,
+      "name": "Oh... Oh my word! That is quite effective!\nAlready I feel the will of my Ovah more clearly.[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev055501_MSG0020",
+      "style": 1,
+      "name": "...What? But...has the time for that truly come?[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev055501_MSG0021",
+      "style": 1,
+      "name": "Had I become so deaf that I could not hear something\nso important?[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev055501_JNK0030",
+      "style": 4,
+      "name": "Inquire[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev055501_SEL0031",
+      "style": 3,
+      "name": "Ask what Nan'celeg heard.[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev055501_JNK0040",
+      "style": 4,
+      "name": "Ignore[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev055501_SEL0041",
+      "style": 3,
+      "name": "Pay no attention to Nan'celeg.[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev055501_MSG0053",
+      "style": 1,
+      "name": "When the time comes, the Orphe reproduce by\ndividing their bodies in two.[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev055501_MSG0054",
+      "style": 1,
+      "name": "My Ovah is telling me that now is my time.[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev055501_MSG0055",
+      "style": 1,
+      "name": "I must divide as soon as possible.[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev055501_MSG0058",
+      "style": 1,
+      "name": "There is no time to waste...\nI will divide at once.[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev055501_MSG0061",
+      "style": 1,
+      "name": "Ngh...gggah! RrrrrrrrRAH![ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev055501_MSG0064",
+      "style": 1,
+      "name": "Who are you?\nHow has an Orphean like you emerged from me?![ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev055501_MSG0067",
+      "style": 1,
+      "name": "Who...who am I? Why am I in such a place as this?[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev055501_MSG0068",
+      "style": 1,
+      "name": "This is not my home... The forest...\nI must return to the forest![ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev055501_MSG0070",
+      "style": 1,
+      "name": "What in the world...?[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "qev055501_MSG0071",
+      "style": 1,
+      "name": "When dividing, the resultant new life should be\nessentially identical to the parent body.[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "qev055501_MSG0072",
+      "style": 1,
+      "name": "But I have never seen an Orphean that looked like that.[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "qev055501_MSG0073",
+      "style": 1,
+      "name": "And it seemed terribly confused, as well.\nAlmost as if it was unable to hear the Ovah's will.[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "qev055501_JNK0050",
+      "style": 4,
+      "name": "Worry[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "qev055501_SEL0051",
+      "style": 3,
+      "name": "Express concern for the Orphean who ran off.[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "qev055501_JNK0060",
+      "style": 4,
+      "name": "Guess[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "qev055501_SEL0061",
+      "style": 3,
+      "name": "Suggest that it may have been a spontaneous mutation."
+    },
+    {
+      "$id": 46,
+      "label": "qev055501_MSG0080",
+      "style": 1,
+      "name": "Yes, of course. This situation demands swift action.[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "qev055501_MSG0083",
+      "style": 1,
+      "name": "Yes, that is certainly a logical conjecture.[ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "qev055501_MSG0084",
+      "style": 1,
+      "name": "It would have to be the result of some environmental\nfactor on Mira, for nothing like it was ever seen on\nour homeworld.[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "qev055501_MSG0085",
+      "style": 1,
+      "name": "In any case, we must hurry. We will gain no answers\nsave by speaking to it.[ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "qev055501_MSG0088",
+      "style": 1,
+      "name": "I can say with 89.6 percent certainty that it headed for\nNoctilum. Could I ask you to bring it back here?[ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "qev055501_MSG0089",
+      "style": 1,
+      "name": "I fear the aftereffects of division have left me exhausted.\nI am not fit to join you.[ST:wait ]"
+    },
+    {
+      "$id": 52,
+      "label": "qev055501_MSG0090",
+      "style": 1,
+      "name": "Please hurry. In such a new and confused state,\nthe poor Orphean will make easy prey for any\nprimordial creature it happens to meet.[ST:wait ]"
+    },
+    {
+      "$id": 53,
+      "label": "qev055501_MSG0025",
+      "style": 1,
+      "name": "That division looked nothing at all like me...[ST:wait ]"
+    },
+    {
+      "$id": 54,
+      "label": "qev055501_MSG0026",
+      "style": 1,
+      "name": "Its red color... The shape of its antennae...\nI have never seen an Orphean like it.[ST:wait ]"
+    },
+    {
+      "$id": 55,
+      "label": "qev055501_MSG0027",
+      "style": 1,
+      "name": "We must speak with it if we hope to obtain any\nanswers. Please hurry to Noctilum and bring it\nback here.[ST:wait ]"
+    },
+    {
+      "$id": 56,
+      "label": "qev055501_MSG0028",
+      "style": 1,
+      "name": "It looks nothing like me...and I am beginning to\nunderstand why.[ST:wait ]"
+    },
+    {
+      "$id": 57,
+      "label": "qev055501_MSG0029",
+      "style": 1,
+      "name": "This division was born here in the city,\nafter extensive contact with humans.[ST:wait ]"
+    },
+    {
+      "$id": 58,
+      "label": "qev055501_MSG0030",
+      "style": 1,
+      "name": "The Orphe are not separated into distinct sexes like you\nhumans. Instead, we are all alike.[ST:wait ]"
+    },
+    {
+      "$id": 59,
+      "label": "qev055501_MSG0031",
+      "style": 1,
+      "name": "...Save for this one. It is an entirely new type born\nfrom the both of us.[ST:wait ]"
+    },
+    {
+      "$id": 60,
+      "label": "qev055501_MSG0032",
+      "style": 1,
+      "name": "New, old—none of that makes any difference to me.\nWhat I could really use is a name![ST:wait ]"
+    },
+    {
+      "$id": 61,
+      "label": "qev055501_JNK0110",
+      "style": 4,
+      "name": "Scold[ST:wait ]"
+    },
+    {
+      "$id": 62,
+      "label": "qev055501_SEL0111",
+      "style": 3,
+      "name": "Chide Nan'celeg for treating his\nchild like a research subject.[ST:wait ]"
+    },
+    {
+      "$id": 63,
+      "label": "qev055501_JNK0120",
+      "style": 4,
+      "name": "Comfort[ST:wait ]"
+    },
+    {
+      "$id": 64,
+      "label": "qev055501_SEL0121",
+      "style": 3,
+      "name": "Calm the Orphean's anger with gentle assurance.[ST:wait ]"
+    },
+    {
+      "$id": 65,
+      "label": "qev055501_MSG0033",
+      "style": 1,
+      "name": "Y-yes, of course. Forgive me.\nI was wrong to refer to you as an \"it.\"[ST:wait ]"
+    },
+    {
+      "$id": 66,
+      "label": "qev055501_MSG0034",
+      "style": 1,
+      "name": "I accept your apology—but you are still my parent,\nand so must give me a name.[ST:wait ]"
+    },
+    {
+      "$id": 67,
+      "label": "qev055501_MSG0035",
+      "style": 1,
+      "name": "You saved my life. If my agitation offends you,\nI will be quiet.[ST:wait ]"
+    },
+    {
+      "$id": 68,
+      "label": "qev055501_MSG0036",
+      "style": 1,
+      "name": "But having no name is painful to me.\nYou are my parent—please give me my name.[ST:wait ]"
+    },
+    {
+      "$id": 69,
+      "label": "qev055501_MSG0037",
+      "style": 1,
+      "name": "As my division, your name would be Nen'celeg.[ST:wait ]"
+    },
+    {
+      "$id": 70,
+      "label": "qev055501_MSG0038",
+      "style": 1,
+      "name": "Then that shall be my name.[ST:wait ]"
+    },
+    {
+      "$id": 71,
+      "label": "qev055501_MSG0039",
+      "style": 1,
+      "name": "Now I can finally introduce myself properly.\n...I am Nen'celeg. Thank you for saving me.[ST:wait ]"
+    },
+    {
+      "$id": 72,
+      "label": "qev055501_MSG0040",
+      "style": 1,
+      "name": "This is a humble thanks from us. ...Come now!\nHurry up and give [ST:gender p1=him p2=her ] a reward.[ST:wait ]"
+    },
+    {
+      "$id": 73,
+      "label": "qev055501_MSG0041",
+      "style": 1,
+      "name": "You have been a great help.\nPlease accept this.[ST:wait ]"
+    },
+    {
+      "$id": 74,
+      "label": "qev055501_MSG0042",
+      "style": 1,
+      "name": "Now that all this has been taken care of,\nyou have much to teach me.[ST:wait ]"
+    },
+    {
+      "$id": 75,
+      "label": "qev055501_MSG0043",
+      "style": 1,
+      "name": "Of course. It is my responsibility as your parent.[ST:wait ]"
+    }
+  ]
+}

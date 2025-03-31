@@ -1,0 +1,1200 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "FNT_BCN_TYPE_DEFAULT_name",
+      "style": 18,
+      "name": "Basic Probe"
+    },
+    {
+      "$id": 2,
+      "label": "FNT_BCN_TYPE_MINE_name",
+      "style": 18,
+      "name": "Mining Probe"
+    },
+    {
+      "$id": 3,
+      "label": "FNT_BCN_TYPE_TOURISM_name",
+      "style": 18,
+      "name": "Research Probe"
+    },
+    {
+      "$id": 4,
+      "label": "FNT_BCN_TYPE_BATTLE_name",
+      "style": 18,
+      "name": "Battle Probe"
+    },
+    {
+      "$id": 5,
+      "label": "FNT_BCN_TYPE_RAISE_name",
+      "style": 18,
+      "name": "Booster Probe"
+    },
+    {
+      "$id": 6,
+      "label": "FNT_BCN_TYPE_STORAGE_name",
+      "style": 18,
+      "name": "Storage Probe"
+    },
+    {
+      "$id": 7,
+      "label": "FNT_BCN_TYPE_COPY_name",
+      "style": 18,
+      "name": "Duplicator Probe"
+    },
+    {
+      "$id": 8,
+      "label": "ITM_BCN_DEFAULT_name",
+      "style": 18,
+      "name": "Basic Probe"
+    },
+    {
+      "$id": 9,
+      "label": "ITM_BCN_MINE_001_name",
+      "style": 18,
+      "name": "Mining Probe G1"
+    },
+    {
+      "$id": 10,
+      "label": "ITM_BCN_MINE_002_name",
+      "style": 18,
+      "name": "Mining Probe G2"
+    },
+    {
+      "$id": 11,
+      "label": "ITM_BCN_MINE_003_name",
+      "style": 18,
+      "name": "Mining Probe G3"
+    },
+    {
+      "$id": 12,
+      "label": "ITM_BCN_MINE_004_name",
+      "style": 18,
+      "name": "Mining Probe G4"
+    },
+    {
+      "$id": 13,
+      "label": "ITM_BCN_MINE_005_name",
+      "style": 18,
+      "name": "Mining Probe G5"
+    },
+    {
+      "$id": 14,
+      "label": "ITM_BCN_MINE_006_name",
+      "style": 18,
+      "name": "Mining Probe G6"
+    },
+    {
+      "$id": 15,
+      "label": "ITM_BCN_MINE_007_name",
+      "style": 18,
+      "name": "Mining Probe G7"
+    },
+    {
+      "$id": 16,
+      "label": "ITM_BCN_MINE_008_name",
+      "style": 18,
+      "name": "Mining Probe G8"
+    },
+    {
+      "$id": 17,
+      "label": "ITM_BCN_MINE_009_name",
+      "style": 18,
+      "name": "Mining Probe G9"
+    },
+    {
+      "$id": 18,
+      "label": "ITM_BCN_MINE_010_name",
+      "style": 18,
+      "name": "Mining Probe G10"
+    },
+    {
+      "$id": 19,
+      "label": "ITM_BCN_MINE_011_name",
+      "style": 18,
+      "name": ""
+    },
+    {
+      "$id": 20,
+      "label": "ITM_BCN_MINE_012_name",
+      "style": 18,
+      "name": ""
+    },
+    {
+      "$id": 21,
+      "label": "ITM_BCN_MINE_013_name",
+      "style": 18,
+      "name": ""
+    },
+    {
+      "$id": 22,
+      "label": "ITM_BCN_MINE_014_name",
+      "style": 18,
+      "name": ""
+    },
+    {
+      "$id": 23,
+      "label": "ITM_BCN_MINE_015_name",
+      "style": 18,
+      "name": ""
+    },
+    {
+      "$id": 24,
+      "label": "ITM_BCN_MINE_016_name",
+      "style": 18,
+      "name": ""
+    },
+    {
+      "$id": 25,
+      "label": "ITM_BCN_MINE_017_name",
+      "style": 18,
+      "name": ""
+    },
+    {
+      "$id": 26,
+      "label": "ITM_BCN_MINE_018_name",
+      "style": 18,
+      "name": ""
+    },
+    {
+      "$id": 27,
+      "label": "ITM_BCN_MINE_019_name",
+      "style": 18,
+      "name": ""
+    },
+    {
+      "$id": 28,
+      "label": "ITM_BCN_MINE_020_name",
+      "style": 18,
+      "name": ""
+    },
+    {
+      "$id": 29,
+      "label": "ITM_BCN_MINE_021_name",
+      "style": 18,
+      "name": ""
+    },
+    {
+      "$id": 30,
+      "label": "ITM_BCN_MINE_022_name",
+      "style": 18,
+      "name": ""
+    },
+    {
+      "$id": 31,
+      "label": "ITM_BCN_MINE_023_name",
+      "style": 18,
+      "name": ""
+    },
+    {
+      "$id": 32,
+      "label": "ITM_BCN_MINE_024_name",
+      "style": 18,
+      "name": ""
+    },
+    {
+      "$id": 33,
+      "label": "ITM_BCN_MINE_025_name",
+      "style": 18,
+      "name": ""
+    },
+    {
+      "$id": 34,
+      "label": "ITM_BCN_MINE_026_name",
+      "style": 18,
+      "name": ""
+    },
+    {
+      "$id": 35,
+      "label": "ITM_BCN_MINE_027_name",
+      "style": 18,
+      "name": ""
+    },
+    {
+      "$id": 36,
+      "label": "ITM_BCN_MINE_028_name",
+      "style": 18,
+      "name": ""
+    },
+    {
+      "$id": 37,
+      "label": "ITM_BCN_MINE_029_name",
+      "style": 18,
+      "name": ""
+    },
+    {
+      "$id": 38,
+      "label": "ITM_BCN_MINE_030_name",
+      "style": 18,
+      "name": ""
+    },
+    {
+      "$id": 39,
+      "label": "ITM_BCN_TOUR_001_name",
+      "style": 18,
+      "name": "Research Probe G1"
+    },
+    {
+      "$id": 40,
+      "label": "ITM_BCN_TOUR_002_name",
+      "style": 18,
+      "name": "Research Probe G2"
+    },
+    {
+      "$id": 41,
+      "label": "ITM_BCN_TOUR_003_name",
+      "style": 18,
+      "name": "Research Probe G3"
+    },
+    {
+      "$id": 42,
+      "label": "ITM_BCN_TOUR_004_name",
+      "style": 18,
+      "name": "Research Probe G4"
+    },
+    {
+      "$id": 43,
+      "label": "ITM_BCN_TOUR_005_name",
+      "style": 18,
+      "name": "Research Probe G5"
+    },
+    {
+      "$id": 44,
+      "label": "ITM_BCN_TOUR_006_name",
+      "style": 18,
+      "name": "Research Probe G6"
+    },
+    {
+      "$id": 45,
+      "label": "ITM_BCN_TOUR_007_name",
+      "style": 18,
+      "name": ""
+    },
+    {
+      "$id": 46,
+      "label": "ITM_BCN_TOUR_008_name",
+      "style": 18,
+      "name": ""
+    },
+    {
+      "$id": 47,
+      "label": "ITM_BCN_TOUR_009_name",
+      "style": 18,
+      "name": ""
+    },
+    {
+      "$id": 48,
+      "label": "ITM_BCN_TOUR_010_name",
+      "style": 18,
+      "name": ""
+    },
+    {
+      "$id": 49,
+      "label": "ITM_BCN_TOUR_011_name",
+      "style": 18,
+      "name": ""
+    },
+    {
+      "$id": 50,
+      "label": "ITM_BCN_TOUR_012_name",
+      "style": 18,
+      "name": ""
+    },
+    {
+      "$id": 51,
+      "label": "ITM_BCN_TOUR_013_name",
+      "style": 18,
+      "name": ""
+    },
+    {
+      "$id": 52,
+      "label": "ITM_BCN_TOUR_014_name",
+      "style": 18,
+      "name": ""
+    },
+    {
+      "$id": 53,
+      "label": "ITM_BCN_TOUR_015_name",
+      "style": 18,
+      "name": ""
+    },
+    {
+      "$id": 54,
+      "label": "ITM_BCN_TOUR_016_name",
+      "style": 18,
+      "name": ""
+    },
+    {
+      "$id": 55,
+      "label": "ITM_BCN_TOUR_017_name",
+      "style": 18,
+      "name": ""
+    },
+    {
+      "$id": 56,
+      "label": "ITM_BCN_TOUR_018_name",
+      "style": 18,
+      "name": ""
+    },
+    {
+      "$id": 57,
+      "label": "ITM_BCN_TOUR_019_name",
+      "style": 18,
+      "name": ""
+    },
+    {
+      "$id": 58,
+      "label": "ITM_BCN_TOUR_020_name",
+      "style": 18,
+      "name": ""
+    },
+    {
+      "$id": 59,
+      "label": "ITM_BCN_TOUR_021_name",
+      "style": 18,
+      "name": ""
+    },
+    {
+      "$id": 60,
+      "label": "ITM_BCN_RAISE_001_name",
+      "style": 18,
+      "name": "Booster Probe G1"
+    },
+    {
+      "$id": 61,
+      "label": "ITM_BCN_RAISE_002_name",
+      "style": 18,
+      "name": "Booster Probe G2"
+    },
+    {
+      "$id": 62,
+      "label": "ITM_BCN_RAISE_003_name",
+      "style": 18,
+      "name": ""
+    },
+    {
+      "$id": 63,
+      "label": "ITM_BCN_RAISE_004_name",
+      "style": 18,
+      "name": ""
+    },
+    {
+      "$id": 64,
+      "label": "ITM_BCN_RAISE_005_name",
+      "style": 18,
+      "name": ""
+    },
+    {
+      "$id": 65,
+      "label": "ITM_BCN_RAISE_006_name",
+      "style": 18,
+      "name": ""
+    },
+    {
+      "$id": 66,
+      "label": "ITM_BCN_STORAGE_001_name",
+      "style": 18,
+      "name": "Storage Probe"
+    },
+    {
+      "$id": 67,
+      "label": "ITM_BCN_STORAGE_002_name",
+      "style": 18,
+      "name": ""
+    },
+    {
+      "$id": 68,
+      "label": "ITM_BCN_STORAGE_003_name",
+      "style": 18,
+      "name": ""
+    },
+    {
+      "$id": 69,
+      "label": "ITM_BCN_STORAGE_004_name",
+      "style": 18,
+      "name": ""
+    },
+    {
+      "$id": 70,
+      "label": "ITM_BCN_STORAGE_005_name",
+      "style": 18,
+      "name": ""
+    },
+    {
+      "$id": 71,
+      "label": "ITM_BCN_STORAGE_006_name",
+      "style": 18,
+      "name": ""
+    },
+    {
+      "$id": 72,
+      "label": "ITM_BCN_COPY_001_name",
+      "style": 18,
+      "name": "Duplicator Probe"
+    },
+    {
+      "$id": 73,
+      "label": "ITM_BCN_BTL_001_name",
+      "style": 18,
+      "name": "Fuel Recovery Probe"
+    },
+    {
+      "$id": 74,
+      "label": "ITM_BCN_BTL_002_name",
+      "style": 18,
+      "name": "Melee Attack Probe"
+    },
+    {
+      "$id": 75,
+      "label": "ITM_BCN_BTL_003_name",
+      "style": 18,
+      "name": "Ranged Attack Probe"
+    },
+    {
+      "$id": 76,
+      "label": "ITM_BCN_BTL_004_name",
+      "style": 18,
+      "name": "EZ Debuff Probe"
+    },
+    {
+      "$id": 77,
+      "label": "ITM_BCN_BTL_005_name",
+      "style": 18,
+      "name": "Attribute Resistance Probe"
+    },
+    {
+      "$id": 78,
+      "label": "ITM_BCN_BTL_006_name",
+      "style": 18,
+      "name": ""
+    },
+    {
+      "$id": 79,
+      "label": "ITM_BCN_BTL_007_name",
+      "style": 18,
+      "name": ""
+    },
+    {
+      "$id": 80,
+      "label": "ITM_BCN_BTL_008_name",
+      "style": 18,
+      "name": ""
+    },
+    {
+      "$id": 81,
+      "label": "ITM_BCN_BTL_009_name",
+      "style": 18,
+      "name": ""
+    },
+    {
+      "$id": 82,
+      "label": "ITM_BCN_BTL_010_name",
+      "style": 18,
+      "name": ""
+    },
+    {
+      "$id": 83,
+      "label": "ITM_BCN_BTL_011_name",
+      "style": 18,
+      "name": ""
+    },
+    {
+      "$id": 84,
+      "label": "ITM_BCN_BTL_012_name",
+      "style": 18,
+      "name": ""
+    },
+    {
+      "$id": 85,
+      "label": "ITM_BCN_BTL_013_name",
+      "style": 18,
+      "name": ""
+    },
+    {
+      "$id": 86,
+      "label": "ITM_BCN_BTL_014_name",
+      "style": 18,
+      "name": ""
+    },
+    {
+      "$id": 87,
+      "label": "ITM_BCN_BTL_015_name",
+      "style": 18,
+      "name": ""
+    },
+    {
+      "$id": 88,
+      "label": "ITM_BCN_BTL_016_name",
+      "style": 18,
+      "name": ""
+    },
+    {
+      "$id": 89,
+      "label": "ITM_BCN_BTL_017_name",
+      "style": 18,
+      "name": ""
+    },
+    {
+      "$id": 90,
+      "label": "ITM_BCN_BTL_018_name",
+      "style": 18,
+      "name": ""
+    },
+    {
+      "$id": 91,
+      "label": "ITM_BCN_BTL_019_name",
+      "style": 18,
+      "name": ""
+    },
+    {
+      "$id": 92,
+      "label": "ITM_BCN_BTL_020_name",
+      "style": 18,
+      "name": ""
+    },
+    {
+      "$id": 93,
+      "label": "ITM_BCN_BTL_021_name",
+      "style": 18,
+      "name": ""
+    },
+    {
+      "$id": 94,
+      "label": "ITM_BCN_BTL_022_name",
+      "style": 18,
+      "name": ""
+    },
+    {
+      "$id": 95,
+      "label": "ITM_BCN_BTL_023_name",
+      "style": 18,
+      "name": ""
+    },
+    {
+      "$id": 96,
+      "label": "ITM_BCN_BTL_024_name",
+      "style": 18,
+      "name": ""
+    },
+    {
+      "$id": 97,
+      "label": "ITM_BCN_BTL_025_name",
+      "style": 18,
+      "name": ""
+    },
+    {
+      "$id": 98,
+      "label": "ITM_BCN_BTL_026_name",
+      "style": 18,
+      "name": ""
+    },
+    {
+      "$id": 99,
+      "label": "ITM_BCN_BTL_027_name",
+      "style": 18,
+      "name": ""
+    },
+    {
+      "$id": 100,
+      "label": "ITM_BCN_BTL_028_name",
+      "style": 18,
+      "name": ""
+    },
+    {
+      "$id": 101,
+      "label": "ITM_BCN_BTL_029_name",
+      "style": 18,
+      "name": ""
+    },
+    {
+      "$id": 102,
+      "label": "ITM_BCN_BTL_030_name",
+      "style": 18,
+      "name": ""
+    },
+    {
+      "$id": 103,
+      "label": "ITM_BCN_DEFAULT_cap",
+      "style": 171,
+      "name": "The first data probe model to be installed\nat a FrontierNav probe site. Mines\nprecious resources in the same way as\na mining probe. Cannot be linked to\ncombo with other probes."
+    },
+    {
+      "$id": 104,
+      "label": "ITM_BCN_MINE_001_cap",
+      "style": 171,
+      "name": "Mines precious resources and miranium.\nThe amount mined depends on both the\ngrade of the probe and the output of the\nFrontierNav probe site."
+    },
+    {
+      "$id": 105,
+      "label": "ITM_BCN_MINE_002_cap",
+      "style": 171,
+      "name": "Mines precious resources and miranium.\nThe amount mined depends on both the\ngrade of the probe and the output of the\nFrontierNav probe site."
+    },
+    {
+      "$id": 106,
+      "label": "ITM_BCN_MINE_003_cap",
+      "style": 171,
+      "name": "Mines precious resources and miranium.\nThe amount mined depends on both the\ngrade of the probe and the output of the\nFrontierNav probe site."
+    },
+    {
+      "$id": 107,
+      "label": "ITM_BCN_MINE_004_cap",
+      "style": 171,
+      "name": "Mines precious resources and miranium.\nThe amount mined depends on both the\ngrade of the probe and the output of the\nFrontierNav probe site."
+    },
+    {
+      "$id": 108,
+      "label": "ITM_BCN_MINE_005_cap",
+      "style": 171,
+      "name": "Mines precious resources and miranium.\nThe amount mined depends on both the\ngrade of the probe and the output of the\nFrontierNav probe site."
+    },
+    {
+      "$id": 109,
+      "label": "ITM_BCN_MINE_006_cap",
+      "style": 171,
+      "name": "Mines precious resources and miranium.\nThe amount mined depends on both the\ngrade of the probe and the output of the\nFrontierNav probe site."
+    },
+    {
+      "$id": 110,
+      "label": "ITM_BCN_MINE_007_cap",
+      "style": 171,
+      "name": "Mines precious resources and miranium.\nThe amount mined depends on both the\ngrade of the probe and the output of the\nFrontierNav probe site."
+    },
+    {
+      "$id": 111,
+      "label": "ITM_BCN_MINE_008_cap",
+      "style": 171,
+      "name": "Mines precious resources and miranium.\nThe amount mined depends on both the\ngrade of the probe and the output of the\nFrontierNav probe site."
+    },
+    {
+      "$id": 112,
+      "label": "ITM_BCN_MINE_009_cap",
+      "style": 171,
+      "name": "Mines precious resources and miranium.\nThe amount mined depends on both the\ngrade of the probe and the output of the\nFrontierNav probe site."
+    },
+    {
+      "$id": 113,
+      "label": "ITM_BCN_MINE_010_cap",
+      "style": 171,
+      "name": "Mines precious resources and miranium.\nThe amount mined depends on both the\ngrade of the probe and the output of the\nFrontierNav probe site."
+    },
+    {
+      "$id": 114,
+      "label": "ITM_BCN_MINE_011_cap",
+      "style": 171,
+      "name": ""
+    },
+    {
+      "$id": 115,
+      "label": "ITM_BCN_MINE_012_cap",
+      "style": 171,
+      "name": ""
+    },
+    {
+      "$id": 116,
+      "label": "ITM_BCN_MINE_013_cap",
+      "style": 171,
+      "name": ""
+    },
+    {
+      "$id": 117,
+      "label": "ITM_BCN_MINE_014_cap",
+      "style": 171,
+      "name": ""
+    },
+    {
+      "$id": 118,
+      "label": "ITM_BCN_MINE_015_cap",
+      "style": 171,
+      "name": ""
+    },
+    {
+      "$id": 119,
+      "label": "ITM_BCN_MINE_016_cap",
+      "style": 171,
+      "name": ""
+    },
+    {
+      "$id": 120,
+      "label": "ITM_BCN_MINE_017_cap",
+      "style": 171,
+      "name": ""
+    },
+    {
+      "$id": 121,
+      "label": "ITM_BCN_MINE_018_cap",
+      "style": 171,
+      "name": ""
+    },
+    {
+      "$id": 122,
+      "label": "ITM_BCN_MINE_019_cap",
+      "style": 171,
+      "name": ""
+    },
+    {
+      "$id": 123,
+      "label": "ITM_BCN_MINE_020_cap",
+      "style": 171,
+      "name": ""
+    },
+    {
+      "$id": 124,
+      "label": "ITM_BCN_MINE_021_cap",
+      "style": 171,
+      "name": ""
+    },
+    {
+      "$id": 125,
+      "label": "ITM_BCN_MINE_022_cap",
+      "style": 171,
+      "name": ""
+    },
+    {
+      "$id": 126,
+      "label": "ITM_BCN_MINE_023_cap",
+      "style": 171,
+      "name": ""
+    },
+    {
+      "$id": 127,
+      "label": "ITM_BCN_MINE_024_cap",
+      "style": 171,
+      "name": ""
+    },
+    {
+      "$id": 128,
+      "label": "ITM_BCN_MINE_025_cap",
+      "style": 171,
+      "name": ""
+    },
+    {
+      "$id": 129,
+      "label": "ITM_BCN_MINE_026_cap",
+      "style": 171,
+      "name": ""
+    },
+    {
+      "$id": 130,
+      "label": "ITM_BCN_MINE_027_cap",
+      "style": 171,
+      "name": ""
+    },
+    {
+      "$id": 131,
+      "label": "ITM_BCN_MINE_028_cap",
+      "style": 171,
+      "name": ""
+    },
+    {
+      "$id": 132,
+      "label": "ITM_BCN_MINE_029_cap",
+      "style": 171,
+      "name": ""
+    },
+    {
+      "$id": 133,
+      "label": "ITM_BCN_MINE_030_cap",
+      "style": 171,
+      "name": ""
+    },
+    {
+      "$id": 134,
+      "label": "ITM_BCN_TOUR_001_cap",
+      "style": 171,
+      "name": "Generates revenue from FrontierNav sites\nand from locally discovered unexplored\nterritories and scenic viewpoints (also\nknown as sightseeing spots), which\nincrease income by 2,000 credits each."
+    },
+    {
+      "$id": 135,
+      "label": "ITM_BCN_TOUR_002_cap",
+      "style": 171,
+      "name": "Generates revenue from FrontierNav sites\nand from locally discovered unexplored\nterritories and scenic viewpoints (also\nknown as sightseeing spots), which\nincrease income by 2,500 credits each."
+    },
+    {
+      "$id": 136,
+      "label": "ITM_BCN_TOUR_003_cap",
+      "style": 171,
+      "name": "Generates revenue from FrontierNav sites\nand from locally discovered unexplored\nterritories and scenic viewpoints (also\nknown as sightseeing spots), which\nincrease income by 3,000 credits each."
+    },
+    {
+      "$id": 137,
+      "label": "ITM_BCN_TOUR_004_cap",
+      "style": 171,
+      "name": "Generates revenue from FrontierNav sites\nand from locally discovered unexplored\nterritories and scenic viewpoints (also\nknown as sightseeing spots), which\nincrease income by 3,500 credits each."
+    },
+    {
+      "$id": 138,
+      "label": "ITM_BCN_TOUR_005_cap",
+      "style": 171,
+      "name": "Generates revenue from FrontierNav sites\nand from locally discovered unexplored\nterritories and scenic viewpoints (also\nknown as sightseeing spots), which\nincrease income by 4,000 credits each."
+    },
+    {
+      "$id": 139,
+      "label": "ITM_BCN_TOUR_006_cap",
+      "style": 171,
+      "name": "Generates revenue from FrontierNav sites\nand from locally discovered unexplored\nterritories and scenic viewpoints (also\nknown as sightseeing spots), which\nincrease income by 4,500 credits each."
+    },
+    {
+      "$id": 140,
+      "label": "ITM_BCN_TOUR_007_cap",
+      "style": 171,
+      "name": ""
+    },
+    {
+      "$id": 141,
+      "label": "ITM_BCN_TOUR_008_cap",
+      "style": 171,
+      "name": ""
+    },
+    {
+      "$id": 142,
+      "label": "ITM_BCN_TOUR_009_cap",
+      "style": 171,
+      "name": ""
+    },
+    {
+      "$id": 143,
+      "label": "ITM_BCN_TOUR_010_cap",
+      "style": 171,
+      "name": ""
+    },
+    {
+      "$id": 144,
+      "label": "ITM_BCN_TOUR_011_cap",
+      "style": 171,
+      "name": ""
+    },
+    {
+      "$id": 145,
+      "label": "ITM_BCN_TOUR_012_cap",
+      "style": 171,
+      "name": ""
+    },
+    {
+      "$id": 146,
+      "label": "ITM_BCN_TOUR_013_cap",
+      "style": 171,
+      "name": ""
+    },
+    {
+      "$id": 147,
+      "label": "ITM_BCN_TOUR_014_cap",
+      "style": 171,
+      "name": ""
+    },
+    {
+      "$id": 148,
+      "label": "ITM_BCN_TOUR_015_cap",
+      "style": 171,
+      "name": ""
+    },
+    {
+      "$id": 149,
+      "label": "ITM_BCN_TOUR_016_cap",
+      "style": 171,
+      "name": ""
+    },
+    {
+      "$id": 150,
+      "label": "ITM_BCN_TOUR_017_cap",
+      "style": 171,
+      "name": ""
+    },
+    {
+      "$id": 151,
+      "label": "ITM_BCN_TOUR_018_cap",
+      "style": 171,
+      "name": ""
+    },
+    {
+      "$id": 152,
+      "label": "ITM_BCN_TOUR_019_cap",
+      "style": 171,
+      "name": ""
+    },
+    {
+      "$id": 153,
+      "label": "ITM_BCN_TOUR_020_cap",
+      "style": 171,
+      "name": ""
+    },
+    {
+      "$id": 154,
+      "label": "ITM_BCN_TOUR_021_cap",
+      "style": 171,
+      "name": ""
+    },
+    {
+      "$id": 155,
+      "label": "ITM_BCN_RAISE_001_cap",
+      "style": 171,
+      "name": "Enhances the primary function of adjacent\ndata probes."
+    },
+    {
+      "$id": 156,
+      "label": "ITM_BCN_RAISE_002_cap",
+      "style": 171,
+      "name": "Greatly enhances the primary function of\nadjacent data probes."
+    },
+    {
+      "$id": 157,
+      "label": "ITM_BCN_RAISE_003_cap",
+      "style": 171,
+      "name": ""
+    },
+    {
+      "$id": 158,
+      "label": "ITM_BCN_RAISE_004_cap",
+      "style": 171,
+      "name": ""
+    },
+    {
+      "$id": 159,
+      "label": "ITM_BCN_RAISE_005_cap",
+      "style": 171,
+      "name": ""
+    },
+    {
+      "$id": 160,
+      "label": "ITM_BCN_RAISE_006_cap",
+      "style": 171,
+      "name": ""
+    },
+    {
+      "$id": 161,
+      "label": "ITM_BCN_STORAGE_001_cap",
+      "style": 171,
+      "name": "Increases maximum miranium by\n3,000 units. If multiple storage probes\nare placed, their effects will be added\ntogether."
+    },
+    {
+      "$id": 162,
+      "label": "ITM_BCN_STORAGE_002_cap",
+      "style": 171,
+      "name": ""
+    },
+    {
+      "$id": 163,
+      "label": "ITM_BCN_STORAGE_003_cap",
+      "style": 171,
+      "name": ""
+    },
+    {
+      "$id": 164,
+      "label": "ITM_BCN_STORAGE_004_cap",
+      "style": 171,
+      "name": ""
+    },
+    {
+      "$id": 165,
+      "label": "ITM_BCN_STORAGE_005_cap",
+      "style": 171,
+      "name": ""
+    },
+    {
+      "$id": 166,
+      "label": "ITM_BCN_STORAGE_006_cap",
+      "style": 171,
+      "name": ""
+    },
+    {
+      "$id": 167,
+      "label": "ITM_BCN_COPY_001_cap",
+      "style": 171,
+      "name": "Copies the function of all adjacent data\nprobes (except other duplicator probes).\nCombos cannot form between duplicator\nprobes and copied probes."
+    },
+    {
+      "$id": 168,
+      "label": "ITM_BCN_BTL_001_cap",
+      "style": 171,
+      "name": "Boosts fuel recovery for parked Skells.\nEffective throughout the entire region in\nwhich the probe is installed."
+    },
+    {
+      "$id": 169,
+      "label": "ITM_BCN_BTL_002_cap",
+      "style": 171,
+      "name": "Boosts melee attack power in battle.\nEffective throughout the entire region in\nwhich the probe is installed."
+    },
+    {
+      "$id": 170,
+      "label": "ITM_BCN_BTL_003_cap",
+      "style": 171,
+      "name": "Boosts ranged attack power in battle.\nEffective throughout the entire region in\nwhich the probe is installed."
+    },
+    {
+      "$id": 171,
+      "label": "ITM_BCN_BTL_004_cap",
+      "style": 171,
+      "name": "Reduces enemy debuff resistance in battle.\nEffective throughout the entire region in\nwhich the probe is installed."
+    },
+    {
+      "$id": 172,
+      "label": "ITM_BCN_BTL_005_cap",
+      "style": 171,
+      "name": "Boosts all attribute resistances, thus\nlowering damage sustained. Effective\nthroughout the entire region in which\nthe probe is installed."
+    },
+    {
+      "$id": 173,
+      "label": "ITM_BCN_BTL_006_cap",
+      "style": 171,
+      "name": ""
+    },
+    {
+      "$id": 174,
+      "label": "ITM_BCN_BTL_007_cap",
+      "style": 171,
+      "name": ""
+    },
+    {
+      "$id": 175,
+      "label": "ITM_BCN_BTL_008_cap",
+      "style": 171,
+      "name": ""
+    },
+    {
+      "$id": 176,
+      "label": "ITM_BCN_BTL_009_cap",
+      "style": 171,
+      "name": ""
+    },
+    {
+      "$id": 177,
+      "label": "ITM_BCN_BTL_010_cap",
+      "style": 171,
+      "name": ""
+    },
+    {
+      "$id": 178,
+      "label": "ITM_BCN_BTL_011_cap",
+      "style": 171,
+      "name": ""
+    },
+    {
+      "$id": 179,
+      "label": "ITM_BCN_BTL_012_cap",
+      "style": 171,
+      "name": ""
+    },
+    {
+      "$id": 180,
+      "label": "ITM_BCN_BTL_013_cap",
+      "style": 171,
+      "name": ""
+    },
+    {
+      "$id": 181,
+      "label": "ITM_BCN_BTL_014_cap",
+      "style": 171,
+      "name": ""
+    },
+    {
+      "$id": 182,
+      "label": "ITM_BCN_BTL_015_cap",
+      "style": 171,
+      "name": ""
+    },
+    {
+      "$id": 183,
+      "label": "ITM_BCN_BTL_016_cap",
+      "style": 171,
+      "name": ""
+    },
+    {
+      "$id": 184,
+      "label": "ITM_BCN_BTL_017_cap",
+      "style": 171,
+      "name": ""
+    },
+    {
+      "$id": 185,
+      "label": "ITM_BCN_BTL_018_cap",
+      "style": 171,
+      "name": ""
+    },
+    {
+      "$id": 186,
+      "label": "ITM_BCN_BTL_019_cap",
+      "style": 171,
+      "name": ""
+    },
+    {
+      "$id": 187,
+      "label": "ITM_BCN_BTL_020_cap",
+      "style": 171,
+      "name": ""
+    },
+    {
+      "$id": 188,
+      "label": "ITM_BCN_BTL_021_cap",
+      "style": 171,
+      "name": ""
+    },
+    {
+      "$id": 189,
+      "label": "ITM_BCN_BTL_022_cap",
+      "style": 171,
+      "name": ""
+    },
+    {
+      "$id": 190,
+      "label": "ITM_BCN_BTL_023_cap",
+      "style": 171,
+      "name": ""
+    },
+    {
+      "$id": 191,
+      "label": "ITM_BCN_BTL_024_cap",
+      "style": 171,
+      "name": ""
+    },
+    {
+      "$id": 192,
+      "label": "ITM_BCN_BTL_025_cap",
+      "style": 171,
+      "name": ""
+    },
+    {
+      "$id": 193,
+      "label": "ITM_BCN_BTL_026_cap",
+      "style": 171,
+      "name": ""
+    },
+    {
+      "$id": 194,
+      "label": "ITM_BCN_BTL_027_cap",
+      "style": 171,
+      "name": ""
+    },
+    {
+      "$id": 195,
+      "label": "ITM_BCN_BTL_028_cap",
+      "style": 171,
+      "name": ""
+    },
+    {
+      "$id": 196,
+      "label": "ITM_BCN_BTL_029_cap",
+      "style": 171,
+      "name": ""
+    },
+    {
+      "$id": 197,
+      "label": "ITM_BCN_BTL_030_cap",
+      "style": 171,
+      "name": ""
+    }
+  ]
+}

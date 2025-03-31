@@ -1,0 +1,210 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev015102_MSG0001",
+      "style": 1,
+      "name": "Hmm? Well, I'll be! It's the agent of justice!\nYou look like you've seen a ghost. Is something wrong?[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev015102_JNK0010",
+      "style": 4,
+      "name": "Query Specifically"
+    },
+    {
+      "$id": 3,
+      "label": "qev015102_SEL0011",
+      "style": 3,
+      "name": "Ask Justin whether he received a stuffed lobster recently."
+    },
+    {
+      "$id": 4,
+      "label": "qev015102_JNK0020",
+      "style": 4,
+      "name": "Inquire Generally"
+    },
+    {
+      "$id": 5,
+      "label": "qev015102_SEL0021",
+      "style": 3,
+      "name": "Ask if Justin has noticed anything strange lately."
+    },
+    {
+      "$id": 6,
+      "label": "qev015102_MSG0002",
+      "style": 1,
+      "name": "A stuffed...lobster? Like a hunting trophy?[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev015102_MSG0003",
+      "style": 1,
+      "name": "Oh, you mean a stuffed toy for children.\nYes, actually, I did receive one recently.[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev015102_MSG0004",
+      "style": 1,
+      "name": "The note said it was from someone I helped on an\nassignment—it was quite kind of them to remember.\nBut how did you know?[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev015102_MSG0005",
+      "style": 1,
+      "name": "Er, not really? Work's going well, I suppose.\nCan't say I have anything of interest to report.[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev015102_MSG0006",
+      "style": 1,
+      "name": "...Oh, I did receive a stuffed lobster toy in the mail.\nThe note said it was from someone I helped on an\nassignment.[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev015102_MSG0007",
+      "style": 1,
+      "name": "No one on my team had ever received a thank-you like\nthat before, and they were all green with professional\nenvy. Er, does that count?[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev015102_MSG0008",
+      "style": 1,
+      "name": "...A bomb? And they were hidden all over the city?[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev015102_MSG0009",
+      "style": 1,
+      "name": "...There were a hundred of them? Oh my word!\nGood thing you went out and found the rest.[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev015102_MSG0010",
+      "style": 1,
+      "name": "Er, yes. Let me just hand this over to you...\nBut when you find the evil genius behind this crime,\nbring down the mighty hammer of justice for me![ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev015102_MSG0011",
+      "style": 1,
+      "name": "...It seems you've found the final piece, friend.\nAnd my preparations here are complete as well.\nLet's end this, shall we?[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev015102_MSG0012",
+      "style": 1,
+      "name": "I'm inside the base of those useless puppets,\nthe Definians.[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev015102_MSG0013",
+      "style": 1,
+      "name": "Don't keep me waiting. I'm so eager to see you,\nI could just EXPLODE![ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev015102_JNK0030",
+      "style": 4,
+      "name": "Hang Up"
+    },
+    {
+      "$id": 19,
+      "label": "qev015102_SEL0031",
+      "style": 3,
+      "name": "Terminate the Blood Lobster's call."
+    },
+    {
+      "$id": 20,
+      "label": "qev015102_JNK0040",
+      "style": 4,
+      "name": "Lose Temper"
+    },
+    {
+      "$id": 21,
+      "label": "qev015102_SEL0041",
+      "style": 3,
+      "name": "Furiously demand to know the Blood Lobster's identity."
+    },
+    {
+      "$id": 22,
+      "label": "qev015102_MSG0014",
+      "style": 1,
+      "name": "......[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev015102_MSG0015",
+      "style": 1,
+      "name": "Was that the criminal behind the bombs?[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev015102_MSG0016",
+      "style": 1,
+      "name": "Just promise me you won't lose, all right?\nYou are the city's greatest [ST:gender p1=hero p2=heroine ], after all.[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev015102_MSG0017",
+      "style": 1,
+      "name": "I want you to prove that good triumphs over evil in\nreality as well as in the stories.[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev015102_MSG0018",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 27,
+      "label": "qev015102_MSG0019",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 28,
+      "label": "qev015102_MSG0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 29,
+      "label": "qev015102_MSG0021",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 30,
+      "label": "qev015102_MSG0022",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 31,
+      "label": "qev015102_MSG0023",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 32,
+      "label": "qev015102_MSG0024",
+      "style": 1,
+      "name": ""
+    }
+  ]
+}

@@ -1,0 +1,246 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev025106_MSG0001",
+      "style": 1,
+      "name": "Waaaaugh! Wh-what the hell?![ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev025106_MSG0002",
+      "style": 1,
+      "name": "What'd I do to deserve this?![ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev025106_MSG0003",
+      "style": 1,
+      "name": "...Was it those Ma-non?\nOh, those little freaks, I knew it! I KNEW IT![ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev025106_JNK0010",
+      "style": 4,
+      "name": "Investigate"
+    },
+    {
+      "$id": 5,
+      "label": "qev025106_SEL0011",
+      "style": 3,
+      "name": "See what's happening with Gerome."
+    },
+    {
+      "$id": 6,
+      "label": "qev025106_JNK0020",
+      "style": 4,
+      "name": "Leave"
+    },
+    {
+      "$id": 7,
+      "label": "qev025106_SEL0021",
+      "style": 3,
+      "name": "Turn around and walk away."
+    },
+    {
+      "$id": 8,
+      "label": "qev025106_MSG0004",
+      "style": 1,
+      "name": "Y-you! You were with that Ma-non![ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev025106_MSG0005",
+      "style": 1,
+      "name": "I don't know what happened! I was eating,\nthen suddenly I just...passed out.[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev025106_MSG0006",
+      "style": 1,
+      "name": "N-no! Wait! Don't leave me!\nPlease, you gotta hear me out![ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev025106_MSG0007",
+      "style": 1,
+      "name": "I don't know what happened! I was eating,\nthen suddenly I just...passed out.[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev025106_MSG0008",
+      "style": 1,
+      "name": "And when I woke up here, I had this BOMB attached\nto me![ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev025106_JNK0030",
+      "style": 4,
+      "name": "Trust"
+    },
+    {
+      "$id": 14,
+      "label": "qev025106_SEL0031",
+      "style": 3,
+      "name": "Believe Gerome's story."
+    },
+    {
+      "$id": 15,
+      "label": "qev025106_JNK0040",
+      "style": 4,
+      "name": "Suspect"
+    },
+    {
+      "$id": 16,
+      "label": "qev025106_SEL0041",
+      "style": 3,
+      "name": "Don't believe Gerome's story."
+    },
+    {
+      "$id": 17,
+      "label": "qev025106_MSG0009",
+      "style": 1,
+      "name": "Thanks for believing me! It IS the truth, I swear!\nI knew you were different from that damn Ma-non![ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev025106_MSG0010",
+      "style": 1,
+      "name": "What? No, please! Why would I make something like\nthis up?![ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev025106_MSG0011",
+      "style": 1,
+      "name": "Anyway, you gotta help me disarm this thing![ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev025106_MSG0012",
+      "style": 1,
+      "name": "Mimeosome or not, I don't want to die.\nYou have to save me! Please![ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev025106_JNK0050",
+      "style": 4,
+      "name": "Disarm"
+    },
+    {
+      "$id": 22,
+      "label": "qev025106_SEL0051",
+      "style": 3,
+      "name": "Attempt to defuse the bomb."
+    },
+    {
+      "$id": 23,
+      "label": "qev025106_JNK0060",
+      "style": 4,
+      "name": "Suggest"
+    },
+    {
+      "$id": 24,
+      "label": "qev025106_SEL0061",
+      "style": 3,
+      "name": "State that diving into the lake might weaken the blast."
+    },
+    {
+      "$id": 25,
+      "label": "qev025106_MSG0013",
+      "style": 1,
+      "name": "WHAT?! Augh, you're worthless![ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev025106_MSG0014",
+      "style": 1,
+      "name": "RRRAAAGH! DAMN YOU MA-NON FREAAAKS![ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev025106_MSG0015",
+      "style": 1,
+      "name": "Aw, thanks, buddy! So, uh...you DO know something\nabout this kind of bomb, right?[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev025106_MSG0016",
+      "style": 1,
+      "name": "Really? You do? Then my life's in your hands.[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev025106_MSG0017",
+      "style": 1,
+      "name": "...Heh, you really do know what you're doing.\nSo far so good! Now hurry up and get this thing\noff me![ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev025106_MSG0018",
+      "style": 1,
+      "name": "......[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev025106_MSG0019",
+      "style": 1,
+      "name": "The bomb... It...[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev025106_MSG0020",
+      "style": 1,
+      "name": "...Stopped. You disarmed it?\nI'm...I'm gonna live?[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev025106_MSG0021",
+      "style": 1,
+      "name": "Oh, whew... Thank...thhhkgnh...[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev025106_MSG0022",
+      "style": 1,
+      "name": "ggggkh...[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev025106_MSG0024",
+      "style": 1,
+      "name": "...No? Never seen one before?\nWell, let's hope you're a natural, then.[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev025106_MSG0025",
+      "style": 1,
+      "name": "...Well? Think you can disarm it?[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev025106_MSG0028",
+      "style": 1,
+      "name": "It's not stopping! It's not... Augh, you're useless![ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev025106_MSG0029",
+      "style": 1,
+      "name": "RRRAAAGH! DAMN YOU MA-NON FREAAAKS![ST:wait ]"
+    }
+  ]
+}

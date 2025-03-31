@@ -1,0 +1,324 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev010102_MSG0001",
+      "style": 1,
+      "name": "Will you not procure the car parts for me, [ST:gender p1=hero p2=heroine ]?\nI'm eager to repair this mess, but even more eager\nto learn about you.[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev010102_MSG0002",
+      "style": 1,
+      "name": "I knew you'd accept! You're the type to always say yes,\nno matter how absurd the request may be.[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev010102_MSG0003",
+      "style": 1,
+      "name": "It's because you're an agent of justice!\nSuch things are in your DNA.[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev010102_JNK0010",
+      "style": 4,
+      "name": "Agree"
+    },
+    {
+      "$id": 5,
+      "label": "qev010102_SEL0011",
+      "style": 3,
+      "name": "Puff up your chest and agree vehemently."
+    },
+    {
+      "$id": 6,
+      "label": "qev010102_JNK0020",
+      "style": 4,
+      "name": "Disagree"
+    },
+    {
+      "$id": 7,
+      "label": "qev010102_SEL0021",
+      "style": 3,
+      "name": "Shake your head and admit that you're no [ST:gender p1=hero p2=heroine ]."
+    },
+    {
+      "$id": 8,
+      "label": "qev010102_MSG0004",
+      "style": 1,
+      "name": "I like the cut of your jib! It takes that sort of\ndetermination to tackle each new evil that arises.[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev010102_MSG0005",
+      "style": 1,
+      "name": "The classic [ST:gender p1=hero p2=heroine ] response—bold of action,\nyet humble of spirit. One such as yourself would\nnever brag about your derring-do![ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev010102_MSG0006",
+      "style": 1,
+      "name": "In any case, what I need is a pair of anhydrous\nradiators. Got it? Thanks a million, [ST:gender p1=hero p2=heroine ]![ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev010102_MSG0007",
+      "style": 1,
+      "name": "I love movies and comics about [ST:gender p1=heroes p2=heroines ] such as\nyourself. I've dreamed of meeting one ever since\nI was a child.[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev010102_MSG0008",
+      "style": 1,
+      "name": "And here you are, in the flesh! You actually came to\nmy rescue! How unbelievable is that?[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev010102_MSG0009",
+      "style": 1,
+      "name": "Er, so, after you get those anhydrous radiators,\ncould we maybe talk for a while?[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev010102_MSG0034",
+      "style": 1,
+      "name": "I want to know more about you. Perhaps hear tales\nof your mighty exploits and so forth.[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev010102_MSG0010",
+      "style": 1,
+      "name": "So, I was thinking... A [ST:gender p1=hero p2=heroine ] needs a strong,\noverriding will.[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev010102_MSG0011",
+      "style": 1,
+      "name": "You must have some deep, personal motive for hating\nevil, yes?[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev010102_MSG0012",
+      "style": 1,
+      "name": "Wait! Let me guess! They killed your parents before\nyour very eyes! No, wait... You were bitten by a\nradioactive scirpo![ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev010102_JNK0030",
+      "style": 4,
+      "name": "Confirm"
+    },
+    {
+      "$id": 19,
+      "label": "qev010102_SEL0031",
+      "style": 3,
+      "name": "Admit that you have an intense secret motive."
+    },
+    {
+      "$id": 20,
+      "label": "qev010102_JNK0040",
+      "style": 4,
+      "name": "Deny"
+    },
+    {
+      "$id": 21,
+      "label": "qev010102_SEL0041",
+      "style": 3,
+      "name": "Laugh it off and downplay the notion."
+    },
+    {
+      "$id": 22,
+      "label": "qev010102_MSG0013",
+      "style": 1,
+      "name": "Aha! I knew it! You're so close to my vision of the\nideal [ST:gender p1=hero p2=heroine ]![ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev010102_MSG0014",
+      "style": 1,
+      "name": "I see... Then perhaps the fight for justice needs\nno reason.[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev010102_MSG0015",
+      "style": 1,
+      "name": "Maybe I was overcomplicating things a bit.[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev010102_MSG0016",
+      "style": 1,
+      "name": "This is why I wanted to talk. It feels as if my ideal\n[ST:gender p1=hero p2=heroine ] is becoming more real before my very eyes![ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev010102_MSG0017",
+      "style": 1,
+      "name": "You'll pass through all the trials laid forth before you!\nOvercome every craven trap! Weather each tragedy![ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev010102_MSG0018",
+      "style": 1,
+      "name": "And then, in the grand finale, everyone—even your\nerstwhile tormentors—will come together to sing\nyour mighty praises![ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev010102_MSG0019",
+      "style": 1,
+      "name": "I've stripped all the unnecessary details away to create\nthe perfect morality tale, and I love it![ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev010102_MSG0020",
+      "style": 1,
+      "name": "The whole reason I enlisted with the BLADEs was to find\nthis story.[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev010102_MSG0021",
+      "style": 1,
+      "name": "I'd given up hope of becoming a hero myself, but I\nknew one would come along eventually. I just KNEW it![ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev010102_JNK0050",
+      "style": 4,
+      "name": "Show Gratitude"
+    },
+    {
+      "$id": 32,
+      "label": "qev010102_SEL0051",
+      "style": 3,
+      "name": "Thank Justin for his praise."
+    },
+    {
+      "$id": 33,
+      "label": "qev010102_JNK0060",
+      "style": 4,
+      "name": "Show Parts"
+    },
+    {
+      "$id": 34,
+      "label": "qev010102_SEL0061",
+      "style": 3,
+      "name": "Remind Justin that you brought the car parts he wanted."
+    },
+    {
+      "$id": 35,
+      "label": "qev010102_MSG0022",
+      "style": 1,
+      "name": "Oh, pishposh! I'm just stating the truth. Now then,\ndid you get those anhydrous radiators I asked about?[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev010102_MSG0023",
+      "style": 1,
+      "name": "Oh, right! I got a bit lost in myself there.\nAlmost forgot I'd asked for those anhydrous radiators![ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev010102_MSG0035",
+      "style": 1,
+      "name": "So how did it go? Did you find everything?[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev010102_MSG0024",
+      "style": 1,
+      "name": "Perfect. I'll have my auto fixed up in no time.[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "qev010102_MSG0025",
+      "style": 1,
+      "name": "You've given me so much more than car parts today,\n[ST:gender p1=hero p2=heroine ]. Please accept this as my way of saying thanks.[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "qev010102_MSG0026",
+      "style": 1,
+      "name": "And if you should come across anyone else in need,\nbe sure to lend them a hand. You're a paragon of\njustice for us all now![ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "qev010102_JNK0070",
+      "style": 4,
+      "name": "Agree"
+    },
+    {
+      "$id": 42,
+      "label": "qev010102_SEL0071",
+      "style": 3,
+      "name": "Salute and agree wholeheartedly."
+    },
+    {
+      "$id": 43,
+      "label": "qev010102_JNK0080",
+      "style": 4,
+      "name": "Evade"
+    },
+    {
+      "$id": 44,
+      "label": "qev010102_SEL0081",
+      "style": 3,
+      "name": "Skirt the issue with a noncommittal response."
+    },
+    {
+      "$id": 45,
+      "label": "qev010102_MSG0027",
+      "style": 1,
+      "name": "With BLADEs such as you on patrol, the people of\nNew LA have nothing to fear.[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "qev010102_MSG0028",
+      "style": 1,
+      "name": "How bold of you! For a true [ST:gender p1=hero p2=heroine ] is unwilling to\nmake a promise [ST:gender p1=he p2=she ] might not be able to keep![ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "qev010102_MSG0029",
+      "style": 1,
+      "name": "But alas, you are a BLADE. And a time will come\nwhen you have to fight for this fair city.[ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "qev010102_MSG0030",
+      "style": 1,
+      "name": "Anyway, I should probably get going.[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "qev010102_MSG0031",
+      "style": 1,
+      "name": "I am a BLADE, after all. Nothing impressive like you,\nof course, but a fellow seeker of justice nonetheless.[ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "qev010102_MSG0032",
+      "style": 1,
+      "name": "I don't know when I'll see you again, but I feel the\nhand of fate at work in our meeting.[ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "qev010102_MSG0033",
+      "style": 1,
+      "name": "As long as you continue to walk the path of justice,\nour destinies are intertwined. When we meet again,\nlet it be as comrades in battle![ST:wait ]"
+    }
+  ]
+}

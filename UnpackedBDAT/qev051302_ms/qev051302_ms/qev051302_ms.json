@@ -1,0 +1,480 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev051302_MSG0001",
+      "style": 1,
+      "name": "Hello. How's business?[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev051302_MSG0002",
+      "style": 1,
+      "name": "Quite excellent, I should think.\n...Or it's about to be, at any rate.[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev051302_MSG0003",
+      "style": 1,
+      "name": "Now let's have those keys you've collected.[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev051302_MSG0004",
+      "style": 1,
+      "name": "Mmm... That is not a key. But what of the others?\nYou have the other three, do you not?[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev051302_MSG0005",
+      "style": 1,
+      "name": "...Is something wrong? Your contract was to gather all\nfour of the keys. You have them, yes?[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev051302_MSG0006",
+      "style": 1,
+      "name": "Then please give the other three to me.[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev051302_MSG0007",
+      "style": 1,
+      "name": "A moment, master.[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev051302_MSG0008",
+      "style": 1,
+      "name": "Hmm? What is it?[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev051302_MSG0009",
+      "style": 1,
+      "name": "I have learned something of critical importance about\nthis person.[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev051302_MSG0010",
+      "style": 1,
+      "name": "Oh? Let's hear it.[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev051302_MSG0011",
+      "style": 1,
+      "name": "It concerns the four keys you seek.[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev051302_MSG0012",
+      "style": 1,
+      "name": "It seems this person held three of them from the very\nbeginning.[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev051302_MSG0013",
+      "style": 1,
+      "name": "What...? But how is that possible?[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev051302_MSG0014",
+      "style": 1,
+      "name": "It means that the one responsible for stealing the keys\nfrom the Celeste Three...[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev051302_MSG0015",
+      "style": 1,
+      "name": "The one who murdered your comrade Fosdyke and the\nothers stands before you now![ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev051302_MSG0016",
+      "style": 1,
+      "name": "What?![ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev051302_JNK0010",
+      "style": 4,
+      "name": "Berate"
+    },
+    {
+      "$id": 18,
+      "label": "qev051302_SEL0011",
+      "style": 3,
+      "name": "Shout at Ga Bewhe for betraying you.[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev051302_JNK0020",
+      "style": 4,
+      "name": "Reel"
+    },
+    {
+      "$id": 20,
+      "label": "qev051302_SEL0021",
+      "style": 3,
+      "name": "Stand agape at the revelation that\nAdolphus was the fourth man.[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev051302_JNK0030",
+      "style": 4,
+      "name": "Defend"
+    },
+    {
+      "$id": 22,
+      "label": "qev051302_SEL0031",
+      "style": 3,
+      "name": "Explain that you fought the Celeste Three in self-defense\nafter they deceived and attacked you.[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev051302_MSG0017",
+      "style": 1,
+      "name": "Do not listen to this villain's lies, master.[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev051302_MSG0018",
+      "style": 1,
+      "name": "I care not for [ST:gender p1=his p2=her ] explanations, Ga Bewhe.\nBut if this one killed Fosdyke and the others,\n[ST:gender p1=he's p2=she's ] stronger than we'd thought.[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev051302_MSG0019",
+      "style": 1,
+      "name": "You need not worry, master.[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev051302_MSG0020",
+      "style": 1,
+      "name": "I'm more shocked than you, I promise.\nWhat are the chances of hiring their murderer?[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev051302_MSG0021",
+      "style": 1,
+      "name": "Still, that means you're tougher than I'd anticipated.\nWhich requires a change of plans.[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev051302_MSG0022",
+      "style": 1,
+      "name": "You need not worry, master.[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev051302_MSG0023",
+      "style": 1,
+      "name": "Greed makes the most clever liars. If it weren't for you,\nthat white gold would already be mine.[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev051302_MSG0024",
+      "style": 1,
+      "name": "Now it is your turn to be murdered for those keys.[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev051302_MSG0025",
+      "style": 1,
+      "name": "Not necessary, master.[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev051302_MSG0026",
+      "style": 1,
+      "name": "I already have them in my possession.[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev051302_MSG0027",
+      "style": 1,
+      "name": "Hah! Excellent work, Ga Bewhe.[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev051302_MSG0028",
+      "style": 1,
+      "name": "But wait. If you already have them, you must have\nknown this BLADE was in possession of the keys\nwhen first you brought [ST:gender p1=him p2=her ] to me.[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev051302_MSG0029",
+      "style": 1,
+      "name": "That is correct, master.[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev051302_MSG0030",
+      "style": 1,
+      "name": "And it would appear everything's gone according to\nyour plan.[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev051302_MSG0031",
+      "style": 1,
+      "name": "I apologize for keeping it from you until now, master.[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev051302_MSG0032",
+      "style": 1,
+      "name": "It doesn't matter. As long as I have all four keys,\nNOTHING else matters.[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "qev051302_MSG0033",
+      "style": 1,
+      "name": "...Hmm? You seem confused, my good BLADE.[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "qev051302_MSG0034",
+      "style": 1,
+      "name": "Ah, yes. The fourth key. Of course.[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "qev051302_MSG0035",
+      "style": 1,
+      "name": "It's been in my possession this whole time.[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "qev051302_MSG0036",
+      "style": 1,
+      "name": "Withholding that bit and telling you to find four was\njust a bit of insurance.[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "qev051302_MSG0037",
+      "style": 1,
+      "name": "Though it did mean having Ga Bewhe send you on a\nridiculous wild-goose chase for a fake key I passed\non to some BLADE sap.[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "qev051302_MSG0038",
+      "style": 1,
+      "name": "Heh heh... Ha ha! Aaaah ha ha ha ha![ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "qev051302_MSG0039",
+      "style": 1,
+      "name": "Ga Bewhe![ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "qev051302_MSG0040",
+      "style": 1,
+      "name": "Now that the keys are ours, we have no further need\nof our friend here. You may dispose of [ST:gender p1=him p2=her ].[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "qev051302_MSG0041",
+      "style": 1,
+      "name": "As you wish, master.[ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "qev051302_MSG0042",
+      "style": 1,
+      "name": "You certainly are...strong...[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "qev051302_MSG0043",
+      "style": 1,
+      "name": "But I no longer have a reason to risk my life here.\nFarewell![ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "qev051302_MSG0044",
+      "style": 1,
+      "name": "What?! No! Wait, you coward![ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "qev051302_MSG0045",
+      "style": 1,
+      "name": "This fight is not over, Ga Bewhe![ST:wait ]"
+    },
+    {
+      "$id": 52,
+      "label": "qev051302_MSG0046",
+      "style": 1,
+      "name": "The murderer who stole the keys from us stands there\npointing [ST:gender p1=his p2=her ] weapon at me![ST:wait ]"
+    },
+    {
+      "$id": 53,
+      "label": "qev051302_MSG0047",
+      "style": 1,
+      "name": "I forbid you from running![ST:wait ]"
+    },
+    {
+      "$id": 54,
+      "label": "qev051302_MSG0048",
+      "style": 1,
+      "name": "W-wait... Please... We can talk about this![ST:wait ]"
+    },
+    {
+      "$id": 55,
+      "label": "qev051302_MSG0049",
+      "style": 1,
+      "name": "We...we have all four keys now! Yes, that's it![ST:wait ]"
+    },
+    {
+      "$id": 56,
+      "label": "qev051302_MSG0050",
+      "style": 1,
+      "name": "We can get through that door and split the white gold\nbetween us![ST:wait ]"
+    },
+    {
+      "$id": 57,
+      "label": "qev051302_MSG0051",
+      "style": 1,
+      "name": "That was the initial agreement, right?\nNo need for anyone to come out worse for the deal![ST:wait ]"
+    },
+    {
+      "$id": 58,
+      "label": "qev051302_MSG0052",
+      "style": 1,
+      "name": "With the Wrothian woman who lied to us gone,\nthere's no reason we can't put all this behind us.[ST:wait ]"
+    },
+    {
+      "$id": 59,
+      "label": "qev051302_MSG0053",
+      "style": 1,
+      "name": "We'll go open the vault right now. I'm sure your mood\nwill improve as soon as you see all that white gold.[ST:wait ]"
+    },
+    {
+      "$id": 60,
+      "label": "qev051302_MSG0054",
+      "style": 1,
+      "name": "It's open...[ST:wait ]"
+    },
+    {
+      "$id": 61,
+      "label": "qev051302_MSG0055",
+      "style": 1,
+      "name": "It's all ours! All the white gold inside is...[ST:wait ]"
+    },
+    {
+      "$id": 62,
+      "label": "qev051302_MSG0056",
+      "style": 1,
+      "name": "...GONE?![ST:wait ]"
+    },
+    {
+      "$id": 63,
+      "label": "qev051302_MSG0057",
+      "style": 1,
+      "name": "It's empty! EMPTY![ST:wait ]"
+    },
+    {
+      "$id": 64,
+      "label": "qev051302_MSG0058",
+      "style": 1,
+      "name": "But how is that possible?![ST:wait ]"
+    },
+    {
+      "$id": 65,
+      "label": "qev051302_MSG0059",
+      "style": 1,
+      "name": "Someone would've had to get in before us and...[ST:wait ]"
+    },
+    {
+      "$id": 66,
+      "label": "qev051302_MSG0060",
+      "style": 1,
+      "name": "That Wrothian cur![ST:wait ]"
+    },
+    {
+      "$id": 67,
+      "label": "qev051302_MSG0061",
+      "style": 1,
+      "name": "...Heh. Aaaaah ha ha ha![ST:wait ]"
+    },
+    {
+      "$id": 68,
+      "label": "qev051302_MSG0062",
+      "style": 1,
+      "name": "Aaaaaaaaah ha ha ha ha ha ha haa![ST:wait ]"
+    },
+    {
+      "$id": 69,
+      "label": "qev051302_MSG0063",
+      "style": 1,
+      "name": "It was after she'd taken your keys![ST:wait ]"
+    },
+    {
+      "$id": 70,
+      "label": "qev051302_MSG0064",
+      "style": 1,
+      "name": "She must have taken mine while you were off searching\nand I was waiting for you.[ST:wait ]"
+    },
+    {
+      "$id": 71,
+      "label": "qev051302_MSG0065",
+      "style": 1,
+      "name": "With all four keys in her possession,\nshe emptied the vault![ST:wait ]"
+    },
+    {
+      "$id": 72,
+      "label": "qev051302_MSG0066",
+      "style": 1,
+      "name": "Then the only reason she waited was to fight you.\nProbably hoping to eliminate pursuit before it even\nstarted.[ST:wait ]"
+    },
+    {
+      "$id": 73,
+      "label": "qev051302_MSG0067",
+      "style": 1,
+      "name": "That conniving beast...[ST:wait ]"
+    },
+    {
+      "$id": 74,
+      "label": "qev051302_MSG0068",
+      "style": 1,
+      "name": "She completely outplayed me.[ST:wait ]"
+    },
+    {
+      "$id": 75,
+      "label": "qev051302_MSG0069",
+      "style": 1,
+      "name": "Ha ha ha ha![ST:wait ]"
+    },
+    {
+      "$id": 76,
+      "label": "qev051302_MSG0070",
+      "style": 1,
+      "name": "Bwa ha ha ha ha ha![ST:wait ]"
+    },
+    {
+      "$id": 77,
+      "label": "qev051302_MSG0071",
+      "style": 1,
+      "name": "BWAAAA HA HA HA HA HA HA HAAAAAAAAAAA![ST:wait ]"
+    }
+  ]
+}

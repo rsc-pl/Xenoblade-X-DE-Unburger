@@ -1,0 +1,84 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "MNU_DUMMY_ms",
+      "style": 14,
+      "name": ""
+    },
+    {
+      "$id": 2,
+      "label": "MNU_VEGI_ms",
+      "style": 14,
+      "name": "Vegetables"
+    },
+    {
+      "$id": 3,
+      "label": "MNU_FRUIT_ms",
+      "style": 14,
+      "name": "Fruits"
+    },
+    {
+      "$id": 4,
+      "label": "MNU_FLOWER_ms",
+      "style": 14,
+      "name": "Flora"
+    },
+    {
+      "$id": 5,
+      "label": "MNU_ANIMAL_ms",
+      "style": 14,
+      "name": "Fauna"
+    },
+    {
+      "$id": 6,
+      "label": "MNU_BEETLE_ms",
+      "style": 14,
+      "name": "Insects"
+    },
+    {
+      "$id": 7,
+      "label": "MNU_NATU_ms",
+      "style": 14,
+      "name": "Natural Artifacts"
+    },
+    {
+      "$id": 8,
+      "label": "MUU_EARTH_ms",
+      "style": 14,
+      "name": "Wreckage"
+    },
+    {
+      "$id": 9,
+      "label": "MNU_RELIC_ms",
+      "style": 14,
+      "name": "Relics"
+    },
+    {
+      "$id": 10,
+      "label": "MUN_TEC_ms",
+      "style": 14,
+      "name": "Xenotech"
+    },
+    {
+      "$id": 11,
+      "label": "MNU_MYST_ms",
+      "style": 14,
+      "name": "Curios"
+    }
+  ]
+}

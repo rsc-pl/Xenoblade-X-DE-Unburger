@@ -1,0 +1,468 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev001001_MSG0001",
+      "style": 1,
+      "name": "......[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev001001_MSG0002",
+      "style": 1,
+      "name": ".........[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev001001_MSG0003",
+      "style": 1,
+      "name": "...Er, do you want something?[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev001001_MSG0004",
+      "style": 1,
+      "name": "Sorry, I was just...thinking about stuff.[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev001001_MSG1009",
+      "style": 1,
+      "name": "Hey, any chance you want to add me to your team?[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "tev001001_MSG1010",
+      "style": 1,
+      "name": "I mean, no. Never mind. Of course you wouldn't.\n...Would you?[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "tev001001_JNK0010",
+      "style": 4,
+      "name": "Agree"
+    },
+    {
+      "$id": 8,
+      "label": "tev001001_SEL0011",
+      "style": 3,
+      "name": "Add Phog to your team."
+    },
+    {
+      "$id": 9,
+      "label": "tev001001_JNK0020",
+      "style": 4,
+      "name": "Refuse"
+    },
+    {
+      "$id": 10,
+      "label": "tev001001_SEL0021",
+      "style": 3,
+      "name": "Decline Phog's request for now."
+    },
+    {
+      "$id": 11,
+      "label": "tev001001_MSG1011",
+      "style": 1,
+      "name": "Really? Wow, that's great! So to be honest,\nI'm a terrible fighter—but I'll work really hard.[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "tev001001_MSG1012",
+      "style": 1,
+      "name": "Er, right. No. Of course not.\nI don't know what I was thinking...[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "tev001001_MSG1017",
+      "style": 1,
+      "name": "I heard you're tracking some sort of unidentified\nspacemen.[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "tev001001_MSG1018",
+      "style": 1,
+      "name": "Well, maybe I could help. Spaceman was my nickname\nin high school, after all.[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "tev001001_JNK0050",
+      "style": 4,
+      "name": "Agree"
+    },
+    {
+      "$id": 16,
+      "label": "tev001001_SEL0051",
+      "style": 3,
+      "name": "Add Phog to your team."
+    },
+    {
+      "$id": 17,
+      "label": "tev001001_JNK0060",
+      "style": 4,
+      "name": "Refuse"
+    },
+    {
+      "$id": 18,
+      "label": "tev001001_SEL0061",
+      "style": 3,
+      "name": "Decline Phog's request for now."
+    },
+    {
+      "$id": 19,
+      "label": "tev001001_MSG1019",
+      "style": 1,
+      "name": "Really? Wow, that's great! So to be honest,\nI'm a terrible fighter—but I'll work really hard.[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "tev001001_MSG1020",
+      "style": 1,
+      "name": "Wait, aren't you going to tell me your high school\nnickname?[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "tev001001_MSG1025",
+      "style": 1,
+      "name": "......[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "tev001001_MSG1026",
+      "style": 1,
+      "name": ".........[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "tev001001_MSG1027",
+      "style": 1,
+      "name": "If you don't want to get noticed by the tainted,\nspacing out like that is a technique that always\nworks for me.[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "tev001001_MSG1032",
+      "style": 1,
+      "name": "It terrifies me to even think about this, but...\nWell, we have to save our fellow BLADEs.[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "tev001001_MSG1033",
+      "style": 1,
+      "name": "So please take me with you to Oblivia.[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "tev001001_JNK0070",
+      "style": 4,
+      "name": "Agree"
+    },
+    {
+      "$id": 27,
+      "label": "tev001001_SEL0071",
+      "style": 3,
+      "name": "Add Phog to your team."
+    },
+    {
+      "$id": 28,
+      "label": "tev001001_JNK0080",
+      "style": 4,
+      "name": "Refuse"
+    },
+    {
+      "$id": 29,
+      "label": "tev001001_SEL0081",
+      "style": 3,
+      "name": "Decline Phog's request for now."
+    },
+    {
+      "$id": 30,
+      "label": "tev001001_MSG1034",
+      "style": 1,
+      "name": "Okay. Thanks. I'll try not to slow you down.[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "tev001001_MSG1035",
+      "style": 1,
+      "name": "Okay. If you ever change your mind, I'll be ready.\nWell, to the extent I'll ever be, at least.[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "tev001001_MSG1040",
+      "style": 1,
+      "name": "Sylvalum is a strange land enveloped by mist.[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "tev001001_MSG1041",
+      "style": 1,
+      "name": "If you take me along, we'll have to be careful not to\nget lost. But take me anyway, okay?[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "tev001001_JNK0090",
+      "style": 4,
+      "name": "Agree"
+    },
+    {
+      "$id": 35,
+      "label": "tev001001_SEL0091",
+      "style": 3,
+      "name": "Add Phog to your team."
+    },
+    {
+      "$id": 36,
+      "label": "tev001001_JNK0100",
+      "style": 4,
+      "name": "Refuse"
+    },
+    {
+      "$id": 37,
+      "label": "tev001001_SEL0101",
+      "style": 3,
+      "name": "Decline Phog's request for now."
+    },
+    {
+      "$id": 38,
+      "label": "tev001001_MSG1042",
+      "style": 1,
+      "name": "Thanks. I'll try not to slow you down.[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "tev001001_MSG1043",
+      "style": 1,
+      "name": "Oh, okay. Sure. I hope you make it back safe.[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "tev001001_MSG1048",
+      "style": 1,
+      "name": "......[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "tev001001_MSG1049",
+      "style": 1,
+      "name": "Sorry, I was just...kinda...spacing out there.\nDo you have a new mission for me?[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "tev001001_JNK0110",
+      "style": 4,
+      "name": "Agree"
+    },
+    {
+      "$id": 43,
+      "label": "tev001001_SEL0111",
+      "style": 3,
+      "name": "Add Phog to your team."
+    },
+    {
+      "$id": 44,
+      "label": "tev001001_JNK0120",
+      "style": 4,
+      "name": "Refuse"
+    },
+    {
+      "$id": 45,
+      "label": "tev001001_SEL0121",
+      "style": 3,
+      "name": "Decline Phog's request for now."
+    },
+    {
+      "$id": 46,
+      "label": "tev001001_MSG1050",
+      "style": 1,
+      "name": "Okay. Thanks. I'll try not to slow you down.[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "tev001001_MSG1051",
+      "style": 1,
+      "name": "Okay. If you ever change your mind, I'll be ready.\nWell, to the extent that I'll ever be, at least.[ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "tev001001_MSG1056",
+      "style": 1,
+      "name": "I guess we should be chasing after Lao at this point.[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "tev001001_MSG1057",
+      "style": 1,
+      "name": "I'll try to help out however I can, so don't hesitate to\ntake me with you.[ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "tev001001_JNK0130",
+      "style": 4,
+      "name": "Agree"
+    },
+    {
+      "$id": 51,
+      "label": "tev001001_SEL0131",
+      "style": 3,
+      "name": "Add Phog to your team."
+    },
+    {
+      "$id": 52,
+      "label": "tev001001_JNK0140",
+      "style": 4,
+      "name": "Refuse"
+    },
+    {
+      "$id": 53,
+      "label": "tev001001_SEL0141",
+      "style": 3,
+      "name": "Decline Phog's request for now."
+    },
+    {
+      "$id": 54,
+      "label": "tev001001_MSG1058",
+      "style": 1,
+      "name": "Okay, that's good. We should, uh...\nWe should probably hurry.[ST:wait ]"
+    },
+    {
+      "$id": 55,
+      "label": "tev001001_MSG1059",
+      "style": 1,
+      "name": "Okay. If you ever change your mind, I'll be ready.\nWell, to the extent that I'll ever be, at least.[ST:wait ]"
+    },
+    {
+      "$id": 56,
+      "label": "tev001001_MSG1064",
+      "style": 1,
+      "name": "......[ST:wait ]"
+    },
+    {
+      "$id": 57,
+      "label": "tev001001_MSG1065",
+      "style": 1,
+      "name": ".........[ST:wait ]"
+    },
+    {
+      "$id": 58,
+      "label": "tev001001_MSG1066",
+      "style": 1,
+      "name": "Okay, I'm ready to go. And kind of eager, even!\nI mean, I am if you are. And if you want me to be?[ST:wait ]"
+    },
+    {
+      "$id": 59,
+      "label": "tev001001_JNK0150",
+      "style": 4,
+      "name": "Agree"
+    },
+    {
+      "$id": 60,
+      "label": "tev001001_SEL0151",
+      "style": 3,
+      "name": "Add Phog to your team."
+    },
+    {
+      "$id": 61,
+      "label": "tev001001_JNK0160",
+      "style": 4,
+      "name": "Refuse"
+    },
+    {
+      "$id": 62,
+      "label": "tev001001_SEL0161",
+      "style": 3,
+      "name": "Decline Phog's request for now."
+    },
+    {
+      "$id": 63,
+      "label": "tev001001_MSG1067",
+      "style": 1,
+      "name": "My life's on the line here, too—and I want to be the\none to save it.[ST:wait ]"
+    },
+    {
+      "$id": 64,
+      "label": "tev001001_MSG1068",
+      "style": 1,
+      "name": "Sure, of course. I totally understand.\nI'll be here praying for your success.[ST:wait ]"
+    },
+    {
+      "$id": 65,
+      "label": "tev001001_MSG1073",
+      "style": 1,
+      "name": "Isn't it nice to be at peace?[ST:wait ]"
+    },
+    {
+      "$id": 66,
+      "label": "tev001001_MSG1074",
+      "style": 1,
+      "name": "Everyone in the residential district looks like they're\npositively floating...[ST:wait ]"
+    },
+    {
+      "$id": 67,
+      "label": "tev001001_MSG1075",
+      "style": 1,
+      "name": "I want to keep it this way. And if that means having to\nfight a little bit more, then I'm willing to do it!\nSo what do you say?[ST:wait ]"
+    },
+    {
+      "$id": 68,
+      "label": "tev001001_JNK0170",
+      "style": 4,
+      "name": "Agree"
+    },
+    {
+      "$id": 69,
+      "label": "tev001001_SEL0171",
+      "style": 3,
+      "name": "Add Phog to your team."
+    },
+    {
+      "$id": 70,
+      "label": "tev001001_JNK0180",
+      "style": 4,
+      "name": "Refuse"
+    },
+    {
+      "$id": 71,
+      "label": "tev001001_SEL0181",
+      "style": 3,
+      "name": "Decline Phog's request for now."
+    },
+    {
+      "$id": 72,
+      "label": "tev001001_MSG1076",
+      "style": 1,
+      "name": "Really? Wow, that's great! So to be honest,\nI'm a terrible fighter—but I'll work really hard.[ST:wait ]"
+    },
+    {
+      "$id": 73,
+      "label": "tev001001_MSG1077",
+      "style": 1,
+      "name": "Yeah, okay. I'll be here if you change your mind.\nI've got a lot to think about in the meantime.[ST:wait ]"
+    },
+    {
+      "$id": 74,
+      "label": "tev001001_MSG1078",
+      "style": 1,
+      "name": "Oh, um... Yeah, sorry, but I'm kind of busy right now.[ST:wait ]"
+    },
+    {
+      "$id": 75,
+      "label": "tev001001_MSG1079",
+      "style": 1,
+      "name": "Maybe we could do this some other time?[ST:wait ]"
+    }
+  ]
+}

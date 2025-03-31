@@ -1,0 +1,216 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev900192_MSG0010",
+      "style": 1,
+      "name": "Oh, you showed up just at the right time.\nI've got something to ask you.[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev900192_MSG0020",
+      "style": 1,
+      "name": "Do you know about the Coalition\nforces that preceded BLADE?[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev900192_MSG0030",
+      "style": 1,
+      "name": "I hear each nation contributed their own\nhand-picked soldiers to form their ranks.[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev900192_MSG0040",
+      "style": 1,
+      "name": "You were in the military as well, I take it?[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev900192_JNK0050",
+      "style": 4,
+      "name": "Confirm"
+    },
+    {
+      "$id": 6,
+      "label": "tev900192_SEL0060",
+      "style": 3,
+      "name": "Say that you were."
+    },
+    {
+      "$id": 7,
+      "label": "tev900192_MSG0070",
+      "style": 1,
+      "name": "I thought as much. There's just\nsomething about your bearing.[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "tev900192_MSG0080",
+      "style": 1,
+      "name": "I used to be in the German air force,\nmyself. Not that there are any countries\nto distinguish between now...[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "tev900192_JNK0090",
+      "style": 4,
+      "name": "Correct"
+    },
+    {
+      "$id": 10,
+      "label": "tev900192_SEL0100",
+      "style": 3,
+      "name": "Say you were a civilian."
+    },
+    {
+      "$id": 11,
+      "label": "tev900192_MSG0110",
+      "style": 1,
+      "name": "A civilian, picked for combat assignment?\nYou must've been something else...[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "tev900192_JNK0120",
+      "style": 4,
+      "name": "Demur"
+    },
+    {
+      "$id": 13,
+      "label": "tev900192_SEL0130",
+      "style": 3,
+      "name": "Say you don't know,\non account of your memory loss."
+    },
+    {
+      "$id": 14,
+      "label": "tev900192_MSG0140",
+      "style": 1,
+      "name": "Memory loss... Right, I see...[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "tev900192_MSG0150",
+      "style": 1,
+      "name": "Well, considering your sterling record\nat BLADE, I think it's safe to say in all\nlikelihood you saw some active duty.[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "tev900192_MSG0160",
+      "style": 1,
+      "name": "Anyway, back on Earth I got scouted for\nthe Coalition forces' Skell detachment,\nand transferred out of the Luftwaffe...[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "tev900192_MSG0170",
+      "style": 1,
+      "name": "But then the government called for urgent\nSkell development, ran out of test pilots,\nand so I fell into my new line of work.[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "tev900192_MSG0180",
+      "style": 1,
+      "name": "I got sent to Grenada in a hurry, where\nthe first Skell I got to test was one that\nAlicia had designed...[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "tev900192_MSG0190",
+      "style": 1,
+      "name": "That was our humble beginning,\nand the rest is history.[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "tev900192_JNK0200",
+      "style": 4,
+      "name": "Inquire"
+    },
+    {
+      "$id": 21,
+      "label": "tev900192_SEL0210",
+      "style": 3,
+      "name": "Ask about her and Alicia's\nearly days together."
+    },
+    {
+      "$id": 22,
+      "label": "tev900192_MSG0220",
+      "style": 1,
+      "name": "I've heard that before coming to Grenada,\nLeesh was working in weapon dev for the\nIndian government.[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "tev900192_MSG0230",
+      "style": 1,
+      "name": "But once Project Exodus went public,\nshe decided she wanted to work for all\nof humanity. Big step up, right?[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "tev900192_MSG0240",
+      "style": 1,
+      "name": "That was about the time I joined Grenada\nas well. The actual meeting was pretty\nmuch just chance.[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "tev900192_MSG0250",
+      "style": 1,
+      "name": "Ever since then, Leesh and I have been\njoined at the hip. And sure, it's been a\nbumpy road, but I've enjoyed every mile.[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "tev900192_MSG0260",
+      "style": 1,
+      "name": "And it looks like we can keep going.\nAlicia matters so much to me.\nAnd, just so you know...you do too.[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "tev900192_JNK0270",
+      "style": 4,
+      "name": "Pry"
+    },
+    {
+      "$id": 28,
+      "label": "tev900192_SEL0280",
+      "style": 3,
+      "name": "Ask if she'd consider returning\nto the military."
+    },
+    {
+      "$id": 29,
+      "label": "tev900192_MSG0290",
+      "style": 1,
+      "name": "You know, some of my old war buddies\nask me the same thing sometimes.[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "tev900192_MSG0300",
+      "style": 1,
+      "name": "But really, I think being a test pilot\nmight just be my calling.[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "tev900192_MSG0310",
+      "style": 1,
+      "name": "Learning to master new Skell models is\nlike pilot catnip. It's always pushing me\nto be stronger...faster...[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "tev900192_MSG0320",
+      "style": 1,
+      "name": "Not to mention, all my testing affects\nother pilots—maybe even saves lives.\nI can't turn my back on that.[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "tev900192_MSG0330",
+      "style": 1,
+      "name": "I fight the way I know best.\n...That's all there is to it.[ST:wait ]"
+    }
+  ]
+}

@@ -1,0 +1,762 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "DEBUF_STAGGER_Name",
+      "style": 18,
+      "name": "Stagger"
+    },
+    {
+      "$id": 2,
+      "label": "DEBUF_DAUNT_Name",
+      "style": 18,
+      "name": "Flinch"
+    },
+    {
+      "$id": 3,
+      "label": "DEBUF_FALL_DOWN_Name",
+      "style": 18,
+      "name": "Topple"
+    },
+    {
+      "$id": 4,
+      "label": "DEBUF_FAINT_Name",
+      "style": 18,
+      "name": ""
+    },
+    {
+      "$id": 5,
+      "label": "DEBUF_BLOW_OFF_Name",
+      "style": 18,
+      "name": "Launch"
+    },
+    {
+      "$id": 6,
+      "label": "DEBUF_KNOCK_BACK_Name",
+      "style": 18,
+      "name": "Knockback"
+    },
+    {
+      "$id": 7,
+      "label": "DEBUF_HOLD_Name",
+      "style": 18,
+      "name": "Stun"
+    },
+    {
+      "$id": 8,
+      "label": "DEBUF_CATCH_Name",
+      "style": 18,
+      "name": "Bind"
+    },
+    {
+      "$id": 9,
+      "label": "DEBUF_SLEEP_Name",
+      "style": 18,
+      "name": "Sleep"
+    },
+    {
+      "$id": 10,
+      "label": "DEBUF_PROVOCATION_Name",
+      "style": 18,
+      "name": "Taunt"
+    },
+    {
+      "$id": 11,
+      "label": "DEBUF_CONTROL_Name",
+      "style": 18,
+      "name": "Control"
+    },
+    {
+      "$id": 12,
+      "label": "DEBUF_BIND_Name",
+      "style": 18,
+      "name": ""
+    },
+    {
+      "$id": 13,
+      "label": "DEBUF_VIRUS_Name",
+      "style": 18,
+      "name": "Virus"
+    },
+    {
+      "$id": 14,
+      "label": "DEBUF_BLACK_SIGHT_Name",
+      "style": 18,
+      "name": "Blackout"
+    },
+    {
+      "$id": 15,
+      "label": "DEBUF_POWER_DOWN_Name",
+      "style": 18,
+      "name": "Fatigue"
+    },
+    {
+      "$id": 16,
+      "label": "DEBUF_SLOW_Name",
+      "style": 18,
+      "name": "Slow Arts"
+    },
+    {
+      "$id": 17,
+      "label": "DEBUF_DEFFENCE_DOWN_Name",
+      "style": 18,
+      "name": ""
+    },
+    {
+      "$id": 18,
+      "label": "DEBUF_PHYSICS_DOWN_Name",
+      "style": 18,
+      "name": "Physical Res Down"
+    },
+    {
+      "$id": 19,
+      "label": "DEBUF_BEAM_DOWN_Name",
+      "style": 18,
+      "name": "Beam Res Down"
+    },
+    {
+      "$id": 20,
+      "label": "DEBUF_DARK_DOWN_Name",
+      "style": 18,
+      "name": "Ether Res Down"
+    },
+    {
+      "$id": 21,
+      "label": "DEBUF_FERVOR_DOWN_Name",
+      "style": 18,
+      "name": "Thermal Res Down"
+    },
+    {
+      "$id": 22,
+      "label": "DEBUF_THUNDER_DOWN_Name",
+      "style": 18,
+      "name": "Electric Res Down"
+    },
+    {
+      "$id": 23,
+      "label": "DEBUF_GRAVITY_DOWN_Name",
+      "style": 18,
+      "name": "Gravity Res Down"
+    },
+    {
+      "$id": 24,
+      "label": "DEBUF_COUNT_BOMB_Name",
+      "style": 18,
+      "name": "Time Bomb"
+    },
+    {
+      "$id": 25,
+      "label": "DEBUF_FLIGHT_DOWN_Name",
+      "style": 18,
+      "name": ""
+    },
+    {
+      "$id": 26,
+      "label": "DEBUF_DEBUF_RESIST_DOWN_Name",
+      "style": 18,
+      "name": "Debuff Res Down"
+    },
+    {
+      "$id": 27,
+      "label": "DEBUF_HP_HEAL_DOWN_Name",
+      "style": 18,
+      "name": "HP Recovery Down"
+    },
+    {
+      "$id": 28,
+      "label": "DEBUF_HEAT_CHARGE_Name",
+      "style": 18,
+      "name": "Blaze"
+    },
+    {
+      "$id": 29,
+      "label": "DEBUF_ELECTRO_CHARGE_Name",
+      "style": 18,
+      "name": "Shock"
+    },
+    {
+      "$id": 30,
+      "label": "DEBUF_DAMAGE_HARD_Name",
+      "style": 18,
+      "name": "Appendage Lost"
+    },
+    {
+      "$id": 31,
+      "label": "DEBUF_DM_MAX_DOWN_Name",
+      "style": 18,
+      "name": "Max TP Down"
+    },
+    {
+      "$id": 32,
+      "label": "DEBUF_SUCTION_Name",
+      "style": 18,
+      "name": "Pull"
+    },
+    {
+      "$id": 33,
+      "label": "DEBUF_CRASH_Name",
+      "style": 18,
+      "name": "Crash"
+    },
+    {
+      "$id": 34,
+      "label": "DEBUF_STAGGER_PARTS_BREAK_Name",
+      "style": 18,
+      "name": "Appendage Lost"
+    },
+    {
+      "$id": 35,
+      "label": "BUF_FIGHT_DEX_UP_Name",
+      "style": 18,
+      "name": "Melee Accuracy Up"
+    },
+    {
+      "$id": 36,
+      "label": "BUF_SHOOT_DEX_UP_Name",
+      "style": 18,
+      "name": "Ranged Accuracy Up"
+    },
+    {
+      "$id": 37,
+      "label": "BUF_EVA_UP_Name",
+      "style": 18,
+      "name": "Evasion Up"
+    },
+    {
+      "$id": 38,
+      "label": "BUF_FIGHT_UP_Name",
+      "style": 18,
+      "name": "Melee Attack Up"
+    },
+    {
+      "$id": 39,
+      "label": "BUF_SHOOT_UP_Name",
+      "style": 18,
+      "name": "Ranged Attack Up"
+    },
+    {
+      "$id": 40,
+      "label": "BUF_MIND_UP_Name",
+      "style": 18,
+      "name": "Potential Up"
+    },
+    {
+      "$id": 41,
+      "label": "BUF_PHYSICS_UP_Name",
+      "style": 18,
+      "name": "Physical Res Up"
+    },
+    {
+      "$id": 42,
+      "label": "BUF_BEAM_UP_Name",
+      "style": 18,
+      "name": "Beam Res Up"
+    },
+    {
+      "$id": 43,
+      "label": "BUF_DARK_UP_Name",
+      "style": 18,
+      "name": "Ether Res Up"
+    },
+    {
+      "$id": 44,
+      "label": "BUF_FERVOR_UP_Name",
+      "style": 18,
+      "name": "Thermal Res Up"
+    },
+    {
+      "$id": 45,
+      "label": "BUF_THUNDER_UP_Name",
+      "style": 18,
+      "name": "Electric Res Up"
+    },
+    {
+      "$id": 46,
+      "label": "BUF_GRAVITY_UP_Name",
+      "style": 18,
+      "name": "Gravity Res Up"
+    },
+    {
+      "$id": 47,
+      "label": "BUF_DAMAGE_ARMOR_Name",
+      "style": 18,
+      "name": "Barrier"
+    },
+    {
+      "$id": 48,
+      "label": "BUF_BULLET_CHARGE_Name",
+      "style": 18,
+      "name": "Supercharge"
+    },
+    {
+      "$id": 49,
+      "label": "BUF_VISION_Name",
+      "style": 18,
+      "name": "Decoy"
+    },
+    {
+      "$id": 50,
+      "label": "BUF_CRITICAL_STAGE_Name",
+      "style": 18,
+      "name": "Critical Power"
+    },
+    {
+      "$id": 51,
+      "label": "BUF_BUF_TIME_STOP_Name",
+      "style": 18,
+      "name": "Effect Stasis"
+    },
+    {
+      "$id": 52,
+      "label": "BUF_ENEMY_DEFENSE_Name",
+      "style": 18,
+      "name": "Defending"
+    },
+    {
+      "$id": 53,
+      "label": "BUF_INVINCIBLE_Name",
+      "style": 18,
+      "name": "Invincibility"
+    },
+    {
+      "$id": 54,
+      "label": "BUF_WEATHER_INVALID_Name",
+      "style": 18,
+      "name": "Weather Immunity"
+    },
+    {
+      "$id": 55,
+      "label": "BUF_LAND_INVALID_Name",
+      "style": 18,
+      "name": "Terrain Immunity"
+    },
+    {
+      "$id": 56,
+      "label": "AURA_RAGE_Name",
+      "style": 18,
+      "name": "Defensive Stance"
+    },
+    {
+      "$id": 57,
+      "label": "AURA_SHADOW_RUNNER_Name",
+      "style": 18,
+      "name": "Shadowrunner"
+    },
+    {
+      "$id": 58,
+      "label": "AURA_BLOOD_TIME_Name",
+      "style": 18,
+      "name": "Early Bird"
+    },
+    {
+      "$id": 59,
+      "label": "AURA_BLACK_ROBE_Name",
+      "style": 18,
+      "name": "Full Specs"
+    },
+    {
+      "$id": 60,
+      "label": "AURA_BRAVE_HEART_Name",
+      "style": 18,
+      "name": "Offensive Stance"
+    },
+    {
+      "$id": 61,
+      "label": "AURA_FRONT_LINE_Name",
+      "style": 18,
+      "name": "Medic Free"
+    },
+    {
+      "$id": 62,
+      "label": "AURA_IRON_PRISON_Name",
+      "style": 18,
+      "name": "Iron Prison"
+    },
+    {
+      "$id": 63,
+      "label": "AURA_BLOOD_EDGE_Name",
+      "style": 18,
+      "name": "Thirsty Edge"
+    },
+    {
+      "$id": 64,
+      "label": "AURA_KILLING_MACHINE_Name",
+      "style": 18,
+      "name": "Killing Machine"
+    },
+    {
+      "$id": 65,
+      "label": "AURA_DELTA_SHIELD_Name",
+      "style": 18,
+      "name": "Geolibrium"
+    },
+    {
+      "$id": 66,
+      "label": "AURA_MEIKYOSHISUI_Name",
+      "style": 18,
+      "name": "Astrolibrium"
+    },
+    {
+      "$id": 67,
+      "label": "AURA_SAMURAI_SOUL_Name",
+      "style": 18,
+      "name": "Samurai Soul"
+    },
+    {
+      "$id": 68,
+      "label": "AURA_FORMATION_DELTA_Name",
+      "style": 18,
+      "name": "Gunforce"
+    },
+    {
+      "$id": 69,
+      "label": "AURA_STRONG_SHIELD_Name",
+      "style": 18,
+      "name": "Supershield"
+    },
+    {
+      "$id": 70,
+      "label": "AURA_ADVANCE_Name",
+      "style": 18,
+      "name": "Enhanced Stand"
+    },
+    {
+      "$id": 71,
+      "label": "AURA_SPEED_STAR_Name",
+      "style": 18,
+      "name": "Speed Demon"
+    },
+    {
+      "$id": 72,
+      "label": "AURA_STAR_FIELD_Name",
+      "style": 18,
+      "name": "Astral Horizon"
+    },
+    {
+      "$id": 73,
+      "label": "AURA_ASTEROID_CROSS_Name",
+      "style": 18,
+      "name": "Novalibrium"
+    },
+    {
+      "$id": 74,
+      "label": "AURA_STAR_PROTECTION_Name",
+      "style": 18,
+      "name": "Astral Protection"
+    },
+    {
+      "$id": 75,
+      "label": "AURA_GHOST_SNIPER_Name",
+      "style": 18,
+      "name": "Ghost Sniper"
+    },
+    {
+      "$id": 76,
+      "label": "AURA_BOOST_BARREL_Name",
+      "style": 18,
+      "name": "Boost Barrel"
+    },
+    {
+      "$id": 77,
+      "label": "AURA_RAIJIN_Name",
+      "style": 18,
+      "name": "Raijin"
+    },
+    {
+      "$id": 78,
+      "label": "AURA_ASSAULT17_Name",
+      "style": 18,
+      "name": "Overclock"
+    },
+    {
+      "$id": 79,
+      "label": "AURA_GATLING9_Name",
+      "style": 18,
+      "name": "Titan Recharge"
+    },
+    {
+      "$id": 80,
+      "label": "AURA_BEAMGUN8_Name",
+      "style": 18,
+      "name": "Master Gunner"
+    },
+    {
+      "$id": 81,
+      "label": "AURA_DUELBLADE12_Name",
+      "style": 18,
+      "name": "Crisis Zone"
+    },
+    {
+      "$id": 82,
+      "label": "AURA_SHEILD13_Name",
+      "style": 18,
+      "name": "Flamehand"
+    },
+    {
+      "$id": 83,
+      "label": "AURA_PSYCHO7_name",
+      "style": 18,
+      "name": "Dual Dynamo"
+    },
+    {
+      "$id": 84,
+      "label": "AURA_RECOVER_name",
+      "style": 18,
+      "name": "Recuperate"
+    },
+    {
+      "$id": 85,
+      "label": "AURA_KNIFE16_name",
+      "style": 18,
+      "name": "Secondary Speed"
+    },
+    {
+      "$id": 86,
+      "label": "BUF_AURA1_Name",
+      "style": 18,
+      "name": ""
+    },
+    {
+      "$id": 87,
+      "label": "BUF_AURA2_Name",
+      "style": 18,
+      "name": ""
+    },
+    {
+      "$id": 88,
+      "label": "BUF_BERSERK_Name",
+      "style": 18,
+      "name": "Enraged"
+    },
+    {
+      "$id": 89,
+      "label": "BUF_COOL_Name",
+      "style": 18,
+      "name": "Calm"
+    },
+    {
+      "$id": 90,
+      "label": "BUF_COOL21_Name",
+      "style": 18,
+      "name": "Unhinged"
+    },
+    {
+      "$id": 91,
+      "label": "BUF_AWAKE_Name",
+      "style": 18,
+      "name": "Aware"
+    },
+    {
+      "$id": 92,
+      "label": "BUF_CATCH_Name",
+      "style": 18,
+      "name": ""
+    },
+    {
+      "$id": 93,
+      "label": "BUF_COMBO_FIGHT_Name",
+      "style": 18,
+      "name": ""
+    },
+    {
+      "$id": 94,
+      "label": "BUF_COMBO_SHOOT_Name",
+      "style": 18,
+      "name": ""
+    },
+    {
+      "$id": 95,
+      "label": "BUF_BLOOD_TIME_Name",
+      "style": 18,
+      "name": ""
+    },
+    {
+      "$id": 96,
+      "label": "BUF_RAGE_Name",
+      "style": 18,
+      "name": ""
+    },
+    {
+      "$id": 97,
+      "label": "BUF_UNION_SUPPORT01_name",
+      "style": 18,
+      "name": "HP Support"
+    },
+    {
+      "$id": 98,
+      "label": "BUF_UNION_SUPPORT02_name",
+      "style": 18,
+      "name": "Ranged Master"
+    },
+    {
+      "$id": 99,
+      "label": "BUF_UNION_SUPPORT03_name",
+      "style": 18,
+      "name": "Melee Master"
+    },
+    {
+      "$id": 100,
+      "label": "BUF_UNION_SUPPORT04_name",
+      "style": 18,
+      "name": "Drop Sensor"
+    },
+    {
+      "$id": 101,
+      "label": "BUF_UNION_SUPPORT05_name",
+      "style": 18,
+      "name": "Critical Master"
+    },
+    {
+      "$id": 102,
+      "label": "BUF_UNION_SUPPORT06_name",
+      "style": 18,
+      "name": "Defense Support"
+    },
+    {
+      "$id": 103,
+      "label": "BUF_UNION_SUPPORT07_name",
+      "style": 18,
+      "name": "R&D Support"
+    },
+    {
+      "$id": 104,
+      "label": "BUF_UNION_SUPPORT08_name",
+      "style": 18,
+      "name": "TP Support"
+    },
+    {
+      "$id": 105,
+      "label": "BUF_FRONTIER_NET01_name",
+      "style": 18,
+      "name": ""
+    },
+    {
+      "$id": 106,
+      "label": "BUF_FRONTIER_NET02_name",
+      "style": 18,
+      "name": ""
+    },
+    {
+      "$id": 107,
+      "label": "BUF_FRONTIER_NET03_name",
+      "style": 18,
+      "name": ""
+    },
+    {
+      "$id": 108,
+      "label": "BUF_FRONTIER_NET04_name",
+      "style": 18,
+      "name": ""
+    },
+    {
+      "$id": 109,
+      "label": "BUF_FRONTIER_NET05_name",
+      "style": 18,
+      "name": ""
+    },
+    {
+      "$id": 110,
+      "label": "DEBUF_ALL_RESIST_DOWN_Name",
+      "style": 18,
+      "name": "All Attribute Res Down"
+    },
+    {
+      "$id": 111,
+      "label": "BUF_CHANGE_DEFAULT_Name",
+      "style": 18,
+      "name": ""
+    },
+    {
+      "$id": 112,
+      "label": "BUF_CHANGE_PHYSICS_Name",
+      "style": 18,
+      "name": "Elemental Shift (Physical)"
+    },
+    {
+      "$id": 113,
+      "label": "BUF_CHANGE_BEAM_Name",
+      "style": 18,
+      "name": "Elemental Shift (Beam)"
+    },
+    {
+      "$id": 114,
+      "label": "BUF_CHANGE_DM_Name",
+      "style": 18,
+      "name": "Elemental Shift (Ether)"
+    },
+    {
+      "$id": 115,
+      "label": "BUF_CHANGE_FIRE_Name",
+      "style": 18,
+      "name": "Elemental Shift (Thermal)"
+    },
+    {
+      "$id": 116,
+      "label": "BUF_CHANGE_VOLT_Name",
+      "style": 18,
+      "name": "Elemental Shift (Electric)"
+    },
+    {
+      "$id": 117,
+      "label": "BUF_CHANGE_GRAVITY_Name",
+      "style": 18,
+      "name": "Elemental Shift (Gravity)"
+    },
+    {
+      "$id": 118,
+      "label": "BUF_ALL_STATUS_UP_Name",
+      "style": 18,
+      "name": "All Stats Up"
+    },
+    {
+      "$id": 119,
+      "label": "BUF_SOULHOWLING_Name",
+      "style": 18,
+      "name": "Howling Soul"
+    },
+    {
+      "$id": 120,
+      "label": "DEBUF_CONDUCTIONRISE_Name",
+      "style": 18,
+      "name": "Conduction Rise"
+    },
+    {
+      "$id": 121,
+      "label": "DEBUF_EFFECTCHARGE_Name",
+      "style": 18,
+      "name": "Effect Charge"
+    },
+    {
+      "$id": 122,
+      "label": "BUF_BUILDARM_Name",
+      "style": 18,
+      "name": "Build Arm"
+    },
+    {
+      "$id": 123,
+      "label": "BUF_CHARGECLOAK_Name",
+      "style": 18,
+      "name": "Charged Mantle"
+    },
+    {
+      "$id": 124,
+      "label": "DEBUF_HEROICTAIL_Name",
+      "style": 18,
+      "name": "Heroic Tale"
+    }
+  ]
+}

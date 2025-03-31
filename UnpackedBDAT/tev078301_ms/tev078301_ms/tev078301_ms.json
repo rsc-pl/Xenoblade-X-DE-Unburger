@@ -1,0 +1,180 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev078301_JNK0010",
+      "style": 4,
+      "name": "Inquire[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev078301_SEL0011",
+      "style": 3,
+      "name": "Ask Orleron about the Lifehold Core.[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev078301_JNK0020",
+      "style": 4,
+      "name": "Discuss[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev078301_SEL0021",
+      "style": 3,
+      "name": "Ask Orleron about recent developments.[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev078301_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 6,
+      "label": "tev078301_SEL1001",
+      "style": 3,
+      "name": "Ask Orleron about the Zaruboggan.[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "tev078301_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 8,
+      "label": "tev078301_SEL1011",
+      "style": 3,
+      "name": "Ask Orleron about recent developments.[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "tev078301_MSG0001",
+      "style": 1,
+      "name": "Is what Vera told me true? *fsssh* If you humans don't\nsecure your Lifehold Core soon, you will be destroyed?[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "tev078301_MSG0002",
+      "style": 1,
+      "name": "What a fragile existence you seem to lead. *fsssh*[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev078301_MSG0003",
+      "style": 1,
+      "name": "*fsssh* I doubt there's anything that I could do,\nbut rest assured I would act without question.\nI hope you can recover your Lifehold soon![ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "tev078301_MSG0004",
+      "style": 1,
+      "name": "Vera is quite important to... Well, rather I should say\nthat all humans are indispensable. *fsssh*[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "tev078301_MSG0005",
+      "style": 1,
+      "name": "If you were to be destroyed, we Zaruboggan that were\nleft behind in this city would quickly run out of voltant\nand disappear ourselves. *fsssh*[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "tev078301_MSG0010",
+      "style": 1,
+      "name": "Thank you very much! *fsssh* Because of your advice,\nI was able to improve my relationship with Vera.[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "tev078301_MSG0011",
+      "style": 1,
+      "name": "As a sign of reconciliation, we've been discussing the\npossibility of my joining her on some fieldwork. *fsssh*[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "tev078301_MSG0012",
+      "style": 1,
+      "name": "We'd be scavenging for animal corpses and highly\ntoxic voltant. *fsssh*[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "tev078301_MSG0013",
+      "style": 1,
+      "name": "I suppose this is what humans would call a date?\n*fsssh* I am quite looking forward to it![ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "tev078301_MSG1001",
+      "style": 1,
+      "name": "At first, I thought of Zaruboggan as pathetic creatures,\ninseparably chained to our calling. *fsssh*[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "tev078301_MSG1002",
+      "style": 1,
+      "name": "But I've since encountered humans in New LA who have\nlost sight of their purpose and fallen into deep despair.[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "tev078301_MSG1003",
+      "style": 1,
+      "name": "It made me think that perhaps there is value in the\nsimplicity of my people's lives? *fsssh*[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "tev078301_MSG1004",
+      "style": 1,
+      "name": "Take my father, Arsenican. So long as he has voltant\nto devoltanize, he knows true happiness and feels not a\ncare in the world. *fsssh*[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "tev078301_MSG1005",
+      "style": 1,
+      "name": "I imagine that to a human full of worries,\nhis life might seem an enviable one. *fsssh*[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "tev078301_MSG1010",
+      "style": 1,
+      "name": "Hey, [ST:playername ]! *fsssh*\nThanks for your help back in Cauldros.[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "tev078301_MSG1011",
+      "style": 1,
+      "name": "Since that day, I've continued working with a group of\nBLADEs to search for Miran voltant. *fsssh*[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "tev078301_MSG1012",
+      "style": 1,
+      "name": "But I promise that I'm not being a drag on them!\nBLADE seems to have plenty of use for a guy like me\nwho's willing to follow them anywhere. *fsssh*[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "tev078301_MSG1013",
+      "style": 1,
+      "name": "So they're happy, and I get to fulfill my Zaruboggan\ncalling in a way only I could. Everyone wins! *fsssh*[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "tev078301_MSG1014",
+      "style": 1,
+      "name": "But of course, I can still have some fun while I'm at it!\nWe should get together for a game of tennis. *fsssh*[ST:wait ]"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev300241_MSG0001",
+      "style": 1,
+      "name": "My Ovah speaks.[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev300241_MSG0002",
+      "style": 1,
+      "name": "It beckons me to gather up miranium and embark on a\nnew enterprise for the benefit of NLA and its people.[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev300241_JNK0010",
+      "style": 4,
+      "name": "Deliver[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev300241_SEL0011",
+      "style": 3,
+      "name": "Hand over 7,000 units of miranium.[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev300241_JNK0020",
+      "style": 4,
+      "name": "Keep[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev300241_SEL0021",
+      "style": 3,
+      "name": "Hold on to your miranium for now.[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev300241_MSG0004",
+      "style": 1,
+      "name": "Your hard work is appreciated. I will see that it goes to\nimproving life in the city.[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev300241_MSG0005",
+      "style": 1,
+      "name": "Hmm. I suppose it may be the will of the Ovah that\nthat miranium be put to other uses.[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev300241_MSG0006",
+      "style": 1,
+      "name": "Brave and loyal BLADE, please bring to me 7,000\nunits of miranium. No more. No less.[ST:wait ]"
+    }
+  ]
+}

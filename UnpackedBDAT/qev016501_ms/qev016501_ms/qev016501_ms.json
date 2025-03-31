@@ -1,0 +1,252 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev016501_MSG0001",
+      "style": 1,
+      "name": "Ah, [ST:playername ]! Perfect.\nI've got just the job for you.[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev016501_MSG0002",
+      "style": 1,
+      "name": "This last stretch of fighting has been intense.\nOur Skell fleet is pretty beat up, as is a lot of our\nequipment.[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev016501_MSG0003",
+      "style": 1,
+      "name": "We need to perform some large-scale maintenance,\nbut we're all but out of aurorite—a relatively common\nresource needed for repairs.[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev016501_MSG0004",
+      "style": 1,
+      "name": "Mira's dangerous enough when your gear is working,\nbut when it's not? Forget it![ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev016501_JNK0010",
+      "style": 4,
+      "name": "Agree"
+    },
+    {
+      "$id": 6,
+      "label": "qev016501_SEL0011",
+      "style": 3,
+      "name": "Tell Kirsty that you also think going out\nwith broken equipment would be suicide."
+    },
+    {
+      "$id": 7,
+      "label": "qev016501_JNK0020",
+      "style": 4,
+      "name": "Scoff"
+    },
+    {
+      "$id": 8,
+      "label": "qev016501_SEL0021",
+      "style": 3,
+      "name": "Say that skill is the only thing that matters."
+    },
+    {
+      "$id": 9,
+      "label": "qev016501_MSG0005",
+      "style": 1,
+      "name": "And you've been through enough tight scrapes to know\nhow terrifying it can be even WITH working gear.[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev016501_MSG0006",
+      "style": 1,
+      "name": "Well, aren't we the [ST:gender p1=king p2=queen ] of Awesometown?\nUnfortunately, not every BLADE is as fantastically\nskilled as you, my liege.[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev016501_MSG0007",
+      "style": 1,
+      "name": "Many of them have civilian backgrounds, and it's\nunrealistic to just send them out there with nothing\nmore than a pointy stick.[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev016501_MSG0008",
+      "style": 1,
+      "name": "We've got Pathfinders and Prospectors out gathering\nas we speak, but the more their equipment fails, the\nmore casualties are mounting.[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev016501_MSG0009",
+      "style": 1,
+      "name": "I'd like you to mine the aurorite we need for our\nmaintenance and also gather eight HI9 ion thrusters\nthat can be found in Noctilum.[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev016501_MSG0010",
+      "style": 1,
+      "name": "If you could also recover the data unit that fell there\nwhile you're at it, that would be a huge help.\nDo you mind?[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev016501_MSG0011",
+      "style": 1,
+      "name": "It's much appreciated.[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev016501_MSG0012",
+      "style": 1,
+      "name": "I have every faith you'll find everything, so I'll whip up\na maintenance schedule while you're out.[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev016501_MSG0013",
+      "style": 1,
+      "name": "So access your comm device to connect to FrontierNav\nand mine for that aurorite. As for the rest, well...\nJust be sure to come home safely. That's an order![ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev016501_MSG0014",
+      "style": 1,
+      "name": "All right, that's it. Off you go.[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev016501_MSG0015",
+      "style": 1,
+      "name": "You know you'll only find precious resources\nsuch as aurorite with a mining probe, right?[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev016501_MSG0016",
+      "style": 1,
+      "name": "So if all your data probes are set to be research\nprobes or some other type, you'll need to swap a few\nout for mining probes.[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev016501_MSG0017",
+      "style": 1,
+      "name": "I won't lecture you on how to go about doing that.\nYou're a FrontierNav pro by now.[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev016501_MSG0018",
+      "style": 1,
+      "name": "Perfect. That should be enough aurorite to get the\nBLADEs' equipment back in fighting shape.[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev016501_MSG0019",
+      "style": 1,
+      "name": "Now we just need the items from Noctilum.[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev016501_MSG0020",
+      "style": 1,
+      "name": "Thank you. It looks like that's everything.[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev016501_MSG0021",
+      "style": 1,
+      "name": "The materials you've gathered will get broken Skells\nback on their feet and also ensure that our BLADEs'\ngear is in top working condition.[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev016501_MSG0022",
+      "style": 1,
+      "name": "And I'll see that analysis of the data unit you recovered\nstarts right away.[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev016501_JNK0030",
+      "style": 4,
+      "name": "Question"
+    },
+    {
+      "$id": 28,
+      "label": "qev016501_SEL0031",
+      "style": 3,
+      "name": "Ask Kirsty what she expects to find on the data unit."
+    },
+    {
+      "$id": 29,
+      "label": "qev016501_JNK0040",
+      "style": 4,
+      "name": "Yawn"
+    },
+    {
+      "$id": 30,
+      "label": "qev016501_SEL0041",
+      "style": 3,
+      "name": "Skip to the part where you get paid."
+    },
+    {
+      "$id": 31,
+      "label": "qev016501_MSG0023",
+      "style": 1,
+      "name": "Classified information from a special project I was on.\nAfraid I can't say more than that.[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev016501_MSG0024",
+      "style": 1,
+      "name": "Well, maybe I can say a little...[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev016501_MSG0025",
+      "style": 1,
+      "name": "That data unit represents the bonds I share with some\nof my dearest colleagues.[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev016501_MSG0026",
+      "style": 1,
+      "name": "Now then, this is for you. I think you'll find it more\nthan covers you for your troubles.[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev016501_MSG0027",
+      "style": 1,
+      "name": "Forget the BLADEs—you should be a mercenary!\nBut yes, I've got your reward right here.[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev016501_MSG0028",
+      "style": 1,
+      "name": "All the precious resources mined from the soils of Mira\ncan be turned into a wide variety of items that will help\nkeep New LA safe.[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev016501_MSG0029",
+      "style": 1,
+      "name": "I hope you'll continue using FrontierNav to dig up all\nsorts of new minerals and materials.[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev016501_MSG0030",
+      "style": 1,
+      "name": "We're all depending on it, in fact.[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "qev016501_MSG0031",
+      "style": 1,
+      "name": "Mira's a harsh land full of hostile, terrible things.\nWithout the support of people like you, even our best\nfighters can't hold out for long.[ST:wait ]"
+    }
+  ]
+}

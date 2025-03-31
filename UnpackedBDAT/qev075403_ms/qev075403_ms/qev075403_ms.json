@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev075403_MSG0001",
+      "style": 1,
+      "name": "What are all these, [ST:playername ]?[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev075403_MSG0002",
+      "style": 1,
+      "name": "Eh? That weird human sent them after you?[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev075403_MSG0003",
+      "style": 1,
+      "name": "Well, nice work. And worry not that he ran—\nit's a dead end up ahead. He can't be far![ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev075403_MSG0004",
+      "style": 1,
+      "name": "I'm not letting him get away with that sword![ST:wait ]"
+    }
+  ]
+}

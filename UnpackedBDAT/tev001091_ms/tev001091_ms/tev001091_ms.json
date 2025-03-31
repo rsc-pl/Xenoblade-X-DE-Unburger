@@ -1,0 +1,270 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev001091_MSG0001",
+      "style": 1,
+      "name": "Oh. Hello, [ST:playername ].[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev001091_MSG0002",
+      "style": 1,
+      "name": "......[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev001091_MSG0003",
+      "style": 1,
+      "name": ".........[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev001091_MSG0004",
+      "style": 1,
+      "name": "............[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev001091_MSG0005",
+      "style": 1,
+      "name": "...............[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "tev001091_JNK0010",
+      "style": 4,
+      "name": "Inquire"
+    },
+    {
+      "$id": 7,
+      "label": "tev001091_SEL0011",
+      "style": 3,
+      "name": "Ask Phog what he's doing."
+    },
+    {
+      "$id": 8,
+      "label": "tev001091_JNK0020",
+      "style": 4,
+      "name": "Speculate"
+    },
+    {
+      "$id": 9,
+      "label": "tev001091_SEL0021",
+      "style": 3,
+      "name": "Ask Phog if he's looking at fish."
+    },
+    {
+      "$id": 10,
+      "label": "tev001091_MSG0006",
+      "style": 1,
+      "name": "......[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev001091_MSG0007",
+      "style": 1,
+      "name": ".........[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "tev001091_MSG0008",
+      "style": 1,
+      "name": "............[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "tev001091_MSG0009",
+      "style": 1,
+      "name": "Unfortunately, there aren't any fish.[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "tev001091_MSG0010",
+      "style": 1,
+      "name": "If there were, we could fish here anytime.\nThat would be nice.[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "tev001091_MSG0011",
+      "style": 1,
+      "name": "...So I'm thinking about something.[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "tev001091_MSG0012",
+      "style": 1,
+      "name": "This looks like water, but it's actually a gel designed to\ncushion impacts.[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "tev001091_MSG0013",
+      "style": 1,
+      "name": "I've heard that when it hardens, it becomes like those\ngiant crystals that surround the outer walls of New LA.\nI'm not sure I believe that.[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "tev001091_MSG0014",
+      "style": 1,
+      "name": "There's a rumor that you could inject a coagulating\nagent into it that would cause it to instantly harden...[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "tev001091_MSG0015",
+      "style": 1,
+      "name": "I was just internally debating whether or not I should\ntest that theory out.[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "tev001091_JNK0030",
+      "style": 4,
+      "name": "Encourage"
+    },
+    {
+      "$id": 21,
+      "label": "tev001091_SEL0031",
+      "style": 3,
+      "name": "Say you'd also like to know, so Phog should try it."
+    },
+    {
+      "$id": 22,
+      "label": "tev001091_JNK0040",
+      "style": 4,
+      "name": "Discourage"
+    },
+    {
+      "$id": 23,
+      "label": "tev001091_SEL0041",
+      "style": 3,
+      "name": "Explain to Phog how he'd probably\nget in trouble for that."
+    },
+    {
+      "$id": 24,
+      "label": "tev001091_MSG0016",
+      "style": 1,
+      "name": "I thought the matter might intrigue you.[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "tev001091_MSG0017",
+      "style": 1,
+      "name": "Please, go ahead and test it out yourself.[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "tev001091_MSG0018",
+      "style": 1,
+      "name": "I'm going to watch.\n...From far away.[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "tev001091_MSG0019",
+      "style": 1,
+      "name": "......[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "tev001091_MSG0020",
+      "style": 1,
+      "name": ".........[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "tev001091_MSG0021",
+      "style": 1,
+      "name": "............[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "tev001091_MSG0022",
+      "style": 1,
+      "name": "...............[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "tev001091_MSG0023",
+      "style": 1,
+      "name": "You're not going to do it, are you?\nFigures.[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "tev001091_MSG0024",
+      "style": 1,
+      "name": "If you had, I'm sure Director General Chausson,\nSecretary Nagi, and Commander Vandham would\nhave come down on you like a ton of bricks.[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "tev001091_MSG0025",
+      "style": 1,
+      "name": "Risking one's life and career to satisfy an idle curiosity\nwould not be the wisest choice.[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "tev001091_MSG0026",
+      "style": 1,
+      "name": "So I guess we'll resist the temptation to try it for now.[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "tev001091_MSG0027",
+      "style": 1,
+      "name": "But let's get to the bottom of this on some other day,\nand at some other place![ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "tev001091_MSG0028",
+      "style": 1,
+      "name": "......[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "tev001091_MSG0029",
+      "style": 1,
+      "name": "Yes, that's a fair point.\nI should probably hold off.[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "tev001091_MSG0030",
+      "style": 1,
+      "name": "After all, I've slipped and fallen from the residential\ndistrict and landed in this gel more than once...[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "tev001091_MSG0031",
+      "style": 1,
+      "name": "The gel cushioned my fall, preventing any injuries.\nBut if it had been crystallized, I could have broken\na leg. Or even two.[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "tev001091_MSG0032",
+      "style": 1,
+      "name": "......[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "tev001091_MSG0033",
+      "style": 1,
+      "name": "I've made up my mind.\nI'll leave the gel alone.[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "tev001091_MSG0034",
+      "style": 1,
+      "name": "Thankfully, you were here to help me reach the correct\ndecision![ST:wait ]"
+    }
+  ]
+}

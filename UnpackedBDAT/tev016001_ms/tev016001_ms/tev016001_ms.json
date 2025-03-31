@@ -1,0 +1,294 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev016001_JNK0010",
+      "style": 4,
+      "name": "Inquire[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev016001_SEL0011",
+      "style": 3,
+      "name": "Ask Bernat about the laborers in the industrial district.[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev016001_JNK0020",
+      "style": 4,
+      "name": "Discuss[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev016001_SEL0021",
+      "style": 3,
+      "name": "Ask Bernat if he's heard any interesting rumors.[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev016001_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 6,
+      "label": "tev016001_SEL0031",
+      "style": 3,
+      "name": "Ask Bernat about the recently discovered xenoforms.[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "tev016001_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 8,
+      "label": "tev016001_SEL0021",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 9,
+      "label": "tev016001_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 10,
+      "label": "tev016001_SEL0051",
+      "style": 3,
+      "name": "Ask Bernat for his opinion of\nthe xenoforms living in NLA.[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev016001_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 12,
+      "label": "tev016001_SEL0021",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 13,
+      "label": "tev016001_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 14,
+      "label": "tev016001_SEL0071",
+      "style": 3,
+      "name": "Ask Bernat about the state of the war.[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "tev016001_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 16,
+      "label": "tev016001_SEL0021",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 17,
+      "label": "tev016002_SEL1021",
+      "style": 3,
+      "name": "Ask Bernat about recent developments.[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "tev016001_MSG0001",
+      "style": 1,
+      "name": "Most of the physically capable young folk end up\njoining BLADE.[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "tev016001_MSG0002",
+      "style": 1,
+      "name": "As a result, there's a real shortage of laborers to do\nconstruction work in New LA.[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "tev016001_MSG0003",
+      "style": 1,
+      "name": "When they said they found 10 new crew members,\nwe thought they'd send at least one of them our way.[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "tev016001_MSG0004",
+      "style": 1,
+      "name": "But besides you, we haven't seen hide nor hair of\nany of 'em! What the hell is going on?[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "tev016001_MSG0005",
+      "style": 1,
+      "name": "Well, regardless, if you get disillusioned with BLADE,\nknow that we'd be happy to have you.[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "tev016001_MSG0006",
+      "style": 1,
+      "name": "You could help us build the industrial district of\ntomorrow using good, honest manual labor.[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "tev016001_MSG0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 25,
+      "label": "tev016001_MSG0011",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 26,
+      "label": "tev016001_MSG0012",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 27,
+      "label": "tev016001_MSG0013",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 28,
+      "label": "tev016001_MSG0014",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 29,
+      "label": "tev016001_MSG0021",
+      "style": 1,
+      "name": "You mean those Prone? I hear they have BLADE blood\non their hands.[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "tev016001_MSG0022",
+      "style": 1,
+      "name": "Depending on what happens, we may need to go to\nwar with their kind.[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "tev016001_MSG0023",
+      "style": 1,
+      "name": "How ironic. We drop in on this planet uninvited,\nand now WE might be the ones invading another\nworld.[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "tev016001_MSG0024",
+      "style": 1,
+      "name": "It's awful, when you think about it. But if that's the\nway it's gotta be, then that's the way it's gotta be—\nbecause Mira is all we have left.[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "tev016001_MSG0025",
+      "style": 1,
+      "name": "Even if they tell us to get the hell off their planet,\nwhere else would we go? We gotta fight to keep Mira![ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "tev016001_MSG0040",
+      "style": 1,
+      "name": "You say xenoforms, and I think of the bastards that\ndestroyed Earth. I figured they were all that way.[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "tev016001_MSG0041",
+      "style": 1,
+      "name": "But the xenoforms that came to this city are...\nWell, they have quirks, but they're an interesting bunch.[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "tev016001_MSG0042",
+      "style": 1,
+      "name": "As we've been losing a lot of BLADEs over the course\nof time, the city's grown quieter. It's kinda nice to have\nso much energy back in New LA again.[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "tev016001_MSG0057",
+      "style": 1,
+      "name": "A lot of BLADEs have been cut down by Ganglion\ngunfire.[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "tev016001_MSG0058",
+      "style": 1,
+      "name": "It's true that we may be able to bring them back if we\nfind the Lifehold Core...[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "tev016001_MSG0059",
+      "style": 1,
+      "name": "But there's no guarantee that we'll find it before the\nrest of us kick the bucket.[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "tev016001_MSG0060",
+      "style": 1,
+      "name": "If it comes down to it, I'm ready to go down fighting\nin my mimeosome.[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "tev016001_MSG0061",
+      "style": 1,
+      "name": "You just tell me when things get bad, okay? I'll go\nstraight from the construction site to the battlefield![ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "tev016001_MSG1001",
+      "style": 1,
+      "name": "We're building again, and that means doing my own\njob while also teaching Rock the basics of construction.[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "tev016001_MSG1002",
+      "style": 1,
+      "name": "He seems pretty excited about getting to the point\nwhere he could build a house for him and Celica.[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "tev016001_MSG1003",
+      "style": 1,
+      "name": "He's a quick study. If he keeps working hard,\nI think he's got the makings of a good builder.[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "tev016001_MSG1004",
+      "style": 1,
+      "name": "That's still a ways off though. Ryo just wants him to get\nto the point where he can draw a workable blueprint.[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "tev016001_MSG1005",
+      "style": 1,
+      "name": "If he does that, we'll all chip in and build the place\nfor him.[ST:wait ]"
+    }
+  ]
+}

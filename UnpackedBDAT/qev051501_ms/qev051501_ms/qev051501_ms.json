@@ -1,0 +1,918 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev051501_MSG0001",
+      "style": 1,
+      "name": "Oh ho! A single glance tells me that you are no\ncommon fighter.[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev051501_MSG0002",
+      "style": 1,
+      "name": "What a marvel, this city! Warriors fit to rival the\nWrothian greats walk its every street![ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev051501_MSG0003",
+      "style": 1,
+      "name": "I assume you have come to participate in the\nWrothian Battle Gauntlet?[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev051501_JNK0010",
+      "style": 4,
+      "name": "Query"
+    },
+    {
+      "$id": 5,
+      "label": "qev051501_SEL0011",
+      "style": 3,
+      "name": "Ask to hear more about the Gauntlet."
+    },
+    {
+      "$id": 6,
+      "label": "qev051501_JNK0020",
+      "style": 4,
+      "name": "Confirm"
+    },
+    {
+      "$id": 7,
+      "label": "qev051501_SEL0021",
+      "style": 3,
+      "name": "Give an unquestioning nod."
+    },
+    {
+      "$id": 8,
+      "label": "qev051501_MSG0004",
+      "style": 1,
+      "name": "It is among my kingdom's oldest traditions—a contest\nof martial arts to decide the greatest living warrior.[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev051501_MSG0005",
+      "style": 1,
+      "name": "Alas, with the kingdom's decline into poverty and our\nsubjugation by the Ganglion, it has gone forgotten for\nmany long years.[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev051501_MSG0006",
+      "style": 1,
+      "name": "But no longer! I, Zo Ozuchi, did not forget,\nand now I have sent out a call to all warriors.\nThe time has nearly come![ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev051501_MSG0007",
+      "style": 1,
+      "name": "And this promises to be the most exciting gauntlet yet,\nfor it is not just Wrothians competing.[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev051501_MSG0008",
+      "style": 1,
+      "name": "And what of you? With the Ganglion forces toppled,\nI would expect you are frustrated for lack of a worthy\noutlet for your strength.[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev051501_MSG0009",
+      "style": 1,
+      "name": "Why not participate, then? I assure you it will be an\nexperience the likes of which you have never imagined![ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev051501_MSG0010",
+      "style": 1,
+      "name": "Such intrepid spirit! But know that this is a tournament\nto decide Mira's greatest warrior.[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev051501_MSG0011",
+      "style": 1,
+      "name": "Though the contest itself is a Wrothian tradition,\nthis time combatants of all races will participate.\nIt will be the fiercest gauntlet ever fought![ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev051501_MSG0012",
+      "style": 1,
+      "name": "Even a veteran warrior such as yourself could be\ninjured...or worse.[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev051501_MSG0013",
+      "style": 1,
+      "name": "Well? Are you prepared to risk your life for glory?![ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev051501_MSG0014",
+      "style": 1,
+      "name": "...Not a moment's hesitation. Ah, the Gauntlet always\nbrings in brave fools like you.[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev051501_MSG0015",
+      "style": 1,
+      "name": "And it was ever the bravest and most foolhardy that\nbecame its champions![ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev051501_MSG0016",
+      "style": 1,
+      "name": "So be it, then. Go and prepare for combat!\nI shall see to preparing the matchups in the meantime.[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev051501_MSG0017",
+      "style": 1,
+      "name": "Greetings, warrior. Every matchup save for yours has\nbeen decided.[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev051501_MSG0018",
+      "style": 1,
+      "name": "I am impressed. The participants this time around are\ntruly formidable.[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev051501_MSG0019",
+      "style": 1,
+      "name": "I had thought there would be few outsiders able to\nmatch a Wrothian in combat...[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev051501_MSG0020",
+      "style": 1,
+      "name": "But I now see that space is a vast place full of\nsurprising people. This will be a tournament to\nremember for all time![ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev051501_MSG0021",
+      "style": 1,
+      "name": "So then, are you ready?[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev051501_JNK0030",
+      "style": 4,
+      "name": "Wait"
+    },
+    {
+      "$id": 27,
+      "label": "qev051501_SEL0031",
+      "style": 3,
+      "name": "Say that you need more time to prepare."
+    },
+    {
+      "$id": 28,
+      "label": "qev051501_JNK0040",
+      "style": 4,
+      "name": "Confirm"
+    },
+    {
+      "$id": 29,
+      "label": "qev051501_SEL0041",
+      "style": 3,
+      "name": "Nod resolutely."
+    },
+    {
+      "$id": 30,
+      "label": "qev051501_MSG0022",
+      "style": 1,
+      "name": "Come in your very best condition—this is an arena for\nonly the most finely-honed of warriors.[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev051501_MSG0023",
+      "style": 1,
+      "name": "Even one with your skill and experience could fall prey\nto their might if you are not careful.[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev051501_MSG0024",
+      "style": 1,
+      "name": "Your first opponent will be the princess of the respected\nHouse of Zo—a woman fit to match swords with any\nchallenger![ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev051501_MSG0025",
+      "style": 1,
+      "name": "I take it the two of you know each other?\nHer eyes lit up when I told her she would face you.[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev051501_MSG0026",
+      "style": 1,
+      "name": "I won't ask what has transpired between you.\nWatching the fight will tell me all I need to know![ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev051501_MSG0027",
+      "style": 1,
+      "name": "Warriors of your caliber speak more eloquently with\nblades than words could ever hope to rival.[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev051501_MSG0028",
+      "style": 1,
+      "name": "You have tamed the wild princess! I am impressed.[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev051501_MSG0029",
+      "style": 1,
+      "name": "I knew you were something special, but that fight...\nHa ha! I look forward to your next match.[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev051501_MSG0030",
+      "style": 1,
+      "name": "Well? Your opponent is ready and waiting.\nIf you are prepared, the fight can begin at once.[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "qev051501_JNK0050",
+      "style": 4,
+      "name": "Wait"
+    },
+    {
+      "$id": 40,
+      "label": "qev051501_SEL0051",
+      "style": 3,
+      "name": "Say that you need more time to prepare."
+    },
+    {
+      "$id": 41,
+      "label": "qev051501_JNK0060",
+      "style": 4,
+      "name": "Accept"
+    },
+    {
+      "$id": 42,
+      "label": "qev051501_SEL0061",
+      "style": 3,
+      "name": "Nod without hesitation."
+    },
+    {
+      "$id": 43,
+      "label": "qev051501_MSG0031",
+      "style": 1,
+      "name": "Fair enough! Go make your preparations.\nI am certain the show will be worth the wait.[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "qev051501_MSG0032",
+      "style": 1,
+      "name": "Your next opponent is...a Nopon.\nAnd before you say anything, let me explain.[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "qev051501_MSG0033",
+      "style": 1,
+      "name": "I have granted her one very small exception in terms\nof the rules of engagement...[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "qev051501_MSG0034",
+      "style": 1,
+      "name": "Think of it as a new test of might and skill,\none unique to the tournament here on Mira.[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "qev051501_MSG0035",
+      "style": 1,
+      "name": "Now go show the people what you are made of.\nShow them the essence of a true warrior![ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "qev051501_MSG0036",
+      "style": 1,
+      "name": "A marvelous battle! You carved through that pack of\nbeasts like they were mere flies![ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "qev051501_MSG0037",
+      "style": 1,
+      "name": "Again you prove that I was right to invite you![ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "qev051501_JNK0070",
+      "style": 4,
+      "name": "Query"
+    },
+    {
+      "$id": 51,
+      "label": "qev051501_SEL0071",
+      "style": 3,
+      "name": "Ask about your next opponent."
+    },
+    {
+      "$id": 52,
+      "label": "qev051501_JNK0080",
+      "style": 4,
+      "name": "Agree"
+    },
+    {
+      "$id": 53,
+      "label": "qev051501_SEL0081",
+      "style": 3,
+      "name": "Tell Zo Ozuchi that your victory was inevitable."
+    },
+    {
+      "$id": 54,
+      "label": "qev051501_MSG0038",
+      "style": 1,
+      "name": "Gathering intelligence already, perchance?\nHa! Quite the shrewd warrior![ST:wait ]"
+    },
+    {
+      "$id": 55,
+      "label": "qev051501_MSG0039",
+      "style": 1,
+      "name": "The true test will be whether you can maintain that\nbravado while facing your next opponent.[ST:wait ]"
+    },
+    {
+      "$id": 56,
+      "label": "qev051501_MSG0040",
+      "style": 1,
+      "name": "Your next challenge is a Prone. Their kind are united in\ntheir terrible strength, but this Cavern Clan warrior is\nespecially fearsome.[ST:wait ]"
+    },
+    {
+      "$id": 57,
+      "label": "qev051501_MSG0041",
+      "style": 1,
+      "name": "Even with your abilities, this will not be a challenge\neasily surmounted.[ST:wait ]"
+    },
+    {
+      "$id": 58,
+      "label": "qev051501_MSG0042",
+      "style": 1,
+      "name": "Are you up to it? I warn you again—approach this\nfight lightly, and you shall be devoured.[ST:wait ]"
+    },
+    {
+      "$id": 59,
+      "label": "qev051501_JNK0090",
+      "style": 4,
+      "name": "Wait"
+    },
+    {
+      "$id": 60,
+      "label": "qev051501_SEL0091",
+      "style": 3,
+      "name": "Say that you need more time to prepare."
+    },
+    {
+      "$id": 61,
+      "label": "qev051501_JNK0100",
+      "style": 4,
+      "name": "Accept"
+    },
+    {
+      "$id": 62,
+      "label": "qev051501_SEL0101",
+      "style": 3,
+      "name": "Nod resolutely."
+    },
+    {
+      "$id": 63,
+      "label": "qev051501_MSG0043",
+      "style": 1,
+      "name": "There is time yet before the next match.\nUse it wisely to ready yourself.[ST:wait ]"
+    },
+    {
+      "$id": 64,
+      "label": "qev051501_MSG0044",
+      "style": 1,
+      "name": "This tournament has been held by my people since\nantiquity.[ST:wait ]"
+    },
+    {
+      "$id": 65,
+      "label": "qev051501_MSG0045",
+      "style": 1,
+      "name": "At times, visitors from other worlds participated,\nbut most were no match for Wrothian warriors.[ST:wait ]"
+    },
+    {
+      "$id": 66,
+      "label": "qev051501_MSG0046",
+      "style": 1,
+      "name": "However, your next foe—a Prone—made sport of our\nfinest, winning her way to this round without so much\nas a scratch.[ST:wait ]"
+    },
+    {
+      "$id": 67,
+      "label": "qev051501_MSG0047",
+      "style": 1,
+      "name": "Fighters of this caliber are rare indeed. I am confident\nthat your match will make for an electrifying show.[ST:wait ]"
+    },
+    {
+      "$id": 68,
+      "label": "qev051501_MSG0048",
+      "style": 1,
+      "name": "...Your opponent will be here shortly.\nMake this a battle to remember![ST:wait ]"
+    },
+    {
+      "$id": 69,
+      "label": "qev051501_MSG0049",
+      "style": 1,
+      "name": "You two fought with the grim resolve of wild animals,\npressing on through pain and injury by instinct and\nforce of will alone.[ST:wait ]"
+    },
+    {
+      "$id": 70,
+      "label": "qev051501_MSG0050",
+      "style": 1,
+      "name": "You and Slovity both fought with every fiber of your\nbeing![ST:wait ]"
+    },
+    {
+      "$id": 71,
+      "label": "qev051501_MSG0051",
+      "style": 1,
+      "name": "Your next match awaits, and the opponent stands at\nthe ready. Do you require rest after such an intense\nround?[ST:wait ]"
+    },
+    {
+      "$id": 72,
+      "label": "qev051501_JNK0110",
+      "style": 4,
+      "name": "Confirm"
+    },
+    {
+      "$id": 73,
+      "label": "qev051501_SEL0111",
+      "style": 3,
+      "name": "Say that you'll rest for a bit."
+    },
+    {
+      "$id": 74,
+      "label": "qev051501_JNK0120",
+      "style": 4,
+      "name": "Dismiss"
+    },
+    {
+      "$id": 75,
+      "label": "qev051501_SEL0121",
+      "style": 3,
+      "name": "Tell Zo Ozuchi that you are ready now."
+    },
+    {
+      "$id": 76,
+      "label": "qev051501_MSG0052",
+      "style": 1,
+      "name": "Understood! Then go patch your wounds.[ST:wait ]"
+    },
+    {
+      "$id": 77,
+      "label": "qev051501_MSG0053",
+      "style": 1,
+      "name": "Once you are prepared, come let me know.\nI eagerly await the next spectacle![ST:wait ]"
+    },
+    {
+      "$id": 78,
+      "label": "qev051501_MSG0054",
+      "style": 1,
+      "name": "You seem more eager than ever, but know this:\nThe next match pits you against a fellow human.[ST:wait ]"
+    },
+    {
+      "$id": 79,
+      "label": "qev051501_MSG0055",
+      "style": 1,
+      "name": "Your foe has advanced this far with a BLADE-like show\nof precision and combat expertise.[ST:wait ]"
+    },
+    {
+      "$id": 80,
+      "label": "qev051501_MSG0056",
+      "style": 1,
+      "name": "Though while they are clearly human, I cannot help\nbut sense a...different energy within.[ST:wait ]"
+    },
+    {
+      "$id": 81,
+      "label": "qev051501_MSG0057",
+      "style": 1,
+      "name": "It seems a force entirely unlike your own,\nor even that of others who come from Earth.[ST:wait ]"
+    },
+    {
+      "$id": 82,
+      "label": "qev051501_MSG0058",
+      "style": 1,
+      "name": "Well enough. As the old Wrothian saying goes,\ncombat speaks the truth of a thousand words.[ST:wait ]"
+    },
+    {
+      "$id": 83,
+      "label": "qev051501_MSG0059",
+      "style": 1,
+      "name": "All shall be revealed in the course of the match,\nof that I am sure![ST:wait ]"
+    },
+    {
+      "$id": 84,
+      "label": "qev051501_MSG0060",
+      "style": 1,
+      "name": "Your opponent was a Definian![ST:wait ]"
+    },
+    {
+      "$id": 85,
+      "label": "qev051501_MSG0061",
+      "style": 1,
+      "name": "Ho ho! And who are you, that you have had cause to\ncross paths with their kind?[ST:wait ]"
+    },
+    {
+      "$id": 86,
+      "label": "qev051501_JNK0130",
+      "style": 4,
+      "name": "Explain"
+    },
+    {
+      "$id": 87,
+      "label": "qev051501_SEL0131",
+      "style": 3,
+      "name": "Tell Zo Ozuchi of your connection to the Definians."
+    },
+    {
+      "$id": 88,
+      "label": "qev051501_JNK0140",
+      "style": 4,
+      "name": "Withhold"
+    },
+    {
+      "$id": 89,
+      "label": "qev051501_SEL0141",
+      "style": 3,
+      "name": "Keep your connection to the Definians secret."
+    },
+    {
+      "$id": 90,
+      "label": "qev051501_MSG0062",
+      "style": 1,
+      "name": "Simply fascinating. So you are the one responsible\nfor their destruction?[ST:wait ]"
+    },
+    {
+      "$id": 91,
+      "label": "qev051501_MSG0063",
+      "style": 1,
+      "name": "I suppose great warriors and great deeds always go\nhand in hand.[ST:wait ]"
+    },
+    {
+      "$id": 92,
+      "label": "qev051501_MSG0064",
+      "style": 1,
+      "name": "Ho ho, how mysterious! But very well.\nA warrior's past is of no matter here.[ST:wait ]"
+    },
+    {
+      "$id": 93,
+      "label": "qev051501_MSG0065",
+      "style": 1,
+      "name": "Only strength matters in the Gauntlet.[ST:wait ]"
+    },
+    {
+      "$id": 94,
+      "label": "qev051501_MSG0066",
+      "style": 1,
+      "name": "Now then, are you ready to face your next match?\nThe crowds are eager to be wowed once more.[ST:wait ]"
+    },
+    {
+      "$id": 95,
+      "label": "qev051501_JNK0150",
+      "style": 4,
+      "name": "Wait"
+    },
+    {
+      "$id": 96,
+      "label": "qev051501_SEL0151",
+      "style": 3,
+      "name": "Say that you need to cool down first."
+    },
+    {
+      "$id": 97,
+      "label": "qev051501_JNK0160",
+      "style": 4,
+      "name": "Accept"
+    },
+    {
+      "$id": 98,
+      "label": "qev051501_SEL0161",
+      "style": 3,
+      "name": "Say that you'll use your momentum to crush the next\nopponent."
+    },
+    {
+      "$id": 99,
+      "label": "qev051501_MSG0067",
+      "style": 1,
+      "name": "Quite understandable.\nKeeping a cool head in battle is crucial.[ST:wait ]"
+    },
+    {
+      "$id": 100,
+      "label": "qev051501_MSG0068",
+      "style": 1,
+      "name": "Once you feel calmed enough, speak with me.\nYour opponent will be ready and waiting.[ST:wait ]"
+    },
+    {
+      "$id": 101,
+      "label": "qev051501_MSG0069",
+      "style": 1,
+      "name": "Hah! Hot-blooded, as any good warrior must be![ST:wait ]"
+    },
+    {
+      "$id": 102,
+      "label": "qev051501_MSG0070",
+      "style": 1,
+      "name": "The one you will face next is quite the opposite,\nthough. A strange case.[ST:wait ]"
+    },
+    {
+      "$id": 103,
+      "label": "qev051501_MSG0071",
+      "style": 1,
+      "name": "Not cold-blooded, so much as...no-blooded?\nSuffice it to say, this will not be a simple match.[ST:wait ]"
+    },
+    {
+      "$id": 104,
+      "label": "qev051501_MSG0072",
+      "style": 1,
+      "name": "It may be quite different than those you have fought\nbefore, but I trust your strength and resolve will see\nyou through.[ST:wait ]"
+    },
+    {
+      "$id": 105,
+      "label": "qev051501_MSG0073",
+      "style": 1,
+      "name": "Were you surprised when an automaton turned up?[ST:wait ]"
+    },
+    {
+      "$id": 106,
+      "label": "qev051501_MSG0074",
+      "style": 1,
+      "name": "Quite the story, that. I allowed it to enter because I was\ncertain no Wrothian would ever lose to a machine.[ST:wait ]"
+    },
+    {
+      "$id": 107,
+      "label": "qev051501_MSG0075",
+      "style": 1,
+      "name": "Several Wrothians proved me wrong. Embarrassed as I\nam to admit it, I was beginning to fear that contraption\nmight go all the way.[ST:wait ]"
+    },
+    {
+      "$id": 108,
+      "label": "qev051501_MSG0076",
+      "style": 1,
+      "name": "I will concede that the technology of the Orpheans and\nMa-non is quite exceptional.[ST:wait ]"
+    },
+    {
+      "$id": 109,
+      "label": "qev051501_MSG0077",
+      "style": 1,
+      "name": "And yet you managed to overpower it nonetheless.\nYou are every bit the powerhouse he said you were![ST:wait ]"
+    },
+    {
+      "$id": 110,
+      "label": "qev051501_MSG0078",
+      "style": 1,
+      "name": "The semifinals are next! Are you ready?[ST:wait ]"
+    },
+    {
+      "$id": 111,
+      "label": "qev051501_JNK0170",
+      "style": 4,
+      "name": "Query"
+    },
+    {
+      "$id": 112,
+      "label": "qev051501_SEL0171",
+      "style": 3,
+      "name": "Ask who \"he\" is."
+    },
+    {
+      "$id": 113,
+      "label": "qev051501_JNK0180",
+      "style": 4,
+      "name": "Confirm"
+    },
+    {
+      "$id": 114,
+      "label": "qev051501_SEL0181",
+      "style": 3,
+      "name": "Say that you were born ready."
+    },
+    {
+      "$id": 115,
+      "label": "qev051501_JNK0190",
+      "style": 4,
+      "name": "Wait"
+    },
+    {
+      "$id": 116,
+      "label": "qev051501_SEL0191",
+      "style": 3,
+      "name": "Request time to prepare."
+    },
+    {
+      "$id": 117,
+      "label": "qev051501_MSG0079",
+      "style": 1,
+      "name": "If you are curious, prepare for the next round!\nOnce the fight begins, you will have your answer.[ST:wait ]"
+    },
+    {
+      "$id": 118,
+      "label": "qev051501_MSG0080",
+      "style": 1,
+      "name": "Heh. He was quite eager to settle a score with you...[ST:wait ]"
+    },
+    {
+      "$id": 119,
+      "label": "qev051501_MSG0081",
+      "style": 1,
+      "name": "Very good! The Wrothian Battle Gauntlet is coming to\nits grand climax![ST:wait ]"
+    },
+    {
+      "$id": 120,
+      "label": "qev051501_MSG0082",
+      "style": 1,
+      "name": "Who will inherit the title of grand champion?\n...You? Or the old man's grandson?[ST:wait ]"
+    },
+    {
+      "$id": 121,
+      "label": "qev051501_MSG0083",
+      "style": 1,
+      "name": "I will be proud to bear witness![ST:wait ]"
+    },
+    {
+      "$id": 122,
+      "label": "qev051501_MSG0084",
+      "style": 1,
+      "name": "The semifinals are set to begin. Dig deep and tap into\nwhatever stores of strength you have![ST:wait ]"
+    },
+    {
+      "$id": 123,
+      "label": "qev051501_MSG0085",
+      "style": 1,
+      "name": "Understood. Do what you must.[ST:wait ]"
+    },
+    {
+      "$id": 124,
+      "label": "qev051501_MSG0086",
+      "style": 1,
+      "name": "Your next opponent has been chomping at the bit for a\nwhile now. So tarry not![ST:wait ]"
+    },
+    {
+      "$id": 125,
+      "label": "qev051501_MSG0088",
+      "style": 1,
+      "name": "From the moment I first saw you, I had a feeling you\nwould make it this far. A vague hunch, but undeniable.[ST:wait ]"
+    },
+    {
+      "$id": 126,
+      "label": "qev051501_MSG0089",
+      "style": 1,
+      "name": "At this point in the competition, there is no room for\nhesitation. Show us everything you have![ST:wait ]"
+    },
+    {
+      "$id": 127,
+      "label": "qev051501_JNK0200",
+      "style": 4,
+      "name": "Wait"
+    },
+    {
+      "$id": 128,
+      "label": "qev051501_SEL0201",
+      "style": 3,
+      "name": "Ask for time to prepare for the final round."
+    },
+    {
+      "$id": 129,
+      "label": "qev051501_JNK0210",
+      "style": 4,
+      "name": "Agree"
+    },
+    {
+      "$id": 130,
+      "label": "qev051501_SEL0211",
+      "style": 3,
+      "name": "Say that you're ready to end this."
+    },
+    {
+      "$id": 131,
+      "label": "qev051501_MSG0090",
+      "style": 1,
+      "name": "If your current condition is not your best,\nthat is formidable indeed![ST:wait ]"
+    },
+    {
+      "$id": 132,
+      "label": "qev051501_MSG0091",
+      "style": 1,
+      "name": "But my eagerness to see what new potential you hold\noutweighs my impatience. Go prepare as you will.[ST:wait ]"
+    },
+    {
+      "$id": 133,
+      "label": "qev051501_MSG0092",
+      "style": 1,
+      "name": "Wonderful. Your last foe should be here presently.[ST:wait ]"
+    },
+    {
+      "$id": 134,
+      "label": "qev051501_MSG0093",
+      "style": 1,
+      "name": "Cast any lingering doubts aside and show me a\nstrength that surpasses all limitations![ST:wait ]"
+    },
+    {
+      "$id": 135,
+      "label": "qev051501_MSG0094",
+      "style": 1,
+      "name": "I had heard Zang's stories, but by the heavens!\nYou are simply amazing![ST:wait ]"
+    },
+    {
+      "$id": 136,
+      "label": "qev051501_MSG0095",
+      "style": 1,
+      "name": "I have not fought such a heated match since I faced his\ngrandfather.[ST:wait ]"
+    },
+    {
+      "$id": 137,
+      "label": "qev051501_MSG0096",
+      "style": 1,
+      "name": "Ah, you have brought back a flood of memories...\nDays of risking my life in the pursuit of pure strength.[ST:wait ]"
+    },
+    {
+      "$id": 138,
+      "label": "qev051501_JNK0220",
+      "style": 4,
+      "name": "Praise"
+    },
+    {
+      "$id": 139,
+      "label": "qev051501_SEL0221",
+      "style": 3,
+      "name": "Pay homage to Zo Ozuchi's abilities."
+    },
+    {
+      "$id": 140,
+      "label": "qev051501_JNK0230",
+      "style": 4,
+      "name": "Boast"
+    },
+    {
+      "$id": 141,
+      "label": "qev051501_SEL0231",
+      "style": 3,
+      "name": "Tell Zo Ozuchi that you have only\nbegun to tap your potential."
+    },
+    {
+      "$id": 142,
+      "label": "qev051501_MSG0097",
+      "style": 1,
+      "name": "Strength, humility, AND kindness! The opportunity to\nface you in battle is an honor I will treasure always.[ST:wait ]"
+    },
+    {
+      "$id": 143,
+      "label": "qev051501_MSG0098",
+      "style": 1,
+      "name": "You are indeed a bottomless well of power![ST:wait ]"
+    },
+    {
+      "$id": 144,
+      "label": "qev051501_MSG0099",
+      "style": 1,
+      "name": "I congratulate you as champion of the Wrothian Battle\nGauntlet, [ST:playername ].[ST:wait ]"
+    },
+    {
+      "$id": 145,
+      "label": "qev051501_MSG0100",
+      "style": 1,
+      "name": "From this day forth, all will hail you as the strongest\nwarrior in the land! And as for myself...\nWell, it seems I have some training to do.[ST:wait ]"
+    },
+    {
+      "$id": 146,
+      "label": "qev051501_MSG0101",
+      "style": 1,
+      "name": "I will whip this rusty body back into shape and return\nto challenge you another day![ST:wait ]"
+    },
+    {
+      "$id": 147,
+      "label": "qev051501_MSG0102",
+      "style": 1,
+      "name": "Just be sure to hold the title until the next tournament.\nI'll not have you losing before I can reclaim what is\nrightfully mine![ST:wait ]"
+    },
+    {
+      "$id": 148,
+      "label": "qev051501_MSG0103",
+      "style": 1,
+      "name": "Until then, be well, [ST:playername ].[ST:wait ]"
+    },
+    {
+      "$id": 149,
+      "label": "qev051501_MSG0104",
+      "style": 1,
+      "name": "What is this? Are your nerves besting you?[ST:wait ]"
+    },
+    {
+      "$id": 150,
+      "label": "qev051501_MSG0105",
+      "style": 1,
+      "name": "Your opponent awaits! Go now!\nShow them all that you have![ST:wait ]"
+    }
+  ]
+}

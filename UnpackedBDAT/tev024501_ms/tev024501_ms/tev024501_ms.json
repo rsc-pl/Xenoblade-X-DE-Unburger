@@ -1,0 +1,300 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev024501_JNK0010",
+      "style": 4,
+      "name": "Inquire[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev024501_SEL0011",
+      "style": 3,
+      "name": "Ask Joy about her work.[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev024501_JNK0020",
+      "style": 4,
+      "name": "Discuss[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev024501_SEL0021",
+      "style": 3,
+      "name": "Ask Joy if she's heard any interesting rumors.[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev024501_JNK0010",
+      "style": 4,
+      "name": ""
+    },
+    {
+      "$id": 6,
+      "label": "tev024501_SEL0031",
+      "style": 3,
+      "name": "Ask Joy about the Ma-non.[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "tev024501_JNK0020",
+      "style": 4,
+      "name": ""
+    },
+    {
+      "$id": 8,
+      "label": "tev024501_SEL0021",
+      "style": 3,
+      "name": ""
+    },
+    {
+      "$id": 9,
+      "label": "tev024501_JNK0010",
+      "style": 4,
+      "name": ""
+    },
+    {
+      "$id": 10,
+      "label": "tev024501_SEL0051",
+      "style": 3,
+      "name": "Ask Joy about damage suffered in the attack."
+    },
+    {
+      "$id": 11,
+      "label": "tev024501_JNK0020",
+      "style": 4,
+      "name": ""
+    },
+    {
+      "$id": 12,
+      "label": "tev024501_SEL0061",
+      "style": 3,
+      "name": "Ask Joy if she's heard any interesting rumors.[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "tev024501_JNK0010",
+      "style": 4,
+      "name": ""
+    },
+    {
+      "$id": 14,
+      "label": "tev024501_SEL0071",
+      "style": 3,
+      "name": "Ask Joy about the people of NLA."
+    },
+    {
+      "$id": 15,
+      "label": "tev024501_JNK0020",
+      "style": 4,
+      "name": ""
+    },
+    {
+      "$id": 16,
+      "label": "tev024501_SEL0061",
+      "style": 3,
+      "name": ""
+    },
+    {
+      "$id": 17,
+      "label": "tev024501_SEL1021",
+      "style": 3,
+      "name": "Ask Joy about recent developments."
+    },
+    {
+      "$id": 18,
+      "label": "tev024501_MSG0001",
+      "style": 1,
+      "name": "I work as a counselor. ...Hmm? You're asking why\nI'm not working now? On the contrary, I'm taking\none of my own treatments![ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "tev024501_MSG0002",
+      "style": 1,
+      "name": "Now that the dust has settled from our crash landing,\npeople are becoming more psychologically vulnerable\nto stress-related flashbacks.[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "tev024501_MSG0003",
+      "style": 1,
+      "name": "Personally, I advise my clients to come here and play\nsports rather than popping pills.[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "tev024501_MSG0004",
+      "style": 1,
+      "name": "Sports are a wonderful treatment. Sweating together\ndeepens bonds and washes the grime off our brains.[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "tev024501_MSG0005",
+      "style": 1,
+      "name": "And if you still don't believe me, I'll prove it by\nchallenging you to a match![ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "tev024501_MSG0006",
+      "style": 1,
+      "name": "After our game, I know you'll look just as refreshed as\nCharles does.[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "tev024501_MSG0008",
+      "style": 1,
+      "name": "Even BLADEs have their movements restricted until they\nacclimate themselves to the job.[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "tev024501_MSG0009",
+      "style": 1,
+      "name": "After they've completed a couple of major missions,\nhowever, they're considered a full-fledged BLADE and\ncan go wherever they please.[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "tev024501_MSG0010",
+      "style": 1,
+      "name": "Once you're that confident in your own skills,\nwhy not set off for some remote destination?[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "tev024501_MSG0011",
+      "style": 1,
+      "name": "As soon as you experience the true majesty of Mira's\nlandscape, you'll begin to fully appreciate the\nmagnitude of what BLADE is trying to accomplish.[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "tev024501_MSG0020",
+      "style": 1,
+      "name": "Have you seen how the Ma-non play? It's delightful!\nThey can experience the game in a way that we who\nare constrained by the rules cannot.[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "tev024501_MSG0021",
+      "style": 1,
+      "name": "They possess incredible technology,\nyet speak and behave almost like children.[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "tev024501_MSG0022",
+      "style": 1,
+      "name": "Perhaps within those habits lies the secret to their\ntechnological prowess?[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "tev024501_MSG0023",
+      "style": 1,
+      "name": "But when I suggested as much to Charles,\nhe just claimed that they're happy-go-lucky\nand put an end to the conversation.[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "tev024501_MSG0028",
+      "style": 1,
+      "name": "I am truly glad the Ma-non came for us.[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "tev024501_MSG0029",
+      "style": 1,
+      "name": "Thanks to them, the civilian population of New LA\nwas spared from having to see combat firsthand.[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "tev024501_MSG0030",
+      "style": 1,
+      "name": "Unlike you BLADEs, we civilians are unaccustomed to\nwarfare. So to have our own city attacked...[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "tev024501_MSG0031",
+      "style": 1,
+      "name": "Needless to say, it has been a source of anxiety that\nmany people wish to discuss with me. And naturally,\nit's an anxiety that I feel as well.[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "tev024501_MSG0032",
+      "style": 1,
+      "name": "If I didn't have sports to clear my head and heart,\nI don't know how I could go on![ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "tev024501_MSG0037",
+      "style": 1,
+      "name": "Have you heard the rumors of small islands in the far\nreaches of Mira's ocean?[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "tev024501_MSG0038",
+      "style": 1,
+      "name": "BLADEs have apparently found a number of them in a\nvariety of locations.[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "tev024501_MSG0039",
+      "style": 1,
+      "name": "The image of an island at the end of the sea inspires\nsuch exciting memories of the Age of Discovery![ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "tev024501_MSG0045",
+      "style": 1,
+      "name": "Lately, in my job as counselor, the discussion topics\nthat I've been dealing with have changed a great deal.[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "tev024501_MSG0046",
+      "style": 1,
+      "name": "People want to talk about their anxiety for the future.\nThat itself is nothing new, but the futures they see are\nnow far brighter that the ones they imagined previously.[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "tev024501_MSG0047",
+      "style": 1,
+      "name": "My clients talk of marrying and starting a family,\nor finding a career beyond BLADE—topics that are\nbetter suited for this court than a counselor's office![ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "tev024501_MSG0048",
+      "style": 1,
+      "name": "I imagine returning to our fleshly bodies will dredge up\nnew anxieties. But for now, I hope we can take some\ntime to reflect upon our newfound peace.[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "tev024501_MSG0049",
+      "style": 1,
+      "name": "I taught the rules of tennis to the Orphean, Ton'barac.\nHe absorbed them and was ready to play right away![ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "tev024501_MSG0050",
+      "style": 1,
+      "name": "He's already a master of tennis tactics and theory.\nIf he could just commit some moves to muscle memory, \nhe could easily be the best player in New LA.[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "tev024501_MSG0051",
+      "style": 1,
+      "name": "The only issue is that he seems to view tennis not as\na sport, but as some sort of human...ritual.[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "tev024501_MSG0052",
+      "style": 1,
+      "name": "A ritual venting of stress, perhaps?[ST:wait ]"
+    }
+  ]
+}

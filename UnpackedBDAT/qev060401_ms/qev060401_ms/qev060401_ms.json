@@ -1,0 +1,318 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev060401_MSG0001",
+      "style": 1,
+      "name": "*fsssh* Er, pardon me but are you one of the\nBLADE-type people?[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev060401_MSG0002",
+      "style": 1,
+      "name": "Do those in your office accept work from lowly outsider\nraces such as mine? *fsssh*[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev060401_JNK0010",
+      "style": 4,
+      "name": "Confirm"
+    },
+    {
+      "$id": 4,
+      "label": "qev060401_SEL0011",
+      "style": 3,
+      "name": "Say that you'll help anyone who needs it."
+    },
+    {
+      "$id": 5,
+      "label": "qev060401_JNK0020",
+      "style": 4,
+      "name": "Deny"
+    },
+    {
+      "$id": 6,
+      "label": "qev060401_SEL0021",
+      "style": 3,
+      "name": "Say that you only take work from people you trust."
+    },
+    {
+      "$id": 7,
+      "label": "qev060401_MSG0003",
+      "style": 1,
+      "name": "Such boundless generosity! *fsssh*\nThen I have a request, if you would hear it.[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev060401_MSG0004",
+      "style": 1,
+      "name": "I see. Then I am afraid I am out of luck. *fsssh*\nI have nothing to show you to prove my character.[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev060401_MSG0005",
+      "style": 1,
+      "name": "Forgive me for taking up your valuable time. *fsssh*\nPlease go on with your business and pay me no mind.[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev060401_MSG0006",
+      "style": 1,
+      "name": "*fsssh* One of my people named Arsenican departed\nfor Noctilum a short while ago.[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev060401_MSG0007",
+      "style": 1,
+      "name": "While it is true that the area is a source of high-grade\nvoltant, Mira is a very different world than our home\nplanet of Bedun. *fsssh*[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev060401_MSG0008",
+      "style": 1,
+      "name": "I fear he will be killed by the creatures of those woods.[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev060401_MSG0009",
+      "style": 1,
+      "name": "*fsssh* Therefore, I am in need of someone to bring\nhim back to the city as soon and safely as possible.[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev060401_JNK0030",
+      "style": 4,
+      "name": "Ask about Noctilum"
+    },
+    {
+      "$id": 15,
+      "label": "qev060401_SEL0031",
+      "style": 3,
+      "name": "Ask why Arsenican went to Noctilum."
+    },
+    {
+      "$id": 16,
+      "label": "qev060401_JNK0040",
+      "style": 4,
+      "name": "Ask about Voltant"
+    },
+    {
+      "$id": 17,
+      "label": "qev060401_SEL0041",
+      "style": 3,
+      "name": "Ask Trachlo what \"voltant\" is."
+    },
+    {
+      "$id": 18,
+      "label": "qev060401_MSG0010",
+      "style": 1,
+      "name": "An excellent question that evinces calm, rational\nprofessionalism. *fsssh* You BLADEs certainly do\nlive up to your reputations.[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev060401_MSG0011",
+      "style": 1,
+      "name": "*fsssh* We Zaruboggan exist solely to devoltanize those\nareas of the world which have gone voltant.[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev060401_MSG0012",
+      "style": 1,
+      "name": "Whenever we hear of a place where voltant is\nspreading, we cannot help but to go there. *fsssh*[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev060401_MSG0013",
+      "style": 1,
+      "name": "I sincerely appreciate you pointing out where I have\nfailed to adequately explain. *fsssh* It is most helpful.[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev060401_MSG0014",
+      "style": 1,
+      "name": "*fsssh* I still do not have a firm grasp on how much\nyou humans know about us Zaruboggan, and what we\nmust explain.[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev060401_MSG0015",
+      "style": 1,
+      "name": "Put simply, voltant is the source of our nutrition. *fsssh*\n...But that is TOO simple an explanation, I fear.[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev060401_MSG0016",
+      "style": 1,
+      "name": "To devoltanize voltant is our duty, our calling,\nand the sole reason for our existence. *fsssh*[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev060401_MSG0017",
+      "style": 1,
+      "name": "I am afraid I do not explain it well. *fsssh* Hmm...[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev060401_MSG0018",
+      "style": 1,
+      "name": "If, for example, you were presented with a plate of\nfood after days of fasting, might you not instinctively\nrush toward it? *fsssh*[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev060401_MSG0019",
+      "style": 1,
+      "name": "That state is the exception for your kind. *fsssh*\nFor us, however, it is ever-constant.[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev060401_MSG0020",
+      "style": 1,
+      "name": "*fsssh* Keeping those urges in check among our people\nwas my responsibility as director of planning.[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev060401_MSG0021",
+      "style": 1,
+      "name": "But Arsenican left to obey the voice of Golbogga,\nwhich is etched within his flesh. *fsssh*[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev060401_MSG0022",
+      "style": 1,
+      "name": "He is faithful to his calling and a cherished member of\nmy tribe. *fsssh* Will you help me keep him safe?[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev060401_MSG0023",
+      "style": 1,
+      "name": "I am in your debt. *fsssh* I believe he is headed for\nthe Vitriol Cesspool in Noctilum.[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev060401_MSG0024",
+      "style": 1,
+      "name": "I beg of you, protect the life of my friend and fellow\nchild of Golbogga. *fsssh*[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev060401_MSG0025",
+      "style": 1,
+      "name": "*fsssh* If one of my kind were attacked by the indigens\nof the Noctilum forest, we would certainly die.[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev060401_MSG0026",
+      "style": 1,
+      "name": "So please protect the life of my friend and fellow child\nof Golbogga. *fsssh*[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev060401_MSG0027",
+      "style": 1,
+      "name": "Thank you so very much, brave BLADE. *fsssh*\nArsenican told me about all that happened.[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev060401_MSG0028",
+      "style": 1,
+      "name": "*fsssh* As director of planning for Bedun's North-3C\nBlock, allow me to present you with this.[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev060401_MSG0029",
+      "style": 1,
+      "name": "It is a humble sign of my gratitude for your preserving\nthe life of a child of Golbogga. *fsssh*[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev060401_MSG0030",
+      "style": 1,
+      "name": "I...I do not suppose it is prudent for me to say this as\ndirector of planning, but...[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "qev060401_MSG0031",
+      "style": 1,
+      "name": "*fsssh* I understand why Arsenican felt as he did.[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "qev060401_MSG0032",
+      "style": 1,
+      "name": "Our homeworld, Bedun, was a paradise covered\nentirely in dense voltant. *fsssh* I fear Mira may\nsimply be too clean for my kind of survive here.[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "qev060401_MSG0033",
+      "style": 1,
+      "name": "We are all working to suppress our appetites,\nbut as with any hunger, the longer they are ignored,\nthe stronger they become. *fsssh*[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "qev060401_JNK0050",
+      "style": 4,
+      "name": "Sympathize"
+    },
+    {
+      "$id": 43,
+      "label": "qev060401_SEL0051",
+      "style": 3,
+      "name": "Express pity for the Zaruboggan's plight."
+    },
+    {
+      "$id": 44,
+      "label": "qev060401_JNK0060",
+      "style": 4,
+      "name": "Query"
+    },
+    {
+      "$id": 45,
+      "label": "qev060401_SEL0061",
+      "style": 3,
+      "name": "Ask whether the voltant in NLA would\nbe enough to sate their appetites."
+    },
+    {
+      "$id": 46,
+      "label": "qev060401_MSG0034",
+      "style": 1,
+      "name": "*fsssh* You are as merciful as Golbogga himself![ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "qev060401_MSG0035",
+      "style": 1,
+      "name": "Were we never brought to this world,\nI would not have met you. *fsssh*[ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "qev060401_MSG0036",
+      "style": 1,
+      "name": "That thought gives me the strength to keep my eyes\nforward and my feet moving, despite the gnawing\nhunger. *fsssh*[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "qev060401_MSG0037",
+      "style": 1,
+      "name": "*fsssh* Fortunately, you humans seem to be veritable\ngeniuses at producing voltant.[ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "qev060401_MSG0038",
+      "style": 1,
+      "name": "If you will have us, I will attempt to sustain my people\non the bounty of your city. *fsssh*[ST:wait ]"
+    }
+  ]
+}

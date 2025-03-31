@@ -1,0 +1,834 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "NewText",
+      "style": 28,
+      "name": ""
+    },
+    {
+      "$id": 2,
+      "label": "DEBUF_EFF_STAGGER_cap",
+      "style": 28,
+      "name": ""
+    },
+    {
+      "$id": 3,
+      "label": "DEBUF_EFF_DAUNT_cap",
+      "style": 28,
+      "name": ""
+    },
+    {
+      "$id": 4,
+      "label": "DEBUF_EFF_FALL_DOWN_cap",
+      "style": 28,
+      "name": ""
+    },
+    {
+      "$id": 5,
+      "label": "DEBUF_EFF_BLOW_OFF_cap",
+      "style": 28,
+      "name": ""
+    },
+    {
+      "$id": 6,
+      "label": "DEBUF_EFF_KNOCK_BACK_cap",
+      "style": 28,
+      "name": ""
+    },
+    {
+      "$id": 7,
+      "label": "DEBUF_EFF_HOLD_cap",
+      "style": 28,
+      "name": ""
+    },
+    {
+      "$id": 8,
+      "label": "DEBUF_EFF_CATCH_cap",
+      "style": 28,
+      "name": ""
+    },
+    {
+      "$id": 9,
+      "label": "DEBUF_EFF_DAMAGE_HARD_cap",
+      "style": 28,
+      "name": ""
+    },
+    {
+      "$id": 10,
+      "label": "DEBUF_EFF_SUCTION_cap",
+      "style": 28,
+      "name": ""
+    },
+    {
+      "$id": 11,
+      "label": "DEBUF_EFF_SLEEP_cap",
+      "style": 28,
+      "name": ""
+    },
+    {
+      "$id": 12,
+      "label": "DEBUF_EFF_CRASH_cap",
+      "style": 28,
+      "name": ""
+    },
+    {
+      "$id": 13,
+      "label": "DEBUF_EFF_PROVOCATION_cap",
+      "style": 28,
+      "name": ""
+    },
+    {
+      "$id": 14,
+      "label": "DEBUF_EFF_CONTROL_cap",
+      "style": 28,
+      "name": ""
+    },
+    {
+      "$id": 15,
+      "label": "DEBUF_EFF_VIRUS_cap",
+      "style": 28,
+      "name": ""
+    },
+    {
+      "$id": 16,
+      "label": "DEBUF_EFF_BLACK_SIGHT_cap",
+      "style": 28,
+      "name": ""
+    },
+    {
+      "$id": 17,
+      "label": "DEBUF_EFF_POWER_DOWN_cap",
+      "style": 28,
+      "name": ""
+    },
+    {
+      "$id": 18,
+      "label": "DEBUF_EFF_SLOW_cap",
+      "style": 28,
+      "name": ""
+    },
+    {
+      "$id": 19,
+      "label": "DEBUF_EFF_DM_MAX_DOWN_cap",
+      "style": 28,
+      "name": ""
+    },
+    {
+      "$id": 20,
+      "label": "DEBUF_EFF_FIGHT_ATK_DOWN_cap",
+      "style": 28,
+      "name": "Reduces total melee attack."
+    },
+    {
+      "$id": 21,
+      "label": "DEBUF_EFF_BEAM_DAMAGE_DOWN_cap",
+      "style": 28,
+      "name": ""
+    },
+    {
+      "$id": 22,
+      "label": "DEBUF_EFF_PHYSICS_DOWN_cap",
+      "style": 28,
+      "name": ""
+    },
+    {
+      "$id": 23,
+      "label": "DEBUF_EFF_BEAM_DOWN_cap",
+      "style": 28,
+      "name": ""
+    },
+    {
+      "$id": 24,
+      "label": "DEBUF_EFF_DARK_DOWN_cap",
+      "style": 28,
+      "name": ""
+    },
+    {
+      "$id": 25,
+      "label": "DEBUF_EFF_FERVOR_DOWN_cap",
+      "style": 28,
+      "name": ""
+    },
+    {
+      "$id": 26,
+      "label": "DEBUF_EFF_THUNDER_DOWN_cap",
+      "style": 28,
+      "name": ""
+    },
+    {
+      "$id": 27,
+      "label": "DEBUF_EFF_GRAVITY_DOWN_cap",
+      "style": 28,
+      "name": ""
+    },
+    {
+      "$id": 28,
+      "label": "DEBUF_EFF_ALL_RESIST_DOWN_cap",
+      "style": 28,
+      "name": ""
+    },
+    {
+      "$id": 29,
+      "label": "DEBUF_EFF_COUNT_BOMB_cap",
+      "style": 28,
+      "name": ""
+    },
+    {
+      "$id": 30,
+      "label": "DEBUF_EFF_FLIGHT_DOWN_cap",
+      "style": 28,
+      "name": ""
+    },
+    {
+      "$id": 31,
+      "label": "DEBUF_EFF_HEAT_CHARGE_cap",
+      "style": 28,
+      "name": ""
+    },
+    {
+      "$id": 32,
+      "label": "DEBUF_EFF_ELECTRO_CHARGE_cap",
+      "style": 28,
+      "name": ""
+    },
+    {
+      "$id": 33,
+      "label": "DEBUF_EFF_WTR_DOT_VOLT_cap",
+      "style": 28,
+      "name": ""
+    },
+    {
+      "$id": 34,
+      "label": "DEBUF_EFF_WTR_DOT_FIRE_cap",
+      "style": 28,
+      "name": ""
+    },
+    {
+      "$id": 35,
+      "label": "DEBUF_EFF_WTR_DOT_DM_cap",
+      "style": 28,
+      "name": ""
+    },
+    {
+      "$id": 36,
+      "label": "DEBUF_EFF_WTR_DOT_METEOR_cap",
+      "style": 28,
+      "name": ""
+    },
+    {
+      "$id": 37,
+      "label": "DEBUF_EFF_DEBUF_RESIST_DOWN_cap",
+      "style": 28,
+      "name": ""
+    },
+    {
+      "$id": 38,
+      "label": "DEBUF_EFF_HP_HEAL_DOWN_cap",
+      "style": 28,
+      "name": ""
+    },
+    {
+      "$id": 39,
+      "label": "DEBUF_EFF_DAMAGE_UP_cap",
+      "style": 28,
+      "name": "Boosts damage taken."
+    },
+    {
+      "$id": 40,
+      "label": "DEBUF_EFF_GRADUALLY_DECREASES_cap",
+      "style": 28,
+      "name": "Inflicts continual damage over time."
+    },
+    {
+      "$id": 41,
+      "label": "DEBUF_EFF_GRADUALLY_DECREASES_ENEMY_cap",
+      "style": 28,
+      "name": ""
+    },
+    {
+      "$id": 42,
+      "label": "DEBUF_EFF_FIGHT_DEX_DOWN_cap",
+      "style": 28,
+      "name": ""
+    },
+    {
+      "$id": 43,
+      "label": "DEBUF_EFF_SHOOT_DEX_DOWN_cap",
+      "style": 28,
+      "name": ""
+    },
+    {
+      "$id": 44,
+      "label": "DEBUF_EFF_FIGHT_DOWN_cap",
+      "style": 28,
+      "name": ""
+    },
+    {
+      "$id": 45,
+      "label": "DEBUF_EFF_SHOOT_DOWN_cap",
+      "style": 28,
+      "name": ""
+    },
+    {
+      "$id": 46,
+      "label": "DEBUF_EFF_MIND_DOWN_cap",
+      "style": 28,
+      "name": ""
+    },
+    {
+      "$id": 47,
+      "label": "DEBUF_EFF_FIGHT_RANGE_cap",
+      "style": 28,
+      "name": ""
+    },
+    {
+      "$id": 48,
+      "label": "DEBUF_EFF_SHOOT_RANGE_cap",
+      "style": 28,
+      "name": ""
+    },
+    {
+      "$id": 49,
+      "label": "DEBUF_EFF_CRITICAL_DOWN_cap",
+      "style": 28,
+      "name": ""
+    },
+    {
+      "$id": 50,
+      "label": "BUF_EFF_FIGHT_ATK_UP_cap",
+      "style": 28,
+      "name": "Boosts total melee attack."
+    },
+    {
+      "$id": 51,
+      "label": "BUF_EFF_FIGHT_DEX_UP_cap",
+      "style": 28,
+      "name": "Boosts melee accuracy."
+    },
+    {
+      "$id": 52,
+      "label": "BUF_EFF_SHOOT_DEX_UP_cap",
+      "style": 28,
+      "name": "Boosts ranged accuracy."
+    },
+    {
+      "$id": 53,
+      "label": "BUF_EFF_EVA_UP_cap",
+      "style": 28,
+      "name": "Boosts evasion."
+    },
+    {
+      "$id": 54,
+      "label": "BUF_EFF_FIGHT_UP_cap",
+      "style": 28,
+      "name": "Boosts melee attack."
+    },
+    {
+      "$id": 55,
+      "label": "BUF_EFF_SHOOT_UP_cap",
+      "style": 28,
+      "name": "Boosts ranged attack."
+    },
+    {
+      "$id": 56,
+      "label": "BUF_EFF_MIND_UP_cap",
+      "style": 28,
+      "name": "Boosts potential."
+    },
+    {
+      "$id": 57,
+      "label": "BUF_EFF_ALL_STATUS_UP_cap",
+      "style": 28,
+      "name": ""
+    },
+    {
+      "$id": 58,
+      "label": "BUF_EFF_POWER_UP_cap",
+      "style": 28,
+      "name": ""
+    },
+    {
+      "$id": 59,
+      "label": "BUF_EFF_DEX_EVA_UP_cap",
+      "style": 28,
+      "name": ""
+    },
+    {
+      "$id": 60,
+      "label": "BUF_EFF_FERVOR_DAMAGE_UP_cap",
+      "style": 28,
+      "name": ""
+    },
+    {
+      "$id": 61,
+      "label": "BUF_EFF_THUNDER_DAMAGE_UP_cap",
+      "style": 28,
+      "name": ""
+    },
+    {
+      "$id": 62,
+      "label": "BUF_EFF_DARK_DAMAGE_UP_cap",
+      "style": 28,
+      "name": ""
+    },
+    {
+      "$id": 63,
+      "label": "BUF_EFF_PHYSICS_UP_cap",
+      "style": 28,
+      "name": "Boosts physical resistance."
+    },
+    {
+      "$id": 64,
+      "label": "BUF_EFF_BEAM_UP_cap",
+      "style": 28,
+      "name": "Boosts beam resistance."
+    },
+    {
+      "$id": 65,
+      "label": "BUF_EFF_DARK_UP_cap",
+      "style": 28,
+      "name": "Boosts ether resistance."
+    },
+    {
+      "$id": 66,
+      "label": "BUF_EFF_FERVOR_UP_cap",
+      "style": 28,
+      "name": ""
+    },
+    {
+      "$id": 67,
+      "label": "BUF_EFF_THUNDER_UP_cap",
+      "style": 28,
+      "name": ""
+    },
+    {
+      "$id": 68,
+      "label": "BUF_EFF_GRAVITY_UP_cap",
+      "style": 28,
+      "name": ""
+    },
+    {
+      "$id": 69,
+      "label": "BUF_EFF_ALL_RESIST_UP_cap",
+      "style": 28,
+      "name": "Boosts all resistances."
+    },
+    {
+      "$id": 70,
+      "label": "BUF_EFF_DAMAGE_ARMOR_cap",
+      "style": 28,
+      "name": ""
+    },
+    {
+      "$id": 71,
+      "label": "BUF_EFF_DAMAGE_ARMOR_ENEMY_cap",
+      "style": 28,
+      "name": ""
+    },
+    {
+      "$id": 72,
+      "label": "BUF_EFF_BULLET_CHARGE_cap",
+      "style": 28,
+      "name": ""
+    },
+    {
+      "$id": 73,
+      "label": "BUF_EFF_VISION_cap",
+      "style": 28,
+      "name": ""
+    },
+    {
+      "$id": 74,
+      "label": "BUF_EFF_VISION_ENEMY_cap",
+      "style": 28,
+      "name": ""
+    },
+    {
+      "$id": 75,
+      "label": "BUF_EFF_CRITICAL_STAGE_cap",
+      "style": 28,
+      "name": ""
+    },
+    {
+      "$id": 76,
+      "label": "BUF_EFF_BUF_TIME_STOP_cap",
+      "style": 28,
+      "name": ""
+    },
+    {
+      "$id": 77,
+      "label": "BUF_EFF_CATCH_cap",
+      "style": 28,
+      "name": ""
+    },
+    {
+      "$id": 78,
+      "label": "BUF_EFF_FUEL_INCREASE_cap",
+      "style": 28,
+      "name": ""
+    },
+    {
+      "$id": 79,
+      "label": "BUF_EFF_COMBO_FIGHT_cap",
+      "style": 28,
+      "name": ""
+    },
+    {
+      "$id": 80,
+      "label": "BUF_EFF_COMBO_SHOOT_cap",
+      "style": 28,
+      "name": ""
+    },
+    {
+      "$id": 81,
+      "label": "BUF_EFF_DAMAGE_DOWN_cap",
+      "style": 28,
+      "name": "Reduces damage taken."
+    },
+    {
+      "$id": 82,
+      "label": "BUF_EFF_ENEMY_DEFENSE_cap",
+      "style": 28,
+      "name": ""
+    },
+    {
+      "$id": 83,
+      "label": "BUF_EFF_ENEMY_BERSERK_DF_cap",
+      "style": 28,
+      "name": ""
+    },
+    {
+      "$id": 84,
+      "label": "BUF_EFF_CRITICAL_STAGE_PLUS_cap",
+      "style": 28,
+      "name": "Raises the tier of an active Critical Power buff."
+    },
+    {
+      "$id": 85,
+      "label": "BUF_EFF_CRITICAL_UP_cap",
+      "style": 28,
+      "name": "Boosts critical chance."
+    },
+    {
+      "$id": 86,
+      "label": "BUF_EFF_CRITICAL_UP2_cap",
+      "style": 28,
+      "name": ""
+    },
+    {
+      "$id": 87,
+      "label": "BUF_EFF_URGENT_HEAL_cap",
+      "style": 28,
+      "name": "Auto-recovers HP upon incapacitation."
+    },
+    {
+      "$id": 88,
+      "label": "BUF_EFF_FIGHT_WPN_HIT_HEAL_cap",
+      "style": 28,
+      "name": "Recovers HP when landing melee attacks."
+    },
+    {
+      "$id": 89,
+      "label": "BUF_EFF_REGEN_cap",
+      "style": 28,
+      "name": "Recovers continual HP over time."
+    },
+    {
+      "$id": 90,
+      "label": "BUF_EFF_REGEN2_cap",
+      "style": 28,
+      "name": "Recovers HP when sprinting."
+    },
+    {
+      "$id": 91,
+      "label": "BUF_EFF_REGEN_E_cap",
+      "style": 28,
+      "name": ""
+    },
+    {
+      "$id": 92,
+      "label": "BUF_EFF_REGEN_E2_cap",
+      "style": 28,
+      "name": ""
+    },
+    {
+      "$id": 93,
+      "label": "BUF_EFF_EXEC_ARTS_HEAL_cap",
+      "style": 28,
+      "name": "Recovers HP when using Arts."
+    },
+    {
+      "$id": 94,
+      "label": "BUF_EFF_CRITICAL_DM_HEAL_cap",
+      "style": 28,
+      "name": "Boosts TP when landing critical hits."
+    },
+    {
+      "$id": 95,
+      "label": "BUF_EFF_RANGE_SPIKE_FIRE_cap",
+      "style": 28,
+      "name": ""
+    },
+    {
+      "$id": 96,
+      "label": "BUF_EFF_BEAM_REFLECTION_cap",
+      "style": 28,
+      "name": "Reflects beam damage."
+    },
+    {
+      "$id": 97,
+      "label": "BUF_EFF_PHYSICS_REFLECTION_cap",
+      "style": 28,
+      "name": "Reflects physical damage."
+    },
+    {
+      "$id": 98,
+      "label": "BUF_EFF_DM_REFLECTION_cap",
+      "style": 28,
+      "name": ""
+    },
+    {
+      "$id": 99,
+      "label": "BUF_EFF_FIRE_REFLECTION_cap",
+      "style": 28,
+      "name": ""
+    },
+    {
+      "$id": 100,
+      "label": "BUF_EFF_VOLT_REFLECTION_cap",
+      "style": 28,
+      "name": "Reflects electric damage."
+    },
+    {
+      "$id": 101,
+      "label": "BUF_EFF_GRAVITY_REFLECTION_cap",
+      "style": 28,
+      "name": ""
+    },
+    {
+      "$id": 102,
+      "label": "BUF_EFF_ALL_REFLECTION_cap",
+      "style": 28,
+      "name": ""
+    },
+    {
+      "$id": 103,
+      "label": "BUF_EFF_LOST_TARGET_cap",
+      "style": 28,
+      "name": ""
+    },
+    {
+      "$id": 104,
+      "label": "BUF_EFF_LOST_SEARCH_cap",
+      "style": 28,
+      "name": "Prevents detection from enemies."
+    },
+    {
+      "$id": 105,
+      "label": "BUF_EFF_BACK_ATTACK_cap",
+      "style": 28,
+      "name": "Boosts damage dealt from behind."
+    },
+    {
+      "$id": 106,
+      "label": "BUF_EFF_FIGHT_AUTO_ROUND_cap",
+      "style": 28,
+      "name": "Adds an area of effect to melee auto-attacks."
+    },
+    {
+      "$id": 107,
+      "label": "BUF_EFF_REVENGE_ATTACK_cap",
+      "style": 28,
+      "name": "Boosts auto-attack attack power upon taking damage."
+    },
+    {
+      "$id": 108,
+      "label": "BUF_EFF_FORMATION_cap",
+      "style": 28,
+      "name": ""
+    },
+    {
+      "$id": 109,
+      "label": "BUF_EFF_HOLD_INVALID_cap",
+      "style": 28,
+      "name": "Negates the effects of Stun."
+    },
+    {
+      "$id": 110,
+      "label": "BUF_EFF_AUTO_POWERD_cap",
+      "style": 28,
+      "name": "Boosts auto-attack attack power."
+    },
+    {
+      "$id": 111,
+      "label": "BUF_EFF_FORWARD_LINE_cap",
+      "style": 28,
+      "name": ""
+    },
+    {
+      "$id": 112,
+      "label": "BUF_EFF_SPEED_RECAST_cap",
+      "style": 28,
+      "name": "Reduces cooldowns when sprinting."
+    },
+    {
+      "$id": 113,
+      "label": "BUF_EFF_STAR_CURE_ALL_cap",
+      "style": 28,
+      "name": "Adds an area of effect to Astral Purge."
+    },
+    {
+      "$id": 114,
+      "label": "BUF_EFF_STAR_HEAL_ALL_cap",
+      "style": 28,
+      "name": "Adds an area of effect to Astral Heal."
+    },
+    {
+      "$id": 115,
+      "label": "BUF_EFF_OVER_ROUND_cap",
+      "style": 28,
+      "name": "Boosts the range of area-of-effect attacks."
+    },
+    {
+      "$id": 116,
+      "label": "BUF_EFF_REVENGE_CHARGE_cap",
+      "style": 28,
+      "name": "Grants Supercharge upon taking damage."
+    },
+    {
+      "$id": 117,
+      "label": "BUF_EFF_SPIKE_PC_ARTS_01_cap",
+      "style": 28,
+      "name": "Grants proximity spike effects."
+    },
+    {
+      "$id": 118,
+      "label": "BUF_EFF_SPIKE_PC_ARTS_02_cap",
+      "style": 28,
+      "name": "Grants counter spike effects."
+    },
+    {
+      "$id": 119,
+      "label": "BUF_EFF_INVINCIBLE_cap",
+      "style": 28,
+      "name": ""
+    },
+    {
+      "$id": 120,
+      "label": "BUF_EFF_WEATHER_INVALID_cap",
+      "style": 28,
+      "name": ""
+    },
+    {
+      "$id": 121,
+      "label": "BUF_EFF_LAND_INVALID_cap",
+      "style": 28,
+      "name": "Grants immunity to terrain damage."
+    },
+    {
+      "$id": 122,
+      "label": "BUF_EFF_FIGHT_INVALID_cap",
+      "style": 28,
+      "name": ""
+    },
+    {
+      "$id": 123,
+      "label": "BUF_EFF_SHOOT_INVALID_cap",
+      "style": 28,
+      "name": ""
+    },
+    {
+      "$id": 124,
+      "label": "BUF_EFF_ALL_DEBUFF_RESIST_UP_cap",
+      "style": 28,
+      "name": "Boosts resistance to all debuffs."
+    },
+    {
+      "$id": 125,
+      "label": "BUF_EFF_SPARMOR_cap",
+      "style": 28,
+      "name": ""
+    },
+    {
+      "$id": 126,
+      "label": "BUF_EFF_AT_RECAST_UP_cap",
+      "style": 28,
+      "name": "Reduces auto-attack cooldown."
+    },
+    {
+      "$id": 127,
+      "label": "BUF_EFF_DB_RECAST_UP_cap",
+      "style": 28,
+      "name": "Reduces secondary cooldown."
+    },
+    {
+      "$id": 128,
+      "label": "BUF_EFF_AURA_END_HEAL_cap",
+      "style": 28,
+      "name": "Recovers HP when your aura dissipates."
+    },
+    {
+      "$id": 129,
+      "label": "BUF_EFF_PARTS_DMG_UP_cap",
+      "style": 28,
+      "name": "Boosts damage dealt to appendages."
+    },
+    {
+      "$id": 130,
+      "label": "BUF_EFF_HPMIN_DMG_UP_cap",
+      "style": 28,
+      "name": "The lower your HP, the higher the damage."
+    },
+    {
+      "$id": 131,
+      "label": "BUF_EFF_MYDOLL_FUEL_UP_cap",
+      "style": 28,
+      "name": "Boosts fuel recovery when Skell is parked."
+    },
+    {
+      "$id": 132,
+      "label": "BUF_EFF_OVER_REFRECTION_cap",
+      "style": 28,
+      "name": "Bypasses all enemy damage reflection."
+    },
+    {
+      "$id": 133,
+      "label": "BUF_EFF_BEAM_DAMAGE_UP_cap",
+      "style": 28,
+      "name": "Boosts beam damage."
+    },
+    {
+      "$id": 134,
+      "label": "BUF_EFF_BEAM_DAMAGE_UP2_cap",
+      "style": 28,
+      "name": ""
+    },
+    {
+      "$id": 135,
+      "label": "BUF_EFF_GRAVITY_DAMAGE_UP_cap",
+      "style": 28,
+      "name": ""
+    },
+    {
+      "$id": 136,
+      "label": "BUF_EFF_PHYSICS_DAMAGE_UP_cap",
+      "style": 28,
+      "name": ""
+    }
+  ]
+}

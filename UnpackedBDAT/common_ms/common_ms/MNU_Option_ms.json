@@ -1,0 +1,1626 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "Option_title001",
+      "style": 32,
+      "name": "Remember Cursor"
+    },
+    {
+      "$id": 2,
+      "label": "Option_title002",
+      "style": 32,
+      "name": "Controller Rumble"
+    },
+    {
+      "$id": 3,
+      "label": "Option_title003",
+      "style": 32,
+      "name": "Auto-track Missions"
+    },
+    {
+      "$id": 4,
+      "label": "Option_title004",
+      "style": 32,
+      "name": "Remember Ally Orders"
+    },
+    {
+      "$id": 5,
+      "label": "Option_title005",
+      "style": 32,
+      "name": "Follow Ball Behavior"
+    },
+    {
+      "$id": 6,
+      "label": "Option_title006",
+      "style": 32,
+      "name": "Flight Module Jump Controls"
+    },
+    {
+      "$id": 7,
+      "label": "Option_title007",
+      "style": 32,
+      "name": "Hraesvelg Cruise Mode Controls"
+    },
+    {
+      "$id": 8,
+      "label": "Option_title008",
+      "style": 32,
+      "name": "Subtitles"
+    },
+    {
+      "$id": 9,
+      "label": "Option_title009",
+      "style": 32,
+      "name": "NPC Dialogue Text Speed"
+    },
+    {
+      "$id": 10,
+      "label": "Option_title010",
+      "style": 32,
+      "name": "Invert Y Axis"
+    },
+    {
+      "$id": 11,
+      "label": "Option_title011",
+      "style": 32,
+      "name": "Invert X Axis"
+    },
+    {
+      "$id": 12,
+      "label": "Option_title012",
+      "style": 32,
+      "name": "Manual Camera Responsiveness"
+    },
+    {
+      "$id": 13,
+      "label": "Option_title013",
+      "style": 32,
+      "name": "Auto-camera Reset Speed"
+    },
+    {
+      "$id": 14,
+      "label": "Option_title014",
+      "style": 32,
+      "name": "Auto-camera Tracking Speed"
+    },
+    {
+      "$id": 15,
+      "label": "Option_title015",
+      "style": 32,
+      "name": "Skell Flight Tilt"
+    },
+    {
+      "$id": 16,
+      "label": "Option_title016",
+      "style": 32,
+      "name": "Manual Camera Rotation Speed"
+    },
+    {
+      "$id": 17,
+      "label": "Option_title017",
+      "style": 32,
+      "name": "Vertical Camera Tilt Speed Modifier"
+    },
+    {
+      "$id": 18,
+      "label": "Option_title018",
+      "style": 32,
+      "name": "Camera Zoom Speed"
+    },
+    {
+      "$id": 19,
+      "label": "Option_title019",
+      "style": 32,
+      "name": "Automatic Angle Correction"
+    },
+    {
+      "$id": 20,
+      "label": "Option_title020",
+      "style": 32,
+      "name": "Zoomed-in Camera Height (On Foot)"
+    },
+    {
+      "$id": 21,
+      "label": "Option_title021",
+      "style": 32,
+      "name": "Zoomed-out Camera Height (On Foot)"
+    },
+    {
+      "$id": 22,
+      "label": "Option_title022",
+      "style": 32,
+      "name": "Horizontal Camera Positioning (On Foot)"
+    },
+    {
+      "$id": 23,
+      "label": "Option_title023",
+      "style": 32,
+      "name": "Zoomed-in Camera Height (In Skell)"
+    },
+    {
+      "$id": 24,
+      "label": "Option_title024",
+      "style": 32,
+      "name": "Zoomed-out Camera Height (In Skell)"
+    },
+    {
+      "$id": 25,
+      "label": "Option_title025",
+      "style": 32,
+      "name": "Horizontal Camera Positioning (In Skell)"
+    },
+    {
+      "$id": 26,
+      "label": "Option_title026",
+      "style": 32,
+      "name": "Skell Boarding Distance Correction"
+    },
+    {
+      "$id": 27,
+      "label": "Option_title027",
+      "style": 32,
+      "name": "Hraesvelg Cruise Mode Camera"
+    },
+    {
+      "$id": 28,
+      "label": "Option_title028",
+      "style": 32,
+      "name": "Brightness Level"
+    },
+    {
+      "$id": 29,
+      "label": "Option_title029",
+      "style": 32,
+      "name": ""
+    },
+    {
+      "$id": 30,
+      "label": "Option_title030",
+      "style": 32,
+      "name": "Show Headgear (Ground Gear)"
+    },
+    {
+      "$id": 31,
+      "label": "Option_title031",
+      "style": 32,
+      "name": "Elma's Appearance"
+    },
+    {
+      "$id": 32,
+      "label": "Option_title032",
+      "style": 32,
+      "name": "Mini-map"
+    },
+    {
+      "$id": 33,
+      "label": "Option_title033",
+      "style": 32,
+      "name": "Fix Mini-map Orientation"
+    },
+    {
+      "$id": 34,
+      "label": "Option_title034",
+      "style": 32,
+      "name": "Party Status"
+    },
+    {
+      "$id": 35,
+      "label": "Option_title035",
+      "style": 32,
+      "name": "Skell Fuel Gauge"
+    },
+    {
+      "$id": 36,
+      "label": "Option_title036",
+      "style": 32,
+      "name": "Weather and Time"
+    },
+    {
+      "$id": 37,
+      "label": "Option_title037",
+      "style": 32,
+      "name": "System Log"
+    },
+    {
+      "$id": 38,
+      "label": "Option_title038",
+      "style": 32,
+      "name": "Information"
+    },
+    {
+      "$id": 39,
+      "label": "Option_title039",
+      "style": 32,
+      "name": "Control Guide"
+    },
+    {
+      "$id": 40,
+      "label": "Option_title040",
+      "style": 32,
+      "name": "Soul Voice Prompts"
+    },
+    {
+      "$id": 41,
+      "label": "Option_title041",
+      "style": 32,
+      "name": "Arts Descriptions"
+    },
+    {
+      "$id": 42,
+      "label": "Option_title042",
+      "style": 32,
+      "name": "Detailed Enemy Status"
+    },
+    {
+      "$id": 43,
+      "label": "Option_title043",
+      "style": 32,
+      "name": "Enemy Targeting"
+    },
+    {
+      "$id": 44,
+      "label": "Option_title044",
+      "style": 32,
+      "name": "Enemy Markers"
+    },
+    {
+      "$id": 45,
+      "label": "Option_title045",
+      "style": 32,
+      "name": "NPC Markers"
+    },
+    {
+      "$id": 46,
+      "label": "Option_title046",
+      "style": 32,
+      "name": "Object Markers"
+    },
+    {
+      "$id": 47,
+      "label": "Option_title047",
+      "style": 32,
+      "name": "Story Missions"
+    },
+    {
+      "$id": 48,
+      "label": "Option_title048",
+      "style": 32,
+      "name": "Affinity Missions"
+    },
+    {
+      "$id": 49,
+      "label": "Option_title049",
+      "style": 32,
+      "name": "Normal Missions"
+    },
+    {
+      "$id": 50,
+      "label": "Option_title050",
+      "style": 32,
+      "name": "Basic Missions"
+    },
+    {
+      "$id": 51,
+      "label": "Option_title051",
+      "style": 32,
+      "name": "Material Tracking"
+    },
+    {
+      "$id": 52,
+      "label": "Option_title052",
+      "style": 32,
+      "name": "Squad Tasks"
+    },
+    {
+      "$id": 53,
+      "label": "Option_title053",
+      "style": 32,
+      "name": "Story Missions"
+    },
+    {
+      "$id": 54,
+      "label": "Option_title054",
+      "style": 32,
+      "name": "Affinity Missions"
+    },
+    {
+      "$id": 55,
+      "label": "Option_title055",
+      "style": 32,
+      "name": "Normal Missions"
+    },
+    {
+      "$id": 56,
+      "label": "Option_title056",
+      "style": 32,
+      "name": "Basic Missions"
+    },
+    {
+      "$id": 57,
+      "label": "Option_title057",
+      "style": 32,
+      "name": "Segment Recon"
+    },
+    {
+      "$id": 58,
+      "label": "Option_title058",
+      "style": 32,
+      "name": "Material Tracking"
+    },
+    {
+      "$id": 59,
+      "label": "Option_title059",
+      "style": 32,
+      "name": "Squad Tasks"
+    },
+    {
+      "$id": 60,
+      "label": "Option_title060",
+      "style": 32,
+      "name": "All"
+    },
+    {
+      "$id": 61,
+      "label": "Option_title061",
+      "style": 32,
+      "name": "Squad Left/Joined"
+    },
+    {
+      "$id": 62,
+      "label": "Option_title062",
+      "style": 32,
+      "name": "Own Achievements"
+    },
+    {
+      "$id": 63,
+      "label": "Option_title063",
+      "style": 32,
+      "name": "Other Player Achievements"
+    },
+    {
+      "$id": 64,
+      "label": "Option_title064",
+      "style": 32,
+      "name": "Division Rewards"
+    },
+    {
+      "$id": 65,
+      "label": "Option_title065",
+      "style": 32,
+      "name": "Scout Rewards"
+    },
+    {
+      "$id": 66,
+      "label": "Option_title066",
+      "style": 32,
+      "name": "Global Nemesis Rewards"
+    },
+    {
+      "$id": 67,
+      "label": "Option_title067",
+      "style": 32,
+      "name": "Scout Level Up"
+    },
+    {
+      "$id": 68,
+      "label": "Option_title068",
+      "style": 32,
+      "name": "Avatar Scouted"
+    },
+    {
+      "$id": 69,
+      "label": "Option_title069",
+      "style": 32,
+      "name": "BLADE Scouted"
+    },
+    {
+      "$id": 70,
+      "label": "Option_title070",
+      "style": 32,
+      "name": "BLADE Releasing in Five Minutes"
+    },
+    {
+      "$id": 71,
+      "label": "Option_title071",
+      "style": 32,
+      "name": "BLADE Released"
+    },
+    {
+      "$id": 72,
+      "label": "Option_title072",
+      "style": 32,
+      "name": "Friend Online"
+    },
+    {
+      "$id": 73,
+      "label": "Option_title073",
+      "style": 32,
+      "name": "Squad Tasks Commenced"
+    },
+    {
+      "$id": 74,
+      "label": "Option_title074",
+      "style": 32,
+      "name": "Squad Tasks Completed"
+    },
+    {
+      "$id": 75,
+      "label": "Option_title075",
+      "style": 32,
+      "name": "Online Mission Recruiting"
+    },
+    {
+      "$id": 76,
+      "label": "Option_title076",
+      "style": 32,
+      "name": "New Online Missions Available"
+    },
+    {
+      "$id": 77,
+      "label": "Option_title077",
+      "style": 32,
+      "name": "Telethia Plume Active"
+    },
+    {
+      "$id": 78,
+      "label": "Option_title078",
+      "style": 32,
+      "name": "Telethia Plume Attempts Reset"
+    },
+    {
+      "$id": 79,
+      "label": "Option_title079",
+      "style": 32,
+      "name": "Telethia Plume RP Reduced"
+    },
+    {
+      "$id": 80,
+      "label": "Option_title080",
+      "style": 32,
+      "name": "Telethia Plume Defeated"
+    },
+    {
+      "$id": 81,
+      "label": "Option_title081",
+      "style": 32,
+      "name": "Yggralith Zero Active"
+    },
+    {
+      "$id": 82,
+      "label": "Option_title082",
+      "style": 32,
+      "name": "Yggralith Zero Attempts Reset"
+    },
+    {
+      "$id": 83,
+      "label": "Option_title083",
+      "style": 32,
+      "name": "Yggralith Zero RP Reduced"
+    },
+    {
+      "$id": 84,
+      "label": "Option_title084",
+      "style": 32,
+      "name": "Yggralith Zero Defeated"
+    },
+    {
+      "$id": 85,
+      "label": "Option_title085",
+      "style": 32,
+      "name": "New Tips Screen"
+    },
+    {
+      "$id": 86,
+      "label": "Option_title086",
+      "style": 32,
+      "name": "Tips Added"
+    },
+    {
+      "$id": 87,
+      "label": "Option_title087",
+      "style": 32,
+      "name": "Hints"
+    },
+    {
+      "$id": 88,
+      "label": "Option_title088",
+      "style": 32,
+      "name": "Affinity Updates"
+    },
+    {
+      "$id": 89,
+      "label": "Option_title089",
+      "style": 32,
+      "name": "Survey Rate Rewards"
+    },
+    {
+      "$id": 90,
+      "label": "Option_title090",
+      "style": 32,
+      "name": "Preferred Play Style"
+    },
+    {
+      "$id": 91,
+      "label": "Option_title091",
+      "style": 32,
+      "name": "Online Visibility on Following Lists"
+    },
+    {
+      "$id": 92,
+      "label": "Option_title092",
+      "style": 32,
+      "name": "Auto-register Avatar"
+    },
+    {
+      "$id": 93,
+      "label": "Option_title093",
+      "style": 32,
+      "name": "Game BGM Volume"
+    },
+    {
+      "$id": 94,
+      "label": "Option_title094",
+      "style": 32,
+      "name": "Game SE Volume"
+    },
+    {
+      "$id": 95,
+      "label": "Option_title095",
+      "style": 32,
+      "name": "Game Voice Volume"
+    },
+    {
+      "$id": 96,
+      "label": "Option_title096",
+      "style": 32,
+      "name": ""
+    },
+    {
+      "$id": 97,
+      "label": "Option_title097",
+      "style": 32,
+      "name": "System SE Volume"
+    },
+    {
+      "$id": 98,
+      "label": "Option_title098",
+      "style": 32,
+      "name": ""
+    },
+    {
+      "$id": 99,
+      "label": "Option_title099",
+      "style": 32,
+      "name": "Skell Flight BGM"
+    },
+    {
+      "$id": 100,
+      "label": "Option_title100",
+      "style": 32,
+      "name": "Voice Language"
+    },
+    {
+      "$id": 101,
+      "label": "Option_title101",
+      "style": 32,
+      "name": "Hidden Mission Unlocked"
+    },
+    {
+      "$id": 102,
+      "label": "Option_title102",
+      "style": 32,
+      "name": "Menu Control Guides"
+    },
+    {
+      "$id": 103,
+      "label": "Option_Caption001",
+      "style": 173,
+      "name": "Choose whether to remember the cursor's last position\nin the main menu."
+    },
+    {
+      "$id": 104,
+      "label": "Option_Caption002",
+      "style": 173,
+      "name": "Toggle the controller's rumble feature."
+    },
+    {
+      "$id": 105,
+      "label": "Option_Caption003",
+      "style": 173,
+      "name": "Choose whether to automatically set new missions to tracked\nas they are accepted."
+    },
+    {
+      "$id": 106,
+      "label": "Option_Caption004",
+      "style": 173,
+      "name": "Choose whether orders issued to party members should\napply to future battles."
+    },
+    {
+      "$id": 107,
+      "label": "Option_Caption005",
+      "style": 173,
+      "name": "Choose the way in which the Follow Ball is launched.\nOnce: Disappears after a certain amount of time.\nLooping: Continuously guides you to your destination."
+    },
+    {
+      "$id": 108,
+      "label": "Option_Caption006",
+      "style": 173,
+      "name": "Choose the behavior for jumping when the flight module is equipped.\n(Jump: Press [ST:icon p1=zr ] while grounded to jump, then\npress [ST:icon p1=zr ] while airborne to fly.\nFlight: Press [ST:icon p1=zr ] to fly.)"
+    },
+    {
+      "$id": 109,
+      "label": "Option_Caption007",
+      "style": 173,
+      "name": "Choose the control scheme for the Hraesvelg's cruise mode."
+    },
+    {
+      "$id": 110,
+      "label": "Option_Caption008",
+      "style": 173,
+      "name": "Choose whether to display subtitles during events."
+    },
+    {
+      "$id": 111,
+      "label": "Option_Caption009",
+      "style": 173,
+      "name": "Adjust the text speed for NPC dialogue boxes."
+    },
+    {
+      "$id": 112,
+      "label": "Option_Caption010",
+      "style": 173,
+      "name": "Choose how the camera behaves when [ST:icon p1=anar ] is tilted up or down."
+    },
+    {
+      "$id": 113,
+      "label": "Option_Caption011",
+      "style": 173,
+      "name": "Choose how the camera behaves when [ST:icon p1=anar ] is tilted left or right."
+    },
+    {
+      "$id": 114,
+      "label": "Option_Caption012",
+      "style": 173,
+      "name": "Adjust how quickly the manual camera reacts to tilting [ST:icon p1=anar ].\nSlow: The camera will accelerate and decelerate slowly.\nAverage: The camera will instantly start and stop."
+    },
+    {
+      "$id": 115,
+      "label": "Option_Caption013",
+      "style": 173,
+      "name": "Adjust the speed at which the camera resets its position\nto the default auto-camera positioning."
+    },
+    {
+      "$id": 116,
+      "label": "Option_Caption014",
+      "style": 173,
+      "name": "Adjust the tracking speed of the automatic camera.\n(This applies in the following situations:\n- following behind characters in the field\n- keeping the targeted enemy on-screen in combat)"
+    },
+    {
+      "$id": 117,
+      "label": "Option_Caption015",
+      "style": 173,
+      "name": "Choose whether the camera tilts when flying in a Skell."
+    },
+    {
+      "$id": 118,
+      "label": "Option_Caption016",
+      "style": 173,
+      "name": "Adjust the speed at which the manual camera rotates up, down, left,\nand right."
+    },
+    {
+      "$id": 119,
+      "label": "Option_Caption017",
+      "style": 173,
+      "name": "More finely adjust the speed at which the manual camera tilts\nup and down."
+    },
+    {
+      "$id": 120,
+      "label": "Option_Caption018",
+      "style": 173,
+      "name": "Adjust the speed at which the camera zooms in and out."
+    },
+    {
+      "$id": 121,
+      "label": "Option_Caption019",
+      "style": 173,
+      "name": "Choose whether the camera should automatically adjust itself when\nmoving over sloping surfaces (only in auto-camera mode)."
+    },
+    {
+      "$id": 122,
+      "label": "Option_Caption020",
+      "style": 173,
+      "name": "Adjust the camera height when fully zoomed in (on foot)."
+    },
+    {
+      "$id": 123,
+      "label": "Option_Caption021",
+      "style": 173,
+      "name": "Adjust the camera height when fully zoomed out (on foot)."
+    },
+    {
+      "$id": 124,
+      "label": "Option_Caption022",
+      "style": 173,
+      "name": "Choose where to position the camera in relation to\nthe player (on foot)."
+    },
+    {
+      "$id": 125,
+      "label": "Option_Caption023",
+      "style": 173,
+      "name": "Adjust the camera height when fully zoomed in (in a Skell)."
+    },
+    {
+      "$id": 126,
+      "label": "Option_Caption024",
+      "style": 173,
+      "name": "Adjust the camera height when fully zoomed out (in a Skell)."
+    },
+    {
+      "$id": 127,
+      "label": "Option_Caption025",
+      "style": 173,
+      "name": "Choose where to position the camera in relation to\nthe player (in a Skell)."
+    },
+    {
+      "$id": 128,
+      "label": "Option_Caption026",
+      "style": 173,
+      "name": "Choose how much farther the camera should zoom out from the player\nupon boarding a Skell.\n(This cannot exceed the maximum camera distance.)"
+    },
+    {
+      "$id": 129,
+      "label": "Option_Caption027",
+      "style": 173,
+      "name": "Choose the type of camera used when piloting the Hraesvelg\nin cruise mode.\n(\"Locked Camera\" keeps the camera behind the Skell.)"
+    },
+    {
+      "$id": 130,
+      "label": "Option_Caption028",
+      "style": 173,
+      "name": "Adjust the brightness of the game world to improve visibility.\nThe higher the setting, the brighter the environment."
+    },
+    {
+      "$id": 131,
+      "label": "Option_Caption029",
+      "style": 173,
+      "name": ""
+    },
+    {
+      "$id": 132,
+      "label": "Option_Caption030",
+      "style": 173,
+      "name": "Choose whether headgear can be seen.\n(Set to Off if you'd like to be able to see your party members' faces.)"
+    },
+    {
+      "$id": 133,
+      "label": "Option_Caption031",
+      "style": 173,
+      "name": "Choose how Elma should appear."
+    },
+    {
+      "$id": 134,
+      "label": "Option_Caption032",
+      "style": 173,
+      "name": "Choose whether to show the mini-map."
+    },
+    {
+      "$id": 135,
+      "label": "Option_Caption033",
+      "style": 173,
+      "name": "Choose whether the orientation of the mini-map should be fixed\nor allowed to rotate. (While enabled, north is up.)"
+    },
+    {
+      "$id": 136,
+      "label": "Option_Caption034",
+      "style": 173,
+      "name": "Choose whether party members' statuses\nshould remain on screen at all times."
+    },
+    {
+      "$id": 137,
+      "label": "Option_Caption035",
+      "style": 173,
+      "name": "Choose whether to display Skell fuel gauges."
+    },
+    {
+      "$id": 138,
+      "label": "Option_Caption036",
+      "style": 173,
+      "name": "Choose whether to display the weather and time of day."
+    },
+    {
+      "$id": 139,
+      "label": "Option_Caption037",
+      "style": 173,
+      "name": "Choose whether to display the system log (notifications about\nobtained items, earned experience, etc.)."
+    },
+    {
+      "$id": 140,
+      "label": "Option_Caption038",
+      "style": 173,
+      "name": "Choose whether to display notifications regarding information\n(gossip overheard by passing next to NPCs, BLADE reports, etc.)."
+    },
+    {
+      "$id": 141,
+      "label": "Option_Caption039",
+      "style": 173,
+      "name": "Choose whether to display information regarding field UI controls."
+    },
+    {
+      "$id": 142,
+      "label": "Option_Caption040",
+      "style": 173,
+      "name": "Choose whether to display text boxes for Soul Voice prompts in battle.\n(Soul Voice prompts can still be answered even when set to \"Off.\")"
+    },
+    {
+      "$id": 143,
+      "label": "Option_Caption041",
+      "style": 173,
+      "name": "Choose whether to display descriptions of Arts under\nthe Arts Palette in combat."
+    },
+    {
+      "$id": 144,
+      "label": "Option_Caption042",
+      "style": 173,
+      "name": "Choose whether to display the detailed status of your\ncurrently-targeted enemy at the top of the screen."
+    },
+    {
+      "$id": 145,
+      "label": "Option_Caption043",
+      "style": 173,
+      "name": "Choose whether to restrict target cycling to enemies already in battle.\n(Useful for players who prefer not to aggro unwanted enemies.)"
+    },
+    {
+      "$id": 146,
+      "label": "Option_Caption044",
+      "style": 173,
+      "name": "Choose whether to display basic status info above enemies."
+    },
+    {
+      "$id": 147,
+      "label": "Option_Caption045",
+      "style": 173,
+      "name": "Choose whether to display basic status info above NPCs."
+    },
+    {
+      "$id": 148,
+      "label": "Option_Caption046",
+      "style": 173,
+      "name": "Choose whether to display basic status info above objects."
+    },
+    {
+      "$id": 149,
+      "label": "Option_Caption047",
+      "style": 173,
+      "name": "Choose whether to display story mission icons in the game field.\n(This will not affect icons on the map and mini-map.)"
+    },
+    {
+      "$id": 150,
+      "label": "Option_Caption048",
+      "style": 173,
+      "name": "Choose whether to display affinity mission icons in the game field.\n(This will not affect icons on the map and mini-map.)"
+    },
+    {
+      "$id": 151,
+      "label": "Option_Caption049",
+      "style": 173,
+      "name": "Choose whether to display normal mission icons in the game field.\n(This will not affect icons on the map and mini-map.)"
+    },
+    {
+      "$id": 152,
+      "label": "Option_Caption050",
+      "style": 173,
+      "name": "Choose whether to display basic mission icons in the game field.\n(This will not affect icons on the map and mini-map.)"
+    },
+    {
+      "$id": 153,
+      "label": "Option_Caption051",
+      "style": 173,
+      "name": "Choose whether to display icons for tracked materials in the game field.\n(This will not affect icons on the map and mini-map.)"
+    },
+    {
+      "$id": 154,
+      "label": "Option_Caption052",
+      "style": 173,
+      "name": "Choose whether to display icons for squad tasks in the game field.\n(This will not affect icons on the map and mini-map.)"
+    },
+    {
+      "$id": 155,
+      "label": "Option_Caption053",
+      "style": 173,
+      "name": "Choose whether to display story mission updates."
+    },
+    {
+      "$id": 156,
+      "label": "Option_Caption054",
+      "style": 173,
+      "name": "Choose whether to display affinity mission updates."
+    },
+    {
+      "$id": 157,
+      "label": "Option_Caption055",
+      "style": 173,
+      "name": "Choose whether to display normal mission updates."
+    },
+    {
+      "$id": 158,
+      "label": "Option_Caption056",
+      "style": 173,
+      "name": "Choose whether to display basic mission updates."
+    },
+    {
+      "$id": 159,
+      "label": "Option_Caption057",
+      "style": 173,
+      "name": "Choose whether to display segment recon updates."
+    },
+    {
+      "$id": 160,
+      "label": "Option_Caption058",
+      "style": 173,
+      "name": "Choose whether to display material tracking updates."
+    },
+    {
+      "$id": 161,
+      "label": "Option_Caption059",
+      "style": 173,
+      "name": "Choose whether to display squad task updates."
+    },
+    {
+      "$id": 162,
+      "label": "Option_Caption060",
+      "style": 173,
+      "name": "Choose whether to display all social notifications.\nManual: Toggle whether to display social notifications by category."
+    },
+    {
+      "$id": 163,
+      "label": "Option_Caption061",
+      "style": 173,
+      "name": "Choose whether to display social notifications for when\nplayers join or leave your squad."
+    },
+    {
+      "$id": 164,
+      "label": "Option_Caption062",
+      "style": 173,
+      "name": "Choose whether to display social notifications for when\nyou have unlocked achievements."
+    },
+    {
+      "$id": 165,
+      "label": "Option_Caption063",
+      "style": 173,
+      "name": "Choose whether to display social notifications for when\nother players have unlocked achievements."
+    },
+    {
+      "$id": 166,
+      "label": "Option_Caption064",
+      "style": 173,
+      "name": "Choose whether to display social notifications for when\nyou are able to claim division rewards."
+    },
+    {
+      "$id": 167,
+      "label": "Option_Caption065",
+      "style": 173,
+      "name": "Choose whether to display social notifications for when\nyou are able to claim scout rewards."
+    },
+    {
+      "$id": 168,
+      "label": "Option_Caption066",
+      "style": 173,
+      "name": "Choose whether to display social notifications for when\nyou are able to claim Global Nemesis rewards."
+    },
+    {
+      "$id": 169,
+      "label": "Option_Caption067",
+      "style": 173,
+      "name": "Choose whether to display social notifications for when\nBLADE operatives you have scouted gain a scout level."
+    },
+    {
+      "$id": 170,
+      "label": "Option_Caption068",
+      "style": 173,
+      "name": "Choose whether to display social notifications for when\nyour avatar has been scouted by other players."
+    },
+    {
+      "$id": 171,
+      "label": "Option_Caption069",
+      "style": 173,
+      "name": "Choose whether to display social notifications for when\nyou scout other players' BLADE operatives."
+    },
+    {
+      "$id": 172,
+      "label": "Option_Caption070",
+      "style": 173,
+      "name": "Choose whether to display social notifications for when five minutes\nremain until other players' BLADE operatives return home."
+    },
+    {
+      "$id": 173,
+      "label": "Option_Caption071",
+      "style": 173,
+      "name": "Choose whether to display social notifications for when\nother players' BLADE operatives have returned home."
+    },
+    {
+      "$id": 174,
+      "label": "Option_Caption072",
+      "style": 173,
+      "name": "Choose whether to display social notifications for when\nfriends have entered online mode."
+    },
+    {
+      "$id": 175,
+      "label": "Option_Caption073",
+      "style": 173,
+      "name": "Choose whether to display social notifications for when\nsquad tasks have been commenced."
+    },
+    {
+      "$id": 176,
+      "label": "Option_Caption074",
+      "style": 173,
+      "name": "Choose whether to display social notifications for when\na squad task has been completed."
+    },
+    {
+      "$id": 177,
+      "label": "Option_Caption075",
+      "style": 173,
+      "name": "Choose whether to display social notifications for when\nanother player has started recruiting for an online mission."
+    },
+    {
+      "$id": 178,
+      "label": "Option_Caption076",
+      "style": 173,
+      "name": "Choose whether to display social notifications for when\nnew online missions are available."
+    },
+    {
+      "$id": 179,
+      "label": "Option_Caption077",
+      "style": 173,
+      "name": "Choose whether to display social notifications for when\nthe Global Nemesis Telethia Plume has spawned."
+    },
+    {
+      "$id": 180,
+      "label": "Option_Caption078",
+      "style": 173,
+      "name": "Choose whether to display social notifications for when\nthe number of times you can attempt to battle the\nGlobal Nemesis Telethia Plume has been reset."
+    },
+    {
+      "$id": 181,
+      "label": "Option_Caption079",
+      "style": 173,
+      "name": "Choose whether to display social notifications for when\nthe RP of the Global Nemesis Telethia Plume has\ndropped below a certain point."
+    },
+    {
+      "$id": 182,
+      "label": "Option_Caption080",
+      "style": 173,
+      "name": "Choose whether to display social notifications for when\nthe Global Nemesis Telethia Plume has been defeated."
+    },
+    {
+      "$id": 183,
+      "label": "Option_Caption081",
+      "style": 173,
+      "name": "Choose whether to display social notifications for when\nthe Global Nemesis Yggralith Zero has spawned."
+    },
+    {
+      "$id": 184,
+      "label": "Option_Caption082",
+      "style": 173,
+      "name": "Choose whether to display social notifications for when\nthe number of times you can attempt to battle the\nGlobal Nemesis Yggralith Zero has been reset."
+    },
+    {
+      "$id": 185,
+      "label": "Option_Caption083",
+      "style": 173,
+      "name": "Choose whether to display social notifications for when\nthe RP of the Global Nemesis Yggralith Zero has\ndropped below a certain point."
+    },
+    {
+      "$id": 186,
+      "label": "Option_Caption084",
+      "style": 173,
+      "name": "Choose whether to display social notifications for when\nthe Global Nemesis Yggralith Zero has been defeated."
+    },
+    {
+      "$id": 187,
+      "label": "Option_Caption085",
+      "style": 173,
+      "name": "Open the tips screen each time you recieve a new tip.\nOff: You will only receive notifications of new tips,\nwhich can be viewed as needed."
+    },
+    {
+      "$id": 188,
+      "label": "Option_Caption086",
+      "style": 173,
+      "name": "Choose whether to display notifications of new tips."
+    },
+    {
+      "$id": 189,
+      "label": "Option_Caption087",
+      "style": 173,
+      "name": "Choose whether to display helpful hints."
+    },
+    {
+      "$id": 190,
+      "label": "Option_Caption088",
+      "style": 173,
+      "name": "Choose whether to display affinity updates."
+    },
+    {
+      "$id": 191,
+      "label": "Option_Caption089",
+      "style": 173,
+      "name": "Choose whether to display survey rate reward info."
+    },
+    {
+      "$id": 192,
+      "label": "Option_Caption090",
+      "style": 173,
+      "name": "Choose whether the game should begin in online or offline mode\nupon loading save data.\nAlways Ask: Gives you the option each time you load."
+    },
+    {
+      "$id": 193,
+      "label": "Option_Caption091",
+      "style": 173,
+      "name": "Choose whether to show or hide your online status on\nother players' following lists."
+    },
+    {
+      "$id": 194,
+      "label": "Option_Caption092",
+      "style": 173,
+      "name": "Choose whether to automatically register your current avatar\nfor the purposes of BLADE scouting."
+    },
+    {
+      "$id": 195,
+      "label": "Option_Caption093",
+      "style": 173,
+      "name": "Adjust the volume of background music."
+    },
+    {
+      "$id": 196,
+      "label": "Option_Caption094",
+      "style": 173,
+      "name": "Adjust the volume of sound effects."
+    },
+    {
+      "$id": 197,
+      "label": "Option_Caption095",
+      "style": 173,
+      "name": "Adjust the volume of characters' voices."
+    },
+    {
+      "$id": 198,
+      "label": "Option_Caption096",
+      "style": 173,
+      "name": ""
+    },
+    {
+      "$id": 199,
+      "label": "Option_Caption097",
+      "style": 173,
+      "name": "Adjust the volume of system-related sound effects."
+    },
+    {
+      "$id": 200,
+      "label": "Option_Caption098",
+      "style": 173,
+      "name": ""
+    },
+    {
+      "$id": 201,
+      "label": "Option_Caption099",
+      "style": 173,
+      "name": "Choose the background music that plays while flying in a Skell."
+    },
+    {
+      "$id": 202,
+      "label": "Option_Caption100",
+      "style": 173,
+      "name": "Choose between English and Japanese for\nthe language of the in-game voices."
+    },
+    {
+      "$id": 203,
+      "label": "Option_Caption101",
+      "style": 173,
+      "name": "Choose whether to display social notifications for when\nhidden online missions have been unlocked."
+    },
+    {
+      "$id": 204,
+      "label": "Option_Caption102",
+      "style": 173,
+      "name": "Choose whether to display menu control guides."
+    },
+    {
+      "$id": 205,
+      "label": "Option_Setting001",
+      "style": 14,
+      "name": "Off"
+    },
+    {
+      "$id": 206,
+      "label": "Option_Setting002",
+      "style": 14,
+      "name": "On"
+    },
+    {
+      "$id": 207,
+      "label": "Option_Setting101",
+      "style": 14,
+      "name": "Once"
+    },
+    {
+      "$id": 208,
+      "label": "Option_Setting102",
+      "style": 14,
+      "name": "Looping"
+    },
+    {
+      "$id": 209,
+      "label": "Option_Setting103",
+      "style": 14,
+      "name": "Jump"
+    },
+    {
+      "$id": 210,
+      "label": "Option_Setting104",
+      "style": 14,
+      "name": "Flight"
+    },
+    {
+      "$id": 211,
+      "label": "Option_Setting105",
+      "style": 14,
+      "name": "Normal"
+    },
+    {
+      "$id": 212,
+      "label": "Option_Setting106",
+      "style": 14,
+      "name": "Inverted"
+    },
+    {
+      "$id": 213,
+      "label": "Option_Setting107",
+      "style": 14,
+      "name": "Slow"
+    },
+    {
+      "$id": 214,
+      "label": "Option_Setting108",
+      "style": 14,
+      "name": "Moderately Slow"
+    },
+    {
+      "$id": 215,
+      "label": "Option_Setting109",
+      "style": 14,
+      "name": "Average"
+    },
+    {
+      "$id": 216,
+      "label": "Option_Setting110",
+      "style": 14,
+      "name": "Moderately Fast"
+    },
+    {
+      "$id": 217,
+      "label": "Option_Setting111",
+      "style": 14,
+      "name": "Fast"
+    },
+    {
+      "$id": 218,
+      "label": "Option_Setting112",
+      "style": 14,
+      "name": "Very Low"
+    },
+    {
+      "$id": 219,
+      "label": "Option_Setting113",
+      "style": 14,
+      "name": "Low"
+    },
+    {
+      "$id": 220,
+      "label": "Option_Setting114",
+      "style": 14,
+      "name": "High"
+    },
+    {
+      "$id": 221,
+      "label": "Option_Setting115",
+      "style": 14,
+      "name": "Very High"
+    },
+    {
+      "$id": 222,
+      "label": "Option_Setting116",
+      "style": 14,
+      "name": "Far Left"
+    },
+    {
+      "$id": 223,
+      "label": "Option_Setting117",
+      "style": 14,
+      "name": "Left"
+    },
+    {
+      "$id": 224,
+      "label": "Option_Setting118",
+      "style": 14,
+      "name": "Centered"
+    },
+    {
+      "$id": 225,
+      "label": "Option_Setting119",
+      "style": 14,
+      "name": "Right"
+    },
+    {
+      "$id": 226,
+      "label": "Option_Setting120",
+      "style": 14,
+      "name": "Far Right"
+    },
+    {
+      "$id": 227,
+      "label": "Option_Setting121",
+      "style": 14,
+      "name": "Locked Camera"
+    },
+    {
+      "$id": 228,
+      "label": "Option_Setting122",
+      "style": 14,
+      "name": "Manual Camera"
+    },
+    {
+      "$id": 229,
+      "label": "Option_Setting123",
+      "style": 14,
+      "name": ""
+    },
+    {
+      "$id": 230,
+      "label": "Option_Setting124",
+      "style": 14,
+      "name": ""
+    },
+    {
+      "$id": 231,
+      "label": "Option_Setting125",
+      "style": 14,
+      "name": "Mimeosome"
+    },
+    {
+      "$id": 232,
+      "label": "Option_Setting126",
+      "style": 14,
+      "name": "True Form"
+    },
+    {
+      "$id": 233,
+      "label": "Option_Setting127",
+      "style": 14,
+      "name": "Small"
+    },
+    {
+      "$id": 234,
+      "label": "Option_Setting128",
+      "style": 14,
+      "name": "Moderately Small"
+    },
+    {
+      "$id": 235,
+      "label": "Option_Setting129",
+      "style": 14,
+      "name": "Moderately Big"
+    },
+    {
+      "$id": 236,
+      "label": "Option_Setting130",
+      "style": 14,
+      "name": "Big"
+    },
+    {
+      "$id": 237,
+      "label": "Option_Setting131",
+      "style": 14,
+      "name": "All Enemies"
+    },
+    {
+      "$id": 238,
+      "label": "Option_Setting132",
+      "style": 14,
+      "name": "Enemies in Battle"
+    },
+    {
+      "$id": 239,
+      "label": "Option_Setting133",
+      "style": 14,
+      "name": "Manual"
+    },
+    {
+      "$id": 240,
+      "label": "Option_Setting134",
+      "style": 14,
+      "name": "Always Ask"
+    },
+    {
+      "$id": 241,
+      "label": "Option_Setting135",
+      "style": 14,
+      "name": "Offline Mode"
+    },
+    {
+      "$id": 242,
+      "label": "Option_Setting136",
+      "style": 14,
+      "name": "Online Mode"
+    },
+    {
+      "$id": 243,
+      "label": "Option_Setting137",
+      "style": 14,
+      "name": "Don't Show"
+    },
+    {
+      "$id": 244,
+      "label": "Option_Setting138",
+      "style": 14,
+      "name": "Show"
+    },
+    {
+      "$id": 245,
+      "label": "Option_Setting139",
+      "style": 14,
+      "name": ""
+    },
+    {
+      "$id": 246,
+      "label": "Option_Setting140",
+      "style": 14,
+      "name": ""
+    },
+    {
+      "$id": 247,
+      "label": "Option_Setting141",
+      "style": 14,
+      "name": ""
+    },
+    {
+      "$id": 248,
+      "label": "Option_Setting142",
+      "style": 14,
+      "name": ""
+    },
+    {
+      "$id": 249,
+      "label": "Option_Setting143",
+      "style": 14,
+      "name": "Original"
+    },
+    {
+      "$id": 250,
+      "label": "Option_Setting144",
+      "style": 14,
+      "name": "Arranged (lyrics)"
+    },
+    {
+      "$id": 251,
+      "label": "Option_Setting145",
+      "style": 14,
+      "name": "Japanese"
+    },
+    {
+      "$id": 252,
+      "label": "Option_Setting146",
+      "style": 14,
+      "name": "English"
+    },
+    {
+      "$id": 253,
+      "label": "Option_Setting201",
+      "style": 14,
+      "name": "0"
+    },
+    {
+      "$id": 254,
+      "label": "Option_Setting202",
+      "style": 14,
+      "name": "+1"
+    },
+    {
+      "$id": 255,
+      "label": "Option_Setting203",
+      "style": 14,
+      "name": "+2"
+    },
+    {
+      "$id": 256,
+      "label": "Option_Setting204",
+      "style": 14,
+      "name": "+3"
+    },
+    {
+      "$id": 257,
+      "label": "Option_Setting205",
+      "style": 14,
+      "name": "+4"
+    },
+    {
+      "$id": 258,
+      "label": "Option_Setting206",
+      "style": 14,
+      "name": "+5"
+    },
+    {
+      "$id": 259,
+      "label": "Option_Setting207",
+      "style": 14,
+      "name": "+6"
+    },
+    {
+      "$id": 260,
+      "label": "Option_Setting208",
+      "style": 14,
+      "name": "-6"
+    },
+    {
+      "$id": 261,
+      "label": "Option_Setting209",
+      "style": 14,
+      "name": "-5"
+    },
+    {
+      "$id": 262,
+      "label": "Option_Setting210",
+      "style": 14,
+      "name": "-4"
+    },
+    {
+      "$id": 263,
+      "label": "Option_Setting211",
+      "style": 14,
+      "name": "-3"
+    },
+    {
+      "$id": 264,
+      "label": "Option_Setting212",
+      "style": 14,
+      "name": "-2"
+    },
+    {
+      "$id": 265,
+      "label": "Option_Setting213",
+      "style": 14,
+      "name": "-1"
+    },
+    {
+      "$id": 266,
+      "label": "Option_Setting301",
+      "style": 14,
+      "name": "Arranged (no lyrics)"
+    },
+    {
+      "$id": 267,
+      "label": "Option_title103",
+      "style": 32,
+      "name": "Skip Mission Acceptance Prompts"
+    },
+    {
+      "$id": 268,
+      "label": "Option_Caption103",
+      "style": 173,
+      "name": "Choose whether to skip over the usual prompt when accepting\nstory, affinity and normal missions.\n(When On: Normal missions will be accepted automatically. Story and\naffinity missions can still be turned down on the mission overview window.)"
+    }
+  ]
+}

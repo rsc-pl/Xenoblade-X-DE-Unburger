@@ -1,0 +1,666 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev013401_MSG0001",
+      "style": 1,
+      "name": "Hey, look! It's [ST:playername ]!\nWait, sorry. You don't know me, do you?[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev013401_MSG0002",
+      "style": 1,
+      "name": "I'm a BLADE, same as you! I'm with the Prospectors,\nso I mostly handle jobs where folks need natural\nresources surveyed and raw materials collected.[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev013401_MSG0078",
+      "style": 1,
+      "name": "You're in Elma's team, right? I'll bet working under the\ncolonel lets you see a lot of tough assignments.\nBut you're still breathing, so it must be going okay.[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev013401_JNK0010",
+      "style": 4,
+      "name": "Confirm"
+    },
+    {
+      "$id": 5,
+      "label": "qev013401_SEL0011",
+      "style": 3,
+      "name": "Tell Sarona that you're doing all right."
+    },
+    {
+      "$id": 6,
+      "label": "qev013401_JNK0020",
+      "style": 4,
+      "name": "Deny"
+    },
+    {
+      "$id": 7,
+      "label": "qev013401_SEL0021",
+      "style": 3,
+      "name": "Complain to Sarona about all your woes."
+    },
+    {
+      "$id": 8,
+      "label": "qev013401_MSG0003",
+      "style": 1,
+      "name": "You certainly look like you could handle any task\nfolks throw your way. I'm jealous![ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev013401_MSG0004",
+      "style": 1,
+      "name": "Like right now? I've got a request in to survey\na mountain way up north. It's a nasty spot,\nand I have no idea how to tackle it.[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev013401_MSG0005",
+      "style": 1,
+      "name": "Huh. I guess even people like you hit slumps.\nIt's almost a relief to hear that, actually.[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev013401_MSG0006",
+      "style": 1,
+      "name": "But I can relate. I got a request to survey a\nmountain way up north. It's a nasty spot,\nand I have no idea how to tackle it.[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev013401_MSG0007",
+      "style": 1,
+      "name": "The mountain itself is dangerous enough,\nbut then you add in all the weird wildlife...[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev013401_MSG0008",
+      "style": 1,
+      "name": "Not to mention it's been crawling with xenos\nlately for some reason.[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev013401_MSG0009",
+      "style": 1,
+      "name": "Especially those reptile-like ones. The Ma-non or\nwhatever? I bet they're using their crazy high-tech\nweapons to kill everything—indigens or humans![ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev013401_JNK0030",
+      "style": 4,
+      "name": "Agree"
+    },
+    {
+      "$id": 16,
+      "label": "qev013401_SEL0031",
+      "style": 3,
+      "name": "Confirm that the Ma-non are indeed crazed killers."
+    },
+    {
+      "$id": 17,
+      "label": "qev013401_JNK0040",
+      "style": 4,
+      "name": "Disagree"
+    },
+    {
+      "$id": 18,
+      "label": "qev013401_SEL0041",
+      "style": 3,
+      "name": "Scoff at Sarona's assertions about the Ma-non."
+    },
+    {
+      "$id": 19,
+      "label": "qev013401_MSG0010",
+      "style": 1,
+      "name": "Right?! I heard they're plotting out all sorts of\nnasty stuff in that spaceship of theirs. I think\nthey're planning to take over New LA![ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev013401_MSG0011",
+      "style": 1,
+      "name": "No way! My buddy says they're all super dangerous.\nThey'll kill you five times before you hit the ground![ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev013401_MSG0012",
+      "style": 1,
+      "name": "If they wanted, the tech on that spaceship of\ntheirs could burn New LA to a crisp in seconds.\nThey're just biding their time, I tell you![ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev013401_MSG0013",
+      "style": 1,
+      "name": "Me wandering alone on some treacherous peak\nfull of their kind sounds like crazy talk.[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev013401_MSG0014",
+      "style": 1,
+      "name": "So, uh... You free today?[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev013401_MSG0015",
+      "style": 1,
+      "name": "Come on, it'll be fun! Mountain climbing!\nWho doesn't love a good hike, eh?\nLet's go conquer this peak together![ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev013401_MSG0016",
+      "style": 1,
+      "name": "I'll even split the reward fifty-fifty. All you have to\ndo is beat up any weird xenos we come across!\n...Oh, and make sure I don't get fried.[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev013401_MSG0017",
+      "style": 1,
+      "name": "Whew, thanks! I've been so stressed out, I even had\na dream last night about being abducted by Ma-non!\nThey...did weird things to me.[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev013401_MSG0018",
+      "style": 1,
+      "name": "I gotta tell you, I was this close to just bailing\non the job entirely.[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev013401_JNK0050",
+      "style": 4,
+      "name": "Scold"
+    },
+    {
+      "$id": 29,
+      "label": "qev013401_SEL0051",
+      "style": 3,
+      "name": "Tell Sarona to take her work more seriously."
+    },
+    {
+      "$id": 30,
+      "label": "qev013401_JNK0060",
+      "style": 4,
+      "name": "Console"
+    },
+    {
+      "$id": 31,
+      "label": "qev013401_SEL0061",
+      "style": 3,
+      "name": "Sympathize with Sarona."
+    },
+    {
+      "$id": 32,
+      "label": "qev013401_MSG0019",
+      "style": 1,
+      "name": "Yeesh, sorry! Didn't know you were so serious,\ngeez...[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev013401_MSG0020",
+      "style": 1,
+      "name": "I want to be useful to the city too, you know?\nI'm just scared.[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev013401_MSG0021",
+      "style": 1,
+      "name": "You're real easy to talk to, you know that?\nUs BLADEs aren't robots—sometimes you get\na job you just don't feel like doing.[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev013401_MSG0022",
+      "style": 1,
+      "name": "But I get that we don't always have the luxury of\nbeing choosy.[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev013401_MSG0023",
+      "style": 1,
+      "name": "I feel way better about going now that you're coming\nalong, though.[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev013401_MSG0024",
+      "style": 1,
+      "name": "I mean, I know we're going for serious work reasons,\nbut it should still be fun, right? Clean air? Nice views?\nMountains are great![ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev013401_MSG0025",
+      "style": 1,
+      "name": "I'll go ahead and wait for you at the foot of the\nmountain, near the second terrane of Talon Rock.\nDon't keep me waiting too long![ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "qev013401_MSG0026",
+      "style": 1,
+      "name": "There you are! Hey, did you remember to bring food?\nWhat about warm clothes? Climbing tools?\nAvalanche probe?[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "qev013401_MSG0027",
+      "style": 1,
+      "name": "Between rockslides and falls, a mountain can be more\ndangerous than any of the animals living on it.[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "qev013401_MSG0083",
+      "style": 1,
+      "name": "Gotta stay focused, even if you know the area well![ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "qev013401_MSG0084",
+      "style": 1,
+      "name": "Assure"
+    },
+    {
+      "$id": 43,
+      "label": "qev013401_MSG0085",
+      "style": 1,
+      "name": "Tell Sarona that you're all good to go."
+    },
+    {
+      "$id": 44,
+      "label": "qev013401_MSG0086",
+      "style": 1,
+      "name": "Boast"
+    },
+    {
+      "$id": 45,
+      "label": "qev013401_MSG0087",
+      "style": 1,
+      "name": "Express how easy this will be for you."
+    },
+    {
+      "$id": 46,
+      "label": "qev013401_MSG0090",
+      "style": 1,
+      "name": "Awesome! Oh, and on my way here, I did a bit of\npreliminary digging just because, and I've already\nfound some crazy stuff![ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "qev013401_MSG0047",
+      "style": 1,
+      "name": "Wait, are you some kind of expert climber, too?\nI knew I'd be leaving the fighting to you, but I hoped\nI could at least be the Sherpa guide![ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "qev013401_MSG0048",
+      "style": 1,
+      "name": "Ah, well. Anyway, on my way here, I did a bit of\npreliminary digging, and I've already found some\ncrazy stuff![ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "qev013401_MSG0066",
+      "style": 1,
+      "name": "Like, here I have some lionbone bort and foucaultium—\nboth minerals used in making Skells and weapons.\nA pretty valuable find, that![ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "qev013401_MSG0067",
+      "style": 1,
+      "name": "If we can find some more samples, we'll have enough\nto run purity tests. Want to help me look?[ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "qev013401_MSG0068",
+      "style": 1,
+      "name": "Great! Then let's meet back here once we've found\na few more samples of both. Sound good?[ST:wait ]"
+    },
+    {
+      "$id": 52,
+      "label": "qev013401_MSG0069",
+      "style": 1,
+      "name": "Just be sure to watch out for wild animals. And xenos.\n...Oh, and yetis, even though I don't think they exist.[ST:wait ]"
+    },
+    {
+      "$id": 53,
+      "label": "qev013401_MSG0074",
+      "style": 1,
+      "name": "I don't see much lionbone bort or foucaultium here.\nWhy don't you try looking over that way?[ST:wait ]"
+    },
+    {
+      "$id": 54,
+      "label": "qev013401_MSG0075",
+      "style": 1,
+      "name": "And keep watch for wild animals and killer xenos![ST:wait ]"
+    },
+    {
+      "$id": 55,
+      "label": "qev013401_MSG0079",
+      "style": 1,
+      "name": "Shhh! You're safe now. Try to calm down, okay?\nIf you cry, that thing might hear you.[ST:wait ]"
+    },
+    {
+      "$id": 56,
+      "label": "qev013401_MSG0080",
+      "style": 1,
+      "name": "R-right. I understand. B-but are you sure?\nAbout me?[ST:wait ]"
+    },
+    {
+      "$id": 57,
+      "label": "qev013401_MSG0081",
+      "style": 1,
+      "name": "I'm a Ma-non, you know? You called me a killer alien,\nbut but but then you helped me anyway...[ST:wait ]"
+    },
+    {
+      "$id": 58,
+      "label": "qev013401_MSG0082",
+      "style": 1,
+      "name": "Y-yeah, well... I was only kidding!\nIt's a, uh...term of endearment.[ST:wait ]"
+    },
+    {
+      "$id": 59,
+      "label": "qev013401_MSG0028",
+      "style": 1,
+      "name": "Inquire"
+    },
+    {
+      "$id": 60,
+      "label": "qev013401_MSG0029",
+      "style": 1,
+      "name": "Ask Sarona what happened."
+    },
+    {
+      "$id": 61,
+      "label": "qev013401_MSG0030",
+      "style": 1,
+      "name": "Praise"
+    },
+    {
+      "$id": 62,
+      "label": "qev013401_MSG0031",
+      "style": 1,
+      "name": "Tell Sarona you're proud of her."
+    },
+    {
+      "$id": 63,
+      "label": "qev013401_MSG0034",
+      "style": 1,
+      "name": "Ah, [ST:playername ]! Perfect timing.[ST:wait ]"
+    },
+    {
+      "$id": 64,
+      "label": "qev013401_MSG0035",
+      "style": 1,
+      "name": "We were near this bridge-like formation up ahead\nwhen a ferocious cinicula attacked. I just grabbed\nthis kid here and ran like the wind![ST:wait ]"
+    },
+    {
+      "$id": 65,
+      "label": "qev013401_MSG0038",
+      "style": 1,
+      "name": "Ah, [ST:playername ]! Perfect timing.[ST:wait ]"
+    },
+    {
+      "$id": 66,
+      "label": "qev013401_MSG0040",
+      "style": 1,
+      "name": "What, this? Well, I couldn't just leave a little girl to get\neaten alive! Even if she IS a xeno.[ST:wait ]"
+    },
+    {
+      "$id": 67,
+      "label": "qev013401_MSG0041",
+      "style": 1,
+      "name": "We were near this bridge-like formation up ahead\nwhen we were suddenly attacked by a ferocious\nmountain cinicula![ST:wait ]"
+    },
+    {
+      "$id": 68,
+      "label": "qev013401_MSG0044",
+      "style": 1,
+      "name": "Sorry to be a pain, but...do you think you could jog\nover there and take care of it for me? You know?\nPop-pop, two in the hat?[ST:wait ]"
+    },
+    {
+      "$id": 69,
+      "label": "qev013401_MSG0045",
+      "style": 1,
+      "name": "I'll look after this girl while you take care of business.\nI can catch you up on the details after.[ST:wait ]"
+    },
+    {
+      "$id": 70,
+      "label": "qev013401_MSG0052",
+      "style": 1,
+      "name": "This girl is still pretty panicked, and if we don't calm\nher down soon, some other giant monster is bound to\nappear. Some creatures smell fear, you know?[ST:wait ]"
+    },
+    {
+      "$id": 71,
+      "label": "qev013401_MSG0053",
+      "style": 1,
+      "name": "So please, go take care of that mountain cinicula.\nYou should be able to find it up ahead near the\nnatural bridge formation.[ST:wait ]"
+    },
+    {
+      "$id": 72,
+      "label": "qev013401_MSG0088",
+      "style": 1,
+      "name": "Yeesh, we could hear that cinicula's screams from here.\nHopefully we can get to the summit in peace now.[ST:wait ]"
+    },
+    {
+      "$id": 73,
+      "label": "qev013401_MSG0089",
+      "style": 1,
+      "name": "You're headed to the top to gather materials too, right,\nInisae? Want to come with us?[ST:wait ]"
+    },
+    {
+      "$id": 74,
+      "label": "qev013401_MSG0091",
+      "style": 1,
+      "name": "Oh...really? I mean, it's been so much fun having\nsomeone to talk to...but but are you sure I won't\nbe getting in your way?[ST:wait ]"
+    },
+    {
+      "$id": 75,
+      "label": "qev013401_MSG0092",
+      "style": 1,
+      "name": "Don't be silly! Besides, I owe you one for the candy\nyou gave me.[ST:wait ]"
+    },
+    {
+      "$id": 76,
+      "label": "qev013401_MSG0054",
+      "style": 1,
+      "name": "Oh! Speaking of! You've gotta try this chocolate,\n[ST:playername ].[ST:wait ]"
+    },
+    {
+      "$id": 77,
+      "label": "qev013401_MSG0055",
+      "style": 1,
+      "name": "This stuff is bananas! Ba! Nanas! ...By which I mean\ncrazy. Not that it tastes like bananas. Apparently,\nit's all the rage with the Ma-non kids these days.[ST:wait ]"
+    },
+    {
+      "$id": 78,
+      "label": "qev013401_JNK0110",
+      "style": 4,
+      "name": "Accept"
+    },
+    {
+      "$id": 79,
+      "label": "qev013401_SEL0111",
+      "style": 3,
+      "name": "Taste some of the Ma-non chocolate."
+    },
+    {
+      "$id": 80,
+      "label": "qev013401_JNK0120",
+      "style": 4,
+      "name": "Decline"
+    },
+    {
+      "$id": 81,
+      "label": "qev013401_SEL0121",
+      "style": 3,
+      "name": "Turn down the offer to try the chocolate."
+    },
+    {
+      "$id": 82,
+      "label": "qev013401_MSG0056",
+      "style": 1,
+      "name": "It's sweet, but there's this perfect hint of bitter, right?\nI haven't tasted anything like it in New LA.[ST:wait ]"
+    },
+    {
+      "$id": 83,
+      "label": "qev013401_MSG0039",
+      "style": 1,
+      "name": "Well? What do you think? I mean, am I crazy, or is it\nthe most amazing thing in the history of things?![ST:wait ]"
+    },
+    {
+      "$id": 84,
+      "label": "qev013401_MSG0057",
+      "style": 1,
+      "name": "You are 10 kinds of nuts for passing this up!\nIt's sweet, but there's this perfect hint of bitter.\nRevolutionizes chocolate. I'm serious.[ST:wait ]"
+    },
+    {
+      "$id": 85,
+      "label": "qev013401_MSG0058",
+      "style": 1,
+      "name": "Yeesh, don't be afraid of it just because the Ma-non\nmade it! Kinda small minded if you ask me...[ST:wait ]"
+    },
+    {
+      "$id": 86,
+      "label": "qev013401_MSG0059",
+      "style": 1,
+      "name": "Mmm... Seriously though, how do you make this?\nI wanna marry it. Then I want it stuffed into my\ncoffin when I die.[ST:wait ]"
+    },
+    {
+      "$id": 87,
+      "label": "qev013401_MSG0060",
+      "style": 1,
+      "name": "Er, well, the viscera of the cinicula are dried out and\ncondensed before being reconstituted with bile.\nThe resulting treat is both delicious AND nutritious, no?[ST:wait ]"
+    },
+    {
+      "$id": 88,
+      "label": "qev013401_MSG0061",
+      "style": 1,
+      "name": "PFFFTHRRBPPPBBBT! NO! Are you SERIOUS, Inisae?!\nGirl, you gotta tell me these things ahead of time![ST:wait ]"
+    },
+    {
+      "$id": 89,
+      "label": "qev013401_MSG0062",
+      "style": 1,
+      "name": "Is that a problem? I know that ciniculas are dangerous\nprimordial creatures, but their flesh contains no poison\nwhatsoever, you know?[ST:wait ]"
+    },
+    {
+      "$id": 90,
+      "label": "qev013401_MSG0063",
+      "style": 1,
+      "name": "Almost wish it did...blech. Er, but no, there's no\nproblem, Inisae. It was still very nice of you to share.\nLet's just...head for the summit.[ST:wait ]"
+    },
+    {
+      "$id": 91,
+      "label": "qev013401_MSG0064",
+      "style": 1,
+      "name": "Hey, [ST:playername ]?\nInisae and me are gonna walk and talk for a bit.\nMeet you at the top, okay?[ST:wait ]"
+    },
+    {
+      "$id": 92,
+      "label": "qev013401_MSG0065",
+      "style": 1,
+      "name": "Rrgh...nnh...[ST:wait ]"
+    },
+    {
+      "$id": 93,
+      "label": "qev013401_MSG0093",
+      "style": 1,
+      "name": "I-is that you...[ST:playername ]?\n...Ah! Inisae![ST:wait ]"
+    },
+    {
+      "$id": 94,
+      "label": "qev013401_MSG0094",
+      "style": 1,
+      "name": "Where's Inisae?! Is she with you?![ST:wait ]"
+    },
+    {
+      "$id": 95,
+      "label": "qev013401_JNK0130",
+      "style": 4,
+      "name": "Inform"
+    },
+    {
+      "$id": 96,
+      "label": "qev013401_SEL0131",
+      "style": 3,
+      "name": "Tell Sarona you haven't seen Inisae."
+    },
+    {
+      "$id": 97,
+      "label": "qev013401_JNK0140",
+      "style": 4,
+      "name": "Inquire"
+    },
+    {
+      "$id": 98,
+      "label": "qev013401_SEL0141",
+      "style": 3,
+      "name": "Ask Sarona what happened."
+    },
+    {
+      "$id": 99,
+      "label": "qev013401_MSG0095",
+      "style": 1,
+      "name": "No?! ...But that must mean that thing carried her off![ST:wait ]"
+    },
+    {
+      "$id": 100,
+      "label": "qev013401_MSG0096",
+      "style": 1,
+      "name": "Sorry. I shouldn't panic. I'm glad YOU kept calm\nat least.[ST:wait ]"
+    },
+    {
+      "$id": 101,
+      "label": "qev013401_MSG0097",
+      "style": 1,
+      "name": "I've read about a type of blatta that lives up here called\nthe abyssal blatta. I guess we found one.[ST:wait ]"
+    },
+    {
+      "$id": 102,
+      "label": "qev013401_MSG0098",
+      "style": 1,
+      "name": "We must have been gathering mineral samples in its\nterritory, which is why it got mad and dive-bombed us.[ST:wait ]"
+    },
+    {
+      "$id": 103,
+      "label": "qev013401_MSG0099",
+      "style": 1,
+      "name": "Inisae pushed me out of the way—she probably saved\nmy life.[ST:wait ]"
+    },
+    {
+      "$id": 104,
+      "label": "qev013401_MSG0100",
+      "style": 1,
+      "name": "Then I saw the thing fly off into that cave up ahead.[ST:wait ]"
+    },
+    {
+      "$id": 105,
+      "label": "qev013401_MSG0101",
+      "style": 1,
+      "name": "Please! You've gotta help me find Inisae![ST:wait ]"
+    },
+    {
+      "$id": 106,
+      "label": "qev013401_MSG0102",
+      "style": 1,
+      "name": "I know we only just met, but she's...my friend.[ST:wait ]"
+    },
+    {
+      "$id": 107,
+      "label": "qev013401_MSG0103",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 108,
+      "label": "qev013401_MSG0104",
+      "style": 1,
+      "name": ""
+    }
+  ]
+}

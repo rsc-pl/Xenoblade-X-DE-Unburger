@@ -1,0 +1,2040 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "SHP_ITM_SKL_DL_CAT_STATUS_UP_name",
+      "style": 18,
+      "name": "Stat Augments"
+    },
+    {
+      "$id": 2,
+      "label": "SHP_ITM_SKL_DL_CAT_BLOCK_DMG_name",
+      "style": 18,
+      "name": "Attribute Res Augments"
+    },
+    {
+      "$id": 3,
+      "label": "SHP_ITM_SKL_DL_CAT_FUEL_name",
+      "style": 18,
+      "name": "Fuel Augments"
+    },
+    {
+      "$id": 4,
+      "label": "SHP_ITM_SKL_DL_CAT_WP_SPEC_name",
+      "style": 18,
+      "name": "Weapon Mod Augments"
+    },
+    {
+      "$id": 5,
+      "label": "SHP_ITM_SKL_DL_CAT_RESIST_DEBUFF_name",
+      "style": 18,
+      "name": "Debuff Res Augments"
+    },
+    {
+      "$id": 6,
+      "label": "SHP_ITM_SKL_DL_CAT_CRTC_UP_name",
+      "style": 18,
+      "name": "Critical Augments"
+    },
+    {
+      "$id": 7,
+      "label": "SHP_ITM_SKL_DL_CAT_FAMILY_KILLER_name",
+      "style": 18,
+      "name": "Enemy Exploit Augments"
+    },
+    {
+      "$id": 8,
+      "label": "SHP_ITM_SKL_DL_CAT_ATK_UP_name",
+      "style": 18,
+      "name": "Attack Augments"
+    },
+    {
+      "$id": 9,
+      "label": "SHP_ITM_SKL_DL_CAT_REC_DMG_name",
+      "style": 18,
+      "name": "Antidamage Augments"
+    },
+    {
+      "$id": 10,
+      "label": "SHP_ITM_SKL_DL_CAT_OCG_name",
+      "style": 18,
+      "name": "Overdrive Augments"
+    },
+    {
+      "$id": 11,
+      "label": "SHP_ITM_SKL_DL_CAT_ARTS_SPEC_name",
+      "style": 18,
+      "name": "Art Mod Augments"
+    },
+    {
+      "$id": 12,
+      "label": "SHP_ITM_SKL_DL_CAT_SPECIAL_name",
+      "style": 18,
+      "name": "Special Augments"
+    },
+    {
+      "$id": 13,
+      "label": "SHP_ITM_SKL_DL_CAT_WEATHER_name",
+      "style": 18,
+      "name": "Anticlimate Augments"
+    },
+    {
+      "$id": 14,
+      "label": "SHP_ITM_SKL_DL_HPMAX01_P_name",
+      "style": 18,
+      "name": "SpecUp.HP-MAX"
+    },
+    {
+      "$id": 15,
+      "label": "SHP_ITM_SKL_DL_TPMAX01_P_name",
+      "style": 18,
+      "name": ""
+    },
+    {
+      "$id": 16,
+      "label": "SHP_ITM_SKL_DL_F_DEX01_P_name",
+      "style": 18,
+      "name": "SpecUp.M-ACC"
+    },
+    {
+      "$id": 17,
+      "label": "SHP_ITM_SKL_DL_S_DEX01_P_name",
+      "style": 18,
+      "name": "SpecUp.R-ACC"
+    },
+    {
+      "$id": 18,
+      "label": "SHP_ITM_SKL_DL_EVA01_P_name",
+      "style": 18,
+      "name": "SpecUp.EVA"
+    },
+    {
+      "$id": 19,
+      "label": "SHP_ITM_SKL_DL_F_POW01_P_name",
+      "style": 18,
+      "name": "SpecUp.M-ATK"
+    },
+    {
+      "$id": 20,
+      "label": "SHP_ITM_SKL_DL_S_POW01_P_name",
+      "style": 18,
+      "name": "SpecUp.R-ATK"
+    },
+    {
+      "$id": 21,
+      "label": "SHP_ITM_SKL_DL_M_POW01_P_name",
+      "style": 18,
+      "name": "SpecUp.PTL"
+    },
+    {
+      "$id": 22,
+      "label": "SHP_ITM_SKL_DL_PARTSHP01_P_name",
+      "style": 18,
+      "name": "SpecUp.APP-HP"
+    },
+    {
+      "$id": 23,
+      "label": "SHP_ITM_SKL_DL_HPMAX01_R_name",
+      "style": 18,
+      "name": "Boost.HP-MAX"
+    },
+    {
+      "$id": 24,
+      "label": "SHP_ITM_SKL_DL_TPMAX01_R_name",
+      "style": 18,
+      "name": ""
+    },
+    {
+      "$id": 25,
+      "label": "SHP_ITM_SKL_DL_F_DEX01_R_name",
+      "style": 18,
+      "name": "Boost.M-ACC"
+    },
+    {
+      "$id": 26,
+      "label": "SHP_ITM_SKL_DL_S_DEX01_R_name",
+      "style": 18,
+      "name": "Boost.R-ACC"
+    },
+    {
+      "$id": 27,
+      "label": "SHP_ITM_SKL_DL_EVA01_R_name",
+      "style": 18,
+      "name": "Boost.EVA"
+    },
+    {
+      "$id": 28,
+      "label": "SHP_ITM_SKL_DL_F_ROW01_R_name",
+      "style": 18,
+      "name": "Boost.M-ATK"
+    },
+    {
+      "$id": 29,
+      "label": "SHP_ITM_SKL_DL_S_ROW01_R_name",
+      "style": 18,
+      "name": "Boost.R-ATK"
+    },
+    {
+      "$id": 30,
+      "label": "SHP_ITM_SKL_DL_M_ROW01_R_name",
+      "style": 18,
+      "name": "Boost.PTL"
+    },
+    {
+      "$id": 31,
+      "label": "SHP_ITM_SKL_DL_G_LEVUP01_name",
+      "style": 18,
+      "name": ""
+    },
+    {
+      "$id": 32,
+      "label": "SHP_ITM_SKL_DL_ANTI_PH01_P_name",
+      "style": 18,
+      "name": "SpecUp.PHYS-RES"
+    },
+    {
+      "$id": 33,
+      "label": "SHP_ITM_SKL_DL_ANTI_BM01_P_name",
+      "style": 18,
+      "name": "SpecUp.BEAM-RES"
+    },
+    {
+      "$id": 34,
+      "label": "SHP_ITM_SKL_DL_ANTI_TH01_P_name",
+      "style": 18,
+      "name": "SpecUp.ELEC-RES"
+    },
+    {
+      "$id": 35,
+      "label": "SHP_ITM_SKL_DL_ANTI_FR01_P_name",
+      "style": 18,
+      "name": "SpecUp.THERM-RES"
+    },
+    {
+      "$id": 36,
+      "label": "SHP_ITM_SKL_DL_ANTI_ET01_P_name",
+      "style": 18,
+      "name": "SpecUp.ETHER-RES"
+    },
+    {
+      "$id": 37,
+      "label": "SHP_ITM_SKL_DL_ANTI_GR01_P_name",
+      "style": 18,
+      "name": "SpecUp.GRAV-RES"
+    },
+    {
+      "$id": 38,
+      "label": "SHP_ITM_SKL_DL_FUELMAX_UP01_name",
+      "style": 18,
+      "name": "SpecUp.FUEL-MAX"
+    },
+    {
+      "$id": 39,
+      "label": "SHP_ITM_SKL_DL_MILEAGE_UP01_name",
+      "style": 18,
+      "name": "SpecUp.FUEL-COST"
+    },
+    {
+      "$id": 40,
+      "label": "SHP_ITM_SKL_DL_FUEL_STAND_UP01_name",
+      "style": 18,
+      "name": "SpecUp.FUEL-PARK"
+    },
+    {
+      "$id": 41,
+      "label": "SHP_ITM_SKL_DL_FUEL_CATCH_UP01_name",
+      "style": 18,
+      "name": "SpecUp.FUEL-BIND"
+    },
+    {
+      "$id": 42,
+      "label": "SHP_ITM_SKL_DL_FUEL_GEAR_UP01_name",
+      "style": 18,
+      "name": "SpecUp.FUEL-OD"
+    },
+    {
+      "$id": 43,
+      "label": "SHP_ITM_SKL_DL_CTM_POW01_name",
+      "style": 18,
+      "name": "Custom.WP-ATK"
+    },
+    {
+      "$id": 44,
+      "label": "SHP_ITM_SKL_DL_CTM_BAL01_name",
+      "style": 18,
+      "name": "Custom.WP-STABLE"
+    },
+    {
+      "$id": 45,
+      "label": "SHP_ITM_SKL_DL_CTM_BRK01_name",
+      "style": 18,
+      "name": "Custom.WP-DESTABLE"
+    },
+    {
+      "$id": 46,
+      "label": "SHP_ITM_SKL_DL_CTM_MAG_R01_name",
+      "style": 18,
+      "name": ""
+    },
+    {
+      "$id": 47,
+      "label": "SHP_ITM_SKL_DL_CTM_MAG_M01_name",
+      "style": 18,
+      "name": ""
+    },
+    {
+      "$id": 48,
+      "label": "SHP_ITM_SKL_DL_CTM_F_TP00_name",
+      "style": 18,
+      "name": "Custom.WP-M-GP"
+    },
+    {
+      "$id": 49,
+      "label": "SHP_ITM_SKL_DL_CTM_S_TP00_name",
+      "style": 18,
+      "name": "Custom.WP-R-GP "
+    },
+    {
+      "$id": 50,
+      "label": "SHP_ITM_SKL_DL_CTM_SPD01_name",
+      "style": 18,
+      "name": "Custom.WP-SPEED"
+    },
+    {
+      "$id": 51,
+      "label": "SHP_ITM_SKL_DL_CTM_RNG01_name",
+      "style": 18,
+      "name": "Custom.WP-R-RANGE"
+    },
+    {
+      "$id": 52,
+      "label": "SHP_ITM_SKL_DL_CTM_MILEAGE01_name",
+      "style": 18,
+      "name": "Custom.WP-FUEL"
+    },
+    {
+      "$id": 53,
+      "label": "SHP_ITM_SKL_DL_REG_BREAK01_name",
+      "style": 18,
+      "name": "Resist.STAGGER"
+    },
+    {
+      "$id": 54,
+      "label": "SHP_ITM_SKL_DL_REG_FLINCH01_name",
+      "style": 18,
+      "name": "Resist.FLINCH"
+    },
+    {
+      "$id": 55,
+      "label": "SHP_ITM_SKL_DL_REG_DOWN01_name",
+      "style": 18,
+      "name": "Resist.TOPPLE"
+    },
+    {
+      "$id": 56,
+      "label": "SHP_ITM_SKL_DL_REG_KNOCK01_name",
+      "style": 18,
+      "name": "Resist.KNOCKBACK"
+    },
+    {
+      "$id": 57,
+      "label": "SHP_ITM_SKL_DL_REG_BLOW01_name",
+      "style": 18,
+      "name": "Resist.LAUNCH"
+    },
+    {
+      "$id": 58,
+      "label": "SHP_ITM_SKL_DL_REG_STAN01_name",
+      "style": 18,
+      "name": "Resist.STUN"
+    },
+    {
+      "$id": 59,
+      "label": "SHP_ITM_SKL_DL_REG_SLEEP01_name",
+      "style": 18,
+      "name": "Resist.SLEEP"
+    },
+    {
+      "$id": 60,
+      "label": "SHP_ITM_SKL_DL_REG_TAUNT01_name",
+      "style": 18,
+      "name": "Resist.TAUNT"
+    },
+    {
+      "$id": 61,
+      "label": "SHP_ITM_SKL_DL_REG_CTR01_name",
+      "style": 18,
+      "name": "Resist.CONTROL"
+    },
+    {
+      "$id": 62,
+      "label": "SHP_ITM_SKL_DL_REG_VIRSUS01_name",
+      "style": 18,
+      "name": "Resist.VIRUS"
+    },
+    {
+      "$id": 63,
+      "label": "SHP_ITM_SKL_DL_REG_BLACK01_name",
+      "style": 18,
+      "name": "Resist.BLACKOUT"
+    },
+    {
+      "$id": 64,
+      "label": "SHP_ITM_SKL_DL_REG_POWDN01_name",
+      "style": 18,
+      "name": "Resist.FATIGUE"
+    },
+    {
+      "$id": 65,
+      "label": "SHP_ITM_SKL_DL_REG_ASLOW01_name",
+      "style": 18,
+      "name": "Resist.SLOW-ARTS"
+    },
+    {
+      "$id": 66,
+      "label": "SHP_ITM_SKL_DL_REG_PH_DN01_name",
+      "style": 18,
+      "name": "Resist.PHYS-DOWN"
+    },
+    {
+      "$id": 67,
+      "label": "SHP_ITM_SKL_DL_REG_BM_DN01_name",
+      "style": 18,
+      "name": "Resist.BEAM-DOWN"
+    },
+    {
+      "$id": 68,
+      "label": "SHP_ITM_SKL_DL_REG_FR_DN01_name",
+      "style": 18,
+      "name": "Resist.THERM-DOWN"
+    },
+    {
+      "$id": 69,
+      "label": "SHP_ITM_SKL_DL_REG_TH_DN01_name",
+      "style": 18,
+      "name": "Resist.ELEC-DOWN"
+    },
+    {
+      "$id": 70,
+      "label": "SHP_ITM_SKL_DL_REG_ET_DN01_name",
+      "style": 18,
+      "name": "Resist.ETHER-DOWN"
+    },
+    {
+      "$id": 71,
+      "label": "SHP_ITM_SKL_DL_REG_GR_DN01_name",
+      "style": 18,
+      "name": "Resist.GRAV-DOWN"
+    },
+    {
+      "$id": 72,
+      "label": "SHP_ITM_SKL_DL_REG_CTBOM01_name",
+      "style": 18,
+      "name": "Resist.TIME-BOMB"
+    },
+    {
+      "$id": 73,
+      "label": "SHP_ITM_SKL_DL_REG_DEBDN01_name",
+      "style": 18,
+      "name": "Resist.DEBUFF-DOWN"
+    },
+    {
+      "$id": 74,
+      "label": "SHP_ITM_SKL_DL_REG_HP_HEALDN01_name",
+      "style": 18,
+      "name": ""
+    },
+    {
+      "$id": 75,
+      "label": "SHP_ITM_SKL_DL_REG_FR_DOT01_name",
+      "style": 18,
+      "name": "Resist.BLAZE"
+    },
+    {
+      "$id": 76,
+      "label": "SHP_ITM_SKL_DL_REG_TH_DOT01_name",
+      "style": 18,
+      "name": "Resist.SHOCK"
+    },
+    {
+      "$id": 77,
+      "label": "SHP_ITM_SKL_DL_REG_ALL01_name",
+      "style": 18,
+      "name": "CutTime.DEBUFF"
+    },
+    {
+      "$id": 78,
+      "label": "SHP_ITM_SKL_DL_CRTC_R_ALL01_name",
+      "style": 18,
+      "name": "CriticalUp"
+    },
+    {
+      "$id": 79,
+      "label": "SHP_ITM_SKL_DL_CRTC_R_BEAST01_name",
+      "style": 18,
+      "name": "CritUp.THEROID"
+    },
+    {
+      "$id": 80,
+      "label": "SHP_ITM_SKL_DL_CRTC_R_INSECT01_name",
+      "style": 18,
+      "name": "CritUp.INSECTOID"
+    },
+    {
+      "$id": 81,
+      "label": "SHP_ITM_SKL_DL_CRTC_R_MEGAFLY01_name",
+      "style": 18,
+      "name": "CritUp.PISCINOID"
+    },
+    {
+      "$id": 82,
+      "label": "SHP_ITM_SKL_DL_CRTC_R_ALIEN01_name",
+      "style": 18,
+      "name": "CritUp.HUMANOID"
+    },
+    {
+      "$id": 83,
+      "label": "SHP_ITM_SKL_DL_CRTC_R_MACHINE01_name",
+      "style": 18,
+      "name": "CritUp.MECHANOID"
+    },
+    {
+      "$id": 84,
+      "label": "SHP_ITM_SKL_DL_CRTC_R_KIMERA01_name",
+      "style": 18,
+      "name": "CritUp.CHIMEROID"
+    },
+    {
+      "$id": 85,
+      "label": "SHP_ITM_SKL_DL_CRTC_R_TERESIA01_name",
+      "style": 18,
+      "name": "CritUp.ULTRAFAUNA"
+    },
+    {
+      "$id": 86,
+      "label": "SHP_ITM_SKL_DL_CRTC_P_STAGE01_name",
+      "style": 18,
+      "name": ""
+    },
+    {
+      "$id": 87,
+      "label": "SHP_ITM_SKL_DL_KILL_BEAST01_name",
+      "style": 18,
+      "name": "Slayer.THEROID"
+    },
+    {
+      "$id": 88,
+      "label": "SHP_ITM_SKL_DL_KILL_INSECT01_name",
+      "style": 18,
+      "name": "Slayer.INSECTOID"
+    },
+    {
+      "$id": 89,
+      "label": "SHP_ITM_SKL_DL_KILL_MEGAFLY01_name",
+      "style": 18,
+      "name": "Slayer.PISCINOID"
+    },
+    {
+      "$id": 90,
+      "label": "SHP_ITM_SKL_DL_KILL_ALIEN01_name",
+      "style": 18,
+      "name": "Slayer.HUMANOID"
+    },
+    {
+      "$id": 91,
+      "label": "SHP_ITM_SKL_DL_KILL_MACHINE01_name",
+      "style": 18,
+      "name": "Slayer.MECHANOID"
+    },
+    {
+      "$id": 92,
+      "label": "SHP_ITM_SKL_DL_KILL_KIMERA01_name",
+      "style": 18,
+      "name": "Slayer.CHIMEROID"
+    },
+    {
+      "$id": 93,
+      "label": "SHP_ITM_SKL_DL_KILL_TERESIA01_name",
+      "style": 18,
+      "name": "Slayer.ULTRAFAUNA"
+    },
+    {
+      "$id": 94,
+      "label": "SHP_ITM_SKL_DL_ATK_PH01_name",
+      "style": 18,
+      "name": "AttributeDmg.PHYS"
+    },
+    {
+      "$id": 95,
+      "label": "SHP_ITM_SKL_DL_ATK_BM01_name",
+      "style": 18,
+      "name": "AttributeDmg.BEAM"
+    },
+    {
+      "$id": 96,
+      "label": "SHP_ITM_SKL_DL_ATK_ET01_name",
+      "style": 18,
+      "name": "AttributeDmg.ETHER"
+    },
+    {
+      "$id": 97,
+      "label": "SHP_ITM_SKL_DL_ATK_FR01_name",
+      "style": 18,
+      "name": "AttributeDmg.THERM"
+    },
+    {
+      "$id": 98,
+      "label": "SHP_ITM_SKL_DL_ATK_TH01_name",
+      "style": 18,
+      "name": "AttributeDmg.ELEC"
+    },
+    {
+      "$id": 99,
+      "label": "SHP_ITM_SKL_DL_ATK_GR01_name",
+      "style": 18,
+      "name": "AttributeDmg.GRAV"
+    },
+    {
+      "$id": 100,
+      "label": "SHP_ITM_SKL_DL_ATK_FRONT01_name",
+      "style": 18,
+      "name": "PositionDmg.FRONT"
+    },
+    {
+      "$id": 101,
+      "label": "SHP_ITM_SKL_DL_ATK_SIDE01_name",
+      "style": 18,
+      "name": "PositionDmg.SIDE"
+    },
+    {
+      "$id": 102,
+      "label": "SHP_ITM_SKL_DL_ATK_BACK01_name",
+      "style": 18,
+      "name": "PositionDmg.BACK"
+    },
+    {
+      "$id": 103,
+      "label": "SHP_ITM_SKL_DL_ATK_HIGH01_name",
+      "style": 18,
+      "name": "PositionDmg.ABOVE"
+    },
+    {
+      "$id": 104,
+      "label": "SHP_ITM_SKL_DL_F_AT_BLACK01_name",
+      "style": 18,
+      "name": "M-Auto.BLACKOUT"
+    },
+    {
+      "$id": 105,
+      "label": "SHP_ITM_SKL_DL_F_AT_POWDN01_name",
+      "style": 18,
+      "name": "M-Auto.FATIGUE"
+    },
+    {
+      "$id": 106,
+      "label": "SHP_ITM_SKL_DL_F_AT_PH_DN01_name",
+      "style": 18,
+      "name": "M-Auto.PHYS-DOWN"
+    },
+    {
+      "$id": 107,
+      "label": "SHP_ITM_SKL_DL_F_AT_BM_DN01_name",
+      "style": 18,
+      "name": "M-Auto.BEAM-DOWN"
+    },
+    {
+      "$id": 108,
+      "label": "SHP_ITM_SKL_DL_F_AT_ET_DN01_name",
+      "style": 18,
+      "name": "M-Auto.ETHER-DOWN"
+    },
+    {
+      "$id": 109,
+      "label": "SHP_ITM_SKL_DL_F_AT_FR_DN01_name",
+      "style": 18,
+      "name": "M-Auto.THERM-DOWN"
+    },
+    {
+      "$id": 110,
+      "label": "SHP_ITM_SKL_DL_F_AT_TH_DN01_name",
+      "style": 18,
+      "name": "M-Auto.ELEC-DOWN"
+    },
+    {
+      "$id": 111,
+      "label": "SHP_ITM_SKL_DL_F_AT_GR_DN01_name",
+      "style": 18,
+      "name": "M-Auto.GRAV-DOWN"
+    },
+    {
+      "$id": 112,
+      "label": "SHP_ITM_SKL_DL_F_AT_FR_DOT01_name",
+      "style": 18,
+      "name": "M-Auto.BLAZE"
+    },
+    {
+      "$id": 113,
+      "label": "SHP_ITM_SKL_DL_F_AT_TH_DOT01_name",
+      "style": 18,
+      "name": "M-Auto.SHOCK"
+    },
+    {
+      "$id": 114,
+      "label": "SHP_ITM_SKL_DL_F_AT_HP_HEAL01_name",
+      "style": 18,
+      "name": "M-Auto.HP-RECOV"
+    },
+    {
+      "$id": 115,
+      "label": "SHP_ITM_SKL_DL_CT_TP01_name",
+      "style": 18,
+      "name": "Damage.GP-GAIN"
+    },
+    {
+      "$id": 116,
+      "label": "SHP_ITM_SKL_DL_PARTS_SHD01_name",
+      "style": 18,
+      "name": "Damage.APPEND"
+    },
+    {
+      "$id": 117,
+      "label": "SHP_ITM_SKL_DL_JAMMING01_name",
+      "style": 18,
+      "name": "Jamming"
+    },
+    {
+      "$id": 118,
+      "label": "SHP_ITM_SKL_DL_LOST_ATTACK01_name",
+      "style": 18,
+      "name": "AppendLost.ATK-UP"
+    },
+    {
+      "$id": 119,
+      "label": "SHP_ITM_SKL_DL_LOST_SPEED01_name",
+      "style": 18,
+      "name": "AppendLost.EVA-UP"
+    },
+    {
+      "$id": 120,
+      "label": "SHP_ITM_SKL_DL_LOST_REVENGE01_name",
+      "style": 18,
+      "name": "AppendLost.GP"
+    },
+    {
+      "$id": 121,
+      "label": "SHP_ITM_SKL_DL_REF_PLUS_PH00_name",
+      "style": 18,
+      "name": ""
+    },
+    {
+      "$id": 122,
+      "label": "SHP_ITM_SKL_DL_REF_PLUS_BM00_name",
+      "style": 18,
+      "name": ""
+    },
+    {
+      "$id": 123,
+      "label": "SHP_ITM_SKL_DL_REF_PLUS_ET00_name",
+      "style": 18,
+      "name": ""
+    },
+    {
+      "$id": 124,
+      "label": "SHP_ITM_SKL_DL_REF_PLUS_FR00_name",
+      "style": 18,
+      "name": ""
+    },
+    {
+      "$id": 125,
+      "label": "SHP_ITM_SKL_DL_REF_PLUS_TH00_name",
+      "style": 18,
+      "name": ""
+    },
+    {
+      "$id": 126,
+      "label": "SHP_ITM_SKL_DL_REF_PLUS_GR00_name",
+      "style": 18,
+      "name": ""
+    },
+    {
+      "$id": 127,
+      "label": "SHP_ITM_SKL_DL_REF_DMG_UP01_name",
+      "style": 18,
+      "name": "Reflect.DAMAGE-UP"
+    },
+    {
+      "$id": 128,
+      "label": "SHP_ITM_SKL_DL_REF_ATK_PH01_name",
+      "style": 18,
+      "name": "Reflect.NEG-PHYS"
+    },
+    {
+      "$id": 129,
+      "label": "SHP_ITM_SKL_DL_REF_ATK_BM01_name",
+      "style": 18,
+      "name": "Reflect.NEG-BEAM"
+    },
+    {
+      "$id": 130,
+      "label": "SHP_ITM_SKL_DL_REF_ATK_ET01_name",
+      "style": 18,
+      "name": "Reflect.NEG-ETHER"
+    },
+    {
+      "$id": 131,
+      "label": "SHP_ITM_SKL_DL_REF_ATK_FR01_name",
+      "style": 18,
+      "name": "Reflect.NEG-THERM"
+    },
+    {
+      "$id": 132,
+      "label": "SHP_ITM_SKL_DL_REF_ATK_TH01_name",
+      "style": 18,
+      "name": "Reflect.NEG-ELEC"
+    },
+    {
+      "$id": 133,
+      "label": "SHP_ITM_SKL_DL_REF_ATK_GR01_name",
+      "style": 18,
+      "name": "Reflect.NEG-GRAV"
+    },
+    {
+      "$id": 134,
+      "label": "SHP_ITM_SKL_DL_GEAR_ST_HP01_name",
+      "style": 18,
+      "name": "Overdrive.FRAME-HP"
+    },
+    {
+      "$id": 135,
+      "label": "SHP_ITM_SKL_DL_GEAR_ST_PHP01_name",
+      "style": 18,
+      "name": "Overdrive.APPEND-HP"
+    },
+    {
+      "$id": 136,
+      "label": "SHP_ITM_SKL_DL_GEAR_ST_CNT01_name",
+      "style": 18,
+      "name": "Overdrive.EXTEND"
+    },
+    {
+      "$id": 137,
+      "label": "SHP_ITM_SKL_DL_ARTS_ST_TP01_name",
+      "style": 18,
+      "name": "Arts.GP"
+    },
+    {
+      "$id": 138,
+      "label": "SHP_ITM_SKL_DL_TIME_EX_TAUNT01_name",
+      "style": 18,
+      "name": "TimeEx.TAUNT"
+    },
+    {
+      "$id": 139,
+      "label": "SHP_ITM_SKL_DL_TIME_EX_CONTROL01_name",
+      "style": 18,
+      "name": ""
+    },
+    {
+      "$id": 140,
+      "label": "SHP_ITM_SKL_DL_TIME_EX_SLEEP01_name",
+      "style": 18,
+      "name": "TimeEx.SLEEP"
+    },
+    {
+      "$id": 141,
+      "label": "SHP_ITM_SKL_DL_TIME_EX_VIRUS01_name",
+      "style": 18,
+      "name": "TimeEx.VIRUS"
+    },
+    {
+      "$id": 142,
+      "label": "SHP_ITM_SKL_DL_TIME_EX_BALCK01_name",
+      "style": 18,
+      "name": "TimeEx.BLACKOUT"
+    },
+    {
+      "$id": 143,
+      "label": "SHP_ITM_SKL_DL_TIME_EX_POWDN01_name",
+      "style": 18,
+      "name": "TimeEx.FATIGUE"
+    },
+    {
+      "$id": 144,
+      "label": "SHP_ITM_SKL_DL_TIME_EX_SLOW01_name",
+      "style": 18,
+      "name": "TimeEx.SLOW-ARTS"
+    },
+    {
+      "$id": 145,
+      "label": "SHP_ITM_SKL_DL_TIME_EX_RSTDN01_name",
+      "style": 18,
+      "name": "TimeEx.DEBUFF-DOWN"
+    },
+    {
+      "$id": 146,
+      "label": "SHP_ITM_SKL_DL_TIME_EX_HPDN01_name",
+      "style": 18,
+      "name": ""
+    },
+    {
+      "$id": 147,
+      "label": "SHP_ITM_SKL_DL_TIME_EX_FRDOT01_name",
+      "style": 18,
+      "name": "TimeEx.BLAZE"
+    },
+    {
+      "$id": 148,
+      "label": "SHP_ITM_SKL_DL_TIME_EX_THDOT01_name",
+      "style": 18,
+      "name": "TimeEx.SHOCK"
+    },
+    {
+      "$id": 149,
+      "label": "SHP_ITM_SKL_DL_TIME_EX_PHDN01_name",
+      "style": 18,
+      "name": "TimeEx.PHYS-DOWN"
+    },
+    {
+      "$id": 150,
+      "label": "SHP_ITM_SKL_DL_TIME_EX_BMDN01_name",
+      "style": 18,
+      "name": "TimeEx.BEAM-DOWN"
+    },
+    {
+      "$id": 151,
+      "label": "SHP_ITM_SKL_DL_TIME_EX_ETDN01_name",
+      "style": 18,
+      "name": "TimeEx.ETHER-DOWN"
+    },
+    {
+      "$id": 152,
+      "label": "SHP_ITM_SKL_DL_TIME_EX_FRDN01_name",
+      "style": 18,
+      "name": "TimeEx.THERM-DOWN"
+    },
+    {
+      "$id": 153,
+      "label": "SHP_ITM_SKL_DL_TIME_EX_THDN01_name",
+      "style": 18,
+      "name": "TimeEx.ELEC-DOWN"
+    },
+    {
+      "$id": 154,
+      "label": "SHP_ITM_SKL_DL_TIME_EX_GRDN01_name",
+      "style": 18,
+      "name": "TimeEx.GRAV-DOWN"
+    },
+    {
+      "$id": 155,
+      "label": "SHP_ITM_SKL_DL_FST_TP01_name",
+      "style": 18,
+      "name": ""
+    },
+    {
+      "$id": 156,
+      "label": "SHP_ITM_SKL_DL_FST_ARTS01_name",
+      "style": 18,
+      "name": "Draw.OPENING-DMG"
+    },
+    {
+      "$id": 157,
+      "label": "SHP_ITM_SKL_DL_FST_CRTC01_name",
+      "style": 18,
+      "name": ""
+    },
+    {
+      "$id": 158,
+      "label": "SHP_ITM_SKL_DL_FST_FDEX01_name",
+      "style": 18,
+      "name": ""
+    },
+    {
+      "$id": 159,
+      "label": "SHP_ITM_SKL_DL_FST_SDEX01_name",
+      "style": 18,
+      "name": ""
+    },
+    {
+      "$id": 160,
+      "label": "SHP_ITM_SKL_DL_FST_EVA01_name",
+      "style": 18,
+      "name": ""
+    },
+    {
+      "$id": 161,
+      "label": "SHP_ITM_SKL_DL_FST_FPOW01_name",
+      "style": 18,
+      "name": ""
+    },
+    {
+      "$id": 162,
+      "label": "SHP_ITM_SKL_DL_FST_SPOW01_name",
+      "style": 18,
+      "name": ""
+    },
+    {
+      "$id": 163,
+      "label": "SHP_ITM_SKL_DL_FST_MIND01_name",
+      "style": 18,
+      "name": ""
+    },
+    {
+      "$id": 164,
+      "label": "SHP_ITM_SKL_DL_FST_DARM01_name",
+      "style": 18,
+      "name": ""
+    },
+    {
+      "$id": 165,
+      "label": "SHP_ITM_SKL_DL_FST_BULLET01_name",
+      "style": 18,
+      "name": ""
+    },
+    {
+      "$id": 166,
+      "label": "SHP_ITM_SKL_DL_FST_FAKE01_name",
+      "style": 18,
+      "name": ""
+    },
+    {
+      "$id": 167,
+      "label": "SHP_ITM_SKL_DL_STEALTH_EYE01_name",
+      "style": 18,
+      "name": "Cloak.SIGHT"
+    },
+    {
+      "$id": 168,
+      "label": "SHP_ITM_SKL_DL_STEALTH_ROUND01_name",
+      "style": 18,
+      "name": "Cloak.SOUND"
+    },
+    {
+      "$id": 169,
+      "label": "SHP_ITM_SKL_DL_PARTS_TP01_name",
+      "style": 18,
+      "name": "Crush.GP"
+    },
+    {
+      "$id": 170,
+      "label": "SHP_ITM_SKL_DL_PARTS_DMG01_name",
+      "style": 18,
+      "name": "Crush.APPEND"
+    },
+    {
+      "$id": 171,
+      "label": "SHP_ITM_SKL_DL_EVA_SPIKE01_name",
+      "style": 18,
+      "name": "Spike.EVA"
+    },
+    {
+      "$id": 172,
+      "label": "SHP_ITM_SKL_DL_CAR_SPEED_UP01_name",
+      "style": 18,
+      "name": ""
+    },
+    {
+      "$id": 173,
+      "label": "SHP_ITM_SKL_DL_CAR_DEF_PARTS01_name",
+      "style": 18,
+      "name": "Vehicle.APPEND-DEF"
+    },
+    {
+      "$id": 174,
+      "label": "SHP_ITM_SKL_DL_CAR_DEF_FRAME01_name",
+      "style": 18,
+      "name": "Vehicle.FRAME-DEF"
+    },
+    {
+      "$id": 175,
+      "label": "SHP_ITM_SKL_DL_CAR_DEF_DEBUFF01_name",
+      "style": 18,
+      "name": "Vehicle.DEBUFF-RES"
+    },
+    {
+      "$id": 176,
+      "label": "SHP_ITM_SKL_DL_NIGHT_DEX01_name",
+      "style": 18,
+      "name": "Night.MR-ACC"
+    },
+    {
+      "$id": 177,
+      "label": "SHP_ITM_SKL_DL_WEATHER_FOG00_name",
+      "style": 18,
+      "name": "Weather.FOG-RES"
+    },
+    {
+      "$id": 178,
+      "label": "SHP_ITM_SKL_DL_WEATHER_RAIN00_name",
+      "style": 18,
+      "name": ""
+    },
+    {
+      "$id": 179,
+      "label": "SHP_ITM_SKL_DL_WEATHER_THUNDER00_name",
+      "style": 18,
+      "name": ""
+    },
+    {
+      "$id": 180,
+      "label": "SHP_ITM_SKL_DL_WEATHER_HRAIN00_name",
+      "style": 18,
+      "name": "Weather.HEAVY-RAIN-RES"
+    },
+    {
+      "$id": 181,
+      "label": "SHP_ITM_SKL_DL_WEATHER_HEATWAVE00_name",
+      "style": 18,
+      "name": ""
+    },
+    {
+      "$id": 182,
+      "label": "SHP_ITM_SKL_DL_WEATHER_SAND00_name",
+      "style": 18,
+      "name": "Weather.S-STORM-RES"
+    },
+    {
+      "$id": 183,
+      "label": "SHP_ITM_SKL_DL_WEATHER_TRAIN00_name",
+      "style": 18,
+      "name": ""
+    },
+    {
+      "$id": 184,
+      "label": "SHP_ITM_SKL_DL_WEATHER_ERECT00_name",
+      "style": 18,
+      "name": "Weather.EM-STORM-RES"
+    },
+    {
+      "$id": 185,
+      "label": "SHP_ITM_SKL_DL_WEATHER_PAR_A00_name",
+      "style": 18,
+      "name": "Weather.E-MIST-RES"
+    },
+    {
+      "$id": 186,
+      "label": "SHP_ITM_SKL_DL_WEATHER_PAR_B00_name",
+      "style": 18,
+      "name": "Weather.RISING-E-MIST-RES"
+    },
+    {
+      "$id": 187,
+      "label": "SHP_ITM_SKL_DL_WEATHER_FIRERAIN00_name",
+      "style": 18,
+      "name": ""
+    },
+    {
+      "$id": 188,
+      "label": "SHP_ITM_SKL_DL_WEATHER_OURA00_name",
+      "style": 18,
+      "name": ""
+    },
+    {
+      "$id": 189,
+      "label": "SHP_ITM_SKL_DL_WEATHER_REDOURA00_name",
+      "style": 18,
+      "name": ""
+    },
+    {
+      "$id": 190,
+      "label": "SHP_ITM_SKL_DL_WEATHER_HOUSI00_name",
+      "style": 18,
+      "name": "Weather.SPORE-RES"
+    },
+    {
+      "$id": 191,
+      "label": "SHP_ITM_SKL_DL_WEATHER_METOR00_name",
+      "style": 18,
+      "name": ""
+    },
+    {
+      "$id": 192,
+      "label": "SHP_ITM_SKL_DL_WEATHER_DMG01_name",
+      "style": 18,
+      "name": "Weather.DAMAGE-RES"
+    },
+    {
+      "$id": 193,
+      "label": "ITM_SKL_DL_HPMAX01_P_OUTLINE",
+      "style": 153,
+      "name": "Boosts maximum Skell HP."
+    },
+    {
+      "$id": 194,
+      "label": "ITM_SKL_DL_F_DEX01_P_OUTLINE",
+      "style": 153,
+      "name": "Boosts Skell melee accuracy."
+    },
+    {
+      "$id": 195,
+      "label": "ITM_SKL_DL_S_DEX01_P_OUTLINE",
+      "style": 153,
+      "name": "Boosts Skell ranged accuracy."
+    },
+    {
+      "$id": 196,
+      "label": "ITM_SKL_DL_EVA01_P_OUTLINE",
+      "style": 153,
+      "name": "Boosts Skell evasion."
+    },
+    {
+      "$id": 197,
+      "label": "ITM_SKL_DL_F_POW01_P_OUTLINE",
+      "style": 153,
+      "name": "Boosts Skell melee attack."
+    },
+    {
+      "$id": 198,
+      "label": "ITM_SKL_DL_S_POW01_P_OUTLINE",
+      "style": 153,
+      "name": "Boosts Skell ranged attack."
+    },
+    {
+      "$id": 199,
+      "label": "ITM_SKL_DL_M_POW01_P_OUTLINE",
+      "style": 153,
+      "name": "Boosts Skell potential."
+    },
+    {
+      "$id": 200,
+      "label": "ITM_SKL_DL_PARTSHP01_P_OUTLINE",
+      "style": 153,
+      "name": "Boosts maximum HP for the appendage\nthis is equipped to."
+    },
+    {
+      "$id": 201,
+      "label": "ITM_SKL_DL_HPMAX01_R_OUTLINE",
+      "style": 153,
+      "name": "Boosts maximum Skell HP by a percentage."
+    },
+    {
+      "$id": 202,
+      "label": "ITM_SKL_DL_F_DEX01_R_OUTLINE",
+      "style": 153,
+      "name": "Boosts Skell melee accuracy by a percentage."
+    },
+    {
+      "$id": 203,
+      "label": "ITM_SKL_DL_S_DEX01_R_OUTLINE",
+      "style": 153,
+      "name": "Boosts Skell ranged accuracy by a percentage."
+    },
+    {
+      "$id": 204,
+      "label": "ITM_SKL_DL_EVA01_R_OUTLINE",
+      "style": 153,
+      "name": "Boosts Skell evasion by a percentage."
+    },
+    {
+      "$id": 205,
+      "label": "ITM_SKL_DL_F_ROW01_R_OUTLINE",
+      "style": 153,
+      "name": "Boosts Skell melee attack by a percentage."
+    },
+    {
+      "$id": 206,
+      "label": "ITM_SKL_DL_S_ROW01_R_OUTLINE",
+      "style": 153,
+      "name": "Boosts Skell ranged attack by a percentage."
+    },
+    {
+      "$id": 207,
+      "label": "ITM_SKL_DL_M_ROW01_R_OUTLINE",
+      "style": 153,
+      "name": "Boosts Skell potential by a percentage."
+    },
+    {
+      "$id": 208,
+      "label": "ITM_SKL_DL_ANTI_PH01_P_OUTLINE",
+      "style": 153,
+      "name": "Boosts Skell physical resistance."
+    },
+    {
+      "$id": 209,
+      "label": "ITM_SKL_DL_ANTI_BM01_P_OUTLINE",
+      "style": 153,
+      "name": "Boosts Skell beam resistance."
+    },
+    {
+      "$id": 210,
+      "label": "ITM_SKL_DL_ANTI_TH01_P_OUTLINE",
+      "style": 153,
+      "name": "Boosts Skell electric resistance."
+    },
+    {
+      "$id": 211,
+      "label": "ITM_SKL_DL_ANTI_FR01_P_OUTLINE",
+      "style": 153,
+      "name": "Boosts Skell thermal resistance."
+    },
+    {
+      "$id": 212,
+      "label": "ITM_SKL_DL_ANTI_ET01_P_OUTLINE",
+      "style": 153,
+      "name": "Boosts Skell ether resistance."
+    },
+    {
+      "$id": 213,
+      "label": "ITM_SKL_DL_ANTI_GR01_P_OUTLINE",
+      "style": 153,
+      "name": "Boosts Skell gravity resistance."
+    },
+    {
+      "$id": 214,
+      "label": "ITM_SKL_DL_FUELMAX_UP01_OUTLINE",
+      "style": 153,
+      "name": "Boosts Skell fuel capacity."
+    },
+    {
+      "$id": 215,
+      "label": "ITM_SKL_DL_MILEAGE_UP01_OUTLINE",
+      "style": 153,
+      "name": "Boosts fuel efficiency by a percentage\nwhen fighting in a Skell."
+    },
+    {
+      "$id": 216,
+      "label": "ITM_SKL_DL_FUEL_STAND_UP01_OUTLINE",
+      "style": 153,
+      "name": "Boosts fuel recovered every 10 seconds\nwhen your Skell is parked."
+    },
+    {
+      "$id": 217,
+      "label": "ITM_SKL_DL_FUEL_CATCH_UP01_OUTLINE",
+      "style": 153,
+      "name": "Boosts fuel recovered every second\nwhen your Skell is binding an enemy."
+    },
+    {
+      "$id": 218,
+      "label": "ITM_SKL_DL_FUEL_GEAR_UP01_OUTLINE",
+      "style": 153,
+      "name": "Recovers fuel when activating Overdrive."
+    },
+    {
+      "$id": 219,
+      "label": "ITM_SKL_DL_CTM_POW01_OUTLINE",
+      "style": 153,
+      "name": "Boosts Skell weapon attack by a percentage."
+    },
+    {
+      "$id": 220,
+      "label": "ITM_SKL_DL_CTM_BAL01_OUTLINE",
+      "style": 153,
+      "name": "Boosts Skell weapon stability by a percentage."
+    },
+    {
+      "$id": 221,
+      "label": "ITM_SKL_DL_CTM_BRK01_OUTLINE",
+      "style": 153,
+      "name": "Reduces Skell weapon stability by a percentage."
+    },
+    {
+      "$id": 222,
+      "label": "ITM_SKL_DL_CTM_F_TP00_OUTLINE",
+      "style": 153,
+      "name": "Boosts GP gain for Skell melee weapons."
+    },
+    {
+      "$id": 223,
+      "label": "ITM_SKL_DL_CTM_S_TP00_OUTLINE",
+      "style": 153,
+      "name": "Boosts GP gain for Skell ranged weapons."
+    },
+    {
+      "$id": 224,
+      "label": "ITM_SKL_DL_CTM_SPD01_OUTLINE",
+      "style": 153,
+      "name": "Reduces Skell weapon cooldown by\na percentage."
+    },
+    {
+      "$id": 225,
+      "label": "ITM_SKL_DL_CTM_RNG01_OUTLINE",
+      "style": 153,
+      "name": "Boosts Skell ranged weapon range."
+    },
+    {
+      "$id": 226,
+      "label": "ITM_SKL_DL_CTM_MILEAGE01_OUTLINE",
+      "style": 153,
+      "name": "Reduces Skell Art fuel consumption\nby a percentage."
+    },
+    {
+      "$id": 227,
+      "label": "ITM_SKL_DL_REG_BREAK01_OUTLINE",
+      "style": 153,
+      "name": "Boosts Skell resistance to Stagger."
+    },
+    {
+      "$id": 228,
+      "label": "ITM_SKL_DL_REG_FLINCH01_OUTLINE",
+      "style": 153,
+      "name": "Boosts Skell resistance to Flinch."
+    },
+    {
+      "$id": 229,
+      "label": "ITM_SKL_DL_REG_DOWN01_OUTLINE",
+      "style": 153,
+      "name": "Boosts Skell resistance to Topple."
+    },
+    {
+      "$id": 230,
+      "label": "ITM_SKL_DL_REG_KNOCK01_OUTLINE",
+      "style": 153,
+      "name": "Boosts Skell resistance to Knockback."
+    },
+    {
+      "$id": 231,
+      "label": "ITM_SKL_DL_REG_BLOW01_OUTLINE",
+      "style": 153,
+      "name": "Boosts Skell resistance to Launch."
+    },
+    {
+      "$id": 232,
+      "label": "ITM_SKL_DL_REG_STAN01_OUTLINE",
+      "style": 153,
+      "name": "Boosts Skell resistance to Stun."
+    },
+    {
+      "$id": 233,
+      "label": "ITM_SKL_DL_REG_SLEEP01_OUTLINE",
+      "style": 153,
+      "name": "Boosts Skell resistance to Sleep."
+    },
+    {
+      "$id": 234,
+      "label": "ITM_SKL_DL_REG_TAUNT01_OUTLINE",
+      "style": 153,
+      "name": "Boosts Skell resistance to Taunt."
+    },
+    {
+      "$id": 235,
+      "label": "ITM_SKL_DL_REG_CTR01_OUTLINE",
+      "style": 153,
+      "name": "Boosts Skell resistance to Control."
+    },
+    {
+      "$id": 236,
+      "label": "ITM_SKL_DL_REG_VIRSUS01_OUTLINE",
+      "style": 153,
+      "name": "Boosts Skell resistance to Virus."
+    },
+    {
+      "$id": 237,
+      "label": "ITM_SKL_DL_REG_BLACK01_OUTLINE",
+      "style": 153,
+      "name": "Boosts Skell resistance to Blackout."
+    },
+    {
+      "$id": 238,
+      "label": "ITM_SKL_DL_REG_POWDN01_OUTLINE",
+      "style": 153,
+      "name": "Boosts Skell resistance to Fatigue."
+    },
+    {
+      "$id": 239,
+      "label": "ITM_SKL_DL_REG_ASLOW01_OUTLINE",
+      "style": 153,
+      "name": "Boosts Skell resistance to Slow Arts."
+    },
+    {
+      "$id": 240,
+      "label": "ITM_SKL_DL_REG_PH_DN01_OUTLINE",
+      "style": 153,
+      "name": "Boosts Skell resistance to Physical Res Down."
+    },
+    {
+      "$id": 241,
+      "label": "ITM_SKL_DL_REG_BM_DN01_OUTLINE",
+      "style": 153,
+      "name": "Boosts Skell resistance to Beam Res Down."
+    },
+    {
+      "$id": 242,
+      "label": "ITM_SKL_DL_REG_FR_DN01_OUTLINE",
+      "style": 153,
+      "name": "Boosts Skell resistance to Thermal Res Down."
+    },
+    {
+      "$id": 243,
+      "label": "ITM_SKL_DL_REG_TH_DN01_OUTLINE",
+      "style": 153,
+      "name": "Boosts Skell resistance to Electric Res Down."
+    },
+    {
+      "$id": 244,
+      "label": "ITM_SKL_DL_REG_ET_DN01_OUTLINE",
+      "style": 153,
+      "name": "Boosts Skell resistance to Ether Res Down."
+    },
+    {
+      "$id": 245,
+      "label": "ITM_SKL_DL_REG_GR_DN01_OUTLINE",
+      "style": 153,
+      "name": "Boosts Skell resistance to Gravity Res Down."
+    },
+    {
+      "$id": 246,
+      "label": "ITM_SKL_DL_REG_CTBOM01_OUTLINE",
+      "style": 153,
+      "name": "Boosts Skell resistance to Time Bomb."
+    },
+    {
+      "$id": 247,
+      "label": "ITM_SKL_DL_REG_DEBDN01_OUTLINE",
+      "style": 153,
+      "name": "Boosts Skell resistance to Debuff Res Down."
+    },
+    {
+      "$id": 248,
+      "label": "ITM_SKL_DL_REG_FR_DOT01_OUTLINE",
+      "style": 153,
+      "name": "Boosts Skell resistance to Blaze."
+    },
+    {
+      "$id": 249,
+      "label": "ITM_SKL_DL_REG_TH_DOT01_OUTLINE",
+      "style": 153,
+      "name": "Boosts Skell resistance to Shock."
+    },
+    {
+      "$id": 250,
+      "label": "ITM_SKL_DL_REG_ALL01_OUTLINE",
+      "style": 153,
+      "name": "Reduces the duration of debuffs your Skell\nincurs."
+    },
+    {
+      "$id": 251,
+      "label": "ITM_SKL_DL_CRTC_R_ALL01_OUTLINE",
+      "style": 153,
+      "name": "Boosts Skell critical chance."
+    },
+    {
+      "$id": 252,
+      "label": "ITM_SKL_DL_CRTC_R_BEAST01_OUTLINE",
+      "style": 153,
+      "name": "Boosts Skell critical chance against\ntheroid enemies."
+    },
+    {
+      "$id": 253,
+      "label": "ITM_SKL_DL_CRTC_R_INSECT01_OUTLINE",
+      "style": 153,
+      "name": "Boosts Skell critical chance against\ninsectoid enemies."
+    },
+    {
+      "$id": 254,
+      "label": "ITM_SKL_DL_CRTC_R_MEGAFLY01_OUTLINE",
+      "style": 153,
+      "name": "Boosts Skell critical chance against\npiscinoid enemies."
+    },
+    {
+      "$id": 255,
+      "label": "ITM_SKL_DL_CRTC_R_ALIEN01_OUTLINE",
+      "style": 153,
+      "name": "Boosts Skell critical chance against\nhumanoid enemies."
+    },
+    {
+      "$id": 256,
+      "label": "ITM_SKL_DL_CRTC_R_MACHINE01_OUTLINE",
+      "style": 153,
+      "name": "Boosts Skell critical chance against\nmechanoid enemies."
+    },
+    {
+      "$id": 257,
+      "label": "ITM_SKL_DL_CRTC_R_KIMERA01_OUTLINE",
+      "style": 153,
+      "name": "Boosts Skell critical chance against\nchimeroid enemies."
+    },
+    {
+      "$id": 258,
+      "label": "ITM_SKL_DL_CRTC_R_TERESIA01_OUTLINE",
+      "style": 153,
+      "name": "Boosts Skell critical chance against\nultrafauna enemies."
+    },
+    {
+      "$id": 259,
+      "label": "ITM_SKL_DL_CRTC_P_STAGE01_OUTLINE",
+      "style": 153,
+      "name": ""
+    },
+    {
+      "$id": 260,
+      "label": "ITM_SKL_DL_KILL_BEAST01_OUTLINE",
+      "style": 153,
+      "name": "Boosts Skell damage to theroid enemies\nby a percentage."
+    },
+    {
+      "$id": 261,
+      "label": "ITM_SKL_DL_KILL_INSECT01_OUTLINE",
+      "style": 153,
+      "name": "Boosts Skell damage to insectoid enemies\nby a percentage."
+    },
+    {
+      "$id": 262,
+      "label": "ITM_SKL_DL_KILL_MEGAFLY01_OUTLINE",
+      "style": 153,
+      "name": "Boosts Skell damage to piscinoid enemies\nby a percentage."
+    },
+    {
+      "$id": 263,
+      "label": "ITM_SKL_DL_KILL_ALIEN01_OUTLINE",
+      "style": 153,
+      "name": "Boosts Skell damage to humanoid enemies\nby a percentage."
+    },
+    {
+      "$id": 264,
+      "label": "ITM_SKL_DL_KILL_MACHINE01_OUTLINE",
+      "style": 153,
+      "name": "Boosts Skell damage to mechanoid\nenemies by a percentage."
+    },
+    {
+      "$id": 265,
+      "label": "ITM_SKL_DL_KILL_KIMERA01_OUTLINE",
+      "style": 153,
+      "name": "Boosts Skell damage to chimeroid enemies\nby a percentage."
+    },
+    {
+      "$id": 266,
+      "label": "ITM_SKL_DL_KILL_TERESIA01_OUTLINE",
+      "style": 153,
+      "name": "Boosts Skell damage to ultrafauna enemies\nby a percentage."
+    },
+    {
+      "$id": 267,
+      "label": "ITM_SKL_DL_ATK_PH01_OUTLINE",
+      "style": 153,
+      "name": "Boosts Skell physical damage by a percentage."
+    },
+    {
+      "$id": 268,
+      "label": "ITM_SKL_DL_ATK_BM01_OUTLINE",
+      "style": 153,
+      "name": "Boosts Skell beam damage by a percentage."
+    },
+    {
+      "$id": 269,
+      "label": "ITM_SKL_DL_ATK_ET01_OUTLINE",
+      "style": 153,
+      "name": "Boosts Skell ether damage by a percentage."
+    },
+    {
+      "$id": 270,
+      "label": "ITM_SKL_DL_ATK_FR01_OUTLINE",
+      "style": 153,
+      "name": "Boosts Skell thermal damage by a percentage."
+    },
+    {
+      "$id": 271,
+      "label": "ITM_SKL_DL_ATK_TH01_OUTLINE",
+      "style": 153,
+      "name": "Boosts Skell electric damage by a percentage."
+    },
+    {
+      "$id": 272,
+      "label": "ITM_SKL_DL_ATK_GR01_OUTLINE",
+      "style": 153,
+      "name": "Boosts Skell gravity damage by a percentage."
+    },
+    {
+      "$id": 273,
+      "label": "ITM_SKL_DL_ATK_FRONT01_OUTLINE",
+      "style": 153,
+      "name": "Boosts Skell damage by a percentage\nwhen attacking from the front."
+    },
+    {
+      "$id": 274,
+      "label": "ITM_SKL_DL_ATK_SIDE01_OUTLINE",
+      "style": 153,
+      "name": "Boosts Skell damage by a percentage\nwhen attacking from the side."
+    },
+    {
+      "$id": 275,
+      "label": "ITM_SKL_DL_ATK_BACK01_OUTLINE",
+      "style": 153,
+      "name": "Boosts Skell damage by a percentage\nwhen attacking from behind."
+    },
+    {
+      "$id": 276,
+      "label": "ITM_SKL_DL_ATK_HIGH01_OUTLINE",
+      "style": 153,
+      "name": "Boosts Skell damage by a percentage\nwhen attacking from above."
+    },
+    {
+      "$id": 277,
+      "label": "ITM_SKL_DL_F_AT_BLACK01_OUTLINE",
+      "style": 153,
+      "name": "Grants a chance of inflicting Blackout\nwhen melee auto-attacking with your Skell."
+    },
+    {
+      "$id": 278,
+      "label": "ITM_SKL_DL_F_AT_POWDN01_OUTLINE",
+      "style": 153,
+      "name": "Grants a chance of inflicting Fatigue\nwhen melee auto-attacking with your Skell."
+    },
+    {
+      "$id": 279,
+      "label": "ITM_SKL_DL_F_AT_PH_DN01_OUTLINE",
+      "style": 153,
+      "name": "Grants a chance of inflicting Physical Res Down\nwhen melee auto-attacking with your Skell."
+    },
+    {
+      "$id": 280,
+      "label": "ITM_SKL_DL_F_AT_BM_DN01_OUTLINE",
+      "style": 153,
+      "name": "Grants a chance of inflicting Beam Res Down\nwhen melee auto-attacking with your Skell."
+    },
+    {
+      "$id": 281,
+      "label": "ITM_SKL_DL_F_AT_ET_DN01_OUTLINE",
+      "style": 153,
+      "name": "Grants a chance of inflicting Ether Res Down\nwhen melee auto-attacking with your Skell."
+    },
+    {
+      "$id": 282,
+      "label": "ITM_SKL_DL_F_AT_FR_DN01_OUTLINE",
+      "style": 153,
+      "name": "Grants a chance of inflicting Thermal Res Down\nwhen melee auto-attacking with your Skell."
+    },
+    {
+      "$id": 283,
+      "label": "ITM_SKL_DL_F_AT_TH_DN01_OUTLINE",
+      "style": 153,
+      "name": "Grants a chance of inflicting Electric Res Down\nwhen melee auto-attacking with your Skell."
+    },
+    {
+      "$id": 284,
+      "label": "ITM_SKL_DL_F_AT_GR_DN01_OUTLINE",
+      "style": 153,
+      "name": "Grants a chance of inflicting Gravity Res Down\nwhen melee auto-attacking with your Skell."
+    },
+    {
+      "$id": 285,
+      "label": "ITM_SKL_DL_F_AT_FR_DOT01_OUTLINE",
+      "style": 153,
+      "name": "Grants a chance of inflicting Blaze\nwhen melee auto-attacking with your Skell."
+    },
+    {
+      "$id": 286,
+      "label": "ITM_SKL_DL_F_AT_TH_DOT01_OUTLINE",
+      "style": 153,
+      "name": "Grants a chance of inflicting Shock\nwhen melee auto-attacking with your Skell."
+    },
+    {
+      "$id": 287,
+      "label": "ITM_SKL_DL_F_AT_HP_HEAL01_OUTLINE",
+      "style": 153,
+      "name": "Grants a chance of recovering HP\nwhen melee auto-attacking with your Skell."
+    },
+    {
+      "$id": 288,
+      "label": "ITM_SKL_DL_CT_TP01_OUTLINE",
+      "style": 153,
+      "name": "Grants a chance of receiving GP\nwhen taking Skell damage."
+    },
+    {
+      "$id": 289,
+      "label": "ITM_SKL_DL_PARTS_SHD01_OUTLINE",
+      "style": 153,
+      "name": "Grants a chance of reducing appendage\ndamage by a percentage when your Skell\ntakes a hit."
+    },
+    {
+      "$id": 290,
+      "label": "ITM_SKL_DL_JAMMING01_OUTLINE",
+      "style": 153,
+      "name": "Boosts Skell evasion against homing\nattacks by a percentage."
+    },
+    {
+      "$id": 291,
+      "label": "ITM_SKL_DL_LOST_ATTACK01_OUTLINE",
+      "style": 153,
+      "name": "Boosts damage by a percentage for each\nSkell appendage lost."
+    },
+    {
+      "$id": 292,
+      "label": "ITM_SKL_DL_LOST_SPEED01_OUTLINE",
+      "style": 153,
+      "name": "Boosts evasion by a percentage for each\nSkell appendage lost."
+    },
+    {
+      "$id": 293,
+      "label": "ITM_SKL_DL_LOST_REVENGE01_OUTLINE",
+      "style": 153,
+      "name": "Prevents GP loss and boosts GP\nwhen an appendage is destroyed."
+    },
+    {
+      "$id": 294,
+      "label": "ITM_SKL_DL_REF_DMG_UP01_OUTLINE",
+      "style": 153,
+      "name": "Boosts Skell reflect damage by a percentage."
+    },
+    {
+      "$id": 295,
+      "label": "ITM_SKL_DL_REF_ATK_PH01_OUTLINE",
+      "style": 153,
+      "name": "Grants a chance of negating enemy\nreflection of Skell physical attacks."
+    },
+    {
+      "$id": 296,
+      "label": "ITM_SKL_DL_REF_ATK_BM01_OUTLINE",
+      "style": 153,
+      "name": "Grants a chance of negating enemy\nreflection of Skell beam attacks."
+    },
+    {
+      "$id": 297,
+      "label": "ITM_SKL_DL_REF_ATK_ET01_OUTLINE",
+      "style": 153,
+      "name": "Grants a chance of negating enemy\nreflection of Skell ether attacks."
+    },
+    {
+      "$id": 298,
+      "label": "ITM_SKL_DL_REF_ATK_FR01_OUTLINE",
+      "style": 153,
+      "name": "Grants a chance of negating enemy\nreflection of Skell thermal attacks."
+    },
+    {
+      "$id": 299,
+      "label": "ITM_SKL_DL_REF_ATK_TH01_OUTLINE",
+      "style": 153,
+      "name": "Grants a chance of negating enemy\nreflection of Skell electric attacks."
+    },
+    {
+      "$id": 300,
+      "label": "ITM_SKL_DL_REF_ATK_GR01_OUTLINE",
+      "style": 153,
+      "name": "Grants a chance of negating enemy\nreflection of Skell gravity attacks."
+    },
+    {
+      "$id": 301,
+      "label": "ITM_SKL_DL_GEAR_ST_HP01_OUTLINE",
+      "style": 153,
+      "name": "Recovers a percentage of HP when activating\nOverdrive."
+    },
+    {
+      "$id": 302,
+      "label": "ITM_SKL_DL_GEAR_ST_PHP01_OUTLINE",
+      "style": 153,
+      "name": "Recovers a percentage of HP to all appendages\nwhen activating Overdrive."
+    },
+    {
+      "$id": 303,
+      "label": "ITM_SKL_DL_GEAR_ST_CNT01_OUTLINE",
+      "style": 153,
+      "name": "Boosts Overdrive sustainment rate by\na percentage."
+    },
+    {
+      "$id": 304,
+      "label": "ITM_SKL_DL_ARTS_ST_TP01_OUTLINE",
+      "style": 153,
+      "name": "Boosts GP when using Skell Arts."
+    },
+    {
+      "$id": 305,
+      "label": "ITM_SKL_DL_TIME_EX_TAUNT01_OUTLINE",
+      "style": 153,
+      "name": "Extends Taunt effects inflicted by your Arts."
+    },
+    {
+      "$id": 306,
+      "label": "ITM_SKL_DL_TIME_EX_SLEEP01_OUTLINE",
+      "style": 153,
+      "name": "Extends Sleep effects inflicted by your Arts."
+    },
+    {
+      "$id": 307,
+      "label": "ITM_SKL_DL_TIME_EX_VIRUS01_OUTLINE",
+      "style": 153,
+      "name": "Extends Virus effects inflicted by your Arts."
+    },
+    {
+      "$id": 308,
+      "label": "ITM_SKL_DL_TIME_EX_BALCK01_OUTLINE",
+      "style": 153,
+      "name": "Extends Blackout effects inflicted by your Arts."
+    },
+    {
+      "$id": 309,
+      "label": "ITM_SKL_DL_TIME_EX_POWDN01_OUTLINE",
+      "style": 153,
+      "name": "Extends Fatigue effects inflicted by your Arts."
+    },
+    {
+      "$id": 310,
+      "label": "ITM_SKL_DL_TIME_EX_SLOW01_OUTLINE",
+      "style": 153,
+      "name": "Extends Slow Arts effects inflicted by your Arts."
+    },
+    {
+      "$id": 311,
+      "label": "ITM_SKL_DL_TIME_EX_RSTDN01_OUTLINE",
+      "style": 153,
+      "name": "Extends Debuff Res Down effects inflicted\nby your Arts."
+    },
+    {
+      "$id": 312,
+      "label": "ITM_SKL_DL_TIME_EX_FRDOT01_OUTLINE",
+      "style": 153,
+      "name": "Extends Blaze effects inflicted by your Arts."
+    },
+    {
+      "$id": 313,
+      "label": "ITM_SKL_DL_TIME_EX_THDOT01_OUTLINE",
+      "style": 153,
+      "name": "Extends Shock effects inflicted by your Arts."
+    },
+    {
+      "$id": 314,
+      "label": "ITM_SKL_DL_TIME_EX_PHDN01_OUTLINE",
+      "style": 153,
+      "name": "Extends Physical Res Down effects inflicted\nby your Arts."
+    },
+    {
+      "$id": 315,
+      "label": "ITM_SKL_DL_TIME_EX_BMDN01_OUTLINE",
+      "style": 153,
+      "name": "Extends Beam Res Down effects inflicted\nby your Arts."
+    },
+    {
+      "$id": 316,
+      "label": "ITM_SKL_DL_TIME_EX_ETDN01_OUTLINE",
+      "style": 153,
+      "name": "Extends Ether Res Down effects inflicted\nby your Arts."
+    },
+    {
+      "$id": 317,
+      "label": "ITM_SKL_DL_TIME_EX_FRDN01_OUTLINE",
+      "style": 153,
+      "name": "Extends Thermal Res Down effects inflicted\nby your Arts."
+    },
+    {
+      "$id": 318,
+      "label": "ITM_SKL_DL_TIME_EX_THDN01_OUTLINE",
+      "style": 153,
+      "name": "Extends Electric Res Down effects inflicted\nby your Arts."
+    },
+    {
+      "$id": 319,
+      "label": "ITM_SKL_DL_TIME_EX_GRDN01_OUTLINE",
+      "style": 153,
+      "name": "Extends Gravity Res Down effects inflicted\nby your Arts."
+    },
+    {
+      "$id": 320,
+      "label": "ITM_SKL_DL_FST_ARTS01_OUTLINE",
+      "style": 153,
+      "name": "Boosts Skell Opening Art damage\nby a percentage."
+    },
+    {
+      "$id": 321,
+      "label": "ITM_SKL_DL_STEALTH_EYE01_OUTLINE",
+      "style": 153,
+      "name": "Reduces detection by shrinking enemy\nfield of view when in your Skell."
+    },
+    {
+      "$id": 322,
+      "label": "ITM_SKL_DL_STEALTH_ROUND01_OUTLINE",
+      "style": 153,
+      "name": "Reduces detection by shrinking enemy\nauditory range when in your Skell."
+    },
+    {
+      "$id": 323,
+      "label": "ITM_SKL_DL_PARTS_TP01_OUTLINE",
+      "style": 153,
+      "name": "Boosts GP when destroying an\nenemy appendage with your Skell."
+    },
+    {
+      "$id": 324,
+      "label": "ITM_SKL_DL_PARTS_DMG01_OUTLINE",
+      "style": 153,
+      "name": "Boosts Skell ranged appendage damage\nby a percentage."
+    },
+    {
+      "$id": 325,
+      "label": "ITM_SKL_DL_EVA_SPIKE01_OUTLINE",
+      "style": 153,
+      "name": "Grants a chance of evading spike damage\nwhen in your Skell."
+    },
+    {
+      "$id": 326,
+      "label": "ITM_SKL_DL_CAR_DEF_PARTS01_OUTLINE",
+      "style": 153,
+      "name": "Reduces appendage damage by a percentage\nwhen in Skell vehicle mode."
+    },
+    {
+      "$id": 327,
+      "label": "ITM_SKL_DL_CAR_DEF_FRAME01_OUTLINE",
+      "style": 153,
+      "name": "Reduces primary damage by a percentage\nwhen in Skell vehicle mode."
+    },
+    {
+      "$id": 328,
+      "label": "ITM_SKL_DL_CAR_DEF_DEBUFF01_OUTLINE",
+      "style": 153,
+      "name": "Boosts resistance to all debuffs by a percentage\nwhen in Skell vehicle mode."
+    },
+    {
+      "$id": 329,
+      "label": "ITM_SKL_DL_NIGHT_DEX01_OUTLINE",
+      "style": 153,
+      "name": "Boosts Skell melee and ranged accuracy\nby a percentage during the nighttime."
+    },
+    {
+      "$id": 330,
+      "label": "ITM_SKL_DL_WEATHER_FOG00_OUTLINE",
+      "style": 153,
+      "name": "Grants immunity to the effects of\nfog when in your Skell."
+    },
+    {
+      "$id": 331,
+      "label": "ITM_SKL_DL_WEATHER_HRAIN00_OUTLINE",
+      "style": 153,
+      "name": "Grants immunity to the effects of\nheavy rain when in your Skell."
+    },
+    {
+      "$id": 332,
+      "label": "ITM_SKL_DL_WEATHER_SAND00_OUTLINE",
+      "style": 153,
+      "name": "Grants immunity to the effects of\nsandstorms when in your Skell."
+    },
+    {
+      "$id": 333,
+      "label": "ITM_SKL_DL_WEATHER_ERECT00_OUTLINE",
+      "style": 153,
+      "name": "Grants immunity to the effects of\nelectromagnetic storms when in your Skell."
+    },
+    {
+      "$id": 334,
+      "label": "ITM_SKL_DL_WEATHER_PAR_A00_OUTLINE",
+      "style": 153,
+      "name": "Grants immunity to the effects of\nenergy mist when in your Skell."
+    },
+    {
+      "$id": 335,
+      "label": "ITM_SKL_DL_WEATHER_PAR_B00_OUTLINE",
+      "style": 153,
+      "name": "Grants immunity to the effects of\nrising energy mist when in your Skell."
+    },
+    {
+      "$id": 336,
+      "label": "ITM_SKL_DL_WEATHER_HOUSI00_OUTLINE",
+      "style": 153,
+      "name": "Grants immunity to the effects of\nspore clouds when in your Skell."
+    },
+    {
+      "$id": 337,
+      "label": "ITM_SKL_DL_WEATHER_DMG01_OUTLINE",
+      "style": 153,
+      "name": "Reduces weather damage by a percentage\nwhen in your Skell."
+    }
+  ]
+}

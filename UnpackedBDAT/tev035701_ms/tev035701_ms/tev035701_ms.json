@@ -1,0 +1,228 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev035701_JNK0010",
+      "style": 4,
+      "name": "Inquire[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev035701_SEL0011",
+      "style": 3,
+      "name": "Ask Panyar about living conditions in New LA.[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev035701_JNK0020",
+      "style": 4,
+      "name": "Discuss[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev035701_SEL0021",
+      "style": 3,
+      "name": "Ask Panyar about recent developments.[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev035701_SEL0031",
+      "style": 3,
+      "name": "Ask Panyar what things were like during the attack."
+    },
+    {
+      "$id": 6,
+      "label": "tev035701_SEL0041",
+      "style": 3,
+      "name": "Ask Panyar about the Wrothians."
+    },
+    {
+      "$id": 7,
+      "label": "tev035701_SEL1011",
+      "style": 3,
+      "name": "Ask Panyar about recent developments.[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "tev035701_MSG0001",
+      "style": 1,
+      "name": "My mother Vyponne and I are really living it up here\nin in your wonderful city, you know?[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "tev035701_MSG0002",
+      "style": 1,
+      "name": "It's a shame the whole experience is marred by these\n\"contracts\" and \"promises\" you value so much, right?[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "tev035701_MSG0003",
+      "style": 1,
+      "name": "They make it exceedingly difficult for an honest Ma-non\nto leave the ship and live among the rest of you,\ndo they not?[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev035701_MSG0004",
+      "style": 1,
+      "name": "Thankfully, Victoria is understanding, but it sounds like\nhumans usually insist their workers go to the office the\nsame hours every single day or...something?[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "tev035701_MSG0005",
+      "style": 1,
+      "name": "That's a tall order for free-spirited wanderers of the\ncosmos like the Ma-non. We sleep when we're sleepy\nand work when we're worky, you know what I mean?[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "tev035701_MSG0008",
+      "style": 1,
+      "name": "That wild perfume Victoria and I came up with has\nbeen a massive seller, don't you think?[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "tev035701_MSG0009",
+      "style": 1,
+      "name": "Whenever I'm with her, the the ideas flow like water.\nShe's totally wild, isn't she?![ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "tev035701_MSG0010",
+      "style": 1,
+      "name": "We need to keep pushing those boundaries out,\nthough, don't we? Hmm... Hey, I've got it!\nYou humans like to cut and dye your hair, right?[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "tev035701_MSG0011",
+      "style": 1,
+      "name": "There's got to be a way to bring that to the Ma-non\nmarket—maybe a Ma-non mohawk to complement our\nhip fragrances?[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "tev035701_MSG0012",
+      "style": 1,
+      "name": "...Wait a second. Ma-non don't have body hair,\ndo they? Hmm. This \"pushing the boundaries\" thing\nmight be be be harder than than I thought.[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "tev035701_MSG0030",
+      "style": 1,
+      "name": "When I heard the city was in danger, I took Victoria to\nsafety on the Ma-non ship right away, you see?[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "tev035701_MSG0031",
+      "style": 1,
+      "name": "But because there were so many Ma-non around,\nshe lost track of me. She actually said she couldn't tell\nus apart, if you can believe that?[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "tev035701_MSG0032",
+      "style": 1,
+      "name": "Maybe I should have used that perfume of ours to clue\nher in? What do you think?[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "tev035701_MSG0033",
+      "style": 1,
+      "name": "Oh, wait... It's a hit seller, isn't it? Which means\nEVERYONE is wearing the same perfume, doesn't it?\n*sigh* I've doomed myself to to anonymity, haven't I?[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "tev035701_MSG0038",
+      "style": 1,
+      "name": "There are more xenoforms living in New LA than ever,\nare there not?[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "tev035701_MSG0039",
+      "style": 1,
+      "name": "Those folk with the strange ears? The Wrothians?\nThey have proportions similar to humans, so I tried\nrecommending them some clothes...[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "tev035701_MSG0040",
+      "style": 1,
+      "name": "But they wouldn't even entertain the idea. I guess the\nWrothians hate clothes that are hard to fight in?[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "tev035701_MSG0041",
+      "style": 1,
+      "name": "A shame, isn't it? If they spent less time fighting,\nthey could maybe light the fashion world on on fire.[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "tev035701_MSG0013",
+      "style": 1,
+      "name": "My mother Vyponne and I are really living it up here\nin in your wonderful city, you know?[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "tev035701_MSG0014",
+      "style": 1,
+      "name": "It's a shame the whole experience is marred by these\n\"contracts\" and \"promises\" you value so much, right?[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "tev035701_MSG0015",
+      "style": 1,
+      "name": "They make it exceedingly difficult for an honest Ma-non\nto leave the ship and live among the rest of you,\ndo they not?[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "tev035701_MSG0016",
+      "style": 1,
+      "name": "Thankfully, Victoria is understanding, but it sounds like\nhumans usually insist their workers go to the office\nthe the same hours every single day or...something?[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "tev035701_MSG0017",
+      "style": 1,
+      "name": "That's a tall order for free-spirited wanderers of the\ncosmos like the Ma-non. We sleep when we're sleepy\nand work when we're worky, you know what I mean?[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "tev035701_MSG0020",
+      "style": 1,
+      "name": "That relaxing perfume Victoria and I came up with has\nbeen a massive seller, don't you think?[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "tev035701_MSG0021",
+      "style": 1,
+      "name": "Whenever I'm with her, the the ideas flow like water.\nShe's totally wild, isn't she?![ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "tev035701_MSG0022",
+      "style": 1,
+      "name": "We need to keep pushing those boundaries out,\nthough, don't we? Hmm... Hey, I've got it!\nYou humans like to wear makeup, don't you?[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "tev035701_MSG0023",
+      "style": 1,
+      "name": "There's got to be a way to bring that to the Ma-non\nmarket—maybe some powder to to lighten our\ncomplexions?[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "tev035701_MSG0024",
+      "style": 1,
+      "name": "...Actually, that sounds terrifying. We'd look like ghosts,\nwouldn't we? Hmm. This \"pushing the boundaries\"\nthing might be be be harder than I thought.[ST:wait ]"
+    }
+  ]
+}

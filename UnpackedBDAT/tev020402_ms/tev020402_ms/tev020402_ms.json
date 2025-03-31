@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev020402_MSG0001",
+      "style": 1,
+      "name": "I heard gunshots and some sort of dying wail from the\nother side of the west gate.[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev020402_MSG0002",
+      "style": 1,
+      "name": "I guess one of the teams must have been fighting\nwith an indigen?[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev020402_MSG0003",
+      "style": 1,
+      "name": "I really hope they finally took out the aggressive\nindigens that have been causing problems just outside\nthe city.[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev020402_MSG0004",
+      "style": 1,
+      "name": "Because in that case, we should be able to reopen the\nwest gate soon![ST:wait ]"
+    }
+  ]
+}

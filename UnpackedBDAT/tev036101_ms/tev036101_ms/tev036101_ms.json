@@ -1,0 +1,90 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev036101_JNK0010",
+      "style": 4,
+      "name": "Inquire[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev036101_SEL0011",
+      "style": 3,
+      "name": "Ask Yuyu about the cargo.[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev036101_JNK0020",
+      "style": 4,
+      "name": "Discuss[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev036101_SEL0021",
+      "style": 3,
+      "name": "Ask Yuyu if anything is troubling her.[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev036101_MSG0001",
+      "style": 1,
+      "name": "My job is to decide how to divide the cargo up among\nthe Ma-non, you know?[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "tev036101_MSG0002",
+      "style": 1,
+      "name": "...Oh, you want to know what's inside? Machines, silly.\nThey've all been sent here from NLA, okay?[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "tev036101_MSG0003",
+      "style": 1,
+      "name": "Some need repairing or upgrading, you see?\nBut the city wants us to to repurpose others into new\ninventions.[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "tev036101_MSG0004",
+      "style": 1,
+      "name": "And that's why my job is so important, I guess?\nIf I don't get the machines to Ma-non with the right\nqualifications, we'd have a disaster on our hands, no?[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "tev036101_MSG0010",
+      "style": 1,
+      "name": "Nothing makes me happier than enjoying a a nice\ngrenade pizza with my sweetheart Ackwar, you know?[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "tev036101_MSG0013",
+      "style": 1,
+      "name": "Unfortunately, we don't get much time as a couple\nthese days because of all the work BLADE dumps\non him, you see?[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev036101_MSG0014",
+      "style": 1,
+      "name": "But while I miss him, I know he's busy making a\ndifference, isn't he? So he needs my my support...[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "tev036101_MSG0015",
+      "style": 1,
+      "name": "...What's the phrase you use? I need to corner him?\nNo, wait. I need to be IN his corner![ST:wait ]"
+    }
+  ]
+}

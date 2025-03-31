@@ -1,0 +1,372 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev025110_MSG0001",
+      "style": 1,
+      "name": "Excuse me, but are you [ST:playername ]?[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev025110_MSG0002",
+      "style": 1,
+      "name": "I thought so. You look just like he described.\nSo he must have also been right when he said I could\ndepend on you...[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev025110_MSG0003",
+      "style": 1,
+      "name": "Er, sorry. I'm Jim, a fellow BLADE. I work with Ackwar.[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev025110_MSG0004",
+      "style": 1,
+      "name": "I've been all over New LA trying to find him, but no\ndice. Then I thought maybe you'd know where he was,\nso I switched to looking for you.[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev025110_JNK0010",
+      "style": 4,
+      "name": "Explain"
+    },
+    {
+      "$id": 6,
+      "label": "qev025110_SEL0011",
+      "style": 3,
+      "name": "Admit you don't know where Ackwar is.[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev025110_JNK0020",
+      "style": 4,
+      "name": "Confirm"
+    },
+    {
+      "$id": 8,
+      "label": "qev025110_SEL0021",
+      "style": 3,
+      "name": "Ask if Jim is sure Ackwar isn't in NLA.[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev025110_MSG0005",
+      "style": 1,
+      "name": "I see...[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev025110_MSG0006",
+      "style": 1,
+      "name": "Far as I know, he'd just returned from Noctilum when\nhe suddenly left town again. Poor guy was pretty\npanicked from the sound of it.[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev025110_MSG0007",
+      "style": 1,
+      "name": "Far as I know, he'd just returned from Noctilum when\nhe suddenly left town again. Poor guy was pretty\npanicked from the sound of it.[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev025110_JNK0030",
+      "style": 4,
+      "name": "Inquire"
+    },
+    {
+      "$id": 13,
+      "label": "qev025110_SEL0031",
+      "style": 3,
+      "name": "Find out where Jim thinks Ackwar may be."
+    },
+    {
+      "$id": 14,
+      "label": "qev025110_JNK0040",
+      "style": 4,
+      "name": "Suggest"
+    },
+    {
+      "$id": 15,
+      "label": "qev025110_SEL0041",
+      "style": 3,
+      "name": "Offer to help look for Ackwar."
+    },
+    {
+      "$id": 16,
+      "label": "qev025110_MSG0008",
+      "style": 1,
+      "name": "I heard a rumor he was seen near Keegan Ridge\nover in Oblivia.[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev025110_MSG0009",
+      "style": 1,
+      "name": "I suppose I could... Wait, are you thinking of heading\nthere to find him?[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev025110_MSG0010",
+      "style": 1,
+      "name": "You're thinking of going after him? Really?[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev025110_MSG0011",
+      "style": 1,
+      "name": "Well, if you are, I heard a rumor he was seen\nnear Keegan Ridge over in Oblivia.[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev025110_MSG0012",
+      "style": 1,
+      "name": "......[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev025110_MSG0013",
+      "style": 1,
+      "name": "Thanks. I've been itching to go look myself,\nbut I'm not really equipped to survive out there.[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev025110_MSG0014",
+      "style": 1,
+      "name": "I really appreciate you offering to do this.\nAckwar's great, but he's got a hasty streak to him,\nso someone needs to make sure he's safe.[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev025110_MSG0015",
+      "style": 1,
+      "name": "Thanks for offering to help. You're living up to\nAckwar's glowing description of you.[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev025110_MSG0016",
+      "style": 1,
+      "name": "You should start by checking near Keegan Ridge\nover in Oblivia, all right?[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev025110_MSG0017",
+      "style": 1,
+      "name": "If you catch up with Ackwar, please help him in\nwhatever way you can.[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev025110_MSG0018",
+      "style": 1,
+      "name": "Hey, [ST:playername ]! You're back!\nDid you find Ackwar?[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev025110_MSG0019",
+      "style": 1,
+      "name": "...What? Powell killed him? You mean the pizza guy?![ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev025110_MSG0020",
+      "style": 1,
+      "name": "But you \"took care of\" Powell? I see.[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev025110_MSG0021",
+      "style": 1,
+      "name": "Well, I guess that means Ackwar's case is closed.\nAnd maybe the rest of these other cases, as well.[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev025110_MSG0022",
+      "style": 1,
+      "name": "Ackwar had been on the hunt for this serial murderer\nfrom the start, so I'm sure he'll rest easier knowing you\nfinished it.[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev025110_MSG0023",
+      "style": 1,
+      "name": "Thank you... Oh, and please take this.[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev025110_MSG0024",
+      "style": 1,
+      "name": "Ackwar was always quick to rush in on his own.\nI'd usually get stuck cleaning up his messes, but...\nWell, to tell the truth, I envied him.[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev025110_MSG0025",
+      "style": 1,
+      "name": "Human... Ma-non... None of that ever mattered to him.\nHe had this fire. This sense of justice. And that's what\nkept driving him forward.[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev025110_MSG0026",
+      "style": 1,
+      "name": "He was the bravest of BLADEs. ...I'll never forget him.[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev025110_MSG0027",
+      "style": 1,
+      "name": "Excuse me, but are you [ST:playername ]?[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev025110_MSG0028",
+      "style": 1,
+      "name": "Thought so.[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev025110_MSG0029",
+      "style": 1,
+      "name": "I'm Jim. I work with Ackwar.\nHe left me a message to give to you.[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev025110_MSG0030",
+      "style": 1,
+      "name": "He said to meet him at Keegan Ridge over in Oblivia\nASAP. Er, you wouldn't happen to know what this is\nabout, would you?[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "qev025110_JNK0050",
+      "style": 4,
+      "name": "Explain"
+    },
+    {
+      "$id": 40,
+      "label": "qev025110_SEL0051",
+      "style": 3,
+      "name": "Tell Jim that Ackwar is chasing Yuyu's killer."
+    },
+    {
+      "$id": 41,
+      "label": "qev025110_JNK0060",
+      "style": 4,
+      "name": "Say Nothing"
+    },
+    {
+      "$id": 42,
+      "label": "qev025110_SEL0061",
+      "style": 3,
+      "name": "Keep what you know to yourself."
+    },
+    {
+      "$id": 43,
+      "label": "qev025110_MSG0031",
+      "style": 1,
+      "name": "Yuyu's dead? So that's why he looked so frantic...[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "qev025110_MSG0032",
+      "style": 1,
+      "name": "Dammit, Ackwar! You could have told me!\nMaybe I could have helped you for once...[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "qev025110_MSG0033",
+      "style": 1,
+      "name": "But I guess you're the only one who can help him now.[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "qev025110_MSG0034",
+      "style": 1,
+      "name": "Not talking, eh? Ackwar was right about you.\nSaid you were trustworthy.[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "qev025110_MSG0035",
+      "style": 1,
+      "name": "He wouldn't tell me anything, either. Just said this was\none perp he had to bring in on his own.[ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "qev025110_MSG0036",
+      "style": 1,
+      "name": "I don't know what happened, but please help\nhim any way you can. He's a good friend.[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "qev025110_JNK0070",
+      "style": 4,
+      "name": "Promise"
+    },
+    {
+      "$id": 50,
+      "label": "qev025110_SEL0071",
+      "style": 3,
+      "name": "Swear to bring Ackwar home safe."
+    },
+    {
+      "$id": 51,
+      "label": "qev025110_JNK0080",
+      "style": 4,
+      "name": "Hedge"
+    },
+    {
+      "$id": 52,
+      "label": "qev025110_SEL0081",
+      "style": 3,
+      "name": "Don't make any promises."
+    },
+    {
+      "$id": 53,
+      "label": "qev025110_MSG0037",
+      "style": 1,
+      "name": "Coming from you, I believe it. Ackwar said you're as\ndependable as they come.[ST:wait ]"
+    },
+    {
+      "$id": 54,
+      "label": "qev025110_MSG0038",
+      "style": 1,
+      "name": "I'll let you be the one to clean up after the loose\nMa-non cannon this time.[ST:wait ]"
+    },
+    {
+      "$id": 55,
+      "label": "qev025110_MSG0039",
+      "style": 1,
+      "name": "Not very optimistic, are you?[ST:wait ]"
+    },
+    {
+      "$id": 56,
+      "label": "qev025110_MSG0040",
+      "style": 1,
+      "name": "Still, I suppose a level head is for the best.\nSomeone has to balance out that loose cannon\nAckwar, after all.[ST:wait ]"
+    },
+    {
+      "$id": 57,
+      "label": "qev025110_MSG0041",
+      "style": 1,
+      "name": "I'll leave Ackwar to you. If he goes off the rails,\nI'm trusting you to reel him back in.[ST:wait ]"
+    },
+    {
+      "$id": 58,
+      "label": "qev025110_MSG0042",
+      "style": 1,
+      "name": "Ackwar said to meet him at Keegan Ridge over in\nOblivia.[ST:wait ]"
+    },
+    {
+      "$id": 59,
+      "label": "qev025110_MSG0043",
+      "style": 1,
+      "name": "Please help him. You're the only one who can.[ST:wait ]"
+    }
+  ]
+}

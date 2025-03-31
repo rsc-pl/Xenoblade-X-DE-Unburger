@@ -1,0 +1,762 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev065301_MSG0001",
+      "style": 1,
+      "name": "Hmm? Hmmmmm? Are you [ST:playername ]?[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev065301_MSG0002",
+      "style": 1,
+      "name": "Oh, you are CUTE! Just like Eri said.\nOr definitely within acceptable tolerances, anyway.[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev065301_JNK0010",
+      "style": 4,
+      "name": "Thank"
+    },
+    {
+      "$id": 4,
+      "label": "qev065301_SEL0011",
+      "style": 3,
+      "name": "Nod and give an awkward half-smile."
+    },
+    {
+      "$id": 5,
+      "label": "qev065301_JNK0020",
+      "style": 4,
+      "name": "Inquire"
+    },
+    {
+      "$id": 6,
+      "label": "qev065301_SEL0021",
+      "style": 3,
+      "name": "Ask Lyvia who this \"Eri\" person is."
+    },
+    {
+      "$id": 7,
+      "label": "qev065301_MSG0003",
+      "style": 1,
+      "name": "Hee! Then let's shake hands! Come on, shake![ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev065301_MSG0004",
+      "style": 1,
+      "name": "...Eri? Geez, what's got you all in a huff?[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev065301_MSG0005",
+      "style": 1,
+      "name": "It would take far worse than that to get a rise out of\nme.[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev065301_MSG0006",
+      "style": 1,
+      "name": "However, I owe [ST:gender p1=him p2=her ] a great deal. I would appreciate it\nif you showed a bit more respect.[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev065301_MSG0007",
+      "style": 1,
+      "name": "Oh, Eri's...[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev065301_MSG0008",
+      "style": 1,
+      "name": "Ah, speak of the devil! There she is in the flesh.\n...Well? Ring any bells?[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev065301_MSG0009",
+      "style": 1,
+      "name": "Lyvia, [ST:gender p1=he p2=she ] is a normal human.\nOf course [ST:gender p1=he p2=she ] won't recognize me.[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev065301_MSG0010",
+      "style": 1,
+      "name": "Hey there, [ST:playername ]. It's been a while.\n...Er, it's me. Erio? The Definian?[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev065301_MSG0011",
+      "style": 1,
+      "name": "This is the shape I've taken for now. How do I look?\nNot strange, I hope.[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev065301_JNK0030",
+      "style": 4,
+      "name": "Praise"
+    },
+    {
+      "$id": 17,
+      "label": "qev065301_SEL0031",
+      "style": 3,
+      "name": "Tell Erio that she looks fantastic."
+    },
+    {
+      "$id": 18,
+      "label": "qev065301_JNK0040",
+      "style": 4,
+      "name": "Criticize"
+    },
+    {
+      "$id": 19,
+      "label": "qev065301_SEL0041",
+      "style": 3,
+      "name": "Tell Erio that her new look isn't really your style."
+    },
+    {
+      "$id": 20,
+      "label": "qev065301_MSG0012",
+      "style": 1,
+      "name": "You are kind as always.[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev065301_MSG0013",
+      "style": 1,
+      "name": "Aw, look at you blush, Eri! You didn't tell me you\nhad this big of a crush on [ST:gender p1=him p2=her ]![ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev065301_MSG0014",
+      "style": 1,
+      "name": "Honest as ever, I see. But hmm...\nThis one was no good.[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev065301_MSG0015",
+      "style": 1,
+      "name": "Aw, don't be so sad, Eri. Still, you didn't tell me [ST:gender p1=he p2=she ]\nwas such a heartbreaker! Ha ha ha![ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev065301_MSG0016",
+      "style": 1,
+      "name": "Heck, I'm only teasing, Eri! Though I will say that after\ntalking for just a minute or two, I can see why you'd\nbe so intrigued.[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev065301_MSG0017",
+      "style": 1,
+      "name": "These humans really are interesting.\nMaybe I should find me one to date, too.[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev065301_MSG0018",
+      "style": 1,
+      "name": "[ST:playername ] is a friend and someone\nto whom I owe a great deal.\nStop suggesting anything else.[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev065301_MSG0019",
+      "style": 1,
+      "name": "And while repeating myself any further is probably\nuseless, I've already explained that we are Definians.\nOur kind do not experience romantic love.[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev065301_MSG0020",
+      "style": 1,
+      "name": "Oh, pshaw! You don't know until you try![ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev065301_MSG0021",
+      "style": 1,
+      "name": "Hey, [ST:playername ], I have a job for you.\nVery urgent. Could you round up some boyfriend\ncandidates you think might be a good fit for me?[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev065301_MSG0022",
+      "style": 1,
+      "name": "Pleeease? I'm sure a human acting as go-between will\nbe a lot less startling than me going around asking\ndirectly.[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev065301_MSG0023",
+      "style": 1,
+      "name": "Yaaay! If I'm being honest, I've already scouted out a\nfew eligible bachelors.[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev065301_MSG0024",
+      "style": 1,
+      "name": "There's Maxim, Kent D. Carr, and Giotto. I'd love it if\nyou could go interview them, then bring back whoever\nyou think is the best fit for me.[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev065301_MSG0025",
+      "style": 1,
+      "name": "You do that, and I'll prove Definians can love just fine![ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev065301_MSG0026",
+      "style": 1,
+      "name": "Do this for me and I promise I'll never ask another\nfavor. I just want to get swept off my feet once,\nyou know? So thanks for finding me a prince![ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev065301_MSG0027",
+      "style": 1,
+      "name": "Yaaay! Oh, and if I'm being totally honest,\nI've already scouted out a few prime candidates.[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev065301_MSG0028",
+      "style": 1,
+      "name": "There's Maxim, Kent D. Carr, and Giotto. I'd love it if\nyou could go interview them, then bring back whoever\nyou think is the best fit for me.[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev065301_MSG0029",
+      "style": 1,
+      "name": "You do that, and I'll prove Definians can love just fine![ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev065301_MSG0030",
+      "style": 1,
+      "name": "The names of the boys I've scouted out are Maxim,\nKent D. Carr, and Giotto. Pick the best of those three,\nthen bring him by to meet me.[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "qev065301_MSG0031",
+      "style": 1,
+      "name": "Ooo, you brought Maxim? He's so interesting to talk\nto, isn't he? He could make a fine boyfriend![ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "qev065301_MSG0032",
+      "style": 1,
+      "name": "Ooo, you brought Kent? He's so brilliant, right?\nHe could make a fine boyfriend![ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "qev065301_MSG0033",
+      "style": 1,
+      "name": "Ooo, you brought Giotto? He's so vibrant and full of\nenergy. He could make a fine boyfriend![ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "qev065301_MSG0034",
+      "style": 1,
+      "name": "Now it's just a matter of figuring out my approach.[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "qev065301_MSG0035",
+      "style": 1,
+      "name": "So what's your style when talking up a cutie?[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "qev065301_JNK0090",
+      "style": 4,
+      "name": "Suggest"
+    },
+    {
+      "$id": 45,
+      "label": "qev065301_SEL0091",
+      "style": 3,
+      "name": "Say that Lyvia should give him a present."
+    },
+    {
+      "$id": 46,
+      "label": "qev065301_JNK0100",
+      "style": 4,
+      "name": "Confess"
+    },
+    {
+      "$id": 47,
+      "label": "qev065301_SEL0101",
+      "style": 3,
+      "name": "Admit that you've never really dated before."
+    },
+    {
+      "$id": 48,
+      "label": "qev065301_MSG0036",
+      "style": 1,
+      "name": "Aw, you're the giving type, huh?\nGenerous is always an attractive look.[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "qev065301_MSG0037",
+      "style": 1,
+      "name": "Hmm, then maybe I'll give him a snowy angelhair,\nsome muranadium, and a primitive colossus statue.[ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "qev065301_MSG0038",
+      "style": 1,
+      "name": "Whaaat? With Eri so head-over-heels for you,\nI just assumed you had folks beating down your\ndoor with sticks.[ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "qev065301_MSG0039",
+      "style": 1,
+      "name": "Huh. I suppose you never can tell![ST:wait ]"
+    },
+    {
+      "$id": 52,
+      "label": "qev065301_MSG0040",
+      "style": 1,
+      "name": "Well then, maybe I'll give him something.\nEverybody like presents, right?[ST:wait ]"
+    },
+    {
+      "$id": 53,
+      "label": "qev065301_MSG0041",
+      "style": 1,
+      "name": "As for what to give, maybe a snowy angelhair,\nsome muranadium, aaaaand...a primitive colossus![ST:wait ]"
+    },
+    {
+      "$id": 54,
+      "label": "qev065301_MSG0042",
+      "style": 1,
+      "name": "I'll be waiting right here when you get back with all\nthat. Thanks![ST:wait ]"
+    },
+    {
+      "$id": 55,
+      "label": "qev065301_MSG0043",
+      "style": 1,
+      "name": "If you could scrounge up those presents ASAP,\nthat'd be awesome.[ST:wait ]"
+    },
+    {
+      "$id": 56,
+      "label": "qev065301_MSG0044",
+      "style": 1,
+      "name": "In return, I promise to snare his heart.\nIt's one hundred percent guaranteed![ST:wait ]"
+    },
+    {
+      "$id": 57,
+      "label": "qev065301_MSG0083",
+      "style": 1,
+      "name": "Oh, welcome back! I was killing time waiting for you\nto get back by talking to Maxim.[ST:wait ]"
+    },
+    {
+      "$id": 58,
+      "label": "qev065301_MSG0084",
+      "style": 1,
+      "name": "It's just one fascinating topic after the next with him.\nAnd he speaks so pretty![ST:wait ]"
+    },
+    {
+      "$id": 59,
+      "label": "qev065301_MSG0085",
+      "style": 1,
+      "name": "You've got fantastic taste, you know that?\nThanks for introducing me to such a keeper![ST:wait ]"
+    },
+    {
+      "$id": 60,
+      "label": "qev065301_MSG0086",
+      "style": 1,
+      "name": "Ah, such flattery! And to think it spills from the lips\nof one so beautiful.[ST:wait ]"
+    },
+    {
+      "$id": 61,
+      "label": "qev065301_MSG0087",
+      "style": 1,
+      "name": "Oh, welcome back! I was killing time waiting for you\nto get back by talking to Kent.[ST:wait ]"
+    },
+    {
+      "$id": 62,
+      "label": "qev065301_MSG0088",
+      "style": 1,
+      "name": "He's been explaining one new thing after the next to\nme, and in such simple terms. I feel smarter already.[ST:wait ]"
+    },
+    {
+      "$id": 63,
+      "label": "qev065301_MSG0089",
+      "style": 1,
+      "name": "You've got fantastic taste, you know that?\nThanks for introducing me to such a keeper![ST:wait ]"
+    },
+    {
+      "$id": 64,
+      "label": "qev065301_MSG0090",
+      "style": 1,
+      "name": "You're the first girl that's ever put up with my mundane\nprattle.[ST:wait ]"
+    },
+    {
+      "$id": 65,
+      "label": "qev065301_MSG0092",
+      "style": 1,
+      "name": "Oh, welcome back! I was killing time waiting for you\nto get back by talking to Giotto.[ST:wait ]"
+    },
+    {
+      "$id": 66,
+      "label": "qev065301_MSG0093",
+      "style": 1,
+      "name": "It's been one wild BLADE adventure story after the next.\nHe's kept me on the edge of my seat![ST:wait ]"
+    },
+    {
+      "$id": 67,
+      "label": "qev065301_MSG0094",
+      "style": 1,
+      "name": "You've got fantastic taste, you know that?\nThanks for introducing me to such a keeper![ST:wait ]"
+    },
+    {
+      "$id": 68,
+      "label": "qev065301_MSG0095",
+      "style": 1,
+      "name": "Gosh. I think this is the first time I've ever gotten to\nchat with a nice girl like you.[ST:wait ]"
+    },
+    {
+      "$id": 69,
+      "label": "qev065301_MSG0097",
+      "style": 1,
+      "name": "Tee hee! Soooo...any luck with those presents?[ST:wait ]"
+    },
+    {
+      "$id": 70,
+      "label": "qev065301_MSG0098",
+      "style": 1,
+      "name": "Whoooa, you really went and got them all!\nMan, that must have been a seriously huge pain.\nI know it's way too late to say this, but um...sorry.[ST:wait ]"
+    },
+    {
+      "$id": 71,
+      "label": "qev065301_MSG0099",
+      "style": 1,
+      "name": "You just have this vibe like you could make any request\nhappen. Guess I kinda got swept up in that.[ST:wait ]"
+    },
+    {
+      "$id": 72,
+      "label": "qev065301_JNK0130",
+      "style": 4,
+      "name": "Downplay"
+    },
+    {
+      "$id": 73,
+      "label": "qev065301_SEL0131",
+      "style": 3,
+      "name": "Say that you're nothing quite so magical."
+    },
+    {
+      "$id": 74,
+      "label": "qev065301_JNK0140",
+      "style": 4,
+      "name": "Blush"
+    },
+    {
+      "$id": 75,
+      "label": "qev065301_SEL0141",
+      "style": 3,
+      "name": "Turn red as you soak up the compliment."
+    },
+    {
+      "$id": 76,
+      "label": "qev065301_MSG0100",
+      "style": 1,
+      "name": "And then to play it off like it's no big thing!\nOof, yeah, you're something really special.[ST:wait ]"
+    },
+    {
+      "$id": 77,
+      "label": "qev065301_MSG0101",
+      "style": 1,
+      "name": "Hee hee! Awww, look at how adorable you are!\nI'm sure letting that cute side peek out in between all\nthe butt-kicking is a big part of your charm.[ST:wait ]"
+    },
+    {
+      "$id": 78,
+      "label": "qev065301_MSG0102",
+      "style": 1,
+      "name": "But thanks. I'll take these...[ST:wait ]"
+    },
+    {
+      "$id": 79,
+      "label": "qev065301_MSG0103",
+      "style": 1,
+      "name": "And give them to you, [ST:playername ]!\nYeppers, I've thought on it long and hard,\nand decided you're the one I'm really stuck on.[ST:wait ]"
+    },
+    {
+      "$id": 80,
+      "label": "qev065301_MSG0104",
+      "style": 1,
+      "name": "No! Can this be so?[ST:wait ]"
+    },
+    {
+      "$id": 81,
+      "label": "qev065301_MSG0105",
+      "style": 1,
+      "name": "I'm so sorry, Maxim. It finally clicked for me halfway\nthrough our chat.[ST:wait ]"
+    },
+    {
+      "$id": 82,
+      "label": "qev065301_MSG0106",
+      "style": 1,
+      "name": "You're wonderful, but it's [ST:playername ]\nthat I have special feelings for.[ST:wait ]"
+    },
+    {
+      "$id": 83,
+      "label": "qev065301_MSG0107",
+      "style": 1,
+      "name": "Besides, I'm sure if you saw the real me you'd run\naway screaming. And no one wants that![ST:wait ]"
+    },
+    {
+      "$id": 84,
+      "label": "qev065301_MSG0108",
+      "style": 1,
+      "name": "No! That's untrue! I would worship at your feet no\nmatter what you looked like.[ST:wait ]"
+    },
+    {
+      "$id": 85,
+      "label": "qev065301_MSG0109",
+      "style": 1,
+      "name": "You really sure about that? Well, okaaay...[ST:wait ]"
+    },
+    {
+      "$id": 86,
+      "label": "qev065301_MSG0110",
+      "style": 1,
+      "name": "Surprise?[ST:wait ]"
+    },
+    {
+      "$id": 87,
+      "label": "qev065301_MSG0111",
+      "style": 1,
+      "name": "EEEAAAAAAAAUUUGH![ST:wait ]"
+    },
+    {
+      "$id": 88,
+      "label": "qev065301_MSG0112",
+      "style": 1,
+      "name": "Told you.[ST:wait ]"
+    },
+    {
+      "$id": 89,
+      "label": "qev065301_MSG0113",
+      "style": 1,
+      "name": "Um, wait. Really? But what about—[ST:wait ]"
+    },
+    {
+      "$id": 90,
+      "label": "qev065301_MSG0114",
+      "style": 1,
+      "name": "I'm so sorry, Kent! It finally clicked for me halfway\nthrough our chat.[ST:wait ]"
+    },
+    {
+      "$id": 91,
+      "label": "qev065301_MSG0115",
+      "style": 1,
+      "name": "You're wonderful, but it's [ST:playername ]\nI have special feelings for.[ST:wait ]"
+    },
+    {
+      "$id": 92,
+      "label": "qev065301_MSG0116",
+      "style": 1,
+      "name": "Besides, I'm sure if you saw the real me you'd run\naway screaming.[ST:wait ]"
+    },
+    {
+      "$id": 93,
+      "label": "qev065301_MSG0117",
+      "style": 1,
+      "name": "There is no metamorphosis you could undergo that\nwould startle me, Lyvia.[ST:wait ]"
+    },
+    {
+      "$id": 94,
+      "label": "qev065301_MSG0118",
+      "style": 1,
+      "name": "You sure about that? Okaaay...[ST:wait ]"
+    },
+    {
+      "$id": 95,
+      "label": "qev065301_MSG0119",
+      "style": 1,
+      "name": "How about this?[ST:wait ]"
+    },
+    {
+      "$id": 96,
+      "label": "qev065301_MSG0120",
+      "style": 1,
+      "name": "I see. ...Fascinating.[ST:wait ]"
+    },
+    {
+      "$id": 97,
+      "label": "qev065301_MSG0121",
+      "style": 1,
+      "name": "But if I am not what you need, there is little purpose\nfor me to linger. Be well, Lyvia.[ST:wait ]"
+    },
+    {
+      "$id": 98,
+      "label": "qev065301_MSG0122",
+      "style": 1,
+      "name": "Wow, he actually wasn't startled at all.\nThat's pretty impressive, honestly.[ST:wait ]"
+    },
+    {
+      "$id": 99,
+      "label": "qev065301_MSG0123",
+      "style": 1,
+      "name": "Wha—hey![ST:wait ]"
+    },
+    {
+      "$id": 100,
+      "label": "qev065301_MSG0124",
+      "style": 1,
+      "name": "I'm so sorry, Giotto! It finally clicked for me halfway\nthrough our chat.[ST:wait ]"
+    },
+    {
+      "$id": 101,
+      "label": "qev065301_MSG0125",
+      "style": 1,
+      "name": "You're wonderful, but it's [ST:playername ]\nthat I have special feelings for.[ST:wait ]"
+    },
+    {
+      "$id": 102,
+      "label": "qev065301_MSG0126",
+      "style": 1,
+      "name": "Besides, I'm sure if you saw the real me you'd run\naway screaming.[ST:wait ]"
+    },
+    {
+      "$id": 103,
+      "label": "qev065301_MSG0127",
+      "style": 1,
+      "name": "Aw, heck no! Whatever it is you're worried about,\nyou're still you, Lyvia.[ST:wait ]"
+    },
+    {
+      "$id": 104,
+      "label": "qev065301_MSG0128",
+      "style": 1,
+      "name": "You sure about that? Okaaay...[ST:wait ]"
+    },
+    {
+      "$id": 105,
+      "label": "qev065301_MSG0129",
+      "style": 1,
+      "name": "Scared yet?[ST:wait ]"
+    },
+    {
+      "$id": 106,
+      "label": "qev065301_MSG0130",
+      "style": 1,
+      "name": "Hell, that ain't so bad. Me and my pecs have faced a\nlot scarier xenos out there in the field.[ST:wait ]"
+    },
+    {
+      "$id": 107,
+      "label": "qev065301_MSG0131",
+      "style": 1,
+      "name": "Still, being dumped is new. And I won't lie—it stings.\nI just never met a girl like you before, and I got all\nexcited...[ST:wait ]"
+    },
+    {
+      "$id": 108,
+      "label": "qev065301_MSG0132",
+      "style": 1,
+      "name": "But if that's your decision, it's cool. I'll go pump some\niron and sweat out all my disappointment.\nThanks for the memories, Lyv.[ST:wait ]"
+    },
+    {
+      "$id": 109,
+      "label": "qev065301_MSG0133",
+      "style": 1,
+      "name": "Aw, I'm sorry, Giotto. Gosh, I feel awful now.[ST:wait ]"
+    },
+    {
+      "$id": 110,
+      "label": "qev065301_MSG0134",
+      "style": 1,
+      "name": "...So? What do you say, [ST:playername ]?\nYou probably don't find me very attractive, do you...[ST:wait ]"
+    },
+    {
+      "$id": 111,
+      "label": "qev065301_JNK0150",
+      "style": 4,
+      "name": "Deny"
+    },
+    {
+      "$id": 112,
+      "label": "qev065301_SEL0151",
+      "style": 3,
+      "name": "Tell Lyvia that's not the case at all."
+    },
+    {
+      "$id": 113,
+      "label": "qev065301_JNK0160",
+      "style": 4,
+      "name": "Agree"
+    },
+    {
+      "$id": 114,
+      "label": "qev065301_SEL0161",
+      "style": 3,
+      "name": "Gently break it to Lyvia that she's not your type."
+    },
+    {
+      "$id": 115,
+      "label": "qev065301_MSG0135",
+      "style": 1,
+      "name": "Really?! Ooh, then we can—[ST:wait ]"
+    },
+    {
+      "$id": 116,
+      "label": "qev065301_MSG0136",
+      "style": 1,
+      "name": "Aw, nooo! Well, I'm not giving up that easy.\nI'll make you fall for me, just you—[ST:wait ]"
+    },
+    {
+      "$id": 117,
+      "label": "qev065301_MSG0137",
+      "style": 1,
+      "name": "Oh, that's ENOUGH, Lyvia! Stop bothering\n[ST:playername ] with this nonsense![ST:wait ]"
+    },
+    {
+      "$id": 118,
+      "label": "qev065301_MSG0138",
+      "style": 1,
+      "name": "Whaaaat? Nonsense? I'm just saying that I like [ST:gender p1=him p2=her ].[ST:wait ]"
+    },
+    {
+      "$id": 119,
+      "label": "qev065301_MSG0139",
+      "style": 1,
+      "name": "That's precisely what I mean! Just hearing you say\nthat makes me...nauseous for some reason.[ST:wait ]"
+    },
+    {
+      "$id": 120,
+      "label": "qev065301_MSG0140",
+      "style": 1,
+      "name": "I don't know why, but you have to stop. Please.\nYou're going to drive me insane.[ST:wait ]"
+    },
+    {
+      "$id": 121,
+      "label": "qev065301_MSG0141",
+      "style": 1,
+      "name": "Mm-hmmmmm. I see how it is.[ST:wait ]"
+    },
+    {
+      "$id": 122,
+      "label": "qev065301_MSG0142",
+      "style": 1,
+      "name": "You're lucky I like you so much, Eri. But all right.\nI'll call a truce...for now.[ST:wait ]"
+    },
+    {
+      "$id": 123,
+      "label": "qev065301_MSG0143",
+      "style": 1,
+      "name": "You're so naughty, [ST:playername ]...\nNot one but TWO Definians going crazy for you?\nGrrrawl![ST:wait ]"
+    },
+    {
+      "$id": 124,
+      "label": "qev065301_MSG0144",
+      "style": 1,
+      "name": "Well, here's a little something to remember me by.\nNo no! It's a present! No need to give anything back.\n...For now, anyway.[ST:wait ]"
+    }
+  ]
+}

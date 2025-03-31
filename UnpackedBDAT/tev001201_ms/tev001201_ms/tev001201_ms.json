@@ -1,0 +1,216 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev001201_MSG0001",
+      "style": 1,
+      "name": "[ST:playername ]! Hey!\nYou heading off somewhere? Mind if I tag along?[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev001201_MSG0002",
+      "style": 1,
+      "name": "I keep hitting dead ends with my Skell flight module\nproject, and it's making my brain start to hurt...[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev001201_MSG0003",
+      "style": 1,
+      "name": "I think a little BLADE work in the great outdoors would\nbe just the thing to clear my head. So how about it?[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev001201_JNK0010",
+      "style": 4,
+      "name": "Agree"
+    },
+    {
+      "$id": 5,
+      "label": "tev001201_SEL0011",
+      "style": 3,
+      "name": "Add Lin to your team."
+    },
+    {
+      "$id": 6,
+      "label": "tev001201_JNK0020",
+      "style": 4,
+      "name": "Refuse"
+    },
+    {
+      "$id": 7,
+      "label": "tev001201_SEL0021",
+      "style": 3,
+      "name": "Decline Lin's request for now."
+    },
+    {
+      "$id": 8,
+      "label": "tev001201_MSG0004",
+      "style": 1,
+      "name": "Thanks, [ST:playername ]!\nThe fresh air will do me good![ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "tev001201_MSG0005",
+      "style": 1,
+      "name": "Oh, okay. I bet the mission's a real toughie, huh?\nWell, thanks for looking out for me.[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "tev001201_MSG0010",
+      "style": 1,
+      "name": "How's your Skell flight module holding up?[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev001201_MSG0011",
+      "style": 1,
+      "name": "I'd love to see how it performs in the field...\nMind taking me with you?[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "tev001201_JNK0150",
+      "style": 4,
+      "name": "Agree"
+    },
+    {
+      "$id": 13,
+      "label": "tev001201_SEL0151",
+      "style": 3,
+      "name": "Add Lin to your team."
+    },
+    {
+      "$id": 14,
+      "label": "tev001201_JNK0160",
+      "style": 4,
+      "name": "Refuse"
+    },
+    {
+      "$id": 15,
+      "label": "tev001201_SEL0161",
+      "style": 3,
+      "name": "Decline Lin's request for now."
+    },
+    {
+      "$id": 16,
+      "label": "tev001201_MSG0012",
+      "style": 1,
+      "name": "Awesome! I'm so excited![ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "tev001201_MSG0013",
+      "style": 1,
+      "name": "Aww, all right. I guess I'll go make dinner then.\nCome back if you get hungry![ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "tev001201_MSG0018",
+      "style": 1,
+      "name": "I can't believe we're finally gonna get the Lifehold\nCore back![ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "tev001201_MSG0019",
+      "style": 1,
+      "name": "I'll do anything to make this work out, so take me\nalong, okay?[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "tev001201_JNK0150",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 21,
+      "label": "tev001201_SEL0151",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 22,
+      "label": "tev001201_JNK0160",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 23,
+      "label": "tev001201_SEL0161",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 24,
+      "label": "tev001201_MSG0020",
+      "style": 1,
+      "name": "Thanks, [ST:playername ]!\nYou won't regret this![ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "tev001201_MSG0021",
+      "style": 1,
+      "name": "Aww, all right. Good luck out there, you hear?\nMake sure you come back safe![ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "tev001201_MSG0026",
+      "style": 1,
+      "name": "Hey, you heading off again? I was just thinking\nI could use a little adventure myself...[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "tev001201_MSG0027",
+      "style": 1,
+      "name": "Come on, take me with you, okay? Please?\nI'll go anywhere you want![ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "tev001201_JNK0170",
+      "style": 4,
+      "name": "Agree"
+    },
+    {
+      "$id": 29,
+      "label": "tev001201_SEL0171",
+      "style": 3,
+      "name": "Add Lin to your team."
+    },
+    {
+      "$id": 30,
+      "label": "tev001201_JNK0180",
+      "style": 4,
+      "name": "Refuse"
+    },
+    {
+      "$id": 31,
+      "label": "tev001201_SEL0181",
+      "style": 3,
+      "name": "Decline Lin's request for now."
+    },
+    {
+      "$id": 32,
+      "label": "tev001201_MSG0028",
+      "style": 1,
+      "name": "Fantastic! Let's get this party started![ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "tev001201_MSG0029",
+      "style": 1,
+      "name": "Fiiine. I'll just hang out at boring old home then.\nBut at least bring me back some fresh ingredients\nto mess around with in the kitchen, okay?[ST:wait ]"
+    }
+  ]
+}

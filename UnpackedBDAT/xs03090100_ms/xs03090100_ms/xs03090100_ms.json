@@ -1,0 +1,462 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs03090100_MSG0001",
+      "style": 0,
+      "name": "So, Rook, feel like you're starting to get the hang of things?[ST:wait ]\n"
+    },
+    {
+      "$id": 2,
+      "label": "xs03090100_JNK0010",
+      "style": 4,
+      "name": "Nod"
+    },
+    {
+      "$id": 3,
+      "label": "xs03090100_SEL0011",
+      "style": 3,
+      "name": "Show confidence."
+    },
+    {
+      "$id": 4,
+      "label": "xs03090100_JNK0020",
+      "style": 4,
+      "name": "Shake Your Head"
+    },
+    {
+      "$id": 5,
+      "label": "xs03090100_SEL0021",
+      "style": 3,
+      "name": "Show hesitation."
+    },
+    {
+      "$id": 6,
+      "label": "xs03090100_MSG0002",
+      "style": 0,
+      "name": "Course you are![ST:wait ]\n"
+    },
+    {
+      "$id": 7,
+      "label": "xs03090100_MSG0003",
+      "style": 0,
+      "name": "You've taken to it like a fish to water—\njust like Elma and the Commander said you would.[ST:wait ]\n"
+    },
+    {
+      "$id": 8,
+      "label": "xs03090100_MSG0004",
+      "style": 0,
+      "name": "Just the same, let's review the key points,\nand I can fill in some extra details.[ST:wait ]\n"
+    },
+    {
+      "$id": 9,
+      "label": "xs03090100_MSG0005",
+      "style": 0,
+      "name": "Course not, you just started.[ST:wait ]\n"
+    },
+    {
+      "$id": 10,
+      "label": "xs03090100_MSG0006",
+      "style": 0,
+      "name": "All right, well, why don't we review the key points then,\nand I can fill in some details.[ST:wait ]\n"
+    },
+    {
+      "$id": 11,
+      "label": "xs03090100_MSG0007",
+      "style": 0,
+      "name": "BLADE's top priority right now is to\nsecure missing pieces of the Lifehold.[ST:wait ]\n"
+    },
+    {
+      "$id": 12,
+      "label": "xs03090100_MSG0008",
+      "style": 0,
+      "name": "You remember that much.[ST:wait ]\n"
+    },
+    {
+      "$id": 13,
+      "label": "xs03090100_MSG0009",
+      "style": 0,
+      "name": "Countless people are frozen in the Lifehold—\nit's the key to restoring humanity.[ST:wait ]\n"
+    },
+    {
+      "$id": 14,
+      "label": "xs03090100_MSG0010",
+      "style": 0,
+      "name": "Up until we ran into the Prone,[ST:page p1=40 ]our biggest concern was that wild indigens\nwould stumble on the Lifehold and damage it somehow...[ST:wait ]\n"
+    },
+    {
+      "$id": 15,
+      "label": "xs03090100_MSG0011",
+      "style": 0,
+      "name": "But now, there's a more pressing threat—\nintelligent alien races who are intentionally trying to destroy us.[ST:wait ]\n"
+    },
+    {
+      "$id": 16,
+      "label": "xs03090100_MSG0012",
+      "style": 0,
+      "name": "So our search has new urgency...[ST:wait ]\n"
+    },
+    {
+      "$id": 17,
+      "label": "xs03090100_MSG0013",
+      "style": 0,
+      "name": "We need to find and retrieve all of the Lifehold ASAP.[ST:wait ]\n"
+    },
+    {
+      "$id": 18,
+      "label": "xs03090100_MSG0014",
+      "style": 0,
+      "name": "And the best way to do that is by\nexpanding the reach of FrontierNav.[ST:wait ]\n"
+    },
+    {
+      "$id": 19,
+      "label": "xs03090100_MSG0015",
+      "style": 0,
+      "name": "The more probes we can install, the wider we can scan,\nand the faster we can find bits of the Lifehold.[ST:wait ]\n"
+    },
+    {
+      "$id": 20,
+      "label": "xs03090100_MSG0016",
+      "style": 0,
+      "name": "So our primary focus going forward should be\nto travel around Mira installing data probes—[ST:wait ]\n"
+    },
+    {
+      "$id": 21,
+      "label": "xs03090100_MSG0017",
+      "style": 0,
+      "name": "as many as we can, as fast as we can.\nI can't stress enough how important this is.[ST:wait ]\n"
+    },
+    {
+      "$id": 22,
+      "label": "xs03090100_MSG0018",
+      "style": 0,
+      "name": "You still with me?[ST:wait ]\n"
+    },
+    {
+      "$id": 23,
+      "label": "xs03090100_JNK0030",
+      "style": 4,
+      "name": "Nod"
+    },
+    {
+      "$id": 24,
+      "label": "xs03090100_SEL0031",
+      "style": 3,
+      "name": "Assure Elma you understand."
+    },
+    {
+      "$id": 25,
+      "label": "xs03090100_JNK0040",
+      "style": 4,
+      "name": "Cock Your Head"
+    },
+    {
+      "$id": 26,
+      "label": "xs03090100_SEL0041",
+      "style": 3,
+      "name": "Look confused."
+    },
+    {
+      "$id": 27,
+      "label": "xs03090100_MSG0019",
+      "style": 0,
+      "name": "Good. Then let's move on to the other pressing threat\nthat BLADE has to deal with:[ST:wait ]\n"
+    },
+    {
+      "$id": 28,
+      "label": "xs03090100_MSG0020",
+      "style": 0,
+      "name": "Okay, once more from the top, then:[ST:wait ]\n"
+    },
+    {
+      "$id": 29,
+      "label": "xs03090100_MSG0021",
+      "style": 0,
+      "name": "Hostile indigens. There's no real delicate way to put this...[ST:wait ]\n"
+    },
+    {
+      "$id": 30,
+      "label": "xs03090100_MSG0022",
+      "style": 0,
+      "name": "Any wildlife that poses a clear threat must be eliminated.[ST:wait ]\n"
+    },
+    {
+      "$id": 31,
+      "label": "xs03090100_MSG0023",
+      "style": 0,
+      "name": "The Lifehold is our future, but we can't ignore the present.[ST:wait ]\n"
+    },
+    {
+      "$id": 32,
+      "label": "xs03090100_MSG0024",
+      "style": 0,
+      "name": "We still have our duty to keep New LA safe.[ST:wait ]\n"
+    },
+    {
+      "$id": 33,
+      "label": "xs03090100_MSG0025",
+      "style": 0,
+      "name": "And sometimes that duty requires enacting coordinated\nstrikes to solve problems before they can do real harm.[ST:wait ]\n"
+    },
+    {
+      "$id": 34,
+      "label": "xs03090100_MSG0026",
+      "style": 0,
+      "name": "We're the newcomers here, it's true—\nand they're usually just out to defend their territory.[ST:wait ]\n"
+    },
+    {
+      "$id": 35,
+      "label": "xs03090100_MSG0027",
+      "style": 0,
+      "name": "But sometimes it really is them or us.\nAnd we have to make sure it's us.[ST:wait ]\n"
+    },
+    {
+      "$id": 36,
+      "label": "xs03090100_MSG0028",
+      "style": 0,
+      "name": "Don't get me wrong—it's not like we run out there\nand light up anything that moves.[ST:wait ]\n"
+    },
+    {
+      "$id": 37,
+      "label": "xs03090100_MSG0029",
+      "style": 0,
+      "name": "Only BLADE HQ can choose targets,[ST:wait ]\n"
+    },
+    {
+      "$id": 38,
+      "label": "xs03090100_MSG0030",
+      "style": 0,
+      "name": "and they tend to keep them strictly to creatures\nthat pose a significant threat to our survival.[ST:wait ]\n"
+    },
+    {
+      "$id": 39,
+      "label": "xs03090100_MSG0031",
+      "style": 0,
+      "name": "In order to contribute to this cause, operatives are asked\nto form into squads to take on special missions.[ST:wait ]\n"
+    },
+    {
+      "$id": 40,
+      "label": "xs03090100_MSG0032",
+      "style": 0,
+      "name": "These Squad Missions, as we call them, don't get posted to \nMission Control like your other, more typical assignments.[ST:wait ]\n"
+    },
+    {
+      "$id": 41,
+      "label": "xs03090100_MSG0033",
+      "style": 0,
+      "name": "Rather, HQ transmits the details\ndirectly to all of us at the same time.[ST:wait ]\n"
+    },
+    {
+      "$id": 42,
+      "label": "xs03090100_MSG0034",
+      "style": 0,
+      "name": "Basically, they want as many people to know\nabout them ASAP, so they can be taken care of ASAP.[ST:wait ]\n"
+    },
+    {
+      "$id": 43,
+      "label": "xs03090100_MSG0035",
+      "style": 0,
+      "name": "I'm sure you can imagine, but these missions\naren't your run-of-the-mill little fetch quests.[ST:wait ]\n"
+    },
+    {
+      "$id": 44,
+      "label": "xs03090100_MSG0036",
+      "style": 0,
+      "name": "It's not the kind of stuff just one or two BLADEs\ncould handle on their own.[ST:wait ]\n"
+    },
+    {
+      "$id": 45,
+      "label": "xs03090100_MSG0037",
+      "style": 0,
+      "name": "That's why squads can have as many as 32 members.[ST:wait ]\n"
+    },
+    {
+      "$id": 46,
+      "label": "xs03090100_MSG0038",
+      "style": 0,
+      "name": "And it's why we ask members to sign up\nto a squad beforehand.[ST:wait ]\n"
+    },
+    {
+      "$id": 47,
+      "label": "xs03090100_MSG0039",
+      "style": 0,
+      "name": "We can't have BLADEs playing musical chairs\nwhenever this kind of emergency hits us.[ST:wait ]\n"
+    },
+    {
+      "$id": 48,
+      "label": "xs03090100_MSG0040",
+      "style": 0,
+      "name": "But just remember:[ST:wait ]\n"
+    },
+    {
+      "$id": 49,
+      "label": "xs03090100_MSG0041",
+      "style": 0,
+      "name": "Squad Missions are not mandatory. You don't have\nto drop everything you're doing just to take one on.[ST:wait ]\n"
+    },
+    {
+      "$id": 50,
+      "label": "xs03090100_MSG0042",
+      "style": 0,
+      "name": "HQ has no way of knowing what every BLADE\nis up to when these missions arise.[ST:page p1=150 ]If you're busy with something else, they'll understand.[ST:wait ]\n"
+    },
+    {
+      "$id": 51,
+      "label": "xs03090100_MSG0043",
+      "style": 0,
+      "name": "They need to trust our collective judgment\nwith these things, and...well, so far, so good.[ST:wait ]\n"
+    },
+    {
+      "$id": 52,
+      "label": "xs03090100_MSG0044",
+      "style": 0,
+      "name": "Aaand I think that about covers the basics, right?[ST:wait ]\n"
+    },
+    {
+      "$id": 53,
+      "label": "xs03090100_MSG0045",
+      "style": 0,
+      "name": "Search for the missing pieces of the Lifehold...[ST:wait ]\n"
+    },
+    {
+      "$id": 54,
+      "label": "xs03090100_MSG0045_2",
+      "style": 0,
+      "name": "Install data probes to expand FrontierNav...[ST:wait ]\n"
+    },
+    {
+      "$id": 55,
+      "label": "xs03090100_MSG0046",
+      "style": 0,
+      "name": "and take on Squad Missions when you can to keep us safe.[ST:wait ]\n"
+    },
+    {
+      "$id": 56,
+      "label": "xs03090100_MSG0047",
+      "style": 0,
+      "name": "Got all that?[ST:wait ]\n"
+    },
+    {
+      "$id": 57,
+      "label": "xs03090100_JNK0050",
+      "style": 4,
+      "name": "Nod"
+    },
+    {
+      "$id": 58,
+      "label": "xs03090100_SEL0051",
+      "style": 3,
+      "name": "Show you understand."
+    },
+    {
+      "$id": 59,
+      "label": "xs03090100_JNK0060",
+      "style": 4,
+      "name": "Look Confused"
+    },
+    {
+      "$id": 60,
+      "label": "xs03090100_SEL0061",
+      "style": 3,
+      "name": "Show you're completely lost."
+    },
+    {
+      "$id": 61,
+      "label": "xs03090100_MSG0048",
+      "style": 0,
+      "name": "Good. We're counting on you.[ST:wait ]\n"
+    },
+    {
+      "$id": 62,
+      "label": "xs03090100_MSG0049",
+      "style": 0,
+      "name": "Aaand briefing adjourned! Thank God.[ST:wait ]\n"
+    },
+    {
+      "$id": 63,
+      "label": "xs03090100_MSG0050",
+      "style": 0,
+      "name": "All right—we'll go over it as many times as it takes.[ST:wait ]\n"
+    },
+    {
+      "$id": 64,
+      "label": "xs03090100_MSG0051",
+      "style": 0,
+      "name": "All right, well, it's getting pretty late, isn't it?[ST:wait ]\n"
+    },
+    {
+      "$id": 65,
+      "label": "xs03090100_MSG0052",
+      "style": 0,
+      "name": "Yeah, let's call it a night.[ST:wait ]\n"
+    },
+    {
+      "$id": 66,
+      "label": "xs03090100_MSG0053",
+      "style": 0,
+      "name": "Oh, Tatsu so excited to sleep in real bed![ST:wait ]\n"
+    },
+    {
+      "$id": 67,
+      "label": "xs03090100_MSG0054",
+      "style": 0,
+      "name": "Linly can show Tatsu to his room now.[ST:wait ]\n"
+    },
+    {
+      "$id": 68,
+      "label": "xs03090100_MSG0055",
+      "style": 0,
+      "name": "Oh, your room is right over there.[ST:wait ]\n"
+    },
+    {
+      "$id": 69,
+      "label": "xs03090100_MSG0056",
+      "style": 0,
+      "name": "Oh-ho! It look perfect size for Tatsu...\nWait! What?![ST:wait ]\n"
+    },
+    {
+      "$id": 70,
+      "label": "xs03090100_MSG0057",
+      "style": 0,
+      "name": "Tatsu know what that is![ST:wait ]\n"
+    },
+    {
+      "$id": 71,
+      "label": "xs03090100_MSG0058",
+      "style": 0,
+      "name": "That ruh-fridger-eater!\nFood go in there to cool off![ST:wait ]\n"
+    },
+    {
+      "$id": 72,
+      "label": "xs03090100_MSG0059",
+      "style": 0,
+      "name": "Heh, I guess you ARE smarter than you look...[ST:wait ]\n"
+    },
+    {
+      "$id": 73,
+      "label": "xs03090100_MSG0060",
+      "style": 0,
+      "name": "Well, Tatsu not want to brag, but—[ST:wait ]\n"
+    },
+    {
+      "$id": 74,
+      "label": "xs03090100_MSG0061",
+      "style": 0,
+      "name": "Wait a minute! Tatsu see what Linly did there.[ST:wait ]\n"
+    }
+  ]
+}

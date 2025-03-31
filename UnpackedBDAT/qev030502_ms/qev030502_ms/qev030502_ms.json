@@ -1,0 +1,210 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev030502_MSG0001",
+      "style": 1,
+      "name": "Hello. It is Hala.[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev030502_MSG0002",
+      "style": 1,
+      "name": "...Then you have Quegga's body? Good.\nTake it. Feed it to beast.[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev030502_MSG0003",
+      "style": 1,
+      "name": "But first you must search body. Look for keepsake or\nother personal effects.[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev030502_MSG0004",
+      "style": 1,
+      "name": "Thea will want something to keep close.[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev030502_JNK0010",
+      "style": 4,
+      "name": "Examine the Body"
+    },
+    {
+      "$id": 6,
+      "label": "qev030502_SEL0011",
+      "style": 3,
+      "name": "Search Quegga's body for a memento."
+    },
+    {
+      "$id": 7,
+      "label": "qev030502_JNK0020",
+      "style": 4,
+      "name": "Examine the Area"
+    },
+    {
+      "$id": 8,
+      "label": "qev030502_SEL0021",
+      "style": 3,
+      "name": "Look around for something of Quegga's."
+    },
+    {
+      "$id": 9,
+      "label": "qev030502_MSG0005",
+      "style": 1,
+      "name": "...You found strange note? What does it say?[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev030502_MSG0006",
+      "style": 1,
+      "name": "\"I hid...for Thea in...Scabland Fortress cave.\nPlease...to Thea?\"[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev030502_MSG0007",
+      "style": 1,
+      "name": "I see. He made her gift. But what?[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev030502_MSG0008",
+      "style": 1,
+      "name": "Hmm. Curious. Can you go look for gift?\nI know I am increasing work, but it is important.[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev030502_MSG0009",
+      "style": 1,
+      "name": "Gift may be perfect thing to cheer Thea up.[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev030502_JNK0030",
+      "style": 4,
+      "name": "Agree"
+    },
+    {
+      "$id": 15,
+      "label": "qev030502_SEL0031",
+      "style": 3,
+      "name": "Accept Hala's request."
+    },
+    {
+      "$id": 16,
+      "label": "qev030502_JNK0040",
+      "style": 4,
+      "name": "Refuse"
+    },
+    {
+      "$id": 17,
+      "label": "qev030502_SEL0041",
+      "style": 3,
+      "name": "Turn Hala down."
+    },
+    {
+      "$id": 18,
+      "label": "qev030502_MSG0010",
+      "style": 1,
+      "name": "You BLADEs are noble. I leave it to you.[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev030502_MSG0011",
+      "style": 1,
+      "name": "I am sorry. I did not hear you.\nConnection is poor.[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev030502_MSG0012",
+      "style": 1,
+      "name": "Please do this. I love Thea's dance.\nIt made her happy. I want to see it again.[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev030502_MSG0013",
+      "style": 1,
+      "name": "I know you will help. Best of luck.[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev030502_MSG0014",
+      "style": 1,
+      "name": "But there is still Quegga. You must find bait to attract\nbeast worthy of eating him.[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev030502_MSG0015",
+      "style": 1,
+      "name": "Beasts of that area favor bone-in thigh meat.\nFind some. Lay it next to him.[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev030502_MSG0016",
+      "style": 1,
+      "name": "I ask much. But I know you will succeed.\nI leave it to you.[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev030502_MSG0017",
+      "style": 1,
+      "name": "Hello? It is Hala. Have you found bone-in thigh meat?[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev030502_MSG0018",
+      "style": 1,
+      "name": "Yes. That will do. Now lay it by his side.\nIt will draw beast close.[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev030502_MSG0019",
+      "style": 1,
+      "name": "Good. Now you must wait. Find place to hide.\nBear witness to end of his flesh.[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev030502_MSG0020",
+      "style": 1,
+      "name": "It is me again. I forgot something.[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev030502_MSG0021",
+      "style": 1,
+      "name": "All beasts in that area have keen hearing.[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev030502_MSG0022",
+      "style": 1,
+      "name": "If you make noise, they will attack.\nBe silent if one draws close.[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev030502_MSG0023",
+      "style": 1,
+      "name": "...Hmm? You are in middle of something?\nSorry to disturb.[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev030502_MSG0024",
+      "style": 1,
+      "name": "Do your best. I will think of you.[ST:wait ]"
+    }
+  ]
+}

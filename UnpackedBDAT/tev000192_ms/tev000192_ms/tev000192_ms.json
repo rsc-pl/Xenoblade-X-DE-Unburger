@@ -1,0 +1,264 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev000192_MSG0001",
+      "style": 1,
+      "name": "Fancy meeting you here, [ST:playername ].[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev000192_MSG0002",
+      "style": 1,
+      "name": "How I wish we could have a pleasant conversation\nover a nice cup of tea for once.[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev000192_MSG0003",
+      "style": 1,
+      "name": "But unfortunately, I need to attend a new weapons\ntest after this.[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev000192_MSG0004",
+      "style": 1,
+      "name": "It's not enough to simply check up on the Outfitters—\nI also need to keep up with our arms manufacturers.[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev000192_MSG0005",
+      "style": 1,
+      "name": "Speaking of which, what's your weapon of choice?\nDo you prefer to fight from afar with ranged weapons,\nor up close with melee weapons?[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "tev000192_JNK0010",
+      "style": 4,
+      "name": "Ranged Weapons"
+    },
+    {
+      "$id": 7,
+      "label": "tev000192_SEL0011",
+      "style": 3,
+      "name": "Say you prefer the enemy not see you coming.[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "tev000192_JNK0020",
+      "style": 4,
+      "name": "Melee Weapons"
+    },
+    {
+      "$id": 9,
+      "label": "tev000192_SEL0021",
+      "style": 3,
+      "name": "Say you prefer getting up close and personal.[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "tev000192_MSG0006",
+      "style": 1,
+      "name": "Hmm. A contemporary choice.[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev000192_MSG0007",
+      "style": 1,
+      "name": "I imagine a preference for ranged combat would\nquickly become ingrained in anyone trying to\nsurvive on this planet.[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "tev000192_MSG0008",
+      "style": 1,
+      "name": "One would be nearly helpless against the flying\nindigens here without some sort of projectile weapon.[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "tev000192_MSG0009",
+      "style": 1,
+      "name": "Nor would it make much sense to face a flightless\nindigen head-on when there are safer options.[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "tev000192_MSG0010",
+      "style": 1,
+      "name": "Your choice is a prudent one.[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "tev000192_MSG0011",
+      "style": 1,
+      "name": "Is that right? I hadn't realized you were a[ST:gender p1= man p2= woman ]\nof such rarefied tastes.[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "tev000192_MSG0012",
+      "style": 1,
+      "name": "In the right hands, a melee weapon can be more\nreliable than any firearm.[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "tev000192_MSG0013",
+      "style": 1,
+      "name": "And no weapon more so than the sword.[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "tev000192_MSG0014",
+      "style": 1,
+      "name": "I once knew a man whose sword techniques were\nbeyond compare. I wish he was here so you could\nmeet him.[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "tev000192_MSG0015",
+      "style": 1,
+      "name": "I'm sure his skill would make you even more enamored\nwith the sword.[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "tev000192_MSG0016",
+      "style": 1,
+      "name": "*ahem* Well, that's enough shop talk for now.\nThe test is about to begin.[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "tev000192_MSG0017",
+      "style": 1,
+      "name": "Since you've come this far, is there anything you'd like\nme to request from the AMs? Don't hold back.[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "tev000192_JNK0110",
+      "style": 4,
+      "name": "More Variety"
+    },
+    {
+      "$id": 23,
+      "label": "tev000192_SEL0111",
+      "style": 3,
+      "name": "Explain that you'd like a wider range of weapons."
+    },
+    {
+      "$id": 24,
+      "label": "tev000192_JNK0120",
+      "style": 4,
+      "name": "Better Prices"
+    },
+    {
+      "$id": 25,
+      "label": "tev000192_SEL0121",
+      "style": 3,
+      "name": "Say that you'd like weapons to be more affordable."
+    },
+    {
+      "$id": 26,
+      "label": "tev000192_JNK0130",
+      "style": 4,
+      "name": "Custom Gear"
+    },
+    {
+      "$id": 27,
+      "label": "tev000192_SEL0131",
+      "style": 3,
+      "name": "Express your desire for custom equipment."
+    },
+    {
+      "$id": 28,
+      "label": "tev000192_MSG0018",
+      "style": 1,
+      "name": "So you'd like to be able to choose from a wider array\nof weaponry, eh?[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "tev000192_MSG0019",
+      "style": 1,
+      "name": "I'm sure you can imagine what a challenge it is to\ndevelop new armaments.[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "tev000192_MSG0020",
+      "style": 1,
+      "name": "I will convey your message, although I doubt they\ncan accomplish that goal without the cooperation\nof BLADE operatives such as yourself.[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "tev000192_MSG0021",
+      "style": 1,
+      "name": "There's no doubt that lowering prices would put\nhigher quality gear into the hands of more BLADEs.[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "tev000192_MSG0022",
+      "style": 1,
+      "name": "I'll be sure to ask them to do what they can to make\ntheir wares more affordable.[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "tev000192_MSG0023",
+      "style": 1,
+      "name": "But keep in mind these are not mere merchants—they\nalso need funds to R&D new equipment.[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "tev000192_MSG0024",
+      "style": 1,
+      "name": "Since future weapons-development costs are funded by\nthe sales of current weapons, they may not be able to\naccommodate your request so easily.[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "tev000192_MSG0025",
+      "style": 1,
+      "name": "Still, I'll see what I can do. Just don't hold it against\nthem if the prices fail to drop.[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "tev000192_MSG0026",
+      "style": 1,
+      "name": "Well. It seems you've a real mind for weapons.[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "tev000192_MSG0027",
+      "style": 1,
+      "name": "I'm sure the technicians would be delighted to\naccommodate you, though I doubt the bean counters\nwould be nearly so pleased.[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "tev000192_MSG0028",
+      "style": 1,
+      "name": "After all, they've been focusing their efforts on bringing\nhigh-quality weapons to as many BLADE operatives as\npossible.[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "tev000192_MSG0029",
+      "style": 1,
+      "name": "Custom equipment would be impossible to mass-\nproduce, and could also be prohibitively expensive.[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "tev000192_MSG0030",
+      "style": 1,
+      "name": "But such a request might be more feasible once we've\nfinished building New LA and have become more\naccustomed to life here on Mira.[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "tev000192_MSG0031",
+      "style": 1,
+      "name": "Regardless, I'll make the request. Feel free to start\nholding your breath in anticipation![ST:wait ]"
+    }
+  ]
+}

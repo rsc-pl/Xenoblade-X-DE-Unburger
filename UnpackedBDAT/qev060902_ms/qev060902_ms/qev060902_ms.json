@@ -1,0 +1,432 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev060902_MSG0001",
+      "style": 1,
+      "name": "...What? Are you going to tell me that this CLEARLY\nsuspicious xeno is actually innocent?[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev060902_JNK0010",
+      "style": 4,
+      "name": "Confirm"
+    },
+    {
+      "$id": 3,
+      "label": "qev060902_SEL0011",
+      "style": 3,
+      "name": "Assert that Shiraton is not the perpetrator."
+    },
+    {
+      "$id": 4,
+      "label": "qev060902_JNK0020",
+      "style": 4,
+      "name": "Inquire"
+    },
+    {
+      "$id": 5,
+      "label": "qev060902_SEL0021",
+      "style": 3,
+      "name": "Ask to hear an account of what happened."
+    },
+    {
+      "$id": 6,
+      "label": "qev060902_MSG0002",
+      "style": 1,
+      "name": "Look, I can respect that you're looking out for your\nfriend, but I can't just let him go until I see some proof\nthat he's innocent.[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev060902_MSG0003",
+      "style": 1,
+      "name": "...Wait, you're asking if I have proof that he's NOT?[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev060902_MSG0004",
+      "style": 1,
+      "name": "I sure do—it's called my gut! I've got a detective's\ninstincts, and they're screaming that this guy's\nplaying dirty pool.[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev060902_MSG0005",
+      "style": 1,
+      "name": "Oh what? You playing detective now?[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev060902_MSG0006",
+      "style": 1,
+      "name": "Though I can respect a hunger to get at the truth,\nso I'll make an exception and fill you in.[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev060902_MSG0007",
+      "style": 1,
+      "name": "Late last night, the perp smashed a window of one of\nthe big mansions in the ritzy part of town up ahead.[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev060902_MSG0008",
+      "style": 1,
+      "name": "He slipped inside without waking the residents\nand stole a priceless jewel. But on his way out,\nhe made one fatal mistake...[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev060902_MSG0009",
+      "style": 1,
+      "name": "He stepped on the tail of their sleeping dog!\nLittle guy started barking up a storm.[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev060902_MSG0010",
+      "style": 1,
+      "name": "That woke the owners, and they called the Mediators.\nThat's where I came in.[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev060902_MSG0011",
+      "style": 1,
+      "name": "As soon as I get here, I find this mook skulking about\nin a freakin' mask![ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev060902_MSG0012",
+      "style": 1,
+      "name": "I mean, come on—he couldn't BE more obvious!\nThis has gotta be the guy.[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev060902_JNK0030",
+      "style": 4,
+      "name": "Deny"
+    },
+    {
+      "$id": 18,
+      "label": "qev060902_SEL0031",
+      "style": 3,
+      "name": "Assert that Shiraton is not the perpetrator."
+    },
+    {
+      "$id": 19,
+      "label": "qev060902_JNK0040",
+      "style": 4,
+      "name": "Agree"
+    },
+    {
+      "$id": 20,
+      "label": "qev060902_SEL0041",
+      "style": 3,
+      "name": "Admit that Shiraton may well be the thief."
+    },
+    {
+      "$id": 21,
+      "label": "qev060902_MSG0013",
+      "style": 1,
+      "name": "Look, I can respect that you're looking out for your\nfriend, but I can't just let him go until I see some proof\nthat he's innocent.[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev060902_MSG0014",
+      "style": 1,
+      "name": "...Huh? You didn't hear anything in my account that\nproves he's guilty? And that it's on ME to show\nevidence of his guilt?[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev060902_MSG0015",
+      "style": 1,
+      "name": "Well, all right then, [ST:gender p1=mister p2=missy ]! I'll show you evidence!\nLet's see... Evidence... Eeeeevidence...[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev060902_MSG0016",
+      "style": 1,
+      "name": "Rgh, screw this noise! My gut is evidence enough!\nI've got a detective's instincts, and they're screaming\nthat this guy's playing dirty pool![ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev060902_MSG0017",
+      "style": 1,
+      "name": "...Unreliable? What? I'll have you know I was an ace\ndetective back on Earth—New York's finest, in fact.\nThis gut is CRAZY reliable![ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev060902_MSG0018",
+      "style": 1,
+      "name": "...Huh? But how do you figure that? *fsssh*\nThere wasn't a whit of evidence in that account.[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev060902_MSG0019",
+      "style": 1,
+      "name": "*fsssh* ...What do you mean, it just \"feels right\"?![ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev060902_MSG0020",
+      "style": 1,
+      "name": "Unbelievable! I never would have thought you were the\nsame sort of human as this Tracey woman. *fsssh*[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev060902_MSG0021",
+      "style": 1,
+      "name": "A-HA! That sounds like guilt to me![ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev060902_MSG0022",
+      "style": 1,
+      "name": "You've got nowhere to run now, criminal.\nSo confess and maybe it'll go easy on you.\nDon't make me be the bad cop![ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev060902_MSG0023",
+      "style": 1,
+      "name": "*fsssh* Wait a moment!\nThe shock of all this just jarred my memory! [ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev060902_MSG0024",
+      "style": 1,
+      "name": "I saw a car depart the city from the east gate at\nbreakneck speed around the time of the robbery you\ncite. *fsssh*[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev060902_MSG0025",
+      "style": 1,
+      "name": "*fsssh* At the rate it was going, it seemed ready to\nhead all the way to Oblivia.[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev060902_MSG0026",
+      "style": 1,
+      "name": "Please at least investigate that one thing before you\ncome to any conclusions about me. *fsssh*[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev060902_MSG0027",
+      "style": 1,
+      "name": "I'm not even mad about being betrayed. *fsssh*\nJust give me this one last chance to prove myself.[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev060902_MSG0028",
+      "style": 1,
+      "name": "Ugh, this is useless. *fsssh*\nShe's beyond reason.[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev060902_MSG0029",
+      "style": 1,
+      "name": "At this rate, there's no way to convince her shy of\ndragging the real culprit in front of her. *fsssh*[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev060902_JNK0050",
+      "style": 4,
+      "name": "Inquire"
+    },
+    {
+      "$id": 39,
+      "label": "qev060902_SEL0051",
+      "style": 3,
+      "name": "Ask Shiraton if he saw anything\nsuspicious around that time."
+    },
+    {
+      "$id": 40,
+      "label": "qev060902_JNK0060",
+      "style": 4,
+      "name": "Sympathize"
+    },
+    {
+      "$id": 41,
+      "label": "qev060902_SEL0061",
+      "style": 3,
+      "name": "Offer your condolences for having crossed Tracey's path."
+    },
+    {
+      "$id": 42,
+      "label": "qev060902_MSG0030",
+      "style": 1,
+      "name": "*fsssh* Hmm, a good point. It's possible I passed them\nwhile on my collection route.[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "qev060902_MSG0031",
+      "style": 1,
+      "name": "You'd make a fine detective, my friend. *fsssh*\nCertainly a far cry better than this one.[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "qev060902_MSG0032",
+      "style": 1,
+      "name": "Hmm, someone suspicious... *fsssh*\nSomeone suspicious...[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "qev060902_MSG0033",
+      "style": 1,
+      "name": "*fsssh* You are kind as ever. I have to remind myself\nthat you humans are fundamentally good-hearted.[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "qev060902_MSG0034",
+      "style": 1,
+      "name": "I must have faith that if presented with conclusive\nevidence of my innocence, this woman will come to\nher senses as well. *fsssh*[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "qev060902_MSG0035",
+      "style": 1,
+      "name": "Evidence... *fsssh* There must be some evidence...[ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "qev060902_MSG0036",
+      "style": 1,
+      "name": "*fsssh* Ah! I DID see a car leaving the city at\nbreakneck speed around the time of the robbery.[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "qev060902_MSG0037",
+      "style": 1,
+      "name": "It left through the east gate. *fsssh* ...And the more I\nthink on it, the more suspicious it seems in retrospect.[ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "qev060902_MSG0038",
+      "style": 1,
+      "name": "Sorry, but could I ask you to check that out?\nThere's a chance it'll turn up some kind of clue. *fsssh*[ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "qev060902_MSG0039",
+      "style": 1,
+      "name": "You're just going to believe his lies? Pffffffft. Okay, bud.\nYou wanna chase imaginary cars, be my guest.[ST:wait ]"
+    },
+    {
+      "$id": 52,
+      "label": "qev060902_MSG0040",
+      "style": 1,
+      "name": "I'll have him coughing up that stolen jewel way before\nyou're back![ST:wait ]"
+    },
+    {
+      "$id": 53,
+      "label": "qev060902_MSG0041",
+      "style": 1,
+      "name": "I guess if he promises to cooperate after you grant him\nthis last request, why not? It'll make things easier in the\nlong run.[ST:wait ]"
+    },
+    {
+      "$id": 54,
+      "label": "qev060902_MSG0042",
+      "style": 1,
+      "name": "And then after I take him in, I'll be counting on you to\ngive another testimony like before![ST:wait ]"
+    },
+    {
+      "$id": 55,
+      "label": "qev060902_MSG0043",
+      "style": 1,
+      "name": "Back from your wild goose-chase?\nAnd let me guess—no bad guy?[ST:wait ]"
+    },
+    {
+      "$id": 56,
+      "label": "qev060902_MSG0044",
+      "style": 1,
+      "name": "...Wait, what? Hey, that's the stolen jewel!\nBut how do YOU have it?![ST:wait ]"
+    },
+    {
+      "$id": 57,
+      "label": "qev060902_MSG0045",
+      "style": 1,
+      "name": "...You found it in a suspicious car like he said?[ST:wait ]"
+    },
+    {
+      "$id": 58,
+      "label": "qev060902_MSG0046",
+      "style": 1,
+      "name": "......[ST:wait ]"
+    },
+    {
+      "$id": 59,
+      "label": "qev060902_MSG0047",
+      "style": 1,
+      "name": "Huh. I guess whoever it was fled the city and wound\nup getting caught by indigens.[ST:wait ]"
+    },
+    {
+      "$id": 60,
+      "label": "qev060902_MSG0048",
+      "style": 1,
+      "name": "......[ST:wait ]"
+    },
+    {
+      "$id": 61,
+      "label": "qev060902_MSG0049",
+      "style": 1,
+      "name": "Let me guess—no phantom car?[ST:wait ]"
+    },
+    {
+      "$id": 62,
+      "label": "qev060902_MSG0050",
+      "style": 1,
+      "name": "Well, it was generous of you to check it out.\nNow it's time to put this masked madman in chains![ST:wait ]"
+    },
+    {
+      "$id": 63,
+      "label": "qev060902_MSG0051",
+      "style": 1,
+      "name": "...Wait, what? Hey, that's the stolen jewel!\nBut how do YOU have it?![ST:wait ]"
+    },
+    {
+      "$id": 64,
+      "label": "qev060902_MSG0052",
+      "style": 1,
+      "name": "...You found it in a suspicious car like he said?[ST:wait ]"
+    },
+    {
+      "$id": 65,
+      "label": "qev060902_MSG0053",
+      "style": 1,
+      "name": "......[ST:wait ]"
+    },
+    {
+      "$id": 66,
+      "label": "qev060902_MSG0054",
+      "style": 1,
+      "name": "Huh. I guess whoever it was fled the city and wound\nup getting caught by indigens.[ST:wait ]"
+    },
+    {
+      "$id": 67,
+      "label": "qev060902_MSG0055",
+      "style": 1,
+      "name": "......[ST:wait ]"
+    },
+    {
+      "$id": 68,
+      "label": "qev060902_MSG0056",
+      "style": 1,
+      "name": "......[ST:wait ]"
+    },
+    {
+      "$id": 69,
+      "label": "qev060902_MSG0057",
+      "style": 1,
+      "name": "......[ST:wait ]"
+    }
+  ]
+}

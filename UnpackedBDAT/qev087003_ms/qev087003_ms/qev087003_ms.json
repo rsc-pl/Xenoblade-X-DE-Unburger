@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev087003_MSG0001",
+      "style": 0,
+      "name": "This should be the fortress mainframe.[ST:wait ]\n"
+    },
+    {
+      "$id": 2,
+      "label": "qev087003_MSG0002",
+      "style": 0,
+      "name": "Think you can get in?[ST:wait ]\n"
+    },
+    {
+      "$id": 3,
+      "label": "qev087003_MSG0003",
+      "style": 0,
+      "name": "I can try, but I wouldn't bother holding your breath.[ST:wait ]\n"
+    },
+    {
+      "$id": 4,
+      "label": "qev087003_MSG0004",
+      "style": 0,
+      "name": "Even if I can, it'll take time.\nBetter to pull the drive and analyze it later.[ST:wait ]\n"
+    },
+    {
+      "$id": 5,
+      "label": "qev087003_MSG0005",
+      "style": 0,
+      "name": "All right. Let's run with that.\n...Just as soon as we're done with them.[ST:wait ]\n"
+    },
+    {
+      "$id": 6,
+      "label": "qev087003_MSG0006",
+      "style": 0,
+      "name": "Let's take care of these goons first,\nthen we can retrieve the data.[ST:wait ]\n"
+    }
+  ]
+}

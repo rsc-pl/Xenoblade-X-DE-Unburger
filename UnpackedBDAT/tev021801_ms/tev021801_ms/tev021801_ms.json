@@ -1,0 +1,420 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev021801_JNK0010",
+      "style": 4,
+      "name": "Inquire"
+    },
+    {
+      "$id": 2,
+      "label": "tev021801_SEL0011",
+      "style": 3,
+      "name": "Ask Vera for her opinion of xenoforms."
+    },
+    {
+      "$id": 3,
+      "label": "tev021801_JNK0020",
+      "style": 1,
+      "name": "Discuss[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev021801_SEL0021",
+      "style": 3,
+      "name": "Ask Vera about recent developments."
+    },
+    {
+      "$id": 5,
+      "label": "tev021801_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 6,
+      "label": "tev021801_SEL0031",
+      "style": 3,
+      "name": "Ask Vera for her opinion of the Nopon.[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "tev021801_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 8,
+      "label": "tev021801_SEL0021",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 9,
+      "label": "tev021801_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 10,
+      "label": "tev021801_SEL0041",
+      "style": 1,
+      "name": "Ask Vera about the Ma-non.[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev021801_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 12,
+      "label": "tev021801_SEL0021",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 13,
+      "label": "tev021801_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 14,
+      "label": "tev021801_SEL0051",
+      "style": 3,
+      "name": "Ask Vera about the xenoforms living in NLA.[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "tev021801_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 16,
+      "label": "tev021801_SEL0021",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 17,
+      "label": "tev021801_MSG00001",
+      "style": 1,
+      "name": "After the horrible fate that befell Earth,\nsome humans have come to resent all xenoforms.[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "tev021801_MSG00002",
+      "style": 1,
+      "name": "But as a scientist, I am always eager to see examples\nof lifeforms who acquired intelligence through a\ndifferent evolutionary path.[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "tev021801_MSG00003",
+      "style": 1,
+      "name": "From what I understand, they've found ruins throughout\nthe planet that suggest intelligent life existed here\npreviously.[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "tev021801_MSG00004",
+      "style": 1,
+      "name": "I always relish opportunities to encounter the unknown.\nWhat about you?[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "tev021801_MSG00007",
+      "style": 1,
+      "name": "I may be a rough-and-tumble BLADE, but believe it\nor not, I was once studying to be a biologist.[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "tev021801_MSG00008",
+      "style": 1,
+      "name": "When I was a student, I was always off on one\ncross-country trip after another, doing fieldwork with\nmy professor.[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "tev021801_MSG00009",
+      "style": 1,
+      "name": "We traversed jungles and deserts hunting for rare\nanimals and fossils...[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "tev021801_MSG00010",
+      "style": 1,
+      "name": "And when we'd find one, we'd jump up and down with\nglee. Like children! Ha![ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "tev021801_MSG00011",
+      "style": 1,
+      "name": "My professor stayed behind on Earth, but I know he'd\nhave been thrilled to come here and see all the\nunidentified species on Mira.[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "tev021801_MSG00019",
+      "style": 1,
+      "name": "I spoke with Tatsu, one of the native people discovered\nby Elma's team.[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "tev021801_MSG00020",
+      "style": 1,
+      "name": "It was quite perplexing. These Nopon seem rather...\nphysically weak, let's say. And they don't strike me as\nbeing particularly intelligent.[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "tev021801_MSG00021",
+      "style": 1,
+      "name": "And yet, they have somehow managed to survive on\nthis inhospitable world. I wonder how?[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "tev021801_MSG00022",
+      "style": 1,
+      "name": "As such ideal targets of predation, one would assume\nthey'd be wiped out quite easily.[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "tev021801_MSG00023",
+      "style": 1,
+      "name": "There must be some reason why they're suited to this\nenvironment. It's a puzzle I look forward to solving![ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "tev021801_MSG00038",
+      "style": 1,
+      "name": "From their appearance, I would conjecture that they\nevolved from some sort of amphibious creature.[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "tev021801_MSG00039",
+      "style": 1,
+      "name": "But they don't seem to require an aquatic environment,\nand their behavior has little in common with Earth's\namphibians.[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "tev021801_MSG00040",
+      "style": 1,
+      "name": "I wonder what evolutionary path could have led to the\nacquisition of such incredible intelligence?[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "tev021801_MSG00041",
+      "style": 1,
+      "name": "What fantastic research subjects they make!\nI'm thinking I should live on this ship of theirs for\na while in order to study them more closely.[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "tev021801_MSG00042",
+      "style": 1,
+      "name": "It would also give me an opportunity to study some of\nthe rare indigen specimens they've collected.[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "tev021801_MSG00057",
+      "style": 1,
+      "name": "Considering the astronomical odds against the evolution\nof intelligent life, one wouldn't expect the universe to\ncontain many other species with humanlike smarts.[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "tev021801_MSG00058",
+      "style": 1,
+      "name": "And yet, we've encountered numerous intelligent\nxenoforms that each possess unique characteristics.[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "tev021801_MSG00059",
+      "style": 1,
+      "name": "However, as varied as they appear, cellular analysis\nreveals numerous common factors.[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "tev021801_MSG00060",
+      "style": 1,
+      "name": "I may be an atheist, but I can understand how others\nwould turn to the idea of an omnipotent god\ndistributing life and intelligence throughout the cosmos.[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "tev021801_MSG00061",
+      "style": 1,
+      "name": "Heh. But if I am to be a true biologist, I suppose I\nneed to search for a more rational explanation.[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "tev021801_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 42,
+      "label": "tev021801_SEL0041",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 43,
+      "label": "tev021801_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 44,
+      "label": "tev021801_SEL1021",
+      "style": 1,
+      "name": "Ask Vera about recent developments.[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "tev021801_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 46,
+      "label": "tev021801_SEL0051",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 47,
+      "label": "tev021801_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 48,
+      "label": "tev021801_SEL1021",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 49,
+      "label": "tev021801_MSG00062",
+      "style": 1,
+      "name": "I'd been trying to get some vigent blood for a while,\nand that Orleron fellow just brought me some as a\npresent.[ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "tev021801_MSG00063",
+      "style": 1,
+      "name": "But apparently his gift came with certain...expectations.\nHe got quite assertive and pushy afterward, saying he\nwould make me happy if I would only be with him.[ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "tev021801_MSG00064",
+      "style": 1,
+      "name": "If the fool thinks such behavior will make me fall in love\nwith him, he couldn't be more wrong.[ST:wait ]"
+    },
+    {
+      "$id": 52,
+      "label": "tev021801_MSG00067",
+      "style": 1,
+      "name": "I'd been trying to get some vigent blood for a while,\nand that Orleron fellow just brought me some as a\npresent.[ST:wait ]"
+    },
+    {
+      "$id": 53,
+      "label": "tev021801_MSG00068",
+      "style": 1,
+      "name": "But then he placed a gentle hand on my arm and said\nhe would do anything for me. It was...uncomfortable.[ST:wait ]"
+    },
+    {
+      "$id": 54,
+      "label": "tev021801_MSG00069",
+      "style": 1,
+      "name": "If he thinks such behavior will make me fall in love\nwith him, he couldn't be more wrong.[ST:wait ]"
+    },
+    {
+      "$id": 55,
+      "label": "tev021801_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 56,
+      "label": "tev021801_SEL0041",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 57,
+      "label": "tev021801_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 58,
+      "label": "tev021801_SEL2021",
+      "style": 3,
+      "name": "Ask Vera if she's heard any interesting rumors.[ST:wait ]"
+    },
+    {
+      "$id": 59,
+      "label": "tev021801_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 60,
+      "label": "tev021801_SEL0051",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 61,
+      "label": "tev021801_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 62,
+      "label": "tev021801_SEL2021",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 63,
+      "label": "tev021801_MSG00070",
+      "style": 1,
+      "name": "Are you familiar with the waste-processing units over in\nthe industrial district?[ST:wait ]"
+    },
+    {
+      "$id": 64,
+      "label": "tev021801_MSG00071",
+      "style": 1,
+      "name": "I hear there's a woman down there named Liza who\nhandles everything by using the special properties of\nthe Zaruboggan.[ST:wait ]"
+    },
+    {
+      "$id": 65,
+      "label": "tev021801_MSG00072",
+      "style": 1,
+      "name": "I only recently learned of their special purification\nabilities myself.[ST:wait ]"
+    },
+    {
+      "$id": 66,
+      "label": "tev021801_MSG00073",
+      "style": 1,
+      "name": "But it's quite the brainstorm to use them for our\nwaste-management needs![ST:wait ]"
+    },
+    {
+      "$id": 67,
+      "label": "tev021801_MSG00074",
+      "style": 1,
+      "name": "With enough ideas like that, don't you think that\nmaybe we humans could get a little bit closer with\nthe others on this ship?[ST:wait ]"
+    }
+  ]
+}

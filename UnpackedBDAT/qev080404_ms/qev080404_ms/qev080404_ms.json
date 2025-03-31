@@ -1,0 +1,372 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev080404_MSG0001",
+      "style": 1,
+      "name": "I bought the weapons, Mother, but...\nWhere is everyone else? Where are the others?[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev080404_MSG0002",
+      "style": 1,
+      "name": "Being the boss of an empty cave isn't exactly the career\nopportunity I had in mind![ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev080404_MSG0003",
+      "style": 1,
+      "name": "Oh, quit your whinging! Who do you think I am?[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev080404_MSG0004",
+      "style": 1,
+      "name": "I am Fortun, keeper of the galaxy's wisdom!\nMy daughters will crowd here any day now,\nsick with worry for their dear mother![ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev080404_MSG0005",
+      "style": 1,
+      "name": "Then we will use the arms you have assembled to raze\nNew LA to the ground! Eeee hee hee hee![ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev080404_MSG0006",
+      "style": 1,
+      "name": "Erio and [ST:playername ] will pay dearly for\nhumiliating—[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev080404_MSG0007",
+      "style": 1,
+      "name": "This... No! How are you here?![ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev080404_JNK0010",
+      "style": 4,
+      "name": "Explain"
+    },
+    {
+      "$id": 9,
+      "label": "qev080404_SEL0011",
+      "style": 3,
+      "name": "Tell Fortun that you tracked her here."
+    },
+    {
+      "$id": 10,
+      "label": "qev080404_JNK0020",
+      "style": 4,
+      "name": "Shout"
+    },
+    {
+      "$id": 11,
+      "label": "qev080404_SEL0021",
+      "style": 3,
+      "name": "Angrily vow to thwart Fortun's scheme."
+    },
+    {
+      "$id": 12,
+      "label": "qev080404_MSG0008",
+      "style": 1,
+      "name": "How very conscientious of you. But ultimately useless.\nI simply decided to take a little vacation here.[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev080404_MSG0009",
+      "style": 1,
+      "name": "There is no cause for you to trouble yourself on my\naccount. Why don't you hurry back to your city?[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev080404_MSG0010",
+      "style": 1,
+      "name": "......[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev080404_MSG0011",
+      "style": 1,
+      "name": "Now, Lyvia! Kill! You are more than a match for [ST:gender p1=him p2=her ]![ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev080404_MSG0012",
+      "style": 1,
+      "name": "Eep! Y-you can bluster all you like.\nI'm not s-scared of you![ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev080404_MSG0013",
+      "style": 1,
+      "name": "Take care of this, Lyvia! Kill [ST:gender p1=him p2=her ] where [ST:gender p1=he p2=she ] stands![ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev080404_MSG0014",
+      "style": 1,
+      "name": "What?! N-no way!\nI can't handle [ST:playername ]...[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev080404_MSG0015",
+      "style": 1,
+      "name": "Bah! Defeat this nuisance for me, and I will allow you\nto rule all of New LA![ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev080404_MSG0016",
+      "style": 1,
+      "name": "Now go! ...Or I shall take back my promise to instate\nyou as queen of the Definians.[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev080404_MSG0017",
+      "style": 1,
+      "name": "Whaaat? ...Oh, fine! I guess I don't have a choice![ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev080404_MSG0018",
+      "style": 1,
+      "name": "S-stop! Time out![ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev080404_MSG0019",
+      "style": 1,
+      "name": "Look, all I did was gather some weapons because\nMother said I could be leader of a Definian army.[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev080404_MSG0020",
+      "style": 1,
+      "name": "I never signed on to take over New LA,\nand I certainly have no interest in harming you guys![ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev080404_MSG0021",
+      "style": 1,
+      "name": "LYVIA! You dare to call yourself my daughter?\nYou will fight for me so long as you draw breath![ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev080404_MSG0022",
+      "style": 1,
+      "name": "Now, kill [ST:playername ] this instant.\nThen we shall storm New LA together![ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev080404_MSG0023",
+      "style": 1,
+      "name": "No way! ...And quit kidding yourself, Mother—none of\nthe other sisters are coming.[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev080404_MSG0024",
+      "style": 1,
+      "name": "The Definians are done being your slaves.\nWe want to work as proper employees.[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev080404_MSG0025",
+      "style": 1,
+      "name": "...Can you forgive me, [ST:playername ]?\nI promise to cut all ties with Mother.[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev080404_JNK0030",
+      "style": 4,
+      "name": "Forgive"
+    },
+    {
+      "$id": 31,
+      "label": "qev080404_SEL0031",
+      "style": 3,
+      "name": "Show mercy to Lyvia."
+    },
+    {
+      "$id": 32,
+      "label": "qev080404_JNK0040",
+      "style": 4,
+      "name": "Refuse"
+    },
+    {
+      "$id": 33,
+      "label": "qev080404_SEL0041",
+      "style": 3,
+      "name": "Tell Lyvia that she must pay for her crimes."
+    },
+    {
+      "$id": 34,
+      "label": "qev080404_MSG0026",
+      "style": 1,
+      "name": "Aw, you are SO nice! Thank you![ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev080404_MSG0027",
+      "style": 1,
+      "name": "I'd rather work for someone like you than for Mother\nany day![ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev080404_MSG0028",
+      "style": 1,
+      "name": "I'll get out of the way here. As for Mother,\nyou have my permission to do your worst.[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev080404_MSG0029",
+      "style": 1,
+      "name": "Well then I have no choice... I didn't want to unleash\nmy ultimate technique, but you've forced my hand...[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev080404_MSG0030",
+      "style": 1,
+      "name": "RUN AWAAAAAAAAAAY! ...And I promise never to\ndo it again so please forgive meeee![ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "qev080404_MSG0031",
+      "style": 1,
+      "name": "......[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "qev080404_MSG0032",
+      "style": 1,
+      "name": "Really, it is most kind of you to have come all this way\njust to pick me up.[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "qev080404_MSG0033",
+      "style": 1,
+      "name": "Such a dear friend you are. Now let us hurry back to\nour home sweet home of New Los Angeles![ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "qev080404_JNK0050",
+      "style": 4,
+      "name": "Destroy"
+    },
+    {
+      "$id": 43,
+      "label": "qev080404_SEL0051",
+      "style": 3,
+      "name": "Eliminate Fortun."
+    },
+    {
+      "$id": 44,
+      "label": "qev080404_JNK0060",
+      "style": 4,
+      "name": "Agree"
+    },
+    {
+      "$id": 45,
+      "label": "qev080404_SEL0061",
+      "style": 3,
+      "name": "Do as Fortun asks and return her to New LA."
+    },
+    {
+      "$id": 46,
+      "label": "qev080404_MSG0034",
+      "style": 1,
+      "name": "Whoa what...n-n-NO! Wait! Wait just a minute!\nThis was all a joke, don't you see? Eee hee? A joke?[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "qev080404_MSG0035",
+      "style": 1,
+      "name": "Look, I did this for you! Aren't you BORED now that\nLuxaar is gone? Mmm?[ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "qev080404_MSG0036",
+      "style": 1,
+      "name": "I just wanted to give you a little bit of excitement!\nYou know—as a special surprise gift?[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "qev080404_MSG0037",
+      "style": 1,
+      "name": "Wait! N-no, don't—GYAAAAAAARRGH![ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "qev080404_MSG0038",
+      "style": 1,
+      "name": "I share your sentiment, but try to hold it in.\nMonster or not, she IS my mother.[ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "qev080404_MSG0039",
+      "style": 1,
+      "name": "Besides, if this mess has proven anything, it's that she\nholds no sway over the Definians now. No harm in\nletting her live when she can't do anything again.[ST:wait ]"
+    },
+    {
+      "$id": 52,
+      "label": "qev080404_MSG0040",
+      "style": 1,
+      "name": "I am pleased to see that your minuscule intellect can\ngrasp the wisdom of a peaceful resolution.[ST:wait ]"
+    },
+    {
+      "$id": 53,
+      "label": "qev080404_MSG0041",
+      "style": 1,
+      "name": "Now, off you go! Whisk me back to that cesspool of a\ncity you call h—[ST:wait ]"
+    },
+    {
+      "$id": 54,
+      "label": "qev080404_MSG0042",
+      "style": 1,
+      "name": "Looks like no amount of attitude adjustment is enough\nto save this one.[ST:wait ]"
+    },
+    {
+      "$id": 55,
+      "label": "qev080404_MSG0043",
+      "style": 1,
+      "name": "Really, Mother, this is simply pathetic.\nNo wonder the other sisters abandoned you.[ST:wait ]"
+    },
+    {
+      "$id": 56,
+      "label": "qev080404_MSG0044",
+      "style": 1,
+      "name": "Y-you impudent whelp! Just whom do think you are\nspeaking to?![ST:wait ]"
+    },
+    {
+      "$id": 57,
+      "label": "qev080404_MSG0045",
+      "style": 1,
+      "name": "A loudmouthed hunk of metal who is tragically also\nmy mother.[ST:wait ]"
+    },
+    {
+      "$id": 58,
+      "label": "qev080404_MSG0046",
+      "style": 1,
+      "name": "...I owe you yet again, [ST:playername ].\nI'll take responsibility for disciplining Mother.[ST:wait ]"
+    },
+    {
+      "$id": 59,
+      "label": "qev080404_MSG0047",
+      "style": 1,
+      "name": "We'll see you back in the city. \nDrop by in a bit, would you?[ST:wait ]"
+    }
+  ]
+}

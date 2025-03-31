@@ -1,0 +1,462 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev060501_MSG0001",
+      "style": 1,
+      "name": "Welcome! Garbage got you down?\nHaunted by hazmats?[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev060501_MSG0002",
+      "style": 1,
+      "name": "Well then, worry no more, my trashy friend!\nOur humble waste-processing units have you covered.[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev060501_MSG0003",
+      "style": 1,
+      "name": "I'm the director here. Name's Liza.[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev060501_MSG0083",
+      "style": 1,
+      "name": "Sooooo, need anything disposed of? Whatever you got,\nour ultra-high-temp furnace will make it go away![ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev060501_JNK0010",
+      "style": 4,
+      "name": "Accept"
+    },
+    {
+      "$id": 6,
+      "label": "qev060501_SEL0011",
+      "style": 3,
+      "name": "Tell Liza that you do have some clutter to clear."
+    },
+    {
+      "$id": 7,
+      "label": "qev060501_JNK0020",
+      "style": 4,
+      "name": "Decline"
+    },
+    {
+      "$id": 8,
+      "label": "qev060501_SEL0021",
+      "style": 3,
+      "name": "Say that you are all set for now."
+    },
+    {
+      "$id": 9,
+      "label": "qev060501_MSG0004",
+      "style": 1,
+      "name": "Yeah? I kind of figured, honestly. Most BLADEs don't\ngenerally spend a lot of time sitting around at home\ncleaning.[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev060501_MSG0005",
+      "style": 1,
+      "name": "Ooo, an organized [ST:gender p1=guy p2=gal ]. Place for everything and so on\nand so forth. I like it![ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev060501_MSG0006",
+      "style": 1,
+      "name": "Most BLADE quarters are practically bursting with junk\nthey brought in from the field. They're pretty much\nMira's super hoarders.[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev060501_MSG0007",
+      "style": 1,
+      "name": "As soon as we got this place working, they were lining\nup at the door with all kinds of unspeakable garbage.[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev060501_MSG0008",
+      "style": 1,
+      "name": "Honestly I don't know where you guys even FIND some\nof this stuff.[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev060501_MSG0009",
+      "style": 1,
+      "name": "But we're way understaffed, so if I don't hire somebody\nsoon, we'll never catch up! Human, alien, whoever—\nI don't care so long as they're good.[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev060501_MSG0010",
+      "style": 1,
+      "name": "Ooo, wait! Actually, you seem like an expert!\nI bet you know just about all there is to know about\nthe different newfound races, huh?[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev060501_MSG0011",
+      "style": 1,
+      "name": "So then! Know of any that would be an especially\ngood fit for a career in waste management? Pleeeease?[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev060501_JNK0030",
+      "style": 4,
+      "name": "Suggest Ma-non"
+    },
+    {
+      "$id": 18,
+      "label": "qev060501_SEL0031",
+      "style": 3,
+      "name": "Tell Liza that a Ma-non would do well."
+    },
+    {
+      "$id": 19,
+      "label": "qev060501_JNK0040",
+      "style": 4,
+      "name": "Suggest Nopon[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev060501_SEL0041",
+      "style": 3,
+      "name": "Tell Liza that a Nopon would be a natural.[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev060501_JNK0050",
+      "style": 4,
+      "name": "Suggest Zaruboggan"
+    },
+    {
+      "$id": 22,
+      "label": "qev060501_SEL0051",
+      "style": 3,
+      "name": "Tell Liza that the Zaruboggan were born for this."
+    },
+    {
+      "$id": 23,
+      "label": "qev060501_MSG0012",
+      "style": 1,
+      "name": "Aw, the cute little guys? Yeah, they certainly seem like\nwhizzes with machines and stuff. It might work.[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev060501_MSG0013",
+      "style": 1,
+      "name": "Those fat fluffballs? You think they could handle this\nkind of manual labor? Hmm... Well, maybe they have\nsome kind of superpower I don't know about.[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev060501_MSG0014",
+      "style": 1,
+      "name": "Wait, the creepy mask guys? They're like a mystery\nwrapped in a thing I totally don't know anything about.\nYou sure they're...you know? Trustworthy?[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev060501_MSG0015",
+      "style": 1,
+      "name": "Sounds like something to look into extensively during\nmy copious amounts of free weekend time.\n...HA! Kidding. Forget that noise. I'll just trust you.[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev060501_MSG0016",
+      "style": 1,
+      "name": "All right! I'll go pay 'em a visit and see if I can't scout\nsomebody for the plant.[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev060501_MSG0017",
+      "style": 1,
+      "name": "Earth-alien director! I have news!\nSo much garbage came that I lost track of duties.[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev060501_MSG0018",
+      "style": 1,
+      "name": "Then waste unit became angry. Started spitting smoke.[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev060501_MSG0019",
+      "style": 1,
+      "name": "It looks bad.[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev060501_MSG0020",
+      "style": 1,
+      "name": "What in the... WAAAAAUGH! It's overheating!\nWhen... How did... Why did you let it get this bad\nbefore doing something?![ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev060501_MSG0021",
+      "style": 1,
+      "name": "I did lots of things. I hit machine many times.\nThen I shoved jammed trash very hard.[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev060501_MSG0022",
+      "style": 1,
+      "name": "Oh, for the love of... Uuuuuurgh...\nThis hiring is an HR disaster. I blame myself.[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev060501_MSG0023",
+      "style": 1,
+      "name": "Okay, I'll go scramble to find an emergency hire.\nMeanwhile, you get to help out![ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev060501_MSG0024",
+      "style": 1,
+      "name": "I need you to use FrontierNav and get me three hunks\nof everfreeze ore for coolant, okay?[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev060501_MSG0085",
+      "style": 1,
+      "name": "Oh, and if you run into trouble finding any,\n10 bits of jagitos copper should also work.[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev060501_MSG0025",
+      "style": 1,
+      "name": "You'll do it, right? Because honestly, a huge flood of\npollutants is going to spill into the city if you don't.\nSooo...yeah. Preeeetty much have to.[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev060501_MSG0026",
+      "style": 1,
+      "name": "Oh, and the sooner the better, obviously.[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "qev060501_MSG0027",
+      "style": 1,
+      "name": "Ugh, and we're so close to the diner, too.\nIf that gets contaminated, I'm going to get chewed out\nsix ways from Sunday...[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "qev060501_MSG0059",
+      "style": 1,
+      "name": "This is a mega crisis. Probably like the second worst in\nmy life. Maybe third, if I count that...one thing.[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "qev060501_MSG0060",
+      "style": 1,
+      "name": "Ah, perfect! Did you get the everfreeze ore? Or if not,\nthe jagitos copper? They won't fix the problem,\nbut they WILL make it a whooole lot better...[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "qev060501_MSG0061",
+      "style": 1,
+      "name": "WHOA that's cold! Okay, good. This should bring\ndown the temperature on the busted unit.[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "qev060501_MSG0062",
+      "style": 1,
+      "name": "Thanks a million. I just wish things on my end were\ngoing anywhere near as smoothly...[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "qev060501_MSG0063",
+      "style": 1,
+      "name": "I managed to find some prospective employees,\nbut when I brought them in, they said the place was a\ndeath trap and took off running.[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "qev060501_MSG0064",
+      "style": 1,
+      "name": "And I mean, fair point. But it's going to take people to\nclean up all the dangerous gunk leaking everywhere,\nyou know? I'm really at a loss here...[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "qev060501_JNK0080",
+      "style": 4,
+      "name": "Encourage"
+    },
+    {
+      "$id": 47,
+      "label": "qev060501_SEL0081",
+      "style": 3,
+      "name": "Try to rally Liza's spirits."
+    },
+    {
+      "$id": 48,
+      "label": "qev060501_JNK0090",
+      "style": 4,
+      "name": "Scold"
+    },
+    {
+      "$id": 49,
+      "label": "qev060501_SEL0091",
+      "style": 3,
+      "name": "Light a fire under Liza with a stern talking-to."
+    },
+    {
+      "$id": 50,
+      "label": "qev060501_MSG0065",
+      "style": 1,
+      "name": "Yes, that! Say more nice things! I need that!\nOh, yeah, keep it coming... Mmmmmm...[ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "qev060501_MSG0066",
+      "style": 1,
+      "name": "Nooo! If you yell at me, I'm liable to just give up and\nwalk away from the whole thing! I'm so very fragile...[ST:wait ]"
+    },
+    {
+      "$id": 52,
+      "label": "qev060501_MSG0067",
+      "style": 1,
+      "name": "Do you want to contaminate all of New LA, Liza?\nWouldn't it be better if that...didn't happen?[ST:wait ]"
+    },
+    {
+      "$id": 53,
+      "label": "qev060501_MSG0068",
+      "style": 1,
+      "name": "And why did you ask a muscle-bound Prone to operate\nsuch delicate machinery? Remember how I told you to\nfind someone technically minded?[ST:wait ]"
+    },
+    {
+      "$id": 54,
+      "label": "qev060501_MSG0069",
+      "style": 1,
+      "name": "Eeek! Tech Advisor Dazbeno! Please don't heap all\nthat on me right now, sir. I'm already plummeting into\na shame spiral here.[ST:wait ]"
+    },
+    {
+      "$id": 55,
+      "label": "qev060501_MSG0070",
+      "style": 1,
+      "name": "*fsssssssssh* Ahhhhhh... I followed the sweet smell of\nvoltant here, and what a sight![ST:wait ]"
+    },
+    {
+      "$id": 56,
+      "label": "qev060501_MSG0071",
+      "style": 1,
+      "name": "Trachlo Lythren, I really want to devoltanize. *fsssh*\nSoon. Like, right now. May I?[ST:wait ]"
+    },
+    {
+      "$id": 57,
+      "label": "qev060501_MSG0072",
+      "style": 1,
+      "name": "Sorry, I can't...stop myself!\nAah...aaaaAAAAAAAH![ST:wait ]"
+    },
+    {
+      "$id": 58,
+      "label": "qev060501_MSG0073",
+      "style": 1,
+      "name": "Okay, who are the weirdos and what are they doing?!\n...Aside from terrifying me, I mean.[ST:wait ]"
+    },
+    {
+      "$id": 59,
+      "label": "qev060501_MSG0074",
+      "style": 1,
+      "name": "Wait, WHAAAT?! Slap me in the face right now!\nWhy are the contamination numbers suddenly at zero?[ST:wait ]"
+    },
+    {
+      "$id": 60,
+      "label": "qev060501_MSG0075",
+      "style": 1,
+      "name": "*fssssssh* Ahh... So satisfying.[ST:wait ]"
+    },
+    {
+      "$id": 61,
+      "label": "qev060501_MSG0076",
+      "style": 1,
+      "name": "I have no idea why voltant was welling up here,\nbut I will consider it the bounty of Golbogga. *fsssh*[ST:wait ]"
+    },
+    {
+      "$id": 62,
+      "label": "qev060501_MSG0077",
+      "style": 1,
+      "name": "Without a doubt we must give thanks to Golbogga!\n*fsssh* Well? Shall we be going?[ST:wait ]"
+    },
+    {
+      "$id": 63,
+      "label": "qev060501_MSG0078",
+      "style": 1,
+      "name": "What the dickens? Did those guys just do all that?[ST:wait ]"
+    },
+    {
+      "$id": 64,
+      "label": "qev060501_JNK0100",
+      "style": 4,
+      "name": "Confirm"
+    },
+    {
+      "$id": 65,
+      "label": "qev060501_SEL0101",
+      "style": 3,
+      "name": "Nod and say you're certain of it."
+    },
+    {
+      "$id": 66,
+      "label": "qev060501_JNK0110",
+      "style": 4,
+      "name": "Deny"
+    },
+    {
+      "$id": 67,
+      "label": "qev060501_SEL0111",
+      "style": 3,
+      "name": "Shake your head and say you don't think so."
+    },
+    {
+      "$id": 68,
+      "label": "qev060501_MSG0079",
+      "style": 1,
+      "name": "Then... Oh geez! I've got to hire them RIGHT NOW!\nWhatever weird magic that was, it's super convenient![ST:wait ]"
+    },
+    {
+      "$id": 69,
+      "label": "qev060501_MSG0080",
+      "style": 1,
+      "name": "At the very least, I'm going to go talk to them and see\nwhat's what.[ST:wait ]"
+    },
+    {
+      "$id": 70,
+      "label": "qev060501_MSG0081",
+      "style": 1,
+      "name": "With any luck, they'll be the saviors of my beloved\nwaste-processing units![ST:wait ]"
+    },
+    {
+      "$id": 71,
+      "label": "qev060501_MSG0035",
+      "style": 1,
+      "name": "I'll try to find an emergency hire to help out while\nyou're looking for that everfreeze ore or jagitos copper.[ST:wait ]"
+    },
+    {
+      "$id": 72,
+      "label": "qev060501_MSG0036",
+      "style": 1,
+      "name": "You suggested the Ma-non, right? Cool, cool.\nThose guys should be able to do something about this\nunholy mess.[ST:wait ]"
+    },
+    {
+      "$id": 73,
+      "label": "qev060501_MSG0037",
+      "style": 1,
+      "name": "I'll try to find an emergency hire to help out while\nyou're looking for that everfreeze ore or jagitos copper.[ST:wait ]"
+    },
+    {
+      "$id": 74,
+      "label": "qev060501_MSG0038",
+      "style": 1,
+      "name": "You suggested the Nopon, right? I guess I'll just have\nto bank on them hiding some amazing potential.[ST:wait ]"
+    }
+  ]
+}

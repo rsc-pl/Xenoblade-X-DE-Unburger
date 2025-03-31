@@ -1,0 +1,6702 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "ARTS_SWORD_SP01_LEV1_CAP",
+      "style": 148,
+      "name": "Deals +<<enp1>>% more damage when\nan enemy is targeting you."
+    },
+    {
+      "$id": 2,
+      "label": "ARTS_SWORD_SP03_LEV1_CAP",
+      "style": 148,
+      "name": ""
+    },
+    {
+      "$id": 3,
+      "label": "ARTS_SWORD_SP03_LEV3_CAP",
+      "style": 148,
+      "name": ""
+    },
+    {
+      "$id": 4,
+      "label": "ARTS_SWORD_SP03_LEV5_CAP",
+      "style": 148,
+      "name": ""
+    },
+    {
+      "$id": 5,
+      "label": "ARTS_SWORD_SP05_LEV1_CAP",
+      "style": 148,
+      "name": "Increases TP by <<enp1>> if it connects when\nyou have an aura active."
+    },
+    {
+      "$id": 6,
+      "label": "ARTS_SWORD_SP07_LEV1_CAP",
+      "style": 148,
+      "name": "Deals +<<enp1>>% more damage when\ntriggering a melee combo."
+    },
+    {
+      "$id": 7,
+      "label": "ARTS_SWORD_SP09_LEV1_CAP",
+      "style": 148,
+      "name": "Deals +<<enp1>>% more damage when\nattacking from behind."
+    },
+    {
+      "$id": 8,
+      "label": "ARTS_SWORD_SP10_LEV1_CAP",
+      "style": 148,
+      "name": "Ignores enemy attribute resistances."
+    },
+    {
+      "$id": 9,
+      "label": "ARTS_SWORD_SP11_LEV1_CAP",
+      "style": 148,
+      "name": "Increases TP by <<enp1>> when at\nmorale level 1 or higher."
+    },
+    {
+      "$id": 10,
+      "label": "ARTS_DUALBLADE_SP01_LEV1_CAP",
+      "style": 148,
+      "name": "Deals +<<enp1>>% more damage when\nattacking from behind."
+    },
+    {
+      "$id": 11,
+      "label": "ARTS_DUALBLADE_SP03_LEV1_CAP",
+      "style": 148,
+      "name": "Deals +<<enp1>>% more damage when\nattacking from the side."
+    },
+    {
+      "$id": 12,
+      "label": "ARTS_DUALBLADE_SP03_LEV2_CAP",
+      "style": 148,
+      "name": ""
+    },
+    {
+      "$id": 13,
+      "label": "ARTS_DUALBLADE_SP03_LEV3_CAP",
+      "style": 148,
+      "name": ""
+    },
+    {
+      "$id": 14,
+      "label": "ARTS_DUALBLADE_SP03_LEV4_CAP",
+      "style": 148,
+      "name": ""
+    },
+    {
+      "$id": 15,
+      "label": "ARTS_DUALBLADE_SP03_LEV5_CAP",
+      "style": 148,
+      "name": ""
+    },
+    {
+      "$id": 16,
+      "label": "ARTS_DUALBLADE_SP04_LEV1_CAP",
+      "style": 148,
+      "name": "Deals +<<enp1>>% more damage when\ntriggering a ranged combo."
+    },
+    {
+      "$id": 17,
+      "label": "ARTS_DUALBLADE_SP05_LEV1_CAP",
+      "style": 148,
+      "name": ""
+    },
+    {
+      "$id": 18,
+      "label": "ARTS_DUALBLADE_SP08_LEV1_CAP",
+      "style": 148,
+      "name": ""
+    },
+    {
+      "$id": 19,
+      "label": "ARTS_DUALBLADE_SP09_LEV1_CAP",
+      "style": 148,
+      "name": "Deals +<<enp1>>% more damage when\nattacking from behind."
+    },
+    {
+      "$id": 20,
+      "label": "ARTS_DUALBLADE_SP10_LEV1_CAP",
+      "style": 148,
+      "name": "The lower your current HP percentage,\nthe higher the damage dealt (up to +<<enp1>>%). "
+    },
+    {
+      "$id": 21,
+      "label": "ARTS_DUALBLADE_SP11_LEV1_CAP",
+      "style": 148,
+      "name": "Deals +<<enp1>>% more damage when\nattacking from behind."
+    },
+    {
+      "$id": 22,
+      "label": "ARTS_DUALBLADE_SP13_LEV1_CAP",
+      "style": 148,
+      "name": "Increases TP by <<enp1>> when\ntriggering a ranged combo."
+    },
+    {
+      "$id": 23,
+      "label": "ARTS_KNIFE_SP03_LEV1_CAP",
+      "style": 148,
+      "name": "Increases HP by <<enp1>>% and TP by <<enp2>>%.\nAdditionally, sometimes destroys the target."
+    },
+    {
+      "$id": 24,
+      "label": "ARTS_KNIFE_SP05_LEV1_CAP",
+      "style": 148,
+      "name": "Recovers the target's HP by <<enp1>>%."
+    },
+    {
+      "$id": 25,
+      "label": "ARTS_KNIFE_SP06_LEV1_CAP",
+      "style": 148,
+      "name": "Increases the target's TP by <<enp1>>."
+    },
+    {
+      "$id": 26,
+      "label": "ARTS_KNIFE_SP08_LEV1_CAP",
+      "style": 148,
+      "name": "Removes a random buff from the target."
+    },
+    {
+      "$id": 27,
+      "label": "ARTS_KNIFE_SP09_LEV1_CAP",
+      "style": 148,
+      "name": "Decreases the target's aura duration\nby <<enp1>> second(s)."
+    },
+    {
+      "$id": 28,
+      "label": "ARTS_KNIFE_SP12_LEV1_CAP",
+      "style": 148,
+      "name": "Deals +<<enp1>>% more damage when\nattacking from the side."
+    },
+    {
+      "$id": 29,
+      "label": "ARTS_KNIFE_SP13_LEV1_CAP",
+      "style": 148,
+      "name": ""
+    },
+    {
+      "$id": 30,
+      "label": "ARTS_KNIFE_SP13_LEV3_CAP",
+      "style": 148,
+      "name": ""
+    },
+    {
+      "$id": 31,
+      "label": "ARTS_KNIFE_SP13_LEV5_CAP",
+      "style": 148,
+      "name": ""
+    },
+    {
+      "$id": 32,
+      "label": "ARTS_KNIFE_SP14_LEV1_CAP",
+      "style": 148,
+      "name": ""
+    },
+    {
+      "$id": 33,
+      "label": "ARTS_KNIFE_SP14_LEV3_CAP",
+      "style": 148,
+      "name": ""
+    },
+    {
+      "$id": 34,
+      "label": "ARTS_KNIFE_SP14_LEV5_CAP",
+      "style": 148,
+      "name": ""
+    },
+    {
+      "$id": 35,
+      "label": "ARTS_KNIFE_SP15_LEV1_CAP",
+      "style": 148,
+      "name": "Deals +<<enp1>>% more damage\nfor every debuff on the enemy."
+    },
+    {
+      "$id": 36,
+      "label": "ARTS_SHIELD_SP01_LEV1_CAP",
+      "style": 148,
+      "name": ""
+    },
+    {
+      "$id": 37,
+      "label": "ARTS_SHIELD_SP01_LEV2_CAP",
+      "style": 148,
+      "name": ""
+    },
+    {
+      "$id": 38,
+      "label": "ARTS_SHIELD_SP01_LEV3_CAP",
+      "style": 148,
+      "name": ""
+    },
+    {
+      "$id": 39,
+      "label": "ARTS_SHIELD_SP01_LEV4_CAP",
+      "style": 148,
+      "name": ""
+    },
+    {
+      "$id": 40,
+      "label": "ARTS_SHIELD_SP01_LEV5_CAP",
+      "style": 148,
+      "name": ""
+    },
+    {
+      "$id": 41,
+      "label": "ARTS_SHIELD_SP03_LEV1_CAP",
+      "style": 148,
+      "name": "Increases TP by <<enp1>> x morale level."
+    },
+    {
+      "$id": 42,
+      "label": "ARTS_SHIELD_SP06_LEV1_CAP",
+      "style": 148,
+      "name": "Deals +<<enp1>>% more damage to enemies\ninflicted with Topple."
+    },
+    {
+      "$id": 43,
+      "label": "ARTS_SHIELD_SP10_LEV1_CAP",
+      "style": 148,
+      "name": "Deals +<<enp1>>% more damage when\ntriggering a melee combo."
+    },
+    {
+      "$id": 44,
+      "label": "ARTS_SHIELD_SP12_LEV1_CAP",
+      "style": 148,
+      "name": "Deals +<<enp1>>% more damage\nto appendages."
+    },
+    {
+      "$id": 45,
+      "label": "ARTS_JAVELIN_SP01_LEV1_CAP",
+      "style": 148,
+      "name": "Deals +<<enp1>>% more damage when\ntriggering a melee combo."
+    },
+    {
+      "$id": 46,
+      "label": "ARTS_JAVELIN_SP03_LEV1_CAP",
+      "style": 148,
+      "name": "Deals +<<enp1>>% more damage when\ntriggering a melee combo."
+    },
+    {
+      "$id": 47,
+      "label": "ARTS_JAVELIN_SP04_LEV1_CAP",
+      "style": 148,
+      "name": "The higher your current HP percentage,\nthe higher the damage dealt (up to +<<enp1>>%)."
+    },
+    {
+      "$id": 48,
+      "label": "ARTS_JAVELIN_SP07_LEV1_CAP",
+      "style": 148,
+      "name": "Deals +<<enp1>>% more damage when\ntriggering a ranged combo."
+    },
+    {
+      "$id": 49,
+      "label": "ARTS_JAVELIN_SP08_LEV1_CAP",
+      "style": 148,
+      "name": "Inflicts Stagger I when triggering a\nmelee combo."
+    },
+    {
+      "$id": 50,
+      "label": "ARTS_JAVELIN_SP08_LEV2_CAP",
+      "style": 148,
+      "name": "Inflicts Stagger II when triggering a\nmelee combo."
+    },
+    {
+      "$id": 51,
+      "label": "ARTS_JAVELIN_SP08_LEV3_CAP",
+      "style": 148,
+      "name": "Inflicts Stagger III when triggering a\nmelee combo."
+    },
+    {
+      "$id": 52,
+      "label": "ARTS_JAVELIN_SP08_LEV4_CAP",
+      "style": 148,
+      "name": "Inflicts Stagger IV when triggering a\nmelee combo."
+    },
+    {
+      "$id": 53,
+      "label": "ARTS_JAVELIN_SP08_LEV5_CAP",
+      "style": 148,
+      "name": "Inflicts Stagger V when triggering a\nmelee combo."
+    },
+    {
+      "$id": 54,
+      "label": "ARTS_JAVELIN_SP09_LEV1_CAP",
+      "style": 148,
+      "name": "Inflicts Stun I when triggering a\nmelee combo."
+    },
+    {
+      "$id": 55,
+      "label": "ARTS_JAVELIN_SP09_LEV3_CAP",
+      "style": 148,
+      "name": "Inflicts Stun II when triggering a\nmelee combo."
+    },
+    {
+      "$id": 56,
+      "label": "ARTS_JAVELIN_SP09_LEV5_CAP",
+      "style": 148,
+      "name": "Inflicts Stun III when triggering a\nmelee combo."
+    },
+    {
+      "$id": 57,
+      "label": "ARTS_JAVELIN_SP10_LEV1_CAP",
+      "style": 148,
+      "name": "Deals +<<enp1>>% more damage if your Skell\nis destroyed during the battle."
+    },
+    {
+      "$id": 58,
+      "label": "ARTS_BEAMSAVIOR_SP01_LEV1_CAP",
+      "style": 148,
+      "name": ""
+    },
+    {
+      "$id": 59,
+      "label": "ARTS_BEAMSAVIOR_SP01_LEV3_CAP",
+      "style": 148,
+      "name": ""
+    },
+    {
+      "$id": 60,
+      "label": "ARTS_BEAMSAVIOR_SP01_LEV5_CAP",
+      "style": 148,
+      "name": ""
+    },
+    {
+      "$id": 61,
+      "label": "ARTS_BEAMSAVIOR_SP03_LEV1_CAP",
+      "style": 148,
+      "name": "Deals +<<enp1>>% more damage when\ntriggering a melee combo."
+    },
+    {
+      "$id": 62,
+      "label": "ARTS_BEAMSAVIOR_SP04_LEV1_CAP",
+      "style": 148,
+      "name": "Deals +<<enp1>>% more damage when\ntriggering a melee combo."
+    },
+    {
+      "$id": 63,
+      "label": "ARTS_BEAMSAVIOR_SP06_LEV1_CAP",
+      "style": 148,
+      "name": ""
+    },
+    {
+      "$id": 64,
+      "label": "ARTS_BEAMSAVIOR_SP07_LEV1_CAP",
+      "style": 148,
+      "name": "Deals +<<enp1>>% more damage when\nyou have an aura active."
+    },
+    {
+      "$id": 65,
+      "label": "ARTS_BEAMSAVIOR_SP08_LEV1_CAP",
+      "style": 148,
+      "name": "When targeting a Skell, all appendages\nrecover <<enp1>>% HP."
+    },
+    {
+      "$id": 66,
+      "label": "ARTS_BEAMSAVIOR_SP10_LEV1_CAP",
+      "style": 148,
+      "name": "Increases TP by <<enp1>> when attacking\nfrom the front."
+    },
+    {
+      "$id": 67,
+      "label": "ARTS_BEAMSAVIOR_SP11_LEV1_CAP",
+      "style": 148,
+      "name": "Deals +<<enp1>>% more damage when\ntriggering a melee combo."
+    },
+    {
+      "$id": 68,
+      "label": "ARTS_ASSAULT_SP01_LEV1_CAP",
+      "style": 148,
+      "name": "Increases TP by <<enp1>> x morale level."
+    },
+    {
+      "$id": 69,
+      "label": "ARTS_ASSAULT_SP02_LEV1_CAP",
+      "style": 148,
+      "name": "Deals +<<enp1>>% more damage when\ntriggering a melee combo."
+    },
+    {
+      "$id": 70,
+      "label": "ARTS_ASSAULT_SP03_LEV1_CAP",
+      "style": 148,
+      "name": "Deals +<<enp1>>% more damage to enemies\ninflicted with Topple."
+    },
+    {
+      "$id": 71,
+      "label": "ARTS_ASSAULT_SP05_LEV1_CAP",
+      "style": 148,
+      "name": "Inflicts Stun I when attacking from behind."
+    },
+    {
+      "$id": 72,
+      "label": "ARTS_ASSAULT_SP05_LEV2_CAP",
+      "style": 148,
+      "name": "Inflicts Stun II when attacking from behind."
+    },
+    {
+      "$id": 73,
+      "label": "ARTS_ASSAULT_SP05_LEV3_CAP",
+      "style": 148,
+      "name": "Inflicts Stun III when attacking from behind."
+    },
+    {
+      "$id": 74,
+      "label": "ARTS_ASSAULT_SP05_LEV4_CAP",
+      "style": 148,
+      "name": "Inflicts Stun IV when attacking from behind."
+    },
+    {
+      "$id": 75,
+      "label": "ARTS_ASSAULT_SP05_LEV5_CAP",
+      "style": 148,
+      "name": "Inflicts Stun V when attacking from behind."
+    },
+    {
+      "$id": 76,
+      "label": "ARTS_ASSAULT_SP07_LEV1_CAP",
+      "style": 148,
+      "name": "Inflicts Topple I on mechanoid enemies."
+    },
+    {
+      "$id": 77,
+      "label": "ARTS_ASSAULT_SP07_LEV2_CAP",
+      "style": 148,
+      "name": "Inflicts Topple II on mechanoid enemies."
+    },
+    {
+      "$id": 78,
+      "label": "ARTS_ASSAULT_SP07_LEV3_CAP",
+      "style": 148,
+      "name": "Inflicts Topple III on mechanoid enemies."
+    },
+    {
+      "$id": 79,
+      "label": "ARTS_ASSAULT_SP07_LEV4_CAP",
+      "style": 148,
+      "name": "Inflicts Topple IV on mechanoid enemies."
+    },
+    {
+      "$id": 80,
+      "label": "ARTS_ASSAULT_SP07_LEV5_CAP",
+      "style": 148,
+      "name": "Inflicts Topple V on mechanoid enemies."
+    },
+    {
+      "$id": 81,
+      "label": "ARTS_ASSAULT_SP09_LEV1_CAP",
+      "style": 148,
+      "name": "Grants <<enp1>> TP to party members\nfighting on foot."
+    },
+    {
+      "$id": 82,
+      "label": "ARTS_ASSAULT_SP10_LEV1_CAP",
+      "style": 148,
+      "name": ""
+    },
+    {
+      "$id": 83,
+      "label": "ARTS_ASSAULT_SP10_LEV3_CAP",
+      "style": 148,
+      "name": ""
+    },
+    {
+      "$id": 84,
+      "label": "ARTS_ASSAULT_SP10_LEV5_CAP",
+      "style": 148,
+      "name": ""
+    },
+    {
+      "$id": 85,
+      "label": "ARTS_ASSAULT_SP11_LEV1_CAP",
+      "style": 148,
+      "name": "Deals +<<enp1>>% more damage to enemies\ninflicted with Topple."
+    },
+    {
+      "$id": 86,
+      "label": "ARTS_ASSAULT_SP11_LEV2_CAP",
+      "style": 148,
+      "name": ""
+    },
+    {
+      "$id": 87,
+      "label": "ARTS_ASSAULT_SP11_LEV3_CAP",
+      "style": 148,
+      "name": ""
+    },
+    {
+      "$id": 88,
+      "label": "ARTS_ASSAULT_SP11_LEV4_CAP",
+      "style": 148,
+      "name": ""
+    },
+    {
+      "$id": 89,
+      "label": "ARTS_ASSAULT_SP11_LEV5_CAP",
+      "style": 148,
+      "name": ""
+    },
+    {
+      "$id": 90,
+      "label": "ARTS_ASSAULT_SP12_LEV1_CAP",
+      "style": 148,
+      "name": ""
+    },
+    {
+      "$id": 91,
+      "label": "ARTS_ASSAULT_SP12_LEV3_CAP",
+      "style": 148,
+      "name": ""
+    },
+    {
+      "$id": 92,
+      "label": "ARTS_ASSAULT_SP12_LEV5_CAP",
+      "style": 148,
+      "name": ""
+    },
+    {
+      "$id": 93,
+      "label": "ARTS_ASSAULT_SP14_LEV1_CAP",
+      "style": 148,
+      "name": ""
+    },
+    {
+      "$id": 94,
+      "label": "ARTS_ASSAULT_SP14_LEV2_CAP",
+      "style": 148,
+      "name": ""
+    },
+    {
+      "$id": 95,
+      "label": "ARTS_ASSAULT_SP14_LEV3_CAP",
+      "style": 148,
+      "name": ""
+    },
+    {
+      "$id": 96,
+      "label": "ARTS_ASSAULT_SP14_LEV4_CAP",
+      "style": 148,
+      "name": ""
+    },
+    {
+      "$id": 97,
+      "label": "ARTS_ASSAULT_SP14_LEV5_CAP",
+      "style": 148,
+      "name": ""
+    },
+    {
+      "$id": 98,
+      "label": "ARTS_ASSAULT_SP15_LEV1_CAP",
+      "style": 148,
+      "name": "Deals +<<enp1>>% more damage when\ntriggering a melee combo."
+    },
+    {
+      "$id": 99,
+      "label": "ARTS_ASSAULT_SP15_LEV2_CAP",
+      "style": 148,
+      "name": ""
+    },
+    {
+      "$id": 100,
+      "label": "ARTS_ASSAULT_SP15_LEV3_CAP",
+      "style": 148,
+      "name": ""
+    },
+    {
+      "$id": 101,
+      "label": "ARTS_ASSAULT_SP15_LEV4_CAP",
+      "style": 148,
+      "name": ""
+    },
+    {
+      "$id": 102,
+      "label": "ARTS_ASSAULT_SP15_LEV5_CAP",
+      "style": 148,
+      "name": ""
+    },
+    {
+      "$id": 103,
+      "label": "ARTS_DUALGUN_SP01_LEV1_CAP",
+      "style": 148,
+      "name": "Increases TP by <<enp1>> when attacking\nfrom the side."
+    },
+    {
+      "$id": 104,
+      "label": "ARTS_DUALGUN_SP03_LEV1_CAP",
+      "style": 148,
+      "name": "Increases TP by <<enp1>> when landing\na critical hit."
+    },
+    {
+      "$id": 105,
+      "label": "ARTS_DUALGUN_SP04_LEV1_CAP",
+      "style": 148,
+      "name": "Increases TP by <<enp1>>."
+    },
+    {
+      "$id": 106,
+      "label": "ARTS_DUALGUN_SP05_LEV1_CAP",
+      "style": 148,
+      "name": "Deals +<<enp1>>% more damage when\ntriggering a ranged combo."
+    },
+    {
+      "$id": 107,
+      "label": "ARTS_DUALGUN_SP09_LEV1_CAP",
+      "style": 148,
+      "name": "Increases TP by <<enp1>> when triggering\na melee combo."
+    },
+    {
+      "$id": 108,
+      "label": "ARTS_DUALGUN_SP10_LEV1_CAP",
+      "style": 148,
+      "name": "Deals +<<enp1>>% more damage when\ntriggering a melee combo."
+    },
+    {
+      "$id": 109,
+      "label": "ARTS_BEAMGUN_SP01_LEV1_CAP",
+      "style": 148,
+      "name": "Deals +<<enp1>>% more damage when\nyou have an aura active."
+    },
+    {
+      "$id": 110,
+      "label": "ARTS_BEAMGUN_SP04_LEV1_CAP",
+      "style": 148,
+      "name": "Deals +<<enp1>>% more damage when\nyou have an aura active."
+    },
+    {
+      "$id": 111,
+      "label": "ARTS_BEAMGUN_SP10_LEV1_CAP",
+      "style": 148,
+      "name": "Deals +<<enp1>>% more damage when\nyou have an aura active."
+    },
+    {
+      "$id": 112,
+      "label": "ARTS_BEAMGUN_SP05_LEV3_CAP",
+      "style": 148,
+      "name": ""
+    },
+    {
+      "$id": 113,
+      "label": "ARTS_BEAMGUN_SP05_LEV5_CAP",
+      "style": 148,
+      "name": ""
+    },
+    {
+      "$id": 114,
+      "label": "ARTS_GATLINGGUN_SP01_LEV1_CAP",
+      "style": 148,
+      "name": "Grants a <<enp0>>% chance of inflicting\nFlinch I on humanoid enemies."
+    },
+    {
+      "$id": 115,
+      "label": "ARTS_GATLINGGUN_SP01_LEV3_CAP",
+      "style": 148,
+      "name": "Grants a <<enp0>>% chance of inflicting\nFlinch II on humanoid enemies."
+    },
+    {
+      "$id": 116,
+      "label": "ARTS_GATLINGGUN_SP01_LEV5_CAP",
+      "style": 148,
+      "name": "Grants a <<enp0>>% chance of inflicting\nFlinch III on humanoid enemies."
+    },
+    {
+      "$id": 117,
+      "label": "ARTS_GATLINGGUN_SP02_LEV1_CAP",
+      "style": 148,
+      "name": "Deals +<<enp1>>% more damage when\nyou have an aura active."
+    },
+    {
+      "$id": 118,
+      "label": "ARTS_GATLINGGUN_SP03_LEV1_CAP",
+      "style": 148,
+      "name": "Deals +<<enp1>>% more damage to enemies\ninflicted with Topple."
+    },
+    {
+      "$id": 119,
+      "label": "ARTS_GATLINGGUN_SP06_LEV1_CAP",
+      "style": 148,
+      "name": "Consumes your currently active aura\nto yield <<enp1>> TP."
+    },
+    {
+      "$id": 120,
+      "label": "ARTS_GATLINGGUN_SP08_LEV1_CAP",
+      "style": 148,
+      "name": "Increases TP by <<enp1>> if it connects when\nyou have an aura active."
+    },
+    {
+      "$id": 121,
+      "label": "ARTS_SNIPER_SP01_LEV1_CAP",
+      "style": 148,
+      "name": "Inflicts Topple I on humanoid enemies."
+    },
+    {
+      "$id": 122,
+      "label": "ARTS_SNIPER_SP01_LEV2_CAP",
+      "style": 148,
+      "name": "Inflicts Topple II on humanoid enemies."
+    },
+    {
+      "$id": 123,
+      "label": "ARTS_SNIPER_SP01_LEV3_CAP",
+      "style": 148,
+      "name": "Inflicts Topple III on humanoid enemies."
+    },
+    {
+      "$id": 124,
+      "label": "ARTS_SNIPER_SP01_LEV4_CAP",
+      "style": 148,
+      "name": "Inflicts Topple IV on humanoid enemies."
+    },
+    {
+      "$id": 125,
+      "label": "ARTS_SNIPER_SP01_LEV5_CAP",
+      "style": 148,
+      "name": "Inflicts Topple V on humanoid enemies."
+    },
+    {
+      "$id": 126,
+      "label": "ARTS_SNIPER_SP02_LEV1_CAP",
+      "style": 148,
+      "name": "Deals +<<enp1>>% more damage\nto appendages."
+    },
+    {
+      "$id": 127,
+      "label": "ARTS_SNIPER_SP03_LEV1_CAP",
+      "style": 148,
+      "name": "Grants Ranged Attack Up I."
+    },
+    {
+      "$id": 128,
+      "label": "ARTS_SNIPER_SP03_LEV2_CAP",
+      "style": 148,
+      "name": "Grants Ranged Attack Up II."
+    },
+    {
+      "$id": 129,
+      "label": "ARTS_SNIPER_SP03_LEV3_CAP",
+      "style": 148,
+      "name": "Grants Ranged Attack Up III."
+    },
+    {
+      "$id": 130,
+      "label": "ARTS_SNIPER_SP03_LEV4_CAP",
+      "style": 148,
+      "name": "Grants Ranged Attack Up IV."
+    },
+    {
+      "$id": 131,
+      "label": "ARTS_SNIPER_SP03_LEV5_CAP",
+      "style": 148,
+      "name": "Grants Ranged Attack Up V."
+    },
+    {
+      "$id": 132,
+      "label": "ARTS_SNIPER_SP04_LEV1_CAP",
+      "style": 148,
+      "name": ""
+    },
+    {
+      "$id": 133,
+      "label": "ARTS_SNIPER_SP04_LEV2_CAP",
+      "style": 148,
+      "name": ""
+    },
+    {
+      "$id": 134,
+      "label": "ARTS_SNIPER_SP04_LEV3_CAP",
+      "style": 148,
+      "name": ""
+    },
+    {
+      "$id": 135,
+      "label": "ARTS_SNIPER_SP04_LEV4_CAP",
+      "style": 148,
+      "name": ""
+    },
+    {
+      "$id": 136,
+      "label": "ARTS_SNIPER_SP04_LEV5_CAP",
+      "style": 148,
+      "name": ""
+    },
+    {
+      "$id": 137,
+      "label": "ARTS_SNIPER_SP06_LEV1_CAP",
+      "style": 148,
+      "name": ""
+    },
+    {
+      "$id": 138,
+      "label": "ARTS_SNIPER_SP06_LEV3_CAP",
+      "style": 148,
+      "name": ""
+    },
+    {
+      "$id": 139,
+      "label": "ARTS_SNIPER_SP06_LEV5_CAP",
+      "style": 148,
+      "name": ""
+    },
+    {
+      "$id": 140,
+      "label": "ARTS_SNIPER_SP08_LEV1_CAP",
+      "style": 148,
+      "name": "Deals +<<enp1>>% more damage when\ntriggering a ranged combo."
+    },
+    {
+      "$id": 141,
+      "label": "ARTS_SNIPER_SP09_LEV1_CAP",
+      "style": 148,
+      "name": "Deals +<<enp1>>% more damage when\ntriggering a melee combo."
+    },
+    {
+      "$id": 142,
+      "label": "ARTS_PHYCHO_SP02_LEV1_CAP",
+      "style": 148,
+      "name": "Deals +<<enp1>>% more damage when\nyou have an aura active."
+    },
+    {
+      "$id": 143,
+      "label": "ARTS_PHYCHO_SP02_LEV3_CAP",
+      "style": 148,
+      "name": ""
+    },
+    {
+      "$id": 144,
+      "label": "ARTS_PHYCHO_SP02_LEV5_CAP",
+      "style": 148,
+      "name": ""
+    },
+    {
+      "$id": 145,
+      "label": "ARTS_PHYCHO_SP05_LEV1_CAP",
+      "style": 148,
+      "name": ""
+    },
+    {
+      "$id": 146,
+      "label": "ARTS_PHYCHO_SP08_LEV1_CAP",
+      "style": 148,
+      "name": "Deals +<<enp1>>% more damage when\ntriggering a melee combo."
+    },
+    {
+      "$id": 147,
+      "label": "ARTS_MULTI_SP02_LEV1_CAP",
+      "style": 148,
+      "name": "Inflicts Stun I on enemies inflicted\nwith Shock."
+    },
+    {
+      "$id": 148,
+      "label": "ARTS_MULTI_SP02_LEV2_CAP",
+      "style": 148,
+      "name": "Inflicts Stun II on enemies inflicted\nwith Shock."
+    },
+    {
+      "$id": 149,
+      "label": "ARTS_MULTI_SP02_LEV3_CAP",
+      "style": 148,
+      "name": "Inflicts Stun III on enemies inflicted\nwith Shock."
+    },
+    {
+      "$id": 150,
+      "label": "ARTS_MULTI_SP02_LEV4_CAP",
+      "style": 148,
+      "name": "Inflicts Stun IV on enemies inflicted\nwith Shock."
+    },
+    {
+      "$id": 151,
+      "label": "ARTS_MULTI_SP02_LEV5_CAP",
+      "style": 148,
+      "name": "Inflicts Stun V on enemies inflicted\nwith Shock."
+    },
+    {
+      "$id": 152,
+      "label": "ARTS_MULTI_SP03_LEV1_CAP",
+      "style": 148,
+      "name": "Deals +<<enp1>>% more damage when\nyou have an aura active."
+    },
+    {
+      "$id": 153,
+      "label": "ARTS_MULTI_SP03_LEV2_CAP",
+      "style": 148,
+      "name": ""
+    },
+    {
+      "$id": 154,
+      "label": "ARTS_MULTI_SP03_LEV3_CAP",
+      "style": 148,
+      "name": ""
+    },
+    {
+      "$id": 155,
+      "label": "ARTS_MULTI_SP03_LEV4_CAP",
+      "style": 148,
+      "name": ""
+    },
+    {
+      "$id": 156,
+      "label": "ARTS_MULTI_SP03_LEV5_CAP",
+      "style": 148,
+      "name": ""
+    },
+    {
+      "$id": 157,
+      "label": "ARTS_MULTI_SP04_LEV1_CAP",
+      "style": 148,
+      "name": "Deals +<<enp1>>% more damage when\ntriggering a ranged combo."
+    },
+    {
+      "$id": 158,
+      "label": "DL_ARTS_WD010601_01_SP01_CAP",
+      "style": 148,
+      "name": ""
+    },
+    {
+      "$id": 159,
+      "label": "DL_ARTS_WD032501_01_SP01_CAP",
+      "style": 148,
+      "name": ""
+    },
+    {
+      "$id": 160,
+      "label": "DL_ARTS_WD032901_01_SP01_CAP",
+      "style": 148,
+      "name": ""
+    },
+    {
+      "$id": 161,
+      "label": "DL_ARTS_WD010401_01_SP01_CAP",
+      "style": 148,
+      "name": ""
+    },
+    {
+      "$id": 162,
+      "label": "DL_ARTS_WD010402_01_SP01_CAP",
+      "style": 148,
+      "name": ""
+    },
+    {
+      "$id": 163,
+      "label": "DL_ARTS_WD010501_01_SP01_CAP",
+      "style": 148,
+      "name": ""
+    },
+    {
+      "$id": 164,
+      "label": "DL_ARTS_WD033001_01_SP01_CAP",
+      "style": 148,
+      "name": ""
+    },
+    {
+      "$id": 165,
+      "label": "DL_ARTS_WD301301_01_SP01_CAP",
+      "style": 148,
+      "name": ""
+    },
+    {
+      "$id": 166,
+      "label": "DL_ARTS_WD022501_01_SP01_CAP",
+      "style": 148,
+      "name": ""
+    },
+    {
+      "$id": 167,
+      "label": "DL_ARTS_WD033101_01_SP01_CAP",
+      "style": 148,
+      "name": ""
+    },
+    {
+      "$id": 168,
+      "label": "DL_ARTS_WD032801_01_SP01_CAP",
+      "style": 148,
+      "name": ""
+    },
+    {
+      "$id": 169,
+      "label": "DL_ARTS_WD300101_01_SP01_CAP",
+      "style": 148,
+      "name": ""
+    },
+    {
+      "$id": 170,
+      "label": "DL_ARTS_WD300801_01_SP01_CAP",
+      "style": 148,
+      "name": ""
+    },
+    {
+      "$id": 171,
+      "label": "DL_ARTS_WD301401_01_SP01_CAP",
+      "style": 148,
+      "name": ""
+    },
+    {
+      "$id": 172,
+      "label": "DL_ARTS_WD301601_01_SP01_CAP",
+      "style": 148,
+      "name": ""
+    },
+    {
+      "$id": 173,
+      "label": "DL_ARTS_WD034101_01_SP01_CAP",
+      "style": 148,
+      "name": ""
+    },
+    {
+      "$id": 174,
+      "label": "DL_ARTS_WD034109_01_SP01_CAP",
+      "style": 148,
+      "name": ""
+    },
+    {
+      "$id": 175,
+      "label": "DL_ARTS_WD034501_01_SP01_CAP",
+      "style": 148,
+      "name": ""
+    },
+    {
+      "$id": 176,
+      "label": "DL_ARTS_WD034301_01_SP01_CAP",
+      "style": 148,
+      "name": ""
+    },
+    {
+      "$id": 177,
+      "label": "DL_ARTS_WD032101_01_SP01_CAP",
+      "style": 148,
+      "name": ""
+    },
+    {
+      "$id": 178,
+      "label": "DL_ARTS_WD035101_01_SP01_CAP",
+      "style": 148,
+      "name": ""
+    },
+    {
+      "$id": 179,
+      "label": "DL_ARTS_WD023201_01_SP01_CAP",
+      "style": 148,
+      "name": ""
+    },
+    {
+      "$id": 180,
+      "label": "DL_ARTS_WD032301_01_SP01_CAP",
+      "style": 148,
+      "name": ""
+    },
+    {
+      "$id": 181,
+      "label": "DL_ARTS_WD021101_01_SP01_CAP",
+      "style": 148,
+      "name": ""
+    },
+    {
+      "$id": 182,
+      "label": "DL_ARTS_WD010301_01_SP01_CAP",
+      "style": 148,
+      "name": ""
+    },
+    {
+      "$id": 183,
+      "label": "DL_ARTS_WD010302_01_SP01_CAP",
+      "style": 148,
+      "name": ""
+    },
+    {
+      "$id": 184,
+      "label": "DL_ARTS_WD034105_01_SP01_CAP",
+      "style": 148,
+      "name": ""
+    },
+    {
+      "$id": 185,
+      "label": "DL_ARTS_WD042101_01_SP01_CAP",
+      "style": 148,
+      "name": ""
+    },
+    {
+      "$id": 186,
+      "label": "DL_ARTS_WD042401_01_SP01_CAP",
+      "style": 148,
+      "name": ""
+    },
+    {
+      "$id": 187,
+      "label": "DL_ARTS_WD020301_01_SP01_CAP",
+      "style": 148,
+      "name": ""
+    },
+    {
+      "$id": 188,
+      "label": "DL_ARTS_WD021301_01_SP01_CAP",
+      "style": 148,
+      "name": ""
+    },
+    {
+      "$id": 189,
+      "label": "DL_ARTS_WD021401_01_SP01_CAP",
+      "style": 148,
+      "name": ""
+    },
+    {
+      "$id": 190,
+      "label": "DL_ARTS_WD021501_01_SP01_CAP",
+      "style": 148,
+      "name": ""
+    },
+    {
+      "$id": 191,
+      "label": "DL_ARTS_WD021601_01_SP01_CAP",
+      "style": 148,
+      "name": ""
+    },
+    {
+      "$id": 192,
+      "label": "DL_ARTS_WD200201_01_SP01_CAP",
+      "style": 148,
+      "name": ""
+    },
+    {
+      "$id": 193,
+      "label": "DL_ARTS_WD200501_01_SP01_CAP",
+      "style": 148,
+      "name": ""
+    },
+    {
+      "$id": 194,
+      "label": "DL_ARTS_WD200601_01_SP01_CAP",
+      "style": 148,
+      "name": ""
+    },
+    {
+      "$id": 195,
+      "label": "DL_ARTS_WD200801_01_SP01_CAP",
+      "style": 148,
+      "name": ""
+    },
+    {
+      "$id": 196,
+      "label": "DL_ARTS_WD060101_01_SP01_CAP",
+      "style": 148,
+      "name": ""
+    },
+    {
+      "$id": 197,
+      "label": "DL_ARTS_WD060401_01_SP01_CAP",
+      "style": 148,
+      "name": ""
+    },
+    {
+      "$id": 198,
+      "label": "DL_ARTS_WD032605_01_30_SP01_CAP",
+      "style": 148,
+      "name": ""
+    },
+    {
+      "$id": 199,
+      "label": "DL_ARTS_WD033201_01_SP01_CAP",
+      "style": 148,
+      "name": ""
+    },
+    {
+      "$id": 200,
+      "label": "DL_ARTS_WD033201_02_SP01_CAP",
+      "style": 148,
+      "name": ""
+    },
+    {
+      "$id": 201,
+      "label": "DL_ARTS_WD033301_01_SP01_CAP",
+      "style": 148,
+      "name": ""
+    },
+    {
+      "$id": 202,
+      "label": "DL_ARTS_WD042301_1000_SP01_CAP",
+      "style": 148,
+      "name": ""
+    },
+    {
+      "$id": 203,
+      "label": "DL_ARTS_WD032605_01_SP01_CAP",
+      "style": 148,
+      "name": ""
+    },
+    {
+      "$id": 204,
+      "label": "DL_ARTS_WD032609_2000_SP01_CAP",
+      "style": 148,
+      "name": ""
+    },
+    {
+      "$id": 205,
+      "label": "DL_ARTS_WD200101_01_SP01_CAP",
+      "style": 148,
+      "name": ""
+    },
+    {
+      "$id": 206,
+      "label": "DL_ARTS_WD200301_01_SP01_CAP",
+      "style": 148,
+      "name": ""
+    },
+    {
+      "$id": 207,
+      "label": "DL_ARTS_WD201101_01_SP01_CAP",
+      "style": 148,
+      "name": ""
+    },
+    {
+      "$id": 208,
+      "label": "DL_ARTS_WD201201_01_SP01_CAP",
+      "style": 148,
+      "name": ""
+    },
+    {
+      "$id": 209,
+      "label": "CLASS_ASSAULT_SKL01_LEV1_CAP",
+      "style": 148,
+      "name": "Boosts maximum\nHP by <<enp2>>%."
+    },
+    {
+      "$id": 210,
+      "label": "CLASS_ASSAULT_SKL02_LEV1_CAP",
+      "style": 148,
+      "name": "Boosts melee accuracy\nby <<enp2>>%."
+    },
+    {
+      "$id": 211,
+      "label": "CLASS_ASSAULT_SKL03_LEV1_CAP",
+      "style": 148,
+      "name": "Boosts Blaze damage\nby +<<enp1>>%."
+    },
+    {
+      "$id": 212,
+      "label": "CLASS_ASSAULT_SKL04_LEV1_CAP",
+      "style": 148,
+      "name": "Boosts melee attack\nby <<enp2>>%."
+    },
+    {
+      "$id": 213,
+      "label": "CLASS_ASSAULT_SKL05_LEV1_CAP",
+      "style": 148,
+      "name": "Extends Taunt effects by\n10 seconds."
+    },
+    {
+      "$id": 214,
+      "label": "CLASS_ASSAULT_SKL05_LEV2_CAP",
+      "style": 148,
+      "name": "Extends Taunt effects by\n12 seconds."
+    },
+    {
+      "$id": 215,
+      "label": "CLASS_ASSAULT_SKL05_LEV3_CAP",
+      "style": 148,
+      "name": "Extends Taunt effects by\n14 seconds."
+    },
+    {
+      "$id": 216,
+      "label": "CLASS_ASSAULT_SKL05_LEV4_CAP",
+      "style": 148,
+      "name": "Extends Taunt effects by\n16 seconds."
+    },
+    {
+      "$id": 217,
+      "label": "CLASS_ASSAULT_SKL05_LEV5_CAP",
+      "style": 148,
+      "name": "Extends Taunt effects by\n18 seconds."
+    },
+    {
+      "$id": 218,
+      "label": "CLASS_ASSAULT_SKL06_LEV1_CAP",
+      "style": 148,
+      "name": "Grants a <<enp0>>% chance of\ndealing +<<enp1>>% more damage\nto appendages with Melee Arts."
+    },
+    {
+      "$id": 219,
+      "label": "CLASS_COMMAND_SKL01_LEV1_CAP",
+      "style": 148,
+      "name": "Boosts evasion by <<enp2>>%\nwhen wielding a ranged weapon."
+    },
+    {
+      "$id": 220,
+      "label": "CLASS_COMMAND_SKL02_LEV1_CAP",
+      "style": 148,
+      "name": "Boosts ranged accuracy\nby <<enp2>>%."
+    },
+    {
+      "$id": 221,
+      "label": "CLASS_COMMAND_SKL03_LEV1_CAP",
+      "style": 148,
+      "name": "Boosts ranged attack\nby <<enp2>>%."
+    },
+    {
+      "$id": 222,
+      "label": "CLASS_COMMAND_SKL04_LEV1_CAP",
+      "style": 148,
+      "name": "Boosts damage by +<<enp1>>%\nwhen using Melee Arts\nfrom behind."
+    },
+    {
+      "$id": 223,
+      "label": "CLASS_COMMAND_SKL05_LEV1_CAP",
+      "style": 148,
+      "name": "Boosts damage by +<<enp1>>%\nwhen triggering ranged combos."
+    },
+    {
+      "$id": 224,
+      "label": "CLASS_COMMAND_SKL06_LEV1_CAP",
+      "style": 148,
+      "name": "Boosts TP by <<enp1>> when\nusing a Ranged Art; double that\nif you have an aura active."
+    },
+    {
+      "$id": 225,
+      "label": "CLASS_COMMAND_SKL07_LEV1_CAP",
+      "style": 148,
+      "name": "Boosts critical chance by <<enp1>>\nwhen wielding a melee weapon."
+    },
+    {
+      "$id": 226,
+      "label": "CLASS_COMMAND_SKL08_LEV1_CAP",
+      "style": 148,
+      "name": "Extends aura effects by\n<<enp1>> seconds."
+    },
+    {
+      "$id": 227,
+      "label": "CLASS_FORCER_SKL01_LEV1_CAP",
+      "style": 148,
+      "name": "Boosts potential by <<enp2>>%."
+    },
+    {
+      "$id": 228,
+      "label": "CLASS_FORCER_SKL02_LEV1_CAP",
+      "style": 148,
+      "name": "Boosts beam damage by +<<enp1>>%."
+    },
+    {
+      "$id": 229,
+      "label": "CLASS_FORCER_SKL03_LEV1_CAP",
+      "style": 148,
+      "name": "Boosts beam resistance by <<enp2>>\nwhen wielding a ranged weapon."
+    },
+    {
+      "$id": 230,
+      "label": "CLASS_FORCER_SKL04_LEV1_CAP",
+      "style": 148,
+      "name": "Boosts evasion by <<enp2>>%\nwhen wielding a melee weapon."
+    },
+    {
+      "$id": 231,
+      "label": "CLASS_FORCER_SKL05_LEV1_CAP",
+      "style": 148,
+      "name": "Boosts the HP recovery of party\nmembers you revive by <<enp1>>%."
+    },
+    {
+      "$id": 232,
+      "label": "CLASS_FORCER_SKL06_LEV1_CAP",
+      "style": 148,
+      "name": "Boosts maximum TP by <<enp2>>."
+    },
+    {
+      "$id": 233,
+      "label": "CLASS_SPARTAN_SKL01_LEV1_CAP",
+      "style": 148,
+      "name": "Boosts critical chance by <<enp1>>\nwhen triggering a melee combo."
+    },
+    {
+      "$id": 234,
+      "label": "CLASS_SPARTAN_SKL02_LEV1_CAP",
+      "style": 148,
+      "name": "Boosts melee auto-attack damage\nby +<<enp1>>%."
+    },
+    {
+      "$id": 235,
+      "label": "CLASS_SPARTAN_SKL03_LEV1_CAP",
+      "style": 148,
+      "name": "Boosts physical damage\nby +<<enp1>>%."
+    },
+    {
+      "$id": 236,
+      "label": "CLASS_SPARTAN_SKL04_LEV1_CAP",
+      "style": 148,
+      "name": "Recovers <<enp1>>% of your HP\nwhen you use an aura."
+    },
+    {
+      "$id": 237,
+      "label": "CLASS_SPARTAN_SKL05_LEV1_CAP",
+      "style": 148,
+      "name": "Boosts physical resistance by <<enp2>>\nwhen wielding a melee weapon."
+    },
+    {
+      "$id": 238,
+      "label": "CLASS_SPARTAN_SKL06_LEV1_CAP",
+      "style": 148,
+      "name": "Grants a <<enp0>>% chance of\ninflicting Blaze I when melee\nauto-attacking."
+    },
+    {
+      "$id": 239,
+      "label": "CLASS_SPARTAN_SKL06_LEV3_CAP",
+      "style": 148,
+      "name": "Grants a <<enp0>>% chance of\ninflicting Blaze II when melee\nauto-attacking."
+    },
+    {
+      "$id": 240,
+      "label": "CLASS_SPARTAN_SKL06_LEV5_CAP",
+      "style": 148,
+      "name": "Grants a <<enp0>>% chance of\ninflicting Blaze III when melee\nauto-attacking."
+    },
+    {
+      "$id": 241,
+      "label": "CLASS_SPARTAN_SKL07_LEV1_CAP",
+      "style": 148,
+      "name": "Boosts damage to theroid\nenemies by +<<enp1>>%."
+    },
+    {
+      "$id": 242,
+      "label": "CLASS_SPARTAN_SKL08_LEV1_CAP",
+      "style": 148,
+      "name": "Boosts TP by <<enp1>> when using\na Melee Art; double that if\nyou have an aura active."
+    },
+    {
+      "$id": 243,
+      "label": "CLASS_SENTINEL_SKL01_LEV1_CAP",
+      "style": 148,
+      "name": "Boosts thermal resistance by <<enp2>>\nwhen wielding a melee weapon."
+    },
+    {
+      "$id": 244,
+      "label": "CLASS_SENTINEL_SKL02_LEV1_CAP",
+      "style": 148,
+      "name": "Reduces enemy Topple resistance\nby <<enp2>>%."
+    },
+    {
+      "$id": 245,
+      "label": "CLASS_SENTINEL_SKL03_LEV1_CAP",
+      "style": 148,
+      "name": "Reduces damage by <<enp1>>%\nwhen wielding a shield."
+    },
+    {
+      "$id": 246,
+      "label": "CLASS_SENTINEL_SKL04_LEV1_CAP",
+      "style": 148,
+      "name": "Boosts HP recovery by <<enp1>>%\nwhen revived."
+    },
+    {
+      "$id": 247,
+      "label": "CLASS_SENTINEL_SKL05_LEV1_CAP",
+      "style": 148,
+      "name": "Extends Topple effects by\n<<enp2>> second(s)."
+    },
+    {
+      "$id": 248,
+      "label": "CLASS_SENTINEL_SKL05_LEV2_CAP",
+      "style": 148,
+      "name": ""
+    },
+    {
+      "$id": 249,
+      "label": "CLASS_SENTINEL_SKL05_LEV3_CAP",
+      "style": 148,
+      "name": ""
+    },
+    {
+      "$id": 250,
+      "label": "CLASS_SENTINEL_SKL05_LEV4_CAP",
+      "style": 148,
+      "name": ""
+    },
+    {
+      "$id": 251,
+      "label": "CLASS_SENTINEL_SKL05_LEV5_CAP",
+      "style": 148,
+      "name": ""
+    },
+    {
+      "$id": 252,
+      "label": "CLASS_SENTINEL_SKL06_LEV1_CAP",
+      "style": 148,
+      "name": "Grants a <<enp0>>% chance of\nreceiving <<enp1>> TP when\ntaking damage."
+    },
+    {
+      "$id": 253,
+      "label": "CLASS_SENTINEL_SKL07_LEV1_CAP",
+      "style": 148,
+      "name": "Boosts Melee Art damage by +<<enp1>>%\nto enemies inflicted with Topple."
+    },
+    {
+      "$id": 254,
+      "label": "CLASS_SENTINEL_SKL08_LEV1_CAP",
+      "style": 148,
+      "name": "Boosts resistance to Stagger,\nTopple, Knockback, and Launch\nby <<enp2>> when wielding a shield."
+    },
+    {
+      "$id": 255,
+      "label": "CLASS_TWOHAND_SKL01_LEV1_CAP",
+      "style": 148,
+      "name": "Reduces enemy debuff resistance\nby <<enp2>>% when attacking\nfrom the side."
+    },
+    {
+      "$id": 256,
+      "label": "CLASS_TWOHAND_SKL02_LEV1_CAP",
+      "style": 148,
+      "name": "Boosts damage to humanoid\nenemies by +<<enp1>>%."
+    },
+    {
+      "$id": 257,
+      "label": "CLASS_TWOHAND_SKL03_LEV1_CAP",
+      "style": 148,
+      "name": "Reduces an Art's cooldown\nby <<enp1>>% when triggering\na ranged combo."
+    },
+    {
+      "$id": 258,
+      "label": "CLASS_TWOHAND_SKL04_LEV1_CAP",
+      "style": 148,
+      "name": "Recovers <<enp1>>% of your HP\nwhen HP is at 50% or less and\nyou use an aura."
+    },
+    {
+      "$id": 259,
+      "label": "CLASS_TWOHAND_SKL05_LEV1_CAP",
+      "style": 148,
+      "name": "Boosts maximum TP by <<enp2>>."
+    },
+    {
+      "$id": 260,
+      "label": "CLASS_TWOHAND_SKL06_LEV1_CAP",
+      "style": 148,
+      "name": "Extends Overdrive duration\nby <<enp1>> seconds."
+    },
+    {
+      "$id": 261,
+      "label": "CLASS_LONGLANCER_SKL01_LEV1_CAP",
+      "style": 148,
+      "name": "Boosts critical chance for ranged\nauto-attacks by <<enp1>>."
+    },
+    {
+      "$id": 262,
+      "label": "CLASS_LONGLANCER_SKL02_LEV1_CAP",
+      "style": 148,
+      "name": "Boosts electric resistance by <<enp2>>\nwhen wielding a melee weapon."
+    },
+    {
+      "$id": 263,
+      "label": "CLASS_LONGLANCER_SKL03_LEV1_CAP",
+      "style": 148,
+      "name": "Boosts electric damage by +<<enp1>>%."
+    },
+    {
+      "$id": 264,
+      "label": "CLASS_LONGLANCER_SKL04_LEV1_CAP",
+      "style": 148,
+      "name": "Grants a <<enp0>>% chance of inflicting\nShock I when using Melee Arts."
+    },
+    {
+      "$id": 265,
+      "label": "CLASS_LONGLANCER_SKL04_LEV3_CAP",
+      "style": 148,
+      "name": "Grants a <<enp0>>% chance of inflicting\nShock II when using Melee Arts."
+    },
+    {
+      "$id": 266,
+      "label": "CLASS_LONGLANCER_SKL04_LEV5_CAP",
+      "style": 148,
+      "name": "Grants a <<enp0>>% chance of inflicting\nShock III when using Melee Arts."
+    },
+    {
+      "$id": 267,
+      "label": "CLASS_LONGLANCER_SKL05_LEV1_CAP",
+      "style": 148,
+      "name": "Recovers <<enp1>> HP when receiving\na buff or aura from an Art you used."
+    },
+    {
+      "$id": 268,
+      "label": "CLASS_LONGLANCER_SKL06_LEV1_CAP",
+      "style": 148,
+      "name": "Boosts damage to piscinoid\nenemies by +<<enp1>>%."
+    },
+    {
+      "$id": 269,
+      "label": "CLASS_DARKWATCHER_SKL01_LEV1_CAP",
+      "style": 148,
+      "name": "Extends Sleep effects by\n<<enp2>> seconds."
+    },
+    {
+      "$id": 270,
+      "label": "CLASS_DARKWATCHER_SKL02_LEV1_CAP",
+      "style": 148,
+      "name": "Boosts resistance to Sleep,\nControl, and Slow Arts by <<enp1>>\nwhen you have an aura active."
+    },
+    {
+      "$id": 271,
+      "label": "CLASS_DARKWATCHER_SKL03_LEV1_CAP",
+      "style": 148,
+      "name": "Boosts ether damage by +<<enp1>>%."
+    },
+    {
+      "$id": 272,
+      "label": "CLASS_DARKWATCHER_SKL04_LEV1_CAP",
+      "style": 148,
+      "name": "Reduces enemy Control resistance\nby <<enp1>>% and raises debuff\ntier by 1."
+    },
+    {
+      "$id": 273,
+      "label": "CLASS_DARKWATCHER_SKL05_LEV1_CAP",
+      "style": 148,
+      "name": "Boosts Barrier's damage\nabsorption rate by <<enp1>>%."
+    },
+    {
+      "$id": 274,
+      "label": "CLASS_DARKWATCHER_SKL06_LEV1_CAP",
+      "style": 148,
+      "name": "Grants a <<enp1>>% chance of not\nwaking a sleeping enemy when\nattacking with an Art."
+    },
+    {
+      "$id": 275,
+      "label": "CLASS_DARKWATCHER_SKL07_LEV1_CAP",
+      "style": 148,
+      "name": "Extends buff effects granted by support\nArts you use by <<enp2>> seconds."
+    },
+    {
+      "$id": 276,
+      "label": "CLASS_DARKWATCHER_SKL08_LEV1_CAP",
+      "style": 148,
+      "name": "Ether-attribute attacks cannot damage\nenemy appendages, but deal +<<enp1>>%\nprimary damage when targeting them."
+    },
+    {
+      "$id": 277,
+      "label": "CLASS_BLASTFENCER_SKL01_LEV1_CAP",
+      "style": 148,
+      "name": "Grants a <<enp1>>% chance of not\nwaking a sleeping enemy when\nauto-attacking."
+    },
+    {
+      "$id": 278,
+      "label": "CLASS_BLASTFENCER_SKL02_LEV1_CAP",
+      "style": 148,
+      "name": "Boosts damage to mechanoid\nenemies by +<<enp1>>%."
+    },
+    {
+      "$id": 279,
+      "label": "CLASS_BLASTFENCER_SKL03_LEV1_CAP",
+      "style": 148,
+      "name": "Boosts maximum TP by <<enp2>>."
+    },
+    {
+      "$id": 280,
+      "label": "CLASS_BLASTFENCER_SKL04_LEV1_CAP",
+      "style": 148,
+      "name": "Boosts melee attack and melee\naccuracy by <<enp1>>% when you have\nan aura active."
+    },
+    {
+      "$id": 281,
+      "label": "CLASS_BLASTFENCER_SKL05_LEV1_CAP",
+      "style": 148,
+      "name": "Boosts damage to sleeping\nenemies by +<<enp1>>%."
+    },
+    {
+      "$id": 282,
+      "label": "CLASS_BLASTFENCER_SKL06_LEV1_CAP",
+      "style": 148,
+      "name": "Boosts damage by +<<enp1>>% when\ntriggering melee combos."
+    },
+    {
+      "$id": 283,
+      "label": "CLASS_KINGDOM_SKL01_LEV1_CAP",
+      "style": 148,
+      "name": "Boosts thermal damage by +<<enp1>>%."
+    },
+    {
+      "$id": 284,
+      "label": "CLASS_KINGDOM_SKL02_LEV1_CAP",
+      "style": 148,
+      "name": "Boosts melee damage to taunted\nenemies by +<<enp1>>%."
+    },
+    {
+      "$id": 285,
+      "label": "CLASS_KINGDOM_SKL03_LEV1_CAP",
+      "style": 148,
+      "name": "Boosts maximum HP by <<enp2>>%."
+    },
+    {
+      "$id": 286,
+      "label": "CLASS_KINGDOM_SKL04_LEV1_CAP",
+      "style": 148,
+      "name": "Boosts entire party's TP by <<enp1>>\nwhen activating Overdrive."
+    },
+    {
+      "$id": 287,
+      "label": "CLASS_KINGDOM_SKL04_LEV2_CAP",
+      "style": 148,
+      "name": "Boosts entire party's TP by <<enp1>>\nwhen activating Overdrive."
+    },
+    {
+      "$id": 288,
+      "label": "CLASS_KINGDOM_SKL04_LEV3_CAP",
+      "style": 148,
+      "name": "Boosts entire party's TP by <<enp1>>\nwhen activating Overdrive."
+    },
+    {
+      "$id": 289,
+      "label": "CLASS_KINGDOM_SKL04_LEV4_CAP",
+      "style": 148,
+      "name": "Boosts entire party's TP by <<enp1>>\nwhen activating Overdrive."
+    },
+    {
+      "$id": 290,
+      "label": "CLASS_KINGDOM_SKL04_LEV5_CAP",
+      "style": 148,
+      "name": "Boosts entire party's TP by <<enp1>>\nwhen activating Overdrive."
+    },
+    {
+      "$id": 291,
+      "label": "CLASS_DESTORYER_SKL01_LEV1_CAP",
+      "style": 148,
+      "name": "Boosts ranged damage\nby +<<enp1>>% when fighting\ntwo or more enemies."
+    },
+    {
+      "$id": 292,
+      "label": "CLASS_DESTORYER_SKL02_LEV1_CAP",
+      "style": 148,
+      "name": "Boosts critical chance\nby <<enp1>> when attacking\nenemies inflicted with Blaze."
+    },
+    {
+      "$id": 293,
+      "label": "CLASS_DESTORYER_SKL03_LEV1_CAP",
+      "style": 148,
+      "name": "Boosts spike damage by +<<enp1>>%."
+    },
+    {
+      "$id": 294,
+      "label": "CLASS_DESTORYER_SKL04_LEV1_CAP",
+      "style": 148,
+      "name": "Boosts reflect damage by +<<enp1>>%."
+    },
+    {
+      "$id": 295,
+      "label": "CLASS_ASSASIGN_SKL01_LEV1_CAP",
+      "style": 148,
+      "name": "Boosts damage by +<<enp1>>% during\nthe nighttime."
+    },
+    {
+      "$id": 296,
+      "label": "CLASS_ASSASIGN_SKL02_LEV1_CAP",
+      "style": 148,
+      "name": "Reduces cooldown for melee\nauto-attacks by <<enp1>>%."
+    },
+    {
+      "$id": 297,
+      "label": "CLASS_ASSASIGN_SKL03_LEV1_CAP",
+      "style": 148,
+      "name": "Boosts critical chance by <<enp1>>\nduring Overdrive."
+    },
+    {
+      "$id": 298,
+      "label": "CLASS_ASSASIGN_SKL04_LEV1_CAP",
+      "style": 148,
+      "name": "Boosts critical chance by <<enp1>>\nwhen HP is 50% or less. Effect\ndoubles when HP is 25% or less."
+    },
+    {
+      "$id": 299,
+      "label": "CLASS_ASSASIGN_SKL05_LEV1_CAP",
+      "style": 148,
+      "name": "Grants a <<enp0>>% chance of\nconverting <<enp1>>% of damage dealt\nto HP when melee auto-attacking."
+    },
+    {
+      "$id": 300,
+      "label": "CLASS_ASSASIGN_SKL06_LEV1_CAP",
+      "style": 148,
+      "name": "Boosts your Overdrive count\nby <<enp1>> when activating Overdrive."
+    },
+    {
+      "$id": 301,
+      "label": "CLASS_CRUSEIDER_SKL01_LEV1_CAP",
+      "style": 148,
+      "name": "Boosts ranged weapon range\nby <<enp1>>m."
+    },
+    {
+      "$id": 302,
+      "label": "CLASS_CRUSEIDER_SKL02_LEV1_CAP",
+      "style": 148,
+      "name": "Boosts resistance to Stagger,\nTopple, Knockback, and Launch\nby <<enp2>> when sprinting."
+    },
+    {
+      "$id": 303,
+      "label": "CLASS_CRUSEIDER_SKL03_LEV1_CAP",
+      "style": 148,
+      "name": "Reduces cooldown for ranged\nauto-attacks by <<enp1>>%."
+    },
+    {
+      "$id": 304,
+      "label": "CLASS_CRUSEIDER_SKL03_LEV2_CAP",
+      "style": 148,
+      "name": "Reduces cooldown for ranged\nauto-attacks by <<enp1>>%."
+    },
+    {
+      "$id": 305,
+      "label": "CLASS_CRUSEIDER_SKL03_LEV3_CAP",
+      "style": 148,
+      "name": "Reduces cooldown for ranged\nauto-attacks by <<enp1>>%."
+    },
+    {
+      "$id": 306,
+      "label": "CLASS_CRUSEIDER_SKL03_LEV4_CAP",
+      "style": 148,
+      "name": "Reduces cooldown for ranged\nauto-attacks by <<enp1>>%."
+    },
+    {
+      "$id": 307,
+      "label": "CLASS_CRUSEIDER_SKL03_LEV5_CAP",
+      "style": 148,
+      "name": "Reduces cooldown for ranged\nauto-attacks by <<enp1>>%."
+    },
+    {
+      "$id": 308,
+      "label": "CLASS_CRUSEIDER_SKL04_LEV1_CAP",
+      "style": 148,
+      "name": "Boosts electric damage by +<<enp1>>%\nto enemies inflicted with Shock."
+    },
+    {
+      "$id": 309,
+      "label": "CLASS_CRUSEIDER_SKL05_LEV1_CAP",
+      "style": 148,
+      "name": "Grants a <<enp0>>% chance of dealing\nelectric spike damage when\ntaking a hit."
+    },
+    {
+      "$id": 310,
+      "label": "CLASS_CRUSEIDER_SKL06_LEV1_CAP",
+      "style": 148,
+      "name": "Boosts TP by <<enp1>> when using\nan Art while in Overdrive."
+    },
+    {
+      "$id": 311,
+      "label": "CLASS_DARKPLANNER_SKL01_LEV1_CAP",
+      "style": 148,
+      "name": "Boosts ether resistance by <<enp2>>\nwhen wielding a ranged weapon."
+    },
+    {
+      "$id": 312,
+      "label": "CLASS_DARKPLANNER_SKL02_LEV1_CAP",
+      "style": 148,
+      "name": "Boosts gravity damage by +<<enp1>>%."
+    },
+    {
+      "$id": 313,
+      "label": "CLASS_DARKPLANNER_SKL03_LEV1_CAP",
+      "style": 148,
+      "name": "Boosts TP by <<enp1>> when taking\nweather damage."
+    },
+    {
+      "$id": 314,
+      "label": "CLASS_DARKPLANNER_SKL04_LEV1_CAP",
+      "style": 148,
+      "name": "Boosts appendage damage by\n<<enp1>>% for every debuff on\nthe enemy."
+    },
+    {
+      "$id": 315,
+      "label": "CLASS_DARKPLANNER_SKL05_LEV1_CAP",
+      "style": 148,
+      "name": "Boosts resistance to all debuffs by\n<<enp2>>%."
+    },
+    {
+      "$id": 316,
+      "label": "CLASS_DARKPLANNER_SKL06_LEV1_CAP",
+      "style": 148,
+      "name": "Reduces enemy debuff resistance\nby <<enp2>>% when landing an attack."
+    },
+    {
+      "$id": 317,
+      "label": "CLASS_DARKPLANNER_SKL07_LEV1_CAP",
+      "style": 148,
+      "name": "Grants All Abilities Up I to\nenemies under your Control."
+    },
+    {
+      "$id": 318,
+      "label": "CLASS_DARKPLANNER_SKL07_LEV2_CAP",
+      "style": 148,
+      "name": "Grants All Abilities Up II to\nenemies under your Control."
+    },
+    {
+      "$id": 319,
+      "label": "CLASS_DARKPLANNER_SKL07_LEV3_CAP",
+      "style": 148,
+      "name": "Grants All Abilities Up III to\nenemies under your Control."
+    },
+    {
+      "$id": 320,
+      "label": "CLASS_DARKPLANNER_SKL07_LEV4_CAP",
+      "style": 148,
+      "name": "Grants All Abilities Up IV to\nenemies under your Control."
+    },
+    {
+      "$id": 321,
+      "label": "CLASS_DARKPLANNER_SKL07_LEV5_CAP",
+      "style": 148,
+      "name": "Grants All Abilities Up V to\nenemies under your Control."
+    },
+    {
+      "$id": 322,
+      "label": "CLASS_DARKPLANNER_SKL08_LEV1_CAP",
+      "style": 148,
+      "name": "Reduces secondary cooldown by\n<<enp1>>%."
+    },
+    {
+      "$id": 323,
+      "label": "CLASS_GALAXY_SKL01_LEV1_CAP",
+      "style": 148,
+      "name": "Boosts gravity resistance by <<enp2>>\nwhen wielding a ranged weapon."
+    },
+    {
+      "$id": 324,
+      "label": "CLASS_GALAXY_SKL02_LEV1_CAP",
+      "style": 148,
+      "name": "Reduces an Art's cooldown by\n<<enp1>>% when triggering a\nmelee combo."
+    },
+    {
+      "$id": 325,
+      "label": "CLASS_GALAXY_SKL03_LEV1_CAP",
+      "style": 148,
+      "name": "Boosts GP by <<enp1>> when\nboarding your Skell while in\nOverdrive."
+    },
+    {
+      "$id": 326,
+      "label": "CLASS_GALAXY_SKL04_LEV1_CAP",
+      "style": 148,
+      "name": "Boosts Skell melee attack, ranged\nattack, melee & ranged accuracy,\npotential, and evasion by <<enp2>>%."
+    },
+    {
+      "$id": 327,
+      "label": "ITM_SKL_IN_HPMAX01_P_CAP",
+      "style": 148,
+      "name": "Boosts maximum HP by <<enp2>>."
+    },
+    {
+      "$id": 328,
+      "label": "ITM_SKL_IN_TPMAX01_P_CAP",
+      "style": 148,
+      "name": "Boosts maximum TP by <<enp2>>."
+    },
+    {
+      "$id": 329,
+      "label": "ITM_SKL_IN_F_DEX01_P_CAP",
+      "style": 148,
+      "name": "Boosts melee accuracy by <<enp2>>."
+    },
+    {
+      "$id": 330,
+      "label": "ITM_SKL_IN_S_DEX01_P_CAP",
+      "style": 148,
+      "name": "Boosts ranged accuracy by <<enp2>>."
+    },
+    {
+      "$id": 331,
+      "label": "ITM_SKL_IN_EVA01_P_CAP",
+      "style": 148,
+      "name": "Boosts evasion by <<enp2>>."
+    },
+    {
+      "$id": 332,
+      "label": "ITM_SKL_IN_F_POW01_P_CAP",
+      "style": 148,
+      "name": "Boosts melee attack by <<enp2>>."
+    },
+    {
+      "$id": 333,
+      "label": "ITM_SKL_IN_S_POW01_P_CAP",
+      "style": 148,
+      "name": "Boosts ranged attack by <<enp2>>."
+    },
+    {
+      "$id": 334,
+      "label": "ITM_SKL_IN_M_POW01_P_CAP",
+      "style": 148,
+      "name": "Boosts potential by <<enp2>>."
+    },
+    {
+      "$id": 335,
+      "label": "ITM_SKL_IN_HPMAX01_R_CAP",
+      "style": 148,
+      "name": "Boosts maximum HP by <<enp2>>%."
+    },
+    {
+      "$id": 336,
+      "label": "ITM_SKL_IN_TPMAX01_R_CAP",
+      "style": 148,
+      "name": "Boosts maximum TP by <<enp2>>%."
+    },
+    {
+      "$id": 337,
+      "label": "ITM_SKL_IN_F_DEX01_R_CAP",
+      "style": 148,
+      "name": "Boosts melee accuracy by <<enp2>>%."
+    },
+    {
+      "$id": 338,
+      "label": "ITM_SKL_IN_S_DEX01_R_CAP",
+      "style": 148,
+      "name": "Boosts ranged accuracy by <<enp2>>%."
+    },
+    {
+      "$id": 339,
+      "label": "ITM_SKL_IN_EVA01_R_CAP",
+      "style": 148,
+      "name": "Boosts evasion by <<enp2>>%."
+    },
+    {
+      "$id": 340,
+      "label": "ITM_SKL_IN_F_ROW01_R_CAP",
+      "style": 148,
+      "name": "Boosts melee attack by <<enp2>>%."
+    },
+    {
+      "$id": 341,
+      "label": "ITM_SKL_IN_S_ROW01_R_CAP",
+      "style": 148,
+      "name": "Boosts ranged attack by <<enp2>>%."
+    },
+    {
+      "$id": 342,
+      "label": "ITM_SKL_IN_M_ROW01_R_CAP",
+      "style": 148,
+      "name": "Boosts potential by <<enp2>>%."
+    },
+    {
+      "$id": 343,
+      "label": "ITM_SKL_IN_HPMAX01_DL_CAP",
+      "style": 148,
+      "name": "Boosts maximum Skell HP by <<enp2>>%."
+    },
+    {
+      "$id": 344,
+      "label": "ITM_SKL_IN_TPMAX01_DL_CAP",
+      "style": 148,
+      "name": "Boosts maximum Skell GP by <<enp2>>%."
+    },
+    {
+      "$id": 345,
+      "label": "ITM_SKL_IN_F_DEX01_DL_CAP",
+      "style": 148,
+      "name": "Boosts Skell melee accuracy by <<enp2>>%."
+    },
+    {
+      "$id": 346,
+      "label": "ITM_SKL_IN_S_DEX01_DL_CAP",
+      "style": 148,
+      "name": "Boosts Skell ranged accuracy by <<enp2>>%."
+    },
+    {
+      "$id": 347,
+      "label": "ITM_SKL_IN_EVA01_DL_CAP",
+      "style": 148,
+      "name": "Boosts Skell evasion by <<enp2>>%."
+    },
+    {
+      "$id": 348,
+      "label": "ITM_SKL_IN_F_POW01_DL_CAP",
+      "style": 148,
+      "name": "Boosts Skell melee attack by <<enp2>>%."
+    },
+    {
+      "$id": 349,
+      "label": "ITM_SKL_IN_S_POW01_DL_CAP",
+      "style": 148,
+      "name": "Boosts Skell ranged attack by <<enp2>>%."
+    },
+    {
+      "$id": 350,
+      "label": "ITM_SKL_IN_M_POW01_DL_CAP",
+      "style": 148,
+      "name": "Boosts Skell potential by <<enp2>>%."
+    },
+    {
+      "$id": 351,
+      "label": "ITM_SKL_IN_CATCH_FUEL01_DL_CAP",
+      "style": 148,
+      "name": "Boosts fuel recovery by <<enp1>> unit(s)\nper second when binding an enemy."
+    },
+    {
+      "$id": 352,
+      "label": "ITM_SKL_IN_ECO_FUEL01_DL_CAP",
+      "style": 148,
+      "name": "Boosts fuel efficiency by <<enp1>>%\nwhen fighting in a Skell."
+    },
+    {
+      "$id": 353,
+      "label": "ITM_SKL_IN_ANTI_PH01_P_CAP",
+      "style": 148,
+      "name": "Boosts physical resistance by <<enp2>>."
+    },
+    {
+      "$id": 354,
+      "label": "ITM_SKL_IN_ANTI_BM01_P_CAP",
+      "style": 148,
+      "name": "Boosts beam resistance by <<enp2>>."
+    },
+    {
+      "$id": 355,
+      "label": "ITM_SKL_IN_ANTI_TH01_P_CAP",
+      "style": 148,
+      "name": "Boosts electric resistance by <<enp2>>."
+    },
+    {
+      "$id": 356,
+      "label": "ITM_SKL_IN_ANTI_FR01_P_CAP",
+      "style": 148,
+      "name": "Boosts thermal resistance by <<enp2>>."
+    },
+    {
+      "$id": 357,
+      "label": "ITM_SKL_IN_ANTI_ET01_P_CAP",
+      "style": 148,
+      "name": "Boosts ether resistance by <<enp2>>."
+    },
+    {
+      "$id": 358,
+      "label": "ITM_SKL_IN_ANTI_GR01_P_CAP",
+      "style": 148,
+      "name": "Boosts gravity resistance by <<enp2>>."
+    },
+    {
+      "$id": 359,
+      "label": "ITM_SKL_IN_CTM_POW01_CAP",
+      "style": 148,
+      "name": "Boosts weapon attack by <<enp1>>%."
+    },
+    {
+      "$id": 360,
+      "label": "ITM_SKL_IN_CTM_BAL01_CAP",
+      "style": 148,
+      "name": "Boosts weapon stability by <<enp1>>%."
+    },
+    {
+      "$id": 361,
+      "label": "ITM_SKL_IN_CTM_BRK01_CAP",
+      "style": 148,
+      "name": "Reduces weapon stability by <<enp1>>%."
+    },
+    {
+      "$id": 362,
+      "label": "ITM_SKL_IN_CTM_MAG01_CAP",
+      "style": 148,
+      "name": "Increases magazine capacity for ranged\nweapons by <<enp1>>."
+    },
+    {
+      "$id": 363,
+      "label": "ITM_SKL_IN_CTM_F_TP00_CAP",
+      "style": 148,
+      "name": "Boosts TP gain for melee auto-attacks\nby <<enp1>>."
+    },
+    {
+      "$id": 364,
+      "label": "ITM_SKL_IN_CTM_S_TP00_CAP",
+      "style": 148,
+      "name": "Boosts TP gain for ranged auto-attacks\nby <<enp1>>."
+    },
+    {
+      "$id": 365,
+      "label": "ITM_SKL_IN_CTM_SPD01_CAP",
+      "style": 148,
+      "name": "Reduces auto-attack cooldown by <<enp1>>%."
+    },
+    {
+      "$id": 366,
+      "label": "ITM_SKL_IN_CTM_RNG01_CAP",
+      "style": 148,
+      "name": "Boosts ranged weapon range by <<enp1>>m."
+    },
+    {
+      "$id": 367,
+      "label": "ITM_SKL_IN_REG_BREAK01_CAP",
+      "style": 148,
+      "name": "Boosts resistance to Stagger by <<enp2>>."
+    },
+    {
+      "$id": 368,
+      "label": "ITM_SKL_IN_REG_FLINCH01_CAP",
+      "style": 148,
+      "name": "Boosts resistance to Flinch by <<enp2>>."
+    },
+    {
+      "$id": 369,
+      "label": "ITM_SKL_IN_REG_DOWN01_CAP",
+      "style": 148,
+      "name": "Boosts resistance to Topple by <<enp2>>."
+    },
+    {
+      "$id": 370,
+      "label": "ITM_SKL_IN_REG_KNOCK01_CAP",
+      "style": 148,
+      "name": "Boosts resistance to Knockback by <<enp2>>."
+    },
+    {
+      "$id": 371,
+      "label": "ITM_SKL_IN_REG_BLOW01_CAP",
+      "style": 148,
+      "name": "Boosts resistance to Launch by <<enp2>>."
+    },
+    {
+      "$id": 372,
+      "label": "ITM_SKL_IN_REG_STAN01_CAP",
+      "style": 148,
+      "name": "Boosts resistance to Stun by <<enp2>>."
+    },
+    {
+      "$id": 373,
+      "label": "ITM_SKL_IN_REG_SLEEP01_CAP",
+      "style": 148,
+      "name": "Boosts resistance to Sleep by <<enp2>>."
+    },
+    {
+      "$id": 374,
+      "label": "ITM_SKL_IN_REG_TAUNT01_CAP",
+      "style": 148,
+      "name": "Boosts resistance to Taunt by <<enp2>>."
+    },
+    {
+      "$id": 375,
+      "label": "ITM_SKL_IN_REG_CTR01_CAP",
+      "style": 148,
+      "name": "Boosts resistance to Control by <<enp2>>."
+    },
+    {
+      "$id": 376,
+      "label": "ITM_SKL_IN_REG_VIRSUS01_CAP",
+      "style": 148,
+      "name": "Boosts resistance to Virus by <<enp2>>."
+    },
+    {
+      "$id": 377,
+      "label": "ITM_SKL_IN_REG_BLACK01_CAP",
+      "style": 148,
+      "name": "Boosts resistance to Blackout by <<enp2>>."
+    },
+    {
+      "$id": 378,
+      "label": "ITM_SKL_IN_REG_POWDN01_CAP",
+      "style": 148,
+      "name": "Boosts resistance to Fatigue by <<enp2>>."
+    },
+    {
+      "$id": 379,
+      "label": "ITM_SKL_IN_REG_ASLOW01_CAP",
+      "style": 148,
+      "name": "Boosts resistance to Slow Arts by <<enp2>>."
+    },
+    {
+      "$id": 380,
+      "label": "ITM_SKL_IN_REG_PH_DN01_CAP",
+      "style": 148,
+      "name": "Boosts resistance to Physical Res Down\nby <<enp2>>."
+    },
+    {
+      "$id": 381,
+      "label": "ITM_SKL_IN_REG_BM_DN01_CAP",
+      "style": 148,
+      "name": "Boosts resistance to Beam Res Down\nby <<enp2>>."
+    },
+    {
+      "$id": 382,
+      "label": "ITM_SKL_IN_REG_FR_DN01_CAP",
+      "style": 148,
+      "name": "Boosts resistance to Thermal Res Down\nby <<enp2>>."
+    },
+    {
+      "$id": 383,
+      "label": "ITM_SKL_IN_REG_TH_DN01_CAP",
+      "style": 148,
+      "name": "Boosts resistance to Electric Res Down\nby <<enp2>>."
+    },
+    {
+      "$id": 384,
+      "label": "ITM_SKL_IN_REG_ET_DN01_CAP",
+      "style": 148,
+      "name": "Boosts resistance to Ether Res Down\nby <<enp2>>."
+    },
+    {
+      "$id": 385,
+      "label": "ITM_SKL_IN_REG_GR_DN01_CAP",
+      "style": 148,
+      "name": "Boosts resistance to Gravity Res Down\nby <<enp2>>."
+    },
+    {
+      "$id": 386,
+      "label": "ITM_SKL_IN_REG_CTBOM01_CAP",
+      "style": 148,
+      "name": "Boosts resistance to Time Bomb by <<enp2>>."
+    },
+    {
+      "$id": 387,
+      "label": "ITM_SKL_IN_REG_DEBDN01_CAP",
+      "style": 148,
+      "name": "Boosts resistance to Debuff Res Down\nby <<enp2>>."
+    },
+    {
+      "$id": 388,
+      "label": "ITM_SKL_IN_REG_HP_HEALDN01_CAP",
+      "style": 148,
+      "name": "Boosts resistance to HP Recovery Down\nby <<enp2>>."
+    },
+    {
+      "$id": 389,
+      "label": "ITM_SKL_IN_REG_FR_DOT01_CAP",
+      "style": 148,
+      "name": "Boosts resistance to Blaze by <<enp2>>."
+    },
+    {
+      "$id": 390,
+      "label": "ITM_SKL_IN_REG_TH_DOT01_CAP",
+      "style": 148,
+      "name": "Boosts resistance to Shock by <<enp2>>."
+    },
+    {
+      "$id": 391,
+      "label": "ITM_SKL_IN_REG_TIME01_CAP",
+      "style": 148,
+      "name": "Reduces the duration of debuffs by <<enp1>>%."
+    },
+    {
+      "$id": 392,
+      "label": "ITM_SKL_IN_CRTC_R_ALL01_CAP",
+      "style": 148,
+      "name": "Boosts critical chance by <<enp1>>."
+    },
+    {
+      "$id": 393,
+      "label": "ITM_SKL_IN_CRTC_R_BEAST01_CAP",
+      "style": 148,
+      "name": "Boosts critical chance against theroid\nenemies by <<enp1>>."
+    },
+    {
+      "$id": 394,
+      "label": "ITM_SKL_IN_CRTC_R_INSECT01_CAP",
+      "style": 148,
+      "name": "Boosts critical chance against insectoid\nenemies by <<enp1>>."
+    },
+    {
+      "$id": 395,
+      "label": "ITM_SKL_IN_CRTC_R_MEGAFLY01_CAP",
+      "style": 148,
+      "name": "Boosts critical chance against piscinoid\nenemies by <<enp1>>."
+    },
+    {
+      "$id": 396,
+      "label": "ITM_SKL_IN_CRTC_R_ALIEN01_CAP",
+      "style": 148,
+      "name": "Boosts critical chance against humanoid\nenemies by <<enp1>>."
+    },
+    {
+      "$id": 397,
+      "label": "ITM_SKL_IN_CRTC_R_MACHINE01_CAP",
+      "style": 148,
+      "name": "Boosts critical chance against mechanoid\nenemies by <<enp1>>."
+    },
+    {
+      "$id": 398,
+      "label": "ITM_SKL_IN_CRTC_R_KIMERA01_CAP",
+      "style": 148,
+      "name": "Boosts critical chance against chimeroid\nenemies by <<enp1>>."
+    },
+    {
+      "$id": 399,
+      "label": "ITM_SKL_IN_CRTC_R_TERESIA01_CAP",
+      "style": 148,
+      "name": "Boosts critical chance against ultrafauna\nenemies by <<enp1>>."
+    },
+    {
+      "$id": 400,
+      "label": "ITM_SKL_IN_CRTC_P_STAGE01_CAP",
+      "style": 148,
+      "name": "Extends Critical Power effects granted by\nyour Arts by <<enp2>> second(s)."
+    },
+    {
+      "$id": 401,
+      "label": "ITM_SKL_IN_KILL_BEAST01_CAP",
+      "style": 148,
+      "name": "Boosts damage to theroid\nenemies by +<<enp1>>%."
+    },
+    {
+      "$id": 402,
+      "label": "ITM_SKL_IN_KILL_INSECT01_CAP",
+      "style": 148,
+      "name": "Boosts damage to insectoid\nenemies by +<<enp1>>%."
+    },
+    {
+      "$id": 403,
+      "label": "ITM_SKL_IN_KILL_MEGAFLY01_CAP",
+      "style": 148,
+      "name": "Boosts damage to piscinoid\nenemies by +<<enp1>>%."
+    },
+    {
+      "$id": 404,
+      "label": "ITM_SKL_IN_KILL_ALIEN01_CAP",
+      "style": 148,
+      "name": "Boosts damage to humanoid\nenemies by +<<enp1>>%."
+    },
+    {
+      "$id": 405,
+      "label": "ITM_SKL_IN_KILL_MACHINE01_CAP",
+      "style": 148,
+      "name": "Boosts damage to mechanoid\nenemies by +<<enp1>>%."
+    },
+    {
+      "$id": 406,
+      "label": "ITM_SKL_IN_KILL_KIMERA01_CAP",
+      "style": 148,
+      "name": "Boosts damage to chimeroid\nenemies by +<<enp1>>%."
+    },
+    {
+      "$id": 407,
+      "label": "ITM_SKL_IN_KILL_TERESIA01_CAP",
+      "style": 148,
+      "name": "Boosts damage to ultrafauna\nenemies by +<<enp1>>%."
+    },
+    {
+      "$id": 408,
+      "label": "ITM_SKL_IN_ATK_PH01_CAP",
+      "style": 148,
+      "name": "Boosts physical damage\nby +<<enp1>>%."
+    },
+    {
+      "$id": 409,
+      "label": "ITM_SKL_IN_ATK_BM01_CAP",
+      "style": 148,
+      "name": "Boosts beam damage\nby +<<enp1>>%."
+    },
+    {
+      "$id": 410,
+      "label": "ITM_SKL_IN_ATK_ET01_CAP",
+      "style": 148,
+      "name": "Boosts ether damage\nby +<<enp1>>%."
+    },
+    {
+      "$id": 411,
+      "label": "ITM_SKL_IN_ATK_FR01_CAP",
+      "style": 148,
+      "name": "Boosts thermal damage\nby +<<enp1>>%."
+    },
+    {
+      "$id": 412,
+      "label": "ITM_SKL_IN_ATK_TH01_CAP",
+      "style": 148,
+      "name": "Boosts electric damage\nby +<<enp1>>%."
+    },
+    {
+      "$id": 413,
+      "label": "ITM_SKL_IN_ATK_GR01_CAP",
+      "style": 148,
+      "name": "Boosts gravity damage\nby +<<enp1>>%."
+    },
+    {
+      "$id": 414,
+      "label": "ITM_SKL_IN_ATK_FRONT01_CAP",
+      "style": 148,
+      "name": "Boosts damage by +<<enp1>>% when\nattacking from the front."
+    },
+    {
+      "$id": 415,
+      "label": "ITM_SKL_IN_ATK_SIDE01_CAP",
+      "style": 148,
+      "name": "Boosts damage by +<<enp1>>% when\nattacking from the side."
+    },
+    {
+      "$id": 416,
+      "label": "ITM_SKL_IN_ATK_BACK01_CAP",
+      "style": 148,
+      "name": "Boosts damage by +<<enp1>>% when\nattacking from behind."
+    },
+    {
+      "$id": 417,
+      "label": "ITM_SKL_IN_ATK_HIGH01_CAP",
+      "style": 148,
+      "name": "Boosts damage by +<<enp1>>% when\nattacking from above."
+    },
+    {
+      "$id": 418,
+      "label": "ITM_SKL_IN_F_AT_BLACK01_CAP",
+      "style": 148,
+      "name": "Grants a very low chance of inflicting\nBlackout I when melee auto-attacking."
+    },
+    {
+      "$id": 419,
+      "label": "ITM_SKL_IN_F_AT_BLACK012_CAP",
+      "style": 148,
+      "name": "Grants a low chance of inflicting\nBlackout I when melee auto-attacking."
+    },
+    {
+      "$id": 420,
+      "label": "ITM_SKL_IN_F_AT_BLACK013_CAP",
+      "style": 148,
+      "name": "Grants a chance of inflicting\nBlackout I when melee auto-attacking."
+    },
+    {
+      "$id": 421,
+      "label": "ITM_SKL_IN_F_AT_BLACK014_CAP",
+      "style": 148,
+      "name": "Grants a high chance of inflicting\nBlackout I when melee auto-attacking."
+    },
+    {
+      "$id": 422,
+      "label": "ITM_SKL_IN_F_AT_BLACK015_CAP",
+      "style": 148,
+      "name": "Grants a very high chance of inflicting\nBlackout I when melee auto-attacking."
+    },
+    {
+      "$id": 423,
+      "label": "ITM_SKL_IN_F_AT_BLACK06_CAP",
+      "style": 148,
+      "name": "Grants a very low chance of inflicting\nBlackout II when melee auto-attacking."
+    },
+    {
+      "$id": 424,
+      "label": "ITM_SKL_IN_F_AT_BLACK062_CAP",
+      "style": 148,
+      "name": "Grants a low chance of inflicting\nBlackout II when melee auto-attacking."
+    },
+    {
+      "$id": 425,
+      "label": "ITM_SKL_IN_F_AT_BLACK063_CAP",
+      "style": 148,
+      "name": "Grants a chance of inflicting\nBlackout II when melee auto-attacking."
+    },
+    {
+      "$id": 426,
+      "label": "ITM_SKL_IN_F_AT_BLACK064_CAP",
+      "style": 148,
+      "name": "Grants a high chance of inflicting\nBlackout II when melee auto-attacking."
+    },
+    {
+      "$id": 427,
+      "label": "ITM_SKL_IN_F_AT_BLACK065_CAP",
+      "style": 148,
+      "name": "Grants a very high chance of inflicting\nBlackout II when melee auto-attacking."
+    },
+    {
+      "$id": 428,
+      "label": "ITM_SKL_IN_F_AT_BLACK11_CAP",
+      "style": 148,
+      "name": "Grants a very low chance of inflicting\nBlackout III when melee auto-attacking."
+    },
+    {
+      "$id": 429,
+      "label": "ITM_SKL_IN_F_AT_BLACK112_CAP",
+      "style": 148,
+      "name": "Grants a low chance of inflicting\nBlackout III when melee auto-attacking."
+    },
+    {
+      "$id": 430,
+      "label": "ITM_SKL_IN_F_AT_BLACK113_CAP",
+      "style": 148,
+      "name": "Grants a chance of inflicting\nBlackout III when melee auto-attacking."
+    },
+    {
+      "$id": 431,
+      "label": "ITM_SKL_IN_F_AT_BLACK114_CAP",
+      "style": 148,
+      "name": "Grants a high chance of inflicting\nBlackout III when melee auto-attacking."
+    },
+    {
+      "$id": 432,
+      "label": "ITM_SKL_IN_F_AT_BLACK115_CAP",
+      "style": 148,
+      "name": "Grants a very high chance of inflicting\nBlackout III when melee auto-attacking."
+    },
+    {
+      "$id": 433,
+      "label": "ITM_SKL_IN_F_AT_BLACK16_CAP",
+      "style": 148,
+      "name": "Grants a very low chance of inflicting\nBlackout IV when melee auto-attacking."
+    },
+    {
+      "$id": 434,
+      "label": "ITM_SKL_IN_F_AT_BLACK162_CAP",
+      "style": 148,
+      "name": "Grants a low chance of inflicting\nBlackout IV when melee auto-attacking."
+    },
+    {
+      "$id": 435,
+      "label": "ITM_SKL_IN_F_AT_BLACK163_CAP",
+      "style": 148,
+      "name": "Grants a chance of inflicting\nBlackout IV when melee auto-attacking."
+    },
+    {
+      "$id": 436,
+      "label": "ITM_SKL_IN_F_AT_BLACK164_CAP",
+      "style": 148,
+      "name": "Grants a high chance of inflicting\nBlackout IV when melee auto-attacking."
+    },
+    {
+      "$id": 437,
+      "label": "ITM_SKL_IN_F_AT_BLACK165_CAP",
+      "style": 148,
+      "name": "Grants a very high chance of inflicting\nBlackout IV when melee auto-attacking."
+    },
+    {
+      "$id": 438,
+      "label": "ITM_SKL_IN_F_AT_POWDN01_CAP",
+      "style": 148,
+      "name": "Grants a very low chance of inflicting\nFatigue I when melee auto-attacking."
+    },
+    {
+      "$id": 439,
+      "label": "ITM_SKL_IN_F_AT_POWDN012_CAP",
+      "style": 148,
+      "name": "Grants a low chance of inflicting\nFatigue I when melee auto-attacking."
+    },
+    {
+      "$id": 440,
+      "label": "ITM_SKL_IN_F_AT_POWDN013_CAP",
+      "style": 148,
+      "name": "Grants a chance of inflicting\nFatigue I when melee auto-attacking."
+    },
+    {
+      "$id": 441,
+      "label": "ITM_SKL_IN_F_AT_POWDN014_CAP",
+      "style": 148,
+      "name": "Grants a high chance of inflicting\nFatigue I when melee auto-attacking."
+    },
+    {
+      "$id": 442,
+      "label": "ITM_SKL_IN_F_AT_POWDN015_CAP",
+      "style": 148,
+      "name": "Grants a very high chance of inflicting\nFatigue I when melee auto-attacking."
+    },
+    {
+      "$id": 443,
+      "label": "ITM_SKL_IN_F_AT_POWDN06_CAP",
+      "style": 148,
+      "name": "Grants a very low chance of inflicting\nFatigue II when melee auto-attacking."
+    },
+    {
+      "$id": 444,
+      "label": "ITM_SKL_IN_F_AT_POWDN062_CAP",
+      "style": 148,
+      "name": "Grants a low chance of inflicting\nFatigue II when melee auto-attacking."
+    },
+    {
+      "$id": 445,
+      "label": "ITM_SKL_IN_F_AT_POWDN063_CAP",
+      "style": 148,
+      "name": "Grants a chance of inflicting\nFatigue II when melee auto-attacking."
+    },
+    {
+      "$id": 446,
+      "label": "ITM_SKL_IN_F_AT_POWDN064_CAP",
+      "style": 148,
+      "name": "Grants a high chance of inflicting\nFatigue II when melee auto-attacking."
+    },
+    {
+      "$id": 447,
+      "label": "ITM_SKL_IN_F_AT_POWDN065_CAP",
+      "style": 148,
+      "name": "Grants a very high chance of inflicting\nFatigue II when melee auto-attacking."
+    },
+    {
+      "$id": 448,
+      "label": "ITM_SKL_IN_F_AT_POWDN11_CAP",
+      "style": 148,
+      "name": "Grants a very low chance of inflicting\nFatigue III when melee auto-attacking."
+    },
+    {
+      "$id": 449,
+      "label": "ITM_SKL_IN_F_AT_POWDN112_CAP",
+      "style": 148,
+      "name": "Grants a low chance of inflicting\nFatigue III when melee auto-attacking."
+    },
+    {
+      "$id": 450,
+      "label": "ITM_SKL_IN_F_AT_POWDN113_CAP",
+      "style": 148,
+      "name": "Grants a chance of inflicting\nFatigue III when melee auto-attacking."
+    },
+    {
+      "$id": 451,
+      "label": "ITM_SKL_IN_F_AT_POWDN114_CAP",
+      "style": 148,
+      "name": "Grants a high chance of inflicting\nFatigue III when melee auto-attacking."
+    },
+    {
+      "$id": 452,
+      "label": "ITM_SKL_IN_F_AT_POWDN115_CAP",
+      "style": 148,
+      "name": "Grants a very high chance of inflicting\nFatigue III when melee auto-attacking."
+    },
+    {
+      "$id": 453,
+      "label": "ITM_SKL_IN_F_AT_POWDN16_CAP",
+      "style": 148,
+      "name": "Grants a very low chance of inflicting\nFatigue IV when melee auto-attacking."
+    },
+    {
+      "$id": 454,
+      "label": "ITM_SKL_IN_F_AT_POWDN162_CAP",
+      "style": 148,
+      "name": "Grants a low chance of inflicting\nFatigue IV when melee auto-attacking."
+    },
+    {
+      "$id": 455,
+      "label": "ITM_SKL_IN_F_AT_POWDN163_CAP",
+      "style": 148,
+      "name": "Grants a chance of inflicting\nFatigue IV when melee auto-attacking."
+    },
+    {
+      "$id": 456,
+      "label": "ITM_SKL_IN_F_AT_POWDN164_CAP",
+      "style": 148,
+      "name": "Grants a high chance of inflicting\nFatigue IV when melee auto-attacking."
+    },
+    {
+      "$id": 457,
+      "label": "ITM_SKL_IN_F_AT_POWDN165_CAP",
+      "style": 148,
+      "name": "Grants a very high chance of inflicting\nFatigue IV when melee auto-attacking."
+    },
+    {
+      "$id": 458,
+      "label": "ITM_SKL_IN_F_AT_PH_DN01_CAP",
+      "style": 148,
+      "name": "Grants a very low chance of inflicting\nPhysical Res Down I when\nmelee auto-attacking."
+    },
+    {
+      "$id": 459,
+      "label": "ITM_SKL_IN_F_AT_PH_DN012_CAP",
+      "style": 148,
+      "name": "Grants a low chance of inflicting\nPhysical Res Down I when\nmelee auto-attacking."
+    },
+    {
+      "$id": 460,
+      "label": "ITM_SKL_IN_F_AT_PH_DN013_CAP",
+      "style": 148,
+      "name": "Grants a chance of inflicting\nPhysical Res Down I when\nmelee auto-attacking."
+    },
+    {
+      "$id": 461,
+      "label": "ITM_SKL_IN_F_AT_PH_DN014_CAP",
+      "style": 148,
+      "name": "Grants a high chance of inflicting\nPhysical Res Down I when\nmelee auto-attacking."
+    },
+    {
+      "$id": 462,
+      "label": "ITM_SKL_IN_F_AT_PH_DN015_CAP",
+      "style": 148,
+      "name": "Grants a very high chance of inflicting\nPhysical Res Down I when\nmelee auto-attacking."
+    },
+    {
+      "$id": 463,
+      "label": "ITM_SKL_IN_F_AT_PH_DN06_CAP",
+      "style": 148,
+      "name": "Grants a very low chance of inflicting\nPhysical Res Down II when\nmelee auto-attacking."
+    },
+    {
+      "$id": 464,
+      "label": "ITM_SKL_IN_F_AT_PH_DN062_CAP",
+      "style": 148,
+      "name": "Grants a low chance of inflicting\nPhysical Res Down II when\nmelee auto-attacking."
+    },
+    {
+      "$id": 465,
+      "label": "ITM_SKL_IN_F_AT_PH_DN063_CAP",
+      "style": 148,
+      "name": "Grants a chance of inflicting\nPhysical Res Down II when\nmelee auto-attacking."
+    },
+    {
+      "$id": 466,
+      "label": "ITM_SKL_IN_F_AT_PH_DN064_CAP",
+      "style": 148,
+      "name": "Grants a high chance of inflicting\nPhysical Res Down II when\nmelee auto-attacking."
+    },
+    {
+      "$id": 467,
+      "label": "ITM_SKL_IN_F_AT_PH_DN065_CAP",
+      "style": 148,
+      "name": "Grants a very high chance of inflicting\nPhysical Res Down II when\nmelee auto-attacking."
+    },
+    {
+      "$id": 468,
+      "label": "ITM_SKL_IN_F_AT_PH_DN11_CAP",
+      "style": 148,
+      "name": "Grants a very low chance of inflicting\nPhysical Res Down III when\nmelee auto-attacking."
+    },
+    {
+      "$id": 469,
+      "label": "ITM_SKL_IN_F_AT_PH_DN112_CAP",
+      "style": 148,
+      "name": "Grants a low chance of inflicting\nPhysical Res Down III when\nmelee auto-attacking."
+    },
+    {
+      "$id": 470,
+      "label": "ITM_SKL_IN_F_AT_PH_DN113_CAP",
+      "style": 148,
+      "name": "Grants a chance of inflicting\nPhysical Res Down III when\nmelee auto-attacking."
+    },
+    {
+      "$id": 471,
+      "label": "ITM_SKL_IN_F_AT_PH_DN114_CAP",
+      "style": 148,
+      "name": "Grants a high chance of inflicting\nPhysical Res Down III when\nmelee auto-attacking."
+    },
+    {
+      "$id": 472,
+      "label": "ITM_SKL_IN_F_AT_PH_DN115_CAP",
+      "style": 148,
+      "name": "Grants a very high chance of inflicting\nPhysical Res Down III when\nmelee auto-attacking."
+    },
+    {
+      "$id": 473,
+      "label": "ITM_SKL_IN_F_AT_PH_DN16_CAP",
+      "style": 148,
+      "name": "Grants a very low chance of inflicting\nPhysical Res Down IV when\nmelee auto-attacking."
+    },
+    {
+      "$id": 474,
+      "label": "ITM_SKL_IN_F_AT_PH_DN162_CAP",
+      "style": 148,
+      "name": "Grants a low chance of inflicting\nPhysical Res Down IV when\nmelee auto-attacking."
+    },
+    {
+      "$id": 475,
+      "label": "ITM_SKL_IN_F_AT_PH_DN163_CAP",
+      "style": 148,
+      "name": "Grants a chance of inflicting\nPhysical Res Down IV when\nmelee auto-attacking."
+    },
+    {
+      "$id": 476,
+      "label": "ITM_SKL_IN_F_AT_PH_DN164_CAP",
+      "style": 148,
+      "name": "Grants a high chance of inflicting\nPhysical Res Down IV when\nmelee auto-attacking."
+    },
+    {
+      "$id": 477,
+      "label": "ITM_SKL_IN_F_AT_PH_DN165_CAP",
+      "style": 148,
+      "name": "Grants a very high chance of inflicting\nPhysical Res Down IV when\nmelee auto-attacking."
+    },
+    {
+      "$id": 478,
+      "label": "ITM_SKL_IN_F_AT_BM_DN01_CAP",
+      "style": 148,
+      "name": "Grants a very low chance of inflicting\nBeam Res Down I when\nmelee auto-attacking."
+    },
+    {
+      "$id": 479,
+      "label": "ITM_SKL_IN_F_AT_BM_DN012_CAP",
+      "style": 148,
+      "name": "Grants a low chance of inflicting\nBeam Res Down I when\nmelee auto-attacking."
+    },
+    {
+      "$id": 480,
+      "label": "ITM_SKL_IN_F_AT_BM_DN013_CAP",
+      "style": 148,
+      "name": "Grants a chance of inflicting\nBeam Res Down I when\nmelee auto-attacking."
+    },
+    {
+      "$id": 481,
+      "label": "ITM_SKL_IN_F_AT_BM_DN014_CAP",
+      "style": 148,
+      "name": "Grants a high chance of inflicting\nBeam Res Down I when\nmelee auto-attacking."
+    },
+    {
+      "$id": 482,
+      "label": "ITM_SKL_IN_F_AT_BM_DN015_CAP",
+      "style": 148,
+      "name": "Grants a very high chance of inflicting\nBeam Res Down I when\nmelee auto-attacking."
+    },
+    {
+      "$id": 483,
+      "label": "ITM_SKL_IN_F_AT_BM_DN06_CAP",
+      "style": 148,
+      "name": "Grants a very low chance of inflicting\nBeam Res Down II when\nmelee auto-attacking."
+    },
+    {
+      "$id": 484,
+      "label": "ITM_SKL_IN_F_AT_BM_DN062_CAP",
+      "style": 148,
+      "name": "Grants a low chance of inflicting\nBeam Res Down II when\nmelee auto-attacking."
+    },
+    {
+      "$id": 485,
+      "label": "ITM_SKL_IN_F_AT_BM_DN063_CAP",
+      "style": 148,
+      "name": "Grants a chance of inflicting\nBeam Res Down II when\nmelee auto-attacking."
+    },
+    {
+      "$id": 486,
+      "label": "ITM_SKL_IN_F_AT_BM_DN064_CAP",
+      "style": 148,
+      "name": "Grants a high chance of inflicting\nBeam Res Down II when\nmelee auto-attacking."
+    },
+    {
+      "$id": 487,
+      "label": "ITM_SKL_IN_F_AT_BM_DN065_CAP",
+      "style": 148,
+      "name": "Grants a very high chance of inflicting\nBeam Res Down II when\nmelee auto-attacking."
+    },
+    {
+      "$id": 488,
+      "label": "ITM_SKL_IN_F_AT_BM_DN11_CAP",
+      "style": 148,
+      "name": "Grants a very low chance of inflicting\nBeam Res Down III when\nmelee auto-attacking."
+    },
+    {
+      "$id": 489,
+      "label": "ITM_SKL_IN_F_AT_BM_DN112_CAP",
+      "style": 148,
+      "name": "Grants a low chance of inflicting\nBeam Res Down III when\nmelee auto-attacking."
+    },
+    {
+      "$id": 490,
+      "label": "ITM_SKL_IN_F_AT_BM_DN113_CAP",
+      "style": 148,
+      "name": "Grants a chance of inflicting\nBeam Res Down III when\nmelee auto-attacking."
+    },
+    {
+      "$id": 491,
+      "label": "ITM_SKL_IN_F_AT_BM_DN114_CAP",
+      "style": 148,
+      "name": "Grants a high chance of inflicting\nBeam Res Down III when\nmelee auto-attacking."
+    },
+    {
+      "$id": 492,
+      "label": "ITM_SKL_IN_F_AT_BM_DN115_CAP",
+      "style": 148,
+      "name": "Grants a very high chance of inflicting\nBeam Res Down III when\nmelee auto-attacking."
+    },
+    {
+      "$id": 493,
+      "label": "ITM_SKL_IN_F_AT_BM_DN16_CAP",
+      "style": 148,
+      "name": "Grants a very low chance of inflicting\nBeam Res Down IV when\nmelee auto-attacking."
+    },
+    {
+      "$id": 494,
+      "label": "ITM_SKL_IN_F_AT_BM_DN162_CAP",
+      "style": 148,
+      "name": "Grants a low chance of inflicting\nBeam Res Down IV when\nmelee auto-attacking."
+    },
+    {
+      "$id": 495,
+      "label": "ITM_SKL_IN_F_AT_BM_DN163_CAP",
+      "style": 148,
+      "name": "Grants a chance of inflicting\nBeam Res Down IV when\nmelee auto-attacking."
+    },
+    {
+      "$id": 496,
+      "label": "ITM_SKL_IN_F_AT_BM_DN164_CAP",
+      "style": 148,
+      "name": "Grants a high chance of inflicting\nBeam Res Down IV when\nmelee auto-attacking."
+    },
+    {
+      "$id": 497,
+      "label": "ITM_SKL_IN_F_AT_BM_DN165_CAP",
+      "style": 148,
+      "name": "Grants a very high chance of inflicting\nBeam Res Down IV when\nmelee auto-attacking."
+    },
+    {
+      "$id": 498,
+      "label": "ITM_SKL_IN_F_AT_ET_DN01_CAP",
+      "style": 148,
+      "name": "Grants a very low chance of inflicting\nEther Res Down I when\nmelee auto-attacking."
+    },
+    {
+      "$id": 499,
+      "label": "ITM_SKL_IN_F_AT_ET_DN012_CAP",
+      "style": 148,
+      "name": "Grants a low chance of inflicting\nEther Res Down I when\nmelee auto-attacking."
+    },
+    {
+      "$id": 500,
+      "label": "ITM_SKL_IN_F_AT_ET_DN013_CAP",
+      "style": 148,
+      "name": "Grants a chance of inflicting\nEther Res Down I when\nmelee auto-attacking."
+    },
+    {
+      "$id": 501,
+      "label": "ITM_SKL_IN_F_AT_ET_DN014_CAP",
+      "style": 148,
+      "name": "Grants a high chance of inflicting\nEther Res Down I when\nmelee auto-attacking."
+    },
+    {
+      "$id": 502,
+      "label": "ITM_SKL_IN_F_AT_ET_DN015_CAP",
+      "style": 148,
+      "name": "Grants a very high chance of inflicting\nEther Res Down I when\nmelee auto-attacking."
+    },
+    {
+      "$id": 503,
+      "label": "ITM_SKL_IN_F_AT_ET_DN06_CAP",
+      "style": 148,
+      "name": "Grants a very low chance of inflicting\nEther Res Down II when\nmelee auto-attacking."
+    },
+    {
+      "$id": 504,
+      "label": "ITM_SKL_IN_F_AT_ET_DN062_CAP",
+      "style": 148,
+      "name": "Grants a low chance of inflicting\nEther Res Down II when\nmelee auto-attacking."
+    },
+    {
+      "$id": 505,
+      "label": "ITM_SKL_IN_F_AT_ET_DN063_CAP",
+      "style": 148,
+      "name": "Grants a chance of inflicting\nEther Res Down II when\nmelee auto-attacking."
+    },
+    {
+      "$id": 506,
+      "label": "ITM_SKL_IN_F_AT_ET_DN064_CAP",
+      "style": 148,
+      "name": "Grants a high chance of inflicting\nEther Res Down II when\nmelee auto-attacking."
+    },
+    {
+      "$id": 507,
+      "label": "ITM_SKL_IN_F_AT_ET_DN065_CAP",
+      "style": 148,
+      "name": "Grants a very high chance of inflicting\nEther Res Down II when\nmelee auto-attacking."
+    },
+    {
+      "$id": 508,
+      "label": "ITM_SKL_IN_F_AT_ET_DN11_CAP",
+      "style": 148,
+      "name": "Grants a very low chance of inflicting\nEther Res Down III when\nmelee auto-attacking."
+    },
+    {
+      "$id": 509,
+      "label": "ITM_SKL_IN_F_AT_ET_DN112_CAP",
+      "style": 148,
+      "name": "Grants a low chance of inflicting\nEther Res Down III when\nmelee auto-attacking."
+    },
+    {
+      "$id": 510,
+      "label": "ITM_SKL_IN_F_AT_ET_DN113_CAP",
+      "style": 148,
+      "name": "Grants a chance of inflicting\nEther Res Down III when\nmelee auto-attacking."
+    },
+    {
+      "$id": 511,
+      "label": "ITM_SKL_IN_F_AT_ET_DN114_CAP",
+      "style": 148,
+      "name": "Grants a high chance of inflicting\nEther Res Down III when\nmelee auto-attacking."
+    },
+    {
+      "$id": 512,
+      "label": "ITM_SKL_IN_F_AT_ET_DN115_CAP",
+      "style": 148,
+      "name": "Grants a very high chance of inflicting\nEther Res Down III when\nmelee auto-attacking."
+    },
+    {
+      "$id": 513,
+      "label": "ITM_SKL_IN_F_AT_ET_DN16_CAP",
+      "style": 148,
+      "name": "Grants a very low chance of inflicting\nEther Res Down IV when\nmelee auto-attacking."
+    },
+    {
+      "$id": 514,
+      "label": "ITM_SKL_IN_F_AT_ET_DN162_CAP",
+      "style": 148,
+      "name": "Grants a low chance of inflicting\nEther Res Down IV when\nmelee auto-attacking."
+    },
+    {
+      "$id": 515,
+      "label": "ITM_SKL_IN_F_AT_ET_DN163_CAP",
+      "style": 148,
+      "name": "Grants a chance of inflicting\nEther Res Down IV when\nmelee auto-attacking."
+    },
+    {
+      "$id": 516,
+      "label": "ITM_SKL_IN_F_AT_ET_DN164_CAP",
+      "style": 148,
+      "name": "Grants a high chance of inflicting\nEther Res Down IV when\nmelee auto-attacking."
+    },
+    {
+      "$id": 517,
+      "label": "ITM_SKL_IN_F_AT_ET_DN165_CAP",
+      "style": 148,
+      "name": "Grants a very high chance of inflicting\nEther Res Down IV when\nmelee auto-attacking."
+    },
+    {
+      "$id": 518,
+      "label": "ITM_SKL_IN_F_AT_FR_DN01_CAP",
+      "style": 148,
+      "name": "Grants a very low chance of inflicting\nThermal Res Down I when\nmelee auto-attacking."
+    },
+    {
+      "$id": 519,
+      "label": "ITM_SKL_IN_F_AT_FR_DN012_CAP",
+      "style": 148,
+      "name": "Grants a low chance of inflicting\nThermal Res Down I when\nmelee auto-attacking."
+    },
+    {
+      "$id": 520,
+      "label": "ITM_SKL_IN_F_AT_FR_DN013_CAP",
+      "style": 148,
+      "name": "Grants a chance of inflicting\nThermal Res Down I when\nmelee auto-attacking."
+    },
+    {
+      "$id": 521,
+      "label": "ITM_SKL_IN_F_AT_FR_DN014_CAP",
+      "style": 148,
+      "name": "Grants a high chance of inflicting\nThermal Res Down I when\nmelee auto-attacking."
+    },
+    {
+      "$id": 522,
+      "label": "ITM_SKL_IN_F_AT_FR_DN015_CAP",
+      "style": 148,
+      "name": "Grants a very high chance of inflicting\nThermal Res Down I when\nmelee auto-attacking."
+    },
+    {
+      "$id": 523,
+      "label": "ITM_SKL_IN_F_AT_FR_DN06_CAP",
+      "style": 148,
+      "name": "Grants a very low chance of inflicting\nThermal Res Down II when\nmelee auto-attacking."
+    },
+    {
+      "$id": 524,
+      "label": "ITM_SKL_IN_F_AT_FR_DN062_CAP",
+      "style": 148,
+      "name": "Grants a low chance of inflicting\nThermal Res Down II when\nmelee auto-attacking."
+    },
+    {
+      "$id": 525,
+      "label": "ITM_SKL_IN_F_AT_FR_DN063_CAP",
+      "style": 148,
+      "name": "Grants a chance of inflicting\nThermal Res Down II when\nmelee auto-attacking."
+    },
+    {
+      "$id": 526,
+      "label": "ITM_SKL_IN_F_AT_FR_DN064_CAP",
+      "style": 148,
+      "name": "Grants a high chance of inflicting\nThermal Res Down II when\nmelee auto-attacking."
+    },
+    {
+      "$id": 527,
+      "label": "ITM_SKL_IN_F_AT_FR_DN065_CAP",
+      "style": 148,
+      "name": "Grants a very high chance of inflicting\nThermal Res Down II when\nmelee auto-attacking."
+    },
+    {
+      "$id": 528,
+      "label": "ITM_SKL_IN_F_AT_FR_DN11_CAP",
+      "style": 148,
+      "name": "Grants a very low chance of inflicting\nThermal Res Down III when\nmelee auto-attacking."
+    },
+    {
+      "$id": 529,
+      "label": "ITM_SKL_IN_F_AT_FR_DN112_CAP",
+      "style": 148,
+      "name": "Grants a low chance of inflicting\nThermal Res Down III when\nmelee auto-attacking."
+    },
+    {
+      "$id": 530,
+      "label": "ITM_SKL_IN_F_AT_FR_DN113_CAP",
+      "style": 148,
+      "name": "Grants a chance of inflicting\nThermal Res Down III when\nmelee auto-attacking."
+    },
+    {
+      "$id": 531,
+      "label": "ITM_SKL_IN_F_AT_FR_DN114_CAP",
+      "style": 148,
+      "name": "Grants a high chance of inflicting\nThermal Res Down III when\nmelee auto-attacking."
+    },
+    {
+      "$id": 532,
+      "label": "ITM_SKL_IN_F_AT_FR_DN115_CAP",
+      "style": 148,
+      "name": "Grants a very high chance of inflicting\nThermal Res Down III when\nmelee auto-attacking."
+    },
+    {
+      "$id": 533,
+      "label": "ITM_SKL_IN_F_AT_FR_DN16_CAP",
+      "style": 148,
+      "name": "Grants a very low chance of inflicting\nThermal Res Down IV when\nmelee auto-attacking."
+    },
+    {
+      "$id": 534,
+      "label": "ITM_SKL_IN_F_AT_FR_DN162_CAP",
+      "style": 148,
+      "name": "Grants a low chance of inflicting\nThermal Res Down IV when\nmelee auto-attacking."
+    },
+    {
+      "$id": 535,
+      "label": "ITM_SKL_IN_F_AT_FR_DN163_CAP",
+      "style": 148,
+      "name": "Grants a chance of inflicting\nThermal Res Down IV when\nmelee auto-attacking."
+    },
+    {
+      "$id": 536,
+      "label": "ITM_SKL_IN_F_AT_FR_DN164_CAP",
+      "style": 148,
+      "name": "Grants a high chance of inflicting\nThermal Res Down IV when\nmelee auto-attacking."
+    },
+    {
+      "$id": 537,
+      "label": "ITM_SKL_IN_F_AT_FR_DN165_CAP",
+      "style": 148,
+      "name": "Grants a very high chance of inflicting\nThermal Res Down IV when\nmelee auto-attacking."
+    },
+    {
+      "$id": 538,
+      "label": "ITM_SKL_IN_F_AT_TH_DN01_CAP",
+      "style": 148,
+      "name": "Grants a very low chance of inflicting\nElectric Res Down I when\nmelee auto-attacking."
+    },
+    {
+      "$id": 539,
+      "label": "ITM_SKL_IN_F_AT_TH_DN012_CAP",
+      "style": 148,
+      "name": "Grants a low chance of inflicting\nElectric Res Down I when\nmelee auto-attacking."
+    },
+    {
+      "$id": 540,
+      "label": "ITM_SKL_IN_F_AT_TH_DN013_CAP",
+      "style": 148,
+      "name": "Grants a chance of inflicting\nElectric Res Down I when\nmelee auto-attacking."
+    },
+    {
+      "$id": 541,
+      "label": "ITM_SKL_IN_F_AT_TH_DN014_CAP",
+      "style": 148,
+      "name": "Grants a high chance of inflicting\nElectric Res Down I when\nmelee auto-attacking."
+    },
+    {
+      "$id": 542,
+      "label": "ITM_SKL_IN_F_AT_TH_DN015_CAP",
+      "style": 148,
+      "name": "Grants a very high chance of inflicting\nElectric Res Down I when\nmelee auto-attacking."
+    },
+    {
+      "$id": 543,
+      "label": "ITM_SKL_IN_F_AT_TH_DN06_CAP",
+      "style": 148,
+      "name": "Grants a very low chance of inflicting\nElectric Res Down II when\nmelee auto-attacking."
+    },
+    {
+      "$id": 544,
+      "label": "ITM_SKL_IN_F_AT_TH_DN062_CAP",
+      "style": 148,
+      "name": "Grants a low chance of inflicting\nElectric Res Down II when\nmelee auto-attacking."
+    },
+    {
+      "$id": 545,
+      "label": "ITM_SKL_IN_F_AT_TH_DN063_CAP",
+      "style": 148,
+      "name": "Grants a chance of inflicting\nElectric Res Down II when\nmelee auto-attacking."
+    },
+    {
+      "$id": 546,
+      "label": "ITM_SKL_IN_F_AT_TH_DN064_CAP",
+      "style": 148,
+      "name": "Grants a high chance of inflicting\nElectric Res Down II when\nmelee auto-attacking."
+    },
+    {
+      "$id": 547,
+      "label": "ITM_SKL_IN_F_AT_TH_DN065_CAP",
+      "style": 148,
+      "name": "Grants a very high chance of inflicting\nElectric Res Down II when\nmelee auto-attacking."
+    },
+    {
+      "$id": 548,
+      "label": "ITM_SKL_IN_F_AT_TH_DN11_CAP",
+      "style": 148,
+      "name": "Grants a very low chance of inflicting\nElectric Res Down III when\nmelee auto-attacking."
+    },
+    {
+      "$id": 549,
+      "label": "ITM_SKL_IN_F_AT_TH_DN112_CAP",
+      "style": 148,
+      "name": "Grants a low chance of inflicting\nElectric Res Down III when\nmelee auto-attacking."
+    },
+    {
+      "$id": 550,
+      "label": "ITM_SKL_IN_F_AT_TH_DN113_CAP",
+      "style": 148,
+      "name": "Grants a chance of inflicting\nElectric Res Down III when\nmelee auto-attacking."
+    },
+    {
+      "$id": 551,
+      "label": "ITM_SKL_IN_F_AT_TH_DN114_CAP",
+      "style": 148,
+      "name": "Grants a high chance of inflicting\nElectric Res Down III when\nmelee auto-attacking."
+    },
+    {
+      "$id": 552,
+      "label": "ITM_SKL_IN_F_AT_TH_DN115_CAP",
+      "style": 148,
+      "name": "Grants a very high chance of inflicting\nElectric Res Down III when\nmelee auto-attacking."
+    },
+    {
+      "$id": 553,
+      "label": "ITM_SKL_IN_F_AT_TH_DN16_CAP",
+      "style": 148,
+      "name": "Grants a very low chance of inflicting\nElectric Res Down IV when\nmelee auto-attacking."
+    },
+    {
+      "$id": 554,
+      "label": "ITM_SKL_IN_F_AT_TH_DN162_CAP",
+      "style": 148,
+      "name": "Grants a low chance of inflicting\nElectric Res Down IV when\nmelee auto-attacking."
+    },
+    {
+      "$id": 555,
+      "label": "ITM_SKL_IN_F_AT_TH_DN163_CAP",
+      "style": 148,
+      "name": "Grants a chance of inflicting\nElectric Res Down IV when\nmelee auto-attacking."
+    },
+    {
+      "$id": 556,
+      "label": "ITM_SKL_IN_F_AT_TH_DN164_CAP",
+      "style": 148,
+      "name": "Grants a high chance of inflicting\nElectric Res Down IV when\nmelee auto-attacking."
+    },
+    {
+      "$id": 557,
+      "label": "ITM_SKL_IN_F_AT_TH_DN165_CAP",
+      "style": 148,
+      "name": "Grants a very high chance of inflicting\nElectric Res Down IV when\nmelee auto-attacking."
+    },
+    {
+      "$id": 558,
+      "label": "ITM_SKL_IN_F_AT_GR_DN01_CAP",
+      "style": 148,
+      "name": "Grants a very low chance of inflicting\nGravity Res Down I when\nmelee auto-attacking."
+    },
+    {
+      "$id": 559,
+      "label": "ITM_SKL_IN_F_AT_GR_DN012_CAP",
+      "style": 148,
+      "name": "Grants a low chance of inflicting\nGravity Res Down I when\nmelee auto-attacking."
+    },
+    {
+      "$id": 560,
+      "label": "ITM_SKL_IN_F_AT_GR_DN013_CAP",
+      "style": 148,
+      "name": "Grants a chance of inflicting\nGravity Res Down I when\nmelee auto-attacking."
+    },
+    {
+      "$id": 561,
+      "label": "ITM_SKL_IN_F_AT_GR_DN014_CAP",
+      "style": 148,
+      "name": "Grants a high chance of inflicting\nGravity Res Down I when\nmelee auto-attacking."
+    },
+    {
+      "$id": 562,
+      "label": "ITM_SKL_IN_F_AT_GR_DN015_CAP",
+      "style": 148,
+      "name": "Grants a very high chance of inflicting\nGravity Res Down I when\nmelee auto-attacking."
+    },
+    {
+      "$id": 563,
+      "label": "ITM_SKL_IN_F_AT_GR_DN06_CAP",
+      "style": 148,
+      "name": "Grants a very low chance of inflicting\nGravity Res Down II when\nmelee auto-attacking."
+    },
+    {
+      "$id": 564,
+      "label": "ITM_SKL_IN_F_AT_GR_DN062_CAP",
+      "style": 148,
+      "name": "Grants a low chance of inflicting\nGravity Res Down II when\nmelee auto-attacking."
+    },
+    {
+      "$id": 565,
+      "label": "ITM_SKL_IN_F_AT_GR_DN063_CAP",
+      "style": 148,
+      "name": "Grants a chance of inflicting\nGravity Res Down II when\nmelee auto-attacking."
+    },
+    {
+      "$id": 566,
+      "label": "ITM_SKL_IN_F_AT_GR_DN064_CAP",
+      "style": 148,
+      "name": "Grants a high chance of inflicting\nGravity Res Down II when\nmelee auto-attacking."
+    },
+    {
+      "$id": 567,
+      "label": "ITM_SKL_IN_F_AT_GR_DN065_CAP",
+      "style": 148,
+      "name": "Grants a very high chance of inflicting\nGravity Res Down II when\nmelee auto-attacking."
+    },
+    {
+      "$id": 568,
+      "label": "ITM_SKL_IN_F_AT_GR_DN11_CAP",
+      "style": 148,
+      "name": "Grants a very low chance of inflicting\nGravity Res Down III when\nmelee auto-attacking."
+    },
+    {
+      "$id": 569,
+      "label": "ITM_SKL_IN_F_AT_GR_DN112_CAP",
+      "style": 148,
+      "name": "Grants a low chance of inflicting\nGravity Res Down III when\nmelee auto-attacking."
+    },
+    {
+      "$id": 570,
+      "label": "ITM_SKL_IN_F_AT_GR_DN113_CAP",
+      "style": 148,
+      "name": "Grants a chance of inflicting\nGravity Res Down III when\nmelee auto-attacking."
+    },
+    {
+      "$id": 571,
+      "label": "ITM_SKL_IN_F_AT_GR_DN114_CAP",
+      "style": 148,
+      "name": "Grants a high chance of inflicting\nGravity Res Down III when\nmelee auto-attacking."
+    },
+    {
+      "$id": 572,
+      "label": "ITM_SKL_IN_F_AT_GR_DN115_CAP",
+      "style": 148,
+      "name": "Grants a very high chance of inflicting\nGravity Res Down III when\nmelee auto-attacking."
+    },
+    {
+      "$id": 573,
+      "label": "ITM_SKL_IN_F_AT_GR_DN16_CAP",
+      "style": 148,
+      "name": "Grants a very low chance of inflicting\nGravity Res Down IV when\nmelee auto-attacking."
+    },
+    {
+      "$id": 574,
+      "label": "ITM_SKL_IN_F_AT_GR_DN162_CAP",
+      "style": 148,
+      "name": "Grants a low chance of inflicting\nGravity Res Down IV when\nmelee auto-attacking."
+    },
+    {
+      "$id": 575,
+      "label": "ITM_SKL_IN_F_AT_GR_DN163_CAP",
+      "style": 148,
+      "name": "Grants a chance of inflicting\nGravity Res Down IV when\nmelee auto-attacking."
+    },
+    {
+      "$id": 576,
+      "label": "ITM_SKL_IN_F_AT_GR_DN164_CAP",
+      "style": 148,
+      "name": "Grants a high chance of inflicting\nGravity Res Down IV when\nmelee auto-attacking."
+    },
+    {
+      "$id": 577,
+      "label": "ITM_SKL_IN_F_AT_GR_DN165_CAP",
+      "style": 148,
+      "name": "Grants a very high chance of inflicting\nGravity Res Down IV when\nmelee auto-attacking."
+    },
+    {
+      "$id": 578,
+      "label": "ITM_SKL_IN_F_AT_FR_DOT01_CAP",
+      "style": 148,
+      "name": "Grants a very low chance of inflicting\nBlaze I when melee auto-attacking."
+    },
+    {
+      "$id": 579,
+      "label": "ITM_SKL_IN_F_AT_FR_DOT012_CAP",
+      "style": 148,
+      "name": "Grants a low chance of inflicting\nBlaze I when melee auto-attacking."
+    },
+    {
+      "$id": 580,
+      "label": "ITM_SKL_IN_F_AT_FR_DOT013_CAP",
+      "style": 148,
+      "name": "Grants a chance of inflicting\nBlaze I when melee auto-attacking."
+    },
+    {
+      "$id": 581,
+      "label": "ITM_SKL_IN_F_AT_FR_DOT014_CAP",
+      "style": 148,
+      "name": "Grants a high chance of inflicting\nBlaze I when melee auto-attacking."
+    },
+    {
+      "$id": 582,
+      "label": "ITM_SKL_IN_F_AT_FR_DOT015_CAP",
+      "style": 148,
+      "name": "Grants a very high chance of inflicting\nBlaze I when melee auto-attacking."
+    },
+    {
+      "$id": 583,
+      "label": "ITM_SKL_IN_F_AT_FR_DOT06_CAP",
+      "style": 148,
+      "name": "Grants a very low chance of inflicting\nBlaze II when melee auto-attacking."
+    },
+    {
+      "$id": 584,
+      "label": "ITM_SKL_IN_F_AT_FR_DOT062_CAP",
+      "style": 148,
+      "name": "Grants a low chance of inflicting\nBlaze II when melee auto-attacking."
+    },
+    {
+      "$id": 585,
+      "label": "ITM_SKL_IN_F_AT_FR_DOT063_CAP",
+      "style": 148,
+      "name": "Grants a chance of inflicting\nBlaze II when melee auto-attacking."
+    },
+    {
+      "$id": 586,
+      "label": "ITM_SKL_IN_F_AT_FR_DOT064_CAP",
+      "style": 148,
+      "name": "Grants a high chance of inflicting\nBlaze II when melee auto-attacking."
+    },
+    {
+      "$id": 587,
+      "label": "ITM_SKL_IN_F_AT_FR_DOT065_CAP",
+      "style": 148,
+      "name": "Grants a very high chance of inflicting\nBlaze II when melee auto-attacking."
+    },
+    {
+      "$id": 588,
+      "label": "ITM_SKL_IN_F_AT_FR_DOT11_CAP",
+      "style": 148,
+      "name": "Grants a very low chance of inflicting\nBlaze III when melee auto-attacking."
+    },
+    {
+      "$id": 589,
+      "label": "ITM_SKL_IN_F_AT_FR_DOT112_CAP",
+      "style": 148,
+      "name": "Grants a low chance of inflicting\nBlaze III when melee auto-attacking."
+    },
+    {
+      "$id": 590,
+      "label": "ITM_SKL_IN_F_AT_FR_DOT113_CAP",
+      "style": 148,
+      "name": "Grants a chance of inflicting\nBlaze III when melee auto-attacking."
+    },
+    {
+      "$id": 591,
+      "label": "ITM_SKL_IN_F_AT_FR_DOT114_CAP",
+      "style": 148,
+      "name": "Grants a high chance of inflicting\nBlaze III when melee auto-attacking."
+    },
+    {
+      "$id": 592,
+      "label": "ITM_SKL_IN_F_AT_FR_DOT115_CAP",
+      "style": 148,
+      "name": "Grants a very high chance of inflicting\nBlaze III when melee auto-attacking."
+    },
+    {
+      "$id": 593,
+      "label": "ITM_SKL_IN_F_AT_FR_DOT16_CAP",
+      "style": 148,
+      "name": "Grants a very low chance of inflicting\nBlaze IV when melee auto-attacking."
+    },
+    {
+      "$id": 594,
+      "label": "ITM_SKL_IN_F_AT_FR_DOT162_CAP",
+      "style": 148,
+      "name": "Grants a low chance of inflicting\nBlaze IV when melee auto-attacking."
+    },
+    {
+      "$id": 595,
+      "label": "ITM_SKL_IN_F_AT_FR_DOT163_CAP",
+      "style": 148,
+      "name": "Grants a chance of inflicting\nBlaze IV when melee auto-attacking."
+    },
+    {
+      "$id": 596,
+      "label": "ITM_SKL_IN_F_AT_FR_DOT164_CAP",
+      "style": 148,
+      "name": "Grants a high chance of inflicting\nBlaze IV when melee auto-attacking."
+    },
+    {
+      "$id": 597,
+      "label": "ITM_SKL_IN_F_AT_FR_DOT165_CAP",
+      "style": 148,
+      "name": "Grants a very high chance of inflicting\nBlaze IV when melee auto-attacking."
+    },
+    {
+      "$id": 598,
+      "label": "ITM_SKL_IN_F_AT_TH_DOT01_CAP",
+      "style": 148,
+      "name": "Grants a very low chance of inflicting\nShock I when melee auto-attacking."
+    },
+    {
+      "$id": 599,
+      "label": "ITM_SKL_IN_F_AT_TH_DOT012_CAP",
+      "style": 148,
+      "name": "Grants a low chance of inflicting\nShock I when melee auto-attacking."
+    },
+    {
+      "$id": 600,
+      "label": "ITM_SKL_IN_F_AT_TH_DOT013_CAP",
+      "style": 148,
+      "name": "Grants a chance of inflicting\nShock I when melee auto-attacking."
+    },
+    {
+      "$id": 601,
+      "label": "ITM_SKL_IN_F_AT_TH_DOT014_CAP",
+      "style": 148,
+      "name": "Grants a high chance of inflicting\nShock I when melee auto-attacking."
+    },
+    {
+      "$id": 602,
+      "label": "ITM_SKL_IN_F_AT_TH_DOT015_CAP",
+      "style": 148,
+      "name": "Grants a very high chance of inflicting\nShock I when melee auto-attacking."
+    },
+    {
+      "$id": 603,
+      "label": "ITM_SKL_IN_F_AT_TH_DOT06_CAP",
+      "style": 148,
+      "name": "Grants a very low chance of inflicting\nShock II when melee auto-attacking."
+    },
+    {
+      "$id": 604,
+      "label": "ITM_SKL_IN_F_AT_TH_DOT062_CAP",
+      "style": 148,
+      "name": "Grants a low chance of inflicting\nShock II when melee auto-attacking."
+    },
+    {
+      "$id": 605,
+      "label": "ITM_SKL_IN_F_AT_TH_DOT063_CAP",
+      "style": 148,
+      "name": "Grants a chance of inflicting\nShock II when melee auto-attacking."
+    },
+    {
+      "$id": 606,
+      "label": "ITM_SKL_IN_F_AT_TH_DOT064_CAP",
+      "style": 148,
+      "name": "Grants a high chance of inflicting\nShock II when melee auto-attacking."
+    },
+    {
+      "$id": 607,
+      "label": "ITM_SKL_IN_F_AT_TH_DOT065_CAP",
+      "style": 148,
+      "name": "Grants a very high chance of inflicting\nShock II when melee auto-attacking."
+    },
+    {
+      "$id": 608,
+      "label": "ITM_SKL_IN_F_AT_TH_DOT11_CAP",
+      "style": 148,
+      "name": "Grants a very low chance of inflicting\nShock III when melee auto-attacking."
+    },
+    {
+      "$id": 609,
+      "label": "ITM_SKL_IN_F_AT_TH_DOT112_CAP",
+      "style": 148,
+      "name": "Grants a low chance of inflicting\nShock III when melee auto-attacking."
+    },
+    {
+      "$id": 610,
+      "label": "ITM_SKL_IN_F_AT_TH_DOT113_CAP",
+      "style": 148,
+      "name": "Grants a chance of inflicting\nShock III when melee auto-attacking."
+    },
+    {
+      "$id": 611,
+      "label": "ITM_SKL_IN_F_AT_TH_DOT114_CAP",
+      "style": 148,
+      "name": "Grants a high chance of inflicting\nShock III when melee auto-attacking."
+    },
+    {
+      "$id": 612,
+      "label": "ITM_SKL_IN_F_AT_TH_DOT115_CAP",
+      "style": 148,
+      "name": "Grants a very high chance of inflicting\nShock III when melee auto-attacking."
+    },
+    {
+      "$id": 613,
+      "label": "ITM_SKL_IN_F_AT_TH_DOT16_CAP",
+      "style": 148,
+      "name": "Grants a very low chance of inflicting\nShock IV when melee auto-attacking."
+    },
+    {
+      "$id": 614,
+      "label": "ITM_SKL_IN_F_AT_TH_DOT162_CAP",
+      "style": 148,
+      "name": "Grants a low chance of inflicting\nShock IV when melee auto-attacking."
+    },
+    {
+      "$id": 615,
+      "label": "ITM_SKL_IN_F_AT_TH_DOT163_CAP",
+      "style": 148,
+      "name": "Grants a chance of inflicting\nShock IV when melee auto-attacking."
+    },
+    {
+      "$id": 616,
+      "label": "ITM_SKL_IN_F_AT_TH_DOT164_CAP",
+      "style": 148,
+      "name": "Grants a high chance of inflicting\nShock IV when melee auto-attacking."
+    },
+    {
+      "$id": 617,
+      "label": "ITM_SKL_IN_F_AT_TH_DOT165_CAP",
+      "style": 148,
+      "name": "Grants a very high chance of inflicting\nShock IV when melee auto-attacking."
+    },
+    {
+      "$id": 618,
+      "label": "ITM_SKL_IN_F_AT_HP_HEAL01_CAP",
+      "style": 148,
+      "name": "Grants a high chance of recovering\n<<enp1>> HP when melee auto-attacking."
+    },
+    {
+      "$id": 619,
+      "label": "ITM_SKL_IN_SLEEP_NO_WAKE01_CAP",
+      "style": 148,
+      "name": "Grants a <<enp1>>% chance of not\nwaking a sleeping enemy when attacking."
+    },
+    {
+      "$id": 620,
+      "label": "ITM_SKL_IN_CT_HP01_CAP",
+      "style": 148,
+      "name": "Grants a low chance of recovering\n<<enp1>> HP when taking damage."
+    },
+    {
+      "$id": 621,
+      "label": "ITM_SKL_IN_CT_TP01_CAP",
+      "style": 148,
+      "name": "Grants a low chance of receiving\n<<enp1>> TP when taking damage."
+    },
+    {
+      "$id": 622,
+      "label": "ITM_SKL_IN_CT_TAUNT_DARM01_CAP",
+      "style": 148,
+      "name": "Grants a very low chance of activating\nBarrier I when taunted."
+    },
+    {
+      "$id": 623,
+      "label": "ITM_SKL_IN_CT_TAUNT_DARM012_CAP",
+      "style": 148,
+      "name": "Grants a low chance of activating\nBarrier I when taunted."
+    },
+    {
+      "$id": 624,
+      "label": "ITM_SKL_IN_CT_TAUNT_DARM013_CAP",
+      "style": 148,
+      "name": "Grants a chance of activating\nBarrier I when taunted."
+    },
+    {
+      "$id": 625,
+      "label": "ITM_SKL_IN_CT_TAUNT_DARM014_CAP",
+      "style": 148,
+      "name": "Grants a high chance of activating\nBarrier I when taunted."
+    },
+    {
+      "$id": 626,
+      "label": "ITM_SKL_IN_CT_TAUNT_DARM015_CAP",
+      "style": 148,
+      "name": "Grants a very high chance of activating\nBarrier I when taunted."
+    },
+    {
+      "$id": 627,
+      "label": "ITM_SKL_IN_CT_TAUNT_DARM06_CAP",
+      "style": 148,
+      "name": "Grants a very low chance of activating\nBarrier II when taunted."
+    },
+    {
+      "$id": 628,
+      "label": "ITM_SKL_IN_CT_TAUNT_DARM062_CAP",
+      "style": 148,
+      "name": "Grants a low chance of activating\nBarrier II when taunted."
+    },
+    {
+      "$id": 629,
+      "label": "ITM_SKL_IN_CT_TAUNT_DARM063_CAP",
+      "style": 148,
+      "name": "Grants a chance of activating\nBarrier II when taunted."
+    },
+    {
+      "$id": 630,
+      "label": "ITM_SKL_IN_CT_TAUNT_DARM064_CAP",
+      "style": 148,
+      "name": "Grants a high chance of activating\nBarrier II when taunted."
+    },
+    {
+      "$id": 631,
+      "label": "ITM_SKL_IN_CT_TAUNT_DARM065_CAP",
+      "style": 148,
+      "name": "Grants a very high chance of activating\nBarrier II when taunted."
+    },
+    {
+      "$id": 632,
+      "label": "ITM_SKL_IN_CT_TAUNT_DARM11_CAP",
+      "style": 148,
+      "name": "Grants a very low chance of activating\nBarrier III when taunted."
+    },
+    {
+      "$id": 633,
+      "label": "ITM_SKL_IN_CT_TAUNT_DARM112_CAP",
+      "style": 148,
+      "name": "Grants a low chance of activating\nBarrier III when taunted."
+    },
+    {
+      "$id": 634,
+      "label": "ITM_SKL_IN_CT_TAUNT_DARM113_CAP",
+      "style": 148,
+      "name": "Grants a chance of activating\nBarrier III when taunted."
+    },
+    {
+      "$id": 635,
+      "label": "ITM_SKL_IN_CT_TAUNT_DARM114_CAP",
+      "style": 148,
+      "name": "Grants a high chance of activating\nBarrier III when taunted."
+    },
+    {
+      "$id": 636,
+      "label": "ITM_SKL_IN_CT_TAUNT_DARM115_CAP",
+      "style": 148,
+      "name": "Grants a very high chance of activating\nBarrier III when taunted."
+    },
+    {
+      "$id": 637,
+      "label": "ITM_SKL_IN_CT_TAUNT_DARM16_CAP",
+      "style": 148,
+      "name": "Grants a very low chance of activating\nBarrier IV when taunted."
+    },
+    {
+      "$id": 638,
+      "label": "ITM_SKL_IN_CT_TAUNT_DARM162_CAP",
+      "style": 148,
+      "name": "Grants a low chance of activating\nBarrier IV when taunted."
+    },
+    {
+      "$id": 639,
+      "label": "ITM_SKL_IN_CT_TAUNT_DARM163_CAP",
+      "style": 148,
+      "name": "Grants a chance of activating\nBarrier IV when taunted."
+    },
+    {
+      "$id": 640,
+      "label": "ITM_SKL_IN_CT_TAUNT_DARM164_CAP",
+      "style": 148,
+      "name": "Grants a high chance of activating\nBarrier IV when taunted."
+    },
+    {
+      "$id": 641,
+      "label": "ITM_SKL_IN_CT_TAUNT_DARM165_CAP",
+      "style": 148,
+      "name": "Grants a very high chance of activating\nBarrier IV when taunted."
+    },
+    {
+      "$id": 642,
+      "label": "ITM_SKL_IN_CT_TAUNT_FAKE01_CAP",
+      "style": 148,
+      "name": "Grants a very low chance of activating\nDecoy I when taunted."
+    },
+    {
+      "$id": 643,
+      "label": "ITM_SKL_IN_CT_TAUNT_FAKE012_CAP",
+      "style": 148,
+      "name": "Grants a low chance of activating\nDecoy I when taunted."
+    },
+    {
+      "$id": 644,
+      "label": "ITM_SKL_IN_CT_TAUNT_FAKE013_CAP",
+      "style": 148,
+      "name": "Grants a chance of activating\nDecoy I when taunted."
+    },
+    {
+      "$id": 645,
+      "label": "ITM_SKL_IN_CT_TAUNT_FAKE014_CAP",
+      "style": 148,
+      "name": "Grants a high chance of activating\nDecoy I when taunted."
+    },
+    {
+      "$id": 646,
+      "label": "ITM_SKL_IN_CT_TAUNT_FAKE015_CAP",
+      "style": 148,
+      "name": "Grants a very high chance of activating\nDecoy I when taunted."
+    },
+    {
+      "$id": 647,
+      "label": "ITM_SKL_IN_CT_TAUNT_FAKE06_CAP",
+      "style": 148,
+      "name": "Grants a very low chance of activating\nDecoy II when taunted."
+    },
+    {
+      "$id": 648,
+      "label": "ITM_SKL_IN_CT_TAUNT_FAKE062_CAP",
+      "style": 148,
+      "name": "Grants a low chance of activating\nDecoy II when taunted."
+    },
+    {
+      "$id": 649,
+      "label": "ITM_SKL_IN_CT_TAUNT_FAKE063_CAP",
+      "style": 148,
+      "name": "Grants a chance of activating\nDecoy II when taunted."
+    },
+    {
+      "$id": 650,
+      "label": "ITM_SKL_IN_CT_TAUNT_FAKE064_CAP",
+      "style": 148,
+      "name": "Grants a high chance of activating\nDecoy II when taunted."
+    },
+    {
+      "$id": 651,
+      "label": "ITM_SKL_IN_CT_TAUNT_FAKE065_CAP",
+      "style": 148,
+      "name": "Grants a very high chance of activating\nDecoy II when taunted."
+    },
+    {
+      "$id": 652,
+      "label": "ITM_SKL_IN_CT_TAUNT_FAKE11_CAP",
+      "style": 148,
+      "name": "Grants a very low chance of activating\nDecoy III when taunted."
+    },
+    {
+      "$id": 653,
+      "label": "ITM_SKL_IN_CT_TAUNT_FAKE112_CAP",
+      "style": 148,
+      "name": "Grants a low chance of activating\nDecoy III when taunted."
+    },
+    {
+      "$id": 654,
+      "label": "ITM_SKL_IN_CT_TAUNT_FAKE113_CAP",
+      "style": 148,
+      "name": "Grants a chance of activating\nDecoy III when taunted."
+    },
+    {
+      "$id": 655,
+      "label": "ITM_SKL_IN_CT_TAUNT_FAKE114_CAP",
+      "style": 148,
+      "name": "Grants a high chance of activating\nDecoy III when taunted."
+    },
+    {
+      "$id": 656,
+      "label": "ITM_SKL_IN_CT_TAUNT_FAKE115_CAP",
+      "style": 148,
+      "name": "Grants a very high chance of activating\nDecoy III when taunted."
+    },
+    {
+      "$id": 657,
+      "label": "ITM_SKL_IN_CT_TAUNT_FAKE16_CAP",
+      "style": 148,
+      "name": "Grants a very low chance of activating\nDecoy IV when taunted."
+    },
+    {
+      "$id": 658,
+      "label": "ITM_SKL_IN_CT_TAUNT_FAKE162_CAP",
+      "style": 148,
+      "name": "Grants a low chance of activating\nDecoy IV when taunted."
+    },
+    {
+      "$id": 659,
+      "label": "ITM_SKL_IN_CT_TAUNT_FAKE163_CAP",
+      "style": 148,
+      "name": "Grants a chance of activating\nDecoy IV when taunted."
+    },
+    {
+      "$id": 660,
+      "label": "ITM_SKL_IN_CT_TAUNT_FAKE164_CAP",
+      "style": 148,
+      "name": "Grants a high chance of activating\nDecoy IV when taunted."
+    },
+    {
+      "$id": 661,
+      "label": "ITM_SKL_IN_CT_TAUNT_FAKE165_CAP",
+      "style": 148,
+      "name": "Grants a very high chance of activating\nDecoy IV when taunted."
+    },
+    {
+      "$id": 662,
+      "label": "ITM_SKL_IN_CT_TAUNT_BULLET01_CAP",
+      "style": 148,
+      "name": "Grants a <<enp0>>% chance of activating\nSupercharge I when taunted."
+    },
+    {
+      "$id": 663,
+      "label": "ITM_SKL_IN_CT_TAUNT_BULLET06_CAP",
+      "style": 148,
+      "name": "Grants a <<enp0>>% chance of activating\nSupercharge II when taunted."
+    },
+    {
+      "$id": 664,
+      "label": "ITM_SKL_IN_CT_TAUNT_BULLET11_CAP",
+      "style": 148,
+      "name": "Grants a <<enp0>>% chance of activating\nSupercharge III when taunted."
+    },
+    {
+      "$id": 665,
+      "label": "ITM_SKL_IN_CT_TAUNT_BULLET16_CAP",
+      "style": 148,
+      "name": "Grants a <<enp0>>% chance of activating\nSupercharge IV when taunted."
+    },
+    {
+      "$id": 666,
+      "label": "ITM_SKL_IN_CT_DOWN_DARM01_CAP",
+      "style": 148,
+      "name": "Grants a <<enp0>>% chance of activating\nBarrier I when toppled."
+    },
+    {
+      "$id": 667,
+      "label": "ITM_SKL_IN_CT_DOWN_DARM06_CAP",
+      "style": 148,
+      "name": "Grants a <<enp0>>% chance of activating\nBarrier II when toppled."
+    },
+    {
+      "$id": 668,
+      "label": "ITM_SKL_IN_CT_DOWN_DARM11_CAP",
+      "style": 148,
+      "name": "Grants a <<enp0>>% chance of activating\nBarrier III when toppled."
+    },
+    {
+      "$id": 669,
+      "label": "ITM_SKL_IN_CT_DOWN_DARM16_CAP",
+      "style": 148,
+      "name": "Grants a <<enp0>>% chance of activating\nBarrier IV when toppled."
+    },
+    {
+      "$id": 670,
+      "label": "ITM_SKL_IN_CT_DOWN_FAKE01_CAP",
+      "style": 148,
+      "name": "Grants a <<enp0>>% chance of activating\nDecoy I when toppled."
+    },
+    {
+      "$id": 671,
+      "label": "ITM_SKL_IN_CT_DOWN_FAKE06_CAP",
+      "style": 148,
+      "name": "Grants a <<enp0>>% chance of activating\nDecoy II when toppled."
+    },
+    {
+      "$id": 672,
+      "label": "ITM_SKL_IN_CT_DOWN_FAKE11_CAP",
+      "style": 148,
+      "name": "Grants a <<enp0>>% chance of activating\nDecoy III when toppled."
+    },
+    {
+      "$id": 673,
+      "label": "ITM_SKL_IN_CT_DOWN_FAKE16_CAP",
+      "style": 148,
+      "name": "Grants a <<enp0>>% chance of activating\nDecoy IV when toppled."
+    },
+    {
+      "$id": 674,
+      "label": "ITM_SKL_IN_CT_STAN_DARM01_CAP",
+      "style": 148,
+      "name": "Grants a <<enp0>>% chance of activating\nBarrier I when stunned."
+    },
+    {
+      "$id": 675,
+      "label": "ITM_SKL_IN_CT_STAN_DARM06_CAP",
+      "style": 148,
+      "name": "Grants a <<enp0>>% chance of activating\nBarrier II when stunned."
+    },
+    {
+      "$id": 676,
+      "label": "ITM_SKL_IN_CT_STAN_DARM11_CAP",
+      "style": 148,
+      "name": "Grants a <<enp0>>% chance of activating\nBarrier III when stunned."
+    },
+    {
+      "$id": 677,
+      "label": "ITM_SKL_IN_CT_STAN_DARM16_CAP",
+      "style": 148,
+      "name": "Grants a <<enp0>>% chance of activating\nBarrier IV when stunned."
+    },
+    {
+      "$id": 678,
+      "label": "ITM_SKL_IN_CT_STAN_FAKE01_CAP",
+      "style": 148,
+      "name": "Grants a <<enp0>>% chance of activating\nDecoy I when stunned."
+    },
+    {
+      "$id": 679,
+      "label": "ITM_SKL_IN_CT_STAN_FAKE06_CAP",
+      "style": 148,
+      "name": "Grants a <<enp0>>% chance of activating\nDecoy II when stunned."
+    },
+    {
+      "$id": 680,
+      "label": "ITM_SKL_IN_CT_STAN_FAKE11_CAP",
+      "style": 148,
+      "name": "Grants a <<enp0>>% chance of activating\nDecoy III when stunned."
+    },
+    {
+      "$id": 681,
+      "label": "ITM_SKL_IN_CT_STAN_FAKE16_CAP",
+      "style": 148,
+      "name": "Grants a <<enp0>>% chance of activating\nDecoy IV when stunned."
+    },
+    {
+      "$id": 682,
+      "label": "ITM_SKL_IN_REF_PLUS_PH00_CAP",
+      "style": 148,
+      "name": "Reflects physical attacks as well when\nusing an Art with damage reflection."
+    },
+    {
+      "$id": 683,
+      "label": "ITM_SKL_IN_REF_PLUS_BM00_CAP",
+      "style": 148,
+      "name": "Reflects beam attacks as well when\nusing an Art with damage reflection."
+    },
+    {
+      "$id": 684,
+      "label": "ITM_SKL_IN_REF_PLUS_ET00_CAP",
+      "style": 148,
+      "name": "Reflects ether attacks as well when\nusing an Art with damage reflection."
+    },
+    {
+      "$id": 685,
+      "label": "ITM_SKL_IN_REF_PLUS_FR00_CAP",
+      "style": 148,
+      "name": "Reflects thermal attacks as well when\nusing an Art with damage reflection."
+    },
+    {
+      "$id": 686,
+      "label": "ITM_SKL_IN_REF_PLUS_TH00_CAP",
+      "style": 148,
+      "name": "Reflects electric attacks as well when\nusing an Art with damage reflection."
+    },
+    {
+      "$id": 687,
+      "label": "ITM_SKL_IN_REF_PLUS_GR00_CAP",
+      "style": 148,
+      "name": "Reflects gravity attacks as well when\nusing an Art with damage reflection."
+    },
+    {
+      "$id": 688,
+      "label": "ITM_SKL_IN_REF_DMG_UP01_CAP",
+      "style": 148,
+      "name": "Boosts reflect damage by +<<enp1>>%."
+    },
+    {
+      "$id": 689,
+      "label": "ITM_SKL_IN_REF_ATK_PH01_CAP",
+      "style": 148,
+      "name": "Grants a <<enp0>>% chance of negating\nenemy reflection of physical attacks."
+    },
+    {
+      "$id": 690,
+      "label": "ITM_SKL_IN_REF_ATK_BM01_CAP",
+      "style": 148,
+      "name": "Grants a <<enp0>>% chance of negating\nenemy reflection of beam attacks."
+    },
+    {
+      "$id": 691,
+      "label": "ITM_SKL_IN_REF_ATK_ET01_CAP",
+      "style": 148,
+      "name": "Grants a <<enp0>>% chance of negating\nenemy reflection of ether attacks."
+    },
+    {
+      "$id": 692,
+      "label": "ITM_SKL_IN_REF_ATK_FR01_CAP",
+      "style": 148,
+      "name": "Grants a <<enp0>>% chance of negating\nenemy reflection of thermal attacks."
+    },
+    {
+      "$id": 693,
+      "label": "ITM_SKL_IN_REF_ATK_TH01_CAP",
+      "style": 148,
+      "name": "Grants a <<enp0>>% chance of negating\nenemy reflection of electric attacks."
+    },
+    {
+      "$id": 694,
+      "label": "ITM_SKL_IN_REF_ATK_GR01_CAP",
+      "style": 148,
+      "name": "Grants a <<enp0>>% chance of negating\nenemy reflection of gravity attacks."
+    },
+    {
+      "$id": 695,
+      "label": "ITM_SKL_IN_GEAR_ST_HP01_CAP",
+      "style": 148,
+      "name": "Recovers <<enp1>>% HP\nwhen activating Overdrive."
+    },
+    {
+      "$id": 696,
+      "label": "ITM_SKL_IN_GEAR_ST_TP01_CAP",
+      "style": 148,
+      "name": "Boosts TP by <<enp1>>\nwhen activating Overdrive. "
+    },
+    {
+      "$id": 697,
+      "label": "ITM_SKL_IN_GEAR_ST_CNT01_CAP",
+      "style": 148,
+      "name": "Boosts your Overdrive count by <<enp1>>\nwhen activating Overdrive."
+    },
+    {
+      "$id": 698,
+      "label": "ITM_SKL_IN_GEAR_ST_TIME01_CAP",
+      "style": 148,
+      "name": "Extends Overdrive duration\nby <<enp1>> seconds."
+    },
+    {
+      "$id": 699,
+      "label": "ITM_SKL_IN_GEAR_RULE_FS01_CAP",
+      "style": 148,
+      "name": "Adds <<enp1>> to your Overdrive count\nwhen using a blue Art during Overdrive."
+    },
+    {
+      "$id": 700,
+      "label": "ITM_SKL_IN_GEAR_RULE_SF01_CAP",
+      "style": 148,
+      "name": "Adds <<enp1>> to your Overdrive count\nwhen using a green Art during Overdrive."
+    },
+    {
+      "$id": 701,
+      "label": "ITM_SKL_IN_AURA_TIME01_CAP",
+      "style": 148,
+      "name": "Extends aura effects by <<enp1>> second(s)."
+    },
+    {
+      "$id": 702,
+      "label": "ITM_SKL_IN_AURA_SPEED01_CAP",
+      "style": 148,
+      "name": "Reduces an Art's cooldown by <<enp1>>%\nwhen you have an aura active."
+    },
+    {
+      "$id": 703,
+      "label": "ITM_SKL_IN_AURA_DOLL01_CAP",
+      "style": 148,
+      "name": "Recovers <<enp1>> fuel when using an aura."
+    },
+    {
+      "$id": 704,
+      "label": "ITM_SKL_IN_ARTS_ST_TP01_CAP",
+      "style": 148,
+      "name": "Boosts TP by <<enp1>> when using an Art."
+    },
+    {
+      "$id": 705,
+      "label": "ITM_SKL_IN_ARTS_ST_HP01_CAP",
+      "style": 148,
+      "name": "Recovers <<enp1>> HP when using an Art."
+    },
+    {
+      "$id": 706,
+      "label": "ITM_SKL_IN_ARTS_RECAST01_CAP",
+      "style": 148,
+      "name": "Reduces secondary cooldown by <<enp1>>%."
+    },
+    {
+      "$id": 707,
+      "label": "ITM_SKL_IN_TIME_EX_TAUNT01_CAP",
+      "style": 148,
+      "name": "Extends Taunt effects inflicted by\nyour Arts by <<enp2>> seconds."
+    },
+    {
+      "$id": 708,
+      "label": "ITM_SKL_IN_TIME_EX_CONTROL01_CAP",
+      "style": 148,
+      "name": "Extends Control effects inflicted by\nyour Arts by <<enp2>> second(s)."
+    },
+    {
+      "$id": 709,
+      "label": "ITM_SKL_IN_TIME_EX_VIRUS01_CAP",
+      "style": 148,
+      "name": "Extends Virus effects inflicted by\nyour Arts by <<enp2>> second(s)."
+    },
+    {
+      "$id": 710,
+      "label": "ITM_SKL_IN_TIME_EX_BALCK01_CAP",
+      "style": 148,
+      "name": "Extends Blackout effects inflicted by\nyour Arts by <<enp2>> second(s)."
+    },
+    {
+      "$id": 711,
+      "label": "ITM_SKL_IN_TIME_EX_POWDN01_CAP",
+      "style": 148,
+      "name": "Extends Fatigue effects inflicted by\nyour Arts by <<enp2>> second(s)."
+    },
+    {
+      "$id": 712,
+      "label": "ITM_SKL_IN_TIME_EX_SLOW01_CAP",
+      "style": 148,
+      "name": "Extends Slow Arts effects inflicted by\nyour Arts by <<enp2>> second(s)."
+    },
+    {
+      "$id": 713,
+      "label": "ITM_SKL_IN_TIME_EX_RSTDN01_CAP",
+      "style": 148,
+      "name": "Extends Debuff Res Down effects inflicted\nby your Arts by <<enp2>> second(s)."
+    },
+    {
+      "$id": 714,
+      "label": "ITM_SKL_IN_TIME_EX_HPDN01_CAP",
+      "style": 148,
+      "name": ""
+    },
+    {
+      "$id": 715,
+      "label": "ITM_SKL_IN_TIME_EX_FRDOT01_CAP",
+      "style": 148,
+      "name": "Extends Blaze effects inflicted by your Arts\nby <<enp2>> second(s)."
+    },
+    {
+      "$id": 716,
+      "label": "ITM_SKL_IN_TIME_EX_THDOT01_CAP",
+      "style": 148,
+      "name": "Extends Shock effects inflicted by your Arts\nby <<enp2>> second(s)."
+    },
+    {
+      "$id": 717,
+      "label": "ITM_SKL_IN_TIME_EX_PHDN01_CAP",
+      "style": 148,
+      "name": "Extends Physical Res Down effects inflicted\nby your Arts by <<enp2>> second(s)."
+    },
+    {
+      "$id": 718,
+      "label": "ITM_SKL_IN_TIME_EX_BMDN01_CAP",
+      "style": 148,
+      "name": "Extends Beam Res Down effects inflicted\nby your Arts by <<enp2>> second(s)."
+    },
+    {
+      "$id": 719,
+      "label": "ITM_SKL_IN_TIME_EX_ETDN01_CAP",
+      "style": 148,
+      "name": "Extends Ether Res Down effects inflicted\nby your Arts by <<enp2>> second(s)."
+    },
+    {
+      "$id": 720,
+      "label": "ITM_SKL_IN_TIME_EX_FRDN01_CAP",
+      "style": 148,
+      "name": "Extends Thermal Res Down effects inflicted\nby your Arts by <<enp2>> second(s)."
+    },
+    {
+      "$id": 721,
+      "label": "ITM_SKL_IN_TIME_EX_THDN01_CAP",
+      "style": 148,
+      "name": "Extends Electric Res Down effects inflicted\nby your Arts by <<enp2>> second(s)."
+    },
+    {
+      "$id": 722,
+      "label": "ITM_SKL_IN_TIME_EX_GRDN01_CAP",
+      "style": 148,
+      "name": "Extends Gravity Res Down effects inflicted\nby your Arts by <<enp2>> second(s)."
+    },
+    {
+      "$id": 723,
+      "label": "ITM_SKL_IN_FST_TP01_CAP",
+      "style": 148,
+      "name": ""
+    },
+    {
+      "$id": 724,
+      "label": "ITM_SKL_IN_FST_ARTS01_CAP",
+      "style": 148,
+      "name": "Boosts damage for Opening Arts by <<enp1>>%."
+    },
+    {
+      "$id": 725,
+      "label": "ITM_SKL_IN_FST_ARTS02_CAP",
+      "style": 148,
+      "name": "Boosts damage for Opening Arts by <<enp1>>%."
+    },
+    {
+      "$id": 726,
+      "label": "ITM_SKL_IN_FST_ARTS03_CAP",
+      "style": 148,
+      "name": "Boosts damage for Opening Arts by <<enp1>>%."
+    },
+    {
+      "$id": 727,
+      "label": "ITM_SKL_IN_FST_ARTS04_CAP",
+      "style": 148,
+      "name": "Boosts damage for Opening Arts by <<enp1>>%."
+    },
+    {
+      "$id": 728,
+      "label": "ITM_SKL_IN_FST_ARTS05_CAP",
+      "style": 148,
+      "name": "Boosts damage for Opening Arts by <<enp1>>%."
+    },
+    {
+      "$id": 729,
+      "label": "ITM_SKL_IN_FST_ARTS06_CAP",
+      "style": 148,
+      "name": "Boosts damage for Opening Arts by <<enp1>>%."
+    },
+    {
+      "$id": 730,
+      "label": "ITM_SKL_IN_FST_ARTS07_CAP",
+      "style": 148,
+      "name": "Boosts damage for Opening Arts by <<enp1>>%."
+    },
+    {
+      "$id": 731,
+      "label": "ITM_SKL_IN_FST_ARTS08_CAP",
+      "style": 148,
+      "name": "Boosts damage for Opening Arts by <<enp1>>%."
+    },
+    {
+      "$id": 732,
+      "label": "ITM_SKL_IN_FST_ARTS09_CAP",
+      "style": 148,
+      "name": "Boosts damage for Opening Arts by <<enp1>>%."
+    },
+    {
+      "$id": 733,
+      "label": "ITM_SKL_IN_FST_ARTS10_CAP",
+      "style": 148,
+      "name": "Boosts damage for Opening Arts by <<enp1>>%."
+    },
+    {
+      "$id": 734,
+      "label": "ITM_SKL_IN_FST_ARTS11_CAP",
+      "style": 148,
+      "name": "Boosts damage for Opening Arts by <<enp1>>%."
+    },
+    {
+      "$id": 735,
+      "label": "ITM_SKL_IN_FST_ARTS12_CAP",
+      "style": 148,
+      "name": "Boosts damage for Opening Arts by <<enp1>>%."
+    },
+    {
+      "$id": 736,
+      "label": "ITM_SKL_IN_FST_ARTS13_CAP",
+      "style": 148,
+      "name": "Boosts damage for Opening Arts by <<enp1>>%."
+    },
+    {
+      "$id": 737,
+      "label": "ITM_SKL_IN_FST_ARTS14_CAP",
+      "style": 148,
+      "name": "Boosts damage for Opening Arts by <<enp1>>%."
+    },
+    {
+      "$id": 738,
+      "label": "ITM_SKL_IN_FST_ARTS15_CAP",
+      "style": 148,
+      "name": "Boosts damage for Opening Arts by <<enp1>>%."
+    },
+    {
+      "$id": 739,
+      "label": "ITM_SKL_IN_FST_ARTS16_CAP",
+      "style": 148,
+      "name": "Boosts damage for Opening Arts by <<enp1>>%."
+    },
+    {
+      "$id": 740,
+      "label": "ITM_SKL_IN_FST_ARTS17_CAP",
+      "style": 148,
+      "name": "Boosts damage for Opening Arts by <<enp1>>%."
+    },
+    {
+      "$id": 741,
+      "label": "ITM_SKL_IN_FST_ARTS18_CAP",
+      "style": 148,
+      "name": "Boosts damage for Opening Arts by <<enp1>>%."
+    },
+    {
+      "$id": 742,
+      "label": "ITM_SKL_IN_FST_ARTS19_CAP",
+      "style": 148,
+      "name": "Boosts damage for Opening Arts by <<enp1>>%."
+    },
+    {
+      "$id": 743,
+      "label": "ITM_SKL_IN_FST_ARTS20_CAP",
+      "style": 148,
+      "name": "Boosts damage for Opening Arts by <<enp1>>%."
+    },
+    {
+      "$id": 744,
+      "label": "ITM_SKL_IN_FST_CRTC01_CAP",
+      "style": 148,
+      "name": ""
+    },
+    {
+      "$id": 745,
+      "label": "ITM_SKL_IN_FST_CRTC06_CAP",
+      "style": 148,
+      "name": ""
+    },
+    {
+      "$id": 746,
+      "label": "ITM_SKL_IN_FST_CRTC11_CAP",
+      "style": 148,
+      "name": ""
+    },
+    {
+      "$id": 747,
+      "label": "ITM_SKL_IN_FST_CRTC16_CAP",
+      "style": 148,
+      "name": ""
+    },
+    {
+      "$id": 748,
+      "label": "ITM_SKL_IN_FST_FDEX01_CAP",
+      "style": 148,
+      "name": ""
+    },
+    {
+      "$id": 749,
+      "label": "ITM_SKL_IN_FST_FDEX06_CAP",
+      "style": 148,
+      "name": ""
+    },
+    {
+      "$id": 750,
+      "label": "ITM_SKL_IN_FST_FDEX11_CAP",
+      "style": 148,
+      "name": ""
+    },
+    {
+      "$id": 751,
+      "label": "ITM_SKL_IN_FST_FDEX16_CAP",
+      "style": 148,
+      "name": ""
+    },
+    {
+      "$id": 752,
+      "label": "ITM_SKL_IN_FST_SDEX01_CAP",
+      "style": 148,
+      "name": ""
+    },
+    {
+      "$id": 753,
+      "label": "ITM_SKL_IN_FST_SDEX06_CAP",
+      "style": 148,
+      "name": ""
+    },
+    {
+      "$id": 754,
+      "label": "ITM_SKL_IN_FST_SDEX11_CAP",
+      "style": 148,
+      "name": ""
+    },
+    {
+      "$id": 755,
+      "label": "ITM_SKL_IN_FST_SDEX16_CAP",
+      "style": 148,
+      "name": ""
+    },
+    {
+      "$id": 756,
+      "label": "ITM_SKL_IN_FST_EVA01_CAP",
+      "style": 148,
+      "name": ""
+    },
+    {
+      "$id": 757,
+      "label": "ITM_SKL_IN_FST_EVA06_CAP",
+      "style": 148,
+      "name": ""
+    },
+    {
+      "$id": 758,
+      "label": "ITM_SKL_IN_FST_EVA11_CAP",
+      "style": 148,
+      "name": ""
+    },
+    {
+      "$id": 759,
+      "label": "ITM_SKL_IN_FST_EVA16_CAP",
+      "style": 148,
+      "name": ""
+    },
+    {
+      "$id": 760,
+      "label": "ITM_SKL_IN_FST_FPOW01_CAP",
+      "style": 148,
+      "name": ""
+    },
+    {
+      "$id": 761,
+      "label": "ITM_SKL_IN_FST_FPOW06_CAP",
+      "style": 148,
+      "name": ""
+    },
+    {
+      "$id": 762,
+      "label": "ITM_SKL_IN_FST_FPOW11_CAP",
+      "style": 148,
+      "name": ""
+    },
+    {
+      "$id": 763,
+      "label": "ITM_SKL_IN_FST_FPOW16_CAP",
+      "style": 148,
+      "name": ""
+    },
+    {
+      "$id": 764,
+      "label": "ITM_SKL_IN_FST_SPOW01_CAP",
+      "style": 148,
+      "name": ""
+    },
+    {
+      "$id": 765,
+      "label": "ITM_SKL_IN_FST_SPOW06_CAP",
+      "style": 148,
+      "name": ""
+    },
+    {
+      "$id": 766,
+      "label": "ITM_SKL_IN_FST_SPOW11_CAP",
+      "style": 148,
+      "name": ""
+    },
+    {
+      "$id": 767,
+      "label": "ITM_SKL_IN_FST_SPOW16_CAP",
+      "style": 148,
+      "name": ""
+    },
+    {
+      "$id": 768,
+      "label": "ITM_SKL_IN_FST_MIND01_CAP",
+      "style": 148,
+      "name": ""
+    },
+    {
+      "$id": 769,
+      "label": "ITM_SKL_IN_FST_MIND06_CAP",
+      "style": 148,
+      "name": ""
+    },
+    {
+      "$id": 770,
+      "label": "ITM_SKL_IN_FST_MIND11_CAP",
+      "style": 148,
+      "name": ""
+    },
+    {
+      "$id": 771,
+      "label": "ITM_SKL_IN_FST_MIND16_CAP",
+      "style": 148,
+      "name": ""
+    },
+    {
+      "$id": 772,
+      "label": "ITM_SKL_IN_FST_DARM01_CAP",
+      "style": 148,
+      "name": ""
+    },
+    {
+      "$id": 773,
+      "label": "ITM_SKL_IN_FST_DARM06_CAP",
+      "style": 148,
+      "name": ""
+    },
+    {
+      "$id": 774,
+      "label": "ITM_SKL_IN_FST_DARM11_CAP",
+      "style": 148,
+      "name": ""
+    },
+    {
+      "$id": 775,
+      "label": "ITM_SKL_IN_FST_DARM16_CAP",
+      "style": 148,
+      "name": ""
+    },
+    {
+      "$id": 776,
+      "label": "ITM_SKL_IN_FST_BULLET01_CAP",
+      "style": 148,
+      "name": ""
+    },
+    {
+      "$id": 777,
+      "label": "ITM_SKL_IN_FST_BULLET06_CAP",
+      "style": 148,
+      "name": ""
+    },
+    {
+      "$id": 778,
+      "label": "ITM_SKL_IN_FST_BULLET11_CAP",
+      "style": 148,
+      "name": ""
+    },
+    {
+      "$id": 779,
+      "label": "ITM_SKL_IN_FST_BULLET16_CAP",
+      "style": 148,
+      "name": ""
+    },
+    {
+      "$id": 780,
+      "label": "ITM_SKL_IN_FST_FAKE01_CAP",
+      "style": 148,
+      "name": ""
+    },
+    {
+      "$id": 781,
+      "label": "ITM_SKL_IN_FST_FAKE06_CAP",
+      "style": 148,
+      "name": ""
+    },
+    {
+      "$id": 782,
+      "label": "ITM_SKL_IN_FST_FAKE11_CAP",
+      "style": 148,
+      "name": ""
+    },
+    {
+      "$id": 783,
+      "label": "ITM_SKL_IN_FST_FAKE16_CAP",
+      "style": 148,
+      "name": ""
+    },
+    {
+      "$id": 784,
+      "label": "ITM_SKL_IN_SOUL_RT_FOP01_CAP",
+      "style": 148,
+      "name": "Boosts chances of triggering the\n\"Draw Melee\" Soul Voice by <<enp2>>%."
+    },
+    {
+      "$id": 785,
+      "label": "ITM_SKL_IN_SOUL_RT_SOP01_CAP",
+      "style": 148,
+      "name": "Boosts chances of triggering the\n\"Draw Ranged\" Soul Voice by <<enp2>>%."
+    },
+    {
+      "$id": 786,
+      "label": "ITM_SKL_IN_SOUL_RT_ARTSOP01_CAP",
+      "style": 148,
+      "name": "Boosts chances of triggering the\n\"Opening Art\" Soul Voice by <<enp2>>%."
+    },
+    {
+      "$id": 787,
+      "label": "ITM_SKL_IN_SOUL_RT_PINCH01_CAP",
+      "style": 148,
+      "name": "Boosts chances of triggering the\n\"HP Risk\" Soul Voice by <<enp2>>%."
+    },
+    {
+      "$id": 788,
+      "label": "ITM_SKL_IN_SOUL_RT_BPINCH01_CAP",
+      "style": 148,
+      "name": "Boosts chances of triggering the\n\"HP Peril\" Soul Voice by <<enp2>>%."
+    },
+    {
+      "$id": 789,
+      "label": "ITM_SKL_IN_SOUL_RT_DEATH01_CAP",
+      "style": 148,
+      "name": "Boosts chances of triggering the\n\"Last Words\" Soul Voice by <<enp2>>%."
+    },
+    {
+      "$id": 790,
+      "label": "ITM_SKL_IN_SOUL_RT_CRTC01_CAP",
+      "style": 148,
+      "name": "Boosts chances of triggering the\n\"Heavy Hitter\" Soul Voice by <<enp2>>%."
+    },
+    {
+      "$id": 791,
+      "label": "ITM_SKL_IN_SOUL_RT_PARTS01_CAP",
+      "style": 148,
+      "name": "Boosts chances of triggering the\n\"Dismemberer\" Soul Voice by <<enp2>>%."
+    },
+    {
+      "$id": 792,
+      "label": "ITM_SKL_IN_SOUL_RT_BIG01_CAP",
+      "style": 148,
+      "name": "Boosts chances of triggering the\n\"Underdog\" Soul Voice by <<enp2>>%."
+    },
+    {
+      "$id": 793,
+      "label": "ITM_SKL_IN_SOUL_RT_SPEX01_CAP",
+      "style": 148,
+      "name": "Boosts chances of triggering the\n\"Artful Execution\" Soul Voice by <<enp2>>%."
+    },
+    {
+      "$id": 794,
+      "label": "ITM_SKL_IN_SOUL_RT_AURA01_CAP",
+      "style": 148,
+      "name": "Boosts chances of triggering the\n\"Aura Ready\" Soul Voice by <<enp2>>%."
+    },
+    {
+      "$id": 795,
+      "label": "ITM_SKL_IN_SOUL_RT_GEAR01_CAP",
+      "style": 148,
+      "name": "Boosts chances of triggering the\n\"Activate Overdrive\" Soul Voice by <<enp2>>%."
+    },
+    {
+      "$id": 796,
+      "label": "ITM_SKL_IN_RAIZE_HP01_CAP",
+      "style": 148,
+      "name": "Boosts HP recovery by <<enp1>>%\nwhen revived."
+    },
+    {
+      "$id": 797,
+      "label": "ITM_SKL_IN_EXP_UP01_CAP",
+      "style": 148,
+      "name": "Boosts experience received by <<enp1>>%."
+    },
+    {
+      "$id": 798,
+      "label": "ITM_SKL_IN_STEALTH_EYE01_CAP",
+      "style": 148,
+      "name": "Reduces detection by shrinking enemy\nfield of view by <<enp1>>%."
+    },
+    {
+      "$id": 799,
+      "label": "ITM_SKL_IN_STEALTH_ROUND01_CAP",
+      "style": 148,
+      "name": "Reduces detection by shrinking enemy\nauditory range by <<enp1>>%."
+    },
+    {
+      "$id": 800,
+      "label": "ITM_SKL_IN_PARTS_CDN00_CAP",
+      "style": 148,
+      "name": "Softens enemy appendages by one tier."
+    },
+    {
+      "$id": 801,
+      "label": "ITM_SKL_IN_PARTS_TP01_CAP",
+      "style": 148,
+      "name": "Boosts TP by <<enp1>> when\ndestroying an enemy appendage."
+    },
+    {
+      "$id": 802,
+      "label": "ITM_SKL_IN_PARTS_DMG01_CAP",
+      "style": 148,
+      "name": "Boosts ranged appendage damage by\n<<enp1>>%."
+    },
+    {
+      "$id": 803,
+      "label": "ITM_SKL_IN_DMG_LAND01_CAP",
+      "style": 148,
+      "name": "Reduces terrain damage by <<enp1>>%."
+    },
+    {
+      "$id": 804,
+      "label": "ITM_SKL_IN_EVA_SPIKE01_CAP",
+      "style": 148,
+      "name": "Grants a <<enp1>>% chance of evading\nspike damage."
+    },
+    {
+      "$id": 805,
+      "label": "ITM_SKL_IN_TIGER_SKIN01_CAP",
+      "style": 148,
+      "name": "Reduces enemy debuff resistance by <<enp2>>%\nwhen landing an attack."
+    },
+    {
+      "$id": 806,
+      "label": "ITM_SKL_IN_TRESURE_SENSER01_CAP",
+      "style": 148,
+      "name": "Boosts item drop rate by <<enp1>>%."
+    },
+    {
+      "$id": 807,
+      "label": "ITM_SKL_IN_BEST_DUSH01_CAP",
+      "style": 148,
+      "name": "Boosts evasion by <<enp1>>% when sprinting."
+    },
+    {
+      "$id": 808,
+      "label": "ITM_SKL_IN_HERO_RIDE01_CAP",
+      "style": 148,
+      "name": ""
+    },
+    {
+      "$id": 809,
+      "label": "ITM_SKL_IN_DEX_NIGHT01_CAP",
+      "style": 148,
+      "name": "Boosts melee and ranged accuracy by\n<<enp1>>% during the nighttime."
+    },
+    {
+      "$id": 810,
+      "label": "ITM_SKL_IN_RANGE_CON01_CAP",
+      "style": 148,
+      "name": "Boosts evasion by <<enp1>>% when within\nenemy melee range."
+    },
+    {
+      "$id": 811,
+      "label": "ITM_SKL_IN_WEATHER_FOG00_CAP",
+      "style": 148,
+      "name": "Grants immunity to the effects of fog."
+    },
+    {
+      "$id": 812,
+      "label": "ITM_SKL_IN_WEATHER_RAIN00_CAP",
+      "style": 148,
+      "name": "Grants immunity to the effects of rain."
+    },
+    {
+      "$id": 813,
+      "label": "ITM_SKL_IN_WEATHER_THUNDER00_CAP",
+      "style": 148,
+      "name": ""
+    },
+    {
+      "$id": 814,
+      "label": "ITM_SKL_IN_WEATHER_HRAIN00_CAP",
+      "style": 148,
+      "name": "Grants immunity to the effects of\nheavy rain."
+    },
+    {
+      "$id": 815,
+      "label": "ITM_SKL_IN_WEATHER_HEATWAVE00_CAP",
+      "style": 148,
+      "name": "Grants immunity to the effects of\nheat waves."
+    },
+    {
+      "$id": 816,
+      "label": "ITM_SKL_IN_WEATHER_SAND00_CAP",
+      "style": 148,
+      "name": "Grants immunity to the effects of\nsandstorms."
+    },
+    {
+      "$id": 817,
+      "label": "ITM_SKL_IN_WEATHER_TRAIN00_CAP",
+      "style": 148,
+      "name": "Grants immunity to the effects of\nthunderstorms."
+    },
+    {
+      "$id": 818,
+      "label": "ITM_SKL_IN_WEATHER_ERECT00_CAP",
+      "style": 148,
+      "name": "Grants immunity to the effects of\nelectromagnetic storms."
+    },
+    {
+      "$id": 819,
+      "label": "ITM_SKL_IN_WEATHER_PAR_A00_CAP",
+      "style": 148,
+      "name": "Grants immunity to the effects of\nenergy mist."
+    },
+    {
+      "$id": 820,
+      "label": "ITM_SKL_IN_WEATHER_PAR_B00_CAP",
+      "style": 148,
+      "name": "Grants immunity to the effects of\nrising energy mist."
+    },
+    {
+      "$id": 821,
+      "label": "ITM_SKL_IN_WEATHER_FIRERAIN00_CAP",
+      "style": 148,
+      "name": "Grants immunity to the effects of\nbrimstone rain."
+    },
+    {
+      "$id": 822,
+      "label": "ITM_SKL_IN_WEATHER_OURA00_CAP",
+      "style": 148,
+      "name": ""
+    },
+    {
+      "$id": 823,
+      "label": "ITM_SKL_IN_WEATHER_REDOURA00_CAP",
+      "style": 148,
+      "name": "Grants immunity to the effects of\ncrimson auroras."
+    },
+    {
+      "$id": 824,
+      "label": "ITM_SKL_IN_WEATHER_HOUSI00_CAP",
+      "style": 148,
+      "name": "Grants immunity to the effects of\nspore clouds."
+    },
+    {
+      "$id": 825,
+      "label": "ITM_SKL_IN_WEATHER_METOR00_CAP",
+      "style": 148,
+      "name": "Grants immunity to the effects of\nmeteor showers."
+    },
+    {
+      "$id": 826,
+      "label": "ITM_SKL_IN_WEATHER_DMG01_CAP",
+      "style": 148,
+      "name": "Reduces weather damage by <<enp1>>%."
+    },
+    {
+      "$id": 827,
+      "label": "ITM_SKL_DL_HPMAX01_P_CAP",
+      "style": 148,
+      "name": "Boosts maximum Skell HP by <<enp2>>."
+    },
+    {
+      "$id": 828,
+      "label": "ITM_SKL_DL_TPMAX01_P_CAP",
+      "style": 148,
+      "name": "Boosts maximum Skell GP by <<enp2>>."
+    },
+    {
+      "$id": 829,
+      "label": "ITM_SKL_DL_F_DEX01_P_CAP",
+      "style": 148,
+      "name": "Boosts Skell melee accuracy by <<enp2>>."
+    },
+    {
+      "$id": 830,
+      "label": "ITM_SKL_DL_S_DEX01_P_CAP",
+      "style": 148,
+      "name": "Boosts Skell ranged accuracy by <<enp2>>."
+    },
+    {
+      "$id": 831,
+      "label": "ITM_SKL_DL_EVA01_P_CAP",
+      "style": 148,
+      "name": "Boosts Skell evasion by <<enp2>>."
+    },
+    {
+      "$id": 832,
+      "label": "ITM_SKL_DL_F_POW01_P_CAP",
+      "style": 148,
+      "name": "Boosts Skell melee attack by <<enp2>>."
+    },
+    {
+      "$id": 833,
+      "label": "ITM_SKL_DL_S_POW01_P_CAP",
+      "style": 148,
+      "name": "Boosts Skell ranged attack by <<enp2>>."
+    },
+    {
+      "$id": 834,
+      "label": "ITM_SKL_DL_M_POW01_P_CAP",
+      "style": 148,
+      "name": "Boosts Skell potential by <<enp2>>."
+    },
+    {
+      "$id": 835,
+      "label": "ITM_SKL_DL_PARTSHP01_P_CAP",
+      "style": 148,
+      "name": "Boosts maximum HP for the appendage\nthis is equipped to by <<enp2>>."
+    },
+    {
+      "$id": 836,
+      "label": "ITM_SKL_DL_HPMAX01_R_CAP",
+      "style": 148,
+      "name": "Boosts maximum Skell HP by <<enp2>>%."
+    },
+    {
+      "$id": 837,
+      "label": "ITM_SKL_DL_TPMAX01_R_CAP",
+      "style": 148,
+      "name": "Boosts maximum Skell GP by <<enp2>>%."
+    },
+    {
+      "$id": 838,
+      "label": "ITM_SKL_DL_F_DEX01_R_CAP",
+      "style": 148,
+      "name": "Boosts Skell melee accuracy by <<enp2>>%."
+    },
+    {
+      "$id": 839,
+      "label": "ITM_SKL_DL_S_DEX01_R_CAP",
+      "style": 148,
+      "name": "Boosts Skell ranged accuracy by <<enp2>>%."
+    },
+    {
+      "$id": 840,
+      "label": "ITM_SKL_DL_EVA01_R_CAP",
+      "style": 148,
+      "name": "Boosts Skell evasion by <<enp2>>%."
+    },
+    {
+      "$id": 841,
+      "label": "ITM_SKL_DL_F_ROW01_R_CAP",
+      "style": 148,
+      "name": "Boosts Skell melee attack by <<enp2>>%."
+    },
+    {
+      "$id": 842,
+      "label": "ITM_SKL_DL_S_ROW01_R_CAP",
+      "style": 148,
+      "name": "Boosts Skell ranged attack by <<enp2>>%."
+    },
+    {
+      "$id": 843,
+      "label": "ITM_SKL_DL_M_ROW01_R_CAP",
+      "style": 148,
+      "name": "Boosts Skell potential by <<enp2>>%."
+    },
+    {
+      "$id": 844,
+      "label": "ITM_SKL_DL_G_LEVUP01_CAP",
+      "style": 148,
+      "name": "Boosts Skell generator output by <<enp2>>."
+    },
+    {
+      "$id": 845,
+      "label": "ITM_SKL_DL_G_LEVUP02_CAP",
+      "style": 148,
+      "name": "Boosts Skell generator output by <<enp2>>."
+    },
+    {
+      "$id": 846,
+      "label": "ITM_SKL_DL_G_LEVUP03_CAP",
+      "style": 148,
+      "name": "Boosts Skell generator output by <<enp2>>."
+    },
+    {
+      "$id": 847,
+      "label": "ITM_SKL_DL_ANTI_PH01_P_CAP",
+      "style": 148,
+      "name": "Boosts Skell physical resistance by <<enp2>>."
+    },
+    {
+      "$id": 848,
+      "label": "ITM_SKL_DL_ANTI_BM01_P_CAP",
+      "style": 148,
+      "name": "Boosts Skell beam resistance by <<enp2>>."
+    },
+    {
+      "$id": 849,
+      "label": "ITM_SKL_DL_ANTI_TH01_P_CAP",
+      "style": 148,
+      "name": "Boosts Skell electric resistance by <<enp2>>."
+    },
+    {
+      "$id": 850,
+      "label": "ITM_SKL_DL_ANTI_FR01_P_CAP",
+      "style": 148,
+      "name": "Boosts Skell thermal resistance by <<enp2>>."
+    },
+    {
+      "$id": 851,
+      "label": "ITM_SKL_DL_ANTI_ET01_P_CAP",
+      "style": 148,
+      "name": "Boosts Skell ether resistance by <<enp2>>."
+    },
+    {
+      "$id": 852,
+      "label": "ITM_SKL_DL_ANTI_GR01_P_CAP",
+      "style": 148,
+      "name": "Boosts Skell gravity resistance by <<enp2>>."
+    },
+    {
+      "$id": 853,
+      "label": "ITM_SKL_DL_FUELMAX_UP01_CAP",
+      "style": 148,
+      "name": "Boosts Skell fuel capacity by <<enp1>>."
+    },
+    {
+      "$id": 854,
+      "label": "ITM_SKL_DL_MILEAGE_UP01_CAP",
+      "style": 148,
+      "name": "Boosts fuel efficiency by <<enp1>>%\nwhen fighting in a Skell."
+    },
+    {
+      "$id": 855,
+      "label": "ITM_SKL_DL_FUEL_STAND_UP01_CAP",
+      "style": 148,
+      "name": "Boosts fuel recovery by <<enp1>> unit(s)\nper 10 seconds when your Skell is parked."
+    },
+    {
+      "$id": 856,
+      "label": "ITM_SKL_DL_FUEL_CATCH_UP01_CAP",
+      "style": 148,
+      "name": "Boosts fuel recovery by <<enp1>> unit(s)\nper second when your Skell is binding\nan enemy."
+    },
+    {
+      "$id": 857,
+      "label": "ITM_SKL_DL_FUEL_GEAR_UP01_CAP",
+      "style": 148,
+      "name": "Recovers <<enp1>> fuel when\nactivating Overdrive."
+    },
+    {
+      "$id": 858,
+      "label": "ITM_SKL_DL_FUEL_GEAR_UP02_CAP",
+      "style": 148,
+      "name": "Recovers <<enp1>> fuel when\nactivating Overdrive."
+    },
+    {
+      "$id": 859,
+      "label": "ITM_SKL_DL_FUEL_GEAR_UP03_CAP",
+      "style": 148,
+      "name": "Recovers <<enp1>> fuel when\nactivating Overdrive."
+    },
+    {
+      "$id": 860,
+      "label": "ITM_SKL_DL_FUEL_GEAR_UP04_CAP",
+      "style": 148,
+      "name": "Recovers <<enp1>> fuel when\nactivating Overdrive."
+    },
+    {
+      "$id": 861,
+      "label": "ITM_SKL_DL_FUEL_GEAR_UP05_CAP",
+      "style": 148,
+      "name": "Recovers <<enp1>> fuel when\nactivating Overdrive."
+    },
+    {
+      "$id": 862,
+      "label": "ITM_SKL_DL_FUEL_GEAR_UP06_CAP",
+      "style": 148,
+      "name": "Recovers <<enp1>> fuel when\nactivating Overdrive."
+    },
+    {
+      "$id": 863,
+      "label": "ITM_SKL_DL_FUEL_GEAR_UP07_CAP",
+      "style": 148,
+      "name": "Recovers <<enp1>> fuel when\nactivating Overdrive."
+    },
+    {
+      "$id": 864,
+      "label": "ITM_SKL_DL_FUEL_GEAR_UP08_CAP",
+      "style": 148,
+      "name": "Recovers <<enp1>> fuel when\nactivating Overdrive."
+    },
+    {
+      "$id": 865,
+      "label": "ITM_SKL_DL_FUEL_GEAR_UP09_CAP",
+      "style": 148,
+      "name": "Recovers <<enp1>> fuel when\nactivating Overdrive."
+    },
+    {
+      "$id": 866,
+      "label": "ITM_SKL_DL_FUEL_GEAR_UP10_CAP",
+      "style": 148,
+      "name": "Recovers <<enp1>> fuel when\nactivating Overdrive."
+    },
+    {
+      "$id": 867,
+      "label": "ITM_SKL_DL_FUEL_GEAR_UP11_CAP",
+      "style": 148,
+      "name": "Recovers <<enp1>> fuel when\nactivating Overdrive."
+    },
+    {
+      "$id": 868,
+      "label": "ITM_SKL_DL_FUEL_GEAR_UP12_CAP",
+      "style": 148,
+      "name": "Recovers <<enp1>> fuel when\nactivating Overdrive."
+    },
+    {
+      "$id": 869,
+      "label": "ITM_SKL_DL_FUEL_GEAR_UP13_CAP",
+      "style": 148,
+      "name": "Recovers <<enp1>> fuel when\nactivating Overdrive."
+    },
+    {
+      "$id": 870,
+      "label": "ITM_SKL_DL_FUEL_GEAR_UP14_CAP",
+      "style": 148,
+      "name": "Recovers <<enp1>> fuel when\nactivating Overdrive."
+    },
+    {
+      "$id": 871,
+      "label": "ITM_SKL_DL_FUEL_GEAR_UP15_CAP",
+      "style": 148,
+      "name": "Recovers <<enp1>> fuel when\nactivating Overdrive."
+    },
+    {
+      "$id": 872,
+      "label": "ITM_SKL_DL_FUEL_GEAR_UP16_CAP",
+      "style": 148,
+      "name": "Recovers <<enp1>> fuel when\nactivating Overdrive."
+    },
+    {
+      "$id": 873,
+      "label": "ITM_SKL_DL_FUEL_GEAR_UP17_CAP",
+      "style": 148,
+      "name": "Recovers <<enp1>> fuel when\nactivating Overdrive."
+    },
+    {
+      "$id": 874,
+      "label": "ITM_SKL_DL_FUEL_GEAR_UP18_CAP",
+      "style": 148,
+      "name": "Recovers <<enp1>> fuel when\nactivating Overdrive."
+    },
+    {
+      "$id": 875,
+      "label": "ITM_SKL_DL_FUEL_GEAR_UP19_CAP",
+      "style": 148,
+      "name": "Recovers <<enp1>> fuel when\nactivating Overdrive."
+    },
+    {
+      "$id": 876,
+      "label": "ITM_SKL_DL_FUEL_GEAR_UP20_CAP",
+      "style": 148,
+      "name": "Recovers <<enp1>> fuel when\nactivating Overdrive."
+    },
+    {
+      "$id": 877,
+      "label": "ITM_SKL_DL_CTM_POW01_CAP",
+      "style": 148,
+      "name": "Boosts Skell weapon attack by <<enp1>>%."
+    },
+    {
+      "$id": 878,
+      "label": "ITM_SKL_DL_CTM_BAL01_CAP",
+      "style": 148,
+      "name": "Boosts Skell weapon stability by <<enp1>>%."
+    },
+    {
+      "$id": 879,
+      "label": "ITM_SKL_DL_CTM_BRK01_CAP",
+      "style": 148,
+      "name": "Reduces Skell weapon stability by <<enp1>>%."
+    },
+    {
+      "$id": 880,
+      "label": "ITM_SKL_DL_CTM_MAG_R01_CAP",
+      "style": 148,
+      "name": "Increases magazine capacity for Skell\nrifle-type armaments by <<enp1>>."
+    },
+    {
+      "$id": 881,
+      "label": "ITM_SKL_DL_CTM_MAG_M01_CAP",
+      "style": 148,
+      "name": "Increases magazine capacity for Skell\nmissile-type armaments by <<enp1>>."
+    },
+    {
+      "$id": 882,
+      "label": "ITM_SKL_DL_CTM_F_TP00_CAP",
+      "style": 148,
+      "name": "Boosts GP gain for Skell melee weapons\nby <<enp1>>."
+    },
+    {
+      "$id": 883,
+      "label": "ITM_SKL_DL_CTM_S_TP00_CAP",
+      "style": 148,
+      "name": "Boosts GP gain for Skell ranged weapons\nby <<enp1>>."
+    },
+    {
+      "$id": 884,
+      "label": "ITM_SKL_DL_CTM_SPD01_CAP",
+      "style": 148,
+      "name": "Reduces Skell weapon cooldown by <<enp1>>%."
+    },
+    {
+      "$id": 885,
+      "label": "ITM_SKL_DL_CTM_RNG01_CAP",
+      "style": 148,
+      "name": "Boosts Skell ranged weapon range\nby <<enp1>>m."
+    },
+    {
+      "$id": 886,
+      "label": "ITM_SKL_DL_CTM_MILEAGE01_CAP",
+      "style": 148,
+      "name": "Reduces Skell Art fuel consumption\nby <<enp1>>%."
+    },
+    {
+      "$id": 887,
+      "label": "ITM_SKL_DL_REG_BREAK01_CAP",
+      "style": 148,
+      "name": "Boosts Skell resistance to Stagger by <<enp2>>."
+    },
+    {
+      "$id": 888,
+      "label": "ITM_SKL_DL_REG_FLINCH01_CAP",
+      "style": 148,
+      "name": "Boosts Skell resistance to Flinch by <<enp2>>."
+    },
+    {
+      "$id": 889,
+      "label": "ITM_SKL_DL_REG_DOWN01_CAP",
+      "style": 148,
+      "name": "Boosts Skell resistance to Topple by <<enp2>>."
+    },
+    {
+      "$id": 890,
+      "label": "ITM_SKL_DL_REG_KNOCK01_CAP",
+      "style": 148,
+      "name": "Boosts Skell resistance to Knockback\nby <<enp2>>."
+    },
+    {
+      "$id": 891,
+      "label": "ITM_SKL_DL_REG_BLOW01_CAP",
+      "style": 148,
+      "name": "Boosts Skell resistance to Launch by <<enp2>>."
+    },
+    {
+      "$id": 892,
+      "label": "ITM_SKL_DL_REG_STAN01_CAP",
+      "style": 148,
+      "name": "Boosts Skell resistance to Stun by <<enp2>>."
+    },
+    {
+      "$id": 893,
+      "label": "ITM_SKL_DL_REG_SLEEP01_CAP",
+      "style": 148,
+      "name": "Boosts Skell resistance to Sleep by <<enp2>>."
+    },
+    {
+      "$id": 894,
+      "label": "ITM_SKL_DL_REG_TAUNT01_CAP",
+      "style": 148,
+      "name": "Boosts Skell resistance to Taunt by <<enp2>>."
+    },
+    {
+      "$id": 895,
+      "label": "ITM_SKL_DL_REG_CTR01_CAP",
+      "style": 148,
+      "name": "Boosts Skell resistance to Control by <<enp2>>."
+    },
+    {
+      "$id": 896,
+      "label": "ITM_SKL_DL_REG_VIRSUS01_CAP",
+      "style": 148,
+      "name": "Boosts Skell resistance to Virus by <<enp2>>."
+    },
+    {
+      "$id": 897,
+      "label": "ITM_SKL_DL_REG_BLACK01_CAP",
+      "style": 148,
+      "name": "Boosts Skell resistance to Blackout by <<enp2>>."
+    },
+    {
+      "$id": 898,
+      "label": "ITM_SKL_DL_REG_POWDN01_CAP",
+      "style": 148,
+      "name": "Boosts Skell resistance to Fatigue by <<enp2>>."
+    },
+    {
+      "$id": 899,
+      "label": "ITM_SKL_DL_REG_ASLOW01_CAP",
+      "style": 148,
+      "name": "Boosts Skell resistance to Slow Arts\nby <<enp2>>."
+    },
+    {
+      "$id": 900,
+      "label": "ITM_SKL_DL_REG_PH_DN01_CAP",
+      "style": 148,
+      "name": "Boosts Skell resistance to\nPhysical Res Down by <<enp2>>."
+    },
+    {
+      "$id": 901,
+      "label": "ITM_SKL_DL_REG_BM_DN01_CAP",
+      "style": 148,
+      "name": "Boosts Skell resistance to\nBeam Res Down by <<enp2>>."
+    },
+    {
+      "$id": 902,
+      "label": "ITM_SKL_DL_REG_FR_DN01_CAP",
+      "style": 148,
+      "name": "Boosts Skell resistance to\nThermal Res Down by <<enp2>>."
+    },
+    {
+      "$id": 903,
+      "label": "ITM_SKL_DL_REG_TH_DN01_CAP",
+      "style": 148,
+      "name": "Boosts Skell resistance to\nElectric Res Down by <<enp2>>."
+    },
+    {
+      "$id": 904,
+      "label": "ITM_SKL_DL_REG_ET_DN01_CAP",
+      "style": 148,
+      "name": "Boosts Skell resistance to\nEther Res Down by <<enp2>>."
+    },
+    {
+      "$id": 905,
+      "label": "ITM_SKL_DL_REG_GR_DN01_CAP",
+      "style": 148,
+      "name": "Boosts Skell resistance to\nGravity Res Down by <<enp2>>."
+    },
+    {
+      "$id": 906,
+      "label": "ITM_SKL_DL_REG_CTBOM01_CAP",
+      "style": 148,
+      "name": "Boosts Skell resistance to Time Bomb\nby <<enp2>>."
+    },
+    {
+      "$id": 907,
+      "label": "ITM_SKL_DL_REG_DEBDN01_CAP",
+      "style": 148,
+      "name": "Boosts Skell resistance to\nDebuff Res Down by <<enp2>>."
+    },
+    {
+      "$id": 908,
+      "label": "ITM_SKL_DL_REG_HP_HEALDN01_CAP",
+      "style": 148,
+      "name": "Boosts Skell resistance to\nHP Recovery Down by <<enp2>>."
+    },
+    {
+      "$id": 909,
+      "label": "ITM_SKL_DL_REG_FR_DOT01_CAP",
+      "style": 148,
+      "name": "Boosts Skell resistance to Blaze by <<enp2>>."
+    },
+    {
+      "$id": 910,
+      "label": "ITM_SKL_DL_REG_TH_DOT01_CAP",
+      "style": 148,
+      "name": "Boosts Skell resistance to Shock by <<enp2>>."
+    },
+    {
+      "$id": 911,
+      "label": "ITM_SKL_DL_REG_ALL01_CAP",
+      "style": 148,
+      "name": "Reduces the duration of debuffs your Skell\nincurs by <<enp1>>%."
+    },
+    {
+      "$id": 912,
+      "label": "ITM_SKL_DL_CRTC_R_ALL01_CAP",
+      "style": 148,
+      "name": "Boosts Skell critical chance by <<enp1>>."
+    },
+    {
+      "$id": 913,
+      "label": "ITM_SKL_DL_CRTC_R_BEAST01_CAP",
+      "style": 148,
+      "name": "Boosts Skell critical chance against\ntheroid enemies by <<enp1>>."
+    },
+    {
+      "$id": 914,
+      "label": "ITM_SKL_DL_CRTC_R_INSECT01_CAP",
+      "style": 148,
+      "name": "Boosts Skell critical chance against\ninsectoid enemies by <<enp1>>."
+    },
+    {
+      "$id": 915,
+      "label": "ITM_SKL_DL_CRTC_R_MEGAFLY01_CAP",
+      "style": 148,
+      "name": "Boosts Skell critical chance against\npiscinoid enemies by <<enp1>>."
+    },
+    {
+      "$id": 916,
+      "label": "ITM_SKL_DL_CRTC_R_ALIEN01_CAP",
+      "style": 148,
+      "name": "Boosts Skell critical chance against\nhumanoid enemies by <<enp1>>."
+    },
+    {
+      "$id": 917,
+      "label": "ITM_SKL_DL_CRTC_R_MACHINE01_CAP",
+      "style": 148,
+      "name": "Boosts Skell critical chance against\nmechanoid enemies by <<enp1>>."
+    },
+    {
+      "$id": 918,
+      "label": "ITM_SKL_DL_CRTC_R_KIMERA01_CAP",
+      "style": 148,
+      "name": "Boosts Skell critical chance against\nchimeroid enemies by <<enp1>>."
+    },
+    {
+      "$id": 919,
+      "label": "ITM_SKL_DL_CRTC_R_TERESIA01_CAP",
+      "style": 148,
+      "name": "Boosts Skell critical chance against\nultrafauna enemies by <<enp1>>."
+    },
+    {
+      "$id": 920,
+      "label": "ITM_SKL_DL_CRTC_P_STAGE01_CAP",
+      "style": 148,
+      "name": "Extends Skell Critical Power effects\nby <<enp2>> second(s)."
+    },
+    {
+      "$id": 921,
+      "label": "ITM_SKL_DL_KILL_BEAST01_CAP",
+      "style": 148,
+      "name": "Boosts Skell damage to theroid enemies\nby +<<enp1>>%."
+    },
+    {
+      "$id": 922,
+      "label": "ITM_SKL_DL_KILL_INSECT01_CAP",
+      "style": 148,
+      "name": "Boosts Skell damage to insectoid enemies\nby +<<enp1>>%."
+    },
+    {
+      "$id": 923,
+      "label": "ITM_SKL_DL_KILL_MEGAFLY01_CAP",
+      "style": 148,
+      "name": "Boosts Skell damage to piscinoid enemies\nby +<<enp1>>%."
+    },
+    {
+      "$id": 924,
+      "label": "ITM_SKL_DL_KILL_ALIEN01_CAP",
+      "style": 148,
+      "name": "Boosts Skell damage to humanoid enemies\nby +<<enp1>>%."
+    },
+    {
+      "$id": 925,
+      "label": "ITM_SKL_DL_KILL_MACHINE01_CAP",
+      "style": 148,
+      "name": "Boosts Skell damage to mechanoid\nenemies by +<<enp1>>%."
+    },
+    {
+      "$id": 926,
+      "label": "ITM_SKL_DL_KILL_KIMERA01_CAP",
+      "style": 148,
+      "name": "Boosts Skell damage to chimeroid enemies\nby +<<enp1>>%."
+    },
+    {
+      "$id": 927,
+      "label": "ITM_SKL_DL_KILL_TERESIA01_CAP",
+      "style": 148,
+      "name": "Boosts Skell damage to ultrafauna enemies\nby +<<enp1>>%."
+    },
+    {
+      "$id": 928,
+      "label": "ITM_SKL_DL_ATK_PH01_CAP",
+      "style": 148,
+      "name": "Boosts Skell physical damage by +<<enp1>>%."
+    },
+    {
+      "$id": 929,
+      "label": "ITM_SKL_DL_ATK_BM01_CAP",
+      "style": 148,
+      "name": "Boosts Skell beam damage by +<<enp1>>%."
+    },
+    {
+      "$id": 930,
+      "label": "ITM_SKL_DL_ATK_ET01_CAP",
+      "style": 148,
+      "name": "Boosts Skell ether damage by +<<enp1>>%."
+    },
+    {
+      "$id": 931,
+      "label": "ITM_SKL_DL_ATK_FR01_CAP",
+      "style": 148,
+      "name": "Boosts Skell thermal damage by +<<enp1>>%."
+    },
+    {
+      "$id": 932,
+      "label": "ITM_SKL_DL_ATK_TH01_CAP",
+      "style": 148,
+      "name": "Boosts Skell electric damage by +<<enp1>>%."
+    },
+    {
+      "$id": 933,
+      "label": "ITM_SKL_DL_ATK_GR01_CAP",
+      "style": 148,
+      "name": "Boosts Skell gravity damage by +<<enp1>>%."
+    },
+    {
+      "$id": 934,
+      "label": "ITM_SKL_DL_ATK_FRONT01_CAP",
+      "style": 148,
+      "name": "Boosts Skell damage by +<<enp1>>%\nwhen attacking from the front."
+    },
+    {
+      "$id": 935,
+      "label": "ITM_SKL_DL_ATK_SIDE01_CAP",
+      "style": 148,
+      "name": "Boosts Skell damage by +<<enp1>>%\nwhen attacking from the side."
+    },
+    {
+      "$id": 936,
+      "label": "ITM_SKL_DL_ATK_BACK01_CAP",
+      "style": 148,
+      "name": "Boosts Skell damage by +<<enp1>>%\nwhen attacking from behind."
+    },
+    {
+      "$id": 937,
+      "label": "ITM_SKL_DL_ATK_HIGH01_CAP",
+      "style": 148,
+      "name": "Boosts Skell damage by +<<enp1>>%\nwhen attacking from above."
+    },
+    {
+      "$id": 938,
+      "label": "ITM_SKL_DL_F_AT_BLACK01_CAP",
+      "style": 148,
+      "name": "Grants a <<enp0>>% chance of inflicting\nBlackout I when melee auto-attacking\nwith your Skell."
+    },
+    {
+      "$id": 939,
+      "label": "ITM_SKL_DL_F_AT_BLACK06_CAP",
+      "style": 148,
+      "name": "Grants a <<enp0>>% chance of inflicting\nBlackout II when melee auto-attacking\nwith your Skell."
+    },
+    {
+      "$id": 940,
+      "label": "ITM_SKL_DL_F_AT_BLACK11_CAP",
+      "style": 148,
+      "name": "Grants a <<enp0>>% chance of inflicting\nBlackout III when melee auto-attacking\nwith your Skell."
+    },
+    {
+      "$id": 941,
+      "label": "ITM_SKL_DL_F_AT_BLACK16_CAP",
+      "style": 148,
+      "name": "Grants a <<enp0>>% chance of inflicting\nBlackout IV when melee auto-attacking\nwith your Skell."
+    },
+    {
+      "$id": 942,
+      "label": "ITM_SKL_DL_F_AT_POWDN01_CAP",
+      "style": 148,
+      "name": "Grants a <<enp0>>% chance of inflicting\nFatigue I when melee auto-attacking\nwith your Skell."
+    },
+    {
+      "$id": 943,
+      "label": "ITM_SKL_DL_F_AT_POWDN06_CAP",
+      "style": 148,
+      "name": "Grants a <<enp0>>% chance of inflicting\nFatigue II when melee auto-attacking\nwith your Skell."
+    },
+    {
+      "$id": 944,
+      "label": "ITM_SKL_DL_F_AT_POWDN11_CAP",
+      "style": 148,
+      "name": "Grants a <<enp0>>% chance of inflicting\nFatigue III when melee auto-attacking\nwith your Skell."
+    },
+    {
+      "$id": 945,
+      "label": "ITM_SKL_DL_F_AT_POWDN16_CAP",
+      "style": 148,
+      "name": "Grants a <<enp0>>% chance of inflicting\nFatigue IV when melee auto-attacking\nwith your Skell."
+    },
+    {
+      "$id": 946,
+      "label": "ITM_SKL_DL_F_AT_PH_DN01_CAP",
+      "style": 148,
+      "name": "Grants a <<enp0>>% chance of inflicting\nPhysical Res Down I when melee\nauto-attacking with your Skell."
+    },
+    {
+      "$id": 947,
+      "label": "ITM_SKL_DL_F_AT_PH_DN06_CAP",
+      "style": 148,
+      "name": "Grants a <<enp0>>% chance of inflicting\nPhysical Res Down II when melee\nauto-attacking with your Skell."
+    },
+    {
+      "$id": 948,
+      "label": "ITM_SKL_DL_F_AT_PH_DN11_CAP",
+      "style": 148,
+      "name": "Grants a <<enp0>>% chance of inflicting\nPhysical Res Down III when melee\nauto-attacking with your Skell."
+    },
+    {
+      "$id": 949,
+      "label": "ITM_SKL_DL_F_AT_PH_DN16_CAP",
+      "style": 148,
+      "name": "Grants a <<enp0>>% chance of inflicting\nPhysical Res Down IV when melee\nauto-attacking with your Skell."
+    },
+    {
+      "$id": 950,
+      "label": "ITM_SKL_DL_F_AT_BM_DN01_CAP",
+      "style": 148,
+      "name": "Grants a <<enp0>>% chance of inflicting\nBeam Res Down I when melee\nauto-attacking with your Skell."
+    },
+    {
+      "$id": 951,
+      "label": "ITM_SKL_DL_F_AT_BM_DN06_CAP",
+      "style": 148,
+      "name": "Grants a <<enp0>>% chance of inflicting\nBeam Res Down II when melee\nauto-attacking with your Skell."
+    },
+    {
+      "$id": 952,
+      "label": "ITM_SKL_DL_F_AT_BM_DN11_CAP",
+      "style": 148,
+      "name": "Grants a <<enp0>>% chance of inflicting\nBeam Res Down III when melee\nauto-attacking with your Skell."
+    },
+    {
+      "$id": 953,
+      "label": "ITM_SKL_DL_F_AT_BM_DN16_CAP",
+      "style": 148,
+      "name": "Grants a <<enp0>>% chance of inflicting\nBeam Res Down IV when melee\nauto-attacking with your Skell."
+    },
+    {
+      "$id": 954,
+      "label": "ITM_SKL_DL_F_AT_ET_DN01_CAP",
+      "style": 148,
+      "name": "Grants a <<enp0>>% chance of inflicting\nEther Res Down I when melee\nauto-attacking with your Skell."
+    },
+    {
+      "$id": 955,
+      "label": "ITM_SKL_DL_F_AT_ET_DN06_CAP",
+      "style": 148,
+      "name": "Grants a <<enp0>>% chance of inflicting\nEther Res Down II when melee\nauto-attacking with your Skell."
+    },
+    {
+      "$id": 956,
+      "label": "ITM_SKL_DL_F_AT_ET_DN11_CAP",
+      "style": 148,
+      "name": "Grants a <<enp0>>% chance of inflicting\nEther Res Down III when melee\nauto-attacking with your Skell."
+    },
+    {
+      "$id": 957,
+      "label": "ITM_SKL_DL_F_AT_ET_DN16_CAP",
+      "style": 148,
+      "name": "Grants a <<enp0>>% chance of inflicting\nEther Res Down IV when melee\nauto-attacking with your Skell."
+    },
+    {
+      "$id": 958,
+      "label": "ITM_SKL_DL_F_AT_FR_DN01_CAP",
+      "style": 148,
+      "name": "Grants a <<enp0>>% chance of inflicting\nThermal Res Down I when melee\nauto-attacking with your Skell."
+    },
+    {
+      "$id": 959,
+      "label": "ITM_SKL_DL_F_AT_FR_DN06_CAP",
+      "style": 148,
+      "name": "Grants a <<enp0>>% chance of inflicting\nThermal Res Down II when melee\nauto-attacking with your Skell."
+    },
+    {
+      "$id": 960,
+      "label": "ITM_SKL_DL_F_AT_FR_DN11_CAP",
+      "style": 148,
+      "name": "Grants a <<enp0>>% chance of inflicting\nThermal Res Down III when melee\nauto-attacking with your Skell."
+    },
+    {
+      "$id": 961,
+      "label": "ITM_SKL_DL_F_AT_FR_DN16_CAP",
+      "style": 148,
+      "name": "Grants a <<enp0>>% chance of inflicting\nThermal Res Down IV when melee\nauto-attacking with your Skell."
+    },
+    {
+      "$id": 962,
+      "label": "ITM_SKL_DL_F_AT_TH_DN01_CAP",
+      "style": 148,
+      "name": "Grants a <<enp0>>% chance of inflicting\nElectric Res Down I when melee\nauto-attacking with your Skell."
+    },
+    {
+      "$id": 963,
+      "label": "ITM_SKL_DL_F_AT_TH_DN06_CAP",
+      "style": 148,
+      "name": "Grants a <<enp0>>% chance of inflicting\nElectric Res Down II when melee\nauto-attacking with your Skell."
+    },
+    {
+      "$id": 964,
+      "label": "ITM_SKL_DL_F_AT_TH_DN11_CAP",
+      "style": 148,
+      "name": "Grants a <<enp0>>% chance of inflicting\nElectric Res Down III when melee\nauto-attacking with your Skell."
+    },
+    {
+      "$id": 965,
+      "label": "ITM_SKL_DL_F_AT_TH_DN16_CAP",
+      "style": 148,
+      "name": "Grants a <<enp0>>% chance of inflicting\nElectric Res Down IV when melee\nauto-attacking with your Skell."
+    },
+    {
+      "$id": 966,
+      "label": "ITM_SKL_DL_F_AT_GR_DN01_CAP",
+      "style": 148,
+      "name": "Grants a <<enp0>>% chance of inflicting\nGravity Res Down I when melee\nauto-attacking with your Skell."
+    },
+    {
+      "$id": 967,
+      "label": "ITM_SKL_DL_F_AT_GR_DN06_CAP",
+      "style": 148,
+      "name": "Grants a <<enp0>>% chance of inflicting\nGravity Res Down II when melee\nauto-attacking with your Skell."
+    },
+    {
+      "$id": 968,
+      "label": "ITM_SKL_DL_F_AT_GR_DN11_CAP",
+      "style": 148,
+      "name": "Grants a <<enp0>>% chance of inflicting\nGravity Res Down III when melee\nauto-attacking with your Skell."
+    },
+    {
+      "$id": 969,
+      "label": "ITM_SKL_DL_F_AT_GR_DN16_CAP",
+      "style": 148,
+      "name": "Grants a <<enp0>>% chance of inflicting\nGravity Res Down IV when melee\nauto-attacking with your Skell."
+    },
+    {
+      "$id": 970,
+      "label": "ITM_SKL_DL_F_AT_FR_DOT01_CAP",
+      "style": 148,
+      "name": "Grants a <<enp0>>% chance of inflicting\nBlaze I when melee auto-attacking\nwith your Skell."
+    },
+    {
+      "$id": 971,
+      "label": "ITM_SKL_DL_F_AT_FR_DOT06_CAP",
+      "style": 148,
+      "name": "Grants a <<enp0>>% chance of inflicting\nBlaze II when melee auto-attacking\nwith your Skell."
+    },
+    {
+      "$id": 972,
+      "label": "ITM_SKL_DL_F_AT_FR_DOT11_CAP",
+      "style": 148,
+      "name": "Grants a <<enp0>>% chance of inflicting\nBlaze III when melee auto-attacking\nwith your Skell."
+    },
+    {
+      "$id": 973,
+      "label": "ITM_SKL_DL_F_AT_FR_DOT16_CAP",
+      "style": 148,
+      "name": "Grants a <<enp0>>% chance of inflicting\nBlaze IV when melee auto-attacking\nwith your Skell."
+    },
+    {
+      "$id": 974,
+      "label": "ITM_SKL_DL_F_AT_TH_DOT01_CAP",
+      "style": 148,
+      "name": "Grants a <<enp0>>% chance of inflicting\nShock I when melee auto-attacking\nwith your Skell."
+    },
+    {
+      "$id": 975,
+      "label": "ITM_SKL_DL_F_AT_TH_DOT06_CAP",
+      "style": 148,
+      "name": "Grants a <<enp0>>% chance of inflicting\nShock II when melee auto-attacking\nwith your Skell."
+    },
+    {
+      "$id": 976,
+      "label": "ITM_SKL_DL_F_AT_TH_DOT11_CAP",
+      "style": 148,
+      "name": "Grants a <<enp0>>% chance of inflicting\nShock III when melee auto-attacking\nwith your Skell."
+    },
+    {
+      "$id": 977,
+      "label": "ITM_SKL_DL_F_AT_TH_DOT16_CAP",
+      "style": 148,
+      "name": "Grants a <<enp0>>% chance of inflicting\nShock IV when melee auto-attacking\nwith your Skell."
+    },
+    {
+      "$id": 978,
+      "label": "ITM_SKL_DL_F_AT_HP_HEAL01_CAP",
+      "style": 148,
+      "name": "Grants a <<enp0>>% chance of recovering\n<<enp1>> HP when melee auto-attacking\nwith your Skell."
+    },
+    {
+      "$id": 979,
+      "label": "ITM_SKL_DL_CT_TP01_CAP",
+      "style": 148,
+      "name": "Grants a <<enp0>>% chance of receiving\n<<enp1>> GP when taking Skell damage."
+    },
+    {
+      "$id": 980,
+      "label": "ITM_SKL_DL_CT_TP02_CAP",
+      "style": 148,
+      "name": "Grants a <<enp0>>% chance of receiving\n<<enp1>> GP when taking Skell damage."
+    },
+    {
+      "$id": 981,
+      "label": "ITM_SKL_DL_CT_TP03_CAP",
+      "style": 148,
+      "name": "Grants a <<enp0>>% chance of receiving\n<<enp1>> GP when taking Skell damage."
+    },
+    {
+      "$id": 982,
+      "label": "ITM_SKL_DL_CT_TP04_CAP",
+      "style": 148,
+      "name": "Grants a <<enp0>>% chance of receiving\n<<enp1>> GP when taking Skell damage."
+    },
+    {
+      "$id": 983,
+      "label": "ITM_SKL_DL_CT_TP05_CAP",
+      "style": 148,
+      "name": "Grants a <<enp0>>% chance of receiving\n<<enp1>> GP when taking Skell damage."
+    },
+    {
+      "$id": 984,
+      "label": "ITM_SKL_DL_CT_TP06_CAP",
+      "style": 148,
+      "name": "Grants a <<enp0>>% chance of receiving\n<<enp1>> GP when taking Skell damage."
+    },
+    {
+      "$id": 985,
+      "label": "ITM_SKL_DL_CT_TP07_CAP",
+      "style": 148,
+      "name": "Grants a <<enp0>>% chance of receiving\n<<enp1>> GP when taking Skell damage."
+    },
+    {
+      "$id": 986,
+      "label": "ITM_SKL_DL_CT_TP08_CAP",
+      "style": 148,
+      "name": "Grants a <<enp0>>% chance of receiving\n<<enp1>> GP when taking Skell damage."
+    },
+    {
+      "$id": 987,
+      "label": "ITM_SKL_DL_CT_TP09_CAP",
+      "style": 148,
+      "name": "Grants a <<enp0>>% chance of receiving\n<<enp1>> GP when taking Skell damage."
+    },
+    {
+      "$id": 988,
+      "label": "ITM_SKL_DL_CT_TP10_CAP",
+      "style": 148,
+      "name": "Grants a <<enp0>>% chance of receiving\n<<enp1>> GP when taking Skell damage."
+    },
+    {
+      "$id": 989,
+      "label": "ITM_SKL_DL_CT_TP11_CAP",
+      "style": 148,
+      "name": "Grants a <<enp0>>% chance of receiving\n<<enp1>> GP when taking Skell damage."
+    },
+    {
+      "$id": 990,
+      "label": "ITM_SKL_DL_CT_TP12_CAP",
+      "style": 148,
+      "name": "Grants a <<enp0>>% chance of receiving\n<<enp1>> GP when taking Skell damage."
+    },
+    {
+      "$id": 991,
+      "label": "ITM_SKL_DL_CT_TP13_CAP",
+      "style": 148,
+      "name": "Grants a <<enp0>>% chance of receiving\n<<enp1>> GP when taking Skell damage."
+    },
+    {
+      "$id": 992,
+      "label": "ITM_SKL_DL_CT_TP14_CAP",
+      "style": 148,
+      "name": "Grants a <<enp0>>% chance of receiving\n<<enp1>> GP when taking Skell damage."
+    },
+    {
+      "$id": 993,
+      "label": "ITM_SKL_DL_CT_TP15_CAP",
+      "style": 148,
+      "name": "Grants a <<enp0>>% chance of receiving\n<<enp1>> GP when taking Skell damage."
+    },
+    {
+      "$id": 994,
+      "label": "ITM_SKL_DL_CT_TP16_CAP",
+      "style": 148,
+      "name": "Grants a <<enp0>>% chance of receiving\n<<enp1>> GP when taking Skell damage."
+    },
+    {
+      "$id": 995,
+      "label": "ITM_SKL_DL_CT_TP17_CAP",
+      "style": 148,
+      "name": "Grants a <<enp0>>% chance of receiving\n<<enp1>> GP when taking Skell damage."
+    },
+    {
+      "$id": 996,
+      "label": "ITM_SKL_DL_CT_TP18_CAP",
+      "style": 148,
+      "name": "Grants a <<enp0>>% chance of receiving\n<<enp1>> GP when taking Skell damage."
+    },
+    {
+      "$id": 997,
+      "label": "ITM_SKL_DL_CT_TP19_CAP",
+      "style": 148,
+      "name": "Grants a <<enp0>>% chance of receiving\n<<enp1>> GP when taking Skell damage."
+    },
+    {
+      "$id": 998,
+      "label": "ITM_SKL_DL_CT_TP20_CAP",
+      "style": 148,
+      "name": "Grants a <<enp0>>% chance of receiving\n<<enp1>> GP when taking Skell damage."
+    },
+    {
+      "$id": 999,
+      "label": "ITM_SKL_DL_PARTS_SHD01_CAP",
+      "style": 148,
+      "name": "Grants a <<enp0>>% chance of reducing\nappendage damage by <<enp1>>% when\nyour Skell takes a hit."
+    },
+    {
+      "$id": 1000,
+      "label": "ITM_SKL_DL_JAMMING01_CAP",
+      "style": 148,
+      "name": "Boosts Skell evasion against homing\nattacks by <<enp2>>%."
+    },
+    {
+      "$id": 1001,
+      "label": "ITM_SKL_DL_LOST_ATTACK01_CAP",
+      "style": 148,
+      "name": "Boosts damage by +<<enp1>>% for each\nSkell appendage lost."
+    },
+    {
+      "$id": 1002,
+      "label": "ITM_SKL_DL_LOST_SPEED01_CAP",
+      "style": 148,
+      "name": "Boosts evasion by <<enp1>>% for each\nSkell appendage lost."
+    },
+    {
+      "$id": 1003,
+      "label": "ITM_SKL_DL_LOST_REVENGE01_CAP",
+      "style": 148,
+      "name": "Prevents GP loss and boosts GP by <<enp1>>\nwhen an appendage is destroyed."
+    },
+    {
+      "$id": 1004,
+      "label": "ITM_SKL_DL_REF_PLUS_PH00_CAP",
+      "style": 148,
+      "name": "Reflects physical attacks as well when your\nSkell reflects damage."
+    },
+    {
+      "$id": 1005,
+      "label": "ITM_SKL_DL_REF_PLUS_BM00_CAP",
+      "style": 148,
+      "name": "Reflects beam attacks as well when your\nSkell reflects damage."
+    },
+    {
+      "$id": 1006,
+      "label": "ITM_SKL_DL_REF_PLUS_ET00_CAP",
+      "style": 148,
+      "name": "Reflects ether attacks as well when your\nSkell reflects damage."
+    },
+    {
+      "$id": 1007,
+      "label": "ITM_SKL_DL_REF_PLUS_FR00_CAP",
+      "style": 148,
+      "name": "Reflects thermal attacks as well when your\nSkell reflects damage."
+    },
+    {
+      "$id": 1008,
+      "label": "ITM_SKL_DL_REF_PLUS_TH00_CAP",
+      "style": 148,
+      "name": "Reflects electric attacks as well when your\nSkell reflects damage."
+    },
+    {
+      "$id": 1009,
+      "label": "ITM_SKL_DL_REF_PLUS_GR00_CAP",
+      "style": 148,
+      "name": "Reflects gravity attacks as well when your\nSkell reflects damage."
+    },
+    {
+      "$id": 1010,
+      "label": "ITM_SKL_DL_REF_DMG_UP01_CAP",
+      "style": 148,
+      "name": "Boosts Skell reflect damage by +<<enp1>>%."
+    },
+    {
+      "$id": 1011,
+      "label": "ITM_SKL_DL_REF_ATK_PH01_CAP",
+      "style": 148,
+      "name": "Grants a <<enp0>>% chance of negating enemy\nreflection of Skell physical attacks."
+    },
+    {
+      "$id": 1012,
+      "label": "ITM_SKL_DL_REF_ATK_BM01_CAP",
+      "style": 148,
+      "name": "Grants a <<enp0>>% chance of negating enemy\nreflection of Skell beam attacks."
+    },
+    {
+      "$id": 1013,
+      "label": "ITM_SKL_DL_REF_ATK_ET01_CAP",
+      "style": 148,
+      "name": "Grants a <<enp0>>% chance of negating enemy\nreflection of Skell ether attacks."
+    },
+    {
+      "$id": 1014,
+      "label": "ITM_SKL_DL_REF_ATK_FR01_CAP",
+      "style": 148,
+      "name": "Grants a <<enp0>>% chance of negating enemy\nreflection of Skell thermal attacks."
+    },
+    {
+      "$id": 1015,
+      "label": "ITM_SKL_DL_REF_ATK_TH01_CAP",
+      "style": 148,
+      "name": "Grants a <<enp0>>% chance of negating enemy\nreflection of Skell electric attacks."
+    },
+    {
+      "$id": 1016,
+      "label": "ITM_SKL_DL_REF_ATK_GR01_CAP",
+      "style": 148,
+      "name": "Grants a <<enp0>>% chance of negating enemy\nreflection of Skell gravity attacks."
+    },
+    {
+      "$id": 1017,
+      "label": "ITM_SKL_DL_GEAR_ST_HP01_CAP",
+      "style": 148,
+      "name": "Recovers <<enp1>>% HP when activating\nOverdrive."
+    },
+    {
+      "$id": 1018,
+      "label": "ITM_SKL_DL_GEAR_ST_PHP01_CAP",
+      "style": 148,
+      "name": "Recovers <<enp1>>% HP to all appendages\nwhen activating Overdrive."
+    },
+    {
+      "$id": 1019,
+      "label": "ITM_SKL_DL_GEAR_ST_CNT01_CAP",
+      "style": 148,
+      "name": "Boosts Overdrive sustainment rate by <<enp1>>%."
+    },
+    {
+      "$id": 1020,
+      "label": "ITM_SKL_DL_ARTS_ST_TP01_CAP",
+      "style": 148,
+      "name": "Boosts GP by <<enp1>> when using Skell Arts."
+    },
+    {
+      "$id": 1021,
+      "label": "ITM_SKL_DL_TIME_EX_TAUNT01_CAP",
+      "style": 148,
+      "name": "Extends Taunt effects inflicted by your\nArts by <<enp2>> second(s)."
+    },
+    {
+      "$id": 1022,
+      "label": "ITM_SKL_DL_TIME_EX_CONTROL01_CAP",
+      "style": 148,
+      "name": "Extends Control effects inflicted by your\nArts by <<enp2>> second(s)."
+    },
+    {
+      "$id": 1023,
+      "label": "ITM_SKL_DL_TIME_EX_SLEEP01_CAP",
+      "style": 148,
+      "name": "Extends Sleep effects inflicted by your\nArts by <<enp2>> second(s)."
+    },
+    {
+      "$id": 1024,
+      "label": "ITM_SKL_DL_TIME_EX_VIRUS01_CAP",
+      "style": 148,
+      "name": "Extends Virus effects inflicted by your\nArts by <<enp2>> second(s)."
+    },
+    {
+      "$id": 1025,
+      "label": "ITM_SKL_DL_TIME_EX_BALCK01_CAP",
+      "style": 148,
+      "name": "Extends Blackout effects inflicted by your\nArts by <<enp2>> second(s)."
+    },
+    {
+      "$id": 1026,
+      "label": "ITM_SKL_DL_TIME_EX_POWDN01_CAP",
+      "style": 148,
+      "name": "Extends Fatigue effects inflicted by your\nArts by <<enp2>> second(s)."
+    },
+    {
+      "$id": 1027,
+      "label": "ITM_SKL_DL_TIME_EX_SLOW01_CAP",
+      "style": 148,
+      "name": "Extends Slow Arts effects inflicted by your\nArts by <<enp2>> second(s)."
+    },
+    {
+      "$id": 1028,
+      "label": "ITM_SKL_DL_TIME_EX_RSTDN01_CAP",
+      "style": 148,
+      "name": "Extends Debuff Res Down effects inflicted\nby your Arts by <<enp2>> second(s)."
+    },
+    {
+      "$id": 1029,
+      "label": "ITM_SKL_DL_TIME_EX_HPDN01_CAP",
+      "style": 148,
+      "name": "Extends HP Recovery Down effects inflicted\nby your Arts by <<enp2>> second(s)."
+    },
+    {
+      "$id": 1030,
+      "label": "ITM_SKL_DL_TIME_EX_FRDOT01_CAP",
+      "style": 148,
+      "name": "Extends Blaze effects inflicted by your\nArts by <<enp2>> second(s)."
+    },
+    {
+      "$id": 1031,
+      "label": "ITM_SKL_DL_TIME_EX_THDOT01_CAP",
+      "style": 148,
+      "name": "Extends Shock effects inflicted by your\nArts by <<enp2>> second(s)."
+    },
+    {
+      "$id": 1032,
+      "label": "ITM_SKL_DL_TIME_EX_PHDN01_CAP",
+      "style": 148,
+      "name": "Extends Physical Res Down effects inflicted\nby your Arts by <<enp2>> second(s)."
+    },
+    {
+      "$id": 1033,
+      "label": "ITM_SKL_DL_TIME_EX_BMDN01_CAP",
+      "style": 148,
+      "name": "Extends Beam Res Down effects inflicted\nby your Arts by <<enp2>> second(s)."
+    },
+    {
+      "$id": 1034,
+      "label": "ITM_SKL_DL_TIME_EX_ETDN01_CAP",
+      "style": 148,
+      "name": "Extends Ether Res Down effects inflicted\nby your Arts by <<enp2>> second(s)."
+    },
+    {
+      "$id": 1035,
+      "label": "ITM_SKL_DL_TIME_EX_FRDN01_CAP",
+      "style": 148,
+      "name": "Extends Thermal Res Down effects inflicted\nby your Arts by <<enp2>> second(s)."
+    },
+    {
+      "$id": 1036,
+      "label": "ITM_SKL_DL_TIME_EX_THDN01_CAP",
+      "style": 148,
+      "name": "Extends Electric Res Down effects inflicted\nby your Arts by <<enp2>> second(s)."
+    },
+    {
+      "$id": 1037,
+      "label": "ITM_SKL_DL_TIME_EX_GRDN01_CAP",
+      "style": 148,
+      "name": "Extends Gravity Res Down effects inflicted\nby your Arts by <<enp2>> second(s)."
+    },
+    {
+      "$id": 1038,
+      "label": "ITM_SKL_DL_FST_TP01_CAP",
+      "style": 148,
+      "name": ""
+    },
+    {
+      "$id": 1039,
+      "label": "ITM_SKL_DL_FST_ARTS01_CAP",
+      "style": 148,
+      "name": "Boosts Skell Opening Art damage\nby  <<enp1>>%."
+    },
+    {
+      "$id": 1040,
+      "label": "ITM_SKL_DL_FST_CRTC01_CAP",
+      "style": 148,
+      "name": ""
+    },
+    {
+      "$id": 1041,
+      "label": "ITM_SKL_DL_FST_CRTC06_CAP",
+      "style": 148,
+      "name": ""
+    },
+    {
+      "$id": 1042,
+      "label": "ITM_SKL_DL_FST_CRTC11_CAP",
+      "style": 148,
+      "name": ""
+    },
+    {
+      "$id": 1043,
+      "label": "ITM_SKL_DL_FST_CRTC16_CAP",
+      "style": 148,
+      "name": ""
+    },
+    {
+      "$id": 1044,
+      "label": "ITM_SKL_DL_FST_FDEX01_CAP",
+      "style": 148,
+      "name": ""
+    },
+    {
+      "$id": 1045,
+      "label": "ITM_SKL_DL_FST_FDEX06_CAP",
+      "style": 148,
+      "name": ""
+    },
+    {
+      "$id": 1046,
+      "label": "ITM_SKL_DL_FST_FDEX11_CAP",
+      "style": 148,
+      "name": ""
+    },
+    {
+      "$id": 1047,
+      "label": "ITM_SKL_DL_FST_FDEX16_CAP",
+      "style": 148,
+      "name": ""
+    },
+    {
+      "$id": 1048,
+      "label": "ITM_SKL_DL_FST_SDEX01_CAP",
+      "style": 148,
+      "name": ""
+    },
+    {
+      "$id": 1049,
+      "label": "ITM_SKL_DL_FST_SDEX06_CAP",
+      "style": 148,
+      "name": ""
+    },
+    {
+      "$id": 1050,
+      "label": "ITM_SKL_DL_FST_SDEX11_CAP",
+      "style": 148,
+      "name": ""
+    },
+    {
+      "$id": 1051,
+      "label": "ITM_SKL_DL_FST_SDEX12_CAP",
+      "style": 148,
+      "name": ""
+    },
+    {
+      "$id": 1052,
+      "label": "ITM_SKL_DL_FST_SDEX13_CAP",
+      "style": 148,
+      "name": ""
+    },
+    {
+      "$id": 1053,
+      "label": "ITM_SKL_DL_FST_SDEX14_CAP",
+      "style": 148,
+      "name": ""
+    },
+    {
+      "$id": 1054,
+      "label": "ITM_SKL_DL_FST_SDEX15_CAP",
+      "style": 148,
+      "name": ""
+    },
+    {
+      "$id": 1055,
+      "label": "ITM_SKL_DL_FST_SDEX16_CAP",
+      "style": 148,
+      "name": ""
+    },
+    {
+      "$id": 1056,
+      "label": "ITM_SKL_DL_FST_EVA01_CAP",
+      "style": 148,
+      "name": ""
+    },
+    {
+      "$id": 1057,
+      "label": "ITM_SKL_DL_FST_EVA06_CAP",
+      "style": 148,
+      "name": ""
+    },
+    {
+      "$id": 1058,
+      "label": "ITM_SKL_DL_FST_EVA11_CAP",
+      "style": 148,
+      "name": ""
+    },
+    {
+      "$id": 1059,
+      "label": "ITM_SKL_DL_FST_EVA16_CAP",
+      "style": 148,
+      "name": ""
+    },
+    {
+      "$id": 1060,
+      "label": "ITM_SKL_DL_FST_FPOW01_CAP",
+      "style": 148,
+      "name": ""
+    },
+    {
+      "$id": 1061,
+      "label": "ITM_SKL_DL_FST_FPOW06_CAP",
+      "style": 148,
+      "name": ""
+    },
+    {
+      "$id": 1062,
+      "label": "ITM_SKL_DL_FST_FPOW11_CAP",
+      "style": 148,
+      "name": ""
+    },
+    {
+      "$id": 1063,
+      "label": "ITM_SKL_DL_FST_FPOW16_CAP",
+      "style": 148,
+      "name": ""
+    },
+    {
+      "$id": 1064,
+      "label": "ITM_SKL_DL_FST_SPOW01_CAP",
+      "style": 148,
+      "name": ""
+    },
+    {
+      "$id": 1065,
+      "label": "ITM_SKL_DL_FST_SPOW06_CAP",
+      "style": 148,
+      "name": ""
+    },
+    {
+      "$id": 1066,
+      "label": "ITM_SKL_DL_FST_SPOW11_CAP",
+      "style": 148,
+      "name": ""
+    },
+    {
+      "$id": 1067,
+      "label": "ITM_SKL_DL_FST_SPOW16_CAP",
+      "style": 148,
+      "name": ""
+    },
+    {
+      "$id": 1068,
+      "label": "ITM_SKL_DL_FST_MIND01_CAP",
+      "style": 148,
+      "name": ""
+    },
+    {
+      "$id": 1069,
+      "label": "ITM_SKL_DL_FST_MIND06_CAP",
+      "style": 148,
+      "name": ""
+    },
+    {
+      "$id": 1070,
+      "label": "ITM_SKL_DL_FST_MIND11_CAP",
+      "style": 148,
+      "name": ""
+    },
+    {
+      "$id": 1071,
+      "label": "ITM_SKL_DL_FST_MIND16_CAP",
+      "style": 148,
+      "name": ""
+    },
+    {
+      "$id": 1072,
+      "label": "ITM_SKL_DL_FST_DARM01_CAP",
+      "style": 148,
+      "name": ""
+    },
+    {
+      "$id": 1073,
+      "label": "ITM_SKL_DL_FST_DARM06_CAP",
+      "style": 148,
+      "name": ""
+    },
+    {
+      "$id": 1074,
+      "label": "ITM_SKL_DL_FST_DARM11_CAP",
+      "style": 148,
+      "name": ""
+    },
+    {
+      "$id": 1075,
+      "label": "ITM_SKL_DL_FST_DARM16_CAP",
+      "style": 148,
+      "name": ""
+    },
+    {
+      "$id": 1076,
+      "label": "ITM_SKL_DL_FST_BULLET01_CAP",
+      "style": 148,
+      "name": ""
+    },
+    {
+      "$id": 1077,
+      "label": "ITM_SKL_DL_FST_BULLET06_CAP",
+      "style": 148,
+      "name": ""
+    },
+    {
+      "$id": 1078,
+      "label": "ITM_SKL_DL_FST_BULLET11_CAP",
+      "style": 148,
+      "name": ""
+    },
+    {
+      "$id": 1079,
+      "label": "ITM_SKL_DL_FST_BULLET16_CAP",
+      "style": 148,
+      "name": ""
+    },
+    {
+      "$id": 1080,
+      "label": "ITM_SKL_DL_FST_FAKE01_CAP",
+      "style": 148,
+      "name": ""
+    },
+    {
+      "$id": 1081,
+      "label": "ITM_SKL_DL_FST_FAKE06_CAP",
+      "style": 148,
+      "name": ""
+    },
+    {
+      "$id": 1082,
+      "label": "ITM_SKL_DL_FST_FAKE11_CAP",
+      "style": 148,
+      "name": ""
+    },
+    {
+      "$id": 1083,
+      "label": "ITM_SKL_DL_FST_FAKE16_CAP",
+      "style": 148,
+      "name": ""
+    },
+    {
+      "$id": 1084,
+      "label": "ITM_SKL_DL_STEALTH_EYE01_CAP",
+      "style": 148,
+      "name": "Reduces detection by shrinking enemy\nfield of view by <<enp1>>% when\nin your Skell."
+    },
+    {
+      "$id": 1085,
+      "label": "ITM_SKL_DL_STEALTH_ROUND01_CAP",
+      "style": 148,
+      "name": "Reduces detection by shrinking enemy\nauditory range by <<enp1>>%\nwhen in your Skell."
+    },
+    {
+      "$id": 1086,
+      "label": "ITM_SKL_DL_PARTS_TP01_CAP",
+      "style": 148,
+      "name": "Boosts GP by <<enp1>> when destroying an\nenemy appendage with your Skell."
+    },
+    {
+      "$id": 1087,
+      "label": "ITM_SKL_DL_PARTS_DMG01_CAP",
+      "style": 148,
+      "name": "Boosts Skell ranged appendage damage\nby +<<enp1>>%."
+    },
+    {
+      "$id": 1088,
+      "label": "ITM_SKL_DL_EVA_SPIKE01_CAP",
+      "style": 148,
+      "name": "Grants a <<enp1>>% chance of evading\nspike damage when in your Skell."
+    },
+    {
+      "$id": 1089,
+      "label": "ITM_SKL_DL_CAR_DEF_PARTS01_CAP",
+      "style": 148,
+      "name": "Reduces appendage damage by <<enp1>>%\nwhen in Skell vehicle mode."
+    },
+    {
+      "$id": 1090,
+      "label": "ITM_SKL_DL_CAR_DEF_FRAME01_CAP",
+      "style": 148,
+      "name": "Reduces primary damage by <<enp1>>%\nwhen in Skell vehicle mode."
+    },
+    {
+      "$id": 1091,
+      "label": "ITM_SKL_DL_CAR_DEF_DEBUFF01_CAP",
+      "style": 148,
+      "name": "Boosts resistance to all debuffs by <<enp2>>%\nwhen in Skell vehicle mode."
+    },
+    {
+      "$id": 1092,
+      "label": "ITM_SKL_DL_NIGHT_DEX01_CAP",
+      "style": 148,
+      "name": "Boosts Skell melee and ranged accuracy\nby <<enp1>>% during the nighttime."
+    },
+    {
+      "$id": 1093,
+      "label": "ITM_SKL_DL_WEATHER_FOG00_CAP",
+      "style": 148,
+      "name": "Grants immunity to the effects of\nfog when in your Skell."
+    },
+    {
+      "$id": 1094,
+      "label": "ITM_SKL_DL_WEATHER_RAIN00_CAP",
+      "style": 148,
+      "name": "Grants immunity to the effects of\nrain when in your Skell."
+    },
+    {
+      "$id": 1095,
+      "label": "ITM_SKL_DL_WEATHER_THUNDER00_CAP",
+      "style": 148,
+      "name": ""
+    },
+    {
+      "$id": 1096,
+      "label": "ITM_SKL_DL_WEATHER_HRAIN00_CAP",
+      "style": 148,
+      "name": "Grants immunity to the effects of\nheavy rain when in your Skell."
+    },
+    {
+      "$id": 1097,
+      "label": "ITM_SKL_DL_WEATHER_HEATWAVE00_CAP",
+      "style": 148,
+      "name": "Grants immunity to the effects of\nheat waves when in your Skell."
+    },
+    {
+      "$id": 1098,
+      "label": "ITM_SKL_DL_WEATHER_SAND00_CAP",
+      "style": 148,
+      "name": "Grants immunity to the effects of\nsandstorms when in your Skell."
+    },
+    {
+      "$id": 1099,
+      "label": "ITM_SKL_DL_WEATHER_TRAIN00_CAP",
+      "style": 148,
+      "name": "Grants immunity to the effects of\nthunderstorms when in your Skell."
+    },
+    {
+      "$id": 1100,
+      "label": "ITM_SKL_DL_WEATHER_ERECT00_CAP",
+      "style": 148,
+      "name": "Grants immunity to the effects of\nelectromagnetic storms when in your Skell."
+    },
+    {
+      "$id": 1101,
+      "label": "ITM_SKL_DL_WEATHER_PAR_A00_CAP",
+      "style": 148,
+      "name": "Grants immunity to the effects of\nenergy mist when in your Skell."
+    },
+    {
+      "$id": 1102,
+      "label": "ITM_SKL_DL_WEATHER_PAR_B00_CAP",
+      "style": 148,
+      "name": "Grants immunity to the effects of\nrising energy mist when in your Skell."
+    },
+    {
+      "$id": 1103,
+      "label": "ITM_SKL_DL_WEATHER_FIRERAIN00_CAP",
+      "style": 148,
+      "name": "Grants immunity to the effects of\nbrimstone rain when in your Skell."
+    },
+    {
+      "$id": 1104,
+      "label": "ITM_SKL_DL_WEATHER_OURA00_CAP",
+      "style": 148,
+      "name": "Grants immunity to the effects of\nauroras when in your Skell."
+    },
+    {
+      "$id": 1105,
+      "label": "ITM_SKL_DL_WEATHER_REDOURA00_CAP",
+      "style": 148,
+      "name": "Grants immunity to the effects of\ncrimson auroras when in your Skell."
+    },
+    {
+      "$id": 1106,
+      "label": "ITM_SKL_DL_WEATHER_HOUSI00_CAP",
+      "style": 148,
+      "name": "Grants immunity to the effects of\nspore clouds when in your Skell."
+    },
+    {
+      "$id": 1107,
+      "label": "ITM_SKL_DL_WEATHER_METOR00_CAP",
+      "style": 148,
+      "name": "Grants immunity to the effects of\nmeteor showers when in your Skell."
+    },
+    {
+      "$id": 1108,
+      "label": "ITM_SKL_DL_WEATHER_DMG01_CAP",
+      "style": 148,
+      "name": "Reduces weather damage by <<enp1>>%\nwhen in your Skell."
+    },
+    {
+      "$id": 1109,
+      "label": "STS追加分",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 1110,
+      "label": "ARTS_SNIPER_SP10_LEV1_CAP",
+      "style": 148,
+      "name": ""
+    },
+    {
+      "$id": 1111,
+      "label": "ARTS_SWORD_SP12_LEV1_CAP",
+      "style": 148,
+      "name": "The lower your current HP percentage,\nthe higher the damage dealt (up to +<<enp1>>%). "
+    },
+    {
+      "$id": 1112,
+      "label": "ARTS_JAVELIN_SP11_LEV1_CAP",
+      "style": 148,
+      "name": "Removes enemy debuffs and boosts TP\nby <<enp1>> per removed debuff tier."
+    },
+    {
+      "$id": 1113,
+      "label": "ARTS_BEAMSABER_SP14_LEV1_CAP",
+      "style": 148,
+      "name": ""
+    },
+    {
+      "$id": 1114,
+      "label": "ARTS_BEAMCANNON_SP11_LEV1_CAP",
+      "style": 148,
+      "name": "Spreads status debuffs to enemies\nin range when landing a hit and grants\n<<enp1>>% chance of raising effect level by 1."
+    }
+  ]
+}

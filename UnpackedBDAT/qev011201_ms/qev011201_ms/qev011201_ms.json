@@ -1,0 +1,360 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev011201_MSG0001",
+      "style": 1,
+      "name": "Hey! You! Do you have any interest in the Miran\necosystem?[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev011201_MSG0002",
+      "style": 1,
+      "name": "Er, sorry. That kind of came out of the blue, didn't it?\nLook, don't run. I'm not trying to recruit you into a cult\nor anything. I'm just searching for a kindred spirit.[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev011201_JNK0010",
+      "style": 4,
+      "name": "Show Interest"
+    },
+    {
+      "$id": 4,
+      "label": "qev011201_SEL0011",
+      "style": 3,
+      "name": "Express interest in the Miran ecosystem."
+    },
+    {
+      "$id": 5,
+      "label": "qev011201_JNK0020",
+      "style": 4,
+      "name": "Dismiss"
+    },
+    {
+      "$id": 6,
+      "label": "qev011201_SEL0021",
+      "style": 3,
+      "name": "Yawn and tell Sullivan you aren't interested in science."
+    },
+    {
+      "$id": 7,
+      "label": "qev011201_MSG0003",
+      "style": 1,
+      "name": "Wait, really? Oh my gosh. You're the first person who\nhasn't just dismissed me out of hand.[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev011201_MSG0004",
+      "style": 1,
+      "name": "Yeah, no shock there. But even if you do feel that way,\ncould I maybe interest you in some work?[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev011201_MSG0005",
+      "style": 1,
+      "name": "You're entirely free to take or leave it, of course.[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev011201_MSG0006",
+      "style": 1,
+      "name": "Just hear a gal out, okay?[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev011201_MSG0007",
+      "style": 1,
+      "name": "My name is Sullivan, and I'm a botanist.[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev011201_MSG0008",
+      "style": 1,
+      "name": "Ever since we arrived on Mira, my lab has been\nblessed with one fantastical specimen after the next.[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev011201_MSG0009",
+      "style": 1,
+      "name": "The biodiversity here is simply dizzying![ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev011201_MSG0010",
+      "style": 1,
+      "name": "I might as well tear up that doctorate I earned back on\nEarth and use it to wipe my...um...floor.[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev011201_MSG0011",
+      "style": 1,
+      "name": "But really, this is great news. I've never seen such fertile\nground for academic curiosity! Even the leaves—have\nyou noticed the leaves? Most have these little—[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev011201_MSG0012",
+      "style": 1,
+      "name": "Am I rambling? I'm rambling. And you're bored.\nSo sorry. Let me get back to it.[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev011201_MSG0013",
+      "style": 1,
+      "name": "To get to the point, I'd like your assistance in my\nresearch.[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev011201_MSG0014",
+      "style": 1,
+      "name": "As I'm sure you know, there's a huge forest area to\nthe northwest of NLA. We call it Noctilum. The plant\nlife there is wholly unlike anything seen on Earth.[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev011201_MSG0015",
+      "style": 1,
+      "name": "I suspect the marshes deep within that forest might\nhold a specimen of extreme importance![ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev011201_MSG0016",
+      "style": 1,
+      "name": "I've been informed by many parties that collecting this\nspecimen will be no simple matter, but I'm thinking\nsomeone like you should be able to handle it.[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev011201_MSG0017",
+      "style": 1,
+      "name": "I require three samples—one to experiment on, one to\narchive, and one to display so that the public's appetite\nfor science might once more be whetted.[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev011201_MSG0018",
+      "style": 1,
+      "name": "The Miran ecosystem is shrouded in mystery and\nintrigue, but this inquiry will be the shaft of light\nwhich pierces the veil![ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev011201_MSG0019",
+      "style": 1,
+      "name": "All of science hinges upon your help.[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev011201_MSG0020",
+      "style": 1,
+      "name": "My curiosity in Mira's ecology is boundless.\nI could spend my life wrestling with its mysteries—\nand fates willing, I shall![ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev011201_MSG0021",
+      "style": 1,
+      "name": "Research samples of these plant species are lacking.\nWould that I could go and collect them myself![ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev011201_MSG0022",
+      "style": 1,
+      "name": "For men and women of my academic inclination, Mira\nis a paradise! A Midas vault of new scientific inquiry![ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev011201_MSG0023",
+      "style": 1,
+      "name": "Ah, yes, hello!\nTell me, how goes the specimen collection?[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev011201_MSG0024",
+      "style": 1,
+      "name": "Astonishing... Yes, thank you!\nThese are fine samples, truly![ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev011201_MSG0025",
+      "style": 1,
+      "name": "I'd heard speculation about this specimen's unusual\nproperties, but this...[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev011201_MSG0026",
+      "style": 1,
+      "name": "No, I mustn't draw any conclusions before a proper\ninvestigation is completed. Hypotheses and evidence\nand so forth, yes? Yes.[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev011201_MSG0027",
+      "style": 1,
+      "name": "And yet, I think it's possible that the plant this was\nharvested from actually exists OUTSIDE all known\nMiran ecological chains![ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev011201_MSG0028",
+      "style": 1,
+      "name": "It's bizarre... But in the most delightful way![ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev011201_MSG0029",
+      "style": 1,
+      "name": "Life on this planet shocks me each and every day.[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev011201_MSG0030",
+      "style": 1,
+      "name": "Er, speaking of, I realize this is something of a surprise\nrequest, but...[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev011201_MSG0031",
+      "style": 1,
+      "name": "might it be possible—and I dearly hope that it is—\nto enlist your help in gathering another set of samples\nof a different specimen?[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev011201_MSG0032",
+      "style": 1,
+      "name": "Water drains from those marshes, you see, forming\na river.[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev011201_MSG0033",
+      "style": 1,
+      "name": "That river's current carries a multitude of seeds to their\nfuture homes. The importance of these seeds cannot be\noverstated![ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev011201_MSG0034",
+      "style": 1,
+      "name": "They must be studied in minute detail if our analysis of\nlife on Mira is to advance to the next stage.[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "qev011201_MSG0035",
+      "style": 1,
+      "name": "I need an archive sample, a test sample, a display\nsample, a training sample, a buttering-up sample for\nsponsors, and a bonus sample for a birthday present.[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "qev011201_MSG0036",
+      "style": 1,
+      "name": "So, yes. That's six samples total.\nA hefty sum, I know.[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "qev011201_MSG0037",
+      "style": 1,
+      "name": "But all are vital to the continued function of\nscience on Mira. Thank you, assistant!\nYou have my eternal gratitude.[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "qev011201_MSG0038",
+      "style": 1,
+      "name": "The reproductive cycle of plants is the underpinning of\nall life, and yet so many people remain apathetic.\nThey are inviting disaster, I assure you![ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "qev011201_MSG0040",
+      "style": 1,
+      "name": "Welcome back! Judging by your demeanor,\nI anticipate good news?[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "qev011201_MSG0041",
+      "style": 1,
+      "name": "Yes! Precisely the specimen I desired![ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "qev011201_MSG0042",
+      "style": 1,
+      "name": "Er, of course I say \"desired\" only in the sense that it is\nvital to my research! Not that I... *ahem!* Right then.[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "qev011201_MSG0043",
+      "style": 1,
+      "name": "I'm impressed you actually brought samples for storage,\nresearch, display, training, sponsor kickback, AND\nbirthday purposes![ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "qev011201_MSG0044",
+      "style": 1,
+      "name": "You are a wonder, [ST:gender p1=sir p2=madam ], and a champion for\nMiran botany.[ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "qev011201_MSG0045",
+      "style": 1,
+      "name": "Though your actions may not make it into my research\npaper, know that the results of your work shall live on\nfor all time.[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "qev011201_MSG0046",
+      "style": 1,
+      "name": "If nothing else, please look upon your contributions\nwith great pride![ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "qev011201_MSG0047",
+      "style": 1,
+      "name": "Oh, and you'll be pleased to know that I finished\nanalysis on the samples of the first specimen you\nbrought me earlier.[ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "qev011201_MSG0048",
+      "style": 1,
+      "name": "It's shocking, really. The plant changes on a cellular\nlevel between morning and night to become a wholly\ndifferent organism.[ST:wait ]"
+    },
+    {
+      "$id": 52,
+      "label": "qev011201_MSG0049",
+      "style": 1,
+      "name": "It goes beyond any conventional definition of the word\n\"plant.\" It's... Well, it's an \"entity,\" I suppose.[ST:wait ]"
+    },
+    {
+      "$id": 53,
+      "label": "qev011201_MSG0050",
+      "style": 1,
+      "name": "Just another in a long list of assumption-shattering finds\non Mira.[ST:wait ]"
+    },
+    {
+      "$id": 54,
+      "label": "qev011201_MSG0051",
+      "style": 1,
+      "name": "I well realize gathering those samples was not easy.\nYou have my sincerest thanks, kind [ST:gender p1=sir p2=madam ].[ST:wait ]"
+    },
+    {
+      "$id": 55,
+      "label": "qev011201_MSG0052",
+      "style": 1,
+      "name": "If I require hard-to-obtain samples again in the future,\nI hope you'll lend me your services once more.[ST:wait ]"
+    },
+    {
+      "$id": 56,
+      "label": "qev011201_MSG0053",
+      "style": 1,
+      "name": "For storage, test, display, training, sponsor, gift, award,\npropaganda, and, er...personal use. *cough*[ST:wait ]"
+    },
+    {
+      "$id": 57,
+      "label": "qev011201_MSG0054",
+      "style": 1,
+      "name": "Hey, one can never have too many samples, right?\nRemember, this is all about science![ST:wait ]"
+    }
+  ]
+}

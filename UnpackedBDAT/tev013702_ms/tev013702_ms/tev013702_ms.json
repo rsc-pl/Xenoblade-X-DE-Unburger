@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev013702_MSG0001",
+      "style": 1,
+      "name": "Are you familiar with the xenoform named Professor B\nwho lives on the outskirts of the industrial district?[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev013702_MSG0002",
+      "style": 1,
+      "name": "Who is he? Do you have any idea what he's doing?[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev013702_MSG0003",
+      "style": 1,
+      "name": "I mean, he buys lots of parts from me,\nand I'm grateful to have him as a customer...[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev013702_MSG0004",
+      "style": 1,
+      "name": "But his orders have left me baffled as to what he's\ntrying to build. And when I ask about his work,\nI end up more confused than when I started.[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev013702_MSG0005",
+      "style": 1,
+      "name": "There's just so much I don't understand, and it makes\nme a little uneasy... Like, when exactly did he even\nstart living here in New LA?[ST:wait ]"
+    }
+  ]
+}

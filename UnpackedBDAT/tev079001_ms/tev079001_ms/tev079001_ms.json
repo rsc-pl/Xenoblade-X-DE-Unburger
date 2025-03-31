@@ -1,0 +1,102 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev079001_JNK0010",
+      "style": 4,
+      "name": "Inquire[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev079001_SEL0011",
+      "style": 3,
+      "name": "Ask Troylan about the Ganglion.[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev079001_JNK0020",
+      "style": 4,
+      "name": "Discuss[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev079001_SEL0021",
+      "style": 3,
+      "name": "Ask Troylan about recent developments.[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev079001_MSG0001",
+      "style": 1,
+      "name": "After being captured by the Ganglion, we were forced\nto explore a variety of locations. *fsssh*[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "tev079001_MSG0002",
+      "style": 1,
+      "name": "We were rarely given any security, so when we were\nsent to dangerous areas like Cauldros's polluted zone,\nmany of our number were eaten by indigens. *fsssh*[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "tev079001_MSG0003",
+      "style": 1,
+      "name": "When we few survivors made it back to the ship,\nwe'd find the Ganglion laughing and wagering on how\nmany of us had survived. *fsssh*[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "tev079001_MSG0004",
+      "style": 1,
+      "name": "Since they captured us to explore uncharted worlds,\nthey had little use for us here on Mira, and apparently\nintended to dispose of us like so much voltant. *fsssh*[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "tev079001_MSG0005",
+      "style": 1,
+      "name": "It is truly fortunate that we were able to escape.\nIf you hadn't given us sanctuary, we'd likely have\nbeen massacred by the Ganglion. *fsssh*[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "tev079001_MSG0010",
+      "style": 1,
+      "name": "Now that Lulladu has recovered, I've been bringing\nhim a wide variety of voltant as a way to express my\ngratitude. *fsssh*[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev079001_MSG0011",
+      "style": 1,
+      "name": "But I haven't been able to find anything that would\nreally excite a voltant enthusiast like him. *fsssh*[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "tev079001_MSG0012",
+      "style": 1,
+      "name": "I'm trying to express my gratitude as best I can!\n*fsssh* I wish I could find something he'd like...[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "tev079001_MSG0013",
+      "style": 1,
+      "name": "Do you perchance have any ideas? *fsssh*\nSomething close at hand that would really wow him?[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "tev079001_MSG0014",
+      "style": 1,
+      "name": "...Nothing? Well regardless, you still have my thanks.\nYou saw to it that my gorkwa was fixed, after all.[ST:wait ]"
+    }
+  ]
+}

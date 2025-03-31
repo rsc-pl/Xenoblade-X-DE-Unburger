@@ -1,0 +1,426 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev019201_JNK0010",
+      "style": 4,
+      "name": "Inquire"
+    },
+    {
+      "$id": 2,
+      "label": "tev019201_SEL0011",
+      "style": 3,
+      "name": "Ask Lara Mara what he thinks about you."
+    },
+    {
+      "$id": 3,
+      "label": "tev019201_JNK0020",
+      "style": 4,
+      "name": "Discuss"
+    },
+    {
+      "$id": 4,
+      "label": "tev019201_SEL0021",
+      "style": 3,
+      "name": "Ask Lara Mara if anything is troubling him."
+    },
+    {
+      "$id": 5,
+      "label": "tev019201_SEL0031",
+      "style": 3,
+      "name": "Ask Lara Mara about the Prone."
+    },
+    {
+      "$id": 6,
+      "label": "tev019201_SEL0041",
+      "style": 3,
+      "name": "Ask Lara Mara if he's heard any interesting rumors."
+    },
+    {
+      "$id": 7,
+      "label": "tev019201_SEL0051",
+      "style": 3,
+      "name": "Ask Lara Mara for his thoughts\non the xenoforms in New LA."
+    },
+    {
+      "$id": 8,
+      "label": "tev019201_SEL0061",
+      "style": 3,
+      "name": "Ask Lara Mara for his opinions on the Ma-non."
+    },
+    {
+      "$id": 9,
+      "label": "tev019201_SEL0071",
+      "style": 3,
+      "name": "Ask Lara Mara if he's heard any interesting rumors."
+    },
+    {
+      "$id": 10,
+      "label": "tev019201_SEL0081",
+      "style": 3,
+      "name": "Ask Lara Mara about how he\nfared after the Ganglion attack.[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev019201_SEL1011",
+      "style": 3,
+      "name": "Ask Lara Mara for his thoughts on why the\nGanglion are so obsessed with humans.[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "tev019201_SEL1021",
+      "style": 3,
+      "name": "Ask Lara Mara about recent developments."
+    },
+    {
+      "$id": 13,
+      "label": "tev019201_SEL2021",
+      "style": 3,
+      "name": "Ask Lara Mara about recent developments."
+    },
+    {
+      "$id": 14,
+      "label": "tev019201_SEL2031",
+      "style": 3,
+      "name": "Ask Lara Mara for his thoughts on giving up his\nmimeosome and returning to his original body."
+    },
+    {
+      "$id": 15,
+      "label": "tev019201_MSG0001",
+      "style": 1,
+      "name": "Are you that new crew member that Elma and\nVandham had been searching for, mmm?[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "tev019201_MSG0002",
+      "style": 1,
+      "name": "Oh, I could tell. You seem so much stronger than those\nother BLADEs...plus there's that disoriented look on your\nface.[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "tev019201_MSG0003",
+      "style": 1,
+      "name": "They said they found 10 people, but you're the only\none I've ever seen. Iiiiinteresting...[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "tev019201_MSG0004",
+      "style": 1,
+      "name": "Director General Chausson has an honest and somber\nface, but he's a politician first and foremost.\nAnd we know what THAT means, mmm? [ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "tev019201_MSG0008",
+      "style": 1,
+      "name": "Aw, were you worried about little old me?\nYou're so sweet! Am I blushing?[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "tev019201_MSG0009",
+      "style": 1,
+      "name": "Since you're such a sweetheart, I've got an important\nmission for you—bring me happiness for the rest of\nmy life![ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "tev019201_MSG0010",
+      "style": 1,
+      "name": "Kidding! Just kidding. Don't get your biorhythms all\nin a twist.[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "tev019201_MSG0011",
+      "style": 1,
+      "name": "But I WASN'T kidding about wanting to give you an\nimportant mission. There's...something about you.\nYou're not like all those other BLADEs.[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "tev019201_MSG0017",
+      "style": 1,
+      "name": "I saw one! I saw one! I saw one of those terrifying\nProne creature thingies![ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "tev019201_MSG0018",
+      "style": 1,
+      "name": "That mouth looked like it was designed to swallow\nhuman heads whole. Brrrr![ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "tev019201_MSG0019",
+      "style": 1,
+      "name": "I wonder how those big uglies even know about us\nlittle humans?[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "tev019201_MSG0020",
+      "style": 1,
+      "name": "Not that I mind being famous, mind you.\nI just don't want to be famous for being delicious.[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "tev019201_MSG0025",
+      "style": 1,
+      "name": "Did you know that when you attack a foe from behind,\nit's easier to land a hit and you're more likely to dish\nout a particularly vicious strike? Mmm-hmmm.[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "tev019201_MSG0026",
+      "style": 1,
+      "name": "...What's that? You consider striking from behind to be\na mark of cowardice and low character?[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "tev019201_MSG0027",
+      "style": 1,
+      "name": "My dear, the only chivalrous people on the battlefield\nare the dead men.[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "tev019201_MSG0028",
+      "style": 1,
+      "name": "If you want to survive on this cruel world,\nsometimes you have to be a bit of a bastard.[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "tev019201_MSG0035",
+      "style": 1,
+      "name": "I can't say I've liked the looks of most of the xenoforms\nwe've met so far.[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "tev019201_MSG0036",
+      "style": 1,
+      "name": "But those Nopon are so fluffy and adorable![ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "tev019201_MSG0037",
+      "style": 1,
+      "name": "Oh, and that guy who just showed up in Armory Alley\nis mind-blowingly hot.[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "tev019201_MSG0042",
+      "style": 1,
+      "name": "I wonder if he has any single friends...\nAh, but speak of the devil![ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "tev019201_MSG0043",
+      "style": 1,
+      "name": "...Oh? Might you be speaking of us? We have long\nsuspected ourself to be quite the handsome fellow.[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "tev019201_MSG0044",
+      "style": 1,
+      "name": "In regards to your previous question, alas, the answer\nis no. Sadly, we are the only one of our kind.\nThey truly broke the mole when they made us![ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "tev019201_MSG0045",
+      "style": 1,
+      "name": "Oh, you must have spent many a lonely night out there\nby yourself... But I'm sure I can ease that lonely heart\nof yours, now that you're here![ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "tev019201_MSG0046",
+      "style": 1,
+      "name": "I wonder if he has any friends? If we're talking cute\nxenoforms like him and the Nopon, I'll welcome them\nwith open arms. Grrrawl![ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "tev019201_MSG0051",
+      "style": 1,
+      "name": "When I first saw the government's announcement about\nthe Ma-non living in New LA, I thought they looked all\nreptilian and gross.[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "tev019201_MSG0052",
+      "style": 1,
+      "name": "But I no longer feel that way.\nIn fact, I'm ashamed I ever did![ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "tev019201_MSG0053",
+      "style": 1,
+      "name": "Rutantan is giving us one great idea after another.\nHe's really SUCH a help![ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "tev019201_MSG0054",
+      "style": 1,
+      "name": "And all beauty is subjective, right?\nIt's what's inside that matters.[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "tev019201_MSG0055",
+      "style": 1,
+      "name": "I wish I could get a cool boyfriend who would say\nthings like that about me...[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "tev019201_MSG0060",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 45,
+      "label": "tev019201_MSG0061",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 46,
+      "label": "tev019201_MSG0062",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 47,
+      "label": "tev019201_MSG0063",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 48,
+      "label": "tev019201_MSG0070",
+      "style": 1,
+      "name": "Earlier, I was thinking about how horrible life was.\nNo matter how much time you spend training yourself,\nbuying and maintaining weapons, and so on...[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "tev019201_MSG0071",
+      "style": 1,
+      "name": "death could still come for you in an instant.\nAnd when I realized that, I choked up a little bit.[ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "tev019201_MSG0072",
+      "style": 1,
+      "name": "And suddenly this little xeno guy—who I'd never seen\npay much attention to anyone—came over and tried to\ncheer me up![ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "tev019201_MSG0073",
+      "style": 1,
+      "name": "So I've resolved to go on for his sake.[ST:wait ]"
+    },
+    {
+      "$id": 52,
+      "label": "tev019201_MSG0074",
+      "style": 1,
+      "name": "If only he'd have been a wonderful human,\nthe story could have had a real happy ending.[ST:wait ]"
+    },
+    {
+      "$id": 53,
+      "label": "tev019201_MSG1001",
+      "style": 1,
+      "name": "Why do you think the Ganglion are coming after us\nhumans like this, mmm?[ST:wait ]"
+    },
+    {
+      "$id": 54,
+      "label": "tev019201_MSG1002",
+      "style": 1,
+      "name": "Do they want the Lifehold for some reason?\nOr do they just object to us humans tromping around\nthis planet?[ST:wait ]"
+    },
+    {
+      "$id": 55,
+      "label": "tev019201_MSG1003",
+      "style": 1,
+      "name": "Or maybe they're violently jealous of my grace and\nbeauty? Wouldn't be the first time that happened...[ST:wait ]"
+    },
+    {
+      "$id": 56,
+      "label": "tev019201_MSG1004",
+      "style": 1,
+      "name": "Oh, come on! That was a joooooke!\nDon't stare at me like a crazy person.[ST:wait ]"
+    },
+    {
+      "$id": 57,
+      "label": "tev019201_MSG1010",
+      "style": 1,
+      "name": "I feel like the Ganglion are rubbing their technological\nsuperiority in our faces.[ST:wait ]"
+    },
+    {
+      "$id": 58,
+      "label": "tev019201_MSG1011",
+      "style": 1,
+      "name": "But I'm not discouraged at all.[ST:wait ]"
+    },
+    {
+      "$id": 59,
+      "label": "tev019201_MSG1012",
+      "style": 1,
+      "name": "After all, now we have Rutantan quickly taking apart\nand analyzing all the little gizmos they spent so much\ntime developing.[ST:wait ]"
+    },
+    {
+      "$id": 60,
+      "label": "tev019201_MSG1013",
+      "style": 1,
+      "name": "Oh, and of course there's you—the one who's smashing\nthem apart to begin with![ST:wait ]"
+    },
+    {
+      "$id": 61,
+      "label": "tev019201_MSG2001",
+      "style": 1,
+      "name": "I listened to some of the communication logs you\nbrought back.[ST:wait ]"
+    },
+    {
+      "$id": 62,
+      "label": "tev019201_MSG2002",
+      "style": 1,
+      "name": "Since they were emergency communications,\nthey were mostly in the speakers' native tongues.[ST:wait ]"
+    },
+    {
+      "$id": 63,
+      "label": "tev019201_MSG2003",
+      "style": 1,
+      "name": "I can tell they were speaking Japanese and French,\nbut I have no idea what they were actually saying.[ST:wait ]"
+    },
+    {
+      "$id": 64,
+      "label": "tev019201_MSG2004",
+      "style": 1,
+      "name": "...Hey, wait a minute. I just realized that all those\nxenoforms have been speaking English![ST:wait ]"
+    },
+    {
+      "$id": 65,
+      "label": "tev019201_MSG2005",
+      "style": 1,
+      "name": "Has English become the lingua franca of space already?\nGood gracious, that was fast![ST:wait ]"
+    },
+    {
+      "$id": 66,
+      "label": "tev019201_MSG2010",
+      "style": 1,
+      "name": "If we're returning to our old bodies, I want to come\nback as the sparkly-eyed, pink-cheeked teenager I\nonce was![ST:wait ]"
+    },
+    {
+      "$id": 67,
+      "label": "tev019201_MSG2011",
+      "style": 1,
+      "name": "...At least, that's what I told Rutantan. But he said that\nthe Ma-non haven't been able to create any sort of\nfountain-of-youth potions either.[ST:wait ]"
+    },
+    {
+      "$id": 68,
+      "label": "tev019201_MSG2012",
+      "style": 1,
+      "name": "So in THAT case, I want to stay young and beautiful\nforever inside this mimeosome.[ST:wait ]"
+    }
+  ]
+}

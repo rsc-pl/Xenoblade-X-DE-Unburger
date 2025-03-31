@@ -1,0 +1,342 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev050202_MSG0001",
+      "style": 1,
+      "name": "Why have you come here, human?[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev050202_MSG0002",
+      "style": 1,
+      "name": "I am busy. State your business or be on your way.[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev050202_JNK0010",
+      "style": 4,
+      "name": "Reply"
+    },
+    {
+      "$id": 4,
+      "label": "qev050202_SEL0011",
+      "style": 3,
+      "name": "Tell Zo Zazhi that her brother sent you."
+    },
+    {
+      "$id": 5,
+      "label": "qev050202_JNK0020",
+      "style": 4,
+      "name": "Query"
+    },
+    {
+      "$id": 6,
+      "label": "qev050202_SEL0021",
+      "style": 3,
+      "name": "Ask Zo Zazhi what SHE is doing here."
+    },
+    {
+      "$id": 7,
+      "label": "qev050202_MSG0003",
+      "style": 1,
+      "name": "Hmph. Meddlesome whelp.[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev050202_MSG0004",
+      "style": 1,
+      "name": "His concern comes from a place of kindness,\nbut I will not be moved by the words of a weakling.[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev050202_MSG0005",
+      "style": 1,
+      "name": "If you wish for me to listen, go to the Jair Fortress\nand slay Siphon Qmoeva and Vanitas Seidr.\nAnd move swiftly! I will not abide here long.[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev050202_MSG0006",
+      "style": 1,
+      "name": "Hmph. I need not explain my duty to a weakling.[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev050202_MSG0007",
+      "style": 1,
+      "name": "...Zo Langra sent you? That changes nothing.\nIf you would prove me wrong and have me listen,\nI have a task for you.[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev050202_MSG0008",
+      "style": 1,
+      "name": "Go to the Jair Fortress and slay Siphon Qmoeva and\nVanitas Seidr. And move swiftly! I shall not wait long.[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev050202_MSG0009",
+      "style": 1,
+      "name": "Further discussion can continue after you are done.[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev050202_MSG0010",
+      "style": 1,
+      "name": "I have no time for the weak, even if you were sent by\nmy brother.[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev050202_MSG0011",
+      "style": 1,
+      "name": "If you cannot defeat Siphon Qmoeva and Vanitas Seidr\nin a suitably short time, you had best head home to\nyour kind's city.[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev050202_MSG0012",
+      "style": 1,
+      "name": "Well? Have you slain Siphon Qmoeva\nand Vanitas Seidr?[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev050202_MSG0013",
+      "style": 1,
+      "name": "...I see. It seems Langra did not send a total amateur.[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev050202_MSG0014",
+      "style": 1,
+      "name": "You should serve as a suitable warm-up before my\nfight with the Ganglion assassin.[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev050202_MSG0015",
+      "style": 1,
+      "name": "Draw your weapon! If you would drag me back home,\nyou must do so by force.[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev050202_MSG0016",
+      "style": 1,
+      "name": "And do not hold back, for the last princess of\nHouse Zo will not be easily tamed![ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev050202_JNK0030",
+      "style": 4,
+      "name": "Soothe"
+    },
+    {
+      "$id": 22,
+      "label": "qev050202_SEL0031",
+      "style": 3,
+      "name": "Calm Zo Zazhi by assuring her you only came to talk."
+    },
+    {
+      "$id": 23,
+      "label": "qev050202_JNK0040",
+      "style": 4,
+      "name": "Accept"
+    },
+    {
+      "$id": 24,
+      "label": "qev050202_SEL0041",
+      "style": 3,
+      "name": "Draw your weapon and challenge Zo Zazhi."
+    },
+    {
+      "$id": 25,
+      "label": "qev050202_MSG0017",
+      "style": 1,
+      "name": "Coward! I have no intention of listening to you babble,\nor of going home.[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev050202_MSG0018",
+      "style": 1,
+      "name": "Not until I have cleaved the one who killed my brothers\nin twain and bathed in his blood.[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev050202_MSG0019",
+      "style": 1,
+      "name": "I had hoped to get a bit of exercise, but I see that is\nfolly. If you have no will to fight, then turn your tail\nand run home.[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev050202_MSG0020",
+      "style": 1,
+      "name": "And tell my brother to stop worrying!\nI will return with that monster's head in hand.[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev050202_MSG0021",
+      "style": 1,
+      "name": "I have nearly found him. I cannot give up now.[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev050202_MSG0022",
+      "style": 1,
+      "name": "Dreams of revenge were all that helped me survive\nyears of servitude under the Ganglion.[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev050202_MSG0023",
+      "style": 1,
+      "name": "You show spirit. But do not think you can stop me.[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev050202_MSG0024",
+      "style": 1,
+      "name": "I shall not lose to you OR him. And until I have justice\nfor my fallen brothers, I will not be defeated![ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev050202_MSG0025",
+      "style": 1,
+      "name": "I have not given up. I will train until I can defeat you.[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev050202_MSG0026",
+      "style": 1,
+      "name": "And then I will crush the assassin, throw down\nthe Ganglion, and bring my brothers peace.[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev050202_MSG0027",
+      "style": 1,
+      "name": "My brothers' killer is somewhere out here in Oblivia...\nAnd I will find him![ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev050202_MSG0028",
+      "style": 1,
+      "name": "Tell my little brother to stop worrying.\nI will return with that monster's head in hand.[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev050202_MSG0029",
+      "style": 1,
+      "name": "I am close to finding my brothers' killer now, human.\nSo very close.[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev050202_MSG0030",
+      "style": 1,
+      "name": "If you would stand in my way, I will cut you down.\nBut if that does not still your tongue,\nthen state your business.[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "qev050202_MSG0032",
+      "style": 1,
+      "name": "Th-these are...my brothers' swords.\nBut why do you have them?[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "qev050202_JNK0050",
+      "style": 4,
+      "name": "Explain"
+    },
+    {
+      "$id": 41,
+      "label": "qev050202_SEL0051",
+      "style": 3,
+      "name": "Calmly inform Zo Zazhi of her family's wishes."
+    },
+    {
+      "$id": 42,
+      "label": "qev050202_JNK0060",
+      "style": 4,
+      "name": "Urge"
+    },
+    {
+      "$id": 43,
+      "label": "qev050202_SEL0061",
+      "style": 3,
+      "name": "Passionately explain to Zo Zazhi that\neveryone is worried about her."
+    },
+    {
+      "$id": 44,
+      "label": "qev050202_MSG0033",
+      "style": 1,
+      "name": "Rgh... *sniff*[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "qev050202_MSG0034",
+      "style": 1,
+      "name": "AAAAAAAAUGH! BROTHERS![ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "qev050202_MSG0035",
+      "style": 1,
+      "name": "They were strict teachers. Exacting. Demanding.\nBut their care for me was always clear.[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "qev050202_MSG0036",
+      "style": 1,
+      "name": "They threw themselves before the assassin so\nZo Langra and I might escape. They...died for us.[ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "qev050202_MSG0037",
+      "style": 1,
+      "name": "And now it is my turn. Even if the cost is my life,\nI refuse to live on in shame.[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "qev050202_MSG0038",
+      "style": 1,
+      "name": "That bastard will taste the sword taught to me by my\nbrothers![ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "qev050202_MSG0039",
+      "style": 1,
+      "name": "Now stand aside, or I will cut open my own path.[ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "qev050202_MSG0040",
+      "style": 1,
+      "name": "I have not given up. I will train until I can defeat you.[ST:wait ]"
+    },
+    {
+      "$id": 52,
+      "label": "qev050202_MSG0041",
+      "style": 1,
+      "name": "And then I will crush the assassin, throw down\nthe Ganglion, and bring my brothers peace.[ST:wait ]"
+    },
+    {
+      "$id": 53,
+      "label": "qev050202_MSG0042",
+      "style": 1,
+      "name": "You...defeated him?[ST:wait ]"
+    },
+    {
+      "$id": 54,
+      "label": "qev050202_MSG0043",
+      "style": 1,
+      "name": "RRRAAAAAUUUGH! He was mine to kill!\nI was to claim vengeance with my own hands![ST:wait ]"
+    }
+  ]
+}

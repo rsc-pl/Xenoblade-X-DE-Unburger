@@ -1,0 +1,558 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev019301_MSG0001",
+      "style": 1,
+      "name": "Well, if it ain't [ST:playername ].\nYou're looking smug as ever.[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev019301_MSG0002",
+      "style": 1,
+      "name": "How's all MY money from MY research probe viewers\ntreating you, ya thievin' little rat?[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev019301_JNK0010",
+      "style": 4,
+      "name": "Correct"
+    },
+    {
+      "$id": 4,
+      "label": "qev019301_SEL0011",
+      "style": 3,
+      "name": "Explain how you earn your money\nthrough legitimate means."
+    },
+    {
+      "$id": 5,
+      "label": "qev019301_JNK0020",
+      "style": 4,
+      "name": "Dismiss"
+    },
+    {
+      "$id": 6,
+      "label": "qev019301_SEL0021",
+      "style": 3,
+      "name": "Tell Tobias you seek a higher cause than mere profit."
+    },
+    {
+      "$id": 7,
+      "label": "qev019301_MSG0003",
+      "style": 1,
+      "name": "Well, lookee here! It's a damn philosophy major!\nSave the high-and-mighty act for the circus, pal.[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev019301_MSG0004",
+      "style": 1,
+      "name": "You probably think a starving kid stealing bread from\nthe rich is a dangerous criminal, huh?[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev019301_MSG0005",
+      "style": 1,
+      "name": "You think your vision of justice makes you so special?\n'Cause I'm happy to martyr you for it unless you pull\nall your data probes out, posthaste![ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev019301_MSG0006",
+      "style": 1,
+      "name": "Oh, swell. Because hypocrisy is juuuust what you been\nmissing![ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev019301_MSG0007",
+      "style": 1,
+      "name": "You need to eat, yeah? Need bullets to survive?\nThen you'd better have some money, genius![ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev019301_MSG0008",
+      "style": 1,
+      "name": "But if you're so pure and selfless, put your money\nwhere your mouth is and pull out all your damn\ndata probes.[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev019301_MSG0009",
+      "style": 1,
+      "name": "But no. Of course you won't do that.[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev019301_MSG0010",
+      "style": 1,
+      "name": "So don't try to pretend you ain't in this for the money,\nsame as me.[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev019301_MSG0011",
+      "style": 1,
+      "name": "Now let's settle this for good and all![ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev019301_MSG0012",
+      "style": 1,
+      "name": "I've installed research probes all over Mira since\nyou cheated on our last little wager, and, [ST:gender p1=brother p2=sister ],\nyou don't stand a chance of beating me this time![ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev019301_MSG0013",
+      "style": 1,
+      "name": "So if you got the guts, come take me on again.\nAnd whoever wins this time gets to be the king of \nswingtown for KEEPS![ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev019301_MSG0014",
+      "style": 1,
+      "name": "You up to it, pal? 'Cause I'm done running.\nYou beat me, I'll do whatever you say.[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev019301_MSG0015",
+      "style": 1,
+      "name": "Ha! It's your grave, buddy. But before we start,\nyou gotta answer one question...[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev019301_MSG0016",
+      "style": 1,
+      "name": "Why do you work on expanding FrontierNav?[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev019301_MSG0017",
+      "style": 1,
+      "name": "And I ain't talking about the \"I want a bright future\nfor mankind\" bullplop. I mean the REAL reason.[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev019301_MSG0018",
+      "style": 1,
+      "name": "I want to know what it is that turns your gears.\nThe truth! Not some warmed-over lie.[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev019301_JNK0030",
+      "style": 4,
+      "name": "Speak of Mankind's Future"
+    },
+    {
+      "$id": 24,
+      "label": "qev019301_SEL0031",
+      "style": 3,
+      "name": "Tell Tobias you honestly want\nto improve conditions for all."
+    },
+    {
+      "$id": 25,
+      "label": "qev019301_JNK0040",
+      "style": 4,
+      "name": "Talk of Money"
+    },
+    {
+      "$id": 26,
+      "label": "qev019301_SEL0041",
+      "style": 3,
+      "name": "Admit there's something that you\nREALLY want to buy."
+    },
+    {
+      "$id": 27,
+      "label": "qev019301_MSG0019",
+      "style": 1,
+      "name": "See, this is why I don't trust people like you and Kirsty.[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev019301_MSG0020",
+      "style": 1,
+      "name": "'Cause me? I've got something to build, and that means\nI need whole boatloads of cash.[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev019301_MSG0021",
+      "style": 1,
+      "name": "I ain't no daisy-headed idiot like you! So watch your\nback, flower child, because I'm gonna RIP YOUR\nPETALS CLEAN OUT![ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev019301_MSG0022",
+      "style": 1,
+      "name": "You're more honest than Kirsty. I'll give ya that.[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev019301_MSG0023",
+      "style": 1,
+      "name": "But you're not the only one chasing after a big-ticket\nitem here, yeah?[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev019301_MSG0024",
+      "style": 1,
+      "name": "And ol' Tobias can out-greed anyone. So watch your\nback, pal, because I'm gonna CRUSH you![ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev019301_MSG0025",
+      "style": 1,
+      "name": "I've been making my living this way a long time, kid,\nand I'm not letting some wide-eyed rook beat me.[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev019301_MSG0026",
+      "style": 1,
+      "name": "We race to 130,000 credits in sightseeing profits.\nI'll wring that much out of FrontierNav in no time.[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev019301_MSG0027",
+      "style": 1,
+      "name": "After losing to you, I been planting new data probes\nall over Mira.[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev019301_MSG0028",
+      "style": 1,
+      "name": "And I ain't losing again! So let's lay it all out on the\ntable, pal... How much ya got?![ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev019301_MSG0029",
+      "style": 1,
+      "name": "...WHAT?! B-but that ain't... RRAAUGH![ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev019301_MSG0030",
+      "style": 1,
+      "name": "How in the sweet hell do you keep out-earning me?[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "qev019301_MSG0031",
+      "style": 1,
+      "name": "Who ARE you?![ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "qev019301_JNK0050",
+      "style": 4,
+      "name": "Boast"
+    },
+    {
+      "$id": 41,
+      "label": "qev019301_SEL0051",
+      "style": 3,
+      "name": "Claim to be Mira's greatest explorer."
+    },
+    {
+      "$id": 42,
+      "label": "qev019301_JNK0060",
+      "style": 4,
+      "name": "Downplay"
+    },
+    {
+      "$id": 43,
+      "label": "qev019301_SEL0061",
+      "style": 3,
+      "name": "Shrug and say you're just a BLADE."
+    },
+    {
+      "$id": 44,
+      "label": "qev019301_MSG0032",
+      "style": 1,
+      "name": "Don't strain your back climbin' down from that high\nhorse you're on, pal! ...Though I guess you got the\nnumbers what to back it up.[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "qev019301_MSG0033",
+      "style": 1,
+      "name": "No way. There's no way that \"just a BLADE\" could\nbeat me twice.[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "qev019301_MSG0034",
+      "style": 1,
+      "name": "This... This isn't over yet! And to hell with the risk,\nyou hear? I'm gonna turn this around in one shot![ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "qev019301_MSG0035",
+      "style": 1,
+      "name": "I'm gonna plant data probes all around the Ganglion's\nhome base in Cauldros and rack up more money than\nyou ever SEEN![ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "qev019301_MSG0036",
+      "style": 1,
+      "name": "...Oh. It's you.[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "qev019301_MSG0037",
+      "style": 1,
+      "name": "Come here to laugh at ol' Tobias? Well, go ahead.\nI came here to finally beat you, but Vainamo, the\nBellower got to me first.[ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "qev019301_MSG0038",
+      "style": 1,
+      "name": "Hungry bastard's still around, too.\nProbably just waiting to finish the job...[ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "qev019301_MSG0039",
+      "style": 1,
+      "name": "He's persistent, which I like. But he also wants to eat\nme, which I don't much care for.[ST:wait ]"
+    },
+    {
+      "$id": 52,
+      "label": "qev019301_JNK0070",
+      "style": 4,
+      "name": "Aid"
+    },
+    {
+      "$id": 53,
+      "label": "qev019301_SEL0071",
+      "style": 3,
+      "name": "Offer Tobias your assistance."
+    },
+    {
+      "$id": 54,
+      "label": "qev019301_JNK0080",
+      "style": 4,
+      "name": "Lecture"
+    },
+    {
+      "$id": 55,
+      "label": "qev019301_SEL0081",
+      "style": 3,
+      "name": "Tell Tobias he must survive, no matter what occurs."
+    },
+    {
+      "$id": 56,
+      "label": "qev019301_MSG0040",
+      "style": 1,
+      "name": "The goody-goody act never stops with you, does it?\nWatch your back with an attitude like that, pal.\nGood little helpers like you tend to die young.[ST:wait ]"
+    },
+    {
+      "$id": 57,
+      "label": "qev019301_MSG0041",
+      "style": 1,
+      "name": "What are ya, my mom? Spare me.[ST:wait ]"
+    },
+    {
+      "$id": 58,
+      "label": "qev019301_MSG0042",
+      "style": 1,
+      "name": "Ah well, it's free advice. Might as well take it.[ST:wait ]"
+    },
+    {
+      "$id": 59,
+      "label": "qev019301_MSG0043",
+      "style": 1,
+      "name": "Guess I'll just lay low for a while and hope he's a\nlousy tracker.[ST:wait ]"
+    },
+    {
+      "$id": 60,
+      "label": "qev019301_MSG0044",
+      "style": 1,
+      "name": "...You be careful, yeah?\nIf that thing finds you, it's gonna hurt.[ST:wait ]"
+    },
+    {
+      "$id": 61,
+      "label": "qev019301_MSG0045",
+      "style": 1,
+      "name": "I was gonna beat Vainamo, the Bellower and finally\nprove I was better than you.[ST:wait ]"
+    },
+    {
+      "$id": 62,
+      "label": "qev019301_MSG0046",
+      "style": 1,
+      "name": "Sure, that's some long odds, but nobody ever got rich\nby playing it safe.[ST:wait ]"
+    },
+    {
+      "$id": 63,
+      "label": "qev019301_MSG0047",
+      "style": 1,
+      "name": "But looks like I lost that gamble, eh? Heh... Yeah.\nLook, forget about me and just...go already.[ST:wait ]"
+    },
+    {
+      "$id": 64,
+      "label": "qev019301_MSG0048",
+      "style": 1,
+      "name": "I...I lost its signal?[ST:wait ]"
+    },
+    {
+      "$id": 65,
+      "label": "qev019301_MSG0049",
+      "style": 1,
+      "name": "You... No, you didn't kill Vainamo, the Bellower.\nYou couldn't! ...Could ya?[ST:wait ]"
+    },
+    {
+      "$id": 66,
+      "label": "qev019301_JNK0090",
+      "style": 4,
+      "name": "Boast"
+    },
+    {
+      "$id": 67,
+      "label": "qev019301_SEL0091",
+      "style": 3,
+      "name": "Flex a little, then nod a few times like it's no big."
+    },
+    {
+      "$id": 68,
+      "label": "qev019301_JNK0100",
+      "style": 4,
+      "name": "Downplay"
+    },
+    {
+      "$id": 69,
+      "label": "qev019301_SEL0101",
+      "style": 3,
+      "name": "Say you only just managed to defeat the horrid tyrant."
+    },
+    {
+      "$id": 70,
+      "label": "qev019301_MSG0066",
+      "style": 1,
+      "name": "Sweet mother of marmalade...\nI been picking fights with the wrong cat![ST:wait ]"
+    },
+    {
+      "$id": 71,
+      "label": "qev019301_MSG0050",
+      "style": 1,
+      "name": "No kidding. I've been all over this rock, and I ain't\nnever seen anything as nasty as that before.[ST:wait ]"
+    },
+    {
+      "$id": 72,
+      "label": "qev019301_MSG0051",
+      "style": 1,
+      "name": "Well, hell. I guess a guy knows when he's beat, yeah?\nI'll stay outta your way from now on.[ST:wait ]"
+    },
+    {
+      "$id": 73,
+      "label": "qev019301_MSG0052",
+      "style": 1,
+      "name": "Stick your research probes where you want.\nTake all the money. I don't care.[ST:wait ]"
+    },
+    {
+      "$id": 74,
+      "label": "qev019301_MSG0053",
+      "style": 1,
+      "name": "And you're the boss of me now, so whatever you tell\nme to do, I'll do it.[ST:wait ]"
+    },
+    {
+      "$id": 75,
+      "label": "qev019301_MSG0054",
+      "style": 1,
+      "name": "What's it gonna be? You going to take my money?\nWork me till I puke blood? Make me dance for sailors\nand charge two bits a gander?[ST:wait ]"
+    },
+    {
+      "$id": 76,
+      "label": "qev019301_JNK0110",
+      "style": 4,
+      "name": "Order"
+    },
+    {
+      "$id": 77,
+      "label": "qev019301_SEL0111",
+      "style": 3,
+      "name": "Make Tobias recommit himself to serving NLA."
+    },
+    {
+      "$id": 78,
+      "label": "qev019301_JNK0120",
+      "style": 4,
+      "name": "Inquire"
+    },
+    {
+      "$id": 79,
+      "label": "qev019301_SEL0121",
+      "style": 3,
+      "name": "Ask Tobias why he's so obsessed with money."
+    },
+    {
+      "$id": 80,
+      "label": "qev019301_MSG0055",
+      "style": 1,
+      "name": "What? Oh, for the love of...[ST:wait ]"
+    },
+    {
+      "$id": 81,
+      "label": "qev019301_MSG0056",
+      "style": 1,
+      "name": "You remind me of the ones who put me on the White\nWhale. They were soft, too.[ST:wait ]"
+    },
+    {
+      "$id": 82,
+      "label": "qev019301_MSG0057",
+      "style": 1,
+      "name": "And now I have to finish the project they left behind.[ST:wait ]"
+    },
+    {
+      "$id": 83,
+      "label": "qev019301_MSG0058",
+      "style": 1,
+      "name": "I ain't got time to sit around groveling—got capital to\nraise and all that.[ST:wait ]"
+    },
+    {
+      "$id": 84,
+      "label": "qev019301_MSG0059",
+      "style": 1,
+      "name": "Wait, what? You ain't gonna make me do nothing\nembarrassing? Just gonna ask me a question?[ST:wait ]"
+    },
+    {
+      "$id": 85,
+      "label": "qev019301_MSG0060",
+      "style": 1,
+      "name": "Yeah, well, I was gonna use FrontierNav to make a\nmountain of cash, right?[ST:wait ]"
+    },
+    {
+      "$id": 86,
+      "label": "qev019301_MSG0061",
+      "style": 1,
+      "name": "But it was all so I could finish the project that me and\nmy friends started.[ST:wait ]"
+    },
+    {
+      "$id": 87,
+      "label": "qev019301_MSG0062",
+      "style": 1,
+      "name": "It'll cost a fortune. More than you could imagine.\nWhich is why I have to earn money any way I can,\nno matter what people think of it.[ST:wait ]"
+    },
+    {
+      "$id": 88,
+      "label": "qev019301_MSG0063",
+      "style": 1,
+      "name": "Project's classified, so I can't say much more, but...\nWell, it's something humanity won't mind having\naround. Let's leave it at that.[ST:wait ]"
+    },
+    {
+      "$id": 89,
+      "label": "qev019301_MSG0064",
+      "style": 1,
+      "name": "Anyway, I'm off. And if you don't have any demands,\na loss is a loss, and I'll pay a fair prize.[ST:wait ]"
+    },
+    {
+      "$id": 90,
+      "label": "qev019301_MSG0065",
+      "style": 1,
+      "name": "...Here. Take it. So long.[ST:wait ]"
+    }
+  ]
+}

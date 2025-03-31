@@ -1,0 +1,504 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev091101_MSG0001",
+      "style": 0,
+      "name": "I'm sure you can guess why I've asked you here.[ST:wait ]\n"
+    },
+    {
+      "$id": 2,
+      "label": "qev091101_MSG0002",
+      "style": 0,
+      "name": "The Ganglion are mobilizing at Bedrock Hold in Primordia.\nWe think they're going to strike NLA.[ST:wait ]\n"
+    },
+    {
+      "$id": 3,
+      "label": "qev091101_MSG0003",
+      "style": 0,
+      "name": "So we're not going to wait.\nInstead, a strike team will lead an attack and seize the fortress.[ST:wait ]\n"
+    },
+    {
+      "$id": 4,
+      "label": "qev091101_MSG0004",
+      "style": 0,
+      "name": "Sounds right up my alley.[ST:wait ]\n"
+    },
+    {
+      "$id": 5,
+      "label": "qev091101_MSG0005",
+      "style": 0,
+      "name": "I was hoping you'd say that, Frye.[ST:wait ]\n"
+    },
+    {
+      "$id": 6,
+      "label": "qev091101_MSG0006",
+      "style": 0,
+      "name": "I'd like you to lead the strike team.[ST:wait ]\n"
+    },
+    {
+      "$id": 7,
+      "label": "qev091101_MSG0007",
+      "style": 0,
+      "name": "Sure thing, boss.[ST:wait ]\n"
+    },
+    {
+      "$id": 8,
+      "label": "qev091101_MSG0008",
+      "style": 0,
+      "name": "The rest of you will remain behind\nand guard New LA's perimeter.[ST:wait ]\n"
+    },
+    {
+      "$id": 9,
+      "label": "qev091101_MSG0009",
+      "style": 0,
+      "name": "What, we're not all going?[ST:wait ]\n"
+    },
+    {
+      "$id": 10,
+      "label": "qev091101_MSG0010",
+      "style": 0,
+      "name": "The city's defenses can't spare everyone.[ST:wait ]\n"
+    },
+    {
+      "$id": 11,
+      "label": "qev091101_MSG0011",
+      "style": 0,
+      "name": "If more Ganglion forces struck,\nNew LA would crumble in hours.[ST:wait ]\n"
+    },
+    {
+      "$id": 12,
+      "label": "qev091101_MSG0012",
+      "style": 0,
+      "name": "Guess that's true.[ST:wait ]\n"
+    },
+    {
+      "$id": 13,
+      "label": "qev091101_MSG0013",
+      "style": 0,
+      "name": "I'll guard the city. Playing offense isn't my thing.[ST:wait ]\n"
+    },
+    {
+      "$id": 14,
+      "label": "qev091101_MSG0014",
+      "style": 0,
+      "name": "All right. Phog here will head up the defensive effort.[ST:wait ]\n"
+    },
+    {
+      "$id": 15,
+      "label": "qev091101_MSG0015",
+      "style": 0,
+      "name": "As a Prospector, that makes more sense anyway.[ST:wait ]\n"
+    },
+    {
+      "$id": 16,
+      "label": "qev091101_MSG0016",
+      "style": 0,
+      "name": "How about you? Which team will you join?[ST:wait ]\n"
+    },
+    {
+      "$id": 17,
+      "label": "qev091101_JNK0010",
+      "style": 4,
+      "name": "Attack"
+    },
+    {
+      "$id": 18,
+      "label": "qev091101_SEL0011",
+      "style": 3,
+      "name": "Go to Bedrock Hold with Frye."
+    },
+    {
+      "$id": 19,
+      "label": "qev091101_JNK0020",
+      "style": 4,
+      "name": "Defend"
+    },
+    {
+      "$id": 20,
+      "label": "qev091101_SEL0021",
+      "style": 3,
+      "name": "Stay behind and guard the city with Phog."
+    },
+    {
+      "$id": 21,
+      "label": "qev091101_MSG0017",
+      "style": 0,
+      "name": "Why ain't I surprised?[ST:wait ]\n"
+    },
+    {
+      "$id": 22,
+      "label": "qev091101_MSG0018",
+      "style": 0,
+      "name": "Just follow me. I'll get you home safe![ST:wait ]\n"
+    },
+    {
+      "$id": 23,
+      "label": "qev091101_MSG0019",
+      "style": 0,
+      "name": "Or more likely, I'll follow while you do the heavy lifting.[ST:wait ]\n"
+    },
+    {
+      "$id": 24,
+      "label": "qev091101_MSG0020",
+      "style": 0,
+      "name": "But at least I'll be watching your back![ST:wait ]\n"
+    },
+    {
+      "$id": 25,
+      "label": "qev091101_MSG0021",
+      "style": 0,
+      "name": "I'll begin the briefing.[ST:wait ]\n"
+    },
+    {
+      "$id": 26,
+      "label": "qev091101_MSG0022",
+      "style": 0,
+      "name": "Frye, you take the strike team and head for the hold.[ST:wait ]\n"
+    },
+    {
+      "$id": 27,
+      "label": "qev091101_MSG0023",
+      "style": 0,
+      "name": "Take out as many of the assault forces\nthey've assembled there as you can.[ST:wait ]\n"
+    },
+    {
+      "$id": 28,
+      "label": "qev091101_MSG0024",
+      "style": 0,
+      "name": "With any luck, we can prevent\nthis attack on New LA completely.[ST:wait ]\n"
+    },
+    {
+      "$id": 29,
+      "label": "qev091101_MSG0025",
+      "style": 0,
+      "name": "Any questions?[ST:wait ]\n"
+    },
+    {
+      "$id": 30,
+      "label": "qev091101_MSG0026",
+      "style": 0,
+      "name": "There's more than just these new forces at the base, right?\nWhat do we do with the others?[ST:wait ]\n"
+    },
+    {
+      "$id": 31,
+      "label": "qev091101_MSG0027",
+      "style": 0,
+      "name": "Your only targets are the ones planning to hit the city.\nYou can ignore the rest.[ST:wait ]\n"
+    },
+    {
+      "$id": 32,
+      "label": "qev091101_MSG0028",
+      "style": 0,
+      "name": "Roger that.[ST:wait ]\n"
+    },
+    {
+      "$id": 33,
+      "label": "qev091101_MSG0029",
+      "style": 0,
+      "name": "Any other questions?[ST:wait ]\n"
+    },
+    {
+      "$id": 34,
+      "label": "qev091101_MSG0030",
+      "style": 0,
+      "name": "Okay. Phog? I'll explain your role in a second.[ST:wait ]\n"
+    },
+    {
+      "$id": 35,
+      "label": "qev091101_MSG0031",
+      "style": 0,
+      "name": "Good luck, strike team. Dismissed![ST:wait ]\n"
+    },
+    {
+      "$id": 36,
+      "label": "qev091101_MSG0032",
+      "style": 0,
+      "name": "I appreciate the help.[ST:wait ]\n"
+    },
+    {
+      "$id": 37,
+      "label": "qev091101_MSG0033",
+      "style": 0,
+      "name": "Agreed. Together you should be more than enough.[ST:wait ]\n"
+    },
+    {
+      "$id": 38,
+      "label": "qev091101_MSG0034",
+      "style": 0,
+      "name": "Everyone else will join Frye on the strike team.[ST:wait ]\n"
+    },
+    {
+      "$id": 39,
+      "label": "qev091101_MSG0035",
+      "style": 0,
+      "name": "I'll begin the briefing.[ST:wait ]\n"
+    },
+    {
+      "$id": 40,
+      "label": "qev091101_MSG0036",
+      "style": 0,
+      "name": "Frye, you and the strike team will take out\nas much of their force as you can.[ST:wait ]\n"
+    },
+    {
+      "$id": 41,
+      "label": "qev091101_MSG0037",
+      "style": 0,
+      "name": "Roger that.[ST:wait ]\n"
+    },
+    {
+      "$id": 42,
+      "label": "qev091101_MSG0038",
+      "style": 0,
+      "name": "Phog, you'll assemble your team outside the east gate.[ST:wait ]\n"
+    },
+    {
+      "$id": 43,
+      "label": "qev091101_MSG0039",
+      "style": 0,
+      "name": "But sir, Bedrock Hold is to the west.[ST:wait ]\n"
+    },
+    {
+      "$id": 44,
+      "label": "qev091101_MSG0040",
+      "style": 0,
+      "name": "Right, and you'll be keeping them busy on that side.[ST:wait ]\n"
+    },
+    {
+      "$id": 45,
+      "label": "qev091101_MSG0041",
+      "style": 0,
+      "name": "However, the Ganglion forces in the east\nwill likely head west once the attack starts.[ST:wait ]\n"
+    },
+    {
+      "$id": 46,
+      "label": "qev091101_MSG0042",
+      "style": 0,
+      "name": "...Taking them right to New LA's doorstep.[ST:wait ]\n"
+    },
+    {
+      "$id": 47,
+      "label": "qev091101_MSG0043",
+      "style": 0,
+      "name": "Exactly. So we need to be ready.[ST:wait ]\n"
+    },
+    {
+      "$id": 48,
+      "label": "qev091101_MSG0044",
+      "style": 0,
+      "name": "We may still need to call you back from the hold,\nbut this will buy us time.[ST:wait ]\n"
+    },
+    {
+      "$id": 49,
+      "label": "qev091101_MSG0045",
+      "style": 0,
+      "name": "Keeping one step ahead. I like it![ST:wait ]\n"
+    },
+    {
+      "$id": 50,
+      "label": "qev091101_MSG0046",
+      "style": 0,
+      "name": "But if reinforcements did slip past\nand you were caught between—[ST:wait ]\n"
+    },
+    {
+      "$id": 51,
+      "label": "qev091101_MSG0047",
+      "style": 0,
+      "name": "Our intelligence suggests that\nsuch a possibility is almost nil.[ST:wait ]\n"
+    },
+    {
+      "$id": 52,
+      "label": "qev091101_MSG0048",
+      "style": 0,
+      "name": "Understood. Still, be careful out there, brother.[ST:wait ]\n"
+    },
+    {
+      "$id": 53,
+      "label": "qev091101_MSG0049",
+      "style": 0,
+      "name": " [ST:wait ]\n"
+    },
+    {
+      "$id": 54,
+      "label": "qev091101_MSG0050",
+      "style": 0,
+      "name": "Hey, hold up.[ST:wait ]\n"
+    },
+    {
+      "$id": 55,
+      "label": "qev091101_MSG0051",
+      "style": 0,
+      "name": "You've gone on missions with Phog before, right?\nHow, uh...[ST:wait ]\n"
+    },
+    {
+      "$id": 56,
+      "label": "qev091101_MSG0052",
+      "style": 0,
+      "name": "How was he?[ST:wait ]\n"
+    },
+    {
+      "$id": 57,
+      "label": "qev091101_JNK0030",
+      "style": 4,
+      "name": "Praise"
+    },
+    {
+      "$id": 58,
+      "label": "qev091101_SEL0031",
+      "style": 3,
+      "name": "Tell Frye that Phog performed excellently."
+    },
+    {
+      "$id": 59,
+      "label": "qev091101_JNK0040",
+      "style": 4,
+      "name": "Chuckle"
+    },
+    {
+      "$id": 60,
+      "label": "qev091101_SEL0041",
+      "style": 3,
+      "name": "Tell Frye that Phog is...unique,\nbut that it is part of his charm."
+    },
+    {
+      "$id": 61,
+      "label": "qev091101_JNK0050",
+      "style": 4,
+      "name": "Criticize"
+    },
+    {
+      "$id": 62,
+      "label": "qev091101_SEL0051",
+      "style": 3,
+      "name": "Bluntly tell Frye that Phog was difficult to work with."
+    },
+    {
+      "$id": 63,
+      "label": "qev091101_MSG0053",
+      "style": 0,
+      "name": "I see...[ST:wait ]\n"
+    },
+    {
+      "$id": 64,
+      "label": "qev091101_MSG0054",
+      "style": 0,
+      "name": "Hmm...[ST:wait ]\n"
+    },
+    {
+      "$id": 65,
+      "label": "qev091101_MSG0055",
+      "style": 0,
+      "name": "He seems cold. Like he can't be bothered\nto defend his own flesh and blood.[ST:wait ]\n"
+    },
+    {
+      "$id": 66,
+      "label": "qev091101_MSG0056",
+      "style": 0,
+      "name": "He's always off in his own little world. Creeps me out.[ST:wait ]\n"
+    },
+    {
+      "$id": 67,
+      "label": "qev091101_MSG0057",
+      "style": 0,
+      "name": "I never have any clue what he's thinking.[ST:wait ]\n"
+    },
+    {
+      "$id": 68,
+      "label": "qev091101_JNK0060",
+      "style": 4,
+      "name": "Argue"
+    },
+    {
+      "$id": 69,
+      "label": "qev091101_SEL0061",
+      "style": 3,
+      "name": "Tell Frye what Phog told you about their father."
+    },
+    {
+      "$id": 70,
+      "label": "qev091101_JNK0070",
+      "style": 4,
+      "name": "Listen"
+    },
+    {
+      "$id": 71,
+      "label": "qev091101_SEL0071",
+      "style": 3,
+      "name": "Hear Frye out."
+    },
+    {
+      "$id": 72,
+      "label": "qev091101_MSG0058",
+      "style": 0,
+      "name": "...Dad stayed on Earth because he wanted to?[ST:wait ]\n"
+    },
+    {
+      "$id": 73,
+      "label": "qev091101_MSG0059",
+      "style": 0,
+      "name": "Heh. What a load of crap.[ST:wait ]\n"
+    },
+    {
+      "$id": 74,
+      "label": "qev091101_MSG0060",
+      "style": 0,
+      "name": "Preserving human life was everything to him![ST:wait ]\n"
+    },
+    {
+      "$id": 75,
+      "label": "qev091101_MSG0061",
+      "style": 0,
+      "name": "What better way to do that than by signing up for the Whale?[ST:wait ]\n"
+    },
+    {
+      "$id": 76,
+      "label": "qev091101_MSG0062",
+      "style": 0,
+      "name": "He'd never turn that down! Not in a million years![ST:wait ]\n"
+    },
+    {
+      "$id": 77,
+      "label": "qev091101_MSG0063",
+      "style": 0,
+      "name": "He's always been the genius type.\nPulls off ridiculous stuff like it's nothing.[ST:wait ]\n"
+    },
+    {
+      "$id": 78,
+      "label": "qev091101_MSG0064",
+      "style": 0,
+      "name": "But I can't accept him. I can't love someone\nwho doesn't value his own father's life.[ST:wait ]\n"
+    },
+    {
+      "$id": 79,
+      "label": "qev091101_MSG0065",
+      "style": 0,
+      "name": "Sorry. Anyway, back to the mission.[ST:wait ]\n"
+    },
+    {
+      "$id": 80,
+      "label": "qev091101_MSG0066",
+      "style": 0,
+      "name": "Jobs like this, I just want to get 'em done and hit the diner.[ST:wait ]\n"
+    },
+    {
+      "$id": 81,
+      "label": "qev091101_MSG0067",
+      "style": 0,
+      "name": "You know, kick back a cold one. Or 20![ST:wait ]\n"
+    }
+  ]
+}

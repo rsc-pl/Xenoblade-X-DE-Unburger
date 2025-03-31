@@ -1,0 +1,654 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev025302_MSG0001",
+      "style": 1,
+      "name": "Ah! Yes yes. Hello hello. Welcome.[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev025302_MSG0002",
+      "style": 1,
+      "name": "Did you bring a noka mirrorstone, perhaps?[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev025302_MSG0003",
+      "style": 1,
+      "name": "If not, maybe hurry please, okay? Thank you.[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev025302_MSG0004",
+      "style": 1,
+      "name": "Ah! Yes yes. Hello hello. Welcome.[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev025302_MSG0005",
+      "style": 1,
+      "name": "Did you bring a noka mirrorstone, perhaps?[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev025302_MSG0006",
+      "style": 1,
+      "name": "Hmmm... Not very high quality, is it?[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev025302_MSG0007",
+      "style": 1,
+      "name": "Though I suppose it's good enough to use on an\nEarth-made Skell, maybe?[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev025302_MSG0008",
+      "style": 1,
+      "name": "Would you wait a moment? I'll refine repair materials\nthe likes of which you've only dreamed possible, okay?[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev025302_MSG0009",
+      "style": 1,
+      "name": "...Done! Er, I hope this serves our purpose?[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev025302_MSG0010",
+      "style": 1,
+      "name": "You were surprised the refinement process was so\nquick, yes? Surprised by the total superiority of\nMa-non technology?[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev025302_MSG0011",
+      "style": 1,
+      "name": "Of course you are. Our science is the finest in all\nthe universe, isn't it?[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev025302_MSG0012",
+      "style": 1,
+      "name": "Not only will these refined materials repair your Skell,\nthey will also begin to bring its lacking defenses up to\na...reasonable standard?[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev025302_MSG0013",
+      "style": 1,
+      "name": "So, er, go on. Take them to the human waiting for\nthem at the test hangar, okay?[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev025302_MSG0014",
+      "style": 1,
+      "name": "Not only will these refined materials repair your Skell,\nthey will also begin to bring its lacking defenses up to\na...reasonable standard?[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev025302_MSG0015",
+      "style": 1,
+      "name": "So so so please take them to the human waiting for\nthem at the test hangar, okay?[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev025302_MSG0016",
+      "style": 1,
+      "name": "My my my my. More business with me, yes?[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev025302_MSG0017",
+      "style": 1,
+      "name": "Unfortunately I have none with you, okay?\nSorry. So sorry. Bye now, yes?[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev025302_MSG0018",
+      "style": 1,
+      "name": "...A new deal? Hmm. I take it by your choice of words\nyou're offering some information or object of value in\nreturn then?[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev025302_JNK0010",
+      "style": 4,
+      "name": "Give Intelligence"
+    },
+    {
+      "$id": 20,
+      "label": "qev025302_SEL0011",
+      "style": 3,
+      "name": "Offer to share Earth technology."
+    },
+    {
+      "$id": 21,
+      "label": "qev025302_JNK0020",
+      "style": 4,
+      "name": "Give Money"
+    },
+    {
+      "$id": 22,
+      "label": "qev025302_SEL0021",
+      "style": 3,
+      "name": "Offer to pay Aganeba in credits."
+    },
+    {
+      "$id": 23,
+      "label": "qev025302_JNK0030",
+      "style": 4,
+      "name": "Barter"
+    },
+    {
+      "$id": 24,
+      "label": "qev025302_SEL0031",
+      "style": 3,
+      "name": "Offer specialty products from Earth."
+    },
+    {
+      "$id": 25,
+      "label": "qev025302_MSG0019",
+      "style": 1,
+      "name": "Earth \"technology\"? Oh no. No no no.[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev025302_MSG0020",
+      "style": 1,
+      "name": "So it's like, um, when your people want to learn new\nscience, they don't go digging through ancient ruins,\nright? No, of course not. No.[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev025302_MSG0021",
+      "style": 1,
+      "name": "I'm afraid there is simply nothing the Ma-non can learn\nfrom humans, okay?[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev025302_MSG0022",
+      "style": 1,
+      "name": "Now, if you'll kindly...be on your way? Yes?[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev025302_MSG0023",
+      "style": 1,
+      "name": "The exchange of currency is the basis of commerce,\nand seems the simplest method of purchasing\ntechnology, does it not?[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev025302_MSG0024",
+      "style": 1,
+      "name": "However, we Ma-non live here on our ship free of\nwant or desire, don't we?[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev025302_MSG0025",
+      "style": 1,
+      "name": "We have little need to use your New LA money,\nor to participate in your economy. You understand?[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev025302_MSG0026",
+      "style": 1,
+      "name": "So, um, I'm afraid that's that's that's no deal.[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev025302_MSG0027",
+      "style": 1,
+      "name": "Ah! I am interested in your specialty products, yes?\nVeeeeery interested![ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev025302_MSG0028",
+      "style": 1,
+      "name": "And what is it that that that you will be offering?[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev025302_JNK0040",
+      "style": 4,
+      "name": "Furniture"
+    },
+    {
+      "$id": 36,
+      "label": "qev025302_SEL0041",
+      "style": 3,
+      "name": "Promise Aganeba luxury furnishings fit for royalty."
+    },
+    {
+      "$id": 37,
+      "label": "qev025302_JNK0050",
+      "style": 4,
+      "name": "Toys"
+    },
+    {
+      "$id": 38,
+      "label": "qev025302_SEL0051",
+      "style": 3,
+      "name": "Show your prized collection of mint-condition figurines."
+    },
+    {
+      "$id": 39,
+      "label": "qev025302_JNK0060",
+      "style": 4,
+      "name": "Food"
+    },
+    {
+      "$id": 40,
+      "label": "qev025302_SEL0061",
+      "style": 3,
+      "name": "Offer Aganeba the first food that pops into your head."
+    },
+    {
+      "$id": 41,
+      "label": "qev025302_MSG0029",
+      "style": 1,
+      "name": "What is this you're offering? Junk, yes? It's junk? Yes.[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "qev025302_MSG0030",
+      "style": 1,
+      "name": "I am unsure whether this feels desperate or simply\ninsulting. ...Er, that's not rude, is it?[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "qev025302_MSG0031",
+      "style": 1,
+      "name": "Anyway, um, no. Please be on your way, okay?[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "qev025302_MSG0032",
+      "style": 1,
+      "name": "Oh! Oh my! These objects are most striking,\naren't they?[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "qev025302_MSG0033",
+      "style": 1,
+      "name": "Holo-figurines, they're called? For display in the home?\nYes, I see. Yes, very nice! Nice indeed![ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "qev025302_MSG0034",
+      "style": 1,
+      "name": "But sadly my wife has forbidden me from such pursuits.[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "qev025302_MSG0035",
+      "style": 1,
+      "name": "I am something of a recovering addict, you see?\nMy collecting habit nearly drove us into debt.[ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "qev025302_MSG0036",
+      "style": 1,
+      "name": "This makes part of me wither and die, but, uh, no?\nYes. I'm sorry, but it's a no.[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "qev025302_MSG0037",
+      "style": 1,
+      "name": "Kindly take your temptations and begone, okay?\n...And remember to never take them out of the original\npackaging![ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "qev025302_MSG0038",
+      "style": 1,
+      "name": "Food, yes? Food?[ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "qev025302_MSG0039",
+      "style": 1,
+      "name": "I will concede that in cuisine alone, Earth culture\nshows remarkable promise, doesn't it?[ST:wait ]"
+    },
+    {
+      "$id": 52,
+      "label": "qev025302_MSG0040",
+      "style": 1,
+      "name": "But I see little reason to trade for it when I need only\nwalk into town to eat it, right?[ST:wait ]"
+    },
+    {
+      "$id": 53,
+      "label": "qev025302_MSG0041",
+      "style": 1,
+      "name": "However, if you insist, I am willing to try a local\ndelicacy of New LA.[ST:wait ]"
+    },
+    {
+      "$id": 54,
+      "label": "qev025302_MSG0071",
+      "style": 1,
+      "name": "I previously heard from Matthew that this city once\nstood in a place called America, yes?[ST:wait ]"
+    },
+    {
+      "$id": 55,
+      "label": "qev025302_MSG0074",
+      "style": 1,
+      "name": "I would be willing to sample a local delicacy of\nthis...America. Something good, yes?[ST:wait ]"
+    },
+    {
+      "$id": 56,
+      "label": "qev025302_MSG0075",
+      "style": 1,
+      "name": "It will need to be impressive indeed if you hope to\ntrade it for our technology, you understand?[ST:wait ]"
+    },
+    {
+      "$id": 57,
+      "label": "qev025302_MSG0076",
+      "style": 1,
+      "name": "Have you you brought your American delicacy?[ST:wait ]"
+    },
+    {
+      "$id": 58,
+      "label": "qev025302_MSG0077",
+      "style": 1,
+      "name": "Then maybe hand me your personal recommendation\nso I might sample it?[ST:wait ]"
+    },
+    {
+      "$id": 59,
+      "label": "qev025302_MSG0079",
+      "style": 1,
+      "name": "So, um, what is this?[ST:wait ]"
+    },
+    {
+      "$id": 60,
+      "label": "qev025302_MSG0080",
+      "style": 1,
+      "name": "A ham-burger? Interesting. I see a variety of\nfoodstuffs trapped between two grain-based discs.[ST:wait ]"
+    },
+    {
+      "$id": 61,
+      "label": "qev025302_MSG0081",
+      "style": 1,
+      "name": "But, as they say, the taste will tell, right?\nEr, they do say that, don't they? ...No?\nNever mind.[ST:wait ]"
+    },
+    {
+      "$id": 62,
+      "label": "qev025302_MSG0082",
+      "style": 1,
+      "name": "*nom* *munch* *slurp*[ST:wait ]"
+    },
+    {
+      "$id": 63,
+      "label": "qev025302_MSG0083",
+      "style": 1,
+      "name": "......[ST:wait ]"
+    },
+    {
+      "$id": 64,
+      "label": "qev025302_MSG0084",
+      "style": 1,
+      "name": "The taste is several orders less interesting than its\nappearance, isn't it? I fear I am tongue-bored.[ST:wait ]"
+    },
+    {
+      "$id": 65,
+      "label": "qev025302_MSG0085",
+      "style": 1,
+      "name": "I'm afraid I cannot offer our technology if you don't\nprovide food with more punch, can I now?[ST:wait ]"
+    },
+    {
+      "$id": 66,
+      "label": "qev025302_MSG0086",
+      "style": 1,
+      "name": "What is this we have here?[ST:wait ]"
+    },
+    {
+      "$id": 67,
+      "label": "qev025302_MSG0087",
+      "style": 1,
+      "name": "A hot...dog? Surely not real dog meat, no? Ah. No.\nIt is simply meat in tubular form further encased in a\nboat of carbohydrates, isn't it?[ST:wait ]"
+    },
+    {
+      "$id": 68,
+      "label": "qev025302_MSG0088",
+      "style": 1,
+      "name": "I will not deny it has a certain allure, no? And so easy\nto carry about! But how does it taste?[ST:wait ]"
+    },
+    {
+      "$id": 69,
+      "label": "qev025302_MSG0089",
+      "style": 1,
+      "name": "*nom* *munch* *slurp*[ST:wait ]"
+    },
+    {
+      "$id": 70,
+      "label": "qev025302_MSG0090",
+      "style": 1,
+      "name": "......[ST:wait ]"
+    },
+    {
+      "$id": 71,
+      "label": "qev025302_MSG0091",
+      "style": 1,
+      "name": "...HOT! AAAAUUUUGH! The tubular meat hides\nburning juices, doesn't it?! Its oils assault my mouth![ST:wait ]"
+    },
+    {
+      "$id": 72,
+      "label": "qev025302_MSG0092",
+      "style": 1,
+      "name": "I think this hot dog is maybe a too-hot dog?\nClearly dangerous. Please take it back immediately.[ST:wait ]"
+    },
+    {
+      "$id": 73,
+      "label": "qev025302_MSG0093",
+      "style": 1,
+      "name": "If you hope to trade for our technology, I must insist\nyou bring me a safer food, okay?[ST:wait ]"
+    },
+    {
+      "$id": 74,
+      "label": "qev025302_MSG0042",
+      "style": 1,
+      "name": "Oh, what is this?[ST:wait ]"
+    },
+    {
+      "$id": 75,
+      "label": "qev025302_MSG0043",
+      "style": 1,
+      "name": "Ah, so this is pizza? Mmm... Its chilled surface glistens\nwith frosty flavor, does it not?[ST:wait ]"
+    },
+    {
+      "$id": 76,
+      "label": "qev025302_MSG0044",
+      "style": 1,
+      "name": "Into my mouth with you![ST:wait ]"
+    },
+    {
+      "$id": 77,
+      "label": "qev025302_MSG0045",
+      "style": 1,
+      "name": "*nom* *munch* *slurp* *chomp* *crunch*\n...HRMMMR?![ST:wait ]"
+    },
+    {
+      "$id": 78,
+      "label": "qev025302_MSG0046",
+      "style": 1,
+      "name": "Th-this...[ST:wait ]"
+    },
+    {
+      "$id": 79,
+      "label": "qev025302_MSG0047",
+      "style": 1,
+      "name": "THIS IS AMAZING, isn't it?! I think my mouth may be\nalive for for for the first time?![ST:wait ]"
+    },
+    {
+      "$id": 80,
+      "label": "qev025302_MSG0048",
+      "style": 1,
+      "name": "The gritty texture, yes?! The crunchy cheese, yes?!\nThe unyielding pepperoni, YES![ST:wait ]"
+    },
+    {
+      "$id": 81,
+      "label": "qev025302_MSG0049",
+      "style": 1,
+      "name": "...What's that? You're meant to heat it first?[ST:wait ]"
+    },
+    {
+      "$id": 82,
+      "label": "qev025302_MSG0050",
+      "style": 1,
+      "name": "It doesn't matter! No! Nothing matters except pizza,\nculinary crown jewel of all the cosmos![ST:wait ]"
+    },
+    {
+      "$id": 83,
+      "label": "qev025302_MSG0051",
+      "style": 1,
+      "name": "Even the Destroyer-King whose wrath rent planets in\ntwain would bow before the sheer force of this\ndeliciousness, would he not?![ST:wait ]"
+    },
+    {
+      "$id": 84,
+      "label": "qev025302_MSG0052",
+      "style": 1,
+      "name": "I give thanks that that that I was born!\nThank you, Mother! Thank you, Father![ST:wait ]"
+    },
+    {
+      "$id": 85,
+      "label": "qev025302_MSG0053",
+      "style": 1,
+      "name": "...Hmm? Trade? Yes? What?[ST:wait ]"
+    },
+    {
+      "$id": 86,
+      "label": "qev025302_MSG0054",
+      "style": 1,
+      "name": "OH! Yes! Our material refinement technique.\nNext to this pizza, offering that old thing seems\ntantamount to insult, doesn't it?[ST:wait ]"
+    },
+    {
+      "$id": 87,
+      "label": "qev025302_MSG0055",
+      "style": 1,
+      "name": "Though note that will not stop me from doing so.[ST:wait ]"
+    },
+    {
+      "$id": 88,
+      "label": "qev025302_MSG0056",
+      "style": 1,
+      "name": "You have a deal, friend! If you'll accept it, of course?\nA silly little technological tidbit for a taste to quell a\nDestroyer-King! Seems a little unfair almost, doesn't it?[ST:wait ]"
+    },
+    {
+      "$id": 89,
+      "label": "qev025302_MSG0057",
+      "style": 1,
+      "name": "Er, you're certain, right? Then I have no objection.[ST:wait ]"
+    },
+    {
+      "$id": 90,
+      "label": "qev025302_MSG0058",
+      "style": 1,
+      "name": "Ah, but teaching you the refinement method seems\ninefficient, you know?[ST:wait ]"
+    },
+    {
+      "$id": 91,
+      "label": "qev025302_MSG0059",
+      "style": 1,
+      "name": "Why don't I simply perform it for you as a service from\nnow on?[ST:wait ]"
+    },
+    {
+      "$id": 92,
+      "label": "qev025302_MSG0060",
+      "style": 1,
+      "name": "You'll still receive the results, so I assume you have no\nfurther qualms?[ST:wait ]"
+    },
+    {
+      "$id": 93,
+      "label": "qev025302_JNK0070",
+      "style": 4,
+      "name": "Agree"
+    },
+    {
+      "$id": 94,
+      "label": "qev025302_SEL0071",
+      "style": 3,
+      "name": "Accept Aganeba's terms."
+    },
+    {
+      "$id": 95,
+      "label": "qev025302_JNK0080",
+      "style": 4,
+      "name": "Refuse"
+    },
+    {
+      "$id": 96,
+      "label": "qev025302_SEL0081",
+      "style": 3,
+      "name": "Object to Aganeba's terms."
+    },
+    {
+      "$id": 97,
+      "label": "qev025302_MSG0061",
+      "style": 1,
+      "name": "Your understanding is most appreciated, you know?[ST:wait ]"
+    },
+    {
+      "$id": 98,
+      "label": "qev025302_MSG0062",
+      "style": 1,
+      "name": "From this point on, we Ma-non promise regular\ndeliveries of of of the materials you seek.[ST:wait ]"
+    },
+    {
+      "$id": 99,
+      "label": "qev025302_MSG0063",
+      "style": 1,
+      "name": "This is agreeable, yes?[ST:wait ]"
+    },
+    {
+      "$id": 100,
+      "label": "qev025302_MSG0064",
+      "style": 1,
+      "name": "Hmm. I can understand your desire to to to refine\nthe materials yourselves, but...[ST:wait ]"
+    },
+    {
+      "$id": 101,
+      "label": "qev025302_MSG0065",
+      "style": 1,
+      "name": "from an efficiency standpoint, I really must recommend\nentrusting the Ma-non to handle production. Er, okay?[ST:wait ]"
+    },
+    {
+      "$id": 102,
+      "label": "qev025302_MSG0066",
+      "style": 1,
+      "name": "Consider it a new chapter in our shared lives, perhaps?[ST:wait ]"
+    },
+    {
+      "$id": 103,
+      "label": "qev025302_MSG0067",
+      "style": 1,
+      "name": "Does that sound agreeable?[ST:wait ]"
+    },
+    {
+      "$id": 104,
+      "label": "qev025302_MSG0068",
+      "style": 1,
+      "name": "Lovely! This has been a most successful negotiation,\nhasn't it?[ST:wait ]"
+    },
+    {
+      "$id": 105,
+      "label": "qev025302_MSG0069",
+      "style": 1,
+      "name": "How fortunate are we to witness both of our cultures\ntake a grand step forward this day, right?[ST:wait ]"
+    },
+    {
+      "$id": 106,
+      "label": "qev025302_MSG0070",
+      "style": 1,
+      "name": "I look forward greatly to what else our partnership may\nyield, okay? Okay![ST:wait ]"
+    }
+  ]
+}

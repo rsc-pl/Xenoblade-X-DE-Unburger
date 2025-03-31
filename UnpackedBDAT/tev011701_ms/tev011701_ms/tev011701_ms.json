@@ -1,0 +1,588 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev011701_JNK0010",
+      "style": 4,
+      "name": "Inquire[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev011701_SEL0011",
+      "style": 3,
+      "name": "Ask Giotto about NLA's institutions.[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev011701_JNK0020",
+      "style": 4,
+      "name": "Discuss[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev011701_SEL0021",
+      "style": 3,
+      "name": "Ask Giotto if he's heard any interesting rumors.[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev011701_SEL0031",
+      "style": 3,
+      "name": "Ask Giotto for his thoughts on the Prone attackers.[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "tev011701_SEL0041",
+      "style": 3,
+      "name": "Ask if Giotto has any interesting news.[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "tev011701_SEL0051",
+      "style": 3,
+      "name": "Ask Giotto about mimeosomes.[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "tev011701_SEL0061",
+      "style": 3,
+      "name": "Ask Giotto if he's heard any interesting rumors.[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "tev011701_SEL0071",
+      "style": 3,
+      "name": "Ask Giotto about the enemy attack.[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "tev011701_SEL0081",
+      "style": 3,
+      "name": "Ask Giotto if he's heard any interesting rumors.[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev011701_SEL0091",
+      "style": 3,
+      "name": "Ask Giotto for his opinions on\nyour battle with the Zu Pharg.[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "tev011701_SEL0101",
+      "style": 3,
+      "name": "Ask Giotto about recent developments.[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "tev011701_SEL0111",
+      "style": 3,
+      "name": "Ask Giotto about the battle for the Lifehold Core.[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "tev011701_SEL0121",
+      "style": 3,
+      "name": "Ask Giotto if he's heard any interesting rumors.[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "tev011701_SEL0131",
+      "style": 3,
+      "name": "Ask Giotto about strength training.[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "tev011701_SEL0141",
+      "style": 3,
+      "name": "Ask Giotto about recent developments.[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "tev011701_SEL0161",
+      "style": 3,
+      "name": "Ask Giotto if he's heard any interesting rumors.[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "tev011701_SEL1021",
+      "style": 3,
+      "name": "Ask Giotto about recent developments.[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "tev011701_MSG0001",
+      "style": 1,
+      "name": "You that new [ST:gender p1=guy p2=gal ] everyone's talking about?\nPffft! You're a scrawny one, ain't ya?\nSure wouldn't want you watching my back.[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "tev011701_MSG0002",
+      "style": 1,
+      "name": "Do you even lift? You gotta start training those abs,\npecs, and delts, [ST:gender p1=bro p2=babe ].[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "tev011701_MSG0003",
+      "style": 1,
+      "name": "Leave the city looking like that, and you'll be in some\nindigen's belly before the gate clangs shut behind you.\nNot that you'd make much of a meal.[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "tev011701_MSG0004",
+      "style": 1,
+      "name": "If you're planning on doing any serious fighting,\nget your glutes down to Armory Alley and buy\nyourself some proper gear.[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "tev011701_MSG0007",
+      "style": 1,
+      "name": "...Huh? What about me? [ST:gender p1=Dude p2=Babe ], when you're ripped like\nI am, gear don't make one bit of difference.[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "tev011701_MSG0008",
+      "style": 1,
+      "name": "What do you think? Pretty impressive, right?\nGo on, you can touch 'em. Wanna see me flex?[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "tev011701_MSG0013",
+      "style": 1,
+      "name": "Did you know you could take the elevator on Division\nDrive down to the lower level of the administrative\ndistrict? That's where the hangars are.[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "tev011701_MSG0014",
+      "style": 1,
+      "name": "A bunch of punks usually hang out in the shadows\ndown there. They like to pick fights with new BLADEs.[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "tev011701_MSG0015",
+      "style": 1,
+      "name": "I'm sure they'd love to have a go at you,\nso watch your back, all right?[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "tev011701_MSG0031",
+      "style": 1,
+      "name": "I saw some footage of the Prone on FrontierNav.\nLooks like they work out pretty regularly.[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "tev011701_MSG0032",
+      "style": 1,
+      "name": "You seriously mix it up with those guys?\nHow'd it go? Are they as tough as they look?[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "tev011701_MSG0033",
+      "style": 1,
+      "name": "Haw haw haw. Oh yeah, I believe it.\nThey look like some pretty tough customers.[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "tev011701_MSG0034",
+      "style": 1,
+      "name": "But if they were to come after me and my crew,\nwe'd mop the floor with them.[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "tev011701_MSG0037",
+      "style": 1,
+      "name": "These chiseled arms would make 'em regret the day\nthey decided to go up against the might of BLADE.\nWe're talking two tickets to the guns show, boom![ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "tev011701_MSG0040",
+      "style": 1,
+      "name": "So I was walking through that block at the back of\nDivision Drive. You know, the one that's still under\nconstruction?[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "tev011701_MSG0041",
+      "style": 1,
+      "name": "And from behind a crane in the back,\nI heard someone shouting \"I WILL become a BLADE!\"[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "tev011701_MSG0042",
+      "style": 1,
+      "name": "Well, I got kinda curious and decided to take a look.\nTurns out it was some mechanic chick doing all\nthe shouting.[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "tev011701_MSG0043",
+      "style": 1,
+      "name": "She just stood there staring at the outer walls with this\nreally intense look on her face. Weird, right?[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "tev011701_MSG0052",
+      "style": 1,
+      "name": "Hear you lost your left hand in a Ganglion attack.[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "tev011701_MSG0053",
+      "style": 1,
+      "name": "That's the sort of thing that happens when you don't\ncommit to a rigorous strength-training regimen![ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "tev011701_MSG0054",
+      "style": 1,
+      "name": "...What? You're asking me if strength-training even has\nan effect on the artificial muscles of a mimeosome?[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "tev011701_MSG0055",
+      "style": 1,
+      "name": "Well, sure, maybe it doesn't actually make them any\nmore PHYSICALLY powerful, but you FEEL like you're\ngetting stronger. Ain't that enough?[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "tev011701_MSG0056",
+      "style": 1,
+      "name": "Once you've honed your spirit and boosted your\nwillpower with a good training regimen, you won't\never fear the Ganglion again[ST:gender p1=, dude! p2=! ][ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "tev011701_MSG0059",
+      "style": 1,
+      "name": "There's an old warehouse at the edge of the industrial\ndistrict that no one uses.[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "tev011701_MSG0060",
+      "style": 1,
+      "name": "But it sounds like a bunch of tough-looking xenoforms\nhave taken over the place.[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "tev011701_MSG0061",
+      "style": 1,
+      "name": "Are those Ma-non? I thought they were all a bunch of\nlittle shrimps, but maybe they've got a few big guys.[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "tev011701_MSG0070",
+      "style": 1,
+      "name": "Hey! I heard you were the one who drove away that\nRyyz bird and her bulky friend![ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "tev011701_MSG0071",
+      "style": 1,
+      "name": "Man, when you first showed up here, I thought you\nwere just another scrawny nobody.[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "tev011701_MSG0072",
+      "style": 1,
+      "name": "Never thought you'd toughen up enough to beat\nmonsters like them![ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "tev011701_MSG0073",
+      "style": 1,
+      "name": "With strength like that, I'm proud to have you working\nwith me to guard this city and chase down the Lifehold![ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "tev011701_MSG0076",
+      "style": 1,
+      "name": "I heard that big guy and the chick who led the attack\non New LA have been spotted in Noctilum.[ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "tev011701_MSG0077",
+      "style": 1,
+      "name": "Sounds like BLADE command might be putting together\na pursuit team to go after them.[ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "tev011701_MSG0078",
+      "style": 1,
+      "name": "If you aren't on some urgent mission already, maybe\nyou should go listen to what people are saying out in\nfront of BLADE HQ.[ST:wait ]"
+    },
+    {
+      "$id": 52,
+      "label": "tev011701_MSG0079",
+      "style": 1,
+      "name": "I can't imagine anyone who's a better fit for the job\nthan the [ST:gender p1=dude p2=gal ] who drove 'em off in the first place.\nI'm sure HQ would love to have you on board![ST:wait ]"
+    },
+    {
+      "$id": 53,
+      "label": "tev011701_MSG0088",
+      "style": 1,
+      "name": "I watched your fight with that Zu Pharg thing over\nFrontierNav. Impressive work![ST:wait ]"
+    },
+    {
+      "$id": 54,
+      "label": "tev011701_MSG0089",
+      "style": 1,
+      "name": "That thing was huge, but you were batting it around\nlike a cat with a ball of twine. Man, was I cheering\nwhen you sent it crashing down upon Sylvalum.[ST:wait ]"
+    },
+    {
+      "$id": 55,
+      "label": "tev011701_MSG0090",
+      "style": 1,
+      "name": "It REALLY got everyone's blood pumping to watch you\nkick some serious Ganglion glutes![ST:wait ]"
+    },
+    {
+      "$id": 56,
+      "label": "tev011701_MSG0091",
+      "style": 1,
+      "name": "That's the spirit, [ST:gender p1=dude p2=babe ]! It's time we went on offense\nand brought that kind of glute-kicking right to the\nGanglion's doorstep![ST:wait ]"
+    },
+    {
+      "$id": 57,
+      "label": "tev011701_MSG0094",
+      "style": 1,
+      "name": "So I rode the elevator down to the hangars to check on\nmy Skell earlier, yeah?[ST:wait ]"
+    },
+    {
+      "$id": 58,
+      "label": "tev011701_MSG0095",
+      "style": 1,
+      "name": "But then this guy—apparently some sort of BLADE—\ncame up and wrapped his arms around me.[ST:wait ]"
+    },
+    {
+      "$id": 59,
+      "label": "tev011701_MSG0096",
+      "style": 1,
+      "name": "I thought he was gonna choke me or something,\nbut instead he called me \"Muscles\" and asked me to\nhelp him out with a recovery mission.[ST:wait ]"
+    },
+    {
+      "$id": 60,
+      "label": "tev011701_MSG0097",
+      "style": 1,
+      "name": "I dunno, man. Seems like a pretty weird way to go\nabout asking for help.[ST:wait ]"
+    },
+    {
+      "$id": 61,
+      "label": "tev011701_MSG0098",
+      "style": 1,
+      "name": "Anyway, maybe keep an eye out if you have any\nbusiness down there. ...Unless you like surprise hugs\nfrom strangers.[ST:wait ]"
+    },
+    {
+      "$id": 62,
+      "label": "tev011701_MSG0106",
+      "style": 1,
+      "name": "So the decisive battle is finally here, huh?\nIt's weird, man...[ST:wait ]"
+    },
+    {
+      "$id": 63,
+      "label": "tev011701_MSG0107",
+      "style": 1,
+      "name": "In some ways, it feels like it was only yesterday that\nthose bastards wrecked the Earth and sent us fleeing.\nBut in another way, it feels like forever ago.[ST:wait ]"
+    },
+    {
+      "$id": 64,
+      "label": "tev011701_MSG0108",
+      "style": 1,
+      "name": "You know I'll be right behind you, supporting you\nwith everything I got. You just gotta bring home one\nlast victory for us![ST:wait ]"
+    },
+    {
+      "$id": 65,
+      "label": "tev011701_MSG0109",
+      "style": 1,
+      "name": "And I mean that[ST:gender p1=, dude. p2=. ] You're the ace of the whole\nBLADE deck, and everyone knows it.[ST:wait ]"
+    },
+    {
+      "$id": 66,
+      "label": "tev011701_MSG0110",
+      "style": 1,
+      "name": "Now get out there and finish the job![ST:wait ]"
+    },
+    {
+      "$id": 67,
+      "label": "tev011701_MSG0113",
+      "style": 1,
+      "name": "Did you know that there's a Mediator assigned to the\nNopon Caravan in Oblivia?[ST:wait ]"
+    },
+    {
+      "$id": 68,
+      "label": "tev011701_MSG0114",
+      "style": 1,
+      "name": "Man, that's a tough region, and he's all by himself.\nEven worse, I hear the Nopon are forcing him to do\nall sorts of ridiculous jobs![ST:wait ]"
+    },
+    {
+      "$id": 69,
+      "label": "tev011701_MSG0115",
+      "style": 1,
+      "name": "You get out to that place from time to time, yeah?\nNext time you're in the neighborhood, how about\nyou swing by and talk to the poor guy?[ST:wait ]"
+    },
+    {
+      "$id": 70,
+      "label": "tev011701_MSG0119",
+      "style": 1,
+      "name": "I'm sure he'd be thrilled to have a human to talk to\nfor once![ST:wait ]"
+    },
+    {
+      "$id": 71,
+      "label": "tev011701_MSG0120",
+      "style": 1,
+      "name": "You know Kent? That puny little mimeosome tech?\nHe claims that none of my strength-training is doing\na damn thing to build muscles.[ST:wait ]"
+    },
+    {
+      "$id": 72,
+      "label": "tev011701_MSG0121",
+      "style": 1,
+      "name": "He told me the only muscle I got that needs training\nis my brain![ST:wait ]"
+    },
+    {
+      "$id": 73,
+      "label": "tev011701_MSG0122",
+      "style": 1,
+      "name": "I can't wait till we get our real bodies back.\nThen I'll give y'all a lesson in bodybuilding that\nno one will be able to laugh off![ST:wait ]"
+    },
+    {
+      "$id": 74,
+      "label": "tev011701_MSG0123",
+      "style": 1,
+      "name": "Abs, pecs, and delts, baby! I'll work your midsections\nso hard you'll be too sore to eat for days.\nBut goddamn will I make you look great![ST:wait ]"
+    },
+    {
+      "$id": 75,
+      "label": "tev011701_MSG0124",
+      "style": 1,
+      "name": "And when Kent gets a load of my six-pack,\nwe'll see who's mocking who![ST:wait ]"
+    },
+    {
+      "$id": 76,
+      "label": "tev011701_MSG0125",
+      "style": 1,
+      "name": "There sure are a lot of xenoforms with great muscle\ntone. I mean, just look how ripped the Wrothians and\nProne are.[ST:wait ]"
+    },
+    {
+      "$id": 77,
+      "label": "tev011701_MSG0126",
+      "style": 1,
+      "name": "One of these days, I'd like to give 'em both a good\nchest-bump and see whose pecs comes out on top.[ST:wait ]"
+    },
+    {
+      "$id": 78,
+      "label": "tev011701_MSG0127",
+      "style": 1,
+      "name": "You know, I don't think we have a place where we\ncan get together and peacefully test our strength\nagainst each other like that.[ST:wait ]"
+    },
+    {
+      "$id": 79,
+      "label": "tev011701_MSG0128",
+      "style": 1,
+      "name": "Hell, you've gotten pretty tough yourself!\nI sure wouldn't mind putting your muscles to the test.[ST:wait ]"
+    },
+    {
+      "$id": 80,
+      "label": "tev011701_MSG0129",
+      "style": 1,
+      "name": "I heard the Wrothians are opening a combat arena\nnear the Outfitters test hangar.[ST:wait ]"
+    },
+    {
+      "$id": 81,
+      "label": "tev011701_MSG0130",
+      "style": 1,
+      "name": "If you got a little time off, why not come try it out?[ST:wait ]"
+    },
+    {
+      "$id": 82,
+      "label": "tev011701_MSG0131",
+      "style": 1,
+      "name": "You should give those Wrothians a look at the muscles\nthat knocked the Ganglion's finest right the hell out![ST:wait ]"
+    },
+    {
+      "$id": 83,
+      "label": "tev011701_MSG0132",
+      "style": 1,
+      "name": "Hey! I hear you entered the Wrothian Battle Gauntlet\nand completely dominated the thing![ST:wait ]"
+    },
+    {
+      "$id": 84,
+      "label": "tev011701_MSG0133",
+      "style": 1,
+      "name": "You mind if I squeeze the best muscles in the universe?[ST:wait ]"
+    },
+    {
+      "$id": 85,
+      "label": "tev011701_MSG0134",
+      "style": 1,
+      "name": "......[ST:wait ]"
+    },
+    {
+      "$id": 86,
+      "label": "tev011701_MSG0135",
+      "style": 1,
+      "name": "Ooooooh yeaaaaaah! Those are killer, bro!\nI can feel the expansion of the universe pulsating\nthrough your mighty biceps![ST:wait ]"
+    },
+    {
+      "$id": 87,
+      "label": "tev011701_MSG0136",
+      "style": 1,
+      "name": "I gotta up my training game so I can build galaxy-class\nmuscles like yours![ST:wait ]"
+    },
+    {
+      "$id": 88,
+      "label": "tev011701_MSG0137",
+      "style": 1,
+      "name": "Hey! I hear you entered the Wrothian Battle Gauntlet\nand completely dominated the thing![ST:wait ]"
+    },
+    {
+      "$id": 89,
+      "label": "tev011701_MSG0138",
+      "style": 1,
+      "name": "It's incredible that you were able to beat those\nWrothians, considering their superhuman pecs.[ST:wait ]"
+    },
+    {
+      "$id": 90,
+      "label": "tev011701_MSG0139",
+      "style": 1,
+      "name": "They must lift every day to get physiques like that.\nJust training, training, and more training.\nProbably hit the kettlebells, too. Talk about a WOD![ST:wait ]"
+    },
+    {
+      "$id": 91,
+      "label": "tev011701_MSG0140",
+      "style": 1,
+      "name": "...You know, I'm always kind of uncomfortable around\nthe ladies.[ST:wait ]"
+    },
+    {
+      "$id": 92,
+      "label": "tev011701_MSG0141",
+      "style": 1,
+      "name": "But with a super ripped lady like you, I feel like I can\ntalk normally! We'll have to get together and trade\nworkout secrets one of these days.[ST:wait ]"
+    },
+    {
+      "$id": 93,
+      "label": "tev011701_MSG0116",
+      "style": 1,
+      "name": "There's only one way to heal the pain of being\nbetrayed by someone you care about, and that's\na rigorous lifting session.[ST:wait ]"
+    },
+    {
+      "$id": 94,
+      "label": "tev011701_MSG0117",
+      "style": 1,
+      "name": "Our muscles won't ever let us down. So let's reward\nour mimeo-muscles by working them till we puke![ST:wait ]"
+    },
+    {
+      "$id": 95,
+      "label": "tev011701_MSG0118",
+      "style": 1,
+      "name": "Awww yeah! I can't WAIT to be sore tomorrow![ST:wait ]"
+    }
+  ]
+}

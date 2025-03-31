@@ -1,0 +1,498 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "HINT_TITLE_001",
+      "style": 8,
+      "name": ""
+    },
+    {
+      "$id": 2,
+      "label": "HINT_CONTENT_001",
+      "style": 174,
+      "name": "[ST:icon p1=anal ]: Move\n\n[ST:icon p1=analp ]: Toggle Sprint\n\n[ST:icon p1=zr ]: Jump\n\n[ST:icon p1=anar ]: Adjust Camera"
+    },
+    {
+      "$id": 3,
+      "label": "HINT_CONTENT_002",
+      "style": 174,
+      "name": "[ST:icon p1=pls ]: Main Menu"
+    },
+    {
+      "$id": 4,
+      "label": "HINT_CONTENT_003",
+      "style": 174,
+      "name": "[ST:icon p1=l ]+[ST:icon p1=anar ]: Zoom Camera In/Out\n\n[ST:icon p1=crsu ]: Toggle Auto-camera"
+    },
+    {
+      "$id": 5,
+      "label": "HINT_CONTENT_004",
+      "style": 174,
+      "name": "[ST:icon p1=r ]+[ST:icon p1=crsu ]: Launch Aerial Cam"
+    },
+    {
+      "$id": 6,
+      "label": "HINT_CONTENT_005",
+      "style": 174,
+      "name": "[ST:icon p1=r ]+[ST:icon p1=crsd ]: Adjust Mini-map Zoom"
+    },
+    {
+      "$id": 7,
+      "label": "HINT_CONTENT_006",
+      "style": 174,
+      "name": "[ST:icon p1=r ]+[ST:icon p1=b ]: Toggle Auto-run"
+    },
+    {
+      "$id": 8,
+      "label": "HINT_CONTENT_007",
+      "style": 174,
+      "name": "[ST:icon p1=r ]+[ST:icon p1=x ]: Launch Follow Ball"
+    },
+    {
+      "$id": 9,
+      "label": "HINT_CONTENT_008",
+      "style": 174,
+      "name": "[ST:icon p1=zl ]: Board/Exit Skell\n\n[ST:icon p1=analp ]: Toggle Skell Mode Change"
+    },
+    {
+      "$id": 10,
+      "label": "HINT_CONTENT_009",
+      "style": 174,
+      "name": "[ST:icon p1=zr ] Mid-jump: Flight"
+    },
+    {
+      "$id": 11,
+      "label": "HINT_CONTENT_010",
+      "style": 174,
+      "name": "[ST:icon p1=zr ]: Ascend\n\n[ST:icon p1=zl ]: Descend\n\n[ST:icon p1=analp ] in Flight: Boost\n\n[ST:icon p1=zl ]+[ST:icon p1=zr ] in Flight: Free Fall"
+    },
+    {
+      "$id": 12,
+      "label": "HINT_CONTENT_011",
+      "style": 174,
+      "name": "[ST:icon p1=b ] in Flight or Mid-jump: Cruise Mode\n[ST:icon p1=anal ]: Move\n[ST:icon p1=zl ]: Decelerate\n[ST:icon p1=a ]: Rolling Dash\n[ST:icon p1=crsu ]: Toggle Cockpit View"
+    },
+    {
+      "$id": 13,
+      "label": "HINT_CONTENT_012",
+      "style": 174,
+      "name": "Approach Target to Auto-attack\n\n[ST:icon p1=crslr ]: Select Art\n\n[ST:icon p1=a ]: Use Art"
+    },
+    {
+      "$id": 14,
+      "label": "HINT_CONTENT_013",
+      "style": 174,
+      "name": "[ST:icon p1=x ]: Switch Weapon (Melee/Ranged)\n\n[ST:icon p1=r ]: Switch Target"
+    },
+    {
+      "$id": 15,
+      "label": "HINT_CONTENT_014",
+      "style": 174,
+      "name": "[ST:icon p1=a ] in Center of Arts Palette: Overdrive"
+    },
+    {
+      "$id": 16,
+      "label": "HINT_CONTENT_015",
+      "style": 174,
+      "name": "[ST:icon p1=y ] While Selecting Art on Cooldown:\nQuick Cooldown"
+    },
+    {
+      "$id": 17,
+      "label": "HINT_CONTENT_016",
+      "style": 174,
+      "name": "[ST:icon p1=r ]+[ST:icon p1=y ]/[ST:icon p1=a ]: Select Target Appendage"
+    },
+    {
+      "$id": 18,
+      "label": "HINT_CONTENT_017",
+      "style": 174,
+      "name": "You can check the game's controls in\nMain Menu > System > Control Guide."
+    },
+    {
+      "$id": 19,
+      "label": "HINT_CONTENT_018",
+      "style": 174,
+      "name": "Succeeding in a Soul Challenge\nprompt will restore HP for the team\nand increase morale by one level."
+    },
+    {
+      "$id": 20,
+      "label": "HINT_CONTENT_019",
+      "style": 174,
+      "name": "Use the highlighted Art to complete\na Soul Voice prompt. Doing so will\nrestore some HP and raise your\naffinity with the ally."
+    },
+    {
+      "$id": 21,
+      "label": "HINT_CONTENT_020",
+      "style": 174,
+      "name": "When you're out of range and can't\nuse Arts, try closing the distance to\nyour enemy."
+    },
+    {
+      "$id": 22,
+      "label": "HINT_CONTENT_021",
+      "style": 174,
+      "name": "Reviving your allies:\nApproach, then [ST:icon p1=a ] (costs 3000 TP)"
+    },
+    {
+      "$id": 23,
+      "label": "HINT_CONTENT_022",
+      "style": 174,
+      "name": "HP can be restored by completing\nSoul Challenges, using support Arts\nwith healing effects, and more."
+    },
+    {
+      "$id": 24,
+      "label": "HINT_CONTENT_023",
+      "style": 174,
+      "name": "When an enemy is under the effects of\nthe Stagger status, use an Art with the\nTopple effect for a high chance to send\nthem sprawling to the ground, giving\nyou a chance to deal major damage."
+    },
+    {
+      "$id": 25,
+      "label": "HINT_CONTENT_024",
+      "style": 174,
+      "name": "Stacking multiple buffs or debuffs of\nthe same effect at the same level will\nsometimes increase the effect's level."
+    },
+    {
+      "$id": 26,
+      "label": "HINT_CONTENT_025",
+      "style": 174,
+      "name": "During Dense Fog weather: accuracy\nand critical chance will be reduced."
+    },
+    {
+      "$id": 27,
+      "label": "HINT_CONTENT_026",
+      "style": 174,
+      "name": "During Rain weather: beam attack\npower and critical chance will be\nreduced."
+    },
+    {
+      "$id": 28,
+      "label": "HINT_CONTENT_027",
+      "style": 174,
+      "name": "During Heavy Rain weather: ranged\naccuracy, beam attack power, and\ncritical chance will be reduced."
+    },
+    {
+      "$id": 29,
+      "label": "HINT_CONTENT_028",
+      "style": 174,
+      "name": "During Heat Wave weather: ranged\naccuracy and melee attack will be\nreduced, while thermal attack will be\nincreased."
+    },
+    {
+      "$id": 30,
+      "label": "HINT_CONTENT_029",
+      "style": 174,
+      "name": "During Sandstorm weather: accuracy,\nranged attack, and beam attack power\nwill be reduced."
+    },
+    {
+      "$id": 31,
+      "label": "HINT_CONTENT_030",
+      "style": 174,
+      "name": "During Thunderstorm weather:\nranged accuracy and beam attack\npower will be reduced, while electric\nattack will be increased."
+    },
+    {
+      "$id": 32,
+      "label": "HINT_CONTENT_031",
+      "style": 174,
+      "name": "During Electromagnetic Storm weather:\nyou'll take constant damage, ranged\naccuracy and attack will be reduced,\nwhile electric attack will be increased."
+    },
+    {
+      "$id": 33,
+      "label": "HINT_CONTENT_032",
+      "style": 174,
+      "name": "During Rising Energy Mist weather:\npotential will be reduced, while ether\nattack will be increased and Skell fuel\nwill regenerate steadily."
+    },
+    {
+      "$id": 34,
+      "label": "HINT_CONTENT_033",
+      "style": 174,
+      "name": "During Energy Mist weather: potential\nwill be reduced, while ether attack\nwill be increased and Skell fuel will\nregenerate steadily."
+    },
+    {
+      "$id": 35,
+      "label": "HINT_CONTENT_034",
+      "style": 174,
+      "name": "During Brimstone Rain weather: you'll\ntake constant damage, ranged\naccuracy and melee attack will be\nreduced, while thermal attack will be\nincreased."
+    },
+    {
+      "$id": 36,
+      "label": "HINT_CONTENT_035",
+      "style": 174,
+      "name": "During Aurora weather: critical chance,\npotential, and ether attack will be\nincreased."
+    },
+    {
+      "$id": 37,
+      "label": "HINT_CONTENT_036",
+      "style": 174,
+      "name": "During Crimson Aurora weather:\ncritical chance, potential, ether attack,\nand gravity attack will be increased."
+    },
+    {
+      "$id": 38,
+      "label": "HINT_CONTENT_037",
+      "style": 174,
+      "name": "During Spore weather: melee attack,\nranged attack, and potential will be\nreduced."
+    },
+    {
+      "$id": 39,
+      "label": "HINT_CONTENT_038",
+      "style": 174,
+      "name": "During Meteor Shower weather:\ncritical chance and gravity attack\nwill be increased."
+    },
+    {
+      "$id": 40,
+      "label": "HINT_CONTENT_039",
+      "style": 174,
+      "name": "During Rainbow weather: critical\nchance and potential will be increased."
+    },
+    {
+      "$id": 41,
+      "label": "HINT_CONTENT_040",
+      "style": 174,
+      "name": "When the player avatar reaches\nmaximum rank in their current class,\nyou'll be able to change their class\nto a more advanced one."
+    },
+    {
+      "$id": 42,
+      "label": "HINT_CONTENT_041",
+      "style": 174,
+      "name": ""
+    },
+    {
+      "$id": 43,
+      "label": "HINT_CONTENT_042",
+      "style": 174,
+      "name": "You can swap and strengthen Arts\nby going to Main Menu > Party >\nArts."
+    },
+    {
+      "$id": 44,
+      "label": "HINT_CONTENT_043",
+      "style": 174,
+      "name": "You can swap and strengthen Skills\nby going to Main Menu > Party >\nSkills."
+    },
+    {
+      "$id": 45,
+      "label": "HINT_CONTENT_044",
+      "style": 174,
+      "name": "You can top up your Skells' fuel\nreserves by interacting with the\nconsole in the BLADE barracks,\nthen selecting Barracks Hangar."
+    },
+    {
+      "$id": 46,
+      "label": "HINT_CONTENT_045",
+      "style": 174,
+      "name": "Install a data probe at a FrontierNav\nprobe site to reveal segment recon\ninformation about adjacent segments\nand unlock the site for fast travel."
+    },
+    {
+      "$id": 47,
+      "label": "HINT_CONTENT_046",
+      "style": 174,
+      "name": "If you destroy an enemy's appendage,\nyou will stop them from using Arts that\nwere dependent on that appendage.\nSome materials can only be obtained\nby destroying appendages."
+    },
+    {
+      "$id": 48,
+      "label": "HINT_CONTENT_047",
+      "style": 174,
+      "name": "You can check segment recon status by\ngoing to Main Menu > Map > Segments."
+    },
+    {
+      "$id": 49,
+      "label": "HINT_CONTENT_048",
+      "style": 174,
+      "name": "You can access FrontierNav from one\nof the consoles on the White Whale 2's\nbridge."
+    },
+    {
+      "$id": 50,
+      "label": "HINT_CONTENT_049",
+      "style": 174,
+      "name": "Install data probes at FrontierNav\nprobe sites and complete segment\nrecon to raise the survey rate."
+    },
+    {
+      "$id": 51,
+      "label": "HINT_CONTENT_050",
+      "style": 174,
+      "name": "You can check the survey rate\nby going to Main Menu > Map >\nSegments."
+    },
+    {
+      "$id": 52,
+      "label": "HINT_CONTENT_051",
+      "style": 174,
+      "name": "Speaking to characters with\na question mark above their heads\nwill trigger a normal mission."
+    },
+    {
+      "$id": 53,
+      "label": "HINT_CONTENT_052",
+      "style": 174,
+      "name": "You can accept basic missions by\ninteracting with the Mission Control\nboard."
+    },
+    {
+      "$id": 54,
+      "label": "HINT_CONTENT_053",
+      "style": 174,
+      "name": "Completing affinity missions lets you\nadd new allies to your team or learn\nnew Arts."
+    },
+    {
+      "$id": 55,
+      "label": "HINT_CONTENT_054",
+      "style": 174,
+      "name": "You can fast travel to your Skell's\nlocation by going to Main Menu >\nParty > Return to Skell."
+    },
+    {
+      "$id": 56,
+      "label": "HINT_CONTENT_055",
+      "style": 174,
+      "name": "You can change the members of\nyour team by going to Main Menu >\nActive Members."
+    },
+    {
+      "$id": 57,
+      "label": "HINT_CONTENT_056",
+      "style": 174,
+      "name": "Your affinity with your teammates will\ngradually grow as you fight battles and\ncomplete missions together."
+    },
+    {
+      "$id": 58,
+      "label": "HINT_CONTENT_057",
+      "style": 174,
+      "name": "Collecting FrontierNav revenue is\na way of earning money, miranium,\nand rare resources."
+    },
+    {
+      "$id": 59,
+      "label": "HINT_CONTENT_058",
+      "style": 174,
+      "name": "To earn more rewards from BLADEs\nyou scout, train them up before you\nsend them back."
+    },
+    {
+      "$id": 60,
+      "label": "HINT_CONTENT_059",
+      "style": 174,
+      "name": "Squad tasks grant a small number\nof material tickets every time you\ncomplete one. Complete all tasks to\nreceive a lot more of them as a bonus."
+    },
+    {
+      "$id": 61,
+      "label": "HINT_CONTENT_060",
+      "style": 174,
+      "name": "You can trade material tickets for\nenemy materials by going to\nMain Menu > Online > Rewards >\nMaterial Market."
+    },
+    {
+      "$id": 62,
+      "label": "HINT_CONTENT_061",
+      "style": 174,
+      "name": "Gear dropped by defeated enemies\nmay come with random effects and\naugment slots."
+    },
+    {
+      "$id": 63,
+      "label": "HINT_CONTENT_062",
+      "style": 174,
+      "name": "To battle Global Nemeses,\nuse the Network Console in\nthe BLADE barracks."
+    },
+    {
+      "$id": 64,
+      "label": "HINT_CONTENT_063",
+      "style": 174,
+      "name": "When fighting against giant enemies,\nit is advantageous to use Skells."
+    },
+    {
+      "$id": 65,
+      "label": "HINT_CONTENT_064",
+      "style": 174,
+      "name": "When using Overdrive, Arts can reach\na state beyond secondary cooldown\ncalled tertiary cooldown, even further\nincreasing their effects."
+    },
+    {
+      "$id": 66,
+      "label": "HINT_CONTENT_065",
+      "style": 174,
+      "name": "TP (tension points) typically accrue\nwhen using auto-attacks and some\nArts, and when achieving a Perfect\nin Soul Challenges."
+    },
+    {
+      "$id": 67,
+      "label": "HINT_CONTENT_066",
+      "style": 174,
+      "name": "Arts using the weapon you currently\nhave out will continue to charge even\nafter they're usable until they reach\nsecondary cooldown, increasing their\neffects."
+    },
+    {
+      "$id": 68,
+      "label": "HINT_CONTENT_067",
+      "style": 174,
+      "name": "When you have an objective set as\nyour navigation target, you can press\n[ST:icon p1=r ]+[ST:icon p1=x ] to launch the Follow Ball,\nshowing you a path to your goal."
+    },
+    {
+      "$id": 69,
+      "label": "HINT_CONTENT_068",
+      "style": 174,
+      "name": "If you ever need to check your\nsurroundings, you can press [ST:icon p1=r ]+[ST:icon p1=crsu ]\nto deploy the Aerial Cam."
+    },
+    {
+      "$id": 70,
+      "label": "HINT_CONTENT_069",
+      "style": 174,
+      "name": "When selecting an Art on cooldown,\npress [ST:icon p1=y ] to use Quick Cooldown,\nmaking the Art ready to use instantly."
+    },
+    {
+      "$id": 71,
+      "label": "HINT_CONTENT_070",
+      "style": 174,
+      "name": "Using offensive Arts during Overdrive\nwill raise the Overdrive counter based\non the number of hits. The higher the\ncounter, the stronger the counter bonus\ndeployed when using Arts."
+    },
+    {
+      "$id": 72,
+      "label": "HINT_CONTENT_071",
+      "style": 174,
+      "name": "Arts which currently meet the conditions\nfor special effects will be highlighted\nwith an exclamation mark icon on the\nArts Palette."
+    },
+    {
+      "$id": 73,
+      "label": "HINT_CONTENT_072",
+      "style": 174,
+      "name": "When you use Arts while driving a Skell,\nthere's a chance for Cockpit Time to\ntrigger. When it does, all Arts will be\nfully recharged, and you'll be granted\ntemporary invincibility."
+    },
+    {
+      "$id": 74,
+      "label": "HINT_CONTENT_073",
+      "style": 174,
+      "name": "During Overdrive, using offensive Arts\nof different types in sequence (e.g.\nusing a yellow ranged Art followed by\nan orange melee Art) will not increase\nthe counter. Use debuff (purple) or buff\n(green) Arts between different types of\noffensive Arts to build up the counter."
+    },
+    {
+      "$id": 75,
+      "label": "HINT_CONTENT_074",
+      "style": 174,
+      "name": "Overdrive will end when the timer\nreaches zero. The timer can be\nextended through the counter bonus\neffect gained when using green or\nblue Arts."
+    },
+    {
+      "$id": 76,
+      "label": "HINT_CONTENT_075",
+      "style": 174,
+      "name": "[ST:icon p1=r ]: Target Enemy\n\n[ST:icon p1=a ] While Targeting: Draw Weapon"
+    },
+    {
+      "$id": 77,
+      "label": "HINT_CONTENT_076",
+      "style": 174,
+      "name": "Press [ST:icon p1=anarp ] while highlighting a segment\nin Main Menu > Map > Segments to\ndisplay a segment marker, highlighting\nthe segment's borders on the mini-map."
+    },
+    {
+      "$id": 78,
+      "label": "HINT_CONTENT_077",
+      "style": 174,
+      "name": "Press [ST:icon p1=zl ]+[ST:icon p1=zr ] to grapple a staggered\nenemy and bind them using your Skell.\nAll attacks against a bound enemy will\nhit, and it will take increased damage."
+    },
+    {
+      "$id": 79,
+      "label": "HINT_CONTENT_078",
+      "style": 174,
+      "name": "If one of your Skell's weapons\n(appendages) is destroyed, you will\nlose access to attacks using that\nweapon. Destroyed appendages will\nbe automatically repaired once the\nbattle concludes."
+    },
+    {
+      "$id": 80,
+      "label": "HINT_CONTENT_079",
+      "style": 174,
+      "name": "Attacking certain enemy appendages\ncan deal more or less damage than\nnormal. Target appendages using\n[ST:icon p1=r ]+[ST:icon p1=y ] or [ST:icon p1=a ]."
+    }
+  ]
+}

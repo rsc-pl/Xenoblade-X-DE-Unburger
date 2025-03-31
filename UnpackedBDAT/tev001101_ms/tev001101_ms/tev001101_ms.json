@@ -1,0 +1,168 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev001101_MSG0001",
+      "style": 1,
+      "name": "Oh? Hey, [ST:playername ].\nHow are your division missions progressing?[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev001101_MSG0002",
+      "style": 1,
+      "name": "If you don't object to my presence, I'd be happy to\njoin you for a while.[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev001101_MSG0003",
+      "style": 1,
+      "name": "Of course, this is just a personal request, not an order\nas your team leader. Don't feel obligated to comply.[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev001101_JNK0010",
+      "style": 4,
+      "name": "Accept"
+    },
+    {
+      "$id": 5,
+      "label": "tev001101_SEL0011",
+      "style": 3,
+      "name": "Add Elma to your team."
+    },
+    {
+      "$id": 6,
+      "label": "tev001101_JNK0020",
+      "style": 4,
+      "name": "Refuse"
+    },
+    {
+      "$id": 7,
+      "label": "tev001101_SEL0021",
+      "style": 3,
+      "name": "Decline Elma's request for now."
+    },
+    {
+      "$id": 8,
+      "label": "tev001101_MSG0004",
+      "style": 1,
+      "name": "Thanks. I'm honored to serve on your team, [ST:gender p1=sir p2=ma'am ]![ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "tev001101_MSG0005",
+      "style": 1,
+      "name": "I understand. Maybe some other time, then.[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "tev001101_MSG0010",
+      "style": 1,
+      "name": "HQ is analyzing the data terminal now. I understand\nyour impatience, but these things do take time.[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev001101_MSG0011",
+      "style": 1,
+      "name": "Until the analysis is complete, we'll just have to pursue\nour other BLADE duties. Maybe I could tag along while\nyou complete some missions?[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "tev001101_JNK0150",
+      "style": 4,
+      "name": "Accept"
+    },
+    {
+      "$id": 13,
+      "label": "tev001101_SEL0151",
+      "style": 3,
+      "name": "Add Elma to your team."
+    },
+    {
+      "$id": 14,
+      "label": "tev001101_JNK0160",
+      "style": 4,
+      "name": "Refuse"
+    },
+    {
+      "$id": 15,
+      "label": "tev001101_SEL0161",
+      "style": 3,
+      "name": "Decline Elma's request for now."
+    },
+    {
+      "$id": 16,
+      "label": "tev001101_MSG0012",
+      "style": 1,
+      "name": "Great. Then let's be off. There's plenty of work that\nneeds doing, I'm sure.[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "tev001101_MSG0013",
+      "style": 1,
+      "name": "I understand. I'm willing to assist with any sort of\nmission, so if you need me, don't hesitate to ask.[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "tev001101_MSG0018",
+      "style": 1,
+      "name": "Thank you, [ST:playername ].\nThank you for accepting me as a friend, even now\nthat you know my true nature.[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "tev001101_MSG0019",
+      "style": 1,
+      "name": "If you ever need my assistance, please just ask.\nAny time, any place.[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "tev001101_JNK0170",
+      "style": 4,
+      "name": "Accept"
+    },
+    {
+      "$id": 21,
+      "label": "tev001101_SEL0171",
+      "style": 3,
+      "name": "Add Elma to your team."
+    },
+    {
+      "$id": 22,
+      "label": "tev001101_JNK0180",
+      "style": 4,
+      "name": "Refuse"
+    },
+    {
+      "$id": 23,
+      "label": "tev001101_SEL0181",
+      "style": 3,
+      "name": "Decline Elma's request for now."
+    },
+    {
+      "$id": 24,
+      "label": "tev001101_MSG0020",
+      "style": 1,
+      "name": "New LA is my home now. Let's do all we can to make\nit a better place.[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "tev001101_MSG0021",
+      "style": 1,
+      "name": "I understand. Maybe some other time, then.[ST:wait ]"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs00070100_MSG0001",
+      "style": 0,
+      "name": "Hmm, you're not half-bad...[ST:wait ]\n"
+    },
+    {
+      "$id": 2,
+      "label": "xs00070100_MSG0002",
+      "style": 0,
+      "name": "There's plenty of work back in the city for someone\nwho knows how to handle a weapon, you know.[ST:wait ]\n"
+    },
+    {
+      "$id": 3,
+      "label": "xs00070100_JNK0010",
+      "style": 4,
+      "name": "Nod"
+    },
+    {
+      "$id": 4,
+      "label": "xs00070100_SEL0011",
+      "style": 3,
+      "name": "Show interest in finding work."
+    },
+    {
+      "$id": 5,
+      "label": "xs00070100_JNK0020",
+      "style": 4,
+      "name": "Scowl"
+    },
+    {
+      "$id": 6,
+      "label": "xs00070100_SEL0021",
+      "style": 3,
+      "name": "Look depressed at the idea of work."
+    },
+    {
+      "$id": 7,
+      "label": "xs00070100_MSG0003",
+      "style": 0,
+      "name": "Then you're interested.\nIn that case, I might have just the job for you...[ST:wait ]\n"
+    },
+    {
+      "$id": 8,
+      "label": "xs00070100_MSG0004",
+      "style": 0,
+      "name": "Hey, I'm not trying to pressure you into anything, all right?\nIt'll be your decision in the end.[ST:wait ]\n"
+    },
+    {
+      "$id": 9,
+      "label": "xs00070100_MSG0005",
+      "style": 0,
+      "name": "But anyway, we can talk more details later.\nFor now, let's keep moving.[ST:wait ]\n"
+    }
+  ]
+}

@@ -1,0 +1,288 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev014403_MSG0001",
+      "style": 1,
+      "name": "Help me! Someone open this door![ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev014403_JNK0010",
+      "style": 4,
+      "name": "Open"
+    },
+    {
+      "$id": 3,
+      "label": "qev014403_SEL0011",
+      "style": 3,
+      "name": "Force the door open."
+    },
+    {
+      "$id": 4,
+      "label": "qev014403_JNK0020",
+      "style": 4,
+      "name": "Talk"
+    },
+    {
+      "$id": 5,
+      "label": "qev014403_SEL0021",
+      "style": 3,
+      "name": "Ask Ajoa what's going on."
+    },
+    {
+      "$id": 6,
+      "label": "qev014403_MSG0002",
+      "style": 1,
+      "name": "Is someone there? Oh, thank you!\nYou're trying to get the door open, aren't you?[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev014403_MSG0003",
+      "style": 1,
+      "name": "Well, you can stop. It won't open without a keycard.[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev014403_MSG0004",
+      "style": 1,
+      "name": "Hello?! Oh, thank goodness you heard me![ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev014403_MSG0005",
+      "style": 1,
+      "name": "The plant's doors stopped working, and now I'm\ntrapped in here![ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev014403_MSG0006",
+      "style": 1,
+      "name": "The rest of the research team should be somewhere\nin the facility. Can you please get a keycard from\none of them?[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev014403_MSG0007",
+      "style": 1,
+      "name": "And be careful—there are monsters running around\nin here. If you find one, don't hesitate to kill it.[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev014403_MSG0010",
+      "style": 1,
+      "name": "Oh, thank you! I can finally get out!\n...It sounded like that thing was dying.\nWere you the one who killed it?[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev014403_JNK0030",
+      "style": 4,
+      "name": "Inquire"
+    },
+    {
+      "$id": 14,
+      "label": "qev014403_SEL0031",
+      "style": 3,
+      "name": "Ask Ajoa why she was trapped in there."
+    },
+    {
+      "$id": 15,
+      "label": "qev014403_JNK0040",
+      "style": 4,
+      "name": "Interrogate"
+    },
+    {
+      "$id": 16,
+      "label": "qev014403_SEL0041",
+      "style": 3,
+      "name": "Ask Ajoa whether she knows about the cocoons\nsurrounding the plant."
+    },
+    {
+      "$id": 17,
+      "label": "qev014403_MSG0011",
+      "style": 1,
+      "name": "The intruder alarm went off, and everyone ran outside.\nWe heard a scream, and then Ian and I were attacked\nby...something.[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev014403_MSG0012",
+      "style": 1,
+      "name": "Oh my God, Ian! Where is he? Where are the others?\nAre they all right?![ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev014403_JNK0050",
+      "style": 4,
+      "name": "Answer"
+    },
+    {
+      "$id": 20,
+      "label": "qev014403_SEL0051",
+      "style": 3,
+      "name": "Inform Ajoa that you didn't find anyone else.[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev014403_JNK0060",
+      "style": 4,
+      "name": "Question"
+    },
+    {
+      "$id": 22,
+      "label": "qev014403_SEL0061",
+      "style": 3,
+      "name": "Ask Ajoa what attacked her."
+    },
+    {
+      "$id": 23,
+      "label": "qev014403_MSG0013",
+      "style": 1,
+      "name": "Then how do you have a keycard? My friends are\nthe only ones who have those.[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev014403_MSG0014",
+      "style": 1,
+      "name": "And why are you even HERE? We weren't expecting\nvisitors, and I can't believe anyone would just show\nup here out of the blue.[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev014403_MSG0015",
+      "style": 1,
+      "name": "...What? Rosie asked you to come?[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev014403_MSG0016",
+      "style": 1,
+      "name": "Then I owe her for saving me, I guess...[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev014403_MSG0017",
+      "style": 1,
+      "name": "Do you hear that? It's a warning that something is\nwrong with the plant![ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev014403_MSG0018",
+      "style": 1,
+      "name": "I'm sorry, but could I ask you to go check it out?[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev014403_MSG0019",
+      "style": 1,
+      "name": "I'm going to look through the surveillance footage and\ntry to get an idea of what's happened.[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev014403_MSG0020",
+      "style": 1,
+      "name": "This horrific four-armed...thing came at us from\nnowhere. It kept shrieking and shrieking and...[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev014403_MSG0021",
+      "style": 1,
+      "name": "It attacked me, and I blacked out.\nWhen I woke up, I was trapped in here.[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev014403_MSG0022",
+      "style": 1,
+      "name": "But why are YOU here?[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev014403_MSG0023",
+      "style": 1,
+      "name": "...What? Rosie asked you to come?[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev014403_MSG0024",
+      "style": 1,
+      "name": "Then I owe her for saving me, I guess...[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev014403_MSG0025",
+      "style": 1,
+      "name": "Do you hear that? It's a warning that something is\nwrong with the plant![ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev014403_MSG0026",
+      "style": 1,
+      "name": "I'm sorry, but could I ask you to go check it out?[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev014403_MSG0027",
+      "style": 1,
+      "name": "I'm going to look through the surveillance footage and\ntry to get an idea of what's happened.[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev014403_MSG0028",
+      "style": 1,
+      "name": "...Eeek![ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "qev014403_MSG0029",
+      "style": 1,
+      "name": "You're saying it's like that outside as well?\nBut...that's crazy. None of that was here before.[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "qev014403_MSG0030",
+      "style": 1,
+      "name": "And why are YOU here?[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "qev014403_MSG0031",
+      "style": 1,
+      "name": "...What? Rosie asked you to come?[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "qev014403_MSG0032",
+      "style": 1,
+      "name": "Then I owe her for saving me, I guess...[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "qev014403_MSG0033",
+      "style": 1,
+      "name": "Do you hear that? It's a warning that something is\nwrong with the plant![ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "qev014403_MSG0034",
+      "style": 1,
+      "name": "I'm sorry, but could I ask you to go check it out?[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "qev014403_MSG0035",
+      "style": 1,
+      "name": "I'm going to look through the surveillance footage and\ntry to get an idea of what's happened.[ST:wait ]"
+    }
+  ]
+}

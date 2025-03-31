@@ -1,0 +1,420 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev017301_MSG0001",
+      "style": 1,
+      "name": "Well, speak of the devil.\nI was just talking about you![ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev017301_MSG0002",
+      "style": 1,
+      "name": "We've been getting tons of info from all our new data\nprobes recently. Now, is this just me, or did you install\npretty much all of them?[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev017301_MSG0003",
+      "style": 1,
+      "name": "Everybody's wondering how you're reaching so many\nprobe-placement sites so quickly.[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev017301_MSG0004",
+      "style": 1,
+      "name": "But now that you're here, I can just ask! So?\nYou got a special system or something?[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev017301_JNK0010",
+      "style": 4,
+      "name": "Explain"
+    },
+    {
+      "$id": 6,
+      "label": "qev017301_SEL0011",
+      "style": 3,
+      "name": "Tell Kirsty about your own unique method."
+    },
+    {
+      "$id": 7,
+      "label": "qev017301_JNK0020",
+      "style": 4,
+      "name": "Evade"
+    },
+    {
+      "$id": 8,
+      "label": "qev017301_SEL0021",
+      "style": 3,
+      "name": "Shrug. Then raise your eyebrows mysteriously."
+    },
+    {
+      "$id": 9,
+      "label": "qev017301_MSG0005",
+      "style": 1,
+      "name": "Ah, I see... Wow. Even the developers of FrontierNav\nnever thought of going about it like that.[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev017301_MSG0006",
+      "style": 1,
+      "name": "I'm so pleased to have met someone like you.[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev017301_MSG0007",
+      "style": 1,
+      "name": "Are you kidding me? What, you think you're competing\nwith every single Pathfinder now?[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev017301_MSG0008",
+      "style": 1,
+      "name": "...Ah, forget it. If a competitive spirit leads you to\ninstall data probes like a [ST:gender p1=madman p2=madwoman ], so be it.[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev017301_MSG0009",
+      "style": 1,
+      "name": "Oh, and while I have you, I've got a job that involves\nmining for aurorite in Sylvalum.[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev017301_MSG0010",
+      "style": 1,
+      "name": "There's also a bounty out on some nectar scirpos\nthat have been causing trouble in the region.[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev017301_MSG0011",
+      "style": 1,
+      "name": "And finally, we've picked up the signal of a new\ndata unit out in Sylvalum as well.[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev017301_MSG0012",
+      "style": 1,
+      "name": "You should be able to do all of these in your sleep,\nso get out there and show my fellow Pathfinders how\nit's done![ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev017301_MSG0013",
+      "style": 1,
+      "name": "Er, you don't mind, do you?\nThe others really look up to you at this point.[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev017301_MSG0014",
+      "style": 1,
+      "name": "Plus I'll give you a special treat when you're finished...[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev017301_MSG0015",
+      "style": 1,
+      "name": "I'll tell you what's inside all those classified data\nunits you've been retrieving![ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev017301_JNK0030",
+      "style": 4,
+      "name": "Accept"
+    },
+    {
+      "$id": 21,
+      "label": "qev017301_SEL0031",
+      "style": 3,
+      "name": "Tell Kirsty you're dying to know\nwhat is in those data units."
+    },
+    {
+      "$id": 22,
+      "label": "qev017301_JNK0040",
+      "style": 4,
+      "name": "Rebuke"
+    },
+    {
+      "$id": 23,
+      "label": "qev017301_SEL0041",
+      "style": 3,
+      "name": "Ask Kirsty why she's throwing around\naccess to classified information."
+    },
+    {
+      "$id": 24,
+      "label": "qev017301_MSG0016",
+      "style": 1,
+      "name": "I thought that would pique your interest.\nSorry to have kept you in the dark so long.[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev017301_MSG0017",
+      "style": 1,
+      "name": "I'd actually planned to keep this one to myself, but...[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev017301_MSG0018",
+      "style": 1,
+      "name": "Well, I want you to know.[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev017301_MSG0019",
+      "style": 1,
+      "name": "Hey, sometimes a girl just wants to be a rebel.\nPlus, everyone else who knew about it is gone.[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev017301_MSG0020",
+      "style": 1,
+      "name": "And I guess I don't want to be the only person\nwho knows.[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev017301_MSG0021",
+      "style": 1,
+      "name": "All right, off you go. I expect the usual perfection.[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev017301_MSG0022",
+      "style": 1,
+      "name": "I'm curious to see how you use FrontierNav to dig up\nall that aurorite.[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev017301_MSG0023",
+      "style": 1,
+      "name": "I'll be watching the data feed with interest,\nso get out there and wow me![ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev017301_MSG0024",
+      "style": 1,
+      "name": "You made finding all that aurorite look like it was a\ntotal snap! Everyone watching you was floored.[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev017301_MSG0025",
+      "style": 1,
+      "name": "Now you just need to take care of the other two\nobjectives in Sylvalum. No sweat for you, eh?[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev017301_MSG0026",
+      "style": 1,
+      "name": "Don't tell me you're done already? Hot damn!\nYou never cease to amaze...[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev017301_MSG0027",
+      "style": 1,
+      "name": "A lot of Pathfinders tried their hands at this one before\nyou, you know? Just in case your head wasn't swollen\nenough already.[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev017301_MSG0028",
+      "style": 1,
+      "name": "You're the real deal, [ST:playername ].\nA BLADE worthy of taking up my colleagues' mantle.[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev017301_MSG0029",
+      "style": 1,
+      "name": "So I can tell you about what was in those data units\nnow. I mean, if you want.[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev017301_JNK0050",
+      "style": 4,
+      "name": "Listen"
+    },
+    {
+      "$id": 39,
+      "label": "qev017301_SEL0051",
+      "style": 3,
+      "name": "Hear Kirsty's story."
+    },
+    {
+      "$id": 40,
+      "label": "qev017301_JNK0060",
+      "style": 4,
+      "name": "Yawn"
+    },
+    {
+      "$id": 41,
+      "label": "qev017301_SEL0061",
+      "style": 3,
+      "name": "Tell Kirsty that you just want your reward,\nnot some boring story."
+    },
+    {
+      "$id": 42,
+      "label": "qev017301_MSG0030",
+      "style": 1,
+      "name": "Thanks. It's a bit of a long story, to be honest,\nbut I appreciate your patience.[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "qev017301_MSG0031",
+      "style": 1,
+      "name": "Please, don't joke about this—it's important to me.\nJust hear me out, okay?[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "qev017301_MSG0032",
+      "style": 1,
+      "name": "When the Earthlife Colonization Project was started,\nthe question arose as to how we would gather\nresources and intelligence on a new planet.[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "qev017301_MSG0033",
+      "style": 1,
+      "name": "A special team with the code name \"Frontier\" was\nassembled to tackle the issue.[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "qev017301_MSG0034",
+      "style": 1,
+      "name": "I was one of many researchers involved. Even after the\nWhite Whale took off, we kept working on the problem\naround the clock.[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "qev017301_MSG0035",
+      "style": 1,
+      "name": "We barely ate... I don't even know if we slept.\nWe just knew there wasn't a moment to waste.[ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "qev017301_MSG0036",
+      "style": 1,
+      "name": "And then, finally, we finished a working version of\nwhat would come to be FrontierNav.[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "qev017301_MSG0037",
+      "style": 1,
+      "name": "When the Ganglion attacked the White Whale,\nour lab came under fire.[ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "qev017301_MSG0038",
+      "style": 1,
+      "name": "My team, our data... It all came crashing down to\nMira along with everything else.[ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "qev017301_MSG0039",
+      "style": 1,
+      "name": "And so far as I know, I'm the only one left.\nI've even used FrontierNav to search for them,\nbut...yeah. Nothing.[ST:wait ]"
+    },
+    {
+      "$id": 52,
+      "label": "qev017301_JNK0070",
+      "style": 4,
+      "name": "Comfort"
+    },
+    {
+      "$id": 53,
+      "label": "qev017301_SEL0071",
+      "style": 3,
+      "name": "Tell Kirsty that her team would be proud of her."
+    },
+    {
+      "$id": 54,
+      "label": "qev017301_JNK0080",
+      "style": 4,
+      "name": "Query"
+    },
+    {
+      "$id": 55,
+      "label": "qev017301_SEL0081",
+      "style": 3,
+      "name": "Ask Kirsty how she survived when the others didn't."
+    },
+    {
+      "$id": 56,
+      "label": "qev017301_MSG0040",
+      "style": 1,
+      "name": "Thanks. I try to remember that. I know my colleagues\nwouldn't want me to dwell on the past.[ST:wait ]"
+    },
+    {
+      "$id": 57,
+      "label": "qev017301_MSG0041",
+      "style": 1,
+      "name": "Dumb luck. I was in another part of the ship,\nbriefing the Coalition forces on FrontierNav.[ST:wait ]"
+    },
+    {
+      "$id": 58,
+      "label": "qev017301_MSG0042",
+      "style": 1,
+      "name": "If I had been back in the lab, I'd be...\nWell, I'd be with the rest of my team.\nWherever that is.[ST:wait ]"
+    },
+    {
+      "$id": 59,
+      "label": "qev017301_MSG0043",
+      "style": 1,
+      "name": "Sorry. I know there's no use dwelling on it now.\nI survived, so I owe it to the others to do something\nuseful with my life.[ST:wait ]"
+    },
+    {
+      "$id": 60,
+      "label": "qev017301_MSG0044",
+      "style": 1,
+      "name": "Getting back to the point, our team was working with\nfive of these data units.[ST:wait ]"
+    },
+    {
+      "$id": 61,
+      "label": "qev017301_MSG0045",
+      "style": 1,
+      "name": "Each one contains data on a top-secret,\nsecond-generation version of FrontierNav.[ST:wait ]"
+    },
+    {
+      "$id": 62,
+      "label": "qev017301_MSG0046",
+      "style": 1,
+      "name": "Even after FrontierNav was complete, the rest of my\nteam continued to pursue their research voluntarily.[ST:wait ]"
+    },
+    {
+      "$id": 63,
+      "label": "qev017301_MSG0047",
+      "style": 1,
+      "name": "I don't think Nagi knows about this.\nHell, even I don't know all the finer details.[ST:wait ]"
+    },
+    {
+      "$id": 64,
+      "label": "qev017301_MSG0048",
+      "style": 1,
+      "name": "My friends gave all they had to ensure the future\nprosperity of humankind, and I want to honor that.[ST:wait ]"
+    },
+    {
+      "$id": 65,
+      "label": "qev017301_MSG0049",
+      "style": 1,
+      "name": "But there's still one data unit missing.\nIf I can track it down, will you go out there\nand recover it?[ST:wait ]"
+    },
+    {
+      "$id": 66,
+      "label": "qev017301_MSG0050",
+      "style": 1,
+      "name": "Together we can uncover my friends' final legacy.[ST:wait ]"
+    },
+    {
+      "$id": 67,
+      "label": "qev017301_MSG0051",
+      "style": 1,
+      "name": "It would mean the world to me,\n[ST:playername ]. Please consider it?[ST:wait ]"
+    }
+  ]
+}

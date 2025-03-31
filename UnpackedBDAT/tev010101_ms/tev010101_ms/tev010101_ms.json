@@ -1,0 +1,258 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev010101_JNK0010",
+      "style": 4,
+      "name": "Inquire[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev010101_SEL0041",
+      "style": 3,
+      "name": "Ask Adelbert about Division Drive.[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev010101_JNK0020",
+      "style": 4,
+      "name": "Discuss[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev010101_SEL0021",
+      "style": 3,
+      "name": "Find out what Adelbert is upset about.[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev010101_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 6,
+      "label": "tev010101_SEL0011",
+      "style": 3,
+      "name": "Ask Adelbert about the Harriers."
+    },
+    {
+      "$id": 7,
+      "label": "tev010101_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 8,
+      "label": "tev010101_SEL0021",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 9,
+      "label": "tev010101_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 10,
+      "label": "tev010101_SEL0031",
+      "style": 3,
+      "name": "Ask Adelbert about tyrants."
+    },
+    {
+      "$id": 11,
+      "label": "tev010101_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 12,
+      "label": "tev010101_SEL0021",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 13,
+      "label": "tev010101_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 14,
+      "label": "tev010101_SEL0051",
+      "style": 3,
+      "name": "Ask Adelbert about your affinity with your comrades."
+    },
+    {
+      "$id": 15,
+      "label": "tev010101_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 16,
+      "label": "tev010101_SEL0021",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 17,
+      "label": "tev010101_MSG0001",
+      "style": 1,
+      "name": "It isn't just a base for us Harriers—lots of divisions\nhave their headquarters here on Division Drive.\n...Hence the name, I suppose.[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "tev010101_MSG0002",
+      "style": 1,
+      "name": "The Pathfinders are right next door to us,\nand the Mediators are across the way.[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "tev010101_MSG0003",
+      "style": 1,
+      "name": "You just arrived here, right? Then I take it you haven't\nchosen a division yet.[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "tev010101_MSG0004",
+      "style": 1,
+      "name": "You'll see logos like this one on the walls and floors of\neach division's base.[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "tev010101_MSG0005",
+      "style": 1,
+      "name": "When you decide on a division, look for the building\nwith its logo. A division base is like a BLADE's second\nhome—a place where you and your friends can gather.[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "tev010101_MSG0010",
+      "style": 1,
+      "name": "After we landed here, a young whelp by the name of\nDirk was assigned to our team.[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "tev010101_MSG0011",
+      "style": 1,
+      "name": "Kid's so green, he smells like fresh-cut grass.[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "tev010101_MSG0012",
+      "style": 1,
+      "name": "Harrier work is dangerous even at the best of times,\nand I worry the kid won't be able to hack it.[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "tev010101_MSG0013",
+      "style": 1,
+      "name": "Apparently he was some sort of expert marksman in\ncollege, but we're not shooting hay bales here.\nI don't know how he'll perform in a real fight.[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "tev010101_MSG0014",
+      "style": 1,
+      "name": "Still, as team leader, I have to take responsibility for\nkeeping him safe.[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "tev010101_MSG0020",
+      "style": 1,
+      "name": "As Harriers, our job is to exterminate the especially\ndangerous indigens that roam this world.[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "tev010101_MSG0021",
+      "style": 1,
+      "name": "Some of 'em are so tough, it would take a full squad\nof BLADEs just to make it a fair fight.[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "tev010101_MSG0022",
+      "style": 1,
+      "name": "Most of the Coalition's veteran fighters were assigned\nto this division.[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "tev010101_MSG0023",
+      "style": 1,
+      "name": "On my own team, I'm lucky to serve with Phina and\nGrette—two career soldiers that may well have been\nborn wearing camo.[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "tev010101_MSG0024",
+      "style": 1,
+      "name": "They both have mouths that would make a sailor blush,\nbut there's no one you'd rather have watching your\nback when you're bringing down a monster.[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "tev010101_MSG0030",
+      "style": 1,
+      "name": "Oh, I got some stories. There's a mutant dilus that\nlives just north of Rust Lake in Noctilum, for one.\nIt's an unimaginably vicious piece of work.[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "tev010101_MSG0031",
+      "style": 1,
+      "name": "We pumped that thing full of enough lead to supply\na pencil factory, and it STILL wouldn't go down![ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "tev010101_MSG0032",
+      "style": 1,
+      "name": "Eventually it went berserk—got even stronger than\nbefore. Turned into a flurry of death and destruction.[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "tev010101_MSG0033",
+      "style": 1,
+      "name": "I wouldn't be here talking to you today if it weren't\nfor Phina and Grette—two buddies I've been serving\nwith since my Coalition days.[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "tev010101_MSG0034",
+      "style": 1,
+      "name": "Tyrants are in a whole different league from normal\nindigens. If you're thinking of challenging one, you\nbetter make damn sure you know what you're doing.[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "tev010101_MSG0040",
+      "style": 1,
+      "name": "Since we arrived, I've racked up lots of combat ops\nwith Phina and Grette—two allies I trust with my life.\nThe more we fight, the stronger our affinity becomes.[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "tev010101_MSG0041",
+      "style": 1,
+      "name": "As a result, we're an order of magnitude stronger\nwhenever we fight together.[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "tev010101_MSG0042",
+      "style": 1,
+      "name": "Affinity is the strongest weapon you have, and more\npowerful than any piece of gear you can buy—\nincluding a Skell.[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "tev010101_MSG0043",
+      "style": 1,
+      "name": "When you're fighting alongside Elma and the other\ntrusted comrades on your team, it's a weapon you all\nmust forge together.[ST:wait ]"
+    }
+  ]
+}

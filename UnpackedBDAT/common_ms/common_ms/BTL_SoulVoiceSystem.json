@@ -1,0 +1,354 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "SVT_P01_TriggerName",
+      "style": 19,
+      "name": "Draw Melee"
+    },
+    {
+      "$id": 2,
+      "label": "SVT_P02_TriggerName",
+      "style": 19,
+      "name": "Draw Ranged"
+    },
+    {
+      "$id": 3,
+      "label": "SVT_P03_TriggerName",
+      "style": 19,
+      "name": "Opening Art"
+    },
+    {
+      "$id": 4,
+      "label": "SVT_P04_TriggerName",
+      "style": 19,
+      "name": "HP Risk"
+    },
+    {
+      "$id": 5,
+      "label": "SVT_P05_TriggerName",
+      "style": 19,
+      "name": "HP Peril"
+    },
+    {
+      "$id": 6,
+      "label": "SVT_P06_TriggerName",
+      "style": 19,
+      "name": "Last Words"
+    },
+    {
+      "$id": 7,
+      "label": "SVT_P07_TriggerName",
+      "style": 19,
+      "name": "Heavy Hitter"
+    },
+    {
+      "$id": 8,
+      "label": "SVT_P08_TriggerName",
+      "style": 19,
+      "name": "Dismemberer"
+    },
+    {
+      "$id": 9,
+      "label": "SVT_P09_TriggerName",
+      "style": 19,
+      "name": "Underdog"
+    },
+    {
+      "$id": 10,
+      "label": "SVT_P10_TriggerName",
+      "style": 19,
+      "name": "Artful Execution"
+    },
+    {
+      "$id": 11,
+      "label": "SVT_P11_TriggerName",
+      "style": 19,
+      "name": "Aura Ready"
+    },
+    {
+      "$id": 12,
+      "label": "SVT_P12_TriggerName",
+      "style": 19,
+      "name": "Activate Overdrive"
+    },
+    {
+      "$id": 13,
+      "label": "SVT_C01_TriggerName",
+      "style": 19,
+      "name": "Finishing Blow"
+    },
+    {
+      "$id": 14,
+      "label": "SVT_C02_TriggerName",
+      "style": 19,
+      "name": "Untouchable"
+    },
+    {
+      "$id": 15,
+      "label": "SVT_C03_TriggerName",
+      "style": 19,
+      "name": "Critical Combination"
+    },
+    {
+      "$id": 16,
+      "label": "SVT_C04_TriggerName",
+      "style": 19,
+      "name": "Wayward Weather"
+    },
+    {
+      "$id": 17,
+      "label": "SVT_C05_TriggerName",
+      "style": 19,
+      "name": "Sprinter"
+    },
+    {
+      "$id": 18,
+      "label": "SVT_C06_TriggerName",
+      "style": 19,
+      "name": "Medicine Man"
+    },
+    {
+      "$id": 19,
+      "label": "SVT_C07_TriggerName",
+      "style": 19,
+      "name": "Medicine Woman"
+    },
+    {
+      "$id": 20,
+      "label": "SVT_C08_TriggerName",
+      "style": 19,
+      "name": "Daredevil"
+    },
+    {
+      "$id": 21,
+      "label": "SVT_C09_TriggerName",
+      "style": 19,
+      "name": "Higher Ground"
+    },
+    {
+      "$id": 22,
+      "label": "SVT_C10_TriggerName",
+      "style": 19,
+      "name": "Toppler"
+    },
+    {
+      "$id": 23,
+      "label": "SVT_C11_TriggerName",
+      "style": 19,
+      "name": "Stunner"
+    },
+    {
+      "$id": 24,
+      "label": "SVT_C12_TriggerName",
+      "style": 19,
+      "name": "Sandman"
+    },
+    {
+      "$id": 25,
+      "label": "SVT_C13_TriggerName",
+      "style": 19,
+      "name": "Binder"
+    },
+    {
+      "$id": 26,
+      "label": "SVT_C14_TriggerName",
+      "style": 19,
+      "name": "Skell Crush"
+    },
+    {
+      "$id": 27,
+      "label": "SVT_C15_TriggerName",
+      "style": 19,
+      "name": "Wrecked Skell"
+    },
+    {
+      "$id": 28,
+      "label": "SVT_C16_TriggerName",
+      "style": 19,
+      "name": "Running on Empty"
+    },
+    {
+      "$id": 29,
+      "label": "SVT_P01_TriggerCaption",
+      "style": 64,
+      "name": "Trigger: Character starts a battle\nby drawing melee weapon"
+    },
+    {
+      "$id": 30,
+      "label": "SVT_P02_TriggerCaption",
+      "style": 64,
+      "name": "Trigger: Character starts a battle\nby drawing ranged weapon"
+    },
+    {
+      "$id": 31,
+      "label": "SVT_P03_TriggerCaption",
+      "style": 64,
+      "name": "Trigger: Character starts a battle\nby performing an Art"
+    },
+    {
+      "$id": 32,
+      "label": "SVT_P04_TriggerCaption",
+      "style": 64,
+      "name": "Trigger: Character's HP falls\nbelow 60%"
+    },
+    {
+      "$id": 33,
+      "label": "SVT_P05_TriggerCaption",
+      "style": 64,
+      "name": "Trigger: Character's HP falls\nbelow 30%"
+    },
+    {
+      "$id": 34,
+      "label": "SVT_P06_TriggerCaption",
+      "style": 64,
+      "name": "Trigger: Character becomes\nincapacitated"
+    },
+    {
+      "$id": 35,
+      "label": "SVT_P07_TriggerCaption",
+      "style": 64,
+      "name": "Trigger: Character lands\na critical hit on an enemy"
+    },
+    {
+      "$id": 36,
+      "label": "SVT_P08_TriggerCaption",
+      "style": 64,
+      "name": "Trigger: Character attacks and\ndestroys an enemy appendage"
+    },
+    {
+      "$id": 37,
+      "label": "SVT_P09_TriggerCaption",
+      "style": 64,
+      "name": "Trigger: Character halves the\nHP of a much larger enemy"
+    },
+    {
+      "$id": 38,
+      "label": "SVT_P10_TriggerCaption",
+      "style": 64,
+      "name": "Trigger: Character successfully\nuses an Art's special effect"
+    },
+    {
+      "$id": 39,
+      "label": "SVT_P11_TriggerCaption",
+      "style": 64,
+      "name": "Trigger: Character activates\nan aura using an Art"
+    },
+    {
+      "$id": 40,
+      "label": "SVT_P12_TriggerCaption",
+      "style": 64,
+      "name": "Trigger: Character activates\nOverdrive"
+    },
+    {
+      "$id": 41,
+      "label": "SVT_C01_TriggerCaption",
+      "style": 64,
+      "name": "Trigger: Character delivers the\nfinishing blow to an enemy"
+    },
+    {
+      "$id": 42,
+      "label": "SVT_C02_TriggerCaption",
+      "style": 64,
+      "name": "Trigger: Character evades three\nconsecutive enemy attacks"
+    },
+    {
+      "$id": 43,
+      "label": "SVT_C03_TriggerCaption",
+      "style": 64,
+      "name": "Trigger: Character lands three\nconsecutive critical hits"
+    },
+    {
+      "$id": 44,
+      "label": "SVT_C04_TriggerCaption",
+      "style": 64,
+      "name": "Trigger: Character witnesses a\nchange in weather during combat"
+    },
+    {
+      "$id": 45,
+      "label": "SVT_C05_TriggerCaption",
+      "style": 64,
+      "name": "Trigger: Character sprints for\nthree or more seconds"
+    },
+    {
+      "$id": 46,
+      "label": "SVT_C06_TriggerCaption",
+      "style": 64,
+      "name": "Trigger: Character gets healed\nor buffed by a male ally"
+    },
+    {
+      "$id": 47,
+      "label": "SVT_C07_TriggerCaption",
+      "style": 64,
+      "name": "Trigger: Character gets healed\nor buffed by a female ally"
+    },
+    {
+      "$id": 48,
+      "label": "SVT_C08_TriggerCaption",
+      "style": 64,
+      "name": "Trigger: Character attacks with\nan Art while HP is below 30%"
+    },
+    {
+      "$id": 49,
+      "label": "SVT_C09_TriggerCaption",
+      "style": 64,
+      "name": "Trigger: Character attacks\nan enemy from above"
+    },
+    {
+      "$id": 50,
+      "label": "SVT_C10_TriggerCaption",
+      "style": 64,
+      "name": "Trigger: Character inflicts\nTopple on an enemy"
+    },
+    {
+      "$id": 51,
+      "label": "SVT_C11_TriggerCaption",
+      "style": 64,
+      "name": "Trigger: Character inflicts\nStun on an enemy"
+    },
+    {
+      "$id": 52,
+      "label": "SVT_C12_TriggerCaption",
+      "style": 64,
+      "name": "Trigger: Character inflicts\nSleep on an enemy"
+    },
+    {
+      "$id": 53,
+      "label": "SVT_C13_TriggerCaption",
+      "style": 64,
+      "name": "Trigger: Character uses a Skell\nto Bind an enemy"
+    },
+    {
+      "$id": 54,
+      "label": "SVT_C14_TriggerCaption",
+      "style": 64,
+      "name": "Trigger: Appendage of character's\nSkell is destroyed"
+    },
+    {
+      "$id": 55,
+      "label": "SVT_C15_TriggerCaption",
+      "style": 64,
+      "name": "Trigger: Character's Skell is\nwrecked and removed from battle"
+    },
+    {
+      "$id": 56,
+      "label": "SVT_C16_TriggerCaption",
+      "style": 64,
+      "name": "Trigger: Fuel of character's Skell\nfalls below 30% in combat"
+    }
+  ]
+}

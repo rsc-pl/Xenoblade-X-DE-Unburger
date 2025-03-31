@@ -1,0 +1,318 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev025101_MSG0001",
+      "style": 1,
+      "name": "Dammit! Am I too late?[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev025101_MSG0002",
+      "style": 1,
+      "name": "...You there! Did you see her jump, perhaps?[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev025101_MSG0003",
+      "style": 1,
+      "name": "Er, would you mind answering a few questions for me?[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev025101_JNK0010",
+      "style": 4,
+      "name": "Agree"
+    },
+    {
+      "$id": 5,
+      "label": "qev025101_SEL0011",
+      "style": 3,
+      "name": "Offer to help if you can."
+    },
+    {
+      "$id": 6,
+      "label": "qev025101_JNK0020",
+      "style": 4,
+      "name": "Refuse"
+    },
+    {
+      "$id": 7,
+      "label": "qev025101_SEL0021",
+      "style": 3,
+      "name": "Stay out of it."
+    },
+    {
+      "$id": 8,
+      "label": "qev025101_MSG0004",
+      "style": 1,
+      "name": "It's appreciated, you know? Always good to meet\na friendly person on something like this.[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev025101_MSG0005",
+      "style": 1,
+      "name": "What? Hey, no no no! You're an eyewitness, right?\nI can't just let you wander off![ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev025101_MSG0006",
+      "style": 1,
+      "name": "Sorry, but I need you to cooperate, all right?\nAnd, uh, maybe don't scowl at me like that?[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev025101_MSG0007",
+      "style": 1,
+      "name": "So my name's Ackwar, you see?\nBelieve it or not, I'm the very first Ma-non BLADE.[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev025101_MSG0008",
+      "style": 1,
+      "name": "As a Mediator, it's my job to go around the city\nresolving trouble, okay? Especially when it involves\nother Ma-non.[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev025101_MSG0009",
+      "style": 1,
+      "name": "So first off, your name is...[ST:playername ],\nyes? Yes. I see.[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev025101_MSG0010",
+      "style": 1,
+      "name": "Let me ask this nicely, [ST:playername ]...\nAre you the murderer? You are, aren't you? Er, right?[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev025101_JNK0030",
+      "style": 4,
+      "name": "Deny"
+    },
+    {
+      "$id": 16,
+      "label": "qev025101_SEL0031",
+      "style": 3,
+      "name": "Fiercely deny Ackwar's insulting accusation."
+    },
+    {
+      "$id": 17,
+      "label": "qev025101_JNK0040",
+      "style": 4,
+      "name": "Inquire"
+    },
+    {
+      "$id": 18,
+      "label": "qev025101_SEL0041",
+      "style": 3,
+      "name": "Ask why Ackwar is looking for a murderer\nwhen the victim jumped."
+    },
+    {
+      "$id": 19,
+      "label": "qev025101_MSG0011",
+      "style": 1,
+      "name": "Great! Oh, that's good, yeah? I had a good feeling\nabout you from the beginning. ...Plus a serial murderer\nprobably wouldn't hang around the scene, you know?[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev025101_MSG0012",
+      "style": 1,
+      "name": "...Hmm? You want to know how this counts as a\nmurder?[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev025101_MSG0013",
+      "style": 1,
+      "name": "Interesting. And judging from your calm tone,\nI think you're probably totally innocent.\nI know it makes no sense, but, uh, there it is.[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev025101_MSG0014",
+      "style": 1,
+      "name": "So there's been a string of strange Ma-non killings\nlately, you see?[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev025101_MSG0015",
+      "style": 1,
+      "name": "That's why I'm guessing this \"jumping\" incident here\nwas actually some foul foul play, maybe?[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev025101_MSG0016",
+      "style": 1,
+      "name": "Take it from me—if a Ma-non wanted to end their own\nlife, they simply wouldn't have the conviction or self-\nassurance to see it through, right?[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev025101_MSG0017",
+      "style": 1,
+      "name": "But even if they DID, they certainly wouldn't go jumping\noff some crazy tall building, you know? That's crazy.\nToo too crazy for Ma-non.[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev025101_JNK0050",
+      "style": 4,
+      "name": "Agree"
+    },
+    {
+      "$id": 27,
+      "label": "qev025101_SEL0051",
+      "style": 3,
+      "name": "Nod as if that makes sense."
+    },
+    {
+      "$id": 28,
+      "label": "qev025101_JNK0060",
+      "style": 4,
+      "name": "Question"
+    },
+    {
+      "$id": 29,
+      "label": "qev025101_SEL0061",
+      "style": 3,
+      "name": "Ask why Ackwar would possibly think that."
+    },
+    {
+      "$id": 30,
+      "label": "qev025101_MSG0018",
+      "style": 1,
+      "name": "Right? So there must still be a terrible criminal behind\nthis, don't you think? A criminal who may even\ncontinue to yearn for Ma-non blood?[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev025101_MSG0019",
+      "style": 1,
+      "name": "We Ma-non are logical and thoughtful, yes? If we\nwanted to end it all, we'd probably invent a new\neuthanasia device. No pain. No fear. Efficient, right?[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev025101_MSG0020",
+      "style": 1,
+      "name": "Jumping is emotional and so so irrational, no?\nIt's not the Ma-non way.[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev025101_MSG0021",
+      "style": 1,
+      "name": "So there must still be a terrible criminal behind this,\ndon't you think? A criminal who may even continue\nto yearn for Ma-non blood?[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev025101_MSG0022",
+      "style": 1,
+      "name": "You are a BLADE too, yes? Would you maybe help me\non this investigation?[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev025101_MSG0023",
+      "style": 1,
+      "name": "You'll be rewarded very very well, most likely.\n...So, er, please?[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev025101_MSG0024",
+      "style": 1,
+      "name": "Oh, good! Jim told me to ask another BLADE if I ever\nneeded help, and it seems he was correct.[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev025101_MSG0025",
+      "style": 1,
+      "name": "I would ask you to start with questioning, okay?\nI have a specific human I want you to consult.[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev025101_JNK0070",
+      "style": 4,
+      "name": "Inquire"
+    },
+    {
+      "$id": 39,
+      "label": "qev025101_SEL0071",
+      "style": 3,
+      "name": "Ask what Ackwar is going to do in the meantime."
+    },
+    {
+      "$id": 40,
+      "label": "qev025101_JNK0080",
+      "style": 4,
+      "name": "Get Down to Business"
+    },
+    {
+      "$id": 41,
+      "label": "qev025101_SEL0081",
+      "style": 3,
+      "name": "Learn who Ackwar wants you to interview."
+    },
+    {
+      "$id": 42,
+      "label": "qev025101_MSG0026",
+      "style": 1,
+      "name": "Er, well, I'll be investigating the scene.\nThe culprit must have left some trace behind, right?[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "qev025101_MSG0027",
+      "style": 1,
+      "name": "Meanwhile, I want you to go to a ridiculously delicious\nbusiness called Army Pizza, okay? So good.\nSo so so good.[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "qev025101_MSG0028",
+      "style": 1,
+      "name": "If I remember correctly, the owner is named Powell?\nHe was close to Duduma, who is the...the victim.[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "qev025101_MSG0029",
+      "style": 1,
+      "name": "Ask about her past, okay? Maybe what she liked?\nWhatever you can learn about her.[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "qev025101_MSG0030",
+      "style": 1,
+      "name": "There is a ridiculously delicious business in the\ncommercial district called Army Pizza, isn't there?\nSo good. So so so good.[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "qev025101_MSG0031",
+      "style": 1,
+      "name": "If I remember correctly, the owner is named Powell?\nHe was close to Duduma, who is the...the victim.[ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "qev025101_MSG0032",
+      "style": 1,
+      "name": "Ask about her past, okay? Maybe what she liked?\nWhatever you can learn about her.[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "qev025101_MSG0033",
+      "style": 1,
+      "name": "I'll be investigating the scene in the meantime.\nThe culprit must have left some trace behind, right?[ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "qev025101_MSG0034",
+      "style": 1,
+      "name": "Thanks, and good luck! I'm sure we'll crack this case\ntogether, don't you think?[ST:wait ]"
+    }
+  ]
+}

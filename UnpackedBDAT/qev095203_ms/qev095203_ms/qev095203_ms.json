@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev095203_MSG0001",
+      "style": 1,
+      "name": "This is the human city, then? Hmm...\nIt is a somewhat curious construction.[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev095203_MSG0002",
+      "style": 1,
+      "name": "It does, however, appear to be well-defended.\nThis should be able to weather even a focused strike\nfrom the Ganglion.[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev095203_MSG0003",
+      "style": 1,
+      "name": "We shall supply you with all the technology we can.\nIn return, we ask that you put it to use protecting us.[ST:wait ]"
+    }
+  ]
+}

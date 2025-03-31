@@ -1,0 +1,474 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev012001_MSG0001",
+      "style": 1,
+      "name": "Wait a— Huh? Well, this ain't good...[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev012001_MSG0002",
+      "style": 1,
+      "name": "Now what am I— Whoa, Chief? Is that you?!\nFancy meeting you here![ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev012001_MSG0003",
+      "style": 1,
+      "name": "Oh, sorry. I'm blocking the way, huh?\nHere, just gimme one sec...[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev012001_MSG0004",
+      "style": 1,
+      "name": "Aaand...\nHuh? Whoa! Wait! AAAUUUGH![ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev012001_MSG0005",
+      "style": 1,
+      "name": "...Phew! That was WAY too close.\nAlmost took quite a spill there![ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev012001_MSG0006",
+      "style": 1,
+      "name": "Man, these are tricky—it's taking me forever to get\nused to moving around on them. It's seriously been\none snag after the next since leaving NLA.[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev012001_MSG0007",
+      "style": 1,
+      "name": "Like, a minute ago I was all \"ADVENTURE, WOO!\nGLOWY FORESTS, YEAH!\"[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev012001_MSG0008",
+      "style": 1,
+      "name": "Basically being a huge idiot. You know? Me?[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev012001_MSG0009",
+      "style": 1,
+      "name": "Then this pack of whatevers comes barreling at me\nfrom outta nowhere, and I've got zero combat skills,\nso I just ran. ...Obviously.[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev012001_MSG0010",
+      "style": 1,
+      "name": "Dropped my comm device on the way, too.\nLike a genius.[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev012001_MSG0011",
+      "style": 1,
+      "name": "So that means no calling for evac.\nOr a cab home. Or pizza delivery.[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev012001_MSG0012",
+      "style": 1,
+      "name": "Oh, SHOOT! I had all those points saved up, too!\nOne free pie with the works![ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev012001_MSG0013",
+      "style": 1,
+      "name": "Typical. I should have used 'em before taking off.[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev012001_MSG0014",
+      "style": 1,
+      "name": "What was I talking about? ...Oh, right!\nSo I need a favor, Chief.[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev012001_MSG0015",
+      "style": 1,
+      "name": "Can you help me look for my comm device?[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev012001_MSG0016",
+      "style": 1,
+      "name": "It shouldn't take long. I'm sure I dropped it\nsomewhere around here.[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev012001_MSG0017",
+      "style": 1,
+      "name": "Two heads are better than one, right?\nAnd more than two is...better-er? I guess?[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev012001_JNK0030",
+      "style": 4,
+      "name": "Assist"
+    },
+    {
+      "$id": 19,
+      "label": "qev012001_SEL0031",
+      "style": 3,
+      "name": "Assist Mia in her search."
+    },
+    {
+      "$id": 20,
+      "label": "qev012001_JNK0040",
+      "style": 4,
+      "name": "Refuse"
+    },
+    {
+      "$id": 21,
+      "label": "qev012001_SEL0041",
+      "style": 3,
+      "name": "Tell Mia you don't have the time to help her now."
+    },
+    {
+      "$id": 22,
+      "label": "qev012001_MSG0018",
+      "style": 1,
+      "name": "Ooh, really?![ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev012001_MSG0019",
+      "style": 1,
+      "name": "Thank you SO much. You're the BEST, Chief![ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev012001_MSG0020",
+      "style": 1,
+      "name": "Gosh, real BLADEs are all so nice.[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev012001_MSG0021",
+      "style": 1,
+      "name": "Whaaat?[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev012001_MSG0022",
+      "style": 1,
+      "name": "You're killing me here, Chief![ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev012001_MSG0023",
+      "style": 1,
+      "name": "Help a rookie out here, would you?\nWell, I guess I'm not even a proper rookie,\nif you want to get all technical...[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev012001_MSG0024",
+      "style": 1,
+      "name": "But come on! Have a heart![ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev012001_MSG0025",
+      "style": 1,
+      "name": "Who knows? Maybe I'll be able to repay you\na hundred times over someday![ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev012001_MSG0026",
+      "style": 1,
+      "name": "Anyway, let's get this search party started, shall we?[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev012001_MSG0027",
+      "style": 1,
+      "name": "You take that direction, and I'll go this way.\nIf one of us finds my comm device, our secret signal\nwill be to shriek as loud as we can![ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev012001_MSG0028",
+      "style": 1,
+      "name": "And if you run into hostiles... Um...\nI guess you can deal with them yourself?[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev012001_MSG0029",
+      "style": 1,
+      "name": "Okay, DISPERSE![ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev012001_MSG0030",
+      "style": 1,
+      "name": "How's it looking, Chief? Any luck?[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev012001_MSG0031",
+      "style": 1,
+      "name": "Thinking back on when I might have dropped\nmy comm device...[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev012001_MSG0032",
+      "style": 1,
+      "name": "Well, at one point when those indigens were chasing\nme south of this tree, I managed a royal face-plant.\nSoooo graceful...[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev012001_MSG0033",
+      "style": 1,
+      "name": "Anyway, I remember hearing a big CLUNK then.\nI just figured it was my dignity, but...maybe it\nwas my device? Hope this helps![ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev012001_MSG0034",
+      "style": 1,
+      "name": "Any luck finding my comm device, Chief?[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "qev012001_MSG0035",
+      "style": 1,
+      "name": "Yes! That's it! You found it![ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "qev012001_MSG0036",
+      "style": 1,
+      "name": "Wow, I looked FOREVER with no luck.\nYou're amazing, Chief![ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "qev012001_MSG0037",
+      "style": 1,
+      "name": "I owe you big time. Thank you so much![ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "qev012001_MSG0038",
+      "style": 1,
+      "name": "Leave it to an experienced BLADE operative, eh?\nYou certainly showed me up.[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "qev012001_MSG0039",
+      "style": 1,
+      "name": "I've got to get my act in gear and train up to be\na pro BLADE like you, stat![ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "qev012001_MSG0040",
+      "style": 1,
+      "name": "Thanks again, Chief. You were a big help.\nHopefully we'll meet again sometime![ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "qev012001_MSG0041",
+      "style": 1,
+      "name": "I'll probably—no, DEFINITELY—be a proper BLADE\nby then. Maybe we'll end up competing for jobs![ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "qev012001_MSG0042",
+      "style": 1,
+      "name": "Oh, but uh...if so, try and go easy on me, okay?[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "qev012001_MSG0043",
+      "style": 1,
+      "name": "Until then, I'm off![ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "qev012001_MSG0044",
+      "style": 1,
+      "name": "You take care out there, Chief.[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "qev012001_JNK0010",
+      "style": 4,
+      "name": "Watch"
+    },
+    {
+      "$id": 50,
+      "label": "qev012001_SEL0011",
+      "style": 3,
+      "name": "Watch Mia leave."
+    },
+    {
+      "$id": 51,
+      "label": "qev012001_JNK0020",
+      "style": 4,
+      "name": "Stop"
+    },
+    {
+      "$id": 52,
+      "label": "qev012001_SEL0021",
+      "style": 3,
+      "name": "Ask Mia about your reward."
+    },
+    {
+      "$id": 53,
+      "label": "qev012001_MSG0045",
+      "style": 1,
+      "name": "Bow chikka wow wowwwwww!\nTime for some adveeentuuure...\nDum de-dum duuuummmm...YEAH![ST:wait ]"
+    },
+    {
+      "$id": 54,
+      "label": "qev012001_MSG0046",
+      "style": 1,
+      "name": "Hmm? You say something, Chief? Sorry.\nI was kinda composing my theme song.[ST:wait ]"
+    },
+    {
+      "$id": 55,
+      "label": "qev012001_MSG0047",
+      "style": 1,
+      "name": "Were you harmonizing? Aw, that's so sweet!\nThanks, buddy![ST:wait ]"
+    },
+    {
+      "$id": 56,
+      "label": "qev012001_MSG0048",
+      "style": 1,
+      "name": "See you around![ST:wait ]"
+    },
+    {
+      "$id": 57,
+      "label": "qev012001_MSG0049",
+      "style": 1,
+      "name": "GAAAH! H-hey, Chief... Little help?[ST:wait ]"
+    },
+    {
+      "$id": 58,
+      "label": "qev012001_MSG0050",
+      "style": 1,
+      "name": "There was this big rock blocking the road, right?[ST:wait ]"
+    },
+    {
+      "$id": 59,
+      "label": "qev012001_MSG0051",
+      "style": 1,
+      "name": "So I start climbing over it, and it started moving![ST:wait ]"
+    },
+    {
+      "$id": 60,
+      "label": "qev012001_MSG0052",
+      "style": 1,
+      "name": "Now I can't get dooown! HELP![ST:wait ]"
+    },
+    {
+      "$id": 61,
+      "label": "qev012001_MSG0053",
+      "style": 1,
+      "name": "Your adorable protégé is in crisis![ST:wait ]"
+    },
+    {
+      "$id": 62,
+      "label": "qev012001_MSG0054",
+      "style": 1,
+      "name": "...Wha?[ST:wait ]"
+    },
+    {
+      "$id": 63,
+      "label": "qev012001_MSG0055",
+      "style": 1,
+      "name": "Chief! Oh, thank you![ST:wait ]"
+    },
+    {
+      "$id": 64,
+      "label": "qev012001_MSG0056",
+      "style": 1,
+      "name": "I knew you'd come rescue me.\nYou're so professional and junk![ST:wait ]"
+    },
+    {
+      "$id": 65,
+      "label": "qev012001_MSG0057",
+      "style": 1,
+      "name": "But I'll tell you what I DON'T know...[ST:wait ]"
+    },
+    {
+      "$id": 66,
+      "label": "qev012001_MSG0058",
+      "style": 1,
+      "name": "Why does this stuff keep happening to me?!\nI'm just trying to get through the forest here![ST:wait ]"
+    },
+    {
+      "$id": 67,
+      "label": "qev012001_MSG0059",
+      "style": 1,
+      "name": "Is this cosmic payback for stiffing you back there?\nYou know, karma? Or...whatever?[ST:wait ]"
+    },
+    {
+      "$id": 68,
+      "label": "qev012001_MSG0060",
+      "style": 1,
+      "name": "Or wait... You have eerie cursing powers!\nAw, you wouldn't curse little old Mia, right, Chief?[ST:wait ]"
+    },
+    {
+      "$id": 69,
+      "label": "qev012001_MSG0061",
+      "style": 1,
+      "name": "ANYway, I'm safe, you're safe...\nAll's well that ends well, right?[ST:wait ]"
+    },
+    {
+      "$id": 70,
+      "label": "qev012001_MSG0062",
+      "style": 1,
+      "name": "Though it might not be a bad idea for me to learn\nhow to use a gun, huh?[ST:wait ]"
+    },
+    {
+      "$id": 71,
+      "label": "qev012001_MSG0063",
+      "style": 1,
+      "name": "Hmm... Not really my style, though.[ST:wait ]"
+    },
+    {
+      "$id": 72,
+      "label": "qev012001_MSG0064",
+      "style": 1,
+      "name": "Yes! Well. The real take-home here is that this forest\nand I are a terrible match.[ST:wait ]"
+    },
+    {
+      "$id": 73,
+      "label": "qev012001_MSG0065",
+      "style": 1,
+      "name": "I am OVER it! From here on, I'll stick to exploring\neast of New LA.[ST:wait ]"
+    },
+    {
+      "$id": 74,
+      "label": "qev012001_MSG0066",
+      "style": 1,
+      "name": "Thanks again for bailing me out on a regular basis\nhere, Chief.[ST:wait ]"
+    },
+    {
+      "$id": 75,
+      "label": "qev012001_MSG0067",
+      "style": 1,
+      "name": "I'll let you get back to your own adventures.\nStay safe, yeah?[ST:wait ]"
+    },
+    {
+      "$id": 76,
+      "label": "qev012001_MSG0068",
+      "style": 1,
+      "name": "Happy trails![ST:wait ]"
+    }
+  ]
+}

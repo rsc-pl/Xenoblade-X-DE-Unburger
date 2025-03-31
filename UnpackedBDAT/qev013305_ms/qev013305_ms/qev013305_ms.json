@@ -1,0 +1,660 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev013305_MSG0089",
+      "style": 1,
+      "name": "......[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev013305_MSG0001",
+      "style": 1,
+      "name": "Hey there. You come all this way just to bail my\nbutt out?[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev013305_MSG0002",
+      "style": 1,
+      "name": "Ugh. Not only can I not keep my own people safe,\nI make other BLADEs risk their necks to save mine.\nI'm worthless![ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev013305_JNK0010",
+      "style": 4,
+      "name": "Deny"
+    },
+    {
+      "$id": 5,
+      "label": "qev013305_SEL0011",
+      "style": 3,
+      "name": "Tell Corwin he isn't worthless."
+    },
+    {
+      "$id": 6,
+      "label": "qev013305_JNK0020",
+      "style": 4,
+      "name": "Agree"
+    },
+    {
+      "$id": 7,
+      "label": "qev013305_SEL0021",
+      "style": 3,
+      "name": "Tell Corwin that kind of attitude makes him worthless."
+    },
+    {
+      "$id": 8,
+      "label": "qev013305_MSG0003",
+      "style": 1,
+      "name": "Everyone's dead but me. That demon killed them all...[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev013305_MSG0004",
+      "style": 1,
+      "name": "Least I could've done was lead the charge.\nI'll never forgive myself for this.[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev013305_MSG0005",
+      "style": 1,
+      "name": "Good! Don't stop. I deserve so much worse!\nOh, why was I the only one to live?[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev013305_MSG0006",
+      "style": 1,
+      "name": "My whole team is dead—slaughtered by that demon.\nI think I may be sick...[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev013305_MSG0007",
+      "style": 1,
+      "name": "Some of them were like Peter—joked that if they saw\nthat black Skell, they'd be halfway to New LA before\nI even noticed.[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev013305_MSG0008",
+      "style": 1,
+      "name": "They should have run. They were right. Nothing matters\nif you don't survive. So why did Galileo have to...[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev013305_MSG0009",
+      "style": 1,
+      "name": "They all formed a shield so I could run.\nThat thing's bullets tore right through them.[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev013305_MSG0010",
+      "style": 1,
+      "name": "That was MY job! It should have been ME shielding\nTHEM! I'm the one who should be dead![ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev013305_JNK0030",
+      "style": 4,
+      "name": "Admonish"
+    },
+    {
+      "$id": 17,
+      "label": "qev013305_SEL0031",
+      "style": 3,
+      "name": "Encourage Corwin to get back on his feet."
+    },
+    {
+      "$id": 18,
+      "label": "qev013305_JNK0040",
+      "style": 4,
+      "name": "Berate"
+    },
+    {
+      "$id": 19,
+      "label": "qev013305_SEL0041",
+      "style": 3,
+      "name": "Reprimand Corwin for wallowing in self-pity."
+    },
+    {
+      "$id": 20,
+      "label": "qev013305_MSG0011",
+      "style": 1,
+      "name": "I appreciate it. Really. But...[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev013305_MSG0012",
+      "style": 1,
+      "name": "What's left to me now? I have nothing.\nNo one.[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev013305_MSG0013",
+      "style": 1,
+      "name": "You're a tough one... But me? I'm over.[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev013305_MSG0014",
+      "style": 1,
+      "name": "...What? What do you mean, I still have a purpose?[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev013305_MSG0015",
+      "style": 1,
+      "name": "I'm...the only one who can rebuild the team?[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev013305_MSG0016",
+      "style": 1,
+      "name": "Oh, what about Bates? Is Bates alive?[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev013305_MSG0017",
+      "style": 1,
+      "name": "Well, I guess if there's still a rook who needs to be\npounded into shape...[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev013305_MSG0018",
+      "style": 1,
+      "name": "Sorry, you're right. Times like these are when I need to\nkeep it together the most.[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev013305_MSG0019",
+      "style": 1,
+      "name": "I have to overcome every trial, no matter how painful.\nI'd expect no less of my team, after all.[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev013305_MSG0020",
+      "style": 1,
+      "name": "......[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev013305_MSG0021",
+      "style": 1,
+      "name": "Guess we should take a look at the mouth of the cave,\nsee what we're up against.[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev013305_MSG0022",
+      "style": 1,
+      "name": "But I AM getting out of here alive. I carry the weight\nof my whole team now, and I'm not stopping until\nI can lay it to rest back in the last human city.[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev013305_MSG0023",
+      "style": 1,
+      "name": "...Think she gave up and left?[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev013305_MSG0024",
+      "style": 1,
+      "name": "Not likely, insect! Aaaaah ha ha ha![ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev013305_MSG0025",
+      "style": 1,
+      "name": "You should have given up and added yourself to the\nbody pile when it would have been quick![ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev013305_MSG0026",
+      "style": 1,
+      "name": "But no! You weren't content with just sniffing around\nwhere you don't belong.[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev013305_MSG0027",
+      "style": 1,
+      "name": "You had the gall to scuttle around and waste my time!\nAnd now I'll show you what happens for it![ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev013305_MSG0028",
+      "style": 1,
+      "name": "You know, if it's a bother, we can just leave and you\ncan get back to whatever you—[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev013305_MSG0029",
+      "style": 1,
+      "name": "Ha! Funny jokes from the bug who used his underlings\nas a meat shield! They were big talkers too, your men.\n...Briefly.[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "qev013305_MSG0030",
+      "style": 1,
+      "name": "\"As long as the boss lives, so does our dream!\nDeath can't take it!\"[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "qev013305_MSG0031",
+      "style": 1,
+      "name": "...What did you think? That was supposed to be the\none called Galileo. Pretty good, right?[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "qev013305_MSG0032",
+      "style": 1,
+      "name": "Oh, but I spent quite some time on that one.\nHe wasn't so brave by the end—mostly just a bunch\nof pathetic sobbing and wailing.[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "qev013305_MSG0033",
+      "style": 1,
+      "name": "I'm gonna tear your heart clean ou—[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "qev013305_MSG0034",
+      "style": 1,
+      "name": "He spoke of a dream? Insects don't DESERVE to dream!\nAnd I'll enjoy watching the hope drain out of you, too,\nalong with the last of your blood![ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "qev013305_MSG0035",
+      "style": 1,
+      "name": "[ST:playername ]...I'll handle the small fry.\nThink you can take out the big dog?[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "qev013305_JNK0050",
+      "style": 4,
+      "name": "Confirm"
+    },
+    {
+      "$id": 46,
+      "label": "qev013305_SEL0051",
+      "style": 3,
+      "name": "Nod and give a confident thumbs-up."
+    },
+    {
+      "$id": 47,
+      "label": "qev013305_JNK0060",
+      "style": 4,
+      "name": "Refrain"
+    },
+    {
+      "$id": 48,
+      "label": "qev013305_SEL0061",
+      "style": 3,
+      "name": "Suggest a cautious approach."
+    },
+    {
+      "$id": 49,
+      "label": "qev013305_MSG0036",
+      "style": 1,
+      "name": "All right then. Let's do this![ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "qev013305_MSG0037",
+      "style": 1,
+      "name": "Since when were you the cautious type?[ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "qev013305_MSG0038",
+      "style": 1,
+      "name": "Sorry, but we don't have much choice. Let's do this![ST:wait ]"
+    },
+    {
+      "$id": 52,
+      "label": "qev013305_MSG0039",
+      "style": 1,
+      "name": "You... I remember you.[ST:wait ]"
+    },
+    {
+      "$id": 53,
+      "label": "qev013305_MSG0040",
+      "style": 1,
+      "name": "Came all this way to be added to my collection,\ndid you?[ST:wait ]"
+    },
+    {
+      "$id": 54,
+      "label": "qev013305_MSG0041",
+      "style": 1,
+      "name": "Heh. Well, it would be cruel to deny you.\nI will enjoy watching you writhe on the pin![ST:wait ]"
+    },
+    {
+      "$id": 55,
+      "label": "qev013305_MSG0042",
+      "style": 1,
+      "name": "I'll have you die cursing the very day you were born!\nNOW COME AT ME![ST:wait ]"
+    },
+    {
+      "$id": 56,
+      "label": "qev013305_MSG0043",
+      "style": 1,
+      "name": "That was...some fight. I can't believe you beat\nthat monster.[ST:wait ]"
+    },
+    {
+      "$id": 57,
+      "label": "qev013305_MSG0044",
+      "style": 1,
+      "name": "At least now the men I lost can rest a little easier.[ST:wait ]"
+    },
+    {
+      "$id": 58,
+      "label": "qev013305_JNK0070",
+      "style": 4,
+      "name": "Disagree"
+    },
+    {
+      "$id": 59,
+      "label": "qev013305_SEL0071",
+      "style": 3,
+      "name": "Remind Corwin of his promise."
+    },
+    {
+      "$id": 60,
+      "label": "qev013305_JNK0080",
+      "style": 4,
+      "name": "Query"
+    },
+    {
+      "$id": 61,
+      "label": "qev013305_SEL0081",
+      "style": 3,
+      "name": "Ask Corwin about the dream Tempera mentioned."
+    },
+    {
+      "$id": 62,
+      "label": "qev013305_MSG0045",
+      "style": 1,
+      "name": "...You're right. I have a promise to keep.[ST:wait ]"
+    },
+    {
+      "$id": 63,
+      "label": "qev013305_MSG0046",
+      "style": 1,
+      "name": "We all swore we wouldn't stop until we'd seen every\ninch of this planet and laid all its secrets bare.\n...That's on me now.[ST:wait ]"
+    },
+    {
+      "$id": 64,
+      "label": "qev013305_MSG0047",
+      "style": 1,
+      "name": "The day we formed the team, we all swore we wouldn't\nstop until we'd seen every inch of Mira and laid all her\nsecrets bare.[ST:wait ]"
+    },
+    {
+      "$id": 65,
+      "label": "qev013305_MSG0048",
+      "style": 1,
+      "name": "This rock is like a giant ball of mysteries.\nWhat explorer wouldn't share that dream?[ST:wait ]"
+    },
+    {
+      "$id": 66,
+      "label": "qev013305_MSG0049",
+      "style": 1,
+      "name": "So yes—Mira is our dream. And it will be for as long\nas I'm around.[ST:wait ]"
+    },
+    {
+      "$id": 67,
+      "label": "qev013305_MSG0050",
+      "style": 1,
+      "name": "......[ST:wait ]"
+    },
+    {
+      "$id": 68,
+      "label": "qev013305_MSG0051",
+      "style": 1,
+      "name": "...All right. Ready to head back to NLA? I'm in a hurry\nto start picking up the pieces.[ST:wait ]"
+    },
+    {
+      "$id": 69,
+      "label": "qev013305_MSG0052",
+      "style": 1,
+      "name": "Combat skill, decisiveness, an iron spirit...\nYou've got everything a BLADE needs.[ST:wait ]"
+    },
+    {
+      "$id": 70,
+      "label": "qev013305_MSG0053",
+      "style": 1,
+      "name": "Next time I hear people telling tales about how great\nyou are, I'll be sure to let 'em know they aren't\nsensationalized enough.[ST:wait ]"
+    },
+    {
+      "$id": 71,
+      "label": "qev013305_MSG0054",
+      "style": 1,
+      "name": "Just know that my team won't sit back and let you hog\nall the adventure. Mira's mysteries are ours if we can\nclaim them![ST:wait ]"
+    },
+    {
+      "$id": 72,
+      "label": "qev013305_MSG0055",
+      "style": 1,
+      "name": "......[ST:wait ]"
+    },
+    {
+      "$id": 73,
+      "label": "qev013305_MSG0056",
+      "style": 1,
+      "name": "Hey there. You come all this way just to bail my\nbutt out?[ST:wait ]"
+    },
+    {
+      "$id": 74,
+      "label": "qev013305_MSG0057",
+      "style": 1,
+      "name": "Ugh. Not only can I not keep my own people safe,\nI make other BLADEs risk their necks to save mine.\nI'm worthless![ST:wait ]"
+    },
+    {
+      "$id": 75,
+      "label": "qev013305_JNK0090",
+      "style": 4,
+      "name": "Deny"
+    },
+    {
+      "$id": 76,
+      "label": "qev013305_SEL0091",
+      "style": 3,
+      "name": "Tell Corwin he isn't worthless."
+    },
+    {
+      "$id": 77,
+      "label": "qev013305_JNK0100",
+      "style": 4,
+      "name": "Agree"
+    },
+    {
+      "$id": 78,
+      "label": "qev013305_SEL0101",
+      "style": 3,
+      "name": "Tell Corwin that kind of attitude makes him worthless."
+    },
+    {
+      "$id": 79,
+      "label": "qev013305_MSG0058",
+      "style": 1,
+      "name": "Everyone's dead but me. That demon killed them all...[ST:wait ]"
+    },
+    {
+      "$id": 80,
+      "label": "qev013305_MSG0059",
+      "style": 1,
+      "name": "Least I could've done was lead the charge.\nI'll never forgive myself for this.[ST:wait ]"
+    },
+    {
+      "$id": 81,
+      "label": "qev013305_MSG0060",
+      "style": 1,
+      "name": "Good! Don't stop. I deserve so much worse!\nOh, why was I the only one to live?[ST:wait ]"
+    },
+    {
+      "$id": 82,
+      "label": "qev013305_MSG0061",
+      "style": 1,
+      "name": "My whole team is dead—slaughtered by that demon.\nI think I may be sick...[ST:wait ]"
+    },
+    {
+      "$id": 83,
+      "label": "qev013305_MSG0062",
+      "style": 1,
+      "name": "Some of them were like Peter—joked that if they saw\nthat black Skell, they'd be halfway to New LA before\nI even noticed.[ST:wait ]"
+    },
+    {
+      "$id": 84,
+      "label": "qev013305_MSG0063",
+      "style": 1,
+      "name": "They should have run. They were right. Nothing matters\nif you don't survive. So why did Galileo have to...[ST:wait ]"
+    },
+    {
+      "$id": 85,
+      "label": "qev013305_MSG0064",
+      "style": 1,
+      "name": "They all formed a shield so I could run.\nThat thing's bullets tore right through them.[ST:wait ]"
+    },
+    {
+      "$id": 86,
+      "label": "qev013305_MSG0065",
+      "style": 1,
+      "name": "That was MY job! It should have been ME shielding\nTHEM! I'm the one who should be dead![ST:wait ]"
+    },
+    {
+      "$id": 87,
+      "label": "qev013305_SEL0011",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 88,
+      "label": "qev013305_SEL0021",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 89,
+      "label": "qev013305_MSG0090",
+      "style": 1,
+      "name": "Oh, what about Bates? Is Bates alive?[ST:wait ]"
+    },
+    {
+      "$id": 90,
+      "label": "qev013305_MSG0071",
+      "style": 1,
+      "name": "...He died in Cauldros?[ST:wait ]"
+    },
+    {
+      "$id": 91,
+      "label": "qev013305_MSG0072",
+      "style": 1,
+      "name": "Then there's nothing left. That monster took everything.[ST:wait ]"
+    },
+    {
+      "$id": 92,
+      "label": "qev013305_MSG0073",
+      "style": 1,
+      "name": "No sense holding on to my own life now. Time to send\nup one last spark and join my men on the other side.[ST:wait ]"
+    },
+    {
+      "$id": 93,
+      "label": "qev013305_MSG0074",
+      "style": 1,
+      "name": "...You take care.[ST:wait ]"
+    },
+    {
+      "$id": 94,
+      "label": "qev013305_MSG0075",
+      "style": 1,
+      "name": "I'm off to show that thing what it means to cross me\nand my team.[ST:wait ]"
+    },
+    {
+      "$id": 95,
+      "label": "qev013305_MSG0076",
+      "style": 1,
+      "name": "Where are you, demon?! I won't let you run from me!\nGET OUT HERE![ST:wait ]"
+    },
+    {
+      "$id": 96,
+      "label": "qev013305_MSG0077",
+      "style": 1,
+      "name": "Noisy little insect. Are you so eager to die?[ST:wait ]"
+    },
+    {
+      "$id": 97,
+      "label": "qev013305_MSG0078",
+      "style": 1,
+      "name": "You should have run when you had the chance![ST:wait ]"
+    },
+    {
+      "$id": 98,
+      "label": "qev013305_MSG0079",
+      "style": 1,
+      "name": "Says the bug who used his underlings as a meat shield\nwhile he fled like a coward! They were big talkers too,\nyour men. ...Briefly.[ST:wait ]"
+    },
+    {
+      "$id": 99,
+      "label": "qev013305_MSG0080",
+      "style": 1,
+      "name": "\"As long as the boss lives, so does our dream!\nDeath can't take it!\"[ST:wait ]"
+    },
+    {
+      "$id": 100,
+      "label": "qev013305_MSG0081",
+      "style": 1,
+      "name": "...What did you think? That was supposed to be the\none called Galileo. Pretty good, right?[ST:wait ]"
+    },
+    {
+      "$id": 101,
+      "label": "qev013305_MSG0082",
+      "style": 1,
+      "name": "Oh, but I spent quite some time on that one.\nHe wasn't so brave by the end—mostly just a bunch\nof pathetic sobbing and wailing.[ST:wait ]"
+    },
+    {
+      "$id": 102,
+      "label": "qev013305_MSG0083",
+      "style": 1,
+      "name": "I'm going to drag you to hell with me!\nAll the pain they felt will be inflicted on you TENFOLD![ST:wait ]"
+    },
+    {
+      "$id": 103,
+      "label": "qev013305_MSG0084",
+      "style": 1,
+      "name": "NRAAAAAUGH![ST:wait ]"
+    },
+    {
+      "$id": 104,
+      "label": "qev013305_MSG0085",
+      "style": 1,
+      "name": "Ahhh ha ha ha ha ha! Fragile little fool![ST:wait ]"
+    },
+    {
+      "$id": 105,
+      "label": "qev013305_MSG0086",
+      "style": 1,
+      "name": "You insects are worthless to the end.\nAt least entertain me before you die![ST:wait ]"
+    },
+    {
+      "$id": 106,
+      "label": "qev013305_MSG0087",
+      "style": 1,
+      "name": "Your pathetic little bodies aren't even worth collecting.\nI'll crush your kind to dust![ST:wait ]"
+    },
+    {
+      "$id": 107,
+      "label": "qev013305_MSG0088",
+      "style": 1,
+      "name": "And you? I'll have you die cursing your own birth!\nNOW COME AT ME![ST:wait ]"
+    }
+  ]
+}

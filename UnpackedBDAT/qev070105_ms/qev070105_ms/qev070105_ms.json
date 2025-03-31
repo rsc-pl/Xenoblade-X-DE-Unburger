@@ -1,0 +1,690 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev070105_MSG0001",
+      "style": 1,
+      "name": "Who are you? Another of their assassins?[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev070105_MSG0002",
+      "style": 1,
+      "name": "After what happened to the last guy they sent,\nI'm impressed you had the l::#5a»@x* to try me![ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev070105_JNK0010",
+      "style": 4,
+      "name": "Correct"
+    },
+    {
+      "$id": 4,
+      "label": "qev070105_SEL0011",
+      "style": 3,
+      "name": "Explain that you are not an assassin."
+    },
+    {
+      "$id": 5,
+      "label": "qev070105_JNK0020",
+      "style": 4,
+      "name": "Inquire"
+    },
+    {
+      "$id": 6,
+      "label": "qev070105_SEL0021",
+      "style": 3,
+      "name": "Ask what that strange word was."
+    },
+    {
+      "$id": 7,
+      "label": "qev070105_MSG0003",
+      "style": 1,
+      "name": "Wup, wup? Well, who in the name of Sir Isaac H.\nNewton are you then?[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev070105_MSG0004",
+      "style": 1,
+      "name": "I'm not here to give lessons to people trying to kill me.\nI'll fry you to a crisp, same as your friend from before![ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev070105_MSG0005",
+      "style": 1,
+      "name": "...Wup, wup? You're...uh...not attacking me.\nWhy aren't you attacking me?[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev070105_MSG0006",
+      "style": 1,
+      "name": "What? You're a BLADE?\n...Yeah, I've heard of 'em.[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev070105_MSG0007",
+      "style": 1,
+      "name": "Hmm. Now that I get a better look at you,\nyou do look rather a«p%*8o...[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev070105_MSG0008",
+      "style": 1,
+      "name": "Interesting... Yes... And since Veven's practically useless,\nmaybe this person can help get the y#$k+\\\\\\\\••*...[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev070105_MSG0009",
+      "style": 1,
+      "name": "Right then! You there, kid! Pay attention!\nMy name is Professor B°&7k%±l.[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev070105_MSG0010",
+      "style": 1,
+      "name": "If you're looking for work, I've a truly amazing offer\nfor you.[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev070105_JNK0030",
+      "style": 4,
+      "name": "Query"
+    },
+    {
+      "$id": 16,
+      "label": "qev070105_SEL0031",
+      "style": 3,
+      "name": "Ask the professor what a«p%*8o means."
+    },
+    {
+      "$id": 17,
+      "label": "qev070105_JNK0040",
+      "style": 4,
+      "name": "Inquire"
+    },
+    {
+      "$id": 18,
+      "label": "qev070105_SEL0041",
+      "style": 3,
+      "name": "Ask the professor what a y#$k+\\\\\\\\••* is."
+    },
+    {
+      "$id": 19,
+      "label": "qev070105_MSG0011",
+      "style": 1,
+      "name": "Huh? You people don't say that? Hmm, how to put it...[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev070105_MSG0012",
+      "style": 1,
+      "name": "In plain English, I'd say it's something like...\nwell, let's just say \"eager to help.\"[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev070105_MSG0013",
+      "style": 1,
+      "name": "Oh, you heard me talking to myself, did you?\nProbably best for us both if you don't know any more.[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev070105_MSG0014",
+      "style": 1,
+      "name": "This language barrier is getting to be a real hassle...[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev070105_MSG0015",
+      "style": 1,
+      "name": "Half the words from the planet I came from aren't even\npronounceable in your language.[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev070105_MSG0016",
+      "style": 1,
+      "name": "I can't even properly introduce myself around here!\n...Well, there's really nothing for it, I guess.\nJust \"Professor B\" will have to do for now.[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev070105_MSG0017",
+      "style": 1,
+      "name": "So then! About this job I have for you.[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev070105_MSG0018",
+      "style": 1,
+      "name": "I need a few things for my current research,\nand I'd appreciate if you could secure them.[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev070105_MSG0019",
+      "style": 1,
+      "name": "Should be simple enough for you, hmm?\nEspecially if I pay you for your trouble?[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev070105_JNK0050",
+      "style": 4,
+      "name": "Ask about Needs"
+    },
+    {
+      "$id": 29,
+      "label": "qev070105_SEL0051",
+      "style": 3,
+      "name": "Inquire as to what Professor B wants."
+    },
+    {
+      "$id": 30,
+      "label": "qev070105_JNK0060",
+      "style": 4,
+      "name": "Ask about Studies"
+    },
+    {
+      "$id": 31,
+      "label": "qev070105_SEL0061",
+      "style": 3,
+      "name": "Ask Professor B what he is researching."
+    },
+    {
+      "$id": 32,
+      "label": "qev070105_MSG0020",
+      "style": 1,
+      "name": "Straight to the point, eh? Professionalism. I like it.[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev070105_MSG0021",
+      "style": 1,
+      "name": "First, I'd like you to head west to Waterway Tangle\nand collect some tykki sap.[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev070105_MSG0022",
+      "style": 1,
+      "name": "Oh, and this project is highly time-sensitive,\nso please do make it fast, all right, kid?[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev070105_MSG0023",
+      "style": 1,
+      "name": "I like a kid with a healthy sense of scientific curiosity.[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev070105_MSG0024",
+      "style": 1,
+      "name": "But keeping this one a secret is good for both our\nhealth, if you catch my drift.[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev070105_MSG0025",
+      "style": 1,
+      "name": "All you need to know is that I need tykki sap.\nHead west to Waterway Tangle to find some.[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev070105_MSG0026",
+      "style": 1,
+      "name": "My work is nothing you need to be worried about,\nso what do you say? Help me out, kid?[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "qev070105_MSG0027",
+      "style": 1,
+      "name": "You will?! Great! I KNEW you had a touch of\na«p%*8o about you![ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "qev070105_MSG0028",
+      "style": 1,
+      "name": "I've been shorthanded lately, what with my assistant\nVeven wasting his time repairing that silly spaceship.[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "qev070105_MSG0029",
+      "style": 1,
+      "name": "Anyway, thanks. We're both wanderers through space\nstranded on this rock. Gotta help one another out, eh?[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "qev070105_MSG0030",
+      "style": 1,
+      "name": "The stuff I need is sap from the tykki tree.\nYou know of Waterway Tangle, west of the city?\nYou should be able to find the sap there.[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "qev070105_MSG0031",
+      "style": 1,
+      "name": "You BLADEs specialize in this kind of work, don't you?\nSo off you go, then! Quick as you like![ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "qev070105_JNK0070",
+      "style": 4,
+      "name": "Accept"
+    },
+    {
+      "$id": 45,
+      "label": "qev070105_SEL0071",
+      "style": 3,
+      "name": "Nod and tell Professor B to leave it to you."
+    },
+    {
+      "$id": 46,
+      "label": "qev070105_JNK0080",
+      "style": 4,
+      "name": "Inquire"
+    },
+    {
+      "$id": 47,
+      "label": "qev070105_SEL0081",
+      "style": 3,
+      "name": "Ask about Professor B's past."
+    },
+    {
+      "$id": 48,
+      "label": "qev070105_MSG0032",
+      "style": 1,
+      "name": "Thanks. I need to complete this sucker as soon as I can.[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "qev070105_MSG0033",
+      "style": 1,
+      "name": "I've grown accustomed enough to life on Mira, but...\nWell, there's no place like home, eh?[ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "qev070105_MSG0034",
+      "style": 1,
+      "name": "Sorry, kid, but I don't trust you with that info just yet.[ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "qev070105_MSG0035",
+      "style": 1,
+      "name": "There are just too many people out to get me.[ST:wait ]"
+    },
+    {
+      "$id": 52,
+      "label": "qev070105_MSG0036",
+      "style": 1,
+      "name": "Ah, you're back! Got that tykki sap for me?[ST:wait ]"
+    },
+    {
+      "$id": 53,
+      "label": "qev070105_MSG0037",
+      "style": 1,
+      "name": "Great! Now all I need is a body frame and I can get\nthis y#$k+\\\\\\\\••* up and running.[ST:wait ]"
+    },
+    {
+      "$id": 54,
+      "label": "qev070105_MSG0038",
+      "style": 1,
+      "name": "...Whuzzat? Somebody named Gadd attacked you\nwhile you were out looking for this?[ST:wait ]"
+    },
+    {
+      "$id": 55,
+      "label": "qev070105_MSG0039",
+      "style": 1,
+      "name": "That's probably my fault.\nHe's been after my technology for a while now.[ST:wait ]"
+    },
+    {
+      "$id": 56,
+      "label": "qev070105_MSG0040",
+      "style": 1,
+      "name": "He must have realized he was no match for me directly\nand decided to pump you for information instead.[ST:wait ]"
+    },
+    {
+      "$id": 57,
+      "label": "qev070105_JNK0090",
+      "style": 4,
+      "name": "Inquire"
+    },
+    {
+      "$id": 58,
+      "label": "qev070105_SEL0091",
+      "style": 3,
+      "name": "Ask Professor B about his technology."
+    },
+    {
+      "$id": 59,
+      "label": "qev070105_JNK0100",
+      "style": 4,
+      "name": "Worry"
+    },
+    {
+      "$id": 60,
+      "label": "qev070105_SEL0101",
+      "style": 3,
+      "name": "Express concern for Professor B's safety."
+    },
+    {
+      "$id": 61,
+      "label": "qev070105_MSG0041",
+      "style": 1,
+      "name": "Put it this way, the stuff inside my brain would make a\nMa-non's head explode. They're still banging rocks\ntogether by comparison.[ST:wait ]"
+    },
+    {
+      "$id": 62,
+      "label": "qev070105_MSG0042",
+      "style": 1,
+      "name": "Ha! You think anyone from this time period could take\nme? ...Still, that's nice of you. Thanks, kid.[ST:wait ]"
+    },
+    {
+      "$id": 63,
+      "label": "qev070105_MSG0043",
+      "style": 1,
+      "name": "I guess after the trouble I caused, I could make a\nspecial exception and tell you who I am.[ST:wait ]"
+    },
+    {
+      "$id": 64,
+      "label": "qev070105_MSG0044",
+      "style": 1,
+      "name": "Try to hang on to your socks...[ST:wait ]"
+    },
+    {
+      "$id": 65,
+      "label": "qev070105_MSG0045",
+      "style": 1,
+      "name": "I came from the distant terminus of time and space...\nI am from the future![ST:wait ]"
+    },
+    {
+      "$id": 66,
+      "label": "qev070105_MSG0046",
+      "style": 1,
+      "name": "Gah ha ha! I might be what you humans will look like\na few hundred million years down the line.[ST:wait ]"
+    },
+    {
+      "$id": 67,
+      "label": "qev070105_JNK0110",
+      "style": 4,
+      "name": "Trust"
+    },
+    {
+      "$id": 68,
+      "label": "qev070105_SEL0111",
+      "style": 3,
+      "name": "Believe Professor B's claim that he came from the future."
+    },
+    {
+      "$id": 69,
+      "label": "qev070105_JNK0120",
+      "style": 4,
+      "name": "Doubt"
+    },
+    {
+      "$id": 70,
+      "label": "qev070105_SEL0121",
+      "style": 3,
+      "name": "Laugh off Professor B's impossible claim as a joke."
+    },
+    {
+      "$id": 71,
+      "label": "qev070105_MSG0047",
+      "style": 1,
+      "name": "Truly amazing! You accept my story just like that?\nYou humans certainly adapt to new situations quickly.[ST:wait ]"
+    },
+    {
+      "$id": 72,
+      "label": "qev070105_MSG0048",
+      "style": 1,
+      "name": "When I first told Veven, the little pill had the gall to\nstart laughing in my face.[ST:wait ]"
+    },
+    {
+      "$id": 73,
+      "label": "qev070105_MSG0049",
+      "style": 1,
+      "name": "But okay. Great. That makes this quick, I guess.\nThing is, I need to get back to my own time.[ST:wait ]"
+    },
+    {
+      "$id": 74,
+      "label": "qev070105_MSG0050",
+      "style": 1,
+      "name": "And to do that, I need you to find me a car to serve\nas the y#$k+\\\\\\\\••* frame.[ST:wait ]"
+    },
+    {
+      "$id": 75,
+      "label": "qev070105_MSG0051",
+      "style": 1,
+      "name": "Believe me or don't, that's your call, kid.\nVeven laughed even harder than you when I told him.[ST:wait ]"
+    },
+    {
+      "$id": 76,
+      "label": "qev070105_MSG0052",
+      "style": 1,
+      "name": "None of that changes the fact that I need to get back\nto my own time as soon as possible.[ST:wait ]"
+    },
+    {
+      "$id": 77,
+      "label": "qev070105_MSG0053",
+      "style": 1,
+      "name": "And to do THAT, I need you to find me a car to serve\nas the y#$k+\\\\\\\\••* frame.[ST:wait ]"
+    },
+    {
+      "$id": 78,
+      "label": "qev070105_JNK0130",
+      "style": 4,
+      "name": "Inquire"
+    },
+    {
+      "$id": 79,
+      "label": "qev070105_SEL0131",
+      "style": 3,
+      "name": "Ask what, exactly, a y#$k+\\\\\\\\••* is."
+    },
+    {
+      "$id": 80,
+      "label": "qev070105_JNK0140",
+      "style": 4,
+      "name": "Query"
+    },
+    {
+      "$id": 81,
+      "label": "qev070105_SEL0141",
+      "style": 3,
+      "name": "Ask how Professor B hopes to return to his own time."
+    },
+    {
+      "$id": 82,
+      "label": "qev070105_MSG0054",
+      "style": 1,
+      "name": "Oh, that's right! y#$k+\\\\\\\\••* doesn't get across\nin English. Hmm, how else to describe it...[ST:wait ]"
+    },
+    {
+      "$id": 83,
+      "label": "qev070105_MSG0055",
+      "style": 1,
+      "name": "It's... Well, it's a device that overcomes the absolute\nwall of temporal causality. In layman's terms,\nit's a time machine.[ST:wait ]"
+    },
+    {
+      "$id": 84,
+      "label": "qev070105_MSG0056",
+      "style": 1,
+      "name": "I doubt anyone in this time has figured out how to\n@a%»±* a y#$k+\\\\\\\\••* yet...[ST:wait ]"
+    },
+    {
+      "$id": 85,
+      "label": "qev070105_MSG0057",
+      "style": 1,
+      "name": "But with me on the case, crossing time is no big deal.[ST:wait ]"
+    },
+    {
+      "$id": 86,
+      "label": "qev070105_MSG0058",
+      "style": 1,
+      "name": "I've gotten word that a fellow named Graham is selling\ncars at a discount.[ST:wait ]"
+    },
+    {
+      "$id": 87,
+      "label": "qev070105_MSG0059",
+      "style": 1,
+      "name": "Here's some cash, kid. Try to talk him into selling you\nthe best vehicle for the money.[ST:wait ]"
+    },
+    {
+      "$id": 88,
+      "label": "qev070105_MSG0060",
+      "style": 1,
+      "name": "Good luck. And while you're off doing that,\nI'll grab the other part I'll need for this experiment.[ST:wait ]"
+    },
+    {
+      "$id": 89,
+      "label": "qev070105_MSG0061",
+      "style": 1,
+      "name": "I'm leaving the car to you, kid. Graham should be in\nthe parking lot in the middle of Melville Street.[ST:wait ]"
+    },
+    {
+      "$id": 90,
+      "label": "qev070105_MSG0062",
+      "style": 1,
+      "name": "Once we have that and one other little part,\nwe can kick off this time-machine test.[ST:wait ]"
+    },
+    {
+      "$id": 91,
+      "label": "qev070105_MSG0063",
+      "style": 1,
+      "name": "Assuming I can ever get in touch with my assistant,\nthat is! Where in the name of Sir Isaac H. Newton\nhas Veven gotten off to?[ST:wait ]"
+    },
+    {
+      "$id": 92,
+      "label": "qev070105_MSG0106",
+      "style": 1,
+      "name": "Wup, wup? What in the name of Sir Isaac H. Newton?\nThe sucker hasn't moved an inch... Why, dammit![ST:wait ]"
+    },
+    {
+      "$id": 93,
+      "label": "qev070105_MSG0107",
+      "style": 1,
+      "name": "I've been alive more than a thousand years,\nbut this is a first. What could've gone wrong?[ST:wait ]"
+    },
+    {
+      "$id": 94,
+      "label": "qev070105_MSG0108",
+      "style": 1,
+      "name": "Wait a minute—what are you all doing three thousand\nyears in the future?[ST:wait ]"
+    },
+    {
+      "$id": 95,
+      "label": "qev070105_MSG0109",
+      "style": 1,
+      "name": "Did you perhaps follow me here in in another of the\nprofessor's time machines?[ST:wait ]"
+    },
+    {
+      "$id": 96,
+      "label": "qev070105_MSG0110",
+      "style": 1,
+      "name": "Thank you for for coming, Professor.\nAre you folks ready to go explore the future?[ST:wait ]"
+    },
+    {
+      "$id": 97,
+      "label": "qev070105_JNK0190",
+      "style": 4,
+      "name": "Humor"
+    },
+    {
+      "$id": 98,
+      "label": "qev070105_SEL0191",
+      "style": 3,
+      "name": "Play along and invite Veven out to see\nthe amazing world of tomorrow."
+    },
+    {
+      "$id": 99,
+      "label": "qev070105_JNK0200",
+      "style": 4,
+      "name": "Explain"
+    },
+    {
+      "$id": 100,
+      "label": "qev070105_SEL0201",
+      "style": 3,
+      "name": "Set Veven straight."
+    },
+    {
+      "$id": 101,
+      "label": "qev070105_MSG0111",
+      "style": 1,
+      "name": "The total lack of change in scenery after three thousand\nyears is is rather remarkable, don't you think?[ST:wait ]"
+    },
+    {
+      "$id": 102,
+      "label": "qev070105_MSG0112",
+      "style": 1,
+      "name": "It makes one wonder what happened to civilization in\nall those years, doesn't it?[ST:wait ]"
+    },
+    {
+      "$id": 103,
+      "label": "qev070105_MSG0113",
+      "style": 1,
+      "name": "Huh? What's that? I'm sorry, I can't hear you—my ears\nare still ringing from traveling in time, you understand?[ST:wait ]"
+    },
+    {
+      "$id": 104,
+      "label": "qev070105_MSG0114",
+      "style": 1,
+      "name": "It's all pretty amazing, don't you think?\nBeing Mira's first time traveler?[ST:wait ]"
+    },
+    {
+      "$id": 105,
+      "label": "qev070105_MSG0115",
+      "style": 1,
+      "name": "Oh, will you stop talking already?! Clearly, trusting you\nto pilot my machine was the biggest mistake ever.[ST:wait ]"
+    },
+    {
+      "$id": 106,
+      "label": "qev070105_MSG0116",
+      "style": 1,
+      "name": "Damn... The numbers were there. It hit the threshold.\nIf that wasn't enough, then...[ST:wait ]"
+    },
+    {
+      "$id": 107,
+      "label": "qev070105_MSG0117",
+      "style": 1,
+      "name": "Then attempting counter-y#$k+\\\\\\\\••* navigation\nmay be the only option left to us![ST:wait ]"
+    },
+    {
+      "$id": 108,
+      "label": "qev070105_MSG0118",
+      "style": 1,
+      "name": "In theory, that should allow for @a%»±*,\neven in a special temporal axis.[ST:wait ]"
+    },
+    {
+      "$id": 109,
+      "label": "qev070105_MSG0119",
+      "style": 1,
+      "name": "Yes, that is surely it. I'm sorry to bother you again, kid,\nbut could you bring me some of the topaz wine\ndropped by the primordial creatures called tectinsulas?[ST:wait ]"
+    },
+    {
+      "$id": 110,
+      "label": "qev070105_MSG0120",
+      "style": 1,
+      "name": "Get me that, and I'll drive my machine through time.\nI swear it on every speck of science in my brain![ST:wait ]"
+    },
+    {
+      "$id": 111,
+      "label": "qev070105_MSG0121",
+      "style": 1,
+      "name": "The numbers were well past the threshold...so why?[ST:wait ]"
+    },
+    {
+      "$id": 112,
+      "label": "qev070105_MSG0122",
+      "style": 1,
+      "name": "I'll drive that sucker to the future, no matter what!\nI just need that topaz wine from you, kid.[ST:wait ]"
+    }
+  ]
+}

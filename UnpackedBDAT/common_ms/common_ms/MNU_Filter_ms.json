@@ -1,0 +1,3600 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "MNU_FilterGroup01",
+      "style": 16,
+      "name": "Melee Weapons"
+    },
+    {
+      "$id": 2,
+      "label": "MNU_FilterGroup02",
+      "style": 16,
+      "name": "Ranged Weapons"
+    },
+    {
+      "$id": 3,
+      "label": "MNU_FilterGroup03",
+      "style": 12,
+      "name": "Attribute"
+    },
+    {
+      "$id": 4,
+      "label": "MNU_FilterGroup04",
+      "style": 12,
+      "name": "Attribute Resistances"
+    },
+    {
+      "$id": 5,
+      "label": "MNU_FilterGroup05",
+      "style": 14,
+      "name": "Equipability"
+    },
+    {
+      "$id": 6,
+      "label": "MNU_FilterGroup06",
+      "style": 18,
+      "name": "Stat Effects"
+    },
+    {
+      "$id": 7,
+      "label": "MNU_FilterGroup07",
+      "style": 18,
+      "name": "Skell Effects"
+    },
+    {
+      "$id": 8,
+      "label": "MNU_FilterGroup08",
+      "style": 18,
+      "name": "Attribute Res Effects"
+    },
+    {
+      "$id": 9,
+      "label": "MNU_FilterGroup09",
+      "style": 18,
+      "name": "Weapon Mod Effects"
+    },
+    {
+      "$id": 10,
+      "label": "MNU_FilterGroup10",
+      "style": 18,
+      "name": "Debuff Res Effects"
+    },
+    {
+      "$id": 11,
+      "label": "MNU_FilterGroup11",
+      "style": 18,
+      "name": "Critical Effects"
+    },
+    {
+      "$id": 12,
+      "label": "MNU_FilterGroup12",
+      "style": 18,
+      "name": "Enemy Exploit Effects"
+    },
+    {
+      "$id": 13,
+      "label": "MNU_FilterGroup13",
+      "style": 18,
+      "name": "Attack Effects"
+    },
+    {
+      "$id": 14,
+      "label": "MNU_FilterGroup14",
+      "style": 18,
+      "name": "Antidamage Effects"
+    },
+    {
+      "$id": 15,
+      "label": "MNU_FilterGroup15",
+      "style": 18,
+      "name": "Overdrive Effects"
+    },
+    {
+      "$id": 16,
+      "label": "MNU_FilterGroup16",
+      "style": 18,
+      "name": "Art Mod Effects"
+    },
+    {
+      "$id": 17,
+      "label": "MNU_FilterGroup17",
+      "style": 18,
+      "name": "Soul Voice Effects"
+    },
+    {
+      "$id": 18,
+      "label": "MNU_FilterGroup18",
+      "style": 18,
+      "name": "Special Effects"
+    },
+    {
+      "$id": 19,
+      "label": "MNU_FilterGroup19",
+      "style": 18,
+      "name": "Anticlimate Effects"
+    },
+    {
+      "$id": 20,
+      "label": "MNU_FilterGroup20",
+      "style": 18,
+      "name": "Fuel Effects"
+    },
+    {
+      "$id": 21,
+      "label": "MNU_FilterGroup21",
+      "style": 15,
+      "name": "Classification"
+    },
+    {
+      "$id": 22,
+      "label": "MNU_FilterGroup22",
+      "style": 10,
+      "name": "Status"
+    },
+    {
+      "$id": 23,
+      "label": "MNU_FilterGroup23",
+      "style": 9,
+      "name": "Category"
+    },
+    {
+      "$id": 24,
+      "label": "MNU_FilterGroup24",
+      "style": 17,
+      "name": "Subcategory: Mechanoid"
+    },
+    {
+      "$id": 25,
+      "label": "MNU_FilterGroup25",
+      "style": 17,
+      "name": "Subcategory: Humanoid"
+    },
+    {
+      "$id": 26,
+      "label": "MNU_FilterGroup26",
+      "style": 17,
+      "name": "Subcategory: Insectoid"
+    },
+    {
+      "$id": 27,
+      "label": "MNU_FilterGroup27",
+      "style": 17,
+      "name": "Subcategory: Piscinoid"
+    },
+    {
+      "$id": 28,
+      "label": "MNU_FilterGroup28",
+      "style": 17,
+      "name": "Subcategory: Theroid"
+    },
+    {
+      "$id": 29,
+      "label": "MNU_FilterGroup29",
+      "style": 17,
+      "name": "Subcategory: Chimeroid"
+    },
+    {
+      "$id": 30,
+      "label": "MNU_FilterGroup30",
+      "style": 17,
+      "name": "Subcategory: Ultrafauna"
+    },
+    {
+      "$id": 31,
+      "label": "MNU_FilterGroup31",
+      "style": 13,
+      "name": "Region Found"
+    },
+    {
+      "$id": 32,
+      "label": "MNU_FilterGroup32",
+      "style": 8,
+      "name": "Weather"
+    },
+    {
+      "$id": 33,
+      "label": "MNU_FilterGroup33",
+      "style": 8,
+      "name": "Crown"
+    },
+    {
+      "$id": 34,
+      "label": "MNU_Filter001",
+      "style": 14,
+      "name": "Select All"
+    },
+    {
+      "$id": 35,
+      "label": "MNU_Filter002",
+      "style": 15,
+      "name": "Longswords"
+    },
+    {
+      "$id": 36,
+      "label": "MNU_Filter003",
+      "style": 15,
+      "name": "Javelins"
+    },
+    {
+      "$id": 37,
+      "label": "MNU_Filter004",
+      "style": 15,
+      "name": "Dual Swords"
+    },
+    {
+      "$id": 38,
+      "label": "MNU_Filter005",
+      "style": 15,
+      "name": "Shields"
+    },
+    {
+      "$id": 39,
+      "label": "MNU_Filter006",
+      "style": 15,
+      "name": "Knives"
+    },
+    {
+      "$id": 40,
+      "label": "MNU_Filter007",
+      "style": 15,
+      "name": "Photon Sabers"
+    },
+    {
+      "$id": 41,
+      "label": "MNU_Filter008",
+      "style": 15,
+      "name": "Assault Rifles"
+    },
+    {
+      "$id": 42,
+      "label": "MNU_Filter009",
+      "style": 15,
+      "name": "Sniper Rifles"
+    },
+    {
+      "$id": 43,
+      "label": "MNU_Filter010",
+      "style": 15,
+      "name": "Dual Guns"
+    },
+    {
+      "$id": 44,
+      "label": "MNU_Filter011",
+      "style": 15,
+      "name": "Gatling Guns"
+    },
+    {
+      "$id": 45,
+      "label": "MNU_Filter012",
+      "style": 15,
+      "name": "Rayguns"
+    },
+    {
+      "$id": 46,
+      "label": "MNU_Filter013",
+      "style": 15,
+      "name": "Psycho Launchers"
+    },
+    {
+      "$id": 47,
+      "label": "MNU_Filter014",
+      "style": 15,
+      "name": "Multiguns"
+    },
+    {
+      "$id": 48,
+      "label": "MNU_Filter015",
+      "style": 9,
+      "name": "Physical"
+    },
+    {
+      "$id": 49,
+      "label": "MNU_Filter016",
+      "style": 9,
+      "name": "Beam"
+    },
+    {
+      "$id": 50,
+      "label": "MNU_Filter017",
+      "style": 9,
+      "name": "Ether"
+    },
+    {
+      "$id": 51,
+      "label": "MNU_Filter018",
+      "style": 9,
+      "name": "Thermal"
+    },
+    {
+      "$id": 52,
+      "label": "MNU_Filter019",
+      "style": 9,
+      "name": "Electric"
+    },
+    {
+      "$id": 53,
+      "label": "MNU_Filter020",
+      "style": 9,
+      "name": "Gravity"
+    },
+    {
+      "$id": 54,
+      "label": "MNU_Filter021",
+      "style": 9,
+      "name": "None"
+    },
+    {
+      "$id": 55,
+      "label": "MNU_Filter022",
+      "style": 12,
+      "name": "Physical Res"
+    },
+    {
+      "$id": 56,
+      "label": "MNU_Filter023",
+      "style": 12,
+      "name": "Ether Res"
+    },
+    {
+      "$id": 57,
+      "label": "MNU_Filter024",
+      "style": 12,
+      "name": "Beam Res"
+    },
+    {
+      "$id": 58,
+      "label": "MNU_Filter025",
+      "style": 12,
+      "name": "Thermal Res"
+    },
+    {
+      "$id": 59,
+      "label": "MNU_Filter026",
+      "style": 12,
+      "name": "Electric Res"
+    },
+    {
+      "$id": 60,
+      "label": "MNU_Filter027",
+      "style": 12,
+      "name": "Gravity Res"
+    },
+    {
+      "$id": 61,
+      "label": "MNU_Filter028",
+      "style": 12,
+      "name": "No Phys. Res"
+    },
+    {
+      "$id": 62,
+      "label": "MNU_Filter029",
+      "style": 12,
+      "name": "No Ether Res"
+    },
+    {
+      "$id": 63,
+      "label": "MNU_Filter030",
+      "style": 12,
+      "name": "No Beam Res"
+    },
+    {
+      "$id": 64,
+      "label": "MNU_Filter031",
+      "style": 12,
+      "name": "No Thermal Res"
+    },
+    {
+      "$id": 65,
+      "label": "MNU_Filter032",
+      "style": 12,
+      "name": "No Electric Res"
+    },
+    {
+      "$id": 66,
+      "label": "MNU_Filter033",
+      "style": 12,
+      "name": "No Gravity Res"
+    },
+    {
+      "$id": 67,
+      "label": "MNU_Filter034",
+      "style": 10,
+      "name": "Physical Resistance"
+    },
+    {
+      "$id": 68,
+      "label": "MNU_Filter035",
+      "style": 10,
+      "name": "Beam Resistance"
+    },
+    {
+      "$id": 69,
+      "label": "MNU_Filter036",
+      "style": 10,
+      "name": "Ether Resistance"
+    },
+    {
+      "$id": 70,
+      "label": "MNU_Filter037",
+      "style": 10,
+      "name": "Thermal Resistance"
+    },
+    {
+      "$id": 71,
+      "label": "MNU_Filter038",
+      "style": 10,
+      "name": "Electric Resistance"
+    },
+    {
+      "$id": 72,
+      "label": "MNU_Filter039",
+      "style": 10,
+      "name": "Gravity Resistance"
+    },
+    {
+      "$id": 73,
+      "label": "MNU_Filter040",
+      "style": 16,
+      "name": "Can Equip"
+    },
+    {
+      "$id": 74,
+      "label": "MNU_Filter041",
+      "style": 16,
+      "name": "Cannot Equip"
+    },
+    {
+      "$id": 75,
+      "label": "MNU_Filter042",
+      "style": 18,
+      "name": "Max HP Up"
+    },
+    {
+      "$id": 76,
+      "label": "MNU_Filter043",
+      "style": 18,
+      "name": "Max TP Up"
+    },
+    {
+      "$id": 77,
+      "label": "MNU_Filter044",
+      "style": 18,
+      "name": "Melee Accuracy Up"
+    },
+    {
+      "$id": 78,
+      "label": "MNU_Filter045",
+      "style": 18,
+      "name": "Ranged Accuracy Up"
+    },
+    {
+      "$id": 79,
+      "label": "MNU_Filter046",
+      "style": 18,
+      "name": "Evasion Up"
+    },
+    {
+      "$id": 80,
+      "label": "MNU_Filter047",
+      "style": 18,
+      "name": "Melee Attack Up"
+    },
+    {
+      "$id": 81,
+      "label": "MNU_Filter048",
+      "style": 18,
+      "name": "Ranged Attack Up"
+    },
+    {
+      "$id": 82,
+      "label": "MNU_Filter049",
+      "style": 18,
+      "name": "Potential Up"
+    },
+    {
+      "$id": 83,
+      "label": "MNU_Filter050",
+      "style": 18,
+      "name": "Max HP Boost"
+    },
+    {
+      "$id": 84,
+      "label": "MNU_Filter051",
+      "style": 18,
+      "name": "Max TP Boost"
+    },
+    {
+      "$id": 85,
+      "label": "MNU_Filter052",
+      "style": 18,
+      "name": "Melee Accuracy Boost"
+    },
+    {
+      "$id": 86,
+      "label": "MNU_Filter053",
+      "style": 18,
+      "name": "Ranged Accuracy Boost"
+    },
+    {
+      "$id": 87,
+      "label": "MNU_Filter054",
+      "style": 18,
+      "name": "Evasion Boost"
+    },
+    {
+      "$id": 88,
+      "label": "MNU_Filter055",
+      "style": 18,
+      "name": "Melee Attack Boost"
+    },
+    {
+      "$id": 89,
+      "label": "MNU_Filter056",
+      "style": 18,
+      "name": "Ranged Attack Boost"
+    },
+    {
+      "$id": 90,
+      "label": "MNU_Filter057",
+      "style": 18,
+      "name": "Potential Boost"
+    },
+    {
+      "$id": 91,
+      "label": "MNU_Filter058",
+      "style": 18,
+      "name": "Max HP Drive"
+    },
+    {
+      "$id": 92,
+      "label": "MNU_Filter059",
+      "style": 18,
+      "name": "Max GP Drive"
+    },
+    {
+      "$id": 93,
+      "label": "MNU_Filter060",
+      "style": 18,
+      "name": "Melee Accuracy Drive"
+    },
+    {
+      "$id": 94,
+      "label": "MNU_Filter061",
+      "style": 18,
+      "name": "Ranged Accuracy Drive"
+    },
+    {
+      "$id": 95,
+      "label": "MNU_Filter062",
+      "style": 18,
+      "name": "Evasion Drive"
+    },
+    {
+      "$id": 96,
+      "label": "MNU_Filter063",
+      "style": 18,
+      "name": "Melee Attack Drive"
+    },
+    {
+      "$id": 97,
+      "label": "MNU_Filter064",
+      "style": 18,
+      "name": "Ranged Attack Drive"
+    },
+    {
+      "$id": 98,
+      "label": "MNU_Filter065",
+      "style": 18,
+      "name": "Potential Drive"
+    },
+    {
+      "$id": 99,
+      "label": "MNU_Filter066",
+      "style": 18,
+      "name": "Bind: Refuel"
+    },
+    {
+      "$id": 100,
+      "label": "MNU_Filter067",
+      "style": 18,
+      "name": "Fuel Efficiency Up"
+    },
+    {
+      "$id": 101,
+      "label": "MNU_Filter068",
+      "style": 18,
+      "name": "Physical Res Up"
+    },
+    {
+      "$id": 102,
+      "label": "MNU_Filter069",
+      "style": 18,
+      "name": "Beam Res Up"
+    },
+    {
+      "$id": 103,
+      "label": "MNU_Filter070",
+      "style": 18,
+      "name": "Electric Res Up"
+    },
+    {
+      "$id": 104,
+      "label": "MNU_Filter071",
+      "style": 18,
+      "name": "Thermal Res Up"
+    },
+    {
+      "$id": 105,
+      "label": "MNU_Filter072",
+      "style": 18,
+      "name": "Ether Res Up"
+    },
+    {
+      "$id": 106,
+      "label": "MNU_Filter073",
+      "style": 18,
+      "name": "Gravity Res Up"
+    },
+    {
+      "$id": 107,
+      "label": "MNU_Filter074",
+      "style": 18,
+      "name": "Weapon Attack Power Up"
+    },
+    {
+      "$id": 108,
+      "label": "MNU_Filter075",
+      "style": 18,
+      "name": "Stabilizer"
+    },
+    {
+      "$id": 109,
+      "label": "MNU_Filter076",
+      "style": 18,
+      "name": "Destabilizer"
+    },
+    {
+      "$id": 110,
+      "label": "MNU_Filter077",
+      "style": 18,
+      "name": "Magazine Capacity Up"
+    },
+    {
+      "$id": 111,
+      "label": "MNU_Filter078",
+      "style": 18,
+      "name": "Melee: TP Gain Up"
+    },
+    {
+      "$id": 112,
+      "label": "MNU_Filter079",
+      "style": 18,
+      "name": "Ranged: TP Gain Up"
+    },
+    {
+      "$id": 113,
+      "label": "MNU_Filter080",
+      "style": 18,
+      "name": "Cooldown Reducer"
+    },
+    {
+      "$id": 114,
+      "label": "MNU_Filter081",
+      "style": 18,
+      "name": "Firing Range Up"
+    },
+    {
+      "$id": 115,
+      "label": "MNU_Filter082",
+      "style": 18,
+      "name": "Resist Stagger"
+    },
+    {
+      "$id": 116,
+      "label": "MNU_Filter083",
+      "style": 18,
+      "name": "Resist Flinch"
+    },
+    {
+      "$id": 117,
+      "label": "MNU_Filter084",
+      "style": 18,
+      "name": "Resist Topple"
+    },
+    {
+      "$id": 118,
+      "label": "MNU_Filter085",
+      "style": 18,
+      "name": "Resist Knockback"
+    },
+    {
+      "$id": 119,
+      "label": "MNU_Filter086",
+      "style": 18,
+      "name": "Resist Launch"
+    },
+    {
+      "$id": 120,
+      "label": "MNU_Filter087",
+      "style": 18,
+      "name": "Resist Stun"
+    },
+    {
+      "$id": 121,
+      "label": "MNU_Filter088",
+      "style": 18,
+      "name": "Resist Sleep"
+    },
+    {
+      "$id": 122,
+      "label": "MNU_Filter089",
+      "style": 18,
+      "name": "Resist Taunt"
+    },
+    {
+      "$id": 123,
+      "label": "MNU_Filter090",
+      "style": 18,
+      "name": "Resist Control"
+    },
+    {
+      "$id": 124,
+      "label": "MNU_Filter091",
+      "style": 18,
+      "name": "Resist Virus"
+    },
+    {
+      "$id": 125,
+      "label": "MNU_Filter092",
+      "style": 18,
+      "name": "Resist Blackout"
+    },
+    {
+      "$id": 126,
+      "label": "MNU_Filter093",
+      "style": 18,
+      "name": "Resist Fatigue"
+    },
+    {
+      "$id": 127,
+      "label": "MNU_Filter094",
+      "style": 18,
+      "name": "Resist Slow Arts"
+    },
+    {
+      "$id": 128,
+      "label": "MNU_Filter095",
+      "style": 18,
+      "name": "Resist Physical Res Down"
+    },
+    {
+      "$id": 129,
+      "label": "MNU_Filter096",
+      "style": 18,
+      "name": "Resist Beam Res Down"
+    },
+    {
+      "$id": 130,
+      "label": "MNU_Filter097",
+      "style": 18,
+      "name": "Resist Thermal Res Down"
+    },
+    {
+      "$id": 131,
+      "label": "MNU_Filter098",
+      "style": 18,
+      "name": "Resist Electric Res Down"
+    },
+    {
+      "$id": 132,
+      "label": "MNU_Filter099",
+      "style": 18,
+      "name": "Resist Ether Res Down"
+    },
+    {
+      "$id": 133,
+      "label": "MNU_Filter100",
+      "style": 18,
+      "name": "Resist Gravity Res Down"
+    },
+    {
+      "$id": 134,
+      "label": "MNU_Filter101",
+      "style": 18,
+      "name": "Resist Time Bomb"
+    },
+    {
+      "$id": 135,
+      "label": "MNU_Filter102",
+      "style": 18,
+      "name": "Resist Debuff Res Down"
+    },
+    {
+      "$id": 136,
+      "label": "MNU_Filter103",
+      "style": 18,
+      "name": "Resist HP Recovery Down"
+    },
+    {
+      "$id": 137,
+      "label": "MNU_Filter104",
+      "style": 18,
+      "name": "Resist Blaze"
+    },
+    {
+      "$id": 138,
+      "label": "MNU_Filter105",
+      "style": 18,
+      "name": "Resist Shock"
+    },
+    {
+      "$id": 139,
+      "label": "MNU_Filter106",
+      "style": 18,
+      "name": "Debuff Suppressor"
+    },
+    {
+      "$id": 140,
+      "label": "MNU_Filter107",
+      "style": 18,
+      "name": "Critical Chance Up"
+    },
+    {
+      "$id": 141,
+      "label": "MNU_Filter108",
+      "style": 18,
+      "name": "Theroid Criticals Up"
+    },
+    {
+      "$id": 142,
+      "label": "MNU_Filter109",
+      "style": 18,
+      "name": "Insectoid Criticals Up"
+    },
+    {
+      "$id": 143,
+      "label": "MNU_Filter110",
+      "style": 18,
+      "name": "Piscinoid Criticals Up"
+    },
+    {
+      "$id": 144,
+      "label": "MNU_Filter111",
+      "style": 18,
+      "name": "Humanoid Criticals Up"
+    },
+    {
+      "$id": 145,
+      "label": "MNU_Filter112",
+      "style": 18,
+      "name": "Mechanoid Criticals Up"
+    },
+    {
+      "$id": 146,
+      "label": "MNU_Filter113",
+      "style": 18,
+      "name": "Chimeroid Criticals Up"
+    },
+    {
+      "$id": 147,
+      "label": "MNU_Filter114",
+      "style": 18,
+      "name": "Ultrafauna Criticals Up"
+    },
+    {
+      "$id": 148,
+      "label": "MNU_Filter115",
+      "style": 18,
+      "name": "Extend Critical Power"
+    },
+    {
+      "$id": 149,
+      "label": "MNU_Filter116",
+      "style": 18,
+      "name": "Theroid Slayer"
+    },
+    {
+      "$id": 150,
+      "label": "MNU_Filter117",
+      "style": 18,
+      "name": "Insectoid Slayer"
+    },
+    {
+      "$id": 151,
+      "label": "MNU_Filter118",
+      "style": 18,
+      "name": "Piscinoid Slayer"
+    },
+    {
+      "$id": 152,
+      "label": "MNU_Filter119",
+      "style": 18,
+      "name": "Humanoid Slayer"
+    },
+    {
+      "$id": 153,
+      "label": "MNU_Filter120",
+      "style": 18,
+      "name": "Mechanoid Slayer"
+    },
+    {
+      "$id": 154,
+      "label": "MNU_Filter121",
+      "style": 18,
+      "name": "Chimeroid Slayer"
+    },
+    {
+      "$id": 155,
+      "label": "MNU_Filter122",
+      "style": 18,
+      "name": "Ultrafauna Slayer"
+    },
+    {
+      "$id": 156,
+      "label": "MNU_Filter123",
+      "style": 18,
+      "name": "Physical Attack Plus"
+    },
+    {
+      "$id": 157,
+      "label": "MNU_Filter124",
+      "style": 18,
+      "name": "Beam Attack Plus"
+    },
+    {
+      "$id": 158,
+      "label": "MNU_Filter125",
+      "style": 18,
+      "name": "Ether Attack Plus"
+    },
+    {
+      "$id": 159,
+      "label": "MNU_Filter126",
+      "style": 18,
+      "name": "Thermal Attack Plus"
+    },
+    {
+      "$id": 160,
+      "label": "MNU_Filter127",
+      "style": 18,
+      "name": "Electric Attack Plus"
+    },
+    {
+      "$id": 161,
+      "label": "MNU_Filter128",
+      "style": 18,
+      "name": "Gravity Attack Plus"
+    },
+    {
+      "$id": 162,
+      "label": "MNU_Filter129",
+      "style": 18,
+      "name": "Front Attack Plus"
+    },
+    {
+      "$id": 163,
+      "label": "MNU_Filter130",
+      "style": 18,
+      "name": "Side Attack Plus"
+    },
+    {
+      "$id": 164,
+      "label": "MNU_Filter131",
+      "style": 18,
+      "name": "Back Attack Plus"
+    },
+    {
+      "$id": 165,
+      "label": "MNU_Filter132",
+      "style": 18,
+      "name": "Vantage Attack Plus"
+    },
+    {
+      "$id": 166,
+      "label": "MNU_Filter133",
+      "style": 18,
+      "name": "Melee: Blackout"
+    },
+    {
+      "$id": 167,
+      "label": "MNU_Filter134",
+      "style": 18,
+      "name": "Melee: Fatigue"
+    },
+    {
+      "$id": 168,
+      "label": "MNU_Filter135",
+      "style": 18,
+      "name": "Melee: Physical Res Down"
+    },
+    {
+      "$id": 169,
+      "label": "MNU_Filter136",
+      "style": 18,
+      "name": "Melee: Beam Res Down"
+    },
+    {
+      "$id": 170,
+      "label": "MNU_Filter137",
+      "style": 18,
+      "name": "Melee: Ether Res Down"
+    },
+    {
+      "$id": 171,
+      "label": "MNU_Filter138",
+      "style": 18,
+      "name": "Melee: Thermal Res Down"
+    },
+    {
+      "$id": 172,
+      "label": "MNU_Filter139",
+      "style": 18,
+      "name": "Melee: Electric Res Down"
+    },
+    {
+      "$id": 173,
+      "label": "MNU_Filter140",
+      "style": 18,
+      "name": "Melee: Gravity Res Down"
+    },
+    {
+      "$id": 174,
+      "label": "MNU_Filter141",
+      "style": 18,
+      "name": "Melee: Blaze"
+    },
+    {
+      "$id": 175,
+      "label": "MNU_Filter142",
+      "style": 18,
+      "name": "Melee: Shock"
+    },
+    {
+      "$id": 176,
+      "label": "MNU_Filter143",
+      "style": 18,
+      "name": "Melee: Recover HP"
+    },
+    {
+      "$id": 177,
+      "label": "MNU_Filter144",
+      "style": 18,
+      "name": "Soft Touch"
+    },
+    {
+      "$id": 178,
+      "label": "MNU_Filter145",
+      "style": 18,
+      "name": "HP Rebound"
+    },
+    {
+      "$id": 179,
+      "label": "MNU_Filter146",
+      "style": 18,
+      "name": "TP Rebound"
+    },
+    {
+      "$id": 180,
+      "label": "MNU_Filter147",
+      "style": 18,
+      "name": "Taunt: Barrier"
+    },
+    {
+      "$id": 181,
+      "label": "MNU_Filter148",
+      "style": 18,
+      "name": "Taunt: Decoy"
+    },
+    {
+      "$id": 182,
+      "label": "MNU_Filter149",
+      "style": 18,
+      "name": "Taunt: Supercharge"
+    },
+    {
+      "$id": 183,
+      "label": "MNU_Filter150",
+      "style": 18,
+      "name": "Topple: Barrier"
+    },
+    {
+      "$id": 184,
+      "label": "MNU_Filter151",
+      "style": 18,
+      "name": "Topple: Decoy"
+    },
+    {
+      "$id": 185,
+      "label": "MNU_Filter152",
+      "style": 18,
+      "name": "Stun: Barrier"
+    },
+    {
+      "$id": 186,
+      "label": "MNU_Filter153",
+      "style": 18,
+      "name": "Stun: Decoy"
+    },
+    {
+      "$id": 187,
+      "label": "MNU_Filter154",
+      "style": 18,
+      "name": "Reflect Damage Up"
+    },
+    {
+      "$id": 188,
+      "label": "MNU_Filter155",
+      "style": 18,
+      "name": "Nullify Physical Reflect"
+    },
+    {
+      "$id": 189,
+      "label": "MNU_Filter156",
+      "style": 18,
+      "name": "Nullify Beam Reflect"
+    },
+    {
+      "$id": 190,
+      "label": "MNU_Filter157",
+      "style": 18,
+      "name": "Nullify Ether Reflect"
+    },
+    {
+      "$id": 191,
+      "label": "MNU_Filter158",
+      "style": 18,
+      "name": "Nullify Thermal Reflect"
+    },
+    {
+      "$id": 192,
+      "label": "MNU_Filter159",
+      "style": 18,
+      "name": "Nullify Electric Reflect"
+    },
+    {
+      "$id": 193,
+      "label": "MNU_Filter160",
+      "style": 18,
+      "name": "Nullify Gravity Reflect"
+    },
+    {
+      "$id": 194,
+      "label": "MNU_Filter161",
+      "style": 18,
+      "name": "Overdrive: Recover HP"
+    },
+    {
+      "$id": 195,
+      "label": "MNU_Filter162",
+      "style": 18,
+      "name": "Overdrive: Gain TP"
+    },
+    {
+      "$id": 196,
+      "label": "MNU_Filter163",
+      "style": 18,
+      "name": "Overdrive Count Up"
+    },
+    {
+      "$id": 197,
+      "label": "MNU_Filter164",
+      "style": 18,
+      "name": "Extend Overdrive"
+    },
+    {
+      "$id": 198,
+      "label": "MNU_Filter165",
+      "style": 18,
+      "name": "Overdrive Blue Bonus"
+    },
+    {
+      "$id": 199,
+      "label": "MNU_Filter166",
+      "style": 18,
+      "name": "Overdrive Green Bonus"
+    },
+    {
+      "$id": 200,
+      "label": "MNU_Filter167",
+      "style": 18,
+      "name": "Extend Aura"
+    },
+    {
+      "$id": 201,
+      "label": "MNU_Filter168",
+      "style": 18,
+      "name": "Aura Rapid Cooldown"
+    },
+    {
+      "$id": 202,
+      "label": "MNU_Filter169",
+      "style": 18,
+      "name": "Aura: Refuel"
+    },
+    {
+      "$id": 203,
+      "label": "MNU_Filter170",
+      "style": 18,
+      "name": "Arts: Gain TP"
+    },
+    {
+      "$id": 204,
+      "label": "MNU_Filter171",
+      "style": 18,
+      "name": "Arts: Recover HP"
+    },
+    {
+      "$id": 205,
+      "label": "MNU_Filter172",
+      "style": 18,
+      "name": "Secondary CD Reducer"
+    },
+    {
+      "$id": 206,
+      "label": "MNU_Filter173",
+      "style": 18,
+      "name": "Extend Taunt"
+    },
+    {
+      "$id": 207,
+      "label": "MNU_Filter174",
+      "style": 18,
+      "name": "Extend Control"
+    },
+    {
+      "$id": 208,
+      "label": "MNU_Filter175",
+      "style": 18,
+      "name": "Extend Virus"
+    },
+    {
+      "$id": 209,
+      "label": "MNU_Filter176",
+      "style": 18,
+      "name": "Extend Blackout"
+    },
+    {
+      "$id": 210,
+      "label": "MNU_Filter177",
+      "style": 18,
+      "name": "Extend Fatigue"
+    },
+    {
+      "$id": 211,
+      "label": "MNU_Filter178",
+      "style": 18,
+      "name": "Extend Slow Arts"
+    },
+    {
+      "$id": 212,
+      "label": "MNU_Filter179",
+      "style": 18,
+      "name": "Extend Debuff Res Down"
+    },
+    {
+      "$id": 213,
+      "label": "MNU_Filter180",
+      "style": 18,
+      "name": "Extend Blaze"
+    },
+    {
+      "$id": 214,
+      "label": "MNU_Filter181",
+      "style": 18,
+      "name": "Extend Shock"
+    },
+    {
+      "$id": 215,
+      "label": "MNU_Filter182",
+      "style": 18,
+      "name": "Extend Physical Res Down"
+    },
+    {
+      "$id": 216,
+      "label": "MNU_Filter183",
+      "style": 18,
+      "name": "Extend Beam Res Down"
+    },
+    {
+      "$id": 217,
+      "label": "MNU_Filter184",
+      "style": 18,
+      "name": "Extend Ether Res Down"
+    },
+    {
+      "$id": 218,
+      "label": "MNU_Filter185",
+      "style": 18,
+      "name": "Extend Thermal Res Down"
+    },
+    {
+      "$id": 219,
+      "label": "MNU_Filter186",
+      "style": 18,
+      "name": "Extend Electric Res Down"
+    },
+    {
+      "$id": 220,
+      "label": "MNU_Filter187",
+      "style": 18,
+      "name": "Extend Gravity Res Down"
+    },
+    {
+      "$id": 221,
+      "label": "MNU_Filter188",
+      "style": 18,
+      "name": "Opening Art: Damage Up"
+    },
+    {
+      "$id": 222,
+      "label": "MNU_Filter189",
+      "style": 18,
+      "name": "Melee Draw Surge"
+    },
+    {
+      "$id": 223,
+      "label": "MNU_Filter190",
+      "style": 18,
+      "name": "Ranged Draw Surge"
+    },
+    {
+      "$id": 224,
+      "label": "MNU_Filter191",
+      "style": 18,
+      "name": "Art Draw Surge"
+    },
+    {
+      "$id": 225,
+      "label": "MNU_Filter192",
+      "style": 18,
+      "name": "Danger Surge"
+    },
+    {
+      "$id": 226,
+      "label": "MNU_Filter193",
+      "style": 18,
+      "name": "High Danger Surge"
+    },
+    {
+      "$id": 227,
+      "label": "MNU_Filter194",
+      "style": 18,
+      "name": "Incapacitation Surge"
+    },
+    {
+      "$id": 228,
+      "label": "MNU_Filter195",
+      "style": 18,
+      "name": "Critical Surge"
+    },
+    {
+      "$id": 229,
+      "label": "MNU_Filter196",
+      "style": 18,
+      "name": "Crush Surge"
+    },
+    {
+      "$id": 230,
+      "label": "MNU_Filter197",
+      "style": 18,
+      "name": "Underdog Surge"
+    },
+    {
+      "$id": 231,
+      "label": "MNU_Filter198",
+      "style": 18,
+      "name": "Artful Execution Surge"
+    },
+    {
+      "$id": 232,
+      "label": "MNU_Filter199",
+      "style": 18,
+      "name": "Aura Surge"
+    },
+    {
+      "$id": 233,
+      "label": "MNU_Filter200",
+      "style": 18,
+      "name": "Overdrive Surge"
+    },
+    {
+      "$id": 234,
+      "label": "MNU_Filter201",
+      "style": 18,
+      "name": "Reinvigorate"
+    },
+    {
+      "$id": 235,
+      "label": "MNU_Filter202",
+      "style": 18,
+      "name": "EXP Boost"
+    },
+    {
+      "$id": 236,
+      "label": "MNU_Filter203",
+      "style": 18,
+      "name": "Visual Cloaking"
+    },
+    {
+      "$id": 237,
+      "label": "MNU_Filter204",
+      "style": 18,
+      "name": "Aural Cloaking"
+    },
+    {
+      "$id": 238,
+      "label": "MNU_Filter205",
+      "style": 18,
+      "name": "Appendage Crusher"
+    },
+    {
+      "$id": 239,
+      "label": "MNU_Filter206",
+      "style": 18,
+      "name": "Crush: Gain TP"
+    },
+    {
+      "$id": 240,
+      "label": "MNU_Filter207",
+      "style": 18,
+      "name": "Ranged Appendage Damage"
+    },
+    {
+      "$id": 241,
+      "label": "MNU_Filter208",
+      "style": 18,
+      "name": "Terrain Damage Reducer"
+    },
+    {
+      "$id": 242,
+      "label": "MNU_Filter209",
+      "style": 18,
+      "name": "Antispike"
+    },
+    {
+      "$id": 243,
+      "label": "MNU_Filter210",
+      "style": 18,
+      "name": "Resistance Reducer"
+    },
+    {
+      "$id": 244,
+      "label": "MNU_Filter211",
+      "style": 18,
+      "name": "Treasure Sensor"
+    },
+    {
+      "$id": 245,
+      "label": "MNU_Filter212",
+      "style": 18,
+      "name": "Untouchable Dash"
+    },
+    {
+      "$id": 246,
+      "label": "MNU_Filter213",
+      "style": 18,
+      "name": "Night Vision"
+    },
+    {
+      "$id": 247,
+      "label": "MNU_Filter214",
+      "style": 18,
+      "name": "Focused Evasion"
+    },
+    {
+      "$id": 248,
+      "label": "MNU_Filter215",
+      "style": 18,
+      "name": "Fog Screen"
+    },
+    {
+      "$id": 249,
+      "label": "MNU_Filter216",
+      "style": 18,
+      "name": "Rain Screen"
+    },
+    {
+      "$id": 250,
+      "label": "MNU_Filter217",
+      "style": 18,
+      "name": "Heavy Rain Screen"
+    },
+    {
+      "$id": 251,
+      "label": "MNU_Filter218",
+      "style": 18,
+      "name": "Heat Wave Screen"
+    },
+    {
+      "$id": 252,
+      "label": "MNU_Filter219",
+      "style": 18,
+      "name": "Sandstorm Screen"
+    },
+    {
+      "$id": 253,
+      "label": "MNU_Filter220",
+      "style": 18,
+      "name": "Thunderstorm Screen"
+    },
+    {
+      "$id": 254,
+      "label": "MNU_Filter221",
+      "style": 18,
+      "name": "EM Storm Screen"
+    },
+    {
+      "$id": 255,
+      "label": "MNU_Filter222",
+      "style": 18,
+      "name": "Energy Mist Screen"
+    },
+    {
+      "$id": 256,
+      "label": "MNU_Filter223",
+      "style": 18,
+      "name": "Rising Energy Mist Screen"
+    },
+    {
+      "$id": 257,
+      "label": "MNU_Filter224",
+      "style": 18,
+      "name": "Brimstone Rain Screen"
+    },
+    {
+      "$id": 258,
+      "label": "MNU_Filter225",
+      "style": 18,
+      "name": "Spore Screen"
+    },
+    {
+      "$id": 259,
+      "label": "MNU_Filter226",
+      "style": 18,
+      "name": "Weather Master"
+    },
+    {
+      "$id": 260,
+      "label": "MNU_Filter227",
+      "style": 18,
+      "name": "SpecUp.HP-MAX"
+    },
+    {
+      "$id": 261,
+      "label": "MNU_Filter228",
+      "style": 18,
+      "name": "SpecUp.M-ACC"
+    },
+    {
+      "$id": 262,
+      "label": "MNU_Filter229",
+      "style": 18,
+      "name": "SpecUp.R-ACC"
+    },
+    {
+      "$id": 263,
+      "label": "MNU_Filter230",
+      "style": 18,
+      "name": "SpecUp.EVA"
+    },
+    {
+      "$id": 264,
+      "label": "MNU_Filter231",
+      "style": 18,
+      "name": "SpecUp.M-ATK"
+    },
+    {
+      "$id": 265,
+      "label": "MNU_Filter232",
+      "style": 18,
+      "name": "SpecUp.R-ATK"
+    },
+    {
+      "$id": 266,
+      "label": "MNU_Filter233",
+      "style": 18,
+      "name": "SpecUp.PTL"
+    },
+    {
+      "$id": 267,
+      "label": "MNU_Filter234",
+      "style": 18,
+      "name": "SpecUp.APP-HP"
+    },
+    {
+      "$id": 268,
+      "label": "MNU_Filter235",
+      "style": 18,
+      "name": "Boost.HP-MAX"
+    },
+    {
+      "$id": 269,
+      "label": "MNU_Filter236",
+      "style": 18,
+      "name": "Boost.M-ACC"
+    },
+    {
+      "$id": 270,
+      "label": "MNU_Filter237",
+      "style": 18,
+      "name": "Boost.R-ACC"
+    },
+    {
+      "$id": 271,
+      "label": "MNU_Filter238",
+      "style": 18,
+      "name": "Boost.EVA"
+    },
+    {
+      "$id": 272,
+      "label": "MNU_Filter239",
+      "style": 18,
+      "name": "Boost.M-ATK"
+    },
+    {
+      "$id": 273,
+      "label": "MNU_Filter240",
+      "style": 18,
+      "name": "Boost.R-ATK"
+    },
+    {
+      "$id": 274,
+      "label": "MNU_Filter241",
+      "style": 18,
+      "name": "Boost.PTL"
+    },
+    {
+      "$id": 275,
+      "label": "MNU_Filter242",
+      "style": 18,
+      "name": "SpecUp.PHYS-RES"
+    },
+    {
+      "$id": 276,
+      "label": "MNU_Filter243",
+      "style": 18,
+      "name": "SpecUp.BEAM-RES"
+    },
+    {
+      "$id": 277,
+      "label": "MNU_Filter244",
+      "style": 18,
+      "name": "SpecUp.ELEC-RES"
+    },
+    {
+      "$id": 278,
+      "label": "MNU_Filter245",
+      "style": 18,
+      "name": "SpecUp.THERM-RES"
+    },
+    {
+      "$id": 279,
+      "label": "MNU_Filter246",
+      "style": 18,
+      "name": "SpecUp.ETHER-RES"
+    },
+    {
+      "$id": 280,
+      "label": "MNU_Filter247",
+      "style": 18,
+      "name": "SpecUp.GRAV-RES"
+    },
+    {
+      "$id": 281,
+      "label": "MNU_Filter248",
+      "style": 18,
+      "name": "SpecUp.FUEL-MAX"
+    },
+    {
+      "$id": 282,
+      "label": "MNU_Filter249",
+      "style": 18,
+      "name": "SpecUp.FUEL-COST"
+    },
+    {
+      "$id": 283,
+      "label": "MNU_Filter250",
+      "style": 18,
+      "name": "SpecUp.FUEL-PARK"
+    },
+    {
+      "$id": 284,
+      "label": "MNU_Filter251",
+      "style": 18,
+      "name": "SpecUp.FUEL-BIND"
+    },
+    {
+      "$id": 285,
+      "label": "MNU_Filter252",
+      "style": 18,
+      "name": "SpecUp.FUEL-OD"
+    },
+    {
+      "$id": 286,
+      "label": "MNU_Filter253",
+      "style": 18,
+      "name": "Custom.WP-ATK"
+    },
+    {
+      "$id": 287,
+      "label": "MNU_Filter254",
+      "style": 18,
+      "name": "Custom.WP-STABLE"
+    },
+    {
+      "$id": 288,
+      "label": "MNU_Filter255",
+      "style": 18,
+      "name": "Custom.WP-DESTABLE"
+    },
+    {
+      "$id": 289,
+      "label": "MNU_Filter256",
+      "style": 18,
+      "name": "Custom.WP-M-GP"
+    },
+    {
+      "$id": 290,
+      "label": "MNU_Filter257",
+      "style": 18,
+      "name": "Custom.WP-R-GP "
+    },
+    {
+      "$id": 291,
+      "label": "MNU_Filter258",
+      "style": 18,
+      "name": "Custom.WP-SPEED"
+    },
+    {
+      "$id": 292,
+      "label": "MNU_Filter259",
+      "style": 18,
+      "name": "Custom.WP-R-RANGE"
+    },
+    {
+      "$id": 293,
+      "label": "MNU_Filter260",
+      "style": 18,
+      "name": "Custom.WP-FUEL"
+    },
+    {
+      "$id": 294,
+      "label": "MNU_Filter261",
+      "style": 18,
+      "name": "Resist.STAGGER"
+    },
+    {
+      "$id": 295,
+      "label": "MNU_Filter262",
+      "style": 18,
+      "name": "Resist.FLINCH"
+    },
+    {
+      "$id": 296,
+      "label": "MNU_Filter263",
+      "style": 18,
+      "name": "Resist.TOPPLE"
+    },
+    {
+      "$id": 297,
+      "label": "MNU_Filter264",
+      "style": 18,
+      "name": "Resist.KNOCKBACK"
+    },
+    {
+      "$id": 298,
+      "label": "MNU_Filter265",
+      "style": 18,
+      "name": "Resist.LAUNCH"
+    },
+    {
+      "$id": 299,
+      "label": "MNU_Filter266",
+      "style": 18,
+      "name": "Resist.STUN"
+    },
+    {
+      "$id": 300,
+      "label": "MNU_Filter267",
+      "style": 18,
+      "name": "Resist.SLEEP"
+    },
+    {
+      "$id": 301,
+      "label": "MNU_Filter268",
+      "style": 18,
+      "name": "Resist.TAUNT"
+    },
+    {
+      "$id": 302,
+      "label": "MNU_Filter269",
+      "style": 18,
+      "name": "Resist.CONTROL"
+    },
+    {
+      "$id": 303,
+      "label": "MNU_Filter270",
+      "style": 18,
+      "name": "Resist.VIRUS"
+    },
+    {
+      "$id": 304,
+      "label": "MNU_Filter271",
+      "style": 18,
+      "name": "Resist.BLACKOUT"
+    },
+    {
+      "$id": 305,
+      "label": "MNU_Filter272",
+      "style": 18,
+      "name": "Resist.FATIGUE"
+    },
+    {
+      "$id": 306,
+      "label": "MNU_Filter273",
+      "style": 18,
+      "name": "Resist.SLOW-ARTS"
+    },
+    {
+      "$id": 307,
+      "label": "MNU_Filter274",
+      "style": 18,
+      "name": "Resist.PHYS-DOWN"
+    },
+    {
+      "$id": 308,
+      "label": "MNU_Filter275",
+      "style": 18,
+      "name": "Resist.BEAM-DOWN"
+    },
+    {
+      "$id": 309,
+      "label": "MNU_Filter276",
+      "style": 18,
+      "name": "Resist.THERM-DOWN"
+    },
+    {
+      "$id": 310,
+      "label": "MNU_Filter277",
+      "style": 18,
+      "name": "Resist.ELEC-DOWN"
+    },
+    {
+      "$id": 311,
+      "label": "MNU_Filter278",
+      "style": 18,
+      "name": "Resist.ETHER-DOWN"
+    },
+    {
+      "$id": 312,
+      "label": "MNU_Filter279",
+      "style": 18,
+      "name": "Resist.GRAV-DOWN"
+    },
+    {
+      "$id": 313,
+      "label": "MNU_Filter280",
+      "style": 18,
+      "name": "Resist.TIME-BOMB"
+    },
+    {
+      "$id": 314,
+      "label": "MNU_Filter281",
+      "style": 18,
+      "name": "Resist.DEBUFF-DOWN"
+    },
+    {
+      "$id": 315,
+      "label": "MNU_Filter282",
+      "style": 18,
+      "name": "Resist.BLAZE"
+    },
+    {
+      "$id": 316,
+      "label": "MNU_Filter283",
+      "style": 18,
+      "name": "Resist.SHOCK"
+    },
+    {
+      "$id": 317,
+      "label": "MNU_Filter284",
+      "style": 18,
+      "name": "CutTime.DEBUFF"
+    },
+    {
+      "$id": 318,
+      "label": "MNU_Filter285",
+      "style": 18,
+      "name": "CriticalUp"
+    },
+    {
+      "$id": 319,
+      "label": "MNU_Filter286",
+      "style": 18,
+      "name": "CritUp.THEROID"
+    },
+    {
+      "$id": 320,
+      "label": "MNU_Filter287",
+      "style": 18,
+      "name": "CritUp.INSECTOID"
+    },
+    {
+      "$id": 321,
+      "label": "MNU_Filter288",
+      "style": 18,
+      "name": "CritUp.PISCINOID"
+    },
+    {
+      "$id": 322,
+      "label": "MNU_Filter289",
+      "style": 18,
+      "name": "CritUp.HUMANOID"
+    },
+    {
+      "$id": 323,
+      "label": "MNU_Filter290",
+      "style": 18,
+      "name": "CritUp.MECHANOID"
+    },
+    {
+      "$id": 324,
+      "label": "MNU_Filter291",
+      "style": 18,
+      "name": "CritUp.CHIMEROID"
+    },
+    {
+      "$id": 325,
+      "label": "MNU_Filter292",
+      "style": 18,
+      "name": "CritUp.ULTRAFAUNA"
+    },
+    {
+      "$id": 326,
+      "label": "MNU_Filter293",
+      "style": 18,
+      "name": "Slayer.THEROID"
+    },
+    {
+      "$id": 327,
+      "label": "MNU_Filter294",
+      "style": 18,
+      "name": "Slayer.INSECTOID"
+    },
+    {
+      "$id": 328,
+      "label": "MNU_Filter295",
+      "style": 18,
+      "name": "Slayer.PISCINOID"
+    },
+    {
+      "$id": 329,
+      "label": "MNU_Filter296",
+      "style": 18,
+      "name": "Slayer.HUMANOID"
+    },
+    {
+      "$id": 330,
+      "label": "MNU_Filter297",
+      "style": 18,
+      "name": "Slayer.MECHANOID"
+    },
+    {
+      "$id": 331,
+      "label": "MNU_Filter298",
+      "style": 18,
+      "name": "Slayer.CHIMEROID"
+    },
+    {
+      "$id": 332,
+      "label": "MNU_Filter299",
+      "style": 18,
+      "name": "Slayer.ULTRAFAUNA"
+    },
+    {
+      "$id": 333,
+      "label": "MNU_Filter300",
+      "style": 18,
+      "name": "AttributeDmg.PHYS"
+    },
+    {
+      "$id": 334,
+      "label": "MNU_Filter301",
+      "style": 18,
+      "name": "AttributeDmg.BEAM"
+    },
+    {
+      "$id": 335,
+      "label": "MNU_Filter302",
+      "style": 18,
+      "name": "AttributeDmg.ETHER"
+    },
+    {
+      "$id": 336,
+      "label": "MNU_Filter303",
+      "style": 18,
+      "name": "AttributeDmg.THERM"
+    },
+    {
+      "$id": 337,
+      "label": "MNU_Filter304",
+      "style": 18,
+      "name": "AttributeDmg.ELEC"
+    },
+    {
+      "$id": 338,
+      "label": "MNU_Filter305",
+      "style": 18,
+      "name": "AttributeDmg.GRAV"
+    },
+    {
+      "$id": 339,
+      "label": "MNU_Filter306",
+      "style": 18,
+      "name": "PositionDmg.FRONT"
+    },
+    {
+      "$id": 340,
+      "label": "MNU_Filter307",
+      "style": 18,
+      "name": "PositionDmg.SIDE"
+    },
+    {
+      "$id": 341,
+      "label": "MNU_Filter308",
+      "style": 18,
+      "name": "PositionDmg.BACK"
+    },
+    {
+      "$id": 342,
+      "label": "MNU_Filter309",
+      "style": 18,
+      "name": "PositionDmg.ABOVE"
+    },
+    {
+      "$id": 343,
+      "label": "MNU_Filter310",
+      "style": 18,
+      "name": "M-Auto.BLACKOUT"
+    },
+    {
+      "$id": 344,
+      "label": "MNU_Filter311",
+      "style": 18,
+      "name": "M-Auto.FATIGUE"
+    },
+    {
+      "$id": 345,
+      "label": "MNU_Filter312",
+      "style": 18,
+      "name": "M-Auto.PHYS-DOWN"
+    },
+    {
+      "$id": 346,
+      "label": "MNU_Filter313",
+      "style": 18,
+      "name": "M-Auto.BEAM-DOWN"
+    },
+    {
+      "$id": 347,
+      "label": "MNU_Filter314",
+      "style": 18,
+      "name": "M-Auto.ETHER-DOWN"
+    },
+    {
+      "$id": 348,
+      "label": "MNU_Filter315",
+      "style": 18,
+      "name": "M-Auto.THERM-DOWN"
+    },
+    {
+      "$id": 349,
+      "label": "MNU_Filter316",
+      "style": 18,
+      "name": "M-Auto.ELEC-DOWN"
+    },
+    {
+      "$id": 350,
+      "label": "MNU_Filter317",
+      "style": 18,
+      "name": "M-Auto.GRAV-DOWN"
+    },
+    {
+      "$id": 351,
+      "label": "MNU_Filter318",
+      "style": 18,
+      "name": "M-Auto.BLAZE"
+    },
+    {
+      "$id": 352,
+      "label": "MNU_Filter319",
+      "style": 18,
+      "name": "M-Auto.SHOCK"
+    },
+    {
+      "$id": 353,
+      "label": "MNU_Filter320",
+      "style": 18,
+      "name": "M-Auto.HP-RECOV"
+    },
+    {
+      "$id": 354,
+      "label": "MNU_Filter321",
+      "style": 18,
+      "name": "Damage.GP-GAIN"
+    },
+    {
+      "$id": 355,
+      "label": "MNU_Filter322",
+      "style": 18,
+      "name": "Damage.APPEND"
+    },
+    {
+      "$id": 356,
+      "label": "MNU_Filter323",
+      "style": 18,
+      "name": "Jamming"
+    },
+    {
+      "$id": 357,
+      "label": "MNU_Filter324",
+      "style": 18,
+      "name": "AppendLost.ATK-UP"
+    },
+    {
+      "$id": 358,
+      "label": "MNU_Filter325",
+      "style": 18,
+      "name": "AppendLost.EVA-UP"
+    },
+    {
+      "$id": 359,
+      "label": "MNU_Filter326",
+      "style": 18,
+      "name": "AppendLost.GP"
+    },
+    {
+      "$id": 360,
+      "label": "MNU_Filter327",
+      "style": 18,
+      "name": "Reflect.DAMAGE-UP"
+    },
+    {
+      "$id": 361,
+      "label": "MNU_Filter328",
+      "style": 18,
+      "name": "Reflect.NEG-PHYS"
+    },
+    {
+      "$id": 362,
+      "label": "MNU_Filter329",
+      "style": 18,
+      "name": "Reflect.NEG-BEAM"
+    },
+    {
+      "$id": 363,
+      "label": "MNU_Filter330",
+      "style": 18,
+      "name": "Reflect.NEG-ETHER"
+    },
+    {
+      "$id": 364,
+      "label": "MNU_Filter331",
+      "style": 18,
+      "name": "Reflect.NEG-THERM"
+    },
+    {
+      "$id": 365,
+      "label": "MNU_Filter332",
+      "style": 18,
+      "name": "Reflect.NEG-ELEC"
+    },
+    {
+      "$id": 366,
+      "label": "MNU_Filter333",
+      "style": 18,
+      "name": "Reflect.NEG-GRAV"
+    },
+    {
+      "$id": 367,
+      "label": "MNU_Filter334",
+      "style": 18,
+      "name": "Overdrive.FRAME-HP"
+    },
+    {
+      "$id": 368,
+      "label": "MNU_Filter335",
+      "style": 18,
+      "name": "Overdrive.APPEND-HP"
+    },
+    {
+      "$id": 369,
+      "label": "MNU_Filter336",
+      "style": 18,
+      "name": "Overdrive.EXTEND"
+    },
+    {
+      "$id": 370,
+      "label": "MNU_Filter337",
+      "style": 18,
+      "name": "Arts.GP"
+    },
+    {
+      "$id": 371,
+      "label": "MNU_Filter338",
+      "style": 18,
+      "name": "TimeEx.TAUNT"
+    },
+    {
+      "$id": 372,
+      "label": "MNU_Filter339",
+      "style": 18,
+      "name": "TimeEx.SLEEP"
+    },
+    {
+      "$id": 373,
+      "label": "MNU_Filter340",
+      "style": 18,
+      "name": "TimeEx.VIRUS"
+    },
+    {
+      "$id": 374,
+      "label": "MNU_Filter341",
+      "style": 18,
+      "name": "TimeEx.BLACKOUT"
+    },
+    {
+      "$id": 375,
+      "label": "MNU_Filter342",
+      "style": 18,
+      "name": "TimeEx.FATIGUE"
+    },
+    {
+      "$id": 376,
+      "label": "MNU_Filter343",
+      "style": 18,
+      "name": "TimeEx.SLOW-ARTS"
+    },
+    {
+      "$id": 377,
+      "label": "MNU_Filter344",
+      "style": 18,
+      "name": "TimeEx.DEBUFF-DOWN"
+    },
+    {
+      "$id": 378,
+      "label": "MNU_Filter345",
+      "style": 18,
+      "name": "TimeEx.BLAZE"
+    },
+    {
+      "$id": 379,
+      "label": "MNU_Filter346",
+      "style": 18,
+      "name": "TimeEx.SHOCK"
+    },
+    {
+      "$id": 380,
+      "label": "MNU_Filter347",
+      "style": 18,
+      "name": "TimeEx.PHYS-DOWN"
+    },
+    {
+      "$id": 381,
+      "label": "MNU_Filter348",
+      "style": 18,
+      "name": "TimeEx.BEAM-DOWN"
+    },
+    {
+      "$id": 382,
+      "label": "MNU_Filter349",
+      "style": 18,
+      "name": "TimeEx.ETHER-DOWN"
+    },
+    {
+      "$id": 383,
+      "label": "MNU_Filter350",
+      "style": 18,
+      "name": "TimeEx.THERM-DOWN"
+    },
+    {
+      "$id": 384,
+      "label": "MNU_Filter351",
+      "style": 18,
+      "name": "TimeEx.ELEC-DOWN"
+    },
+    {
+      "$id": 385,
+      "label": "MNU_Filter352",
+      "style": 18,
+      "name": "TimeEx.GRAV-DOWN"
+    },
+    {
+      "$id": 386,
+      "label": "MNU_Filter353",
+      "style": 18,
+      "name": "Draw.OPENING-DMG"
+    },
+    {
+      "$id": 387,
+      "label": "MNU_Filter354",
+      "style": 18,
+      "name": "Cloak.SIGHT"
+    },
+    {
+      "$id": 388,
+      "label": "MNU_Filter355",
+      "style": 18,
+      "name": "Cloak.SOUND"
+    },
+    {
+      "$id": 389,
+      "label": "MNU_Filter356",
+      "style": 18,
+      "name": "Crush.GP"
+    },
+    {
+      "$id": 390,
+      "label": "MNU_Filter357",
+      "style": 18,
+      "name": "Crush.APPEND"
+    },
+    {
+      "$id": 391,
+      "label": "MNU_Filter358",
+      "style": 18,
+      "name": "Spike.EVA"
+    },
+    {
+      "$id": 392,
+      "label": "MNU_Filter359",
+      "style": 18,
+      "name": "Vehicle.APPEND-DEF"
+    },
+    {
+      "$id": 393,
+      "label": "MNU_Filter360",
+      "style": 18,
+      "name": "Vehicle.FRAME-DEF"
+    },
+    {
+      "$id": 394,
+      "label": "MNU_Filter361",
+      "style": 18,
+      "name": "Vehicle.DEBUFF-RES"
+    },
+    {
+      "$id": 395,
+      "label": "MNU_Filter362",
+      "style": 18,
+      "name": "Night.MR-ACC"
+    },
+    {
+      "$id": 396,
+      "label": "MNU_Filter363",
+      "style": 18,
+      "name": "Weather.FOG-RES"
+    },
+    {
+      "$id": 397,
+      "label": "MNU_Filter364",
+      "style": 18,
+      "name": "Weather.HEAVY-RAIN-RES"
+    },
+    {
+      "$id": 398,
+      "label": "MNU_Filter365",
+      "style": 18,
+      "name": "Weather.S-STORM-RES"
+    },
+    {
+      "$id": 399,
+      "label": "MNU_Filter366",
+      "style": 18,
+      "name": "Weather.EM-STORM-RES"
+    },
+    {
+      "$id": 400,
+      "label": "MNU_Filter367",
+      "style": 18,
+      "name": "Weather.E-MIST-RES"
+    },
+    {
+      "$id": 401,
+      "label": "MNU_Filter368",
+      "style": 18,
+      "name": "Weather.RISING-E-MIST-RES"
+    },
+    {
+      "$id": 402,
+      "label": "MNU_Filter369",
+      "style": 18,
+      "name": "Weather.SPORE-RES"
+    },
+    {
+      "$id": 403,
+      "label": "MNU_Filter370",
+      "style": 18,
+      "name": "Weather.DAMAGE-RES"
+    },
+    {
+      "$id": 404,
+      "label": "MNU_Filter501",
+      "style": 15,
+      "name": "Treasure Info"
+    },
+    {
+      "$id": 405,
+      "label": "MNU_Filter502",
+      "style": 15,
+      "name": "Tyrant Info"
+    },
+    {
+      "$id": 406,
+      "label": "MNU_Filter503",
+      "style": 15,
+      "name": "Mission Info"
+    },
+    {
+      "$id": 407,
+      "label": "MNU_Filter504",
+      "style": 15,
+      "name": "Affinity Info"
+    },
+    {
+      "$id": 408,
+      "label": "MNU_Filter601",
+      "style": 14,
+      "name": "Hidden"
+    },
+    {
+      "$id": 409,
+      "label": "MNU_Filter602",
+      "style": 14,
+      "name": "Visible"
+    },
+    {
+      "$id": 410,
+      "label": "MNU_Filter603",
+      "style": 14,
+      "name": "Completed"
+    },
+    {
+      "$id": 411,
+      "label": "MNU_Filter701",
+      "style": 18,
+      "name": "Fully Analyzed"
+    },
+    {
+      "$id": 412,
+      "label": "MNU_Filter702",
+      "style": 18,
+      "name": "Under Analysis"
+    },
+    {
+      "$id": 413,
+      "label": "MNU_Filter703",
+      "style": 17,
+      "name": "Normal"
+    },
+    {
+      "$id": 414,
+      "label": "MNU_Filter704",
+      "style": 17,
+      "name": "Tyrant"
+    },
+    {
+      "$id": 415,
+      "label": "MNU_Filter705",
+      "style": 17,
+      "name": "Boss"
+    },
+    {
+      "$id": 416,
+      "label": "MNU_Filter706",
+      "style": 15,
+      "name": "Theroids"
+    },
+    {
+      "$id": 417,
+      "label": "MNU_Filter707",
+      "style": 15,
+      "name": "Insectoids"
+    },
+    {
+      "$id": 418,
+      "label": "MNU_Filter708",
+      "style": 15,
+      "name": "Piscinoids"
+    },
+    {
+      "$id": 419,
+      "label": "MNU_Filter709",
+      "style": 15,
+      "name": "Humanoids"
+    },
+    {
+      "$id": 420,
+      "label": "MNU_Filter710",
+      "style": 15,
+      "name": "Mechanoids"
+    },
+    {
+      "$id": 421,
+      "label": "MNU_Filter711",
+      "style": 15,
+      "name": "Chimeroids"
+    },
+    {
+      "$id": 422,
+      "label": "MNU_Filter712",
+      "style": 15,
+      "name": "Ultrafauna"
+    },
+    {
+      "$id": 423,
+      "label": "MNU_Filter713",
+      "style": 18,
+      "name": "Autosentry"
+    },
+    {
+      "$id": 424,
+      "label": "MNU_Filter714",
+      "style": 18,
+      "name": "Vita"
+    },
+    {
+      "$id": 425,
+      "label": "MNU_Filter715",
+      "style": 18,
+      "name": "Rexoskell"
+    },
+    {
+      "$id": 426,
+      "label": "MNU_Filter716",
+      "style": 18,
+      "name": "Vasara"
+    },
+    {
+      "$id": 427,
+      "label": "MNU_Filter717",
+      "style": 18,
+      "name": "Zu Pharg"
+    },
+    {
+      "$id": 428,
+      "label": "MNU_Filter718",
+      "style": 18,
+      "name": "Almandal"
+    },
+    {
+      "$id": 429,
+      "label": "MNU_Filter719",
+      "style": 18,
+      "name": "Puge"
+    },
+    {
+      "$id": 430,
+      "label": "MNU_Filter720",
+      "style": 18,
+      "name": "Pugilith"
+    },
+    {
+      "$id": 431,
+      "label": "MNU_Filter721",
+      "style": 18,
+      "name": "Galdr"
+    },
+    {
+      "$id": 432,
+      "label": "MNU_Filter722",
+      "style": 18,
+      "name": "Quo"
+    },
+    {
+      "$id": 433,
+      "label": "MNU_Filter723",
+      "style": 18,
+      "name": "Oc-serv"
+    },
+    {
+      "$id": 434,
+      "label": "MNU_Filter724",
+      "style": 18,
+      "name": "Qmoeva"
+    },
+    {
+      "$id": 435,
+      "label": "MNU_Filter725",
+      "style": 18,
+      "name": "Caladar"
+    },
+    {
+      "$id": 436,
+      "label": "MNU_Filter726",
+      "style": 18,
+      "name": "Seidr"
+    },
+    {
+      "$id": 437,
+      "label": "MNU_Filter727",
+      "style": 18,
+      "name": "Xern"
+    },
+    {
+      "$id": 438,
+      "label": "MNU_Filter728",
+      "style": 18,
+      "name": "Shrad"
+    },
+    {
+      "$id": 439,
+      "label": "MNU_Filter729",
+      "style": 18,
+      "name": "Xe-dom"
+    },
+    {
+      "$id": 440,
+      "label": "MNU_Filter730",
+      "style": 18,
+      "name": "Zig"
+    },
+    {
+      "$id": 441,
+      "label": "MNU_Filter731",
+      "style": 18,
+      "name": "Fal-swo"
+    },
+    {
+      "$id": 442,
+      "label": "MNU_Filter732",
+      "style": 18,
+      "name": "Human-Made Skell"
+    },
+    {
+      "$id": 443,
+      "label": "MNU_Filter733",
+      "style": 18,
+      "name": "Marnuck"
+    },
+    {
+      "$id": 444,
+      "label": "MNU_Filter734",
+      "style": 18,
+      "name": "Milsaadi"
+    },
+    {
+      "$id": 445,
+      "label": "MNU_Filter735",
+      "style": 18,
+      "name": "Sylooth"
+    },
+    {
+      "$id": 446,
+      "label": "MNU_Filter736",
+      "style": 18,
+      "name": "Gularth"
+    },
+    {
+      "$id": 447,
+      "label": "MNU_Filter737",
+      "style": 18,
+      "name": "BLADE"
+    },
+    {
+      "$id": 448,
+      "label": "MNU_Filter738",
+      "style": 18,
+      "name": "Prone (Cavern Clan)"
+    },
+    {
+      "$id": 449,
+      "label": "MNU_Filter739",
+      "style": 18,
+      "name": "Prone (Tree Clan)"
+    },
+    {
+      "$id": 450,
+      "label": "MNU_Filter740",
+      "style": 18,
+      "name": "Definian"
+    },
+    {
+      "$id": 451,
+      "label": "MNU_Filter741",
+      "style": 18,
+      "name": "Wrothian"
+    },
+    {
+      "$id": 452,
+      "label": "MNU_Filter742",
+      "style": 18,
+      "name": "Ganglion Command"
+    },
+    {
+      "$id": 453,
+      "label": "MNU_Filter743",
+      "style": 18,
+      "name": "Petramand"
+    },
+    {
+      "$id": 454,
+      "label": "MNU_Filter744",
+      "style": 18,
+      "name": "Scirpo"
+    },
+    {
+      "$id": 455,
+      "label": "MNU_Filter745",
+      "style": 18,
+      "name": "Forfex"
+    },
+    {
+      "$id": 456,
+      "label": "MNU_Filter746",
+      "style": 18,
+      "name": "Cinicula"
+    },
+    {
+      "$id": 457,
+      "label": "MNU_Filter747",
+      "style": 18,
+      "name": "Falsaxum"
+    },
+    {
+      "$id": 458,
+      "label": "MNU_Filter748",
+      "style": 18,
+      "name": "Vivohast"
+    },
+    {
+      "$id": 459,
+      "label": "MNU_Filter749",
+      "style": 18,
+      "name": "Thallus"
+    },
+    {
+      "$id": 460,
+      "label": "MNU_Filter750",
+      "style": 18,
+      "name": "Tectinsula"
+    },
+    {
+      "$id": 461,
+      "label": "MNU_Filter751",
+      "style": 18,
+      "name": "Arenatect"
+    },
+    {
+      "$id": 462,
+      "label": "MNU_Filter752",
+      "style": 18,
+      "name": "Blatta"
+    },
+    {
+      "$id": 463,
+      "label": "MNU_Filter753",
+      "style": 18,
+      "name": "Turba"
+    },
+    {
+      "$id": 464,
+      "label": "MNU_Filter754",
+      "style": 18,
+      "name": "Adsecula"
+    },
+    {
+      "$id": 465,
+      "label": "MNU_Filter755",
+      "style": 18,
+      "name": "Papil"
+    },
+    {
+      "$id": 466,
+      "label": "MNU_Filter756",
+      "style": 18,
+      "name": "Germivore"
+    },
+    {
+      "$id": 467,
+      "label": "MNU_Filter757",
+      "style": 18,
+      "name": "Sabula"
+    },
+    {
+      "$id": 468,
+      "label": "MNU_Filter758",
+      "style": 18,
+      "name": "Ictus"
+    },
+    {
+      "$id": 469,
+      "label": "MNU_Filter759",
+      "style": 18,
+      "name": "Aeviter"
+    },
+    {
+      "$id": 470,
+      "label": "MNU_Filter760",
+      "style": 18,
+      "name": "Lophid"
+    },
+    {
+      "$id": 471,
+      "label": "MNU_Filter761",
+      "style": 18,
+      "name": "Purgovent"
+    },
+    {
+      "$id": 472,
+      "label": "MNU_Filter762",
+      "style": 18,
+      "name": "Duoguill"
+    },
+    {
+      "$id": 473,
+      "label": "MNU_Filter763",
+      "style": 18,
+      "name": "Scintimure"
+    },
+    {
+      "$id": 474,
+      "label": "MNU_Filter764",
+      "style": 18,
+      "name": "Aetrygon"
+    },
+    {
+      "$id": 475,
+      "label": "MNU_Filter765",
+      "style": 18,
+      "name": "Xiphias"
+    },
+    {
+      "$id": 476,
+      "label": "MNU_Filter766",
+      "style": 18,
+      "name": "Balaena"
+    },
+    {
+      "$id": 477,
+      "label": "MNU_Filter767",
+      "style": 18,
+      "name": "Ceto"
+    },
+    {
+      "$id": 478,
+      "label": "MNU_Filter768",
+      "style": 18,
+      "name": "Grex"
+    },
+    {
+      "$id": 479,
+      "label": "MNU_Filter769",
+      "style": 18,
+      "name": "Caro"
+    },
+    {
+      "$id": 480,
+      "label": "MNU_Filter770",
+      "style": 18,
+      "name": "Vigent"
+    },
+    {
+      "$id": 481,
+      "label": "MNU_Filter771",
+      "style": 18,
+      "name": "Virago"
+    },
+    {
+      "$id": 482,
+      "label": "MNU_Filter772",
+      "style": 18,
+      "name": "Monoceros"
+    },
+    {
+      "$id": 483,
+      "label": "MNU_Filter773",
+      "style": 18,
+      "name": "Progen"
+    },
+    {
+      "$id": 484,
+      "label": "MNU_Filter774",
+      "style": 18,
+      "name": "Simius"
+    },
+    {
+      "$id": 485,
+      "label": "MNU_Filter775",
+      "style": 18,
+      "name": "Cantor"
+    },
+    {
+      "$id": 486,
+      "label": "MNU_Filter776",
+      "style": 18,
+      "name": "Aprica"
+    },
+    {
+      "$id": 487,
+      "label": "MNU_Filter777",
+      "style": 18,
+      "name": "Cervus"
+    },
+    {
+      "$id": 488,
+      "label": "MNU_Filter778",
+      "style": 18,
+      "name": "Suid"
+    },
+    {
+      "$id": 489,
+      "label": "MNU_Filter779",
+      "style": 18,
+      "name": "Ovis"
+    },
+    {
+      "$id": 490,
+      "label": "MNU_Filter780",
+      "style": 18,
+      "name": "Millesaur"
+    },
+    {
+      "$id": 491,
+      "label": "MNU_Filter781",
+      "style": 18,
+      "name": "Coronid"
+    },
+    {
+      "$id": 492,
+      "label": "MNU_Filter782",
+      "style": 18,
+      "name": "Evello"
+    },
+    {
+      "$id": 493,
+      "label": "MNU_Filter783",
+      "style": 18,
+      "name": "Caecus"
+    },
+    {
+      "$id": 494,
+      "label": "MNU_Filter784",
+      "style": 18,
+      "name": "Insidia"
+    },
+    {
+      "$id": 495,
+      "label": "MNU_Filter785",
+      "style": 18,
+      "name": "Sphinx"
+    },
+    {
+      "$id": 496,
+      "label": "MNU_Filter786",
+      "style": 18,
+      "name": "Chimera"
+    },
+    {
+      "$id": 497,
+      "label": "MNU_Filter787",
+      "style": 18,
+      "name": "Gerrid"
+    },
+    {
+      "$id": 498,
+      "label": "MNU_Filter788",
+      "style": 18,
+      "name": "Lepyx"
+    },
+    {
+      "$id": 499,
+      "label": "MNU_Filter789",
+      "style": 18,
+      "name": "Mortifole"
+    },
+    {
+      "$id": 500,
+      "label": "MNU_Filter790",
+      "style": 18,
+      "name": "Sacrifole"
+    },
+    {
+      "$id": 501,
+      "label": "MNU_Filter791",
+      "style": 18,
+      "name": "Auravis"
+    },
+    {
+      "$id": 502,
+      "label": "MNU_Filter792",
+      "style": 18,
+      "name": "Jacul"
+    },
+    {
+      "$id": 503,
+      "label": "MNU_Filter793",
+      "style": 18,
+      "name": "Levitath"
+    },
+    {
+      "$id": 504,
+      "label": "MNU_Filter794",
+      "style": 18,
+      "name": "Colubrim"
+    },
+    {
+      "$id": 505,
+      "label": "MNU_Filter795",
+      "style": 18,
+      "name": "Millepod"
+    },
+    {
+      "$id": 506,
+      "label": "MNU_Filter796",
+      "style": 18,
+      "name": "Unafulge"
+    },
+    {
+      "$id": 507,
+      "label": "MNU_Filter797",
+      "style": 18,
+      "name": "Visigel"
+    },
+    {
+      "$id": 508,
+      "label": "MNU_Filter798",
+      "style": 18,
+      "name": "Filiavent"
+    },
+    {
+      "$id": 509,
+      "label": "MNU_Filter799",
+      "style": 18,
+      "name": "Yggralith"
+    },
+    {
+      "$id": 510,
+      "label": "MNU_Filter800",
+      "style": 18,
+      "name": "Telethia"
+    },
+    {
+      "$id": 511,
+      "label": "MNU_Filter801",
+      "style": 18,
+      "name": "Vesper"
+    },
+    {
+      "$id": 512,
+      "label": "MNU_Filter802",
+      "style": 18,
+      "name": "Murra"
+    },
+    {
+      "$id": 513,
+      "label": "MNU_Filter803",
+      "style": 18,
+      "name": "Terebra"
+    },
+    {
+      "$id": 514,
+      "label": "MNU_Filter804",
+      "style": 18,
+      "name": "Mephite"
+    },
+    {
+      "$id": 515,
+      "label": "MNU_Filter805",
+      "style": 18,
+      "name": "Saltat"
+    },
+    {
+      "$id": 516,
+      "label": "MNU_Filter806",
+      "style": 18,
+      "name": "Liceor"
+    },
+    {
+      "$id": 517,
+      "label": "MNU_Filter807",
+      "style": 18,
+      "name": "Potamus"
+    },
+    {
+      "$id": 518,
+      "label": "MNU_Filter808",
+      "style": 18,
+      "name": "Dilus"
+    },
+    {
+      "$id": 519,
+      "label": "MNU_Filter809",
+      "style": 18,
+      "name": "Tersqual"
+    },
+    {
+      "$id": 520,
+      "label": "MNU_Filter810",
+      "style": 18,
+      "name": "Tainted"
+    },
+    {
+      "$id": 521,
+      "label": "MNU_Filter811",
+      "style": 18,
+      "name": "Ghost"
+    },
+    {
+      "$id": 522,
+      "label": "MNU_Filter812",
+      "style": 18,
+      "name": "Void"
+    },
+    {
+      "$id": 523,
+      "label": "MNU_Filter813",
+      "style": 18,
+      "name": "Primordia"
+    },
+    {
+      "$id": 524,
+      "label": "MNU_Filter814",
+      "style": 18,
+      "name": "Noctilum"
+    },
+    {
+      "$id": 525,
+      "label": "MNU_Filter815",
+      "style": 18,
+      "name": "Oblivia"
+    },
+    {
+      "$id": 526,
+      "label": "MNU_Filter816",
+      "style": 18,
+      "name": "Sylvalum"
+    },
+    {
+      "$id": 527,
+      "label": "MNU_Filter817",
+      "style": 18,
+      "name": "Cauldros"
+    },
+    {
+      "$id": 528,
+      "label": "MNU_Filter818",
+      "style": 18,
+      "name": "Other"
+    },
+    {
+      "$id": 529,
+      "label": "MNU_Filter819",
+      "style": 18,
+      "name": "All"
+    },
+    {
+      "$id": 530,
+      "label": "MNU_Filter820",
+      "style": 18,
+      "name": "Rain"
+    },
+    {
+      "$id": 531,
+      "label": "MNU_Filter821",
+      "style": 18,
+      "name": "EM Storms"
+    },
+    {
+      "$id": 532,
+      "label": "MNU_Filter822",
+      "style": 18,
+      "name": "Brimstone Rain"
+    },
+    {
+      "$id": 533,
+      "label": "MNU_Filter823",
+      "style": 18,
+      "name": "No Brimstone Rain"
+    },
+    {
+      "$id": 534,
+      "label": "MNU_Filter824",
+      "style": 18,
+      "name": "Rainbows"
+    },
+    {
+      "$id": 535,
+      "label": "MNU_Filter825",
+      "style": 18,
+      "name": "No Rising Energy Mist"
+    },
+    {
+      "$id": 536,
+      "label": "MNU_Filter826",
+      "style": 18,
+      "name": "Rising Energy Mist"
+    },
+    {
+      "$id": 537,
+      "label": "MNU_Filter827",
+      "style": 18,
+      "name": "Dense Fog"
+    },
+    {
+      "$id": 538,
+      "label": "MNU_Filter828",
+      "style": 18,
+      "name": "No Crimson Auroras"
+    },
+    {
+      "$id": 539,
+      "label": "MNU_Filter829",
+      "style": 18,
+      "name": "Crimson Auroras"
+    },
+    {
+      "$id": 540,
+      "label": "MNU_Filter830",
+      "style": 18,
+      "name": "Cloudy"
+    },
+    {
+      "$id": 541,
+      "label": "MNU_Filter831",
+      "style": 18,
+      "name": "Spores"
+    },
+    {
+      "$id": 542,
+      "label": "MNU_Filter832",
+      "style": 18,
+      "name": "Thunderstorms"
+    },
+    {
+      "$id": 543,
+      "label": "MNU_Filter833",
+      "style": 18,
+      "name": "No Spores"
+    },
+    {
+      "$id": 544,
+      "label": "MNU_Filter834",
+      "style": 18,
+      "name": "Clear Only"
+    },
+    {
+      "$id": 545,
+      "label": "MNU_Filter835",
+      "style": 18,
+      "name": "Not Clear"
+    },
+    {
+      "$id": 546,
+      "label": "MNU_Filter836",
+      "style": 14,
+      "name": "No Crown"
+    },
+    {
+      "$id": 547,
+      "label": "MNU_Filter837",
+      "style": 14,
+      "name": "Bronze Crown"
+    },
+    {
+      "$id": 548,
+      "label": "MNU_Filter838",
+      "style": 14,
+      "name": "Silver Crown"
+    },
+    {
+      "$id": 549,
+      "label": "MNU_Filter839",
+      "style": 14,
+      "name": "Gold Crown"
+    },
+    {
+      "$id": 550,
+      "label": "MNU_SkillFilter001",
+      "style": 18,
+      "name": "Status"
+    },
+    {
+      "$id": 551,
+      "label": "MNU_SkillFilter002",
+      "style": 18,
+      "name": "HP"
+    },
+    {
+      "$id": 552,
+      "label": "MNU_SkillFilter003",
+      "style": 18,
+      "name": "TP"
+    },
+    {
+      "$id": 553,
+      "label": "MNU_SkillFilter004",
+      "style": 18,
+      "name": "Attribute/Resistance"
+    },
+    {
+      "$id": 554,
+      "label": "MNU_SkillFilter005",
+      "style": 18,
+      "name": "Status Debuff"
+    },
+    {
+      "$id": 555,
+      "label": "MNU_SkillFilter006",
+      "style": 18,
+      "name": "Mobility Debuff"
+    },
+    {
+      "$id": 556,
+      "label": "MNU_SkillFilter007",
+      "style": 18,
+      "name": "Special Effects"
+    },
+    {
+      "$id": 557,
+      "label": "MNU_SkillFilter008",
+      "style": 18,
+      "name": "Melee"
+    },
+    {
+      "$id": 558,
+      "label": "MNU_SkillFilter009",
+      "style": 18,
+      "name": "Ranged"
+    },
+    {
+      "$id": 559,
+      "label": "MNU_SkillFilter010",
+      "style": 18,
+      "name": "Cooldown"
+    },
+    {
+      "$id": 560,
+      "label": "MNU_SkillFilter011",
+      "style": 18,
+      "name": "Critical Chance"
+    },
+    {
+      "$id": 561,
+      "label": "MNU_SkillFilter012",
+      "style": 18,
+      "name": "Positioning"
+    },
+    {
+      "$id": 562,
+      "label": "MNU_SkillFilter013",
+      "style": 18,
+      "name": "Appendage"
+    },
+    {
+      "$id": 563,
+      "label": "MNU_SkillFilter014",
+      "style": 18,
+      "name": "Aura"
+    },
+    {
+      "$id": 564,
+      "label": "MNU_SkillFilter015",
+      "style": 18,
+      "name": "Damage Dealt"
+    },
+    {
+      "$id": 565,
+      "label": "MNU_SkillFilter016",
+      "style": 18,
+      "name": "Damage Taken"
+    },
+    {
+      "$id": 566,
+      "label": "MNU_SkillFilter017",
+      "style": 18,
+      "name": "Skell"
+    },
+    {
+      "$id": 567,
+      "label": "MNU_SkillFilter018",
+      "style": 18,
+      "name": "Overdrive"
+    },
+    {
+      "$id": 568,
+      "label": "MNU_SkillFilter019",
+      "style": 18,
+      "name": "Resistance"
+    },
+    {
+      "$id": 569,
+      "label": "MNU_FilterGroup34",
+      "style": 18,
+      "name": "Skill"
+    },
+    {
+      "$id": 570,
+      "label": "MNU_FilterGroup35",
+      "style": 16,
+      "name": "Armor"
+    },
+    {
+      "$id": 571,
+      "label": "MNU_FilterGroup36",
+      "style": 17,
+      "name": "Skell Weapons"
+    },
+    {
+      "$id": 572,
+      "label": "MNU_FilterGroup37",
+      "style": 17,
+      "name": "Skell Armor"
+    },
+    {
+      "$id": 573,
+      "label": "MNU_FilterGroup38",
+      "style": 17,
+      "name": "Augments"
+    },
+    {
+      "$id": 574,
+      "label": "MNU_Filter901",
+      "style": 15,
+      "name": "Head"
+    },
+    {
+      "$id": 575,
+      "label": "MNU_Filter902",
+      "style": 15,
+      "name": "Torso"
+    },
+    {
+      "$id": 576,
+      "label": "MNU_Filter903",
+      "style": 15,
+      "name": "Left Arm"
+    },
+    {
+      "$id": 577,
+      "label": "MNU_Filter904",
+      "style": 15,
+      "name": "Right Arm"
+    },
+    {
+      "$id": 578,
+      "label": "MNU_Filter905",
+      "style": 15,
+      "name": "Legs"
+    },
+    {
+      "$id": 579,
+      "label": "MNU_Filter906",
+      "style": 15,
+      "name": "Sidearms"
+    },
+    {
+      "$id": 580,
+      "label": "MNU_Filter907",
+      "style": 18,
+      "name": "Back Weapons: 1-Handed"
+    },
+    {
+      "$id": 581,
+      "label": "MNU_Filter908",
+      "style": 18,
+      "name": "Back Weapons: 2-Handed"
+    },
+    {
+      "$id": 582,
+      "label": "MNU_Filter909",
+      "style": 18,
+      "name": "Shoulder Weapons: 1-Handed"
+    },
+    {
+      "$id": 583,
+      "label": "MNU_Filter910",
+      "style": 18,
+      "name": "Shoulder Weapons: 2-Handed"
+    },
+    {
+      "$id": 584,
+      "label": "MNU_Filter911",
+      "style": 15,
+      "name": "Arm Weapons"
+    },
+    {
+      "$id": 585,
+      "label": "MNU_Filter912",
+      "style": 15,
+      "name": "Spare Weapons"
+    },
+    {
+      "$id": 586,
+      "label": "MNU_Filter913",
+      "style": 15,
+      "name": "Superweapons"
+    },
+    {
+      "$id": 587,
+      "label": "MNU_Filter914",
+      "style": 15,
+      "name": "Head"
+    },
+    {
+      "$id": 588,
+      "label": "MNU_Filter915",
+      "style": 15,
+      "name": "Torso"
+    },
+    {
+      "$id": 589,
+      "label": "MNU_Filter916",
+      "style": 15,
+      "name": "Left Arm"
+    },
+    {
+      "$id": 590,
+      "label": "MNU_Filter917",
+      "style": 15,
+      "name": "Right Arm"
+    },
+    {
+      "$id": 591,
+      "label": "MNU_Filter918",
+      "style": 15,
+      "name": "Legs"
+    },
+    {
+      "$id": 592,
+      "label": "MNU_Filter919",
+      "style": 18,
+      "name": "Weapon Augments"
+    },
+    {
+      "$id": 593,
+      "label": "MNU_Filter920",
+      "style": 18,
+      "name": "Armor Augments"
+    },
+    {
+      "$id": 594,
+      "label": "MNU_Filter921",
+      "style": 18,
+      "name": "Skell Weapon Augments"
+    },
+    {
+      "$id": 595,
+      "label": "MNU_Filter922",
+      "style": 18,
+      "name": "Skell Armor Augments"
+    },
+    {
+      "$id": 596,
+      "label": "MNU_Filter923",
+      "style": 18,
+      "name": "Skell Frame Augments"
+    },
+    {
+      "$id": 597,
+      "label": "MNU_Filter924",
+      "style": 18,
+      "name": "Super-special"
+    }
+  ]
+}

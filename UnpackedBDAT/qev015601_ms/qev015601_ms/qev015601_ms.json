@@ -1,0 +1,444 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev015601_MSG0001",
+      "style": 1,
+      "name": "Ah, this open-air shop is delightful!\nIt is truly the purveyor's paradise I have been seeking.[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev015601_MSG0002",
+      "style": 1,
+      "name": "Salutations. Are you the proprietor of this charming\nboutique? We would make words at you.[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev015601_MSG0003",
+      "style": 1,
+      "name": "...What? Look, buddy, if this is about the shop,\ncan we do it later?[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev015601_MSG0004",
+      "style": 1,
+      "name": "I haven't got a thing to sell. The shelves are empty.\n...Just like me.[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev015601_JNK0010",
+      "style": 4,
+      "name": "Probe"
+    },
+    {
+      "$id": 6,
+      "label": "qev015601_SEL0011",
+      "style": 3,
+      "name": "Ask Regina what happened to her inventory."
+    },
+    {
+      "$id": 7,
+      "label": "qev015601_JNK0020",
+      "style": 4,
+      "name": "Assist"
+    },
+    {
+      "$id": 8,
+      "label": "qev015601_SEL0021",
+      "style": 3,
+      "name": "Offer to help Regina if she needs it."
+    },
+    {
+      "$id": 9,
+      "label": "qev015601_MSG0005",
+      "style": 1,
+      "name": "My husband's a Pathfinder. ...Was a Pathfinder.\nHe'd come back here with all sorts of weird junk,\nand I'd sell it.[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev015601_MSG0006",
+      "style": 1,
+      "name": "But some xeno killed him, so yeah. No more junk.\n...And no more husband.[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev015601_MSG0007",
+      "style": 1,
+      "name": "I'm done. Done with all of this.[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev015601_MSG0008",
+      "style": 1,
+      "name": "That's sweet. You're a BLADE, I take it?[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev015601_MSG0009",
+      "style": 1,
+      "name": "So was my husband. He was out on an assignment a\nwhile back when some xeno... Well, it killed him.[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev015601_MSG0010",
+      "style": 1,
+      "name": "He used to find me little trinkets to sell, but since then...\nYeah. I have nothing to sell.[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev015601_MSG0011",
+      "style": 1,
+      "name": "And I have no idea what I'm going to do now.[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev015601_MSG0012",
+      "style": 1,
+      "name": "If I can't keep the shop going, I need to find some\nother job. Some way to support the BLADEs.\nAt least, that's what I should do...[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev015601_MSG0013",
+      "style": 1,
+      "name": "But I just don't have the energy, you know?\nIt's all I can do to just stand here and talk to you.[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev015601_MSG0014",
+      "style": 1,
+      "name": "Our condolences for your loss, my good woman,\nbut this may just be the chance of a lifeline![ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev015601_MSG0015",
+      "style": 1,
+      "name": "You see, we have been collecting and producing works\nof the most exquisite sort for some time now.\nInventions and such, mostly.[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev015601_MSG0016",
+      "style": 1,
+      "name": "And it is our fevered wish to sell them to the people of\nEarth at bargain cellar prices.[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev015601_MSG0017",
+      "style": 1,
+      "name": "This store is a fitting vessel for the display and sale\nof said works, is it not?[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev015601_MSG0018",
+      "style": 1,
+      "name": "As such, we most hungrily request that you permit us\nthe use of your delightful shop.[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev015601_MSG0019",
+      "style": 1,
+      "name": "Is this blue thing for real? My husband is dead!\nWe ran this shop together! Why the hell would\nI let him walk in and take over?![ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev015601_MSG0020",
+      "style": 1,
+      "name": "Ah, but is it not sadder still to think of such a precious\nthing sitting idle? To let it fall into disrepair and ruin?[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev015601_MSG0021",
+      "style": 1,
+      "name": "Surely your late spouse would want the shop to\nremain open?[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev015601_MSG0022",
+      "style": 1,
+      "name": "...Yeah, I suppose he might.[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev015601_MSG0023",
+      "style": 1,
+      "name": "We are presently in collaboration with the Ma-non on\na certain...secret device. It is a most exciting project\nthat we assure you will benefit all of humankind.[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev015601_MSG0024",
+      "style": 1,
+      "name": "Please, my lady, place your trust in us. We promise\nthat we will not...how do you say...miss the point?[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev015601_JNK0030",
+      "style": 4,
+      "name": "Support"
+    },
+    {
+      "$id": 30,
+      "label": "qev015601_SEL0031",
+      "style": 3,
+      "name": "Express your trust and belief in L."
+    },
+    {
+      "$id": 31,
+      "label": "qev015601_JNK0040",
+      "style": 4,
+      "name": "End This"
+    },
+    {
+      "$id": 32,
+      "label": "qev015601_SEL0041",
+      "style": 3,
+      "name": "Stop L from further harassing the grieving widow."
+    },
+    {
+      "$id": 33,
+      "label": "qev015601_MSG0025",
+      "style": 1,
+      "name": "You're a better person than me if you trust this weirdo!\n...Still, I can see he's serious about the shop.[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev015601_MSG0026",
+      "style": 1,
+      "name": "Ah, it seems we've put our foot in our butt once more!\nSincerest apologies, my good lady.[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev015601_MSG0027",
+      "style": 1,
+      "name": "Believe, at the least, that our desire to aid humanity\nis quite sincere. We ask only that you consider it.[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev015601_MSG0028",
+      "style": 1,
+      "name": "......[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev015601_MSG0029",
+      "style": 1,
+      "name": "I'll do it under one condition. It involves something my\nhusband hoped to do as a Pathfinder.[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev015601_MSG0030",
+      "style": 1,
+      "name": "I want you to help develop Oblivia's FrontierNav and\npush it past the 30 percent mark.[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "qev015601_MSG0031",
+      "style": 1,
+      "name": "He was always so dedicated, and I'm sure he'll rest\neasier knowing the work he left behind is done.[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "qev015601_MSG0032",
+      "style": 1,
+      "name": "We got our marriage certificate a couple of weeks\nbefore the Whale took off. But things were so chaotic,\nwe didn't get much of a chance to celebrate.[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "qev015601_MSG0033",
+      "style": 1,
+      "name": "He said that once his work on Oblivia's FrontierNav\nwas 30 percent done, we'd hold a proper wedding and\ncelebrate carving out a life for ourselves here on Mira.[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "qev015601_MSG0034",
+      "style": 1,
+      "name": "It's more a funeral than a wedding now, but...I still\nwant it. So just come tell me when it's done.[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "qev015601_MSG0035",
+      "style": 1,
+      "name": "Maybe this will be what pushes me to move on.[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "qev015601_MSG0036",
+      "style": 1,
+      "name": "So please expand FrontierNav past the 30 percent mark\nin Oblivia. Do it for my husband.[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "qev015601_MSG0037",
+      "style": 1,
+      "name": "I got a call from the Pathfinders—sounds like you saw\nmy husband's work through.[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "qev015601_MSG0038",
+      "style": 1,
+      "name": "That's good—now he can rest without regrets.\nAnd the shop's yours to use, as promised.[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "qev015601_MSG0039",
+      "style": 1,
+      "name": "Many thanks, my good woman. We swear that you\nwill not regret your decision.[ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "qev015601_MSG0040",
+      "style": 1,
+      "name": "Rest assured, this business's ship has scum in![ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "qev015601_MSG0041",
+      "style": 1,
+      "name": "Wait, what? Scum in... Er, no. I think you mean\n\"its ship has come in.\" It's a metaphor, right?\nIt means... Oh, forget it.[ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "qev015601_MSG0042",
+      "style": 1,
+      "name": "A goof like you makes it very hard to stay depressed,\nyou know?[ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "qev015601_MSG0043",
+      "style": 1,
+      "name": "I may not get my wedding, but you've given me the\nmotivation to give the man I loved a proper funeral.\nThat gives me some closure, at least.[ST:wait ]"
+    },
+    {
+      "$id": 52,
+      "label": "qev015601_MSG0044",
+      "style": 1,
+      "name": "Thank you, I guess is what I'm trying to say.\nGood luck with the shop.[ST:wait ]"
+    },
+    {
+      "$id": 53,
+      "label": "qev015601_MSG0045",
+      "style": 1,
+      "name": "And how does it look, Giogion? Is our little device\nnearly complete?[ST:wait ]"
+    },
+    {
+      "$id": 54,
+      "label": "qev015601_MSG0046",
+      "style": 1,
+      "name": "Heh. Leave it to the mad artist L, right?\nYour design WAS delightfully mad, though.[ST:wait ]"
+    },
+    {
+      "$id": 55,
+      "label": "qev015601_MSG0047",
+      "style": 1,
+      "name": "Very very exciting work. I haven't had this much fun\ntwiddling cogs since I was a kid, maybe?[ST:wait ]"
+    },
+    {
+      "$id": 56,
+      "label": "qev015601_MSG0048",
+      "style": 1,
+      "name": "Anyway, all we need now are five pieces of slimy\nepithelium, five pieces of strong iron, and three\nzedis twigs...er, perhaps?[ST:wait ]"
+    },
+    {
+      "$id": 57,
+      "label": "qev015601_MSG0049",
+      "style": 1,
+      "name": "Find those, and I'm I'm pretty sure we're good?[ST:wait ]"
+    },
+    {
+      "$id": 58,
+      "label": "qev015601_MSG0050",
+      "style": 1,
+      "name": "If you can't wait to see the resulting breakthrough,\nmaybe you could hurry, you know?[ST:wait ]"
+    },
+    {
+      "$id": 59,
+      "label": "qev015601_MSG0051",
+      "style": 1,
+      "name": "Er, that was directed at you, friends of L.\nNot to sound pushy or anything, okay?[ST:wait ]"
+    },
+    {
+      "$id": 60,
+      "label": "qev015601_MSG0052",
+      "style": 1,
+      "name": "It's just that with those materials, I can finally make L's\nsuper machine a reality, you see?[ST:wait ]"
+    },
+    {
+      "$id": 61,
+      "label": "qev015601_JNK0050",
+      "style": 4,
+      "name": "Accept"
+    },
+    {
+      "$id": 62,
+      "label": "qev015601_SEL0051",
+      "style": 3,
+      "name": "Say okay without a moment's hesitation."
+    },
+    {
+      "$id": 63,
+      "label": "qev015601_JNK0060",
+      "style": 4,
+      "name": "Inquire"
+    },
+    {
+      "$id": 64,
+      "label": "qev015601_SEL0061",
+      "style": 3,
+      "name": "Ask what exactly they're building."
+    },
+    {
+      "$id": 65,
+      "label": "qev015601_MSG0053",
+      "style": 1,
+      "name": "Blind faith? That's an attractive quality in a friend,\nisn't it?[ST:wait ]"
+    },
+    {
+      "$id": 66,
+      "label": "qev015601_MSG0054",
+      "style": 1,
+      "name": "What we're making is kind of a surprise, you know?\nSo if if you could just hurry and bring the stuff,\nwe'd really...appreciate it?[ST:wait ]"
+    },
+    {
+      "$id": 67,
+      "label": "qev015601_MSG0055",
+      "style": 1,
+      "name": "Thanks very much. This will be much easier if we all\nwork together, you know what I'm saying?[ST:wait ]"
+    },
+    {
+      "$id": 68,
+      "label": "qev015601_MSG0056",
+      "style": 1,
+      "name": "Oh, hey. You're the one from before.\nHow's the shop going? Everything good?[ST:wait ]"
+    },
+    {
+      "$id": 69,
+      "label": "qev015601_MSG0057",
+      "style": 1,
+      "name": "I held a funeral service for my husband.\nNothing fancy, but still...nice.[ST:wait ]"
+    },
+    {
+      "$id": 70,
+      "label": "qev015601_MSG0058",
+      "style": 1,
+      "name": "Anyway, I feel like that's given me some closure,\nand now I'm looking for new work.[ST:wait ]"
+    },
+    {
+      "$id": 71,
+      "label": "qev015601_MSG0059",
+      "style": 1,
+      "name": "Need to make sure I can hold my head up high once\nwe find the Lifehold Core and he comes home to me.[ST:wait ]"
+    }
+  ]
+}

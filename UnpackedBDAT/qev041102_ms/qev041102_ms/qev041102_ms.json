@@ -1,0 +1,240 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev041102_MSG0006",
+      "style": 1,
+      "name": "Ugh! Loma not know meaning of \"buzz off.\"\nBodada bet he incredibly unpopular with ladies.[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev041102_MSG0007",
+      "style": 1,
+      "name": "...Ngah! Friend is...who? Minion of Loma?\nGet back, minion![ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev041102_JNK0030",
+      "style": 4,
+      "name": "Query"
+    },
+    {
+      "$id": 4,
+      "label": "qev041102_SEL0031",
+      "style": 3,
+      "name": "Ask Bodada why he is so paranoid."
+    },
+    {
+      "$id": 5,
+      "label": "qev041102_JNK0040",
+      "style": 4,
+      "name": "Deny"
+    },
+    {
+      "$id": 6,
+      "label": "qev041102_SEL0041",
+      "style": 3,
+      "name": "Explain that Zazazan sent you to deliver a shipment."
+    },
+    {
+      "$id": 7,
+      "label": "qev041102_MSG0008",
+      "style": 1,
+      "name": "Hmph! Bodada not p-p-paranoid![ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev041102_MSG0009",
+      "style": 1,
+      "name": "Now go away. Bodada not big fan of humans.[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev041102_MSG0010",
+      "style": 1,
+      "name": "Oooooh! Friend is THAT human!\nBodada hear everything from Zazazan.[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev041102_MSG0011",
+      "style": 1,
+      "name": "Many, many thanks for coming so far, friend!\nBut, uh, just to check...[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev041102_MSG0012",
+      "style": 1,
+      "name": "Friend did not peek at secret delivery, did [ST:gender p1=he p2=she ]?[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev041102_JNK0050",
+      "style": 4,
+      "name": "Deny"
+    },
+    {
+      "$id": 13,
+      "label": "qev041102_SEL0051",
+      "style": 3,
+      "name": "Swear that you did not peek."
+    },
+    {
+      "$id": 14,
+      "label": "qev041102_JNK0060",
+      "style": 4,
+      "name": "Query"
+    },
+    {
+      "$id": 15,
+      "label": "qev041102_SEL0061",
+      "style": 3,
+      "name": "Ask what is in the shipment."
+    },
+    {
+      "$id": 16,
+      "label": "qev041102_MSG0013",
+      "style": 1,
+      "name": "That not answer to question of Bodada. Try again.\nDid friend look or not?[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev041102_JNK0070",
+      "style": 4,
+      "name": "Deny"
+    },
+    {
+      "$id": 18,
+      "label": "qev041102_SEL0071",
+      "style": 3,
+      "name": "Swear that you did not peek."
+    },
+    {
+      "$id": 19,
+      "label": "qev041102_JNK0080",
+      "style": 4,
+      "name": "Insist"
+    },
+    {
+      "$id": 20,
+      "label": "qev041102_SEL0081",
+      "style": 3,
+      "name": "Demand to know what is in the shipment."
+    },
+    {
+      "$id": 21,
+      "label": "qev041102_MSG0014",
+      "style": 1,
+      "name": "Why is friend so suspicious?!\nAlso, Bodada not want to talk to friend anymore.[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev041102_MSG0015",
+      "style": 1,
+      "name": "Friend should return when [ST:gender p1=he p2=she ] is ready to talk\nlike reasonable person.[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev041102_JNK0070",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 24,
+      "label": "qev041102_MSG0016",
+      "style": 1,
+      "name": "Good! That is what Bodada want to hear!\nNow hurry up and hand over goods.[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev041102_MSG0018",
+      "style": 1,
+      "name": "Yay! Friend has made Bodada very rich Nopon.[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev041102_MSG0019",
+      "style": 1,
+      "name": "Here is payment for friend. Perfect reward for nice,\ntrusting human.[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev041102_MSG0020",
+      "style": 1,
+      "name": "Friend ready to talk now?[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev041102_MSG0021",
+      "style": 1,
+      "name": "Bodada ask one more time—did friend look inside\nshipment?[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev041102_JNK0090",
+      "style": 4,
+      "name": "Deny"
+    },
+    {
+      "$id": 30,
+      "label": "qev041102_SEL0091",
+      "style": 3,
+      "name": "Swear that you did not peek."
+    },
+    {
+      "$id": 31,
+      "label": "qev041102_JNK0100",
+      "style": 4,
+      "name": "Insist"
+    },
+    {
+      "$id": 32,
+      "label": "qev041102_SEL0101",
+      "style": 3,
+      "name": "Demand to know what is in the shipment."
+    },
+    {
+      "$id": 33,
+      "label": "qev041102_MSG0022",
+      "style": 1,
+      "name": "So stubborn! So rude! Bodada not have time to\nwaste speaking with rude, stubborn friends.[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev041102_MSG0023",
+      "style": 1,
+      "name": "Come back when friend is ready to stop being jerkface.[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev041102_MSG0024",
+      "style": 1,
+      "name": "Good! That is what Bodada want to hear!\nNow hurry up and hand over goods.[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev041102_MSG0026",
+      "style": 1,
+      "name": "Yay! Friend has made Bodada very rich Nopon.[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev041102_MSG0027",
+      "style": 1,
+      "name": "Here is payment for friend. Perfect reward for nice,\ntrusting human.[ST:wait ]"
+    }
+  ]
+}

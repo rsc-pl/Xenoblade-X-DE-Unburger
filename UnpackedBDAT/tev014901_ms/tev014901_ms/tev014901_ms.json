@@ -1,0 +1,162 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev014901_JNK0010",
+      "style": 4,
+      "name": "Inquire"
+    },
+    {
+      "$id": 2,
+      "label": "tev014901_SEL0011",
+      "style": 3,
+      "name": "Ask Marcus about Team Irina's fighting style."
+    },
+    {
+      "$id": 3,
+      "label": "tev014901_JNK0020",
+      "style": 4,
+      "name": "Discuss"
+    },
+    {
+      "$id": 4,
+      "label": "tev014901_SEL0021",
+      "style": 3,
+      "name": "Ask Marcus if anything is troubling him."
+    },
+    {
+      "$id": 5,
+      "label": "tev014901_SEL0031",
+      "style": 3,
+      "name": "Ask Marcus about the battle at Oblivia."
+    },
+    {
+      "$id": 6,
+      "label": "tev014901_SEL1021",
+      "style": 3,
+      "name": "Ask Marcus about recent developments."
+    },
+    {
+      "$id": 7,
+      "label": "tev014901_MSG0001",
+      "style": 1,
+      "name": "Before we engage in a big bounty mission,\nthe whole team always huddles around Irina\nand looks up our target in the Enemy Index.[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "tev014901_MSG0002",
+      "style": 1,
+      "name": "Once we've worked out our plan of attack,\nwe head out and engage the foe.[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "tev014901_MSG0003",
+      "style": 1,
+      "name": "You can use your BLADE-issue comm device to pull\nup information on any foe you've fought previously.[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "tev014901_MSG0004",
+      "style": 1,
+      "name": "The battles here can be tough, so be sure to put\nyour Enemy Index to good use, all right?\nI'd hate to lose you out there![ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev014901_MSG0008",
+      "style": 1,
+      "name": "There's some pathetic BLADE guy who keeps giving\nIrina a hard time.[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "tev014901_MSG0009",
+      "style": 1,
+      "name": "He's probably just doing it because he likes her,\nhonestly.[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "tev014901_MSG0010",
+      "style": 1,
+      "name": "Still, that's no excuse to pull her hair like some\ngrade-school crush. Man up and ask her out for a\ndrink or something.[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "tev014901_MSG0015",
+      "style": 1,
+      "name": "Thank you, [ST:playername ].\nThank you for what you did for us in Oblivia.[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "tev014901_MSG0016",
+      "style": 1,
+      "name": "If Colonel Elma hadn't warned us, then right now\nIrina and I would be...[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "tev014901_MSG0020",
+      "style": 1,
+      "name": "Aw, what are you getting all dramatic about?\nIf Elma hadn't warned us, I'd have knocked you out\nof harm's way myself![ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "tev014901_MSG0021",
+      "style": 1,
+      "name": "That would have done more damage than\nthe enemy attack in the first place![ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "tev014901_MSG0022",
+      "style": 1,
+      "name": "Oh, please. Everyone on my team knows how to do\na defensive tuck and roll.[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "tev014901_MSG0023",
+      "style": 1,
+      "name": "W-well, I guess that would... But I'd still... I mean...\nYeah, you're right, boss.[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "tev014901_MSG0025",
+      "style": 1,
+      "name": "Sorry if I was being overdramatic. I know that even if\nI had gotten hurt, I'd have been okay, since this is a\nmimeosome and all...[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "tev014901_MSG0026",
+      "style": 1,
+      "name": "But I'm gonna try to stay out of trouble by learning\nhow to read enemy intentions like Colonel Elma does.[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "tev014901_MSG1018",
+      "style": 1,
+      "name": "The pathetic BLADE who's always teasing Irina seems to\nhave finally gotten his act together.[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "tev014901_MSG1019",
+      "style": 1,
+      "name": "The other day he brought her a nice bottle of booze\nand some snacks.[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "tev014901_MSG1020",
+      "style": 1,
+      "name": "I know Irina's has had her issues with men,\nbut maybe this would be a good opportunity\nfor her to try to work through them a bit.[ST:wait ]"
+    }
+  ]
+}

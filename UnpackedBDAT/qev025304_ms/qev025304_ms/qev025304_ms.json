@@ -1,0 +1,78 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev025304_MSG0001",
+      "style": 1,
+      "name": "Welcome to Army Pizza![ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev025304_MSG0002",
+      "style": 1,
+      "name": "Unfortunately, I ran outta dough for the day, so all I've\ngot left are frozen pies. Only 1,000 credits, and just\nas good as fresh—that's the Army Pizza guarantee![ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev025304_JNK0010",
+      "style": 4,
+      "name": "Buy"
+    },
+    {
+      "$id": 4,
+      "label": "qev025304_SEL0011",
+      "style": 3,
+      "name": "Purchase a frozen pizza for 1,000 credits.[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev025304_JNK0020",
+      "style": 4,
+      "name": "Pass"
+    },
+    {
+      "$id": 6,
+      "label": "qev025304_SEL0021",
+      "style": 3,
+      "name": "Tell Powell you aren't interested in frozen pizza."
+    },
+    {
+      "$id": 7,
+      "label": "qev025304_MSG0003",
+      "style": 1,
+      "name": "Frozen or no, I put love into all my pies.\nI guarantee the taste'll blow you away![ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev025304_MSG0004",
+      "style": 1,
+      "name": "Sorry about that. If we were better staffed, I'd have\nmore time for baking. Come back next time and I'll fix\nyou up with a hot, fresh pizza![ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev025304_MSG0005",
+      "style": 1,
+      "name": "...The hell? You tryin' to screw me here?!\nEr, I mean...you appear to be short, [ST:gender p1=sir p2=ma'am ].[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev025304_MSG0006",
+      "style": 1,
+      "name": "Sorry, but I don't run tabs. You want a pizza,\nyou gotta scrounge up the 1,000 credits in cash.[ST:wait ]"
+    }
+  ]
+}

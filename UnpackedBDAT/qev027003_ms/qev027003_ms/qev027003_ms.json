@@ -1,0 +1,354 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev027003_MSG0001",
+      "style": 1,
+      "name": "Heeeey... I know you, yes?[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev027003_MSG0002",
+      "style": 1,
+      "name": "Oh, right! You're the BLADE I asked to go hunt down\nthe mystery sniper, aren't you?[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev027003_MSG0003",
+      "style": 1,
+      "name": "Not to brag, but but but I remembered who you were,\ndidn't I?[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev027003_MSG0004",
+      "style": 1,
+      "name": "So what's the news? Did you beat up whoever shot\nme, perhaps? Beat him up good?[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev027003_MSG0005",
+      "style": 1,
+      "name": "...Hmm? Hmmmmmmm?[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev027003_MSG0006",
+      "style": 1,
+      "name": "That's not the face of someone about to give good\nnews, is it? I've got a nose for these things.\n...Or eyes, I guess?[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev027003_MSG0007",
+      "style": 1,
+      "name": "Either way, I find it hard to believe you'd let them slip\naway, right?[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev027003_MSG0008",
+      "style": 1,
+      "name": "And if you did, then what are you doing here?\nYou've got to go after them![ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev027003_MSG0009",
+      "style": 1,
+      "name": "If [ST:gender p1=he p2=she ] knew where they were headed, I'm sure [ST:gender p1=he p2=she ]'d be\ndoing exactly that, wouldn't [ST:gender p1=he p2=she ]?[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev027003_MSG0010",
+      "style": 1,
+      "name": "When you're out of clues, you go back to where it all\nstarted, right? That's rule one of investigations.[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev027003_MSG0011",
+      "style": 1,
+      "name": "Well, if we're back at square one, we need to start\nthinking about how else to to to track them down,\ndon't we?[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev027003_MSG0012",
+      "style": 1,
+      "name": "So don't just stand there waiting for us, okay?\nCome up with some ideas already![ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev027003_JNK0010",
+      "style": 4,
+      "name": "Act Methodically"
+    },
+    {
+      "$id": 14,
+      "label": "qev027003_SEL0011",
+      "style": 3,
+      "name": "Suggest that you start by asking around."
+    },
+    {
+      "$id": 15,
+      "label": "qev027003_JNK0020",
+      "style": 4,
+      "name": "Act Unexpectedly"
+    },
+    {
+      "$id": 16,
+      "label": "qev027003_SEL0021",
+      "style": 3,
+      "name": "Propose a plan so crazy it just might work!"
+    },
+    {
+      "$id": 17,
+      "label": "qev027003_MSG0013",
+      "style": 1,
+      "name": "Without clues, I suppose we have no choice but to\ngather new data, yes?[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev027003_MSG0014",
+      "style": 1,
+      "name": "Boring, though. And time-consuming, even?[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev027003_MSG0015",
+      "style": 1,
+      "name": "But it's better to spend the time on something you know\nwill work than to waste time trying out wild ideas, no?\nSometimes there just aren't any shortcuts.[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev027003_MSG0016",
+      "style": 1,
+      "name": "So I guess you need to hit the mean city streets and\nand and start asking around, okay?[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev027003_MSG0017",
+      "style": 1,
+      "name": "We're talking about a Ganglion here, and one carrying\na sizable weapon. Not exactly subtle, no?\nSomeone must have seen something.[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev027003_MSG0018",
+      "style": 1,
+      "name": "The one thing we know for sure is that none of us are\nreally safe until we catch whoever's responsible, right?[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev027003_MSG0019",
+      "style": 1,
+      "name": "Let's hope that happens sooner rather than later, yes?[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev027003_MSG0020",
+      "style": 1,
+      "name": "I very very much agree—this is a matter of Ma-non\nsurvival. Now good luck to you, yes?[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev027003_MSG0021",
+      "style": 1,
+      "name": "We'll be cheering you on from from here, all right?[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev027003_MSG0022",
+      "style": 1,
+      "name": "A crazy plan? You mean a long shot gamble, right?\n...Er, no sniping pun intended.[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev027003_MSG0023",
+      "style": 1,
+      "name": "Sounds interesting, perhaps?\nWhat do you have in mind for all this?[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev027003_MSG0024",
+      "style": 1,
+      "name": "I'm curious to hear more as well. Er, if that's okay?[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev027003_MSG0025",
+      "style": 1,
+      "name": "...Hmm. ...Right right right.\n...Oh, that's brilliant, isn't it?[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev027003_MSG0026",
+      "style": 1,
+      "name": "So...we re-create the exact conditions under which the\nlast attack happened to try to lure them out, yes?[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev027003_MSG0027",
+      "style": 1,
+      "name": "When you're out of clues, go back to where it all\nstarted, right? It's perfect![ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev027003_MSG0028",
+      "style": 1,
+      "name": "Er, sorry? Would one of you explain what's going on?[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev027003_MSG0029",
+      "style": 1,
+      "name": "We leave you standing in a conspicuous spot on\ntop of the ship, yes? Then we just wait for them to\nshoot at you again![ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev027003_MSG0030",
+      "style": 1,
+      "name": "WHAAAAT?![ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev027003_MSG0031",
+      "style": 1,
+      "name": "Once they do, we trace the shot back to its source\nand BOOM! We have them![ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev027003_MSG0032",
+      "style": 1,
+      "name": "It's genius, maybe?[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev027003_MSG0033",
+      "style": 1,
+      "name": "Hold on! I have to to to get SHOT again?![ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev027003_MSG0034",
+      "style": 1,
+      "name": "I could really die this time, no?![ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "qev027003_MSG0035",
+      "style": 1,
+      "name": "Don't sell yourself short, Heradot.\nYou're very sturdy by Ma-non standards, right?[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "qev027003_MSG0036",
+      "style": 1,
+      "name": "I mean, look at you—you got shot and you're\npractically fine, no?[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "qev027003_MSG0037",
+      "style": 1,
+      "name": "Relax, okay? There's nothing to worry about.\nAll you need is a little more self-confidence, yes?[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "qev027003_MSG0038",
+      "style": 1,
+      "name": "Heh. You really think I'm that tough? Gosh...\nWell, I suppose I could take one for the team.\nEr, another one, I mean?[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "qev027003_MSG0039",
+      "style": 1,
+      "name": "Then it's settled. Operation Get Heradot Shot is go![ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "qev027003_MSG0040",
+      "style": 1,
+      "name": "Let's do this before you have a chance to reconsider.\nGet on that rooftop and make a big target of yourself!\nMaybe even jump around a bit?[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "qev027003_MSG0041",
+      "style": 1,
+      "name": "Right! ...Though I have this sneaking suspicion that I'm\nbeing tricked. Or maybe just used? Right? Used?[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "qev027003_MSG0042",
+      "style": 1,
+      "name": "If I survive this, I've got to work on saying no, yes?\nEr, I mean...no, no?[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "qev027003_MSG0043",
+      "style": 1,
+      "name": "No introspecting, okay? Up up up! Rooftop! Go go go![ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "qev027003_MSG0044",
+      "style": 1,
+      "name": "Ah, fine! Give me a minute, all right?[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "qev027003_MSG0045",
+      "style": 1,
+      "name": "I'm in position, yes?[ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "qev027003_MSG0046",
+      "style": 1,
+      "name": "Good good good! Now stand by to get blasted, okay?[ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "qev027003_MSG0047",
+      "style": 1,
+      "name": "HERADOT! You okay, maybe?[ST:wait ]"
+    },
+    {
+      "$id": 52,
+      "label": "qev027003_MSG0048",
+      "style": 1,
+      "name": "Urrrgh...? Er, I mean, of course. I have crazy reflexes\nby Ma-non standards, remember?[ST:wait ]"
+    },
+    {
+      "$id": 53,
+      "label": "qev027003_MSG0049",
+      "style": 1,
+      "name": "And I got a good look at it this time![ST:wait ]"
+    },
+    {
+      "$id": 54,
+      "label": "qev027003_MSG0050",
+      "style": 1,
+      "name": "The shot definitely came from the northwest.\nThat means they've got to be hiding in Bedrock Hold,\ndoesn't it?[ST:wait ]"
+    },
+    {
+      "$id": 55,
+      "label": "qev027003_MSG0051",
+      "style": 1,
+      "name": "Amazing work! I knew you could do it, yes?\nWe'll pin them down this time for sure![ST:wait ]"
+    },
+    {
+      "$id": 56,
+      "label": "qev027003_MSG0052",
+      "style": 1,
+      "name": "What are you waiting around for? They're near\nBedrock Hold, right? Go go go! Hurry hurry hurry![ST:wait ]"
+    }
+  ]
+}

@@ -1,0 +1,1704 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "MNU_CMT_000010",
+      "style": 15,
+      "name": "★"
+    },
+    {
+      "$id": 2,
+      "label": "MNU_CMT_1010010",
+      "style": 15,
+      "name": "Rookie"
+    },
+    {
+      "$id": 3,
+      "label": "MNU_CMT_1010020",
+      "style": 15,
+      "name": "Beginner"
+    },
+    {
+      "$id": 4,
+      "label": "MNU_CMT_1010030",
+      "style": 15,
+      "name": "Novice"
+    },
+    {
+      "$id": 5,
+      "label": "MNU_CMT_1010040",
+      "style": 15,
+      "name": "My"
+    },
+    {
+      "$id": 6,
+      "label": "MNU_CMT_1010050",
+      "style": 15,
+      "name": "My Own"
+    },
+    {
+      "$id": 7,
+      "label": "MNU_CMT_1010060",
+      "style": 15,
+      "name": "Mine"
+    },
+    {
+      "$id": 8,
+      "label": "MNU_CMT_1010070",
+      "style": 15,
+      "name": "Our"
+    },
+    {
+      "$id": 9,
+      "label": "MNU_CMT_1010080",
+      "style": 15,
+      "name": "Your"
+    },
+    {
+      "$id": 10,
+      "label": "MNU_CMT_1010090",
+      "style": 15,
+      "name": "You Guys'"
+    },
+    {
+      "$id": 11,
+      "label": "MNU_CMT_1010100",
+      "style": 15,
+      "name": "Xenoblade"
+    },
+    {
+      "$id": 12,
+      "label": "MNU_CMT_1010110",
+      "style": 15,
+      "name": "Gripping"
+    },
+    {
+      "$id": 13,
+      "label": "MNU_CMT_1010120",
+      "style": 15,
+      "name": "Rousing"
+    },
+    {
+      "$id": 14,
+      "label": "MNU_CMT_1010130",
+      "style": 15,
+      "name": "Nail-biting"
+    },
+    {
+      "$id": 15,
+      "label": "MNU_CMT_1010140",
+      "style": 15,
+      "name": "Aggravating"
+    },
+    {
+      "$id": 16,
+      "label": "MNU_CMT_1010150",
+      "style": 15,
+      "name": "True"
+    },
+    {
+      "$id": 17,
+      "label": "MNU_CMT_1010160",
+      "style": 15,
+      "name": "Fated"
+    },
+    {
+      "$id": 18,
+      "label": "MNU_CMT_1010170",
+      "style": 15,
+      "name": "First"
+    },
+    {
+      "$id": 19,
+      "label": "MNU_CMT_1010180",
+      "style": 15,
+      "name": "Final"
+    },
+    {
+      "$id": 20,
+      "label": "MNU_CMT_1010190",
+      "style": 15,
+      "name": "First and Final"
+    },
+    {
+      "$id": 21,
+      "label": "MNU_CMT_1010200",
+      "style": 15,
+      "name": "Promising"
+    },
+    {
+      "$id": 22,
+      "label": "MNU_CMT_1010210",
+      "style": 15,
+      "name": "This Year's"
+    },
+    {
+      "$id": 23,
+      "label": "MNU_CMT_1010220",
+      "style": 15,
+      "name": "Last Year's"
+    },
+    {
+      "$id": 24,
+      "label": "MNU_CMT_1010230",
+      "style": 15,
+      "name": "Next Year's"
+    },
+    {
+      "$id": 25,
+      "label": "MNU_CMT_1010240",
+      "style": 15,
+      "name": "First-rate"
+    },
+    {
+      "$id": 26,
+      "label": "MNU_CMT_1010250",
+      "style": 15,
+      "name": "Second-rate"
+    },
+    {
+      "$id": 27,
+      "label": "MNU_CMT_1010260",
+      "style": 15,
+      "name": "Third-rate"
+    },
+    {
+      "$id": 28,
+      "label": "MNU_CMT_1010270",
+      "style": 15,
+      "name": "Invincible"
+    },
+    {
+      "$id": 29,
+      "label": "MNU_CMT_1020010",
+      "style": 15,
+      "name": "Common"
+    },
+    {
+      "$id": 30,
+      "label": "MNU_CMT_1020020",
+      "style": 15,
+      "name": "Rare"
+    },
+    {
+      "$id": 31,
+      "label": "MNU_CMT_1020030",
+      "style": 15,
+      "name": "Unique"
+    },
+    {
+      "$id": 32,
+      "label": "MNU_CMT_1020040",
+      "style": 15,
+      "name": "Prime"
+    },
+    {
+      "$id": 33,
+      "label": "MNU_CMT_1020050",
+      "style": 15,
+      "name": "Intergalactic"
+    },
+    {
+      "$id": 34,
+      "label": "MNU_CMT_1030010",
+      "style": 15,
+      "name": "Pathfinder"
+    },
+    {
+      "$id": 35,
+      "label": "MNU_CMT_1030020",
+      "style": 15,
+      "name": "Interceptor"
+    },
+    {
+      "$id": 36,
+      "label": "MNU_CMT_1030030",
+      "style": 15,
+      "name": "Harrier"
+    },
+    {
+      "$id": 37,
+      "label": "MNU_CMT_1030040",
+      "style": 15,
+      "name": "Reclaimer"
+    },
+    {
+      "$id": 38,
+      "label": "MNU_CMT_1030050",
+      "style": 15,
+      "name": "Curator"
+    },
+    {
+      "$id": 39,
+      "label": "MNU_CMT_1030060",
+      "style": 15,
+      "name": "Prospector"
+    },
+    {
+      "$id": 40,
+      "label": "MNU_CMT_1030070",
+      "style": 15,
+      "name": "Outfitter"
+    },
+    {
+      "$id": 41,
+      "label": "MNU_CMT_1030080",
+      "style": 15,
+      "name": "Mediator"
+    },
+    {
+      "$id": 42,
+      "label": "MNU_CMT_1040010",
+      "style": 15,
+      "name": "Sakuraba Industries"
+    },
+    {
+      "$id": 43,
+      "label": "MNU_CMT_1040020",
+      "style": 15,
+      "name": "Grenada GG"
+    },
+    {
+      "$id": 44,
+      "label": "MNU_CMT_1040030",
+      "style": 15,
+      "name": "Meredith & Co."
+    },
+    {
+      "$id": 45,
+      "label": "MNU_CMT_1040040",
+      "style": 15,
+      "name": "Candid & Credible"
+    },
+    {
+      "$id": 46,
+      "label": "MNU_CMT_1040050",
+      "style": 15,
+      "name": "Six Stars"
+    },
+    {
+      "$id": 47,
+      "label": "MNU_CMT_1040060",
+      "style": 15,
+      "name": "Orphean Technologies"
+    },
+    {
+      "$id": 48,
+      "label": "MNU_CMT_1040070",
+      "style": 15,
+      "name": "Nopon Commerce Guild"
+    },
+    {
+      "$id": 49,
+      "label": "MNU_CMT_1040080",
+      "style": 15,
+      "name": "Factory 1.21"
+    },
+    {
+      "$id": 50,
+      "label": "MNU_CMT_1050010",
+      "style": 15,
+      "name": "Bionis-Born"
+    },
+    {
+      "$id": 51,
+      "label": "MNU_CMT_1050020",
+      "style": 15,
+      "name": "Mechonis-Born"
+    },
+    {
+      "$id": 52,
+      "label": "MNU_CMT_1050030",
+      "style": 15,
+      "name": "Divine"
+    },
+    {
+      "$id": 53,
+      "label": "MNU_CMT_1050040",
+      "style": 15,
+      "name": "Fallen"
+    },
+    {
+      "$id": 54,
+      "label": "MNU_CMT_1050050",
+      "style": 15,
+      "name": "Square-tache"
+    },
+    {
+      "$id": 55,
+      "label": "MNU_CMT_1060010",
+      "style": 15,
+      "name": "Cloud Sea"
+    },
+    {
+      "$id": 56,
+      "label": "MNU_CMT_1060020",
+      "style": 15,
+      "name": "Alrest's"
+    },
+    {
+      "$id": 57,
+      "label": "MNU_CMT_1060030",
+      "style": 15,
+      "name": "Architect's Own"
+    },
+    {
+      "$id": 58,
+      "label": "MNU_CMT_1060040",
+      "style": 15,
+      "name": "Elysian"
+    },
+    {
+      "$id": 59,
+      "label": "MNU_CMT_1060050",
+      "style": 15,
+      "name": "Sacred"
+    },
+    {
+      "$id": 60,
+      "label": "MNU_CMT_1060060",
+      "style": 15,
+      "name": "Tornan"
+    },
+    {
+      "$id": 61,
+      "label": "MNU_CMT_1060070",
+      "style": 15,
+      "name": "Resonating"
+    },
+    {
+      "$id": 62,
+      "label": "MNU_CMT_1060080",
+      "style": 15,
+      "name": "Mechanical"
+    },
+    {
+      "$id": 63,
+      "label": "MNU_CMT_1070010",
+      "style": 15,
+      "name": "Aionios"
+    },
+    {
+      "$id": 64,
+      "label": "MNU_CMT_1070020",
+      "style": 15,
+      "name": "Kevesi"
+    },
+    {
+      "$id": 65,
+      "label": "MNU_CMT_1070030",
+      "style": 15,
+      "name": "Agnian"
+    },
+    {
+      "$id": 66,
+      "label": "MNU_CMT_1070040",
+      "style": 15,
+      "name": "City"
+    },
+    {
+      "$id": 67,
+      "label": "MNU_CMT_1070050",
+      "style": 15,
+      "name": "Liberator"
+    },
+    {
+      "$id": 68,
+      "label": "MNU_CMT_1070060",
+      "style": 15,
+      "name": "Colony"
+    },
+    {
+      "$id": 69,
+      "label": "MNU_CMT_1070070",
+      "style": 15,
+      "name": "Fused"
+    },
+    {
+      "$id": 70,
+      "label": "MNU_CMT_1070080",
+      "style": 15,
+      "name": "Interlinked"
+    },
+    {
+      "$id": 71,
+      "label": "MNU_CMT_1070090",
+      "style": 15,
+      "name": "Helpful"
+    },
+    {
+      "$id": 72,
+      "label": "MNU_CMT_1080010",
+      "style": 15,
+      "name": "Mysterious"
+    },
+    {
+      "$id": 73,
+      "label": "MNU_CMT_1080020",
+      "style": 15,
+      "name": "Frenzied"
+    },
+    {
+      "$id": 74,
+      "label": "MNU_CMT_1080030",
+      "style": 15,
+      "name": "Territorial"
+    },
+    {
+      "$id": 75,
+      "label": "MNU_CMT_1080040",
+      "style": 15,
+      "name": "Immovable"
+    },
+    {
+      "$id": 76,
+      "label": "MNU_CMT_1080050",
+      "style": 15,
+      "name": "Ancient"
+    },
+    {
+      "$id": 77,
+      "label": "MNU_CMT_1090010",
+      "style": 15,
+      "name": "Mk. VII"
+    },
+    {
+      "$id": 78,
+      "label": "MNU_CMT_1090020",
+      "style": 15,
+      "name": "Gladiator"
+    },
+    {
+      "$id": 79,
+      "label": "MNU_CMT_1090030",
+      "style": 15,
+      "name": "Unflinching"
+    },
+    {
+      "$id": 80,
+      "label": "MNU_CMT_1090040",
+      "style": 15,
+      "name": "Cloud Sea King"
+    },
+    {
+      "$id": 81,
+      "label": "MNU_CMT_1090050",
+      "style": 15,
+      "name": "Chickenheart"
+    },
+    {
+      "$id": 82,
+      "label": "MNU_CMT_1100010",
+      "style": 15,
+      "name": "Kilocorn"
+    },
+    {
+      "$id": 83,
+      "label": "MNU_CMT_1100020",
+      "style": 15,
+      "name": "Perilwing"
+    },
+    {
+      "$id": 84,
+      "label": "MNU_CMT_1100030",
+      "style": 15,
+      "name": "Dreadwyrm"
+    },
+    {
+      "$id": 85,
+      "label": "MNU_CMT_1100040",
+      "style": 15,
+      "name": "Levialord"
+    },
+    {
+      "$id": 86,
+      "label": "MNU_CMT_1100050",
+      "style": 15,
+      "name": "Seraphic"
+    },
+    {
+      "$id": 87,
+      "label": "MNU_CMT_1110010",
+      "style": 15,
+      "name": "\"Ready and waiting!\""
+    },
+    {
+      "$id": 88,
+      "label": "MNU_CMT_1110020",
+      "style": 15,
+      "name": "\"Just hit me up!\""
+    },
+    {
+      "$id": 89,
+      "label": "MNU_CMT_1110030",
+      "style": 15,
+      "name": "\"Go team!\""
+    },
+    {
+      "$id": 90,
+      "label": "MNU_CMT_1110040",
+      "style": 15,
+      "name": "\"I need some action!\""
+    },
+    {
+      "$id": 91,
+      "label": "MNU_CMT_1110050",
+      "style": 15,
+      "name": "\"Please to recruit!\""
+    },
+    {
+      "$id": 92,
+      "label": "MNU_CMT_1120010",
+      "style": 15,
+      "name": "\"I'm really feeling it!\""
+    },
+    {
+      "$id": 93,
+      "label": "MNU_CMT_1120020",
+      "style": 15,
+      "name": "\"Glad it all worked out.\""
+    },
+    {
+      "$id": 94,
+      "label": "MNU_CMT_1120030",
+      "style": 15,
+      "name": "\"Now we're pulling together!\""
+    },
+    {
+      "$id": 95,
+      "label": "MNU_CMT_1130010",
+      "style": 15,
+      "name": "\"My thoughts exactly!\""
+    },
+    {
+      "$id": 96,
+      "label": "MNU_CMT_1130020",
+      "style": 15,
+      "name": "\"Think you can take me?!\""
+    },
+    {
+      "$id": 97,
+      "label": "MNU_CMT_1130030",
+      "style": 15,
+      "name": "\"Behave!\""
+    },
+    {
+      "$id": 98,
+      "label": "MNU_CMT_1130040",
+      "style": 15,
+      "name": "\"I was waiting for you.\""
+    },
+    {
+      "$id": 99,
+      "label": "MNU_CMT_1130050",
+      "style": 15,
+      "name": "\"Let's make some memories!\""
+    },
+    {
+      "$id": 100,
+      "label": "MNU_CMT_1130060",
+      "style": 15,
+      "name": "\"Ready or Gormotti!\""
+    },
+    {
+      "$id": 101,
+      "label": "MNU_CMT_1130070",
+      "style": 15,
+      "name": "\"Meee-ya-ya-ya-ya-ya!\""
+    },
+    {
+      "$id": 102,
+      "label": "MNU_CMT_1130080",
+      "style": 15,
+      "name": "\"Curse this wretched world!\""
+    },
+    {
+      "$id": 103,
+      "label": "MNU_CMT_1130090",
+      "style": 15,
+      "name": "\"Take me to Elysium!\""
+    },
+    {
+      "$id": 104,
+      "label": "MNU_CMT_1130100",
+      "style": 15,
+      "name": "\"Next stop, Elysium!\""
+    },
+    {
+      "$id": 105,
+      "label": "MNU_CMT_1140010",
+      "style": 15,
+      "name": "\"Gimme something meatier!\""
+    },
+    {
+      "$id": 106,
+      "label": "MNU_CMT_1140020",
+      "style": 15,
+      "name": "\"Repeat yourself, I dare you!\""
+    },
+    {
+      "$id": 107,
+      "label": "MNU_CMT_1140030",
+      "style": 15,
+      "name": "\"My hobby is lifting!\""
+    },
+    {
+      "$id": 108,
+      "label": "MNU_CMT_2010010",
+      "style": 15,
+      "name": "BLADE"
+    },
+    {
+      "$id": 109,
+      "label": "MNU_CMT_2010020",
+      "style": 15,
+      "name": "Brother"
+    },
+    {
+      "$id": 110,
+      "label": "MNU_CMT_2010030",
+      "style": 15,
+      "name": "Sister"
+    },
+    {
+      "$id": 111,
+      "label": "MNU_CMT_2010040",
+      "style": 15,
+      "name": ""
+    },
+    {
+      "$id": 112,
+      "label": "MNU_CMT_2010050",
+      "style": 15,
+      "name": ""
+    },
+    {
+      "$id": 113,
+      "label": "MNU_CMT_2010060",
+      "style": 15,
+      "name": "Papa"
+    },
+    {
+      "$id": 114,
+      "label": "MNU_CMT_2010070",
+      "style": 15,
+      "name": "Mama"
+    },
+    {
+      "$id": 115,
+      "label": "MNU_CMT_2010080",
+      "style": 15,
+      "name": "Grandpa"
+    },
+    {
+      "$id": 116,
+      "label": "MNU_CMT_2010090",
+      "style": 15,
+      "name": "Grandma"
+    },
+    {
+      "$id": 117,
+      "label": "MNU_CMT_2010100",
+      "style": 15,
+      "name": "Child"
+    },
+    {
+      "$id": 118,
+      "label": "MNU_CMT_2010110",
+      "style": 15,
+      "name": "Son"
+    },
+    {
+      "$id": 119,
+      "label": "MNU_CMT_2010120",
+      "style": 15,
+      "name": "Daughter"
+    },
+    {
+      "$id": 120,
+      "label": "MNU_CMT_2010130",
+      "style": 15,
+      "name": "Wife"
+    },
+    {
+      "$id": 121,
+      "label": "MNU_CMT_2010140",
+      "style": 15,
+      "name": "Husband"
+    },
+    {
+      "$id": 122,
+      "label": "MNU_CMT_2010150",
+      "style": 15,
+      "name": "Bride"
+    },
+    {
+      "$id": 123,
+      "label": "MNU_CMT_2010160",
+      "style": 15,
+      "name": "Groom"
+    },
+    {
+      "$id": 124,
+      "label": "MNU_CMT_2010170",
+      "style": 15,
+      "name": "Lord"
+    },
+    {
+      "$id": 125,
+      "label": "MNU_CMT_2010180",
+      "style": 15,
+      "name": "Lady"
+    },
+    {
+      "$id": 126,
+      "label": "MNU_CMT_2010190",
+      "style": 15,
+      "name": "Buddy"
+    },
+    {
+      "$id": 127,
+      "label": "MNU_CMT_2010200",
+      "style": 15,
+      "name": "One"
+    },
+    {
+      "$id": 128,
+      "label": "MNU_CMT_2010210",
+      "style": 15,
+      "name": "Jerk"
+    },
+    {
+      "$id": 129,
+      "label": "MNU_CMT_2010220",
+      "style": 15,
+      "name": "Apprentice"
+    },
+    {
+      "$id": 130,
+      "label": "MNU_CMT_2010230",
+      "style": 15,
+      "name": "Demon"
+    },
+    {
+      "$id": 131,
+      "label": "MNU_CMT_2010240",
+      "style": 15,
+      "name": "God"
+    },
+    {
+      "$id": 132,
+      "label": "MNU_CMT_2010250",
+      "style": 15,
+      "name": "Bionis"
+    },
+    {
+      "$id": 133,
+      "label": "MNU_CMT_2010260",
+      "style": 15,
+      "name": "Mechonis"
+    },
+    {
+      "$id": 134,
+      "label": "MNU_CMT_2010270",
+      "style": 15,
+      "name": "Mechon"
+    },
+    {
+      "$id": 135,
+      "label": "MNU_CMT_2010280",
+      "style": 15,
+      "name": "Heropon"
+    },
+    {
+      "$id": 136,
+      "label": "MNU_CMT_2010290",
+      "style": 15,
+      "name": "Teacher"
+    },
+    {
+      "$id": 137,
+      "label": "MNU_CMT_2010300",
+      "style": 15,
+      "name": "Master"
+    },
+    {
+      "$id": 138,
+      "label": "MNU_CMT_2010310",
+      "style": 15,
+      "name": "Grunt"
+    },
+    {
+      "$id": 139,
+      "label": "MNU_CMT_2010320",
+      "style": 15,
+      "name": "Dog"
+    },
+    {
+      "$id": 140,
+      "label": "MNU_CMT_2010330",
+      "style": 15,
+      "name": "Cat"
+    },
+    {
+      "$id": 141,
+      "label": "MNU_CMT_2010340",
+      "style": 15,
+      "name": "Pet"
+    },
+    {
+      "$id": 142,
+      "label": "MNU_CMT_2010350",
+      "style": 15,
+      "name": "Prisoner"
+    },
+    {
+      "$id": 143,
+      "label": "MNU_CMT_2010360",
+      "style": 15,
+      "name": "Admirer"
+    },
+    {
+      "$id": 144,
+      "label": "MNU_CMT_2010370",
+      "style": 15,
+      "name": "Superhuman"
+    },
+    {
+      "$id": 145,
+      "label": "MNU_CMT_2010380",
+      "style": 15,
+      "name": "Thrill-seeker"
+    },
+    {
+      "$id": 146,
+      "label": "MNU_CMT_2010390",
+      "style": 15,
+      "name": "Researcher"
+    },
+    {
+      "$id": 147,
+      "label": "MNU_CMT_2010400",
+      "style": 15,
+      "name": "Guard"
+    },
+    {
+      "$id": 148,
+      "label": "MNU_CMT_2010410",
+      "style": 15,
+      "name": "Favorite"
+    },
+    {
+      "$id": 149,
+      "label": "MNU_CMT_2010420",
+      "style": 15,
+      "name": "Scoundrel"
+    },
+    {
+      "$id": 150,
+      "label": "MNU_CMT_2010430",
+      "style": 15,
+      "name": "Ally"
+    },
+    {
+      "$id": 151,
+      "label": "MNU_CMT_2010440",
+      "style": 15,
+      "name": "Enemy"
+    },
+    {
+      "$id": 152,
+      "label": "MNU_CMT_2010450",
+      "style": 15,
+      "name": "Traveler"
+    },
+    {
+      "$id": 153,
+      "label": "MNU_CMT_2010460",
+      "style": 15,
+      "name": "Fellow"
+    },
+    {
+      "$id": 154,
+      "label": "MNU_CMT_2010470",
+      "style": 15,
+      "name": "Celebrity"
+    },
+    {
+      "$id": 155,
+      "label": "MNU_CMT_2010480",
+      "style": 15,
+      "name": "Peon"
+    },
+    {
+      "$id": 156,
+      "label": "MNU_CMT_2010490",
+      "style": 15,
+      "name": "Darling"
+    },
+    {
+      "$id": 157,
+      "label": "MNU_CMT_2010500",
+      "style": 15,
+      "name": "Crybaby"
+    },
+    {
+      "$id": 158,
+      "label": "MNU_CMT_2010510",
+      "style": 15,
+      "name": "Bungler"
+    },
+    {
+      "$id": 159,
+      "label": "MNU_CMT_2010520",
+      "style": 15,
+      "name": "Ditz"
+    },
+    {
+      "$id": 160,
+      "label": "MNU_CMT_2010530",
+      "style": 15,
+      "name": "Vagabond"
+    },
+    {
+      "$id": 161,
+      "label": "MNU_CMT_2010540",
+      "style": 15,
+      "name": "Spirit"
+    },
+    {
+      "$id": 162,
+      "label": "MNU_CMT_2010550",
+      "style": 15,
+      "name": "Angel"
+    },
+    {
+      "$id": 163,
+      "label": "MNU_CMT_2010560",
+      "style": 15,
+      "name": "Star"
+    },
+    {
+      "$id": 164,
+      "label": "MNU_CMT_2010570",
+      "style": 15,
+      "name": "Ronin"
+    },
+    {
+      "$id": 165,
+      "label": "MNU_CMT_2010580",
+      "style": 15,
+      "name": "Kid"
+    },
+    {
+      "$id": 166,
+      "label": "MNU_CMT_2010590",
+      "style": 15,
+      "name": "Friend"
+    },
+    {
+      "$id": 167,
+      "label": "MNU_CMT_2010600",
+      "style": 15,
+      "name": "Companion"
+    },
+    {
+      "$id": 168,
+      "label": "MNU_CMT_2010610",
+      "style": 15,
+      "name": "Adept"
+    },
+    {
+      "$id": 169,
+      "label": "MNU_CMT_2010620",
+      "style": 15,
+      "name": "Confidant"
+    },
+    {
+      "$id": 170,
+      "label": "MNU_CMT_2010630",
+      "style": 15,
+      "name": "Slacker"
+    },
+    {
+      "$id": 171,
+      "label": "MNU_CMT_2010640",
+      "style": 15,
+      "name": "Adventurer"
+    },
+    {
+      "$id": 172,
+      "label": "MNU_CMT_2010650",
+      "style": 15,
+      "name": "Dynamo"
+    },
+    {
+      "$id": 173,
+      "label": "MNU_CMT_2010660",
+      "style": 15,
+      "name": "Specialist"
+    },
+    {
+      "$id": 174,
+      "label": "MNU_CMT_2010670",
+      "style": 15,
+      "name": "Technician"
+    },
+    {
+      "$id": 175,
+      "label": "MNU_CMT_2010680",
+      "style": 15,
+      "name": "Challenger"
+    },
+    {
+      "$id": 176,
+      "label": "MNU_CMT_2010690",
+      "style": 15,
+      "name": "Engineer"
+    },
+    {
+      "$id": 177,
+      "label": "MNU_CMT_2010700",
+      "style": 15,
+      "name": "Creator"
+    },
+    {
+      "$id": 178,
+      "label": "MNU_CMT_2010710",
+      "style": 15,
+      "name": "Salvager"
+    },
+    {
+      "$id": 179,
+      "label": "MNU_CMT_2010720",
+      "style": 15,
+      "name": "Influencer"
+    },
+    {
+      "$id": 180,
+      "label": "MNU_CMT_2010730",
+      "style": 15,
+      "name": "Troublemaker"
+    },
+    {
+      "$id": 181,
+      "label": "MNU_CMT_2010740",
+      "style": 15,
+      "name": "Mood Maker"
+    },
+    {
+      "$id": 182,
+      "label": "MNU_CMT_2010750",
+      "style": 15,
+      "name": "Collector"
+    },
+    {
+      "$id": 183,
+      "label": "MNU_CMT_2010760",
+      "style": 15,
+      "name": "Mechanic"
+    },
+    {
+      "$id": 184,
+      "label": "MNU_CMT_2010770",
+      "style": 15,
+      "name": "Icon"
+    },
+    {
+      "$id": 185,
+      "label": "MNU_CMT_2010780",
+      "style": 15,
+      "name": "Player"
+    },
+    {
+      "$id": 186,
+      "label": "MNU_CMT_2010790",
+      "style": 15,
+      "name": "User"
+    },
+    {
+      "$id": 187,
+      "label": "MNU_CMT_2020800",
+      "style": 15,
+      "name": "Sage"
+    },
+    {
+      "$id": 188,
+      "label": "MNU_CMT_2030810",
+      "style": 15,
+      "name": "Halfsage"
+    },
+    {
+      "$id": 189,
+      "label": "MNU_CMT_2040820",
+      "style": 15,
+      "name": "Archsage"
+    },
+    {
+      "$id": 190,
+      "label": "MNU_CMT_2050830",
+      "style": 15,
+      "name": "Avatar"
+    },
+    {
+      "$id": 191,
+      "label": "MNU_CMT_2050840",
+      "style": 15,
+      "name": "Persona"
+    },
+    {
+      "$id": 192,
+      "label": "MNU_CMT_2050850",
+      "style": 15,
+      "name": "Mimeosome"
+    },
+    {
+      "$id": 193,
+      "label": "MNU_CMT_2050860",
+      "style": 15,
+      "name": "Skell"
+    },
+    {
+      "$id": 194,
+      "label": "MNU_CMT_2050870",
+      "style": 15,
+      "name": "Affinity"
+    },
+    {
+      "$id": 195,
+      "label": "MNU_CMT_2060010",
+      "style": 15,
+      "name": "Drifter"
+    },
+    {
+      "$id": 196,
+      "label": "MNU_CMT_2060020",
+      "style": 15,
+      "name": "Striker"
+    },
+    {
+      "$id": 197,
+      "label": "MNU_CMT_2060030",
+      "style": 15,
+      "name": "Samurai Gunner"
+    },
+    {
+      "$id": 198,
+      "label": "MNU_CMT_2060040",
+      "style": 15,
+      "name": "Shield Trooper"
+    },
+    {
+      "$id": 199,
+      "label": "MNU_CMT_2060050",
+      "style": 15,
+      "name": "Bastion Warrior"
+    },
+    {
+      "$id": 200,
+      "label": "MNU_CMT_2060060",
+      "style": 15,
+      "name": "Commando"
+    },
+    {
+      "$id": 201,
+      "label": "MNU_CMT_2060070",
+      "style": 15,
+      "name": "Winged Viper"
+    },
+    {
+      "$id": 202,
+      "label": "MNU_CMT_2060080",
+      "style": 15,
+      "name": "Full Metal Jaguar"
+    },
+    {
+      "$id": 203,
+      "label": "MNU_CMT_2060090",
+      "style": 15,
+      "name": "Partisan Eagle"
+    },
+    {
+      "$id": 204,
+      "label": "MNU_CMT_2060100",
+      "style": 15,
+      "name": "Astral Crusader"
+    },
+    {
+      "$id": 205,
+      "label": "MNU_CMT_2060110",
+      "style": 15,
+      "name": "Enforcer"
+    },
+    {
+      "$id": 206,
+      "label": "MNU_CMT_2060120",
+      "style": 15,
+      "name": "Psycorruptor"
+    },
+    {
+      "$id": 207,
+      "label": "MNU_CMT_2060130",
+      "style": 15,
+      "name": "Mastermind"
+    },
+    {
+      "$id": 208,
+      "label": "MNU_CMT_2060140",
+      "style": 15,
+      "name": "Blast Fencer"
+    },
+    {
+      "$id": 209,
+      "label": "MNU_CMT_2060150",
+      "style": 15,
+      "name": "Galactic Knight"
+    },
+    {
+      "$id": 210,
+      "label": "MNU_CMT_2070010",
+      "style": 15,
+      "name": "Fighter"
+    },
+    {
+      "$id": 211,
+      "label": "MNU_CMT_2070020",
+      "style": 15,
+      "name": "Defender"
+    },
+    {
+      "$id": 212,
+      "label": "MNU_CMT_2070030",
+      "style": 15,
+      "name": "Healer"
+    },
+    {
+      "$id": 213,
+      "label": "MNU_CMT_2070040",
+      "style": 15,
+      "name": "Elite Fighter"
+    },
+    {
+      "$id": 214,
+      "label": "MNU_CMT_2070050",
+      "style": 15,
+      "name": "Warrior"
+    },
+    {
+      "$id": 215,
+      "label": "MNU_CMT_2070060",
+      "style": 15,
+      "name": "Cavalier"
+    },
+    {
+      "$id": 216,
+      "label": "MNU_CMT_2070070",
+      "style": 15,
+      "name": "Elite Defender"
+    },
+    {
+      "$id": 217,
+      "label": "MNU_CMT_2070080",
+      "style": 15,
+      "name": "Knight"
+    },
+    {
+      "$id": 218,
+      "label": "MNU_CMT_2070090",
+      "style": 15,
+      "name": "Elite Healer"
+    },
+    {
+      "$id": 219,
+      "label": "MNU_CMT_2070100",
+      "style": 15,
+      "name": "Master Fighter"
+    },
+    {
+      "$id": 220,
+      "label": "MNU_CMT_2070110",
+      "style": 15,
+      "name": "Wild Warrior"
+    },
+    {
+      "$id": 221,
+      "label": "MNU_CMT_2070120",
+      "style": 15,
+      "name": "Wild Cavalier"
+    },
+    {
+      "$id": 222,
+      "label": "MNU_CMT_2070130",
+      "style": 15,
+      "name": "Master Defender"
+    },
+    {
+      "$id": 223,
+      "label": "MNU_CMT_2070140",
+      "style": 15,
+      "name": "Royal Warrior"
+    },
+    {
+      "$id": 224,
+      "label": "MNU_CMT_2070150",
+      "style": 15,
+      "name": "Royal Knight"
+    },
+    {
+      "$id": 225,
+      "label": "MNU_CMT_2070160",
+      "style": 15,
+      "name": "Master Healer"
+    },
+    {
+      "$id": 226,
+      "label": "MNU_CMT_2070170",
+      "style": 15,
+      "name": "Holy Cavalier"
+    },
+    {
+      "$id": 227,
+      "label": "MNU_CMT_2070180",
+      "style": 15,
+      "name": "Holy Knight"
+    },
+    {
+      "$id": 228,
+      "label": "MNU_CMT_2070190",
+      "style": 15,
+      "name": "Jack-of-all-Trades"
+    },
+    {
+      "$id": 229,
+      "label": "MNU_CMT_2080010",
+      "style": 15,
+      "name": "Swordfighter"
+    },
+    {
+      "$id": 230,
+      "label": "MNU_CMT_2080020",
+      "style": 15,
+      "name": "Zephyr"
+    },
+    {
+      "$id": 231,
+      "label": "MNU_CMT_2080030",
+      "style": 15,
+      "name": "Medic Gunner"
+    },
+    {
+      "$id": 232,
+      "label": "MNU_CMT_2080040",
+      "style": 15,
+      "name": "Tactician"
+    },
+    {
+      "$id": 233,
+      "label": "MNU_CMT_2080050",
+      "style": 15,
+      "name": "Heavy Guard"
+    },
+    {
+      "$id": 234,
+      "label": "MNU_CMT_2080060",
+      "style": 15,
+      "name": "Ogre"
+    },
+    {
+      "$id": 235,
+      "label": "MNU_CMT_2080070",
+      "style": 15,
+      "name": "Flash Fencer"
+    },
+    {
+      "$id": 236,
+      "label": "MNU_CMT_2080080",
+      "style": 15,
+      "name": "War Medic"
+    },
+    {
+      "$id": 237,
+      "label": "MNU_CMT_2080090",
+      "style": 15,
+      "name": "Guardian Commander"
+    },
+    {
+      "$id": 238,
+      "label": "MNU_CMT_2080100",
+      "style": 15,
+      "name": "Thaumaturge"
+    },
+    {
+      "$id": 239,
+      "label": "MNU_CMT_2080110",
+      "style": 15,
+      "name": "Yumsmith"
+    },
+    {
+      "$id": 240,
+      "label": "MNU_CMT_2080120",
+      "style": 15,
+      "name": "Full Metal Jaguar"
+    },
+    {
+      "$id": 241,
+      "label": "MNU_CMT_2080130",
+      "style": 15,
+      "name": "Strategos"
+    },
+    {
+      "$id": 242,
+      "label": "MNU_CMT_2080140",
+      "style": 15,
+      "name": "Stalker"
+    },
+    {
+      "$id": 243,
+      "label": "MNU_CMT_2080150",
+      "style": 15,
+      "name": "Lone Exile"
+    },
+    {
+      "$id": 244,
+      "label": "MNU_CMT_2080160",
+      "style": 15,
+      "name": "Incursor"
+    },
+    {
+      "$id": 245,
+      "label": "MNU_CMT_2080170",
+      "style": 15,
+      "name": "Lost Vanguard"
+    },
+    {
+      "$id": 246,
+      "label": "MNU_CMT_2080180",
+      "style": 15,
+      "name": "Signifer"
+    },
+    {
+      "$id": 247,
+      "label": "MNU_CMT_2080190",
+      "style": 15,
+      "name": "Martial Artist"
+    },
+    {
+      "$id": 248,
+      "label": "MNU_CMT_2080200",
+      "style": 15,
+      "name": "Troubadour"
+    },
+    {
+      "$id": 249,
+      "label": "MNU_CMT_2080210",
+      "style": 15,
+      "name": "Seraph"
+    },
+    {
+      "$id": 250,
+      "label": "MNU_CMT_2080220",
+      "style": 15,
+      "name": "Machine Assassin"
+    },
+    {
+      "$id": 251,
+      "label": "MNU_CMT_2080230",
+      "style": 15,
+      "name": "Lifesage"
+    },
+    {
+      "$id": 252,
+      "label": "MNU_CMT_2080240",
+      "style": 15,
+      "name": "Royal Summoner"
+    },
+    {
+      "$id": 253,
+      "label": "MNU_CMT_2080250",
+      "style": 15,
+      "name": "Sharpshooter"
+    },
+    {
+      "$id": 254,
+      "label": "MNU_CMT_2080260",
+      "style": 15,
+      "name": "Soulhacker"
+    },
+    {
+      "$id": 255,
+      "label": "MNU_CMT_2080270",
+      "style": 15,
+      "name": "Noponic Champion"
+    },
+    {
+      "$id": 256,
+      "label": "MNU_CMT_2080280",
+      "style": 15,
+      "name": "Lapidarist"
+    },
+    {
+      "$id": 257,
+      "label": "MNU_CMT_2090010",
+      "style": 15,
+      "name": "Monado"
+    },
+    {
+      "$id": 258,
+      "label": "MNU_CMT_2090020",
+      "style": 15,
+      "name": "Homs"
+    },
+    {
+      "$id": 259,
+      "label": "MNU_CMT_2090030",
+      "style": 15,
+      "name": "Nopon"
+    },
+    {
+      "$id": 260,
+      "label": "MNU_CMT_2090040",
+      "style": 15,
+      "name": "High Entia"
+    },
+    {
+      "$id": 261,
+      "label": "MNU_CMT_2090050",
+      "style": 15,
+      "name": "Machina"
+    },
+    {
+      "$id": 262,
+      "label": "MNU_CMT_2090060",
+      "style": 15,
+      "name": "Fogbeast"
+    },
+    {
+      "$id": 263,
+      "label": "MNU_CMT_2090070",
+      "style": 15,
+      "name": "Face"
+    },
+    {
+      "$id": 264,
+      "label": "MNU_CMT_2090080",
+      "style": 15,
+      "name": "Faced Mechon"
+    },
+    {
+      "$id": 265,
+      "label": "MNU_CMT_2090090",
+      "style": 15,
+      "name": "Ponspector"
+    },
+    {
+      "$id": 266,
+      "label": "MNU_CMT_2090100",
+      "style": 15,
+      "name": "Artillery"
+    },
+    {
+      "$id": 267,
+      "label": "MNU_CMT_2100010",
+      "style": 15,
+      "name": "α"
+    },
+    {
+      "$id": 268,
+      "label": "MNU_CMT_2100020",
+      "style": 15,
+      "name": "QT"
+    },
+    {
+      "$id": 269,
+      "label": "MNU_CMT_2100030",
+      "style": 15,
+      "name": "QTπ"
+    },
+    {
+      "$id": 270,
+      "label": "MNU_CMT_2100040",
+      "style": 15,
+      "name": "Aegis"
+    },
+    {
+      "$id": 271,
+      "label": "MNU_CMT_2100050",
+      "style": 15,
+      "name": "Driver"
+    },
+    {
+      "$id": 272,
+      "label": "MNU_CMT_2100060",
+      "style": 15,
+      "name": "Titan"
+    },
+    {
+      "$id": 273,
+      "label": "MNU_CMT_2100070",
+      "style": 15,
+      "name": "Rare Blade"
+    },
+    {
+      "$id": 274,
+      "label": "MNU_CMT_2100080",
+      "style": 15,
+      "name": "Legendary Blade"
+    },
+    {
+      "$id": 275,
+      "label": "MNU_CMT_2100090",
+      "style": 15,
+      "name": "Artificial Blade"
+    },
+    {
+      "$id": 276,
+      "label": "MNU_CMT_2110010",
+      "style": 15,
+      "name": "Off-Seer"
+    },
+    {
+      "$id": 277,
+      "label": "MNU_CMT_2110020",
+      "style": 15,
+      "name": "Hero"
+    },
+    {
+      "$id": 278,
+      "label": "MNU_CMT_2110030",
+      "style": 15,
+      "name": "Ouroboros"
+    },
+    {
+      "$id": 279,
+      "label": "MNU_CMT_2110040",
+      "style": 15,
+      "name": "Consul"
+    },
+    {
+      "$id": 280,
+      "label": "MNU_CMT_2110050",
+      "style": 15,
+      "name": "Ferronis"
+    },
+    {
+      "$id": 281,
+      "label": "MNU_CMT_2120010",
+      "style": 15,
+      "name": ""
+    }
+  ]
+}

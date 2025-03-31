@@ -1,0 +1,216 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev080401_MSG0001",
+      "style": 1,
+      "name": "I haven't seen Mother around lately.\nHave you heard anything?[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev080401_MSG0002",
+      "style": 1,
+      "name": "Don't tell me she got on your nerves so much you had\nher scrapped![ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev080401_JNK0010",
+      "style": 4,
+      "name": "Deny"
+    },
+    {
+      "$id": 4,
+      "label": "qev080401_SEL0011",
+      "style": 3,
+      "name": "Say that you would never do that to Erio's mother."
+    },
+    {
+      "$id": 5,
+      "label": "qev080401_JNK0020",
+      "style": 4,
+      "name": "Agree"
+    },
+    {
+      "$id": 6,
+      "label": "qev080401_SEL0021",
+      "style": 3,
+      "name": "Say that the temptation has been\nthere on multiple occasions."
+    },
+    {
+      "$id": 7,
+      "label": "qev080401_MSG0003",
+      "style": 1,
+      "name": "You're as kind and patient as ever.[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev080401_MSG0004",
+      "style": 1,
+      "name": "But I challenge anyone on the planet to listen to her for\nan hour and not go homicidal.[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev080401_MSG0005",
+      "style": 1,
+      "name": "Any sane person subjected to that hubris would want to\nbring her down a peg. ...Or 10.[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev080401_MSG0006",
+      "style": 1,
+      "name": "Believe me, I understand the impulse.[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev080401_MSG0007",
+      "style": 1,
+      "name": "Even after Professor B's little attitude adjustment,\nshe maintains the personality of an overgrown child.[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev080401_MSG0008",
+      "style": 1,
+      "name": "Just thinking about how that thing gave birth to my\nsisters and me is enough to split my head.[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev080401_MSG0009",
+      "style": 1,
+      "name": "Jokes aside, the fact that you haven't heard anything\nmakes me even more concerned.[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev080401_MSG0010",
+      "style": 1,
+      "name": "She can't give orders directly to my sisters anymore,\nbut there are still plenty of people who would listen.\nOr worship her, even.[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev080401_MSG0011",
+      "style": 1,
+      "name": "Lately I've seen her speaking with a Definian named\nLyvia an awful lot...[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev080401_MSG0012",
+      "style": 1,
+      "name": "Do you think I could ask you to track Mother down?[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev080401_MSG0013",
+      "style": 1,
+      "name": "If she HAS run off, I'm certain there's a whole\nunpleasant plot behind it.[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev080401_MSG0014",
+      "style": 1,
+      "name": "I feel like I only ever bring trouble to your doorstep,\nbut know that I appreciate your help.[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev080401_MSG0015",
+      "style": 1,
+      "name": "I suppose it makes sense to look for Lyvia first,\nsince she's the Definian who Mother was contacting.[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev080401_MSG0016",
+      "style": 1,
+      "name": "I assume she is still in New LA, but...\nWell, she's a Definian. She'll be disguised as a human.[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev080401_MSG0017",
+      "style": 1,
+      "name": "I guess there's nothing for it save to ask around,\ntrack her down whenever she decides to show herself,\nand press her for what she knows about Mother.[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev080401_MSG0018",
+      "style": 1,
+      "name": "A Definian called Lyvia was coming to see Mother fairly\nfrequently in the days leading up to her disappearance.[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev080401_MSG0019",
+      "style": 1,
+      "name": "When I asked Mother about it, she said that Lyvia was\ncoming to her for advice.[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev080401_MSG0020",
+      "style": 1,
+      "name": "Thinking back on it, it was ridiculous to think that self-\nserving sphere would help anyone without a payoff.\nSomething was up between them. I'm sure of it![ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev080401_MSG0021",
+      "style": 1,
+      "name": "Please, uncover Lyvia's disguise here in town and ask\nwhat she knows about Mother.[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev080401_MSG0022",
+      "style": 1,
+      "name": "There are a lot of eyes in this city—someone must have\nseen something.[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev080401_MSG0023",
+      "style": 1,
+      "name": "...She's in Rooney Cavern in Oblivia?[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev080401_MSG0024",
+      "style": 1,
+      "name": "I have a bad feeling about this. Please, you must bring\nMother back here as quickly as you can.[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev080401_MSG0025",
+      "style": 1,
+      "name": "I'll head out and meet up with you there as soon as my\nown preparations are complete.[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev080401_MSG0026",
+      "style": 1,
+      "name": "I have a question for you, [ST:playername ].[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev080401_MSG0027",
+      "style": 1,
+      "name": "Heh heh. You have a look on your face like\n\"Um...do I know you?\"[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev080401_MSG0028",
+      "style": 1,
+      "name": "It's me! Erio! ...The Definian?[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev080401_MSG0029",
+      "style": 1,
+      "name": "This is the form I took to live in New LA.\nI've really been enjoying it, honestly.[ST:wait ]"
+    }
+  ]
+}

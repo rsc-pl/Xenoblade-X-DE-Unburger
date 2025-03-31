@@ -1,0 +1,684 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev010401_JNK0010",
+      "style": 4,
+      "name": "Inquire"
+    },
+    {
+      "$id": 2,
+      "label": "tev010401_SEL0011",
+      "style": 3,
+      "name": "Ask Carl about the gate."
+    },
+    {
+      "$id": 3,
+      "label": "tev010401_JNK0020",
+      "style": 4,
+      "name": "Discuss"
+    },
+    {
+      "$id": 4,
+      "label": "tev010401_SEL0021",
+      "style": 3,
+      "name": "Ask Carl if anything is troubling him."
+    },
+    {
+      "$id": 5,
+      "label": "tev010401_SEL0031",
+      "style": 3,
+      "name": "Ask Carl how to switch between night and day."
+    },
+    {
+      "$id": 6,
+      "label": "tev010401_SEL0021",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 7,
+      "label": "tev010401_SEL0041",
+      "style": 3,
+      "name": "Ask Carl for his thoughts on your mission results."
+    },
+    {
+      "$id": 8,
+      "label": "tev010401_SEL0051",
+      "style": 1,
+      "name": "Ask Carl if anything is troubling him."
+    },
+    {
+      "$id": 9,
+      "label": "tev010401_SEL0061",
+      "style": 3,
+      "name": "Ask Carl how to switch between night and day."
+    },
+    {
+      "$id": 10,
+      "label": "tev010401_SEL0051",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 11,
+      "label": "tev010401_SEL0071",
+      "style": 3,
+      "name": "Ask Carl for his thoughts on your mission results."
+    },
+    {
+      "$id": 12,
+      "label": "tev010401_SEL0051",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 13,
+      "label": "tev010401_SEL0081",
+      "style": 3,
+      "name": "Ask Carl how to best get around NLA."
+    },
+    {
+      "$id": 14,
+      "label": "tev010401_SEL0051",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 15,
+      "label": "tev010401_SEL0091",
+      "style": 3,
+      "name": "Ask Carl about the terrain of Mira."
+    },
+    {
+      "$id": 16,
+      "label": "tev010401_SEL0051",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 17,
+      "label": "tev010401_SEL0101",
+      "style": 3,
+      "name": "Ask Carl about his thoughts on the Ma-non."
+    },
+    {
+      "$id": 18,
+      "label": "tev010401_SEL0051",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 19,
+      "label": "tev010401_SEL0111",
+      "style": 3,
+      "name": "Ask Carl about his thoughts on\nthe Skell you found in Noctilum."
+    },
+    {
+      "$id": 20,
+      "label": "tev010401_SEL0051",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 21,
+      "label": "tev010401_SEL0121",
+      "style": 3,
+      "name": "Ask Carl about his thoughts on Goetia."
+    },
+    {
+      "$id": 22,
+      "label": "tev010401_SEL0051",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 23,
+      "label": "tev010401_SEL0131",
+      "style": 3,
+      "name": "Ask Carl how he fared during the attack."
+    },
+    {
+      "$id": 24,
+      "label": "tev010401_SEL0051",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 25,
+      "label": "tev010401_SEL1011",
+      "style": 3,
+      "name": "Ask Carl about any recent developments."
+    },
+    {
+      "$id": 26,
+      "label": "tev010401_SEL1021",
+      "style": 3,
+      "name": "Ask Carl about his thoughts on the Wrothians."
+    },
+    {
+      "$id": 27,
+      "label": "tev010401_SEL1031",
+      "style": 3,
+      "name": "Ask Carl about his thoughts on\nyour battle with the Zu Pharg."
+    },
+    {
+      "$id": 28,
+      "label": "tev010401_SEL1041",
+      "style": 3,
+      "name": "Ask Carl for his thoughts on Lao's betrayal."
+    },
+    {
+      "$id": 29,
+      "label": "tev010401_SEL1051",
+      "style": 3,
+      "name": "Ask Carl about the battle for the Lifehold Core."
+    },
+    {
+      "$id": 30,
+      "label": "tev010401_SEL1061",
+      "style": 3,
+      "name": "Ask Carl about the battle for the Lifehold Core."
+    },
+    {
+      "$id": 31,
+      "label": "tev010401_MSG0001",
+      "style": 1,
+      "name": "That gate over there? The east one?\nCan you believe how long it's been sealed?\nThis is really getting to be a hassle![ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "tev010401_MSG0002",
+      "style": 1,
+      "name": "Huh? You want to know why people can pass through\nthe west gate, but not this east one?[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "tev010401_MSG0003",
+      "style": 1,
+      "name": "Well, New LA is just the residential unit of a ship\nthat's been hastily reconstructed into a city.\nIt wasn't exactly built with ease of access in mind.[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "tev010401_MSG0004",
+      "style": 1,
+      "name": "The west gate entrance is where the passage to the\nWhite Whale's maintenance-management area used\nto be.[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "tev010401_MSG0005",
+      "style": 1,
+      "name": "I'm surprised you didn't know that. Everybody kno—oh!\nAre you that newly discovered crew member?\nYou are, aren't you? Hey, welcome to New LA![ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "tev010401_MSG0006",
+      "style": 1,
+      "name": "Man, I'm as excited about my next mission as I am my\nnext root canal. You wanna swap? ...Just kidding.[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "tev010401_MSG0007",
+      "style": 1,
+      "name": "I mean, I'd love to swap, but if Trevor found out that\nI passed a mission off, he'd tear me a new one.[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "tev010401_MSG0008",
+      "style": 1,
+      "name": "Trevor's as strict as they come, and no mistake.\nYou don't ever wanna get on his bad side.[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "tev010401_MSG0009",
+      "style": 1,
+      "name": "Seriously? You just got here and they're already\nsending you out on data-probe installation? Daaay-um![ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "tev010401_MSG0010",
+      "style": 1,
+      "name": "You want my advice? Travel by day, and only by day.\nIt's a hell of a lot safer that way.[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "tev010401_MSG0011",
+      "style": 1,
+      "name": "When it gets dark, crawl into a free tent or trailer at a\nbase camp and sleep until sunrise.[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "tev010401_MSG0012",
+      "style": 1,
+      "name": "If you go walking around at night and get lost,\nyou'll probably never see another sunrise again.[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "tev010401_MSG0013",
+      "style": 1,
+      "name": "So let me get this straight. You safely installed\na data probe on your very first mission,\nAND killed a tyrant while you were at it?[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "tev010401_MSG0014",
+      "style": 1,
+      "name": "Holy crap, [ST:gender p1=dude p2=lady ]. You do NOT mess around![ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "tev010401_MSG0015",
+      "style": 1,
+      "name": "Man, I'm really gonna enjoy having you around.\n'Cause I sure as hell don't wanna do this stuff![ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "tev010401_MSG0016",
+      "style": 1,
+      "name": "Man, I'm so sick of Trevor pushing us around.\nHe made me do an indigen bounty mission solo![ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "tev010401_MSG0017",
+      "style": 1,
+      "name": "Now he's sending me on a super-hard mission in some\narea we've barely got any FrontierNav info about.[ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "tev010401_MSG0018",
+      "style": 1,
+      "name": "It sure would be great if someone went and planted a\ndata probe in Primordia for me, you know? Yep.\nSuuuuure would be great.[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "tev010401_MSG0019",
+      "style": 1,
+      "name": "Like, that new kid everyone's talking about?\nThe one installing data probes all over the place?\nIt would be great if [ST:gender p1=he p2=she ] did that. I'm just saying.[ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "tev010401_MSG0020",
+      "style": 1,
+      "name": "I just heard that you were taking over for Nelson's\nteam on that search mission. You gotta be careful\nout there, man. Seriously.[ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "tev010401_MSG0021",
+      "style": 1,
+      "name": "I know you've heard it before, but it's all the more\nimportant that you travel during the day when you're\nexploring uncharted lands.[ST:wait ]"
+    },
+    {
+      "$id": 52,
+      "label": "tev010401_MSG0022",
+      "style": 1,
+      "name": "When it gets too dark to find your way,\njust rest up in a tent or trailer at a base camp.[ST:wait ]"
+    },
+    {
+      "$id": 53,
+      "label": "tev010401_MSG0023",
+      "style": 1,
+      "name": "Base camps are awesome, man. They make good\nlandmarks, plus you can catch forty winks without\nlooking over your shoulder the whole time. I love 'em.[ST:wait ]"
+    },
+    {
+      "$id": 54,
+      "label": "tev010401_MSG0024",
+      "style": 1,
+      "name": "No way. There's just... I mean, no WAY!\nDid you seriously take down that Prone fortress?\nLike, seriously?[ST:wait ]"
+    },
+    {
+      "$id": 55,
+      "label": "tev010401_MSG0025",
+      "style": 1,
+      "name": "Man, I can't believe how much you've done.\nAnd you just got here![ST:wait ]"
+    },
+    {
+      "$id": 56,
+      "label": "tev010401_MSG0026",
+      "style": 1,
+      "name": "Ah, I shouldn't keep you. You have a report to file.\nHurry over to the barracks[ST:gender p1=, man! p2=! ] Go go go![ST:wait ]"
+    },
+    {
+      "$id": 57,
+      "label": "tev010401_MSG0027",
+      "style": 1,
+      "name": "You're probably the first BLADE to ever live up to\nVandham's expectations. ...Or maybe everyone does,\nand it's just me that disappoints him?[ST:wait ]"
+    },
+    {
+      "$id": 58,
+      "label": "tev010401_MSG0028",
+      "style": 1,
+      "name": "Whoa, your next mission's in Noctilum?[ST:wait ]"
+    },
+    {
+      "$id": 59,
+      "label": "tev010401_MSG0029",
+      "style": 1,
+      "name": "If that's the case, you probably want to go out through\nthe west gate in the industrial district. That'll be quicker.[ST:wait ]"
+    },
+    {
+      "$id": 60,
+      "label": "tev010401_MSG0030",
+      "style": 1,
+      "name": "You can get to the industrial district in a blink of an\neye if you take the transport in front of BLADE Tower.\nIt's a big time-saver.[ST:wait ]"
+    },
+    {
+      "$id": 61,
+      "label": "tev010401_MSG0031",
+      "style": 1,
+      "name": "If you go northeast from New LA, and then east some\nmore, the terrain turns into a wasteland.[ST:wait ]"
+    },
+    {
+      "$id": 62,
+      "label": "tev010401_MSG0032",
+      "style": 1,
+      "name": "Mira's a really messed-up place. All of a sudden, bam!\nYou're in a wasteland! Or, bam! You're in a forest![ST:wait ]"
+    },
+    {
+      "$id": 63,
+      "label": "tev010401_MSG0033",
+      "style": 1,
+      "name": "It just doesn't have the middle ground that Earth does.\nThose sorts of transitions were always really gradual\non Earth, right?[ST:wait ]"
+    },
+    {
+      "$id": 64,
+      "label": "tev010401_MSG0034",
+      "style": 1,
+      "name": "Makes you wonder how exactly the continents of Mira\nwere formed.[ST:wait ]"
+    },
+    {
+      "$id": 65,
+      "label": "tev010401_MSG0035",
+      "style": 1,
+      "name": "All of a sudden there's this massive ship overhead,\nand all these smiling Ma-non are like, \"Hi, I guess?\"\nI was like, damn! Now I've really seen everything.[ST:wait ]"
+    },
+    {
+      "$id": 66,
+      "label": "tev010401_MSG0036",
+      "style": 1,
+      "name": "Now they're just wandering around the city,\nchatting with folks, offering to upgrade machines,\nand eating all the pizza that isn't bolted down.[ST:wait ]"
+    },
+    {
+      "$id": 67,
+      "label": "tev010401_MSG0037",
+      "style": 1,
+      "name": "It's like the city's sprung to life all of a sudden.\nI mean, it was awfully quiet without any kids around,\nso it's kinda fun having the Ma-non here.[ST:wait ]"
+    },
+    {
+      "$id": 68,
+      "label": "tev010401_MSG0038",
+      "style": 1,
+      "name": "Of course, we'd make friends with any xenoforms YOU\nrescue, no matter what they're like![ST:wait ]"
+    },
+    {
+      "$id": 69,
+      "label": "tev010401_MSG0039",
+      "style": 1,
+      "name": "They were carrying in some Skell-like thing earlier.\nBeing real careful with it, too. You're the one who\nfound that, right?[ST:wait ]"
+    },
+    {
+      "$id": 70,
+      "label": "tev010401_MSG0040",
+      "style": 1,
+      "name": "That's pretty incredible, finding something like that\nand bringing it back to the city.[ST:wait ]"
+    },
+    {
+      "$id": 71,
+      "label": "tev010401_MSG0041",
+      "style": 1,
+      "name": "So are they gonna use that to develop new models\nof Skells or something?[ST:wait ]"
+    },
+    {
+      "$id": 72,
+      "label": "tev010401_MSG0042",
+      "style": 1,
+      "name": "I guess it doesn't really matter to me. I'd never get to\npilot 'em, 'cause I don't even have a license.[ST:wait ]"
+    },
+    {
+      "$id": 73,
+      "label": "tev010401_MSG0043",
+      "style": 1,
+      "name": "I wonder how that squid lady knows so much about\nus humans.[ST:wait ]"
+    },
+    {
+      "$id": 74,
+      "label": "tev010401_MSG0044",
+      "style": 1,
+      "name": "Maybe the Ganglion interrogated a captured BLADE?\nOr they were able to pull the info out of someone's\nwrecked mimeosome?[ST:wait ]"
+    },
+    {
+      "$id": 75,
+      "label": "tev010401_MSG0045",
+      "style": 1,
+      "name": "Well, whatever the story, I ain't about to criticize.\nIf the Ganglion threatened to torture me, I'd spill\neverything I knew in two seconds flat.[ST:wait ]"
+    },
+    {
+      "$id": 76,
+      "label": "tev010401_MSG0046",
+      "style": 1,
+      "name": "As an Interceptor, it's my duty to risk my life in the\ndefense of New LA.[ST:wait ]"
+    },
+    {
+      "$id": 77,
+      "label": "tev010401_MSG0047",
+      "style": 1,
+      "name": "I mean, that's the way it's SUPPOSED to be, but I ain't\ngonna lie to you, man—at the first sign of trouble,\nI ran crying to the restricted hangar's engine room.[ST:wait ]"
+    },
+    {
+      "$id": 78,
+      "label": "tev010401_MSG0048",
+      "style": 1,
+      "name": "When the enemy busted in after me, I thought I was\na dead man. But they just stole that Skell back and\nwent on their merry way.[ST:wait ]"
+    },
+    {
+      "$id": 79,
+      "label": "tev010401_MSG0049",
+      "style": 1,
+      "name": "I thought it'd be safe down there, but it's like we\njust stopped defending the hangar right in the middle\nof the invasion![ST:wait ]"
+    },
+    {
+      "$id": 80,
+      "label": "tev010401_MSG0050",
+      "style": 1,
+      "name": "Of COURSE it's gonna get stolen if we're all half-assed\nabout it! When we have something important in there,\nwe really gotta tighten up our guard.[ST:wait ]"
+    },
+    {
+      "$id": 81,
+      "label": "tev010401_MSG0051",
+      "style": 1,
+      "name": "Ah, hell. Maybe I shoulda done something.\nI'm sorry, man. If it makes you feel any better,\nI already had Trevor tear me a new one.[ST:wait ]"
+    },
+    {
+      "$id": 82,
+      "label": "tev010401_MSG0072",
+      "style": 1,
+      "name": "Thanks to you helping me out, Trevor actually had\nsomething nice to say to me for once.[ST:wait ]"
+    },
+    {
+      "$id": 83,
+      "label": "tev010401_MSG0073",
+      "style": 1,
+      "name": "But man, it still bothers me. Even if they're indigens,\nI don't wanna kill a mom with her kid, you know?[ST:wait ]"
+    },
+    {
+      "$id": 84,
+      "label": "tev010401_MSG0074",
+      "style": 1,
+      "name": "I guess I'm just not cut out to be an Interceptor.[ST:wait ]"
+    },
+    {
+      "$id": 85,
+      "label": "tev010401_MSG0075",
+      "style": 1,
+      "name": "Man, I wish I could be like you, just cutting through\neverything that gets in my way.[ST:wait ]"
+    },
+    {
+      "$id": 86,
+      "label": "tev010401_MSG0076",
+      "style": 1,
+      "name": "I read the reports about your fight with those\nWrothians! They seemed like surprisingly\ndecent guys, actually.[ST:wait ]"
+    },
+    {
+      "$id": 87,
+      "label": "tev010401_MSG0077",
+      "style": 1,
+      "name": "They're less scary than a lot of the other xenoforms out\nthere, though I know looks can be deceiving.[ST:wait ]"
+    },
+    {
+      "$id": 88,
+      "label": "tev010401_MSG0078",
+      "style": 1,
+      "name": "I even heard that Nopon you hang around with calling\nthem the \"kitty-cat people.\"[ST:wait ]"
+    },
+    {
+      "$id": 89,
+      "label": "tev010401_MSG0079",
+      "style": 1,
+      "name": "I think they look more like lions, but what do I know?[ST:wait ]"
+    },
+    {
+      "$id": 90,
+      "label": "tev010401_MSG0080",
+      "style": 1,
+      "name": "Oh, man, we owe you big. Seriously.\nThank you so much.[ST:wait ]"
+    },
+    {
+      "$id": 91,
+      "label": "tev010401_MSG0081",
+      "style": 1,
+      "name": "When I think about what would have happened if\nthat massive mech had made it to New LA...[ST:wait ]"
+    },
+    {
+      "$id": 92,
+      "label": "tev010401_MSG0082",
+      "style": 1,
+      "name": "Woof! It would have made that previous attack on\nthe city look like recess![ST:wait ]"
+    },
+    {
+      "$id": 93,
+      "label": "tev010401_MSG0083",
+      "style": 1,
+      "name": "You're seriously my [ST:gender p1=hero p2=heroine ]. No, you're OUR [ST:gender p1=hero p2=heroine ].[ST:wait ]"
+    },
+    {
+      "$id": 94,
+      "label": "tev010401_MSG0084",
+      "style": 1,
+      "name": "Back when New LA was attacked, it was Lao\nwho was guarding the restricted hangar, right?\nAnd he just stopped fighting mid-invasion?[ST:wait ]"
+    },
+    {
+      "$id": 95,
+      "label": "tev010401_MSG0085",
+      "style": 1,
+      "name": "I guess that was intentional, huh?\nI mean, I've heard the rumors about him...[ST:wait ]"
+    },
+    {
+      "$id": 96,
+      "label": "tev010401_MSG0086",
+      "style": 1,
+      "name": "Still, I feel like they could have chosen someone better\nthan me to pilot the thing.[ST:wait ]"
+    },
+    {
+      "$id": 97,
+      "label": "tev010401_MSG0087",
+      "style": 1,
+      "name": "Trevor told me that thinking about things like that won't\ndo me any good.[ST:wait ]"
+    },
+    {
+      "$id": 98,
+      "label": "tev010401_MSG0088",
+      "style": 1,
+      "name": "But I just can't get out of this rut, you know?\nMan, I'm pathetic.[ST:wait ]"
+    },
+    {
+      "$id": 99,
+      "label": "tev010401_MSG0089",
+      "style": 1,
+      "name": "Man, I've been letting you do the hard work all this\ntime, while I muddle through just enough missions to\nget Trevor off my back.[ST:wait ]"
+    },
+    {
+      "$id": 100,
+      "label": "tev010401_MSG0090",
+      "style": 1,
+      "name": "But now I see now how wrong that is!\nI mean, maybe I'll never be a great hero like you,\nbut I'm gonna stop shirking and start fighting.[ST:wait ]"
+    },
+    {
+      "$id": 101,
+      "label": "tev010401_MSG0091",
+      "style": 1,
+      "name": "Once I get my gear together, I'm off to the Lifehold\nCore. I'll see you there, man! You're going to witness\nCarl fighting the good fight.[ST:wait ]"
+    },
+    {
+      "$id": 102,
+      "label": "tev010401_MSG0092",
+      "style": 1,
+      "name": "Well? Did you see me fighting the good fight?[ST:wait ]"
+    },
+    {
+      "$id": 103,
+      "label": "tev010401_MSG0093",
+      "style": 1,
+      "name": "...Where was I? What kinda question is that?!\nI was working my butt off supporting you guys![ST:wait ]"
+    },
+    {
+      "$id": 104,
+      "label": "tev010401_MSG0094",
+      "style": 1,
+      "name": "Ah, that's fine. What's important is that the Lifehold\nCore is safe and you made it back in one piece.[ST:wait ]"
+    },
+    {
+      "$id": 105,
+      "label": "tev010401_MSG0095",
+      "style": 1,
+      "name": "Hey, so when do you think they're gonna let us go\nback to our old bodies? I can't wait to squeeze into\nthat thing again![ST:wait ]"
+    },
+    {
+      "$id": 106,
+      "label": "tev010401_MSG0096",
+      "style": 1,
+      "name": "Hey, thanks a lot for your help with that whole\nsuid piglet thing.[ST:wait ]"
+    },
+    {
+      "$id": 107,
+      "label": "tev010401_MSG0097",
+      "style": 1,
+      "name": "I heard that afterward, a way bigger suid came to\nthe place where the piglets were.[ST:wait ]"
+    },
+    {
+      "$id": 108,
+      "label": "tev010401_MSG0098",
+      "style": 1,
+      "name": "You think that was maybe one of their parents?\nLike, those suids were just waiting for their mama the\nwhole time?[ST:wait ]"
+    },
+    {
+      "$id": 109,
+      "label": "tev010401_MSG0099",
+      "style": 1,
+      "name": "Isn't that incredible? We did good!\nPreserving the animals and stuff![ST:wait ]"
+    },
+    {
+      "$id": 110,
+      "label": "tev010401_MSG0100",
+      "style": 1,
+      "name": "Trevor yelled at me and called me a softhearted\nhippie, but I still know we did the right thing.[ST:wait ]"
+    },
+    {
+      "$id": 111,
+      "label": "tev010401_MSG0101",
+      "style": 1,
+      "name": "I mean, I know it looked that way, but we saved\nthose little piglets' lives. I feel totally vindicated.[ST:wait ]"
+    }
+  ]
+}

@@ -1,0 +1,2094 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "ARTS_ASSAULT_AUTO_Name",
+      "style": 14,
+      "name": ""
+    },
+    {
+      "$id": 2,
+      "label": "ARTS_ASSAULT_ARTS_1_Name",
+      "style": 14,
+      "name": "Decoy Round"
+    },
+    {
+      "$id": 3,
+      "label": "ARTS_ASSAULT_ARTS_2_Name",
+      "style": 14,
+      "name": "Furious Blast"
+    },
+    {
+      "$id": 4,
+      "label": "ARTS_ASSAULT_ARTS_3_Name",
+      "style": 14,
+      "name": "Burst Grenade"
+    },
+    {
+      "$id": 5,
+      "label": "ARTS_ASSAULT_ARTS_4_Name",
+      "style": 14,
+      "name": "Flash Grenade"
+    },
+    {
+      "$id": 6,
+      "label": "ARTS_ASSAULT_ARTS_5_Name",
+      "style": 14,
+      "name": "Assault Breaker"
+    },
+    {
+      "$id": 7,
+      "label": "ARTS_ASSAULT_ARTS_6_Name",
+      "style": 14,
+      "name": "Medic Free"
+    },
+    {
+      "$id": 8,
+      "label": "ARTS_ASSAULT_ARTS_7_Name",
+      "style": 14,
+      "name": "Takedown Shot"
+    },
+    {
+      "$id": 9,
+      "label": "ARTS_ASSAULT_ARTS_8_Name",
+      "style": 14,
+      "name": "Power Dive"
+    },
+    {
+      "$id": 10,
+      "label": "ARTS_ASSAULT_ARTS_9_Name",
+      "style": 14,
+      "name": "Last Stand"
+    },
+    {
+      "$id": 11,
+      "label": "ARTS_ASSAULT_ARTS_10_Name",
+      "style": 14,
+      "name": "Gunforce"
+    },
+    {
+      "$id": 12,
+      "label": "ARTS_ASSAULT_ARTS_11_Name",
+      "style": 14,
+      "name": "Flame Grenade"
+    },
+    {
+      "$id": 13,
+      "label": "ARTS_ASSAULT_ARTS_12_Name",
+      "style": 14,
+      "name": "Assault Hammer"
+    },
+    {
+      "$id": 14,
+      "label": "ARTS_ASSAULT_ARTS_13_Name",
+      "style": 14,
+      "name": "Infuriate"
+    },
+    {
+      "$id": 15,
+      "label": "ARTS_ASSAULT_ARTS_14_Name",
+      "style": 14,
+      "name": ""
+    },
+    {
+      "$id": 16,
+      "label": "ARTS_ASSAULT_ARTS_15_Name",
+      "style": 14,
+      "name": "Quick Cannon"
+    },
+    {
+      "$id": 17,
+      "label": "ARTS_ASSAULT_ARTS_16_Name",
+      "style": 14,
+      "name": "Grenade Blitz"
+    },
+    {
+      "$id": 18,
+      "label": "ARTS_ASSAULT_ARTS_17_Name",
+      "style": 14,
+      "name": "Overclock"
+    },
+    {
+      "$id": 19,
+      "label": "ARTS_SNIPER_AUTO_Name",
+      "style": 14,
+      "name": ""
+    },
+    {
+      "$id": 20,
+      "label": "ARTS_SNIPER_ARTS_1_Name",
+      "style": 14,
+      "name": "First Down"
+    },
+    {
+      "$id": 21,
+      "label": "ARTS_SNIPER_ARTS_2_Name",
+      "style": 14,
+      "name": "Shrapnel"
+    },
+    {
+      "$id": 22,
+      "label": "ARTS_SNIPER_ARTS_3_Name",
+      "style": 14,
+      "name": "Eagle Eye"
+    },
+    {
+      "$id": 23,
+      "label": "ARTS_SNIPER_ARTS_4_Name",
+      "style": 14,
+      "name": "Sidewinder"
+    },
+    {
+      "$id": 24,
+      "label": "ARTS_SNIPER_ARTS_5_Name",
+      "style": 14,
+      "name": "Intercept"
+    },
+    {
+      "$id": 25,
+      "label": "ARTS_SNIPER_ARTS_6_Name",
+      "style": 14,
+      "name": "Hawkeye"
+    },
+    {
+      "$id": 26,
+      "label": "ARTS_SNIPER_ARTS_7_Name",
+      "style": 14,
+      "name": "Ghost Sniper"
+    },
+    {
+      "$id": 27,
+      "label": "ARTS_SNIPER_ARTS_8_Name",
+      "style": 14,
+      "name": "Afterburner"
+    },
+    {
+      "$id": 28,
+      "label": "ARTS_SNIPER_ARTS_9_Name",
+      "style": 14,
+      "name": "Slayonet"
+    },
+    {
+      "$id": 29,
+      "label": "ARTS_DOUBLEHAND_AUTO_Name",
+      "style": 14,
+      "name": ""
+    },
+    {
+      "$id": 30,
+      "label": "ARTS_DOUBLEHAND_ARTS_1_Name",
+      "style": 14,
+      "name": "Sliding Slinger"
+    },
+    {
+      "$id": 31,
+      "label": "ARTS_DOUBLEHAND_ARTS_2_Name",
+      "style": 14,
+      "name": "Early Bird"
+    },
+    {
+      "$id": 32,
+      "label": "ARTS_DOUBLEHAND_ARTS_3_Name",
+      "style": 14,
+      "name": "Violent Streak"
+    },
+    {
+      "$id": 33,
+      "label": "ARTS_DOUBLEHAND_ARTS_4_Name",
+      "style": 14,
+      "name": "Primer"
+    },
+    {
+      "$id": 34,
+      "label": "ARTS_DOUBLEHAND_ARTS_5_Name",
+      "style": 14,
+      "name": "Executioner"
+    },
+    {
+      "$id": 35,
+      "label": "ARTS_DOUBLEHAND_ARTS_6_Name",
+      "style": 14,
+      "name": "Combat Limbo"
+    },
+    {
+      "$id": 36,
+      "label": "ARTS_DOUBLEHAND_ARTS_7_Name",
+      "style": 14,
+      "name": "Ghostwalker"
+    },
+    {
+      "$id": 37,
+      "label": "ARTS_DOUBLEHAND_ARTS_8_Name",
+      "style": 14,
+      "name": "Ghost Factory"
+    },
+    {
+      "$id": 38,
+      "label": "ARTS_DOUBLEHAND_ARTS_9_Name",
+      "style": 14,
+      "name": "Zero Zero"
+    },
+    {
+      "$id": 39,
+      "label": "ARTS_DOUBLEHAND_ARTS_10_Name",
+      "style": 14,
+      "name": "Sky High"
+    },
+    {
+      "$id": 40,
+      "label": "ARTS_GATLING_AUTO_Name",
+      "style": 14,
+      "name": ""
+    },
+    {
+      "$id": 41,
+      "label": "ARTS_GATLING_ARTS_1_Name",
+      "style": 14,
+      "name": "Bullet Storm"
+    },
+    {
+      "$id": 42,
+      "label": "ARTS_GATLING_ARTS_2_Name",
+      "style": 14,
+      "name": "Hellfire"
+    },
+    {
+      "$id": 43,
+      "label": "ARTS_GATLING_ARTS_3_Name",
+      "style": 14,
+      "name": "Thermal Payload"
+    },
+    {
+      "$id": 44,
+      "label": "ARTS_GATLING_ARTS_4_Name",
+      "style": 14,
+      "name": "Missile Volley"
+    },
+    {
+      "$id": 45,
+      "label": "ARTS_GATLING_ARTS_5_Name",
+      "style": 14,
+      "name": "Enhanced Stand"
+    },
+    {
+      "$id": 46,
+      "label": "ARTS_GATLING_ARTS_6_Name",
+      "style": 14,
+      "name": "Cool Off"
+    },
+    {
+      "$id": 47,
+      "label": "ARTS_GATLING_ARTS_7_Name",
+      "style": 14,
+      "name": "Fire Carnival"
+    },
+    {
+      "$id": 48,
+      "label": "ARTS_GATLING_ARTS_8_Name",
+      "style": 14,
+      "name": "Bullet Twister"
+    },
+    {
+      "$id": 49,
+      "label": "ARTS_GATLING_ARTS_9_Name",
+      "style": 14,
+      "name": "Titan Recharge"
+    },
+    {
+      "$id": 50,
+      "label": "ARTS_BEAMCANNON_AUTO_Name",
+      "style": 14,
+      "name": ""
+    },
+    {
+      "$id": 51,
+      "label": "ARTS_BEAMCANNON_ARTS_1_Name",
+      "style": 14,
+      "name": "Beam Barrage"
+    },
+    {
+      "$id": 52,
+      "label": "ARTS_BEAMCANNON_ARTS_2_Name",
+      "style": 14,
+      "name": "Subterfuge"
+    },
+    {
+      "$id": 53,
+      "label": "ARTS_BEAMCANNON_ARTS_3_Name",
+      "style": 14,
+      "name": "Myopic Screen"
+    },
+    {
+      "$id": 54,
+      "label": "ARTS_BEAMCANNON_ARTS_4_Name",
+      "style": 14,
+      "name": "Ether Blast"
+    },
+    {
+      "$id": 55,
+      "label": "ARTS_BEAMCANNON_ARTS_5_Name",
+      "style": 14,
+      "name": "Gravity Blast"
+    },
+    {
+      "$id": 56,
+      "label": "ARTS_BEAMCANNON_ARTS_6_Name",
+      "style": 14,
+      "name": "Gravity Cloak"
+    },
+    {
+      "$id": 57,
+      "label": "ARTS_BEAMCANNON_ARTS_7_Name",
+      "style": 14,
+      "name": "Pathogen Blast"
+    },
+    {
+      "$id": 58,
+      "label": "ARTS_BEAMCANNON_ARTS_8_Name",
+      "style": 14,
+      "name": "Master Gunner"
+    },
+    {
+      "$id": 59,
+      "label": "ARTS_BEAMCANNON_ARTS_9_Name",
+      "style": 14,
+      "name": "Clarity Ray"
+    },
+    {
+      "$id": 60,
+      "label": "ARTS_BEAMCANNON_ARTS_10_Name",
+      "style": 14,
+      "name": "Beam Bomber"
+    },
+    {
+      "$id": 61,
+      "label": "ARTS_PSYCHO_AUTO_Name",
+      "style": 14,
+      "name": ""
+    },
+    {
+      "$id": 62,
+      "label": "ARTS_PSYCHO_ARTS_1_Name",
+      "style": 14,
+      "name": "Jetstream"
+    },
+    {
+      "$id": 63,
+      "label": "ARTS_PSYCHO_ARTS_2_Name",
+      "style": 14,
+      "name": "Stellar Ray"
+    },
+    {
+      "$id": 64,
+      "label": "ARTS_PSYCHO_ARTS_3_Name",
+      "style": 14,
+      "name": "Lightning Cloak"
+    },
+    {
+      "$id": 65,
+      "label": "ARTS_PSYCHO_ARTS_4_Name",
+      "style": 14,
+      "name": "Starlight Kick"
+    },
+    {
+      "$id": 66,
+      "label": "ARTS_PSYCHO_ARTS_5_Name",
+      "style": 14,
+      "name": "Astral Protection"
+    },
+    {
+      "$id": 67,
+      "label": "ARTS_PSYCHO_ARTS_6_Name",
+      "style": 14,
+      "name": "Shooting Star"
+    },
+    {
+      "$id": 68,
+      "label": "ARTS_PSYCHO_ARTS_7_Name",
+      "style": 14,
+      "name": "Dual Dynamo"
+    },
+    {
+      "$id": 69,
+      "label": "ARTS_PSYCHO_ARTS_8_Name",
+      "style": 14,
+      "name": "Gravity Lunge"
+    },
+    {
+      "$id": 70,
+      "label": "ARTS_PSYCHO_ARTS_9_Name",
+      "style": 14,
+      "name": "Tacit Censure"
+    },
+    {
+      "$id": 71,
+      "label": "ARTS_SWORD_AUTO_Name",
+      "style": 14,
+      "name": ""
+    },
+    {
+      "$id": 72,
+      "label": "ARTS_SWORD_ARTS_1_Name",
+      "style": 14,
+      "name": "Rising Blade"
+    },
+    {
+      "$id": 73,
+      "label": "ARTS_SWORD_ARTS_2_Name",
+      "style": 14,
+      "name": "Defensive Stance"
+    },
+    {
+      "$id": 74,
+      "label": "ARTS_SWORD_ARTS_3_Name",
+      "style": 14,
+      "name": "Offensive Stance"
+    },
+    {
+      "$id": 75,
+      "label": "ARTS_SWORD_ARTS_4_Name",
+      "style": 14,
+      "name": "Magnum Edge"
+    },
+    {
+      "$id": 76,
+      "label": "ARTS_SWORD_ARTS_5_Name",
+      "style": 14,
+      "name": "Tornado Blade"
+    },
+    {
+      "$id": 77,
+      "label": "ARTS_SWORD_ARTS_6_Name",
+      "style": 14,
+      "name": "Burning Slash"
+    },
+    {
+      "$id": 78,
+      "label": "ARTS_SWORD_ARTS_7_Name",
+      "style": 14,
+      "name": "Incendiary Edge"
+    },
+    {
+      "$id": 79,
+      "label": "ARTS_SWORD_ARTS_8_Name",
+      "style": 14,
+      "name": "Samurai Soul"
+    },
+    {
+      "$id": 80,
+      "label": "ARTS_SWORD_ARTS_9_Name",
+      "style": 14,
+      "name": "Ultraslash"
+    },
+    {
+      "$id": 81,
+      "label": "ARTS_SWORD_ARTS_10_Name",
+      "style": 14,
+      "name": "Blossom Dance"
+    },
+    {
+      "$id": 82,
+      "label": "ARTS_SWORD_ARTS_11_Name",
+      "style": 14,
+      "name": "True Stream Edge"
+    },
+    {
+      "$id": 83,
+      "label": "ARTS_JAVELIN_AUTO_Name",
+      "style": 14,
+      "name": ""
+    },
+    {
+      "$id": 84,
+      "label": "ARTS_JAVELIN_ARTS_1_Name",
+      "style": 14,
+      "name": "Arcing Horn"
+    },
+    {
+      "$id": 85,
+      "label": "ARTS_JAVELIN_ARTS_2_Name",
+      "style": 14,
+      "name": "Hair Trigger"
+    },
+    {
+      "$id": 86,
+      "label": "ARTS_JAVELIN_ARTS_3_Name",
+      "style": 14,
+      "name": "Spiral Horn"
+    },
+    {
+      "$id": 87,
+      "label": "ARTS_JAVELIN_ARTS_4_Name",
+      "style": 14,
+      "name": "Overwhelm"
+    },
+    {
+      "$id": 88,
+      "label": "ARTS_JAVELIN_ARTS_5_Name",
+      "style": 14,
+      "name": "Speed Demon"
+    },
+    {
+      "$id": 89,
+      "label": "ARTS_JAVELIN_ARTS_6_Name",
+      "style": 14,
+      "name": "Raijin"
+    },
+    {
+      "$id": 90,
+      "label": "ARTS_JAVELIN_ARTS_7_Name",
+      "style": 14,
+      "name": "Trident Buster"
+    },
+    {
+      "$id": 91,
+      "label": "ARTS_JAVELIN_ARTS_8_Name",
+      "style": 14,
+      "name": "Balance Breaker"
+    },
+    {
+      "$id": 92,
+      "label": "ARTS_JAVELIN_ARTS_9_Name",
+      "style": 14,
+      "name": "Vortex"
+    },
+    {
+      "$id": 93,
+      "label": "ARTS_JAVELIN_ARTS_10_Name",
+      "style": 14,
+      "name": "Maximum Voltage"
+    },
+    {
+      "$id": 94,
+      "label": "ARTS_DOUBLEBLADE_AUTO_Name",
+      "style": 14,
+      "name": ""
+    },
+    {
+      "$id": 95,
+      "label": "ARTS_DOUBLEBLADE_ARTS_1_Name",
+      "style": 14,
+      "name": "Back Slash"
+    },
+    {
+      "$id": 96,
+      "label": "ARTS_DOUBLEBLADE_ARTS_2_Name",
+      "style": 14,
+      "name": "Killing Machine"
+    },
+    {
+      "$id": 97,
+      "label": "ARTS_DOUBLEBLADE_ARTS_3_Name",
+      "style": 14,
+      "name": "Side Slash"
+    },
+    {
+      "$id": 98,
+      "label": "ARTS_DOUBLEBLADE_ARTS_4_Name",
+      "style": 14,
+      "name": "Stream Edge"
+    },
+    {
+      "$id": 99,
+      "label": "ARTS_DOUBLEBLADE_ARTS_5_Name",
+      "style": 14,
+      "name": "Shadowrunner"
+    },
+    {
+      "$id": 100,
+      "label": "ARTS_DOUBLEBLADE_ARTS_6_Name",
+      "style": 14,
+      "name": "Thirsty Edge"
+    },
+    {
+      "$id": 101,
+      "label": "ARTS_DOUBLEBLADE_ARTS_7_Name",
+      "style": 14,
+      "name": "Blood Sacrifice"
+    },
+    {
+      "$id": 102,
+      "label": "ARTS_DOUBLEBLADE_ARTS_8_Name",
+      "style": 14,
+      "name": "Upper Hand"
+    },
+    {
+      "$id": 103,
+      "label": "ARTS_DOUBLEBLADE_ARTS_9_Name",
+      "style": 14,
+      "name": "Hundred Shells"
+    },
+    {
+      "$id": 104,
+      "label": "ARTS_DOUBLEBLADE_ARTS_10_Name",
+      "style": 14,
+      "name": "Electric Surge"
+    },
+    {
+      "$id": 105,
+      "label": "ARTS_DOUBLEBLADE_ARTS_11_Name",
+      "style": 14,
+      "name": "Shadowstrike"
+    },
+    {
+      "$id": 106,
+      "label": "ARTS_DOUBLEBLADE_ARTS_12_Name",
+      "style": 14,
+      "name": "Crisis Zone"
+    },
+    {
+      "$id": 107,
+      "label": "ARTS_DOUBLEBLADE_ARTS_13_Name",
+      "style": 14,
+      "name": "Seventh Edge"
+    },
+    {
+      "$id": 108,
+      "label": "ARTS_HUGESHIELD_AUTO_Name",
+      "style": 14,
+      "name": ""
+    },
+    {
+      "$id": 109,
+      "label": "ARTS_HUGESHIELD_ARTS_1_Name",
+      "style": 14,
+      "name": "Wild Down"
+    },
+    {
+      "$id": 110,
+      "label": "ARTS_HUGESHIELD_ARTS_2_Name",
+      "style": 14,
+      "name": "Flame Cloak"
+    },
+    {
+      "$id": 111,
+      "label": "ARTS_HUGESHIELD_ARTS_3_Name",
+      "style": 14,
+      "name": "Trash Talk"
+    },
+    {
+      "$id": 112,
+      "label": "ARTS_HUGESHIELD_ARTS_4_Name",
+      "style": 14,
+      "name": "Iron Prison"
+    },
+    {
+      "$id": 113,
+      "label": "ARTS_HUGESHIELD_ARTS_5_Name",
+      "style": 14,
+      "name": "Supershield"
+    },
+    {
+      "$id": 114,
+      "label": "ARTS_HUGESHIELD_ARTS_6_Name",
+      "style": 14,
+      "name": "Wild Smash"
+    },
+    {
+      "$id": 115,
+      "label": "ARTS_HUGESHIELD_ARTS_7_Name",
+      "style": 14,
+      "name": "Reality Rift"
+    },
+    {
+      "$id": 116,
+      "label": "ARTS_HUGESHIELD_ARTS_8_Name",
+      "style": 14,
+      "name": "Bombardier"
+    },
+    {
+      "$id": 117,
+      "label": "ARTS_HUGESHIELD_ARTS_9_Name",
+      "style": 14,
+      "name": "Shield Wall"
+    },
+    {
+      "$id": 118,
+      "label": "ARTS_HUGESHIELD_ARTS_10_Name",
+      "style": 14,
+      "name": "Drum Roll"
+    },
+    {
+      "$id": 119,
+      "label": "ARTS_HUGESHIELD_ARTS_11_Name",
+      "style": 14,
+      "name": "Mindstorm"
+    },
+    {
+      "$id": 120,
+      "label": "ARTS_HUGESHIELD_ARTS_12_Name",
+      "style": 14,
+      "name": "Atomic Hit"
+    },
+    {
+      "$id": 121,
+      "label": "ARTS_HUGESHIELD_ARTS_13_Name",
+      "style": 14,
+      "name": "Flamehand"
+    },
+    {
+      "$id": 122,
+      "label": "ARTS_KNIFE_AUTO_Name",
+      "style": 14,
+      "name": ""
+    },
+    {
+      "$id": 123,
+      "label": "ARTS_KNIFE_ARTS_1_Name",
+      "style": 14,
+      "name": "Screamer"
+    },
+    {
+      "$id": 124,
+      "label": "ARTS_KNIFE_ARTS_2_Name",
+      "style": 14,
+      "name": "Absorber Skin"
+    },
+    {
+      "$id": 125,
+      "label": "ARTS_KNIFE_ARTS_3_Name",
+      "style": 14,
+      "name": "Servant Sacrifice"
+    },
+    {
+      "$id": 126,
+      "label": "ARTS_KNIFE_ARTS_4_Name",
+      "style": 14,
+      "name": "Full Specs"
+    },
+    {
+      "$id": 127,
+      "label": "ARTS_KNIFE_ARTS_5_Name",
+      "style": 14,
+      "name": "Repair"
+    },
+    {
+      "$id": 128,
+      "label": "ARTS_KNIFE_ARTS_6_Name",
+      "style": 14,
+      "name": "Energy Source"
+    },
+    {
+      "$id": 129,
+      "label": "ARTS_KNIFE_ARTS_7_Name",
+      "style": 14,
+      "name": "Brainjack"
+    },
+    {
+      "$id": 130,
+      "label": "ARTS_KNIFE_ARTS_8_Name",
+      "style": 14,
+      "name": "Dispel"
+    },
+    {
+      "$id": 131,
+      "label": "ARTS_KNIFE_ARTS_9_Name",
+      "style": 14,
+      "name": "Black Butterfly"
+    },
+    {
+      "$id": 132,
+      "label": "ARTS_KNIFE_ARTS_10_Name",
+      "style": 14,
+      "name": "Recuperate"
+    },
+    {
+      "$id": 133,
+      "label": "ARTS_KNIFE_ARTS_11_Name",
+      "style": 14,
+      "name": "Chrome Armor"
+    },
+    {
+      "$id": 134,
+      "label": "ARTS_KNIFE_ARTS_12_Name",
+      "style": 14,
+      "name": "Slit Edge"
+    },
+    {
+      "$id": 135,
+      "label": "ARTS_KNIFE_ARTS_13_Name",
+      "style": 14,
+      "name": ""
+    },
+    {
+      "$id": 136,
+      "label": "ARTS_KNIFE_ARTS_14_Name",
+      "style": 14,
+      "name": "Smooth Recovery"
+    },
+    {
+      "$id": 137,
+      "label": "ARTS_KNIFE_ARTS_15_Name",
+      "style": 14,
+      "name": "Black Bane"
+    },
+    {
+      "$id": 138,
+      "label": "ARTS_KNIFE_ARTS_16_Name",
+      "style": 14,
+      "name": "Secondary Speed"
+    },
+    {
+      "$id": 139,
+      "label": "ARTS_BEAMSABER_AUTO_Name",
+      "style": 14,
+      "name": ""
+    },
+    {
+      "$id": 140,
+      "label": "ARTS_BEAMSABER_ARTS_1_Name",
+      "style": 14,
+      "name": "Geolibrium"
+    },
+    {
+      "$id": 141,
+      "label": "ARTS_BEAMSABER_ARTS_2_Name",
+      "style": 14,
+      "name": "Astrolibrium"
+    },
+    {
+      "$id": 142,
+      "label": "ARTS_BEAMSABER_ARTS_3_Name",
+      "style": 14,
+      "name": "Starfall Blade"
+    },
+    {
+      "$id": 143,
+      "label": "ARTS_BEAMSABER_ARTS_4_Name",
+      "style": 14,
+      "name": "Starfall Rondo"
+    },
+    {
+      "$id": 144,
+      "label": "ARTS_BEAMSABER_ARTS_5_Name",
+      "style": 14,
+      "name": "Astral Purge"
+    },
+    {
+      "$id": 145,
+      "label": "ARTS_BEAMSABER_ARTS_6_Name",
+      "style": 14,
+      "name": "Astral Horizon"
+    },
+    {
+      "$id": 146,
+      "label": "ARTS_BEAMSABER_ARTS_7_Name",
+      "style": 14,
+      "name": "Galactic Cataclysm"
+    },
+    {
+      "$id": 147,
+      "label": "ARTS_BEAMSABER_ARTS_8_Name",
+      "style": 14,
+      "name": "Astral Heal"
+    },
+    {
+      "$id": 148,
+      "label": "ARTS_BEAMSABER_ARTS_9_Name",
+      "style": 14,
+      "name": "Novalibrium"
+    },
+    {
+      "$id": 149,
+      "label": "ARTS_BEAMSABER_ARTS_10_Name",
+      "style": 14,
+      "name": "Starfall Blossom"
+    },
+    {
+      "$id": 150,
+      "label": "ARTS_BEAMSABER_ARTS_11_Name",
+      "style": 14,
+      "name": "Starlight Duster"
+    },
+    {
+      "$id": 151,
+      "label": "ARTS_BEAMSABER_ARTS_12_Name",
+      "style": 14,
+      "name": "Essence Exchange"
+    },
+    {
+      "$id": 152,
+      "label": "ARTS_BEAMSABER_ARTS_13_Name",
+      "style": 14,
+      "name": "Phenomenon"
+    },
+    {
+      "$id": 153,
+      "label": "ARTS_MULTIGUN_ARTS1_Name",
+      "style": 14,
+      "name": "Boost Barrel"
+    },
+    {
+      "$id": 154,
+      "label": "ARTS_MULTIGUN_ARTS2_Name",
+      "style": 14,
+      "name": "Sniper Barrel"
+    },
+    {
+      "$id": 155,
+      "label": "ARTS_MULTIGUN_ARTS3_Name",
+      "style": 14,
+      "name": "Missile Barrel"
+    },
+    {
+      "$id": 156,
+      "label": "ARTS_MULTIGUN_ARTS4_Name",
+      "style": 14,
+      "name": "Cannon Barrel"
+    },
+    {
+      "$id": 157,
+      "label": "ARTS_ASSAULT_AUTO_Caption",
+      "style": 14,
+      "name": ""
+    },
+    {
+      "$id": 158,
+      "label": "ARTS_ASSAULT_ARTS_1_Caption",
+      "style": 71,
+      "name": "Inflicts Taunt + WITH MORALE: boosts TP"
+    },
+    {
+      "$id": 159,
+      "label": "ARTS_ASSAULT_ARTS_2_Caption",
+      "style": 71,
+      "name": "Deals weapon damage + Boosts damage\nin melee combos"
+    },
+    {
+      "$id": 160,
+      "label": "ARTS_ASSAULT_ARTS_3_Caption",
+      "style": 71,
+      "name": "(TP) Deals thermal damage + Inflicts Blaze +\nVS. TOPPLED TARGETS: boosts damage"
+    },
+    {
+      "$id": 161,
+      "label": "ARTS_ASSAULT_ARTS_4_Caption",
+      "style": 71,
+      "name": "Deals electric damage + Inflicts Blackout"
+    },
+    {
+      "$id": 162,
+      "label": "ARTS_ASSAULT_ARTS_5_Caption",
+      "style": 71,
+      "name": "Deals physical damage + FROM BEHIND:\nInflicts Stun"
+    },
+    {
+      "$id": 163,
+      "label": "ARTS_ASSAULT_ARTS_6_Caption",
+      "style": 71,
+      "name": "(TP) Boosts debuff resistance + Auto-revives on\nincapacitation"
+    },
+    {
+      "$id": 164,
+      "label": "ARTS_ASSAULT_ARTS_7_Caption",
+      "style": 71,
+      "name": "Deals weapon damage + Inflicts Topple on\nmechanoids"
+    },
+    {
+      "$id": 165,
+      "label": "ARTS_ASSAULT_ARTS_8_Caption",
+      "style": 71,
+      "name": "Grants Supercharge + Grants total evasion\nduring execution"
+    },
+    {
+      "$id": 166,
+      "label": "ARTS_ASSAULT_ARTS_9_Caption",
+      "style": 71,
+      "name": "(TP) Boosts allies' TP"
+    },
+    {
+      "$id": 167,
+      "label": "ARTS_ASSAULT_ARTS_10_Caption",
+      "style": 71,
+      "name": "(TP) Boosts ranged attack + Boosts critical\nchance + Reduces secondary cooldown"
+    },
+    {
+      "$id": 168,
+      "label": "ARTS_ASSAULT_ARTS_11_Caption",
+      "style": 71,
+      "name": "Deals thermal damage + Inflicts Blaze + VS.\nTOPPLED TARGETS: boosts damage"
+    },
+    {
+      "$id": 169,
+      "label": "ARTS_ASSAULT_ARTS_12_Caption",
+      "style": 71,
+      "name": "Deals physical damage + Inflicts Topple"
+    },
+    {
+      "$id": 170,
+      "label": "ARTS_ASSAULT_ARTS_13_Caption",
+      "style": 71,
+      "name": "Inflicts Taunt to draw the target's attacks"
+    },
+    {
+      "$id": 171,
+      "label": "ARTS_ASSAULT_ARTS_14_Caption",
+      "style": 71,
+      "name": ""
+    },
+    {
+      "$id": 172,
+      "label": "ARTS_ASSAULT_ARTS_15_Caption",
+      "style": 71,
+      "name": "Deals thermal damage + Inflicts Blaze +\nBoosts damage in melee combos"
+    },
+    {
+      "$id": 173,
+      "label": "ARTS_ASSAULT_ARTS_16_Caption",
+      "style": 71,
+      "name": "Deals thermal damage"
+    },
+    {
+      "$id": 174,
+      "label": "ARTS_ASSAULT_ARTS_17_Caption",
+      "style": 71,
+      "name": "(TP) Restores HP when using Arts + Boosts fuel\nrecovery of parked Skells"
+    },
+    {
+      "$id": 175,
+      "label": "ARTS_SNIPER_AUTO_Caption",
+      "style": 71,
+      "name": ""
+    },
+    {
+      "$id": 176,
+      "label": "ARTS_SNIPER_ARTS_1_Caption",
+      "style": 71,
+      "name": "Deals weapon damage + Inflicts Topple on\nhumanoids"
+    },
+    {
+      "$id": 177,
+      "label": "ARTS_SNIPER_ARTS_2_Caption",
+      "style": 71,
+      "name": "Deals weapon damage + Boosts appendage\ndamage"
+    },
+    {
+      "$id": 178,
+      "label": "ARTS_SNIPER_ARTS_3_Caption",
+      "style": 71,
+      "name": "Grants Ranged Accuracy Up + Grants Ranged\nAttack Up"
+    },
+    {
+      "$id": 179,
+      "label": "ARTS_SNIPER_ARTS_4_Caption",
+      "style": 71,
+      "name": "Deals weapon damage + Inflicts Debuff Res\nDown"
+    },
+    {
+      "$id": 180,
+      "label": "ARTS_SNIPER_ARTS_5_Caption",
+      "style": 71,
+      "name": "Deals weapon damage + Inflicts Stun"
+    },
+    {
+      "$id": 181,
+      "label": "ARTS_SNIPER_ARTS_6_Caption",
+      "style": 71,
+      "name": "Grants Critical Power"
+    },
+    {
+      "$id": 182,
+      "label": "ARTS_SNIPER_ARTS_7_Caption",
+      "style": 71,
+      "name": "(TP) Boosts critical chance + Boosts TP with\ncriticals + Boosts ranged accuracy"
+    },
+    {
+      "$id": 183,
+      "label": "ARTS_SNIPER_ARTS_8_Caption",
+      "style": 71,
+      "name": "(TP) Deals weapon damage + Boosts damage\nin ranged combos"
+    },
+    {
+      "$id": 184,
+      "label": "ARTS_SNIPER_ARTS_9_Caption",
+      "style": 71,
+      "name": "Deals weapon damage + Boosts damage in\nmelee combos"
+    },
+    {
+      "$id": 185,
+      "label": "ARTS_DOUBLEHAND_AUTO_Caption",
+      "style": 71,
+      "name": ""
+    },
+    {
+      "$id": 186,
+      "label": "ARTS_DOUBLEHAND_ARTS_1_Caption",
+      "style": 71,
+      "name": "Deals weapon damage + FROM THE SIDE:\nboosts TP"
+    },
+    {
+      "$id": 187,
+      "label": "ARTS_DOUBLEHAND_ARTS_2_Caption",
+      "style": 71,
+      "name": "(TP) Raises Critical Power tier + Boosts critical\nchance + Boosts evasion"
+    },
+    {
+      "$id": 188,
+      "label": "ARTS_DOUBLEHAND_ARTS_3_Caption",
+      "style": 71,
+      "name": "Deals weapon damage + Boosts TP with\ncriticals"
+    },
+    {
+      "$id": 189,
+      "label": "ARTS_DOUBLEHAND_ARTS_4_Caption",
+      "style": 71,
+      "name": "Grants Critical Power + Boosts TP"
+    },
+    {
+      "$id": 190,
+      "label": "ARTS_DOUBLEHAND_ARTS_5_Caption",
+      "style": 71,
+      "name": "(TP) Deals weapon damage + Boosts damage\nin ranged combos"
+    },
+    {
+      "$id": 191,
+      "label": "ARTS_DOUBLEHAND_ARTS_6_Caption",
+      "style": 71,
+      "name": "Grants Effect Stasis"
+    },
+    {
+      "$id": 192,
+      "label": "ARTS_DOUBLEHAND_ARTS_7_Caption",
+      "style": 71,
+      "name": "Grants Decoy + Grants total evasion during\nexecution"
+    },
+    {
+      "$id": 193,
+      "label": "ARTS_DOUBLEHAND_ARTS_8_Caption",
+      "style": 71,
+      "name": "(TP) Grants Decoy + Grants total evasion\nduring execution"
+    },
+    {
+      "$id": 194,
+      "label": "ARTS_DOUBLEHAND_ARTS_9_Caption",
+      "style": 71,
+      "name": "Deals weapon damage + Boosts TP in\nmelee combos"
+    },
+    {
+      "$id": 195,
+      "label": "ARTS_DOUBLEHAND_ARTS_10_Caption",
+      "style": 71,
+      "name": "Deals physical damage + Boosts damage in\nmelee combos + Inflicts Stun"
+    },
+    {
+      "$id": 196,
+      "label": "ARTS_GATLING_AUTO_Caption",
+      "style": 71,
+      "name": ""
+    },
+    {
+      "$id": 197,
+      "label": "ARTS_GATLING_ARTS_1_Caption",
+      "style": 71,
+      "name": "Deals weapon damage + Inflicts Flinch on\nhumanoids"
+    },
+    {
+      "$id": 198,
+      "label": "ARTS_GATLING_ARTS_2_Caption",
+      "style": 71,
+      "name": "(TP) Deals weapon damage + WITH AN\nAURA: boosts damage"
+    },
+    {
+      "$id": 199,
+      "label": "ARTS_GATLING_ARTS_3_Caption",
+      "style": 71,
+      "name": "(TP) Deals thermal damage + VS. TOPPLED\nTARGETS: boosts damage"
+    },
+    {
+      "$id": 200,
+      "label": "ARTS_GATLING_ARTS_4_Caption",
+      "style": 71,
+      "name": "Deals thermal damage + Inflicts Thermal Res\nDown"
+    },
+    {
+      "$id": 201,
+      "label": "ARTS_GATLING_ARTS_5_Caption",
+      "style": 71,
+      "name": "(TP) Boosts auto-attack damage + Continually\nrestores HP"
+    },
+    {
+      "$id": 202,
+      "label": "ARTS_GATLING_ARTS_6_Caption",
+      "style": 71,
+      "name": "Removes debuffs + WITH AN AURA: consumes\naura to yield TP"
+    },
+    {
+      "$id": 203,
+      "label": "ARTS_GATLING_ARTS_7_Caption",
+      "style": 71,
+      "name": "Deals thermal damage"
+    },
+    {
+      "$id": 204,
+      "label": "ARTS_GATLING_ARTS_8_Caption",
+      "style": 71,
+      "name": "Deals weapon damage + WITH AN AURA:\nboosts TP"
+    },
+    {
+      "$id": 205,
+      "label": "ARTS_GATLING_ARTS_9_Caption",
+      "style": 71,
+      "name": "(TP) Negates damage reflection + Restores HP\nwhen aura expires + Reduces secondary CD"
+    },
+    {
+      "$id": 206,
+      "label": "ARTS_BEAMCANNON_AUTO_Caption",
+      "style": 71,
+      "name": ""
+    },
+    {
+      "$id": 207,
+      "label": "ARTS_BEAMCANNON_ARTS_1_Caption",
+      "style": 71,
+      "name": "Deals weapon damage + WITH AN AURA:\nboosts damage"
+    },
+    {
+      "$id": 208,
+      "label": "ARTS_BEAMCANNON_ARTS_2_Caption",
+      "style": 71,
+      "name": "Inflicts Debuff Res Down"
+    },
+    {
+      "$id": 209,
+      "label": "ARTS_BEAMCANNON_ARTS_3_Caption",
+      "style": 71,
+      "name": "Deals weapon damage + Inflicts Blackout"
+    },
+    {
+      "$id": 210,
+      "label": "ARTS_BEAMCANNON_ARTS_4_Caption",
+      "style": 71,
+      "name": "(TP) Deals ether damage + WITH AN AURA:\nboosts damage"
+    },
+    {
+      "$id": 211,
+      "label": "ARTS_BEAMCANNON_ARTS_5_Caption",
+      "style": 71,
+      "name": "Deals gravity damage + Inflicts Topple"
+    },
+    {
+      "$id": 212,
+      "label": "ARTS_BEAMCANNON_ARTS_6_Caption",
+      "style": 71,
+      "name": "Grants Gravity Res Up"
+    },
+    {
+      "$id": 213,
+      "label": "ARTS_BEAMCANNON_ARTS_7_Caption",
+      "style": 71,
+      "name": "Inflicts Virus"
+    },
+    {
+      "$id": 214,
+      "label": "ARTS_BEAMCANNON_ARTS_8_Caption",
+      "style": 71,
+      "name": "(TP) Boosts ranged attack + Boosts potential +\nBoosts appendage damage"
+    },
+    {
+      "$id": 215,
+      "label": "ARTS_BEAMCANNON_ARTS_9_Caption",
+      "style": 71,
+      "name": "Removes debuffs + Grants Ether Res Up"
+    },
+    {
+      "$id": 216,
+      "label": "ARTS_BEAMCANNON_ARTS_10_Caption",
+      "style": 71,
+      "name": "Deals weapon damage + WITH AN AURA:\nboosts damage"
+    },
+    {
+      "$id": 217,
+      "label": "ARTS_PSYCHO_AUTO_Caption",
+      "style": 71,
+      "name": ""
+    },
+    {
+      "$id": 218,
+      "label": "ARTS_PSYCHO_ARTS_1_Caption",
+      "style": 71,
+      "name": "Deals ether damage + Inflicts Stun"
+    },
+    {
+      "$id": 219,
+      "label": "ARTS_PSYCHO_ARTS_2_Caption",
+      "style": 71,
+      "name": "Deals weapon damage + Inflicts Beam Res\nDown + WITH AN AURA: boosts damage"
+    },
+    {
+      "$id": 220,
+      "label": "ARTS_PSYCHO_ARTS_3_Caption",
+      "style": 71,
+      "name": "Grants Electric Res Up"
+    },
+    {
+      "$id": 221,
+      "label": "ARTS_PSYCHO_ARTS_4_Caption",
+      "style": 71,
+      "name": "(TP) Deals gravity damage + Inflicts Topple"
+    },
+    {
+      "$id": 222,
+      "label": "ARTS_PSYCHO_ARTS_5_Caption",
+      "style": 71,
+      "name": "(TP) Boosts all attribute resistances + Restores\nHP when using Arts"
+    },
+    {
+      "$id": 223,
+      "label": "ARTS_PSYCHO_ARTS_6_Caption",
+      "style": 71,
+      "name": "Deals electric damage + Inflicts Shock"
+    },
+    {
+      "$id": 224,
+      "label": "ARTS_PSYCHO_ARTS_7_Caption",
+      "style": 71,
+      "name": "(TP) Boosts melee attack + Boosts ranged\nattack + Boosts potential"
+    },
+    {
+      "$id": 225,
+      "label": "ARTS_PSYCHO_ARTS_8_Caption",
+      "style": 71,
+      "name": "(TP) Deals gravity damage + Inflicts Topple +\nBoosts damage in melee combos"
+    },
+    {
+      "$id": 226,
+      "label": "ARTS_PSYCHO_ARTS_9_Caption",
+      "style": 71,
+      "name": "Inflicts Virus"
+    },
+    {
+      "$id": 227,
+      "label": "ARTS_SWORD_AUTO_Caption",
+      "style": 71,
+      "name": ""
+    },
+    {
+      "$id": 228,
+      "label": "ARTS_SWORD_ARTS_1_Caption",
+      "style": 71,
+      "name": "Deals weapon damage + WHEN TARGETED:\nboosts damage"
+    },
+    {
+      "$id": 229,
+      "label": "ARTS_SWORD_ARTS_2_Caption",
+      "style": 71,
+      "name": "(TP) Reduces damage taken + Continually\nrestores HP + Reduces total melee attack"
+    },
+    {
+      "$id": 230,
+      "label": "ARTS_SWORD_ARTS_3_Caption",
+      "style": 71,
+      "name": "(TP) Boosts melee accuracy + Boosts total\nmelee attack + Increases damage taken"
+    },
+    {
+      "$id": 231,
+      "label": "ARTS_SWORD_ARTS_4_Caption",
+      "style": 71,
+      "name": "Deals weapon damage + Inflicts Physical Res\nDown"
+    },
+    {
+      "$id": 232,
+      "label": "ARTS_SWORD_ARTS_5_Caption",
+      "style": 71,
+      "name": "Deals weapon damage + WITH AN AURA:\nboosts TP"
+    },
+    {
+      "$id": 233,
+      "label": "ARTS_SWORD_ARTS_6_Caption",
+      "style": 71,
+      "name": "Deals thermal damage + Inflicts Thermal Res\nDown"
+    },
+    {
+      "$id": 234,
+      "label": "ARTS_SWORD_ARTS_7_Caption",
+      "style": 71,
+      "name": "(TP) Deals thermal damage + Boosts damage\nin melee combos"
+    },
+    {
+      "$id": 235,
+      "label": "ARTS_SWORD_ARTS_8_Caption",
+      "style": 71,
+      "name": "(TP) Adds AOE to melee AAs + Boosts AAs\nupon taking damage + Reduces secondary CD"
+    },
+    {
+      "$id": 236,
+      "label": "ARTS_SWORD_ARTS_9_Caption",
+      "style": 71,
+      "name": "Deals weapon damage + FROM BEHIND:\nboosts damage"
+    },
+    {
+      "$id": 237,
+      "label": "ARTS_SWORD_ARTS_10_Caption",
+      "style": 71,
+      "name": "(TP) Deals weapon damage + Inflicts Stagger\n+ Nullifies target's attribute resistances"
+    },
+    {
+      "$id": 238,
+      "label": "ARTS_SWORD_ARTS_11_Caption",
+      "style": 71,
+      "name": "Deals weapon damage + WITH MORALE:\nboosts TP"
+    },
+    {
+      "$id": 239,
+      "label": "ARTS_JAVELIN_AUTO_Caption",
+      "style": 71,
+      "name": ""
+    },
+    {
+      "$id": 240,
+      "label": "ARTS_JAVELIN_ARTS_1_Caption",
+      "style": 71,
+      "name": "Deals electric damage + Inflicts Electric Res\nDown + Boosts damage in melee combos"
+    },
+    {
+      "$id": 241,
+      "label": "ARTS_JAVELIN_ARTS_2_Caption",
+      "style": 71,
+      "name": "Grants Supercharge"
+    },
+    {
+      "$id": 242,
+      "label": "ARTS_JAVELIN_ARTS_3_Caption",
+      "style": 71,
+      "name": "Deals weapon damage + Inflicts Physical Res\nDown + Boosts damage in melee combos"
+    },
+    {
+      "$id": 243,
+      "label": "ARTS_JAVELIN_ARTS_4_Caption",
+      "style": 71,
+      "name": "Deals weapon damage + Inflicts Fatigue +\nHigher HP = higher damage"
+    },
+    {
+      "$id": 244,
+      "label": "ARTS_JAVELIN_ARTS_5_Caption",
+      "style": 71,
+      "name": "(TP) Reduces cooldown when sprinting +\nRestores HP"
+    },
+    {
+      "$id": 245,
+      "label": "ARTS_JAVELIN_ARTS_6_Caption",
+      "style": 71,
+      "name": "(TP) Boosts critical chance + Restores HP when\nusing Arts + Reflects electric attacks"
+    },
+    {
+      "$id": 246,
+      "label": "ARTS_JAVELIN_ARTS_7_Caption",
+      "style": 71,
+      "name": "(TP) Deals electric damage + Inflicts Shock\n+ Boosts damage in ranged combos"
+    },
+    {
+      "$id": 247,
+      "label": "ARTS_JAVELIN_ARTS_8_Caption",
+      "style": 71,
+      "name": "Deals weapon damage + Inflicts Stagger in\nmelee combos"
+    },
+    {
+      "$id": 248,
+      "label": "ARTS_JAVELIN_ARTS_9_Caption",
+      "style": 71,
+      "name": "Deals electric damage + Inflicts Stun in\nmelee combos"
+    },
+    {
+      "$id": 249,
+      "label": "ARTS_JAVELIN_ARTS_10_Caption",
+      "style": 71,
+      "name": "(TP) Deals weapon damage + AFTER LOSING\nSKELL: boosts damage"
+    },
+    {
+      "$id": 250,
+      "label": "ARTS_DOUBLEBLADE_AUTO_Caption",
+      "style": 71,
+      "name": ""
+    },
+    {
+      "$id": 251,
+      "label": "ARTS_DOUBLEBLADE_ARTS_1_Caption",
+      "style": 71,
+      "name": "Deals weapon damage + FROM BEHIND:\nboosts damage"
+    },
+    {
+      "$id": 252,
+      "label": "ARTS_DOUBLEBLADE_ARTS_2_Caption",
+      "style": 71,
+      "name": "(TP) Boosts melee accuracy + Boosts melee\nattack + Boosts potential"
+    },
+    {
+      "$id": 253,
+      "label": "ARTS_DOUBLEBLADE_ARTS_3_Caption",
+      "style": 71,
+      "name": "Deals weapon damage + Inflicts Fatigue +\nFROM THE SIDE: boosts damage"
+    },
+    {
+      "$id": 254,
+      "label": "ARTS_DOUBLEBLADE_ARTS_4_Caption",
+      "style": 71,
+      "name": "(TP) Deals weapon damage + Boosts damage\nin ranged combos"
+    },
+    {
+      "$id": 255,
+      "label": "ARTS_DOUBLEBLADE_ARTS_5_Caption",
+      "style": 71,
+      "name": "(TP) Boosts potential + FROM BEHIND: boosts\ndamage + Disables enemy detection"
+    },
+    {
+      "$id": 256,
+      "label": "ARTS_DOUBLEBLADE_ARTS_6_Caption",
+      "style": 71,
+      "name": "(TP) Restores HP when landing melee attacks"
+    },
+    {
+      "$id": 257,
+      "label": "ARTS_DOUBLEBLADE_ARTS_7_Caption",
+      "style": 71,
+      "name": "Halves current HP to boost TP by 1000"
+    },
+    {
+      "$id": 258,
+      "label": "ARTS_DOUBLEBLADE_ARTS_8_Caption",
+      "style": 71,
+      "name": "Grants Critical Power"
+    },
+    {
+      "$id": 259,
+      "label": "ARTS_DOUBLEBLADE_ARTS_9_Caption",
+      "style": 71,
+      "name": "(TP) Deals weapon damage + FROM BEHIND:\nboosts damage"
+    },
+    {
+      "$id": 260,
+      "label": "ARTS_DOUBLEBLADE_ARTS_10_Caption",
+      "style": 71,
+      "name": "Deals ether damage. Lower HP = higher\ndamage"
+    },
+    {
+      "$id": 261,
+      "label": "ARTS_DOUBLEBLADE_ARTS_11_Caption",
+      "style": 71,
+      "name": "Deals weapon damage + Inflicts Stagger +\nFROM BEHIND: boosts damage"
+    },
+    {
+      "$id": 262,
+      "label": "ARTS_DOUBLEBLADE_ARTS_12_Caption",
+      "style": 71,
+      "name": "(TP) Reduces auto-attack intervals + Lower\nHP = higher damage + Continually reduces HP"
+    },
+    {
+      "$id": 263,
+      "label": "ARTS_DOUBLEBLADE_ARTS_13_Caption",
+      "style": 71,
+      "name": "Deals weapon damage + Boosts TP in\nranged combos"
+    },
+    {
+      "$id": 264,
+      "label": "ARTS_HUGESHIELD_AUTO_Caption",
+      "style": 71,
+      "name": ""
+    },
+    {
+      "$id": 265,
+      "label": "ARTS_HUGESHIELD_ARTS_1_Caption",
+      "style": 71,
+      "name": "(TP) Deals weapon damage + Inflicts Topple"
+    },
+    {
+      "$id": 266,
+      "label": "ARTS_HUGESHIELD_ARTS_2_Caption",
+      "style": 71,
+      "name": "Grants Thermal Res Up"
+    },
+    {
+      "$id": 267,
+      "label": "ARTS_HUGESHIELD_ARTS_3_Caption",
+      "style": 71,
+      "name": "Inflicts Taunt + WITH MORALE: boosts TP"
+    },
+    {
+      "$id": 268,
+      "label": "ARTS_HUGESHIELD_ARTS_4_Caption",
+      "style": 71,
+      "name": "(TP) Grants Physical Res Up + Enables\nproximity spike damage"
+    },
+    {
+      "$id": 269,
+      "label": "ARTS_HUGESHIELD_ARTS_5_Caption",
+      "style": 71,
+      "name": "(TP) Reflects physical attacks + Reduces\ndamage taken + Nullifies Stun"
+    },
+    {
+      "$id": 270,
+      "label": "ARTS_HUGESHIELD_ARTS_6_Caption",
+      "style": 71,
+      "name": "Deals weapon damage + VS. TOPPLED\nTARGETS: boosts damage"
+    },
+    {
+      "$id": 271,
+      "label": "ARTS_HUGESHIELD_ARTS_7_Caption",
+      "style": 71,
+      "name": "Deals weapon damage + Inflicts Slow Arts"
+    },
+    {
+      "$id": 272,
+      "label": "ARTS_HUGESHIELD_ARTS_8_Caption",
+      "style": 71,
+      "name": "Deals thermal damage + Inflicts Blaze"
+    },
+    {
+      "$id": 273,
+      "label": "ARTS_HUGESHIELD_ARTS_9_Caption",
+      "style": 71,
+      "name": "Grants Barrier"
+    },
+    {
+      "$id": 274,
+      "label": "ARTS_HUGESHIELD_ARTS_10_Caption",
+      "style": 71,
+      "name": "(TP) Deals weapon damage + Physical Res\nDown + IN MELEE COMBOS: boosts damage"
+    },
+    {
+      "$id": 275,
+      "label": "ARTS_HUGESHIELD_ARTS_11_Caption",
+      "style": 71,
+      "name": "Restores HP + Grants Potential Up"
+    },
+    {
+      "$id": 276,
+      "label": "ARTS_HUGESHIELD_ARTS_12_Caption",
+      "style": 71,
+      "name": "Deals weapon damage + Boosts appendage\ndamage"
+    },
+    {
+      "$id": 277,
+      "label": "ARTS_HUGESHIELD_ARTS_13_Caption",
+      "style": 71,
+      "name": "(TP) Boosts debuff resistances + Nullifies terrain\neffects + Enables counter spike damage"
+    },
+    {
+      "$id": 278,
+      "label": "ARTS_KNIFE_AUTO_Caption",
+      "style": 71,
+      "name": ""
+    },
+    {
+      "$id": 279,
+      "label": "ARTS_KNIFE_ARTS_1_Caption",
+      "style": 71,
+      "name": "Inflicts Sleep"
+    },
+    {
+      "$id": 280,
+      "label": "ARTS_KNIFE_ARTS_2_Caption",
+      "style": 71,
+      "name": "Grants Barrier"
+    },
+    {
+      "$id": 281,
+      "label": "ARTS_KNIFE_ARTS_3_Caption",
+      "style": 71,
+      "name": "Boosts HP and TP when controlling a target +\nSometimes destroys the target"
+    },
+    {
+      "$id": 282,
+      "label": "ARTS_KNIFE_ARTS_4_Caption",
+      "style": 71,
+      "name": "(TP) Boosts potential + Boosts ranged attack +\nBoosts ether resistance"
+    },
+    {
+      "$id": 283,
+      "label": "ARTS_KNIFE_ARTS_5_Caption",
+      "style": 71,
+      "name": "Removes debuffs + Restores HP"
+    },
+    {
+      "$id": 284,
+      "label": "ARTS_KNIFE_ARTS_6_Caption",
+      "style": 71,
+      "name": "(TP) Boosts TP + Boosts potential"
+    },
+    {
+      "$id": 285,
+      "label": "ARTS_KNIFE_ARTS_7_Caption",
+      "style": 71,
+      "name": "(TP) Seizes control of the targeted enemy\nand turns it into an ally"
+    },
+    {
+      "$id": 286,
+      "label": "ARTS_KNIFE_ARTS_8_Caption",
+      "style": 71,
+      "name": "(TP) Deals ether damage + Randomly removes\none buff from the target"
+    },
+    {
+      "$id": 287,
+      "label": "ARTS_KNIFE_ARTS_9_Caption",
+      "style": 71,
+      "name": "Deals ether damage + Inflicts Ether Res Down +\nShortens aura effect time"
+    },
+    {
+      "$id": 288,
+      "label": "ARTS_KNIFE_ARTS_10_Caption",
+      "style": 71,
+      "name": "(TP) Boosts evasion + Continually restores HP"
+    },
+    {
+      "$id": 289,
+      "label": "ARTS_KNIFE_ARTS_11_Caption",
+      "style": 71,
+      "name": "Grants Physical Res Up"
+    },
+    {
+      "$id": 290,
+      "label": "ARTS_KNIFE_ARTS_12_Caption",
+      "style": 71,
+      "name": "Deals weapon damage + FROM THE SIDE:\nboosts damage"
+    },
+    {
+      "$id": 291,
+      "label": "ARTS_KNIFE_ARTS_13_Caption",
+      "style": 71,
+      "name": ""
+    },
+    {
+      "$id": 292,
+      "label": "ARTS_KNIFE_ARTS_14_Caption",
+      "style": 71,
+      "name": "Restores HP + Grants Evasion Up"
+    },
+    {
+      "$id": 293,
+      "label": "ARTS_KNIFE_ARTS_15_Caption",
+      "style": 71,
+      "name": "Deals ether damage + More debuffs on\ntarget = higher damage"
+    },
+    {
+      "$id": 294,
+      "label": "ARTS_KNIFE_ARTS_16_Caption",
+      "style": 71,
+      "name": "(TP) Reduces secondary cooldown + Reduces\nauto-attack intervals"
+    },
+    {
+      "$id": 295,
+      "label": "ARTS_BEAMSABER_AUTO_Caption",
+      "style": 71,
+      "name": ""
+    },
+    {
+      "$id": 296,
+      "label": "ARTS_BEAMSABER_ARTS_1_Caption",
+      "style": 71,
+      "name": "(TP) Boosts beam resistance + Continually\nrestores HP + Nullifies terrain effects."
+    },
+    {
+      "$id": 297,
+      "label": "ARTS_BEAMSABER_ARTS_2_Caption",
+      "style": 71,
+      "name": "(TP) Reflects beam attacks + Boosts beam\ndamage"
+    },
+    {
+      "$id": 298,
+      "label": "ARTS_BEAMSABER_ARTS_3_Caption",
+      "style": 71,
+      "name": "Deals weapon damage + Boosts damage in\nmelee combos"
+    },
+    {
+      "$id": 299,
+      "label": "ARTS_BEAMSABER_ARTS_4_Caption",
+      "style": 71,
+      "name": "Deals weapon damage + Boosts damage in\nmelee combos"
+    },
+    {
+      "$id": 300,
+      "label": "ARTS_BEAMSABER_ARTS_5_Caption",
+      "style": 71,
+      "name": "Removes debuffs"
+    },
+    {
+      "$id": 301,
+      "label": "ARTS_BEAMSABER_ARTS_6_Caption",
+      "style": 71,
+      "name": "(TP) Grants Astral Heal and Astral Purge to all\nallies + Expands area-of-effect attack range"
+    },
+    {
+      "$id": 302,
+      "label": "ARTS_BEAMSABER_ARTS_7_Caption",
+      "style": 71,
+      "name": "(TP) Deals beam damage + WITH AN AURA:\nboosts damage"
+    },
+    {
+      "$id": 303,
+      "label": "ARTS_BEAMSABER_ARTS_8_Caption",
+      "style": 71,
+      "name": "(TP) Restores HP + WHEN IN SKELL: restores\nappendage HP"
+    },
+    {
+      "$id": 304,
+      "label": "ARTS_BEAMSABER_ARTS_9_Caption",
+      "style": 71,
+      "name": "(TP) Grants Supercharge upon taking\ndamage + Enables counter spike damage"
+    },
+    {
+      "$id": 305,
+      "label": "ARTS_BEAMSABER_ARTS_10_Caption",
+      "style": 71,
+      "name": "Deals weapon damage + FROM THE FRONT:\nboosts TP"
+    },
+    {
+      "$id": 306,
+      "label": "ARTS_BEAMSABER_ARTS_11_Caption",
+      "style": 71,
+      "name": "(TP) Deals weapon damage + Inflicts Gravity\nRes Down + Boosts damage in melee combos"
+    },
+    {
+      "$id": 307,
+      "label": "ARTS_BEAMSABER_ARTS_12_Caption",
+      "style": 71,
+      "name": "Swaps current HP and TP"
+    },
+    {
+      "$id": 308,
+      "label": "ARTS_BEAMSABER_ARTS_13_Caption",
+      "style": 71,
+      "name": "Deals ether damage + Inflicts Ether Res Down"
+    },
+    {
+      "$id": 309,
+      "label": "ARTS_MULTIGUN_ARTS1_Caption",
+      "style": 71,
+      "name": "(TP) Reduces secondary cooldown + Reduces\nauto-attack intervals + Boosts potential"
+    },
+    {
+      "$id": 310,
+      "label": "ARTS_MULTIGUN_ARTS2_Caption",
+      "style": 71,
+      "name": "Deals ether damage + VS. SHOCKED\nTARGETS: Inflicts Stun"
+    },
+    {
+      "$id": 311,
+      "label": "ARTS_MULTIGUN_ARTS3_Caption",
+      "style": 71,
+      "name": "Deals electric damage + Inflicts Shock +\nWITH AN AURA: boosts damage"
+    },
+    {
+      "$id": 312,
+      "label": "ARTS_MULTIGUN_ARTS4_Caption",
+      "style": 71,
+      "name": "(TP) Deals gravity damage + Inflicts Topple +\nBoosts damage in ranged combos"
+    },
+    {
+      "$id": 313,
+      "label": "ARTS_TARGET_EN_ONE_Range",
+      "style": 18,
+      "name": "Single Enemy"
+    },
+    {
+      "$id": 314,
+      "label": "ARTS_TARGET_EN_SPHERE_Range",
+      "style": 18,
+      "name": "Nearby Enemies"
+    },
+    {
+      "$id": 315,
+      "label": "ARTS_TARGET_EN_SPHERE2_Range",
+      "style": 18,
+      "name": "Enemy Vicinity"
+    },
+    {
+      "$id": 316,
+      "label": "ARTS_TARGET_EN_LINE_Range",
+      "style": 18,
+      "name": "Enemies Ahead"
+    },
+    {
+      "$id": 317,
+      "label": "ARTS_TARGET_EN_SOMEONE_Range",
+      "style": 18,
+      "name": "Enemies Ahead"
+    },
+    {
+      "$id": 318,
+      "label": "ARTS_TARGET_PC_OWN_Range",
+      "style": 18,
+      "name": "Self"
+    },
+    {
+      "$id": 319,
+      "label": "ARTS_TARGET_PC_ONE_Range",
+      "style": 18,
+      "name": "One Ally"
+    },
+    {
+      "$id": 320,
+      "label": "ARTS_TARGET_PC_ALL_Range",
+      "style": 18,
+      "name": "Nearby Allies"
+    },
+    {
+      "$id": 321,
+      "label": "ARTS_TARGET_PC_ALL2_Range",
+      "style": 18,
+      "name": "Other Allies"
+    },
+    {
+      "$id": 322,
+      "label": "ARTS_SNIPER_ARTS_10_Name",
+      "style": 14,
+      "name": "Howling Soul"
+    },
+    {
+      "$id": 323,
+      "label": "ARTS_SWORD_ARTS_12_Name",
+      "style": 14,
+      "name": "Hercules Blow"
+    },
+    {
+      "$id": 324,
+      "label": "ARTS_DOUBLEHAND_ARTS_11_Name",
+      "style": 14,
+      "name": "Effect Charge"
+    },
+    {
+      "$id": 325,
+      "label": "ARTS_BEAMCANNON_ARTS_11_Name",
+      "style": 14,
+      "name": "Bahamut Wave"
+    },
+    {
+      "$id": 326,
+      "label": "ARTS_PSYCHO_ARTS_10_Name",
+      "style": 14,
+      "name": "Conduction Rise"
+    },
+    {
+      "$id": 327,
+      "label": "ARTS_PSYCHO_ARTS_11_Name",
+      "style": 14,
+      "name": "Heroic Tale"
+    },
+    {
+      "$id": 328,
+      "label": "ARTS_JAVELIN_ARTS_11_Name",
+      "style": 14,
+      "name": "Mind Shift"
+    },
+    {
+      "$id": 329,
+      "label": "ARTS_BEAMSABER_ARTS_14_Name",
+      "style": 14,
+      "name": "Sky Sunder"
+    },
+    {
+      "$id": 330,
+      "label": "ARTS_SNIPER_ARTS_10_Caption",
+      "style": 71,
+      "name": "(TP) Boosts melee attack, ranged attack and\npotential + Revives random incapacitated ally"
+    },
+    {
+      "$id": 331,
+      "label": "ARTS_SWORD_ARTS_12_Caption",
+      "style": 71,
+      "name": "Deals weapon damage + Lower HP = higher\ndamage"
+    },
+    {
+      "$id": 332,
+      "label": "ARTS_DOUBLEHAND_ARTS_11_Caption",
+      "style": 71,
+      "name": "Deals weapon damage + Ensures special effect\nof next positional or combo-based Art"
+    },
+    {
+      "$id": 333,
+      "label": "ARTS_BEAMCANNON_ARTS_11_Caption",
+      "style": 71,
+      "name": "Deals weapon damage + Spreads status\ndebuffs"
+    },
+    {
+      "$id": 334,
+      "label": "ARTS_PSYCHO_ARTS_10_Caption",
+      "style": 71,
+      "name": "Deals ether damage + Boosts Blaze and Shock\ndamage inflicted on enemies"
+    },
+    {
+      "$id": 335,
+      "label": "ARTS_PSYCHO_ARTS_11_Caption",
+      "style": 71,
+      "name": "Inflicts Control + Raises enemy level +\nSometimes raises treasure rank"
+    },
+    {
+      "$id": 336,
+      "label": "ARTS_JAVELIN_ARTS_11_Caption",
+      "style": 71,
+      "name": "Deals weapon damage + Removes enemy\ndebuffs and boosts TP based on debuff tiers"
+    },
+    {
+      "$id": 337,
+      "label": "ARTS_BEAMSABER_ARTS_14_Caption",
+      "style": 71,
+      "name": "(TP) Deals beam damage + More debuffs on\ntarget = higher damage"
+    },
+    {
+      "$id": 338,
+      "label": "ARTS_TARGET_EN_ONE_Range_01",
+      "style": 16,
+      "name": "Single Enemy"
+    },
+    {
+      "$id": 339,
+      "label": "ARTS_TARGET_EN_SPHERE_Range_01",
+      "style": 16,
+      "name": "Nearby Enemies"
+    },
+    {
+      "$id": 340,
+      "label": "ARTS_TARGET_EN_SPHERE2_Range_01",
+      "style": 16,
+      "name": "Enemy Vicinity"
+    },
+    {
+      "$id": 341,
+      "label": "ARTS_TARGET_EN_LINE_Range_01",
+      "style": 16,
+      "name": "Enemies Ahead"
+    },
+    {
+      "$id": 342,
+      "label": "ARTS_TARGET_EN_SOMEONE_Range_01",
+      "style": 16,
+      "name": "Enemies Ahead"
+    },
+    {
+      "$id": 343,
+      "label": "ARTS_TARGET_PC_OWN_Range_01",
+      "style": 16,
+      "name": "Self"
+    },
+    {
+      "$id": 344,
+      "label": "ARTS_TARGET_PC_ONE_Range_01",
+      "style": 16,
+      "name": "One Ally"
+    },
+    {
+      "$id": 345,
+      "label": "ARTS_TARGET_PC_ALL_Range_01",
+      "style": 16,
+      "name": "Nearby Allies"
+    },
+    {
+      "$id": 346,
+      "label": "ARTS_TARGET_PC_ALL2_Range_01",
+      "style": 16,
+      "name": "Other Allies"
+    }
+  ]
+}

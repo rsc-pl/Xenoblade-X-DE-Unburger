@@ -1,0 +1,354 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev026201_JNK0010",
+      "style": 4,
+      "name": "Inquire"
+    },
+    {
+      "$id": 2,
+      "label": "tev026201_SEL0011",
+      "style": 3,
+      "name": "Ask Nelly about the restricted hangar."
+    },
+    {
+      "$id": 3,
+      "label": "tev026201_JNK0020",
+      "style": 4,
+      "name": "Discuss"
+    },
+    {
+      "$id": 4,
+      "label": "tev026201_SEL0021",
+      "style": 3,
+      "name": "Ask Nelly if anything is troubling her."
+    },
+    {
+      "$id": 5,
+      "label": "tev026201_SEL0031",
+      "style": 3,
+      "name": "Ask Nelly about the Skell found in Noctilum."
+    },
+    {
+      "$id": 6,
+      "label": "tev026201_SEL0051",
+      "style": 3,
+      "name": "Ask Nelly about the Skell stolen during the attack."
+    },
+    {
+      "$id": 7,
+      "label": "tev026201_SEL4021",
+      "style": 3,
+      "name": "Ask Nelly about recent developments."
+    },
+    {
+      "$id": 8,
+      "label": "tev026201_SEL6011",
+      "style": 3,
+      "name": "Ask Nelly about the fish on Mira."
+    },
+    {
+      "$id": 9,
+      "label": "tev026201_SEL6021",
+      "style": 3,
+      "name": "Ask Nelly about recent developments."
+    },
+    {
+      "$id": 10,
+      "label": "tev026201_MSG0001",
+      "style": 1,
+      "name": "Not even I know what's in there, and we're the ones\nwho are supposed to be guarding it.[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev026201_MSG0002",
+      "style": 1,
+      "name": "You think it's some big new weapon, maybe?\nOr a relic they found on Mira?[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "tev026201_MSG0003",
+      "style": 1,
+      "name": "All I know is that I'm supposed to guard it with my life,\nso it must be crucial to human survival.[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "tev026201_MSG0004",
+      "style": 1,
+      "name": "Well, they picked the right Mediator for the job.\nNobody's getting past me! Not even you, [ST:gender p1=buster p2=sister ]!\nTwo steps back! Right now! Hup![ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "tev026201_MSG0009",
+      "style": 1,
+      "name": "One of my fellow Mediators said he's really into me\nand wants us to be a thing. I...don't know how I feel\nabout that.[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "tev026201_MSG0010",
+      "style": 1,
+      "name": "I mean, we're in the middle of a crisis, right?\nIt would feel really weird to be dating and...stuff.\nAnyway, I've kind of been keeping him hanging.[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "tev026201_MSG0011",
+      "style": 1,
+      "name": "...Oh, don't get me wrong! I like him, I really do.\nI mean, I really, REALLY like him. Hee![ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "tev026201_MSG0012",
+      "style": 1,
+      "name": "But I just don't know if I can balance a love life with\nmy work life. It's tough.[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "tev026201_MSG0017",
+      "style": 1,
+      "name": "I saw that alien Skell when they put it in the restricted\nhangar.[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "tev026201_MSG0018",
+      "style": 1,
+      "name": "It didn't look like it would be operational anytime soon.\nTo be honest, it struck me as kind of underwhelming.[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "tev026201_MSG0019",
+      "style": 1,
+      "name": "Think the Ganglion yoinked the wrong superweapon?\nI mean, we all make mistakes. Hell, I bought men's\ndeodorant by accident once.[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "tev026201_MSG0024",
+      "style": 1,
+      "name": "I think it's safe to say it must be important to them,\nconsidering the number of troops they expended on\ngetting it back.[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "tev026201_MSG0025",
+      "style": 1,
+      "name": "Our investigative team didn't find anything special\nabout it, but hey, who knows. The thing might possess\nunimaginable power that we just can't...um...imagine.[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "tev026201_MSG0026",
+      "style": 1,
+      "name": "It might even be like their version of the Lifehold.[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "tev026201_MSG0027",
+      "style": 1,
+      "name": "For all we know, something essential to their survival\nwas hiding in there and we missed it.[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "tev026201_MSG1001",
+      "style": 1,
+      "name": "Hey, that ball of honeysmoke you suggested added\njust the right kick to my cooking![ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "tev026201_MSG1002",
+      "style": 1,
+      "name": "I added a tablespoonful as a secret spice, and it gave\nmy stew this sweet fragrance, but also a bit of sour.\nIt really brought out the umami of the ingredients.[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "tev026201_MSG1003",
+      "style": 1,
+      "name": "...I've always wanted to say umami.\nI feel like such a pro chef now![ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "tev026201_MSG1004",
+      "style": 1,
+      "name": "Even my boyfriend said he likes my cooking more than\never. Isn't he sweet?[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "tev026201_MSG1005",
+      "style": 1,
+      "name": "Anyway, you should try it. You won't be sorry![ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "tev026201_MSG2001",
+      "style": 1,
+      "name": "Hey! That high-temperature pot you suggested was a\ncomplete disaster![ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "tev026201_MSG2002",
+      "style": 1,
+      "name": "I thought it would be great to have a pan that never\ncools down...until I started cooking with it.[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "tev026201_MSG2003",
+      "style": 1,
+      "name": "It accumulated so much heat that I couldn't even touch\nit with an oven mitt![ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "tev026201_MSG2004",
+      "style": 1,
+      "name": "I finally used tongs to wrestle it into a cabinet,\nwhere it promptly MELTED INTO PLACE. I kid you not.[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "tev026201_MSG2005",
+      "style": 1,
+      "name": "In the end, I had to ask my friend to rip the whole\ncabinet out with his Skell and bury it. Yep. Seriously.[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "tev026201_MSG2006",
+      "style": 1,
+      "name": "\"High-temperature pot\"? Pfft! They should call it the\n\"ALWAYS Hot Pot!\" Get it? Because it won't...\nLook, L needs to pay for my new cabinet![ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "tev026201_MSG3001",
+      "style": 1,
+      "name": "Hey there! That electric hammock you suggested has\nchanged my life.[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "tev026201_MSG3002",
+      "style": 1,
+      "name": "Get this: I ran out of ingredients, so I took the\nhammock out to the water and tried using it as a\nfishing net.[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "tev026201_MSG3003",
+      "style": 1,
+      "name": "This, as it turns out, was GENIUS. I raked in more\nseafood than a baleen whale at a salmon run![ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "tev026201_MSG3004",
+      "style": 1,
+      "name": "Then I told my friend, and she introduced me to some\nxeno buyers who are willing to pay way more than I\nmake from BLADE missions.[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "tev026201_MSG3005",
+      "style": 1,
+      "name": "Well, I know an opportunity when I smell one.\nI ditched my low-income hangnail of a boyfriend and\nstarted doing daily fishing trips.[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "tev026201_MSG3006",
+      "style": 1,
+      "name": "In fact, I'm weeks—maybe even days—away from\ndeveloping a fishing Skell. And I owe it all to you![ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "tev026201_MSG3007",
+      "style": 1,
+      "name": "That fancy downtown house I've always dreamed about\nis finally within reach. Suck it, BLADE![ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "tev026201_MSG4001",
+      "style": 1,
+      "name": "I never would have dreamed that honeysmoke could\nadd so much oomph to my cooking. It's incredible![ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "tev026201_MSG4002",
+      "style": 1,
+      "name": "My boyfriend is so head over heels for it that he\nPROPOSED to me the other day. Can you imagine?[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "tev026201_MSG4003",
+      "style": 1,
+      "name": "And I owe it all to you and L for coming up with it.\nYou're the best![ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "tev026201_MSG5001",
+      "style": 1,
+      "name": "Add that to life experiences I never thought I'd have:\nbashing in a wall of my room to extract a saucepan.[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "tev026201_MSG5002",
+      "style": 1,
+      "name": "I told my friend to bury the darned thing deep,\nbut I hear the soil there has risen to, shall we say,\n\"toasty\" temperatures...[ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "tev026201_MSG5003",
+      "style": 1,
+      "name": "Seriously, why did you recommend that thing?\nWere you trying to kill us all?[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "tev026201_MSG5004",
+      "style": 1,
+      "name": "I swear, L is going to pay for the repairs if it's the\nlast thing I do.[ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "tev026201_MSG6001",
+      "style": 1,
+      "name": "The other day, when I was out fishing, I accidentally\npulled up a fish-like indigen called a \"duoguill.\"[ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "tev026201_MSG6002",
+      "style": 1,
+      "name": "I guess they really like electricity, because the electric\nhammock made the thing feistier than a dog in a\nsqueeze-toy factory. I couldn't keep it still![ST:wait ]"
+    },
+    {
+      "$id": 52,
+      "label": "tev026201_MSG6003",
+      "style": 1,
+      "name": "Darned thing burned all the other fish I caught to ash.[ST:wait ]"
+    },
+    {
+      "$id": 53,
+      "label": "tev026201_MSG6004",
+      "style": 1,
+      "name": "So if you ever run into one, whatever you do,\ndon't hit it with electric attacks![ST:wait ]"
+    },
+    {
+      "$id": 54,
+      "label": "tev026201_MSG6009",
+      "style": 1,
+      "name": "Once I finish developing my fishing Skell, I'll be taking\nhome enough fish to make my current haul pale in\ncomparison.[ST:wait ]"
+    },
+    {
+      "$id": 55,
+      "label": "tev026201_MSG6010",
+      "style": 1,
+      "name": "After that, it's just a matter of watching my income\nskyrocket and building a personal fleet of ships.\nOh, and a fancy corporate HQ...[ST:wait ]"
+    },
+    {
+      "$id": 56,
+      "label": "tev026201_MSG6011",
+      "style": 1,
+      "name": "I've got big dreams, baby! And I owe it all to L and\nhis electric hammock. There aren't enough words in\nthe world to thank you both![ST:wait ]"
+    }
+  ]
+}

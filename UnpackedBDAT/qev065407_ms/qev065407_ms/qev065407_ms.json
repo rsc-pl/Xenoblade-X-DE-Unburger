@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev065407_MSG0001",
+      "style": 1,
+      "name": "Why would they take my form?[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev065407_MSG0002",
+      "style": 1,
+      "name": "I must have let my guard down on some level,\notherwise this wouldn't have happened.\nI'll have to be more careful.[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev065407_MSG0003",
+      "style": 1,
+      "name": "I'm itching to help out, but I don't want to make\nmatters worse.[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev065407_MSG0004",
+      "style": 1,
+      "name": "I'll stay put for now.[ST:wait ]"
+    }
+  ]
+}

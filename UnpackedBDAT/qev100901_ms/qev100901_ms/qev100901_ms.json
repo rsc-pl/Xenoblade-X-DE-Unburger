@@ -1,0 +1,108 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev100901_MSG0001",
+      "style": 1,
+      "name": "Are you the BLADE who agreed to accept my request?[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev100901_MSG0002",
+      "style": 1,
+      "name": "I presently require 900 units of miranium.\nBut it seems you do not have it with you.[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev100901_MSG0003",
+      "style": 1,
+      "name": "I would humbly request that you gather it,\nthen return to speak with me again. And thank you.[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev100901_MSG0004",
+      "style": 1,
+      "name": "Are you the BLADE who agreed to accept my request?[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev100901_MSG0005",
+      "style": 1,
+      "name": "I presently require 900 units of miranium and...\nAh! I see you have it with you.[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev100901_MSG0006",
+      "style": 1,
+      "name": "May I have it now?[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev100901_JNK0010",
+      "style": 4,
+      "name": "Deliver[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev100901_SEL0011",
+      "style": 3,
+      "name": "Hand over 900 units of Miranium.[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev100901_JNK0020",
+      "style": 4,
+      "name": "Keep[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev100901_SEL0021",
+      "style": 3,
+      "name": "Hold on to your miranium for now.[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev100901_MSG0007",
+      "style": 1,
+      "name": "This is 900 units on the nose. Thank you.[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev100901_MSG0008",
+      "style": 1,
+      "name": "I will see that it is delivered to the arms manufacturers\nimmediately—it should help considerably with their\ncurrent resource shortage.[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev100901_MSG0009",
+      "style": 1,
+      "name": "Thank you for your assistance. I hope you will continue\nto harvest miranium to aid in the city's development.[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev100901_MSG0010",
+      "style": 1,
+      "name": "I understand.[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev100901_MSG0011",
+      "style": 1,
+      "name": "Please return once you have sufficient miranium to\nspare. Until then.[ST:wait ]"
+    }
+  ]
+}

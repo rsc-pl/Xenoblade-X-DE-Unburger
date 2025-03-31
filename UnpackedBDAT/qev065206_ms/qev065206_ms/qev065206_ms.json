@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev065206_MSG0001",
+      "style": 1,
+      "name": "Any success in infiltrating the three sisters' quarters?[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev065206_MSG0002",
+      "style": 1,
+      "name": "...What? There's a barrier blocking your way?[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev065206_MSG0003",
+      "style": 1,
+      "name": "Hmm... I remember that security being in place when I\nwas still there.[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev065206_MSG0004",
+      "style": 1,
+      "name": "You'll need to find three keys distributed between the\nDefinians and Milsaadi.[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev065206_MSG0005",
+      "style": 1,
+      "name": "Though I doubt they ever dreamed they'd be invaded,\nso you may find them just lying around nearby.[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev065206_MSG0006",
+      "style": 1,
+      "name": "In any case, once you obtain three, you should be able\nto pass through that barrier to the sisters.[ST:wait ]"
+    }
+  ]
+}

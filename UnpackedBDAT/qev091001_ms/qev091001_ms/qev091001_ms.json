@@ -1,0 +1,402 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev091001_MSG0001",
+      "style": 0,
+      "name": "Hmm. Guess I'm outta options...[ST:wait ]\n"
+    },
+    {
+      "$id": 2,
+      "label": "qev091001_JNK0010",
+      "style": 4,
+      "name": "Query"
+    },
+    {
+      "$id": 3,
+      "label": "qev091001_SEL0011",
+      "style": 3,
+      "name": "Ask the man if he's all right."
+    },
+    {
+      "$id": 4,
+      "label": "qev091001_JNK0020",
+      "style": 4,
+      "name": "Watch"
+    },
+    {
+      "$id": 5,
+      "label": "qev091001_SEL0021",
+      "style": 3,
+      "name": "Hang back and say nothing."
+    },
+    {
+      "$id": 6,
+      "label": "qev091001_MSG0002",
+      "style": 0,
+      "name": "Heeeey! Are you thinking what I'm thinking?[ST:wait ]\n"
+    },
+    {
+      "$id": 7,
+      "label": "qev091001_MSG0003",
+      "style": 0,
+      "name": "Wouldn't be here if you weren't, right? Perfect!\nLet's drink—I'm buyin'![ST:wait ]\n"
+    },
+    {
+      "$id": 8,
+      "label": "qev091001_MSG0004",
+      "style": 0,
+      "name": "I don't want to drink alone,\nbut none of the others are free tonight...[ST:wait ]\n"
+    },
+    {
+      "$id": 9,
+      "label": "qev091001_MSG0005",
+      "style": 0,
+      "name": "Hmmm, maybe I could—[ST:wait ]\n"
+    },
+    {
+      "$id": 10,
+      "label": "qev091001_MSG0006",
+      "style": 0,
+      "name": "Heeeeey! It's the answer to my problems![ST:wait ]\n"
+    },
+    {
+      "$id": 11,
+      "label": "qev091001_MSG0007",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 12,
+      "label": "qev091001_MSG0007_m",
+      "style": 0,
+      "name": "Nice to meet you, stranger.\nI'm buying drinks, and you're helping me drink 'em![ST:wait ]\n"
+    },
+    {
+      "$id": 13,
+      "label": "qev091001_MSG0007_f",
+      "style": 0,
+      "name": "Nice to meet you, stranger.\nI'm buying drinks, and you're helping me drink 'em![ST:wait ]\n"
+    },
+    {
+      "$id": 14,
+      "label": "qev091001_JNK0030",
+      "style": 4,
+      "name": "Join"
+    },
+    {
+      "$id": 15,
+      "label": "qev091001_SEL0031",
+      "style": 3,
+      "name": "Agree to a drink."
+    },
+    {
+      "$id": 16,
+      "label": "qev091001_JNK0040",
+      "style": 4,
+      "name": "Decline"
+    },
+    {
+      "$id": 17,
+      "label": "qev091001_SEL0041",
+      "style": 3,
+      "name": "Turn down the offer."
+    },
+    {
+      "$id": 18,
+      "label": "qev091001_JNK0050",
+      "style": 4,
+      "name": "Protest"
+    },
+    {
+      "$id": 19,
+      "label": "qev091001_SEL0051",
+      "style": 3,
+      "name": "Claim that you're underage."
+    },
+    {
+      "$id": 20,
+      "label": "qev091001_MSG0008",
+      "style": 0,
+      "name": "That's what I wanted to hear!\nLet's keep this party goin' till dawn! Ha ha![ST:wait ]\n"
+    },
+    {
+      "$id": 21,
+      "label": "qev091001_MSG0009",
+      "style": 0,
+      "name": "What, too good to drink my booze?\nNobody likes a wet blanket![ST:wait ]\n"
+    },
+    {
+      "$id": 22,
+      "label": "qev091001_MSG0010",
+      "style": 0,
+      "name": "Come on, live a little! Let's party the night away![ST:wait ]\n"
+    },
+    {
+      "$id": 23,
+      "label": "qev091001_MSG0011",
+      "style": 0,
+      "name": "So what? Have juice! Or milk!\nOr whatever you kids are drinking these days.[ST:wait ]\n"
+    },
+    {
+      "$id": 24,
+      "label": "qev091001_MSG0012",
+      "style": 0,
+      "name": "All I'm asking for is a little company while I tip a few back![ST:wait ]\n"
+    },
+    {
+      "$id": 25,
+      "label": "qev091001_MSG0013",
+      "style": 0,
+      "name": "Oh man, good times. The best!\nI didn't think we'd actually go till dawn![ST:wait ]\n"
+    },
+    {
+      "$id": 26,
+      "label": "qev091001_MSG0014",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 27,
+      "label": "qev091001_MSG0014_m",
+      "style": 0,
+      "name": "Right then! You ready for the main event?[ST:wait ]\n"
+    },
+    {
+      "$id": 28,
+      "label": "qev091001_MSG0014_f",
+      "style": 0,
+      "name": "Right then! You ready for the main event?[ST:wait ]\n"
+    },
+    {
+      "$id": 29,
+      "label": "qev091001_JNK0060",
+      "style": 4,
+      "name": "Query"
+    },
+    {
+      "$id": 30,
+      "label": "qev091001_SEL0061",
+      "style": 3,
+      "name": "Ask what's up next."
+    },
+    {
+      "$id": 31,
+      "label": "qev091001_JNK0070",
+      "style": 4,
+      "name": "Suggest"
+    },
+    {
+      "$id": 32,
+      "label": "qev091001_SEL0071",
+      "style": 3,
+      "name": "Say that perhaps he should get some sleep."
+    },
+    {
+      "$id": 33,
+      "label": "qev091001_JNK0080",
+      "style": 4,
+      "name": "Rally"
+    },
+    {
+      "$id": 34,
+      "label": "qev091001_SEL0081",
+      "style": 3,
+      "name": "Offer to buy the next round."
+    },
+    {
+      "$id": 35,
+      "label": "qev091001_MSG0015",
+      "style": 0,
+      "name": "You gotta ask?[ST:wait ]\n"
+    },
+    {
+      "$id": 36,
+      "label": "qev091001_MSG0016",
+      "style": 0,
+      "name": "Crackin' indigen skulls, of course!\nWhat else would an Interceptor do?[ST:wait ]\n"
+    },
+    {
+      "$id": 37,
+      "label": "qev091001_MSG0018",
+      "style": 0,
+      "name": "Sleep? I'm on duty![ST:wait ]\n"
+    },
+    {
+      "$id": 38,
+      "label": "qev091001_MSG0019",
+      "style": 0,
+      "name": "And those toothy critters ain't gonna fight themselves.[ST:wait ]\n"
+    },
+    {
+      "$id": 39,
+      "label": "qev091001_MSG0020",
+      "style": 0,
+      "name": "...What? You look surprised.[ST:wait ]\n"
+    },
+    {
+      "$id": 40,
+      "label": "qev091001_MSG0021",
+      "style": 0,
+      "name": "Haw haw! We got a live one here![ST:wait ]\n"
+    },
+    {
+      "$id": 41,
+      "label": "qev091001_MSG0022",
+      "style": 0,
+      "name": "Sorry, buddy, but daylight hours are for working.\nTime to get useful.[ST:wait ]\n"
+    },
+    {
+      "$id": 42,
+      "label": "qev091001_MSG0023",
+      "style": 0,
+      "name": "Hey, don't look so surprised.\nI like to have fun, but I'm still a BLADE, ya know?[ST:wait ]\n"
+    },
+    {
+      "$id": 43,
+      "label": "qev091001_MSG0024",
+      "style": 0,
+      "name": "Anyway, guess I never introduced myself.[ST:wait ]\n"
+    },
+    {
+      "$id": 44,
+      "label": "qev091001_MSG0025",
+      "style": 0,
+      "name": "The name's Frye.[ST:wait ]\n"
+    },
+    {
+      "$id": 45,
+      "label": "qev091001_MSG0026",
+      "style": 0,
+      "name": "The rest of the Interceptors call me the Killer Ostrich.[ST:wait ]\n"
+    },
+    {
+      "$id": 46,
+      "label": "qev091001_MSG0027",
+      "style": 0,
+      "name": "...Worst nickname ever, right?[ST:wait ]\n"
+    },
+    {
+      "$id": 47,
+      "label": "qev091001_MSG0028",
+      "style": 0,
+      "name": "Well, I love it.[ST:wait ]\n"
+    },
+    {
+      "$id": 48,
+      "label": "qev091001_MSG0029",
+      "style": 0,
+      "name": "I'm always taking the dangerous jobs\nnobody else'll touch with a 10-foot pole.[ST:wait ]\n"
+    },
+    {
+      "$id": 49,
+      "label": "qev091001_MSG0030",
+      "style": 0,
+      "name": "Hence the nickname. Well, the \"Killer\" part, anyway.[ST:wait ]\n"
+    },
+    {
+      "$id": 50,
+      "label": "qev091001_MSG0031",
+      "style": 0,
+      "name": "I take it as a compliment.[ST:wait ]\n"
+    },
+    {
+      "$id": 51,
+      "label": "qev091001_MSG0032",
+      "style": 0,
+      "name": "But it means I've gotta nix some nasties today\nif I want to keep my rep.[ST:wait ]\n"
+    },
+    {
+      "$id": 52,
+      "label": "qev091001_MSG0033",
+      "style": 0,
+      "name": "Care to join me, seeing as we're old pals and all now?[ST:wait ]\n"
+    },
+    {
+      "$id": 53,
+      "label": "qev091001_JNK0090",
+      "style": 4,
+      "name": "Accept"
+    },
+    {
+      "$id": 54,
+      "label": "qev091001_SEL0091",
+      "style": 3,
+      "name": "Agree to help Frye with whatever he needs."
+    },
+    {
+      "$id": 55,
+      "label": "qev091001_JNK0100",
+      "style": 4,
+      "name": "Decline"
+    },
+    {
+      "$id": 56,
+      "label": "qev091001_SEL0101",
+      "style": 3,
+      "name": "Say that you're busy."
+    },
+    {
+      "$id": 57,
+      "label": "qev091001_MSG0034",
+      "style": 0,
+      "name": "Hah! Good energy! I like you.[ST:wait ]\n"
+    },
+    {
+      "$id": 58,
+      "label": "qev091001_MSG0035",
+      "style": 0,
+      "name": "Let's you and me knock this baby outta the park.[ST:wait ]\n"
+    },
+    {
+      "$id": 59,
+      "label": "qev091001_MSG0036",
+      "style": 0,
+      "name": "Aw, don't be like that![ST:wait ]\n"
+    },
+    {
+      "$id": 60,
+      "label": "qev091001_MSG0037",
+      "style": 0,
+      "name": "Come on, I'll protect you and everything.[ST:wait ]\n"
+    },
+    {
+      "$id": 61,
+      "label": "qev091001_MSG0039",
+      "style": 0,
+      "name": "Today's mission is critter cleanup out in Sylvalum.[ST:wait ]\n"
+    },
+    {
+      "$id": 62,
+      "label": "qev091001_MSG0042",
+      "style": 0,
+      "name": "There's a lot of 'em, though.[ST:wait ]\n"
+    },
+    {
+      "$id": 63,
+      "label": "qev091001_MSG0043",
+      "style": 0,
+      "name": "It'd be a hassle to explain it all,\nso just check your comm device later, okay?[ST:wait ]\n"
+    },
+    {
+      "$id": 64,
+      "label": "qev091001_MSG0044",
+      "style": 0,
+      "name": "We'll take 'em out in the order they're listed.[ST:wait ]\n"
+    }
+  ]
+}

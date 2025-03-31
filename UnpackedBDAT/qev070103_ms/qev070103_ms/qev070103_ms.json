@@ -1,0 +1,210 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev070103_MSG0016",
+      "style": 1,
+      "name": "Hey, do you know the xeno living at the edge of the\nindustrial district? The one calling himself Professor B?[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev070103_MSG0017",
+      "style": 1,
+      "name": "What do you make of him?[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev070103_MSG0018",
+      "style": 1,
+      "name": "Don't get me wrong, he's good business for me.\nAlways comes in buying parts...[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev070103_MSG0019",
+      "style": 1,
+      "name": "But I have no idea what it is he's building,\nand sometimes the things he says make no sense.[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev070103_MSG0020",
+      "style": 1,
+      "name": "A little mystery is well and good, but this borders on\nunsettling. I mean, when did he even come to New LA?[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev070103_MSG0001",
+      "style": 1,
+      "name": "If it's secondhand goods at ridiculous prices you're\nafter, Graham's your man. I'll give you deals the retail\nguys wouldn't dream of![ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev070103_MSG0002",
+      "style": 1,
+      "name": "...Hmm? Professor B sent you? Ah, nice!\nHe's one of my best customers.[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev070103_MSG0003",
+      "style": 1,
+      "name": "Car-wise, I've got a few options lined up for you.\nOn the left there, you've got a blue standard model.\nMiddle one's a junker, and then we got my red beauty.[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev070103_MSG0004",
+      "style": 1,
+      "name": "What's your pleasure? Whichever you like,\nI'll knock a chunk off the price for you.[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev070103_JNK0010",
+      "style": 4,
+      "name": "Choose Average"
+    },
+    {
+      "$id": 11,
+      "label": "qev070103_SEL0011",
+      "style": 3,
+      "name": "Purchase the blue standard model."
+    },
+    {
+      "$id": 12,
+      "label": "qev070103_JNK0020",
+      "style": 4,
+      "name": "Choose Junker"
+    },
+    {
+      "$id": 13,
+      "label": "qev070103_SEL0021",
+      "style": 3,
+      "name": "Purchase the cheap jalopy."
+    },
+    {
+      "$id": 14,
+      "label": "qev070103_JNK0030",
+      "style": 4,
+      "name": "Choose Luxury"
+    },
+    {
+      "$id": 15,
+      "label": "qev070103_SEL0031",
+      "style": 3,
+      "name": "Purchase the fancy red car."
+    },
+    {
+      "$id": 16,
+      "label": "qev070103_MSG0005",
+      "style": 1,
+      "name": "Makes sense. It's really the perfect compromise.\nI can let this baby go for 10,000 credits. Sound good?[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev070103_JNK0040",
+      "style": 4,
+      "name": "Purchase"
+    },
+    {
+      "$id": 18,
+      "label": "qev070103_SEL0041",
+      "style": 3,
+      "name": "Buy the standard car for 10,000 credits."
+    },
+    {
+      "$id": 19,
+      "label": "qev070103_JNK0070",
+      "style": 4,
+      "name": "Wait"
+    },
+    {
+      "$id": 20,
+      "label": "qev070103_SEL0071",
+      "style": 3,
+      "name": "Hold off on your purchase for now."
+    },
+    {
+      "$id": 21,
+      "label": "qev070103_MSG0007",
+      "style": 1,
+      "name": "Really? That bucket of bolts? I've been trying to move\nthat thing off the lot for mont... Uh, I mean, what a\nfine purchase! Just 1,000 credits and she's all yours.[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev070103_JNK0050",
+      "style": 4,
+      "name": "Purchase"
+    },
+    {
+      "$id": 23,
+      "label": "qev070103_SEL0051",
+      "style": 3,
+      "name": "Buy the old clunker for 1,000 credits."
+    },
+    {
+      "$id": 24,
+      "label": "qev070103_MSG0009",
+      "style": 1,
+      "name": "You have a good eye, buddy! Top of the line taste!\nThis baby's the sweetest ride on Mira or anywhere else.[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev070103_MSG0010",
+      "style": 1,
+      "name": "Probably the most expensive, too. But you tell me,\nis there a better use for 100,000 credits? Ha!\n...The answer is no, by the way.[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev070103_JNK0060",
+      "style": 4,
+      "name": "Purchase"
+    },
+    {
+      "$id": 27,
+      "label": "qev070103_SEL0061",
+      "style": 3,
+      "name": "Buy the luxury car for 100,000 credits."
+    },
+    {
+      "$id": 28,
+      "label": "qev070103_MSG0011",
+      "style": 1,
+      "name": "Thanks much! I'll deliver it to Professor B's place for\nyou, free of charge.[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev070103_MSG0014",
+      "style": 1,
+      "name": "Gonna think on it awhile? Well, I'll be here.\nOnce you make up your mind, just let me know.[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev070103_MSG0015",
+      "style": 1,
+      "name": "...Hmm? Doesn't look like you've got enough, friend.\nSorry, but I'm going to need cash on the barrelhead\nfor this one.[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev070103_MSG0012",
+      "style": 1,
+      "name": "Heh. I was glad to see Professor B liked the car you\npicked up for him.[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev070103_MSG0013",
+      "style": 1,
+      "name": "In the end, you get what you pay for, right?\n...I wouldn't drive it anywhere it would stand out,\nbut maybe that's just me.[ST:wait ]"
+    }
+  ]
+}

@@ -1,0 +1,318 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev050303_MSG0001",
+      "style": 1,
+      "name": "Wait. Are you the one who hailed me?[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev050303_MSG0002",
+      "style": 1,
+      "name": "I told you to go home. This is a Wrothian battlefield.\nThere is no place for a human upon it.[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev050303_JNK0010",
+      "style": 4,
+      "name": "Nod"
+    },
+    {
+      "$id": 4,
+      "label": "qev050303_SEL0011",
+      "style": 3,
+      "name": "Agree that this grudge has\nnothing to do with you."
+    },
+    {
+      "$id": 5,
+      "label": "qev050303_JNK0020",
+      "style": 4,
+      "name": "Shake Head"
+    },
+    {
+      "$id": 6,
+      "label": "qev050303_SEL0021",
+      "style": 3,
+      "name": "Say that you have business here\nso long as Ge Jewhe does."
+    },
+    {
+      "$id": 7,
+      "label": "qev050303_MSG0003",
+      "style": 1,
+      "name": "I like a [ST:gender p1=man  p2=woman  ]who understands.\nPlease go tell Vi Sezha that Ge Jewhe has perished.[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev050303_MSG0004",
+      "style": 1,
+      "name": "And perhaps you can try to...comfort her?\nI fear the news will not be easy to take.[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev050303_MSG0005",
+      "style": 1,
+      "name": "I would rather you were there for her than the other\nWrothians. We are something of an...awkward bunch\nwhen it comes to feelings.[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev050303_MSG0006",
+      "style": 1,
+      "name": "Hmph. You are nearly as meddlesome as Vi Sezha.\nI can see why you two hit it off.[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev050303_MSG0007",
+      "style": 1,
+      "name": "But you must leave. Neither you nor she understands\nthe depth of my resolve in choosing this path.[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev050303_MSG0008",
+      "style": 1,
+      "name": "I even threw away her bracelet in order to put my\nformer life out of my mind. Why must you keep\nhounding me?[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev050303_MSG0009",
+      "style": 1,
+      "name": "...What? Th-this is the symbol of our bond.[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev050303_MSG0010",
+      "style": 1,
+      "name": "Rgh... Aaaaaah! Why are you DOING this?![ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev050303_MSG0011",
+      "style": 1,
+      "name": "I am about to cede my life to preserve the honor of the\nWrothian people, and you bring me THIS?![ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev050303_MSG0012",
+      "style": 1,
+      "name": "I have cast away my personhood to become an\navenging force. If I drag my past life along with me,\nI will be killed before slaying a single Ganglion dog![ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev050303_MSG0013",
+      "style": 1,
+      "name": "I beg of you—do not follow me any further.\nThe Ganglion ruined all of our lives,\nand our pride demands that they pay.[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev050303_MSG0014",
+      "style": 1,
+      "name": "Amazing. Almost terrifying, really. I see now how you\nhumans held your own against us Wrothians.[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev050303_MSG0015",
+      "style": 1,
+      "name": "...And thank you. I may just live to keep my promise to\nVi Sezha now.[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev050303_JNK0030",
+      "style": 4,
+      "name": "Query"
+    },
+    {
+      "$id": 21,
+      "label": "qev050303_SEL0031",
+      "style": 3,
+      "name": "Ask Ge Jewhe about the promise."
+    },
+    {
+      "$id": 22,
+      "label": "qev050303_JNK0040",
+      "style": 4,
+      "name": "Check"
+    },
+    {
+      "$id": 23,
+      "label": "qev050303_SEL0041",
+      "style": 3,
+      "name": "Make sure that Ge Jewhe has no more crazy plans."
+    },
+    {
+      "$id": 24,
+      "label": "qev050303_MSG0016",
+      "style": 1,
+      "name": "When I became a warrior and she a jeweler, our\npaths appeared to part. At that time, she made these\nmatching bracelets.[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev050303_MSG0017",
+      "style": 1,
+      "name": "\"Let us share this life together,\" she wrote upon them.\nAnd at that moment, we swore to never part,\nno matter what our futures held.[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev050303_MSG0018",
+      "style": 1,
+      "name": "Heartwarming, isn't it? Were I a man, I'd likely have\nproposed on the spot.[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev050303_MSG0019",
+      "style": 1,
+      "name": "In any case, that is our promise. So long as Vi Sezha\nlives, I swore to protect her from any who would\nthreaten her.[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev050303_MSG0020",
+      "style": 1,
+      "name": "Worry not, human.[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev050303_MSG0021",
+      "style": 1,
+      "name": "I gave my word to keep her safe for as long as I draw\nbreath. If I were to die, it would make me a liar.[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev050303_MSG0022",
+      "style": 1,
+      "name": "Even if it means turning my back on the Wrothian\nwarrior's way, I would do it. For I would turn the\nwhole world widdershins for Vi Sezha![ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev050303_MSG0023",
+      "style": 1,
+      "name": "That was so long ago, and with all that has happened\nsince the Ganglion came, I had forgotten about it.[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev050303_MSG0024",
+      "style": 1,
+      "name": "But when you returned this bracelet to me,\nit came back so clearly.[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev050303_MSG0025",
+      "style": 1,
+      "name": "The shame stings, yet I shall return to Sezha's side.[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev050303_MSG0036",
+      "style": 1,
+      "name": "One look at this weeping, ecstatic girl in front of me,\nand all thought of the pride that drove me to such\nlengths evaporates.[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev050303_MSG0037",
+      "style": 1,
+      "name": "It is enough to make me wonder how something so\nsmall as revenge or pride could have blinded me to\nsomething so enormous.[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev050303_MSG0026",
+      "style": 1,
+      "name": "......[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev050303_MSG0027",
+      "style": 1,
+      "name": "Hello, um... This is Vi Sezha...\n[ST:playername ]?[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev050303_MSG0028",
+      "style": 1,
+      "name": "I am sorry to bother you, but...my heart just started\npounding here. Just a...a bad feeling. So I called.[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "qev050303_MSG0029",
+      "style": 1,
+      "name": "How goes the search? Have you found her?[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "qev050303_JNK0050",
+      "style": 4,
+      "name": "Confess"
+    },
+    {
+      "$id": 41,
+      "label": "qev050303_SEL0051",
+      "style": 3,
+      "name": "Tell Vi Sezha that Ge Jewhe died where she stood."
+    },
+    {
+      "$id": 42,
+      "label": "qev050303_JNK0060",
+      "style": 4,
+      "name": "Protect"
+    },
+    {
+      "$id": 43,
+      "label": "qev050303_SEL0061",
+      "style": 3,
+      "name": "Keep silent out of deference to Vi Sezha's feelings."
+    },
+    {
+      "$id": 44,
+      "label": "qev050303_MSG0030",
+      "style": 1,
+      "name": "They killed her? Oh, Jewhe... No...[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "qev050303_MSG0031",
+      "style": 1,
+      "name": "...Ill tidings, is it? You need not shield me.\nI am prepared to hear the truth.[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "qev050303_MSG0032",
+      "style": 1,
+      "name": "Then...she died facing them? Oh, Jewhe... No...[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "qev050303_MSG0033",
+      "style": 1,
+      "name": "Ah... I thought I was braced for the worst, but...[ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "qev050303_MSG0034",
+      "style": 1,
+      "name": "F-forgive me. The inside of my head has just gone...\nblank. Bring me her dagger. Please...[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "qev050303_MSG0035",
+      "style": 1,
+      "name": "Aah...[ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "qev050303_MSG0038",
+      "style": 1,
+      "name": ""
+    }
+  ]
+}

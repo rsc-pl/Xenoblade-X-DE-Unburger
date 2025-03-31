@@ -1,0 +1,270 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev030701_JNK0010",
+      "style": 4,
+      "name": "Inquire[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev030701_SEL0011",
+      "style": 3,
+      "name": "Ask Zurranik about the Ma-non's arrival on Mira.[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev030701_JNK0020",
+      "style": 4,
+      "name": "Discuss[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev030701_SEL0021",
+      "style": 3,
+      "name": "Ask Zurranik about recent developments.[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev030701_JNK0010",
+      "style": 4,
+      "name": ""
+    },
+    {
+      "$id": 6,
+      "label": "tev030701_SEL0031",
+      "style": 3,
+      "name": "Ask Zurranik about the enemy attack.[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "tev030701_JNK0020",
+      "style": 4,
+      "name": ""
+    },
+    {
+      "$id": 8,
+      "label": "tev030701_SEL0041",
+      "style": 3,
+      "name": "Ask Zurranik about recent developments.[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "tev030701_JNK0010",
+      "style": 4,
+      "name": ""
+    },
+    {
+      "$id": 10,
+      "label": "tev030701_SEL0051",
+      "style": 3,
+      "name": "Ask Zurranik for information on tyrants."
+    },
+    {
+      "$id": 11,
+      "label": "tev030701_JNK0020",
+      "style": 4,
+      "name": ""
+    },
+    {
+      "$id": 12,
+      "label": "tev030701_SEL0061",
+      "style": 3,
+      "name": "Ask Zurranik if he's heard any interesting rumors.[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "tev030701_MSG0001",
+      "style": 1,
+      "name": "All we were hoping for was a nice, peaceful voyage\nthrough space, you see?[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "tev030701_MSG0002",
+      "style": 1,
+      "name": "But then something went horribly wrong, and we got\ndumped on this freak show of a planet with indigens\non one side and and and the Ganglion on the other![ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "tev030701_MSG0003",
+      "style": 1,
+      "name": "If you hadn't have come along, we'd probably be in\nreally serious trouble?[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "tev030701_MSG0004",
+      "style": 1,
+      "name": "We're just not as good at starting and fighting wars as\nyou guys, you know?[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "tev030701_MSG0011",
+      "style": 1,
+      "name": "Have you ever heard of of Miralife Cards?[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "tev030701_MSG0012",
+      "style": 1,
+      "name": "They're these super awesome collectible cards with\npictures and cool little factoids about all the indigens\non Mira, you see?[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "tev030701_MSG0013",
+      "style": 1,
+      "name": "They sell them in packs of five, okay? Oh, and there\nare rare gold cards that are kind of hard to come by...[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "tev030701_MSG0014",
+      "style": 1,
+      "name": "I guess it's tough to collect all of them without a little\nhelp from friends, right?[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "tev030701_MSG0023",
+      "style": 1,
+      "name": "It seems many people were concerned that the enemy\nmanaged to get inside New LA, were they not?[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "tev030701_MSG0024",
+      "style": 1,
+      "name": "But so long as we have our technology and your\ncourage, there's nothing to worry about, correct?[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "tev030701_MSG0025",
+      "style": 1,
+      "name": "The universe may be big, but nothing out there is a\nmatch for the old Ma-non-BLADE tag team combo,\nam I right?[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "tev030701_MSG0026",
+      "style": 1,
+      "name": "It's only a matter of time before we wipe the floor with\nthese Ganglion losers, isn't it?[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "tev030701_MSG0030",
+      "style": 1,
+      "name": "Those Miralife Cards are really taking NLA by storm,\ndon't you think?[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "tev030701_MSG0031",
+      "style": 1,
+      "name": "My favorite is Series 17: Bio-behemoths!\nIt includes these awesome \"Real Aprica\" cards that\neveryone is going wild for, you know?[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "tev030701_MSG0032",
+      "style": 1,
+      "name": "Apparently if you collect them all and lay them out in\nthe the right order, you can actually re-create a\nlife-sized aprica?[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "tev030701_MSG0033",
+      "style": 1,
+      "name": "With my luck, I'll probably still be be trying to complete\nthe set a century from now...[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "tev030701_MSG0042",
+      "style": 1,
+      "name": "I heard you bumped into some kind of \"chimeroid\" in\nthe Lifehold Core, did you not?[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "tev030701_MSG0043",
+      "style": 1,
+      "name": "Well, there's apparently some manner of insanely\npowerful chimeroid hiding out in Noctilum's\nVitriol Cesspool?[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "tev030701_MSG0044",
+      "style": 1,
+      "name": "Be a real BLADE and go go find out what it is.\nYou know—so they can make a new Miralife Card?[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "tev030701_MSG0049",
+      "style": 1,
+      "name": "Right now, the talk on our ship is all about the\ndangerous incidents that have been happening, okay?[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "tev030701_MSG0050",
+      "style": 1,
+      "name": "You'll just be be hanging around, doing some work\noutside, when suddenly some sniper decides to shoot\nat you... So scary, right?[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "tev030701_MSG0051",
+      "style": 1,
+      "name": "But Heradot went out to work anyway, because I\nguess she's not not scared? Talk about guts![ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "tev030701_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 36,
+      "label": "tev030701_SEL0051",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 37,
+      "label": "tev030701_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 38,
+      "label": "tev030701_SEL1021",
+      "style": 3,
+      "name": "Ask Zurranik about recent developments.[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "tev030701_MSG0052",
+      "style": 1,
+      "name": "I think I'm jealous of Heradot right now?[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "tev030701_MSG0053",
+      "style": 1,
+      "name": "She takes one lousy bullet, and everyone starts lavishing\nher with with pizza? Unbelievable![ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "tev030701_MSG0054",
+      "style": 1,
+      "name": "Maybe I should go go get shot so people help me\ncomplete my Miralife Card collection.[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "tev030701_MSG0055",
+      "style": 1,
+      "name": "...What's that? You already defeated the enemy?\nBut how am I going to get sympathy-shot now?[ST:wait ]"
+    }
+  ]
+}

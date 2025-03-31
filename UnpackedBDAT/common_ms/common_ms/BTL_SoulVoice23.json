@@ -1,0 +1,528 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "soul23_P0000",
+      "style": 62,
+      "name": ""
+    },
+    {
+      "$id": 2,
+      "label": "soul23_P0101",
+      "style": 62,
+      "name": "I'm attacking! Move in!"
+    },
+    {
+      "$id": 3,
+      "label": "soul23_P0102",
+      "style": 62,
+      "name": "I'll take the lead.\nClose in and stagger them!"
+    },
+    {
+      "$id": 4,
+      "label": "soul23_P0103",
+      "style": 62,
+      "name": "Close the distance and\ntake control!"
+    },
+    {
+      "$id": 5,
+      "label": "soul23_P0201",
+      "style": 62,
+      "name": "I'll start things at range.\nFollow my lead!"
+    },
+    {
+      "$id": 6,
+      "label": "soul23_P0202",
+      "style": 62,
+      "name": "I'll keep them in check.\nYou buff us up!"
+    },
+    {
+      "$id": 7,
+      "label": "soul23_P0203",
+      "style": 62,
+      "name": "With me! Cripple them!"
+    },
+    {
+      "$id": 8,
+      "label": "soul23_P0301",
+      "style": 62,
+      "name": "Take the initiative! Close in!"
+    },
+    {
+      "$id": 9,
+      "label": "soul23_P0302",
+      "style": 62,
+      "name": "Lay down suppressing fire!"
+    },
+    {
+      "$id": 10,
+      "label": "soul23_P0303",
+      "style": 62,
+      "name": "Get your auras ready!"
+    },
+    {
+      "$id": 11,
+      "label": "soul23_P0401",
+      "style": 62,
+      "name": "They're gaining ground!\nI need recovery!"
+    },
+    {
+      "$id": 12,
+      "label": "soul23_P0402",
+      "style": 62,
+      "name": "This is starting to take its toll.\nI need assistance!"
+    },
+    {
+      "$id": 13,
+      "label": "soul23_P0403",
+      "style": 62,
+      "name": "I can handle this... Buff me up!"
+    },
+    {
+      "$id": 14,
+      "label": "soul23_P0501",
+      "style": 62,
+      "name": "I have to hold out... Heal me!"
+    },
+    {
+      "$id": 15,
+      "label": "soul23_P0502",
+      "style": 62,
+      "name": "Recovery, please! I'm in trouble!"
+    },
+    {
+      "$id": 16,
+      "label": "soul23_P0503",
+      "style": 62,
+      "name": "I will not retreat! Buff me up\nand I'll push them back!"
+    },
+    {
+      "$id": 17,
+      "label": "soul23_P0601",
+      "style": 62,
+      "name": "Move in now...\nwhile you still can..."
+    },
+    {
+      "$id": 18,
+      "label": "soul23_P0602",
+      "style": 62,
+      "name": "Leave me! Just unload on\nthem with all...you've got..."
+    },
+    {
+      "$id": 19,
+      "label": "soul23_P0603",
+      "style": 62,
+      "name": "Use an aura... You can\nstill change this..."
+    },
+    {
+      "$id": 20,
+      "label": "soul23_P0701",
+      "style": 62,
+      "name": "Success! Now move in!"
+    },
+    {
+      "$id": 21,
+      "label": "soul23_P0702",
+      "style": 62,
+      "name": "Yes! Attack at range!"
+    },
+    {
+      "$id": 22,
+      "label": "soul23_P0703",
+      "style": 62,
+      "name": "Weaken them and put them\non the defensive!"
+    },
+    {
+      "$id": 23,
+      "label": "soul23_P0801",
+      "style": 62,
+      "name": "Hope they didn't need that.\nNow use melee attacks!"
+    },
+    {
+      "$id": 24,
+      "label": "soul23_P0802",
+      "style": 62,
+      "name": "Now's your chance! Fire on\nthem to topple them!"
+    },
+    {
+      "$id": 25,
+      "label": "soul23_P0803",
+      "style": 62,
+      "name": "That should cramp their style.\nCripple them!"
+    },
+    {
+      "$id": 26,
+      "label": "soul23_P0901",
+      "style": 62,
+      "name": "They're shaken.\nFire on them now!"
+    },
+    {
+      "$id": 27,
+      "label": "soul23_P0902",
+      "style": 62,
+      "name": "We need to buff up if we're going\nto handle an adversary this large.\n"
+    },
+    {
+      "$id": 28,
+      "label": "soul23_P0903",
+      "style": 62,
+      "name": "It's all over if we let them\noverwhelm us! Use Overdrive!"
+    },
+    {
+      "$id": 29,
+      "label": "soul23_P1001",
+      "style": 62,
+      "name": "That's it. Melee strikes!"
+    },
+    {
+      "$id": 30,
+      "label": "soul23_P1002",
+      "style": 62,
+      "name": "Cover fire! I see an opening!"
+    },
+    {
+      "$id": 31,
+      "label": "soul23_P1003",
+      "style": 62,
+      "name": "Cripple them now and we'll\nbe in good shape!"
+    },
+    {
+      "$id": 32,
+      "label": "soul23_P1101",
+      "style": 62,
+      "name": "Use an aura to heighten your\npower, then don't let up!"
+    },
+    {
+      "$id": 33,
+      "label": "soul23_P1102",
+      "style": 62,
+      "name": "Prepare now. Auras up!"
+    },
+    {
+      "$id": 34,
+      "label": "soul23_P1103",
+      "style": 62,
+      "name": "Buff up and get back on the\noffensive!"
+    },
+    {
+      "$id": 35,
+      "label": "soul23_P1201",
+      "style": 62,
+      "name": "Overdrive! Dial it all\nthe way up!"
+    },
+    {
+      "$id": 36,
+      "label": "soul23_P1202",
+      "style": 62,
+      "name": "Follow me! I'll push them back\nwith Overdrive!"
+    },
+    {
+      "$id": 37,
+      "label": "soul23_P1203",
+      "style": 62,
+      "name": "I'll take the lead! Put up an\naura and stay with me!"
+    },
+    {
+      "$id": 38,
+      "label": "soul23_C0101",
+      "style": 62,
+      "name": "There are still more! Move in!"
+    },
+    {
+      "$id": 39,
+      "label": "soul23_C0102",
+      "style": 62,
+      "name": "Stay sharp! Seek out a\nnew target and fire!"
+    },
+    {
+      "$id": 40,
+      "label": "soul23_C0103",
+      "style": 62,
+      "name": "Buff up now!"
+    },
+    {
+      "$id": 41,
+      "label": "soul23_C0201",
+      "style": 62,
+      "name": "Predictable! Use an aura!"
+    },
+    {
+      "$id": 42,
+      "label": "soul23_C0202",
+      "style": 62,
+      "name": "I'll draw them away. Buff up!"
+    },
+    {
+      "$id": 43,
+      "label": "soul23_C0203",
+      "style": 62,
+      "name": "Check out this footwork!\nAttack at range!"
+    },
+    {
+      "$id": 44,
+      "label": "soul23_C0301",
+      "style": 62,
+      "name": "There! Now get in another\nmelee strike!"
+    },
+    {
+      "$id": 45,
+      "label": "soul23_C0302",
+      "style": 62,
+      "name": "Attack at range for\ngood measure!"
+    },
+    {
+      "$id": 46,
+      "label": "soul23_C0303",
+      "style": 62,
+      "name": "There we go!\nNow get in their face!"
+    },
+    {
+      "$id": 47,
+      "label": "soul23_C0401",
+      "style": 62,
+      "name": "The weather's against us.\nBrace!"
+    },
+    {
+      "$id": 48,
+      "label": "soul23_C0402",
+      "style": 62,
+      "name": "The weather's changing.\nUse an aura and hold out!"
+    },
+    {
+      "$id": 49,
+      "label": "soul23_C0403",
+      "style": 62,
+      "name": "Let us turn this weather into a\nweapon. Weaken the enemy!\n"
+    },
+    {
+      "$id": 50,
+      "label": "soul23_C0501",
+      "style": 62,
+      "name": "I'll confuse them! Look for an\nopportunity to buff up!"
+    },
+    {
+      "$id": 51,
+      "label": "soul23_C0502",
+      "style": 62,
+      "name": "I'll draw their attention!\nBuff up and regroup!"
+    },
+    {
+      "$id": 52,
+      "label": "soul23_C0503",
+      "style": 62,
+      "name": "Use Overdrive!\nI'll swing around!"
+    },
+    {
+      "$id": 53,
+      "label": "soul23_C0601",
+      "style": 62,
+      "name": "Don't worry. I'll be all right."
+    },
+    {
+      "$id": 54,
+      "label": "soul23_C0602",
+      "style": 62,
+      "name": "That's better, thanks. Now give\nme some suppressive fire!"
+    },
+    {
+      "$id": 55,
+      "label": "soul23_C0603",
+      "style": 62,
+      "name": "You have my thanks.\nNow buff up!"
+    },
+    {
+      "$id": 56,
+      "label": "soul23_C0701",
+      "style": 62,
+      "name": "Thank you.\nWe need to fortify!"
+    },
+    {
+      "$id": 57,
+      "label": "soul23_C0702",
+      "style": 62,
+      "name": "I owe you. Let's buff up and\ntear them a new one!"
+    },
+    {
+      "$id": 58,
+      "label": "soul23_C0703",
+      "style": 62,
+      "name": "I'm fine, but you\nneed an aura!"
+    },
+    {
+      "$id": 59,
+      "label": "soul23_C0801",
+      "style": 62,
+      "name": "No whining! We're going in!"
+    },
+    {
+      "$id": 60,
+      "label": "soul23_C0802",
+      "style": 62,
+      "name": "I'm busting through!\nCover fire!"
+    },
+    {
+      "$id": 61,
+      "label": "soul23_C0803",
+      "style": 62,
+      "name": "I refuse to run! Buff me up!"
+    },
+    {
+      "$id": 62,
+      "label": "soul23_C0901",
+      "style": 62,
+      "name": "Up here! Now shoot them\nwhile they're distracted!"
+    },
+    {
+      "$id": 63,
+      "label": "soul23_C0902",
+      "style": 62,
+      "name": "Attack from all angles!\nReady? Fire!"
+    },
+    {
+      "$id": 64,
+      "label": "soul23_C0903",
+      "style": 62,
+      "name": "I've got a clear view from here.\nGet ready to take the shot!"
+    },
+    {
+      "$id": 65,
+      "label": "soul23_C1001",
+      "style": 62,
+      "name": "It's down! Move in and\ntake a swing!"
+    },
+    {
+      "$id": 66,
+      "label": "soul23_C1002",
+      "style": 62,
+      "name": "Now! Aim for the\ntoppled enemy!"
+    },
+    {
+      "$id": 67,
+      "label": "soul23_C1003",
+      "style": 62,
+      "name": "Weaken it before it gets up!"
+    },
+    {
+      "$id": 68,
+      "label": "soul23_C1101",
+      "style": 62,
+      "name": "I stopped it cold! Close in!"
+    },
+    {
+      "$id": 69,
+      "label": "soul23_C1102",
+      "style": 62,
+      "name": "It's dizzy! Shoot it now!"
+    },
+    {
+      "$id": 70,
+      "label": "soul23_C1103",
+      "style": 62,
+      "name": "Cripple it now while\nit can't move!"
+    },
+    {
+      "$id": 71,
+      "label": "soul23_C1201",
+      "style": 62,
+      "name": "Uh-oh. Someone needs a little\nwake-up kiss!"
+    },
+    {
+      "$id": 72,
+      "label": "soul23_C1202",
+      "style": 62,
+      "name": "Don't fall asleep, now.\nSomeone might shoot you!"
+    },
+    {
+      "$id": 73,
+      "label": "soul23_C1203",
+      "style": 62,
+      "name": "A little fire ought to wake this\nsleeping beauty up!"
+    },
+    {
+      "$id": 74,
+      "label": "soul23_C1301",
+      "style": 62,
+      "name": "I'll hold it! Attack up close!"
+    },
+    {
+      "$id": 75,
+      "label": "soul23_C1302",
+      "style": 62,
+      "name": "I've got 'em pinned! Fire now!"
+    },
+    {
+      "$id": 76,
+      "label": "soul23_C1303",
+      "style": 62,
+      "name": "I'll try and hold it! Move in!"
+    },
+    {
+      "$id": 77,
+      "label": "soul23_C1401",
+      "style": 62,
+      "name": "This is nothing as long as\nI get it fixed early!"
+    },
+    {
+      "$id": 78,
+      "label": "soul23_C1402",
+      "style": 62,
+      "name": "Forget about me!\nJust strike back!"
+    },
+    {
+      "$id": 79,
+      "label": "soul23_C1403",
+      "style": 62,
+      "name": "Where was I hit? Cover fire!"
+    },
+    {
+      "$id": 80,
+      "label": "soul23_C1501",
+      "style": 62,
+      "name": "No! My Skell! We need to\nheal and regroup!"
+    },
+    {
+      "$id": 81,
+      "label": "soul23_C1502",
+      "style": 62,
+      "name": "Ugh, that's not good...\nBuff up, please!"
+    },
+    {
+      "$id": 82,
+      "label": "soul23_C1503",
+      "style": 62,
+      "name": "We can't afford to lose any\nmomentum. Use Overdrive!"
+    },
+    {
+      "$id": 83,
+      "label": "soul23_C1601",
+      "style": 62,
+      "name": "I've got a fuel problem!\nGimme a fix! "
+    },
+    {
+      "$id": 84,
+      "label": "soul23_C1602",
+      "style": 62,
+      "name": "Low fuel! I need a re-up!"
+    },
+    {
+      "$id": 85,
+      "label": "soul23_C1603",
+      "style": 62,
+      "name": "I'm burning right through\nmy fuel. Help me out!"
+    }
+  ]
+}

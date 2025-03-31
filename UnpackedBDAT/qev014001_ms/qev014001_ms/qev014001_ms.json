@@ -1,0 +1,498 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev014001_MSG0001",
+      "style": 1,
+      "name": "You made it, [ST:playername ]! That's great![ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev014001_MSG0002",
+      "style": 1,
+      "name": "I don't know what I was going to do if you didn't\nshow. Ha![ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev014001_MSG0003",
+      "style": 1,
+      "name": "Anyway, we should hurry.\nEliza's about to give her big speech.[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev014001_MSG0004",
+      "style": 1,
+      "name": "She's titled it \"A City of Neighbors:\nNew LA's Inclusive Future.\"[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev014001_JNK0010",
+      "style": 4,
+      "name": "Downplay"
+    },
+    {
+      "$id": 6,
+      "label": "qev014001_SEL0011",
+      "style": 3,
+      "name": "Show a minimal amount of interest."
+    },
+    {
+      "$id": 7,
+      "label": "qev014001_JNK0020",
+      "style": 4,
+      "name": "Engage"
+    },
+    {
+      "$id": 8,
+      "label": "qev014001_SEL0021",
+      "style": 3,
+      "name": "Tell Alice that Eliza's speech sounds fantastic."
+    },
+    {
+      "$id": 9,
+      "label": "qev014001_MSG0005",
+      "style": 1,
+      "name": "Aw, come on! Put some ENERGY into it![ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev014001_MSG0006",
+      "style": 1,
+      "name": "This is a chance to spread our message to the people![ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev014001_MSG0007",
+      "style": 1,
+      "name": "RIGHT?![ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev014001_MSG0008",
+      "style": 1,
+      "name": "It was my idea! ...Eliza said it was brilliant.[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev014001_MSG0009",
+      "style": 1,
+      "name": "And I know it'll work, because once Eliza gets going,\nshe's on fire![ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev014001_MSG0010",
+      "style": 1,
+      "name": "Really, our whole operation's been burning up lately.[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev014001_MSG0011",
+      "style": 1,
+      "name": "But speaking of fire, wouldn't it just be SO Alex to try \nand shut Eliza up? I'm honestly worried.[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev014001_JNK0110",
+      "style": 4,
+      "name": "Agree"
+    },
+    {
+      "$id": 17,
+      "label": "qev014001_SEL0111",
+      "style": 3,
+      "name": "Ask Alice if she wants you to help out."
+    },
+    {
+      "$id": 18,
+      "label": "qev014001_JNK0120",
+      "style": 4,
+      "name": "Tease"
+    },
+    {
+      "$id": 19,
+      "label": "qev014001_SEL0121",
+      "style": 3,
+      "name": "Jokingly ask Alice if she's worried about crazed fans."
+    },
+    {
+      "$id": 20,
+      "label": "qev014001_MSG0012",
+      "style": 1,
+      "name": "Yes, please! Oh, but be super careful, all right?\nDon't shoot any innocent bystanders. Or Eliza![ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev014001_MSG0013",
+      "style": 1,
+      "name": "Look, if you just keep a sharp eye out for bad guys,\nI'm sure everything will be fine.[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev014001_MSG0014",
+      "style": 1,
+      "name": "Um, sure? Hadn't really thought of that, but...[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev014001_MSG0015",
+      "style": 1,
+      "name": "But no! I mostly just need you to keep an eye out for\nbad guys. If you see someone suspicious, stop 'em![ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev014001_MSG0016",
+      "style": 1,
+      "name": "Anyway, to sum up, your mission is to guard Eliza\nduring her speech. To guard her with your very LIFE!\n...Um, please.[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev014001_MSG0017",
+      "style": 1,
+      "name": "Whew! Okay, now I can finally relax.[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev014001_MSG0018",
+      "style": 1,
+      "name": "Honestly, Alice. You worry too much.[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev014001_MSG0019",
+      "style": 1,
+      "name": "We're in New LA—BLADE's own backyard.\nNo one would be foolish enough to try something here.[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev014001_MSG0020",
+      "style": 1,
+      "name": "The only thing to worry about is whether our message\nwill reach the people or not.[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev014001_MSG0021",
+      "style": 1,
+      "name": "Aw, I'm not worried about that at all! Deep down,\nI think we all want to know each other better.[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev014001_MSG0022",
+      "style": 1,
+      "name": "And anybody who's still got reservations better\nLOOK OUT, 'cause your speech is about to blow their\nlittle xenophobic minds![ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev014001_MSG0023",
+      "style": 1,
+      "name": "Right, [ST:playername ]?[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev014001_JNK0210",
+      "style": 4,
+      "name": "Agree"
+    },
+    {
+      "$id": 33,
+      "label": "qev014001_SEL0211",
+      "style": 3,
+      "name": "Tell Alice she's right."
+    },
+    {
+      "$id": 34,
+      "label": "qev014001_JNK0220",
+      "style": 4,
+      "name": "Doubt"
+    },
+    {
+      "$id": 35,
+      "label": "qev014001_SEL0221",
+      "style": 3,
+      "name": "Say that minds can't be changed so easily."
+    },
+    {
+      "$id": 36,
+      "label": "qev014001_MSG0024",
+      "style": 1,
+      "name": "Right! And look, I know we've seen some crazy times\nsince abandoning Earth...[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev014001_MSG0025",
+      "style": 1,
+      "name": "but we've overcome them! We're adaptable creatures,\nand it's our bonds with one another that keep us alive.[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev014001_MSG0026",
+      "style": 1,
+      "name": "Aw, boo! You don't REALLY think that, right?\nI mean, sure, there are people like Alex around...[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "qev014001_MSG0027",
+      "style": 1,
+      "name": "but most of us humans are different.\nWe're peaceful and understanding and openhearted.[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "qev014001_MSG0028",
+      "style": 1,
+      "name": "Thank you, Alice. And you as well,\n[ST:playername ].[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "qev014001_MSG0029",
+      "style": 1,
+      "name": "I promise I won't let all your efforts go to waste.[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "qev014001_MSG0030",
+      "style": 1,
+      "name": "I'll make this speech a success, no mat—[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "qev014001_MSG0031",
+      "style": 1,
+      "name": "ELIZA![ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "qev014001_MSG0032",
+      "style": 1,
+      "name": "What the...?! No! She's been shot!\nELIZAAAAAA![ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "qev014001_MSG0033",
+      "style": 1,
+      "name": "......[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "qev014001_MSG0034",
+      "style": 1,
+      "name": "Nnnn...aah...[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "qev014001_MSG0035",
+      "style": 1,
+      "name": "L-look! She's breathing![ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "qev014001_MSG0036",
+      "style": 1,
+      "name": "I'll get her to the maintenance center right away![ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "qev014001_MSG0037",
+      "style": 1,
+      "name": "But if we trace the path of the sniper's bullet...[ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "qev014001_MSG0038",
+      "style": 1,
+      "name": "I think they're in the administrative district.\nYou have to go find them![ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "qev014001_MSG0039",
+      "style": 1,
+      "name": "We HAVE to bring whoever did this to justice![ST:wait ]"
+    },
+    {
+      "$id": 52,
+      "label": "qev014001_MSG0040",
+      "style": 1,
+      "name": "Go ask around—any little detail could be important.\nDo whatever it takes to find that shooter![ST:wait ]"
+    },
+    {
+      "$id": 53,
+      "label": "qev014001_MSG0041",
+      "style": 1,
+      "name": "Eliza's in surgery at the maintenance center...[ST:wait ]"
+    },
+    {
+      "$id": 54,
+      "label": "qev014001_MSG0042",
+      "style": 1,
+      "name": "She lost a lot of bioplasma, but...they say it's too soon\nto tell.[ST:wait ]"
+    },
+    {
+      "$id": 55,
+      "label": "qev014001_MSG0043",
+      "style": 1,
+      "name": "Someone in the administrative district MUST have seen\nthe shooter though.[ST:wait ]"
+    },
+    {
+      "$id": 56,
+      "label": "qev014001_MSG0044",
+      "style": 1,
+      "name": "Any little detail could be important, so ask around and\nfind that gunman.[ST:wait ]"
+    },
+    {
+      "$id": 57,
+      "label": "qev014001_MSG0045",
+      "style": 1,
+      "name": "Any luck finding the sniper?[ST:wait ]"
+    },
+    {
+      "$id": 58,
+      "label": "qev014001_MSG0046",
+      "style": 1,
+      "name": "What? Someone carrying a rifle case boarded a Skell\nand headed for Sylvalum?[ST:wait ]"
+    },
+    {
+      "$id": 59,
+      "label": "qev014001_MSG0047",
+      "style": 1,
+      "name": "So what are you standing here for?\nGo get the shooter already![ST:wait ]"
+    },
+    {
+      "$id": 60,
+      "label": "qev014001_MSG0048",
+      "style": 1,
+      "name": "Someone will pay for hurting Eliza.[ST:wait ]"
+    },
+    {
+      "$id": 61,
+      "label": "qev014001_MSG0049",
+      "style": 1,
+      "name": "Well? Did you find the shooter?[ST:wait ]"
+    },
+    {
+      "$id": 62,
+      "label": "qev014001_MSG0050",
+      "style": 1,
+      "name": "WHAT?! He attacked you? And you beat him?[ST:wait ]"
+    },
+    {
+      "$id": 63,
+      "label": "qev014001_MSG0051",
+      "style": 1,
+      "name": "...I see. Thank you. I feel so much better hearing that.[ST:wait ]"
+    },
+    {
+      "$id": 64,
+      "label": "qev014001_MSG0052",
+      "style": 1,
+      "name": "Eliza is... She's going to be in critical care for a while.[ST:wait ]"
+    },
+    {
+      "$id": 65,
+      "label": "qev014001_MSG0053",
+      "style": 1,
+      "name": "Nothing life threatening, thankfully, but they need to\nkeep her under observation to make sure the new parts\ndon't cause any unexpected effects.[ST:wait ]"
+    },
+    {
+      "$id": 66,
+      "label": "qev014001_JNK0310",
+      "style": 4,
+      "name": "Apologize"
+    },
+    {
+      "$id": 67,
+      "label": "qev014001_SEL0311",
+      "style": 3,
+      "name": "Express your regrets for failing to keep Eliza safe."
+    },
+    {
+      "$id": 68,
+      "label": "qev014001_JNK0320",
+      "style": 4,
+      "name": "Query"
+    },
+    {
+      "$id": 69,
+      "label": "qev014001_SEL0321",
+      "style": 3,
+      "name": "Ask Alice how the movement can survive without Eliza."
+    },
+    {
+      "$id": 70,
+      "label": "qev014001_MSG0054",
+      "style": 1,
+      "name": "No one could have stopped that bullet.[ST:wait ]"
+    },
+    {
+      "$id": 71,
+      "label": "qev014001_MSG0055",
+      "style": 1,
+      "name": "And you caught the culprit, which earns you a gold\nstar in my book! ...No, really. Thank you.[ST:wait ]"
+    },
+    {
+      "$id": 72,
+      "label": "qev014001_MSG0056",
+      "style": 1,
+      "name": "Now it's my turn to step up and keep everything going\nuntil she's back![ST:wait ]"
+    },
+    {
+      "$id": 73,
+      "label": "qev014001_MSG0057",
+      "style": 1,
+      "name": "We aren't going to give up, that's for damn sure.\nThat's just what they want us to do![ST:wait ]"
+    },
+    {
+      "$id": 74,
+      "label": "qev014001_MSG0058",
+      "style": 1,
+      "name": "It's up to me to keep things going until Eliza's ready to\ntake over again![ST:wait ]"
+    },
+    {
+      "$id": 75,
+      "label": "qev014001_MSG0059",
+      "style": 1,
+      "name": "It's gonna be rough without her, but I'll happily take up\nas much slack as I can.[ST:wait ]"
+    },
+    {
+      "$id": 76,
+      "label": "qev014001_MSG0060",
+      "style": 1,
+      "name": "Hey, so listen. I can't prove anything yet, but I KNOW\nAlex is the one behind this.[ST:wait ]"
+    },
+    {
+      "$id": 77,
+      "label": "qev014001_MSG0061",
+      "style": 1,
+      "name": "We can't let him win. We'll find a way to stop him\nand make New LA a more peaceful city in the process![ST:wait ]"
+    },
+    {
+      "$id": 78,
+      "label": "qev014001_MSG0062",
+      "style": 1,
+      "name": "Oh, and Eliza gave me this to give to you before she...\nBefore. Anyway, here.[ST:wait ]"
+    },
+    {
+      "$id": 79,
+      "label": "qev014001_MSG0063",
+      "style": 1,
+      "name": "There's so much work still left to be done...[ST:wait ]"
+    },
+    {
+      "$id": 80,
+      "label": "qev014001_MSG0064",
+      "style": 1,
+      "name": "I hope we can count on your help again in the future.[ST:wait ]"
+    }
+  ]
+}

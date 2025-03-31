@@ -1,0 +1,414 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev012401_JNK0010",
+      "style": 4,
+      "name": "Inquire"
+    },
+    {
+      "$id": 2,
+      "label": "tev012401_SEL0011",
+      "style": 3,
+      "name": "Confirm your mission objectives with Piers."
+    },
+    {
+      "$id": 3,
+      "label": "tev012401_JNK0020",
+      "style": 4,
+      "name": "Discuss"
+    },
+    {
+      "$id": 4,
+      "label": "tev012401_SEL0021",
+      "style": 3,
+      "name": "Ask Piers if he has any interesting news."
+    },
+    {
+      "$id": 5,
+      "label": "tev012401_SEL0041",
+      "style": 3,
+      "name": "Ask Piers if he has any interesting news."
+    },
+    {
+      "$id": 6,
+      "label": "tev012401_SEL0051",
+      "style": 3,
+      "name": "Ask Piers about the northern coast."
+    },
+    {
+      "$id": 7,
+      "label": "tev012401_SEL0061",
+      "style": 3,
+      "name": "Ask Piers if he's heard any interesting rumors."
+    },
+    {
+      "$id": 8,
+      "label": "tev012401_SEL0071",
+      "style": 3,
+      "name": "Ask how Piers fared during the enemy attack."
+    },
+    {
+      "$id": 9,
+      "label": "tev012401_SEL0081",
+      "style": 3,
+      "name": "Ask Piers if he has any interesting news."
+    },
+    {
+      "$id": 10,
+      "label": "tev012401_SEL0091",
+      "style": 3,
+      "name": "Ask what Piers intends to do next."
+    },
+    {
+      "$id": 11,
+      "label": "tev012401_SEL0101",
+      "style": 3,
+      "name": "Ask Piers if he's heard any interesting rumors."
+    },
+    {
+      "$id": 12,
+      "label": "tev012401_SEL1021",
+      "style": 3,
+      "name": "Ask Piers if he has any interesting news."
+    },
+    {
+      "$id": 13,
+      "label": "tev012401_SEL2021",
+      "style": 3,
+      "name": "Ask Piers about recent developments."
+    },
+    {
+      "$id": 14,
+      "label": "tev012401_SEL3021",
+      "style": 3,
+      "name": "Ask Piers about recent developments."
+    },
+    {
+      "$id": 15,
+      "label": "tev012401_MSG0001",
+      "style": 1,
+      "name": "Heya! I heard you're on data-probe duty for your\nfirst mission. Be careful out there, all right?[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "tev012401_MSG0002",
+      "style": 1,
+      "name": "Hey, wait a minute. What are you even doing here?[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "tev012401_MSG0003",
+      "style": 1,
+      "name": "You're installing that data probe to the east, right?\nWell, this is New LA's west gate. You can look at the\nmap on your comm device if you're confused.[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "tev012401_MSG0004",
+      "style": 1,
+      "name": "The arrow indicates your destination, all right? Make\nsure you take a look at it before you set off anywhere.[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "tev012401_MSG0005",
+      "style": 1,
+      "name": "A BLADE from the Outfitters division just passed\nthrough here on the way to Noctilum.[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "tev012401_MSG0006",
+      "style": 1,
+      "name": "The Skell that BLADE was piloting was incredible.\nI'd kill for one like that![ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "tev012401_MSG0007",
+      "style": 1,
+      "name": "Of course, I don't even have a Skell license,\nso I'll never get to ride anything so cool.\nSome BLADEs have all the luck![ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "tev012401_MSG0008",
+      "style": 1,
+      "name": "It's not just this gate—I hear the east gate has been\nopened as well.[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "tev012401_MSG0009",
+      "style": 1,
+      "name": "...Huh? Where is it? Oh, just head towards BLADE HQ\nand then keep going toward the Barracks. It's just down\nthe road to the left of the Barracks. You can't miss it.[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "tev012401_MSG0010",
+      "style": 1,
+      "name": "Anyway, feel free to use whichever gate is more\nconvenient for the task at hand.[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "tev012401_MSG0011",
+      "style": 1,
+      "name": "Hmm? You still don't know which one that is?\nIn that case, just take a look at your map.[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "tev012401_MSG0012",
+      "style": 1,
+      "name": "And if you get lost outside, check your map for that,\ntoo. Sure beats standing there sucking your thumb\nand hoping your mom will come pick you up.[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "tev012401_MSG0013",
+      "style": 1,
+      "name": "An awful lot of time has passed since that Outfitter\npassed through here on the way to Noctilum.\nI hope everything's okay.[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "tev012401_MSG0014",
+      "style": 1,
+      "name": "I know I'm probably worrying about it too much,\nconsidering the incredible Skell that BLADE was\npiloting and all, but still...[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "tev012401_MSG0015",
+      "style": 1,
+      "name": "Anyway, if your business takes you up to Noctilum,\ncould you maybe keep an eye out?[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "tev012401_MSG0016",
+      "style": 1,
+      "name": "Did you know that you can reach the coast by\ntraveling north from here?[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "tev012401_MSG0017",
+      "style": 1,
+      "name": "If you're exploring that area, be careful not to fall into\nthe ocean.[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "tev012401_MSG0018",
+      "style": 1,
+      "name": "The only way I know of to get back up onto the cliffs\nis via the sloping path at Northpointe Cove, but it's a\nreal pain in the tokus.[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "tev012401_MSG0019",
+      "style": 1,
+      "name": "There are also lots of vicious indigens hanging around\nthere. If they start to get threatening, it's probably\nbetter to sheathe your weapon and run for it.[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "tev012401_MSG0020",
+      "style": 1,
+      "name": "If you travel a short ways west from here,\nyou'll reach Biahno Lake.[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "tev012401_MSG0021",
+      "style": 1,
+      "name": "Word is, they're planning to build a water-purification\nplant there.[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "tev012401_MSG0022",
+      "style": 1,
+      "name": "But unfortunately, the people bringing materials to the\nconstruction site are constantly being attacked by\nindigens.[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "tev012401_MSG0023",
+      "style": 1,
+      "name": "The project leaders are over at the water-purification\nplant in the residential district. Maybe you should go\nsee if you can help them out.[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "tev012401_MSG0024",
+      "style": 1,
+      "name": "I closed the west gate as soon as the siren sounded.[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "tev012401_MSG0025",
+      "style": 1,
+      "name": "But there was nothing we could do about the enemy\nmechs that could fly.[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "tev012401_MSG0026",
+      "style": 1,
+      "name": "Some of the larger indigens are also capable of flight.\nMaybe we should start thinking about a dome or a\nforce field or something.[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "tev012401_MSG0027",
+      "style": 1,
+      "name": "I know how important the search for the Lifehold is,\nbut I'd like to see a little more effort put into improving\nhumanity's new home.[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "tev012401_MSG0028",
+      "style": 1,
+      "name": "Folks were so shorthanded the other day,\nthey even asked ME to participate in a mission.\nAnd man, was it ever awkward.[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "tev012401_MSG0029",
+      "style": 1,
+      "name": "The whole team was distant and mumbly at first,\nthough we bonded a bit as the mission went on.[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "tev012401_MSG0030",
+      "style": 1,
+      "name": "I typically don't talk much, but I ended up telling\nthem about my various hobbies and interests.[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "tev012401_MSG0031",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 46,
+      "label": "tev012401_MSG0032",
+      "style": 1,
+      "name": "Thanks to the great work you and Elma did,\nthe Ganglion's boss has been toppled.[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "tev012401_MSG0033",
+      "style": 1,
+      "name": "But that hardly means the indigens of Mira are going\nto show up at our door with friendship treaties between\ntheir teeth.[ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "tev012401_MSG0034",
+      "style": 1,
+      "name": "It seems that no matter how strong we become,\nthere will always be enemies at our gates.[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "tev012401_MSG0035",
+      "style": 1,
+      "name": "I don't know if we'll have to eliminate all the potential\nthreats to humanity like we did on Earth, or if we can\nfind a way to live in harmony with the indigens.[ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "tev012401_MSG0036",
+      "style": 1,
+      "name": "It's a lot to think about, huh?[ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "tev012401_MSG0037",
+      "style": 1,
+      "name": "They say a single Ganglion supersoldier wiped out\nan entire elite team of Harriers that had been sent\nto the high ground near Bedrock Hold.[ST:wait ]"
+    },
+    {
+      "$id": 52,
+      "label": "tev012401_MSG0038",
+      "style": 1,
+      "name": "Apparently that supersoldier is called\nNahum the Red Hare, and she's feared\neven by the rest of the Ganglion.[ST:wait ]"
+    },
+    {
+      "$id": 53,
+      "label": "tev012401_MSG0039",
+      "style": 1,
+      "name": "But if you were able to bring down Luxaar, I'm sure\nyou can do something about this Nahum woman.[ST:wait ]"
+    },
+    {
+      "$id": 54,
+      "label": "tev012401_MSG0040",
+      "style": 1,
+      "name": "The other day, a Zaruboggan named Phoskeran picked\nup all the trash around here and carried it away.[ST:wait ]"
+    },
+    {
+      "$id": 55,
+      "label": "tev012401_MSG0041",
+      "style": 1,
+      "name": "I thought that was pretty strange, but he said he really\nenjoyed being on garbage duty.[ST:wait ]"
+    },
+    {
+      "$id": 56,
+      "label": "tev012401_MSG0042",
+      "style": 1,
+      "name": "In fact, I think he said he loved picking up trash,\nbut hated some other duty that had recently been\nassigned to him.[ST:wait ]"
+    },
+    {
+      "$id": 57,
+      "label": "tev012401_MSG0043",
+      "style": 1,
+      "name": "Man, what could be worse than collecting garbage?\nI mean, it's GARBAGE.[ST:wait ]"
+    },
+    {
+      "$id": 58,
+      "label": "tev012401_MSG0044",
+      "style": 1,
+      "name": "They tossed Homer into the detention facility.\nCase closed, I guess.[ST:wait ]"
+    },
+    {
+      "$id": 59,
+      "label": "tev012401_MSG0045",
+      "style": 1,
+      "name": "I'm just glad the Zaruboggan were cleared of any\nwrongdoing.[ST:wait ]"
+    },
+    {
+      "$id": 60,
+      "label": "tev012401_MSG0046",
+      "style": 1,
+      "name": "They look and act weird, and it makes them seem\nmuch more suspicious than those Ma-non.\nBut there isn't really anything we can do about that.[ST:wait ]"
+    },
+    {
+      "$id": 61,
+      "label": "tev012401_MSG0047",
+      "style": 1,
+      "name": "Still, I'm doing what I can. I tell everyone who passes\nthrough here what a great guy Phoskeran is.[ST:wait ]"
+    },
+    {
+      "$id": 62,
+      "label": "tev012401_MSG0048",
+      "style": 1,
+      "name": "After all, it's a Mediator's duty to try and make this\ncity a better place.[ST:wait ]"
+    },
+    {
+      "$id": 63,
+      "label": "tev012401_MSG0049",
+      "style": 1,
+      "name": "That Nastasha woman was so excited to have been\nrescued by Elma.[ST:wait ]"
+    },
+    {
+      "$id": 64,
+      "label": "tev012401_MSG0050",
+      "style": 1,
+      "name": "She even asked if I'd tell her whenever Elma passes\nthrough here and report what Elma was wearing.\nShe's like some kind of weird Elma groupie...[ST:wait ]"
+    },
+    {
+      "$id": 65,
+      "label": "tev012401_MSG0051",
+      "style": 1,
+      "name": "...Hey, relax! I'm not going to actually DO it.\nYou can pass through here with your mind at ease.[ST:wait ]"
+    },
+    {
+      "$id": 66,
+      "label": "tev012401_SEL0031",
+      "style": 3,
+      "name": "Ask Piers about the gate."
+    }
+  ]
+}

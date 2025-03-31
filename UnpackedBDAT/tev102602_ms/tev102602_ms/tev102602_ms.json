@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev102602_MSG0001",
+      "style": 1,
+      "name": "Sorry, but the transport has been grounded for\nmaintenance.[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev102602_MSG0002",
+      "style": 1,
+      "name": "We should be moving again soon.[ST:wait ]"
+    }
+  ]
+}

@@ -1,0 +1,480 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev091801_MSG0001",
+      "style": 0,
+      "name": "...Yeah?[ST:wait ]\n"
+    },
+    {
+      "$id": 2,
+      "label": "qev091801_MSG0002",
+      "style": 0,
+      "name": "Come with us.\nWe'd like to question you about some homicides.[ST:wait ]\n"
+    },
+    {
+      "$id": 3,
+      "label": "qev091801_JNK0010",
+      "style": 4,
+      "name": "Moan"
+    },
+    {
+      "$id": 4,
+      "label": "qev091801_SEL0011",
+      "style": 3,
+      "name": "Tell the Murderess you knew it would come to this."
+    },
+    {
+      "$id": 5,
+      "label": "qev091801_JNK0020",
+      "style": 4,
+      "name": "Query"
+    },
+    {
+      "$id": 6,
+      "label": "qev091801_SEL0021",
+      "style": 3,
+      "name": "Ask if the Murderess is being formally charged."
+    },
+    {
+      "$id": 7,
+      "label": "qev091801_JNK0030",
+      "style": 4,
+      "name": "Confess"
+    },
+    {
+      "$id": 8,
+      "label": "qev091801_SEL0031",
+      "style": 3,
+      "name": "Break down and admit that you did it."
+    },
+    {
+      "$id": 9,
+      "label": "qev091801_MSG0003",
+      "style": 0,
+      "name": "Ugh, please. Can you not IMMEDIATELY jump to conclusions?[ST:wait ]\n"
+    },
+    {
+      "$id": 10,
+      "label": "qev091801_MSG0004",
+      "style": 0,
+      "name": "I haven't killed anybody...yet. Look, what's going on here?[ST:wait ]\n"
+    },
+    {
+      "$id": 11,
+      "label": "qev091801_MSG0005",
+      "style": 0,
+      "name": "Wow, keeping your cool. I'm impressed.[ST:wait ]\n"
+    },
+    {
+      "$id": 12,
+      "label": "qev091801_MSG0006",
+      "style": 0,
+      "name": "But random accusations piss me off, so start talking.[ST:wait ]\n"
+    },
+    {
+      "$id": 13,
+      "label": "qev091801_MSG0007",
+      "style": 0,
+      "name": "Er, I wasn't speaking to you.\nOur suspect is the Murderess here.[ST:wait ]\n"
+    },
+    {
+      "$id": 14,
+      "label": "qev091801_MSG0008",
+      "style": 0,
+      "name": "Me? Widdle old me? Oh come on, that's ridiculous.[ST:wait ]\n"
+    },
+    {
+      "$id": 15,
+      "label": "qev091801_MSG0009",
+      "style": 0,
+      "name": "We have eight homicide victims, all of them BLADEs.[ST:wait ]\n"
+    },
+    {
+      "$id": 16,
+      "label": "qev091801_MSG0010",
+      "style": 0,
+      "name": "BLADEs? Which ones?[ST:wait ]\n"
+    },
+    {
+      "$id": 17,
+      "label": "qev091801_MSG0011",
+      "style": 0,
+      "name": "Otis. Yolanda. Six others. Names ring any bells?[ST:wait ]\n"
+    },
+    {
+      "$id": 18,
+      "label": "qev091801_MSG0012",
+      "style": 0,
+      "name": "...Yeah.[ST:wait ]\n"
+    },
+    {
+      "$id": 19,
+      "label": "qev091801_MSG0013",
+      "style": 0,
+      "name": "Damn. They were lowlifes, but...[ST:wait ]\n"
+    },
+    {
+      "$id": 20,
+      "label": "qev091801_MSG0014",
+      "style": 0,
+      "name": "All the deceased share a common trait—\nthey all worked with you at some point.[ST:wait ]\n"
+    },
+    {
+      "$id": 21,
+      "label": "qev091801_MSG0015",
+      "style": 0,
+      "name": "Folks claim you're grabby with mission rewards.\nWe have a stack of such complaints.[ST:wait ]\n"
+    },
+    {
+      "$id": 22,
+      "label": "qev091801_MSG0016",
+      "style": 0,
+      "name": "We also hear that you once shot someone\nin the back during a mission.[ST:wait ]\n"
+    },
+    {
+      "$id": 23,
+      "label": "qev091801_MSG0017",
+      "style": 0,
+      "name": "It's reasonable to think all that earned you a few enemies.[ST:wait ]\n"
+    },
+    {
+      "$id": 24,
+      "label": "qev091801_MSG0018",
+      "style": 0,
+      "name": "And then there's the whole \"Murderess\" alias you go by.[ST:wait ]\n"
+    },
+    {
+      "$id": 25,
+      "label": "qev091801_MSG0019",
+      "style": 0,
+      "name": "So yeah, we're suspicious. And more than a little.[ST:wait ]\n"
+    },
+    {
+      "$id": 26,
+      "label": "qev091801_JNK0040",
+      "style": 4,
+      "name": "Argue"
+    },
+    {
+      "$id": 27,
+      "label": "qev091801_SEL0041",
+      "style": 3,
+      "name": "Claim that a Definian must be behind it, like with Hope."
+    },
+    {
+      "$id": 28,
+      "label": "qev091801_JNK0050",
+      "style": 4,
+      "name": "Defend"
+    },
+    {
+      "$id": 29,
+      "label": "qev091801_SEL0051",
+      "style": 3,
+      "name": "Say that the Murderess would\nnever do something like that."
+    },
+    {
+      "$id": 30,
+      "label": "qev091801_MSG0020",
+      "style": 0,
+      "name": "Yeah, that does seem likely, doesn't it?[ST:wait ]\n"
+    },
+    {
+      "$id": 31,
+      "label": "qev091801_MSG0021",
+      "style": 0,
+      "name": "It's a possibility we're pursuing.[ST:wait ]\n"
+    },
+    {
+      "$id": 32,
+      "label": "qev091801_MSG0022",
+      "style": 0,
+      "name": "But we still think it's best if we asked you a few questions.[ST:wait ]\n"
+    },
+    {
+      "$id": 33,
+      "label": "qev091801_MSG0023",
+      "style": 0,
+      "name": "Fair enough.[ST:wait ]\n"
+    },
+    {
+      "$id": 34,
+      "label": "qev091801_MSG0024",
+      "style": 0,
+      "name": "Thanks for the vote of confidence.[ST:wait ]\n"
+    },
+    {
+      "$id": 35,
+      "label": "qev091801_MSG0025",
+      "style": 0,
+      "name": "As for you, I've got reasons for my title. Personal ones.[ST:wait ]\n"
+    },
+    {
+      "$id": 36,
+      "label": "qev091801_MSG0026",
+      "style": 0,
+      "name": "And what kind of genius thinks a serial killer\nwould announce that fact, anyway?[ST:wait ]\n"
+    },
+    {
+      "$id": 37,
+      "label": "qev091801_MSG0027",
+      "style": 0,
+      "name": "All right. I'll ignore the moniker for now.[ST:wait ]\n"
+    },
+    {
+      "$id": 38,
+      "label": "qev091801_MSG0028",
+      "style": 0,
+      "name": "That doesn't change what's in your file, though.[ST:wait ]\n"
+    },
+    {
+      "$id": 39,
+      "label": "qev091801_MSG0029",
+      "style": 0,
+      "name": "Fair enough.[ST:wait ]\n"
+    },
+    {
+      "$id": 40,
+      "label": "qev091801_MSG0030",
+      "style": 0,
+      "name": "Then if you'll please follow me?[ST:wait ]\n"
+    },
+    {
+      "$id": 41,
+      "label": "qev091801_MSG0031",
+      "style": 0,
+      "name": "Hold it![ST:wait ]\n"
+    },
+    {
+      "$id": 42,
+      "label": "qev091801_MSG0032",
+      "style": 0,
+      "name": "Sure, the Murderess will rob you blind,\nand she's a generally horrible person—[ST:page p1=120 ]but there's no way she killed those people.[ST:wait ]\n"
+    },
+    {
+      "$id": 43,
+      "label": "qev091801_MSG0033",
+      "style": 0,
+      "name": "That would mean giving up on her dream,\nand we all know she'd never do that.[ST:wait ]\n"
+    },
+    {
+      "$id": 44,
+      "label": "qev091801_MSG0034",
+      "style": 0,
+      "name": "Irina?[ST:wait ]\n"
+    },
+    {
+      "$id": 45,
+      "label": "qev091801_MSG0035",
+      "style": 0,
+      "name": "I understand your concerns.\nAgain, we're simply taking her in for questioning.[ST:wait ]\n"
+    },
+    {
+      "$id": 46,
+      "label": "qev091801_MSG0036",
+      "style": 0,
+      "name": "But she's got enemies everywhere, especially in the top brass.[ST:wait ]\n"
+    },
+    {
+      "$id": 47,
+      "label": "qev091801_MSG0037",
+      "style": 0,
+      "name": "Who's to say she won't be given\na permanent residence in the brig?[ST:wait ]\n"
+    },
+    {
+      "$id": 48,
+      "label": "qev091801_MSG0038",
+      "style": 0,
+      "name": "So you want us to ignore a suspect?\nWhat happens when another BLADE dies?[ST:wait ]\n"
+    },
+    {
+      "$id": 49,
+      "label": "qev091801_JNK0060",
+      "style": 4,
+      "name": "Suggest"
+    },
+    {
+      "$id": 50,
+      "label": "qev091801_SEL0061",
+      "style": 3,
+      "name": "Tell the officer that he needs to build a stronger case."
+    },
+    {
+      "$id": 51,
+      "label": "qev091801_JNK0070",
+      "style": 4,
+      "name": "Propose"
+    },
+    {
+      "$id": 52,
+      "label": "qev091801_SEL0071",
+      "style": 3,
+      "name": "Offer to find the real killer yourself."
+    },
+    {
+      "$id": 53,
+      "label": "qev091801_MSG0039",
+      "style": 0,
+      "name": "Exactly. You don't have the evidence.[ST:wait ]\n"
+    },
+    {
+      "$id": 54,
+      "label": "qev091801_MSG0040",
+      "style": 0,
+      "name": "These types of random interrogations\ncan easily turn into witch hunts.[ST:wait ]\n"
+    },
+    {
+      "$id": 55,
+      "label": "qev091801_MSG0041",
+      "style": 0,
+      "name": "Then we're at an impasse.[ST:wait ]\n"
+    },
+    {
+      "$id": 56,
+      "label": "qev091801_MSG0042",
+      "style": 0,
+      "name": "Not if we go catch the real murderer.[ST:wait ]\n"
+    },
+    {
+      "$id": 57,
+      "label": "qev091801_MSG0043",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 58,
+      "label": "qev091801_MSG0043_m",
+      "style": 0,
+      "name": "Boom. Perfect. Hell, we can even look for him together.[ST:wait ]\n"
+    },
+    {
+      "$id": 59,
+      "label": "qev091801_MSG0043_f",
+      "style": 0,
+      "name": "Boom. Perfect. Hell, we can even look for him together.[ST:wait ]\n"
+    },
+    {
+      "$id": 60,
+      "label": "qev091801_MSG0044",
+      "style": 0,
+      "name": "I owe Yolanda and the others that much.[ST:wait ]\n"
+    },
+    {
+      "$id": 61,
+      "label": "qev091801_MSG0045",
+      "style": 0,
+      "name": "Now just a minute! I can't let a suspect waltz off and start—[ST:wait ]\n"
+    },
+    {
+      "$id": 62,
+      "label": "qev091801_MSG0046",
+      "style": 0,
+      "name": "What's the problem? You've got Irina.[ST:wait ]\n"
+    },
+    {
+      "$id": 63,
+      "label": "qev091801_MSG0047",
+      "style": 0,
+      "name": "Huh?[ST:wait ]\n"
+    },
+    {
+      "$id": 64,
+      "label": "qev091801_MSG0048",
+      "style": 0,
+      "name": "Oh, I see. You mean you want ME to go find the killer.[ST:wait ]\n"
+    },
+    {
+      "$id": 65,
+      "label": "qev091801_MSG0049",
+      "style": 0,
+      "name": "All right. I'll do it.[ST:wait ]\n"
+    },
+    {
+      "$id": 66,
+      "label": "qev091801_MSG0050",
+      "style": 0,
+      "name": "Please, kitten. That isn't even funny.[ST:wait ]\n"
+    },
+    {
+      "$id": 67,
+      "label": "qev091801_MSG0051",
+      "style": 0,
+      "name": "You're staying here as collateral.[ST:wait ]\n"
+    },
+    {
+      "$id": 68,
+      "label": "qev091801_MSG0052",
+      "style": 0,
+      "name": "Then if I run, Officer Friendly here\ncan throw you in prison forever.[ST:wait ]\n"
+    },
+    {
+      "$id": 69,
+      "label": "qev091801_MSG0053",
+      "style": 0,
+      "name": "What?! I do NOT remember agreeing to that![ST:wait ]\n"
+    },
+    {
+      "$id": 70,
+      "label": "qev091801_MSG0054",
+      "style": 0,
+      "name": "You believe I'm innocent, right?[ST:wait ]\n"
+    },
+    {
+      "$id": 71,
+      "label": "qev091801_MSG0055",
+      "style": 0,
+      "name": " [ST:wait ]\n"
+    },
+    {
+      "$id": 72,
+      "label": "qev091801_MSG0056",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 73,
+      "label": "qev091801_MSG0056_m",
+      "style": 0,
+      "name": "I MIGHT believe you.\nBut I guess if he goes along, it'll be okay.[ST:wait ]\n"
+    },
+    {
+      "$id": 74,
+      "label": "qev091801_MSG0056_f",
+      "style": 0,
+      "name": "I MIGHT believe you.\nBut I guess if she goes along, it'll be okay.[ST:wait ]\n"
+    },
+    {
+      "$id": 75,
+      "label": "qev091801_MSG0057",
+      "style": 0,
+      "name": "So there you go.\nWe'll go find the perp and be home for dinner.[ST:wait ]\n"
+    },
+    {
+      "$id": 76,
+      "label": "qev091801_MSG0058",
+      "style": 0,
+      "name": "Let's go.[ST:wait ]\n"
+    },
+    {
+      "$id": 77,
+      "label": "qev091801_MSG0058_2",
+      "style": 0,
+      "name": "We need information. Let's start by hitting up Eleonora.[ST:wait ]\n"
+    }
+  ]
+}

@@ -1,0 +1,552 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev080101_MSG0001",
+      "style": 1,
+      "name": "Kupee so curious! What does this key unlock?\nAnd what is secret treasure of Mysteroid friends?[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev080101_MSG0002",
+      "style": 1,
+      "name": "Kupee not get wink of sleep with so many questions\nrolling around inside poor head. ...So maybe friend\nhelp unravel riddle of Mysteroids?![ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev080101_JNK0010",
+      "style": 4,
+      "name": "Inquire"
+    },
+    {
+      "$id": 4,
+      "label": "qev080101_SEL0011",
+      "style": 3,
+      "name": "Ask Kupee for more information about the treasure."
+    },
+    {
+      "$id": 5,
+      "label": "qev080101_JNK0020",
+      "style": 4,
+      "name": "Question"
+    },
+    {
+      "$id": 6,
+      "label": "qev080101_SEL0021",
+      "style": 3,
+      "name": "Ask Kupee what in the heck a \"Mysteroid\" is."
+    },
+    {
+      "$id": 7,
+      "label": "qev080101_MSG0003",
+      "style": 1,
+      "name": "Strange Mysteroid friend gave Kupee key that is\nsupposed to unlock huuuge treasure![ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev080101_MSG0004",
+      "style": 1,
+      "name": "Strange friend said it was something incredible!\nBut exact identity of treasure is still big mysteroid.\n...Er, mystery.[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev080101_MSG0005",
+      "style": 1,
+      "name": "It is friend who gave Kupee this curious key.[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev080101_MSG0006",
+      "style": 1,
+      "name": "Mira has many strange xenos, but Kupee never see\nanything quite so mysterious as that.[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev080101_MSG0007",
+      "style": 1,
+      "name": "So Kupee made up name \"Mysteroid\" and invented\nrich backstory for use in later fan-fiction writing.[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev080101_MSG0008",
+      "style": 1,
+      "name": "It seem like that Mysteroid came to Mira with others\nof its kind.[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev080101_MSG0009",
+      "style": 1,
+      "name": "But Mira too dangerous for Mysteroid friends.\nBy the time one reached caravan of Kupee,\nall other Mysteroids were dead.[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev080101_MSG0010",
+      "style": 1,
+      "name": "Kupee felt sad for him, so Kupee gave him food and\ndrink.[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev080101_MSG0011",
+      "style": 1,
+      "name": "And in return, Mysteroid left this key before vanishing\ninto darkest night.[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev080101_MSG0012",
+      "style": 1,
+      "name": "Oh, but Mysteroid friend also left strange message.\n*ahem* Mi mi miiiii...[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev080101_MSG0013",
+      "style": 1,
+      "name": "\"My kinsmen sleep, yet point the way to a treasure\ngreat and vast. With it shall this world be destroyed,\nand then reborn at last.\"[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev080101_MSG0014",
+      "style": 1,
+      "name": "Compelling, yes? Enough to rob friend of sleep, yes?\nMeh heh! Now poor friend has been dragged into this!\nOnly way to find peace is to find treasure.[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev080101_MSG0015",
+      "style": 1,
+      "name": "Okay then! Kupee fill friend in on all the deets.\nMysteroid friend said there are three \"sleeping kinsmen\"\nhere in Sylvalum.[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev080101_MSG0016",
+      "style": 1,
+      "name": "He left hints to locations in mysterious riddle form.\n...Which is dumb. But whatever![ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev080101_MSG0017",
+      "style": 1,
+      "name": "Clues are \"south of the lake, beside four turtles,\"\n\"in sight of the southern hold, by the flightless bird,\"\nand, \"at the lakeside foot of the wayward mount.\"[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev080101_MSG0018",
+      "style": 1,
+      "name": "...None of which make ANY sense to Kupee.[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev080101_MSG0019",
+      "style": 1,
+      "name": "Brain of Kupee will overheat if he think any harder!\nWaiting for friend to find them all by trial and error\nsound like much better plan.[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev080101_MSG0020",
+      "style": 1,
+      "name": "Has friend forgotten hints Mysteroid friend left?\nKupee can repeat them again.[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev080101_JNK0030",
+      "style": 4,
+      "name": "Request"
+    },
+    {
+      "$id": 26,
+      "label": "qev080101_SEL0031",
+      "style": 3,
+      "name": "Ask Kupee to hear the clues again."
+    },
+    {
+      "$id": 27,
+      "label": "qev080101_JNK0040",
+      "style": 4,
+      "name": "Dismiss"
+    },
+    {
+      "$id": 28,
+      "label": "qev080101_SEL0041",
+      "style": 3,
+      "name": "Say that you remember them."
+    },
+    {
+      "$id": 29,
+      "label": "qev080101_MSG0021",
+      "style": 1,
+      "name": "Locations of \"sleeping kinsmen\" from riddle are...[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev080101_MSG0022",
+      "style": 1,
+      "name": "\"South of the lake, beside four turtles,\"\n\"in sight of the southern hold, by the flightless bird,\"\nand, \"at the lakeside foot of the wayward mount.\"[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev080101_MSG0023",
+      "style": 1,
+      "name": "...Or so strange friend said. They are all supposed to\nbe in Sylvalum, so no sense looking farther than that.[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev080101_MSG0024",
+      "style": 1,
+      "name": "Meh-meh! Friend has excellent memory![ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev080101_MSG0025",
+      "style": 1,
+      "name": "Oh, wait! Kupee just remembered that Mysteroid friend\nleft one more riddle.[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev080101_MSG0026",
+      "style": 1,
+      "name": "\"Our greatest treasure may already be old and well\nfamiliar to you.\"[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev080101_MSG0027",
+      "style": 1,
+      "name": "...But Kupee never seen or heard of anything able to\ndestroy whole world.[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev080101_MSG0028",
+      "style": 1,
+      "name": "It is mystery wrapped in enigma wrapped in dumb!\nPoor head of Kupee about to turn into pile of goo.[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev080101_MSG0029",
+      "style": 1,
+      "name": "Make any progress on riddle of Mysteroid friend?[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev080101_MSG0030",
+      "style": 1,
+      "name": "...What? Friend found three graves across Sylvalum?[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "qev080101_MSG0031",
+      "style": 1,
+      "name": "Ah! Meh-meh! That must be \"sleeping kinsmen\"!\nKupee bet real money there are other Mysteroids\nburied in graves.[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "qev080101_MSG0032",
+      "style": 1,
+      "name": "So then? What was written on graves?\nKupee want to hear all![ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "qev080101_MSG0037",
+      "style": 1,
+      "name": "...\"Our treasure is bane to any wall,\nable to harm or heal one and all—193.\"[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "qev080101_MSG0038",
+      "style": 1,
+      "name": "\"Our treasure is succor to all of the poor,\na flame that incinerates all evermore—128.\"[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "qev080101_MSG0039",
+      "style": 1,
+      "name": "\"Our treasure alone is fit to awaken\nthe way to a world that is long forsaken—1986.\"[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "qev080101_MSG0069",
+      "style": 1,
+      "name": "...MEH-MEH-MEEEEEEH! More stupid riddles!\nWhat does any of that MEAN?![ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "qev080101_JNK0050",
+      "style": 4,
+      "name": "Suggest"
+    },
+    {
+      "$id": 46,
+      "label": "qev080101_SEL0051",
+      "style": 3,
+      "name": "Point out the strange numbers at the end of each line.[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "qev080101_JNK0060",
+      "style": 4,
+      "name": "Inquire"
+    },
+    {
+      "$id": 48,
+      "label": "qev080101_SEL0061",
+      "style": 3,
+      "name": "Ask Kupee about the curious\nwords written on the graves.[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "qev080101_MSG0033",
+      "style": 1,
+      "name": "Strange numbers... Hrmmm.[ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "qev080101_MSG0034",
+      "style": 1,
+      "name": "Oh! Meh-meh! Could they be coordinates for place\nwhere secret treasure is?[ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "qev080101_MSG0035",
+      "style": 1,
+      "name": "If first is X coordinate, then second is Y.\nEr, and third is probably elevation.[ST:wait ]"
+    },
+    {
+      "$id": 52,
+      "label": "qev080101_MSG0036",
+      "style": 1,
+      "name": "That must be it! So hurry up and GO GO GO!\nGrab amazing treasure right away![ST:wait ]"
+    },
+    {
+      "$id": 53,
+      "label": "qev080101_MSG0040",
+      "style": 1,
+      "name": "Riddle says it is bane to any wall...\nCould it be some kind of weapon?[ST:wait ]"
+    },
+    {
+      "$id": 54,
+      "label": "qev080101_MSG0041",
+      "style": 1,
+      "name": "And numbers seem like they could be coordinates...[ST:wait ]"
+    },
+    {
+      "$id": 55,
+      "label": "qev080101_MSG0042",
+      "style": 1,
+      "name": "Probably worth going to check right away!\n...Er, for friend, that is. But Kupee will wait here in\neager state of anticipation.[ST:wait ]"
+    },
+    {
+      "$id": 56,
+      "label": "qev080101_MSG0043",
+      "style": 1,
+      "name": "Friend should hurry to coordinates from gravestones.\nThat has to be where the amazing treasure of\nMysteroids is waiting.[ST:wait ]"
+    },
+    {
+      "$id": 57,
+      "label": "qev080101_MSG0044",
+      "style": 1,
+      "name": "Well? Did friend find treasure of Mysteroids?[ST:wait ]"
+    },
+    {
+      "$id": 58,
+      "label": "qev080101_MSG0045",
+      "style": 1,
+      "name": "...Hrrrrmm? For all that talk about destroying world,\nthat is awfully small box.[ST:wait ]"
+    },
+    {
+      "$id": 59,
+      "label": "qev080101_MSG0046",
+      "style": 1,
+      "name": "Huh? It has keyhole. Maybe Kupee should try key that\nMysteroid friend left...[ST:wait ]"
+    },
+    {
+      "$id": 60,
+      "label": "qev080101_MSG0047",
+      "style": 1,
+      "name": "Ah! It opened! Gold! Silver! Precious jewels!\n...Wait no. There is just weird book inside. Meh![ST:wait ]"
+    },
+    {
+      "$id": 61,
+      "label": "qev080101_JNK0070",
+      "style": 4,
+      "name": "Request"
+    },
+    {
+      "$id": 62,
+      "label": "qev080101_SEL0071",
+      "style": 3,
+      "name": "Ask Kupee to read the book."
+    },
+    {
+      "$id": 63,
+      "label": "qev080101_JNK0080",
+      "style": 4,
+      "name": "Ignore"
+    },
+    {
+      "$id": 64,
+      "label": "qev080101_SEL0081",
+      "style": 3,
+      "name": "Say that all you care about is getting paid.[ST:wait ]"
+    },
+    {
+      "$id": 65,
+      "label": "qev080101_MSG0048",
+      "style": 1,
+      "name": "Ooo, right! All Kupee care about is solving mystery\nso he can finally sleep at night.[ST:wait ]"
+    },
+    {
+      "$id": 66,
+      "label": "qev080101_MSG0049",
+      "style": 1,
+      "name": "Wait one minute for Kupee to translate text...[ST:wait ]"
+    },
+    {
+      "$id": 67,
+      "label": "qev080101_MSG0050",
+      "style": 1,
+      "name": "Friend is unbelievably cold. This mystery has been\nkeeping Kupee up for days now![ST:wait ]"
+    },
+    {
+      "$id": 68,
+      "label": "qev080101_MSG0051",
+      "style": 1,
+      "name": "Kupee almost jealous that friend has such complete lack\nof curiosity.[ST:wait ]"
+    },
+    {
+      "$id": 69,
+      "label": "qev080101_MSG0052",
+      "style": 1,
+      "name": "But suspense still killing Kupee, so wait here while\nKupee translate text...[ST:wait ]"
+    },
+    {
+      "$id": 70,
+      "label": "qev080101_MSG0053",
+      "style": 1,
+      "name": "Hrrrm de derrrrm... Meh-meh-meeeeeeh...\nHmmmmMMmMMMmmmmmMMmm...[ST:wait ]"
+    },
+    {
+      "$id": 71,
+      "label": "qev080101_MSG0054",
+      "style": 1,
+      "name": "Ah, Kupee see! This book is about thing that Mysteroid\nfriends hold most precious.[ST:wait ]"
+    },
+    {
+      "$id": 72,
+      "label": "qev080101_MSG0055",
+      "style": 1,
+      "name": "\"Our treasure is bane to any wall,\nable to harm or heal one and all.[ST:wait ]"
+    },
+    {
+      "$id": 73,
+      "label": "qev080101_MSG0056",
+      "style": 1,
+      "name": "\"Our treasure is succor to all of the poor,\na flame that incinerates all evermore.[ST:wait ]"
+    },
+    {
+      "$id": 74,
+      "label": "qev080101_MSG0057",
+      "style": 1,
+      "name": "\"Our treasure alone is fit to awaken\nthe way to a world that is long forsaken.[ST:wait ]"
+    },
+    {
+      "$id": 75,
+      "label": "qev080101_MSG0058",
+      "style": 1,
+      "name": "\"That treasure is love—the light that shines our way\neven through the darkest of struggles.[ST:wait ]"
+    },
+    {
+      "$id": 76,
+      "label": "qev080101_MSG0059",
+      "style": 1,
+      "name": "\"I record our love here, that we may never forget it.\nThat we may use it as a beacon to guide us as we\nwander the vastness of space.\"[ST:wait ]"
+    },
+    {
+      "$id": 77,
+      "label": "qev080101_MSG0060",
+      "style": 1,
+      "name": "Wow. Deep.[ST:wait ]"
+    },
+    {
+      "$id": 78,
+      "label": "qev080101_MSG0061",
+      "style": 1,
+      "name": "But Kupee not understand in slightest!\nCan friend make sense of it?[ST:wait ]"
+    },
+    {
+      "$id": 79,
+      "label": "qev080101_JNK0090",
+      "style": 4,
+      "name": "Confirm"
+    },
+    {
+      "$id": 80,
+      "label": "qev080101_SEL0091",
+      "style": 3,
+      "name": "Expound on the glory of love to Kupee.[ST:wait ]"
+    },
+    {
+      "$id": 81,
+      "label": "qev080101_JNK0100",
+      "style": 4,
+      "name": "Deny"
+    },
+    {
+      "$id": 82,
+      "label": "qev080101_SEL0101",
+      "style": 3,
+      "name": "Shake your head and say that it's beyond you.[ST:wait ]"
+    },
+    {
+      "$id": 83,
+      "label": "qev080101_MSG0062",
+      "style": 1,
+      "name": "Friend is amazing to be able to analyze such complex\ndocument so quickly! Friend should be translator!\n...But Kupee still not understand.[ST:wait ]"
+    },
+    {
+      "$id": 84,
+      "label": "qev080101_MSG0063",
+      "style": 1,
+      "name": "Friend too? Hmm. Kupee guess Mysteroids will stay\nmystery to bitter end.[ST:wait ]"
+    },
+    {
+      "$id": 85,
+      "label": "qev080101_MSG0064",
+      "style": 1,
+      "name": "Kupee still not feel satisfied, but friend was big help\nanyway. Thanks.[ST:wait ]"
+    },
+    {
+      "$id": 86,
+      "label": "qev080101_MSG0065",
+      "style": 1,
+      "name": "Hmm, that thing Mysteroid friend said after Kupee fed\nhim meal...[ST:wait ]"
+    },
+    {
+      "$id": 87,
+      "label": "qev080101_MSG0066",
+      "style": 1,
+      "name": "\"Our greatest treasure may already be old and well\nfamiliar to you.\"[ST:wait ]"
+    },
+    {
+      "$id": 88,
+      "label": "qev080101_MSG0067",
+      "style": 1,
+      "name": "Does that mean Kupee already have love?[ST:wait ]"
+    },
+    {
+      "$id": 89,
+      "label": "qev080101_MSG0068",
+      "style": 1,
+      "name": "That seem like yet another mystery. Meh!\nKupee have even more sleepless nights ahead...[ST:wait ]"
+    }
+  ]
+}

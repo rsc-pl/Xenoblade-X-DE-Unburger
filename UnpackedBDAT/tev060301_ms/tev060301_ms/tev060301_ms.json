@@ -1,0 +1,540 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev060301_JNK0010",
+      "style": 4,
+      "name": "Inquire[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev060301_SEL0011",
+      "style": 3,
+      "name": "Ask Nalu about her family.[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev060301_JNK0020",
+      "style": 4,
+      "name": "Discuss[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev060301_SEL0021",
+      "style": 3,
+      "name": "Ask Nalu about recent developments.[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev060301_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 6,
+      "label": "tev060301_SEL0011",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 7,
+      "label": "tev060301_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 8,
+      "label": "tev060301_SEL0021",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 9,
+      "label": "tev060301_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 10,
+      "label": "tev060301_SEL0011",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 11,
+      "label": "tev060301_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 12,
+      "label": "tev060301_SEL0021",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 13,
+      "label": "tev060301_MSG0001",
+      "style": 1,
+      "name": "Nalu have total knockout of little sisterpon named Lana.[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "tev060301_MSG0002",
+      "style": 1,
+      "name": "Lana get all the beauty genes, but comes up short in\npersonality department. Best word to describe Lana is\nprobably \"cunning.\" ...Or maybe \"jerkface.\"[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "tev060301_MSG0003",
+      "style": 1,
+      "name": "Lana ready to do whatever it take to get what Lana\nwant. Friend cannot count on Lana, but friend CAN\ncount on not counting on Lana! Er...[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "tev060301_MSG0004",
+      "style": 1,
+      "name": "Anyway, Lana got married, but Nalu not hear about\nany ceremony. If friend sees Lana, maybe let Nalu\nknow how sisterpon is doing?[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "tev060301_MSG0008",
+      "style": 1,
+      "name": "Meh heh heh. Nalu need another brilliant plan to fleece\nhuman chumps for all they... Meeeeeeeh![ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "tev060301_MSG0009",
+      "style": 1,
+      "name": "H-hello, friend! Nalu is so grateful for all help of all\nhuman friends! Also quite happy to be free from stinky\nclutches of Ganglion.[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "tev060301_MSG0010",
+      "style": 1,
+      "name": "Nalu know from bottom of pure, innocent heart that\nwhen forces of darkness threaten Mira again,\nfriend will be there to save day.[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "tev060301_MSG0011",
+      "style": 1,
+      "name": "Nalu certainly cannot count on good-for-nothing\nleader of Drongo Caravan, Popote. Hmph![ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "tev060301_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 22,
+      "label": "tev060301_SEL0011",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 23,
+      "label": "tev060301_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 24,
+      "label": "tev060301_SEL0021",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 25,
+      "label": "tev060301_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 26,
+      "label": "tev060301_SEL0011",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 27,
+      "label": "tev060301_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 28,
+      "label": "tev060301_SEL0021",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 29,
+      "label": "tev060301_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 30,
+      "label": "tev060301_SEL0011",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 31,
+      "label": "tev060301_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 32,
+      "label": "tev060301_SEL0021",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 33,
+      "label": "tev060301_MSG0012",
+      "style": 1,
+      "name": "Meh heh heh. Nalu need another brilliant plan to fleece\nhuman chumps for all they... Meeeeeeeh![ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "tev060301_MSG0013",
+      "style": 1,
+      "name": "H-hello, friend! Nalu is so grateful for the help of all\nhuman friends! Nalu finally ditch Ganglion and find\nmuch more lucrative business partner to...[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "tev060301_MSG0014",
+      "style": 1,
+      "name": "Er, find more lucrative business partner to say NO to!\nBecause Nalu learn lesson! ...Friend better not say\nanything to caravan leader Popote.[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "tev060301_MSG0015",
+      "style": 1,
+      "name": "Loudmouth, good-for-nothing Popote will never let\nNalu hear end of it. Meh![ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "tev060301_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 38,
+      "label": "tev060301_SEL0011",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 39,
+      "label": "tev060301_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 40,
+      "label": "tev060301_SEL0021",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 41,
+      "label": "tev060301_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 42,
+      "label": "tev060301_SEL0011",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 43,
+      "label": "tev060301_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 44,
+      "label": "tev060301_SEL0021",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 45,
+      "label": "tev060301_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 46,
+      "label": "tev060301_SEL0011",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 47,
+      "label": "tev060301_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 48,
+      "label": "tev060301_SEL0021",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 49,
+      "label": "tev060301_MSG0016",
+      "style": 1,
+      "name": "Little sisterpon Lana really did it this time...[ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "tev060301_MSG0017",
+      "style": 1,
+      "name": "Everyone on Mira talking about her now![ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "tev060301_MSG0018",
+      "style": 1,
+      "name": "They say Lana turn into some kind of two-tufted floozy\nwho lies to Nopon about carry littlepon![ST:wait ]"
+    },
+    {
+      "$id": 52,
+      "label": "tev060301_MSG0019",
+      "style": 1,
+      "name": "...And Nalu believe them. Hard to say it,\nbut sisterpon is capable of truly terrifying things.[ST:wait ]"
+    },
+    {
+      "$id": 53,
+      "label": "tev060301_MSG0023",
+      "style": 1,
+      "name": "Meh heh heh. Nalu need another brilliant plan to fleece\nhuman chumps for all they... Meeeeeeeh![ST:wait ]"
+    },
+    {
+      "$id": 54,
+      "label": "tev060301_MSG0024",
+      "style": 1,
+      "name": "H-hello, friend! Nalu is so grateful for all the help of all\nhuman friends![ST:wait ]"
+    },
+    {
+      "$id": 55,
+      "label": "tev060301_MSG0025",
+      "style": 1,
+      "name": "Nalu has learned lesson. From now on, Nalu going to\nkeep transactions with human friends above board.[ST:wait ]"
+    },
+    {
+      "$id": 56,
+      "label": "tev060301_MSG0026",
+      "style": 1,
+      "name": "Nalu even tell caravan leader Popote to treat human\nfriends extra special![ST:wait ]"
+    },
+    {
+      "$id": 57,
+      "label": "tev060301_MSG0027",
+      "style": 1,
+      "name": "Popote has long way to go as leader,\nbut aide will step in and make sure things get done.[ST:wait ]"
+    },
+    {
+      "$id": 58,
+      "label": "tev060301_MSG0028",
+      "style": 1,
+      "name": "Did friend hear? Drongo Caravan has new leader![ST:wait ]"
+    },
+    {
+      "$id": 59,
+      "label": "tev060301_MSG0029",
+      "style": 1,
+      "name": "Now Popote can go to elder and get some sense\nwhipped into him![ST:wait ]"
+    },
+    {
+      "$id": 60,
+      "label": "tev060301_MSG0030",
+      "style": 1,
+      "name": "New caravan leader supposed to be very responsible.\nNopon can rest assured selling of wares will go\nsmoothly.[ST:wait ]"
+    },
+    {
+      "$id": 61,
+      "label": "tev060301_MSG0031",
+      "style": 1,
+      "name": "...Meh? Wait one second... This mean Nalu has to be\nmore careful sneaking off and making shady contracts\nwith other... Meh! Never mind![ST:wait ]"
+    },
+    {
+      "$id": 62,
+      "label": "tev060301_MSG0032",
+      "style": 1,
+      "name": "Oh noooOOO! Top aide at local Drongo Caravan\nhas left continent![ST:wait ]"
+    },
+    {
+      "$id": 63,
+      "label": "tev060301_MSG0033",
+      "style": 1,
+      "name": "This is disaster! Leader Popote cannot do anything\nwithout help of aide. Drongo Caravan likely facing\nmajor fiscal crisis.[ST:wait ]"
+    },
+    {
+      "$id": 64,
+      "label": "tev060301_MSG0034",
+      "style": 1,
+      "name": "...Wait. If no one is watching books, Nalu can make\nshady deals with as many customers as... Meh!\nNothing! Never mind![ST:wait ]"
+    },
+    {
+      "$id": 65,
+      "label": "tev060301_MSG0035",
+      "style": 1,
+      "name": "Why does friend give that look? Nalu already made\npromise to become completely honest businesspon![ST:wait ]"
+    },
+    {
+      "$id": 66,
+      "label": "tev060301_MSG3001",
+      "style": 1,
+      "name": "Friend has really sick idea of practical joke![ST:wait ]"
+    },
+    {
+      "$id": 67,
+      "label": "tev060301_MSG3002",
+      "style": 1,
+      "name": "When Nalu tried to hand over goods, bullet flies came\nbuzzing out and wounded everyone![ST:wait ]"
+    },
+    {
+      "$id": 68,
+      "label": "tev060301_MSG3003",
+      "style": 1,
+      "name": "Not only that, Ganglion was so mad they tried to kill\npoor Nalu![ST:wait ]"
+    },
+    {
+      "$id": 69,
+      "label": "tev060301_MSG3004",
+      "style": 1,
+      "name": "Mrrg... Dealing with Ganglion was big mistake.[ST:wait ]"
+    },
+    {
+      "$id": 70,
+      "label": "tev060301_JNK0030",
+      "style": 4,
+      "name": "Shrug[ST:wait ]"
+    },
+    {
+      "$id": 71,
+      "label": "tev060301_SEL0031",
+      "style": 3,
+      "name": "Tell Nalu that crime doesn't pay, then ask if she's sorry.[ST:wait ]"
+    },
+    {
+      "$id": 72,
+      "label": "tev060301_JNK0040",
+      "style": 4,
+      "name": "Lecture[ST:wait ]"
+    },
+    {
+      "$id": 73,
+      "label": "tev060301_SEL0041",
+      "style": 3,
+      "name": "Tell Nalu that she deserved it for tricking humans,\nand that she'd better have learned her lesson.[ST:wait ]"
+    },
+    {
+      "$id": 74,
+      "label": "tev060301_MSG3005",
+      "style": 1,
+      "name": "Of course Nalu sorry! ...Sorry that Nalu decided to\ndeal with scary Ganglion AND scary humans![ST:wait ]"
+    },
+    {
+      "$id": 75,
+      "label": "tev060301_MSG3006",
+      "style": 1,
+      "name": "But next time Nalu will be more careful and get away\nwith it.[ST:wait ]"
+    },
+    {
+      "$id": 76,
+      "label": "tev060301_MSG3007",
+      "style": 1,
+      "name": "...Hmm? Did Nalu say that out loud? Meh.[ST:wait ]"
+    },
+    {
+      "$id": 77,
+      "label": "tev060301_MSG3008",
+      "style": 1,
+      "name": "Nalu not mean word that was just said, okay?\nFriend should forget about it.[ST:wait ]"
+    },
+    {
+      "$id": 78,
+      "label": "tev060301_MSG3009",
+      "style": 1,
+      "name": "Nalu going to keep ALL transactions with human friends\nabove the level from now on.[ST:wait ]"
+    },
+    {
+      "$id": 79,
+      "label": "tev060301_MSG3010",
+      "style": 1,
+      "name": "Maybe make special deals with friends who look the\nother way? Hmmmm?[ST:wait ]"
+    },
+    {
+      "$id": 80,
+      "label": "tev060301_MSG3011",
+      "style": 1,
+      "name": "Oh, yes! Nalu definitely learned lesson.[ST:wait ]"
+    },
+    {
+      "$id": 81,
+      "label": "tev060301_MSG3012",
+      "style": 1,
+      "name": "Nalu will keep ALL transactions with human friends\nabove the level from now on.[ST:wait ]"
+    },
+    {
+      "$id": 82,
+      "label": "tev060301_MSG3013",
+      "style": 1,
+      "name": "Then, once Nalu has again earned trust of friends,\nNalu activate plan B and really pull wool over\neyes! Muah ha ha ha![ST:wait ]"
+    },
+    {
+      "$id": 83,
+      "label": "tev060301_MSG3014",
+      "style": 1,
+      "name": "...Oops. Uh, who said that? Not Nalu![ST:wait ]"
+    },
+    {
+      "$id": 84,
+      "label": "tev060301_MSG3015",
+      "style": 1,
+      "name": "Maybe Nalu take one too many blasts from bug bomb.[ST:wait ]"
+    },
+    {
+      "$id": 85,
+      "label": "tev060301_MSG3016",
+      "style": 1,
+      "name": "Nalu still kind of woozy. Friend can sympathize?[ST:wait ]"
+    },
+    {
+      "$id": 86,
+      "label": "tev060301_MSG3017",
+      "style": 1,
+      "name": "Nalu going to keep ALL transactions with human friends\nabove the level from now on.[ST:wait ]"
+    },
+    {
+      "$id": 87,
+      "label": "tev060301_MSG3018",
+      "style": 1,
+      "name": "Maybe make special deals with friends who look the\nother way? Hmmmm?[ST:wait ]"
+    }
+  ]
+}

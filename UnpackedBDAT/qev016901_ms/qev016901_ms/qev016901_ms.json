@@ -1,0 +1,396 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev016901_MSG0001",
+      "style": 1,
+      "name": "Glad you're here, [ST:playername ].\nI've been waiting for you.[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev016901_MSG0002",
+      "style": 1,
+      "name": "You're the only one I know who can handle this,\nso let's get you briefed.[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev016901_JNK0010",
+      "style": 4,
+      "name": "Agree"
+    },
+    {
+      "$id": 4,
+      "label": "qev016901_SEL0011",
+      "style": 3,
+      "name": "Listen attentively."
+    },
+    {
+      "$id": 5,
+      "label": "qev016901_JNK0020",
+      "style": 4,
+      "name": "Reject"
+    },
+    {
+      "$id": 6,
+      "label": "qev016901_SEL0021",
+      "style": 3,
+      "name": "Tell Kirsty that you're done being her gopher."
+    },
+    {
+      "$id": 7,
+      "label": "qev016901_MSG0003",
+      "style": 1,
+      "name": "What, is this beneath you? Should I only have\nyou engage in boss fights or something?[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev016901_MSG0004",
+      "style": 1,
+      "name": "Besides, I think you'll agree the reward is fair,\nso at least hear me out.[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev016901_MSG0005",
+      "style": 1,
+      "name": "As you know, New LA now has a number of\nnonhuman residents.[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev016901_MSG0006",
+      "style": 1,
+      "name": "Thanks to these xenoforms, we've seen leaps in our\ntechnology and an exponential growth in trade.[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev016901_MSG0007",
+      "style": 1,
+      "name": "Unfortunately, our miranium consumption has also\nspiked to an alarming degree.[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev016901_MSG0008",
+      "style": 1,
+      "name": "The amount we're excavating with our existing data\nprobes simply can't keep up.[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev016901_MSG0009",
+      "style": 1,
+      "name": "I'd like to ask your help in mining enough to get us out\nof this bind... Perhaps by expanding your FrontierNav\ngrid further out into Oblivia?[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev016901_MSG0010",
+      "style": 1,
+      "name": "And while you're out in Oblivia, I've got a few other\nobjectives you can take care of there.[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev016901_MSG0011",
+      "style": 1,
+      "name": "First, I need you to gather seven or so moleworms.\nThose ugly little things consume miranium,\nwhich makes them quite valuable.[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev016901_MSG0012",
+      "style": 1,
+      "name": "And then I want you to retrieve data unit FN095.\nWe're pretty sure it landed somewhere on the continent.[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev016901_MSG0013",
+      "style": 1,
+      "name": "Should be simple enough, eh?[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev016901_MSG0014",
+      "style": 1,
+      "name": "And I'll make sure to tell the xenoforms bemoaning a\nlack of materials that I've got our ace BLADE operative\non the job![ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev016901_MSG0015",
+      "style": 1,
+      "name": "No pressure now! Ha ha ha![ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev016901_JNK0030",
+      "style": 4,
+      "name": "Joke"
+    },
+    {
+      "$id": 21,
+      "label": "qev016901_SEL0031",
+      "style": 3,
+      "name": "Tell Kirsty that you're the sharpest BLADE in the drawer."
+    },
+    {
+      "$id": 22,
+      "label": "qev016901_JNK0040",
+      "style": 4,
+      "name": "Worry"
+    },
+    {
+      "$id": 23,
+      "label": "qev016901_SEL0041",
+      "style": 3,
+      "name": "Look panicked and shift nervously from foot to foot."
+    },
+    {
+      "$id": 24,
+      "label": "qev016901_MSG0016",
+      "style": 1,
+      "name": "The sharpest... Yowza. That's really bad.\nBut whatever! Now get out there and prove me right![ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev016901_MSG0017",
+      "style": 1,
+      "name": "You're awfully nervous for someone with your track\nrecord, you know? You're going to be fine.[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev016901_MSG0018",
+      "style": 1,
+      "name": "Good luck. And thanks, [ST:playername ].[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev016901_MSG0019",
+      "style": 1,
+      "name": "Thanks again. Oh, and as always, I'll let you tackle the\nobjectives in whatever order you see fit.[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev016901_MSG0020",
+      "style": 1,
+      "name": "Just make sure to expand FrontierNav and start\nmining that ridiculous amount of miranium I asked\nfor, all right?[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev016901_MSG0021",
+      "style": 1,
+      "name": "Wow. You got all 2,500 units of miranium already?[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev016901_MSG0022",
+      "style": 1,
+      "name": "Thanks so much. Now I can keep NLA's new residents\nstocked and happy.[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev016901_MSG0023",
+      "style": 1,
+      "name": "Good luck with the remaining objectives.[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev016901_MSG0024",
+      "style": 1,
+      "name": "I forwarded the miranium along to the waiting\nxenoforms.[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev016901_MSG0025",
+      "style": 1,
+      "name": "Now you just have to take care of the objectives in\nOblivia. Don't worry—I'm sure you'll ace 'em![ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev016901_MSG0026",
+      "style": 1,
+      "name": "Phew! The Ma-non are ravenous when it comes to\nlearning.[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev016901_MSG0027",
+      "style": 1,
+      "name": "Now that they've seen how much miranium FrontierNav\nbrings in, they want to know all about it.[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev016901_MSG0028",
+      "style": 1,
+      "name": "They keep lining up to ask me questions.\nSome of them even follow me around![ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev016901_MSG0029",
+      "style": 1,
+      "name": "I feel like some kind of crazy college professor.[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev016901_JNK0050",
+      "style": 4,
+      "name": "Encourage"
+    },
+    {
+      "$id": 39,
+      "label": "qev016901_SEL0051",
+      "style": 3,
+      "name": "Tell Kirsty that she has a gift for teaching."
+    },
+    {
+      "$id": 40,
+      "label": "qev016901_JNK0060",
+      "style": 4,
+      "name": "Discourage"
+    },
+    {
+      "$id": 41,
+      "label": "qev016901_SEL0061",
+      "style": 3,
+      "name": "Say Kirsty is in no position to teach anything."
+    },
+    {
+      "$id": 42,
+      "label": "qev016901_MSG0030",
+      "style": 1,
+      "name": "Heh. Guess I gave you a crash course on FrontierNav\nnot too long ago, huh?[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "qev016901_MSG0031",
+      "style": 1,
+      "name": "I see someone forgot their jerk pills today.\nAnd someone ALSO forgot who it was that taught\n[ST:gender p1=him p2=her ] about FrontierNav in the first place![ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "qev016901_MSG0032",
+      "style": 1,
+      "name": "Anyway, that takes care of all the objectives for this\nassignment. Good work.[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "qev016901_MSG0033",
+      "style": 1,
+      "name": "It looks like the information on the data unit is intact,\nto boot. I'll make sure you get your reward right away.[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "qev016901_MSG0034",
+      "style": 1,
+      "name": "...Damn. Doesn't look like these guys plan to go home\nanytime soon, though.[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "qev016901_MSG0035",
+      "style": 1,
+      "name": "I'm a bit exhausted from the hailstorm of questions,\nbut what are you going to do?[ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "qev016901_MSG0036",
+      "style": 1,
+      "name": "And to be honest, it's a little flattering to have people\nso interested in my work. I helped develop FrontierNav,\nafter all.[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "qev016901_JNK0070",
+      "style": 4,
+      "name": "Agree"
+    },
+    {
+      "$id": 50,
+      "label": "qev016901_SEL0071",
+      "style": 3,
+      "name": "Say that all humanity should be proud of FrontierNav."
+    },
+    {
+      "$id": 51,
+      "label": "qev016901_JNK0080",
+      "style": 4,
+      "name": "Inquire"
+    },
+    {
+      "$id": 52,
+      "label": "qev016901_SEL0081",
+      "style": 3,
+      "name": "Ask Kirsty about her role in FrontierNav's development."
+    },
+    {
+      "$id": 53,
+      "label": "qev016901_MSG0037",
+      "style": 1,
+      "name": "I'm glad you think so. I know the rest of the team\nwould be as well.[ST:wait ]"
+    },
+    {
+      "$id": 54,
+      "label": "qev016901_MSG0038",
+      "style": 1,
+      "name": "Er, actually that's classified information, so maybe you\ncan just...forget you heard it? Geez, I need to learn to\nshut my big mouth.[ST:wait ]"
+    },
+    {
+      "$id": 55,
+      "label": "qev016901_MSG0039",
+      "style": 1,
+      "name": "Anyway, that was forever ago.[ST:wait ]"
+    },
+    {
+      "$id": 56,
+      "label": "qev016901_MSG0040",
+      "style": 1,
+      "name": "Oh, and I'm not sure if you've heard, but apparently\nthere's a Ma-non out there who's offering credits for\nmiranium.[ST:wait ]"
+    },
+    {
+      "$id": 57,
+      "label": "qev016901_MSG0041",
+      "style": 1,
+      "name": "I guess you can accept requests from her through\nMission Control. Take a look, if you're curious.[ST:wait ]"
+    },
+    {
+      "$id": 58,
+      "label": "qev016901_MSG0042",
+      "style": 1,
+      "name": "It's something a person like you could probably make\ngood use of.[ST:wait ]"
+    },
+    {
+      "$id": 59,
+      "label": "qev016901_JNK0090",
+      "style": 4,
+      "name": "Deliver[ST:wait ]"
+    },
+    {
+      "$id": 60,
+      "label": "qev016901_SEL0091",
+      "style": 3,
+      "name": "Hand over the 2,500 units of miranium.[ST:wait ]"
+    },
+    {
+      "$id": 61,
+      "label": "qev016901_JNK0100",
+      "style": 4,
+      "name": "Keep[ST:wait ]"
+    },
+    {
+      "$id": 62,
+      "label": "qev016901_SEL0101",
+      "style": 3,
+      "name": "Hold on to your miranium for now.[ST:wait ]"
+    },
+    {
+      "$id": 63,
+      "label": "qev016901_MSG0043",
+      "style": 1,
+      "name": "Come on, I've got a million xenoforms breathing down\nmy neck for this stuff. You're killing me here![ST:wait ]"
+    }
+  ]
+}

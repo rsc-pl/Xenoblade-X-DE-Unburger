@@ -1,0 +1,96 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev013203_MSG0001",
+      "style": 1,
+      "name": "Corwin here. How goes it?\nYou find the Ensanguined Font yet?[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev013203_JNK0010",
+      "style": 4,
+      "name": "Confirm"
+    },
+    {
+      "$id": 3,
+      "label": "qev013203_SEL0011",
+      "style": 3,
+      "name": "Tell Corwin that you are there now."
+    },
+    {
+      "$id": 4,
+      "label": "qev013203_JNK0020",
+      "style": 4,
+      "name": "Verify"
+    },
+    {
+      "$id": 5,
+      "label": "qev013203_SEL0021",
+      "style": 3,
+      "name": "Ask Corwin if you are in the right location."
+    },
+    {
+      "$id": 6,
+      "label": "qev013203_MSG0002",
+      "style": 1,
+      "name": "Yeah? That was fast! I'm impressed.[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev013203_MSG0003",
+      "style": 1,
+      "name": "Yeah, I can confirm it. That's the Ensanguined Font,\nall right.[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev013203_MSG0004",
+      "style": 1,
+      "name": "Stings a little to say, but looks like you beat us\nthis time arou—[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev013203_MSG0005",
+      "style": 1,
+      "name": "Well, speak of the devil. Bates is on the horn\nright now.[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev013203_MSG0007",
+      "style": 1,
+      "name": "...Come in? Bates, respond! ...What?\nSay that again, Bates! What's happening there?![ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev013203_MSG0008",
+      "style": 1,
+      "name": "Bates! Can you hear—\nDammit! I lost the signal![ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev013203_MSG0009",
+      "style": 1,
+      "name": "Sorry, [ST:playername ]. Situation's changed.\nYou may be in danger there.[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev013203_MSG0010",
+      "style": 1,
+      "name": "Get yourself back to the city, ASAP!\n...Dammit, Bates. What the hell is this black Skell\nyou were going on about?[ST:wait ]"
+    }
+  ]
+}

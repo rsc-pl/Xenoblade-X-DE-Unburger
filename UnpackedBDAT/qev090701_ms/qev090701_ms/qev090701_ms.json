@@ -1,0 +1,204 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev090701_MSG0001",
+      "style": 0,
+      "name": "Um, hello? Yes, could you not...[ST:wait ]\n"
+    },
+    {
+      "$id": 2,
+      "label": "qev090701_MSG0002",
+      "style": 0,
+      "name": "You there, the one about to take that mission?\nI'm speaking to you.[ST:wait ]\n"
+    },
+    {
+      "$id": 3,
+      "label": "qev090701_JNK0010",
+      "style": 4,
+      "name": "Answer"
+    },
+    {
+      "$id": 4,
+      "label": "qev090701_SEL0011",
+      "style": 3,
+      "name": "Ask the man what he wants."
+    },
+    {
+      "$id": 5,
+      "label": "qev090701_JNK0020",
+      "style": 4,
+      "name": "Ignore"
+    },
+    {
+      "$id": 6,
+      "label": "qev090701_SEL0021",
+      "style": 3,
+      "name": "Take the mission without paying the man any notice."
+    },
+    {
+      "$id": 7,
+      "label": "qev090701_MSG0003",
+      "style": 0,
+      "name": "Oh, good. You're a sensible sort.\nI promise this will only take a moment of your time.[ST:wait ]\n"
+    },
+    {
+      "$id": 8,
+      "label": "qev090701_MSG0004",
+      "style": 0,
+      "name": "You know, non-diplomatic people like you are a real problem.[ST:wait ]\n"
+    },
+    {
+      "$id": 9,
+      "label": "qev090701_MSG0005",
+      "style": 0,
+      "name": "You're why we still have war.[ST:wait ]\n"
+    },
+    {
+      "$id": 10,
+      "label": "qev090701_MSG0006",
+      "style": 0,
+      "name": "Or maybe you're just hearing-impaired?\nI don't know. Whatever. I'm continuing.[ST:wait ]\n"
+    },
+    {
+      "$id": 11,
+      "label": "qev090701_MSG0007",
+      "style": 0,
+      "name": "Now, where was I? Ah, yes.\nThe mission you were about to take.[ST:wait ]\n"
+    },
+    {
+      "$id": 12,
+      "label": "qev090701_MSG0008",
+      "style": 0,
+      "name": "I analyzed it based on criteria ranging from Pathfinder\nexperience, build, intelligence...[ST:wait ]\n"
+    },
+    {
+      "$id": 13,
+      "label": "qev090701_MSG0009",
+      "style": 0,
+      "name": "Yes, well. In aggregate, the data clearly indicates\nthat the more qualified candidate is me.[ST:wait ]\n"
+    },
+    {
+      "$id": 14,
+      "label": "qev090701_MSG0010",
+      "style": 0,
+      "name": "Hector Birtwhistle.[ST:wait ]\n"
+    },
+    {
+      "$id": 15,
+      "label": "qev090701_MSG0011",
+      "style": 0,
+      "name": "I invite you to set pride aside and allow me to handle this.\nFor humanity's sake.[ST:wait ]\n"
+    },
+    {
+      "$id": 16,
+      "label": "qev090701_JNK0030",
+      "style": 4,
+      "name": "Decline"
+    },
+    {
+      "$id": 17,
+      "label": "qev090701_SEL0031",
+      "style": 3,
+      "name": "Tell H.B. to save his breath."
+    },
+    {
+      "$id": 18,
+      "label": "qev090701_JNK0040",
+      "style": 4,
+      "name": "Inquire"
+    },
+    {
+      "$id": 19,
+      "label": "qev090701_SEL0041",
+      "style": 3,
+      "name": "Ask how such a thing could possibly benefit humanity."
+    },
+    {
+      "$id": 20,
+      "label": "qev090701_MSG0012",
+      "style": 0,
+      "name": "Stubborn and insulting. No surprise.\nLook, just take this mission instead.[ST:wait ]\n"
+    },
+    {
+      "$id": 21,
+      "label": "qev090701_MSG0013",
+      "style": 0,
+      "name": "It's quite simple, really—because I'm more skilled than you.[ST:wait ]\n"
+    },
+    {
+      "$id": 22,
+      "label": "qev090701_MSG0014",
+      "style": 0,
+      "name": "I can offer a total guarantee of success,\nwhereas you...well...cannot.[ST:wait ]\n"
+    },
+    {
+      "$id": 23,
+      "label": "qev090701_MSG0015",
+      "style": 0,
+      "name": "Here. This other mission should be right up your alley.[ST:wait ]\n"
+    },
+    {
+      "$id": 24,
+      "label": "qev090701_MSG0016",
+      "style": 0,
+      "name": "I believe that picking two samples of zesian fleawort\nshould be well within your abilities.[ST:wait ]\n"
+    },
+    {
+      "$id": 25,
+      "label": "qev090701_MSG0017",
+      "style": 0,
+      "name": "Is something amiss? You seem dissatisfied.[ST:wait ]\n"
+    },
+    {
+      "$id": 26,
+      "label": "qev090701_MSG0018",
+      "style": 0,
+      "name": "Ah, how tragic. You now insist on comparing yourself to me.[ST:wait ]\n"
+    },
+    {
+      "$id": 27,
+      "label": "qev090701_MSG0019",
+      "style": 0,
+      "name": "The solution is clear.[ST:wait ]\n"
+    },
+    {
+      "$id": 28,
+      "label": "qev090701_MSG0020",
+      "style": 0,
+      "name": "We'll both complete the three missions I just accepted.[ST:wait ]\n"
+    },
+    {
+      "$id": 29,
+      "label": "qev090701_MSG0021",
+      "style": 0,
+      "name": "Only one of us can finish first.[ST:wait ]\n"
+    },
+    {
+      "$id": 30,
+      "label": "qev090701_MSG0022",
+      "style": 0,
+      "name": "This will provide the loser—by which I mean you—\nample chance to understand the gap separating us.[ST:wait ]\n"
+    },
+    {
+      "$id": 31,
+      "label": "qev090701_MSG0023",
+      "style": 0,
+      "name": "Whenever you eventually complete those missions,\ncome find me here. I'll be waiting.[ST:wait ]\n"
+    }
+  ]
+}

@@ -1,0 +1,318 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev011101_MSG0001",
+      "style": 1,
+      "name": "You're human! Good.[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev011101_MSG0002",
+      "style": 1,
+      "name": "If I can run into a BLADE all the way out here,\nI guess my luck hasn't completely conked out.[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev011101_MSG0003",
+      "style": 1,
+      "name": "Anyway, I could use some help on an Outfitter\nassignment. What do you say?[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev011101_JNK0010",
+      "style": 4,
+      "name": "Agree"
+    },
+    {
+      "$id": 5,
+      "label": "qev011101_SEL0011",
+      "style": 3,
+      "name": "Ask what you can do to help."
+    },
+    {
+      "$id": 6,
+      "label": "qev011101_JNK0020",
+      "style": 4,
+      "name": "Question"
+    },
+    {
+      "$id": 7,
+      "label": "qev011101_SEL0021",
+      "style": 3,
+      "name": "Inquire about Outfitters and their assignments."
+    },
+    {
+      "$id": 8,
+      "label": "qev011101_JNK0030",
+      "style": 4,
+      "name": "Praise"
+    },
+    {
+      "$id": 9,
+      "label": "qev011101_SEL0031",
+      "style": 3,
+      "name": "Praise Gigio for his dedication to his assignment."
+    },
+    {
+      "$id": 10,
+      "label": "qev011101_MSG0004",
+      "style": 1,
+      "name": "We came out here on a request from Sakuraba\nIndustries. They wanted us to test out some new Skell\nweapon on the indigens around here.[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev011101_MSG0005",
+      "style": 1,
+      "name": "Everything was going fine until this crazed mephite\nstarted attacking![ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev011101_MSG0006",
+      "style": 1,
+      "name": "Didn't someone explain this to you when you picked a\ndivision?[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev011101_MSG0007",
+      "style": 1,
+      "name": "The Outfitters support the arms manufacturers.[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev011101_MSG0008",
+      "style": 1,
+      "name": "We offer this support in a number of ways.[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev011101_MSG0009",
+      "style": 1,
+      "name": "Testing out new weapons is one, but we also help with\nproduction.[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev011101_MSG0010",
+      "style": 1,
+      "name": "Hell, I'm sure we had something to do with the gear\nyou're carrying now.[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev011101_MSG0011",
+      "style": 1,
+      "name": "Anyway, we came out here on a request from\nSakuraba Industries. They wanted us to test out some\nnew Skell weapon on the indigens around here.[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev011101_MSG0012",
+      "style": 1,
+      "name": "Everything was going fine until this crazed mephite\nstarted attacking![ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev011101_MSG0013",
+      "style": 1,
+      "name": "Hey, I'm a BLADE. All part of the job, right?[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev011101_MSG0014",
+      "style": 1,
+      "name": "We came out here on a request from Sakuraba\nIndustries. They wanted us to test out some new Skell\nweapon on the local indigens.[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev011101_MSG0015",
+      "style": 1,
+      "name": "Everything was going fine until this crazed mephite\nstarted attacking![ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev011101_MSG0016",
+      "style": 1,
+      "name": "Anyone not inside a Skell was wiped out on the first\nswipe...[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev011101_MSG0017",
+      "style": 1,
+      "name": "Mine was totaled, but at least it kept me alive.[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev011101_MSG0018",
+      "style": 1,
+      "name": "Problem is, all that weapon-test data is still inside it.[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev011101_MSG0019",
+      "style": 1,
+      "name": "This mission came straight from Isobe, Sakuraba's chief\nengineer. I'd feel like a total amateur if I let him down.[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev011101_MSG0020",
+      "style": 1,
+      "name": "But now that you've shown up, I may have a way out\nof this.[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev011101_MSG0021",
+      "style": 1,
+      "name": "What do you say? Will you go grab the test data from\nthe Skell I ditched in Rust Lake?[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev011101_MSG0022",
+      "style": 1,
+      "name": "I'll give you everything Sakuraba's paying us—\nthat's how much it means to me.[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev011101_MSG0023",
+      "style": 1,
+      "name": "Thank you. And good luck.[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev011101_MSG0024",
+      "style": 1,
+      "name": "I'm going to go find a cave to hide in before something\nbig and ugly shows up and eats me.[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev011101_MSG0025",
+      "style": 1,
+      "name": "If you could retrieve the test data from the Skell I left in\nRust Lake, I'd sure appreciate it.[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev011101_MSG0026",
+      "style": 1,
+      "name": "Oh, and the mephite that hit us may still be around.[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev011101_MSG0027",
+      "style": 1,
+      "name": "So be careful. Veeeeery careful.\nTake small steps... Look around a lot... You know.[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev011101_MSG0028",
+      "style": 1,
+      "name": "Thanks for the timely rescue. You literally saved me!\n...And I literally mean literally.[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev011101_MSG0029",
+      "style": 1,
+      "name": "What kind of world is it where a guy can't hide out\nin a nice dank cave? I swear...[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev011101_MSG0030",
+      "style": 1,
+      "name": "Anyway, any luck with the data?\nPlease say it was still intact.[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev011101_MSG0031",
+      "style": 1,
+      "name": "This is it! This is the data I need![ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev011101_MSG0032",
+      "style": 1,
+      "name": "A totaled Skell isn't great news, but getting this data\nback makes it all worthwhile. Thank you.[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "qev011101_JNK0040",
+      "style": 4,
+      "name": "Ask"
+    },
+    {
+      "$id": 40,
+      "label": "qev011101_SEL0041",
+      "style": 3,
+      "name": "Inquire about the new weapon Gigio was testing out."
+    },
+    {
+      "$id": 41,
+      "label": "qev011101_JNK0050",
+      "style": 4,
+      "name": "Worry"
+    },
+    {
+      "$id": 42,
+      "label": "qev011101_SEL0051",
+      "style": 3,
+      "name": "Express concern at whether Gigio can return\nthe data to Sakuraba safely on his own."
+    },
+    {
+      "$id": 43,
+      "label": "qev011101_MSG0033",
+      "style": 1,
+      "name": "Sorry, that's classified. Isobe's got us on a tight leash.[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "qev011101_MSG0034",
+      "style": 1,
+      "name": "Let's just say it's fun. You won't be able to resist once\nthis baby hits the market![ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "qev011101_MSG0035",
+      "style": 1,
+      "name": "I'll be fine. We're close to the forest exit, and I'm\nused to Primordia. Thanks for the concern, though.[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "qev011101_MSG0036",
+      "style": 1,
+      "name": "Now, let's get you that reward.[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "qev011101_MSG0037",
+      "style": 1,
+      "name": "Not too shabby, right?[ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "qev011101_MSG0038",
+      "style": 1,
+      "name": "Isobe had big expectations on this one, that's for sure.[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "qev011101_MSG0039",
+      "style": 1,
+      "name": "Too bad about the wrecked Skells... And dead guys...\nBut hey, we got the data, right? Not a total wash.[ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "qev011101_MSG0040",
+      "style": 1,
+      "name": "And that's all thanks to you![ST:wait ]"
+    }
+  ]
+}

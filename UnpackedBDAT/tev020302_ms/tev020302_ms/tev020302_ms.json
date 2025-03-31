@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev020302_MSG0001",
+      "style": 1,
+      "name": "There you are, [ST:playername ]![ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev020302_MSG0002",
+      "style": 1,
+      "name": "I was right all along! It WAS Alex who hurt Eliza![ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev020302_MSG0003",
+      "style": 1,
+      "name": "So will you lend us your strength again?[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev020302_MSG0004",
+      "style": 1,
+      "name": "At least go talk to Eliza and hear her out.\nShe'll tell you the whole story.[ST:wait ]"
+    }
+  ]
+}

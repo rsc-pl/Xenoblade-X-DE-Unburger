@@ -1,0 +1,408 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev024601_JNK0010",
+      "style": 4,
+      "name": "Inquire[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev024601_SEL0011",
+      "style": 3,
+      "name": "Ask Lucia about the residential district.[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev024601_JNK0020",
+      "style": 4,
+      "name": "Discuss[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev024601_SEL0021",
+      "style": 3,
+      "name": "Ask Lucia about recent developments.[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev024601_SEL0031",
+      "style": 3,
+      "name": "Ask Lucia for her opinion of xenoforms."
+    },
+    {
+      "$id": 6,
+      "label": "tev024601_SEL0041",
+      "style": 3,
+      "name": "Ask Lucia if anything is troubling her."
+    },
+    {
+      "$id": 7,
+      "label": "tev024601_SEL0051",
+      "style": 3,
+      "name": "Ask Lucia for her opinion of the Prone."
+    },
+    {
+      "$id": 8,
+      "label": "tev024601_SEL0061",
+      "style": 3,
+      "name": "Ask Lucia for her opinion of the Nopon."
+    },
+    {
+      "$id": 9,
+      "label": "tev024601_SEL1011",
+      "style": 3,
+      "name": "Ask Lucia about the Ganglion attack.[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "tev024601_SEL1021",
+      "style": 3,
+      "name": "Ask Lucia about recent developments."
+    },
+    {
+      "$id": 11,
+      "label": "tev024601_SEL1031",
+      "style": 3,
+      "name": "Ask Lucia for her opinion of the Wrothians.[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "tev024601_SEL1041",
+      "style": 3,
+      "name": "Ask Lucia about the xenoforms living in NLA.[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "tev024601_SEL1051",
+      "style": 3,
+      "name": "Ask Lucia about recent developments."
+    },
+    {
+      "$id": 14,
+      "label": "tev024601_MSG0001",
+      "style": 1,
+      "name": "They planned to build apartments in a part of the\ndistrict that hasn't been completed yet, but they haven't\nmade any progress.[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "tev024601_MSG0002",
+      "style": 1,
+      "name": "That's why we still have multiple people sharing each of\nthese houses.[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "tev024601_MSG0003",
+      "style": 1,
+      "name": "Some people hate having to live with strangers,\nbut I think it's fun![ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "tev024601_MSG0004",
+      "style": 1,
+      "name": "After all, I haven't been able to make a real family\nof my own yet.[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "tev024601_MSG0008",
+      "style": 1,
+      "name": "I intend to open my home to other like-minded\npeople who would enjoy living together with me.[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "tev024601_MSG0009",
+      "style": 1,
+      "name": "We'll stay up all night talking, we'll bake cookies\nfor each other... It'll be a blast![ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "tev024601_MSG0010",
+      "style": 1,
+      "name": "The only hard part is finding good people to share my\nhome with.[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "tev024601_MSG0013",
+      "style": 1,
+      "name": "If you're interested... Too bad! No dudes allowed!\nI want it to be a place where we girls can feel\ncomfortable speaking our minds.[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "tev024601_MSG0014",
+      "style": 1,
+      "name": "I really am sorry about that. If only you had been\na cute girl... But alas![ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "tev024601_MSG0017",
+      "style": 1,
+      "name": "Hey, what about you? You seem really strong,\nand you've got a pleasant vibe about you.\nI bet it would be a lot of fun having you around![ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "tev024601_MSG0018",
+      "style": 1,
+      "name": "...You already have a home in the BLADE barracks?[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "tev024601_MSG0019",
+      "style": 1,
+      "name": "Aw, that's too bad. But I suppose that's for the best.\nI wouldn't want a BLADE parking her Skell in my\nfront yard, you know? Ha![ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "tev024601_MSG0025",
+      "style": 1,
+      "name": "Xenoforms living with us in New LA...\nCan you even IMAGINE?[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "tev024601_MSG0026",
+      "style": 1,
+      "name": "I bet an influx of xenoforms would really bring this\ncity to life.[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "tev024601_MSG0027",
+      "style": 1,
+      "name": "You know, I should go recruit some of the xenoform\nladies for my girl's club![ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "tev024601_MSG0028",
+      "style": 1,
+      "name": "What will I do if the xenoforms don't even have\ngenders? Hmm... Well, I'll cross that bridge when I\ncome to it, I guess![ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "tev024601_MSG0035",
+      "style": 1,
+      "name": "There's an older woman named Wendy who lives in\nthis neighborhood. She's been complaining that my\nMa-non guests are too loud.[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "tev024601_MSG0036",
+      "style": 1,
+      "name": "That Chanty will certainly talk your ear off if you\nlet her, but her voice isn't what I'd call LOUD.[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "tev024601_MSG0037",
+      "style": 1,
+      "name": "Okay, so maybe she does squeal a little when she tries\na pizza with toppings that she's never had before...[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "tev024601_MSG0038",
+      "style": 1,
+      "name": "Still, this whole thing is just silly.\nWendy should come over and join us![ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "tev024601_MSG0045",
+      "style": 1,
+      "name": "Let me introduce the newest member of our girl's club—\nthis is Prea Slarth of the Prone![ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "tev024601_MSG0046",
+      "style": 1,
+      "name": "When I saw her dancing under the streetlights at night,\nI couldn't help myself—I joined right in![ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "tev024601_MSG0047",
+      "style": 1,
+      "name": "She said that when she dances in front of men,\nthey beg her to marry them! And since that's annoying,\nshe holds one-woman dance parties instead.[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "tev024601_MSG0048",
+      "style": 1,
+      "name": "I told her that there were no men at our place,\nso she could come over and dance anytime.[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "tev024601_MSG0049",
+      "style": 1,
+      "name": "Now it's only the members of our girl's club that get\nto watch New LA's greatest dancer strut her stuff![ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "tev024601_MSG0055",
+      "style": 1,
+      "name": "Let me introduce you to the newest member of our\ngirl's club—this is Pulala of the Nopon![ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "tev024601_MSG0056",
+      "style": 1,
+      "name": "She looked so cute standing there in front of Mission\nControl waiting for a BLADE to help her, so I struck up\na conversation.[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "tev024601_MSG0057",
+      "style": 1,
+      "name": "Pulala has the Nopon Commerce Guild bring us the\nfinest candies and gourmet sweets in all of Mira![ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "tev024601_MSG0058",
+      "style": 1,
+      "name": "Am I the only human who's tried all 10 varieties of\nmizaria celery? I may well be![ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "tev024601_MSG1001",
+      "style": 1,
+      "name": "I'm part of the tech team. I did join the evacuation,\nbut they had me analyze the data and prepare a\nreport when I got back.[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "tev024601_MSG1002",
+      "style": 1,
+      "name": "The enemy leader was this really petite girl!\nAnd that squid xeno that attacked BLADE in\nNoctilum was a woman too, right?[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "tev024601_MSG1003",
+      "style": 1,
+      "name": "Doesn't it seem like there are a lot of tough girls in\nthe Ganglion?[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "tev024601_MSG1004",
+      "style": 1,
+      "name": "I wonder if having them come over to talk would be\nentirely out of the question? I mean, once they gave\nup attacking us and signed a peace treaty, of course.[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "tev024601_MSG1009",
+      "style": 1,
+      "name": "Maybe it was wrong of me to try to drag Wendy out\nof her house like that...[ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "tev024601_MSG1010",
+      "style": 1,
+      "name": "You see, when we got the order to evacuate, I tried to\nforce my neighbor Wendy to come along.[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "tev024601_MSG1011",
+      "style": 1,
+      "name": "But she said she wouldn't go on the Ma-non ship.\nShe said that she'd rather be killed by xenos like her\nson was than be saved by them.[ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "tev024601_MSG1012",
+      "style": 1,
+      "name": "When she said that, even Chanty was speechless.\nMaybe I should have honored her wishes...[ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "tev024601_MSG1013",
+      "style": 1,
+      "name": "I only want Wendy to understand that just because\nthey're xenoforms doesn't mean they can't be good\npeople.[ST:wait ]"
+    },
+    {
+      "$id": 52,
+      "label": "tev024601_MSG1020",
+      "style": 1,
+      "name": "I'd like to introduce you to the newest member of my\ngirl's club—this is Gu Ludho of the Wrothians![ST:wait ]"
+    },
+    {
+      "$id": 53,
+      "label": "tev024601_MSG1021",
+      "style": 1,
+      "name": "I found her lost, confused, and at the brink of keeling\nover right there on the street. She'd been trying to get\nto the administrative district, but ended up here instead.[ST:wait ]"
+    },
+    {
+      "$id": 54,
+      "label": "tev024601_MSG1022",
+      "style": 1,
+      "name": "She's really strong. Like a ninja! But also kind of weird.\nShe thought our pool was a bath, and she freaks out\nwhenever the alarm on a comm device rings.[ST:wait ]"
+    },
+    {
+      "$id": 55,
+      "label": "tev024601_MSG1023",
+      "style": 1,
+      "name": "Isn't that adorable?! I used to think the Wrothians were\nso rigid, but she's really changed my mind.[ST:wait ]"
+    },
+    {
+      "$id": 56,
+      "label": "tev024601_MSG1028",
+      "style": 1,
+      "name": "Before I knew what was happening, I found myself\nsurrounded by xenoform girls![ST:wait ]"
+    },
+    {
+      "$id": 57,
+      "label": "tev024601_MSG1029",
+      "style": 1,
+      "name": "Chatty Chanty of the Ma-non, New LA's dancing queen\nPrea Slarth, and our Nopon caterer Pulala![ST:wait ]"
+    },
+    {
+      "$id": 58,
+      "label": "tev024601_MSG1030",
+      "style": 1,
+      "name": "And of course, Gu Ludho, the strong but skittish\nWrothian. Together, we're the best women's social\ncircle in the entire cosmos![ST:wait ]"
+    },
+    {
+      "$id": 59,
+      "label": "tev024601_MSG1031",
+      "style": 1,
+      "name": "But the more we talk, the more the name\n[ST:playername ] comes up. Is that you?[ST:wait ]"
+    },
+    {
+      "$id": 60,
+      "label": "tev024601_MSG1032",
+      "style": 1,
+      "name": "Everyone is really grateful for all you've done.\nThanks so much for giving me the opportunity to enjoy\nall my new friends like this![ST:wait ]"
+    },
+    {
+      "$id": 61,
+      "label": "tev024601_MSG1037",
+      "style": 1,
+      "name": "The girl's club took a vote, and we decided to invite\nmy grumpy neighbor Wendy over.[ST:wait ]"
+    },
+    {
+      "$id": 62,
+      "label": "tev024601_MSG1038",
+      "style": 1,
+      "name": "Chanty made a pizza without burning it,\nand Pulala hand-picked the finest Miran delicacies.[ST:wait ]"
+    },
+    {
+      "$id": 63,
+      "label": "tev024601_MSG1039",
+      "style": 1,
+      "name": "Wendy just listened to us talk without saying much.[ST:wait ]"
+    },
+    {
+      "$id": 64,
+      "label": "tev024601_MSG1040",
+      "style": 1,
+      "name": "But as she was leaving, she promised to bring her\nfamous spaghetti and meatballs the next time she came.[ST:wait ]"
+    },
+    {
+      "$id": 65,
+      "label": "tev024601_MSG1041",
+      "style": 1,
+      "name": "She said it was her son's favorite.\nI think she's actually starting to cheer up a bit![ST:wait ]"
+    }
+  ]
+}
