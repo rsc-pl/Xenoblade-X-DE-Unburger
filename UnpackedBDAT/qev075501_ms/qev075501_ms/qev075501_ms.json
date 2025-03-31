@@ -1,0 +1,372 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev075501_MSG0001",
+      "style": 1,
+      "name": "...Hmm? Are you a BLADE? Then it is best you take\ncare as well.[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev075501_MSG0002",
+      "style": 1,
+      "name": "The villain that defeated Ni Gombe, the leader of\nmy team, is a vile and bloodthirsty beast.\nHe strikes at Wrothian and humans with equal glee.[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev075501_JNK0010",
+      "style": 4,
+      "name": "Inquire"
+    },
+    {
+      "$id": 4,
+      "label": "qev075501_SEL0011",
+      "style": 3,
+      "name": "Ask for more information to help formulate a plan."
+    },
+    {
+      "$id": 5,
+      "label": "qev075501_JNK0020",
+      "style": 4,
+      "name": "Boast"
+    },
+    {
+      "$id": 6,
+      "label": "qev075501_SEL0021",
+      "style": 3,
+      "name": "Say that you can handle anyone fool enough to try you."
+    },
+    {
+      "$id": 7,
+      "label": "qev075501_MSG0003",
+      "style": 1,
+      "name": "You show the caution of a veteran warrior.\nI shall share with you all that I know.[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev075501_MSG0004",
+      "style": 1,
+      "name": "Someone has been attacking our soldiers in the plains\nsurrounding New LA.[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev075501_MSG0005",
+      "style": 1,
+      "name": "In the course of our investigation, we came upon a\nrumor that the villain responsible may be a Wrothian.[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev075501_MSG0006",
+      "style": 1,
+      "name": "If so, it is more reason we cannot ignore the matter.\nThat was why Ni Gombe set out to find him,\nyet he was beaten before ever sighting his quarry.[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev075501_MSG0007",
+      "style": 1,
+      "name": "You BLADEs specialize in investigations of this sort,\ndo you not?[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev075501_MSG0008",
+      "style": 1,
+      "name": "I would welcome your help in unmasking this demon,\nand will see that you are well rewarded.[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev075501_MSG0009",
+      "style": 1,
+      "name": "I do not doubt your skill, but even Wrothian Skells\nhave been taken down in the blink of an eye.[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev075501_MSG0010",
+      "style": 1,
+      "name": "...I see that information does not faze you.\nI do not know if that proves strength or foolishness,\nbut either way you are an interesting human.[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev075501_MSG0011",
+      "style": 1,
+      "name": "Since your heart knows no fear, I would ask your aid\nin uncovering the party behind these attacks.[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev075501_MSG0012",
+      "style": 1,
+      "name": "Amongst the few who have seen him, one reported\nthat the perpetrator is Wrothian.[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev075501_MSG0013",
+      "style": 1,
+      "name": "If that is so, it is all the more reason we cannot ignore\nthe matter. So might you accept this task?\nI will see that you are well paid.[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev075501_MSG0014",
+      "style": 1,
+      "name": "I thank you. And one thing further...\nIf a Wrothian IS responsible, I may know who it is.[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev075501_MSG0015",
+      "style": 1,
+      "name": "But if I am right, I must speak with him directly and\nlearn why he would do this. Even if it means my death.[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev075501_JNK0030",
+      "style": 4,
+      "name": "Assure"
+    },
+    {
+      "$id": 21,
+      "label": "qev075501_SEL0031",
+      "style": 3,
+      "name": "Promise to uncover the culprit."
+    },
+    {
+      "$id": 22,
+      "label": "qev075501_JNK0040",
+      "style": 4,
+      "name": "Inquire"
+    },
+    {
+      "$id": 23,
+      "label": "qev075501_SEL0041",
+      "style": 3,
+      "name": "Ask who Go Rogan thinks the culprit might be."
+    },
+    {
+      "$id": 24,
+      "label": "qev075501_MSG0016",
+      "style": 1,
+      "name": "I see the tales of you BLADEs are not exaggerated.\nYour words ring of bravery![ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev075501_MSG0017",
+      "style": 1,
+      "name": "Ni Gombe was attacked at Headwater Summit.\nHis assailant may still be nearby.[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev075501_MSG0018",
+      "style": 1,
+      "name": "Forgive me, but if I am mistaken, it would mean\nneedlessly slandering those who have done much for\nmy people.[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev075501_MSG0019",
+      "style": 1,
+      "name": "I do not wish to speak out of baseless conjecture.[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev075501_MSG0020",
+      "style": 1,
+      "name": "As to the matter at hand, Ni Gombe was attacked at\nHeadwater Summit. His assailant may still be nearby.[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev075501_MSG0021",
+      "style": 1,
+      "name": "Whoever or whatever this villain is, it's clear that he\npossesses uncommon strength.[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev075501_MSG0022",
+      "style": 1,
+      "name": "Make every possible preparation before you\nset out for Headwater Summit.[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev075501_MSG0023",
+      "style": 1,
+      "name": "Gi Zang has told me everything. I had my suspicions...\nAfter all, few Wrothians possess such strength.[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev075501_MSG0024",
+      "style": 1,
+      "name": "But I am still shocked to hear it was him.\nAnd that the attacks were all part of his training![ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev075501_MSG0025",
+      "style": 1,
+      "name": "It is the stuff of old tales—proof that the Hundred\nHellions live on in our day![ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev075501_JNK0050",
+      "style": 4,
+      "name": "Inquire"
+    },
+    {
+      "$id": 35,
+      "label": "qev075501_SEL0051",
+      "style": 3,
+      "name": "Ask about Go Rogan's relationship with Gi Zang."
+    },
+    {
+      "$id": 36,
+      "label": "qev075501_JNK0060",
+      "style": 4,
+      "name": "Note"
+    },
+    {
+      "$id": 37,
+      "label": "qev075501_SEL0061",
+      "style": 3,
+      "name": "Mention how Go Rogan sounds happy about this."
+    },
+    {
+      "$id": 38,
+      "label": "qev075501_MSG0026",
+      "style": 1,
+      "name": "When I heard a survivor of the Hundred Hellions had\ncome to Mira aboard our ship, I went to meet him.[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "qev075501_MSG0027",
+      "style": 1,
+      "name": "When he later left the army and told His Highness he\nwas setting off to train, I questioned his sanity.[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "qev075501_MSG0028",
+      "style": 1,
+      "name": "But look at him! He has returned with the strength to\nback up his title! I am sure his brothers-in-arms who\ndeparted this life are pleased.[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "qev075501_MSG0029",
+      "style": 1,
+      "name": "In the past he was but a boy, not yet fit to bear the\nname of the Hundred Hellions.[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "qev075501_MSG0030",
+      "style": 1,
+      "name": "But look at him now! He has returned with the strength\nto back up his title![ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "qev075501_MSG0031",
+      "style": 1,
+      "name": "The Hundred Hellions are truly back from the grave.\nWhat happier news could there be?[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "qev075501_MSG0032",
+      "style": 1,
+      "name": "Here, warrior. I would like you to have this as thanks\nfor making this reunion possible.[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "qev075501_MSG0033",
+      "style": 1,
+      "name": "Mmm. I gave one of your men a terrible beating out\nthere. Would you really forgive me so easily?[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "qev075501_MSG0034",
+      "style": 1,
+      "name": "It was all a part of your training, was it not?\nThen I am sure it was also good for Ni Gombe.[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "qev075501_MSG0035",
+      "style": 1,
+      "name": "Though if you are set on atoning, I would ask that you\ngive my men more such opportunities to train.[ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "qev075501_MSG0036",
+      "style": 1,
+      "name": "If that is all you want, I am happy to oblige.[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "qev075501_MSG0037",
+      "style": 1,
+      "name": "Ah, to be taught the ways of war by one of the\nlegendary Hundred Hellions! I feel like I am dreaming![ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "qev075501_MSG0038",
+      "style": 1,
+      "name": "And you, [ST:playername ]!\nIt is a great, great honor to have met a Hellion.\nPerhaps you can beg a lesson from him as well.[ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "qev075501_JNK0070",
+      "style": 4,
+      "name": "Agree"
+    },
+    {
+      "$id": 52,
+      "label": "qev075501_SEL0071",
+      "style": 3,
+      "name": "Ask Gi Zang for another match."
+    },
+    {
+      "$id": 53,
+      "label": "qev075501_JNK0080",
+      "style": 4,
+      "name": "Reject"
+    },
+    {
+      "$id": 54,
+      "label": "qev075501_SEL0081",
+      "style": 3,
+      "name": "Explain that you've already fought Gi Zang plenty."
+    },
+    {
+      "$id": 55,
+      "label": "qev075501_MSG0039",
+      "style": 1,
+      "name": "I must beg off, old friend.\nThere is no way I could beat you right now.[ST:wait ]"
+    },
+    {
+      "$id": 56,
+      "label": "qev075501_MSG0040",
+      "style": 1,
+      "name": "I, too, have had my fill of fighting for the present.\nBut once I am stronger, I shall be coming for you.\nI will beat you one of these days! I swear it![ST:wait ]"
+    },
+    {
+      "$id": 57,
+      "label": "qev075501_MSG0041",
+      "style": 1,
+      "name": "What is this? You defeated Gi Zang? ...YOU?!\nThat cannot possibly...[ST:wait ]"
+    },
+    {
+      "$id": 58,
+      "label": "qev075501_MSG0042",
+      "style": 1,
+      "name": "Sad but true. I haven't won a single round yet.[ST:wait ]"
+    },
+    {
+      "$id": 59,
+      "label": "qev075501_MSG0043",
+      "style": 1,
+      "name": "I understand that space is a vast place of infinite\npossibilities, but to think there are warriors beyond\neven the Hundred Hellions... Astonishing.[ST:wait ]"
+    }
+  ]
+}

@@ -1,0 +1,642 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev075301_MSG0001",
+      "style": 1,
+      "name": "Ah, good timing! I was just about to pack up and\nleave New LA. Glad I ran into you before then.[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev075301_JNK0010",
+      "style": 4,
+      "name": "Inquire"
+    },
+    {
+      "$id": 3,
+      "label": "qev075301_SEL0011",
+      "style": 3,
+      "name": "Ask where Gi Zang's journey will take him next."
+    },
+    {
+      "$id": 4,
+      "label": "qev075301_JNK0020",
+      "style": 4,
+      "name": "Query"
+    },
+    {
+      "$id": 5,
+      "label": "qev075301_SEL0021",
+      "style": 3,
+      "name": "Ask why Gi Zang is leaving the city."
+    },
+    {
+      "$id": 6,
+      "label": "qev075301_MSG0002",
+      "style": 1,
+      "name": "You are curious? Guess I am not surprised.\nYou seem like the type who likes to travel.[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev075301_MSG0003",
+      "style": 1,
+      "name": "Methinks I shall head across the sea to Sylvalum.[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev075301_MSG0004",
+      "style": 1,
+      "name": "Even that crazy Prone shouldn't follow if I can get that\nfar away.[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev075301_MSG0005",
+      "style": 1,
+      "name": "...Hmm? What Prone? Oh, it's a long story.[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev075301_MSG0006",
+      "style": 1,
+      "name": "The short version is that he has been following me\naround trying to convince me to take him on as a\nstudent.[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev075301_MSG0007",
+      "style": 1,
+      "name": "He's certainly thorough. Morning, noon, and night,\nhe's literally been on his knees begging me.\nMy training has suffered greatly as a result.[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev075301_MSG0008",
+      "style": 1,
+      "name": "I appreciate your concern. I've had a strange Prone\nfollowing me around of late, and haven't been able to\ncarry out my normal training as a result.[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev075301_MSG0009",
+      "style": 1,
+      "name": "I have turned him down a hundred times over,\nbut he keeps begging me to take him on as a student.\nLiterally begging. On his knees. All day long.[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev075301_MSG0010",
+      "style": 1,
+      "name": "I am hoping that if I run away to Sylvalum, I may\nfinally achieve some peace and return to my training.[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev075301_MSG0011",
+      "style": 1,
+      "name": "Would you like to come with me, my friend?\nWe could have an adventure worthy of a song![ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev075301_MSG0012",
+      "style": 1,
+      "name": "And I'm sure that running into you just before I leave\nis more than coincidence.[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev075301_MSG0013",
+      "style": 1,
+      "name": "I've heard tale of a ridiculously tough indigen called the\njacul rage out there. It should be the perfect place to\ntest our skills.[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev075301_MSG0014",
+      "style": 1,
+      "name": "Perfect! Then let us leave the city before that Prone\nsees us.[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev075301_MSG0015",
+      "style": 1,
+      "name": "Once we get to Sylvalum, we'll race to see who can\ntake down a jacul rage first.[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev075301_MSG0016",
+      "style": 1,
+      "name": "I wager you're pretty confident when it comes to\nhunting indigens, right?[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev075301_JNK0030",
+      "style": 4,
+      "name": "Confirm"
+    },
+    {
+      "$id": 22,
+      "label": "qev075301_SEL0031",
+      "style": 3,
+      "name": "Reply that hunting is your forte."
+    },
+    {
+      "$id": 23,
+      "label": "qev075301_JNK0040",
+      "style": 4,
+      "name": "Deny"
+    },
+    {
+      "$id": 24,
+      "label": "qev075301_SEL0041",
+      "style": 3,
+      "name": "Tell Gi Zang that you've never been much of a hunter."
+    },
+    {
+      "$id": 25,
+      "label": "qev075301_MSG0017",
+      "style": 1,
+      "name": "I knew it. Your focus during combat is incredible.\nNo quarry is escaping from you.[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev075301_MSG0018",
+      "style": 1,
+      "name": "That said, I'm no slouch either. I grew up in the woods,\nafter all—there's no wild animal I can't handle.[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev075301_MSG0019",
+      "style": 1,
+      "name": "For true? I didn't imagine there was any task at which\nyou did not excel.[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev075301_MSG0020",
+      "style": 1,
+      "name": "Though I'll grant that hunting wild animals is a very\ndifferent thing than engaging a foe in combat.[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev075301_MSG0021",
+      "style": 1,
+      "name": "Mayhap that gives me the advantage this time around.\nI grew up in the woods after all—there is no wild\ncreature I cannot handle.[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev075301_MSG0022",
+      "style": 1,
+      "name": "Ah, I found you! Gi Zang? Master? Helloooo![ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev075301_MSG0023",
+      "style": 1,
+      "name": "Damnation. He has seen me. I must fly, my friend.[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev075301_MSG0024",
+      "style": 1,
+      "name": "I shall meet you at Lake Ciel in Sylvalum.\nDo not make me wait![ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev075301_MSG0025",
+      "style": 1,
+      "name": "Ah. Hello, [ST:playername ].[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev075301_MSG0026",
+      "style": 1,
+      "name": "*sigh* Well, he found me. Even this far-removed place\nwas not distant enough.[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev075301_MSG0027",
+      "style": 1,
+      "name": "And here I was, ready and eager to test my skills\nagainst a jacul rage.[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev075301_MSG0028",
+      "style": 1,
+      "name": "Then I come too, Master!\nWe destroy it together![ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev075301_MSG0029",
+      "style": 1,
+      "name": "How many times do I have to tell you?\nI am not your master. I am no one's master![ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev075301_MSG0030",
+      "style": 1,
+      "name": "In the name of all that is honorable and good,\nyou must let this go. It matters not what you say—\nI'm not taking on any students![ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "qev075301_MSG0031",
+      "style": 1,
+      "name": "I don't care what you say, Master.\nYou must teach me to fight.[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "qev075301_MSG0032",
+      "style": 1,
+      "name": "...Ah! Earth alien![ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "qev075301_MSG0033",
+      "style": 1,
+      "name": "Help me, Earth alien. Tell Master how serious I am.\nI came so far![ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "qev075301_JNK0050",
+      "style": 4,
+      "name": "Persuade"
+    },
+    {
+      "$id": 43,
+      "label": "qev075301_SEL0051",
+      "style": 3,
+      "name": "Speak to Gi Zang on Tolba's behalf."
+    },
+    {
+      "$id": 44,
+      "label": "qev075301_JNK0060",
+      "style": 4,
+      "name": "Query"
+    },
+    {
+      "$id": 45,
+      "label": "qev075301_SEL0061",
+      "style": 3,
+      "name": "Ask Gi Zang why he can't take a student."
+    },
+    {
+      "$id": 46,
+      "label": "qev075301_MSG0034",
+      "style": 1,
+      "name": "Don't YOU start!\nDo you not remember what I told you?[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "qev075301_MSG0035",
+      "style": 1,
+      "name": "I am the last of the Hundred Hellions—we pass down\nour style from parent to child. I am allowed but one\nstudent in my life, and that one is named my successor.[ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "qev075301_MSG0036",
+      "style": 1,
+      "name": "Did I not tell you of this? The Hundred Hellions pass on\ntheir style from parent to child.[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "qev075301_MSG0037",
+      "style": 1,
+      "name": "I can have but a single student in my lifetime,\nand that one is named my successor.[ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "qev075301_MSG0038",
+      "style": 1,
+      "name": "This Prone is weak and flabby—the training would kill\nhim before it could begin. To even consider it would\nbe an insult to my grandfather AND his sword![ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "qev075301_MSG0039",
+      "style": 1,
+      "name": "You know this Prone, do you not? Then for his sake,\nspeak to him. He must abandon this foolishness![ST:wait ]"
+    },
+    {
+      "$id": 52,
+      "label": "qev075301_JNK0070",
+      "style": 4,
+      "name": "Persuade"
+    },
+    {
+      "$id": 53,
+      "label": "qev075301_SEL0071",
+      "style": 3,
+      "name": "Try to convince Tolba to abandon his plan."
+    },
+    {
+      "$id": 54,
+      "label": "qev075301_JNK0080",
+      "style": 4,
+      "name": "Inquire"
+    },
+    {
+      "$id": 55,
+      "label": "qev075301_SEL0081",
+      "style": 3,
+      "name": "Ask Tolba why he's so set on being Gi Zang's student."
+    },
+    {
+      "$id": 56,
+      "label": "qev075301_MSG0040",
+      "style": 1,
+      "name": "I cannot give up. I never want to feel that way again![ST:wait ]"
+    },
+    {
+      "$id": 57,
+      "label": "qev075301_MSG0041",
+      "style": 1,
+      "name": "I will tell. Then I hope you will help me.[ST:wait ]"
+    },
+    {
+      "$id": 58,
+      "label": "qev075301_MSG0042",
+      "style": 1,
+      "name": "My mother died when we came to Mira.\nKilled by Ganglion scum.[ST:wait ]"
+    },
+    {
+      "$id": 59,
+      "label": "qev075301_MSG0043",
+      "style": 1,
+      "name": "They killed her while I watched. I could do nothing.\nThey held me down as I cried from fear.[ST:wait ]"
+    },
+    {
+      "$id": 60,
+      "label": "qev075301_MSG0044",
+      "style": 1,
+      "name": "I am weak. But I want to be strong.\nI want to be protect everyone![ST:wait ]"
+    },
+    {
+      "$id": 61,
+      "label": "qev075301_MSG0045",
+      "style": 1,
+      "name": "......[ST:wait ]"
+    },
+    {
+      "$id": 62,
+      "label": "qev075301_MSG0046",
+      "style": 1,
+      "name": "Is that enough, Master? If not, so be it. I will leave.\nBut let me see you fight once more.[ST:wait ]"
+    },
+    {
+      "$id": 63,
+      "label": "qev075301_MSG0047",
+      "style": 1,
+      "name": "I will remember it forever. Make you master of my soul.\nThen I will train alone. Learn to fight alone.\nSoon I will be strong like you![ST:wait ]"
+    },
+    {
+      "$id": 64,
+      "label": "qev075301_MSG0048",
+      "style": 1,
+      "name": "You watched as they killed your parent?[ST:wait ]"
+    },
+    {
+      "$id": 65,
+      "label": "qev075301_MSG0049",
+      "style": 1,
+      "name": "I feel as if I've heard that before.[ST:wait ]"
+    },
+    {
+      "$id": 66,
+      "label": "qev075301_MSG0050",
+      "style": 1,
+      "name": "Very well. Out of respect for you and your mother,\nI shall give this fight everything that I have.[ST:wait ]"
+    },
+    {
+      "$id": 67,
+      "label": "qev075301_MSG0051",
+      "style": 1,
+      "name": "You don't mind, right, [ST:playername ]?\nIt's just... I know what this one has been through.\nI want to do what I can.[ST:wait ]"
+    },
+    {
+      "$id": 68,
+      "label": "qev075301_JNK0090",
+      "style": 4,
+      "name": "Accept"
+    },
+    {
+      "$id": 69,
+      "label": "qev075301_SEL0091",
+      "style": 3,
+      "name": "Wordlessly ready yourself for combat."
+    },
+    {
+      "$id": 70,
+      "label": "qev075301_JNK0100",
+      "style": 4,
+      "name": "Refuse"
+    },
+    {
+      "$id": 71,
+      "label": "qev075301_SEL0101",
+      "style": 3,
+      "name": "Exclaim that you're not a trained bear who\nputs on shows for the amusement of others."
+    },
+    {
+      "$id": 72,
+      "label": "qev075301_MSG0052",
+      "style": 1,
+      "name": "A warrior to the core.\nI forget that you give your all to every fight.[ST:wait ]"
+    },
+    {
+      "$id": 73,
+      "label": "qev075301_MSG0053",
+      "style": 1,
+      "name": "A SHOW?! This is no band of traveling players![ST:wait ]"
+    },
+    {
+      "$id": 74,
+      "label": "qev075301_MSG0054",
+      "style": 1,
+      "name": "This is a serious duel, fought to a hair's breadth shy of\ndeath itself![ST:wait ]"
+    },
+    {
+      "$id": 75,
+      "label": "qev075301_MSG0055",
+      "style": 1,
+      "name": "I am Gi Zang, last survivor of the Hundred Hellions\nand inheritor of my master's sword. I draw it now![ST:wait ]"
+    },
+    {
+      "$id": 76,
+      "label": "qev075301_MSG0056",
+      "style": 1,
+      "name": "Watch close, Tolba. This is how a man who shares\nyour pain fights![ST:wait ]"
+    },
+    {
+      "$id": 77,
+      "label": "qev075301_MSG0076",
+      "style": 1,
+      "name": "Gah...hah...[ST:wait ]"
+    },
+    {
+      "$id": 78,
+      "label": "qev075301_MSG0077",
+      "style": 1,
+      "name": "...[ST:playername ]?[ST:wait ]"
+    },
+    {
+      "$id": 79,
+      "label": "qev075301_MSG0078",
+      "style": 1,
+      "name": "This is...so pathetic. I was bested...\nI could not protect what mattered to me yet again...[ST:wait ]"
+    },
+    {
+      "$id": 80,
+      "label": "qev075301_MSG0079",
+      "style": 1,
+      "name": "Sorry, but...I do not think I shall be moving any time\nsoon. The jacul rage is ahead... Take my...revenge...[ST:wait ]"
+    },
+    {
+      "$id": 81,
+      "label": "qev075301_MSG0080",
+      "style": 1,
+      "name": "The jacul rage is...ahead... Hrgh...[ST:wait ]"
+    },
+    {
+      "$id": 82,
+      "label": "qev075301_MSG0081",
+      "style": 1,
+      "name": "You have returned. Did you slay it?[ST:wait ]"
+    },
+    {
+      "$id": 83,
+      "label": "qev075301_MSG0082",
+      "style": 1,
+      "name": "...Thank you. Now hopefully Tolba can be in peace.[ST:wait ]"
+    },
+    {
+      "$id": 84,
+      "label": "qev075301_MSG0083",
+      "style": 1,
+      "name": "...Damn my eyes! Of course he's not at peace!\nWhat peace can he know with his mother unavenged?\nSuch anger and regret does not end at death.[ST:wait ]"
+    },
+    {
+      "$id": 85,
+      "label": "qev075301_MSG0084",
+      "style": 1,
+      "name": "It is...my fault. I wasn't strong enough.\nI let another one die...[ST:wait ]"
+    },
+    {
+      "$id": 86,
+      "label": "qev075301_JNK0150",
+      "style": 4,
+      "name": "Agree"
+    },
+    {
+      "$id": 87,
+      "label": "qev075301_SEL0151",
+      "style": 3,
+      "name": "Tell Gi Zang that he has the right of it."
+    },
+    {
+      "$id": 88,
+      "label": "qev075301_JNK0160",
+      "style": 4,
+      "name": "Disagree"
+    },
+    {
+      "$id": 89,
+      "label": "qev075301_SEL0161",
+      "style": 3,
+      "name": "Tell Gi Zang that there was nothing\nanyone could have done."
+    },
+    {
+      "$id": 90,
+      "label": "qev075301_MSG0085",
+      "style": 1,
+      "name": "You really are like my grandfather, friend.\nWere he alive, he would have laid into me as well.[ST:wait ]"
+    },
+    {
+      "$id": 91,
+      "label": "qev075301_MSG0086",
+      "style": 1,
+      "name": "How are you that strong AND that compassionate?\nI don't think I've ever met your like.[ST:wait ]"
+    },
+    {
+      "$id": 92,
+      "label": "qev075301_MSG0087",
+      "style": 1,
+      "name": "But my grandfather always said that in war, there is\nno such thing as something that cannot be helped.[ST:wait ]"
+    },
+    {
+      "$id": 93,
+      "label": "qev075301_MSG0088",
+      "style": 1,
+      "name": "He said that we are responsible for the lives of all\nwe have sworn to protect.[ST:wait ]"
+    },
+    {
+      "$id": 94,
+      "label": "qev075301_MSG0089",
+      "style": 1,
+      "name": "There is no way I can make this up to him.\nBut at least I can carry that responsibility.[ST:wait ]"
+    },
+    {
+      "$id": 95,
+      "label": "qev075301_MSG0090",
+      "style": 1,
+      "name": "I can cast everything but my training aside,\ngrow stronger, and kill every last Ganglion that still\ndraws breath![ST:wait ]"
+    },
+    {
+      "$id": 96,
+      "label": "qev075301_JNK0170",
+      "style": 4,
+      "name": "Agree"
+    },
+    {
+      "$id": 97,
+      "label": "qev075301_SEL0171",
+      "style": 3,
+      "name": "Praise Gi Zang for his determination."
+    },
+    {
+      "$id": 98,
+      "label": "qev075301_JNK0180",
+      "style": 4,
+      "name": "Disagree"
+    },
+    {
+      "$id": 99,
+      "label": "qev075301_SEL0181",
+      "style": 3,
+      "name": "Tell Gi Zang not to become a\nprisoner to his own hatred."
+    },
+    {
+      "$id": 100,
+      "label": "qev075301_MSG0091",
+      "style": 1,
+      "name": "I'm glad I opened up to you. Told you everything.[ST:wait ]"
+    },
+    {
+      "$id": 101,
+      "label": "qev075301_MSG0092",
+      "style": 1,
+      "name": "I am not an especially smart or visionary Wrothian.\nRevenge is the only way I know to offer comfort to\nthose who have died.[ST:wait ]"
+    },
+    {
+      "$id": 102,
+      "label": "qev075301_MSG0093",
+      "style": 1,
+      "name": "Is this wrong? Right now, the inside of my head is a\nblood red mess of confusion and anger.\nI don't even know what...[ST:wait ]"
+    },
+    {
+      "$id": 103,
+      "label": "qev075301_MSG0094",
+      "style": 1,
+      "name": "Well, it won't get any clearer by sitting here.\nI need to move around. Get to work.[ST:wait ]"
+    },
+    {
+      "$id": 104,
+      "label": "qev075301_MSG0095",
+      "style": 1,
+      "name": "I will take my leave now. ...Oh, and here.\nIt's not much, but please take it.[ST:wait ]"
+    }
+  ]
+}

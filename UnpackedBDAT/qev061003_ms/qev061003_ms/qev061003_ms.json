@@ -1,0 +1,216 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev061003_MSG0001",
+      "style": 1,
+      "name": "Hmm? Don't see many humans around these parts.\nWhat brings you here? *fsssh*[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev061003_MSG0002",
+      "style": 1,
+      "name": "Some nasty indigens make their homes here. *fsssh*\nIt isn't the sort of place one comes without reason.[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev061003_JNK0010",
+      "style": 4,
+      "name": "Request"
+    },
+    {
+      "$id": 4,
+      "label": "qev061003_SEL0011",
+      "style": 3,
+      "name": "Show Kiliran the encrypted disk."
+    },
+    {
+      "$id": 5,
+      "label": "qev061003_JNK0020",
+      "style": 4,
+      "name": "Ask"
+    },
+    {
+      "$id": 6,
+      "label": "qev061003_SEL0021",
+      "style": 3,
+      "name": "Ask what Kiliran is doing here."
+    },
+    {
+      "$id": 7,
+      "label": "qev061003_MSG0003",
+      "style": 1,
+      "name": "*fsssh* You came looking for me?[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev061003_MSG0004",
+      "style": 1,
+      "name": "*fsssh* I travel the planet mapping voltant dispersion.[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev061003_MSG0005",
+      "style": 1,
+      "name": "That data is crucial to carrying out the mission\nGolbogga has given us. *fsssh*[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev061003_MSG0006",
+      "style": 1,
+      "name": "*fsssh* And you?[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev061003_MSG0011",
+      "style": 1,
+      "name": "Ah, they want that disk decrypted. *fsssh*[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev061003_MSG0012",
+      "style": 1,
+      "name": "May I please see it a moment? *fsssh*\nIt's not a model that is familiar to me.[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev061003_MSG0007",
+      "style": 1,
+      "name": "Hmm... I should be able to open it up, though.\n*fsssh* It shouldn't take too long.[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev061003_MSG0008",
+      "style": 1,
+      "name": "*fsssh* I hate to make this quid pro quo, but if you\nhappen to go hunt the xe-dom sarto stalking the area\nwhile you're waiting, I'd appreciate it.[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev061003_MSG0009",
+      "style": 1,
+      "name": "That thing has nearly had the better of me a few times\nnow during my surveying. *fsssh* It's a real pain.[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev061003_MSG0010",
+      "style": 1,
+      "name": "I promise I'll have this disk unlocked and waiting for\nyou when you get back. Do you mind? *fsssh*[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev061003_MSG0013",
+      "style": 1,
+      "name": "The encryption is pretty heavy. *fsssh*\nCracking it is going to take a bit more time.[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev061003_MSG0014",
+      "style": 1,
+      "name": "*fsssh* I'd appreciate it if you would go hunt the\nxe-dom sarto for me in the meantime.[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev061003_MSG0015",
+      "style": 1,
+      "name": "That thing has interrupted my voltant dispersion\nmapping time and again, and all the delays are\nstarting to add up. *fsssh*[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev061003_MSG0023",
+      "style": 1,
+      "name": "You got him? Blessed day! *fsssh* Now I can finally\nmake some real progress with my survey work.[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev061003_MSG0024",
+      "style": 1,
+      "name": "*fsssh* And as luck would have it, I just finished up\nhere. Your disk is decrypted and ready to go.[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev061003_MSG0025",
+      "style": 1,
+      "name": "It looked like it holds data on Bedun before the\nDay of Regrowth. *fsssh*[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev061003_MSG0026",
+      "style": 1,
+      "name": "It may just offer a glimpse at the face of Golbogga\nthe creator himself. *fsssh* I'll admit that I'm curious.[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev061003_JNK0050",
+      "style": 4,
+      "name": "Query"
+    },
+    {
+      "$id": 25,
+      "label": "qev061003_SEL0051",
+      "style": 3,
+      "name": "Ask Kiliran if he wants to view the contents of the disk."
+    },
+    {
+      "$id": 26,
+      "label": "qev061003_JNK0060",
+      "style": 4,
+      "name": "Agree"
+    },
+    {
+      "$id": 27,
+      "label": "qev061003_SEL0061",
+      "style": 3,
+      "name": "Tell Kiliran that you're curious too."
+    },
+    {
+      "$id": 28,
+      "label": "qev061003_MSG0027",
+      "style": 1,
+      "name": "*fsssh* I know Golbogga made us, and I know that it's\nhis will we devoltanize.[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev061003_MSG0028",
+      "style": 1,
+      "name": "Past that, my only concern is surveying the land and\nmaking it easier to carry out the mission. *fsssh*[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev061003_MSG0029",
+      "style": 1,
+      "name": "You humans' intellectual curiosity is a wonderful thing.\nYou're interested even in the history of others. *fsssh*[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev061003_MSG0030",
+      "style": 1,
+      "name": "But I'm afraid that's one truth I don't have the courage\nto learn. *fsssh* I ask that you wait and reveal it to a\nZaruboggan who does.[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev061003_MSG0031",
+      "style": 1,
+      "name": "*fsssh* Now if you'll excuse me.\nI still have a lot of land left to survey.[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev061003_MSG0032",
+      "style": 1,
+      "name": "I pray you walk always in Golbogga's grace. *fsssh*[ST:wait ]"
+    }
+  ]
+}

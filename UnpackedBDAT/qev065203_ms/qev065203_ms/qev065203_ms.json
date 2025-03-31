@@ -1,0 +1,342 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev065203_MSG0001",
+      "style": 1,
+      "name": "Hey, [ST:playername ]!\nGot any leads on some quick cash?[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev065203_JNK0010",
+      "style": 4,
+      "name": "Talk"
+    },
+    {
+      "$id": 3,
+      "label": "qev065203_SEL0011",
+      "style": 3,
+      "name": "Speak with Professor B about Fortun."
+    },
+    {
+      "$id": 4,
+      "label": "qev065203_JNK0020",
+      "style": 4,
+      "name": "Dismiss"
+    },
+    {
+      "$id": 5,
+      "label": "qev065203_SEL0021",
+      "style": 3,
+      "name": "Tell Professor B you haven't heard anything lately."
+    },
+    {
+      "$id": 6,
+      "label": "qev065203_MSG0002",
+      "style": 1,
+      "name": "...What's that? An ancient metallic organism?\nMeh. Doesn't sound very lucrative.[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev065203_MSG0003",
+      "style": 1,
+      "name": "But it does sound truly amazing! Heh. It's been a while\nsince something's come along to tickle my researching\nfancy. You've got my scholarly curiosity piqued, kid.[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev065203_MSG0004",
+      "style": 1,
+      "name": "Right, bring that sucker on over then, kid. The great\nProfessor B will get to the bottom of this one\npersonally![ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev065203_MSG0005",
+      "style": 1,
+      "name": "Shame, that. Well, we're always waiting for promising\nleads here, so if anything crops up, drop on by.[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev065203_MSG0006",
+      "style": 1,
+      "name": "...I see. How truly amazing indeed. The metal's internal\nstructure has organized itself into a processing system\nwhich manifested what you could rightly call a \"will.\"[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev065203_MSG0007",
+      "style": 1,
+      "name": "Not really something you see every day, this.[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev065203_MSG0008",
+      "style": 1,
+      "name": "Who is this brute? Accessing data storage now...\nHmm? Data not found? No, that cannot be!\nThere is no information in all of space I do not know![ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev065203_MSG0009",
+      "style": 1,
+      "name": "Well, mark my words! I am Fortun, queen and keeper\nof the galaxy's knowledge since time immemorial.[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev065203_MSG0010",
+      "style": 1,
+      "name": "My soul is not for the likes of you to touch,\nyou filthy animal.[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev065203_MSG0011",
+      "style": 1,
+      "name": "Well, she's certainly a fan of herself. Ha!\nWhat say we dig in there and modify her personality\na little, mmm?[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev065203_MSG0012",
+      "style": 1,
+      "name": "If we switch her encryption AI personality out for a\nchatty one, she'll happily tell you anything you could\nthink to ask.[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev065203_JNK0030",
+      "style": 4,
+      "name": "Accept"
+    },
+    {
+      "$id": 18,
+      "label": "qev065203_SEL0031",
+      "style": 3,
+      "name": "Take Professor B up on his offer."
+    },
+    {
+      "$id": 19,
+      "label": "qev065203_JNK0040",
+      "style": 4,
+      "name": "Inquire"
+    },
+    {
+      "$id": 20,
+      "label": "qev065203_SEL0041",
+      "style": 3,
+      "name": "Ask Professor B if that's really possible."
+    },
+    {
+      "$id": 21,
+      "label": "qev065203_MSG0013",
+      "style": 1,
+      "name": "Right then! I just need you to bring me a resonating\nmadonater and an octopus board.[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev065203_MSG0014",
+      "style": 1,
+      "name": "Get me those, and I'll have her royal highness minding\nher p's and q's in no time.[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev065203_MSG0015",
+      "style": 1,
+      "name": "Still haven't learned not to doubt me, eh, kid?\nNothing is impossible for Professor B![ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev065203_MSG0016",
+      "style": 1,
+      "name": "You get me a resonating madonater and an octopus\nboard, and I'll have her royal highness minding her\np's and q's in no time.[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev065203_MSG0017",
+      "style": 1,
+      "name": "Ha ha! You're about to find out what happens to\npeople who take a bossy tone with me.[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev065203_MSG0018",
+      "style": 1,
+      "name": "Bring me a resonating madonater and an octopus\nboard, and I'll turn this one into the sweetest little lady\nyou ever did meet.[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev065203_MSG0019",
+      "style": 1,
+      "name": "Oh, thank science you're back![ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev065203_MSG0020",
+      "style": 1,
+      "name": "This sucker was getting on my LAST nerve. Seriously,\nanother hour of that and I'd have smashed her to bits.[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev065203_MSG0021",
+      "style": 1,
+      "name": "So hand over those materials, kid—I'm going to lose it\nif I don't reprogram her right now.[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev065203_MSG0022",
+      "style": 1,
+      "name": "All right, good. I'll get to work straightaway.[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev065203_MSG0023",
+      "style": 1,
+      "name": "...Wakey wakey, eggs and bakey!\nTime to be reborn, Fortun![ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev065203_MSG0024",
+      "style": 1,
+      "name": "Stop this. No... Do not tinkerrrr with mmmy soulll...[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev065203_MSG0025",
+      "style": 1,
+      "name": "I ammm queen of the Defffinians, keeperrr of the ggala-\ngalaxxxy's knowledge sinnnce time immemorialll...\nI aaaaaaam Fffortun...?[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev065203_MSG0026",
+      "style": 1,
+      "name": "Nngh...aaaaugh! NnnooooOOOOOOOO![ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev065203_MSG0027",
+      "style": 1,
+      "name": "......[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev065203_MSG0028",
+      "style": 1,
+      "name": "Bingo! ...Hey there, Miss Fortun.\nWhy don't you introduce yourself?[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev065203_MSG0029",
+      "style": 1,
+      "name": "I am Fortun, queen of the Definians and keeper of\nthe galaxy's knowledge since time immemorial!\nBow down before me, wretched fools![ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev065203_MSG0030",
+      "style": 1,
+      "name": "Well, crap. That's not actually different at all.\n...The old girl's got grit, I'll give her that.[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "qev065203_MSG0031",
+      "style": 1,
+      "name": "It will take more than a primate with a screwdriver to\nremake me! You lose, fool! Nyah nyah nyaaaaaah!\nStupid ugly booger-face![ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "qev065203_MSG0032",
+      "style": 1,
+      "name": "Though she DOES seems an awful lot less mature now.\nI wouldn't be surprised if she cracked under a little bit\nof interrogation at this point.[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "qev065203_MSG0033",
+      "style": 1,
+      "name": "Nuh-uh, stupid! There's no way I'm telling your dumb\nface that access code EVEEEEEER![ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "qev065203_MSG0034",
+      "style": 1,
+      "name": "Now heed me, [ST:playername ]!\nI command you to kill everyone here and take me to\nmy daughters. And totally hurry it UP already![ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "qev065203_JNK0050",
+      "style": 4,
+      "name": "Tickle"
+    },
+    {
+      "$id": 44,
+      "label": "qev065203_SEL0051",
+      "style": 3,
+      "name": "Tickle Fortun."
+    },
+    {
+      "$id": 45,
+      "label": "qev065203_JNK0060",
+      "style": 4,
+      "name": "Poke"
+    },
+    {
+      "$id": 46,
+      "label": "qev065203_SEL0061",
+      "style": 3,
+      "name": "Give Fortun a firm nudge."
+    },
+    {
+      "$id": 47,
+      "label": "qev065203_MSG0035",
+      "style": 1,
+      "name": "Wh-what are you—StoP THAT! AAGH, that tickles!\nAh hah! Ah hahaha, no! Ha ha hahaha HA haha![ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "qev065203_MSG0036",
+      "style": 1,
+      "name": "Wh-what are you—OW! Stoppit, that... OWWW!\nQuit it, you dang barbarian![ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "qev065203_MSG0037",
+      "style": 1,
+      "name": "A-all right! I'll talk! I'll give you the stupid access code!\nJust stop this violence at once![ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "qev065203_MSG0038",
+      "style": 1,
+      "name": "...Got it! Now if we can just take down the three\nsisters, the organization driving my kind to crime will\ncrumble.[ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "qev065203_MSG0039",
+      "style": 1,
+      "name": "Their base is in Cauldros.[ST:wait ]"
+    },
+    {
+      "$id": 52,
+      "label": "qev065203_MSG0040",
+      "style": 1,
+      "name": "Oh, and I know their combat abilities are far beyond\nmy own, so be ready for a tough fight.[ST:wait ]"
+    },
+    {
+      "$id": 53,
+      "label": "qev065203_MSG0041",
+      "style": 1,
+      "name": "Yeaaaaaah, it seems like there's a whole complicated\nbackstory thing going on here, but I won't ask.\nYou just go do whatever you like.[ST:wait ]"
+    },
+    {
+      "$id": 54,
+      "label": "qev065203_MSG0042",
+      "style": 1,
+      "name": "I'm a busy bee, after all. No time to be wasting on\nworld peace with you flower-children hippies.\nStill, this was an entertaining bit of research, so thanks.[ST:wait ]"
+    }
+  ]
+}

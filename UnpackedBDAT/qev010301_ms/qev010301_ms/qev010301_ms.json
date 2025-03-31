@@ -1,0 +1,96 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev010301_MSG0001",
+      "style": 1,
+      "name": "Hey there, [ST:playername ]! I managed to\nget in touch with my team, thanks to you.\nThey're on their way here now.[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev010301_MSG0002",
+      "style": 1,
+      "name": "So what are you doing back out here, anyway?\nYou bored or something? If so, I suppose I can\ngive you that bounty assignment I flubbed.[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev010301_MSG0003",
+      "style": 1,
+      "name": "The mark's a bold cinicula that has been\nrunning around making life hell for everyone.[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev010301_JNK0010",
+      "style": 4,
+      "name": "Accept"
+    },
+    {
+      "$id": 5,
+      "label": "qev010301_SEL0011",
+      "style": 3,
+      "name": "Express interest in the assignment."
+    },
+    {
+      "$id": 6,
+      "label": "qev010301_JNK0020",
+      "style": 4,
+      "name": "Decline"
+    },
+    {
+      "$id": 7,
+      "label": "qev010301_SEL0021",
+      "style": 3,
+      "name": "Turn down the offer."
+    },
+    {
+      "$id": 8,
+      "label": "qev010301_MSG0004",
+      "style": 1,
+      "name": "Ha! Somebody's chomping at the bit, huh? I bet you\ntake that bad boy down without breaking a sweat.[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev010301_MSG0005",
+      "style": 1,
+      "name": "I'll forward the details to your comm device.\nHave at it whenever you like.[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev010301_MSG0006",
+      "style": 1,
+      "name": "Hey, even the little missions like this help carve\nout a future for humanity on Mira.[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev010301_MSG0007",
+      "style": 1,
+      "name": "You know what? I'm sending it to your comm device\nanyway. Just in case you change your mind.[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev010301_MSG0008",
+      "style": 1,
+      "name": "Good luck hunting that bold cinicula.\nJust remember to stay calm, watch\nfor an opening, and then strike![ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev010301_MSG0009",
+      "style": 1,
+      "name": "Not that I should be giving hunting advice, seeing as\nhow I ran screaming from it earlier... But whatever![ST:wait ]"
+    }
+  ]
+}

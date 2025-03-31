@@ -1,0 +1,330 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev095101_MSG0001",
+      "style": 1,
+      "name": "I have a top-secret mission for you,\n[ST:playername ].[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev095101_MSG0002",
+      "style": 1,
+      "name": "Commander Vandham even asked for you by name.[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev095101_JNK0010",
+      "style": 4,
+      "name": "Ask about Mission"
+    },
+    {
+      "$id": 4,
+      "label": "qev095101_SEL0011",
+      "style": 3,
+      "name": "Press Stella for a detailed briefing."
+    },
+    {
+      "$id": 5,
+      "label": "qev095101_JNK0020",
+      "style": 4,
+      "name": "Ask about Stella"
+    },
+    {
+      "$id": 6,
+      "label": "qev095101_SEL0021",
+      "style": 3,
+      "name": "Inquire as to what Stella's job is."
+    },
+    {
+      "$id": 7,
+      "label": "qev095101_MSG0003",
+      "style": 1,
+      "name": "Zero hesitation. You BLADEs don't mess around.[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev095101_MSG0004",
+      "style": 1,
+      "name": "I'll get right to it, then.[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev095101_MSG0005",
+      "style": 1,
+      "name": "I'd rather not say too much, but I'm a member of an...\nintelligence agency, let's call it.[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev095101_MSG0006",
+      "style": 1,
+      "name": "I serve as a courier of sorts, delivering sensitive\nmissions from the commander or director general\nto the individuals they're intended for.[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev095101_MSG0007",
+      "style": 1,
+      "name": "Just think of me as your friendly neighborhood\nmessage girl.[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev095101_MSG0008",
+      "style": 1,
+      "name": "You expanded FrontierNav into Oblivia, correct?[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev095101_MSG0009",
+      "style": 1,
+      "name": "Well, that's given us access to new Ganglion intel.[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev095101_MSG0010",
+      "style": 1,
+      "name": "Perhaps you're familiar with the Prone village in\nsouthern Oblivia?[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev095101_MSG0011",
+      "style": 1,
+      "name": "We've learned there are xenoforms in that village being\nheld as forced laborers.[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev095101_MSG0012",
+      "style": 1,
+      "name": "They are neither human nor Nopon—it's an entirely\nnew alien race.[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev095101_MSG0013",
+      "style": 1,
+      "name": "If we can free them and win them over to our side,\nwe stand to gain a mountain of intel on the Prone.[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev095101_MSG0014",
+      "style": 1,
+      "name": "There's even a strong chance they might join us as\nallies like the Ma-non and Nopon.[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev095101_MSG0015",
+      "style": 1,
+      "name": "You can see how this opportunity is too tasty for us to\npass up. So, how about it then?[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev095101_MSG0016",
+      "style": 1,
+      "name": "Excellent. The commander said you'd say that.[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev095101_MSG0017",
+      "style": 1,
+      "name": "Judging from our maps, this is a pretty large Prone\nsettlement, so expect some heavy resistance.[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev095101_MSG0018",
+      "style": 1,
+      "name": "But there are a number of viable infiltration routes.\nAs long as you stay cool out there, you should be fine.[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev095101_MSG0019",
+      "style": 1,
+      "name": "Best of luck.[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev095101_MSG0020",
+      "style": 1,
+      "name": "Those unidentified xenoforms are being held at\nScabland Fortress in southern Oblivia.[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev095101_MSG0021",
+      "style": 1,
+      "name": "Your job is to liberate them, whatever the cost.[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev095101_MSG0022",
+      "style": 1,
+      "name": "Wh-what? Prone in the city?![ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev095101_MSG0023",
+      "style": 1,
+      "name": "Dammit! How did they break through our defenses?!\nWe need the Harriers here NOW![ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev095101_JNK0030",
+      "style": 4,
+      "name": "Explain"
+    },
+    {
+      "$id": 29,
+      "label": "qev095101_SEL0031",
+      "style": 3,
+      "name": "Tell Stella that these Prone are not hostile."
+    },
+    {
+      "$id": 30,
+      "label": "qev095101_JNK0040",
+      "style": 4,
+      "name": "Soothe"
+    },
+    {
+      "$id": 31,
+      "label": "qev095101_SEL0041",
+      "style": 3,
+      "name": "Ask Stella to assess the situation calmly."
+    },
+    {
+      "$id": 32,
+      "label": "qev095101_MSG0024",
+      "style": 1,
+      "name": "...Two different tribes under Ganglion rule? Really?\nI had no idea.[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev095101_MSG0025",
+      "style": 1,
+      "name": "Just that alone is an incredibly valuable piece of intel.\nExcellent work, [ST:playername ].[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev095101_MSG0026",
+      "style": 1,
+      "name": "But they're PRONE! We can't let bloodthirsty animals\nlike that just waltz in here and—[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev095101_MSG0027",
+      "style": 1,
+      "name": "Enough, Stella. These Prone are not aggressive.[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev095101_MSG0028",
+      "style": 1,
+      "name": "We are Tree Clan. We fight Cavern Clan.[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev095101_MSG0029",
+      "style": 1,
+      "name": "So there are two different tribes under Ganglion rule?\nI had no idea.[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev095101_MSG0030",
+      "style": 1,
+      "name": "Just that alone is an incredibly valuable piece of intel.\nExcellent work, [ST:playername ].[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "qev095101_MSG0031",
+      "style": 1,
+      "name": "So the tribes are called Cavern Clan and Tree Clan.[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "qev095101_MSG0032",
+      "style": 1,
+      "name": "It seems the landscape within the Ganglion camp is\nmore complex than we'd imagined.[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "qev095101_MSG0033",
+      "style": 1,
+      "name": "Director General, forgive me for putting this so\nindelicately, but...[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "qev095101_MSG0034",
+      "style": 1,
+      "name": "I believe these Tree Clan members could be of\nconsiderable use to us.[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "qev095101_MSG0035",
+      "style": 1,
+      "name": "Agreed. I will authorize their residence in New LA.[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "qev095101_MSG0036",
+      "style": 1,
+      "name": "I'll also inform Defense Secretary Nagi and the others,\nand take care of the necessary paperwork.[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "qev095101_MSG0037",
+      "style": 1,
+      "name": "I give thanks to Great Tree. And to Earth aliens![ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "qev095101_MSG0038",
+      "style": 1,
+      "name": "In exchange, perhaps you will agree to share what you\nknow of the Ganglion.[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "qev095101_MSG0039",
+      "style": 1,
+      "name": "Does it win Tree Clan freedom? Then I will help.[ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "qev095101_MSG0040",
+      "style": 1,
+      "name": "You have my thanks. \nStella, will you assist them in their transition, please?[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "qev095101_MSG0041",
+      "style": 1,
+      "name": "Of course, sir.[ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "qev095101_MSG0042",
+      "style": 1,
+      "name": "My name is Stella. If there is anything you need,\nplease don't hesitate to mention it, Mr...um...Prone.[ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "qev095101_MSG0043",
+      "style": 1,
+      "name": "I am Sevvy Belgazus. Proud leader of Tree Clan![ST:wait ]"
+    },
+    {
+      "$id": 52,
+      "label": "qev095101_MSG0044",
+      "style": 1,
+      "name": "Well, welcome to New LA, Sevvy Belgazus![ST:wait ]"
+    }
+  ]
+}

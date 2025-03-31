@@ -1,0 +1,384 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev041101_MSG0001",
+      "style": 1,
+      "name": "......[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev041101_JNK0010",
+      "style": 4,
+      "name": "Verify"
+    },
+    {
+      "$id": 3,
+      "label": "qev041101_SEL0011",
+      "style": 3,
+      "name": "Check to see if Zazazan is alive."
+    },
+    {
+      "$id": 4,
+      "label": "qev041101_JNK0020",
+      "style": 4,
+      "name": "Scout"
+    },
+    {
+      "$id": 5,
+      "label": "qev041101_SEL0021",
+      "style": 3,
+      "name": "Ignore Zazazan's body and search the area."
+    },
+    {
+      "$id": 6,
+      "label": "qev041101_MSG0002",
+      "style": 1,
+      "name": "......[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev041101_MSG0003",
+      "style": 1,
+      "name": "Is that...[ST:playername ]?[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev041101_MSG0004",
+      "style": 1,
+      "name": "......[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev041101_MSG0005",
+      "style": 1,
+      "name": "...Harvey and others left.[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev041101_MSG0006",
+      "style": 1,
+      "name": "Zazazan played dead. Fooled Harvey like charm.[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev041101_MSG0007",
+      "style": 1,
+      "name": "Scum started shooting Zazazan in back, then took off\nwith nopopotamus and entire inventory.[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev041101_MSG0008",
+      "style": 1,
+      "name": "Please! Friend must help Zazazan get goods back![ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev041101_MSG0009",
+      "style": 1,
+      "name": "If contents of shipment used for evil purposes,\nresults could be terrible...[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev041101_JNK0030",
+      "style": 4,
+      "name": "Query"
+    },
+    {
+      "$id": 15,
+      "label": "qev041101_SEL0031",
+      "style": 3,
+      "name": "Ask which way Harvey and his men went."
+    },
+    {
+      "$id": 16,
+      "label": "qev041101_JNK0040",
+      "style": 4,
+      "name": "Insist"
+    },
+    {
+      "$id": 17,
+      "label": "qev041101_SEL0041",
+      "style": 3,
+      "name": "Demand to know what Zazazan was transporting."
+    },
+    {
+      "$id": 18,
+      "label": "qev041101_MSG0010",
+      "style": 1,
+      "name": "Friend aims to fight them? Very impressive!\nHumans all seem to be terrible bunch,\nbut friend is clearly different.[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev041101_MSG0011",
+      "style": 1,
+      "name": "Seems like Harvey headed for cave up ahead.\nNot too long has passed, so friend should be able to\ncatch up and give them sound thrashing![ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev041101_MSG0012",
+      "style": 1,
+      "name": "Zazazan cannot say. But it is something Nopon need\nin order to survive on Mira.[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev041101_MSG0013",
+      "style": 1,
+      "name": "Please believe Zazazan![ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev041101_MSG0014",
+      "style": 1,
+      "name": "Zazazan overcome with gratitude. Remember, though,\nHarvey and others are armed with weapons friend\nbrought them. Be careful.[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev041101_MSG0015",
+      "style": 1,
+      "name": "Friend returned! Please get that shipment back,\nwhatever it takes![ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev041101_MSG0016",
+      "style": 1,
+      "name": "If contents of shipment used for evil purposes,\nresults could be terrible.[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev041101_JNK0050",
+      "style": 4,
+      "name": "Query"
+    },
+    {
+      "$id": 26,
+      "label": "qev041101_SEL0051",
+      "style": 3,
+      "name": "Ask which way Harvey and his men went."
+    },
+    {
+      "$id": 27,
+      "label": "qev041101_JNK0060",
+      "style": 4,
+      "name": "Insist"
+    },
+    {
+      "$id": 28,
+      "label": "qev041101_SEL0061",
+      "style": 3,
+      "name": "Demand to know what Zazazan was transporting."
+    },
+    {
+      "$id": 29,
+      "label": "qev041101_MSG0017",
+      "style": 1,
+      "name": "Friend aims to fight them? Very impressive![ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev041101_MSG0018",
+      "style": 1,
+      "name": "Seems like Harvey headed for cave up ahead.\nNot too long has passed, so friend should be able to\ncatch up and give them sound thrashing![ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev041101_MSG0019",
+      "style": 1,
+      "name": "Zazazan cannot say. But it is something Nopon need\nin order to survive on Mira.[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev041101_MSG0020",
+      "style": 1,
+      "name": "Please believe Zazazan![ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev041101_MSG0041",
+      "style": 1,
+      "name": "Zazazan overcome with gratitude. Remember, though,\nHarvey and others are armed with weapons friend\nbrought them. Be careful.[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev041101_MSG0021",
+      "style": 1,
+      "name": "Harvey stole nopopotamus of Zazazan and headed for\ncave up ahead.[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev041101_MSG0022",
+      "style": 1,
+      "name": "Friend needs not hold back at all.\nGive that scum beating of lifetime![ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev041101_MSG0023",
+      "style": 1,
+      "name": "Zazazan is glad to see friend back safe!\n...So then? What of the shipment?[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev041101_MSG0024",
+      "style": 1,
+      "name": "Oh-ho-hooo! Zazazan saved! If that shipment was lost,\nZazazan would have been ruined.[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev041101_MSG0025",
+      "style": 1,
+      "name": "Oh, and the nopopotamus?[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "qev041101_JNK0070",
+      "style": 4,
+      "name": "Explain"
+    },
+    {
+      "$id": 40,
+      "label": "qev041101_SEL0071",
+      "style": 3,
+      "name": "Say that it sided with Harvey, so you killed it."
+    },
+    {
+      "$id": 41,
+      "label": "qev041101_JNK0080",
+      "style": 4,
+      "name": "Regret"
+    },
+    {
+      "$id": 42,
+      "label": "qev041101_SEL0081",
+      "style": 3,
+      "name": "Offer an apology for killing it without thinking."
+    },
+    {
+      "$id": 43,
+      "label": "qev041101_MSG0026",
+      "style": 1,
+      "name": "...Killed? As in dead?[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "qev041101_MSG0027",
+      "style": 1,
+      "name": "Hmm... Well, no helping it now, but Zazazan not able\nto carry this much by himself.[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "qev041101_MSG0028",
+      "style": 1,
+      "name": "Is there chance friend could bring it back to New LA?[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "qev041101_MSG0029",
+      "style": 1,
+      "name": "Zazazan not blame friend for fighting back, but...\nHmmm. This is tough one.[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "qev041101_MSG0030",
+      "style": 1,
+      "name": "Zazazan not going to be able to carry this much by\nhimself. So if friend is blaming [ST:gender p1=himself p2=herself ] at all for this,\nmaybe [ST:gender p1=he p2=she ] could bring shipment back to New LA?[ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "qev041101_MSG0031",
+      "style": 1,
+      "name": "These goods extremely important, but Zazazan trust\nfriend. But whatever happens, do not peek inside![ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "qev041101_MSG0032",
+      "style": 1,
+      "name": "...Friend is clear on this? Absolutely no peeking!\nNone! Meh-meh![ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "qev041101_MSG0033",
+      "style": 1,
+      "name": "Also, if flunky of elder named Loma asks about\nshipment, just dodge the question.[ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "qev041101_MSG0034",
+      "style": 1,
+      "name": "Loma is same as Harvey. So sneaky!\nAims to take goods of Zazazan for himself.[ST:wait ]"
+    },
+    {
+      "$id": 52,
+      "label": "qev041101_JNK0090",
+      "style": 4,
+      "name": "Agree"
+    },
+    {
+      "$id": 53,
+      "label": "qev041101_SEL0091",
+      "style": 3,
+      "name": "Take Zazazan's words to heart."
+    },
+    {
+      "$id": 54,
+      "label": "qev041101_JNK0100",
+      "style": 4,
+      "name": "Suspect"
+    },
+    {
+      "$id": 55,
+      "label": "qev041101_SEL0101",
+      "style": 3,
+      "name": "Given the shady errand, ask to hear more about Loma."
+    },
+    {
+      "$id": 56,
+      "label": "qev041101_MSG0035",
+      "style": 1,
+      "name": "Friend is a kind, sparkly, USEFUL human!\nNothing like jerkface Harvey.[ST:wait ]"
+    },
+    {
+      "$id": 57,
+      "label": "qev041101_MSG0036",
+      "style": 1,
+      "name": "Loma is right-hand Nopon of elder in New LA.\nSneaky thief always trying to steal goods of Zazazan.[ST:wait ]"
+    },
+    {
+      "$id": 58,
+      "label": "qev041101_MSG0037",
+      "style": 1,
+      "name": "If Loma finds out friend is carrying shipment for\nZazazan, he will try every trick in book to get it.\nDo not be fooled![ST:wait ]"
+    },
+    {
+      "$id": 59,
+      "label": "qev041101_MSG0038",
+      "style": 1,
+      "name": "Many thanks, friend! Deliver shipment to Bodada at\nNopon Bazaar in New LA and the job is finished.[ST:wait ]"
+    },
+    {
+      "$id": 60,
+      "label": "qev041101_MSG0039",
+      "style": 1,
+      "name": "Loma will try every trick in the book to get shipment.\nDo not be fooled![ST:wait ]"
+    },
+    {
+      "$id": 61,
+      "label": "qev041101_MSG0040",
+      "style": 1,
+      "name": "Make sure that goods reach Bodada at\nNopon Bazaar in New LA.[ST:wait ]"
+    }
+  ]
+}

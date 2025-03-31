@@ -1,0 +1,456 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev060202_MSG0001",
+      "style": 1,
+      "name": "*fsssh*[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev060202_MSG0002",
+      "style": 1,
+      "name": "*fssssssssh*[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev060202_MSG0003",
+      "style": 1,
+      "name": "*fsssssssssssh* ...Zzzzzz...[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev060202_MSG0004",
+      "style": 1,
+      "name": "Zzz...snrk! ...I...am asleep... Zzz... *fsssh*[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev060202_JNK0010",
+      "style": 4,
+      "name": "Intervene[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev060202_SEL0011",
+      "style": 3,
+      "name": "Wake Phoskeran from his nap in the trailer.[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev060202_JNK0020",
+      "style": 4,
+      "name": "Ignore[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev060202_SEL0021",
+      "style": 3,
+      "name": "Let Phoskeran sleep.[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev060202_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 10,
+      "label": "qev060202_MSG0005",
+      "style": 1,
+      "name": "...Mmm? *fsssh* I have the strangest sensation I was\njust telling someone about how I was trying to sleep.[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev060202_MSG0006",
+      "style": 1,
+      "name": "Was that a dream? Is that what dreams are? *fsssh*\nThat was my first one. How very human of me![ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev060202_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 13,
+      "label": "qev060202_MSG0007",
+      "style": 1,
+      "name": "Nrk... Still sleeping... *fsssh* Stiiiiill sleeping... Zzz...[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev060202_MSG0008",
+      "style": 1,
+      "name": "And what is it you are doing there? *fsssh*[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev060202_MSG0009",
+      "style": 1,
+      "name": "Vigil forfexes wander this area, so it's not the sort of\nplace you want to be just...standing around. *fsssh*\nThere, for instance. Take a look to the left.[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev060202_MSG0010",
+      "style": 1,
+      "name": "Will you be fighting them now? Good luck to you.\nI will be cheering you on from inside my car. *fsssh*[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev060202_MSG0011",
+      "style": 1,
+      "name": "Well, that was rather impressive! *fsssh*\nI feel wide awake after watching that display.[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev060202_MSG0012",
+      "style": 1,
+      "name": "So, once again, what is it you are doing here? *fsssh*\nJust wandering the land beating up indigens in order to\nquell your violent urges?[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev060202_JNK0030",
+      "style": 4,
+      "name": "Confirm"
+    },
+    {
+      "$id": 20,
+      "label": "qev060202_SEL0031",
+      "style": 3,
+      "name": "Nod grimly."
+    },
+    {
+      "$id": 21,
+      "label": "qev060202_JNK0040",
+      "style": 4,
+      "name": "Deny"
+    },
+    {
+      "$id": 22,
+      "label": "qev060202_SEL0041",
+      "style": 3,
+      "name": "Tell Phoskeran that you were sent to help him."
+    },
+    {
+      "$id": 23,
+      "label": "qev060202_MSG0013",
+      "style": 1,
+      "name": "May the mercy of Golbogga be upon the vigil forfexes\nwho fell prey to your terrifying bloodlust. *fsssh*[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev060202_MSG0014",
+      "style": 1,
+      "name": "Sooo...what now? *fsssh* May I assume from your\nremaining here that I am to be your next victim?[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev060202_MSG0015",
+      "style": 1,
+      "name": "...No? Horonalderon sent you to assist me?[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev060202_MSG0016",
+      "style": 1,
+      "name": "That was an attempt at the \"deadpan humor\" you\nhumans are so fond of. *fsssh* Do not, as your kind\nsays, leave me hanging here.[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev060202_MSG0017",
+      "style": 1,
+      "name": "So...what? Did Horonalderon send you to monitor me?\n*fsssh*[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev060202_MSG0018",
+      "style": 1,
+      "name": "Now that I think of it, he DID tell me to report in with\nevery little detail. *fsssh* But I didn't think that was\nreally necessary, so I haven't bothered.[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev060202_MSG0019",
+      "style": 1,
+      "name": "...Hmm? What was I doing here?\nWell, I had just acquired some exceptionally potent\nvoltant, so I was treating myself to a rest. *fsssh*[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev060202_MSG0020",
+      "style": 1,
+      "name": "All right, all right. If you're in such a hurry, I'll set out.\n*fsssh* That Horonalderon is such a worrier...[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev060202_MSG0021",
+      "style": 1,
+      "name": "Ah! *fsssh* The one from Primordia![ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev060202_MSG0022",
+      "style": 1,
+      "name": "Lately, I have been working to master the concept of\nthe human \"metaphor.\" Might you have a moment to\nchat with me? *fsssh*[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev060202_JNK0050",
+      "style": 4,
+      "name": "Agree"
+    },
+    {
+      "$id": 34,
+      "label": "qev060202_SEL0051",
+      "style": 3,
+      "name": "Stay put and hear Phoskeran out."
+    },
+    {
+      "$id": 35,
+      "label": "qev060202_JNK0060",
+      "style": 4,
+      "name": "Decline"
+    },
+    {
+      "$id": 36,
+      "label": "qev060202_SEL0061",
+      "style": 3,
+      "name": "Say that you're busy at the moment."
+    },
+    {
+      "$id": 37,
+      "label": "qev060202_MSG0023",
+      "style": 1,
+      "name": "Wonderful! *fsssh* Horonalderon is running about\nin a panic and won't listen to me.[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev060202_MSG0024",
+      "style": 1,
+      "name": "I see. Thank you for sharing that. *fsssh*\n...But here is my metaphor anyway.[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "qev060202_MSG0025",
+      "style": 1,
+      "name": "*fsssh* Let us say that—metaphorically speaking—\na human in a black mask suddenly jumped in front\nof the trailer I was driving.[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "qev060202_MSG0026",
+      "style": 1,
+      "name": "He then metaphorically told me he was planning to use\nthe voltant we gathered to destroy New LA. *fsssh*[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "qev060202_MSG0027",
+      "style": 1,
+      "name": "Finally, that clearly volatile human metaphorically drove\noff in the trailer, which contains voltant strong enough\nto knock you humans out in just one whiff. *fsssh*[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "qev060202_MSG0028",
+      "style": 1,
+      "name": "Is that bad? *fsssh* ...Metaphorically, of course.[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "qev060202_JNK0070",
+      "style": 4,
+      "name": "Confirm"
+    },
+    {
+      "$id": 44,
+      "label": "qev060202_SEL0071",
+      "style": 3,
+      "name": "Tell Phoskeran it would be very bad.\n...Metaphorically."
+    },
+    {
+      "$id": 45,
+      "label": "qev060202_JNK0080",
+      "style": 4,
+      "name": "Correct"
+    },
+    {
+      "$id": 46,
+      "label": "qev060202_SEL0081",
+      "style": 3,
+      "name": "Tell Phoskeran that isn't how metaphors work."
+    },
+    {
+      "$id": 47,
+      "label": "qev060202_MSG0029",
+      "style": 1,
+      "name": "Ah! Excellent. I THOUGHT that might be bad. *fsssh*[ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "qev060202_MSG0030",
+      "style": 1,
+      "name": "Er, but was that a proper metaphor? *fsssh*\nHuman conversation is so difficult to master.[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "qev060202_MSG0031",
+      "style": 1,
+      "name": "So explaining what actually happened to me in real life\ndoes not count as metaphor? *fsssh*[ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "qev060202_MSG0032",
+      "style": 1,
+      "name": "I see. Hmm... Human conversation is a tricky thing.\n*fsssh* In any case, that concludes my chat.[ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "qev060202_MSG0033",
+      "style": 1,
+      "name": "*fsssh* Yes, so we still need to figure out how to deal\nwith this stolen voltant problem.[ST:wait ]"
+    },
+    {
+      "$id": 52,
+      "label": "qev060202_MSG0034",
+      "style": 1,
+      "name": "Because if, for example, that voltant were scattered\nabout the city, many of its residents would die. *fsssh*\nAnd that would be a most tragic scene.[ST:wait ]"
+    },
+    {
+      "$id": 53,
+      "label": "qev060202_MSG0035",
+      "style": 1,
+      "name": "...YES! That one was TOTALLY metaphor! *fsssh*[ST:wait ]"
+    },
+    {
+      "$id": 54,
+      "label": "qev060202_JNK0090",
+      "style": 4,
+      "name": "Endure"
+    },
+    {
+      "$id": 55,
+      "label": "qev060202_SEL0091",
+      "style": 3,
+      "name": "Summon up your patience and keep listening."
+    },
+    {
+      "$id": 56,
+      "label": "qev060202_JNK0100",
+      "style": 4,
+      "name": "Ignore"
+    },
+    {
+      "$id": 57,
+      "label": "qev060202_SEL0101",
+      "style": 3,
+      "name": "Stop humoring Phoskeran and\ntalk to Horonalderon instead."
+    },
+    {
+      "$id": 58,
+      "label": "qev060202_MSG0036",
+      "style": 1,
+      "name": "Unfortunately, I have no means to resolve the situation.[ST:wait ]"
+    },
+    {
+      "$id": 59,
+      "label": "qev060202_MSG0037",
+      "style": 1,
+      "name": "*fsssh* If this incident represents a problem for you,\nperhaps begin by asking around for information?[ST:wait ]"
+    },
+    {
+      "$id": 60,
+      "label": "qev060202_MSG0038",
+      "style": 1,
+      "name": "The BLADE called Piers, for example, is quite close\nwith us Zaruboggan. *fsssh* If you spoke with him,\nperhaps he could shed some light on the situation.[ST:wait ]"
+    },
+    {
+      "$id": 61,
+      "label": "qev060202_MSG0039",
+      "style": 1,
+      "name": "And by light, I actually mean information! Ha HA!\nI am clearly well on my way to mastering metaphor.\nMy own genius terrifies me sometimes. *fsssh*[ST:wait ]"
+    },
+    {
+      "$id": 62,
+      "label": "qev060202_MSG0040",
+      "style": 1,
+      "name": "You have my respect, [ST:playername ].[ST:wait ]"
+    },
+    {
+      "$id": 63,
+      "label": "qev060202_MSG0041",
+      "style": 1,
+      "name": "Even among the Zaruboggan, there are few who can\nstand to talk with Phoskeran. *fsssh*[ST:wait ]"
+    },
+    {
+      "$id": 64,
+      "label": "qev060202_MSG0042",
+      "style": 1,
+      "name": "Apologies. He is always this way, I am afraid. *fsssh*\nI don't blame you in the least for being fed up with it.[ST:wait ]"
+    },
+    {
+      "$id": 65,
+      "label": "qev060202_MSG0043",
+      "style": 1,
+      "name": "But yes, I will gather some people and begin searching\nfor the culprit. *fsssh*[ST:wait ]"
+    },
+    {
+      "$id": 66,
+      "label": "qev060202_MSG0044",
+      "style": 1,
+      "name": "Oooo! You sound so determined!\n*fsssh* But if we're gathering people,\nwhy not go see what Piers has to say?[ST:wait ]"
+    },
+    {
+      "$id": 67,
+      "label": "qev060202_MSG0045",
+      "style": 1,
+      "name": "*fsssh* He's probably the BLADE closest to us\nZaruboggan, so maybe he'll have a hint for us.[ST:wait ]"
+    },
+    {
+      "$id": 68,
+      "label": "qev060202_MSG0046",
+      "style": 1,
+      "name": "Though if the stolen voltant were already being spread\naround, that sort of inquiry would be trying to put the\nbullet back in the gun. Metaphorically speaking. *fsssh*[ST:wait ]"
+    },
+    {
+      "$id": 69,
+      "label": "qev060202_MSG0047",
+      "style": 1,
+      "name": "*fsssssssssssssh*[ST:wait ]"
+    },
+    {
+      "$id": 70,
+      "label": "qev060202_MSG0048",
+      "style": 1,
+      "name": "...I am sorry. I promise to repay this debt soon. *fsssh*\nFor now, please help us stop this from happening.[ST:wait ]"
+    },
+    {
+      "$id": 71,
+      "label": "qev060202_MSG0049",
+      "style": 1,
+      "name": "He taught me the most fascinating rhetorical tool.\n*fsssh* I cannot wait to get even more metaphorical![ST:wait ]"
+    },
+    {
+      "$id": 72,
+      "label": "qev060202_MSG0050",
+      "style": 1,
+      "name": "*yaaawn* I am suddenly struck with the urge to nap.\n*fsssh* To use your human \"simile,\" I am as sleepy as\na cat that feels quite tired.[ST:wait ]"
+    },
+    {
+      "$id": 73,
+      "label": "qev060202_MSG0051",
+      "style": 1,
+      "name": "Horonalderon is still going on about something,\nhowever, so I suppose I will wander off in search of a\nquiet spot. *fsssh*[ST:wait ]"
+    }
+  ]
+}

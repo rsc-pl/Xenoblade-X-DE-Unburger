@@ -1,0 +1,216 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev001891_MSG0001",
+      "style": 1,
+      "name": "Chief! What are you doing here?[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev001891_JNK0010",
+      "style": 4,
+      "name": "Inquire"
+    },
+    {
+      "$id": 3,
+      "label": "tev001891_SEL0011",
+      "style": 3,
+      "name": "Ask Mia who the man is beside her."
+    },
+    {
+      "$id": 4,
+      "label": "tev001891_JNK0020",
+      "style": 4,
+      "name": "Invite"
+    },
+    {
+      "$id": 5,
+      "label": "tev001891_SEL0021",
+      "style": 3,
+      "name": "Ask Mia to join you for dinner."
+    },
+    {
+      "$id": 6,
+      "label": "tev001891_MSG0002",
+      "style": 1,
+      "name": "Isn't it obvious? He's a client![ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "tev001891_MSG0003",
+      "style": 1,
+      "name": "Ooo, sorry. Right now I'm having an important\ndiscussion with this client about a mission.[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "tev001891_MSG0004",
+      "style": 1,
+      "name": "So while I'm thrilled to be invited, I have to decline.[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "tev001891_MSG0005",
+      "style": 1,
+      "name": "Anyway, could you maybe sorta...leave us alone now?\nYou're interrupting our delicate negotiations.[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "tev001891_JNK0030",
+      "style": 4,
+      "name": "Worry"
+    },
+    {
+      "$id": 11,
+      "label": "tev001891_SEL0031",
+      "style": 3,
+      "name": "Express concern about the nature of the client's mission."
+    },
+    {
+      "$id": 12,
+      "label": "tev001891_JNK0040",
+      "style": 4,
+      "name": "Lie"
+    },
+    {
+      "$id": 13,
+      "label": "tev001891_SEL0041",
+      "style": 3,
+      "name": "Say that you need Mia's help on a different\nmission so she will quit pursuing this one."
+    },
+    {
+      "$id": 14,
+      "label": "tev001891_JNK0050",
+      "style": 4,
+      "name": "Assist"
+    },
+    {
+      "$id": 15,
+      "label": "tev001891_SEL0051",
+      "style": 3,
+      "name": "Offer to work with Mia to complete the client's job."
+    },
+    {
+      "$id": 16,
+      "label": "tev001891_MSG0006",
+      "style": 1,
+      "name": "Admittedly, this is an unusual place and time to meet\na client about a job, but I assure you there's nothing\nsuspicious about the request itself! Nope! Nuuuuh-uh.[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "tev001891_MSG0007",
+      "style": 1,
+      "name": "And I'll also remind you that I'm now a full-fledged\nBLADE who can easily handle whatever type of mission\nthis cruel world sees fit to fling at her.[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "tev001891_MSG0008",
+      "style": 1,
+      "name": "Perhaps you're looking to get in on the job and divvy\nup the reward money? I bet you are, you sly dog, you!\nBut the answer is still a big no.[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "tev001891_MSG0009",
+      "style": 1,
+      "name": "I'm gonna make like a bass and handle this job solo!\n...Get it? Solo? \"So low\"? Bass? Never mind.[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "tev001891_MSG0010",
+      "style": 1,
+      "name": "Anyway, please stop trying to get all up in my biz.[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "tev001891_MSG0011",
+      "style": 1,
+      "name": "I appreciate your concern, Chief. I really do.[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "tev001891_MSG0012",
+      "style": 1,
+      "name": "But my answer is still a big negatory.[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "tev001891_MSG0013",
+      "style": 1,
+      "name": "Plus, I know you don't have a mission for me.\nYou just made that up, you sly dog, you![ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "tev001891_MSG0014",
+      "style": 1,
+      "name": "And I'm too busy with my REAL mission to run around\nchasing down your fake one.[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "tev001891_MSG0015",
+      "style": 1,
+      "name": "And I'll also remind you that I'm now a full-fledged\nBLADE who can easily handle whatever type of mission\nthis cruel world sees fit to fling at her.[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "tev001891_MSG0016",
+      "style": 1,
+      "name": "So please step up off my grill. Okay, Chief?[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "tev001891_MSG0017",
+      "style": 1,
+      "name": "Nope! Tooootally not necessary.[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "tev001891_MSG0018",
+      "style": 1,
+      "name": "Hey, are you just looking to get in on the job and\ndivvy up the reward? I bet you are, you sly dog, you!\nBut the answer is still a big no.[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "tev001891_MSG0019",
+      "style": 1,
+      "name": "I'm gonna make like a bass and handle this job solo!\n...Get it? Solo? \"So low\"? Bass? Never mind.[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "tev001891_MSG0020",
+      "style": 1,
+      "name": "Admittedly, this is an unusual place and time to meet\na client about a job, but I assure you there's nothing\nsuspicious about the request itself! Nope! Nuuuuh-uh.[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "tev001891_MSG0021",
+      "style": 1,
+      "name": "Juuust a normal job. Nothing special about it.\nAlmost boring, actually. Sleepy-time and all that.\nHeck, the reward isn't even that good.[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "tev001891_MSG0022",
+      "style": 1,
+      "name": "And I'll also remind you that I'm now a full-fledged\nBLADE who can easily handle whatever type of mission\nthis cruel world sees fit to fling at her.[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "tev001891_MSG0023",
+      "style": 1,
+      "name": "So make like a donut and roll on outta here!\n...Er, donuts roll, right? The cake kind, at least?[ST:wait ]"
+    }
+  ]
+}

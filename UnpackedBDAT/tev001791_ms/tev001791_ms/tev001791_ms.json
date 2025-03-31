@@ -1,0 +1,264 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev001791_MSG0001",
+      "style": 1,
+      "name": "Oh! Hello there, [ST:playername ].\nAre you on duty today?[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev001791_MSG0002",
+      "style": 1,
+      "name": "I have the day off myself, so I was just tending\nto my flower beds.[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev001791_MSG0003",
+      "style": 1,
+      "name": "Do you like flowers, [ST:playername ]?[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev001791_JNK0010",
+      "style": 4,
+      "name": "Affirm"
+    },
+    {
+      "$id": 5,
+      "label": "tev001791_SEL0011",
+      "style": 3,
+      "name": "Express your fondness for flowers."
+    },
+    {
+      "$id": 6,
+      "label": "tev001791_JNK0020",
+      "style": 4,
+      "name": "Deny"
+    },
+    {
+      "$id": 7,
+      "label": "tev001791_SEL0021",
+      "style": 3,
+      "name": "Say that you've never really been a fan."
+    },
+    {
+      "$id": 8,
+      "label": "tev001791_MSG0004",
+      "style": 1,
+      "name": "I like them as well.[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "tev001791_MSG0005",
+      "style": 1,
+      "name": "I brought these seeds from Earth. I was so happy to\nsee them bloom all the way out here.[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "tev001791_MSG0006",
+      "style": 1,
+      "name": "Seeing beautiful flowers always fills my heart with hope.\n...Heh. It's always odd to say that, but it's true.[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev001791_MSG0007",
+      "style": 1,
+      "name": "I think that if these flowers can thrive on this world,\nthen surely we humans can.[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "tev001791_MSG0008",
+      "style": 1,
+      "name": "......[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "tev001791_MSG0009",
+      "style": 1,
+      "name": "Sorry. I didn't intend to act so profound there.\nI'll be very happy if my flowers bring you joy,\neven if they don't have any deeper meaning.[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "tev001791_JNK0030",
+      "style": 4,
+      "name": "Praise Sincerely"
+    },
+    {
+      "$id": 15,
+      "label": "tev001791_SEL0031",
+      "style": 3,
+      "name": "Wax poetic about the beauty of Hope's gerbera daisies."
+    },
+    {
+      "$id": 16,
+      "label": "tev001791_JNK0040",
+      "style": 4,
+      "name": "Praise Cunningly"
+    },
+    {
+      "$id": 17,
+      "label": "tev001791_SEL0041",
+      "style": 3,
+      "name": "Say that Hope was clever to grow \"medicinal\"\nflowers, since they'll sell for a bundle."
+    },
+    {
+      "$id": 18,
+      "label": "tev001791_MSG0050",
+      "style": 1,
+      "name": "You really do like flowers!\nYou even know their names.[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "tev001791_MSG0051",
+      "style": 1,
+      "name": "I imagine you'll be busy with your BLADE work for\na while, but when you have the time, would you like\nto plant some flowers here yourself?[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "tev001791_MSG0012",
+      "style": 1,
+      "name": "I'd be excited to see which varieties you choose.[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "tev001791_MSG0013",
+      "style": 1,
+      "name": "What? No! These flowers are totally harmless!\nPlus, I'd NEVER use the church as a front for some\nkind of illegal activity.[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "tev001791_MSG0014",
+      "style": 1,
+      "name": "If I did that, they'd kick me out of BLADE.\nThen they'd chase me out of New LA![ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "tev001791_MSG0015",
+      "style": 1,
+      "name": "Must you always be working some shameless angle?\nUgh! Never mind. I'm done with this conversation.[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "tev001791_MSG0016",
+      "style": 1,
+      "name": "Is that right? Well, what about vegetables?[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "tev001791_MSG0017",
+      "style": 1,
+      "name": "I love vegetables nearly as much as I love flowers.[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "tev001791_MSG0018",
+      "style": 1,
+      "name": "Back on Earth, the congregants of my church were\nalways much more excited about the vegetables than\nthe flowers. They were a...practical people.[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "tev001791_MSG0019",
+      "style": 1,
+      "name": "I loved watching them smile when they ate a meal\nprepared with vegetables that we'd grown.[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "tev001791_MSG0020",
+      "style": 1,
+      "name": "When I saw something like that, it made me glad for\nall the hard work I'd put into growing them.[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "tev001791_JNK0060",
+      "style": 4,
+      "name": "Inquire"
+    },
+    {
+      "$id": 30,
+      "label": "tev001791_SEL0061",
+      "style": 3,
+      "name": "Ask Hope what she cooked with the vegetables."
+    },
+    {
+      "$id": 31,
+      "label": "tev001791_JNK0070",
+      "style": 4,
+      "name": "Request"
+    },
+    {
+      "$id": 32,
+      "label": "tev001791_SEL0071",
+      "style": 3,
+      "name": "Express a desire for Hope to\ngrow vegetables for New LA."
+    },
+    {
+      "$id": 33,
+      "label": "tev001791_MSG0021",
+      "style": 1,
+      "name": "Stew![ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "tev001791_MSG0022",
+      "style": 1,
+      "name": "They raved about it in the local paper once,\nso there was always a long line to try my stew.[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "tev001791_MSG0023",
+      "style": 1,
+      "name": "It would bring in a lot of people I didn't get to see\notherwise, or those who tended to keep their distance.[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "tev001791_MSG0024",
+      "style": 1,
+      "name": "That's a very happy memory of mine.[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "tev001791_MSG0025",
+      "style": 1,
+      "name": "If we ever have the chance, I'd like to make my stew\nagain and have you try some.[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "tev001791_MSG0026",
+      "style": 1,
+      "name": "Ah, Ornella has made the same request of me.[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "tev001791_MSG0027",
+      "style": 1,
+      "name": "But everyone here has a job, and no one goes hungry.[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "tev001791_MSG0028",
+      "style": 1,
+      "name": "So I decided that I could do more good by talking\nwith people than feeding them.[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "tev001791_MSG0029",
+      "style": 1,
+      "name": "I'm sorry to disappoint. But while I don't have any\nstew to share, you can have as many helpings of\nconversation as you like. Come back any time.[ST:wait ]"
+    }
+  ]
+}

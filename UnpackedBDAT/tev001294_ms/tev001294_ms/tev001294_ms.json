@@ -1,0 +1,384 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev001294_MSG0001",
+      "style": 1,
+      "name": "Hey, [ST:playername ]. How's it going?[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev001294_MSG0002",
+      "style": 1,
+      "name": "I was just about to go shopping to get ready\nfor dinner.[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev001294_MSG0003",
+      "style": 1,
+      "name": "What do you feel like eating tonight?[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev001294_JNK0010",
+      "style": 4,
+      "name": "Offer"
+    },
+    {
+      "$id": 5,
+      "label": "tev001294_SEL0011",
+      "style": 3,
+      "name": "Say that you'll take care of dinner tonight."
+    },
+    {
+      "$id": 6,
+      "label": "tev001294_JNK0020",
+      "style": 4,
+      "name": "Invite"
+    },
+    {
+      "$id": 7,
+      "label": "tev001294_SEL0021",
+      "style": 3,
+      "name": "Take Lin clothes shopping with you first."
+    },
+    {
+      "$id": 8,
+      "label": "tev001294_JNK0030",
+      "style": 4,
+      "name": "Propose"
+    },
+    {
+      "$id": 9,
+      "label": "tev001294_SEL0031",
+      "style": 3,
+      "name": "Tell Lin to just cook up Tatsu already."
+    },
+    {
+      "$id": 10,
+      "label": "tev001294_MSG0004",
+      "style": 1,
+      "name": "Whoa, really? Okay![ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev001294_MSG0005",
+      "style": 1,
+      "name": "What do you want to cook?\nDo you have a specialty?[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "tev001294_JNK0110",
+      "style": 4,
+      "name": "Sashimi"
+    },
+    {
+      "$id": 13,
+      "label": "tev001294_SEL0111",
+      "style": 3,
+      "name": "Boast about your world-famous sashimi."
+    },
+    {
+      "$id": 14,
+      "label": "tev001294_JNK0120",
+      "style": 4,
+      "name": "Barbecue"
+    },
+    {
+      "$id": 15,
+      "label": "tev001294_SEL0121",
+      "style": 3,
+      "name": "Claim your barbecue makes grown men weep."
+    },
+    {
+      "$id": 16,
+      "label": "tev001294_JNK0130",
+      "style": 4,
+      "name": "Crème Brûlée"
+    },
+    {
+      "$id": 17,
+      "label": "tev001294_SEL0131",
+      "style": 3,
+      "name": "Say men have fought duels for\na bite of your crème brûlée."
+    },
+    {
+      "$id": 18,
+      "label": "tev001294_JNK0140",
+      "style": 4,
+      "name": "Cupcakes"
+    },
+    {
+      "$id": 19,
+      "label": "tev001294_SEL0141",
+      "style": 3,
+      "name": "Brag that your cupcakes are the finest in the land."
+    },
+    {
+      "$id": 20,
+      "label": "tev001294_JNK0150",
+      "style": 4,
+      "name": "Omelets"
+    },
+    {
+      "$id": 21,
+      "label": "tev001294_SEL0151",
+      "style": 3,
+      "name": "Insist that your omelets are more valuable than gold."
+    },
+    {
+      "$id": 22,
+      "label": "tev001294_MSG0006",
+      "style": 1,
+      "name": "Er, sashimi? Really?[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "tev001294_MSG0007",
+      "style": 1,
+      "name": "Not sure how it can be \"world-famous\" when all you're\ndoing is cutting up raw fish, but hey, whatever.[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "tev001294_MSG0008",
+      "style": 1,
+      "name": "I'm sure Nagi would be delighted. And I hardly ever\nhave it myself, so I'm certainly up for trying some.[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "tev001294_MSG0009",
+      "style": 1,
+      "name": "Okay, it's a plan! ...Although it would probably help\nif we had some fresh fish, huh?[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "tev001294_MSG0010",
+      "style": 1,
+      "name": "Barbecue, huh?[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "tev001294_MSG0011",
+      "style": 1,
+      "name": "But that's not really \"cooking,\" right?\nIsn't that just...barbecuing?[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "tev001294_MSG0012",
+      "style": 1,
+      "name": "Although they do say protein is good for building\nstamina and muscle. Eat enough of that stuff, and\nbefore long, you'll start looking like Vandham![ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "tev001294_MSG0013",
+      "style": 1,
+      "name": "All right, barbecue it is! I'll go buy us some meat.[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "tev001294_MSG0014",
+      "style": 1,
+      "name": "Crème brûlée?![ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "tev001294_MSG0015",
+      "style": 1,
+      "name": "I...actually really like crème brûlée. And I've tried to\nmake it a bunch of times, but it never works out.[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "tev001294_MSG0016",
+      "style": 1,
+      "name": "I'm impressed that you'd have such a difficult food\nas your specialty.[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "tev001294_MSG0017",
+      "style": 1,
+      "name": "But, uh...crème brûlée isn't really a dinner course.\nOr even an appropriate side dish, really.[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "tev001294_MSG0018",
+      "style": 1,
+      "name": "How about I handle the dinner menu, and we'll put you\nin charge of dessert, okay?[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "tev001294_MSG0019",
+      "style": 1,
+      "name": "Best of both worlds, right?\nI can't wait to try out your crème brûlée![ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "tev001294_MSG0020",
+      "style": 1,
+      "name": "What? You're a baker?![ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "tev001294_MSG0021",
+      "style": 1,
+      "name": "Wow, that's pretty impressive. I'm sure Secretary Nagi\nand Director General Chausson will be delighted.[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "tev001294_MSG0022",
+      "style": 1,
+      "name": "But you can't really just eat cupcakes for dinner.\nThat's not very...healthy.[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "tev001294_MSG0023",
+      "style": 1,
+      "name": "How about I handle the dinner menu, and we'll put you\nin charge of dessert, okay?[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "tev001294_MSG0024",
+      "style": 1,
+      "name": "Best of both worlds, right?\nI can't wait to try out your cupcakes![ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "tev001294_MSG0025",
+      "style": 1,
+      "name": "Omelets? Wow. Those are hard.[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "tev001294_MSG0026",
+      "style": 1,
+      "name": "You gotta get the texture just right...\nYou can't mess up the flip at the end...[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "tev001294_MSG0027",
+      "style": 1,
+      "name": "But that look on your face tells me you've got a lot\nof confidence in your flipping arm![ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "tev001294_MSG0028",
+      "style": 1,
+      "name": "Welp, omelets it is then. I like mine half-cooked\nand runny, by the way![ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "tev001294_MSG0029",
+      "style": 1,
+      "name": "I'll go buy us some eggs and butter while you get\nthe frying pan ready.[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "tev001294_MSG0030",
+      "style": 1,
+      "name": "Hey, are you trying to say my clothes are lame?![ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "tev001294_MSG0031",
+      "style": 1,
+      "name": "Actually...I don't think you've ever even seen me in\nstreet clothes, huh?[ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "tev001294_MSG0032",
+      "style": 1,
+      "name": "I always just wear my ground gear because it's\ncomfortable. Plus, I don't have a lot of confidence\nin my fashion sense.[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "tev001294_MSG0033",
+      "style": 1,
+      "name": "But I might feel awkward if it's just you and me—\nlike I was a big fashion emergency or something.\nSo let's do it another time and invite Elma, okay?[ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "tev001294_MSG0034",
+      "style": 1,
+      "name": "Oh, and since it's your invitation, I assume you're\nthe one buying, right?[ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "tev001294_MSG0035",
+      "style": 1,
+      "name": "Cha-ching! Looking forward to it![ST:wait ]"
+    },
+    {
+      "$id": 52,
+      "label": "tev001294_MSG0036",
+      "style": 1,
+      "name": "But actually, this is no time to be thinking about that—\nI've got a dinner menu to prepare![ST:wait ]"
+    },
+    {
+      "$id": 53,
+      "label": "tev001294_MSG0037",
+      "style": 1,
+      "name": "Come on, be serious. We can't eat Tatsu![ST:wait ]"
+    },
+    {
+      "$id": 54,
+      "label": "tev001294_MSG0038",
+      "style": 1,
+      "name": "He's nowhere NEAR fat enough yet. If we cook him\nup now, it'd just be a waste of good Nopon.[ST:wait ]"
+    },
+    {
+      "$id": 55,
+      "label": "tev001294_MSG0039",
+      "style": 1,
+      "name": "...You should really see your face right now. I'm joking!\nSo, seriously—what are we having for dinner?[ST:wait ]"
+    },
+    {
+      "$id": 56,
+      "label": "tev001294_MSG0040",
+      "style": 1,
+      "name": "We had Salisbury steak last night, and Secretary Nagi's\nhomemade soba noodles the night before that...[ST:wait ]"
+    },
+    {
+      "$id": 57,
+      "label": "tev001294_MSG0041",
+      "style": 1,
+      "name": "So I guess tonight could only be one thing.\nWhich is...[ST:wait ]"
+    },
+    {
+      "$id": 58,
+      "label": "tev001294_MSG0042",
+      "style": 1,
+      "name": "Whiiiiiich iiiiiiis...[ST:wait ]"
+    },
+    {
+      "$id": 59,
+      "label": "tev001294_MSG0043",
+      "style": 1,
+      "name": "What? You really don't know?[ST:wait ]"
+    },
+    {
+      "$id": 60,
+      "label": "tev001294_MSG0044",
+      "style": 1,
+      "name": "Beef stew, silly! That way we can use up all the\nleftover ground beef and noodles![ST:wait ]"
+    },
+    {
+      "$id": 61,
+      "label": "tev001294_MSG0045",
+      "style": 1,
+      "name": "Trust me, it'll be great.[ST:wait ]"
+    }
+  ]
+}

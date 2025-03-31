@@ -1,0 +1,708 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev035701_MSG0001",
+      "style": 1,
+      "name": "Greetings, Earth alien. I hope you tore apart many\nGanglion since we last spoke.[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev035701_JNK0010",
+      "style": 4,
+      "name": "Boast"
+    },
+    {
+      "$id": 3,
+      "label": "qev035701_SEL0011",
+      "style": 3,
+      "name": "Say that you lost count of how many you have killed."
+    },
+    {
+      "$id": 4,
+      "label": "qev035701_JNK0020",
+      "style": 4,
+      "name": "Chide"
+    },
+    {
+      "$id": 5,
+      "label": "qev035701_SEL0021",
+      "style": 3,
+      "name": "Lecture Slovity about her love of needless killing."
+    },
+    {
+      "$id": 6,
+      "label": "qev035701_MSG0002",
+      "style": 1,
+      "name": "That is much apart-tearing! But you are skilled warrior.\nI expect no less.[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev035701_MSG0003",
+      "style": 1,
+      "name": "My team is also on warpath. We roam Mira.\nClaim Ganglion heads at every turn.[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev035701_MSG0004",
+      "style": 1,
+      "name": "Er, this is Earth-alien humor? Joke?[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev035701_MSG0005",
+      "style": 1,
+      "name": "Bah! While you tell bad joke, my team is busy.\nWe roam Mira. Claim Ganglion heads at every turn.[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev035701_MSG0006",
+      "style": 1,
+      "name": "We achieved great victory in Cauldros.\nShame [ST:playername ] was not there to\nsee it, eh, Trigo?[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev035701_MSG0007",
+      "style": 1,
+      "name": "That was not great victory. That was suicide.\nYou charged enemy alone. Did not wait for backup.[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev035701_MSG0008",
+      "style": 1,
+      "name": "Ha ha ha! You worry like new mother!\nI would never fall to such weaklings.[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev035701_MSG0009",
+      "style": 1,
+      "name": "Enough. What of info we found on their boss?\nAre you done examining it?[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev035701_MSG0010",
+      "style": 1,
+      "name": "Yes. Many soldiers are heading to that area.\nGathering in holds and fortresses.[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev035701_MSG0011",
+      "style": 1,
+      "name": "We will plan attack. Over coming weeks, we—[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev035701_MSG0012",
+      "style": 1,
+      "name": "Bah! We have [ST:playername ].\n[ST:gender p1=He p2=She ] and I storm holds ourselves.[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev035701_MSG0013",
+      "style": 1,
+      "name": "What? Madness![ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev035701_MSG0014",
+      "style": 1,
+      "name": "Yes. I cannot wait! I have wanted to rampage\nwith this Earth alien for some time![ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev035701_MSG0015",
+      "style": 1,
+      "name": "You are both mad.[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev035701_MSG0016",
+      "style": 1,
+      "name": "If you must go, Captain, prepare first.[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev035701_MSG0017",
+      "style": 1,
+      "name": "We must strike quickly. Like wolfen.\nYou lot prepare for next battle in meantime.[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev035701_MSG0018",
+      "style": 1,
+      "name": "Come, Earth alien. We meet in front of Lotus Keep\nbuilding site.[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev035701_MSG0019",
+      "style": 1,
+      "name": "They gave us cursed gear. Controlled my team.\nInjured me. They will pay in blood![ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev035701_MSG0026",
+      "style": 1,
+      "name": "This hold will do to start.\nHave you ever stormed one?[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev035701_JNK0030",
+      "style": 4,
+      "name": "Boast"
+    },
+    {
+      "$id": 26,
+      "label": "qev035701_SEL0031",
+      "style": 3,
+      "name": "Claim that you crushed all within like bugs."
+    },
+    {
+      "$id": 27,
+      "label": "qev035701_JNK0040",
+      "style": 4,
+      "name": "Downplay"
+    },
+    {
+      "$id": 28,
+      "label": "qev035701_SEL0041",
+      "style": 3,
+      "name": "Wince and say that it was a difficult fight."
+    },
+    {
+      "$id": 29,
+      "label": "qev035701_MSG0027",
+      "style": 1,
+      "name": "Then you need no explanation from me.\nI will say only this...[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev035701_MSG0028",
+      "style": 1,
+      "name": "I would like to meet ones who challenged you.[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev035701_MSG0029",
+      "style": 1,
+      "name": "But let me offer tip on storming holds.[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev035701_MSG0030",
+      "style": 1,
+      "name": "Most Ganglion fortresses are controlled by captain\nand vice-captain.[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev035701_MSG0031",
+      "style": 1,
+      "name": "Kill both in one pass, and chain of command falls.[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev035701_MSG0032",
+      "style": 1,
+      "name": "So I have proposition for you.[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev035701_MSG0033",
+      "style": 1,
+      "name": "I kill one of them. You kill other.[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev035701_MSG0034",
+      "style": 1,
+      "name": "Whoever has fastest time wins![ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev035701_MSG0035",
+      "style": 1,
+      "name": "Heh heh! Fun, yes?\nNow we will know which of us is greater warrior.[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev035701_JNK0130",
+      "style": 4,
+      "name": "Accept"
+    },
+    {
+      "$id": 39,
+      "label": "qev035701_SEL0131",
+      "style": 3,
+      "name": "Take on Slovity's challenge."
+    },
+    {
+      "$id": 40,
+      "label": "qev035701_JNK0140",
+      "style": 4,
+      "name": "Decline"
+    },
+    {
+      "$id": 41,
+      "label": "qev035701_SEL0141",
+      "style": 3,
+      "name": "Remind Slovity that this is not a game."
+    },
+    {
+      "$id": 42,
+      "label": "qev035701_MSG0036",
+      "style": 1,
+      "name": "Spoken like true Prone.[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "qev035701_MSG0037",
+      "style": 1,
+      "name": "Now let challenge begin![ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "qev035701_MSG0038",
+      "style": 1,
+      "name": "You are crazy! Nothing more fun than battle to death\nwith deserving scum.[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "qev035701_MSG0039",
+      "style": 1,
+      "name": "Do not be kitten mewling for mother's milk.\nFight with me! Let contest begin![ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "qev035701_MSG0040",
+      "style": 1,
+      "name": "I will strike hold first. You wait there.[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "qev035701_MSG0041",
+      "style": 1,
+      "name": "Captain Slovity works fast.\nDo not blink, or you will miss show.[ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "qev035701_MSG0042",
+      "style": 1,
+      "name": "...I broke captain in two![ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "qev035701_MSG0043",
+      "style": 1,
+      "name": "He struggled longer than expected. Five minutes.\nStill not bad time![ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "qev035701_MSG0044",
+      "style": 1,
+      "name": "Can you defeat vice-captain faster? We will see.[ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "qev035701_MSG0045",
+      "style": 1,
+      "name": "Now, go! Tear him to shreds![ST:wait ]"
+    },
+    {
+      "$id": 52,
+      "label": "qev035701_MSG0046",
+      "style": 1,
+      "name": "Go! Crush leader of stronghold faster than me![ST:wait ]"
+    },
+    {
+      "$id": 53,
+      "label": "qev035701_MSG0047",
+      "style": 1,
+      "name": "You are great warrior. I expect victory.[ST:wait ]"
+    },
+    {
+      "$id": 54,
+      "label": "qev035701_MSG0048",
+      "style": 1,
+      "name": "...Back already? And vice-captain is dead?[ST:wait ]"
+    },
+    {
+      "$id": 55,
+      "label": "qev035701_JNK0050",
+      "style": 4,
+      "name": "Boast"
+    },
+    {
+      "$id": 56,
+      "label": "qev035701_SEL0051",
+      "style": 3,
+      "name": "Tell Slovity that you were bored."
+    },
+    {
+      "$id": 57,
+      "label": "qev035701_JNK0060",
+      "style": 4,
+      "name": "Complain"
+    },
+    {
+      "$id": 58,
+      "label": "qev035701_SEL0061",
+      "style": 3,
+      "name": "Say that it was hard going without Slovity's help."
+    },
+    {
+      "$id": 59,
+      "label": "qev035701_MSG0049",
+      "style": 1,
+      "name": "Heh. You beat my time.[ST:wait ]"
+    },
+    {
+      "$id": 60,
+      "label": "qev035701_MSG0050",
+      "style": 1,
+      "name": "Says one who beat my time?[ST:wait ]"
+    },
+    {
+      "$id": 61,
+      "label": "qev035701_MSG0051",
+      "style": 1,
+      "name": "You are strong. But pride never clouds your judgment.\nYou terrify me in good way.[ST:wait ]"
+    },
+    {
+      "$id": 62,
+      "label": "qev035701_MSG0052",
+      "style": 1,
+      "name": "This round is yours.[ST:wait ]"
+    },
+    {
+      "$id": 63,
+      "label": "qev035701_MSG0053",
+      "style": 1,
+      "name": "Now for rematch![ST:wait ]"
+    },
+    {
+      "$id": 64,
+      "label": "qev035701_MSG0054",
+      "style": 1,
+      "name": "This time I take second-in-command. You crush captain.[ST:wait ]"
+    },
+    {
+      "$id": 65,
+      "label": "qev035701_MSG0055",
+      "style": 1,
+      "name": "That is only fair.[ST:wait ]"
+    },
+    {
+      "$id": 66,
+      "label": "qev035701_MSG0056",
+      "style": 1,
+      "name": "I will go ahead. Begin scouting.\nYou follow. Do not keep me waiting![ST:wait ]"
+    },
+    {
+      "$id": 67,
+      "label": "qev035701_MSG0057",
+      "style": 1,
+      "name": "Ah! Here at last.[ST:wait ]"
+    },
+    {
+      "$id": 68,
+      "label": "qev035701_MSG0058",
+      "style": 1,
+      "name": "I scouted fortress. It will be tougher than last one.[ST:wait ]"
+    },
+    {
+      "$id": 69,
+      "label": "qev035701_MSG0059",
+      "style": 1,
+      "name": "All more fun! Added flavor to spice up little race.[ST:wait ]"
+    },
+    {
+      "$id": 70,
+      "label": "qev035701_JNK0070",
+      "style": 4,
+      "name": "Agree"
+    },
+    {
+      "$id": 71,
+      "label": "qev035701_SEL0071",
+      "style": 3,
+      "name": "Grin and say that you can't wait."
+    },
+    {
+      "$id": 72,
+      "label": "qev035701_JNK0080",
+      "style": 4,
+      "name": "Disagree"
+    },
+    {
+      "$id": 73,
+      "label": "qev035701_SEL0081",
+      "style": 3,
+      "name": "Mutter something about how taking lives is never fun."
+    },
+    {
+      "$id": 74,
+      "label": "qev035701_MSG0060",
+      "style": 1,
+      "name": "Then why wait? Let rampage begin![ST:wait ]"
+    },
+    {
+      "$id": 75,
+      "label": "qev035701_MSG0061",
+      "style": 1,
+      "name": "I was right to invite you along. I smelled bloodlust.[ST:wait ]"
+    },
+    {
+      "$id": 76,
+      "label": "qev035701_MSG0062",
+      "style": 1,
+      "name": "What are you talking about? And why grim face?\nDid you eat something bad?[ST:wait ]"
+    },
+    {
+      "$id": 77,
+      "label": "qev035701_MSG0063",
+      "style": 1,
+      "name": "Your opinions are odd. Yet strength is mighty.\nStill, I will have enough fun for both of us.[ST:wait ]"
+    },
+    {
+      "$id": 78,
+      "label": "qev035701_MSG0064",
+      "style": 1,
+      "name": "Now to head inside. Crush vice-captain.[ST:wait ]"
+    },
+    {
+      "$id": 79,
+      "label": "qev035701_MSG0065",
+      "style": 1,
+      "name": "I will be faster this time![ST:wait ]"
+    },
+    {
+      "$id": 80,
+      "label": "qev035701_MSG0066",
+      "style": 1,
+      "name": "Ha! This time I have you beat.[ST:wait ]"
+    },
+    {
+      "$id": 81,
+      "label": "qev035701_MSG0067",
+      "style": 1,
+      "name": "Three minutes. Top that![ST:wait ]"
+    },
+    {
+      "$id": 82,
+      "label": "qev035701_MSG0068",
+      "style": 1,
+      "name": "I'll be here. You go tear captain limb from limb.[ST:wait ]"
+    },
+    {
+      "$id": 83,
+      "label": "qev035701_MSG0069",
+      "style": 1,
+      "name": "I took only three minutes.\nEven for you, that should be challenging.[ST:wait ]"
+    },
+    {
+      "$id": 84,
+      "label": "qev035701_MSG0070",
+      "style": 1,
+      "name": "Now, go! Destroy captain![ST:wait ]"
+    },
+    {
+      "$id": 85,
+      "label": "qev035701_MSG0071",
+      "style": 1,
+      "name": "Your grin says job is done. And faster than me![ST:wait ]"
+    },
+    {
+      "$id": 86,
+      "label": "qev035701_MSG0072",
+      "style": 1,
+      "name": "Being beaten is...strange feeling. New feeling.\nThat would sting if I weren't having fun![ST:wait ]"
+    },
+    {
+      "$id": 87,
+      "label": "qev035701_MSG0073",
+      "style": 1,
+      "name": "I can take on anything with you. Topple any fortress.\nEven Cavern Clan's Scabland Fortress![ST:wait ]"
+    },
+    {
+      "$id": 88,
+      "label": "qev035701_MSG0074",
+      "style": 1,
+      "name": "I had planned to end day here...\nBut this is too much fun to stop now![ST:wait ]"
+    },
+    {
+      "$id": 89,
+      "label": "qev035701_MSG0075",
+      "style": 1,
+      "name": "One more stronghold! Let's do it![ST:wait ]"
+    },
+    {
+      "$id": 90,
+      "label": "qev035701_JNK0090",
+      "style": 4,
+      "name": "Accept"
+    },
+    {
+      "$id": 91,
+      "label": "qev035701_SEL0091",
+      "style": 3,
+      "name": "Pound your chest and flex your mighty muscles."
+    },
+    {
+      "$id": 92,
+      "label": "qev035701_JNK0100",
+      "style": 4,
+      "name": "Decline"
+    },
+    {
+      "$id": 93,
+      "label": "qev035701_SEL0101",
+      "style": 3,
+      "name": "Say that you've had enough for one day."
+    },
+    {
+      "$id": 94,
+      "label": "qev035701_MSG0076",
+      "style": 1,
+      "name": "You are best! I'll go ahead. You come after.\nDo not keep me waiting.[ST:wait ]"
+    },
+    {
+      "$id": 95,
+      "label": "qev035701_MSG0077",
+      "style": 1,
+      "name": "Hmph! I do not care.[ST:wait ]"
+    },
+    {
+      "$id": 96,
+      "label": "qev035701_MSG0078",
+      "style": 1,
+      "name": "We are doing this! I will go on ahead.\nYou come after. Do not make me wait.[ST:wait ]"
+    },
+    {
+      "$id": 97,
+      "label": "qev035701_MSG0079",
+      "style": 1,
+      "name": "Earth alien! I was just scouting hold and found treat.[ST:wait ]"
+    },
+    {
+      "$id": 98,
+      "label": "qev035701_MSG0080",
+      "style": 1,
+      "name": "It is Megisia! Woman who attacked us before![ST:wait ]"
+    },
+    {
+      "$id": 99,
+      "label": "qev035701_MSG0081",
+      "style": 1,
+      "name": "I am sure. Way of speaking. Infuriating attitude.\nAll just like voice I heard through gear![ST:wait ]"
+    },
+    {
+      "$id": 100,
+      "label": "qev035701_MSG0082",
+      "style": 1,
+      "name": "But, did you not kill her?[ST:wait ]"
+    },
+    {
+      "$id": 101,
+      "label": "qev035701_JNK0110",
+      "style": 4,
+      "name": "Deduce"
+    },
+    {
+      "$id": 102,
+      "label": "qev035701_SEL0111",
+      "style": 3,
+      "name": "Tell Slovity that Megisia's body may\nbe artificial, like a mimeosome."
+    },
+    {
+      "$id": 103,
+      "label": "qev035701_JNK0120",
+      "style": 4,
+      "name": "Scoff"
+    },
+    {
+      "$id": 104,
+      "label": "qev035701_SEL0121",
+      "style": 3,
+      "name": "Laugh and say that just means you get to kill her again."
+    },
+    {
+      "$id": 105,
+      "label": "qev035701_MSG0083",
+      "style": 1,
+      "name": "You are wise. That may be true.[ST:wait ]"
+    },
+    {
+      "$id": 106,
+      "label": "qev035701_MSG0084",
+      "style": 1,
+      "name": "So this time, we leave no scrap intact.\nThen she never comes back![ST:wait ]"
+    },
+    {
+      "$id": 107,
+      "label": "qev035701_MSG0085",
+      "style": 1,
+      "name": "This is true. Who cares about details?[ST:wait ]"
+    },
+    {
+      "$id": 108,
+      "label": "qev035701_MSG0086",
+      "style": 1,
+      "name": "This time, we destroy her utterly.\nThen she never comes back![ST:wait ]"
+    },
+    {
+      "$id": 109,
+      "label": "qev035701_MSG0087",
+      "style": 1,
+      "name": "This will be my fastest time yet.[ST:wait ]"
+    },
+    {
+      "$id": 110,
+      "label": "qev035701_MSG0088",
+      "style": 1,
+      "name": "Forgive me if I forget to leave any for you! Ha ha![ST:wait ]"
+    },
+    {
+      "$id": 111,
+      "label": "qev035701_MSG0089",
+      "style": 1,
+      "name": "So. You are [ST:playername ], then?\nA friend to this fool, Slovity?[ST:wait ]"
+    },
+    {
+      "$id": 112,
+      "label": "qev035701_MSG0090",
+      "style": 1,
+      "name": "I am the youngest sister in the Megisia series.\nMG068: Megisia, to be exact.[ST:wait ]"
+    },
+    {
+      "$id": 113,
+      "label": "qev035701_MSG0091",
+      "style": 1,
+      "name": "I'm speaking to you through that insufferable Prone\nwoman's comm device.[ST:wait ]"
+    },
+    {
+      "$id": 114,
+      "label": "qev035701_MSG0092",
+      "style": 1,
+      "name": "Do you understand what this means? ...No?\nThen let me spell it out for your little human brain.\nCome to me now, or she dies.[ST:wait ]"
+    },
+    {
+      "$id": 115,
+      "label": "qev035701_MSG0093",
+      "style": 1,
+      "name": "Do hurry, little insect. You killed my sister, after all.\nI would hate for you to be late to your own execution.[ST:wait ]"
+    }
+  ]
+}

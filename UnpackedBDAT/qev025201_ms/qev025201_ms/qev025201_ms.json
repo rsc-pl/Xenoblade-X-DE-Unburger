@@ -1,0 +1,270 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev025201_MSG0001",
+      "style": 1,
+      "name": "Oh oh! You're talking to me, yes?[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev025201_MSG0002",
+      "style": 1,
+      "name": "Does that mean you'll listen to me? Because, um,\nI've got something to say, all right?[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev025201_MSG0003",
+      "style": 1,
+      "name": "Oh, come on! Don't go dragging randoms into this![ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev025201_MSG0004",
+      "style": 1,
+      "name": "Hey, [ST:gender p1=buddy p2=lady ], don't listen to her.\nYou're better off just walking away.[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev025201_JNK0010",
+      "style": 4,
+      "name": "Listen"
+    },
+    {
+      "$id": 6,
+      "label": "qev025201_SEL0011",
+      "style": 3,
+      "name": "Hear the Ma-non out."
+    },
+    {
+      "$id": 7,
+      "label": "qev025201_JNK0020",
+      "style": 4,
+      "name": "Leave"
+    },
+    {
+      "$id": 8,
+      "label": "qev025201_SEL0021",
+      "style": 3,
+      "name": "Walk away as recommended."
+    },
+    {
+      "$id": 9,
+      "label": "qev025201_MSG0005",
+      "style": 1,
+      "name": "Oh, that's great, isn't it? Because every time strangers\nmeet there's a chance it might be fate, right?\nWe're all on the KissNet, after all.[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev025201_MSG0006",
+      "style": 1,
+      "name": "Er, KissNet? No. Met? But what's a kiss met, right?\nThat doesn't make any... Kismet?[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev025201_MSG0007",
+      "style": 1,
+      "name": "Whatever. Earth culture has many strange concepts,\ndoesn't it? But it's clear you're very kind for for for\nlistening, so let me get to it.[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev025201_MSG0008",
+      "style": 1,
+      "name": "Oh, that's too too sad, no?[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev025201_MSG0009",
+      "style": 1,
+      "name": "There must be some reason our paths crossed today,\nyes? Yes. So what harm is there in listening?[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev025201_MSG0010",
+      "style": 1,
+      "name": "Please hear me out, okay?[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev025201_MSG0011",
+      "style": 1,
+      "name": "The proprietor here won't let me in her store even\nthough I'm a paying customer, you see? All I want to\ndo is purchase some Earth-style clothes.[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev025201_MSG0012",
+      "style": 1,
+      "name": "Look, I didn't want to be rude, but you've forced me to\nput this as bluntly as I can...[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev025201_MSG0013",
+      "style": 1,
+      "name": "I've always had this...thing about reptiles, okay?\nThey totally creep me out, big time.[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev025201_MSG0014",
+      "style": 1,
+      "name": "And I just can't handle Ma-non in my shop. I'm sorry,\nand it's not personal, but it's just my deal. No offense.[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev025201_MSG0015",
+      "style": 1,
+      "name": "That's a very very sad reason. This reptile tribe of\nyours must be very terrible people, no?[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev025201_MSG0016",
+      "style": 1,
+      "name": "Please don't lump me in with your mean tribe,\nokay? In fact, if you look closely, you'll see I'm\nactually quite cute. Or adorable, even?[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev025201_MSG0017",
+      "style": 1,
+      "name": "Look look look, okay?[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev025201_MSG0018",
+      "style": 1,
+      "name": "Gaaah, stop! Get away from me![ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev025201_MSG0019",
+      "style": 1,
+      "name": "It's not just how you LOOK, okay? It's about biology!\nGerms and stuff![ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev025201_MSG0020",
+      "style": 1,
+      "name": "You could be packing all sorts of disgusting diseases\nwe never saw on Earth! ...No offense.[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev025201_MSG0021",
+      "style": 1,
+      "name": "I don't think this is getting us anywhere, is it? Hmm...[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev025201_MSG0022",
+      "style": 1,
+      "name": "Aha! I have it, yes? I will stand right here in front of\nyour shop, day and night, for for the next few days.\n...Or maybe weeks or months?[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev025201_MSG0023",
+      "style": 1,
+      "name": "That way you can see that I have no diseases which\nneed cause you concern, all right?[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev025201_MSG0024",
+      "style": 1,
+      "name": "It will also give you ample time to grow accustomed to\nmy cute face, won't it?[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev025201_MSG0025",
+      "style": 1,
+      "name": "A good solution, yes? Yes. Very very good![ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev025201_MSG0026",
+      "style": 1,
+      "name": "Ab-so-LUTELY not! No way, nuh-uh, not happening,\nnot even over my cold, stinking, swollen corpse!\n...Again, no offense.[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev025201_MSG0027",
+      "style": 1,
+      "name": "You see what I mean? She's completely unreasonable!\nCan you please help me explain to her that I just can't\ndo what she's asking?[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev025201_MSG0028",
+      "style": 1,
+      "name": "I can't be the only one dealing with this kind of thing,\nso maybe we could get a legal ruling.[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev025201_MSG0029",
+      "style": 1,
+      "name": "If I could show her a formal decision from the\ngovernment, she might actually listen.[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev025201_MSG0030",
+      "style": 1,
+      "name": "Oh! I would like this as well, yes?[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev025201_MSG0031",
+      "style": 1,
+      "name": "If your government grants Ma-non the right to shop,\nI'll be able to pick up cute clothing wherever I like,\nwon't I?[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev025201_MSG0032",
+      "style": 1,
+      "name": "So I also hope you look into this, all right?[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev025201_MSG0033",
+      "style": 1,
+      "name": "I'll just be here with my face squished up against the\nstore window until you return. Er, this is a common\npractice, isn't it?[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev025201_MSG0034",
+      "style": 1,
+      "name": "Please ask the government to hurry with their decision.\nI'm going to be a nervous wreck until she clears out.[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "qev025201_MSG0101",
+      "style": 1,
+      "name": "Earth clothing is very very interesting, no?[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "qev025201_MSG0102",
+      "style": 1,
+      "name": "I look forward to buying much once you have spoken\nto your government agents.[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "qev025201_MSG0201",
+      "style": 1,
+      "name": "The government said it wished to be friends with my\nkind, yes?[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "qev025201_MSG0202",
+      "style": 1,
+      "name": "Then I hope Alesa can soon be convinced to allow me\nin to to to buy her lovely clothing?[ST:wait ]"
+    }
+  ]
+}

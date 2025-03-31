@@ -1,0 +1,486 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev000401_MSG0001",
+      "style": 1,
+      "name": "Let's see... What mission requires my talents now?[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev000401_MSG0002",
+      "style": 1,
+      "name": "Hm? Who are you, and why are you speaking to me?[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev000401_MSG0003",
+      "style": 1,
+      "name": "You have gumption, I'll give you that. For I rank\namong the elite-est of the elite, and few possess the\ntemerity to address a BLADE of my stature.[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev000401_MSG1001",
+      "style": 1,
+      "name": "I can only assume that you're engaged in a mission\nthat requires assistance from a BLADE of my caliber,\nand have turned to me in a desperate plea for aid.[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev000401_MSG1002",
+      "style": 1,
+      "name": "I should be outraged, but your brazenness intrigues me.\nYou would have me accompany you, yes?[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "tev000401_JNK0010",
+      "style": 4,
+      "name": "Agree"
+    },
+    {
+      "$id": 7,
+      "label": "tev000401_SEL0011",
+      "style": 3,
+      "name": "Add H.B. to your team."
+    },
+    {
+      "$id": 8,
+      "label": "tev000401_JNK0020",
+      "style": 4,
+      "name": "Refuse"
+    },
+    {
+      "$id": 9,
+      "label": "tev000401_SEL0021",
+      "style": 3,
+      "name": "Decline H.B.'s offer for now."
+    },
+    {
+      "$id": 10,
+      "label": "tev000401_MSG1003",
+      "style": 1,
+      "name": "Then let us be off! I am sure you are eager to witness\nmy elite talents firsthand, and I would hate to keep\nyou in suspense.[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev000401_MSG1004",
+      "style": 1,
+      "name": "...I'm sorry? Did you just decline my assistance?\nWho exactly do you think you are?[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "tev000401_MSG1009",
+      "style": 1,
+      "name": "You're the one investigating the potential Lifehold site,\nare you not?[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "tev000401_MSG1010",
+      "style": 1,
+      "name": "Now THAT is a mission worthy of my talents!\nYou need only to ask, and they shall be yours.\n...Er, you ARE going to ask, right?[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "tev000401_JNK0030",
+      "style": 4,
+      "name": "Agree"
+    },
+    {
+      "$id": 15,
+      "label": "tev000401_SEL0031",
+      "style": 3,
+      "name": "Add H.B. to your team."
+    },
+    {
+      "$id": 16,
+      "label": "tev000401_JNK0040",
+      "style": 4,
+      "name": "Refuse"
+    },
+    {
+      "$id": 17,
+      "label": "tev000401_SEL0041",
+      "style": 3,
+      "name": "Decline H.B.'s request for now."
+    },
+    {
+      "$id": 18,
+      "label": "tev000401_MSG1011",
+      "style": 1,
+      "name": "Then a successful outcome is all but assured!\nBut do refrain from celebrating our victory until\nthe job is done—it's considered poor form.[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "tev000401_MSG1012",
+      "style": 1,
+      "name": "...I'm sorry? Did you just decline my assistance?\nWho exactly do you think you are?[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "tev000401_MSG1017",
+      "style": 1,
+      "name": "With my talents on your team, the likes of the Ganglion\nare hardly a threat at all. Mere puppies, in fact.[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "tev000401_MSG1018",
+      "style": 1,
+      "name": "Let us depart for Oblivia together, so that I may ensure\nyour mission ends as a rousing success.[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "tev000401_JNK0050",
+      "style": 4,
+      "name": "Agree"
+    },
+    {
+      "$id": 23,
+      "label": "tev000401_SEL0051",
+      "style": 3,
+      "name": "Add H.B. to your team."
+    },
+    {
+      "$id": 24,
+      "label": "tev000401_JNK0060",
+      "style": 4,
+      "name": "Refuse"
+    },
+    {
+      "$id": 25,
+      "label": "tev000401_SEL0061",
+      "style": 3,
+      "name": "Decline H.B.'s request for now."
+    },
+    {
+      "$id": 26,
+      "label": "tev000401_MSG1019",
+      "style": 1,
+      "name": "Let the Ganglion taste the might of the elite-est elites![ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "tev000401_MSG1020",
+      "style": 1,
+      "name": "...I'm sorry? Did you just decline my assistance?\nWho exactly do you think you are?[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "tev000401_MSG1025",
+      "style": 1,
+      "name": "It appears that your team has already been assigned\nfor this mission.[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "tev000401_MSG1026",
+      "style": 1,
+      "name": "Just try not to embarrass yourself out there.\nAs my rival, I have certain expectations of you.[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "tev000401_MSG1031",
+      "style": 1,
+      "name": "An entire army of Ganglion? Is that supposed to\nfrighten me? Well, it does not! For there is no life that\nHector Birtwhistle cannot save.[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "tev000401_MSG1032",
+      "style": 1,
+      "name": "I trust you'll want me to accompany you to Oblivia?[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "tev000401_JNK0070",
+      "style": 4,
+      "name": "Agree"
+    },
+    {
+      "$id": 33,
+      "label": "tev000401_SEL0071",
+      "style": 3,
+      "name": "Add H.B. to your team."
+    },
+    {
+      "$id": 34,
+      "label": "tev000401_JNK0080",
+      "style": 4,
+      "name": "Refuse"
+    },
+    {
+      "$id": 35,
+      "label": "tev000401_SEL0081",
+      "style": 3,
+      "name": "Decline H.B.'s request for now."
+    },
+    {
+      "$id": 36,
+      "label": "tev000401_MSG1033",
+      "style": 1,
+      "name": "Let the Ganglion taste the might of the elite-est elites![ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "tev000401_MSG1034",
+      "style": 1,
+      "name": "...I'm sorry? Did you just decline my assistance?\nWho exactly do you think you are?[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "tev000401_MSG1039",
+      "style": 1,
+      "name": "Sylvalum is home to many of the Ganglion's most\nelite warriors.[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "tev000401_MSG1040",
+      "style": 1,
+      "name": "I certainly hope you aren't considering doing something\nfoolish, such as going there without me to protect you.\nNo, that will not do. You must take me along![ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "tev000401_JNK0090",
+      "style": 4,
+      "name": "Agree"
+    },
+    {
+      "$id": 41,
+      "label": "tev000401_SEL0091",
+      "style": 3,
+      "name": "Add H.B. to your team."
+    },
+    {
+      "$id": 42,
+      "label": "tev000401_JNK0100",
+      "style": 4,
+      "name": "Refuse"
+    },
+    {
+      "$id": 43,
+      "label": "tev000401_SEL0101",
+      "style": 3,
+      "name": "Decline H.B.'s request for now."
+    },
+    {
+      "$id": 44,
+      "label": "tev000401_MSG1041",
+      "style": 1,
+      "name": "Let the Ganglion taste the might of the elite-est elites![ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "tev000401_MSG1042",
+      "style": 1,
+      "name": "...I'm sorry? Did you just decline my assistance?\nWho exactly do you think you are?[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "tev000401_MSG1047",
+      "style": 1,
+      "name": "A data probe is in need of repair? That sounds like a\njob for an elite Pathfinder such as myself![ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "tev000401_MSG1048",
+      "style": 1,
+      "name": "Wisely accept my assistance, and your mission is all\nbut guaranteed to end in a flawless triumph. Confetti!\nParades! All of this can be yours![ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "tev000401_JNK0110",
+      "style": 4,
+      "name": "Agree"
+    },
+    {
+      "$id": 49,
+      "label": "tev000401_SEL0111",
+      "style": 3,
+      "name": "Add H.B. to your team."
+    },
+    {
+      "$id": 50,
+      "label": "tev000401_JNK0120",
+      "style": 4,
+      "name": "Refuse"
+    },
+    {
+      "$id": 51,
+      "label": "tev000401_SEL0121",
+      "style": 3,
+      "name": "Decline H.B.'s request for now."
+    },
+    {
+      "$id": 52,
+      "label": "tev000401_MSG1049",
+      "style": 1,
+      "name": "Then we shall journey together until the day the\nLifehold Core is found. Excelsior![ST:wait ]"
+    },
+    {
+      "$id": 53,
+      "label": "tev000401_MSG1050",
+      "style": 1,
+      "name": "...I'm sorry? Did you just decline my assistance?\nWho exactly do you think you are?[ST:wait ]"
+    },
+    {
+      "$id": 54,
+      "label": "tev000401_MSG1051",
+      "style": 1,
+      "name": "As a fellow Pathfinder, I have a duty to put a stop to\nLao's transgressions.[ST:wait ]"
+    },
+    {
+      "$id": 55,
+      "label": "tev000401_MSG1052",
+      "style": 1,
+      "name": "You must take me to Lao![ST:wait ]"
+    },
+    {
+      "$id": 56,
+      "label": "tev000401_JNK0130",
+      "style": 4,
+      "name": "Agree"
+    },
+    {
+      "$id": 57,
+      "label": "tev000401_SEL0131",
+      "style": 3,
+      "name": "Add H.B. to your team."
+    },
+    {
+      "$id": 58,
+      "label": "tev000401_JNK0140",
+      "style": 4,
+      "name": "Refuse"
+    },
+    {
+      "$id": 59,
+      "label": "tev000401_SEL0141",
+      "style": 3,
+      "name": "Decline H.B.'s request for now."
+    },
+    {
+      "$id": 60,
+      "label": "tev000401_MSG1053",
+      "style": 1,
+      "name": "I will make clear to him which of us is the finest man\nin all the Pathfinders.[ST:wait ]"
+    },
+    {
+      "$id": 61,
+      "label": "tev000401_MSG1054",
+      "style": 1,
+      "name": "Then it seems I must entrust my duty to you.\nPromise me that you will find a way to stop him.[ST:wait ]"
+    },
+    {
+      "$id": 62,
+      "label": "tev000401_MSG1059",
+      "style": 1,
+      "name": "And now we come to our last and most important\nmission—securing the Lifehold Core.[ST:wait ]"
+    },
+    {
+      "$id": 63,
+      "label": "tev000401_MSG1060",
+      "style": 1,
+      "name": "And who better to serve as your co-star in the war's\nfinal act, mmm?[ST:wait ]"
+    },
+    {
+      "$id": 64,
+      "label": "tev000401_JNK0150",
+      "style": 4,
+      "name": "Agree"
+    },
+    {
+      "$id": 65,
+      "label": "tev000401_SEL0151",
+      "style": 3,
+      "name": "Add H.B. to your team."
+    },
+    {
+      "$id": 66,
+      "label": "tev000401_JNK0160",
+      "style": 4,
+      "name": "Refuse"
+    },
+    {
+      "$id": 67,
+      "label": "tev000401_SEL0161",
+      "style": 3,
+      "name": "Decline H.B.'s request for now."
+    },
+    {
+      "$id": 68,
+      "label": "tev000401_MSG1061",
+      "style": 1,
+      "name": "Then let us show the rest of BLADE what it means\nto be elite![ST:wait ]"
+    },
+    {
+      "$id": 69,
+      "label": "tev000401_MSG1062",
+      "style": 1,
+      "name": "...I'm sorry? Did you just decline my assistance?\nWho exactly do you think you are?[ST:wait ]"
+    },
+    {
+      "$id": 70,
+      "label": "tev000401_MSG1067",
+      "style": 1,
+      "name": "One day, they will build the Hector Birtwhistle Memorial\nCenter on this vacant land.[ST:wait ]"
+    },
+    {
+      "$id": 71,
+      "label": "tev000401_MSG1068",
+      "style": 1,
+      "name": "And in order to fill its many wings, there are still more\nmissions I must complete, and more plaudits I must win.[ST:wait ]"
+    },
+    {
+      "$id": 72,
+      "label": "tev000401_MSG1069",
+      "style": 1,
+      "name": "Please, you must take me with you! The more you help\nme achieve, the more likely you'll be honored with a\nplaque. Or perhaps a small statue near the restrooms.[ST:wait ]"
+    },
+    {
+      "$id": 73,
+      "label": "tev000401_JNK0170",
+      "style": 4,
+      "name": "Agree"
+    },
+    {
+      "$id": 74,
+      "label": "tev000401_SEL0171",
+      "style": 3,
+      "name": "Add H.B. to your team."
+    },
+    {
+      "$id": 75,
+      "label": "tev000401_JNK0180",
+      "style": 4,
+      "name": "Refuse"
+    },
+    {
+      "$id": 76,
+      "label": "tev000401_SEL0181",
+      "style": 3,
+      "name": "Decline H.B.'s request for now."
+    },
+    {
+      "$id": 77,
+      "label": "tev000401_MSG1070",
+      "style": 1,
+      "name": "Entrust to me whatever duties you wish.\nThere is no problem that I cannot solve.[ST:wait ]"
+    },
+    {
+      "$id": 78,
+      "label": "tev000401_MSG1071",
+      "style": 1,
+      "name": "...I'm sorry? Did you just decline my assistance?\nWho exactly do you think you are?[ST:wait ]"
+    }
+  ]
+}

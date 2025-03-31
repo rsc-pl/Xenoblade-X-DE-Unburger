@@ -1,0 +1,546 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev056101_MSG0001",
+      "style": 1,
+      "name": "Ah, [ST:playername ]!\nI have been looking for you.[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev056101_MSG0002",
+      "style": 1,
+      "name": "I have need once more for the strength that freed us\nfrom the Ganglion and led us to safety.[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev056101_MSG0003",
+      "style": 1,
+      "name": "Before explaining any further, allow me to ask how\nfamiliar you are with the recent anomaly within the\nOrphean population.[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev056101_MSG0004",
+      "style": 1,
+      "name": "The division of one of my people produced a mutation.\nDo you know of this beta phenotype or \"betaform\"?[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev056101_JNK0010",
+      "style": 4,
+      "name": "Inquire"
+    },
+    {
+      "$id": 6,
+      "label": "qev056101_SEL0011",
+      "style": 3,
+      "name": "Ask to hear more about it."
+    },
+    {
+      "$id": 7,
+      "label": "qev056101_JNK0020",
+      "style": 4,
+      "name": "Confirm"
+    },
+    {
+      "$id": 8,
+      "label": "qev056101_SEL0021",
+      "style": 3,
+      "name": "Make sure that On'tonam means the red Orphean."
+    },
+    {
+      "$id": 9,
+      "label": "qev056101_MSG0005",
+      "style": 1,
+      "name": "They bear a striking red coloration, and have only\nbegun to appear since we took asylum in New LA.[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev056101_MSG0006",
+      "style": 1,
+      "name": "In addition to various morphological differences,\ntheir psychology is unlike that of other Orpheans.[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev056101_MSG0007",
+      "style": 1,
+      "name": "So you have already made contact?[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev056101_MSG0008",
+      "style": 1,
+      "name": "Then you have witnessed firsthand how different their\npsychology is from that of conventional Orpheans.[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev056101_MSG0009",
+      "style": 1,
+      "name": "They are illogical and extremely curious.\nAlmost humanlike, in that regard.[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev056101_MSG0010",
+      "style": 1,
+      "name": "Recently, these betaforms have begun to argue\nthat the Orphe should shut out the voice of their\nOvah and live according to their own free will.[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev056101_MSG0011",
+      "style": 1,
+      "name": "It has escalated to the point where they speak of an\nanti-Ovah revolution.[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev056101_MSG0012",
+      "style": 1,
+      "name": "They clashed with my own group, then departed for\nNoctilum after an extensive series of debates.[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev056101_MSG0013",
+      "style": 1,
+      "name": "As you know, that forest is rife with danger.\nIt is hardly a place where Orpheans could survive\nwithout protection.[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev056101_MSG0014",
+      "style": 1,
+      "name": "I would like you to find them and return them to the\nsafety of the city—by force if necessary.[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev056101_JNK0110",
+      "style": 4,
+      "name": "Decline"
+    },
+    {
+      "$id": 20,
+      "label": "qev056101_SEL0111",
+      "style": 3,
+      "name": "Say that the Orphe should resolve this split internally."
+    },
+    {
+      "$id": 21,
+      "label": "qev056101_JNK0120",
+      "style": 4,
+      "name": "Query"
+    },
+    {
+      "$id": 22,
+      "label": "qev056101_SEL0121",
+      "style": 3,
+      "name": "Ask to hear more about this new faction."
+    },
+    {
+      "$id": 23,
+      "label": "qev056101_JNK0130",
+      "style": 4,
+      "name": "Suggest"
+    },
+    {
+      "$id": 24,
+      "label": "qev056101_SEL0131",
+      "style": 3,
+      "name": "Tell On'tonam that his group should respect\nthe choice of the other Orpheans."
+    },
+    {
+      "$id": 25,
+      "label": "qev056101_MSG0015",
+      "style": 1,
+      "name": "I lack the strength to perform this task myself.[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev056101_MSG0016",
+      "style": 1,
+      "name": "And even if I were able to locate them, Run'tonam—\nthe anti-Ovah revolution movement's leader—would\nlikely refuse to hear anything I said.[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev056101_MSG0017",
+      "style": 1,
+      "name": "We exchanged countless words over the course of our\ndebates, but in the end my side was unable to correct\nher thinking.[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev056101_MSG0018",
+      "style": 1,
+      "name": "But a human like you should be able to speak with\nthem more easily.[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev056101_MSG0019",
+      "style": 1,
+      "name": "Their leader, Run'tonam, calls for an end to obedience\nto the Ovah.[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev056101_MSG0020",
+      "style": 1,
+      "name": "Instead, she favors reliance on free will,\nakin to the way you humans live.[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev056101_MSG0021",
+      "style": 1,
+      "name": "We argued the point during countless debates,\nbut in the end I failed to correct her bizarre thinking.[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev056101_MSG0022",
+      "style": 1,
+      "name": "But a human like you should be able to speak with\nthem more easily.[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev056101_MSG0023",
+      "style": 1,
+      "name": "You and Run'tonam think alike—she is the leader of the\nanti-Ovah revolutionary movement.[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev056101_MSG0024",
+      "style": 1,
+      "name": "But the fact remains that they will most certainly die out\nthere if left alone.[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev056101_MSG0025",
+      "style": 1,
+      "name": "Their thinking may be almost human,\nbut their physiology remains that of the frail Orphe.[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev056101_MSG0026",
+      "style": 1,
+      "name": "Can I depend on you to find Run'tonam and the others\nwho left with her?[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev056101_MSG0027",
+      "style": 1,
+      "name": "Run'tonam left with Mun'luarb, Man'celeg,\nand Rin'luarb.[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev056101_MSG0028",
+      "style": 1,
+      "name": "By our calculations, the probability of them surviving in\nNoctilum unassisted is zero.[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "qev056101_MSG0029",
+      "style": 1,
+      "name": "But you humans have defied our calculations on several\ninstances in the past.[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "qev056101_MSG0030",
+      "style": 1,
+      "name": "I ask that you put that unpredictable and inscrutable\nability of yours to use again and keep my fellow\nOrpheans safe.[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "qev056101_MSG0031",
+      "style": 1,
+      "name": "Run'tonam believes something of vital importance to us\nOrphe exists in the depths of Noctilum.[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "qev056101_MSG0032",
+      "style": 1,
+      "name": "It is a fool's delusion.[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "qev056101_MSG0033",
+      "style": 1,
+      "name": "Our Ovah clearly states that we are not to approach\nthe woods in that region again.[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "qev056101_MSG0034",
+      "style": 1,
+      "name": "Please find them and bring them back safely.[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "qev056101_MSG0035",
+      "style": 1,
+      "name": "What is this...? My Ovah seethes![ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "qev056101_MSG0036",
+      "style": 1,
+      "name": "What has happened?\nWhere are Run'tonam and the others?[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "qev056101_JNK0210",
+      "style": 4,
+      "name": "Report"
+    },
+    {
+      "$id": 48,
+      "label": "qev056101_SEL0211",
+      "style": 3,
+      "name": "Tell On'tonam that they were eaten by indigens."
+    },
+    {
+      "$id": 49,
+      "label": "qev056101_JNK0220",
+      "style": 4,
+      "name": "Relay"
+    },
+    {
+      "$id": 50,
+      "label": "qev056101_SEL0221",
+      "style": 3,
+      "name": "Deliver Run'tonam's message."
+    },
+    {
+      "$id": 51,
+      "label": "qev056101_MSG0037",
+      "style": 1,
+      "name": "That is the fate of those who would deny the Ovah...[ST:wait ]"
+    },
+    {
+      "$id": 52,
+      "label": "qev056101_MSG0038",
+      "style": 1,
+      "name": "Expanding our numbers to secure a future for the\nOrphe on Mira is our first priority. We should have\nbeen united in that.[ST:wait ]"
+    },
+    {
+      "$id": 53,
+      "label": "qev056101_MSG0039",
+      "style": 1,
+      "name": "...Devoured by a beast? And yet her last words were\nthat we must learn to master our Ovah?[ST:wait ]"
+    },
+    {
+      "$id": 54,
+      "label": "qev056101_MSG0040",
+      "style": 1,
+      "name": "Ridiculous! The Ovah is ever with us, and we with it.[ST:wait ]"
+    },
+    {
+      "$id": 55,
+      "label": "qev056101_MSG0041",
+      "style": 1,
+      "name": "To betray that is to negate any meaning to our\nexistence here.[ST:wait ]"
+    },
+    {
+      "$id": 56,
+      "label": "qev056101_MSG0042",
+      "style": 1,
+      "name": "This should at least show any other anti-Ovah\nsupporters the folly of their stance.[ST:wait ]"
+    },
+    {
+      "$id": 57,
+      "label": "qev056101_MSG0043",
+      "style": 1,
+      "name": "These deaths are stark evidence that we cannot live\nwithout the guidance of the Ovah.[ST:wait ]"
+    },
+    {
+      "$id": 58,
+      "label": "qev056101_MSG0044",
+      "style": 1,
+      "name": "The loss of Run'tonam and the others pains me,\nbut I hope this will bring the Orphe together again.[ST:wait ]"
+    },
+    {
+      "$id": 59,
+      "label": "qev056101_MSG0045",
+      "style": 1,
+      "name": "I plan to take an active role in guiding new divisions\nso that this tragedy is not repeated.[ST:wait ]"
+    },
+    {
+      "$id": 60,
+      "label": "qev056101_MSG0046",
+      "style": 1,
+      "name": "In the meantime, you have completed the task I asked\nof you. Please accept your reward.[ST:wait ]"
+    },
+    {
+      "$id": 61,
+      "label": "qev056101_MSG0047",
+      "style": 1,
+      "name": "What is this...? My Ovah seethes![ST:wait ]"
+    },
+    {
+      "$id": 62,
+      "label": "qev056101_MSG0048",
+      "style": 1,
+      "name": "What has happened?\nWhere are Run'tonam and the others?[ST:wait ]"
+    },
+    {
+      "$id": 63,
+      "label": "qev056101_MSG0049",
+      "style": 1,
+      "name": "This... Is this truly her right hand?\nThen she was eaten...[ST:wait ]"
+    },
+    {
+      "$id": 64,
+      "label": "qev056101_MSG0050",
+      "style": 1,
+      "name": "......[ST:wait ]"
+    },
+    {
+      "$id": 65,
+      "label": "qev056101_MSG0051",
+      "style": 1,
+      "name": "Hmm... It seems I can still sense the Ovah that once\nflowed within her.[ST:wait ]"
+    },
+    {
+      "$id": 66,
+      "label": "qev056101_MSG0052",
+      "style": 1,
+      "name": "Only...[ST:wait ]"
+    },
+    {
+      "$id": 67,
+      "label": "qev056101_MSG0053",
+      "style": 1,
+      "name": "No! It cannot be![ST:wait ]"
+    },
+    {
+      "$id": 68,
+      "label": "qev056101_MSG0054",
+      "style": 1,
+      "name": "Is this the world seen by the Ovah before they came to\nreside within the Orphe?[ST:wait ]"
+    },
+    {
+      "$id": 69,
+      "label": "qev056101_MSG0055",
+      "style": 1,
+      "name": "We had already encountered that terrible beast,\neven then?[ST:wait ]"
+    },
+    {
+      "$id": 70,
+      "label": "qev056101_JNK0310",
+      "style": 4,
+      "name": "Query"
+    },
+    {
+      "$id": 71,
+      "label": "qev056101_SEL0311",
+      "style": 3,
+      "name": "Ask On'tonam what he saw."
+    },
+    {
+      "$id": 72,
+      "label": "qev056101_JNK0320",
+      "style": 4,
+      "name": "Relay"
+    },
+    {
+      "$id": 73,
+      "label": "qev056101_SEL0321",
+      "style": 3,
+      "name": "Deliver Run'tonam's message."
+    },
+    {
+      "$id": 74,
+      "label": "qev056101_MSG0056",
+      "style": 1,
+      "name": "It was...a memory. From a time before the Orphe\nevolved and appeared on the stage of history.[ST:wait ]"
+    },
+    {
+      "$id": 75,
+      "label": "qev056101_MSG0057",
+      "style": 1,
+      "name": "A memory from an age when the Ovah existed as a\nsingle entity floating in the ocean of another world.[ST:wait ]"
+    },
+    {
+      "$id": 76,
+      "label": "qev056101_MSG0058",
+      "style": 1,
+      "name": "It was not a clear or cohesive vision...[ST:wait ]"
+    },
+    {
+      "$id": 77,
+      "label": "qev056101_MSG0059",
+      "style": 1,
+      "name": "But the creature you slew was there as well,\nliving within a different ecology.[ST:wait ]"
+    },
+    {
+      "$id": 78,
+      "label": "qev056101_MSG0060",
+      "style": 1,
+      "name": "I do not know what this memory means.[ST:wait ]"
+    },
+    {
+      "$id": 79,
+      "label": "qev056101_MSG0061",
+      "style": 1,
+      "name": "But it is a glimpse of some deeper truth which\nRun'tonam gave her life to uncover.[ST:wait ]"
+    },
+    {
+      "$id": 80,
+      "label": "qev056101_MSG0062",
+      "style": 1,
+      "name": "We must change...[ST:wait ]"
+    },
+    {
+      "$id": 81,
+      "label": "qev056101_MSG0063",
+      "style": 1,
+      "name": "I feel as if I can understand what she meant by that,\nnow that I have touched her Ovah.[ST:wait ]"
+    },
+    {
+      "$id": 82,
+      "label": "qev056101_MSG0064",
+      "style": 1,
+      "name": "I was unable to comprehend the thinking of those that\nrejected the Ovah.[ST:wait ]"
+    },
+    {
+      "$id": 83,
+      "label": "qev056101_MSG0065",
+      "style": 1,
+      "name": "But this planet holds many mysteries that cannot be\nexplained with the information we have now.\nThat beast is a fine example.[ST:wait ]"
+    },
+    {
+      "$id": 84,
+      "label": "qev056101_MSG0066",
+      "style": 1,
+      "name": "If we hope to preserve the Orphe as a race on Mira,\nit will take a more advanced form of reasoning than\neven the will of the Ovah can provide.[ST:wait ]"
+    },
+    {
+      "$id": 85,
+      "label": "qev056101_MSG0067",
+      "style": 1,
+      "name": "I will take both Run'tonam's words and her life into me.[ST:wait ]"
+    },
+    {
+      "$id": 86,
+      "label": "qev056101_MSG0068",
+      "style": 1,
+      "name": "From now on, I will seek out a new path forward as\nshe did.[ST:wait ]"
+    },
+    {
+      "$id": 87,
+      "label": "qev056101_MSG0069",
+      "style": 1,
+      "name": "Thank you for bringing her will back to me.\nI am truly grateful.[ST:wait ]"
+    },
+    {
+      "$id": 88,
+      "label": "qev056101_MSG0070",
+      "style": 1,
+      "name": "You have helped me change my entire perspective.\nI now feel ready to speak to the anti-Ovah revolutionists\nwith a flexible and open mind.[ST:wait ]"
+    }
+  ]
+}

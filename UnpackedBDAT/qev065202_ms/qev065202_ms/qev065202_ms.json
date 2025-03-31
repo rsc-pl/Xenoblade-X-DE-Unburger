@@ -1,0 +1,288 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev065202_MSG0003",
+      "style": 1,
+      "name": "Mmm? You want to know the access code?\nWell, I'll give it to you under one condition...[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev065202_MSG0004",
+      "style": 1,
+      "name": "Kill that traitor and return me to my daughters!\nDo this and I will tell you all you wish to know.[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev065202_JNK0010",
+      "style": 4,
+      "name": "Threaten"
+    },
+    {
+      "$id": 4,
+      "label": "qev065202_SEL0011",
+      "style": 3,
+      "name": "Tell Fortun that she'll be the one\nwho dies unless she talks."
+    },
+    {
+      "$id": 5,
+      "label": "qev065202_JNK0020",
+      "style": 4,
+      "name": "Ignore"
+    },
+    {
+      "$id": 6,
+      "label": "qev065202_SEL0021",
+      "style": 3,
+      "name": "Pay no mind to Fortun's obvious taunts."
+    },
+    {
+      "$id": 7,
+      "label": "qev065202_MSG0005",
+      "style": 1,
+      "name": "If you wish to kill me, then cease blabbing and do it.\nMy daughters already carry my will within them.[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev065202_MSG0006",
+      "style": 1,
+      "name": "I may cease to exist as an entity, but my ambitions\nwill remain. I will be the victor in the end.[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev065202_MSG0007",
+      "style": 1,
+      "name": "Ignore Mother's words. She's only trying to take control\nof the conversation.[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev065202_MSG0008",
+      "style": 1,
+      "name": "So be it. In time you will die alongside that traitor.[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev065202_MSG0009",
+      "style": 1,
+      "name": "I have all your data, [ST:playername ].\nThere is no hiding place that can keep you safe.[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev065202_MSG0010",
+      "style": 1,
+      "name": "Ignore Mother's words. Once she no longer has my\nsisters to command, she'll be powerless to act on any\nthreats.[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev065202_MSG0011",
+      "style": 1,
+      "name": "More importantly, I've figured out the encryption system.[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev065202_MSG0012",
+      "style": 1,
+      "name": "Her pompous AI itself is what's protecting that data.[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev065202_MSG0013",
+      "style": 1,
+      "name": "So if we can find a way to erase her personality,\nwe'll have our access code.[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev065202_MSG0014",
+      "style": 1,
+      "name": "Fiend! Would you really kill your own mother?\nCould you weak-willed Definians survive my loss?[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev065202_MSG0015",
+      "style": 1,
+      "name": "I'm not afraid to find out.[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev065202_MSG0016",
+      "style": 1,
+      "name": "Ha! Empty bravado. You Definians NEED me!\n...But enough talk. If you're capable of ending me,\nthen do it.[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev065202_MSG0017",
+      "style": 1,
+      "name": "Rrrgh... Hey, [ST:playername ]?\nWhat do you think I should do?[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev065202_MSG0018",
+      "style": 1,
+      "name": "Should we kill her, or look for some other way?[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev065202_JNK0030",
+      "style": 4,
+      "name": "Suggest Killing"
+    },
+    {
+      "$id": 22,
+      "label": "qev065202_SEL0031",
+      "style": 3,
+      "name": "Tell Erio to end Fortun."
+    },
+    {
+      "$id": 23,
+      "label": "qev065202_JNK0040",
+      "style": 4,
+      "name": "Suggest Mercy"
+    },
+    {
+      "$id": 24,
+      "label": "qev065202_SEL0041",
+      "style": 3,
+      "name": "Tell Erio to find another way."
+    },
+    {
+      "$id": 25,
+      "label": "qev065202_MSG0019",
+      "style": 1,
+      "name": "I see... N-no, you're right. I'll do it.[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev065202_MSG0020",
+      "style": 1,
+      "name": "My my my. This certainly IS a surprise!\nI never thought one of my daughters would dare\nbuck my control.[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev065202_MSG0021",
+      "style": 1,
+      "name": "Was it contact with humans that brought this about?\nIs this the power the Ganglion so fear?[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev065202_MSG0022",
+      "style": 1,
+      "name": "Well then, I suppose any further struggle is futile.\nEnd my life with your own hands, my daughter.[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev065202_MSG0023",
+      "style": 1,
+      "name": "This may be a strange thing to say, Mother, but...\nThank you for all you've done for us.[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev065202_MSG0066",
+      "style": 1,
+      "name": "Ah...AAAAAAaaaaah![ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev065202_MSG0024",
+      "style": 1,
+      "name": "...I have the code. And Mother is gone.[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev065202_MSG0025",
+      "style": 1,
+      "name": "Now if we can just take down the three sisters passing\non Mother's will to the others, the organization driving\nthem all to crime will crumble.[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev065202_MSG0026",
+      "style": 1,
+      "name": "Their base is in Cauldros.[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev065202_MSG0027",
+      "style": 1,
+      "name": "Oh, and I know their combat abilities are far beyond\nmy own, so be ready for a tough fight.[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev065202_MSG0028",
+      "style": 1,
+      "name": "But what? I don't know how to get past her encryption.[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev065202_MSG0029",
+      "style": 1,
+      "name": "It would take a scientist with almost supernatural\nknowledge. Are we really going to find someone like\nthat here in New LA?[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev065202_MSG0030",
+      "style": 1,
+      "name": "Ha ha! I knew Erio couldn't do it![ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev065202_MSG0031",
+      "style": 1,
+      "name": "The Definians are mine, now and forevermore!\nIn time, my daughters will also end your sad existence.[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "qev065202_MSG0032",
+      "style": 1,
+      "name": "As if you primitives could alter my noble system.[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "qev065202_MSG0033",
+      "style": 1,
+      "name": "Be advised that I will kill the lot of you in time...\nIncluding that animal![ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "qev065202_MSG0034",
+      "style": 1,
+      "name": "Hmph! Emeroa and her sisters are incapable of losing\nto your ilk. Enjoy walking into the open arms of death![ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "qev065202_MSG0035",
+      "style": 1,
+      "name": "Wh-what? Emeroa is...dead? Then my subjects are...[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "qev065202_MSG0036",
+      "style": 1,
+      "name": "......[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "qev065202_MSG0037",
+      "style": 1,
+      "name": "Hmm. Now that I take a closer look, you have a noble\nair about you, [ST:playername ]. I confess\nthat I have secretly admired you for some time now.[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "qev065202_MSG0038",
+      "style": 1,
+      "name": "I would like nothing more than to be of service to\nsomeone of your regal stature. If there is any way at\nall I can be of assistance, please do let me know![ST:wait ]"
+    }
+  ]
+}

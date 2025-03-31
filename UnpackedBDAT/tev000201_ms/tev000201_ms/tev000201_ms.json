@@ -1,0 +1,528 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev000201_MSG0001",
+      "style": 1,
+      "name": "We would like to open up a shop here,\nbut traveling with you sounds like additional fun.[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev000201_MSG0002",
+      "style": 1,
+      "name": "What do you say, my friend?\nWill you help us quench our thirsty knowledge?[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev000201_JNK0010",
+      "style": 4,
+      "name": "Agree"
+    },
+    {
+      "$id": 4,
+      "label": "tev000201_SEL0011",
+      "style": 3,
+      "name": "Add L to your team."
+    },
+    {
+      "$id": 5,
+      "label": "tev000201_JNK0020",
+      "style": 4,
+      "name": "Refuse"
+    },
+    {
+      "$id": 6,
+      "label": "tev000201_SEL0021",
+      "style": 3,
+      "name": "Decline L's request for now."
+    },
+    {
+      "$id": 7,
+      "label": "tev000201_MSG0003",
+      "style": 1,
+      "name": "Delightful! We will try not to get in your whey.[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "tev000201_MSG0004",
+      "style": 1,
+      "name": "Ahh. Most unfortunate. Should you change your mind,\nwe stand willing to join you.[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "tev000201_MSG0009",
+      "style": 1,
+      "name": "Giogion can watch the store while we're away,\nso we're free to accompany you whenever you\nsee fit to have us.[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "tev000201_MSG0010",
+      "style": 1,
+      "name": "Shall we not travel the wilds of Mira while our thirst\nfor knowledge still hungers?[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev000201_JNK0030",
+      "style": 4,
+      "name": "Agree"
+    },
+    {
+      "$id": 12,
+      "label": "tev000201_SEL0031",
+      "style": 3,
+      "name": "Add L to your team."
+    },
+    {
+      "$id": 13,
+      "label": "tev000201_JNK0040",
+      "style": 4,
+      "name": "Refuse"
+    },
+    {
+      "$id": 14,
+      "label": "tev000201_SEL0041",
+      "style": 3,
+      "name": "Decline L's request for now."
+    },
+    {
+      "$id": 15,
+      "label": "tev000201_MSG0011",
+      "style": 1,
+      "name": "Delightful! We will try not to bet in your weigh.[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "tev000201_MSG0012",
+      "style": 1,
+      "name": "Ahh. Most unfortunate. Should you change your mind,\nwe stand willing to join you.[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "tev000201_MSG0017",
+      "style": 1,
+      "name": "Your mission involves seeking out unidentified\nxenoforms? That sounds right up our alleyway![ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "tev000201_MSG0018",
+      "style": 1,
+      "name": "Please let us join you. We are quite confident that we\nwould be of much assistance.[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "tev000201_JNK0050",
+      "style": 4,
+      "name": "Agree"
+    },
+    {
+      "$id": 20,
+      "label": "tev000201_SEL0051",
+      "style": 3,
+      "name": "Add L to your team."
+    },
+    {
+      "$id": 21,
+      "label": "tev000201_JNK0060",
+      "style": 4,
+      "name": "Refuse"
+    },
+    {
+      "$id": 22,
+      "label": "tev000201_SEL0061",
+      "style": 3,
+      "name": "Decline L's request for now."
+    },
+    {
+      "$id": 23,
+      "label": "tev000201_MSG0019",
+      "style": 1,
+      "name": "Delightful! We will try not to bee in your sway.[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "tev000201_MSG0020",
+      "style": 1,
+      "name": "Ahh. Most unfortunate. Should you change your mind,\nwe stand willing to join you.[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "tev000201_MSG0025",
+      "style": 1,
+      "name": "While we would relish the opportunity to help you\nsearch for that mech you seek...[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "tev000201_MSG0026",
+      "style": 1,
+      "name": "Alas, we lack a mechanical body, and would be most\nswiftly spotted by the tainted.[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "tev000201_MSG0027",
+      "style": 1,
+      "name": "So we fear we must entrust this mission to you.\nWe hope you are feeling lucky, punk.[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "tev000201_MSG0032",
+      "style": 1,
+      "name": "You received an emergency aid request from Irina's\nteam, my friend?[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "tev000201_MSG0033",
+      "style": 1,
+      "name": "Then we must make haste on the double time!\nPlease allow us to accompany you.[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "tev000201_JNK0070",
+      "style": 4,
+      "name": "Agree"
+    },
+    {
+      "$id": 31,
+      "label": "tev000201_SEL0071",
+      "style": 3,
+      "name": "Add L to your team."
+    },
+    {
+      "$id": 32,
+      "label": "tev000201_JNK0080",
+      "style": 4,
+      "name": "Refuse"
+    },
+    {
+      "$id": 33,
+      "label": "tev000201_SEL0081",
+      "style": 3,
+      "name": "Decline L's request for now."
+    },
+    {
+      "$id": 34,
+      "label": "tev000201_MSG0034",
+      "style": 1,
+      "name": "Your faith in us shall not be mislaid!\nWe will see Irina safely back home.[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "tev000201_MSG0035",
+      "style": 1,
+      "name": "Ahh. Most unfortunate. Should you change your mind,\nwe stand willing to join you.[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "tev000201_MSG0036",
+      "style": 1,
+      "name": "So you've been tasked with exploring Sylvalum?\nIt is a most strange land, with scenery quite unlike\nanything around here.[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "tev000201_MSG0037",
+      "style": 1,
+      "name": "The prospect sends our thirst for knowledge into a\nfrenzy of drinking. You must allow us to join you.[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "tev000201_JNK0090",
+      "style": 4,
+      "name": "Agree"
+    },
+    {
+      "$id": 39,
+      "label": "tev000201_SEL0091",
+      "style": 3,
+      "name": "Add L to your team."
+    },
+    {
+      "$id": 40,
+      "label": "tev000201_JNK0100",
+      "style": 4,
+      "name": "Refuse"
+    },
+    {
+      "$id": 41,
+      "label": "tev000201_SEL0101",
+      "style": 3,
+      "name": "Decline L's request for now."
+    },
+    {
+      "$id": 42,
+      "label": "tev000201_MSG0038",
+      "style": 1,
+      "name": "Delightful! We will try not to get in your whey.[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "tev000201_MSG0039",
+      "style": 1,
+      "name": "Ahh. Most unfortunate. Should you change your mind,\nwe stand willing to join you.[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "tev000201_MSG0044",
+      "style": 1,
+      "name": "Ah, what fortuitous timing! We are buying supplies to\nmake some new items, and it is costing us, as you say,\na lovely nickel.[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "tev000201_MSG0045",
+      "style": 1,
+      "name": "We were just thinking what a perfect time it would be\nto accompany you to Sylvalum. Are you game, friend?[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "tev000201_JNK0110",
+      "style": 4,
+      "name": "Agree"
+    },
+    {
+      "$id": 47,
+      "label": "tev000201_SEL0111",
+      "style": 3,
+      "name": "Add L to your team."
+    },
+    {
+      "$id": 48,
+      "label": "tev000201_JNK0120",
+      "style": 4,
+      "name": "Refuse"
+    },
+    {
+      "$id": 49,
+      "label": "tev000201_SEL0121",
+      "style": 3,
+      "name": "Decline L's request for now."
+    },
+    {
+      "$id": 50,
+      "label": "tev000201_MSG0046",
+      "style": 1,
+      "name": "Delightful! We will try not to get in your whey.[ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "tev000201_MSG0047",
+      "style": 1,
+      "name": "Ahh. Most unfortunate. Should you change your mind,\nwe stand willing to join you.[ST:wait ]"
+    },
+    {
+      "$id": 52,
+      "label": "tev000201_MSG0048",
+      "style": 1,
+      "name": "It makes no sense... Why would Mr. Lao be involved\nwith the Ganglion?[ST:wait ]"
+    },
+    {
+      "$id": 53,
+      "label": "tev000201_MSG0049",
+      "style": 1,
+      "name": "But perhaps it is folly to even speculate. Let us look for\ntruth straight inside the gift horse's mouth![ST:wait ]"
+    },
+    {
+      "$id": 54,
+      "label": "tev000201_MSG0050",
+      "style": 1,
+      "name": "We must travel to the Ganglion's headquarters\nand ask Mr. Lao directly.[ST:wait ]"
+    },
+    {
+      "$id": 55,
+      "label": "tev000201_JNK0130",
+      "style": 4,
+      "name": "Agree"
+    },
+    {
+      "$id": 56,
+      "label": "tev000201_SEL0131",
+      "style": 3,
+      "name": "Add L to your team."
+    },
+    {
+      "$id": 57,
+      "label": "tev000201_JNK0140",
+      "style": 4,
+      "name": "Refuse"
+    },
+    {
+      "$id": 58,
+      "label": "tev000201_SEL0141",
+      "style": 3,
+      "name": "Decline L's request for now."
+    },
+    {
+      "$id": 59,
+      "label": "tev000201_MSG0051",
+      "style": 1,
+      "name": "Delightful! We will try not to bet in your weigh.[ST:wait ]"
+    },
+    {
+      "$id": 60,
+      "label": "tev000201_MSG0052",
+      "style": 1,
+      "name": "Ahh. Most unfortunate. Should you change your mind,\nwe stand willing to join you.[ST:wait ]"
+    },
+    {
+      "$id": 61,
+      "label": "tev000201_MSG0057",
+      "style": 1,
+      "name": "How we yearn to see this Lifehold Core that has been\nsustaining the lives of our human friends.[ST:wait ]"
+    },
+    {
+      "$id": 62,
+      "label": "tev000201_MSG0058",
+      "style": 1,
+      "name": "Please allow us to accompany you on this most\nfateful of days![ST:wait ]"
+    },
+    {
+      "$id": 63,
+      "label": "tev000201_JNK0150",
+      "style": 4,
+      "name": "Agree"
+    },
+    {
+      "$id": 64,
+      "label": "tev000201_SEL0151",
+      "style": 3,
+      "name": "Add L to your team."
+    },
+    {
+      "$id": 65,
+      "label": "tev000201_JNK0160",
+      "style": 4,
+      "name": "Refuse"
+    },
+    {
+      "$id": 66,
+      "label": "tev000201_SEL0161",
+      "style": 3,
+      "name": "Decline L's request for now."
+    },
+    {
+      "$id": 67,
+      "label": "tev000201_MSG0059",
+      "style": 1,
+      "name": "And all that ends well shall be well indeed.\nWe will fight for humanity with all of our vigor![ST:wait ]"
+    },
+    {
+      "$id": 68,
+      "label": "tev000201_MSG0060",
+      "style": 1,
+      "name": "Ahh. Most unfortunate. Should you change your mind,\nwe stand willing to join you.[ST:wait ]"
+    },
+    {
+      "$id": 69,
+      "label": "tev000201_MSG0065",
+      "style": 1,
+      "name": "Now that the Ganglion are on their last eggs, we were\nconsidering opening a shop or something of that ilk.[ST:wait ]"
+    },
+    {
+      "$id": 70,
+      "label": "tev000201_MSG0066",
+      "style": 1,
+      "name": "Yet our thirst for knowledge about Mira remains ever\nunquenched.[ST:wait ]"
+    },
+    {
+      "$id": 71,
+      "label": "tev000201_MSG0067",
+      "style": 1,
+      "name": "If you plan to leave the city, we would be most grateful\nfor the opportunity to join you.[ST:wait ]"
+    },
+    {
+      "$id": 72,
+      "label": "tev000201_JNK0170",
+      "style": 4,
+      "name": "Agree"
+    },
+    {
+      "$id": 73,
+      "label": "tev000201_SEL0171",
+      "style": 3,
+      "name": "Add L to your team."
+    },
+    {
+      "$id": 74,
+      "label": "tev000201_JNK0180",
+      "style": 4,
+      "name": "Refuse"
+    },
+    {
+      "$id": 75,
+      "label": "tev000201_SEL0181",
+      "style": 3,
+      "name": "Decline L's request for now."
+    },
+    {
+      "$id": 76,
+      "label": "tev000201_MSG0068",
+      "style": 1,
+      "name": "Delighted to hear it! We will try not to bee in the sway.[ST:wait ]"
+    },
+    {
+      "$id": 77,
+      "label": "tev000201_MSG0069",
+      "style": 1,
+      "name": "Ahh. Most unfortunate. Should you change your mind,\nwe stand willing to join you.[ST:wait ]"
+    },
+    {
+      "$id": 78,
+      "label": "tev000201_MSG0070",
+      "style": 1,
+      "name": "Now that Luxaar is dead and the Ganglion are dusty\nwind, there is no one who may stand in our way![ST:wait ]"
+    },
+    {
+      "$id": 79,
+      "label": "tev000201_MSG0071",
+      "style": 1,
+      "name": "Shall we not travel the wilds of Mira while our thirst\nfor knowledge still hungers?[ST:wait ]"
+    },
+    {
+      "$id": 80,
+      "label": "tev000201_JNK0190",
+      "style": 4,
+      "name": "Agree"
+    },
+    {
+      "$id": 81,
+      "label": "tev000201_SEL0191",
+      "style": 3,
+      "name": "Add L to your team."
+    },
+    {
+      "$id": 82,
+      "label": "tev000201_JNK0200",
+      "style": 4,
+      "name": "Refuse"
+    },
+    {
+      "$id": 83,
+      "label": "tev000201_SEL0201",
+      "style": 3,
+      "name": "Decline L's request for now."
+    },
+    {
+      "$id": 84,
+      "label": "tev000201_MSG0072",
+      "style": 1,
+      "name": "Delightful! We will try not to get in the whey.[ST:wait ]"
+    },
+    {
+      "$id": 85,
+      "label": "tev000201_MSG0073",
+      "style": 1,
+      "name": "Ahh. Most unfortunate. Should you change your mind,\nwe stand willing to join you.[ST:wait ]"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev230401_MSG0001",
+      "style": 1,
+      "name": "Hello and, er, welcome to the Shimmer & Savvy\nFinancial Group. I take it you're here to avail yourself\nof our exchange services, perhaps?[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev230401_MSG0002",
+      "style": 1,
+      "name": "At the gold-member exchange rate, I can give you\n75,000 credits in return for 10,000 units of miranium.\nThat's totally insane, don't you think?![ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev230401_MSG0003",
+      "style": 1,
+      "name": "So, um, let's perform the transaction, all right?[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev230401_JNK0010",
+      "style": 4,
+      "name": "Deliver"
+    },
+    {
+      "$id": 5,
+      "label": "qev230401_SEL0011",
+      "style": 3,
+      "name": "Hand over 10,000 units of miranium.[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev230401_JNK0020",
+      "style": 4,
+      "name": "Keep"
+    },
+    {
+      "$id": 7,
+      "label": "qev230401_SEL0021",
+      "style": 3,
+      "name": "Hold on to your miranium for now."
+    },
+    {
+      "$id": 8,
+      "label": "qev230401_MSG0004",
+      "style": 1,
+      "name": "And and here are 75,000 credits for you.\nCome see us again soon, all right?[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev230401_MSG0005",
+      "style": 1,
+      "name": "Oh! Well then, next time, perhaps?\nWe're always looking for miranium, you know...?[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev230401_MSG0006",
+      "style": 1,
+      "name": "You don't seem to, er, have enough miranium?\nWe need a a full 10,000 units, okay?[ST:wait ]"
+    }
+  ]
+}

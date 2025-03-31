@@ -1,0 +1,66 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev001811_MSG0010",
+      "style": 1,
+      "name": "Hey, Chief! I know how you've been\nhobnobbing with the hero, jetting off on\nadventures together! NLA's been talking![ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev001811_MSG0020",
+      "style": 1,
+      "name": "And I'm MAD, okay?!\nI wanna go on crazy adventures too![ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev001811_JNK0030",
+      "style": 4,
+      "name": "Agree"
+    },
+    {
+      "$id": 4,
+      "label": "tev001811_SEL0040",
+      "style": 3,
+      "name": "Add Mia to your team."
+    },
+    {
+      "$id": 5,
+      "label": "tev001811_MSG0050",
+      "style": 1,
+      "name": "Aw yeah, you're the best, Chief!\nNot that there was any doubt, frankly.\nOkay then, let's jet![ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "tev001811_JNK0060",
+      "style": 4,
+      "name": "Refuse"
+    },
+    {
+      "$id": 7,
+      "label": "tev001811_SEL0070",
+      "style": 3,
+      "name": "Decline Mia's request for now."
+    },
+    {
+      "$id": 8,
+      "label": "tev001811_MSG0080",
+      "style": 1,
+      "name": "Augh, Chief!\nCome on, don't do this to me![ST:wait ]"
+    }
+  ]
+}

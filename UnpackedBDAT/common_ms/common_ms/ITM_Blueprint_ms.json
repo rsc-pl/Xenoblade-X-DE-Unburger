@@ -1,0 +1,2154 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "BP_INNER_WPN_IW_MU_F_SWORD_A03_9001PL_name",
+      "style": 18,
+      "name": "FILE-M0101SS"
+    },
+    {
+      "$id": 2,
+      "label": "BP_INNER_WPN_IW_MU_F_SWORD_B06_9001PL_name",
+      "style": 18,
+      "name": "FILE-M0102SS"
+    },
+    {
+      "$id": 3,
+      "label": "BP_INNER_WPN_IW_IT_F_DUALBLADE_A04_9001PL_name",
+      "style": 18,
+      "name": "FILE-M0201CC"
+    },
+    {
+      "$id": 4,
+      "label": "BP_INNER_WPN_IW_OP_F_DUALBLADE_A03_9001PL_name",
+      "style": 18,
+      "name": "FILE-M0202OR"
+    },
+    {
+      "$id": 5,
+      "label": "BP_INNER_WPN_IW_MU_F_DUALBLADE_A01_9001PL_name",
+      "style": 18,
+      "name": "FILE-M0203SS"
+    },
+    {
+      "$id": 6,
+      "label": "BP_INNER_WPN_IW_MU_F_DUALBLADE_B07_9001PL_name",
+      "style": 18,
+      "name": "FILE-M0204SS"
+    },
+    {
+      "$id": 7,
+      "label": "BP_INNER_WPN_IW_NP_F_KNIFE_A05_9001PL_name",
+      "style": 18,
+      "name": "FILE-M0301NP"
+    },
+    {
+      "$id": 8,
+      "label": "BP_INNER_WPN_IW_OP_F_KNIFE_A06_9001PL_name",
+      "style": 18,
+      "name": "FILE-M0302OR"
+    },
+    {
+      "$id": 9,
+      "label": "BP_INNER_WPN_IW_OP_F_KNIFE_B02_9001PL_name",
+      "style": 18,
+      "name": "FILE-M0303OR"
+    },
+    {
+      "$id": 10,
+      "label": "BP_INNER_WPN_IW_IT_F_SHIELD_A04_9001PL_name",
+      "style": 18,
+      "name": "FILE-M0401CC"
+    },
+    {
+      "$id": 11,
+      "label": "BP_INNER_WPN_IW_IT_F_SHIELD_B04_9001PL_name",
+      "style": 18,
+      "name": "FILE-M0402CC"
+    },
+    {
+      "$id": 12,
+      "label": "BP_INNER_WPN_IW_NP_F_SHIELD_A06_9001PL_name",
+      "style": 18,
+      "name": "FILE-M0403NP"
+    },
+    {
+      "$id": 13,
+      "label": "BP_INNER_WPN_IW_IT_F_JAVELIN_A04_9001PL_name",
+      "style": 18,
+      "name": "FILE-M0501CC"
+    },
+    {
+      "$id": 14,
+      "label": "BP_INNER_WPN_IW_OP_F_JAVELIN_A05_9001PL_name",
+      "style": 18,
+      "name": "FILE-M0502OR"
+    },
+    {
+      "$id": 15,
+      "label": "BP_INNER_WPN_IW_MU_F_JAVELIN_A03_9001PL_name",
+      "style": 18,
+      "name": "FILE-M0503SS"
+    },
+    {
+      "$id": 16,
+      "label": "BP_INNER_WPN_IW_MU_F_PHOTON_A03_9001PL_name",
+      "style": 18,
+      "name": "FILE-M0601SS"
+    },
+    {
+      "$id": 17,
+      "label": "BP_INNER_WPN_IW_MU_F_PHOTON_B06_9001PL_name",
+      "style": 18,
+      "name": "FILE-M0602SS"
+    },
+    {
+      "$id": 18,
+      "label": "BP_INNER_WPN_IW_IT_S_ASSAULT_A04_9001PL_name",
+      "style": 18,
+      "name": "FILE-R0101CC"
+    },
+    {
+      "$id": 19,
+      "label": "BP_INNER_WPN_IW_MU_S_ASSAULT_A03_9001PL_name",
+      "style": 18,
+      "name": "FILE-R0102SS"
+    },
+    {
+      "$id": 20,
+      "label": "BP_INNER_WPN_IW_IT_S_DUALGUN_A04_9001PL_name",
+      "style": 18,
+      "name": "FILE-R0201CC"
+    },
+    {
+      "$id": 21,
+      "label": "BP_INNER_WPN_IW_IT_S_DUALGUN_B04_9001PL_name",
+      "style": 18,
+      "name": "FILE-R0202CC"
+    },
+    {
+      "$id": 22,
+      "label": "BP_INNER_WPN_IW_IT_S_DUALGUN_C06_9001PL_name",
+      "style": 18,
+      "name": "FILE-R0203CC"
+    },
+    {
+      "$id": 23,
+      "label": "BP_INNER_WPN_IW_NP_S_DUALGUN_A01_9001PL_name",
+      "style": 18,
+      "name": "FILE-R0204NP"
+    },
+    {
+      "$id": 24,
+      "label": "BP_INNER_WPN_IW_MU_S_DUALGUN_A06_9001PL_name",
+      "style": 18,
+      "name": "FILE-R0205SS"
+    },
+    {
+      "$id": 25,
+      "label": "BP_INNER_WPN_IW_IT_S_RAYGUN_A04_9001PL_name",
+      "style": 18,
+      "name": "FILE-R0301CC"
+    },
+    {
+      "$id": 26,
+      "label": "BP_INNER_WPN_IW_IT_S_GATLING_B04_9001PL_name",
+      "style": 18,
+      "name": "FILE-R0401CC"
+    },
+    {
+      "$id": 27,
+      "label": "BP_INNER_WPN_IW_NP_S_GATLING_A05_9001PL_name",
+      "style": 18,
+      "name": "FILE-R0402NP"
+    },
+    {
+      "$id": 28,
+      "label": "BP_INNER_WPN_IW_OP_S_GATLING_A04_9001PL_name",
+      "style": 18,
+      "name": "FILE-R0403OR"
+    },
+    {
+      "$id": 29,
+      "label": "BP_INNER_WPN_IW_IT_S_SNIPER_A04_9001PL_name",
+      "style": 18,
+      "name": "FILE-R0501CC"
+    },
+    {
+      "$id": 30,
+      "label": "BP_INNER_WPN_IW_NP_S_SNIPER_A01_9001PL_name",
+      "style": 18,
+      "name": "FILE-R0502NP"
+    },
+    {
+      "$id": 31,
+      "label": "BP_INNER_WPN_IW_MU_S_SNIPER_A03_9001PL_name",
+      "style": 18,
+      "name": "FILE-R0503SS"
+    },
+    {
+      "$id": 32,
+      "label": "BP_INNER_WPN_IW_MU_S_SNIPER_B03_9001PL_name",
+      "style": 18,
+      "name": "FILE-R0504SS"
+    },
+    {
+      "$id": 33,
+      "label": "BP_INNER_WPN_IW_IT_S_PSYCHO_A04_9001PL_name",
+      "style": 18,
+      "name": "FILE-R0601CC"
+    },
+    {
+      "$id": 34,
+      "label": "BP_INNER_WPN_IW_NP_S_PSYCHO_A01_9001PL_name",
+      "style": 18,
+      "name": "FILE-R0602NP"
+    },
+    {
+      "$id": 35,
+      "label": "BP_INNER_WPN_IW_OP_S_PSYCHO_A04_9001PL_name",
+      "style": 18,
+      "name": "FILE-R0603OR"
+    },
+    {
+      "$id": 36,
+      "label": "BP_INNER_WPN_IW_SA_F_SWORD_A01_2001PL_name",
+      "style": 18,
+      "name": "FILE-M0101SA"
+    },
+    {
+      "$id": 37,
+      "label": "BP_INNER_WPN_IW_GG_F_SWORD_B05_4001PL_name",
+      "style": 18,
+      "name": "FILE-M0102GG"
+    },
+    {
+      "$id": 38,
+      "label": "BP_INNER_WPN_IW_SA_F_SWORD_B07_6001PL_name",
+      "style": 18,
+      "name": "FILE-M0103SA"
+    },
+    {
+      "$id": 39,
+      "label": "BP_INNER_WPN_IW_SA_F_DUALBLADE_A07_2001PL_name",
+      "style": 18,
+      "name": "FILE-M0201SA"
+    },
+    {
+      "$id": 40,
+      "label": "BP_INNER_WPN_IW_GG_F_DUALBLADE_A01_4001PL_name",
+      "style": 18,
+      "name": "FILE-M0202GG"
+    },
+    {
+      "$id": 41,
+      "label": "BP_INNER_WPN_IW_SA_F_DUALBLADE_B06_6001PL_name",
+      "style": 18,
+      "name": "FILE-M0203SA"
+    },
+    {
+      "$id": 42,
+      "label": "BP_INNER_WPN_IW_SA_F_KNIFE_C07_2001PL_name",
+      "style": 18,
+      "name": "FILE-M0301SA"
+    },
+    {
+      "$id": 43,
+      "label": "BP_INNER_WPN_IW_GG_F_KNIFE_A06_4001PL_name",
+      "style": 18,
+      "name": "FILE-M0302GG"
+    },
+    {
+      "$id": 44,
+      "label": "BP_INNER_WPN_IW_SA_F_KNIFE_B06_6001PL_name",
+      "style": 18,
+      "name": "FILE-M0303SA"
+    },
+    {
+      "$id": 45,
+      "label": "BP_INNER_WPN_IW_GG_F_SHIELD_A01_2001PL_name",
+      "style": 18,
+      "name": "FILE-M0401GG"
+    },
+    {
+      "$id": 46,
+      "label": "BP_INNER_WPN_IW_SA_F_SHIELD_A06_4001PL_name",
+      "style": 18,
+      "name": "FILE-M0402SA"
+    },
+    {
+      "$id": 47,
+      "label": "BP_INNER_WPN_IW_GG_F_SHIELD_A01_6001PL_name",
+      "style": 18,
+      "name": "FILE-M0403GG"
+    },
+    {
+      "$id": 48,
+      "label": "BP_INNER_WPN_IW_SA_F_JAVELIN_A06_2001PL_name",
+      "style": 18,
+      "name": "FILE-M0501SA"
+    },
+    {
+      "$id": 49,
+      "label": "BP_INNER_WPN_IW_GG_F_JAVELIN_A02_4001PL_name",
+      "style": 18,
+      "name": "FILE-M0502GG"
+    },
+    {
+      "$id": 50,
+      "label": "BP_INNER_WPN_IW_SA_F_JAVELIN_B01_6001PL_name",
+      "style": 18,
+      "name": "FILE-M0503SA"
+    },
+    {
+      "$id": 51,
+      "label": "BP_INNER_WPN_IW_GG_F_PHOTON_A01_2001PL_name",
+      "style": 18,
+      "name": "FILE-M0601GG"
+    },
+    {
+      "$id": 52,
+      "label": "BP_INNER_WPN_IW_SA_F_PHOTON_A02_4001PL_name",
+      "style": 18,
+      "name": "FILE-M0602SA"
+    },
+    {
+      "$id": 53,
+      "label": "BP_INNER_WPN_IW_GG_F_PHOTON_B01_6001PL_name",
+      "style": 18,
+      "name": "FILE-M0603GG"
+    },
+    {
+      "$id": 54,
+      "label": "BP_INNER_WPN_IW_SA_S_ASSAULT_C02_2001PL_name",
+      "style": 18,
+      "name": "FILE-R0101SA"
+    },
+    {
+      "$id": 55,
+      "label": "BP_INNER_WPN_IW_GG_S_ASSAULT_A01_4001PL_name",
+      "style": 18,
+      "name": "FILE-R0102GG"
+    },
+    {
+      "$id": 56,
+      "label": "BP_INNER_WPN_IW_SA_S_ASSAULT_B01_6001PL_name",
+      "style": 18,
+      "name": "FILE-R0103SA"
+    },
+    {
+      "$id": 57,
+      "label": "BP_INNER_WPN_IW_SA_S_DUALGUN_A07_2001PL_name",
+      "style": 18,
+      "name": "FILE-R0201SA"
+    },
+    {
+      "$id": 58,
+      "label": "BP_INNER_WPN_IW_GG_S_DUALGUN_A07_4001PL_name",
+      "style": 18,
+      "name": "FILE-R0202GG"
+    },
+    {
+      "$id": 59,
+      "label": "BP_INNER_WPN_IW_SA_S_DUALGUN_B07_6001PL_name",
+      "style": 18,
+      "name": "FILE-R0203SA"
+    },
+    {
+      "$id": 60,
+      "label": "BP_INNER_WPN_IW_GG_S_RAYGUN_B07_2001PL_name",
+      "style": 18,
+      "name": "FILE-R0301GG"
+    },
+    {
+      "$id": 61,
+      "label": "BP_INNER_WPN_IW_SA_S_RAYGUN_A01_4001PL_name",
+      "style": 18,
+      "name": "FILE-R0302SA"
+    },
+    {
+      "$id": 62,
+      "label": "BP_INNER_WPN_IW_GG_S_RAYGUN_C04_6001PL_name",
+      "style": 18,
+      "name": "FILE-R0303GG"
+    },
+    {
+      "$id": 63,
+      "label": "BP_INNER_WPN_IW_SA_S_GATLING_A03_2001PL_name",
+      "style": 18,
+      "name": "FILE-R0401SA"
+    },
+    {
+      "$id": 64,
+      "label": "BP_INNER_WPN_IW_GG_S_GATLING_A05_4001PL_name",
+      "style": 18,
+      "name": "FILE-R0402GG"
+    },
+    {
+      "$id": 65,
+      "label": "BP_INNER_WPN_IW_SA_S_GATLING_B07_6001PL_name",
+      "style": 18,
+      "name": "FILE-R0403SA"
+    },
+    {
+      "$id": 66,
+      "label": "BP_INNER_WPN_IW_SA_S_SNIPER_A01_2001PL_name",
+      "style": 18,
+      "name": "FILE-R0501SA"
+    },
+    {
+      "$id": 67,
+      "label": "BP_INNER_WPN_IW_GG_S_SNIPER_A01_4001PL_name",
+      "style": 18,
+      "name": "FILE-R0502GG"
+    },
+    {
+      "$id": 68,
+      "label": "BP_INNER_WPN_IW_SA_S_SNIPER_B07_6001PL_name",
+      "style": 18,
+      "name": "FILE-R0503SA"
+    },
+    {
+      "$id": 69,
+      "label": "BP_INNER_WPN_IW_GG_S_PSYCHO_A01_2001PL_name",
+      "style": 18,
+      "name": "FILE-R0601GG"
+    },
+    {
+      "$id": 70,
+      "label": "BP_INNER_WPN_IW_SA_S_PSYCHO_A07_4001PL_name",
+      "style": 18,
+      "name": "FILE-R0602SA"
+    },
+    {
+      "$id": 71,
+      "label": "BP_INNER_WPN_IW_GG_S_PSYCHO_A01_6001PL_name",
+      "style": 18,
+      "name": "FILE-R0603GG"
+    },
+    {
+      "$id": 72,
+      "label": "BP_INNER_WPN_IW_SA_S_SWORD_A02_4001DR_name",
+      "style": 18,
+      "name": "FILE-LM0101SA"
+    },
+    {
+      "$id": 73,
+      "label": "BP_INNER_WPN_IW_SA_S_SWORD_A06_5001DR_name",
+      "style": 18,
+      "name": "FILE-LM0102SA"
+    },
+    {
+      "$id": 74,
+      "label": "BP_INNER_WPN_IW_SA_S_SWORD_A07_6001DR_name",
+      "style": 18,
+      "name": "FILE-LM0103SA"
+    },
+    {
+      "$id": 75,
+      "label": "BP_INNER_WPN_IW_SA_S_SWORD_A03_7001DR_name",
+      "style": 18,
+      "name": "FILE-LM0104SA"
+    },
+    {
+      "$id": 76,
+      "label": "BP_INNER_WPN_IW_SA_S_SWORD_A05_8001DR_name",
+      "style": 18,
+      "name": "FILE-LM0105SA"
+    },
+    {
+      "$id": 77,
+      "label": "BP_INNER_WPN_IW_SA_S_SWORD_A04_9001DR_name",
+      "style": 18,
+      "name": "FILE-LM0106SA"
+    },
+    {
+      "$id": 78,
+      "label": "BP_INNER_WPN_IW__MULTI_A06_6005DLC_name",
+      "style": 18,
+      "name": "FILE-R1306FC"
+    },
+    {
+      "$id": 79,
+      "label": "BP_INNER_WPN_IW_MU_F_SWORD_A03_9001PL_cap",
+      "style": 171,
+      "name": "A schematic for an experimental\nweapon of alien origin.\nLongsword: Masterstroke Glaive"
+    },
+    {
+      "$id": 80,
+      "label": "BP_INNER_WPN_IW_MU_F_SWORD_B06_9001PL_cap",
+      "style": 171,
+      "name": "A schematic for an experimental\nweapon of alien origin.\nLongsword: Masterstroke Glaive II"
+    },
+    {
+      "$id": 81,
+      "label": "BP_INNER_WPN_IW_IT_F_DUALBLADE_A04_9001PL_cap",
+      "style": 171,
+      "name": "A schematic for an experimental\nweapon of alien origin.\nDual Swords: Original Twins"
+    },
+    {
+      "$id": 82,
+      "label": "BP_INNER_WPN_IW_OP_F_DUALBLADE_A03_9001PL_cap",
+      "style": 171,
+      "name": "A schematic for an experimental\nweapon of alien origin.\nDual Swords: Original Watxes"
+    },
+    {
+      "$id": 83,
+      "label": "BP_INNER_WPN_IW_MU_F_DUALBLADE_A01_9001PL_cap",
+      "style": 171,
+      "name": "A schematic for an experimental\nweapon of alien origin.\nDual Swords: Masterstroke Edges II"
+    },
+    {
+      "$id": 84,
+      "label": "BP_INNER_WPN_IW_MU_F_DUALBLADE_B07_9001PL_cap",
+      "style": 171,
+      "name": "A schematic for an experimental\nweapon of alien origin.\nDual Swords: Masterstroke Edges"
+    },
+    {
+      "$id": 85,
+      "label": "BP_INNER_WPN_IW_NP_F_KNIFE_A05_9001PL_cap",
+      "style": 171,
+      "name": "A schematic for an experimental\nweapon of alien origin.\nKnife: Original Pokepoke"
+    },
+    {
+      "$id": 86,
+      "label": "BP_INNER_WPN_IW_OP_F_KNIFE_A06_9001PL_cap",
+      "style": 171,
+      "name": "A schematic for an experimental\nweapon of alien origin.\nKnife: Original Iyst"
+    },
+    {
+      "$id": 87,
+      "label": "BP_INNER_WPN_IW_OP_F_KNIFE_B02_9001PL_cap",
+      "style": 171,
+      "name": "A schematic for an experimental\nweapon of alien origin.\nKnife: Original Iyst II"
+    },
+    {
+      "$id": 88,
+      "label": "BP_INNER_WPN_IW_IT_F_SHIELD_A04_9001PL_cap",
+      "style": 171,
+      "name": "A schematic for an experimental\nweapon of alien origin.\nShield: Original Haven"
+    },
+    {
+      "$id": 89,
+      "label": "BP_INNER_WPN_IW_IT_F_SHIELD_B04_9001PL_cap",
+      "style": 171,
+      "name": "A schematic for an experimental\nweapon of alien origin.\nShield: Original Haven II"
+    },
+    {
+      "$id": 90,
+      "label": "BP_INNER_WPN_IW_NP_F_SHIELD_A06_9001PL_cap",
+      "style": 171,
+      "name": "A schematic for an experimental\nweapon of alien origin.\nShield: Original Thudclang"
+    },
+    {
+      "$id": 91,
+      "label": "BP_INNER_WPN_IW_IT_F_JAVELIN_A04_9001PL_cap",
+      "style": 171,
+      "name": "A schematic for an experimental\nweapon of alien origin.\nJavelin: Original Bolide"
+    },
+    {
+      "$id": 92,
+      "label": "BP_INNER_WPN_IW_OP_F_JAVELIN_A05_9001PL_cap",
+      "style": 171,
+      "name": "A schematic for an experimental\nweapon of alien origin.\nJavelin: Original Jyth"
+    },
+    {
+      "$id": 93,
+      "label": "BP_INNER_WPN_IW_MU_F_JAVELIN_A03_9001PL_cap",
+      "style": 171,
+      "name": "A schematic for an experimental\nweapon of alien origin.\nJavelin: Masterstroke Lance"
+    },
+    {
+      "$id": 94,
+      "label": "BP_INNER_WPN_IW_MU_F_PHOTON_A03_9001PL_cap",
+      "style": 171,
+      "name": "A schematic for an experimental\nweapon of alien origin.\nPhoton Saber: Masterstroke Lightblade"
+    },
+    {
+      "$id": 95,
+      "label": "BP_INNER_WPN_IW_MU_F_PHOTON_B06_9001PL_cap",
+      "style": 171,
+      "name": "A schematic for an experimental\nweapon of alien origin.\nPhoton Saber: Masterstroke Lightblade II"
+    },
+    {
+      "$id": 96,
+      "label": "BP_INNER_WPN_IW_IT_S_ASSAULT_A04_9001PL_cap",
+      "style": 171,
+      "name": "A schematic for an experimental\nweapon of alien origin.\nAssault Rifle: Original Assailer"
+    },
+    {
+      "$id": 97,
+      "label": "BP_INNER_WPN_IW_MU_S_ASSAULT_A03_9001PL_cap",
+      "style": 171,
+      "name": "A schematic for an experimental\nweapon of alien origin.\nAssault Rifle: Masterstroke Raidrifle"
+    },
+    {
+      "$id": 98,
+      "label": "BP_INNER_WPN_IW_IT_S_DUALGUN_A04_9001PL_cap",
+      "style": 171,
+      "name": "A schematic for an experimental\nweapon of alien origin.\nDual Guns: Original Dyads"
+    },
+    {
+      "$id": 99,
+      "label": "BP_INNER_WPN_IW_IT_S_DUALGUN_B04_9001PL_cap",
+      "style": 171,
+      "name": "A schematic for an experimental\nweapon of alien origin.\nDual Guns: Original Dyads III"
+    },
+    {
+      "$id": 100,
+      "label": "BP_INNER_WPN_IW_IT_S_DUALGUN_C06_9001PL_cap",
+      "style": 171,
+      "name": "A schematic for an experimental\nweapon of alien origin.\nDual Guns: Original Dyads II"
+    },
+    {
+      "$id": 101,
+      "label": "BP_INNER_WPN_IW_NP_S_DUALGUN_A01_9001PL_cap",
+      "style": 171,
+      "name": "A schematic for an experimental\nweapon of alien origin.\nDual Guns: Original Bangbangs"
+    },
+    {
+      "$id": 102,
+      "label": "BP_INNER_WPN_IW_MU_S_DUALGUN_A06_9001PL_cap",
+      "style": 171,
+      "name": "A schematic for an experimental\nweapon of alien origin.\nDual Guns: Masterstroke Sidearm"
+    },
+    {
+      "$id": 103,
+      "label": "BP_INNER_WPN_IW_IT_S_RAYGUN_A04_9001PL_cap",
+      "style": 171,
+      "name": "A schematic for an experimental\nweapon of alien origin.\nRaygun: Original Strobe"
+    },
+    {
+      "$id": 104,
+      "label": "BP_INNER_WPN_IW_IT_S_GATLING_B04_9001PL_cap",
+      "style": 171,
+      "name": "A schematic for an experimental\nweapon of alien origin.\nGatling Gun: Original Crank"
+    },
+    {
+      "$id": 105,
+      "label": "BP_INNER_WPN_IW_NP_S_GATLING_A05_9001PL_cap",
+      "style": 171,
+      "name": "A schematic for an experimental\nweapon of alien origin.\nGatling Gun: Original Ratatatta"
+    },
+    {
+      "$id": 106,
+      "label": "BP_INNER_WPN_IW_OP_S_GATLING_A04_9001PL_cap",
+      "style": 171,
+      "name": "A schematic for an experimental\nweapon of alien origin.\nGatling Gun: Original Ziyse"
+    },
+    {
+      "$id": 107,
+      "label": "BP_INNER_WPN_IW_IT_S_SNIPER_A04_9001PL_cap",
+      "style": 171,
+      "name": "A schematic for an experimental\nweapon of alien origin.\nSniper Rifle: Original Trigger"
+    },
+    {
+      "$id": 108,
+      "label": "BP_INNER_WPN_IW_NP_S_SNIPER_A01_9001PL_cap",
+      "style": 171,
+      "name": "A schematic for an experimental\nweapon of alien origin.\nSniper Rifle: Original Thwipper"
+    },
+    {
+      "$id": 109,
+      "label": "BP_INNER_WPN_IW_MU_S_SNIPER_A03_9001PL_cap",
+      "style": 171,
+      "name": "A schematic for an experimental\nweapon of alien origin.\nSniper Rifle: Masterstroke Deadsight"
+    },
+    {
+      "$id": 110,
+      "label": "BP_INNER_WPN_IW_MU_S_SNIPER_B03_9001PL_cap",
+      "style": 171,
+      "name": "A schematic for an experimental\nweapon of alien origin.\nSniper Rifle: Masterstroke Deadsight II"
+    },
+    {
+      "$id": 111,
+      "label": "BP_INNER_WPN_IW_IT_S_PSYCHO_A04_9001PL_cap",
+      "style": 171,
+      "name": "A schematic for an experimental\nweapon of alien origin.\nPsycho Launchers: Original Saboteurs"
+    },
+    {
+      "$id": 112,
+      "label": "BP_INNER_WPN_IW_NP_S_PSYCHO_A01_9001PL_cap",
+      "style": 171,
+      "name": "A schematic for an experimental\nweapon of alien origin.\nPsycho Launchers: Original Fwooshers"
+    },
+    {
+      "$id": 113,
+      "label": "BP_INNER_WPN_IW_OP_S_PSYCHO_A04_9001PL_cap",
+      "style": 171,
+      "name": "A schematic for an experimental\nweapon of alien origin.\nPsycho Launchers: Original Zorcyses"
+    },
+    {
+      "$id": 114,
+      "label": "BP_INNER_WPN_IW_SA_F_SWORD_A01_2001PL_cap",
+      "style": 171,
+      "name": "A schematic for a weapon whose\ndevelopment never saw completion.\nLongsword: Archetype Sword"
+    },
+    {
+      "$id": 115,
+      "label": "BP_INNER_WPN_IW_GG_F_SWORD_B05_4001PL_cap",
+      "style": 171,
+      "name": "A schematic for a weapon whose\ndevelopment never saw completion.\nLongsword: Archetype Slair II"
+    },
+    {
+      "$id": 116,
+      "label": "BP_INNER_WPN_IW_SA_F_SWORD_B07_6001PL_cap",
+      "style": 171,
+      "name": "A schematic for a weapon whose\ndevelopment never saw completion.\nLongsword: Archetype Sword II"
+    },
+    {
+      "$id": 117,
+      "label": "BP_INNER_WPN_IW_SA_F_DUALBLADE_A07_2001PL_cap",
+      "style": 171,
+      "name": "A schematic for a weapon whose\ndevelopment never saw completion.\nDual Swords: Archetype Blades"
+    },
+    {
+      "$id": 118,
+      "label": "BP_INNER_WPN_IW_GG_F_DUALBLADE_A01_4001PL_cap",
+      "style": 171,
+      "name": "A schematic for a weapon whose\ndevelopment never saw completion.\nDual Swords: Archetype Ralzes"
+    },
+    {
+      "$id": 119,
+      "label": "BP_INNER_WPN_IW_SA_F_DUALBLADE_B06_6001PL_cap",
+      "style": 171,
+      "name": "A schematic for a weapon whose\ndevelopment never saw completion.\nDual Swords: Archetype Blades II"
+    },
+    {
+      "$id": 120,
+      "label": "BP_INNER_WPN_IW_SA_F_KNIFE_C07_2001PL_cap",
+      "style": 171,
+      "name": "A schematic for a weapon whose\ndevelopment never saw completion.\nKnife: Archetype Knife III"
+    },
+    {
+      "$id": 121,
+      "label": "BP_INNER_WPN_IW_GG_F_KNIFE_A06_4001PL_cap",
+      "style": 171,
+      "name": "A schematic for a weapon whose\ndevelopment never saw completion.\nKnife: Archetype Riv"
+    },
+    {
+      "$id": 122,
+      "label": "BP_INNER_WPN_IW_SA_F_KNIFE_B06_6001PL_cap",
+      "style": 171,
+      "name": "A schematic for a weapon whose\ndevelopment never saw completion.\nKnife: Archetype Knife II"
+    },
+    {
+      "$id": 123,
+      "label": "BP_INNER_WPN_IW_GG_F_SHIELD_A01_2001PL_cap",
+      "style": 171,
+      "name": "A schematic for a weapon whose\ndevelopment never saw completion.\nShield: Archetype Paive"
+    },
+    {
+      "$id": 124,
+      "label": "BP_INNER_WPN_IW_SA_F_SHIELD_A06_4001PL_cap",
+      "style": 171,
+      "name": "A schematic for a weapon whose\ndevelopment never saw completion.\nShield: Archetype Shield"
+    },
+    {
+      "$id": 125,
+      "label": "BP_INNER_WPN_IW_GG_F_SHIELD_A01_6001PL_cap",
+      "style": 171,
+      "name": "A schematic for a weapon whose\ndevelopment never saw completion.\nShield: Advanced Archetype Paive"
+    },
+    {
+      "$id": 126,
+      "label": "BP_INNER_WPN_IW_SA_F_JAVELIN_A06_2001PL_cap",
+      "style": 171,
+      "name": "A schematic for a weapon whose\ndevelopment never saw completion.\nJavelin: Archetype Spear"
+    },
+    {
+      "$id": 127,
+      "label": "BP_INNER_WPN_IW_GG_F_JAVELIN_A02_4001PL_cap",
+      "style": 171,
+      "name": "A schematic for a weapon whose\ndevelopment never saw completion.\nJavelin: Archetype Parce"
+    },
+    {
+      "$id": 128,
+      "label": "BP_INNER_WPN_IW_SA_F_JAVELIN_B01_6001PL_cap",
+      "style": 171,
+      "name": "A schematic for a weapon whose\ndevelopment never saw completion.\nJavelin: Archetype Spear II"
+    },
+    {
+      "$id": 129,
+      "label": "BP_INNER_WPN_IW_GG_F_PHOTON_A01_2001PL_cap",
+      "style": 171,
+      "name": "A schematic for a weapon whose\ndevelopment never saw completion.\nPhoton Saber: Archetype Fulge"
+    },
+    {
+      "$id": 130,
+      "label": "BP_INNER_WPN_IW_SA_F_PHOTON_A02_4001PL_cap",
+      "style": 171,
+      "name": "A schematic for a weapon whose\ndevelopment never saw completion.\nPhoton Saber: Archetype Saber"
+    },
+    {
+      "$id": 131,
+      "label": "BP_INNER_WPN_IW_GG_F_PHOTON_B01_6001PL_cap",
+      "style": 171,
+      "name": "A schematic for a weapon whose\ndevelopment never saw completion.\nPhoton Saber: Archetype Fulge II"
+    },
+    {
+      "$id": 132,
+      "label": "BP_INNER_WPN_IW_SA_S_ASSAULT_C02_2001PL_cap",
+      "style": 171,
+      "name": "A schematic for a weapon whose\ndevelopment never saw completion.\nAssault Rifle: Archetype Assault Rifle III"
+    },
+    {
+      "$id": 133,
+      "label": "BP_INNER_WPN_IW_GG_S_ASSAULT_A01_4001PL_cap",
+      "style": 171,
+      "name": "A schematic for a weapon whose\ndevelopment never saw completion.\nAssault Rifle: Archetype Avagar"
+    },
+    {
+      "$id": 134,
+      "label": "BP_INNER_WPN_IW_SA_S_ASSAULT_B01_6001PL_cap",
+      "style": 171,
+      "name": "A schematic for a weapon whose\ndevelopment never saw completion.\nAssault Rifle: Archetype Assault Rifle II"
+    },
+    {
+      "$id": 135,
+      "label": "BP_INNER_WPN_IW_SA_S_DUALGUN_A07_2001PL_cap",
+      "style": 171,
+      "name": "A schematic for a weapon whose\ndevelopment never saw completion.\nDual Guns: Archetype Dual Guns"
+    },
+    {
+      "$id": 136,
+      "label": "BP_INNER_WPN_IW_GG_S_DUALGUN_A07_4001PL_cap",
+      "style": 171,
+      "name": "A schematic for a weapon whose\ndevelopment never saw completion.\nDual Guns: Archetype Gemels"
+    },
+    {
+      "$id": 137,
+      "label": "BP_INNER_WPN_IW_SA_S_DUALGUN_B07_6001PL_cap",
+      "style": 171,
+      "name": "A schematic for a weapon whose\ndevelopment never saw completion.\nDual Guns: Archetype Dual Guns II"
+    },
+    {
+      "$id": 138,
+      "label": "BP_INNER_WPN_IW_GG_S_RAYGUN_B07_2001PL_cap",
+      "style": 171,
+      "name": "A schematic for a weapon whose\ndevelopment never saw completion.\nRaygun: Archetype Lastyr II"
+    },
+    {
+      "$id": 139,
+      "label": "BP_INNER_WPN_IW_SA_S_RAYGUN_A01_4001PL_cap",
+      "style": 171,
+      "name": "A schematic for a weapon whose\ndevelopment never saw completion.\nRaygun: Archetype Raygun"
+    },
+    {
+      "$id": 140,
+      "label": "BP_INNER_WPN_IW_GG_S_RAYGUN_C04_6001PL_cap",
+      "style": 171,
+      "name": "A schematic for a weapon whose\ndevelopment never saw completion.\nRaygun: Archetype Lastyr III"
+    },
+    {
+      "$id": 141,
+      "label": "BP_INNER_WPN_IW_SA_S_GATLING_A03_2001PL_cap",
+      "style": 171,
+      "name": "A schematic for a weapon whose\ndevelopment never saw completion.\nGatling Gun: Archetype Machine"
+    },
+    {
+      "$id": 142,
+      "label": "BP_INNER_WPN_IW_GG_S_GATLING_A05_4001PL_cap",
+      "style": 171,
+      "name": "A schematic for a weapon whose\ndevelopment never saw completion.\nGatling Gun: Archetype Repethe"
+    },
+    {
+      "$id": 143,
+      "label": "BP_INNER_WPN_IW_SA_S_GATLING_B07_6001PL_cap",
+      "style": 171,
+      "name": "A schematic for a weapon whose\ndevelopment never saw completion.\nGatling Gun: Archetype Machine II"
+    },
+    {
+      "$id": 144,
+      "label": "BP_INNER_WPN_IW_SA_S_SNIPER_A01_2001PL_cap",
+      "style": 171,
+      "name": "A schematic for a weapon whose\ndevelopment never saw completion.\nSniper Rifle: Archetype Sniper Rifle"
+    },
+    {
+      "$id": 145,
+      "label": "BP_INNER_WPN_IW_GG_S_SNIPER_A01_4001PL_cap",
+      "style": 171,
+      "name": "A schematic for a weapon whose\ndevelopment never saw completion.\nSniper Rifle: Archetype Retic"
+    },
+    {
+      "$id": 146,
+      "label": "BP_INNER_WPN_IW_SA_S_SNIPER_B07_6001PL_cap",
+      "style": 171,
+      "name": "A schematic for a weapon whose\ndevelopment never saw completion.\nSniper Rifle: Archetype Sniper Rifle II"
+    },
+    {
+      "$id": 147,
+      "label": "BP_INNER_WPN_IW_GG_S_PSYCHO_A01_2001PL_cap",
+      "style": 171,
+      "name": "A schematic for a weapon whose\ndevelopment never saw completion.\nPsycho Launchers: Archetype Psylans"
+    },
+    {
+      "$id": 148,
+      "label": "BP_INNER_WPN_IW_SA_S_PSYCHO_A07_4001PL_cap",
+      "style": 171,
+      "name": "A schematic for a weapon whose\ndevelopment never saw completion.\nPsycho Launchers: Archetype Launchers"
+    },
+    {
+      "$id": 149,
+      "label": "BP_INNER_WPN_IW_GG_S_PSYCHO_A01_6001PL_cap",
+      "style": 171,
+      "name": "A schematic for a weapon whose\ndevelopment never saw completion.\nPsycho Launchers: Advanced\nArchetype Psylans"
+    },
+    {
+      "$id": 150,
+      "label": "BP_INNER_WPN_IW_SA_S_SWORD_A02_4001DR_cap",
+      "style": 171,
+      "name": "A book of unknown origin that holds\nknowledge of a mythical sword.\nLongsword: Signature Glaive: Four Virtues"
+    },
+    {
+      "$id": 151,
+      "label": "BP_INNER_WPN_IW_SA_S_SWORD_A06_5001DR_cap",
+      "style": 171,
+      "name": "A book of unknown origin that holds\nknowledge of a mythical sword.\nLongsword: Ethereal Glaive: Helldragon"
+    },
+    {
+      "$id": 152,
+      "label": "BP_INNER_WPN_IW_SA_S_SWORD_A07_6001DR_cap",
+      "style": 171,
+      "name": "A book of unknown origin that holds\nknowledge of a mythical sword.\nLongsword: Bewitched Glaive: Blood Dance"
+    },
+    {
+      "$id": 153,
+      "label": "BP_INNER_WPN_IW_SA_S_SWORD_A03_7001DR_cap",
+      "style": 171,
+      "name": "A book of unknown origin that holds\nknowledge of a mythical sword.\nLongsword: Signature Glaive: Allegiance"
+    },
+    {
+      "$id": 154,
+      "label": "BP_INNER_WPN_IW_SA_S_SWORD_A05_8001DR_cap",
+      "style": 171,
+      "name": "A book of unknown origin that holds\nknowledge of a mythical sword.\nLongsword: Mighty Glaive: Galaxy Chief"
+    },
+    {
+      "$id": 155,
+      "label": "BP_INNER_WPN_IW_SA_S_SWORD_A04_9001DR_cap",
+      "style": 171,
+      "name": "A book of unknown origin that holds\nknowledge of a mythical sword.\nLongsword: Bewitched Glaive:\nReceding Rust"
+    },
+    {
+      "$id": 156,
+      "label": "BP_INNER_WPN_IW__MULTI_A06_6005DLC_cap",
+      "style": 171,
+      "name": "A schematic for a weapon whose\ndevelopment never saw completion.\nMultigun: Delta Bliss"
+    },
+    {
+      "$id": 157,
+      "label": "BP_INNER_SUIT_IARM_MU_BO_MATURI_01000_01_0101_name",
+      "style": 18,
+      "name": "FILE-GEAR01SS-BD"
+    },
+    {
+      "$id": 158,
+      "label": "BP_INNER_SUIT_IARM_MU_RA_MATURI_00100_01_0101_name",
+      "style": 18,
+      "name": "FILE-GEAR01SS-RA"
+    },
+    {
+      "$id": 159,
+      "label": "BP_INNER_SUIT_IARM_MU_LA_MATURI_00010_01_0101_name",
+      "style": 18,
+      "name": "FILE-GEAR01SS-LA"
+    },
+    {
+      "$id": 160,
+      "label": "BP_INNER_SUIT_IARM_MU_FO_MATURI_00001_01_0101_name",
+      "style": 18,
+      "name": "FILE-GEAR01SS-LG"
+    },
+    {
+      "$id": 161,
+      "label": "BP_INNER_SUIT_IARM_FC_BO_SPECIAL01_01111_01_8001_name",
+      "style": 18,
+      "name": "FILE-GEAR02FC-BD"
+    },
+    {
+      "$id": 162,
+      "label": "BP_INNER_SUIT_IARM_FC_BO_SPECIAL01_01111_02_8001_name",
+      "style": 18,
+      "name": "FILE-GEAR03FC-BD"
+    },
+    {
+      "$id": 163,
+      "label": "BP_INNER_SUIT_IARM_IT_HD_UNIQUE02_10000_01_8001_name",
+      "style": 18,
+      "name": "FILE-GEAR04CC-HD"
+    },
+    {
+      "$id": 164,
+      "label": "BP_INNER_SUIT_IARM_IT_HD_UNIQUE02_10000_03_8001_name",
+      "style": 18,
+      "name": "FILE-GEAR05CC-HD"
+    },
+    {
+      "$id": 165,
+      "label": "BP_INNER_SUIT_IARM_IT_HD_UNIQUE02_10000_02_8001_name",
+      "style": 18,
+      "name": "FILE-GEAR06CC-HD"
+    },
+    {
+      "$id": 166,
+      "label": "BP_INNER_SUIT_IARM_IT_BO_SWIM01_01000_08_6001_name",
+      "style": 18,
+      "name": "FILE-GEAR07CC-BD"
+    },
+    {
+      "$id": 167,
+      "label": "BP_INNER_SUIT_IARM_IT_RA_SWIM01_00100_08_6001_name",
+      "style": 18,
+      "name": "FILE-GEAR07CC-RA"
+    },
+    {
+      "$id": 168,
+      "label": "BP_INNER_SUIT_IARM_IT_LA_SWIM01_00010_08_6001_name",
+      "style": 18,
+      "name": "FILE-GEAR07CC-LA"
+    },
+    {
+      "$id": 169,
+      "label": "BP_INNER_SUIT_IARM_IT_FO_SWIM01_00001_08_6001_name",
+      "style": 18,
+      "name": "FILE-GEAR07CC-LG"
+    },
+    {
+      "$id": 170,
+      "label": "BP_INNER_SUIT_IARM_IT_BO_SWIM01_01000_09_6001_name",
+      "style": 18,
+      "name": "FILE-GEAR12CC-BD"
+    },
+    {
+      "$id": 171,
+      "label": "BP_INNER_SUIT_IARM_IT_RA_SWIM01_00100_09_6001_name",
+      "style": 18,
+      "name": "FILE-GEAR12CC-RA"
+    },
+    {
+      "$id": 172,
+      "label": "BP_INNER_SUIT_IARM_IT_LA_SWIM01_00010_09_6001_name",
+      "style": 18,
+      "name": "FILE-GEAR12CC-LA"
+    },
+    {
+      "$id": 173,
+      "label": "BP_INNER_SUIT_IARM_GG_HD_E_06_5501PL_name",
+      "style": 18,
+      "name": "FILE-GEAR08GG-HD"
+    },
+    {
+      "$id": 174,
+      "label": "BP_INNER_SUIT_IARM_GG_BO_E_06_5501PL_name",
+      "style": 18,
+      "name": "FILE-GEAR08GG-BD"
+    },
+    {
+      "$id": 175,
+      "label": "BP_INNER_SUIT_IARM_GG_RA_E_06_5501PL_name",
+      "style": 18,
+      "name": "FILE-GEAR08GG-RA"
+    },
+    {
+      "$id": 176,
+      "label": "BP_INNER_SUIT_IARM_GG_LA_E_06_5501PL_name",
+      "style": 18,
+      "name": "FILE-GEAR08GG-LA"
+    },
+    {
+      "$id": 177,
+      "label": "BP_INNER_SUIT_IARM_GG_FO_E_06_5501PL_name",
+      "style": 18,
+      "name": "FILE-GEAR08GG-LG"
+    },
+    {
+      "$id": 178,
+      "label": "BP_INNER_SUIT_IARM_GG_HD_E_07_6501PL_name",
+      "style": 18,
+      "name": "FILE-GEAR09GG-HD"
+    },
+    {
+      "$id": 179,
+      "label": "BP_INNER_SUIT_IARM_GG_BO_E_07_6501PL_name",
+      "style": 18,
+      "name": "FILE-GEAR09GG-BD"
+    },
+    {
+      "$id": 180,
+      "label": "BP_INNER_SUIT_IARM_GG_RA_E_07_6501PL_name",
+      "style": 18,
+      "name": "FILE-GEAR09GG-RA"
+    },
+    {
+      "$id": 181,
+      "label": "BP_INNER_SUIT_IARM_GG_LA_E_07_6501PL_name",
+      "style": 18,
+      "name": "FILE-GEAR09GG-LA"
+    },
+    {
+      "$id": 182,
+      "label": "BP_INNER_SUIT_IARM_GG_FO_E_07_6501PL_name",
+      "style": 18,
+      "name": "FILE-GEAR09GG-LG"
+    },
+    {
+      "$id": 183,
+      "label": "BP_INNER_SUIT_IARM_GG_HD_E_08_7501PL_name",
+      "style": 18,
+      "name": "FILE-GEAR10GG-HD"
+    },
+    {
+      "$id": 184,
+      "label": "BP_INNER_SUIT_IARM_GG_BO_E_08_7501PL_name",
+      "style": 18,
+      "name": "FILE-GEAR10GG-BD"
+    },
+    {
+      "$id": 185,
+      "label": "BP_INNER_SUIT_IARM_GG_RA_E_08_7501PL_name",
+      "style": 18,
+      "name": "FILE-GEAR10GG-RA"
+    },
+    {
+      "$id": 186,
+      "label": "BP_INNER_SUIT_IARM_GG_LA_E_08_7501PL_name",
+      "style": 18,
+      "name": "FILE-GEAR10GG-LA"
+    },
+    {
+      "$id": 187,
+      "label": "BP_INNER_SUIT_IARM_GG_FO_E_08_7501PL_name",
+      "style": 18,
+      "name": "FILE-GEAR10GG-LG"
+    },
+    {
+      "$id": 188,
+      "label": "BP_INNER_SUIT_IARM_GG_HD_E_09_8501PL_name",
+      "style": 18,
+      "name": "FILE-GEAR11GG-HD"
+    },
+    {
+      "$id": 189,
+      "label": "BP_INNER_SUIT_IARM_GG_BO_E_09_8501PL_name",
+      "style": 18,
+      "name": "FILE-GEAR11GG-BD"
+    },
+    {
+      "$id": 190,
+      "label": "BP_INNER_SUIT_IARM_GG_RA_E_09_8501PL_name",
+      "style": 18,
+      "name": "FILE-GEAR11GG-RA"
+    },
+    {
+      "$id": 191,
+      "label": "BP_INNER_SUIT_IARM_GG_LA_E_09_8501PL_name",
+      "style": 18,
+      "name": "FILE-GEAR11GG-LA"
+    },
+    {
+      "$id": 192,
+      "label": "BP_INNER_SUIT_IARM_GG_FO_E_09_8501PL_name",
+      "style": 18,
+      "name": "FILE-GEAR11GG-LG"
+    },
+    {
+      "$id": 193,
+      "label": "BP_INNER_SUIT_IARM_MU_BO_MATURI_01000_01_0101_cap",
+      "style": 171,
+      "name": "A book of unknown origin that holds\nknowledge of an alien civilization.\nGround Gear: Six Stars Ritual Bodywear"
+    },
+    {
+      "$id": 194,
+      "label": "BP_INNER_SUIT_IARM_MU_RA_MATURI_00100_01_0101_cap",
+      "style": 171,
+      "name": "A book of unknown origin that holds\nknowledge of an alien civilization.\nGround Gear: Six Stars Ritual Band R"
+    },
+    {
+      "$id": 195,
+      "label": "BP_INNER_SUIT_IARM_MU_LA_MATURI_00010_01_0101_cap",
+      "style": 171,
+      "name": "A book of unknown origin that holds\nknowledge of an alien civilization.\nGround Gear: Six Stars Ritual Band L"
+    },
+    {
+      "$id": 196,
+      "label": "BP_INNER_SUIT_IARM_MU_FO_MATURI_00001_01_0101_cap",
+      "style": 171,
+      "name": "A book of unknown origin that holds\nknowledge of an alien civilization.\nGround Gear: Six Stars Ritual Legwear"
+    },
+    {
+      "$id": 197,
+      "label": "BP_INNER_SUIT_IARM_FC_BO_SPECIAL01_01111_01_8001_cap",
+      "style": 171,
+      "name": "A book of unknown origin that holds\nknowledge of an alien civilization.\nGround Gear: Supercivilization Attire"
+    },
+    {
+      "$id": 198,
+      "label": "BP_INNER_SUIT_IARM_FC_BO_SPECIAL01_01111_02_8001_cap",
+      "style": 171,
+      "name": "A book of unknown origin that holds\nknowledge of an alien civilization.\nGround Gear: Elite Supercivilization Attire"
+    },
+    {
+      "$id": 199,
+      "label": "BP_INNER_SUIT_IARM_IT_HD_UNIQUE02_10000_01_8001_cap",
+      "style": 171,
+      "name": "A book that contains knowledge of\nan ancient human civilization.\nGround Gear: Black Bunnyband"
+    },
+    {
+      "$id": 200,
+      "label": "BP_INNER_SUIT_IARM_IT_HD_UNIQUE02_10000_03_8001_cap",
+      "style": 171,
+      "name": "A book that contains knowledge of\nan ancient human civilization.\nGround Gear: Red Bunnyband"
+    },
+    {
+      "$id": 201,
+      "label": "BP_INNER_SUIT_IARM_IT_HD_UNIQUE02_10000_02_8001_cap",
+      "style": 171,
+      "name": "A book that contains knowledge of\nan ancient human civilization.\nGround Gear: White Bunnyband"
+    },
+    {
+      "$id": 202,
+      "label": "BP_INNER_SUIT_IARM_IT_BO_SWIM01_01000_08_6001_cap",
+      "style": 171,
+      "name": "A book that contains knowledge of\nan ancient human civilization.\nGround Gear: Bunnytop"
+    },
+    {
+      "$id": 203,
+      "label": "BP_INNER_SUIT_IARM_IT_RA_SWIM01_00100_08_6001_cap",
+      "style": 171,
+      "name": "A book that contains knowledge of\nan ancient human civilization.\nGround Gear: Bunnycuff R"
+    },
+    {
+      "$id": 204,
+      "label": "BP_INNER_SUIT_IARM_IT_LA_SWIM01_00010_08_6001_cap",
+      "style": 171,
+      "name": "A book that contains knowledge of\nan ancient human civilization.\nGround Gear: Bunnycuff L"
+    },
+    {
+      "$id": 205,
+      "label": "BP_INNER_SUIT_IARM_IT_FO_SWIM01_00001_08_6001_cap",
+      "style": 171,
+      "name": "A book that contains knowledge of\nan ancient human civilization.\nGround Gear: Bunnyhoppers"
+    },
+    {
+      "$id": 206,
+      "label": "BP_INNER_SUIT_IARM_GG_HD_E_06_5501PL_cap",
+      "style": 171,
+      "name": "A schematic based on the technological\ncontributions Elma brought to mankind.\nGround Gear: Reginal Comm"
+    },
+    {
+      "$id": 207,
+      "label": "BP_INNER_SUIT_IARM_IT_BO_SWIM01_01000_09_6001_cap",
+      "style": 171,
+      "name": "A book that contains knowledge of\nan ancient human civilization.\nGround Gear: Bunnybod"
+    },
+    {
+      "$id": 208,
+      "label": "BP_INNER_SUIT_IARM_IT_RA_SWIM01_00100_09_6001_cap",
+      "style": 171,
+      "name": "A book that contains knowledge of\nan ancient human civilization.\nGround Gear: Bunnypaw R"
+    },
+    {
+      "$id": 209,
+      "label": "BP_INNER_SUIT_IARM_IT_LA_SWIM01_00010_09_6001_cap",
+      "style": 171,
+      "name": "A book that contains knowledge of\nan ancient human civilization.\nGround Gear: Bunnypaw L"
+    },
+    {
+      "$id": 210,
+      "label": "BP_INNER_SUIT_IARM_GG_BO_E_06_5501PL_cap",
+      "style": 171,
+      "name": "A schematic based on the technological\ncontributions Elma brought to mankind.\nGround Gear: Reginal Norak"
+    },
+    {
+      "$id": 211,
+      "label": "BP_INNER_SUIT_IARM_GG_RA_E_06_5501PL_cap",
+      "style": 171,
+      "name": "A schematic based on the technological\ncontributions Elma brought to mankind.\nGround Gear: Reginal Bangle R"
+    },
+    {
+      "$id": 212,
+      "label": "BP_INNER_SUIT_IARM_GG_LA_E_06_5501PL_cap",
+      "style": 171,
+      "name": "A schematic based on the technological\ncontributions Elma brought to mankind.\nGround Gear: Reginal Bangle L"
+    },
+    {
+      "$id": 213,
+      "label": "BP_INNER_SUIT_IARM_GG_FO_E_06_5501PL_cap",
+      "style": 171,
+      "name": "A schematic based on the technological\ncontributions Elma brought to mankind.\nGround Gear: Reginal Cords"
+    },
+    {
+      "$id": 214,
+      "label": "BP_INNER_SUIT_IARM_GG_HD_E_07_6501PL_cap",
+      "style": 171,
+      "name": "A schematic based on the technological\ncontributions Elma brought to mankind.\nGround Gear: Regal Comm"
+    },
+    {
+      "$id": 215,
+      "label": "BP_INNER_SUIT_IARM_GG_BO_E_07_6501PL_cap",
+      "style": 171,
+      "name": "A schematic based on the technological\ncontributions Elma brought to mankind.\nGround Gear: Regal Norak"
+    },
+    {
+      "$id": 216,
+      "label": "BP_INNER_SUIT_IARM_GG_RA_E_07_6501PL_cap",
+      "style": 171,
+      "name": "A schematic based on the technological\ncontributions Elma brought to mankind.\nGround Gear: Regal Bangle R"
+    },
+    {
+      "$id": 217,
+      "label": "BP_INNER_SUIT_IARM_GG_LA_E_07_6501PL_cap",
+      "style": 171,
+      "name": "A schematic based on the technological\ncontributions Elma brought to mankind.\nGround Gear: Regal Bangle L"
+    },
+    {
+      "$id": 218,
+      "label": "BP_INNER_SUIT_IARM_GG_FO_E_07_6501PL_cap",
+      "style": 171,
+      "name": "A schematic based on the technological\ncontributions Elma brought to mankind.\nGround Gear: Regal Cords"
+    },
+    {
+      "$id": 219,
+      "label": "BP_INNER_SUIT_IARM_GG_HD_E_08_7501PL_cap",
+      "style": 171,
+      "name": "A schematic based on the technological\ncontributions Elma brought to mankind.\nGround Gear: Infinite Comm"
+    },
+    {
+      "$id": 220,
+      "label": "BP_INNER_SUIT_IARM_GG_BO_E_08_7501PL_cap",
+      "style": 171,
+      "name": "A schematic based on the technological\ncontributions Elma brought to mankind.\nGround Gear: Infinite Norak"
+    },
+    {
+      "$id": 221,
+      "label": "BP_INNER_SUIT_IARM_GG_RA_E_08_7501PL_cap",
+      "style": 171,
+      "name": "A schematic based on the technological\ncontributions Elma brought to mankind.\nGround Gear: Infinite Bangle R"
+    },
+    {
+      "$id": 222,
+      "label": "BP_INNER_SUIT_IARM_GG_LA_E_08_7501PL_cap",
+      "style": 171,
+      "name": "A schematic based on the technological\ncontributions Elma brought to mankind.\nGround Gear: Infinite Bangle L"
+    },
+    {
+      "$id": 223,
+      "label": "BP_INNER_SUIT_IARM_GG_FO_E_08_7501PL_cap",
+      "style": 171,
+      "name": "A schematic based on the technological\ncontributions Elma brought to mankind.\nGround Gear: Infinite Cords"
+    },
+    {
+      "$id": 224,
+      "label": "BP_INNER_SUIT_IARM_GG_HD_E_09_8501PL_cap",
+      "style": 171,
+      "name": "A schematic based on the technological\ncontributions Elma brought to mankind.\nGround Gear: True Comm"
+    },
+    {
+      "$id": 225,
+      "label": "BP_INNER_SUIT_IARM_GG_BO_E_09_8501PL_cap",
+      "style": 171,
+      "name": "A schematic based on the technological\ncontributions Elma brought to mankind.\nGround Gear: ? ? ?"
+    },
+    {
+      "$id": 226,
+      "label": "BP_INNER_SUIT_IARM_GG_RA_E_09_8501PL_cap",
+      "style": 171,
+      "name": "A schematic based on the technological\ncontributions Elma brought to mankind.\nGround Gear: True Bangle R"
+    },
+    {
+      "$id": 227,
+      "label": "BP_INNER_SUIT_IARM_GG_LA_E_09_8501PL_cap",
+      "style": 171,
+      "name": "A schematic based on the technological\ncontributions Elma brought to mankind.\nGround Gear: True Bangle L"
+    },
+    {
+      "$id": 228,
+      "label": "BP_INNER_SUIT_IARM_GG_FO_E_09_8501PL_cap",
+      "style": 171,
+      "name": "A schematic based on the technological\ncontributions Elma brought to mankind.\nGround Gear: True Cords"
+    },
+    {
+      "$id": 229,
+      "label": "BP_DOLL_WPN_DW_SSP_SIX_CANNON_4000_name",
+      "style": 18,
+      "name": "FILE-USP0140SA"
+    },
+    {
+      "$id": 230,
+      "label": "BP_DOLL_WPN_DW_SSP_SIX_CANNON_6000_name",
+      "style": 18,
+      "name": "FILE-USP0160SA"
+    },
+    {
+      "$id": 231,
+      "label": "BP_DOLL_WPN_DW_SSP_SIX_CANNON_8000_name",
+      "style": 18,
+      "name": "FILE-USP0180SA"
+    },
+    {
+      "$id": 232,
+      "label": "BP_DOLL_WPN_DW_SSP_HYPER_RAILGUN_4000_name",
+      "style": 18,
+      "name": "FILE-USP0240SA"
+    },
+    {
+      "$id": 233,
+      "label": "BP_DOLL_WPN_DW_SSP_HYPER_RAILGUN_6000_name",
+      "style": 18,
+      "name": "FILE-USP0260SA"
+    },
+    {
+      "$id": 234,
+      "label": "BP_DOLL_WPN_DW_SSP_HYPER_RAILGUN_8000_name",
+      "style": 18,
+      "name": "FILE-USP0280SA"
+    },
+    {
+      "$id": 235,
+      "label": "BP_DOLL_WPN_DW_SSP_GRAV_DBSWD_4000_name",
+      "style": 18,
+      "name": "FILE-USP0340GG"
+    },
+    {
+      "$id": 236,
+      "label": "BP_DOLL_WPN_DW_SSP_GRAV_DBSWD_6000_name",
+      "style": 18,
+      "name": "FILE-USP0360GG"
+    },
+    {
+      "$id": 237,
+      "label": "BP_DOLL_WPN_DW_SSP_GRAV_DBSWD_8000_name",
+      "style": 18,
+      "name": "FILE-USP0380GG"
+    },
+    {
+      "$id": 238,
+      "label": "BP_DOLL_WPN_DW_SSP_TRIDENT_4000_name",
+      "style": 18,
+      "name": "FILE-USP0440ME"
+    },
+    {
+      "$id": 239,
+      "label": "BP_DOLL_WPN_DW_SSP_TRIDENT_6000_name",
+      "style": 18,
+      "name": "FILE-USP0460ME"
+    },
+    {
+      "$id": 240,
+      "label": "BP_DOLL_WPN_DW_SSP_TRIDENT_8000_name",
+      "style": 18,
+      "name": "FILE-USP0480ME"
+    },
+    {
+      "$id": 241,
+      "label": "BP_DOLL_WPN_DW_SSP_VOLT_PLUSER_4000_name",
+      "style": 18,
+      "name": "FILE-USP0540GG"
+    },
+    {
+      "$id": 242,
+      "label": "BP_DOLL_WPN_DW_SSP_VOLT_PLUSER_6000_name",
+      "style": 18,
+      "name": "FILE-USP0560GG"
+    },
+    {
+      "$id": 243,
+      "label": "BP_DOLL_WPN_DW_SSP_VOLT_PLUSER_8000_name",
+      "style": 18,
+      "name": "FILE-USP0580GG"
+    },
+    {
+      "$id": 244,
+      "label": "BP_DOLL_WPN_DW_SSP_VOLT_HORN_4000_name",
+      "style": 18,
+      "name": "FILE-USP0640ME"
+    },
+    {
+      "$id": 245,
+      "label": "BP_DOLL_WPN_DW_SSP_VOLT_HORN_6000_name",
+      "style": 18,
+      "name": "FILE-USP0660ME"
+    },
+    {
+      "$id": 246,
+      "label": "BP_DOLL_WPN_DW_SSP_VOLT_HORN_8000_name",
+      "style": 18,
+      "name": "FILE-USP0680ME"
+    },
+    {
+      "$id": 247,
+      "label": "BP_DOLL_WPN_DW_SSP_ANTI_LONG_ASSALT_4000_name",
+      "style": 18,
+      "name": "FILE-USP0740SA"
+    },
+    {
+      "$id": 248,
+      "label": "BP_DOLL_WPN_DW_SSP_ANTI_LONG_ASSALT_6000_name",
+      "style": 18,
+      "name": "FILE-USP0760SA"
+    },
+    {
+      "$id": 249,
+      "label": "BP_DOLL_WPN_DW_SSP_ANTI_LONG_ASSALT_8000_name",
+      "style": 18,
+      "name": "FILE-USP0780SA"
+    },
+    {
+      "$id": 250,
+      "label": "BP_DOLL_WPN_DW_SSP_DRILPILE_4000_name",
+      "style": 18,
+      "name": "FILE-USP0840SA"
+    },
+    {
+      "$id": 251,
+      "label": "BP_DOLL_WPN_DW_SSP_DRILPILE_6000_name",
+      "style": 18,
+      "name": "FILE-USP0860SA"
+    },
+    {
+      "$id": 252,
+      "label": "BP_DOLL_WPN_DW_SSP_DRILPILE_8000_name",
+      "style": 18,
+      "name": "FILE-USP0880SA"
+    },
+    {
+      "$id": 253,
+      "label": "BP_DOLL_WPN_DW_SSP_HI_FUNNEL_4000_name",
+      "style": 18,
+      "name": "FILE-USP0940GG"
+    },
+    {
+      "$id": 254,
+      "label": "BP_DOLL_WPN_DW_SSP_HI_FUNNEL_6000_name",
+      "style": 18,
+      "name": "FILE-USP0960GG"
+    },
+    {
+      "$id": 255,
+      "label": "BP_DOLL_WPN_DW_SSP_HI_FUNNEL_8000_name",
+      "style": 18,
+      "name": "FILE-USP0980GG"
+    },
+    {
+      "$id": 256,
+      "label": "BP_DOLL_WPN_DW_SSP_DISK_FUNNEL_4000_name",
+      "style": 18,
+      "name": "FILE-USP1040GG"
+    },
+    {
+      "$id": 257,
+      "label": "BP_DOLL_WPN_DW_SSP_DISK_FUNNEL_6000_name",
+      "style": 18,
+      "name": "FILE-USP1060GG"
+    },
+    {
+      "$id": 258,
+      "label": "BP_DOLL_WPN_DW_SSP_DISK_FUNNEL_8000_name",
+      "style": 18,
+      "name": "FILE-USP1080GG"
+    },
+    {
+      "$id": 259,
+      "label": "BP_DOLL_WPN_DW_SSP_SWD_ARM_4000_name",
+      "style": 18,
+      "name": "FILE-USP1140SA"
+    },
+    {
+      "$id": 260,
+      "label": "BP_DOLL_WPN_DW_SSP_SWD_ARM_6000_name",
+      "style": 18,
+      "name": "FILE-USP1160SA"
+    },
+    {
+      "$id": 261,
+      "label": "BP_DOLL_WPN_DW_SSP_SWD_ARM_8000_name",
+      "style": 18,
+      "name": "FILE-USP1180SA"
+    },
+    {
+      "$id": 262,
+      "label": "BP_DOLL_WPN_DW_SSP_ROUND_BEAM_4000_name",
+      "style": 18,
+      "name": "FILE-USP1240ME"
+    },
+    {
+      "$id": 263,
+      "label": "BP_DOLL_WPN_DW_SSP_ROUND_BEAM_6000_name",
+      "style": 18,
+      "name": "FILE-USP1260ME"
+    },
+    {
+      "$id": 264,
+      "label": "BP_DOLL_WPN_DW_SSP_ROUND_BEAM_8000_name",
+      "style": 18,
+      "name": "FILE-USP1280ME"
+    },
+    {
+      "$id": 265,
+      "label": "BP_DOLL_WPN_DW_SSP_BOM_CHAIN_4000_name",
+      "style": 18,
+      "name": "FILE-USP1340SA"
+    },
+    {
+      "$id": 266,
+      "label": "BP_DOLL_WPN_DW_SSP_BOM_CHAIN_6000_name",
+      "style": 18,
+      "name": "FILE-USP1360SA"
+    },
+    {
+      "$id": 267,
+      "label": "BP_DOLL_WPN_DW_SSP_BOM_CHAIN_8000_name",
+      "style": 18,
+      "name": "FILE-USP1380SA"
+    },
+    {
+      "$id": 268,
+      "label": "BP_DOLL_WPN_DW_SSP_FLAME_ASSALT_4000_name",
+      "style": 18,
+      "name": "FILE-USP1440SA"
+    },
+    {
+      "$id": 269,
+      "label": "BP_DOLL_WPN_DW_SSP_FLAME_ASSALT_6000_name",
+      "style": 18,
+      "name": "FILE-USP1460SA"
+    },
+    {
+      "$id": 270,
+      "label": "BP_DOLL_WPN_DW_SSP_FLAME_ASSALT_8000_name",
+      "style": 18,
+      "name": "FILE-USP1480SA"
+    },
+    {
+      "$id": 271,
+      "label": "BP_DOLL_WPN_DW_SSP_SIX_CANNON_4000_cap",
+      "style": 171,
+      "name": ""
+    },
+    {
+      "$id": 272,
+      "label": "BP_DOLL_WPN_DW_SSP_SIX_CANNON_6000_cap",
+      "style": 171,
+      "name": ""
+    },
+    {
+      "$id": 273,
+      "label": "BP_DOLL_WPN_DW_SSP_SIX_CANNON_8000_cap",
+      "style": 171,
+      "name": ""
+    },
+    {
+      "$id": 274,
+      "label": "BP_DOLL_WPN_DW_SSP_HYPER_RAILGUN_4000_cap",
+      "style": 171,
+      "name": ""
+    },
+    {
+      "$id": 275,
+      "label": "BP_DOLL_WPN_DW_SSP_HYPER_RAILGUN_6000_cap",
+      "style": 171,
+      "name": ""
+    },
+    {
+      "$id": 276,
+      "label": "BP_DOLL_WPN_DW_SSP_HYPER_RAILGUN_8000_cap",
+      "style": 171,
+      "name": ""
+    },
+    {
+      "$id": 277,
+      "label": "BP_DOLL_WPN_DW_SSP_GRAV_DBSWD_4000_cap",
+      "style": 171,
+      "name": ""
+    },
+    {
+      "$id": 278,
+      "label": "BP_DOLL_WPN_DW_SSP_GRAV_DBSWD_6000_cap",
+      "style": 171,
+      "name": ""
+    },
+    {
+      "$id": 279,
+      "label": "BP_DOLL_WPN_DW_SSP_GRAV_DBSWD_8000_cap",
+      "style": 171,
+      "name": ""
+    },
+    {
+      "$id": 280,
+      "label": "BP_DOLL_WPN_DW_SSP_TRIDENT_4000_cap",
+      "style": 171,
+      "name": ""
+    },
+    {
+      "$id": 281,
+      "label": "BP_DOLL_WPN_DW_SSP_TRIDENT_6000_cap",
+      "style": 171,
+      "name": ""
+    },
+    {
+      "$id": 282,
+      "label": "BP_DOLL_WPN_DW_SSP_TRIDENT_8000_cap",
+      "style": 171,
+      "name": ""
+    },
+    {
+      "$id": 283,
+      "label": "BP_DOLL_WPN_DW_SSP_VOLT_PLUSER_4000_cap",
+      "style": 171,
+      "name": ""
+    },
+    {
+      "$id": 284,
+      "label": "BP_DOLL_WPN_DW_SSP_VOLT_PLUSER_6000_cap",
+      "style": 171,
+      "name": ""
+    },
+    {
+      "$id": 285,
+      "label": "BP_DOLL_WPN_DW_SSP_VOLT_PLUSER_8000_cap",
+      "style": 171,
+      "name": ""
+    },
+    {
+      "$id": 286,
+      "label": "BP_DOLL_WPN_DW_SSP_VOLT_HORN_4000_cap",
+      "style": 171,
+      "name": ""
+    },
+    {
+      "$id": 287,
+      "label": "BP_DOLL_WPN_DW_SSP_VOLT_HORN_6000_cap",
+      "style": 171,
+      "name": ""
+    },
+    {
+      "$id": 288,
+      "label": "BP_DOLL_WPN_DW_SSP_VOLT_HORN_8000_cap",
+      "style": 171,
+      "name": ""
+    },
+    {
+      "$id": 289,
+      "label": "BP_DOLL_WPN_DW_SSP_ANTI_LONG_ASSALT_4000_cap",
+      "style": 171,
+      "name": ""
+    },
+    {
+      "$id": 290,
+      "label": "BP_DOLL_WPN_DW_SSP_ANTI_LONG_ASSALT_6000_cap",
+      "style": 171,
+      "name": ""
+    },
+    {
+      "$id": 291,
+      "label": "BP_DOLL_WPN_DW_SSP_ANTI_LONG_ASSALT_8000_cap",
+      "style": 171,
+      "name": ""
+    },
+    {
+      "$id": 292,
+      "label": "BP_DOLL_WPN_DW_SSP_DRILPILE_4000_cap",
+      "style": 171,
+      "name": ""
+    },
+    {
+      "$id": 293,
+      "label": "BP_DOLL_WPN_DW_SSP_DRILPILE_6000_cap",
+      "style": 171,
+      "name": ""
+    },
+    {
+      "$id": 294,
+      "label": "BP_DOLL_WPN_DW_SSP_DRILPILE_8000_cap",
+      "style": 171,
+      "name": ""
+    },
+    {
+      "$id": 295,
+      "label": "BP_DOLL_WPN_DW_SSP_HI_FUNNEL_4000_cap",
+      "style": 171,
+      "name": ""
+    },
+    {
+      "$id": 296,
+      "label": "BP_DOLL_WPN_DW_SSP_HI_FUNNEL_6000_cap",
+      "style": 171,
+      "name": ""
+    },
+    {
+      "$id": 297,
+      "label": "BP_DOLL_WPN_DW_SSP_HI_FUNNEL_8000_cap",
+      "style": 171,
+      "name": ""
+    },
+    {
+      "$id": 298,
+      "label": "BP_DOLL_WPN_DW_SSP_DISK_FUNNEL_4000_cap",
+      "style": 171,
+      "name": ""
+    },
+    {
+      "$id": 299,
+      "label": "BP_DOLL_WPN_DW_SSP_DISK_FUNNEL_6000_cap",
+      "style": 171,
+      "name": ""
+    },
+    {
+      "$id": 300,
+      "label": "BP_DOLL_WPN_DW_SSP_DISK_FUNNEL_8000_cap",
+      "style": 171,
+      "name": ""
+    },
+    {
+      "$id": 301,
+      "label": "BP_DOLL_WPN_DW_SSP_SWD_ARM_4000_cap",
+      "style": 171,
+      "name": ""
+    },
+    {
+      "$id": 302,
+      "label": "BP_DOLL_WPN_DW_SSP_SWD_ARM_6000_cap",
+      "style": 171,
+      "name": ""
+    },
+    {
+      "$id": 303,
+      "label": "BP_DOLL_WPN_DW_SSP_SWD_ARM_8000_cap",
+      "style": 171,
+      "name": ""
+    },
+    {
+      "$id": 304,
+      "label": "BP_DOLL_WPN_DW_SSP_ROUND_BEAM_4000_cap",
+      "style": 171,
+      "name": ""
+    },
+    {
+      "$id": 305,
+      "label": "BP_DOLL_WPN_DW_SSP_ROUND_BEAM_6000_cap",
+      "style": 171,
+      "name": ""
+    },
+    {
+      "$id": 306,
+      "label": "BP_DOLL_WPN_DW_SSP_ROUND_BEAM_8000_cap",
+      "style": 171,
+      "name": ""
+    },
+    {
+      "$id": 307,
+      "label": "BP_DOLL_WPN_DW_SSP_BOM_CHAIN_4000_cap",
+      "style": 171,
+      "name": ""
+    },
+    {
+      "$id": 308,
+      "label": "BP_DOLL_WPN_DW_SSP_BOM_CHAIN_6000_cap",
+      "style": 171,
+      "name": ""
+    },
+    {
+      "$id": 309,
+      "label": "BP_DOLL_WPN_DW_SSP_BOM_CHAIN_8000_cap",
+      "style": 171,
+      "name": ""
+    },
+    {
+      "$id": 310,
+      "label": "BP_DOLL_WPN_DW_SSP_FLAME_ASSALT_4000_cap",
+      "style": 171,
+      "name": ""
+    },
+    {
+      "$id": 311,
+      "label": "BP_DOLL_WPN_DW_SSP_FLAME_ASSALT_6000_cap",
+      "style": 171,
+      "name": ""
+    },
+    {
+      "$id": 312,
+      "label": "BP_DOLL_WPN_DW_SSP_FLAME_ASSALT_8000_cap",
+      "style": 171,
+      "name": ""
+    },
+    {
+      "$id": 313,
+      "label": "BP_DOLL_ASSET_DEF_DL01700XS_name",
+      "style": 18,
+      "name": ""
+    },
+    {
+      "$id": 314,
+      "label": "BP_DOLL_ASSET_DEF_DL01800XS_name",
+      "style": 18,
+      "name": "FILE-SK-FORMULA80"
+    },
+    {
+      "$id": 315,
+      "label": "BP_DOLL_ASSET_DEF_DL02700XS_name",
+      "style": 18,
+      "name": ""
+    },
+    {
+      "$id": 316,
+      "label": "BP_DOLL_ASSET_DEF_DL02800XS_name",
+      "style": 18,
+      "name": "FILE-SK-URBAN80"
+    },
+    {
+      "$id": 317,
+      "label": "BP_DOLL_ASSET_DEF_DL03700XS_name",
+      "style": 18,
+      "name": ""
+    },
+    {
+      "$id": 318,
+      "label": "BP_DOLL_ASSET_DEF_DL03800XS_name",
+      "style": 18,
+      "name": "FILE-SK-VERUS80"
+    },
+    {
+      "$id": 319,
+      "label": "BP_DOLL_ASSET_DEF_DL04700XS_name",
+      "style": 18,
+      "name": ""
+    },
+    {
+      "$id": 320,
+      "label": "BP_DOLL_ASSET_DEF_DL04800XS_name",
+      "style": 18,
+      "name": "FILE-SK-LAILAH80"
+    },
+    {
+      "$id": 321,
+      "label": "BP_DOLL_ASSET_DEF_DL05700XS_name",
+      "style": 18,
+      "name": ""
+    },
+    {
+      "$id": 322,
+      "label": "BP_DOLL_ASSET_DEF_DL05800XS_name",
+      "style": 18,
+      "name": "FILE-SK-INFERNO80"
+    },
+    {
+      "$id": 323,
+      "label": "BP_DOLL_ASSET_DEF_DL06700XS_name",
+      "style": 18,
+      "name": ""
+    },
+    {
+      "$id": 324,
+      "label": "BP_DOLL_ASSET_DEF_DL06800XS_name",
+      "style": 18,
+      "name": "FILE-SK-MASTEMA80"
+    },
+    {
+      "$id": 325,
+      "label": "BP_DOLL_ASSET_DEF_DL07700XS_name",
+      "style": 18,
+      "name": ""
+    },
+    {
+      "$id": 326,
+      "label": "BP_DOLL_ASSET_DEF_DL07800XS_name",
+      "style": 18,
+      "name": "FILE-SK-AMDUSIAS80"
+    },
+    {
+      "$id": 327,
+      "label": "BP_DOLL_ASSET_DEF_DL09500XS_name",
+      "style": 18,
+      "name": ""
+    },
+    {
+      "$id": 328,
+      "label": "BP_DOLL_ASSET_DEF_DL09700XS_name",
+      "style": 18,
+      "name": "FILE-SK-ARES70"
+    },
+    {
+      "$id": 329,
+      "label": "BP_DOLL_ASSET_DEF_DL09900XS_name",
+      "style": 18,
+      "name": "FILE-SK-ARES90"
+    },
+    {
+      "$id": 330,
+      "label": "BP_DOLL_ASSET_DEF_DL083000DLC_name",
+      "style": 18,
+      "name": "FILE-SK-DOZER"
+    },
+    {
+      "$id": 331,
+      "label": "BP_DOLL_ASSET_DEF_DL023000DLC_name",
+      "style": 18,
+      "name": "FILE-SK-POLICE"
+    },
+    {
+      "$id": 332,
+      "label": "BP_DOLL_ASSET_DEF_DL086000DLC_name",
+      "style": 18,
+      "name": "FILE-SK-EXCAVATOR60"
+    },
+    {
+      "$id": 333,
+      "label": "BP_DOLL_ASSET_DEF_DL01700XS_cap",
+      "style": 171,
+      "name": ""
+    },
+    {
+      "$id": 334,
+      "label": "BP_DOLL_ASSET_DEF_DL01800XS_cap",
+      "style": 171,
+      "name": ""
+    },
+    {
+      "$id": 335,
+      "label": "BP_DOLL_ASSET_DEF_DL02700XS_cap",
+      "style": 171,
+      "name": ""
+    },
+    {
+      "$id": 336,
+      "label": "BP_DOLL_ASSET_DEF_DL02800XS_cap",
+      "style": 171,
+      "name": ""
+    },
+    {
+      "$id": 337,
+      "label": "BP_DOLL_ASSET_DEF_DL03700XS_cap",
+      "style": 171,
+      "name": ""
+    },
+    {
+      "$id": 338,
+      "label": "BP_DOLL_ASSET_DEF_DL03800XS_cap",
+      "style": 171,
+      "name": ""
+    },
+    {
+      "$id": 339,
+      "label": "BP_DOLL_ASSET_DEF_DL04700XS_cap",
+      "style": 171,
+      "name": ""
+    },
+    {
+      "$id": 340,
+      "label": "BP_DOLL_ASSET_DEF_DL04800XS_cap",
+      "style": 171,
+      "name": ""
+    },
+    {
+      "$id": 341,
+      "label": "BP_DOLL_ASSET_DEF_DL05700XS_cap",
+      "style": 171,
+      "name": ""
+    },
+    {
+      "$id": 342,
+      "label": "BP_DOLL_ASSET_DEF_DL05800XS_cap",
+      "style": 171,
+      "name": ""
+    },
+    {
+      "$id": 343,
+      "label": "BP_DOLL_ASSET_DEF_DL06700XS_cap",
+      "style": 171,
+      "name": ""
+    },
+    {
+      "$id": 344,
+      "label": "BP_DOLL_ASSET_DEF_DL06800XS_cap",
+      "style": 171,
+      "name": ""
+    },
+    {
+      "$id": 345,
+      "label": "BP_DOLL_ASSET_DEF_DL07700XS_cap",
+      "style": 171,
+      "name": ""
+    },
+    {
+      "$id": 346,
+      "label": "BP_DOLL_ASSET_DEF_DL07800XS_cap",
+      "style": 171,
+      "name": ""
+    },
+    {
+      "$id": 347,
+      "label": "BP_DOLL_ASSET_DEF_DL09500XS_cap",
+      "style": 171,
+      "name": ""
+    },
+    {
+      "$id": 348,
+      "label": "BP_DOLL_ASSET_DEF_DL09700XS_cap",
+      "style": 171,
+      "name": ""
+    },
+    {
+      "$id": 349,
+      "label": "BP_DOLL_ASSET_DEF_DL09900XS_cap",
+      "style": 171,
+      "name": ""
+    },
+    {
+      "$id": 350,
+      "label": "BP_DOLL_ASSET_DEF_DL083000DLC_cap",
+      "style": 171,
+      "name": ""
+    },
+    {
+      "$id": 351,
+      "label": "BP_DOLL_ASSET_DEF_DL023000DLC_cap",
+      "style": 171,
+      "name": ""
+    },
+    {
+      "$id": 352,
+      "label": "BP_DOLL_ASSET_DEF_DL086000DLC_cap",
+      "style": 171,
+      "name": ""
+    },
+    {
+      "$id": 353,
+      "label": "BP_DOLL_ASSET_DEF_DL085000DLC_name",
+      "style": 18,
+      "name": "FILE-SK-EXCAVATOR50"
+    },
+    {
+      "$id": 354,
+      "label": "BP_DOLL_ASSET_DEF_DL085000DLC_cap",
+      "style": 171,
+      "name": "A schematic for a new model of Skell.\nSkell: US0850 Excavator"
+    },
+    {
+      "$id": 355,
+      "label": "BP_DOLL_ASSET_DEF_DL12600S_name",
+      "style": 18,
+      "name": "FILE-SK-HRAESVELG"
+    },
+    {
+      "$id": 356,
+      "label": "BP_DOLL_ASSET_DEF_DL12600S_cap",
+      "style": 171,
+      "name": "A schematic for a new model of Skell.\nSkell: Hraesvelg Lord"
+    }
+  ]
+}

@@ -1,0 +1,294 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev020401_JNK0010",
+      "style": 4,
+      "name": "Inquire"
+    },
+    {
+      "$id": 2,
+      "label": "tev020401_SEL0011",
+      "style": 3,
+      "name": "Ask Anna about data probe installation sites."
+    },
+    {
+      "$id": 3,
+      "label": "tev020401_JNK0020",
+      "style": 4,
+      "name": "Discuss"
+    },
+    {
+      "$id": 4,
+      "label": "tev020401_SEL0021",
+      "style": 3,
+      "name": "Ask Anna if anything is troubling her."
+    },
+    {
+      "$id": 5,
+      "label": "tev020401_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 6,
+      "label": "tev020401_SEL0031",
+      "style": 3,
+      "name": "Ask Anna why NLA is only half-built."
+    },
+    {
+      "$id": 7,
+      "label": "tev020401_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 8,
+      "label": "tev020401_SEL0021",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 9,
+      "label": "tev020401_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 10,
+      "label": "tev020401_SEL0041",
+      "style": 3,
+      "name": "Ask Anna about the construction of NLA."
+    },
+    {
+      "$id": 11,
+      "label": "tev020401_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 12,
+      "label": "tev020401_SEL0021",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 13,
+      "label": "tev020401_SEL1021",
+      "style": 3,
+      "name": "Ask Anna about recent developments."
+    },
+    {
+      "$id": 14,
+      "label": "tev020401_SEL1041",
+      "style": 3,
+      "name": "Ask Anna about recent developments."
+    },
+    {
+      "$id": 15,
+      "label": "tev020401_MSG0001",
+      "style": 1,
+      "name": "Oh? Are you a new recruit as well?\nI just finished up with my training, too.[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "tev020401_MSG0002",
+      "style": 1,
+      "name": "For our training, we left through this gate and\nsurveyed western Primordia, but it looks like yours is...[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "tev020401_MSG0003",
+      "style": 1,
+      "name": "Oh wow! Yours is in the complete opposite direction!\nYeah, you'll get there a lot faster by leaving through\nthe gate in the administrative district.[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "tev020401_MSG0004",
+      "style": 1,
+      "name": "Be careful out there. You never know what sorts of\nindigens you'll run into.[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "tev020401_MSG0005",
+      "style": 1,
+      "name": "And if you DO run into trouble, escape by sprinting to\nsafety. I mean, how lame would it be to get yourself\nkilled while you're still in training? Em-BARR-assing![ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "tev020401_MSG0008",
+      "style": 1,
+      "name": "I'm searching for a Pathfinder team to join,\nbut I can't decide which one. I feel like I've been\nagonizing over this decision forever![ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "tev020401_MSG0009",
+      "style": 1,
+      "name": "I mean, the responsibilities of BLADE are too much for\na single new recruit. Plus, going on long missions\nwithout anyone to talk to would drive me crazy![ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "tev020401_MSG0010",
+      "style": 1,
+      "name": "So I've been checking out the various options.\nRobert's team is looking pretty good...[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "tev020401_MSG0011",
+      "style": 1,
+      "name": "As team captain, Robert seems like he's well-prepared\nand a good planner. I feel like I'd be safe putting my\nlife in his hands.[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "tev020401_MSG0012",
+      "style": 1,
+      "name": "Also, he seems nice and clean, which is important.\nI want someone who lets me bathe during mission\ndowntimes.[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "tev020401_MSG0020",
+      "style": 1,
+      "name": "...What? Do you have amnesia or something?[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "tev020401_MSG0021",
+      "style": 1,
+      "name": "Well, the Habitat—as this residential unit was known—\nwas built after we fled Earth, WHILE the White Whale\nwas in flight.[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "tev020401_MSG0022",
+      "style": 1,
+      "name": "But then the stupid xenoform attack forced us to make\na crash landing.[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "tev020401_MSG0023",
+      "style": 1,
+      "name": "The still-unfinished Habitat unit ended up coming\ndown right here on Mira.[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "tev020401_MSG0024",
+      "style": 1,
+      "name": "Now that we no longer have access to the Whale's\nconstruction unit, we'll have to finish the job with\nhuman manpower.[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "tev020401_MSG0025",
+      "style": 1,
+      "name": "So let's work hard and get the job done right![ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "tev020401_MSG0040",
+      "style": 1,
+      "name": "It's pretty incredible that after sustaining an attack of\nthat severity, none of the buildings in New LA seem\nto be heavily damaged.[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "tev020401_MSG0041",
+      "style": 1,
+      "name": "From the looks of the city, you'd never guess that we'd\nbeen attacked in the first place![ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "tev020401_MSG0042",
+      "style": 1,
+      "name": "I was kind of curious, so I asked Ciska about it.\nShe knows everything about everything, you know?[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "tev020401_MSG0043",
+      "style": 1,
+      "name": "She said that New LA was designed to look like a\nclassic American town.[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "tev020401_MSG0044",
+      "style": 1,
+      "name": "Also, the buildings are made out of steel and coated\nwith an earthquake-resistant resin that can even\nwithstand the impact of artillery shells![ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "tev020401_MSG0045",
+      "style": 1,
+      "name": "THAT'S what I call the last stronghold of humanity!\nThis place can even keep us safe from the Ganglion.[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "tev020401_MSG1046",
+      "style": 1,
+      "name": "Ahhhh... Nothing beats taking a nice long bath to\nunwind and relax.[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "tev020401_MSG1047",
+      "style": 1,
+      "name": "It was nice of Robert to be so patient with me.\nI'll keep working hard on the next mission![ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "tev020401_MSG1048",
+      "style": 1,
+      "name": "Aren't baths the greatest? I don't care what corner\nof the galaxy humanity will have to flee to next—\nas long as they have baths, I'm set![ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "tev020401_MSG1049",
+      "style": 1,
+      "name": "I actually suggested to Kan'tonam that he start bathing.[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "tev020401_MSG1050",
+      "style": 1,
+      "name": "But he said it would make his skin swell up.\nI guess all Orpheans must be that way?[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "tev020401_MSG1051",
+      "style": 1,
+      "name": "None of them will ever know the joys of a good bath.\nThose poor, poor bastards...[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "tev020401_MSG1060",
+      "style": 1,
+      "name": "I am now the chairperson of the New LA Hot Springs\nAssociation![ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "tev020401_MSG1061",
+      "style": 1,
+      "name": "So far the only other member is Ciska, who shares\nmy love of long baths and natural spring spas.[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "tev020401_MSG1062",
+      "style": 1,
+      "name": "But I swear that we will accomplish our secret plan of\none day building a public hot springs in New LA.\nI hope we can count on your behind-the-scenes support![ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "tev020401_MSG1063",
+      "style": 1,
+      "name": "Our motto is \"Springs before Other Things.\"\nFor New LA will never be complete so long\nas it lacks a decent hot springs spa![ST:wait ]"
+    }
+  ]
+}

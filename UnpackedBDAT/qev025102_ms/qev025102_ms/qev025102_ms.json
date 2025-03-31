@@ -1,0 +1,696 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev025102_MSG0001",
+      "style": 1,
+      "name": "Er, have you decided to assist me with my\ninvestigation yet, maybe?[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev025102_MSG0002",
+      "style": 1,
+      "name": "I really really need your help, you know?[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev025102_MSG0003",
+      "style": 1,
+      "name": "Oh, good! Jim told me to ask another BLADE if I ever\nneeded help, and it seems he was correct.[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev025102_MSG0004",
+      "style": 1,
+      "name": "I would ask you to start with questioning, okay?\nI have a specific human I want you to consult.[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev025102_JNK0010",
+      "style": 4,
+      "name": "Inquire"
+    },
+    {
+      "$id": 6,
+      "label": "qev025102_SEL0011",
+      "style": 3,
+      "name": "Ask what Ackwar is going to do in the meantime."
+    },
+    {
+      "$id": 7,
+      "label": "qev025102_JNK0020",
+      "style": 4,
+      "name": "Get Down to Business"
+    },
+    {
+      "$id": 8,
+      "label": "qev025102_SEL0021",
+      "style": 3,
+      "name": "Learn who Ackwar wants you to interview."
+    },
+    {
+      "$id": 9,
+      "label": "qev025102_MSG0005",
+      "style": 1,
+      "name": "Er, well, I'll be investigating the scene.\nThe culprit must have left some trace behind, right?[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev025102_MSG0006",
+      "style": 1,
+      "name": "Meanwhile, I want you to go to a ridiculously delicious\nbusiness called Army Pizza, okay? So good.\nSo so so good.[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev025102_MSG0007",
+      "style": 1,
+      "name": "If I remember correctly, the owner is named Powell?\nHe was close to Duduma, who is the...the victim.[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev025102_MSG0008",
+      "style": 1,
+      "name": "Ask about her past, okay? Maybe what she liked?\nWhatever you can learn about her.[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev025102_MSG0009",
+      "style": 1,
+      "name": "There is a ridiculously delicious business in the\ncommercial district called Army Pizza, isn't there?\nSo good. So so so good.[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev025102_MSG0010",
+      "style": 1,
+      "name": "If I remember correctly, the owner is named Powell?\nHe was close to Duduma, who is the...the victim.[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev025102_MSG0011",
+      "style": 1,
+      "name": "Ask about her past, okay? Maybe what she liked?\nWhatever you can learn about her.[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev025102_MSG0012",
+      "style": 1,
+      "name": "Thanks, and good luck! I'm sure we'll crack this case\ntogether, don't you think?[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev025102_MSG0013",
+      "style": 1,
+      "name": "If if if we count this case as a murder, that makes five\nMa-non killed, correct?[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev025102_MSG0014",
+      "style": 1,
+      "name": "As a BLADE and as a Ma-non, I can't allow these\ncrimes to go unpunished, you know?[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev025102_MSG0015",
+      "style": 1,
+      "name": "I'll be here searching the scene, okay? So maybe you\ngo see what you can learn from Powell?[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev025102_MSG0016",
+      "style": 1,
+      "name": "I've got about as much as I'm likely to get here, yes?\nDid you find anything?[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev025102_MSG0017",
+      "style": 1,
+      "name": "Hmm? The victim, Duduma, had been fighting with\nGerome? That sounds suspiciously like a suspect, right?[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev025102_JNK0030",
+      "style": 4,
+      "name": "Ask about the Suspect"
+    },
+    {
+      "$id": 23,
+      "label": "qev025102_SEL0031",
+      "style": 3,
+      "name": "Find out what Ackwar knows about Gerome."
+    },
+    {
+      "$id": 24,
+      "label": "qev025102_JNK0040",
+      "style": 4,
+      "name": "Ask about the Case"
+    },
+    {
+      "$id": 25,
+      "label": "qev025102_SEL0041",
+      "style": 3,
+      "name": "See if Ackwar learned anything from the scene."
+    },
+    {
+      "$id": 26,
+      "label": "qev025102_MSG0018",
+      "style": 1,
+      "name": "Gerome is a BLADE, and an infamous Ma-non hater,\nisn't he? He's well-known among my people, at least.[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev025102_MSG0019",
+      "style": 1,
+      "name": "Duduma was hardly the only one Gerome's gotten into\nit with, you know? Other Ma-non have reported that he\nsuddenly punched them out of the blue.[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev025102_MSG0020",
+      "style": 1,
+      "name": "And she'd drawn his attention just before an unnatural\nfall from a great height. Quite suspicious, yes?[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev025102_MSG0021",
+      "style": 1,
+      "name": "I also recently discovered evidence that points to\nDuduma being dead before she allegedly fell, you see?[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev025102_MSG0022",
+      "style": 1,
+      "name": "It adds up to a pretty strong case, yes yes?[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev025102_MSG0023",
+      "style": 1,
+      "name": "It's almost certain the victim, Duduma, was was killed\nBEFORE she allegedly fell, you see?[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev025102_MSG0024",
+      "style": 1,
+      "name": "It looks like a professional job, doesn't it? And since\nGerome is a BLADE... Well, you can see where I am\ngoing with this, right?[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev025102_MSG0025",
+      "style": 1,
+      "name": "It's certainly enough to justify bringing him in for\nquestioning as soon as possible, isn't it?[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev025102_MSG0026",
+      "style": 1,
+      "name": "...Although I, um, had a dinner date with Yuyu tonight\nat Army Pizza, you know?[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev025102_MSG0027",
+      "style": 1,
+      "name": "But I guess this isn't the time for that, huh? No. No no.\nSorry, Yuyu, but dinner will have to wait, won't it?[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev025102_JNK0050",
+      "style": 4,
+      "name": "Praise"
+    },
+    {
+      "$id": 37,
+      "label": "qev025102_SEL0051",
+      "style": 3,
+      "name": "Admire Ackwar's dedication to the job."
+    },
+    {
+      "$id": 38,
+      "label": "qev025102_JNK0060",
+      "style": 4,
+      "name": "Chide"
+    },
+    {
+      "$id": 39,
+      "label": "qev025102_SEL0061",
+      "style": 3,
+      "name": "Remind Ackwar that he cannot work 24/7."
+    },
+    {
+      "$id": 40,
+      "label": "qev025102_MSG0028",
+      "style": 1,
+      "name": "Are you the work-comes-first type as well?\nI always always looked up to people like that.[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "qev025102_MSG0029",
+      "style": 1,
+      "name": "I'll give Yuyu a quick call, okay? Just a moment...[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "qev025102_MSG0030",
+      "style": 1,
+      "name": "Whoever I wind up with is lucky to have me, you say?[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "qev025102_MSG0031",
+      "style": 1,
+      "name": "But Yuyu is the serious professional type, you see?\nShe'd so so kill me if I ditched work to be with her.[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "qev025102_MSG0032",
+      "style": 1,
+      "name": "I need to to to focus on the case for now, okay? Okay.[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "qev025102_MSG0033",
+      "style": 1,
+      "name": "I'll give Yuyu a quick call, okay? Just a moment...[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "qev025102_MSG0034",
+      "style": 1,
+      "name": "...Hello hello, Yuyu?[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "qev025102_MSG0035",
+      "style": 1,
+      "name": "I'm really really sorry, but I can't make dinner tonight.\nI'm at a crucial point in this case, you see?\nThat's okay, isn't it?[ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "qev025102_MSG0036",
+      "style": 1,
+      "name": "...Right. ...Yes yes yes. ...That's right. Okay.\nThank you, Yuyu![ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "qev025102_MSG0037",
+      "style": 1,
+      "name": "Aw, Yuyu... I feel like I could do anything after hearing\nyour encouraging words, you know?[ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "qev025102_MSG0038",
+      "style": 1,
+      "name": "Okay, talk soon. ...Yes. Love love love you too.\nBye-bye.[ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "qev025102_MSG0039",
+      "style": 1,
+      "name": "Phew.[ST:wait ]"
+    },
+    {
+      "$id": 52,
+      "label": "qev025102_MSG0040",
+      "style": 1,
+      "name": "I'm lucky to have a girl who's understanding about my\nwork, aren't I?[ST:wait ]"
+    },
+    {
+      "$id": 53,
+      "label": "qev025102_MSG0041",
+      "style": 1,
+      "name": "...Hmm? Now can I lead the way to Gerome, you say?[ST:wait ]"
+    },
+    {
+      "$id": 54,
+      "label": "qev025102_MSG0042",
+      "style": 1,
+      "name": "Ha ha, right! Sorry, yes? So so sorry. Gerome should\nbe down near one of the commercial district's storage\nareas, I think? I'll meet you there.[ST:wait ]"
+    },
+    {
+      "$id": 55,
+      "label": "qev025102_MSG0043",
+      "style": 1,
+      "name": "So, Gerome. I know you knew a Ma-non girl named\nDuduma, right?[ST:wait ]"
+    },
+    {
+      "$id": 56,
+      "label": "qev025102_MSG0044",
+      "style": 1,
+      "name": "Then, um, maybe drop the silent act and start talking?[ST:wait ]"
+    },
+    {
+      "$id": 57,
+      "label": "qev025102_MSG0045",
+      "style": 1,
+      "name": "......[ST:wait ]"
+    },
+    {
+      "$id": 58,
+      "label": "qev025102_MSG0046",
+      "style": 1,
+      "name": "Ah, [ST:playername ]![ST:wait ]"
+    },
+    {
+      "$id": 59,
+      "label": "qev025102_MSG0047",
+      "style": 1,
+      "name": "I found Gerome, so so so I thought I'd get started with\nthe questioning, you see?[ST:wait ]"
+    },
+    {
+      "$id": 60,
+      "label": "qev025102_MSG0048",
+      "style": 1,
+      "name": "But the stubborn lug doesn't seem inclined to talk to a\nMa-non such as myself, does he?[ST:wait ]"
+    },
+    {
+      "$id": 61,
+      "label": "qev025102_MSG0049",
+      "style": 1,
+      "name": "I think I'll leave this nut to you.\nEr, for cracking?[ST:wait ]"
+    },
+    {
+      "$id": 62,
+      "label": "qev025102_MSG0050",
+      "style": 1,
+      "name": "Gerome headed towards the park, it seems? Follow that\nold Ma-non hater and and and see what you can find\nout, okay?[ST:wait ]"
+    },
+    {
+      "$id": 63,
+      "label": "qev025102_MSG0051",
+      "style": 1,
+      "name": "Did did did you find Gerome? What happened?\nAnd why are you so pale?[ST:wait ]"
+    },
+    {
+      "$id": 64,
+      "label": "qev025102_MSG0052",
+      "style": 1,
+      "name": "...What? He was rigged with explosives? He's dead?\nThat's terrible, yes? So so terrible![ST:wait ]"
+    },
+    {
+      "$id": 65,
+      "label": "qev025102_MSG0053",
+      "style": 1,
+      "name": "But why would... Does that mean he isn't our\nmurderer then? Er, perhaps?[ST:wait ]"
+    },
+    {
+      "$id": 66,
+      "label": "qev025102_MSG0054",
+      "style": 1,
+      "name": "Hmmm...[ST:wait ]"
+    },
+    {
+      "$id": 67,
+      "label": "qev025102_MSG0055",
+      "style": 1,
+      "name": "Now I'm even more confused than before.\nMaybe let's sort through this from the beginning?[ST:wait ]"
+    },
+    {
+      "$id": 68,
+      "label": "qev025102_MSG0056",
+      "style": 1,
+      "name": "...Hm? Sorry, I've got a mail, it seems?\nAnd Yuyu's the only one with this address, so...[ST:wait ]"
+    },
+    {
+      "$id": 69,
+      "label": "qev025102_MSG0057",
+      "style": 1,
+      "name": "Th-this this this photo... It's Yuyu![ST:wait ]"
+    },
+    {
+      "$id": 70,
+      "label": "qev025102_MSG0058",
+      "style": 1,
+      "name": "She's been strung up in the Weeping Whitewood\nover in in in Noctilum![ST:wait ]"
+    },
+    {
+      "$id": 71,
+      "label": "qev025102_MSG0059",
+      "style": 1,
+      "name": "And and and there's a scirpo nipping at her feet![ST:wait ]"
+    },
+    {
+      "$id": 72,
+      "label": "qev025102_JNK0070",
+      "style": 4,
+      "name": "Move Out"
+    },
+    {
+      "$id": 73,
+      "label": "qev025102_SEL0071",
+      "style": 3,
+      "name": "Tell Ackwar that you need to move, now."
+    },
+    {
+      "$id": 74,
+      "label": "qev025102_JNK0080",
+      "style": 4,
+      "name": "Deduce"
+    },
+    {
+      "$id": 75,
+      "label": "qev025102_SEL0081",
+      "style": 3,
+      "name": "Speculate that Ackwar knows the perpetrator."
+    },
+    {
+      "$id": 76,
+      "label": "qev025102_MSG0060",
+      "style": 1,
+      "name": "R-right! I've got to go save her, yes![ST:wait ]"
+    },
+    {
+      "$id": 77,
+      "label": "qev025102_MSG0061",
+      "style": 1,
+      "name": "I don't know... I don't know, I don't know!\nBut I have to go save her, right? Right! Yes![ST:wait ]"
+    },
+    {
+      "$id": 78,
+      "label": "qev025102_MSG0062",
+      "style": 1,
+      "name": "Did did did you find Gerome? What happened?\nAnd why are you so pale?[ST:wait ]"
+    },
+    {
+      "$id": 79,
+      "label": "qev025102_MSG0063",
+      "style": 1,
+      "name": "...What? He was rigged with explosives?[ST:wait ]"
+    },
+    {
+      "$id": 80,
+      "label": "qev025102_MSG0064",
+      "style": 1,
+      "name": "And you defused them but he died anyway?\nPoison or something, maybe? That's terrible.[ST:wait ]"
+    },
+    {
+      "$id": 81,
+      "label": "qev025102_MSG0065",
+      "style": 1,
+      "name": "Hmmm...[ST:wait ]"
+    },
+    {
+      "$id": 82,
+      "label": "qev025102_MSG0066",
+      "style": 1,
+      "name": "This mystery just keeps getting deeper and deeper,\ndoesn't it? But thank you. Without your help, we'd\nhave lost some critical evidence, wouldn't we?[ST:wait ]"
+    },
+    {
+      "$id": 83,
+      "label": "qev025102_MSG0067",
+      "style": 1,
+      "name": "I'll contact forensics and have them take a look at at at\nhis body, okay?[ST:wait ]"
+    },
+    {
+      "$id": 84,
+      "label": "qev025102_MSG0068",
+      "style": 1,
+      "name": "We we will arrest whoever is responsible, won't we?\nI swear it, yes? Yes. Sworn.[ST:wait ]"
+    },
+    {
+      "$id": 85,
+      "label": "qev025102_MSG0069",
+      "style": 1,
+      "name": "...Hm? Sorry, I've got a mail, it seems?\nAnd Yuyu's the only one with this address, so...[ST:wait ]"
+    },
+    {
+      "$id": 86,
+      "label": "qev025102_MSG0070",
+      "style": 1,
+      "name": "Th-this this this photo... It's Yuyu![ST:wait ]"
+    },
+    {
+      "$id": 87,
+      "label": "qev025102_MSG0071",
+      "style": 1,
+      "name": "She's been strung up in the Weeping Whitewood\nover in in in Noctilum![ST:wait ]"
+    },
+    {
+      "$id": 88,
+      "label": "qev025102_MSG0072",
+      "style": 1,
+      "name": "And and and there's a scirpo nipping at her feet![ST:wait ]"
+    },
+    {
+      "$id": 89,
+      "label": "qev025102_JNK0090",
+      "style": 4,
+      "name": "Move Out"
+    },
+    {
+      "$id": 90,
+      "label": "qev025102_SEL0091",
+      "style": 3,
+      "name": "Tell Ackwar that you need to move, now."
+    },
+    {
+      "$id": 91,
+      "label": "qev025102_JNK0100",
+      "style": 4,
+      "name": "Deduce"
+    },
+    {
+      "$id": 92,
+      "label": "qev025102_SEL0101",
+      "style": 3,
+      "name": "Speculate that Ackwar knows the perpetrator."
+    },
+    {
+      "$id": 93,
+      "label": "qev025102_MSG0073",
+      "style": 1,
+      "name": "R-right! I've got to go save her, yes![ST:wait ]"
+    },
+    {
+      "$id": 94,
+      "label": "qev025102_MSG0074",
+      "style": 1,
+      "name": "I don't know... I don't know, I don't know!\nBut I have to go save her, right? Right! Yes![ST:wait ]"
+    },
+    {
+      "$id": 95,
+      "label": "qev025102_MSG0075",
+      "style": 1,
+      "name": "You killed Powell, yes?\n...Then the case is closed, isn't it?[ST:wait ]"
+    },
+    {
+      "$id": 96,
+      "label": "qev025102_MSG0076",
+      "style": 1,
+      "name": "I bet Yuyu would have been proud of me...[ST:wait ]"
+    },
+    {
+      "$id": 97,
+      "label": "qev025102_MSG0077",
+      "style": 1,
+      "name": "Whenever I'd get down, she was there to shake me out\nof it, you know? To get mad and tell me to go back to\nwork. So yes, I think she'd be proud.[ST:wait ]"
+    },
+    {
+      "$id": 98,
+      "label": "qev025102_JNK0110",
+      "style": 4,
+      "name": "Agree"
+    },
+    {
+      "$id": 99,
+      "label": "qev025102_SEL0111",
+      "style": 3,
+      "name": "Say Yuyu would be very proud."
+    },
+    {
+      "$id": 100,
+      "label": "qev025102_JNK0120",
+      "style": 4,
+      "name": "Disagree"
+    },
+    {
+      "$id": 101,
+      "label": "qev025102_SEL0121",
+      "style": 3,
+      "name": "Imply that Yuyu would want more from Ackwar."
+    },
+    {
+      "$id": 102,
+      "label": "qev025102_MSG0078",
+      "style": 1,
+      "name": "You really are really really kind, aren't you?\nI'm fortunate to have met you, am I not?[ST:wait ]"
+    },
+    {
+      "$id": 103,
+      "label": "qev025102_MSG0079",
+      "style": 1,
+      "name": "Yuyu... I hope you're out there somewhere enjoying a\npizza and looking down at me, yes?[ST:wait ]"
+    },
+    {
+      "$id": 104,
+      "label": "qev025102_MSG0080",
+      "style": 1,
+      "name": "I have to make sure this sort of tragedy never happens\nagain, you know? I can't ever give up![ST:wait ]"
+    },
+    {
+      "$id": 105,
+      "label": "qev025102_MSG0081",
+      "style": 1,
+      "name": "Thank you. It's times like this when when that sort\nof encouragement is is needed most, right?[ST:wait ]"
+    },
+    {
+      "$id": 106,
+      "label": "qev025102_MSG0082",
+      "style": 1,
+      "name": "My detective career isn't over, no? As you say,\nthere is much more I can do, isn't there?[ST:wait ]"
+    },
+    {
+      "$id": 107,
+      "label": "qev025102_MSG0083",
+      "style": 1,
+      "name": "And I'm sure Yuyu would be right beside you\ntelling me to keep at it, yes?[ST:wait ]"
+    },
+    {
+      "$id": 108,
+      "label": "qev025102_MSG0084",
+      "style": 1,
+      "name": "I need to to to make sure she can look down on\nme and always be proud, right?[ST:wait ]"
+    },
+    {
+      "$id": 109,
+      "label": "qev025102_MSG0085",
+      "style": 1,
+      "name": "I'm headed back to the city, okay?\nBut maybe let me give you this before I go?[ST:wait ]"
+    },
+    {
+      "$id": 110,
+      "label": "qev025102_MSG0086",
+      "style": 1,
+      "name": "It's thanks to you we pinned down the killer's identity,\nyou know? You're the best partner a detective could\never ever ask for.[ST:wait ]"
+    },
+    {
+      "$id": 111,
+      "label": "qev025102_MSG0087",
+      "style": 1,
+      "name": "But still, why would Powell do this? None of the people\nhe hurt were responsible for what happened to his wife,\nwere they?[ST:wait ]"
+    },
+    {
+      "$id": 112,
+      "label": "qev025102_MSG0088",
+      "style": 1,
+      "name": "All the Ma-non who died just loved the food he made,\nyou know?[ST:wait ]"
+    },
+    {
+      "$id": 113,
+      "label": "qev025102_MSG0089",
+      "style": 1,
+      "name": "I guess that's all over now though, isn't it?\nSuch such a shame.[ST:wait ]"
+    }
+  ]
+}

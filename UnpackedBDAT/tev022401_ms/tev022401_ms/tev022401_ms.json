@@ -1,0 +1,174 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev022401_JNK0010",
+      "style": 4,
+      "name": "Inquire[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev022401_SEL0011",
+      "style": 3,
+      "name": "Ask Jo about the infrastructure of NLA.[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev022401_JNK0020",
+      "style": 4,
+      "name": "Discuss[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev022401_SEL0021",
+      "style": 3,
+      "name": "Ask Jo about recent developments.[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev022401_SEL0031",
+      "style": 3,
+      "name": "Ask Jo about her work.[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "tev022401_SEL0051",
+      "style": 3,
+      "name": "Ask Jo about her work.[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "tev022401_MSG0001",
+      "style": 1,
+      "name": "This commercial district was designed to have an\nold-timey flavor.[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "tev022401_MSG0002",
+      "style": 1,
+      "name": "But Armory Alley in the administrative district, where\nBLADEs buy their weapons and such, was built to be\ntotally state-of-the-art. It's pretty amazing.[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "tev022401_MSG0003",
+      "style": 1,
+      "name": "Just press a few buttons at a terminal and you can\nbuy anything. Even Skells![ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "tev022401_MSG0004",
+      "style": 1,
+      "name": "Of course, everything that I touch immediately breaks,\nso I won't be buying anything like that anytime soon.[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev022401_MSG0005",
+      "style": 1,
+      "name": "Bwah! Why are sparks coming out of my ordering\nterminal? And after I just said that... Aaaargh![ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "tev022401_MSG0008",
+      "style": 1,
+      "name": "Welcome to the Sunshine Café![ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "tev022401_MSG0009",
+      "style": 1,
+      "name": "Oh, hey there, [ST:playername ].\nYou probably want a latte or something, huh?[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "tev022401_MSG0010",
+      "style": 1,
+      "name": "Yeaaaaah. See, actually, the espresso machine...\nWell, I kind of broke it. Again.[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "tev022401_MSG0011",
+      "style": 1,
+      "name": "But I could make you a drip coffee in this old-school\nplastic coffee maker![ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "tev022401_MSG0012",
+      "style": 1,
+      "name": "Letrick at the cathedral suggested that, since it probably\nwouldn't break even if I dropped it. He's been such\na big help to me![ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "tev022401_MSG0020",
+      "style": 1,
+      "name": "After I broke my third ordering terminal,\nCoco told me to just use a pen and paper.[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "tev022401_MSG0021",
+      "style": 1,
+      "name": "I haven't actually had to write in longhand since I was\nin school. I've completely forgotten how to spell![ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "tev022401_MSG0022",
+      "style": 1,
+      "name": "What about you, [ST:playername ]?\nI bet you know how scary it is to realize you've\nbecome reliant on a digital world.[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "tev022401_MSG0023",
+      "style": 1,
+      "name": "Anyway, that's one hot coffee. C-O-F-E-E...Y?\nNo, that's weird. Let me try again.[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "tev022401_MSG0024",
+      "style": 1,
+      "name": "...Huh? Oh, come ON! There's no ink coming out!\nAnd this is a brand-new pen![ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "tev022401_MSG0039",
+      "style": 1,
+      "name": "I broke all those ordering terminals, and the pen\nand paper thing didn't work out so well either...[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "tev022401_MSG0040",
+      "style": 1,
+      "name": "So I've decided to just memorize everyone's orders!\nAaaand what can I get you today?[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "tev022401_MSG0041",
+      "style": 1,
+      "name": "...Okay, so you want today's lunch special and\npancake combo. You want pepperoncini in your pasta,\nand afterward, a double espresso with three sugars.[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "tev022401_MSG0042",
+      "style": 1,
+      "name": "...You also want a grappa caffè corretto as an aperitif,\nand on your way out, an iced cappuccino in a to-go\ncup with pistachio ice cream and two...straws?[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "tev022401_MSG0043",
+      "style": 1,
+      "name": "...Oh no! My brain! I broke it![ST:wait ]"
+    }
+  ]
+}

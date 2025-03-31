@@ -1,0 +1,84 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev001711_MSG0010",
+      "style": 1,
+      "name": "I've heard everything.\nOur fight isn't over, is it?[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev001711_MSG0020",
+      "style": 1,
+      "name": "The people of NLA must be feeling so lost\nand uncertain right now. I have to step up\nand be there for everyone...[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev001711_JNK0030",
+      "style": 4,
+      "name": "Agree"
+    },
+    {
+      "$id": 4,
+      "label": "tev001711_SEL0040",
+      "style": 3,
+      "name": "Add Hope to your team."
+    },
+    {
+      "$id": 5,
+      "label": "tev001711_MSG0050",
+      "style": 1,
+      "name": "Yes, of course. I'm at your disposal.\nI want to help in whatever way I can.[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "tev001711_JNK0060",
+      "style": 4,
+      "name": "Refuse"
+    },
+    {
+      "$id": 7,
+      "label": "tev001711_SEL0070",
+      "style": 3,
+      "name": "Decline Hope's request for now."
+    },
+    {
+      "$id": 8,
+      "label": "tev001711_MSG0080",
+      "style": 1,
+      "name": "Okay. I'll take care of everything\nand everyone inside NLA.\nAnd...you stay safe too...[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "tev001711_MSG0090",
+      "style": 1,
+      "name": "Everyone! You're all right![ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "tev001711_MSG0100",
+      "style": 1,
+      "name": "Oh...you came looking for me?\nI'm really sorry that I've caused you\nsuch trouble.[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev001711_MSG0110",
+      "style": 1,
+      "name": "I pray that the others made it as well...\nWe need to find them and make sure\nthey're safe, as quick as we can![ST:wait ]"
+    }
+  ]
+}

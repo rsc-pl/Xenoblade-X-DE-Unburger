@@ -1,0 +1,246 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev001892_MSG0001",
+      "style": 1,
+      "name": "Shhhh! I'm trying to think here! Don't interrupt.[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev001892_MSG0002",
+      "style": 1,
+      "name": "Now, how exactly am I supposed to get in and out of\nSakuraba Industries without being detected? Hmmm...[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev001892_MSG0003",
+      "style": 1,
+      "name": "Night security seems pretty airtight, so I may need to\ngo during the day. Maybe I can pretend to be part of\nthe cleaning crew? I just need a mop...[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev001892_MSG0004",
+      "style": 1,
+      "name": "H-huh? Chief! Is that you?![ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev001892_MSG0005",
+      "style": 1,
+      "name": "I was just...thinking out loud. Yeah, that's the ticket.\nMore meaningless blabber from good ol' Mia![ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "tev001892_JNK0010",
+      "style": 4,
+      "name": "Chastise"
+    },
+    {
+      "$id": 7,
+      "label": "tev001892_SEL0011",
+      "style": 3,
+      "name": "Scold Mia, then stop her before she commits a crime."
+    },
+    {
+      "$id": 8,
+      "label": "tev001892_JNK0020",
+      "style": 4,
+      "name": "Deny"
+    },
+    {
+      "$id": 9,
+      "label": "tev001892_SEL0021",
+      "style": 3,
+      "name": "Pretend that you didn't hear anything."
+    },
+    {
+      "$id": 10,
+      "label": "tev001892_MSG0006",
+      "style": 1,
+      "name": "I've had just about enough of your scheming, Chief![ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev001892_MSG0007",
+      "style": 1,
+      "name": "You just want to get me out of the way so you can\nsteal this mission for yourself![ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "tev001892_MSG0008",
+      "style": 1,
+      "name": "Normally I'm happy to share pretty much whatever,\nbut I'm not giving you this one. I took the mission,\nand I'm gonna be the one to finish it.[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "tev001892_MSG0009",
+      "style": 1,
+      "name": "So quit bugging me, you...you...you bugger![ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "tev001892_MSG0010",
+      "style": 1,
+      "name": "That's a lie, Chief! A dirty, dirty lie!\nI KNOW you heard all my secret thoughts that I was\nsitting here speaking out loud.[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "tev001892_MSG0011",
+      "style": 1,
+      "name": "Pretty funny coincidence how you always happen to\nbe right over my shoulder during key parts of this job,\nhmmm? Hmmmmmmmm?[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "tev001892_MSG0012",
+      "style": 1,
+      "name": "Oh, you heard me all right. You waited until you had\neverything you needed and THEN you decided to\nreveal yourself! Pretty sneaky-sneaky, Chief.[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "tev001892_MSG0013",
+      "style": 1,
+      "name": "But I'm not gonna let you steal this mission from me.\nI took it, and I'm gonna be the one to finish it.[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "tev001892_MSG0014",
+      "style": 1,
+      "name": "So stop trying to thief all my business![ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "tev001892_JNK0030",
+      "style": 4,
+      "name": "Inquire Calmly"
+    },
+    {
+      "$id": 20,
+      "label": "tev001892_SEL0031",
+      "style": 3,
+      "name": "Ask Mia if there is anything you can do to help."
+    },
+    {
+      "$id": 21,
+      "label": "tev001892_JNK0040",
+      "style": 4,
+      "name": "Act Boldly"
+    },
+    {
+      "$id": 22,
+      "label": "tev001892_SEL0041",
+      "style": 3,
+      "name": "Knock Mia out to stop her from committing a crime."
+    },
+    {
+      "$id": 23,
+      "label": "tev001892_MSG0015",
+      "style": 1,
+      "name": "Hmm... Help from ol' Chief [ST:gender p1=himself p2=herself ]?\nI suppose that IS tempting.[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "tev001892_MSG0016",
+      "style": 1,
+      "name": "I mean, this IS a tough job, and there ARE some things\nI could use help with...[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "tev001892_MSG0017",
+      "style": 1,
+      "name": "But nope! I've gotta do 'em myself.[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "tev001892_MSG0018",
+      "style": 1,
+      "name": "It's scary doing it alone, but also less risky.[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "tev001892_MSG0019",
+      "style": 1,
+      "name": "So if you really want to help, just give me your full\ntrust and support. Okay, Chief? That's all I want.[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "tev001892_MSG0020",
+      "style": 1,
+      "name": "Now I need to work out plans B, C, and D,\nso you'll have to excuse me.[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "tev001892_MSG0021",
+      "style": 1,
+      "name": "We'll talk again once all this is over.[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "tev001892_MSG0022",
+      "style": 1,
+      "name": "Stop! You stop right there, [ST:gender p1=buddy p2=missy ]![ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "tev001892_MSG0023",
+      "style": 1,
+      "name": "I know that look in your eyes! You were...\nYou were going to MURDER me![ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "tev001892_MSG0024",
+      "style": 1,
+      "name": "Over my dead body will you murder me, Chief!\nUmmm... I mean... You go to hell![ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "tev001892_MSG0025",
+      "style": 1,
+      "name": "...Huh? You were just going to knock me out?\nWell that's exactly as bad! All my hard work and\nplanning and junk would have been for nothing![ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "tev001892_MSG0026",
+      "style": 1,
+      "name": "And then all of humanity would pay the price for your\nfoolish foolishness.[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "tev001892_MSG0027",
+      "style": 1,
+      "name": "Look, Chief, you just have to trust Mia on this one.[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "tev001892_MSG0028",
+      "style": 1,
+      "name": "I'm gonna go in, take what I need, and get right back\nout again without committing even a single crime.[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "tev001892_MSG0029",
+      "style": 1,
+      "name": "Anyway, I need to work out the details of my totally\nawesome plan, so you'll have to excuse me.[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "tev001892_MSG0030",
+      "style": 1,
+      "name": "We'll talk again once all this is over.[ST:wait ]"
+    }
+  ]
+}

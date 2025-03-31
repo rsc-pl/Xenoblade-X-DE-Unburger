@@ -1,0 +1,600 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev022501_JNK0010",
+      "style": 4,
+      "name": "Inquire[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev022501_SEL0011",
+      "style": 3,
+      "name": "Ask Raleigh about Mira.[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev022501_JNK0020",
+      "style": 1,
+      "name": "Discuss[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev022501_SEL0021",
+      "style": 1,
+      "name": "Ask Raleigh about recent developments.[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev022501_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 6,
+      "label": "tev022501_SEL0031",
+      "style": 3,
+      "name": "Ask about Raleigh's BLADE colleagues.[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "tev022501_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 8,
+      "label": "tev022501_SEL0021",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 9,
+      "label": "tev022501_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 10,
+      "label": "tev022501_SEL0041",
+      "style": 3,
+      "name": "Ask about Raleigh's BLADE colleagues.[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev022501_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 12,
+      "label": "tev022501_SEL0021",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 13,
+      "label": "tev022501_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 14,
+      "label": "tev022501_SEL0051",
+      "style": 1,
+      "name": "Ask Raleigh about data probes.[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "tev022501_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 16,
+      "label": "tev022501_SEL0021",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 17,
+      "label": "tev022501_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 18,
+      "label": "tev022501_SEL0061",
+      "style": 3,
+      "name": "Ask Raleigh about data probes."
+    },
+    {
+      "$id": 19,
+      "label": "tev022501_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 20,
+      "label": "tev022501_SEL0021",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 21,
+      "label": "tev022501_MSG0001",
+      "style": 1,
+      "name": "Mira is a huge world, and we still know next to\nnothing about it.[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "tev022501_MSG0002",
+      "style": 1,
+      "name": "Our base at New LA is well established, but we're\nnow in the same position as our ancestors who landed\nat Plymouth Rock with a whole new world to explore.[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "tev022501_MSG0003",
+      "style": 1,
+      "name": "And to achieve that goal, we'll need to install data\nprobes throughout Mira.[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "tev022501_MSG0004",
+      "style": 1,
+      "name": "Did you already hear about FrontierNav from Defense\nSecretary Nagi?[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "tev022501_MSG0005",
+      "style": 1,
+      "name": "If you haven't, you should go ask him.\nI think he's waiting for you at the BLADE barracks.[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "tev022501_MSG0008",
+      "style": 1,
+      "name": "I'm a member of Team Corwin, which is centered\naround Captain Corwin and his band of explorers\nfrom back on Earth.[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "tev022501_MSG0009",
+      "style": 1,
+      "name": "It's a team loaded with former professional explorers.\nCan you imagine a better group for surveying Mira?[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "tev022501_MSG0010",
+      "style": 1,
+      "name": "A lot of BLADEs get swept up in the idea of joining a\nteam like that and going on grand adventures.[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "tev022501_MSG0011",
+      "style": 1,
+      "name": "And while I'm a sub-leader now, I must admit that I\nused to be one of them. ...I suppose I still am, actually.[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "tev022501_MSG0012",
+      "style": 1,
+      "name": "As a veteran of the Coalition forces, I was initially\nassigned to Irina's Interceptors division.[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "tev022501_MSG0013",
+      "style": 1,
+      "name": "But when I heard Corwin talk about his ambitions,\nI decided I wanted to be a part of them and applied\nfor a transfer to the Pathfinders.[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "tev022501_MSG0014",
+      "style": 1,
+      "name": "The captain really is a fascinating person. As a new\nrecruit, I'm sure they're working you hard, but you\nshould speak with Corwin if you ever have the chance.[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "tev022501_MSG0022",
+      "style": 1,
+      "name": "Nelson's team has recently begun surveying unexplored\nareas.[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "tev022501_MSG0023",
+      "style": 1,
+      "name": "As a fellow Pathfinder, I pray for their safe return.[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "tev022501_MSG0038",
+      "style": 1,
+      "name": "You're that new recruit from Elma's team that\ndiscovered what happened to Nelson's crew, right?[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "tev022501_MSG0039",
+      "style": 1,
+      "name": "You have my thanks for that. My team has worked\nwith Nelson's on many occasions, and we were all\nterribly worried about them.[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "tev022501_MSG0040",
+      "style": 1,
+      "name": "Your report was heartbreaking, but at least now we\nfinally know what happened.[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "tev022501_MSG0041",
+      "style": 1,
+      "name": "As Pathfinders, my team has resolved to fill the void\nleft by their passing and do everything we can to\nexpand FrontierNav throughout Mira.[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "tev022501_MSG0054",
+      "style": 1,
+      "name": "In addition to regular data probes, there are auxiliary\nmodels that can be placed in neighboring placement\nsites to improve the surrounding probes' capabilities.[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "tev022501_MSG0055",
+      "style": 1,
+      "name": "By putting them to clever use, we Pathfinders can\nsignificantly increase the amount of resources we mine\nand revenue we earn.[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "tev022501_MSG0056",
+      "style": 1,
+      "name": "Our job is more than just tromping around Mira\ninstalling data probes, you know?[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "tev022501_MSG0057",
+      "style": 1,
+      "name": "The best Pathfinders are the ones who plan from day\none how to make the most of such options.[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "tev022501_MSG0073",
+      "style": 1,
+      "name": "Have you heard of duplicator probes?\nThey're a type of auxiliary probe.[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "tev022501_MSG0087",
+      "style": 1,
+      "name": "I'm told they can duplicate the functions of the\ndata probe they are placed adjacent to on the\nFrontierNav grid.[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "tev022501_MSG0088",
+      "style": 1,
+      "name": "If true, it's something that could be put to really good\nuse...[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "tev022501_MSG0089",
+      "style": 1,
+      "name": "Basically, it would allow us to double the capabilities of\nthe limited amount of high-performance data probes\nthat are available to us.[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "tev022501_MSG0090",
+      "style": 1,
+      "name": "You could make a considerable amount of revenue by\nusing them wisely.[ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "tev022501_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 49,
+      "label": "tev022501_SEL0051",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 50,
+      "label": "tev022501_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 51,
+      "label": "tev022501_SEL1021",
+      "style": 3,
+      "name": "Ask Raleigh about recent developments.[ST:wait ]"
+    },
+    {
+      "$id": 52,
+      "label": "tev022501_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 53,
+      "label": "tev022501_SEL0061",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 54,
+      "label": "tev022501_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 55,
+      "label": "tev022501_SEL1021",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 56,
+      "label": "tev022501_MSG0074",
+      "style": 1,
+      "name": "We managed to rescue Bates back in Noctilum.[ST:wait ]"
+    },
+    {
+      "$id": 57,
+      "label": "tev022501_MSG0075",
+      "style": 1,
+      "name": "However, while we were there, we were attacked by a\nmysterious xenoform that called herself \"Tempera.\"[ST:wait ]"
+    },
+    {
+      "$id": 58,
+      "label": "tev022501_MSG0076",
+      "style": 1,
+      "name": "She was extremely strong, and seemed to hate humans\nfor some reason.[ST:wait ]"
+    },
+    {
+      "$id": 59,
+      "label": "tev022501_MSG0077",
+      "style": 1,
+      "name": "I doubt that she's just going to leave us alone now.\nI'd better tell the other Pathfinders to be alert.[ST:wait ]"
+    },
+    {
+      "$id": 60,
+      "label": "tev022501_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 61,
+      "label": "tev022501_SEL0051",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 62,
+      "label": "tev022501_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 63,
+      "label": "tev022501_SEL2021",
+      "style": 3,
+      "name": "Ask Raleigh about recent developments.[ST:wait ]"
+    },
+    {
+      "$id": 64,
+      "label": "tev022501_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 65,
+      "label": "tev022501_SEL0061",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 66,
+      "label": "tev022501_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 67,
+      "label": "tev022501_SEL2021",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 68,
+      "label": "tev022501_MSG0078",
+      "style": 1,
+      "name": "Thanks to you, Bates was able to make it home safely.[ST:wait ]"
+    },
+    {
+      "$id": 69,
+      "label": "tev022501_MSG0079",
+      "style": 1,
+      "name": "Poor kid really seems traumatized by what happened.\nJust walking past a Skell earlier was enough to trigger\na memory that left him quivering.[ST:wait ]"
+    },
+    {
+      "$id": 70,
+      "label": "tev022501_MSG0080",
+      "style": 1,
+      "name": "Was that Tempera woman in the black Skell really so\nterrifying?[ST:wait ]"
+    },
+    {
+      "$id": 71,
+      "label": "tev022501_MSG0081",
+      "style": 1,
+      "name": "Well, I'd better warn the other Pathfinders about her.\nI have a bad feeling this isn't over yet...[ST:wait ]"
+    },
+    {
+      "$id": 72,
+      "label": "tev022501_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 73,
+      "label": "tev022501_SEL3011",
+      "style": 3,
+      "name": "Ask Raleigh about team leaders."
+    },
+    {
+      "$id": 74,
+      "label": "tev022501_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 75,
+      "label": "tev022501_SEL3021",
+      "style": 3,
+      "name": "Ask Raleigh about recent developments."
+    },
+    {
+      "$id": 76,
+      "label": "tev022501_MSG0082",
+      "style": 1,
+      "name": "Ha! That reminds me—do you know why only our team\naddresses its leader as \"Captain\"?[ST:wait ]"
+    },
+    {
+      "$id": 77,
+      "label": "tev022501_MSG0083",
+      "style": 1,
+      "name": "Captain Corwin is fond of saying, \"We may have guns,\nbut we aren't soldiers—we're a team of adventurers\nexploring an uncharted world, and I am your captain!\"[ST:wait ]"
+    },
+    {
+      "$id": 78,
+      "label": "tev022501_MSG0084",
+      "style": 1,
+      "name": "He says it so often that everyone just started calling\nhim that.[ST:wait ]"
+    },
+    {
+      "$id": 79,
+      "label": "tev022501_MSG0085",
+      "style": 1,
+      "name": "I guess it's the people who embody a team's ideals that\nnaturally gravitate towards becoming the leader.[ST:wait ]"
+    },
+    {
+      "$id": 80,
+      "label": "tev022501_MSG0086",
+      "style": 1,
+      "name": "I'm sure it's like that with your Elma, hmm?\nOnly when you have a person like that can a team\ntruly come together.[ST:wait ]"
+    },
+    {
+      "$id": 81,
+      "label": "tev022501_MSG0091",
+      "style": 1,
+      "name": "We've suffered a great many losses,\nbut Team Corwin is still standing strong.[ST:wait ]"
+    },
+    {
+      "$id": 82,
+      "label": "tev022501_MSG0092",
+      "style": 1,
+      "name": "Bates, Peter, and Captain Corwin have all made it\nback to us alive.[ST:wait ]"
+    },
+    {
+      "$id": 83,
+      "label": "tev022501_MSG0093",
+      "style": 1,
+      "name": "And it's all thanks to you. I could never have\naccomplished what you did myself.[ST:wait ]"
+    },
+    {
+      "$id": 84,
+      "label": "tev022501_MSG0094",
+      "style": 1,
+      "name": "So thank you. We're all honored to be working with\nyou to further expand FrontierNav![ST:wait ]"
+    },
+    {
+      "$id": 85,
+      "label": "tev022501_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 86,
+      "label": "tev022501_SEL4011",
+      "style": 3,
+      "name": "Ask Raleigh about team leaders."
+    },
+    {
+      "$id": 87,
+      "label": "tev022501_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 88,
+      "label": "tev022501_SEL4021",
+      "style": 3,
+      "name": "Ask Raleigh about recent developments.[ST:wait ]"
+    },
+    {
+      "$id": 89,
+      "label": "tev022501_MSG0095",
+      "style": 1,
+      "name": "Did I ever tell you why only our team addressed its\nleader as \"Captain\"?[ST:wait ]"
+    },
+    {
+      "$id": 90,
+      "label": "tev022501_MSG0096",
+      "style": 1,
+      "name": "Captain Corwin was fond of saying, \"We have guns,\nbut we aren't soldiers—we're a team of adventurers\nexploring an uncharted world, and I am your captain!\"[ST:wait ]"
+    },
+    {
+      "$id": 91,
+      "label": "tev022501_MSG0097",
+      "style": 1,
+      "name": "He said it so often that everyone just started calling\nhim that.[ST:wait ]"
+    },
+    {
+      "$id": 92,
+      "label": "tev022501_MSG0098",
+      "style": 1,
+      "name": "I guess it's the people who embody a team's ideals that\nnaturally gravitate towards becoming the leader.[ST:wait ]"
+    },
+    {
+      "$id": 93,
+      "label": "tev022501_MSG0099",
+      "style": 1,
+      "name": "And once a team loses that person,\nI suspect that few are able to survive.[ST:wait ]"
+    },
+    {
+      "$id": 94,
+      "label": "tev022501_MSG0100",
+      "style": 1,
+      "name": "Sadly, I doubt Team Corwin will fare any differently.[ST:wait ]"
+    },
+    {
+      "$id": 95,
+      "label": "tev022501_MSG0105",
+      "style": 1,
+      "name": "I already told this to Peter, but...I'm thinking about\ndissolving the team.[ST:wait ]"
+    },
+    {
+      "$id": 96,
+      "label": "tev022501_MSG0106",
+      "style": 1,
+      "name": "I just don't have the strength to shoulder all of what\nI'd be inheriting from Captain Corwin.[ST:wait ]"
+    },
+    {
+      "$id": 97,
+      "label": "tev022501_MSG0107",
+      "style": 1,
+      "name": "I hope Team Elma continues to enjoy the success you've\nhad, and that you never end up where we are now.[ST:wait ]"
+    }
+  ]
+}

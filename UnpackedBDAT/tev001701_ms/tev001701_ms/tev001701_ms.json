@@ -1,0 +1,492 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev001701_MSG0001",
+      "style": 1,
+      "name": "Hello. Is there something you wished to discuss?[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev001701_MSG0002",
+      "style": 1,
+      "name": "I'm speaking with someone else right now,\nso you'll have to wait until we're finished.[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev001701_MSG0003",
+      "style": 1,
+      "name": "But I would very much like to help with whatever is\ntroubling you. So I hope you'll come back and ask\nme again very soon.[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev001701_MSG1001",
+      "style": 1,
+      "name": "Hello, [ST:playername ].\nWill this be another day of running around New LA\nand helping people through their problems?[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev001701_MSG1002",
+      "style": 1,
+      "name": "If it wouldn't be a bother, I would be most grateful\nif you'd allow me to accompany you.[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "tev001701_JNK0010",
+      "style": 4,
+      "name": "Agree"
+    },
+    {
+      "$id": 7,
+      "label": "tev001701_SEL0011",
+      "style": 3,
+      "name": "Add Hope to your team."
+    },
+    {
+      "$id": 8,
+      "label": "tev001701_JNK0020",
+      "style": 4,
+      "name": "Refuse"
+    },
+    {
+      "$id": 9,
+      "label": "tev001701_SEL0021",
+      "style": 3,
+      "name": "Decline Hope's request for now."
+    },
+    {
+      "$id": 10,
+      "label": "tev001701_MSG1003",
+      "style": 1,
+      "name": "Thank you very much. I promise not to slow you down.[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev001701_MSG1004",
+      "style": 1,
+      "name": "I understand. If I can ever be of help to you,\nplease let me know. You can ask me anything.[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "tev001701_MSG1009",
+      "style": 1,
+      "name": "All of us will have to work harder to fill the void\nleft by Nelson and his team.[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "tev001701_MSG1010",
+      "style": 1,
+      "name": "With that said, if it wouldn't be too much of a bother,\nmight I join you on your mission?[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "tev001701_JNK0030",
+      "style": 4,
+      "name": "Agree"
+    },
+    {
+      "$id": 15,
+      "label": "tev001701_MSG1011",
+      "style": 1,
+      "name": "So we're headed to Noctilum? Then we'll want to \nbe extremely well prepared.[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "tev001701_MSG1012",
+      "style": 1,
+      "name": "I understand. If I can ever be of any help to you,\nplease let me know. You can ask me anything.[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "tev001701_MSG1017",
+      "style": 1,
+      "name": "...The unidentified xenoforms that have been spotted\nin Oblivia? Yes, I've heard of them.[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "tev001701_MSG1018",
+      "style": 1,
+      "name": "Whatever world they hail from, we all have a duty to\nassist those in need.[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "tev001701_MSG1019",
+      "style": 1,
+      "name": "Let's hurry to their rescue. I'll do anything to help.[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "tev001701_JNK0050",
+      "style": 4,
+      "name": "Agree"
+    },
+    {
+      "$id": 21,
+      "label": "tev001701_SEL0051",
+      "style": 3,
+      "name": "Add Hope to your team."
+    },
+    {
+      "$id": 22,
+      "label": "tev001701_JNK0060",
+      "style": 4,
+      "name": "Refuse"
+    },
+    {
+      "$id": 23,
+      "label": "tev001701_SEL0061",
+      "style": 3,
+      "name": "Decline Hope's request for now."
+    },
+    {
+      "$id": 24,
+      "label": "tev001701_MSG1020",
+      "style": 1,
+      "name": "I'm confident that I can surmount any threat when\nI have you fighting beside me.[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "tev001701_MSG1021",
+      "style": 1,
+      "name": "I understand. If I can ever be of any help to you,\nplease let me know. You can ask me anything.[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "tev001701_MSG1022",
+      "style": 1,
+      "name": "Hello, [ST:playername ].\nI'm afraid someone has come to me with a particularly\nserious matter.[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "tev001701_MSG1023",
+      "style": 1,
+      "name": "I need to focus on resolving this situation right now.[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "tev001701_MSG1024",
+      "style": 1,
+      "name": "If you were hoping for my assistance with a mission,\nI am so terribly sorry. Please promise that you'll return\nsafely without me.[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "tev001701_MSG1029",
+      "style": 1,
+      "name": "Searching for pieces of the Lifehold is a vital task\nindeed, but the lives of those searching are more\nimportant still.[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "tev001701_MSG1030",
+      "style": 1,
+      "name": "No amount of losses are acceptable to me.\nWe have to rescue Irina. Please bring me along![ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "tev001701_JNK0070",
+      "style": 4,
+      "name": "Agree"
+    },
+    {
+      "$id": 32,
+      "label": "tev001701_SEL0071",
+      "style": 3,
+      "name": "Add Hope to your team."
+    },
+    {
+      "$id": 33,
+      "label": "tev001701_JNK0080",
+      "style": 4,
+      "name": "Refuse"
+    },
+    {
+      "$id": 34,
+      "label": "tev001701_SEL0081",
+      "style": 3,
+      "name": "Decline Hope's request for now."
+    },
+    {
+      "$id": 35,
+      "label": "tev001701_MSG1031",
+      "style": 1,
+      "name": "I am confident that I can surmount any threat when\nI have you fighting beside me.[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "tev001701_MSG1032",
+      "style": 1,
+      "name": "I understand. If I can ever be of any help to you,\nplease let me know. You can ask me anything.[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "tev001701_MSG1037",
+      "style": 1,
+      "name": "Many lives were lost and many people wounded\nin the recent attack.[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "tev001701_MSG1038",
+      "style": 1,
+      "name": "But we have little time left. So I fear we must fight\nthrough the pain and struggle onward.[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "tev001701_MSG1039",
+      "style": 1,
+      "name": "Would it be an imposition if I asked to join you?\nHowever modest the job, I want to do something that\nwill bring a sliver of hope to our dispirited neighbors.[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "tev001701_JNK0090",
+      "style": 4,
+      "name": "Agree"
+    },
+    {
+      "$id": 41,
+      "label": "tev001701_SEL0091",
+      "style": 3,
+      "name": "Add Hope to your team."
+    },
+    {
+      "$id": 42,
+      "label": "tev001701_JNK0100",
+      "style": 4,
+      "name": "Refuse"
+    },
+    {
+      "$id": 43,
+      "label": "tev001701_SEL0101",
+      "style": 3,
+      "name": "Decline Hope's request for now."
+    },
+    {
+      "$id": 44,
+      "label": "tev001701_MSG1040",
+      "style": 1,
+      "name": "I am confident that I can surmount any threat when\nI have you fighting beside me.[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "tev001701_MSG1041",
+      "style": 1,
+      "name": "I understand. If I can ever be of any help to you,\nplease let me know. You can ask me anything.[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "tev001701_MSG1042",
+      "style": 1,
+      "name": "Recently many people have been coming to me\nto discuss the time limit on their mimeosomes.[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "tev001701_MSG1043",
+      "style": 1,
+      "name": "Everyone is trying to project confidence around those\nwho are unaware, but most seem plagued by doubt\nand anxiety from within.[ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "tev001701_MSG1044",
+      "style": 1,
+      "name": "Please allow me to help you. Finding the Lifehold Core\nis the only way we can bring peace to their hearts.[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "tev001701_JNK0110",
+      "style": 4,
+      "name": "Agree"
+    },
+    {
+      "$id": 50,
+      "label": "tev001701_SEL0111",
+      "style": 3,
+      "name": "Add Hope to your team."
+    },
+    {
+      "$id": 51,
+      "label": "tev001701_JNK0120",
+      "style": 4,
+      "name": "Refuse"
+    },
+    {
+      "$id": 52,
+      "label": "tev001701_SEL0121",
+      "style": 3,
+      "name": "Decline Hope's request for now."
+    },
+    {
+      "$id": 53,
+      "label": "tev001701_MSG1045",
+      "style": 1,
+      "name": "I am confident that I can surmount any threat when\nI have you fighting beside me.[ST:wait ]"
+    },
+    {
+      "$id": 54,
+      "label": "tev001701_MSG1046",
+      "style": 1,
+      "name": "I understand. If I can ever be of any help to you,\nplease let me know. You can ask me anything.[ST:wait ]"
+    },
+    {
+      "$id": 55,
+      "label": "tev001701_MSG1051",
+      "style": 1,
+      "name": "I believe that if we confront Lao directly, he will\nacknowledge his crime and repent for his behavior.[ST:wait ]"
+    },
+    {
+      "$id": 56,
+      "label": "tev001701_MSG1052",
+      "style": 1,
+      "name": "But we must speak with him first, for that is the human\nthing to do. I would be happy to help if you need me.[ST:wait ]"
+    },
+    {
+      "$id": 57,
+      "label": "tev001701_JNK0130",
+      "style": 4,
+      "name": "Agree"
+    },
+    {
+      "$id": 58,
+      "label": "tev001701_SEL0131",
+      "style": 3,
+      "name": "Add Hope to your team."
+    },
+    {
+      "$id": 59,
+      "label": "tev001701_JNK0140",
+      "style": 4,
+      "name": "Refuse"
+    },
+    {
+      "$id": 60,
+      "label": "tev001701_SEL0141",
+      "style": 3,
+      "name": "Decline Hope's request for now."
+    },
+    {
+      "$id": 61,
+      "label": "tev001701_MSG1053",
+      "style": 1,
+      "name": "Let us hurry. We have to reach Lao before he crosses\na point of no return.[ST:wait ]"
+    },
+    {
+      "$id": 62,
+      "label": "tev001701_MSG1054",
+      "style": 1,
+      "name": "I understand. If I can ever be of any help to you,\nplease let me know. You can ask me anything.[ST:wait ]"
+    },
+    {
+      "$id": 63,
+      "label": "tev001701_MSG1055",
+      "style": 1,
+      "name": "When the White Whale set sail, we left a great many\npeople behind on Earth.[ST:wait ]"
+    },
+    {
+      "$id": 64,
+      "label": "tev001701_MSG1056",
+      "style": 1,
+      "name": "We carry the weight of all those who weren't chosen.\nWe have a duty to live on in the stead of those who\ncould not.[ST:wait ]"
+    },
+    {
+      "$id": 65,
+      "label": "tev001701_MSG1057",
+      "style": 1,
+      "name": "Please take me with you. I want to play a part in this\nbattle—whatever small role it may be.[ST:wait ]"
+    },
+    {
+      "$id": 66,
+      "label": "tev001701_JNK0150",
+      "style": 4,
+      "name": "Agree"
+    },
+    {
+      "$id": 67,
+      "label": "tev001701_SEL0151",
+      "style": 3,
+      "name": "Add Hope to your team."
+    },
+    {
+      "$id": 68,
+      "label": "tev001701_JNK0160",
+      "style": 4,
+      "name": "Refuse"
+    },
+    {
+      "$id": 69,
+      "label": "tev001701_SEL0161",
+      "style": 3,
+      "name": "Decline Hope's request for now."
+    },
+    {
+      "$id": 70,
+      "label": "tev001701_MSG1058",
+      "style": 1,
+      "name": "Thank you. Let us go and fulfill the duty we bear\nfor all mankind![ST:wait ]"
+    },
+    {
+      "$id": 71,
+      "label": "tev001701_MSG1059",
+      "style": 1,
+      "name": "I understand. If I can ever be of any help to you,\nplease let me know. You can ask me anything.[ST:wait ]"
+    },
+    {
+      "$id": 72,
+      "label": "tev001701_MSG1064",
+      "style": 1,
+      "name": "The Lifehold Core has been secured, but the hearts of\nour people remain beset by worry.[ST:wait ]"
+    },
+    {
+      "$id": 73,
+      "label": "tev001701_MSG1065",
+      "style": 1,
+      "name": "I hope you will allow me to continue assisting you\nin making this world a happier place for all.[ST:wait ]"
+    },
+    {
+      "$id": 74,
+      "label": "tev001701_JNK0170",
+      "style": 4,
+      "name": "Agree"
+    },
+    {
+      "$id": 75,
+      "label": "tev001701_SEL0171",
+      "style": 3,
+      "name": "Add Hope to your team."
+    },
+    {
+      "$id": 76,
+      "label": "tev001701_JNK0180",
+      "style": 4,
+      "name": "Refuse"
+    },
+    {
+      "$id": 77,
+      "label": "tev001701_SEL0181",
+      "style": 3,
+      "name": "Decline Hope's request for now."
+    },
+    {
+      "$id": 78,
+      "label": "tev001701_MSG1066",
+      "style": 1,
+      "name": "Then let's be off. I know there is no challenge I cannot\novercome with you by my side.[ST:wait ]"
+    },
+    {
+      "$id": 79,
+      "label": "tev001701_MSG1067",
+      "style": 1,
+      "name": "Whatever comes, I will always be here to listen.\nI want to be of use to you in any way I can.[ST:wait ]"
+    }
+  ]
+}

@@ -1,0 +1,504 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev065401_MSG0001",
+      "style": 1,
+      "name": "Hey there. How's work?[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev065401_MSG0002",
+      "style": 1,
+      "name": "Sorry to bug you when you're busy, but do you think\nyou could help me out with a teeeeensy favor?[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev065401_MSG0003",
+      "style": 1,
+      "name": "It's actually a really juicy offer—has to do with you,\nme, and my man Clemons here.[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev065401_JNK0010",
+      "style": 4,
+      "name": "Refuse"
+    },
+    {
+      "$id": 5,
+      "label": "qev065401_SEL0011",
+      "style": 3,
+      "name": "Ignore Lara Nara, sensing nothing but disaster ahead."
+    },
+    {
+      "$id": 6,
+      "label": "qev065401_JNK0020",
+      "style": 4,
+      "name": "Listen"
+    },
+    {
+      "$id": 7,
+      "label": "qev065401_SEL0021",
+      "style": 3,
+      "name": "Hear Lara Nara out."
+    },
+    {
+      "$id": 8,
+      "label": "qev065401_MSG0004",
+      "style": 1,
+      "name": "What? Oh, no no no! I think you have the wrong idea.[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev065401_MSG0005",
+      "style": 1,
+      "name": "I'll admit I could have maybe phrased things better.\nThat's my bad.[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev065401_MSG0006",
+      "style": 1,
+      "name": "What I have for you is a serious and profitable job.\nYou won't regret hearing me out.[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev065401_MSG0007",
+      "style": 1,
+      "name": "Mmm, I thought you might be interested.\nHard to resist a pretty face like Clemons, after all.[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev065401_MSG0008",
+      "style": 1,
+      "name": "You wouldn't believe what we got up to when we first\nmet![ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev065401_MSG0009",
+      "style": 1,
+      "name": "...Wait, why are you rolling your eyes?\nYou're not even a little bit curious? Sheesh.[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev065401_MSG0010",
+      "style": 1,
+      "name": "How you're not curious about a catch like me is\nsimply mystifying.[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev065401_MSG0011",
+      "style": 1,
+      "name": "Well, there's no accounting for taste, I suppose.[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev065401_MSG0012",
+      "style": 1,
+      "name": "Aaaaanyway, the little job I mentioned actually comes\nfrom Clemons.[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev065401_MSG0013",
+      "style": 1,
+      "name": "And since he found the intel, I'll let him do the briefing.[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev065401_MSG0014",
+      "style": 1,
+      "name": "Hey there. Like he said, the name's Clemons.\nSo you know the Ganglion fortress north of the city?[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev065401_MSG0015",
+      "style": 1,
+      "name": "I've got witnesses saying they've recently installed some\nbrand-new weapon there.[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev065401_MSG0016",
+      "style": 1,
+      "name": "But the fact they're doing so in secret instead of making\nit a show of force is worrisome.[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev065401_MSG0017",
+      "style": 1,
+      "name": "That means it's not just a deterrent—they're planning to\nuse it, likely when they think we'll least expect it.[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev065401_MSG0018",
+      "style": 1,
+      "name": "The good news is that they don't know we have this\nintel yet.[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev065401_MSG0019",
+      "style": 1,
+      "name": "So we need to launch our own surprise attack before\nthey launch theirs, and now is our best chance.[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev065401_MSG0020",
+      "style": 1,
+      "name": "If we're lucky, we might take down their new weapon\nand the whole fortress to boot.[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev065401_MSG0021",
+      "style": 1,
+      "name": "But that's only if we act fast, which is why we need\nyour help.[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev065401_MSG0022",
+      "style": 1,
+      "name": "...Seeeeee? Totally legit business offer.[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev065401_MSG0023",
+      "style": 1,
+      "name": "We've already sent in an advance team—they should\nbe working on suppressing the hold's defenses now.[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev065401_MSG0024",
+      "style": 1,
+      "name": "You would be playing escort to a science team we're\nsending in to analyze whatever this weapon of theirs is.[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev065401_MSG0025",
+      "style": 1,
+      "name": "Ha! There, see? Easy as pie. So get all your little\nduckies in a row, because you're shipping out ASAP.[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev065401_MSG0026",
+      "style": 1,
+      "name": "...What? Wait, say again?[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev065401_MSG0027",
+      "style": 1,
+      "name": "...Hold on, is that confirmed?[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev065401_MSG0028",
+      "style": 1,
+      "name": "...Oh my gosh, that is AWFUL![ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev065401_MSG0029",
+      "style": 1,
+      "name": "Situation's changed, kiddos![ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev065401_MSG0030",
+      "style": 1,
+      "name": "Our advance team ran into more resistance than we\nexpected and got pretty much...er...wiped out.[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev065401_MSG0031",
+      "style": 1,
+      "name": "The science team is officially canceled. Now I want you\nto go in there and get whatever's left of the advance\nteam out, pronto![ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev065401_MSG0032",
+      "style": 1,
+      "name": "I know this little job's taken a real turn for the grim,\nbut you're still in, right?[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev065401_MSG0033",
+      "style": 1,
+      "name": "Clemons and I need to focus on information gathering,\nso you get out there as soon as you can.[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev065401_MSG0034",
+      "style": 1,
+      "name": "We're counting on you. Ta-ta![ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "qev065401_MSG0035",
+      "style": 1,
+      "name": "I don't think the advance team just got careless...[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "qev065401_MSG0036",
+      "style": 1,
+      "name": "Something came up. Something none of us expected.[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "qev065401_MSG0037",
+      "style": 1,
+      "name": "So make sure YOU go in there expecting anything\nand everything. Got it? Good.[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "qev065401_MSG0038",
+      "style": 1,
+      "name": "Our team is still pinned down at the fortress north of\nthe city. Good luck![ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "qev065401_MSG0039",
+      "style": 1,
+      "name": "Welcome back, [ST:gender p1=hero p2=heroine ]! Nice work out there.[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "qev065401_MSG0040",
+      "style": 1,
+      "name": "That BLADE you saved beat you back here.[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "qev065401_MSG0041",
+      "style": 1,
+      "name": "It tears me up that he's the only one who made it\nhome, but at least he's doing well.[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "qev065401_MSG0042",
+      "style": 1,
+      "name": "As for the operation at the north fortress,\nit seems we all got played for saps.[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "qev065401_MSG0043",
+      "style": 1,
+      "name": "Clemons sold us out to the Ganglion! His fake intel\nsent our advance team straight into an ambush.[ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "qev065401_MSG0044",
+      "style": 1,
+      "name": "He's being \"questioned\" by his CO as we speak.\n...And yes, those are total air quotes.[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "qev065401_MSG0045",
+      "style": 1,
+      "name": "I never would have taken Clemons for a traitor...[ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "qev065401_MSG0046",
+      "style": 1,
+      "name": "Hmmmm? Was that Suriella just now?[ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "qev065401_MSG0047",
+      "style": 1,
+      "name": "You know her, right? New LA's own \"town helper\"?[ST:wait ]"
+    },
+    {
+      "$id": 52,
+      "label": "qev065401_MSG0048",
+      "style": 1,
+      "name": "Helping people out is sort of her... Well, hobby.\nAnd since we can always use the help,\nwe give her PLENTY of opportunities.[ST:wait ]"
+    },
+    {
+      "$id": 53,
+      "label": "qev065401_MSG0049",
+      "style": 1,
+      "name": "Kind of feels like we're taking advantage of her\nsometimes, but she doesn't seem to mind.[ST:wait ]"
+    },
+    {
+      "$id": 54,
+      "label": "qev065401_MSG0050",
+      "style": 1,
+      "name": "Wonder what's got her in such a hurry, though.[ST:wait ]"
+    },
+    {
+      "$id": 55,
+      "label": "qev065401_MSG0051",
+      "style": 1,
+      "name": "Did you see anybody pass by here?![ST:wait ]"
+    },
+    {
+      "$id": 56,
+      "label": "qev065401_MSG0052",
+      "style": 1,
+      "name": "Mmm-hmm. Suriella tore through like a bat outta heck.\n...Oh, look! She's right behind you!"
+    },
+    {
+      "$id": 57,
+      "label": "qev065401_MSG0053",
+      "style": 1,
+      "name": "That is SO weird. I must not have seen you when you\ndoubled back.[ST:wait ]"
+    },
+    {
+      "$id": 58,
+      "label": "qev065401_MSG0054",
+      "style": 1,
+      "name": "I didn't double back! The person you saw wasn't me![ST:wait ]"
+    },
+    {
+      "$id": 59,
+      "label": "qev065401_MSG0055",
+      "style": 1,
+      "name": "It's some alien POSING as me![ST:wait ]"
+    },
+    {
+      "$id": 60,
+      "label": "qev065401_MSG0056",
+      "style": 1,
+      "name": "What? ...Wait, WHAT?![ST:wait ]"
+    },
+    {
+      "$id": 61,
+      "label": "qev065401_MSG0057",
+      "style": 1,
+      "name": "That mess at the Ganglion fortress with the fake intel\nwas them, too. It's a Definian! They can change shape![ST:wait ]"
+    },
+    {
+      "$id": 62,
+      "label": "qev065401_MSG0058",
+      "style": 1,
+      "name": "I was interrogating Clemons when... Well, I THOUGHT\nI was interrogating Clemons, but then that Definian\nshowed her true form.[ST:wait ]"
+    },
+    {
+      "$id": 63,
+      "label": "qev065401_MSG0059",
+      "style": 1,
+      "name": "Now she's posing as Suriella and trying to get away![ST:wait ]"
+    },
+    {
+      "$id": 64,
+      "label": "qev065401_MSG0060",
+      "style": 1,
+      "name": "So the Clemons that betrayed us was a...fake?[ST:wait ]"
+    },
+    {
+      "$id": 65,
+      "label": "qev065401_MSG0061",
+      "style": 1,
+      "name": "You got it. New LA's under lockdown right now—\nwe've got BLADEs in Skells at all the exits.[ST:wait ]"
+    },
+    {
+      "$id": 66,
+      "label": "qev065401_MSG0062",
+      "style": 1,
+      "name": "It's physically impossible for her to get out through that.[ST:wait ]"
+    },
+    {
+      "$id": 67,
+      "label": "qev065401_MSG0063",
+      "style": 1,
+      "name": "So now it's our job to find her.\nAnd honestly, we could use some help.[ST:wait ]"
+    },
+    {
+      "$id": 68,
+      "label": "qev065401_MSG0064",
+      "style": 1,
+      "name": "A shape-shifter, huh? Talk about a pain in the glutes...[ST:wait ]"
+    },
+    {
+      "$id": 69,
+      "label": "qev065401_MSG0065",
+      "style": 1,
+      "name": "If there's anything I can do to help, please tell me.[ST:wait ]"
+    },
+    {
+      "$id": 70,
+      "label": "qev065401_MSG0066",
+      "style": 1,
+      "name": "You can stay put right here, honey.[ST:wait ]"
+    },
+    {
+      "$id": 71,
+      "label": "qev065401_MSG0067",
+      "style": 1,
+      "name": "But...[ST:wait ]"
+    },
+    {
+      "$id": 72,
+      "label": "qev065401_MSG0068",
+      "style": 1,
+      "name": "Girl, that thing is impersonating you! If you go\nwandering around, you'll only be in the way.[ST:wait ]"
+    },
+    {
+      "$id": 73,
+      "label": "qev065401_MSG0069",
+      "style": 1,
+      "name": "So leave this one to us, okay? We've got this.[ST:wait ]"
+    },
+    {
+      "$id": 74,
+      "label": "qev065401_MSG0070",
+      "style": 1,
+      "name": "......[ST:wait ]"
+    },
+    {
+      "$id": 75,
+      "label": "qev065401_MSG0071",
+      "style": 1,
+      "name": "All right. We've got a Definian to catch![ST:wait ]"
+    },
+    {
+      "$id": 76,
+      "label": "qev065401_MSG0072",
+      "style": 1,
+      "name": "We know that sneaky snake is somewhere in the city,\nand that she was last seen looking like Suriella.[ST:wait ]"
+    },
+    {
+      "$id": 77,
+      "label": "qev065401_MSG0073",
+      "style": 1,
+      "name": "I'll start out in the administrative district.\nYou take a look in the commercial district.[ST:wait ]"
+    },
+    {
+      "$id": 78,
+      "label": "qev065401_MSG0074",
+      "style": 1,
+      "name": "What a pain in the rear, I swear...[ST:wait ]"
+    },
+    {
+      "$id": 79,
+      "label": "qev065401_MSG0075",
+      "style": 1,
+      "name": "I'll bet the little punk that played us is laughing her\nhead off right now.[ST:wait ]"
+    },
+    {
+      "$id": 80,
+      "label": "qev065401_MSG0076",
+      "style": 1,
+      "name": "I swear, once I find her, she is gonna HURT![ST:wait ]"
+    },
+    {
+      "$id": 81,
+      "label": "qev065401_MSG0077",
+      "style": 1,
+      "name": "Come on. We've got a shape-shifter to catch.\nShe's probably still impersonating Suriella.[ST:wait ]"
+    }
+  ]
+}

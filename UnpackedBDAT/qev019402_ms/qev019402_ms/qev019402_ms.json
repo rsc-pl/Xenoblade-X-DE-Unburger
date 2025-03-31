@@ -1,0 +1,186 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev019402_MSG0001",
+      "style": 1,
+      "name": "How's it going, pal? Still rakin' in those credits?[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev019402_MSG0002",
+      "style": 1,
+      "name": "...Huh? You need me for something? Well, I sure hope\nit's one of those get-rich-quick schemes.[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev019402_JNK0010",
+      "style": 4,
+      "name": "Request"
+    },
+    {
+      "$id": 4,
+      "label": "qev019402_SEL0011",
+      "style": 3,
+      "name": "Directly ask Tobias for the data unit."
+    },
+    {
+      "$id": 5,
+      "label": "qev019402_JNK0020",
+      "style": 4,
+      "name": "Probe"
+    },
+    {
+      "$id": 6,
+      "label": "qev019402_SEL0021",
+      "style": 3,
+      "name": "Feel Tobias out to see if he actually has the data unit."
+    },
+    {
+      "$id": 7,
+      "label": "qev019402_MSG0003",
+      "style": 1,
+      "name": "...D-data units? Where the hell did you hear about\nthose?![ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev019402_MSG0004",
+      "style": 1,
+      "name": "All right, all right! You can stop with the innocent\nquestion act already—I ain't a damn idiot.[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev019402_MSG0006",
+      "style": 1,
+      "name": "So you think I have important data regarding\nFrontierNav, huh? Where the hell did you hear\nabout that, anyway?[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev019402_MSG0007",
+      "style": 1,
+      "name": "Kirsty? Why, that hypocritical little...\nSo the old girl finally got this far, eh?[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev019402_MSG0008",
+      "style": 1,
+      "name": "Well, I'm not saying I won't hand it over...\nJust not for free.[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev019402_MSG0009",
+      "style": 1,
+      "name": "It'll run you 100,000 credits. It's worth at LEAST that.[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev019402_MSG0010",
+      "style": 1,
+      "name": "What do you say? Shouldn't be too hard for a tough\n[ST:gender p1=guy p2=gal ] like you to scrape together that kind of dough.[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev019402_MSG0011",
+      "style": 1,
+      "name": "Well? You got the money to buy my data unit yet\nor what?[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev019402_MSG0012",
+      "style": 1,
+      "name": "When you think about what's on it, a hundred grand\nis a damn bargain.[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev019402_JNK0030",
+      "style": 4,
+      "name": "Buy"
+    },
+    {
+      "$id": 17,
+      "label": "qev019402_SEL0031",
+      "style": 3,
+      "name": "Purchase the data unit for 100,000 credits."
+    },
+    {
+      "$id": 18,
+      "label": "qev019402_JNK0040",
+      "style": 4,
+      "name": "Refuse"
+    },
+    {
+      "$id": 19,
+      "label": "qev019402_SEL0041",
+      "style": 3,
+      "name": "Insist that you'll never pay that much."
+    },
+    {
+      "$id": 20,
+      "label": "qev019402_MSG0013",
+      "style": 1,
+      "name": "Appreciate the business. Heh heh... Aw, this is sweet!\nShould be more than enough for me to get started\nas well.[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev019402_MSG0014",
+      "style": 1,
+      "name": "Get this back to Kirsty in one piece, yeah?[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev019402_MSG0015",
+      "style": 1,
+      "name": "Oh, and I went ahead and removed all that annoying\nencryption for you. It's nothing but raw data now.[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev019402_MSG0016",
+      "style": 1,
+      "name": "This ain't the time to be stingy, pal![ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev019402_MSG0017",
+      "style": 1,
+      "name": "You're a [ST:gender p1=man  p2=woman  ]of means, yeah? I bet you've got at\nleast that much squirreled away someplace.[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev019402_MSG0018",
+      "style": 1,
+      "name": "...Wait, you don't have that much? Really?[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev019402_MSG0019",
+      "style": 1,
+      "name": "Well, you know the drill. Slap those research probes\ndown and start raking in new customers.[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev019402_MSG0020",
+      "style": 1,
+      "name": "I didn't think the little minx Kirsty would gather all\nthem data units...[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev019402_MSG0021",
+      "style": 1,
+      "name": "Ha! Looks like things have gotten interesting back home\nwhile I've been out making money.[ST:wait ]"
+    }
+  ]
+}

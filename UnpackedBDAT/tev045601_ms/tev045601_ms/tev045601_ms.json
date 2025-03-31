@@ -1,0 +1,300 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev045601_JNK0010",
+      "style": 4,
+      "name": "Inquire[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev045601_SEL0011",
+      "style": 3,
+      "name": "Ask Naza about Mira's plant life.[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev045601_JNK0020",
+      "style": 4,
+      "name": "Discuss[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev045601_SEL0021",
+      "style": 3,
+      "name": "Ask Naza if anything is troubling her.[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev045601_SEL0031",
+      "style": 3,
+      "name": "Ask Naza about the weather in Oblivia.[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "tev045601_SEL0051",
+      "style": 3,
+      "name": "Ask Naza about the weather in Sylvalum.[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "tev045601_MSG0001",
+      "style": 1,
+      "name": "As Cavern Clan prisoner, I was forced to mine caves\nin Oblivia.[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "tev045601_MSG0002",
+      "style": 1,
+      "name": "Inside one cave, I saw strange cactus.\nIt turned silver when rains came.[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "tev045601_MSG0003",
+      "style": 1,
+      "name": "Once I was freed, I did not forget cactus.\nI asked Nopon science person what it was.[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "tev045601_MSG0004",
+      "style": 1,
+      "name": "Plant is known as myuena cactus.\nIt is very rare. Can be sold for high price.[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev045601_MSG0005",
+      "style": 1,
+      "name": "It is worth searching for if you visit Oblivia.[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "tev045601_MSG0008",
+      "style": 1,
+      "name": "Grr! Why do they not take in Mira's soil?\nWhat must I do to gather Old Ones and...[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "tev045601_MSG0009",
+      "style": 1,
+      "name": "...Hmm? Is something troubling me? Bah.[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "tev045601_MSG0010",
+      "style": 1,
+      "name": "I am grateful to you, Earth alien.\nBut this is not your concern.[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "tev045601_MSG0011",
+      "style": 1,
+      "name": "Some matters are too secret to share.\nYou must earn my trust first.[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "tev045601_MSG0016",
+      "style": 1,
+      "name": "Intense heat waves muddle your mind.\nMake it harder to put power into attacks.[ST:wait ]\n"
+    },
+    {
+      "$id": 17,
+      "label": "tev045601_MSG0017",
+      "style": 1,
+      "name": "Sandstorms impair vision.\nMake it harder to hit enemies with firearms.[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "tev045601_MSG0018",
+      "style": 1,
+      "name": "Oblivia's weather causes many headaches.\nBut if you are prepared, you will survive.[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "tev045601_MSG0019",
+      "style": 1,
+      "name": "Carry anticlimate augments. Wear proper gear.\nSuch preparation can save you.[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "tev045601_MSG0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 21,
+      "label": "tev045601_MSG0025",
+      "style": 1,
+      "name": "Strong winds kick up many spores in Sylvalum.[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "tev045601_MSG0026",
+      "style": 1,
+      "name": "Spores block out your vision.[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "tev045601_MSG0027",
+      "style": 1,
+      "name": "It is like spores are warding off travelers.\nForbidding us to enter.[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "tev045601_MSG0028",
+      "style": 1,
+      "name": "Prone have very old saying:\n\"Heed nature's warning. Or die nature's death.\"[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "tev045601_MSG0029",
+      "style": 1,
+      "name": "You should heed warning of Sylvalum.\nOr at least travel with care.[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "tev045601_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 27,
+      "label": "tev045601_SEL1011",
+      "style": 3,
+      "name": "Ask Naza about Mira's plant life.[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "tev045601_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 29,
+      "label": "tev045601_SEL1021",
+      "style": 3,
+      "name": "Ask Naza about recent developments.[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "tev045601_SEL1031",
+      "style": 3,
+      "name": "Ask Naza about Mira."
+    },
+    {
+      "$id": 31,
+      "label": "tev045601_MSG1001",
+      "style": 1,
+      "name": "I sought Mon'barac's counsel on Great Tree.[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "tev045601_MSG1002",
+      "style": 1,
+      "name": "If we plant more Great Trees, we could create forests\nlike on Prone homeworld. Forests that are welcoming\nhavens for Old Ones.[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "tev045601_MSG1003",
+      "style": 1,
+      "name": "This would complete my mission as Protector of\nGreat Tree.[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "tev045601_MSG1004",
+      "style": 1,
+      "name": "Maybe I should apologize to Mon'barac for punching\nhim in face...[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "tev045601_MSG1009",
+      "style": 1,
+      "name": "Something here pulls at me...[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "tev045601_MSG1010",
+      "style": 1,
+      "name": "If Nopon are only native Miran people,\nwhere did ruins come from?[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "tev045601_MSG1011",
+      "style": 1,
+      "name": "What happened to those who built ruins?\nWhere are they now?[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "tev045601_MSG1012",
+      "style": 1,
+      "name": "Something happened before we arrived.\nSomething that ripped this world out of history.[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "tev045601_MSG1013",
+      "style": 1,
+      "name": "But you have seen more of Mira than me.\nDo you feel same?[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "tev045601_JNK1010",
+      "style": 4,
+      "name": "Inquire[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "tev045601_SEL1011",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 42,
+      "label": "tev045601_JNK2020",
+      "style": 4,
+      "name": "Discuss[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "tev045601_SEL2021",
+      "style": 3,
+      "name": "Ask Naza about recent developments.[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "tev045601_MSG0030",
+      "style": 1,
+      "name": "Foolish Yun'tonam still does not understand gravity of\neating Great Tree![ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "tev045601_MSG0031",
+      "style": 1,
+      "name": "\"Grow another,\" he says. But we have no seeds here![ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "tev045601_MSG0032",
+      "style": 1,
+      "name": "...Hmm? Why am I also being hard on Mon'barac?[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "tev045601_MSG0033",
+      "style": 1,
+      "name": "Sins of one Orphean are sins of all!\nMon'barac must also show repentance.[ST:wait ]"
+    }
+  ]
+}

@@ -1,0 +1,546 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev013801_JNK0010",
+      "style": 4,
+      "name": "Inquire"
+    },
+    {
+      "$id": 2,
+      "label": "tev013801_SEL0011",
+      "style": 3,
+      "name": "Ask Trevor about the purpose of BLADE."
+    },
+    {
+      "$id": 3,
+      "label": "tev013801_JNK0020",
+      "style": 4,
+      "name": "Discuss"
+    },
+    {
+      "$id": 4,
+      "label": "tev013801_SEL0021",
+      "style": 3,
+      "name": "Ask Trevor if anything is troubling him."
+    },
+    {
+      "$id": 5,
+      "label": "tev013801_SEL0031",
+      "style": 3,
+      "name": "Ask Trevor for his opinion about you."
+    },
+    {
+      "$id": 6,
+      "label": "tev013801_SEL0041",
+      "style": 3,
+      "name": "Ask Trevor for his thoughts on the\nxenoforms you saw in Primordia."
+    },
+    {
+      "$id": 7,
+      "label": "tev013801_SEL0051",
+      "style": 3,
+      "name": "Ask Trevor for his thoughts on the hostile\nxenoforms you saw in Noctilum."
+    },
+    {
+      "$id": 8,
+      "label": "tev013801_SEL0061",
+      "style": 3,
+      "name": "Ask Trevor about the operational limits of the Lifehold."
+    },
+    {
+      "$id": 9,
+      "label": "tev013801_SEL0071",
+      "style": 3,
+      "name": "Ask Trevor about the Ganglion's movements."
+    },
+    {
+      "$id": 10,
+      "label": "tev013801_SEL0081",
+      "style": 3,
+      "name": "Ask Trevor about the damages suffered in the attack."
+    },
+    {
+      "$id": 11,
+      "label": "tev013801_SEL0091",
+      "style": 3,
+      "name": "Ask Trevor about the possibility\nof a Ganglion spy in BLADE."
+    },
+    {
+      "$id": 12,
+      "label": "tev013801_SEL0101",
+      "style": 3,
+      "name": "Ask Trevor for his thoughts on Lao's betrayal."
+    },
+    {
+      "$id": 13,
+      "label": "tev013801_SEL0111",
+      "style": 3,
+      "name": "Ask Trevor about the battle for the Lifehold Core."
+    },
+    {
+      "$id": 14,
+      "label": "tev013801_SEL0121",
+      "style": 3,
+      "name": "Ask Trevor what he intends to do next."
+    },
+    {
+      "$id": 15,
+      "label": "tev013801_SEL1011",
+      "style": 3,
+      "name": "Ask Trevor about recent developments."
+    },
+    {
+      "$id": 16,
+      "label": "tev013801_SEL3011",
+      "style": 3,
+      "name": "Ask Trevor about recent developments."
+    },
+    {
+      "$id": 17,
+      "label": "tev013801_SEL4011",
+      "style": 3,
+      "name": "Ask if Trevor has any interesting news."
+    },
+    {
+      "$id": 18,
+      "label": "tev013801_MSG0001",
+      "style": 1,
+      "name": "The members of each division have their own\nresponsibilities, but mine is primarily guard duty.[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "tev013801_MSG0002",
+      "style": 1,
+      "name": "Lately there have been reports of dangerous indigens\nappearing near the entrances to the city. That's why\nwe've sealed the gates and taken a defensive posture.[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "tev013801_MSG0003",
+      "style": 1,
+      "name": "We've tightened our guard to the extent that there's\nabsolutely no chance of an indigen infiltrating the city.[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "tev013801_MSG0004",
+      "style": 1,
+      "name": "But now I hear that Elma and some new [ST:gender p1=guy p2=gal ] already\nslaughtered the grex pack that prowled outside the\nwest gate.[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "tev013801_MSG0005",
+      "style": 1,
+      "name": "So I guess we all ought to thank Team Elma for their\nsuccessful counteroffensive.[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "tev013801_MSG0010",
+      "style": 1,
+      "name": "Carl is pathetic. I put him on indigen-control duty,\nand he hasn't killed a single one.[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "tev013801_MSG0011",
+      "style": 1,
+      "name": "If I didn't have so many damn duties of my own,\nI'd march right up to him and spank him like\nthe insolent child he is.[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "tev013801_MSG0012",
+      "style": 1,
+      "name": "Hey, if you're headed that way, could you give Carl\na message for me? He'll be the one loitering out in\nfront of the arms manufacturers' building.[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "tev013801_MSG0013",
+      "style": 1,
+      "name": "Tell him to pull his head out and get his goddamn\nwork done before Trevor has to stick a boot so far\nup his ass he'll taste shoe polish for a month.[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "tev013801_MSG0020",
+      "style": 1,
+      "name": "So when Nagi asked if you wanted to be a BLADE,\nyou signed up on the spot?[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "tev013801_MSG0021",
+      "style": 1,
+      "name": "You got gumption, kid. I'll give you that.[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "tev013801_MSG0022",
+      "style": 1,
+      "name": "You ain't like the new recruits I got under me.\nThey hemmed and hawed about joining BLADE\nuntil the last possible minute.[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "tev013801_MSG0023",
+      "style": 1,
+      "name": "You keep that backbone of yours handy as you go\nabout learning the ropes, all right?[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "tev013801_MSG0024",
+      "style": 1,
+      "name": "Make me proud, [ST:playername ].[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "tev013801_MSG0030",
+      "style": 1,
+      "name": "If everything that \"Tatsu\" Nopon said is true,\nthen the Prone are bad news indeed.[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "tev013801_MSG0031",
+      "style": 1,
+      "name": "Apparently they're indiscriminately attacking all the\nnative peoples of Mira.[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "tev013801_MSG0032",
+      "style": 1,
+      "name": "Considering that, Nelson's may not be the only team\nthat's been hit.[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "tev013801_MSG0033",
+      "style": 1,
+      "name": "Our first step should be gathering data about their\npositions and movements from FrontierNav.[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "tev013801_MSG0040",
+      "style": 1,
+      "name": "If these so-called Ganglion are part of the group that\ndestroyed Earth, then we really need to start operating\nlike it's DEFCON 1 around here.[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "tev013801_MSG0041",
+      "style": 1,
+      "name": "I'm gonna tell the Interceptors to raise their readiness\nlevel, stat.[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "tev013801_MSG0042",
+      "style": 1,
+      "name": "I want you out there in the unexplored areas,\nplanting data probes like your life depends on it.\nWe need to get eyes on our enemies ASAP![ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "tev013801_MSG0043",
+      "style": 1,
+      "name": "Once we have that intel, we can plan our next move.\nGodspeed to you, [ST:playername ].[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "tev013801_MSG0050",
+      "style": 1,
+      "name": "Elma must really trust you if she shared that piece\nof information.[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "tev013801_MSG0051",
+      "style": 1,
+      "name": "Well, it's true. That number on the top of BLADE Tower\nshows how much power the Lifehold has remaining. \nIn effect, it shows how much time we all have left.[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "tev013801_MSG0052",
+      "style": 1,
+      "name": "We have to find the Lifehold Core before it hits zero.[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "tev013801_MSG0053",
+      "style": 1,
+      "name": "Otherwise, you and me and everyone else will just keel\nover on the spot, and humanity will be wiped from the\nuniverse forever.[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "tev013801_MSG0054",
+      "style": 1,
+      "name": "We don't have much time left, so expand FrontierNav\nand give us a shot at a future![ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "tev013801_MSG0060",
+      "style": 1,
+      "name": "I can't believe the enemy found out about the Lifehold\nCore.[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "tev013801_MSG0061",
+      "style": 1,
+      "name": "If they beat us to the Core, they'll destroy it like they\ndid the last piece of the Lifehold they found.[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "tev013801_MSG0062",
+      "style": 1,
+      "name": "We wouldn't even have a chance to fight for our lives.\nAll of humanity would be wiped out in an instant.[ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "tev013801_MSG0063",
+      "style": 1,
+      "name": "We're almost out of time. We have to install as many\ndata probes as we possibly can.[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "tev013801_MSG0064",
+      "style": 1,
+      "name": "That's the only chance we have to locate the\nLifehold Core.[ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "tev013801_MSG0070",
+      "style": 1,
+      "name": "We managed to repel that giant, mostly thanks to\nyour impressive efforts.[ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "tev013801_MSG0071",
+      "style": 1,
+      "name": "I've never been in a battle with so many casualties\nbefore. I lost multiple members of my team.[ST:wait ]"
+    },
+    {
+      "$id": 52,
+      "label": "tev013801_MSG0072",
+      "style": 1,
+      "name": "Damn it all! We have to find the Lifehold Core and\nbring back everyone who gave their lives to protect us![ST:wait ]"
+    },
+    {
+      "$id": 53,
+      "label": "tev013801_MSG0080",
+      "style": 1,
+      "name": "I found it highly suspicious that the enemy was aware\nof the operational limits of our mimeosomes.[ST:wait ]"
+    },
+    {
+      "$id": 54,
+      "label": "tev013801_MSG0081",
+      "style": 1,
+      "name": "That information was known only to those in\nleadership positions within BLADE.[ST:wait ]"
+    },
+    {
+      "$id": 55,
+      "label": "tev013801_MSG0082",
+      "style": 1,
+      "name": "So it does seem likely that a BLADE has been leaking\ninformation to the enemy.[ST:wait ]"
+    },
+    {
+      "$id": 56,
+      "label": "tev013801_MSG0083",
+      "style": 1,
+      "name": "It's an unpleasant matter to discuss, but we have to find\nthe traitor before he or she does something irreversible.[ST:wait ]"
+    },
+    {
+      "$id": 57,
+      "label": "tev013801_MSG0090",
+      "style": 1,
+      "name": "As the ace of the Pathfinders, Lao installed more\ndata probes than anyone in BLADE.[ST:wait ]"
+    },
+    {
+      "$id": 58,
+      "label": "tev013801_MSG0091",
+      "style": 1,
+      "name": "Doug wasn't the only one he tricked, either.\nHe was widely trusted, and his work was held in\nhigh esteem by virtually everyone.[ST:wait ]"
+    },
+    {
+      "$id": 59,
+      "label": "tev013801_MSG0092",
+      "style": 1,
+      "name": "Dammit! Was everything he did just a way to sell\ninformation to the Ganglion?! And why?![ST:wait ]"
+    },
+    {
+      "$id": 60,
+      "label": "tev013801_MSG0093",
+      "style": 1,
+      "name": "Until I hear the reason from his own lips,\nI'll never be able to accept this.[ST:wait ]"
+    },
+    {
+      "$id": 61,
+      "label": "tev013801_MSG0094",
+      "style": 1,
+      "name": "Bring him back to New LA as quickly as you can,\n[ST:playername ]. We're all counting on you.[ST:wait ]"
+    },
+    {
+      "$id": 62,
+      "label": "tev013801_MSG0100",
+      "style": 1,
+      "name": "I swear on my pride as an Interceptor...[ST:wait ]"
+    },
+    {
+      "$id": 63,
+      "label": "tev013801_MSG0101",
+      "style": 1,
+      "name": "we will escort you safely to the Lifehold Core![ST:wait ]"
+    },
+    {
+      "$id": 64,
+      "label": "tev013801_MSG0102",
+      "style": 1,
+      "name": "All you need to do is take it back.\nThe fate of humanity is riding on you.[ST:wait ]"
+    },
+    {
+      "$id": 65,
+      "label": "tev013801_MSG0110",
+      "style": 1,
+      "name": "We have to use the Lifehold Core to bring our fallen\ncomrades back to life.[ST:wait ]"
+    },
+    {
+      "$id": 66,
+      "label": "tev013801_MSG0111",
+      "style": 1,
+      "name": "And yet, our researchers don't seem to have made any\nprogress. Not a single man has been revived.[ST:wait ]"
+    },
+    {
+      "$id": 67,
+      "label": "tev013801_MSG0112",
+      "style": 1,
+      "name": "What's the holdup? Do you think something may have\ngone wrong inside the Lifehold?[ST:wait ]"
+    },
+    {
+      "$id": 68,
+      "label": "tev013801_MSG1059",
+      "style": 1,
+      "name": "So miracle of miracles, Carl actually pulled off the\nindigen bounty mission I assigned to him.\nEven did a decent job of it.[ST:wait ]"
+    },
+    {
+      "$id": 69,
+      "label": "tev013801_MSG1060",
+      "style": 1,
+      "name": "If he keeps completing missions like that, he might\nactually become a respectable BLADE.\n...Best not count that chicken before it's hatched.[ST:wait ]"
+    },
+    {
+      "$id": 70,
+      "label": "tev013801_MSG1061",
+      "style": 1,
+      "name": "I've got sharp eyes. I'll keep looking after the kid.[ST:wait ]"
+    },
+    {
+      "$id": 71,
+      "label": "tev013801_MSG1062",
+      "style": 1,
+      "name": "I'll teach him all the things I couldn't teach to my\nown son that I abandoned on Earth.[ST:wait ]"
+    },
+    {
+      "$id": 72,
+      "label": "tev013801_MSG2063",
+      "style": 1,
+      "name": "I tasked Carl with an indigen bounty mission...[ST:wait ]"
+    },
+    {
+      "$id": 73,
+      "label": "tev013801_MSG2064",
+      "style": 1,
+      "name": "But he abandoned the mission. Claimed the targets\nwere just babies and he didn't have the heart to kill\n'em, or some such nonsense.[ST:wait ]"
+    },
+    {
+      "$id": 74,
+      "label": "tev013801_MSG2065",
+      "style": 1,
+      "name": "He's a BLADE, dammit! Not a nursery-school teacher!\nIf he doesn't toughen up soon, I fear for what will\nbecome of him.[ST:wait ]"
+    },
+    {
+      "$id": 75,
+      "label": "tev013801_MSG2066",
+      "style": 1,
+      "name": "Damn it all... That side of him reminds me so much\nof the son I left behind on Earth...[ST:wait ]"
+    },
+    {
+      "$id": 76,
+      "label": "tev013801_MSG3074",
+      "style": 1,
+      "name": "I don't think there's a worse soldier in all of BLADE\nthan Carl.[ST:wait ]"
+    },
+    {
+      "$id": 77,
+      "label": "tev013801_MSG3075",
+      "style": 1,
+      "name": "But when I talk to him and see that strange gentleness\nand rebellious sense of justice at his core...[ST:wait ]"
+    },
+    {
+      "$id": 78,
+      "label": "tev013801_MSG3076",
+      "style": 1,
+      "name": "he reminds me so much of the son I left behind\non Earth.[ST:wait ]"
+    },
+    {
+      "$id": 79,
+      "label": "tev013801_MSG3077",
+      "style": 1,
+      "name": "I wasn't a good father to my son. We weren't even on\nspeaking terms when I left to come here.[ST:wait ]"
+    },
+    {
+      "$id": 80,
+      "label": "tev013801_MSG3078",
+      "style": 1,
+      "name": "So at the very least, I'd like to teach Carl everything\nI'd have wanted to teach my son.[ST:wait ]"
+    },
+    {
+      "$id": 81,
+      "label": "tev013801_MSG3079",
+      "style": 1,
+      "name": "But before I can talk to that idiot about protecting NLA,\nI have to figure out how to keep him from getting\nhimself killed.[ST:wait ]"
+    },
+    {
+      "$id": 82,
+      "label": "tev013801_MSG0087",
+      "style": 1,
+      "name": "I have a buddy here named Nathan that I've known\nsince my army days.[ST:wait ]"
+    },
+    {
+      "$id": 83,
+      "label": "tev013801_MSG5088",
+      "style": 1,
+      "name": "He got ambushed by a super-strong indigen when he\nwas out on one of his Curator scavenging missions.[ST:wait ]"
+    },
+    {
+      "$id": 84,
+      "label": "tev013801_MSG5089",
+      "style": 1,
+      "name": "And one of the younger members of the team went \nmissing after that. Nathan was searching everywhere\nfor the guy.[ST:wait ]"
+    },
+    {
+      "$id": 85,
+      "label": "tev013801_MSG5090",
+      "style": 1,
+      "name": "When Nathan finally made it back, he and I went out\ndrinking for the first time in a long while.[ST:wait ]"
+    },
+    {
+      "$id": 86,
+      "label": "tev013801_MSG5091",
+      "style": 1,
+      "name": "It made for a night of lively conversation, now that\nwe both got younger subordinates making our lives\nmiserable![ST:wait ]"
+    },
+    {
+      "$id": 87,
+      "label": "tev013801_MSG5092",
+      "style": 1,
+      "name": "When Nathan finally made it back, he and I went out\ndrinking for the first time in a long while.[ST:wait ]"
+    },
+    {
+      "$id": 88,
+      "label": "tev013801_MSG5093",
+      "style": 1,
+      "name": "We ended up deep in conversation about the young\npeople in our lives that are driving us crazy.[ST:wait ]"
+    }
+  ]
+}

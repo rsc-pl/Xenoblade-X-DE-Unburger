@@ -1,0 +1,72 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs08060130_MSG0001",
+      "style": 0,
+      "name": "Attention, Ganglion:[ST:wait ]\n"
+    },
+    {
+      "$id": 2,
+      "label": "xs08060130_MSG0002",
+      "style": 0,
+      "name": "Your army has unlawfully crossed New LA's defense perimeter.[ST:wait ]\n"
+    },
+    {
+      "$id": 3,
+      "label": "xs08060130_MSG0003",
+      "style": 0,
+      "name": "You have 10 seconds to halt your advance\nand agree to negotiate.[ST:wait ]\n"
+    },
+    {
+      "$id": 4,
+      "label": "xs08060130_MSG0004",
+      "style": 0,
+      "name": "If you do not comply,[ST:page p1=40 ]we will have no choice but to interpret your actions\nas a declaration of war and launch our counterattack.[ST:wait ]\n"
+    },
+    {
+      "$id": 5,
+      "label": "xs08060130_MSG0005",
+      "style": 0,
+      "name": "Ten, nine, eight, seven, six, five, four,[ST:wait ]\n"
+    },
+    {
+      "$id": 6,
+      "label": "xs08060130_MSG0006",
+      "style": 0,
+      "name": "three,[ST:wait ]\n"
+    },
+    {
+      "$id": 7,
+      "label": "xs08060130_MSG0007",
+      "style": 0,
+      "name": "two,[ST:wait ]\n"
+    },
+    {
+      "$id": 8,
+      "label": "xs08060130_MSG0008",
+      "style": 0,
+      "name": "one.[ST:wait ]\n"
+    },
+    {
+      "$id": 9,
+      "label": "xs08060130_MSG0009",
+      "style": 0,
+      "name": "All units, open fire![ST:wait ]\n"
+    }
+  ]
+}

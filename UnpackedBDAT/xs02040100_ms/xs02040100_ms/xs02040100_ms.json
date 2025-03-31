@@ -1,0 +1,222 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs02040100_MSG0001",
+      "style": 0,
+      "name": "Okay, the probe should be ready for insertion.\nI'll just boot it up.[ST:wait ]\n"
+    },
+    {
+      "$id": 2,
+      "label": "xs02040100_MSG0002",
+      "style": 0,
+      "name": "Thanks, Lin.[ST:wait ]\n"
+    },
+    {
+      "$id": 3,
+      "label": "xs02040100_MSG0003",
+      "style": 0,
+      "name": "The top half of the cylinder contains the probe itself.[ST:wait ]\n"
+    },
+    {
+      "$id": 4,
+      "label": "xs02040100_MSG0004",
+      "style": 0,
+      "name": "The bottom half is a laser—it dissolves the soil\nso the probe can burrow to the proper depth.[ST:wait ]\n"
+    },
+    {
+      "$id": 5,
+      "label": "xs02040100_MSG0005",
+      "style": 0,
+      "name": "We tried just planting them on the surface at first,[ST:page p1=70 ]but we kept running into problems\nwith the local wildlife damaging the goods.[ST:wait ]\n"
+    },
+    {
+      "$id": 6,
+      "label": "xs02040100_MSG0006",
+      "style": 0,
+      "name": "Burying them is going to save us all\na lot of time and headaches in the long run.[ST:wait ]\n"
+    },
+    {
+      "$id": 7,
+      "label": "xs02040100_MSG0007",
+      "style": 0,
+      "name": "We all set?[ST:wait ]\n"
+    },
+    {
+      "$id": 8,
+      "label": "xs02040100_MSG0008",
+      "style": 0,
+      "name": "Yes, ma'am. Whenever you're ready.[ST:wait ]\n"
+    },
+    {
+      "$id": 9,
+      "label": "xs02040100_MSG0009",
+      "style": 0,
+      "name": "Why don't you do the honors? You can launch it\nright from your comm device. Give it a try.[ST:wait ]\n"
+    },
+    {
+      "$id": 10,
+      "label": "xs02040100_JNK0010",
+      "style": 4,
+      "name": "Launch"
+    },
+    {
+      "$id": 11,
+      "label": "xs02040100_SEL0011",
+      "style": 3,
+      "name": "Show interest and launch the probe."
+    },
+    {
+      "$id": 12,
+      "label": "xs02040100_JNK0020",
+      "style": 4,
+      "name": "Persuade"
+    },
+    {
+      "$id": 13,
+      "label": "xs02040100_SEL0021",
+      "style": 3,
+      "name": "Suggest Lin should take care of it."
+    },
+    {
+      "$id": 14,
+      "label": "xs02040100_MSG0010",
+      "style": 0,
+      "name": "What? You want me to do it?![ST:wait ]\n"
+    },
+    {
+      "$id": 15,
+      "label": "xs02040100_MSG0011",
+      "style": 0,
+      "name": "Now, now. There's nothing to it, trust me. It's easy.[ST:wait ]\n"
+    },
+    {
+      "$id": 16,
+      "label": "xs02040100_MSG0012",
+      "style": 0,
+      "name": "And besides, this is supposed to be\nYOUR training mission, remember?[ST:wait ]\n"
+    },
+    {
+      "$id": 17,
+      "label": "xs02040100_JNK0026",
+      "style": 4,
+      "name": "Agree"
+    },
+    {
+      "$id": 18,
+      "label": "xs02040100_SEL0027",
+      "style": 3,
+      "name": "Nod and launch the probe."
+    },
+    {
+      "$id": 19,
+      "label": "xs02040100_JNK0028",
+      "style": 4,
+      "name": "Disagree"
+    },
+    {
+      "$id": 20,
+      "label": "xs02040100_SEL0022",
+      "style": 3,
+      "name": "Remind Elma you've never done this before."
+    },
+    {
+      "$id": 21,
+      "label": "xs02040100_MSG0013",
+      "style": 0,
+      "name": "Which is exactly why we're here. You're going to have plenty\nof firsts as you become a BLADE—you'd best get used to it.[ST:wait ]\n"
+    },
+    {
+      "$id": 22,
+      "label": "xs02040100_JNK0030",
+      "style": 4,
+      "name": "Step Up"
+    },
+    {
+      "$id": 23,
+      "label": "xs02040100_SEL0031",
+      "style": 3,
+      "name": "Put aside your fears and launch the probe."
+    },
+    {
+      "$id": 24,
+      "label": "xs02040100_JNK0032",
+      "style": 4,
+      "name": "Take Charge"
+    },
+    {
+      "$id": 25,
+      "label": "xs02040100_SEL0033",
+      "style": 3,
+      "name": "Show your worth and launch the probe."
+    },
+    {
+      "$id": 26,
+      "label": "xs02040100_MSG0014",
+      "style": 0,
+      "name": "Good, now we just need to give it a minute\nto reach the target depth.[ST:wait ]\n"
+    },
+    {
+      "$id": 27,
+      "label": "xs02040100_MSG0015",
+      "style": 0,
+      "name": "Aaand installation complete.[ST:wait ]\n"
+    },
+    {
+      "$id": 28,
+      "label": "xs02040100_MSG0016",
+      "style": 0,
+      "name": "We are now online with a solid connection to FrontierNav.[ST:wait ]\n"
+    },
+    {
+      "$id": 29,
+      "label": "xs02040100_MSG0017",
+      "style": 0,
+      "name": "Excellent. See? At the end of the day,\nthere's really not much to it.[ST:wait ]\n"
+    },
+    {
+      "$id": 30,
+      "label": "xs02040100_MSG0018",
+      "style": 0,
+      "name": "The hardest part was calculating the ideal probe locations.\nWe need them spread out evenly to maximize data collection.[ST:wait ]\n"
+    },
+    {
+      "$id": 31,
+      "label": "xs02040100_MSG0019",
+      "style": 0,
+      "name": "Yup, planting probes is easy.[ST:wait ]\n"
+    },
+    {
+      "$id": 32,
+      "label": "xs02040100_MSG0020",
+      "style": 0,
+      "name": "And the more we plant,\nthe more likely we are to find missing crew,[ST:wait ]\n"
+    },
+    {
+      "$id": 33,
+      "label": "xs02040100_MSG0021",
+      "style": 0,
+      "name": "so anytime you see a probe site, \nthere's no excuse not to plant that sucker.[ST:wait ]\n"
+    },
+    {
+      "$id": 34,
+      "label": "xs02040100_MSG0026",
+      "style": 0,
+      "name": "That'll do it for your training.\nLet's head back to the barracks and report to Secretary Nagi.[ST:wait ]\n"
+    }
+  ]
+}

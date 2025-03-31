@@ -1,0 +1,564 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev012901_JNK0010",
+      "style": 4,
+      "name": "Inquire[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev012901_SEL0011",
+      "style": 3,
+      "name": "Ask Bates about the recently discovered survivor.[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev012901_JNK0020",
+      "style": 1,
+      "name": "Discuss[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev012901_SEL0021",
+      "style": 1,
+      "name": "Ask Bates if anything is troubling him.[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev012901_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 6,
+      "label": "tev012901_SEL0031",
+      "style": 3,
+      "name": "Ask Bates about the recently discovered survivor.[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "tev012901_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 8,
+      "label": "tev012901_SEL0021",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 9,
+      "label": "tev012901_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 10,
+      "label": "tev012901_SEL0041",
+      "style": 3,
+      "name": "Ask Bates about his BLADE companions.[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev012901_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 12,
+      "label": "tev012901_SEL0021",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 13,
+      "label": "tev012901_MSG0001",
+      "style": 1,
+      "name": "They never report the news in much detail,\neven when it's from the director general.[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "tev012901_MSG0002",
+      "style": 1,
+      "name": "I don't know anything about the survivor,\nbut I can't help but wonder.[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "tev012901_MSG0003",
+      "style": 1,
+      "name": "I heard that [ST:gender p1=he p2=she ] worked with Elma to kill the grexes\nthat were running wild outside the walls. If [ST:gender p1=he's p2=she's ] that\ngood of a fighter, [ST:gender p1=he'll p2=she'll ] probably end up in BLADE.[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "tev012901_MSG0004",
+      "style": 1,
+      "name": "And then, as a fellow recruit, we might end up being\nrivals! I gotta get a look at this [ST:gender p1=guy p2=girl ], man.\nI can't let [ST:gender p1=him p2=her ] beat me![ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "tev012901_MSG0007",
+      "style": 1,
+      "name": "Our team leader? Corwin? He's an adventurer through\nand through.[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "tev012901_MSG0008",
+      "style": 1,
+      "name": "Before all this, he once climbed Everest without bringing\nany oxygen, and also explored a number of regions on\nthe Moon's surface. He's really an incredible guy.[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "tev012901_MSG0009",
+      "style": 1,
+      "name": "I have a ton of respect for him, which is the whole\nreason I joined his team.[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "tev012901_MSG0010",
+      "style": 1,
+      "name": "But his second-in-command, Raleigh, and another guy\nnamed Peter always treat me like I'm some amateur.[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "tev012901_MSG0011",
+      "style": 1,
+      "name": "Also, the captain yells at me all day long,\nand the tasks they assign are insultingly simple.[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "tev012901_MSG0012",
+      "style": 1,
+      "name": "I wish they'd just accept me as a full member already.\nI want to be a part of historic feats like the captain.[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "tev012901_MSG0020",
+      "style": 1,
+      "name": "I wonder how that new crew member Elma discovered\nhas been doing since [ST:gender p1=he p2=she ] got here?[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "tev012901_MSG0021",
+      "style": 1,
+      "name": "Imagine waking up on this bizarre world and not\nknowing anything about what's been going on.[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "tev012901_MSG0022",
+      "style": 1,
+      "name": "And everyone's throwing around weird words like\n\"BLADE\" and \"Lifehold\"? That's gotta take some\ngetting used to.[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "tev012901_MSG0023",
+      "style": 1,
+      "name": "That's why I told Raleigh I wanted to talk to the new\nrecruit and give [ST:gender p1=him p2=her ] a proper introduction to what\nBLADE is all about.[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "tev012901_MSG0024",
+      "style": 1,
+      "name": "Pretty nice of me, right? But Raleigh just said, \"A scrub\nlike you is in no position to be teaching anyone about\nanything.\" Then she ordered me to drop the idea.[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "tev012901_MSG0025",
+      "style": 1,
+      "name": "How long are they gonna treat me like I'm some\nclueless kid? They could at least show me a shred\nof the respect they show to every other BLADE![ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "tev012901_MSG0040",
+      "style": 1,
+      "name": "That new member of Elma's team has only just joined\nBLADE...[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "tev012901_MSG0041",
+      "style": 1,
+      "name": "But I hear [ST:gender p1=he p2=she ] already brought down a xenoform fort\nAND rescued a Nopon![ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "tev012901_MSG0042",
+      "style": 1,
+      "name": "It galls me to say it, but [ST:gender p1=he p2=she ]'s pretty incredible.\nEveryone on Team Corwin was blown away by how\nmuch [ST:gender p1=he p2=she ]'s accomplished.[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "tev012901_MSG0043",
+      "style": 1,
+      "name": "And then Raleigh slithered up and told me,\n\"You're being outdone, stripling.\"[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "tev012901_MSG0044",
+      "style": 1,
+      "name": "Dammit! I can't let [ST:gender p1=him p2=her ] beat me! I've got to pull off\nsome big mission to show Raleigh that I'm still on top![ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "tev012901_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 35,
+      "label": "tev012901_SEL1011",
+      "style": 3,
+      "name": "Ask Bates about himself.[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "tev012901_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 37,
+      "label": "tev012901_SEL1021",
+      "style": 1,
+      "name": "Ask Bates about recent developments.[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "tev012901_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 39,
+      "label": "tev012901_SEL1031",
+      "style": 1,
+      "name": "Ask Bates about the enemy attack.[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "tev012901_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 41,
+      "label": "tev012901_SEL1021",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 42,
+      "label": "tev012901_MSG0045",
+      "style": 1,
+      "name": "It hasn't been that long since they found you,\nand yet you've already accomplished so much.[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "tev012901_MSG0046",
+      "style": 1,
+      "name": "As the other new guy, that puts a lot of pressure\non me—and I'm falling further and further behind.[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "tev012901_MSG0047",
+      "style": 1,
+      "name": "Today, some mysterious assailant attacked us in\nNoctilum. The experience showed me how weak and\ninsufficient I actually am.[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "tev012901_MSG0048",
+      "style": 1,
+      "name": "I'd like to think I'm better than you, but at this point...\nWell, I know it's just not true.[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "tev012901_MSG0049",
+      "style": 1,
+      "name": "But if you don't watch your back, I'm gonna overtake\nyou one of these days![ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "tev012901_MSG0052",
+      "style": 1,
+      "name": "We were lucky to have escaped with our lives, but...\nEven now, it makes me shudder to think about him.[ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "tev012901_MSG0053",
+      "style": 1,
+      "name": "I don't know what sort of xenoform is piloting that\nblack Skell, but he's powerful. When he attacked us,\nit's like we were bugs being stomped underfoot.[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "tev012901_MSG0054",
+      "style": 1,
+      "name": "If Corwin and Raleigh hadn't come running over when\nthey did, I'd be a goner.[ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "tev012901_MSG0055",
+      "style": 1,
+      "name": "I can't believe how much trouble I've caused.\nI need to get back on duty and find a way to\nrepay them![ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "tev012901_MSG0056",
+      "style": 1,
+      "name": "I heard you were the one who drove off that Ryyz\nwoman.[ST:wait ]"
+    },
+    {
+      "$id": 52,
+      "label": "tev012901_MSG0057",
+      "style": 1,
+      "name": "I can't believe this... It's not enough that you're beating\nme—you just have to keep making it worse![ST:wait ]"
+    },
+    {
+      "$id": 53,
+      "label": "tev012901_MSG0058",
+      "style": 1,
+      "name": "But I'm not giving up. I'll overtake you one day.\nI know I will.[ST:wait ]"
+    },
+    {
+      "$id": 54,
+      "label": "tev012901_MSG0059",
+      "style": 1,
+      "name": "I'm gonna become the great BLADE that Corwin\nalways wanted to be![ST:wait ]"
+    },
+    {
+      "$id": 55,
+      "label": "tev012901_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 56,
+      "label": "tev012901_SEL2011",
+      "style": 3,
+      "name": "Ask Bates about himself.[ST:wait ]"
+    },
+    {
+      "$id": 57,
+      "label": "tev012901_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 58,
+      "label": "tev012901_SEL2021",
+      "style": 3,
+      "name": "Ask Bates about recent developments.[ST:wait ]"
+    },
+    {
+      "$id": 59,
+      "label": "tev012901_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 60,
+      "label": "tev012901_SEL1031",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 61,
+      "label": "tev012901_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 62,
+      "label": "tev012901_SEL0101",
+      "style": 3,
+      "name": "Ask Bates about recent developments.[ST:wait ]"
+    },
+    {
+      "$id": 63,
+      "label": "tev012901_MSG0060",
+      "style": 1,
+      "name": "It hasn't been that long since they found you,\nand yet you've already accomplished so much.[ST:wait ]"
+    },
+    {
+      "$id": 64,
+      "label": "tev012901_MSG0061",
+      "style": 1,
+      "name": "As the other new guy, that puts a lot of pressure\non me—and I'm falling further and further behind.[ST:wait ]"
+    },
+    {
+      "$id": 65,
+      "label": "tev012901_MSG0062",
+      "style": 1,
+      "name": "And now, I even needed you to save me!\nSo I admit it—you're the better BLADE.[ST:wait ]"
+    },
+    {
+      "$id": 66,
+      "label": "tev012901_MSG0063",
+      "style": 1,
+      "name": "But if you don't watch your back, I'm gonna overtake\nyou one of these days![ST:wait ]"
+    },
+    {
+      "$id": 67,
+      "label": "tev012901_MSG0066",
+      "style": 1,
+      "name": "When I got back, the captain told me to pull myself\ntogether. ...Then he punched me right in the face.[ST:wait ]"
+    },
+    {
+      "$id": 68,
+      "label": "tev012901_MSG0067",
+      "style": 1,
+      "name": "That was the wake-up call I needed.\nI'm getting back to work right away![ST:wait ]"
+    },
+    {
+      "$id": 69,
+      "label": "tev012901_MSG0068",
+      "style": 1,
+      "name": "I know I caused a lot of trouble for Raleigh and the\ncaptain, and that's a debt I need to repay.[ST:wait ]"
+    },
+    {
+      "$id": 70,
+      "label": "tev012901_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 71,
+      "label": "tev012901_SEL1031",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 72,
+      "label": "tev012901_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 73,
+      "label": "tev012901_SEL3021",
+      "style": 1,
+      "name": "Ask Bates about recent developments.[ST:wait ]"
+    },
+    {
+      "$id": 74,
+      "label": "tev012901_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 75,
+      "label": "tev012901_SEL3031",
+      "style": 3,
+      "name": "Ask what Bates intends to do next.[ST:wait ]"
+    },
+    {
+      "$id": 76,
+      "label": "tev012901_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 77,
+      "label": "tev012901_SEL3021",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 78,
+      "label": "tev012901_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 79,
+      "label": "tev012901_SEL3041",
+      "style": 3,
+      "name": "Ask what Bates intends to do next.[ST:wait ]"
+    },
+    {
+      "$id": 80,
+      "label": "tev012901_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 81,
+      "label": "tev012901_SEL3021",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 82,
+      "label": "tev012901_MSG0069",
+      "style": 1,
+      "name": "I wouldn't be alive today if it wasn't for you.\nThanks for showing me that incredible hiding place.[ST:wait ]"
+    },
+    {
+      "$id": 83,
+      "label": "tev012901_MSG0070",
+      "style": 1,
+      "name": "Corwin says that a good Pathfinder must understand\neverything about his environment so he can always take\nthe optimal course of action.[ST:wait ]"
+    },
+    {
+      "$id": 84,
+      "label": "tev012901_MSG0071",
+      "style": 1,
+      "name": "I guess you're proof of that. I gotta stop relying on\nFrontierNav and start learning the lay of the land on\nfoot. Step by step, if needs be.[ST:wait ]"
+    },
+    {
+      "$id": 85,
+      "label": "tev012901_MSG0077",
+      "style": 1,
+      "name": "Peter still calls me a \"tenderfoot,\" but am I really?[ST:wait ]"
+    },
+    {
+      "$id": 86,
+      "label": "tev012901_MSG0078",
+      "style": 1,
+      "name": "I mean, I went to Cauldros and came back alive.\nIf that doesn't make me a full-fledged Pathfinder,\nI don't know what would.[ST:wait ]"
+    },
+    {
+      "$id": 87,
+      "label": "tev012901_MSG0079",
+      "style": 1,
+      "name": "I'm gonna install tons of data probes and show him\nwho the tenderfoot really is. Then I'm gonna make\nTeam Corwin the top BLADE team in New LA![ST:wait ]"
+    },
+    {
+      "$id": 88,
+      "label": "tev012901_MSG0092",
+      "style": 1,
+      "name": "You've done good work, but I never imagined you'd\nbe the one to find the Lifehold Core and take down\nthe Ganglion boss.[ST:wait ]"
+    },
+    {
+      "$id": 89,
+      "label": "tev012901_MSG0093",
+      "style": 1,
+      "name": "I guess I can't consider you my rival anymore.\nI mean, you're waaay out of my league.[ST:wait ]"
+    },
+    {
+      "$id": 90,
+      "label": "tev012901_MSG0094",
+      "style": 1,
+      "name": "But even Captain Corwin has started praising me.\nHe says I'm finally starting to \"get my crap together.\"[ST:wait ]"
+    },
+    {
+      "$id": 91,
+      "label": "tev012901_MSG0095",
+      "style": 1,
+      "name": "If I keep at it, I'll be carrying Team Corwin before you\nknow it.[ST:wait ]"
+    }
+  ]
+}

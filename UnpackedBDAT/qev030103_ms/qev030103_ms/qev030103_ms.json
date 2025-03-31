@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev030103_MSG0001",
+      "style": 1,
+      "name": "My brother is safe. I am relieved.\nThey were ready to kill us both.[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev030103_MSG0002",
+      "style": 1,
+      "name": "There may be others needing rescue.\nYou must be careful.[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev030103_MSG0003",
+      "style": 1,
+      "name": "I worry about Oll. He may try to save me.\nHe may do something rash. That is who he is.[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev030103_MSG0004",
+      "style": 1,
+      "name": "Do not let Cavern Clan hurt him. Please![ST:wait ]"
+    }
+  ]
+}

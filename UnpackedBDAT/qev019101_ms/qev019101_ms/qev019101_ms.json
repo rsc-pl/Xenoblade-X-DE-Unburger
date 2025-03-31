@@ -1,0 +1,540 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev019101_MSG0001",
+      "style": 1,
+      "name": "Can this contraption truly yield ore harder than steel?[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev019101_MSG0002",
+      "style": 1,
+      "name": "These alien technologies are indeed most strange and\nwondrous...[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev019101_MSG0003",
+      "style": 1,
+      "name": "Ho! You there! Do you know of this material known as\n\"mere-rain-ium\"?[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev019101_MSG0004",
+      "style": 1,
+      "name": "A Ma-non spoke of it. She claimed it was an ore of\nuncommon properties and unparalleled usefulness.[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev019101_JNK0010",
+      "style": 4,
+      "name": "Explain"
+    },
+    {
+      "$id": 6,
+      "label": "qev019101_SEL0011",
+      "style": 3,
+      "name": "Tell Go Sirho all you know about miranium."
+    },
+    {
+      "$id": 7,
+      "label": "qev019101_JNK0020",
+      "style": 4,
+      "name": "Question"
+    },
+    {
+      "$id": 8,
+      "label": "qev019101_SEL0021",
+      "style": 3,
+      "name": "Ask Go Sirho what miranium can be used for."
+    },
+    {
+      "$id": 9,
+      "label": "qev019101_MSG0005",
+      "style": 1,
+      "name": "I see. You are most knowledgeable. I had not expected\nthis mere-rain-ium to have so many uses.[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev019101_MSG0006",
+      "style": 1,
+      "name": "I see now why Six Stars is so desperate to acquire it.[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev019101_MSG0007",
+      "style": 1,
+      "name": "I know little of it myself, having only first seen it after\ncoming to this fair city.[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev019101_MSG0008",
+      "style": 1,
+      "name": "I am told it can be rendered harder than steel,\nor as flexible as a spring.[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev019101_MSG0009",
+      "style": 1,
+      "name": "The Ma-non have even developed a means to use it as\na kind of fuel.[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev019101_MSG0010",
+      "style": 1,
+      "name": "As an artisan myself, I am deeply curious, and wish to\nexplore these processes I have heard tell of.[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev019101_MSG0011",
+      "style": 1,
+      "name": "You BLADEs gather this mere-rain-ium for any who\ndesire it. Is this not so?[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev019101_MSG0012",
+      "style": 1,
+      "name": "I require no more than 10,000 units at most.\nWill you honor me with your assistance?[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev019101_MSG0013",
+      "style": 1,
+      "name": "If I can learn to manipulate this substance, I am certain\nI can offer the city powerful products conceivable only\nby the mind of a Wrothian.[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev019101_MSG0014",
+      "style": 1,
+      "name": "While you are away I shall continue my study of\nthis...mere-rain-ium.[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev019101_MSG0015",
+      "style": 1,
+      "name": "By my name and honor, I shall not allow the materials\nyour labor earns to go to waste![ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev019101_MSG0016",
+      "style": 1,
+      "name": "For one outside the established industry such as myself,\nmy only recourse is to rely on BLADEs.[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev019101_MSG0017",
+      "style": 1,
+      "name": "I beseech you for 10,000 units of mere-rain-ium,\nand swear it shall not go to waste.[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev019101_MSG0018",
+      "style": 1,
+      "name": "You are returned, [ST:playername ]!\nHow did your hunt fare?[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev019101_MSG0019",
+      "style": 1,
+      "name": "While you were gone, I learned much from a wise and\ngenerous human called Kirsty.[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev019101_JNK0030",
+      "style": 4,
+      "name": "Deliver"
+    },
+    {
+      "$id": 25,
+      "label": "qev019101_SEL0031",
+      "style": 3,
+      "name": "Hand over 10,000 units of miranium."
+    },
+    {
+      "$id": 26,
+      "label": "qev019101_JNK0040",
+      "style": 4,
+      "name": "Keep"
+    },
+    {
+      "$id": 27,
+      "label": "qev019101_SEL0041",
+      "style": 3,
+      "name": "Hold on to your miranium for now."
+    },
+    {
+      "$id": 28,
+      "label": "qev019101_MSG0020",
+      "style": 1,
+      "name": "Such a bounty of mere-rain-ium![ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev019101_MSG0021",
+      "style": 1,
+      "name": "And did you acquire this using your Front Ear Nav?[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev019101_MSG0022",
+      "style": 1,
+      "name": "Kirsty made mention of such a thing.[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev019101_MSG0023",
+      "style": 1,
+      "name": "When I showed interest, she was kind enough to give\nme a data probe suitable for novices.[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev019101_MSG0024",
+      "style": 1,
+      "name": "I would like to make use of this gift, but...\nAre you familiar with its workings?[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev019101_JNK0050",
+      "style": 4,
+      "name": "Confirm"
+    },
+    {
+      "$id": 34,
+      "label": "qev019101_SEL0051",
+      "style": 3,
+      "name": "Tell Go Sirho that you know all about data probes."
+    },
+    {
+      "$id": 35,
+      "label": "qev019101_JNK0060",
+      "style": 4,
+      "name": "Deny"
+    },
+    {
+      "$id": 36,
+      "label": "qev019101_SEL0061",
+      "style": 3,
+      "name": "Shake your head and look around nervously."
+    },
+    {
+      "$id": 37,
+      "label": "qev019101_MSG0025",
+      "style": 1,
+      "name": "You BLADEs are quite reliable. I fear that even after\nhearing an explanation of its mysteries, I was unable\nto grasp them.[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev019101_MSG0026",
+      "style": 1,
+      "name": "If it be no insult to you, I would trouble you to teach\nme such things yet once more. Perhaps with a practical\ndemonstration in the wild? [ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "qev019101_MSG0027",
+      "style": 1,
+      "name": "When I mentioned your name, Kirsty affirmed that you\nwere a most proficient student.[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "qev019101_MSG0028",
+      "style": 1,
+      "name": "Such modesty is wasted here. Please, you must show\nme how to make use of this data probe.\nPerhaps with a practical demonstration in the wild?[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "qev019101_MSG0029",
+      "style": 1,
+      "name": "My mere-rain-ium needs are met, yet I do not wish to\nbe dependent upon you indefinitely—we Wrothians\nvalue self-sufficiency above nearly all else.[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "qev019101_MSG0030",
+      "style": 1,
+      "name": "I will await you in Oblivia. Please come once you have\nmade preparations.[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "qev019101_MSG0031",
+      "style": 1,
+      "name": "I see. Then I ask you to inform me once you have\nfound said mere-rain-ium. Many thanks, hunter.[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "qev019101_MSG0032",
+      "style": 1,
+      "name": "Ah, you have come! Now then, if I remember correctly,\nI am to stab this data probe into the ground, yes?[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "qev019101_MSG0033",
+      "style": 1,
+      "name": "But after that, Kirsty's teachings are a blur—so you will\nneed demonstrate the rest with all haste.[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "qev019101_MSG0034",
+      "style": 1,
+      "name": "I ask that you be as thorough as you can. I am not\naccustomed to dealing with such machines, and their\nworkings elude me.[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "qev019101_JNK0070",
+      "style": 4,
+      "name": "Teach"
+    },
+    {
+      "$id": 48,
+      "label": "qev019101_SEL0071",
+      "style": 3,
+      "name": "Show Go Sirho everything, step by painful step."
+    },
+    {
+      "$id": 49,
+      "label": "qev019101_JNK0080",
+      "style": 4,
+      "name": "Refuse"
+    },
+    {
+      "$id": 50,
+      "label": "qev019101_SEL0081",
+      "style": 3,
+      "name": "Tell Go Sirho she'll never learn unless\nshe teaches herself."
+    },
+    {
+      "$id": 51,
+      "label": "qev019101_MSG0035",
+      "style": 1,
+      "name": "Ah, I see. So this part goes here...[ST:wait ]"
+    },
+    {
+      "$id": 52,
+      "label": "qev019101_MSG0036",
+      "style": 1,
+      "name": "No? Then it is installed like this?[ST:wait ]"
+    },
+    {
+      "$id": 53,
+      "label": "qev019101_MSG0037",
+      "style": 1,
+      "name": "Not that either? Then how DOES this thrice-damned\ncontraption work?![ST:wait ]"
+    },
+    {
+      "$id": 54,
+      "label": "qev019101_MSG0038",
+      "style": 1,
+      "name": "Bah! ENOUGH! I've had it with this stubborn device.\nTake this! Hiiiyaaa!!![ST:wait ]"
+    },
+    {
+      "$id": 55,
+      "label": "qev019101_MSG0039",
+      "style": 1,
+      "name": "A fair point. For when learning the sword, one must\nalways begin by holding the blade for oneself.[ST:wait ]"
+    },
+    {
+      "$id": 56,
+      "label": "qev019101_MSG0040",
+      "style": 1,
+      "name": "Very well. I shall take this part and place it here...[ST:wait ]"
+    },
+    {
+      "$id": 57,
+      "label": "qev019101_MSG0041",
+      "style": 1,
+      "name": "This goes...we'll say, here. And I press this...[ST:wait ]"
+    },
+    {
+      "$id": 58,
+      "label": "qev019101_MSG0042",
+      "style": 1,
+      "name": "Ha! Are you duly impressed?[ST:wait ]"
+    },
+    {
+      "$id": 59,
+      "label": "qev019101_MSG0043",
+      "style": 1,
+      "name": "......[ST:wait ]"
+    },
+    {
+      "$id": 60,
+      "label": "qev019101_MSG0044",
+      "style": 1,
+      "name": "Where did I go wrong?[ST:wait ]"
+    },
+    {
+      "$id": 61,
+      "label": "qev019101_MSG0045",
+      "style": 1,
+      "name": "I will grant that perhaps my handling was a bit rough,\nbut surely...[ST:wait ]"
+    },
+    {
+      "$id": 62,
+      "label": "qev019101_MSG0046",
+      "style": 1,
+      "name": "No. I will make no excuse. I must swallow my pride\nand petition that you ask Kirsty for another data probe.[ST:wait ]"
+    },
+    {
+      "$id": 63,
+      "label": "qev019101_MSG0047",
+      "style": 1,
+      "name": "I swear on my name that this error shall not be\nrepeated![ST:wait ]"
+    },
+    {
+      "$id": 64,
+      "label": "qev019101_MSG0048",
+      "style": 1,
+      "name": "Was I too forceful? I did not anticipate the device to be\nquite so...fragile.[ST:wait ]"
+    },
+    {
+      "$id": 65,
+      "label": "qev019101_MSG0049",
+      "style": 1,
+      "name": "I shall not repeat this error. Kindly go ask Kirsty for\nanother datum probe, that I might use it.[ST:wait ]"
+    },
+    {
+      "$id": 66,
+      "label": "qev019101_MSG0050",
+      "style": 1,
+      "name": "Well, hunter? Did you receive another data probe?[ST:wait ]"
+    },
+    {
+      "$id": 67,
+      "label": "qev019101_MSG0051",
+      "style": 1,
+      "name": "This time I shall install it without fail.\nI ask that you hand me said device.[ST:wait ]"
+    },
+    {
+      "$id": 68,
+      "label": "qev019101_MSG0052",
+      "style": 1,
+      "name": "Fear not. After my last attempt, I have grasped the\nprocess, and remember most of the instructions quite\ndistinctly.[ST:wait ]"
+    },
+    {
+      "$id": 69,
+      "label": "qev019101_MSG0053",
+      "style": 1,
+      "name": "I ask only for any advice you might offer. For example,\nwhat is in your mind when you install these devices?[ST:wait ]"
+    },
+    {
+      "$id": 70,
+      "label": "qev019101_JNK0090",
+      "style": 4,
+      "name": "Others"
+    },
+    {
+      "$id": 71,
+      "label": "qev019101_SEL0091",
+      "style": 3,
+      "name": "Tell Go Sirho that you think of how\nit will aid the future of humankind."
+    },
+    {
+      "$id": 72,
+      "label": "qev019101_JNK0100",
+      "style": 4,
+      "name": "Myself"
+    },
+    {
+      "$id": 73,
+      "label": "qev019101_SEL0101",
+      "style": 3,
+      "name": "Tell Go Sirho that you think about\nall the credits you will earn."
+    },
+    {
+      "$id": 74,
+      "label": "qev019101_MSG0054",
+      "style": 1,
+      "name": "You bear a great weight upon your shoulders.\n...I feel the same.[ST:wait ]"
+    },
+    {
+      "$id": 75,
+      "label": "qev019101_MSG0055",
+      "style": 1,
+      "name": "Even now, I study these devices to ease the plight of my\nfellow Wrothians who toil in poverty.[ST:wait ]"
+    },
+    {
+      "$id": 76,
+      "label": "qev019101_MSG0056",
+      "style": 1,
+      "name": "...Yes. As long as I remain focused on that goal,\nI am unlikely to be careless enough to break the device.[ST:wait ]"
+    },
+    {
+      "$id": 77,
+      "label": "qev019101_MSG0057",
+      "style": 1,
+      "name": "I thank you. I will attempt it again now with that firmly\nin mind.[ST:wait ]"
+    },
+    {
+      "$id": 78,
+      "label": "qev019101_MSG0058",
+      "style": 1,
+      "name": "Is your Front Ear Nav truly so lucrative?[ST:wait ]"
+    },
+    {
+      "$id": 79,
+      "label": "qev019101_MSG0059",
+      "style": 1,
+      "name": "Then let it bring me the funds to erect a mighty\nworkshop and attain great success![ST:wait ]"
+    },
+    {
+      "$id": 80,
+      "label": "qev019101_MSG0060",
+      "style": 1,
+      "name": "For I hope one day to ransom my fellow Wrothians\nfrom the skeletal clutches of poverty.[ST:wait ]"
+    },
+    {
+      "$id": 81,
+      "label": "qev019101_MSG0061",
+      "style": 1,
+      "name": "Watch on, then, as I lay the cornerstone of the\nWrothians' new and glorious future![ST:wait ]"
+    },
+    {
+      "$id": 82,
+      "label": "qev019101_MSG0062",
+      "style": 1,
+      "name": "...Ha ha ha! Excellent! It is done!\nAnd now to receive mere-rain-ium![ST:wait ]"
+    },
+    {
+      "$id": 83,
+      "label": "qev019101_MSG0063",
+      "style": 1,
+      "name": "I thank you, [ST:playername ]! From this day\nforth, I will expand your Front Ear Nav across the\nfarthest reaches of Mira.[ST:wait ]"
+    },
+    {
+      "$id": 84,
+      "label": "qev019101_MSG0064",
+      "style": 1,
+      "name": "Then the Wrothians will prosper as you BLADEs\nhave prospered.[ST:wait ]"
+    },
+    {
+      "$id": 85,
+      "label": "qev019101_MSG0065",
+      "style": 1,
+      "name": "Now to return and explore what can be crafted from\nthis mere-rain-ium...[ST:wait ]"
+    },
+    {
+      "$id": 86,
+      "label": "qev019101_MSG0066",
+      "style": 1,
+      "name": "I give you my word—I will create something uniquely\nWrothian that will bring wealth to both our peoples.[ST:wait ]"
+    },
+    {
+      "$id": 87,
+      "label": "qev019101_MSG0067",
+      "style": 1,
+      "name": "I shall see that all you have taught me and all you have\ndone is not put to waste![ST:wait ]"
+    }
+  ]
+}

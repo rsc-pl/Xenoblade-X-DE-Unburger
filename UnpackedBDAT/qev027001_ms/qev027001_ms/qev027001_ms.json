@@ -1,0 +1,336 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev027001_MSG0001",
+      "style": 1,
+      "name": "Ah! You there! [ST:gender p1=Mr. p2=Ms. ] BLADE, yes? This may seem like a\nchance meeting, but I assure you it is not, all right?[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev027001_MSG0002",
+      "style": 1,
+      "name": "Clearly, you are fated to to to hear me out, you see?[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev027001_MSG0003",
+      "style": 1,
+      "name": "This is a deeply serious matter to us, okay?\nSo before you say anything, I'm going to start talking.[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev027001_MSG0004",
+      "style": 1,
+      "name": "The short short version is that the world really is a\ndangerous place, isn't it? Yes. So so dangerous.[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev027001_MSG0005",
+      "style": 1,
+      "name": "Especially recently, yes? It's gotten to the point where a\nperson can't even step outside to do maintenance work,\nhasn't it?[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev027001_MSG0006",
+      "style": 1,
+      "name": "Or or like right now, as we're out here talking...[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev027001_MSG0007",
+      "style": 1,
+      "name": "Have a look above us, maybe?[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev027001_MSG0008",
+      "style": 1,
+      "name": "We could be minding our business, working in an\nopen spot like this, and then BLAM! ...Yes? Blam?[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev027001_MSG0009",
+      "style": 1,
+      "name": "Fourteen people have already been killed, right?\nIt's far past the point where we can ignore this.[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev027001_MSG0010",
+      "style": 1,
+      "name": "And it's not like we don't know who's responsible, yes?\nAs I'm sure you've guessed, it has to be the Ganglion.[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev027001_MSG0011",
+      "style": 1,
+      "name": "We were supposed to have chased the last of them out\nof the area, but but there are still stragglers, it seems?[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev027001_MSG0012",
+      "style": 1,
+      "name": "There's only one reason I can think of for these\nsenseless attacks...[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev027001_MSG0013",
+      "style": 1,
+      "name": "It's a mix of spite against the Ma-non they couldn't\nenslave and the humans they couldn't defeat![ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev027001_MSG0014",
+      "style": 1,
+      "name": "And I can't forgive that, can I? It makes me really really\nreally mad. So mad. So so mad![ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev027001_MSG0015",
+      "style": 1,
+      "name": "If you feel the same, I'd like you to help me, okay?[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev027001_MSG0016",
+      "style": 1,
+      "name": "You should go find those Ganglion survivors and beat\nthem up, yes? Beat them up a lot, even?[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev027001_JNK0010",
+      "style": 4,
+      "name": "Inquire"
+    },
+    {
+      "$id": 18,
+      "label": "qev027001_SEL0011",
+      "style": 3,
+      "name": "Ask Bihabba about the scale of this Ganglion force."
+    },
+    {
+      "$id": 19,
+      "label": "qev027001_JNK0020",
+      "style": 4,
+      "name": "Doubt"
+    },
+    {
+      "$id": 20,
+      "label": "qev027001_SEL0021",
+      "style": 3,
+      "name": "Question whether the Ganglion are truly responsible."
+    },
+    {
+      "$id": 21,
+      "label": "qev027001_MSG0017",
+      "style": 1,
+      "name": "Hrm... That's a reasonable question, isn't it?\nBut it's also a hard one to answer.[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev027001_MSG0018",
+      "style": 1,
+      "name": "We can at least be sure that it isn't overly large,\nmaybe?[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev027001_MSG0019",
+      "style": 1,
+      "name": "A big squad wouldn't bother sneaking around sniping\npeople, right? They'd just march on the city.[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev027001_MSG0020",
+      "style": 1,
+      "name": "Their tactics are proof that they don't have that kind of\nof of manpower to spare, you see?[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev027001_MSG0021",
+      "style": 1,
+      "name": "Er, what? How is that not clear?\nAnd why would you doubt me?[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev027001_MSG0022",
+      "style": 1,
+      "name": "It's because of you humans that this area is so so so\npeaceful, you know?[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev027001_MSG0023",
+      "style": 1,
+      "name": "Who would think to do this kind of of cowardly crime\nbut the Ganglion?[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev027001_MSG0024",
+      "style": 1,
+      "name": "I hope you'll stop asking silly questions and help me\nout already, maybe?[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev027001_MSG0025",
+      "style": 1,
+      "name": "Now that we've established that, I'd like you to start\nby tracking down their hideout, okay?[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev027001_MSG0026",
+      "style": 1,
+      "name": "Sadly, nobody thought to record the direction from\nwhich these shots have been fired and so on.\nForensics should have been more thorough, no?[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev027001_MSG0027",
+      "style": 1,
+      "name": "Oh, is that all you need?[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev027001_MSG0028",
+      "style": 1,
+      "name": "BWAUGH! D-don't just jump into a conversation like\nthat, all right? Also, wait—you're alive?![ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev027001_MSG0029",
+      "style": 1,
+      "name": "Er, of course I am? True, I was hurt rather badly—\nbut as you can see, I'm still here, no?[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev027001_MSG0030",
+      "style": 1,
+      "name": "I'm also mad enough to to to spit. Who just shoots a\nperson out of the blue? A jerk, right?\nA jerk who you should go beat up a lot![ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev027001_MSG0031",
+      "style": 1,
+      "name": "So you remember the direction the attack came from?[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev027001_MSG0032",
+      "style": 1,
+      "name": "Well, I was shot in the right side of my back, yes?\nSo then...[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev027001_MSG0033",
+      "style": 1,
+      "name": "the shooter would have been north of me.[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev027001_MSG0034",
+      "style": 1,
+      "name": "There was a fair bit of percussive force to the shot,\nbut I wasn't burned to a crisp or anything, was I?[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "qev027001_MSG0035",
+      "style": 1,
+      "name": "Which means the beam was extremely focused.\nA precision sniper round, perhaps? That suggests it\nwas fired from a considerable distance, no?[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "qev027001_MSG0036",
+      "style": 1,
+      "name": "And based on direction and distance...that would\nplace the shooter somewhere in Primordia?[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "qev027001_MSG0037",
+      "style": 1,
+      "name": "...Oof. I think I need to lay down.\nAll this talking has me a little...dizzy?[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "qev027001_MSG0038",
+      "style": 1,
+      "name": "You go get rest, okay? We've got a good lead on the\nenemy now, so so don't worry. Oh, and remember to\neat lots of pizza for strength, yes?[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "qev027001_MSG0039",
+      "style": 1,
+      "name": "By the time you've had dinner and a nap, this whole\nmess will be over. After all, I've got an ace BLADE on\nthe job, don't I?![ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "qev027001_MSG0040",
+      "style": 1,
+      "name": "...Er, I DO have an ace BLADE on the case, right?\nPlease? Because I really need you to head north into\nPrimordia and investigate.[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "qev027001_MSG0041",
+      "style": 1,
+      "name": "Did you decide to help me out, maybe?[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "qev027001_MSG0042",
+      "style": 1,
+      "name": "I want you to search for whoever's sniping at us from\nnorth of here in Primordia, all right?[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "qev027001_MSG0043",
+      "style": 1,
+      "name": "You're already involved at this point, so you might as\nwell see it through, yes? Nobody likes a quitter.[ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "qev027001_MSG0044",
+      "style": 1,
+      "name": "Do this, and Heradot’s ghost will finally know peace.[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "qev027001_MSG0045",
+      "style": 1,
+      "name": "Er, sorry. Did I say ghost? No. Not ghost. Not dead.\nI mean she'll be happy wherever it is that she's\npresently recovering! ...Right?[ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "qev027001_MSG0046",
+      "style": 1,
+      "name": "Now, go go go! Get out in Primordia and start\ninvestigating already, okay?![ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "qev027001_MSG0047",
+      "style": 1,
+      "name": "Really, what is the world coming to these days?[ST:wait ]"
+    },
+    {
+      "$id": 52,
+      "label": "qev027001_MSG0048",
+      "style": 1,
+      "name": "We Ma-non just want to live easy, free, peaceful lives,\ndon't we? Of course we go.[ST:wait ]"
+    },
+    {
+      "$id": 53,
+      "label": "qev027001_MSG0049",
+      "style": 1,
+      "name": "We don't need anyone else coming in and ruining that,\nright?[ST:wait ]"
+    }
+  ]
+}

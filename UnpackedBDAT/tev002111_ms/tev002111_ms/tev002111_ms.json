@@ -1,0 +1,60 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev002111_MSG0010",
+      "style": 1,
+      "name": "I expect you to continue performing your\nBLADE duties, like always. Once we've\nnailed down the plan, I'll be in touch.[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev002111_MSG0020",
+      "style": 1,
+      "name": "It took long enough, but the plan's getting\ninto the final stages now. Try to get some\nshut-eye before things get too...exciting.[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev002111_MSG0030",
+      "style": 1,
+      "name": "There's still time before your deployment.\nTake a breather while you can—might be\nyour last chance for a while.[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev002111_MSG0040",
+      "style": 1,
+      "name": "The escort'll keep the White Whale 2 in\nthe air. You BLADEs just stick to the plan:\ntake down Void and retrieve the cores![ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev002111_MSG0050",
+      "style": 1,
+      "name": "What're you doing back?! I was hailing\nyou the whole time, but I couldn't get\nthrough. Glad to see you're alive, though.[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "tev002111_MSG0060",
+      "style": 1,
+      "name": "EM interference isn't affording us a whole\nlot of visibility, so I won't be whispering\nsweet nothings to you on this occasion.[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "tev002111_MSG0070",
+      "style": 1,
+      "name": "I'm sorry, but you're on your own.\nThe fate of humanity's riding on you.\n...Make it count.[ST:wait ]"
+    }
+  ]
+}

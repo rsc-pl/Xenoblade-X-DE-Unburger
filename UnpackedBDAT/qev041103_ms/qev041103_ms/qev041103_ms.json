@@ -1,0 +1,342 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev041103_MSG0001",
+      "style": 1,
+      "name": "Pardon, but has friend seen anyone selling red pollen\norbs to Nopon?[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev041103_MSG0002",
+      "style": 1,
+      "name": "Eating red pollen orb gives huge spike of warm,\nfuzzy-feeling energy! But on comedown, it makes\nuser lazy. Sooooo veeeery lazy.[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev041103_MSG0003",
+      "style": 1,
+      "name": "Then they become dead weight for caravan.\nIt huge nuisance! So annoying![ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev041103_MSG0004",
+      "style": 1,
+      "name": "Rrrrgh! Where IS he?! Always sneaking around,\nthen skittering off when Loma catch him in sights...[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev041103_MSG0005",
+      "style": 1,
+      "name": "Er, pardon, but has friend seen Nopon here called\nBodada?[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev041103_JNK0040",
+      "style": 4,
+      "name": "Deny"
+    },
+    {
+      "$id": 7,
+      "label": "qev041103_SEL0041",
+      "style": 3,
+      "name": "Tell Loma that you haven't seen him."
+    },
+    {
+      "$id": 8,
+      "label": "qev041103_JNK0050",
+      "style": 4,
+      "name": "Probe"
+    },
+    {
+      "$id": 9,
+      "label": "qev041103_SEL0051",
+      "style": 3,
+      "name": "Ask to hear more about Bodada."
+    },
+    {
+      "$id": 10,
+      "label": "qev041103_MSG0006",
+      "style": 1,
+      "name": "Hmm. Loma see. Well, if friend DOES see him,\nplease let Loma know.[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev041103_MSG0007",
+      "style": 1,
+      "name": "Bodada go around selling red pollen orbs to\neveryone he sees. It is serious pain in fuzzy butt![ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev041103_MSG0008",
+      "style": 1,
+      "name": "Eating orbs gives huge spike of energy, but on\ncomedown it make user very lazy. Then they not work\nand caravan suffers. Bad news for everybody![ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev041103_MSG0009",
+      "style": 1,
+      "name": "If Loma not catch Bodada, problem will spread.\nToo many Nopon lured in by promise of instant\nenergy boost only to become useless lump.[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev041103_JNK0060",
+      "style": 4,
+      "name": "Deny"
+    },
+    {
+      "$id": 15,
+      "label": "qev041103_SEL0061",
+      "style": 3,
+      "name": "Say that you know nothing about it."
+    },
+    {
+      "$id": 16,
+      "label": "qev041103_JNK0070",
+      "style": 4,
+      "name": "Explain"
+    },
+    {
+      "$id": 17,
+      "label": "qev041103_SEL0071",
+      "style": 3,
+      "name": "Say that Zazazan asked you to deliver\na secret shipment to Bodada."
+    },
+    {
+      "$id": 18,
+      "label": "qev041103_MSG0039",
+      "style": 1,
+      "name": "Whaaat?! Loma KNEW those two were connected![ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev041103_MSG0011",
+      "style": 1,
+      "name": "And friend is carrying shipment for them?\nWill friend let Loma take look?[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev041103_JNK0080",
+      "style": 4,
+      "name": "Lie"
+    },
+    {
+      "$id": 21,
+      "label": "qev041103_SEL0081",
+      "style": 3,
+      "name": "Say that you don't have the shipment on you."
+    },
+    {
+      "$id": 22,
+      "label": "qev041103_JNK0090",
+      "style": 4,
+      "name": "Confess"
+    },
+    {
+      "$id": 23,
+      "label": "qev041103_SEL0091",
+      "style": 3,
+      "name": "Admit that you have the shipment."
+    },
+    {
+      "$id": 24,
+      "label": "qev041103_MSG0012",
+      "style": 1,
+      "name": "...Friend already delivered it to Bodada? Hrmmm.\nLoma need to stop Bodada before he start selling it off.[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev041103_MSG0013",
+      "style": 1,
+      "name": "WHAT?! Show to Loma! If it contain red pollen orbs,\nthat is proof Loma need to bring Bodada down![ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev041103_MSG0014",
+      "style": 1,
+      "name": "Such color! Such shine!\nNow Loma analyze composition...[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev041103_MSG0015",
+      "style": 1,
+      "name": "Hmm... So red! One bite and ZOOOOOOM!\nBut theeeen CRASH. ...Yup. This is red pollen orb,\nall right.[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev041103_MSG0016",
+      "style": 1,
+      "name": "Loma appreciate cooperation of friend.\nThis should be enough to bring in lowlifes.[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev041103_MSG0017",
+      "style": 1,
+      "name": "Loma will hurry and catch Bodada before he has\nchance to flee.[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev041103_MSG0018",
+      "style": 1,
+      "name": "Loma managed to catch lowlifes just as they meet up.\nTwo villains for price of one![ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev041103_MSG0019",
+      "style": 1,
+      "name": "Friend betrayed Zazazan? Friend is just as awful as\nHarvey! Zazazan done with humans for good![ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev041103_MSG0020",
+      "style": 1,
+      "name": "This human is ally of justice. Awful ones are Zazazan\nand Bodada for profiting off red pollen orbs.[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev041103_MSG0021",
+      "style": 1,
+      "name": "Once Loma report you to elder, Zazazan and\nBodada never do business here again.[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev041103_MSG0022",
+      "style": 1,
+      "name": "N-no! Not that! *sniffle*[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev041103_MSG0023",
+      "style": 1,
+      "name": "P-please, anything but that! If Bodada unable to\nmake money, life lose all purpose![ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev041103_MSG0040",
+      "style": 1,
+      "name": "Friend is sure [ST:gender p1=he p2=she ] is not holding goods for Bodada?\nExtra special very sure?[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev041103_MSG0024",
+      "style": 1,
+      "name": "Loma only trying to keep fellow Nopon safe.\nSo if friend knows anything at all, please share.[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev041103_JNK0100",
+      "style": 4,
+      "name": "Lie"
+    },
+    {
+      "$id": 39,
+      "label": "qev041103_SEL0101",
+      "style": 3,
+      "name": "Say that you don't have the shipment on you."
+    },
+    {
+      "$id": 40,
+      "label": "qev041103_JNK0110",
+      "style": 4,
+      "name": "Confess"
+    },
+    {
+      "$id": 41,
+      "label": "qev041103_SEL0111",
+      "style": 3,
+      "name": "Admit that you have the shipment."
+    },
+    {
+      "$id": 42,
+      "label": "qev041103_MSG0025",
+      "style": 1,
+      "name": "Loma see. Still, if friend see anything sneaky and\nsuspicious, please tell Loma right away.[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "qev041103_MSG0026",
+      "style": 1,
+      "name": "Loma KNEW it! Loma have nose for these things.[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "qev041103_MSG0027",
+      "style": 1,
+      "name": "Show shipment to Loma. If it contain red pollen orbs,\nthat is proof Loma need to bring Bodada down.[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "qev041103_MSG0029",
+      "style": 1,
+      "name": "Such color! Such shine!\nNow Loma analyze composition...[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "qev041103_MSG0030",
+      "style": 1,
+      "name": "Hmm... So red! One bite and ZOOOOOOM!\nBut theeeen CRASH. ...Yup. This is red pollen orb,\nall right.[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "qev041103_MSG0031",
+      "style": 1,
+      "name": "Loma appreciate cooperation of friend.\nThis should be enough to bring in lowlifes.[ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "qev041103_MSG0032",
+      "style": 1,
+      "name": "Loma will hurry and catch Bodada before he has\nchance to flee.[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "qev041103_MSG0033",
+      "style": 1,
+      "name": "Loma managed to catch lowlifes just as they meet up.\nTwo villains for price of one![ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "qev041103_MSG0034",
+      "style": 1,
+      "name": "Friend betrayed Zazazan? Friend is just as awful as\nHarvey! Zazazan done with humans for good![ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "qev041103_MSG0035",
+      "style": 1,
+      "name": "This human is ally of justice. Awful ones are Zazazan\nand Bodada for profiting off red pollen orbs.[ST:wait ]"
+    },
+    {
+      "$id": 52,
+      "label": "qev041103_MSG0036",
+      "style": 1,
+      "name": "Once Loma report you to elder, Zazazan and\nBodada never do business here again.[ST:wait ]"
+    },
+    {
+      "$id": 53,
+      "label": "qev041103_MSG0037",
+      "style": 1,
+      "name": "N-no! Not that! *sniffle*[ST:wait ]"
+    },
+    {
+      "$id": 54,
+      "label": "qev041103_MSG0038",
+      "style": 1,
+      "name": "P-please, anything but that! If Bodada unable to\nmake money, life lose all purpose![ST:wait ]"
+    }
+  ]
+}

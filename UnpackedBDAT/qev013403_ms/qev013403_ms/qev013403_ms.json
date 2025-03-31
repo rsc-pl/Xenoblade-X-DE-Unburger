@@ -1,0 +1,264 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev013403_MSG0001",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 2,
+      "label": "qev013403_MSG0002",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 3,
+      "label": "qev013403_MSG0003",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 4,
+      "label": "qev013403_MSG0033",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 5,
+      "label": "qev013403_MSG0004",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 6,
+      "label": "qev013403_MSG0005",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 7,
+      "label": "qev013403_MSG0006",
+      "style": 1,
+      "name": "......[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev013403_MSG0007",
+      "style": 1,
+      "name": "I heard a big commotion.\nWas that you taking out that blatta?[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev013403_JNK0010",
+      "style": 4,
+      "name": "Confirm"
+    },
+    {
+      "$id": 10,
+      "label": "qev013403_SEL0011",
+      "style": 3,
+      "name": "Tell Sarona the blatta is dead and she can relax."
+    },
+    {
+      "$id": 11,
+      "label": "qev013403_JNK0020",
+      "style": 4,
+      "name": "Caution"
+    },
+    {
+      "$id": 12,
+      "label": "qev013403_SEL0021",
+      "style": 3,
+      "name": "Warn Sarona not to get too comfortable."
+    },
+    {
+      "$id": 13,
+      "label": "qev013403_MSG0008",
+      "style": 1,
+      "name": "Whew! And wow, you really live up to the your\nreputation, huh?[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev013403_MSG0009",
+      "style": 1,
+      "name": "True, we're still in their territory, so anything could\nhappen. I sure am glad I picked a cautious partner![ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev013403_MSG0010",
+      "style": 1,
+      "name": "So is Inisae okay?[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev013403_MSG0011",
+      "style": 1,
+      "name": "Huh?![ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev013403_MSG0012",
+      "style": 1,
+      "name": "Inisae! What's wrong?!\nShe...she's not moving...[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev013403_MSG0013",
+      "style": 1,
+      "name": "How do you do CPR on a Ma-non?! Where's the\nheart located?! Can I even take a pulse?![ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev013403_MSG0014",
+      "style": 1,
+      "name": "Aaarggh! Why didn't I bother to learn anything USEFUL\nabout xenos?[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev013403_MSG0015",
+      "style": 1,
+      "name": "Come on, wake up. ...Please? We only just became\nfriends. It's way too soon for good-bye.[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev013403_MSG0016",
+      "style": 1,
+      "name": "......[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev013403_MSG0017",
+      "style": 1,
+      "name": "...Friends? We are friends?[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev013403_MSG0018",
+      "style": 1,
+      "name": "You're okay...?[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev013403_MSG0019",
+      "style": 1,
+      "name": "You'd be my friend even though I'm a Ma-non?\nReally? Really really?[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev013403_JNK0030",
+      "style": 4,
+      "name": "Confirm"
+    },
+    {
+      "$id": 26,
+      "label": "qev013403_SEL0031",
+      "style": 3,
+      "name": "Tell Inisae that she and Sarona have\nbeen friends for a while now."
+    },
+    {
+      "$id": 27,
+      "label": "qev013403_JNK0040",
+      "style": 4,
+      "name": "Deny"
+    },
+    {
+      "$id": 28,
+      "label": "qev013403_SEL0041",
+      "style": 3,
+      "name": "Tell Inisae that she and Sarona are not\nfriends so much as...kindred spirits."
+    },
+    {
+      "$id": 29,
+      "label": "qev013403_MSG0020",
+      "style": 1,
+      "name": "I'm so so glad. I've stared out at New LA from our ship\nfor some time and felt...a longing, maybe?[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev013403_MSG0021",
+      "style": 1,
+      "name": "I wanted to get closer to the curious cyborgs that\nsomehow still overflowed with warmth, you know?[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev013403_MSG0022",
+      "style": 1,
+      "name": "Kindred means family, right? So our spirits are family?\nWhat lovely lovely words you humans have![ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev013403_MSG0023",
+      "style": 1,
+      "name": "Inisae! Are you all right?![ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev013403_MSG0024",
+      "style": 1,
+      "name": "Ow. My joints ache, but I don't think anything is\nbroken—so so so that's good, right?[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev013403_MSG0025",
+      "style": 1,
+      "name": "Thank goodness! Let's get you out of this cave and\npatch you up. I promise I won't let any more big,\nslobbery monsters get anywhere near you.[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev013403_MSG0026",
+      "style": 1,
+      "name": "Thanks for everything, [ST:playername ].[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev013403_MSG0027",
+      "style": 1,
+      "name": "We gathered some great mineral samples and verified\nthe local wildlife. I'd say our survey's done.[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev013403_MSG0028",
+      "style": 1,
+      "name": "Here's the reward. I was pretty useless this time around,\nso you should have it all.[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev013403_MSG0029",
+      "style": 1,
+      "name": "Yeah, I'm sure! I made a new friend from this\nassignment, after all. That's more than enough\nof a reward for me.[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "qev013403_MSG0030",
+      "style": 1,
+      "name": "We're heading out. See you back home!\n...You ready, Inisae?[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "qev013403_MSG0031",
+      "style": 1,
+      "name": "Yes, Sarona. On the way down, I can point out various\nmineral deposits and herbs...if you like?[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "qev013403_MSG0032",
+      "style": 1,
+      "name": "Hey, slow down, girl! I appreciate the thought,\nbut we've got to get you looked at first.[ST:wait ]"
+    }
+  ]
+}

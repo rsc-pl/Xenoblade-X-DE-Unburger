@@ -1,0 +1,210 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev013303_MSG0001",
+      "style": 1,
+      "name": "Hey, it's [ST:playername ]![ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev013303_MSG0002",
+      "style": 1,
+      "name": "So it was YOU telling me to head south![ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev013303_MSG0003",
+      "style": 1,
+      "name": "I thought I recognized that voice on the other end\nof the line![ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev013303_JNK0010",
+      "style": 4,
+      "name": "Worry"
+    },
+    {
+      "$id": 5,
+      "label": "qev013303_SEL0011",
+      "style": 3,
+      "name": "Ask Bates if he's hurt."
+    },
+    {
+      "$id": 6,
+      "label": "qev013303_JNK0020",
+      "style": 4,
+      "name": "Chide"
+    },
+    {
+      "$id": 7,
+      "label": "qev013303_SEL0021",
+      "style": 3,
+      "name": "Reprimand Bates for acting irresponsibly."
+    },
+    {
+      "$id": 8,
+      "label": "qev013303_MSG0004",
+      "style": 1,
+      "name": "Fine, thanks to you. Not a scratch on me.[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev013303_MSG0024",
+      "style": 1,
+      "name": "I had no idea there was a Nopon caravan so close.\nLittle furballs saved my neck![ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev013303_MSG0005",
+      "style": 1,
+      "name": "They let me hide here while the black Skell was looking\nfor me. Eventually it gave up and left.[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev013303_MSG0006",
+      "style": 1,
+      "name": "Any other day I'd have a comeback, but right now,\nI know I'm alive because of you.[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev013303_MSG0007",
+      "style": 1,
+      "name": "If you hadn't steered me here, I... Well, I'd be a nasty\nstain on the foot of that black Skell.[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev013303_MSG0008",
+      "style": 1,
+      "name": "Uh-oh. That's your radio, right?\nWonder if it's Raleigh...[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev013303_MSG0009",
+      "style": 1,
+      "name": "Raleigh here. Do you copy?[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev013303_MSG0010",
+      "style": 1,
+      "name": "Peter said you went in to evacuate Bates.\nDid you find the rook alive?[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev013303_MSG0011",
+      "style": 1,
+      "name": "Hey, after all I've been through, I'm a veteran now!\nAlso, hey, Raleigh. Yeah, I'm fine. Thanks.[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev013303_MSG0012",
+      "style": 1,
+      "name": "Glad to hear it. Now if you're ready, I've got your next\nassignment, [ST:playername ].[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev013303_MSG0013",
+      "style": 1,
+      "name": "I made contact with Corwin.\nHe's in Banshee Cave over in Sylvalum.[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev013303_MSG0014",
+      "style": 1,
+      "name": "That was all he could tell me before he started taking\nfire. Bastards were right on top of him...[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev013303_MSG0015",
+      "style": 1,
+      "name": "I'm counting on you to see him back to New LA with\nno extra holes in him.[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev013303_JNK0030",
+      "style": 4,
+      "name": "Accept"
+    },
+    {
+      "$id": 22,
+      "label": "qev013303_SEL0031",
+      "style": 3,
+      "name": "Agree to help no matter what."
+    },
+    {
+      "$id": 23,
+      "label": "qev013303_JNK0040",
+      "style": 4,
+      "name": "Resist"
+    },
+    {
+      "$id": 24,
+      "label": "qev013303_SEL0041",
+      "style": 3,
+      "name": "Say that you're not confident you can pull it off."
+    },
+    {
+      "$id": 25,
+      "label": "qev013303_MSG0016",
+      "style": 1,
+      "name": "That means a lot. You're as reliable as Corwin.[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev013303_MSG0017",
+      "style": 1,
+      "name": "Just promise me you'll keep your eyes peeled for that\nblack Skell, all right?[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev013303_MSG0018",
+      "style": 1,
+      "name": "Look, I know it's not an easy assignment, and I won't\nask you to make promises you can't keep.[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev013303_MSG0019",
+      "style": 1,
+      "name": "Just know that you're all we've got, okay?\nWe're trusting you with this, [ST:playername ].[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev013303_MSG0020",
+      "style": 1,
+      "name": "And sorry to keep leaving everything to you.\nIt really burns me up, but the best thing I can do now\nis head home and stay out of your way.[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev013303_MSG0021",
+      "style": 1,
+      "name": "We all joined this team out of respect for Corwin.\nWithout him, there wouldn't even BE a team.[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev013303_MSG0022",
+      "style": 1,
+      "name": "If he dies, the team dies with him—no matter how\nmany of us survive.[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev013303_MSG0023",
+      "style": 1,
+      "name": "So promise me you'll do everything you can, okay?[ST:wait ]"
+    }
+  ]
+}

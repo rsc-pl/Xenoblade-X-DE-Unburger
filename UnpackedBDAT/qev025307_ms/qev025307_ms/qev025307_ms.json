@@ -1,0 +1,84 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev025307_MSG0001",
+      "style": 1,
+      "name": "Hey there! Welcome to the Sunshine Café![ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev025307_MSG0002",
+      "style": 1,
+      "name": "...Sorry, what? You're going around in search of the\nperfect New LA food to give a Ma-non?\nHuh. Okay.[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev025307_MSG0003",
+      "style": 1,
+      "name": "Then why not try our famous Sunny Dog? It's a spicy\nhot dog with the works, guaranteed to stay piping hot\nfrom the first bite to the last—and it's only 600 credits![ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev025307_JNK0010",
+      "style": 4,
+      "name": "Buy"
+    },
+    {
+      "$id": 5,
+      "label": "qev025307_SEL0011",
+      "style": 3,
+      "name": "Purchase a hot dog for 600 credits.[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev025307_JNK0020",
+      "style": 4,
+      "name": "Pass"
+    },
+    {
+      "$id": 7,
+      "label": "qev025307_SEL0021",
+      "style": 3,
+      "name": "Politely decline."
+    },
+    {
+      "$id": 8,
+      "label": "qev025307_MSG0004",
+      "style": 1,
+      "name": "Thanks! And I know it's tempting, but try not to wolf it\ndown yourself, okay?[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev025307_MSG0005",
+      "style": 1,
+      "name": "Not interested? Well, if you change your mind and\ncome back, I'll be happy to set you up.[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev025307_MSG0006",
+      "style": 1,
+      "name": "So I don't mean to be rude, but...are you broke?[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev025307_MSG0007",
+      "style": 1,
+      "name": "Come see us again once you have 600 credits, okay?\nI promise you'll get your money's worth.[ST:wait ]"
+    }
+  ]
+}

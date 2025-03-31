@@ -1,0 +1,690 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev030604_MSG0001",
+      "style": 1,
+      "name": "We are short on this. Short on that. We do not have\nenough to hold proper Prone wedding.[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev030604_MSG0002",
+      "style": 1,
+      "name": "Prone men are drunk before rite of marriage begins!\nI should beat them into helping. But they are more\nnuisance than help.[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev030604_MSG0003",
+      "style": 1,
+      "name": "...Oh! You are [ST:playername ]!\nYou brought bride and groom together.[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev030604_MSG0004",
+      "style": 1,
+      "name": "I thank you. My younger brother Nemard needed help.\nHelp to win fine woman like Heptana.[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev030604_JNK0010",
+      "style": 4,
+      "name": "Agree"
+    },
+    {
+      "$id": 6,
+      "label": "qev030604_SEL0011",
+      "style": 3,
+      "name": "Tell Duna that it couldn't have happened without you."
+    },
+    {
+      "$id": 7,
+      "label": "qev030604_JNK0020",
+      "style": 4,
+      "name": "Disagree"
+    },
+    {
+      "$id": 8,
+      "label": "qev030604_SEL0021",
+      "style": 3,
+      "name": "Say that it's due to Nemard's kindness."
+    },
+    {
+      "$id": 9,
+      "label": "qev030604_MSG0005",
+      "style": 1,
+      "name": "You made best decision for indecisive fool.[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev030604_MSG0006",
+      "style": 1,
+      "name": "Though it is still mystery to me why Heptana accepted.[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev030604_MSG0007",
+      "style": 1,
+      "name": "Heh. I am pleased to hear it. Prone value strength\nabove all else. Kindness seldom earns praise.[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev030604_MSG0008",
+      "style": 1,
+      "name": "So! Will you help prepare for rite of marriage?[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev030604_MSG0009",
+      "style": 1,
+      "name": "We need tough humpsteaks for feast.\nEveryone else is too drunk to help.[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev030604_MSG0010",
+      "style": 1,
+      "name": "I will finish rest of preparations while you find meat.[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev030604_MSG0011",
+      "style": 1,
+      "name": "As much as I tease, I love my brother.\nI want his wedding to be perfect.[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev030604_MSG0012",
+      "style": 1,
+      "name": "Prone rites of marriage are all about meat.\nAlso strong drink. But mostly meat.[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev030604_MSG0013",
+      "style": 1,
+      "name": "And tough humpsteaks are main course![ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev030604_MSG0014",
+      "style": 1,
+      "name": "You have done much for my brother.\nI am sure you will find freshest steaks.[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev030604_MSG0015",
+      "style": 1,
+      "name": "Ah, [ST:playername ]. Everyone is terrible.[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev030604_MSG0016",
+      "style": 1,
+      "name": "My younger brother marries before me.\nNow rest of clan calls me spinster![ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev030604_MSG0017",
+      "style": 1,
+      "name": "I will quiet them when I find Prone man.\nMan who can slay mandos with single blow![ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev030604_JNK0030",
+      "style": 4,
+      "name": "Comfort"
+    },
+    {
+      "$id": 23,
+      "label": "qev030604_SEL0031",
+      "style": 3,
+      "name": "Try to cheer Duna up."
+    },
+    {
+      "$id": 24,
+      "label": "qev030604_JNK0040",
+      "style": 4,
+      "name": "Evade"
+    },
+    {
+      "$id": 25,
+      "label": "qev030604_SEL0041",
+      "style": 3,
+      "name": "Change the subject by telling Duna\nthat you have what she asked for."
+    },
+    {
+      "$id": 26,
+      "label": "qev030604_MSG0018",
+      "style": 1,
+      "name": "You are kind. Also strong.\nI wish I knew Prone man like you.[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev030604_MSG0019",
+      "style": 1,
+      "name": "But none exist. Mother says don't be picky.\nYet I will not be mate of disappointing man.[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev030604_MSG0020",
+      "style": 1,
+      "name": "Enough. I talk too much. Makes my mind foggy.\nI asked you to get something, yes?[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev030604_MSG0021",
+      "style": 1,
+      "name": "Er, what? Did you need me for something?[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev030604_MSG0022",
+      "style": 1,
+      "name": "...Ah! Sorry. I forgot I sent you to hunt meat.[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev030604_MSG0023",
+      "style": 1,
+      "name": "Older guests getting drunk. So we start rite of\nmarriage early.[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev030604_MSG0024",
+      "style": 1,
+      "name": "Thanks to your hunting, wedding is ready to—[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev030604_MSG0025",
+      "style": 1,
+      "name": "...Oh! So this is famous [ST:playername ].\nYou are fine [ST:gender p1=hero p2=heroine ]...for Earth alien![ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev030604_MSG0026",
+      "style": 1,
+      "name": "I am Galba Vassago. I am victor of thousand battles.\nI was strongest warrior on Tormein![ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev030604_MSG0027",
+      "style": 1,
+      "name": "Guh ha ha HA! Aliens sing and dance at weddings.\nBut Prone are born to fight![ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev030604_MSG0028",
+      "style": 1,
+      "name": "Let us mark special day with glorious battle!\nYou and I will trade blows until we cannot stand.[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev030604_MSG0029",
+      "style": 1,
+      "name": "Galba is drunk. Also restless.\nHe hasn't fought since coming to Mira.[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev030604_MSG0030",
+      "style": 1,
+      "name": "Leave old man be. We have meat.\nWe can begin rite of marriage.[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "qev030604_JNK0050",
+      "style": 4,
+      "name": "Back Off"
+    },
+    {
+      "$id": 40,
+      "label": "qev030604_SEL0051",
+      "style": 3,
+      "name": "Avoid fighting Galba as Duna suggests."
+    },
+    {
+      "$id": 41,
+      "label": "qev030604_JNK0060",
+      "style": 4,
+      "name": "Step Up"
+    },
+    {
+      "$id": 42,
+      "label": "qev030604_SEL0061",
+      "style": 3,
+      "name": "Accept Galba's challenge."
+    },
+    {
+      "$id": 43,
+      "label": "qev030604_MSG0031",
+      "style": 1,
+      "name": "You call yourself warrior? Face me! I am Prone who\nbeat dozen Cavern cowards. Even with arms tied\nbehind back! I am Prone who—[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "qev030604_MSG0032",
+      "style": 1,
+      "name": "Ugh. Galba will talk for hours now.[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "qev030604_MSG0033",
+      "style": 1,
+      "name": "We cannot start rite of marriage until he stops.\nPerhaps you can shut him up with force.[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "qev030604_MSG0034",
+      "style": 1,
+      "name": "Yes. Good! Face me! I will show you strength.\nStrength that felled 30 Cavern Clan dogs in one battle![ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "qev030604_MSG0035",
+      "style": 1,
+      "name": "Bwa ha ha! I will wait for you in Primordia.\nOn plains northeast of Sayram Lake. No running away![ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "qev030604_MSG0036",
+      "style": 1,
+      "name": "Oh ho! You have bravery of my namesake, vassago![ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "qev030604_MSG0037",
+      "style": 1,
+      "name": "Bwa ha! I will show you my strength. Strength that\nfelled 30 Cavern Clan dogs in one battle![ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "qev030604_MSG0038",
+      "style": 1,
+      "name": "Meet me in Primordia. On plains northeast of Sayram\nLake. We will give all to fight![ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "qev030604_MSG0039",
+      "style": 1,
+      "name": "*sigh* Old man is hopeless. You must go lay him flat.\nThen drag him back.[ST:wait ]"
+    },
+    {
+      "$id": 52,
+      "label": "qev030604_MSG0044",
+      "style": 1,
+      "name": "We are short on this. Short on that. We do not have\nenough to hold proper Prone wedding.[ST:wait ]"
+    },
+    {
+      "$id": 53,
+      "label": "qev030604_MSG0045",
+      "style": 1,
+      "name": "Prone men are drunk before rite of marriage begins!\nI should beat them into helping. But they are more\nnuisance than help.[ST:wait ]"
+    },
+    {
+      "$id": 54,
+      "label": "qev030604_MSG0046",
+      "style": 1,
+      "name": "...Hmm? You are [ST:playername ]!\nYou brought bride and groom together![ST:wait ]"
+    },
+    {
+      "$id": 55,
+      "label": "qev030604_MSG0047",
+      "style": 1,
+      "name": "I thank you. My younger brother Nemard needed help.\nHelp to win fine woman like Enneana.[ST:wait ]"
+    },
+    {
+      "$id": 56,
+      "label": "qev030604_JNK0070",
+      "style": 4,
+      "name": "Agree"
+    },
+    {
+      "$id": 57,
+      "label": "qev030604_SEL0071",
+      "style": 3,
+      "name": "Tell Duna that it couldn't have happened without you."
+    },
+    {
+      "$id": 58,
+      "label": "qev030604_JNK0080",
+      "style": 4,
+      "name": "Disagree"
+    },
+    {
+      "$id": 59,
+      "label": "qev030604_SEL0081",
+      "style": 3,
+      "name": "Say that it's due to Nemard's kindness."
+    },
+    {
+      "$id": 60,
+      "label": "qev030604_MSG0048",
+      "style": 1,
+      "name": "You made best decision for indecisive fool.[ST:wait ]"
+    },
+    {
+      "$id": 61,
+      "label": "qev030604_MSG0049",
+      "style": 1,
+      "name": "Though it is still mystery to me why Enneana accepted.[ST:wait ]"
+    },
+    {
+      "$id": 62,
+      "label": "qev030604_MSG0050",
+      "style": 1,
+      "name": "Heh. I am pleased to hear it. Prone value strength\nabove all else. Kindness seldom earns praise.[ST:wait ]"
+    },
+    {
+      "$id": 63,
+      "label": "qev030604_MSG0051",
+      "style": 1,
+      "name": "So! Will you help prepare for rite of marriage?[ST:wait ]"
+    },
+    {
+      "$id": 64,
+      "label": "qev030604_MSG0052",
+      "style": 1,
+      "name": "We need tough humpsteaks for feast.\nEveryone else is too drunk to help.[ST:wait ]"
+    },
+    {
+      "$id": 65,
+      "label": "qev030604_MSG0053",
+      "style": 1,
+      "name": "I will finish rest of preparations while you find meat.[ST:wait ]"
+    },
+    {
+      "$id": 66,
+      "label": "qev030604_MSG0054",
+      "style": 1,
+      "name": "As much as I tease, I love my brother.\nI want his wedding to be perfect.[ST:wait ]"
+    },
+    {
+      "$id": 67,
+      "label": "qev030604_MSG0055",
+      "style": 1,
+      "name": "Prone rites of marriage are all about meat.\nAlso strong drink. But mostly meat.[ST:wait ]"
+    },
+    {
+      "$id": 68,
+      "label": "qev030604_MSG0056",
+      "style": 1,
+      "name": "And tough humpsteaks are main course![ST:wait ]"
+    },
+    {
+      "$id": 69,
+      "label": "qev030604_MSG0057",
+      "style": 1,
+      "name": "You have done much for my brother.\nI am sure you will find freshest steaks.[ST:wait ]"
+    },
+    {
+      "$id": 70,
+      "label": "qev030604_MSG0058",
+      "style": 1,
+      "name": "Ah, [ST:playername ]. Everyone is terrible.[ST:wait ]"
+    },
+    {
+      "$id": 71,
+      "label": "qev030604_MSG0059",
+      "style": 1,
+      "name": "My younger brother marries before me.\nNow rest of clan calls me spinster![ST:wait ]"
+    },
+    {
+      "$id": 72,
+      "label": "qev030604_MSG0060",
+      "style": 1,
+      "name": "I will quiet them when I find Prone man.\nMan who can slay mandos with single blow![ST:wait ]"
+    },
+    {
+      "$id": 73,
+      "label": "qev030604_JNK0090",
+      "style": 4,
+      "name": "Comfort"
+    },
+    {
+      "$id": 74,
+      "label": "qev030604_SEL0091",
+      "style": 3,
+      "name": "Try to cheer Duna up."
+    },
+    {
+      "$id": 75,
+      "label": "qev030604_JNK0100",
+      "style": 4,
+      "name": "Evade"
+    },
+    {
+      "$id": 76,
+      "label": "qev030604_SEL0101",
+      "style": 3,
+      "name": "Change the subject by telling Duna\nthat you have what she asked for."
+    },
+    {
+      "$id": 77,
+      "label": "qev030604_MSG0061",
+      "style": 1,
+      "name": "You are kind. Also strong.\nI wish I knew Prone man like you.[ST:wait ]"
+    },
+    {
+      "$id": 78,
+      "label": "qev030604_MSG0062",
+      "style": 1,
+      "name": "But none exist. Mother says don't be picky.\nYet I will not be mate of disappointing man.[ST:wait ]"
+    },
+    {
+      "$id": 79,
+      "label": "qev030604_MSG0063",
+      "style": 1,
+      "name": "Enough. I talk too much. Makes my mind foggy.\nI asked you to get something, yes?[ST:wait ]"
+    },
+    {
+      "$id": 80,
+      "label": "qev030604_MSG0064",
+      "style": 1,
+      "name": "Er, what? Did you need me for something?[ST:wait ]"
+    },
+    {
+      "$id": 81,
+      "label": "qev030604_MSG0065",
+      "style": 1,
+      "name": "...Ah! Sorry. I forgot I sent you to hunt meat.[ST:wait ]"
+    },
+    {
+      "$id": 82,
+      "label": "qev030604_MSG0066",
+      "style": 1,
+      "name": "Older guests getting drunk. So we start rite of\nmarriage early.[ST:wait ]"
+    },
+    {
+      "$id": 83,
+      "label": "qev030604_MSG0067",
+      "style": 1,
+      "name": "Thanks to your hunting, wedding is ready to...[ST:wait ]"
+    },
+    {
+      "$id": 84,
+      "label": "qev030604_MSG0068",
+      "style": 1,
+      "name": "Oh! So this is famous [ST:playername ].\nYou are fine [ST:gender p1=hero p2=heroine ]...for Earth alien![ST:wait ]"
+    },
+    {
+      "$id": 85,
+      "label": "qev030604_MSG0069",
+      "style": 1,
+      "name": "I am Galba Vassago. I am victor of thousand battles.\nI was strongest warrior on Tormein![ST:wait ]"
+    },
+    {
+      "$id": 86,
+      "label": "qev030604_MSG0070",
+      "style": 1,
+      "name": "Guh ha ha HA! Aliens sing and dance at weddings.\nBut Prone are born to fight![ST:wait ]"
+    },
+    {
+      "$id": 87,
+      "label": "qev030604_MSG0071",
+      "style": 1,
+      "name": "Let us mark special day with glorious battle!\nMe and you will trade blows until we cannot stand.[ST:wait ]"
+    },
+    {
+      "$id": 88,
+      "label": "qev030604_MSG0072",
+      "style": 1,
+      "name": "Galba is drunk. Also restless.\nHe hasn't fought since coming to Mira.[ST:wait ]"
+    },
+    {
+      "$id": 89,
+      "label": "qev030604_MSG0073",
+      "style": 1,
+      "name": "Leave old man be. We have meat.\nWe can begin rite of marriage.[ST:wait ]"
+    },
+    {
+      "$id": 90,
+      "label": "qev030604_JNK0110",
+      "style": 4,
+      "name": "Back Off"
+    },
+    {
+      "$id": 91,
+      "label": "qev030604_SEL0111",
+      "style": 3,
+      "name": "Avoid fighting Galba as Duna suggests."
+    },
+    {
+      "$id": 92,
+      "label": "qev030604_JNK0120",
+      "style": 4,
+      "name": "Step Up"
+    },
+    {
+      "$id": 93,
+      "label": "qev030604_SEL0121",
+      "style": 3,
+      "name": "Accept Galba's challenge."
+    },
+    {
+      "$id": 94,
+      "label": "qev030604_MSG0074",
+      "style": 1,
+      "name": "You call yourself warrior? Face me! I am Prone who\nbeat dozen Cavern cowards. Even with arms tied\nbehind back! I am Prone who—[ST:wait ]"
+    },
+    {
+      "$id": 95,
+      "label": "qev030604_MSG0075",
+      "style": 1,
+      "name": "Ugh. Galba will talk for hours now.[ST:wait ]"
+    },
+    {
+      "$id": 96,
+      "label": "qev030604_MSG0076",
+      "style": 1,
+      "name": "We cannot start rite of marriage until he stops.\nPerhaps you can shut him up with force.[ST:wait ]"
+    },
+    {
+      "$id": 97,
+      "label": "qev030604_MSG0077",
+      "style": 1,
+      "name": "Yes. Good! Face me! I will show you strength.\nStrength that felled 30 Cavern Clan dogs in one battle![ST:wait ]"
+    },
+    {
+      "$id": 98,
+      "label": "qev030604_MSG0078",
+      "style": 1,
+      "name": "Bwa ha ha! I will wait for you in Primordia. On plains\nnortheast of Sayram Lake. No running away![ST:wait ]"
+    },
+    {
+      "$id": 99,
+      "label": "qev030604_MSG0079",
+      "style": 1,
+      "name": "Oh ho! You have bravery of my namesake, vassago![ST:wait ]"
+    },
+    {
+      "$id": 100,
+      "label": "qev030604_MSG0080",
+      "style": 1,
+      "name": "Bwa ha! I will show you my strength. Strength that\nfelled 30 Cavern Clan dogs in one battle![ST:wait ]"
+    },
+    {
+      "$id": 101,
+      "label": "qev030604_MSG0081",
+      "style": 1,
+      "name": "Meet me in Primordia. On plains northeast of Sayram\nLake. We will give all to fight![ST:wait ]"
+    },
+    {
+      "$id": 102,
+      "label": "qev030604_MSG0082",
+      "style": 1,
+      "name": "*sigh* Old man is hopeless. You must go lay him flat.\nThen drag him back.[ST:wait ]"
+    },
+    {
+      "$id": 103,
+      "label": "qev030604_MSG0083",
+      "style": 1,
+      "name": "Galba Vassago seems like old, drunk blowhard. But he\nwas fierce warrior in his time. Do not take him lightly.[ST:wait ]"
+    },
+    {
+      "$id": 104,
+      "label": "qev030604_MSG0084",
+      "style": 1,
+      "name": "Now make him shut up so we can begin rite of\nmarriage.[ST:wait ]"
+    },
+    {
+      "$id": 105,
+      "label": "qev030604_MSG0085",
+      "style": 1,
+      "name": "You and Galba are back?\nRite of marriage can begin![ST:wait ]"
+    },
+    {
+      "$id": 106,
+      "label": "qev030604_MSG0086",
+      "style": 1,
+      "name": "Ha ha! Nemard looks so nervous.\nYou should talk to him.[ST:wait ]"
+    },
+    {
+      "$id": 107,
+      "label": "qev030604_MSG0100",
+      "style": 1,
+      "name": "Do you seek Nemard? He is gone.\nWent to make horn-ring of betrothal.[ST:wait ]"
+    },
+    {
+      "$id": 108,
+      "label": "qev030604_MSG0101",
+      "style": 1,
+      "name": "He is poor hunter. But always does what must be done.\nHe will find beast horn for ring somehow.[ST:wait ]"
+    },
+    {
+      "$id": 109,
+      "label": "qev030604_MSG0102",
+      "style": 1,
+      "name": "One fit to impress even fierce Heptana![ST:wait ]"
+    },
+    {
+      "$id": 110,
+      "label": "qev030604_MSG0103",
+      "style": 1,
+      "name": "Do you seek Nemard? He is gone.\nWent to make horn-ring of betrothal.[ST:wait ]"
+    },
+    {
+      "$id": 111,
+      "label": "qev030604_MSG0104",
+      "style": 1,
+      "name": "He is poor hunter. But always does what must be done.\nHe will find beast horn for ring somehow.[ST:wait ]"
+    },
+    {
+      "$id": 112,
+      "label": "qev030604_MSG0105",
+      "style": 1,
+      "name": "One that will make sensitive Enneana weep for joy![ST:wait ]"
+    }
+  ]
+}

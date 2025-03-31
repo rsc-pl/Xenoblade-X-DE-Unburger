@@ -1,0 +1,756 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev019401_MSG0001",
+      "style": 1,
+      "name": "Guess what, [ST:playername ]? I finally\nfinished analyzing the data units.[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev019401_MSG0002",
+      "style": 1,
+      "name": "And honestly, I never dreamed my old team would\ncook up something this crazy...[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev019401_MSG0003",
+      "style": 1,
+      "name": "Their research was a secret to the former heads, and\nI expect they never told me because it had possible...\nimplications for my career.[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev019401_MSG0004",
+      "style": 1,
+      "name": "Still stings to have been left out of a project this juicy.\nIt must have been a blast.[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev019401_MSG0005",
+      "style": 1,
+      "name": "Anyway, I'm planning to pick up where they left off\nso I can see this through to implementation.[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev019401_JNK0010",
+      "style": 4,
+      "name": "Inquire"
+    },
+    {
+      "$id": 7,
+      "label": "qev019401_SEL0011",
+      "style": 3,
+      "name": "Ask Kirsty what she found in the data."
+    },
+    {
+      "$id": 8,
+      "label": "qev019401_JNK0020",
+      "style": 4,
+      "name": "Encourage"
+    },
+    {
+      "$id": 9,
+      "label": "qev019401_SEL0021",
+      "style": 3,
+      "name": "Cheer Kirsty on in her endeavor."
+    },
+    {
+      "$id": 10,
+      "label": "qev019401_MSG0006",
+      "style": 1,
+      "name": "Oh, would you listen to me? I'm sorry. I still haven't\nexplained what this next-generation FrontierNav actually\nentails, have I?[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev019401_MSG0007",
+      "style": 1,
+      "name": "Thank you! ...Oh, but listen to me![ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev019401_MSG0008",
+      "style": 1,
+      "name": "I still haven't explained what this second-generation\nFrontierNav actually IS, have I?[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev019401_MSG0009",
+      "style": 1,
+      "name": "But you have to promise you won't laugh, okay?\nBecause the scope of this project is...aggressive.[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev019401_MSG0010",
+      "style": 1,
+      "name": "The aim is to link every planet in the universe to\nFrontierNav, sharing information and resources freely\namong them all.[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev019401_MSG0011",
+      "style": 1,
+      "name": "Their schematic starts with the planets of our original\nsolar system, and proposes linking to newly discovered\nplanets from there—including Mira.[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev019401_MSG0012",
+      "style": 1,
+      "name": "I have to say, I still can't picture a bunch of elite\nscientists coming up with something so...fanciful.[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev019401_MSG0013",
+      "style": 1,
+      "name": "But I still think it's wonderful. A system like this could\nliterally bring all of space together as one.[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev019401_JNK0030",
+      "style": 4,
+      "name": "Support"
+    },
+    {
+      "$id": 19,
+      "label": "qev019401_SEL0031",
+      "style": 3,
+      "name": "Encourage Kirsty to keep dreaming big."
+    },
+    {
+      "$id": 20,
+      "label": "qev019401_JNK0040",
+      "style": 4,
+      "name": "Dismiss"
+    },
+    {
+      "$id": 21,
+      "label": "qev019401_SEL0041",
+      "style": 3,
+      "name": "Tell Kirsty the entire plan sounds absurd."
+    },
+    {
+      "$id": 22,
+      "label": "qev019401_MSG0014",
+      "style": 1,
+      "name": "I knew you'd feel that way. You've got a screw loose\nsomeplace—and I mean that in the most complimentary\nsense possible.[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev019401_MSG0015",
+      "style": 1,
+      "name": "Oh, I know. But so did every major technological\nadvance until the day someone made it happen.\nBig ideas are always crazy![ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev019401_MSG0016",
+      "style": 1,
+      "name": "And I'm going to make this project happen, no matter\nwhat it takes, and no matter how long.[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev019401_MSG0017",
+      "style": 1,
+      "name": "It may take 20 years, it may take 10 times that.\nBut I'm planting that seed today, and I plan to spend\nmy life tending it.[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev019401_MSG0018",
+      "style": 1,
+      "name": "So I'd like to ask your help in gathering the massive\nsupply of miranium and arc sand ore it will require.[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev019401_MSG0019",
+      "style": 1,
+      "name": "I want you to be my partner in this crazy plan.\nWhat do you say?[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev019401_MSG0020",
+      "style": 1,
+      "name": "Thank you. That should be enough to cover an initial\nexploratory study.[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev019401_MSG0021",
+      "style": 1,
+      "name": "Let's link new worlds to FrontierNav,\n[ST:playername ]. I know we can do it![ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev019401_MSG0022",
+      "style": 1,
+      "name": "I suspected my old teammates were up to something,\nbut this...? I'm still overwhelmed.[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev019401_MSG0023",
+      "style": 1,
+      "name": "No wonder they didn't report it to our former heads—\nthey would've been laughed off the Whale! ...Which\nmeans we should lay low until we have something firm.[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev019401_MSG0024",
+      "style": 1,
+      "name": "I'm running a deeper analysis on the data from those\narchives now.[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev019401_MSG0025",
+      "style": 1,
+      "name": "I'll leave the miranium and arc sand ore to you.[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev019401_MSG0026",
+      "style": 1,
+      "name": "Talk about dreaming big... An interstellar FrontierNav\nwould change everything.[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev019401_MSG0027",
+      "style": 1,
+      "name": "But even the preliminary research on a project this big\nwill require a huge amount of miranium.[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev019401_MSG0028",
+      "style": 1,
+      "name": "You're the only one I can rely on, so please let me\nknow once you have the materials.[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev019401_JNK0050",
+      "style": 4,
+      "name": "Deliver"
+    },
+    {
+      "$id": 38,
+      "label": "qev019401_SEL0051",
+      "style": 3,
+      "name": "Hand over 20,000 units of miranium."
+    },
+    {
+      "$id": 39,
+      "label": "qev019401_JNK0060",
+      "style": 4,
+      "name": "Keep"
+    },
+    {
+      "$id": 40,
+      "label": "qev019401_SEL0061",
+      "style": 3,
+      "name": "Hold on to your miranium for now."
+    },
+    {
+      "$id": 41,
+      "label": "qev019401_MSG0029",
+      "style": 1,
+      "name": "Thanks. This should be enough miranium to get us up\nand running.[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "qev019401_MSG0030",
+      "style": 1,
+      "name": "Now the only other thing I need to get my exploratory\nstudy started is the 50 pieces of arc sand ore.[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "qev019401_MSG0031",
+      "style": 1,
+      "name": "So if you have those on hand, I'll happily take 'em.[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "qev019401_MSG0032",
+      "style": 1,
+      "name": "I know it's not an easy amount to procure...[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "qev019401_MSG0033",
+      "style": 1,
+      "name": "But I also have faith that you can find it.\nIn fact, I KNOW you can.[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "qev019401_MSG0034",
+      "style": 1,
+      "name": "I see you need a bit more time to gather the\narc sand ore. That's absolutely fine.[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "qev019401_MSG0035",
+      "style": 1,
+      "name": "Once I secure the arc sand ore, I can finally get started\non my exploratory study.[ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "qev019401_MSG0036",
+      "style": 1,
+      "name": "Just one more hurdle to jump. But I'll be working on\nfurther analyzing that data in the meantime.[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "qev019401_MSG0037",
+      "style": 1,
+      "name": "Perfect! Looks like you've gathered all the arc sand ore,\ntoo.[ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "qev019401_MSG0038",
+      "style": 1,
+      "name": "You never cease to amaze.\nBut meanwhile, I'm stuck in my analysis here.[ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "qev019401_MSG0039",
+      "style": 1,
+      "name": "So this is a strange question, but have you had any\ndealings with Tobias?[ST:wait ]"
+    },
+    {
+      "$id": 52,
+      "label": "qev019401_JNK0070",
+      "style": 4,
+      "name": "Smile"
+    },
+    {
+      "$id": 53,
+      "label": "qev019401_SEL0071",
+      "style": 3,
+      "name": "Tell Kirsty that Tobias isn't so bad."
+    },
+    {
+      "$id": 54,
+      "label": "qev019401_JNK0080",
+      "style": 4,
+      "name": "Scowl"
+    },
+    {
+      "$id": 55,
+      "label": "qev019401_SEL0081",
+      "style": 3,
+      "name": "Say you can't stand Tobias."
+    },
+    {
+      "$id": 56,
+      "label": "qev019401_MSG0040",
+      "style": 1,
+      "name": "You think? Huh. I always thought he was a greedy jerk\nintent on using FrontierNav for his own selfish profit.[ST:wait ]"
+    },
+    {
+      "$id": 57,
+      "label": "qev019401_MSG0041",
+      "style": 1,
+      "name": "Believe me, I agree. He's a selfish jerk who only sees\nFrontierNav as a tool to sate his own greed.[ST:wait ]"
+    },
+    {
+      "$id": 58,
+      "label": "qev019401_MSG0042",
+      "style": 1,
+      "name": "But as I've been digging through these data units,\nI've realized that there's still one more out there.[ST:wait ]"
+    },
+    {
+      "$id": 59,
+      "label": "qev019401_MSG0043",
+      "style": 1,
+      "name": "And no matter what I try when tracking it down,\nall roads seem to point to Tobias.[ST:wait ]"
+    },
+    {
+      "$id": 60,
+      "label": "qev019401_MSG0044",
+      "style": 1,
+      "name": "If I had that sixth archive, it would fill in some big gaps\nin the team's design.[ST:wait ]"
+    },
+    {
+      "$id": 61,
+      "label": "qev019401_MSG0045",
+      "style": 1,
+      "name": "If you've got a rapport with Tobias, maybe you could\nfind some way to trade for it?[ST:wait ]"
+    },
+    {
+      "$id": 62,
+      "label": "qev019401_MSG0046",
+      "style": 1,
+      "name": "He absolutely hates me, otherwise I'd go myself.\nAlso, I doubt I could negotiate without punching him\nright in his smug face.[ST:wait ]"
+    },
+    {
+      "$id": 63,
+      "label": "qev019401_MSG0047",
+      "style": 1,
+      "name": "Sorry to foist an unpleasant job on you, but I've got no\none else to turn to.[ST:wait ]"
+    },
+    {
+      "$id": 64,
+      "label": "qev019401_MSG0048",
+      "style": 1,
+      "name": "It seems Tobias has the sixth data unit, FN098.[ST:wait ]"
+    },
+    {
+      "$id": 65,
+      "label": "qev019401_MSG0049",
+      "style": 1,
+      "name": "I have no clue how he ended up with it or what he\nhopes to gain, but I guess that doesn't matter.[ST:wait ]"
+    },
+    {
+      "$id": 66,
+      "label": "qev019401_MSG0050",
+      "style": 1,
+      "name": "What DOES matter is that the legacy of my friends\ndoesn't end up in the hands of a weasel like him.[ST:wait ]"
+    },
+    {
+      "$id": 67,
+      "label": "qev019401_MSG0051",
+      "style": 1,
+      "name": "Well? How'd it go?\nDid Tobias have the sixth data unit?[ST:wait ]"
+    },
+    {
+      "$id": 68,
+      "label": "qev019401_MSG0052",
+      "style": 1,
+      "name": "...So the records were right.\nAnd what did he say?[ST:wait ]"
+    },
+    {
+      "$id": 69,
+      "label": "qev019401_MSG0053",
+      "style": 1,
+      "name": "Knowing him, I'll bet he tried to extort you for\neverything you're worth.[ST:wait ]"
+    },
+    {
+      "$id": 70,
+      "label": "qev019401_JNK0090",
+      "style": 4,
+      "name": "Grimace"
+    },
+    {
+      "$id": 71,
+      "label": "qev019401_SEL0091",
+      "style": 3,
+      "name": "Admit that Tobias demanded a huge sum of money."
+    },
+    {
+      "$id": 72,
+      "label": "qev019401_JNK0100",
+      "style": 4,
+      "name": "Grin"
+    },
+    {
+      "$id": 73,
+      "label": "qev019401_SEL0101",
+      "style": 3,
+      "name": "Tell Kirsty that Tobias decrypted the archive."
+    },
+    {
+      "$id": 74,
+      "label": "qev019401_MSG0054",
+      "style": 1,
+      "name": "Typical. Sorry again to put you through that.[ST:wait ]"
+    },
+    {
+      "$id": 75,
+      "label": "qev019401_MSG0055",
+      "style": 1,
+      "name": "What does that fool plan to do with all that money,\nanyway?[ST:wait ]"
+    },
+    {
+      "$id": 76,
+      "label": "qev019401_MSG0056",
+      "style": 1,
+      "name": "What? That's not... But how? I was on the team,\nand it took me FOREVER to crack their encryption.[ST:wait ]"
+    },
+    {
+      "$id": 77,
+      "label": "qev019401_MSG0057",
+      "style": 1,
+      "name": "How could he manage such a thing?[ST:wait ]"
+    },
+    {
+      "$id": 78,
+      "label": "qev019401_MSG0058",
+      "style": 1,
+      "name": "In any case, um...can I see it?[ST:wait ]"
+    },
+    {
+      "$id": 79,
+      "label": "qev019401_MSG0059",
+      "style": 1,
+      "name": "We don't have any more time to waste on Tobias.\nI need to start researching this right away.[ST:wait ]"
+    },
+    {
+      "$id": 80,
+      "label": "qev019401_MSG0060",
+      "style": 1,
+      "name": "Hmm... Yes, it's just as I thought.[ST:wait ]"
+    },
+    {
+      "$id": 81,
+      "label": "qev019401_MSG0061",
+      "style": 1,
+      "name": "This data unit is the final piece. It combines with\nthe other five you gathered to make one complete\nblueprint.[ST:wait ]"
+    },
+    {
+      "$id": 82,
+      "label": "qev019401_MSG0062",
+      "style": 1,
+      "name": "There's still a long road ahead of us, but this is a big\nboost in the right direction.[ST:wait ]"
+    },
+    {
+      "$id": 83,
+      "label": "qev019401_MSG0063",
+      "style": 1,
+      "name": "I'll get to work right away.\n...Oh, and this is for you.[ST:wait ]"
+    },
+    {
+      "$id": 84,
+      "label": "qev019401_MSG0064",
+      "style": 1,
+      "name": "A big boost in the right direction? Oh, please.[ST:wait ]"
+    },
+    {
+      "$id": 85,
+      "label": "qev019401_MSG0065",
+      "style": 1,
+      "name": "FrontierNav's system design is way out of your\nwheelhouse, so spare me the amateurish optimism.[ST:wait ]"
+    },
+    {
+      "$id": 86,
+      "label": "qev019401_MSG0066",
+      "style": 1,
+      "name": "You think designing an entire interstellar infrastructure\nis some walk in the park? Just flip a few switches and\nhope for the best? Ha![ST:wait ]"
+    },
+    {
+      "$id": 87,
+      "label": "qev019401_MSG0067",
+      "style": 1,
+      "name": "T-Tobias? What are you doing here?\nAnd how do you know about that?![ST:wait ]"
+    },
+    {
+      "$id": 88,
+      "label": "qev019401_MSG0068",
+      "style": 1,
+      "name": "Nothing ever changes with you. You seem so together\non the surface, but some part of your brain's always\nchecked out.[ST:wait ]"
+    },
+    {
+      "$id": 89,
+      "label": "qev019401_MSG0069",
+      "style": 1,
+      "name": "Ain't that right, [ST:playername ]?[ST:wait ]"
+    },
+    {
+      "$id": 90,
+      "label": "qev019401_JNK0110",
+      "style": 4,
+      "name": "Agree"
+    },
+    {
+      "$id": 91,
+      "label": "qev019401_SEL0111",
+      "style": 3,
+      "name": "Admit that Tobias is correct."
+    },
+    {
+      "$id": 92,
+      "label": "qev019401_JNK0120",
+      "style": 4,
+      "name": "Disagree"
+    },
+    {
+      "$id": 93,
+      "label": "qev019401_SEL0121",
+      "style": 3,
+      "name": "Defend Kirsty and her judgment."
+    },
+    {
+      "$id": 94,
+      "label": "qev019401_MSG0070",
+      "style": 1,
+      "name": "Ha! Ya see? Most folks wouldn't understand, but this\ncat here knows the score.[ST:wait ]"
+    },
+    {
+      "$id": 95,
+      "label": "qev019401_MSG0071",
+      "style": 1,
+      "name": "Back on the Whale, me and the others were always\ncleaning up Kirsty's messes.[ST:wait ]"
+    },
+    {
+      "$id": 96,
+      "label": "qev019401_MSG0072",
+      "style": 1,
+      "name": "Then the BLADEs must have beaten some sense into her,\nbecause Kirsty was hopeless back on the Whale.[ST:wait ]"
+    },
+    {
+      "$id": 97,
+      "label": "qev019401_MSG0073",
+      "style": 1,
+      "name": "And every time she screwed up—which was a lot—me\nand the rest of the gang had to clean it up.[ST:wait ]"
+    },
+    {
+      "$id": 98,
+      "label": "qev019401_MSG0074",
+      "style": 1,
+      "name": "If you don't believe me, there's a personnel registry on\nthe data unit I gave you. Give a search for my name\nand see what happens, yeah?[ST:wait ]"
+    },
+    {
+      "$id": 99,
+      "label": "qev019401_MSG0075",
+      "style": 1,
+      "name": "Is this a joke? Why would...[ST:wait ]"
+    },
+    {
+      "$id": 100,
+      "label": "qev019401_MSG0076",
+      "style": 1,
+      "name": "...Oh my god.[ST:wait ]"
+    },
+    {
+      "$id": 101,
+      "label": "qev019401_MSG0077",
+      "style": 1,
+      "name": "FrontierNav Network Development, Third Branch...\nWhy is your name on this?[ST:wait ]"
+    },
+    {
+      "$id": 102,
+      "label": "qev019401_MSG0078",
+      "style": 1,
+      "name": "Because I was working on the project, ya mope!\nDon't you remember? We kept runnin' into each other\nin the hallway![ST:wait ]"
+    },
+    {
+      "$id": 103,
+      "label": "qev019401_MSG0079",
+      "style": 1,
+      "name": "True, I had to have this handsome face swapped out\nafter the crash—that landing did a number on my nose.\nBut anyone can tell it's still me.[ST:wait ]"
+    },
+    {
+      "$id": 104,
+      "label": "qev019401_MSG0080",
+      "style": 1,
+      "name": "I don't care WHAT you used to look like!\nI can't believe that a selfish, greedy man like yourself\nwas on that team in the first place.[ST:wait ]"
+    },
+    {
+      "$id": 105,
+      "label": "qev019401_MSG0081",
+      "style": 1,
+      "name": "You need to quit judging and start thinking, sister!\nYou think expensive research projects get paid for with\nsunshine and rainbows?[ST:wait ]"
+    },
+    {
+      "$id": 106,
+      "label": "qev019401_MSG0082",
+      "style": 1,
+      "name": "And do you think BLADE HQ or the provisional\ngovernment would EVER pony up the cash for a\nbatcrap-crazy project like this?[ST:wait ]"
+    },
+    {
+      "$id": 107,
+      "label": "qev019401_MSG0083",
+      "style": 1,
+      "name": "M-maybe not now, but once we have a solid proposal\ntogether, we can—[ST:wait ]"
+    },
+    {
+      "$id": 108,
+      "label": "qev019401_MSG0084",
+      "style": 1,
+      "name": "Even proposals cost money! And right now, you don't\nhave enough to whip up a spreadsheet.[ST:wait ]"
+    },
+    {
+      "$id": 109,
+      "label": "qev019401_MSG0085",
+      "style": 1,
+      "name": "...So that's where I come in. I just transferred all the\nmoney I've banked into your personal account.[ST:wait ]"
+    },
+    {
+      "$id": 110,
+      "label": "qev019401_MSG0086",
+      "style": 1,
+      "name": "Don't go blowing it on dresses or something, yeah?\nThat's capital for the next generation of FrontierNav.[ST:wait ]"
+    },
+    {
+      "$id": 111,
+      "label": "qev019401_MSG0087",
+      "style": 1,
+      "name": "Oh, and I'll handle the network development, so why\ndon't you stick to your specialty and whip up some\nnew data probes?[ST:wait ]"
+    },
+    {
+      "$id": 112,
+      "label": "qev019401_MSG0088",
+      "style": 1,
+      "name": "We good? ...Good, then I'm outta here.[ST:wait ]"
+    },
+    {
+      "$id": 113,
+      "label": "qev019401_MSG0089",
+      "style": 1,
+      "name": "Oh, and good work on collecting all those data units.\nI'd actually been planning on handling that once I\nfinished gathering the money, buuut...[ST:wait ]"
+    },
+    {
+      "$id": 114,
+      "label": "qev019401_MSG0090",
+      "style": 1,
+      "name": "But you saved me the trouble, ya bastard! And now I\npromise that the last development-team survivors will\nmake their dream a reality.[ST:wait ]"
+    },
+    {
+      "$id": 115,
+      "label": "qev019401_MSG0091",
+      "style": 1,
+      "name": "...What the hell just happened?[ST:wait ]"
+    },
+    {
+      "$id": 116,
+      "label": "qev019401_JNK0130",
+      "style": 4,
+      "name": "Cheer"
+    },
+    {
+      "$id": 117,
+      "label": "qev019401_SEL0131",
+      "style": 3,
+      "name": "Congratulate Kirsty on her new partner."
+    },
+    {
+      "$id": 118,
+      "label": "qev019401_JNK0140",
+      "style": 4,
+      "name": "Warn"
+    },
+    {
+      "$id": 119,
+      "label": "qev019401_SEL0141",
+      "style": 3,
+      "name": "Caution Kirsty that Tobias is probably\nusing her for his own gain."
+    },
+    {
+      "$id": 120,
+      "label": "qev019401_MSG0092",
+      "style": 1,
+      "name": "P-partner? THAT walking avatar of avarice?[ST:wait ]"
+    },
+    {
+      "$id": 121,
+      "label": "qev019401_MSG0093",
+      "style": 1,
+      "name": "But if he wants to rip me off, why did he put all his\nmoney into funding this project?[ST:wait ]"
+    },
+    {
+      "$id": 122,
+      "label": "qev019401_MSG0094",
+      "style": 1,
+      "name": "......[ST:wait ]"
+    },
+    {
+      "$id": 123,
+      "label": "qev019401_MSG0095",
+      "style": 1,
+      "name": "Sorry, I... I think it's going to take some time for this to\nall sink in.[ST:wait ]"
+    }
+  ]
+}

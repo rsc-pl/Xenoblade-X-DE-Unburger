@@ -1,0 +1,222 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev025901_MSG0001",
+      "style": 1,
+      "name": "Er, hello? You're the human who helped Dr. Staccata\nstop Fraisie, aren't you?[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev025901_MSG0002",
+      "style": 1,
+      "name": "Good. Good timing. I need your help, you see?\nThe doctor still hasn't come back from his undercover\ninvestigation, and and I don't know what to do.[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev025901_JNK0010",
+      "style": 4,
+      "name": "Inquire"
+    },
+    {
+      "$id": 4,
+      "label": "qev025901_SEL0011",
+      "style": 3,
+      "name": "Ask Jalimbo what the undercover investigation is about."
+    },
+    {
+      "$id": 5,
+      "label": "qev025901_JNK0020",
+      "style": 4,
+      "name": "Shrug"
+    },
+    {
+      "$id": 6,
+      "label": "qev025901_SEL0021",
+      "style": 3,
+      "name": "Say the name Fraisie doesn't ring any bells."
+    },
+    {
+      "$id": 7,
+      "label": "qev025901_MSG0003",
+      "style": 1,
+      "name": "That rotten Fraisie took what was left of her cult and\ndisappeared into Cauldros, you know?[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev025901_MSG0004",
+      "style": 1,
+      "name": "Wow. You're very very forgetful, yes?[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev025901_MSG0005",
+      "style": 1,
+      "name": "She's the terrible person who poisoned the water at\nBiahno Lake, then handed out a miracle cure in order\nto recruit Ma-non into her her cult?[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev025901_MSG0006",
+      "style": 1,
+      "name": "Sounds familiar, no? Well, it turns out she took all her\nremaining followers and disappeared in Cauldros.[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev025901_MSG0007",
+      "style": 1,
+      "name": "The doctor was sure she'd try some new scam,\nso so so he pretended to be a believer and snuck\ninto their hideout.[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev025901_MSG0008",
+      "style": 1,
+      "name": "But but but I haven't heard from him at ALL, okay?\nI'm worried he's gotten caught or...you know?[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev025901_MSG0009",
+      "style": 1,
+      "name": "...Huh? Well, speak of the deviled-egg pizza—it's the\ndoctor, isn't it?! Will you wait just a second, please...?[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev025901_MSG0010",
+      "style": 1,
+      "name": "Hello hello? Yes yes, this is Jalimbo.\nWhere are you, Doctor?[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev025901_MSG0011",
+      "style": 1,
+      "name": "I'm in the Bandits' Refuge in in in Cauldros.\nYou must get in touch with [ST:playername ].\nTell [ST:gender p1=him p2=her ] I need help, and [ST:gender p1=he p2=she ] has to hurry, okay?[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev025901_MSG0012",
+      "style": 1,
+      "name": "...Uh-oh. Fraisie's coming back, it seems.\nPlease, Jalimbo. I don't have long before—[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev025901_MSG0013",
+      "style": 1,
+      "name": "...I lost the connection.[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev025901_MSG0014",
+      "style": 1,
+      "name": "This is very very very bad news, although at least you\nwere around when it happened, no?[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev025901_MSG0015",
+      "style": 1,
+      "name": "Please, you have to go rescue the doctor, okay?\nAnd then maybe stop Fraisie from whatever she's\ntrying to do?[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev025901_MSG0016",
+      "style": 1,
+      "name": "Dr. Staccata is headstrong and impulsive,\nbut he has a true heart, you know?[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev025901_MSG0017",
+      "style": 1,
+      "name": "So hurry to Cauldros, yes? Yes! And thank you.[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev025901_MSG0022",
+      "style": 1,
+      "name": "Whatever Fraisie's cooked up this time,\nit it it can't be good, no?[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev025901_MSG0023",
+      "style": 1,
+      "name": "So please head to Bandits' Refuge in Cauldros and\nsave Dr. Staccata, won't you?[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev025901_MSG0024",
+      "style": 1,
+      "name": "Dr. Staccata's back safe, yes? And I hear Fraisie's also\nbeen captured? This is a good news parade![ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev025901_MSG0025",
+      "style": 1,
+      "name": "Please let me give you this as thanks, if I may?[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev025901_MSG0026",
+      "style": 1,
+      "name": "Still, um...I guess all of of of the Ma-non that Fraisie\ntook with her were killed, right?[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev025901_MSG0027",
+      "style": 1,
+      "name": "If you and Dr. Staccata hadn't saved me, I'd probably\nhave been there with them, wouldn't I?[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev025901_MSG0028",
+      "style": 1,
+      "name": "So I've decided to spend my life keeping the doc safe.\nHe's so impulsive, and I think that's probably the best\nway to repay him?[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev025901_JNK0030",
+      "style": 4,
+      "name": "Agree"
+    },
+    {
+      "$id": 30,
+      "label": "qev025901_SEL0031",
+      "style": 3,
+      "name": "Leave Dr. Staccata in Jalimbo's care."
+    },
+    {
+      "$id": 31,
+      "label": "qev025901_JNK0040",
+      "style": 4,
+      "name": "Warn"
+    },
+    {
+      "$id": 32,
+      "label": "qev025901_SEL0041",
+      "style": 3,
+      "name": "Tell Jalimbo to be wary of xenoforms\nmasquerading as humans."
+    },
+    {
+      "$id": 33,
+      "label": "qev025901_MSG0029",
+      "style": 1,
+      "name": "Leave it to me! Oh, but if you could teach me how\nto fight sometime, that might actually be...good?[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev025901_MSG0030",
+      "style": 1,
+      "name": "That sounds like real trouble, doesn't it? I'll be sure to\nkeep the the the doctor away from anyone who's even\na little bit suspicious.[ST:wait ]"
+    }
+  ]
+}

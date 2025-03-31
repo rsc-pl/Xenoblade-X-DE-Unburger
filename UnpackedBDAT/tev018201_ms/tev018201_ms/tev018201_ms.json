@@ -1,0 +1,378 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev018201_JNK0010",
+      "style": 4,
+      "name": "Inquire[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev018201_SEL0011",
+      "style": 3,
+      "name": "Ask Cedric about the hangars.[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev018201_JNK0020",
+      "style": 4,
+      "name": "Discuss[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev018201_SEL0021",
+      "style": 3,
+      "name": "Ask Cedric if anything is troubling him.[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev018201_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 6,
+      "label": "tev018201_SEL0031",
+      "style": 3,
+      "name": "Ask Cedric for his thoughts on the Ma-non.[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "tev018201_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 8,
+      "label": "tev018201_SEL0021",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 9,
+      "label": "tev018201_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 10,
+      "label": "tev018201_SEL0051",
+      "style": 3,
+      "name": "Ask Cedric about the enemy attack.[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev018201_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 12,
+      "label": "tev018201_SEL0021",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 13,
+      "label": "tev018201_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 14,
+      "label": "tev018201_SEL0071",
+      "style": 3,
+      "name": "Ask Cedric about the restricted hangar.[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "tev018201_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 16,
+      "label": "tev018201_SEL0021",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 17,
+      "label": "tev018201_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 18,
+      "label": "tev018201_SEL0091",
+      "style": 3,
+      "name": "Ask Cedric about the restricted hangar.[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "tev018201_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 20,
+      "label": "tev018201_SEL0021",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 21,
+      "label": "tev018201_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 22,
+      "label": "tev018201_SEL0111",
+      "style": 3,
+      "name": "Ask Cedric about the Skells in the hangars.[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "tev018201_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 24,
+      "label": "tev018201_SEL0021",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 25,
+      "label": "tev018201_SEL1021",
+      "style": 3,
+      "name": "Ask Cedric about recent developments.[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "tev018201_SEL2021",
+      "style": 3,
+      "name": "Ask Cedric about recent developments.[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "tev018201_MSG0001",
+      "style": 1,
+      "name": "These are facilities for storing and maintaining Skells\nand other vehicles used by BLADE.[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "tev018201_MSG0002",
+      "style": 1,
+      "name": "If the world outside of New LA is BLADE's battlefield,\nthese hangars are where we mechanics go to war.[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "tev018201_MSG0003",
+      "style": 1,
+      "name": "And for the sake of humanity, we will fight to fix\nevery last Skell, no matter how severe the damage![ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "tev018201_MSG0010",
+      "style": 1,
+      "name": "A BLADE from the Outfitters division went to Noctilum\nto field test a new weapon.[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "tev018201_MSG0011",
+      "style": 1,
+      "name": "But I haven't heard anything since,\nand now I'm starting to get worried.[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "tev018201_MSG0012",
+      "style": 1,
+      "name": "Byron and I made sure his Skell was in tip-top shape\nbefore he deployed.[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "tev018201_MSG0013",
+      "style": 1,
+      "name": "Of course, since it was using experimental weaponry,\nthere's just no way to predict what might have gone\nwrong.[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "tev018201_MSG0018",
+      "style": 1,
+      "name": "A repair job that typically takes us three days,\nthey can get done in just a few hours.[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "tev018201_MSG0019",
+      "style": 1,
+      "name": "But some days they just don't feel like working,\nso they cut out early to get a pie at Army Pizza.[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "tev018201_MSG0020",
+      "style": 1,
+      "name": "Working with them has its pluses and minuses,\nbut when you add everything up, it still works out\nto a great big plus for us.[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "tev018201_MSG0021",
+      "style": 1,
+      "name": "I'm sure glad that we were able to forge a pact of\nfriendship with such promising allies.[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "tev018201_MSG0026",
+      "style": 1,
+      "name": "Well, a lot of Skells got destroyed by the Ganglion...[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "tev018201_MSG0027",
+      "style": 1,
+      "name": "But I don't want you BLADEs to worry about that.\nJust please keep exploring Mira like normal, okay?[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "tev018201_MSG0028",
+      "style": 1,
+      "name": "This is a battle for us mechanics to fight,\nand you better believe we're gonna win it.\nWe'll fix up every last thing they destroyed![ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "tev018201_MSG0032",
+      "style": 1,
+      "name": "Commander Vandham brought some BLADEs in there,\nand he had a pretty intense look on his face.[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "tev018201_MSG0033",
+      "style": 1,
+      "name": "Whatever it was, it's a pretty big deal![ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "tev018201_MSG0034",
+      "style": 1,
+      "name": "You should go help them out if you can.[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "tev018201_MSG0039",
+      "style": 1,
+      "name": "There are all sorts of other valuable prototypes in there,\nso we couldn't just leave it wide open.[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "tev018201_MSG0040",
+      "style": 1,
+      "name": "That's why all us mechanics got together and repaired\nthe broken restricted-hangar door.[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "tev018201_MSG0041",
+      "style": 1,
+      "name": "But I guess when there's a traitor, it doesn't matter how\nsturdy the door is—it ain't protecting a damn thing.[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "tev018201_MSG0046",
+      "style": 1,
+      "name": "That new device has revolutionized the Skell business\novernight![ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "tev018201_MSG0047",
+      "style": 1,
+      "name": "We're installing Skell flight modules as fast as we\npossibly can.[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "tev018201_MSG0048",
+      "style": 1,
+      "name": "Since they're so new to us, these module-equipped\nSkells take significantly longer to maintain than the\nflightless kind did.[ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "tev018201_MSG0049",
+      "style": 1,
+      "name": "Thankfully, there aren't too many BLADEs who have\nthem yet, so we have a little time.[ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "tev018201_MSG0050",
+      "style": 1,
+      "name": "But we're going to learn everything about them as fast\nas we possibly can, and make sure Lin's hard work\ndoesn't go to waste.[ST:wait ]"
+    },
+    {
+      "$id": 52,
+      "label": "tev018201_MSG1001",
+      "style": 1,
+      "name": "The Outfitter who went missing in Noctilum made it\nback to New LA![ST:wait ]"
+    },
+    {
+      "$id": 53,
+      "label": "tev018201_MSG1002",
+      "style": 1,
+      "name": "His Skell was destroyed by an indigen,\nso he was just trying to survive out there.[ST:wait ]"
+    },
+    {
+      "$id": 54,
+      "label": "tev018201_MSG1003",
+      "style": 1,
+      "name": "Luckily, a BLADE named [ST:playername ]\nfound and rescued him. Oh, and I guess [ST:gender p1=he p2=she ] got\nthe test data, too.[ST:wait ]"
+    },
+    {
+      "$id": 55,
+      "label": "tev018201_MSG1004",
+      "style": 1,
+      "name": "Can you believe the luck of being stranded in a place\nlike that and just happening across such a kind BLADE?[ST:wait ]"
+    },
+    {
+      "$id": 56,
+      "label": "tev018201_MSG2001",
+      "style": 1,
+      "name": "This Skell just stopped moving the other day,\nso Byron and I have been trying to figure out why.[ST:wait ]"
+    },
+    {
+      "$id": 57,
+      "label": "tev018201_MSG2002",
+      "style": 1,
+      "name": "We tried and tried, but we just couldn't understand it.[ST:wait ]"
+    },
+    {
+      "$id": 58,
+      "label": "tev018201_MSG2003",
+      "style": 1,
+      "name": "Right then, Commander Vandham came by to see how\nwe were doing. He took one look at that Skell and\nsaid, \"It's got a short in its chest piece.\"[ST:wait ]"
+    },
+    {
+      "$id": 59,
+      "label": "tev018201_MSG2004",
+      "style": 1,
+      "name": "He told us to replace the Number 320 cable.\nSoon as we did? Boom! Thing was moving again.\nI couldn't believe it![ST:wait ]"
+    },
+    {
+      "$id": 60,
+      "label": "tev018201_MSG2005",
+      "style": 1,
+      "name": "But I guess that's what I should expect from the man\nwho served as the White Whale's chief engineer and\nalso spearheaded the construction of New LA.[ST:wait ]"
+    }
+  ]
+}

@@ -1,0 +1,648 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "FooterGuide_01",
+      "style": 14,
+      "name": "[ST:icon p1=analp_l ]: View Model"
+    },
+    {
+      "$id": 2,
+      "label": "FooterGuide_02",
+      "style": 12,
+      "name": "[ST:icon p1=anar_l ]: Examine"
+    },
+    {
+      "$id": 3,
+      "label": "FooterGuide_03",
+      "style": 20,
+      "name": "[ST:icon p1=a_l ]: Recruit This BLADE"
+    },
+    {
+      "$id": 4,
+      "label": "FooterGuide_04",
+      "style": 12,
+      "name": ""
+    },
+    {
+      "$id": 5,
+      "label": "FooterGuide_05",
+      "style": 12,
+      "name": ""
+    },
+    {
+      "$id": 6,
+      "label": "FooterGuide_06",
+      "style": 16,
+      "name": ""
+    },
+    {
+      "$id": 7,
+      "label": "FooterGuide_07",
+      "style": 16,
+      "name": ""
+    },
+    {
+      "$id": 8,
+      "label": "FooterGuide_08",
+      "style": 12,
+      "name": "[ST:icon p1=anarp_l ]: Remove"
+    },
+    {
+      "$id": 9,
+      "label": "FooterGuide_09",
+      "style": 12,
+      "name": "[ST:icon p1=y_l ]: Favorite"
+    },
+    {
+      "$id": 10,
+      "label": "FooterGuide_10",
+      "style": 12,
+      "name": "[ST:icon p1=zr_l ]: Compare"
+    },
+    {
+      "$id": 11,
+      "label": "FooterGuide_11",
+      "style": 12,
+      "name": "[ST:icon p1=a_l ]: Hide"
+    },
+    {
+      "$id": 12,
+      "label": "FooterGuide_12",
+      "style": 12,
+      "name": "[ST:icon p1=a_l ]: Show"
+    },
+    {
+      "$id": 13,
+      "label": "FooterGuide_13",
+      "style": 16,
+      "name": ""
+    },
+    {
+      "$id": 14,
+      "label": "FooterGuide_14",
+      "style": 12,
+      "name": "[ST:icon p1=anarp_l ]: Remove"
+    },
+    {
+      "$id": 15,
+      "label": "FooterGuide_15",
+      "style": 12,
+      "name": "[ST:icon p1=x_l ]: Sort"
+    },
+    {
+      "$id": 16,
+      "label": "FooterGuide_16",
+      "style": 12,
+      "name": "[ST:icon p1=x_l ]: Select"
+    },
+    {
+      "$id": 17,
+      "label": "FooterGuide_17",
+      "style": 12,
+      "name": "[ST:icon p1=a_l ]: Change"
+    },
+    {
+      "$id": 18,
+      "label": "FooterGuide_18",
+      "style": 12,
+      "name": "[ST:icon p1=anal_l ]: Move"
+    },
+    {
+      "$id": 19,
+      "label": "FooterGuide_19",
+      "style": 14,
+      "name": "[ST:icon p1=anarp_l ]: Set as Junk"
+    },
+    {
+      "$id": 20,
+      "label": "FooterGuide_20",
+      "style": 10,
+      "name": "[ST:icon p1=zr_l ]: Back"
+    },
+    {
+      "$id": 21,
+      "label": "FooterGuide_21",
+      "style": 12,
+      "name": "[ST:icon p1=a_l ]: Confirm"
+    },
+    {
+      "$id": 22,
+      "label": "FooterGuide_22",
+      "style": 12,
+      "name": ""
+    },
+    {
+      "$id": 23,
+      "label": "FooterGuide_23",
+      "style": 28,
+      "name": "[ST:icon p1=x_l ]: Save/Load Coloring"
+    },
+    {
+      "$id": 24,
+      "label": "FooterGuide_24",
+      "style": 16,
+      "name": ""
+    },
+    {
+      "$id": 25,
+      "label": "FooterGuide_25",
+      "style": 20,
+      "name": "[ST:icon p1=x_l ]: Status When Achieved"
+    },
+    {
+      "$id": 26,
+      "label": "FooterGuide_26",
+      "style": 16,
+      "name": "[ST:icon p1=x_l ]: Status"
+    },
+    {
+      "$id": 27,
+      "label": "FooterGuide_27",
+      "style": 10,
+      "name": "[ST:icon p1=y_l ]: Follow"
+    },
+    {
+      "$id": 28,
+      "label": "FooterGuide_28",
+      "style": 12,
+      "name": ""
+    },
+    {
+      "$id": 29,
+      "label": "FooterGuide_29",
+      "style": 12,
+      "name": ""
+    },
+    {
+      "$id": 30,
+      "label": "FooterGuide_30",
+      "style": 20,
+      "name": ""
+    },
+    {
+      "$id": 31,
+      "label": "FooterGuide_31",
+      "style": 23,
+      "name": "[ST:icon p1=analp_l ]: Remove All Augments"
+    },
+    {
+      "$id": 32,
+      "label": "FooterGuide_32",
+      "style": 13,
+      "name": "[ST:icon p1=zr_l ]: Rankings"
+    },
+    {
+      "$id": 33,
+      "label": "FooterGuide_33",
+      "style": 16,
+      "name": ""
+    },
+    {
+      "$id": 34,
+      "label": "FooterGuide_34",
+      "style": 16,
+      "name": "[ST:icon p1=a_l ]: Invest Miranium"
+    },
+    {
+      "$id": 35,
+      "label": "FooterGuide_35",
+      "style": 12,
+      "name": "[ST:icon p1=crs_l ]: Change"
+    },
+    {
+      "$id": 36,
+      "label": "FooterGuide_36",
+      "style": 12,
+      "name": ""
+    },
+    {
+      "$id": 37,
+      "label": "FooterGuide_37",
+      "style": 12,
+      "name": ""
+    },
+    {
+      "$id": 38,
+      "label": "FooterGuide_38",
+      "style": 16,
+      "name": ""
+    },
+    {
+      "$id": 39,
+      "label": "FooterGuide_39",
+      "style": 18,
+      "name": "[ST:icon p1=zr_l ]: Character Info"
+    },
+    {
+      "$id": 40,
+      "label": "FooterGuide_40",
+      "style": 16,
+      "name": ""
+    },
+    {
+      "$id": 41,
+      "label": "FooterGuide_41",
+      "style": 14,
+      "name": "[ST:icon p1=anar_l ]: Zoom In/Out"
+    },
+    {
+      "$id": 42,
+      "label": "FooterGuide_42",
+      "style": 16,
+      "name": "[ST:icon p1=l_l ] + [ST:icon p1=anar_l ]: Zoom In/Out"
+    },
+    {
+      "$id": 43,
+      "label": "FooterGuide_43",
+      "style": 16,
+      "name": "[ST:icon p1=crsud_l ]: Select Character"
+    },
+    {
+      "$id": 44,
+      "label": "FooterGuide_44",
+      "style": 14,
+      "name": "[ST:icon p1=y_l ]: Play Voice"
+    },
+    {
+      "$id": 45,
+      "label": "FooterGuide_45",
+      "style": 12,
+      "name": "[ST:icon p1=a_l ]: Register"
+    },
+    {
+      "$id": 46,
+      "label": "FooterGuide_46",
+      "style": 12,
+      "name": "[ST:icon p1=a_l ]: Next"
+    },
+    {
+      "$id": 47,
+      "label": "FooterGuide_47",
+      "style": 22,
+      "name": "[ST:icon p1=x_l ]: Save/Load Avatar Data"
+    },
+    {
+      "$id": 48,
+      "label": "FooterGuide_48",
+      "style": 10,
+      "name": "[ST:icon p1=anar_l ]: Rotate"
+    },
+    {
+      "$id": 49,
+      "label": "FooterGuide_49",
+      "style": 16,
+      "name": ""
+    },
+    {
+      "$id": 50,
+      "label": "FooterGuide_50",
+      "style": 12,
+      "name": "[ST:icon p1=anal_l ]: Move"
+    },
+    {
+      "$id": 51,
+      "label": "FooterGuide_51",
+      "style": 12,
+      "name": ""
+    },
+    {
+      "$id": 52,
+      "label": "FooterGuide_52",
+      "style": 16,
+      "name": ""
+    },
+    {
+      "$id": 53,
+      "label": "FooterGuide_53",
+      "style": 20,
+      "name": ""
+    },
+    {
+      "$id": 54,
+      "label": "FooterGuide_54",
+      "style": 20,
+      "name": ""
+    },
+    {
+      "$id": 55,
+      "label": "FooterGuide_55",
+      "style": 20,
+      "name": "[ST:icon p1=zr_l ]: Equip Skell Armor"
+    },
+    {
+      "$id": 56,
+      "label": "FooterGuide_56",
+      "style": 20,
+      "name": "[ST:icon p1=zr_l ]: Equip Skell Weapons"
+    },
+    {
+      "$id": 57,
+      "label": "FooterGuide_57",
+      "style": 20,
+      "name": "[ST:icon p1=anarp_l ]: Revert to Base Equipment"
+    },
+    {
+      "$id": 58,
+      "label": "FooterGuide_58",
+      "style": 14,
+      "name": ""
+    },
+    {
+      "$id": 59,
+      "label": "FooterGuide_59",
+      "style": 30,
+      "name": "[ST:icon p1=a_l ]: Change Gear (Retain Augments)"
+    },
+    {
+      "$id": 60,
+      "label": "FooterGuide_60",
+      "style": 17,
+      "name": "[ST:icon p1=a_l ]: Set Augments"
+    },
+    {
+      "$id": 61,
+      "label": "FooterGuide_61",
+      "style": 21,
+      "name": "[ST:icon p1=anarp_l ]: Reset Camera"
+    },
+    {
+      "$id": 62,
+      "label": "FooterGuide_62",
+      "style": 20,
+      "name": ""
+    },
+    {
+      "$id": 63,
+      "label": "FooterGuide_63",
+      "style": 16,
+      "name": "[ST:icon p1=zr_l ]: Status"
+    },
+    {
+      "$id": 64,
+      "label": "FooterGuide_64",
+      "style": 12,
+      "name": ""
+    },
+    {
+      "$id": 65,
+      "label": "FooterGuide_65",
+      "style": 12,
+      "name": ""
+    },
+    {
+      "$id": 66,
+      "label": "FooterGuide_66",
+      "style": 16,
+      "name": "[ST:icon p1=zl_l ] / [ST:icon p1=zr_l ]: Change View"
+    },
+    {
+      "$id": 67,
+      "label": "FooterGuide_67",
+      "style": 16,
+      "name": "[ST:icon p1=zr_l ]: View Skills"
+    },
+    {
+      "$id": 68,
+      "label": "FooterGuide_68",
+      "style": 16,
+      "name": "[ST:icon p1=zr_l ]: View Arts"
+    },
+    {
+      "$id": 69,
+      "label": "FooterGuide_69",
+      "style": 15,
+      "name": "[ST:icon p1=zl_l ] (hold): Region Intel"
+    },
+    {
+      "$id": 70,
+      "label": "FooterGuide_70",
+      "style": 9,
+      "name": "[ST:icon p1=analp_l ]: Find Self"
+    },
+    {
+      "$id": 71,
+      "label": "FooterGuide_71",
+      "style": 19,
+      "name": "[ST:icon p1=y_l ]: Survey Rewards"
+    },
+    {
+      "$id": 72,
+      "label": "FooterGuide_72",
+      "style": 24,
+      "name": "[ST:icon p1=anarp_l ]: Revert to Basic Probe"
+    },
+    {
+      "$id": 73,
+      "label": "FooterGuide_73",
+      "style": 14,
+      "name": "[ST:icon p1=zl_l ]: Icon Filter"
+    },
+    {
+      "$id": 74,
+      "label": "FooterGuide_74",
+      "style": 17,
+      "name": "[ST:icon p1=anarp_l ]: Mark Segment"
+    },
+    {
+      "$id": 75,
+      "label": "FooterGuide_75",
+      "style": 29,
+      "name": "[ST:icon p1=y_l ]: Remove Same Color"
+    },
+    {
+      "$id": 76,
+      "label": "FooterGuide_76",
+      "style": 15,
+      "name": "[ST:icon p1=x_l ]: Edit Profile"
+    },
+    {
+      "$id": 77,
+      "label": "FooterGuide_77",
+      "style": 16,
+      "name": "[ST:icon p1=y_l ]: Toggle Fashion/Ground Gear"
+    },
+    {
+      "$id": 78,
+      "label": "FooterGuide_78",
+      "style": 14,
+      "name": ""
+    },
+    {
+      "$id": 79,
+      "label": "FooterGuide_79",
+      "style": 18,
+      "name": "[ST:icon p1=zr_l ]: Character Info"
+    },
+    {
+      "$id": 80,
+      "label": "FooterGuide_80",
+      "style": 18,
+      "name": "[ST:icon p1=zl_l ]: Map Legend"
+    },
+    {
+      "$id": 81,
+      "label": "FooterGuide_81",
+      "style": 22,
+      "name": "[ST:icon p1=zr_l ]: Purchase Protective Wear"
+    },
+    {
+      "$id": 82,
+      "label": "FooterGuide_82",
+      "style": 22,
+      "name": "[ST:icon p1=zr_l ]: Purchase Weapons"
+    },
+    {
+      "$id": 83,
+      "label": "FooterGuide_83",
+      "style": 22,
+      "name": "[ST:icon p1=zr_l ]: Purchase Skell Armor"
+    },
+    {
+      "$id": 84,
+      "label": "FooterGuide_84",
+      "style": 22,
+      "name": "[ST:icon p1=zr_l ]: Purchase Skell Weapons"
+    },
+    {
+      "$id": 85,
+      "label": "FooterGuide_85",
+      "style": 24,
+      "name": "[ST:icon p1=x_l ]: Revert to Initial Settings"
+    },
+    {
+      "$id": 86,
+      "label": "FooterGuide_86",
+      "style": 18,
+      "name": "[ST:icon p1=x_l ]: Map Shortcuts"
+    },
+    {
+      "$id": 87,
+      "label": "FooterGuide_87",
+      "style": 20,
+      "name": "[ST:icon p1=zl_l ]: Reset Upgrades"
+    },
+    {
+      "$id": 88,
+      "label": "FooterGuide_88",
+      "style": 17,
+      "name": "[ST:icon p1=zl_l ]: Icon Filter \\[[ST:col p1=yellow ]On[ST:col p1=lightblue3 ]\\]"
+    },
+    {
+      "$id": 89,
+      "label": "FooterGuide_89",
+      "style": 19,
+      "name": "[ST:icon p1=zr_l ] (hold): Show/Hide Stats"
+    },
+    {
+      "$id": 90,
+      "label": "FooterGuide_90",
+      "style": 17,
+      "name": "[ST:icon p1=y_l ]: Toggle Info Pane"
+    },
+    {
+      "$id": 91,
+      "label": "FooterGuide_91",
+      "style": 18,
+      "name": "[ST:icon p1=y_l ]: Toggle Shown Gear"
+    },
+    {
+      "$id": 92,
+      "label": "FooterGuide_92",
+      "style": 17,
+      "name": "[ST:icon p1=anarp_l ]: Change Formation"
+    },
+    {
+      "$id": 93,
+      "label": "FooterGuide_93",
+      "style": 15,
+      "name": "[ST:icon p1=x_l ]: Toggle Names"
+    },
+    {
+      "$id": 94,
+      "label": "FooterGuide_94",
+      "style": 8,
+      "name": "[ST:icon p1=a_l ]: End"
+    },
+    {
+      "$id": 95,
+      "label": "FooterGuide_95",
+      "style": 17,
+      "name": "[ST:icon p1=a_l ]: Purchase and Equip"
+    },
+    {
+      "$id": 96,
+      "label": "FooterGuide_96",
+      "style": 21,
+      "name": ""
+    },
+    {
+      "$id": 97,
+      "label": "FooterGuide_97",
+      "style": 18,
+      "name": "[ST:icon p1=anarp_l ]: Place Marker"
+    },
+    {
+      "$id": 98,
+      "label": "FooterGuide_98",
+      "style": 17,
+      "name": "[ST:icon p1=anarp_l ]: Remove Marker"
+    },
+    {
+      "$id": 99,
+      "label": "FooterGuide_99",
+      "style": 17,
+      "name": "[ST:icon p1=anarp_l ]: Delete Registration"
+    },
+    {
+      "$id": 100,
+      "label": "FooterGuide_100",
+      "style": 19,
+      "name": "[ST:icon p1=pls_l ]: Point Attack Menu"
+    },
+    {
+      "$id": 101,
+      "label": "FooterGuide_101",
+      "style": 20,
+      "name": "[ST:icon p1=zr_l ]: Sell All Junk"
+    },
+    {
+      "$id": 102,
+      "label": "FooterGuide_102",
+      "style": 22,
+      "name": ""
+    },
+    {
+      "$id": 103,
+      "label": "FooterGuide_103",
+      "style": 11,
+      "name": "[ST:icon p1=a_l ]: Sell"
+    },
+    {
+      "$id": 104,
+      "label": "FooterGuide_104",
+      "style": 17,
+      "name": "[ST:icon p1=y_l ]: Toggle Display"
+    },
+    {
+      "$id": 105,
+      "label": "FooterGuide_105",
+      "style": 12,
+      "name": "[ST:icon p1=b_l ]: Cancel"
+    }
+  ]
+}

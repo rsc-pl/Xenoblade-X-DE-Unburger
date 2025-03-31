@@ -1,0 +1,306 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev075401_MSG0001",
+      "style": 1,
+      "name": "Ho, [ST:playername ]! Did you see a strange\nhuman pass by with a bunch of tectonic puges in tow?[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev075401_JNK0010",
+      "style": 4,
+      "name": "Reply"
+    },
+    {
+      "$id": 3,
+      "label": "qev075401_SEL0011",
+      "style": 3,
+      "name": "Say that you haven't seen anything like that."
+    },
+    {
+      "$id": 4,
+      "label": "qev075401_JNK0020",
+      "style": 4,
+      "name": "Query"
+    },
+    {
+      "$id": 5,
+      "label": "qev075401_SEL0021",
+      "style": 3,
+      "name": "Ask Gi Zang what the heck he's talking about."
+    },
+    {
+      "$id": 6,
+      "label": "qev075401_MSG0002",
+      "style": 1,
+      "name": "Bah! Well, thank you anyway.[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev075401_MSG0003",
+      "style": 1,
+      "name": "I still don't know what happened, it was so sudden.\nA pack of tectonic puges hit my camp out of nowhere![ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev075401_MSG0004",
+      "style": 1,
+      "name": "A pack of tectonic puges hit my camp out of nowhere.[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev075401_MSG0005",
+      "style": 1,
+      "name": "While I was distracted, my sword was stolen by a\nhuman who was clearly controlling them.[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev075401_MSG0006",
+      "style": 1,
+      "name": "What was I thinking, losing my grandfather's sword\nlike that?[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev075401_MSG0007",
+      "style": 1,
+      "name": "This is more important to me than my pride.\nI beg you, my friend—help me retrieve it.[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev075401_MSG0008",
+      "style": 1,
+      "name": "Thank you. He could not have gone far.[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev075401_MSG0009",
+      "style": 1,
+      "name": "And he must be the only human around here with\ntectonic puges as pets. We should have little trouble\ntracking him down.[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev075401_MSG0010",
+      "style": 1,
+      "name": "I shall keep looking in this area if you can check the\nruined city of O'rrh Sim.[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev075401_MSG0011",
+      "style": 1,
+      "name": "I need that sword to maintain my place as a Hellion.\nI have to retrieve it, whatever it takes![ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev075401_MSG0012",
+      "style": 1,
+      "name": "Sorry to leave all the work to you.[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev075401_JNK0030",
+      "style": 4,
+      "name": "Worry"
+    },
+    {
+      "$id": 18,
+      "label": "qev075401_SEL0031",
+      "style": 3,
+      "name": "Ask Gi Zang if he's all right."
+    },
+    {
+      "$id": 19,
+      "label": "qev075401_JNK0040",
+      "style": 4,
+      "name": "Query"
+    },
+    {
+      "$id": 20,
+      "label": "qev075401_SEL0041",
+      "style": 3,
+      "name": "Ask Gi Zang whether he found his sword."
+    },
+    {
+      "$id": 21,
+      "label": "qev075401_MSG0013",
+      "style": 1,
+      "name": "I was caught off guard and knocked out for a bit—\nbut it takes more than that to kill someone who has\nbeen through training like mine.[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev075401_MSG0014",
+      "style": 1,
+      "name": "And I found my sword. Everything worked out, but...[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev075401_MSG0015",
+      "style": 1,
+      "name": "Yes, he had it. It's just...[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev075401_MSG0016",
+      "style": 1,
+      "name": "Every time trouble rears its head, I keep relying on you\nto bail me out while I fumble about uselessly.[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev075401_MSG0017",
+      "style": 1,
+      "name": "Perhaps I'm not worthy of my grandfather's sword in\nthe first place.[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev075401_MSG0018",
+      "style": 1,
+      "name": "...My friend, could I ask you to hold on to it until I'm\nstrong enough to beat you in a match?[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev075401_JNK0050",
+      "style": 4,
+      "name": "Accept"
+    },
+    {
+      "$id": 28,
+      "label": "qev075401_SEL0051",
+      "style": 3,
+      "name": "Solemnly take Gi Zang's sword."
+    },
+    {
+      "$id": 29,
+      "label": "qev075401_JNK0060",
+      "style": 4,
+      "name": "Refuse"
+    },
+    {
+      "$id": 30,
+      "label": "qev075401_SEL0061",
+      "style": 3,
+      "name": "Say that it's too important for you to take."
+    },
+    {
+      "$id": 31,
+      "label": "qev075401_MSG0019",
+      "style": 1,
+      "name": "Thank you. I know that you will take good care of it.[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev075401_MSG0020",
+      "style": 1,
+      "name": "I need you to hold on to it BECAUSE it's so important.[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev075401_MSG0021",
+      "style": 1,
+      "name": "I cannot take no for an answer on this one,\nfor I am sure my grandfather would approve.[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev075401_MSG0022",
+      "style": 1,
+      "name": "This is only a temporary situation, you understand.\nSoon I will match your strength, and on that day I will\nreclaim my weapon and prove myself a true Hellion.[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev075401_MSG0023",
+      "style": 1,
+      "name": "You had best be ready the next time we meet.\nUntil then, take care.[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev075401_MSG0024",
+      "style": 1,
+      "name": "I'm all done on my end. Looks like you are as well![ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev075401_MSG0025",
+      "style": 1,
+      "name": "Heh. I almost feel bad for those fools.\nThey didn't stand a chance.[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev075401_JNK0070",
+      "style": 4,
+      "name": "Celebrate"
+    },
+    {
+      "$id": 39,
+      "label": "qev075401_SEL0071",
+      "style": 3,
+      "name": "Smile and give Gi Zang a high five."
+    },
+    {
+      "$id": 40,
+      "label": "qev075401_JNK0080",
+      "style": 4,
+      "name": "Fight"
+    },
+    {
+      "$id": 41,
+      "label": "qev075401_SEL0081",
+      "style": 3,
+      "name": "Challenge Gi Zang to another match."
+    },
+    {
+      "$id": 42,
+      "label": "qev075401_MSG0026",
+      "style": 1,
+      "name": "We would have made a hell of a team if you had been\nborn a Wrothian.[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "qev075401_MSG0027",
+      "style": 1,
+      "name": "We would have had the Ganglion running scared!\nWhat a waste that you are human. Ha ha ha![ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "qev075401_MSG0028",
+      "style": 1,
+      "name": "But hey, we can still spar, right? I've been training like\na madman since the last time, so don't expect this\nround to be so easy![ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "qev075401_MSG0029",
+      "style": 1,
+      "name": "Seriously? ...I can't believe that I'm saying this,\nbut is fighting the only thing you think about?[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "qev075401_MSG0030",
+      "style": 1,
+      "name": "Let's hold off until we're both in top condition.\nI've been training like a madman since our last round,\nso you're in for a surprise![ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "qev075401_MSG0031",
+      "style": 1,
+      "name": "My sword reclaimed, I now return to New LA.\nPerhaps I'll get in some training by busting a few\nGanglion heads along the way.[ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "qev075401_MSG0032",
+      "style": 1,
+      "name": "For I still need to grow stronger, and the Ganglion\nbody count is nowhere near enough yet to make up\nfor everyone I have lost![ST:wait ]"
+    }
+  ]
+}

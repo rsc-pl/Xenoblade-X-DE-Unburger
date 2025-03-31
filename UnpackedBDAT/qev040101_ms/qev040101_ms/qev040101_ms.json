@@ -1,0 +1,324 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev040101_MSG0001",
+      "style": 1,
+      "name": "Ah! Is tall friend a mighty BLADE?[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev040101_MSG0002",
+      "style": 1,
+      "name": "You must go save Lana! Save sweetheart of Bubu!\nBubu give friend anything![ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev040101_JNK0010",
+      "style": 4,
+      "name": "Query"
+    },
+    {
+      "$id": 4,
+      "label": "qev040101_SEL0011",
+      "style": 3,
+      "name": "Ask Bubu for the details."
+    },
+    {
+      "$id": 5,
+      "label": "qev040101_JNK0020",
+      "style": 4,
+      "name": "Decline"
+    },
+    {
+      "$id": 6,
+      "label": "qev040101_SEL0021",
+      "style": 3,
+      "name": "Say you don't know what the issue is,\nbut you're busy regardless."
+    },
+    {
+      "$id": 7,
+      "label": "qev040101_MSG0003",
+      "style": 1,
+      "name": "That cruel! Also not matter. Bubu MAKE friend help![ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev040101_MSG0004",
+      "style": 1,
+      "name": "Bubu be rude as necessary to help Lana![ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev040101_MSG0005",
+      "style": 1,
+      "name": "Lana is wife of Bubu. Total angel. Perfectness.\nNever has Mira seen more beautiful Nopon.[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev040101_MSG0006",
+      "style": 1,
+      "name": "*sniff* But angel of Bubu left for Cauldros to buy new\ninventory and never return.[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev040101_MSG0007",
+      "style": 1,
+      "name": "Bubu tried to stop Lana. Told Lana there was no\nreason for gentle Nopon like her to go to such\ndangerous place all alone.[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev040101_MSG0008",
+      "style": 1,
+      "name": "But Lana insist on helping business of Bubu.\nSo kind! So giving![ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev040101_MSG0009",
+      "style": 1,
+      "name": "How can one Nopon be so sweet? Surely friend is also\ndeeply enamored with Lana by now![ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev040101_JNK0030",
+      "style": 4,
+      "name": "Agree"
+    },
+    {
+      "$id": 15,
+      "label": "qev040101_SEL0031",
+      "style": 3,
+      "name": "Tell Bubu that Lana sounds wonderful."
+    },
+    {
+      "$id": 16,
+      "label": "qev040101_JNK0040",
+      "style": 4,
+      "name": "Disagree"
+    },
+    {
+      "$id": 17,
+      "label": "qev040101_SEL0041",
+      "style": 3,
+      "name": "Tell Bubu that you don't especially care."
+    },
+    {
+      "$id": 18,
+      "label": "qev040101_MSG0010",
+      "style": 1,
+      "name": "Bubu understand. But friend will kindly remember that\nangel Lana already has very special someone.\nFriend should avoid getting any sneaky ideas.[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev040101_MSG0011",
+      "style": 1,
+      "name": "Friend is confused by sudden surge of feeling.\nBubu understand. But friend must also remember\nthat angel Lana is taken. So no getting funny ideas![ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev040101_MSG0012",
+      "style": 1,
+      "name": "And with that, Bubu ask that friend travel to Cauldros\nand check up on darling Lana.[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev040101_MSG0013",
+      "style": 1,
+      "name": "Friend will be paid well! No price too high for angel of\nBubu! But in return, Bubu expect friend to do anything\nin powers to keep Lana safe.[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev040101_MSG0014",
+      "style": 1,
+      "name": "Thank you, friend! Bubu want Lana to forever be\nsmiling her amazing angel smile.[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev040101_MSG0015",
+      "style": 1,
+      "name": "Bubu would have sent Lana off with thousand BLADE\nescorts if Bubu knew there would be trouble.[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev040101_MSG0016",
+      "style": 1,
+      "name": "Now go to Cauldros and bring angel of Bubu home![ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev040101_MSG0017",
+      "style": 1,
+      "name": "......[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev040101_JNK0050",
+      "style": 4,
+      "name": "Query"
+    },
+    {
+      "$id": 27,
+      "label": "qev040101_SEL0051",
+      "style": 3,
+      "name": "Ask Bubu why he has suddenly stopped talking."
+    },
+    {
+      "$id": 28,
+      "label": "qev040101_JNK0060",
+      "style": 4,
+      "name": "Insist"
+    },
+    {
+      "$id": 29,
+      "label": "qev040101_SEL0061",
+      "style": 3,
+      "name": "Demand that Bubu pay you."
+    },
+    {
+      "$id": 30,
+      "label": "qev040101_MSG0018",
+      "style": 1,
+      "name": "Sorry, friend. Bubu in middle of marital squabble.[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev040101_MSG0019",
+      "style": 1,
+      "name": "Lana not being reasonable! Bubu was so worried,\nbut angel not sorry at all![ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev040101_MSG0020",
+      "style": 1,
+      "name": "Bubu not want to talk to her right now.[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev040101_MSG0021",
+      "style": 1,
+      "name": "Ah, yes. Here is reward for friend. Many thanks.[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev040101_MSG0022",
+      "style": 1,
+      "name": "Ah, apologies. Bubu so mad, he forget about business.[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev040101_MSG0023",
+      "style": 1,
+      "name": "...Huh? Friend want to know why Bubu filled with\nmurderous rage?[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev040101_MSG0024",
+      "style": 1,
+      "name": "Because Lana not being reasonable! Bubu so worried,\nbut special angel not sorry at all.[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev040101_MSG0025",
+      "style": 1,
+      "name": "Bubu not want to talk to her right now.[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev040101_MSG0026",
+      "style": 1,
+      "name": "But reward for friend is here. Take it.[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "qev040101_MSG0027",
+      "style": 1,
+      "name": "Bubu in angel withdrawal after not seeing Lana for\nso long. Body of Bubu shaking.[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "qev040101_MSG0028",
+      "style": 1,
+      "name": "What kept sweet Lana away so long?[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "qev040101_JNK0070",
+      "style": 4,
+      "name": "Explain"
+    },
+    {
+      "$id": 42,
+      "label": "qev040101_SEL0071",
+      "style": 3,
+      "name": "Tell Bubu the truth of what happened."
+    },
+    {
+      "$id": 43,
+      "label": "qev040101_JNK0080",
+      "style": 4,
+      "name": "Evade"
+    },
+    {
+      "$id": 44,
+      "label": "qev040101_SEL0081",
+      "style": 3,
+      "name": "Say only that Lana won't be coming back.[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "qev040101_MSG0029",
+      "style": 1,
+      "name": "Whaaaat?! Lana living happily in Cauldros?\nShe m-mamapon to littlepon of Walolo?[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "qev040101_MSG0030",
+      "style": 1,
+      "name": "Is this because Bubu not feed Lana lots of meat?\nBubu only worried for health of angel.[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "qev040101_MSG0031",
+      "style": 1,
+      "name": "...Not coming home? But why?\nWhat did Bubu do wrong?[ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "qev040101_MSG0032",
+      "style": 1,
+      "name": "Is this because Bubu not feed Lana lots of meat?\nBubu only worried for health of angel.[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "qev040101_MSG0033",
+      "style": 1,
+      "name": "Bubu was happy to give Lana anything she wanted...[ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "qev040101_MSG0034",
+      "style": 1,
+      "name": "......[ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "qev040101_MSG0035",
+      "style": 1,
+      "name": "Bubu needs alone thinking time now.\nHere is payment.[ST:wait ]"
+    }
+  ]
+}

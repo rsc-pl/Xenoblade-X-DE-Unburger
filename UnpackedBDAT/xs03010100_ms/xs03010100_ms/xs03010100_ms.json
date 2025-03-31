@@ -1,0 +1,696 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs03010100_MSG0001",
+      "style": 0,
+      "name": "So, Commander, to what do we owe the pleasure\nof your visit here today?[ST:wait ]\n"
+    },
+    {
+      "$id": 2,
+      "label": "xs03010100_MSG0002",
+      "style": 0,
+      "name": "Well, I can't just ask Nagi to do everything for me—\nI'd be out of a job.[ST:wait ]\n"
+    },
+    {
+      "$id": 3,
+      "label": "xs03010100_MSG0003",
+      "style": 0,
+      "name": "Hey, I delivered you the new recruit, didn't I?[ST:wait ]\n"
+    },
+    {
+      "$id": 4,
+      "label": "xs03010100_MSG0004",
+      "style": 0,
+      "name": "Yeah, yeah. You won the bet. Don't worry about it, all right?\nI'll settle up with you later—you know I'm good for it.[ST:wait ]\n"
+    },
+    {
+      "$id": 5,
+      "label": "xs03010100_MSG0005",
+      "style": 0,
+      "name": "The \"bet\"?[ST:wait ]\n"
+    },
+    {
+      "$id": 6,
+      "label": "xs03010100_MSG0006",
+      "style": 0,
+      "name": "I'm sure I'm needed elsewhere.\nIf you'll all excuse me. Commander.[ST:wait ]\n"
+    },
+    {
+      "$id": 7,
+      "label": "xs03010100_MSG0007",
+      "style": 0,
+      "name": "Well, that wasn't obvious at all.[ST:wait ]\n"
+    },
+    {
+      "$id": 8,
+      "label": "xs03010100_MSG0008",
+      "style": 0,
+      "name": "Heh. Look at you two.\nI swear, you're like two children excited about a new toy.[ST:wait ]\n"
+    },
+    {
+      "$id": 9,
+      "label": "xs03010100_MSG0009",
+      "style": 0,
+      "name": "Look who's talking. I don't recall ever seeing you\nfile a request to personally train a rescue before?[ST:wait ]\n"
+    },
+    {
+      "$id": 10,
+      "label": "xs03010100_MSG0010",
+      "style": 0,
+      "name": "Is that so odd?[ST:wait ]\n"
+    },
+    {
+      "$id": 11,
+      "label": "xs03010100_MSG0011",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 12,
+      "label": "xs03010100_MSG0011_m",
+      "style": 0,
+      "name": "It is before we'd even asked him to become a BLADE,\nLittle Miss Stick-in-the-rear.[ST:wait ]\n"
+    },
+    {
+      "$id": 13,
+      "label": "xs03010100_MSG0011_f",
+      "style": 0,
+      "name": "It is before we'd even asked her to become a BLADE,\nLittle Miss Stick-in-the-rear.[ST:wait ]\n"
+    },
+    {
+      "$id": 14,
+      "label": "xs03010100_MSG0012",
+      "style": 0,
+      "name": "Usually, I ask when I don't get your slang expressions,\nbut something tells me to just let that one go.[ST:wait ]\n"
+    },
+    {
+      "$id": 15,
+      "label": "xs03010100_MSG0013",
+      "style": 0,
+      "name": "Enough about that. Where are your manners, anyway?\nI still haven't been introduced to our new recruit here.[ST:wait ]\n"
+    },
+    {
+      "$id": 16,
+      "label": "xs03010100_MSG0014",
+      "style": 0,
+      "name": "Commander Vandham is BLADE's top officer.[ST:wait ]\n"
+    },
+    {
+      "$id": 17,
+      "label": "xs03010100_MSG0015",
+      "style": 0,
+      "name": "In a past life, I was Chief Engineer on the White Whale.[ST:wait ]\n"
+    },
+    {
+      "$id": 18,
+      "label": "xs03010100_MSG0016",
+      "style": 0,
+      "name": "Same idea, basically—someone has a problem, I fix it.\nYou follow?[ST:wait ]\n"
+    },
+    {
+      "$id": 19,
+      "label": "xs03010100_MSG0017",
+      "style": 0,
+      "name": "...Not much for conversation, are ya?[ST:wait ]\n"
+    },
+    {
+      "$id": 20,
+      "label": "xs03010100_MSG0018",
+      "style": 0,
+      "name": "So you still haven't told us why you're here.\nFrom the look of things, I'm guessing this isn't a social call.[ST:wait ]\n"
+    },
+    {
+      "$id": 21,
+      "label": "xs03010100_MSG0019",
+      "style": 0,
+      "name": "You don't think?[ST:wait ]\n"
+    },
+    {
+      "$id": 22,
+      "label": "xs03010100_MSG0020",
+      "style": 0,
+      "name": "No, so let's cut the crap and get down to business.[ST:wait ]\n"
+    },
+    {
+      "$id": 23,
+      "label": "xs03010100_MSG0021",
+      "style": 0,
+      "name": "Hah! Sounds like you're learning\nmy expressions just fine, Elma.[ST:page p1=90 ]Anyway, first we need Chatty Cathy here\nto choose a division and pull an assignment.[ST:wait ]\n"
+    },
+    {
+      "$id": 24,
+      "label": "xs03010100_JNK0010",
+      "style": 4,
+      "name": "Get Started"
+    },
+    {
+      "$id": 25,
+      "label": "xs03010100_SEL0011",
+      "style": 3,
+      "name": "Ask about the assignment."
+    },
+    {
+      "$id": 26,
+      "label": "xs03010100_JNK0020",
+      "style": 4,
+      "name": "Get More Info"
+    },
+    {
+      "$id": 27,
+      "label": "xs03010100_SEL0021",
+      "style": 3,
+      "name": "Ask about divisions."
+    },
+    {
+      "$id": 28,
+      "label": "xs03010100_MSG0022",
+      "style": 0,
+      "name": "Whoa there, itchy-trigger![ST:wait ]\n"
+    },
+    {
+      "$id": 29,
+      "label": "xs03010100_MSG0023",
+      "style": 0,
+      "name": "I know you're just chaffin' at the bit to run out there and grab\nthe world by its tail, but you need to choose a division first.[ST:wait ]\n"
+    },
+    {
+      "$id": 30,
+      "label": "xs03010100_MSG0024",
+      "style": 0,
+      "name": "Once that's all hashed out, we can get into detail\nabout what your first assignment's gonna be.[ST:wait ]\n"
+    },
+    {
+      "$id": 31,
+      "label": "xs03010100_MSG0025",
+      "style": 0,
+      "name": "Pretty much everyone in New LA works for BLADE,\nin one of several different fields.[ST:wait ]\n"
+    },
+    {
+      "$id": 32,
+      "label": "xs03010100_MSG0026",
+      "style": 0,
+      "name": "Helping to explore Mira, or to maintain order in the city,\nor—well you remember Nagi's speech, right?[ST:wait ]\n"
+    },
+    {
+      "$id": 33,
+      "label": "xs03010100_MSG0027",
+      "style": 0,
+      "name": "There are eight different fields in all,\nand each one has its own branch within BLADE.[ST:wait ]\n"
+    },
+    {
+      "$id": 34,
+      "label": "xs03010100_MSG0028",
+      "style": 0,
+      "name": "Officially, they're called \"divisions.\"[ST:wait ]\n"
+    },
+    {
+      "$id": 35,
+      "label": "xs03010100_MSG0029",
+      "style": 0,
+      "name": "Naturally, you'll want to choose one\nthat best suits your personality and your talents.[ST:wait ]\n"
+    },
+    {
+      "$id": 36,
+      "label": "xs03010100_MSG0030",
+      "style": 0,
+      "name": "Let's start with the Pathfinders.[ST:wait ]\n"
+    },
+    {
+      "$id": 37,
+      "label": "xs03010100_MSG0031",
+      "style": 0,
+      "name": "Pathfinders' number one responsibility...[ST:wait ]\n"
+    },
+    {
+      "$id": 38,
+      "label": "xs03010100_MSG0032",
+      "style": 0,
+      "name": "is planting data probes—\nlike you did on your training mission.[ST:wait ]\n"
+    },
+    {
+      "$id": 39,
+      "label": "xs03010100_MSG0033",
+      "style": 0,
+      "name": "It may not be the sexiest job, but important?\nYou bet your ass it's important.[ST:wait ]\n"
+    },
+    {
+      "$id": 40,
+      "label": "xs03010100_MSG0034",
+      "style": 0,
+      "name": "We've only been on Mira two months—\nwe don't know jack about this place.[ST:wait ]\n"
+    },
+    {
+      "$id": 41,
+      "label": "xs03010100_MSG0035",
+      "style": 0,
+      "name": "The more probes we install, the faster we can\nget our bearings here and give ourselves a fighting chance.[ST:wait ]\n"
+    },
+    {
+      "$id": 42,
+      "label": "xs03010100_MSG0036",
+      "style": 0,
+      "name": "We've already detailed how important it is\nwe expand the FrontierNav network ASAP.[ST:wait ]\n"
+    },
+    {
+      "$id": 43,
+      "label": "xs03010100_MSG0037",
+      "style": 0,
+      "name": "So for the time being, I'll just remind you of the highlights:[ST:wait ]\n"
+    },
+    {
+      "$id": 44,
+      "label": "xs03010100_MSG0038",
+      "style": 0,
+      "name": "It helps us keep BLADEs safe, it helps us keep the city safe,[ST:wait ]\n"
+    },
+    {
+      "$id": 45,
+      "label": "xs03010100_MSG0039",
+      "style": 0,
+      "name": "and most important of all, it's the key to locating the missing\nparts of the Lifehold and recovering the rest of the human race.[ST:wait ]\n"
+    },
+    {
+      "$id": 46,
+      "label": "xs03010100_MSG0040",
+      "style": 0,
+      "name": "Okay, next up—Interceptors.[ST:wait ]\n"
+    },
+    {
+      "$id": 47,
+      "label": "xs03010100_MSG0041",
+      "style": 0,
+      "name": "You met Akulov and Evans, right? Irina and Gwin?\nThis is their division.[ST:wait ]\n"
+    },
+    {
+      "$id": 48,
+      "label": "xs03010100_MSG0042",
+      "style": 0,
+      "name": "Interceptors have one main duty:[ST:wait ]\n"
+    },
+    {
+      "$id": 49,
+      "label": "xs03010100_MSG0043",
+      "style": 0,
+      "name": "protect New LA and everyone in it\nfrom the wildlife here on Mira.[ST:wait ]\n"
+    },
+    {
+      "$id": 50,
+      "label": "xs03010100_MSG0044",
+      "style": 0,
+      "name": "Right now, this is probably our busiest division.[ST:wait ]\n"
+    },
+    {
+      "$id": 51,
+      "label": "xs03010100_MSG0045",
+      "style": 0,
+      "name": "Interceptors ride shotgun for the research eggheads,[ST:wait ]\n"
+    },
+    {
+      "$id": 52,
+      "label": "xs03010100_MSG0046",
+      "style": 0,
+      "name": "they escort VIPs around, and they help any other idiots\nwho get caught out there with their pants down.[ST:wait ]\n"
+    },
+    {
+      "$id": 53,
+      "label": "xs03010100_MSG0047",
+      "style": 0,
+      "name": "Next are the Harriers.[ST:wait ]\n"
+    },
+    {
+      "$id": 54,
+      "label": "xs03010100_MSG0048",
+      "style": 0,
+      "name": "Remember Doug Barrett?\nThe Skell pilot conducting the test flight with Lin?[ST:wait ]\n"
+    },
+    {
+      "$id": 55,
+      "label": "xs03010100_MSG0049",
+      "style": 0,
+      "name": "He's part of the Harriers.[ST:wait ]\n"
+    },
+    {
+      "$id": 56,
+      "label": "xs03010100_MSG0050",
+      "style": 0,
+      "name": "If you think of the Interceptors as defense,\nHarriers would be New LA's offense.[ST:wait ]\n"
+    },
+    {
+      "$id": 57,
+      "label": "xs03010100_MSG0051",
+      "style": 0,
+      "name": "They specialize in pre-emptive strikes\non clear and obvious threats.[ST:wait ]\n"
+    },
+    {
+      "$id": 58,
+      "label": "xs03010100_MSG0052",
+      "style": 0,
+      "name": "But ONLY on clear and obvious threats—they're not meant\nto go out and just blast any indigen that moves.[ST:wait ]\n"
+    },
+    {
+      "$id": 59,
+      "label": "xs03010100_MSG0053",
+      "style": 0,
+      "name": "Then you got your Reclaimers.[ST:wait ]\n"
+    },
+    {
+      "$id": 60,
+      "label": "xs03010100_MSG0054",
+      "style": 0,
+      "name": "These guys are in charge of finding\nthe other pieces of the White Whale.[ST:wait ]\n"
+    },
+    {
+      "$id": 61,
+      "label": "xs03010100_MSG0055",
+      "style": 0,
+      "name": "Among other things, that is...\nincluding anything of ours left behind after a battle.[ST:wait ]\n"
+    },
+    {
+      "$id": 62,
+      "label": "xs03010100_MSG0056",
+      "style": 0,
+      "name": "Skell debris, weapons, personal effects...\nIt can get a bit morbid, frankly, but it's got to be done.[ST:wait ]\n"
+    },
+    {
+      "$id": 63,
+      "label": "xs03010100_MSG0057",
+      "style": 0,
+      "name": "Until we're up and running here on Mira\nand have this place completely figured out,[ST:wait ]\n"
+    },
+    {
+      "$id": 64,
+      "label": "xs03010100_MSG0058",
+      "style": 0,
+      "name": "everything we brought from Earth needs to be\ntreated like it's irreplaceable.[ST:wait ]\n"
+    },
+    {
+      "$id": 65,
+      "label": "xs03010100_MSG0059",
+      "style": 0,
+      "name": "Also, the search for the Lifehold—\nthat's mostly on the Reclaimers.[ST:wait ]\n"
+    },
+    {
+      "$id": 66,
+      "label": "xs03010100_MSG0060",
+      "style": 0,
+      "name": "Next: Curators.[ST:wait ]\n"
+    },
+    {
+      "$id": 67,
+      "label": "xs03010100_MSG0061",
+      "style": 0,
+      "name": "Curators are the first to scout ahead to unexplored territory,[ST:wait ]\n"
+    },
+    {
+      "$id": 68,
+      "label": "xs03010100_MSG0062",
+      "style": 0,
+      "name": "bringing back whatever samples they can get their hands on:\nfruits, bugs, sticks and stones—you name it.[ST:wait ]\n"
+    },
+    {
+      "$id": 69,
+      "label": "xs03010100_MSG0063",
+      "style": 0,
+      "name": "It's not all picking berries, though—being a Curator\nalso means being the first to encounter unknown indigens.[ST:wait ]\n"
+    },
+    {
+      "$id": 70,
+      "label": "xs03010100_MSG0064",
+      "style": 0,
+      "name": "Next...ah, right, Prospectors.[ST:wait ]\n"
+    },
+    {
+      "$id": 71,
+      "label": "xs03010100_MSG0065",
+      "style": 0,
+      "name": "Prospectors do...well, prospectin'.[ST:page p1=100 ]They poke around, looking for minerals, resources\nand what not—things we need for everyday life here.[ST:wait ]\n"
+    },
+    {
+      "$id": 72,
+      "label": "xs03010100_MSG0066",
+      "style": 0,
+      "name": "We packed all the essentials we could on the White Whale,\nbut that won't last forever.[ST:wait ]\n"
+    },
+    {
+      "$id": 73,
+      "label": "xs03010100_MSG0067",
+      "style": 0,
+      "name": "We need to be able to replenish our water and fuel\nif we want to survive.[ST:wait ]\n"
+    },
+    {
+      "$id": 74,
+      "label": "xs03010100_MSG0068",
+      "style": 0,
+      "name": "And sooner or later, we're gonna have to figure out\nhow to replace things from scratch—[ST:wait ]\n"
+    },
+    {
+      "$id": 75,
+      "label": "xs03010100_MSG0069",
+      "style": 0,
+      "name": "from the socket on a Skell's knee joint,\nright down to the frying pan in Lin's kitchen.[ST:wait ]\n"
+    },
+    {
+      "$id": 76,
+      "label": "xs03010100_MSG0070",
+      "style": 0,
+      "name": "Without these guys bustin' their butts,\nwe'd have no future to speak of.[ST:wait ]\n"
+    },
+    {
+      "$id": 77,
+      "label": "xs03010100_MSG0071",
+      "style": 0,
+      "name": "Next up: Outfitters.[ST:wait ]\n"
+    },
+    {
+      "$id": 78,
+      "label": "xs03010100_MSG0072",
+      "style": 0,
+      "name": "All of our ground gear and Skell weaponry is developed\nin conjunction with private arms manufacturers, or AMs.[ST:wait ]\n"
+    },
+    {
+      "$id": 79,
+      "label": "xs03010100_MSG0073",
+      "style": 0,
+      "name": "Outfitters are BLADE's way of supporting these AMs.[ST:wait ]\n"
+    },
+    {
+      "$id": 80,
+      "label": "xs03010100_MSG0074",
+      "style": 0,
+      "name": "They'll seek out anything that might inspire new weapon ideas,[ST:wait ]\n"
+    },
+    {
+      "$id": 81,
+      "label": "xs03010100_MSG0075",
+      "style": 0,
+      "name": "and even assist with testing new prototypes.[ST:wait ]\n"
+    },
+    {
+      "$id": 82,
+      "label": "xs03010100_MSG0076",
+      "style": 0,
+      "name": "Finally, the Mediators.[ST:wait ]\n"
+    },
+    {
+      "$id": 83,
+      "label": "xs03010100_MSG0077",
+      "style": 0,
+      "name": "These are the folks who keep everything hunky-dory\nwith Jon and Joan Q. Public.[ST:wait ]\n"
+    },
+    {
+      "$id": 84,
+      "label": "xs03010100_MSG0078",
+      "style": 0,
+      "name": "Any problems a civvy has, they come to Mediators.\nFight with your neighbor? Mediators. Lost cat? Mediators.[ST:wait ]\n"
+    },
+    {
+      "$id": 85,
+      "label": "xs03010100_MSG0079",
+      "style": 0,
+      "name": "It's not a division for everyone.\nYou need to be a jack of all trades, and a people person.[ST:wait ]\n"
+    },
+    {
+      "$id": 86,
+      "label": "xs03010100_MSG0080",
+      "style": 0,
+      "name": "Someone with my charming personality?\nProbably not the best Mediator.[ST:wait ]\n"
+    },
+    {
+      "$id": 87,
+      "label": "xs03010100_MSG0081",
+      "style": 0,
+      "name": "But if you got what it takes, it's a clutch role,\nkeeping things cool on the home front.[ST:wait ]\n"
+    },
+    {
+      "$id": 88,
+      "label": "xs03010100_MSG0082",
+      "style": 0,
+      "name": "All right, so, I think that's all eight divisions.[ST:wait ]\n"
+    },
+    {
+      "$id": 89,
+      "label": "xs03010100_MSG0083",
+      "style": 0,
+      "name": "Any idea which one you'd like to join?[ST:wait ]\n"
+    },
+    {
+      "$id": 90,
+      "label": "xs03010100_MSG0084",
+      "style": 0,
+      "name": "Don't fret about it too much—whichever you choose,\nyou still have a lot of freedom in how you operate.[ST:wait ]\n"
+    },
+    {
+      "$id": 91,
+      "label": "xs03010100_MSG0085",
+      "style": 0,
+      "name": "Mediators can still get out there and mix it up,\nhunt indigens, whatever.[ST:wait ]\n"
+    },
+    {
+      "$id": 92,
+      "label": "xs03010100_MSG0086",
+      "style": 0,
+      "name": "And if a Harrier wants to take a break\nand settle an argument, that's their prerogative, too.[ST:wait ]\n"
+    },
+    {
+      "$id": 93,
+      "label": "xs03010100_MSG0087",
+      "style": 0,
+      "name": "To be honest? Even though it's sort of frowned upon,\nyou can actually change your division whenever you like.[ST:wait ]\n"
+    },
+    {
+      "$id": 94,
+      "label": "xs03010100_MSG0088",
+      "style": 0,
+      "name": "So there's really no reason to stress about this.\nAll right, you ready to choose?[ST:wait ]\n"
+    },
+    {
+      "$id": 95,
+      "label": "xs03010100_JNK0030",
+      "style": 4,
+      "name": "Decide"
+    },
+    {
+      "$id": 96,
+      "label": "xs03010100_SEL0031",
+      "style": 3,
+      "name": "Say you're ready to choose a division."
+    },
+    {
+      "$id": 97,
+      "label": "xs03010100_JNK0040",
+      "style": 4,
+      "name": "Hesitate"
+    },
+    {
+      "$id": 98,
+      "label": "xs03010100_SEL0041",
+      "style": 3,
+      "name": "Ask to explain the divisions again."
+    },
+    {
+      "$id": 99,
+      "label": "xs03010100_MSG0089",
+      "style": 0,
+      "name": "Oh, for the love of—\nFINE, once more from the top:[ST:wait ]\n"
+    },
+    {
+      "$id": 100,
+      "label": "xs03010100_MSG0090",
+      "style": 0,
+      "name": "Yeah, and...? We're on pins and needles here.[ST:wait ]\n"
+    },
+    {
+      "$id": 101,
+      "label": "xs03010100_JNK0050",
+      "style": 4,
+      "name": "Confirm"
+    },
+    {
+      "$id": 102,
+      "label": "xs03010100_SEL0051",
+      "style": 3,
+      "name": "Select your division."
+    },
+    {
+      "$id": 103,
+      "label": "xs03010100_JNK0060",
+      "style": 4,
+      "name": "Hesitate"
+    },
+    {
+      "$id": 104,
+      "label": "xs03010100_SEL0061",
+      "style": 3,
+      "name": "Ask to explain the divisions again."
+    },
+    {
+      "$id": 105,
+      "label": "xs03010100_MSG0091",
+      "style": 0,
+      "name": "Then it's settled?[ST:wait ]\n"
+    },
+    {
+      "$id": 106,
+      "label": "xs03010100_JNK0070",
+      "style": 4,
+      "name": "Confirm"
+    },
+    {
+      "$id": 107,
+      "label": "xs03010100_SEL0071",
+      "style": 3,
+      "name": "Tell Elma it's settled."
+    },
+    {
+      "$id": 108,
+      "label": "xs03010100_JNK0080",
+      "style": 4,
+      "name": "Reconsider"
+    },
+    {
+      "$id": 109,
+      "label": "xs03010100_SEL0081",
+      "style": 3,
+      "name": "Ask to choose a different division."
+    },
+    {
+      "$id": 110,
+      "label": "xs03010100_MSG0092",
+      "style": 0,
+      "name": "All right! Thank God that's over...[ST:wait ]\n"
+    },
+    {
+      "$id": 111,
+      "label": "xs03010100_MSG0092_2",
+      "style": 0,
+      "name": "By the power invested in me, yadda yadda:\nYou're officially a BLADE.[ST:wait ]\n"
+    },
+    {
+      "$id": 112,
+      "label": "xs03010100_MSG0093",
+      "style": 0,
+      "name": "Congrats, and welcome.[ST:wait ]\n"
+    },
+    {
+      "$id": 113,
+      "label": "xs03010100_MSG0094",
+      "style": 0,
+      "name": "I know you're gonna do great.[ST:wait ]\n"
+    }
+  ]
+}

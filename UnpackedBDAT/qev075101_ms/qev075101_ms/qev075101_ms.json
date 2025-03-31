@@ -1,0 +1,348 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev075101_MSG0001",
+      "style": 1,
+      "name": "Come! Let us do this![ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev075101_JNK0010",
+      "style": 4,
+      "name": "Ask His Name"
+    },
+    {
+      "$id": 3,
+      "label": "qev075101_SEL0011",
+      "style": 3,
+      "name": "Inquire about the Wrothian's name."
+    },
+    {
+      "$id": 4,
+      "label": "qev075101_JNK0020",
+      "style": 4,
+      "name": "Ask His Plan"
+    },
+    {
+      "$id": 5,
+      "label": "qev075101_SEL0021",
+      "style": 3,
+      "name": "Find out what the Wrothian wants to do."
+    },
+    {
+      "$id": 6,
+      "label": "qev075101_JNK0030",
+      "style": 4,
+      "name": "Refuse Outright"
+    },
+    {
+      "$id": 7,
+      "label": "qev075101_SEL0031",
+      "style": 3,
+      "name": "Turn him down, just to be safe."
+    },
+    {
+      "$id": 8,
+      "label": "qev075101_MSG0002",
+      "style": 1,
+      "name": "I am Gi Zang, survivor of the Hundred Hellions![ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev075101_MSG0003",
+      "style": 1,
+      "name": "I am on a journey to hone my fighting skills by facing\npowerful warriors such as yourself.[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev075101_MSG0004",
+      "style": 1,
+      "name": "Two warriors meet and you have to ask what they do?\nHa! Choose your weapon, [ST:gender p1=sir p2=madam ]![ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev075101_MSG0005",
+      "style": 1,
+      "name": "Whaaat? Why not? Come on, please?[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev075101_MSG0006",
+      "style": 1,
+      "name": "Um, I mean... Very well! Come find me if you change\nyour mind, bold warrior![ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev075101_MSG0007",
+      "style": 1,
+      "name": "But first, I must ask you to hunt a vice simius or\n10 faded adseculas.[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev075101_MSG0008",
+      "style": 1,
+      "name": "One must always warm up before a battle, eh?\nSo what say you? Are you prepared?[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev075101_MSG0009",
+      "style": 1,
+      "name": "Yes, yes, YES! I cannot wait to prove how the strength\nand pride of the Hundred Hellions lives on![ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev075101_JNK0040",
+      "style": 4,
+      "name": "Calm"
+    },
+    {
+      "$id": 17,
+      "label": "qev075101_SEL0041",
+      "style": 3,
+      "name": "Encourage Gi Zang to take a deep breath."
+    },
+    {
+      "$id": 18,
+      "label": "qev075101_JNK0050",
+      "style": 4,
+      "name": "Rouse"
+    },
+    {
+      "$id": 19,
+      "label": "qev075101_SEL0051",
+      "style": 3,
+      "name": "Match your enthusiasm to Gi Zang's."
+    },
+    {
+      "$id": 20,
+      "label": "qev075101_MSG0010",
+      "style": 1,
+      "name": "Ha ha ha! You do a fine job of hiding it,\nbut I smell the bloodlust burning within you.[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev075101_MSG0011",
+      "style": 1,
+      "name": "We are the same then, you and I.[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev075101_MSG0012",
+      "style": 1,
+      "name": "Now begin the hunt, for neither of us shall make\nprogress by standing about.[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev075101_MSG0013",
+      "style": 1,
+      "name": "Well, friend? Have you defeated the mark I set?[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev075101_MSG0014",
+      "style": 1,
+      "name": "Ah, you chose the vice simius for your prey?\nA bold choice![ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev075101_MSG0015",
+      "style": 1,
+      "name": "So you defeated the 10 faded adseculas? They are\nquick as lightning. A true challenge for a warrior![ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev075101_MSG0016",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 27,
+      "label": "qev075101_MSG0017",
+      "style": 1,
+      "name": "It seems I have found myself the best training partner a\nwarrior could hope for![ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev075101_MSG0018",
+      "style": 1,
+      "name": "Now then...let us begin![ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev075101_MSG0019",
+      "style": 1,
+      "name": "...What's that? You wish to know who lies passed-out\nbefore you?[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev075101_MSG0020",
+      "style": 1,
+      "name": "He is a quick-mouthed braggart who challenged me to\na duel. I made sure to silence his yawp quickly.[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev075101_MSG0021",
+      "style": 1,
+      "name": "He was disappointingly frail for such a large foe.\nOne punch, and he struck dirt like a sack of old hams.\nI believe he said his name was...Tolba Wolfen?[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev075101_JNK0060",
+      "style": 4,
+      "name": "Beware"
+    },
+    {
+      "$id": 33,
+      "label": "qev075101_SEL0061",
+      "style": 3,
+      "name": "Raise your guard as you realize the\nfull potential of Gi Zang's strength."
+    },
+    {
+      "$id": 34,
+      "label": "qev075101_JNK0070",
+      "style": 4,
+      "name": "Worry"
+    },
+    {
+      "$id": 35,
+      "label": "qev075101_SEL0071",
+      "style": 3,
+      "name": "Ask Tolba if he's all right."
+    },
+    {
+      "$id": 36,
+      "label": "qev075101_MSG0022",
+      "style": 1,
+      "name": "Ah! I sense a change in both temperament and form!\nIs this your ready-for-anything stance?[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev075101_MSG0023",
+      "style": 1,
+      "name": "You're sharp, warrior. I'd best stay on guard myself,\nor this could be over before I know it.[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev075101_MSG0024",
+      "style": 1,
+      "name": "Worry not—I avoided striking any vital organs.\nHe should come around soon enough.[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "qev075101_MSG0025",
+      "style": 1,
+      "name": "Mostly I'm impressed that you're worrying about him\njust before fighting the one who put him down.\nAre you truly so sure of yourself?[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "qev075101_MSG0026",
+      "style": 1,
+      "name": "I shall be eager to see whether that confidence comes\nfrom a lifetime of training or just empty optimism.[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "qev075101_MSG0027",
+      "style": 1,
+      "name": "We've had our warm-ups. From this point forth,\nI hold nothing back![ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "qev075101_MSG0028",
+      "style": 1,
+      "name": "I am Gi Zang, last survivor of the Hundred Hellions\nand inheritor of my master's sword. I draw it now![ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "qev075101_MSG0029",
+      "style": 1,
+      "name": "Unstoppable and unassailable, our strength was the\nunsung pillar that kept the Wrothians standing.\nNow prepare to see it for yourself![ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "qev075101_MSG0030",
+      "style": 1,
+      "name": "You are strong, warrior. And while I may have lost,\nit was the most fun I've had in an age![ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "qev075101_JNK0080",
+      "style": 4,
+      "name": "Agree"
+    },
+    {
+      "$id": 46,
+      "label": "qev075101_SEL0081",
+      "style": 3,
+      "name": "Tell Gi Zang that you enjoyed it as well."
+    },
+    {
+      "$id": 47,
+      "label": "qev075101_JNK0090",
+      "style": 4,
+      "name": "Disagree"
+    },
+    {
+      "$id": 48,
+      "label": "qev075101_SEL0091",
+      "style": 3,
+      "name": "Tell Gi Zang that you're far from satisfied."
+    },
+    {
+      "$id": 49,
+      "label": "qev075101_MSG0031",
+      "style": 1,
+      "name": "My master always used to say a true warrior finds joy\nin the direst of situations.[ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "qev075101_MSG0032",
+      "style": 1,
+      "name": "Watching you, I feel as if I finally understand what he\nmeant.[ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "qev075101_MSG0033",
+      "style": 1,
+      "name": "Ha ha ha! You truly hunger for battle, my friend!\nI do not think there are many who could rival that,\neven amongst the Wrothians.[ST:wait ]"
+    },
+    {
+      "$id": 52,
+      "label": "qev075101_MSG0034",
+      "style": 1,
+      "name": "You are in all ways a warrior![ST:wait ]"
+    },
+    {
+      "$id": 53,
+      "label": "qev075101_MSG0035",
+      "style": 1,
+      "name": "Here's a little thank-you for fighting me. Go on, take it.\nI won't take no for an answer.[ST:wait ]"
+    },
+    {
+      "$id": 54,
+      "label": "qev075101_MSG0036",
+      "style": 1,
+      "name": "I swore to grow stronger, to both my master and\nto Prince Jiarg when he granted me leave to take\nthis journey.[ST:wait ]"
+    },
+    {
+      "$id": 55,
+      "label": "qev075101_MSG0037",
+      "style": 1,
+      "name": "The next time we fight, I will not lose![ST:wait ]"
+    }
+  ]
+}

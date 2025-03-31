@@ -1,0 +1,180 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev000895_MSG0001",
+      "style": 1,
+      "name": "Hey, [ST:playername ].[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev000895_MSG0002",
+      "style": 1,
+      "name": "So did you live in a house like this when you were\nback on Earth?[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev000895_JNK0010",
+      "style": 4,
+      "name": "Affirm[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev000895_SEL0011",
+      "style": 3,
+      "name": "Say you have a vague memory of that.[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev000895_JNK0020",
+      "style": 4,
+      "name": "Deny[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "tev000895_SEL0021",
+      "style": 3,
+      "name": "Say you probably lived in an apartment.[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "tev000895_JNK0030",
+      "style": 4,
+      "name": "Shrug[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "tev000895_SEL0031",
+      "style": 3,
+      "name": "Say you have no idea.[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "tev000895_MSG0010",
+      "style": 1,
+      "name": "Huh, so you do have at least SOME hazy memories\nabout stuff like that?[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "tev000895_MSG0011",
+      "style": 1,
+      "name": "I bet you lived in a big house, played with your dog\nin the yard, and held house parties on weekends.\nYou probably tore it UP![ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev000895_MSG0012",
+      "style": 1,
+      "name": "I don't really remember doing anything like that.\nWhen I try to think back to how I used to live,\nI get a big old pile of crap.[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "tev000895_MSG0013",
+      "style": 1,
+      "name": "I don't remember playin' basketball in the yard,\nor riding around in a car my parents bought for me...[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "tev000895_MSG0014",
+      "style": 1,
+      "name": "I thought you and me were in the same boat,\nbut now I'm startin' to think we probably ain't.[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "tev000895_MSG0016",
+      "style": 1,
+      "name": "Yeah, that's a possibility.[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "tev000895_MSG0017",
+      "style": 1,
+      "name": "I don't remember much, but I know I never lived in\na house like this.[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "tev000895_MSG0018",
+      "style": 1,
+      "name": "I don't remember playin' basketball in the yard,\nor riding around in a car my parents bought for me...[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "tev000895_MSG0019",
+      "style": 1,
+      "name": "But if you lived in an apartment, maybe I did too?[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "tev000895_MSG0020",
+      "style": 1,
+      "name": "Yeah, that sounds kinda familiar. Heh. I think I used\nto get in fights with the rocker next door for playin' his\ncrappy guitar at all goddamn hours of the night![ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "tev000895_MSG0022",
+      "style": 1,
+      "name": "Ah, you don't remember neither, huh?[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "tev000895_MSG0023",
+      "style": 1,
+      "name": "There must be some sort of glitch in the way the\nLifehold preserves memories.[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "tev000895_MSG0024",
+      "style": 1,
+      "name": "If everyone loses their memories like us,\nthen Project Exodus won't mean squat!\nThey better get the damn thing fixed...[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "tev000895_MSG0026",
+      "style": 1,
+      "name": "Well, I'm headin' back to the administrative district.[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "tev000895_MSG0027",
+      "style": 1,
+      "name": "I gotta go talk to Eleonora. I've been asked if I'd\nbe interested in a transfer to the Harriers division.[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "tev000895_MSG0028",
+      "style": 1,
+      "name": "And yeah, I'm open to it. This seems like a good time\nto get out of the debris-hunting game.[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "tev000895_MSG0029",
+      "style": 1,
+      "name": "But I've also made some close friends in the Reclaimers.\nSo I'm gonna talk it over with Eleonora and then give\nit a good think.[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "tev000895_MSG0030",
+      "style": 1,
+      "name": "But wherever I end up, I'm still me. So if there's ever\nanything you need, I'm your man.[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "tev000895_MSG0031",
+      "style": 1,
+      "name": "Let's keep on kickin' this planet's ass![ST:wait ]"
+    }
+  ]
+}

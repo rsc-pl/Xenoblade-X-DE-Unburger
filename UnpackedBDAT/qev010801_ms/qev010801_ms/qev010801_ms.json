@@ -1,0 +1,312 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev010801_MSG0001",
+      "style": 1,
+      "name": "So we got orders to go check out this cave or whatever\nup north? But I'm thinking, \"Hey, can we not?\"[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev010801_MSG0002",
+      "style": 1,
+      "name": "You're a BLADE, right? You know what it's like.\nYou been saddled with any annoying missions lately?[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev010801_JNK0010",
+      "style": 4,
+      "name": "Nod"
+    },
+    {
+      "$id": 4,
+      "label": "qev010801_SEL0011",
+      "style": 3,
+      "name": "Complain that you've got some pretty\nannoying assignments yourself."
+    },
+    {
+      "$id": 5,
+      "label": "qev010801_JNK0020",
+      "style": 4,
+      "name": "Chide"
+    },
+    {
+      "$id": 6,
+      "label": "qev010801_SEL0021",
+      "style": 3,
+      "name": "Remind Carl that every last assignment is important."
+    },
+    {
+      "$id": 7,
+      "label": "qev010801_MSG0003",
+      "style": 1,
+      "name": "Ha! Sounds like you and me have a lot in common.\nAt least now we both have a friend to vent with.[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev010801_MSG0004",
+      "style": 1,
+      "name": "And speaking of, get a load of this.[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev010801_MSG0005",
+      "style": 1,
+      "name": "Sheesh. So serious! Doesn't it get exhausting living your\nlife like that? Loosen up that tie a little![ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev010801_MSG0006",
+      "style": 1,
+      "name": "Anyway, why don't you sit there quietly and listen\nto me gripe about work, all right?[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev010801_MSG0007",
+      "style": 1,
+      "name": "So this cave, right? That we're supposed to look at?\nTotal nest of nasty monsters. Because, of course.[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev010801_MSG0008",
+      "style": 1,
+      "name": "And they're like, \"It could be dangerous to leave them\nalive!\" Which is secret big brass code for \"Go kill 'em\nall, grunt!\" Which, just...ugh.[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev010801_MSG0009",
+      "style": 1,
+      "name": "Man, I just don't get it. Why does Trevor keep\ndumping the awful jobs on ME?[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev010801_MSG0010",
+      "style": 1,
+      "name": "Maybe if I wait long enough, some lone combat nut\nwill stumble across the cave and go all commando.\nTake care of it for me.[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev010801_MSG0011",
+      "style": 1,
+      "name": "......[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev010801_MSG0012",
+      "style": 1,
+      "name": "Wait, I saw that look. That was totally a look!\nYou want this job, don't you?[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev010801_MSG0013",
+      "style": 1,
+      "name": "Seriously? You'll really go? Holy smokes, I can't\nBELIEVE that worked! I should have tried it ages ago.[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev010801_MSG0014",
+      "style": 1,
+      "name": "Okay then. First, you should just go scout the cave out,\nyou know? If you leave through the west gate, it's a\nlittle bit north.[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev010801_MSG0015",
+      "style": 1,
+      "name": "I know it might sound a little hypocritical of me to say\nthis, but...weren't those animals all here first?[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev010801_MSG0016",
+      "style": 1,
+      "name": "Then we crash-land, slap a city down on their planet,\nand start blasting everything we see. Kinda makes us\nseem like the bad guys, you know?[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev010801_MSG0017",
+      "style": 1,
+      "name": "Oh well. Toss that moral burden on the pile of reasons\nwhy I can't be bothered. Anyway, cave's out the west\ngate and a bit north. Thanks![ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev010801_MSG0018",
+      "style": 1,
+      "name": "Hey, welcome back!\nHow'd the native-animal slaughter thing go?[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev010801_MSG0019",
+      "style": 1,
+      "name": "...How's that again? You killed the piglets?\nThen the mama came out and you killed her, too?[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev010801_MSG0020",
+      "style": 1,
+      "name": "Ugh. Killing a parent trying to protect its children\nis just...damn. That's heavy stuff, [ST:gender p1=brother p2=sister ].[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev010801_MSG0021",
+      "style": 1,
+      "name": "I mean, they were just one big happy family till we\nshowed up. Probably had holiday dinner together and\neverything. Pictures hanging in the living room...[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev010801_MSG0022",
+      "style": 1,
+      "name": "But then WE come along and just senselessly murder\nthe entire family for our convenience! How messed up\nis THAT?![ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev010801_JNK0030",
+      "style": 4,
+      "name": "Agree"
+    },
+    {
+      "$id": 28,
+      "label": "qev010801_SEL0031",
+      "style": 3,
+      "name": "Agree that it's pretty messed up."
+    },
+    {
+      "$id": 29,
+      "label": "qev010801_JNK0040",
+      "style": 4,
+      "name": "Disagree"
+    },
+    {
+      "$id": 30,
+      "label": "qev010801_SEL0041",
+      "style": 3,
+      "name": "Assert that anything standing in the way\nof mankind's survival must be eliminated!"
+    },
+    {
+      "$id": 31,
+      "label": "qev010801_MSG0023",
+      "style": 1,
+      "name": "What a bummer. I am so bummed right now.[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev010801_MSG0024",
+      "style": 1,
+      "name": "Uh, okay? Kind of a psycho answer if you ask me,\nbut I'm not about to argue with the person who just\ngave it.[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev010801_MSG0025",
+      "style": 1,
+      "name": "Still, I WAS the one who sent you out there,\nso I'm going to pay you.[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev010801_MSG0026",
+      "style": 1,
+      "name": "This whole thing leaves a bad taste in my mouth.\nBleaaaarrrgh...[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev010801_MSG0027",
+      "style": 1,
+      "name": "Hey, welcome back!\nHow'd the native-animal slaughter thing go?[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev010801_MSG0028",
+      "style": 1,
+      "name": "Oh, you let 'em go?[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev010801_MSG0029",
+      "style": 1,
+      "name": "No, I totally get it. Monsters or not, you'd still feel bad\nabout killing kids.[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev010801_JNK0050",
+      "style": 4,
+      "name": "Agree"
+    },
+    {
+      "$id": 39,
+      "label": "qev010801_SEL0051",
+      "style": 3,
+      "name": "Nod in agreement."
+    },
+    {
+      "$id": 40,
+      "label": "qev010801_JNK0060",
+      "style": 4,
+      "name": "Worry"
+    },
+    {
+      "$id": 41,
+      "label": "qev010801_SEL0061",
+      "style": 3,
+      "name": "Express concern that you\nmay have hurt the mission."
+    },
+    {
+      "$id": 42,
+      "label": "qev010801_MSG0030",
+      "style": 1,
+      "name": "I'm so glad I asked someone nice like you,\n[ST:playername ].[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "qev010801_MSG0031",
+      "style": 1,
+      "name": "Aw, don't worry about it. We'll figure out some other\nway to fix the problem that doesn't involve killing\ninnocent children.[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "qev010801_MSG0032",
+      "style": 1,
+      "name": "Here—I swiped this from storage.\nIt's not much, but help yourself![ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "qev010801_MSG0033",
+      "style": 1,
+      "name": "I'll take it from here. My superior, Trevor, will probably\nhave some ideas on how to proceed.[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "qev010801_MSG0034",
+      "style": 1,
+      "name": "Heh, doing good always gets me pumped.\nWhat a rush, right?![ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "qev010801_MSG0035",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 48,
+      "label": "qev010801_MSG0036",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 49,
+      "label": "qev010801_MSG0037",
+      "style": 1,
+      "name": ""
+    }
+  ]
+}

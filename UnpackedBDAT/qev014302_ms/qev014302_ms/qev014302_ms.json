@@ -1,0 +1,282 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev014302_MSG0001",
+      "style": 1,
+      "name": "Ho! Friend has come!\nEliza tell Cheche to expect you.[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev014302_MSG0002",
+      "style": 1,
+      "name": "Cheche assume friend has come here to make dealings?[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev014302_JNK0010",
+      "style": 4,
+      "name": "Get to the Point"
+    },
+    {
+      "$id": 4,
+      "label": "qev014302_SEL0011",
+      "style": 3,
+      "name": "Ask Cheche for all the info he has on Alex."
+    },
+    {
+      "$id": 5,
+      "label": "qev014302_JNK0020",
+      "style": 4,
+      "name": "Make Small Talk"
+    },
+    {
+      "$id": 6,
+      "label": "qev014302_SEL0021",
+      "style": 3,
+      "name": "Ask Cheche for info about himself."
+    },
+    {
+      "$id": 7,
+      "label": "qev014302_MSG0003",
+      "style": 1,
+      "name": "So impatient![ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev014302_MSG0004",
+      "style": 1,
+      "name": "Friend is like that noisy girl who follows Eliza around.[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev014302_MSG0005",
+      "style": 1,
+      "name": "Be patient. Informations not going anywhere.\nFriend must calm down and listen to Cheche.[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev014302_MSG0006",
+      "style": 1,
+      "name": "Cheche been doing informations trade for 50 years![ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev014302_MSG0007",
+      "style": 1,
+      "name": "Network of Cheche best on all of Mira.\nNopon across planet bring Cheche hot, tasty tips.[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev014302_MSG0008",
+      "style": 1,
+      "name": "Tip for friend comes from very reliable source.\nFriend should be grateful![ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev014302_MSG0009",
+      "style": 1,
+      "name": "So then! Friend is knowing that someone shot Eliza\nand ran like big coward, right?[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev014302_MSG0010",
+      "style": 1,
+      "name": "Well, friend of Cheche saw same man meet Alex in\nNew LA to pick up Skell.[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev014302_MSG0011",
+      "style": 1,
+      "name": "When friend of Cheche report this,\nCheche have him follow Alex![ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev014302_MSG0012",
+      "style": 1,
+      "name": "That way Cheche also learn supersecret hiding spot\nof bad humans.[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev014302_MSG0013",
+      "style": 1,
+      "name": "Cheche pretty amazing, yes? Product of 50 years\nexperience in secrets business.[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev014302_MSG0014",
+      "style": 1,
+      "name": "...Speaking of business. Cheche offering whereabouts of\nAlex. This very good informations, yes?[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev014302_MSG0015",
+      "style": 1,
+      "name": "Friend of Cheche risked life for this tip!\nCheche cannot sell for pocket change and lint.[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev014302_MSG0016",
+      "style": 1,
+      "name": "Cheche will charge low, low price of 10,000 credits.\nBargain of century, yes?[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev014302_JNK0110",
+      "style": 4,
+      "name": "Agree"
+    },
+    {
+      "$id": 22,
+      "label": "qev014302_SEL0111",
+      "style": 3,
+      "name": "Pay Cheche 10,000 credits."
+    },
+    {
+      "$id": 23,
+      "label": "qev014302_JNK0120",
+      "style": 4,
+      "name": "Refuse"
+    },
+    {
+      "$id": 24,
+      "label": "qev014302_SEL0121",
+      "style": 3,
+      "name": "Tell Cheche he's charging too much."
+    },
+    {
+      "$id": 25,
+      "label": "qev014302_MSG0017",
+      "style": 1,
+      "name": "Cheche thank friend for business![ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev014302_MSG0018",
+      "style": 1,
+      "name": "Alex in Cauldros, negotiating with smelly Ganglion\neven as friend speaks.[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev014302_MSG0019",
+      "style": 1,
+      "name": "Cheche send coordinates to friend so [ST:gender p1=he p2=she ] can go beat\nup bad men.[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev014302_MSG0020",
+      "style": 1,
+      "name": "Cheche is also wanting to help Eliza.\nFriend must believe![ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev014302_MSG0021",
+      "style": 1,
+      "name": "But this business. If Cheche give away tips for free\nand starve to death, then tips die out too.[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev014302_MSG0022",
+      "style": 1,
+      "name": "Friend should come back with more money soon.[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev014302_MSG0023",
+      "style": 1,
+      "name": "Hoy! Friend is very poor! This makes Cheche sad.\nRegardless, no deal.[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev014302_MSG0024",
+      "style": 1,
+      "name": "If friend want to know where Alex is,\nfriend should get that money.[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev014302_MSG0025",
+      "style": 1,
+      "name": "Well? Has friend decided to buy information on\nlocation of Alex?[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev014302_MSG0026",
+      "style": 1,
+      "name": "Ho ho! Cheche cut special deal.\nOnly 10,000 credits![ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev014302_MSG0027",
+      "style": 1,
+      "name": "Hoy! Cheche thank friend for business![ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev014302_MSG0028",
+      "style": 1,
+      "name": "Alex in Cauldros, negotiating with smelly Ganglion\neven as friend speaks.[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev014302_MSG0029",
+      "style": 1,
+      "name": "Cheche send coordinates to friend so [ST:gender p1=he p2=she ] can go beat\nup bad men.[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev014302_MSG0030",
+      "style": 1,
+      "name": "Cheche is also wanting to help Eliza.\nFriend must believe![ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "qev014302_MSG0031",
+      "style": 1,
+      "name": "But this is business. If Cheche give away tips for free\nand starve to death, then no one have tips.[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "qev014302_MSG0032",
+      "style": 1,
+      "name": "Friend should come back with more money soon.[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "qev014302_MSG0035",
+      "style": 1,
+      "name": "Alex in Cauldros. Go there and stop plans of bad men![ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "qev014302_MSG0036",
+      "style": 1,
+      "name": "Meanwhile, Cheche buy fabulous dinner.[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "qev014302_MSG0037",
+      "style": 1,
+      "name": "Ho! Cheche hear through network that friend has\ndefeated nasty Alex.[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "qev014302_MSG0038",
+      "style": 1,
+      "name": "Friend should hurry and tell Eliza.[ST:wait ]"
+    }
+  ]
+}

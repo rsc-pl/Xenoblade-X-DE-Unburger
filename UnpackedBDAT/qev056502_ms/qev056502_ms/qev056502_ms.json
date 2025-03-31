@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev056502_MSG0001",
+      "style": 1,
+      "name": "Hmm? Oh, hello. Did you need me for something?[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev056502_MSG0002",
+      "style": 1,
+      "name": "...The autosentries are malfunctioning? That's serious.[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev056502_MSG0003",
+      "style": 1,
+      "name": "If anything were to happen to the Biahno water-\npurification plant, we Orphe would not be able to\ncreate any more senirapa water.[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev056502_MSG0004",
+      "style": 1,
+      "name": "That simply cannot be allowed to happen.\nI will head to the plant at once.[ST:wait ]"
+    }
+  ]
+}

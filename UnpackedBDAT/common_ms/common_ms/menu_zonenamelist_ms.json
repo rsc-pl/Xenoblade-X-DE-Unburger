@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "menu_zone_NLA",
+      "style": 12,
+      "name": "New Los Angeles"
+    },
+    {
+      "$id": 2,
+      "label": "menu_zone_KOUYA",
+      "style": 12,
+      "name": "Primordia"
+    },
+    {
+      "$id": 3,
+      "label": "menu_zone_KEIKOKU",
+      "style": 12,
+      "name": "Oblivia"
+    },
+    {
+      "$id": 4,
+      "label": "menu_zone_MORI",
+      "style": 12,
+      "name": "Noctilum"
+    },
+    {
+      "$id": 5,
+      "label": "menu_zone_SIRO",
+      "style": 12,
+      "name": "Sylvalum"
+    },
+    {
+      "$id": 6,
+      "label": "menu_zone_KURO",
+      "style": 12,
+      "name": "Cauldros"
+    }
+  ]
+}

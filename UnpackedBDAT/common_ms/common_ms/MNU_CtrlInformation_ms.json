@@ -1,0 +1,702 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "CTRL_enter_cancel",
+      "style": 45,
+      "name": "[ST:icon p1=a ] Confirm [ST:icon p1=b ] Cancel"
+    },
+    {
+      "$id": 2,
+      "label": "CTRL_enter_cancel_submenu",
+      "style": 45,
+      "name": ""
+    },
+    {
+      "$id": 3,
+      "label": "CTRL_enter_cancel_submenu_camrot",
+      "style": 45,
+      "name": "[ST:icon p1=a ] Confirm [ST:icon p1=b ] Cancel [ST:icon p1=x ] Sub-Menu [ST:icon p1=anar ] Rotate"
+    },
+    {
+      "$id": 4,
+      "label": "CTRL_enter_cancel_submenu_size_camrot",
+      "style": 45,
+      "name": "[ST:icon p1=a ] Confirm [ST:icon p1=b ] Cancel [ST:icon p1=x ] Sub-Menu [ST:icon p1=crslr ] Resize [ST:icon p1=anar ] Rotate"
+    },
+    {
+      "$id": 5,
+      "label": "CTRL_enter_cancel_powerup",
+      "style": 45,
+      "name": "[ST:icon p1=a ] Add [ST:icon p1=b ] Cancel [ST:icon p1=x ] Upgrade"
+    },
+    {
+      "$id": 6,
+      "label": "CTRL_enter_cancel_list_filter",
+      "style": 45,
+      "name": "[ST:icon p1=a ] Set Navigation [ST:icon p1=b ] Cancel [ST:icon p1=x ] Enemy Index [ST:icon p1=y ] Filter"
+    },
+    {
+      "$id": 7,
+      "label": "CTRL_enter_cancel_filter",
+      "style": 45,
+      "name": "[ST:icon p1=a ] Confirm [ST:icon p1=b ] Cancel [ST:icon p1=y ] Filter"
+    },
+    {
+      "$id": 8,
+      "label": "CTRL_enter_cancel_filter_camrot",
+      "style": 45,
+      "name": ""
+    },
+    {
+      "$id": 9,
+      "label": "CTRL_enter_cancel_camrot",
+      "style": 45,
+      "name": "[ST:icon p1=a ] Confirm [ST:icon p1=b ] Cancel [ST:icon p1=anar ] Rotate"
+    },
+    {
+      "$id": 10,
+      "label": "CTRL_enter_submenu_camrot",
+      "style": 45,
+      "name": "[ST:icon p1=a ] Confirm [ST:icon p1=x ] Sub-Menu [ST:icon p1=anar ] Rotate"
+    },
+    {
+      "$id": 11,
+      "label": "CTRL_status_cancel_camrot",
+      "style": 45,
+      "name": "[ST:icon p1=a ] Toggle Display [ST:icon p1=b ] Cancel [ST:icon p1=anar ] Rotate"
+    },
+    {
+      "$id": 12,
+      "label": "CTRL_return_",
+      "style": 45,
+      "name": "[ST:icon p1=b ] Return"
+    },
+    {
+      "$id": 13,
+      "label": "CTRL_return_submenu",
+      "style": 45,
+      "name": "[ST:icon p1=b ] Return [ST:icon p1=x ] Sub-Menu"
+    },
+    {
+      "$id": 14,
+      "label": "CTRL_return_camrot",
+      "style": 45,
+      "name": "[ST:icon p1=b ] Return [ST:icon p1=anar ] Rotate"
+    },
+    {
+      "$id": 15,
+      "label": "CTRL_return_commov_camrot",
+      "style": 45,
+      "name": "[ST:icon p1=b ] Return [ST:icon p1=anal ] Move [ST:icon p1=anar ] Rotate/Zoom"
+    },
+    {
+      "$id": 16,
+      "label": "CTRL_enter_",
+      "style": 45,
+      "name": "[ST:icon p1=a ] Confirm"
+    },
+    {
+      "$id": 17,
+      "label": "CTRL_enter_cancel_coop_camrot",
+      "style": 45,
+      "name": ""
+    },
+    {
+      "$id": 18,
+      "label": "CTRL_enter_cancel_vsize_select",
+      "style": 45,
+      "name": "[ST:icon p1=a ] Character Info [ST:icon p1=b ] Cancel [ST:icon p1=crsud ] Zoom In/Out [ST:icon p1=anal ] Move Cursor"
+    },
+    {
+      "$id": 19,
+      "label": "CTRL_enter_cancel_reset",
+      "style": 45,
+      "name": "[ST:icon p1=a ] Confirm [ST:icon p1=b ] Return [ST:icon p1=x ] Restore Defaults"
+    },
+    {
+      "$id": 20,
+      "label": "CTRL_return_material_ajust_camrot",
+      "style": 45,
+      "name": "[ST:icon p1=b ] Return [ST:icon p1=y ] Change Finish [ST:icon p1=crslr ] Adjust [ST:icon p1=anar ] Rotate"
+    },
+    {
+      "$id": 21,
+      "label": "CTRL_ok_",
+      "style": 45,
+      "name": "[ST:icon p1=a ] Confirm"
+    },
+    {
+      "$id": 22,
+      "label": "CTRL_enter_cancel_choice",
+      "style": 45,
+      "name": "[ST:icon p1=a ] Confirm [ST:icon p1=b ] Cancel [ST:icon p1=x ] Restore Defaults [ST:icon p1=crslr ] Select"
+    },
+    {
+      "$id": 23,
+      "label": "CTRL_enter_cancel_ajust",
+      "style": 45,
+      "name": "[ST:icon p1=a ] Confirm [ST:icon p1=b ] Cancel [ST:icon p1=x ] Restore Defaults [ST:icon p1=crslr ] Adjust"
+    },
+    {
+      "$id": 24,
+      "label": "CTRL_enter_cancel_select",
+      "style": 45,
+      "name": "[ST:icon p1=a ] Confirm [ST:icon p1=b ] Cancel [ST:icon p1=zl ] [ST:icon p1=zr ] Switch Camera [ST:icon p1=crs ] Select"
+    },
+    {
+      "$id": 25,
+      "label": "CTRL_enter_cancel_info_charaselect",
+      "style": 45,
+      "name": "[ST:icon p1=a ] Confirm [ST:icon p1=b ] Cancel [ST:icon p1=x ] Character Profile [ST:icon p1=anal ] Select Affinity"
+    },
+    {
+      "$id": 26,
+      "label": "CTRL_enter_cancel_charaselect",
+      "style": 45,
+      "name": "[ST:icon p1=a ] Confirm [ST:icon p1=b ] Cancel [ST:icon p1=anal ] Select Affinity"
+    },
+    {
+      "$id": 27,
+      "label": "CTRL_enter_cancel_change",
+      "style": 45,
+      "name": "[ST:icon p1=a ] Confirm [ST:icon p1=b ] Cancel [ST:icon p1=crs ] Change"
+    },
+    {
+      "$id": 28,
+      "label": "CTRL_return_filter",
+      "style": 45,
+      "name": "[ST:icon p1=b ] Return [ST:icon p1=y ] Filter"
+    },
+    {
+      "$id": 29,
+      "label": "CTRL_enter_status",
+      "style": 45,
+      "name": "[ST:icon p1=a ] Confirm [ST:icon p1=x ] View Status"
+    },
+    {
+      "$id": 30,
+      "label": "CTRL_change_cancel_powerup_replace",
+      "style": 45,
+      "name": "[ST:icon p1=a ] Change [ST:icon p1=b ] Cancel [ST:icon p1=x ] Upgrade [ST:icon p1=y ] Change Position"
+    },
+    {
+      "$id": 31,
+      "label": "CTRL_change_cancel_powerup_off",
+      "style": 45,
+      "name": "[ST:icon p1=a ] Change [ST:icon p1=b ] Cancel [ST:icon p1=x ] Upgrade [ST:icon p1=y ] Remove"
+    },
+    {
+      "$id": 32,
+      "label": "CTRL_change_return",
+      "style": 45,
+      "name": "[ST:icon p1=a ] Change [ST:icon p1=b ] Return [ST:icon p1=y ] Sample Voice"
+    },
+    {
+      "$id": 33,
+      "label": "CTRL_sell_cancel_filter",
+      "style": 45,
+      "name": "[ST:icon p1=a ] Sell [ST:icon p1=b ] Cancel [ST:icon p1=x ] Sub-Menu [ST:icon p1=y ] Filter"
+    },
+    {
+      "$id": 34,
+      "label": "CTRL_sell_cancel",
+      "style": 45,
+      "name": "[ST:icon p1=a ] Sell [ST:icon p1=b ] Cancel"
+    },
+    {
+      "$id": 35,
+      "label": "CTRL_memberinfo_cancel_update",
+      "style": 45,
+      "name": "[ST:icon p1=a ] Member Info [ST:icon p1=b ] Cancel [ST:icon p1=x ] Refresh List"
+    },
+    {
+      "$id": 36,
+      "label": "CTRL_distribute_cancel",
+      "style": 45,
+      "name": "[ST:icon p1=a ] Invest Miranium [ST:icon p1=b ] Cancel"
+    },
+    {
+      "$id": 37,
+      "label": "CTRL_request_cancel_camrot",
+      "style": 45,
+      "name": "[ST:icon p1=a ] Scout [ST:icon p1=b ] Cancel [ST:icon p1=x ] Change Display [ST:icon p1=anar ] Rotate"
+    },
+    {
+      "$id": 38,
+      "label": "CTRL_cancel_off",
+      "style": 45,
+      "name": "[ST:icon p1=b ] Cancel [ST:icon p1=y ] Remove"
+    },
+    {
+      "$id": 39,
+      "label": "CTRL_cancel_replace",
+      "style": 45,
+      "name": "[ST:icon p1=b ] Cancel [ST:icon p1=y ] Change Position"
+    },
+    {
+      "$id": 40,
+      "label": "CTRL_get_getall_sellall",
+      "style": 45,
+      "name": "[ST:icon p1=a ] Take [ST:icon p1=y ] Take All [ST:icon p1=x ] Sell All"
+    },
+    {
+      "$id": 41,
+      "label": "CTRL_enter_cancel_submenu_filter_camrot",
+      "style": 45,
+      "name": "[ST:icon p1=a ] Confirm [ST:icon p1=b ] Cancel [ST:icon p1=x ] Sub-Menu [ST:icon p1=y ] Filter [ST:icon p1=anar ] Rotate"
+    },
+    {
+      "$id": 42,
+      "label": "CTRL_enter_cancel_submenu_filter_status_camrot",
+      "style": 45,
+      "name": "[ST:icon p1=a ] Confirm [ST:icon p1=b ] Cancel [ST:icon p1=x ] Sub-Menu [ST:icon p1=y ] Filter [ST:icon p1=r ] Toggle Display [ST:icon p1=anar ] Rotate"
+    },
+    {
+      "$id": 43,
+      "label": "CTRL_enter_cance_submenu_materiall_camrot",
+      "style": 45,
+      "name": "[ST:icon p1=a ] Confirm [ST:icon p1=b ] Cancel [ST:icon p1=x ] Sub-Menu [ST:icon p1=y ] Change Finish [ST:icon p1=anar ] Rotate"
+    },
+    {
+      "$id": 44,
+      "label": "CTRL_enter_cancel_sort_camrot",
+      "style": 45,
+      "name": "[ST:icon p1=a ] Confirm [ST:icon p1=b ] Cancel [ST:icon p1=y ] Sort [ST:icon p1=anar ] Rotate"
+    },
+    {
+      "$id": 45,
+      "label": "CTRL_enter_cancel_submenu_voice_camrot",
+      "style": 45,
+      "name": "[ST:icon p1=a ] Confirm [ST:icon p1=b ] Cancel [ST:icon p1=x ] Sub-Menu [ST:icon p1=y ] Sample Voice [ST:icon p1=anar ] Rotate"
+    },
+    {
+      "$id": 46,
+      "label": "CTRL_enter_cancel_submenu_camrot_end",
+      "style": 45,
+      "name": "[ST:icon p1=a ] Confirm [ST:icon p1=b ] Cancel [ST:icon p1=x ] Sub-Menu [ST:icon p1=anar ] Rotate [ST:icon p1=pls ] Quit"
+    },
+    {
+      "$id": 47,
+      "label": "CTRL_enter_cancel_submenu_size_camrot_end",
+      "style": 45,
+      "name": "[ST:icon p1=a ] Confirm [ST:icon p1=b ] Cancel [ST:icon p1=x ] Sub-Menu [ST:icon p1=crslr ] Resize [ST:icon p1=anar ] Rotate [ST:icon p1=pls ] Quit"
+    },
+    {
+      "$id": 48,
+      "label": "CTRL_enter_cancel_submenu_voice_camrot_end",
+      "style": 45,
+      "name": "[ST:icon p1=a ] Confirm [ST:icon p1=b ] Cancel [ST:icon p1=x ] Sub-Menu [ST:icon p1=y ] Sample Voice [ST:icon p1=anar ] Rotate [ST:icon p1=pls ] Quit"
+    },
+    {
+      "$id": 49,
+      "label": "CTRL_enter_cancel_transition",
+      "style": 45,
+      "name": "[ST:icon p1=a ] Confirm [ST:icon p1=b ] Cancel [ST:icon p1=crslr ] Switch Affinity Orientation"
+    },
+    {
+      "$id": 50,
+      "label": "CTRL_request_cancel_status",
+      "style": 45,
+      "name": "[ST:icon p1=a ] Scout [ST:icon p1=b ] Cancel [ST:icon p1=x ] View Status"
+    },
+    {
+      "$id": 51,
+      "label": "CTRL_enter_cancel_status_partyout",
+      "style": 45,
+      "name": "[ST:icon p1=a ] Confirm [ST:icon p1=b ] Cancel [ST:icon p1=x ] View Status [ST:icon p1=y ] Remove from Party"
+    },
+    {
+      "$id": 52,
+      "label": "CTRL_replace_cancel_status_partyout",
+      "style": 45,
+      "name": "[ST:icon p1=a ] Change Position [ST:icon p1=b ] Cancel [ST:icon p1=x ] View Status [ST:icon p1=y ] Remove from Party"
+    },
+    {
+      "$id": 53,
+      "label": "CTRL_enter_cancel_status_partyin",
+      "style": 45,
+      "name": "[ST:icon p1=a ] Confirm [ST:icon p1=b ] Cancel [ST:icon p1=x ] View Status [ST:icon p1=y ] Add to Party"
+    },
+    {
+      "$id": 54,
+      "label": "CTRL_replace_cancel_status_partyin",
+      "style": 45,
+      "name": "[ST:icon p1=a ] Change Position [ST:icon p1=b ] Cancel [ST:icon p1=x ] View Status [ST:icon p1=y ] Add to Party"
+    },
+    {
+      "$id": 55,
+      "label": "CTRL_enter_status_partyout",
+      "style": 45,
+      "name": "[ST:icon p1=a ] Confirm [ST:icon p1=x ] View Status [ST:icon p1=y ] Remove from Party"
+    },
+    {
+      "$id": 56,
+      "label": "CTRL_enter_status_partyin",
+      "style": 45,
+      "name": "[ST:icon p1=a ] Confirm [ST:icon p1=x ] View Status [ST:icon p1=y ] Add to Party"
+    },
+    {
+      "$id": 57,
+      "label": "CTRL_EMPTY",
+      "style": 45,
+      "name": ""
+    },
+    {
+      "$id": 58,
+      "label": "CTRL_cancel_",
+      "style": 45,
+      "name": "[ST:icon p1=b ] Cancel"
+    },
+    {
+      "$id": 59,
+      "label": "CTRL_enter_cancel_off_camrot",
+      "style": 45,
+      "name": "[ST:icon p1=a ] Confirm [ST:icon p1=b ] Cancel [ST:icon p1=y ] Remove [ST:icon p1=anar ] Rotate"
+    },
+    {
+      "$id": 60,
+      "label": "CTRL_enter_cancel_camchange",
+      "style": 45,
+      "name": "[ST:icon p1=a ] Confirm [ST:icon p1=b ] Cancel [ST:icon p1=zl ] [ST:icon p1=zr ] Toggle Camera"
+    },
+    {
+      "$id": 61,
+      "label": "CTRL_enter_cancel_update",
+      "style": 45,
+      "name": "[ST:icon p1=a ] Confirm [ST:icon p1=b ] Cancel [ST:icon p1=x ] Refresh List"
+    },
+    {
+      "$id": 62,
+      "label": "CTRL_cancel_update",
+      "style": 45,
+      "name": "[ST:icon p1=b ] Cancel [ST:icon p1=x ] Refresh List"
+    },
+    {
+      "$id": 63,
+      "label": "CTRL_return_name_camrot",
+      "style": 45,
+      "name": "[ST:icon p1=b ] Return [ST:icon p1=x ] Toggle Display Name [ST:icon p1=anar ] Rotate"
+    },
+    {
+      "$id": 64,
+      "label": "CTRL_cancel_list_filter",
+      "style": 45,
+      "name": "[ST:icon p1=b ] Cancel [ST:icon p1=x ] Enemy Index [ST:icon p1=y ] Filter"
+    },
+    {
+      "$id": 65,
+      "label": "CTRL_enter_close",
+      "style": 45,
+      "name": "[ST:icon p1=a ] Confirm [ST:icon p1=b ] Finish"
+    },
+    {
+      "$id": 66,
+      "label": "CTRL_sell",
+      "style": 45,
+      "name": "[ST:icon p1=a ] Sell"
+    },
+    {
+      "$id": 67,
+      "label": "CTRL_sell_filter",
+      "style": 45,
+      "name": "[ST:icon p1=a ] Sell [ST:icon p1=x ] Sub-Menu [ST:icon p1=y ] Filter"
+    },
+    {
+      "$id": 68,
+      "label": "CTRL_dummy_10",
+      "style": 45,
+      "name": ""
+    },
+    {
+      "$id": 69,
+      "label": "CTRL_dummy_11",
+      "style": 45,
+      "name": ""
+    },
+    {
+      "$id": 70,
+      "label": "CTRL_dummy_12",
+      "style": 45,
+      "name": ""
+    },
+    {
+      "$id": 71,
+      "label": "HUD_Jump",
+      "style": 45,
+      "name": "[ST:icon p1=zr ] Jump"
+    },
+    {
+      "$id": 72,
+      "label": "HUD_Dash",
+      "style": 45,
+      "name": "[ST:icon p1=analp ] Toggle Sprint"
+    },
+    {
+      "$id": 73,
+      "label": "HUD_AutoRun",
+      "style": 45,
+      "name": "[ST:icon p1=b ] Toggle Auto-run"
+    },
+    {
+      "$id": 74,
+      "label": "HUD_ChangeSquad",
+      "style": 45,
+      "name": "[ST:icon p1=l ] Squad Task Details"
+    },
+    {
+      "$id": 75,
+      "label": "HUD_MinimapSize",
+      "style": 45,
+      "name": "[ST:icon p1=crsd ] Toggle Mini-map"
+    },
+    {
+      "$id": 76,
+      "label": "HUD_NaviBall",
+      "style": 45,
+      "name": "[ST:icon p1=x ] Follow Ball"
+    },
+    {
+      "$id": 77,
+      "label": "HUD_AutoCam",
+      "style": 45,
+      "name": "[ST:icon p1=l ] Reset Camera"
+    },
+    {
+      "$id": 78,
+      "label": "HUD_MoveCam",
+      "style": 45,
+      "name": "[ST:icon p1=anar ] Camera Distance"
+    },
+    {
+      "$id": 79,
+      "label": "HUD_HopperCam",
+      "style": 45,
+      "name": "[ST:icon p1=crsu ] Aerial Cam"
+    },
+    {
+      "$id": 80,
+      "label": "HUD_ChangeArts",
+      "style": 45,
+      "name": "[ST:icon p1=crslr ] Select Art"
+    },
+    {
+      "$id": 81,
+      "label": "HUD_ChangeWeapon",
+      "style": 45,
+      "name": "[ST:icon p1=x ] Switch Weapon"
+    },
+    {
+      "$id": 82,
+      "label": "HUD_Target",
+      "style": 45,
+      "name": "[ST:icon p1=r ] Target"
+    },
+    {
+      "$id": 83,
+      "label": "HUD_ChangeTarget",
+      "style": 45,
+      "name": ""
+    },
+    {
+      "$id": 84,
+      "label": "HUD_LockTarget",
+      "style": 45,
+      "name": "[ST:icon p1=l ] Target Lock"
+    },
+    {
+      "$id": 85,
+      "label": "HUD_LockParts",
+      "style": 45,
+      "name": "[ST:icon p1=anarp ] Toggle Appendage Lock"
+    },
+    {
+      "$id": 86,
+      "label": "HUD_CMD_CntAttack",
+      "style": 45,
+      "name": "[ST:icon p1=crsu ] Concentrated Attack!"
+    },
+    {
+      "$id": 87,
+      "label": "HUD_CMD_Gathering",
+      "style": 45,
+      "name": "[ST:icon p1=crsd ] Assemble!"
+    },
+    {
+      "$id": 88,
+      "label": "HUD_CMD_StartGear",
+      "style": 45,
+      "name": "[ST:icon p1=crsl ] Activate Overdrive!"
+    },
+    {
+      "$id": 89,
+      "label": "HUD_CMD_KeepTension",
+      "style": 45,
+      "name": "[ST:icon p1=crsr ] Build Tension!"
+    },
+    {
+      "$id": 90,
+      "label": "HUD_Favorite",
+      "style": 45,
+      "name": ""
+    },
+    {
+      "$id": 91,
+      "label": "HUD_Block",
+      "style": 45,
+      "name": ""
+    },
+    {
+      "$id": 92,
+      "label": "HUD_BlackList",
+      "style": 45,
+      "name": ""
+    },
+    {
+      "$id": 93,
+      "label": "HUD_WalkerType",
+      "style": 45,
+      "name": "[ST:icon p1=analp ] Walker Mode"
+    },
+    {
+      "$id": 94,
+      "label": "HUD_FlightType",
+      "style": 45,
+      "name": "[ST:icon p1=zr ] Flight Mode"
+    },
+    {
+      "$id": 95,
+      "label": "HUD_VehicleType",
+      "style": 45,
+      "name": "[ST:icon p1=analp ] Vehicle Mode"
+    },
+    {
+      "$id": 96,
+      "label": "HUD_GetOffDoll",
+      "style": 45,
+      "name": "[ST:icon p1=y ] Exit Skell"
+    },
+    {
+      "$id": 97,
+      "label": "HUD_Boost",
+      "style": 45,
+      "name": "[ST:icon p1=analp ] Boost"
+    },
+    {
+      "$id": 98,
+      "label": "HUD_Flight_Up",
+      "style": 45,
+      "name": "[ST:icon p1=zr ] Ascend"
+    },
+    {
+      "$id": 99,
+      "label": "HUD_Flight_Down",
+      "style": 45,
+      "name": "[ST:icon p1=zl ] Descend"
+    },
+    {
+      "$id": 100,
+      "label": "HUD_ChangeTarget_L",
+      "style": 45,
+      "name": "[ST:icon p1=y ] Change Target Left"
+    },
+    {
+      "$id": 101,
+      "label": "HUD_ChangeTarget_R",
+      "style": 45,
+      "name": "[ST:icon p1=a ] Change Target Right"
+    },
+    {
+      "$id": 102,
+      "label": "HUD_Flight_DownUp",
+      "style": 45,
+      "name": ""
+    },
+    {
+      "$id": 103,
+      "label": "HUD_Flight_SkyDive",
+      "style": 45,
+      "name": ""
+    },
+    {
+      "$id": 104,
+      "label": "CTRL_enter_cancel_artsskillchange",
+      "style": 45,
+      "name": "[ST:icon p1=a ] Confirm [ST:icon p1=b ] Cancel [ST:icon p1=x ] Toggle Arts/Skills"
+    },
+    {
+      "$id": 105,
+      "label": "HUD_CMD_DollRideOn",
+      "style": 45,
+      "name": "[ST:icon p1=crsl ] Board Skells!"
+    },
+    {
+      "$id": 106,
+      "label": "HUD_CMD_DollGetOff",
+      "style": 45,
+      "name": "[ST:icon p1=crsr ] Exit Skells!"
+    },
+    {
+      "$id": 107,
+      "label": "CTRL_enter_cancel_list",
+      "style": 45,
+      "name": "[ST:icon p1=a ] Confirm [ST:icon p1=b ] Cancel [ST:icon p1=x ] Enemy Index"
+    },
+    {
+      "$id": 108,
+      "label": "CTRL_enter2_cancel_list_filter",
+      "style": 45,
+      "name": "[ST:icon p1=a ] Confirm [ST:icon p1=b ] Cancel [ST:icon p1=x ] Enemy Index [ST:icon p1=y ] Filter"
+    },
+    {
+      "$id": 109,
+      "label": "CTRL_return_list_filter",
+      "style": 45,
+      "name": "[ST:icon p1=b ] Return [ST:icon p1=x ] Enemy Index [ST:icon p1=y ] Filter"
+    },
+    {
+      "$id": 110,
+      "label": "CTRL_enter_cancel_list_camrot",
+      "style": 45,
+      "name": "[ST:icon p1=a ] Confirm [ST:icon p1=b ] Cancel [ST:icon p1=x ] Enemy Index [ST:icon p1=anar ] Rotate"
+    },
+    {
+      "$id": 111,
+      "label": "CTRL_enter_cancel_list_filter_camrot",
+      "style": 45,
+      "name": "[ST:icon p1=a ] Confirm [ST:icon p1=b ] Cancel [ST:icon p1=x ] Enemy Index [ST:icon p1=y ] Filter [ST:icon p1=anar ] Rotate"
+    },
+    {
+      "$id": 112,
+      "label": "CTRL_return_voice",
+      "style": 45,
+      "name": "[ST:icon p1=b ] Return [ST:icon p1=y ] Sample Voice"
+    },
+    {
+      "$id": 113,
+      "label": "CTRL_getall_sellall",
+      "style": 45,
+      "name": "[ST:icon p1=a ] Take All [ST:icon p1=x ] Sell All"
+    },
+    {
+      "$id": 114,
+      "label": "CTRL_enter_cancel_mydollrel_camrot",
+      "style": 45,
+      "name": "[ST:icon p1=a ] Confirm [ST:icon p1=b ] Cancel [ST:icon p1=y ] Reset Registration [ST:icon p1=anar ] Rotate"
+    }
+  ]
+}

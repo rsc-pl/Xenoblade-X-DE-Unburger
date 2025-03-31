@@ -1,0 +1,354 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev024701_JNK0010",
+      "style": 1,
+      "name": "Inquire"
+    },
+    {
+      "$id": 2,
+      "label": "tev024701_SEL0011",
+      "style": 3,
+      "name": "Ask Samanya about the industrial district.[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev024701_JNK0020",
+      "style": 1,
+      "name": "Discuss[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev024701_SEL0021",
+      "style": 3,
+      "name": "Ask Samanya if she has any interesting news.[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev024701_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 6,
+      "label": "tev024701_SEL0031",
+      "style": 3,
+      "name": "Ask Samanya about the west gate.[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "tev024701_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 8,
+      "label": "tev024701_SEL0021",
+      "style": 3,
+      "name": ""
+    },
+    {
+      "$id": 9,
+      "label": "tev024701_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 10,
+      "label": "tev024701_SEL0041",
+      "style": 3,
+      "name": "Ask Samanya about her experience with the Ma-non."
+    },
+    {
+      "$id": 11,
+      "label": "tev024701_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 12,
+      "label": "tev024701_SEL0021",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 13,
+      "label": "tev024701_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 14,
+      "label": "tev024701_SEL0051",
+      "style": 3,
+      "name": "Ask Samanya about the Ganglion attack.[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "tev024701_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 16,
+      "label": "tev024701_SEL0061",
+      "style": 3,
+      "name": "Ask Samanya if she's heard any interesting rumors.[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "tev024701_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 18,
+      "label": "tev024701_SEL0071",
+      "style": 3,
+      "name": "Ask Samanya what she intends to do next."
+    },
+    {
+      "$id": 19,
+      "label": "tev024701_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 20,
+      "label": "tev024701_SEL0061",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 21,
+      "label": "tev024701_SEL1021",
+      "style": 3,
+      "name": "Ask Samanya about recent developments."
+    },
+    {
+      "$id": 22,
+      "label": "tev024701_MSG0001",
+      "style": 1,
+      "name": "If you ride that elevator over there to the top,\nyou'll find a beautiful overlook of the entire city.\nHave you been up there yet? It's pretty incredible.[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "tev024701_MSG0002",
+      "style": 1,
+      "name": "Whenever I see New LA's strength and beauty unfold\nbefore me like that, it always inspires me to work that\nmuch harder at my job.[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "tev024701_MSG0003",
+      "style": 1,
+      "name": "I want to make New LA every bit the city the real\nLos Angeles was.[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "tev024701_MSG0004",
+      "style": 1,
+      "name": "I'll do my part, but I'll be counting on you BLADEs to\nprotect this city and the bright future it holds.[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "tev024701_MSG0008",
+      "style": 1,
+      "name": "BLADEs have found shipping containers and debris\nfrom the White Whale scattered all over Mira.[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "tev024701_MSG0009",
+      "style": 1,
+      "name": "I helped build the White Whale, you know.\nAnd watching those xenoforms send it crashing down\nin pieces was...horrible.[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "tev024701_MSG0010",
+      "style": 1,
+      "name": "It was like my own limbs were being torn off.[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "tev024701_MSG0011",
+      "style": 1,
+      "name": "But seeing its remnants be recovered and recycled has\nhelped to heal the wound somewhat.[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "tev024701_MSG0012",
+      "style": 1,
+      "name": "If you have business outside the city, I hope you'll help\nus find the remains of the ship that we spent so many\nyears building.[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "tev024701_MSG0020",
+      "style": 1,
+      "name": "They've finally reopened the west gate.\nNow we can come and go without having to pass\nthrough the emergency exit.[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "tev024701_MSG0021",
+      "style": 1,
+      "name": "What a relief! Bringing materials into the city without\nan operational west gate has been a major hassle.[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "tev024701_MSG0022",
+      "style": 1,
+      "name": "If you're going to do any exploring to the west,\nyou should head straight out the gate from now on.\nIt's much more convenient that way.[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev024701_MSG0027",
+      "style": 1,
+      "name": "A Ma-non named Jubietta showed up at my door and\ntold me she wanted to work with me.[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev024701_MSG0028",
+      "style": 1,
+      "name": "She said that back in Oblivia, she was rescued\nby a human named [ST:playername ],\nand this was her way of saying thanks.[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev024701_MSG0029",
+      "style": 1,
+      "name": "But after every 15 or so minutes of work,\nshe always gets tired and takes a \"pizza break.\"[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev024701_MSG0030",
+      "style": 1,
+      "name": "If she's doing this out of gratitude, you'd think she'd\nput a little more effort into the work...[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev024701_MSG0035",
+      "style": 1,
+      "name": "The White Whale was equipped with a high-powered\nenergy shield designed to protect the entirety of the\nHabitat, as this residential unit was known.[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "qev024701_MSG0036",
+      "style": 1,
+      "name": "If we still had that, there's no way the enemy could\nhave gotten in here so easily.[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "qev024701_MSG0037",
+      "style": 1,
+      "name": "But if wishes were horses, beggars would ride, eh?\n...That's a weird saying, now that I think about it.[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "qev024701_MSG0038",
+      "style": 1,
+      "name": "Anyway, all we can do is try to compensate for such\nlosses as best we can. So I'm going to make sure to\nget those defensive walls back in perfect condition![ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "qev024701_MSG0039",
+      "style": 1,
+      "name": "Still, the best way to compensate for the shield's\nabsence is to have you BLADEs remove the threat of\nthe Ganglion completely. I wish you the best of luck.[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "qev024701_MSG0045",
+      "style": 1,
+      "name": "There's been a rash of incidents involving the sudden\ndisappearance of trash that had been stored at base\ncamps throughout Primordia.[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "qev024701_MSG0046",
+      "style": 1,
+      "name": "Of course, since it's only garbage that's being taken,\nthere's no real harm done.[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "qev024701_MSG0047",
+      "style": 1,
+      "name": "Still, we've heard disturbing reports that masked\nxenoforms have been spotted...running off with it.[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "qev024701_MSG0048",
+      "style": 1,
+      "name": "I worry that if we don't get to the bottom of this soon,\nit might develop into something that actually IS a\nproblem.[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "qev024701_MSG0049",
+      "style": 1,
+      "name": "We may need to install more data probes throughout\nPrimordia in hopes of getting footage of one of these\nincidents as it happens.[ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "qev024701_MSG0055",
+      "style": 1,
+      "name": "The threat posed by the Ganglion has been negated,\nand the Lifehold Core has been recovered.[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "qev024701_MSG0056",
+      "style": 1,
+      "name": "The time has finally come to turn our attention to\nbuilding a sustainable life for ourselves here on Mira.[ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "qev024701_MSG0057",
+      "style": 1,
+      "name": "This would be so much easier if the White Whale\nhad been able to survive its crash landing intact.\nBut there's no use crying over spilled milk.[ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "qev024701_MSG0058",
+      "style": 1,
+      "name": "With the assistance of the Ma-non, I'm confident that\nwe'll be able to build a comfortable city for ourselves.[ST:wait ]"
+    },
+    {
+      "$id": 52,
+      "label": "tev024701_MSG1001",
+      "style": 1,
+      "name": "It's well established that the fumes emitted by painting\nand waterproofing are not good for our mimeosomes.[ST:wait ]"
+    },
+    {
+      "$id": 53,
+      "label": "tev024701_MSG1002",
+      "style": 1,
+      "name": "It's been difficult finding ways to protect our laborers\nfrom their deleterious effects.[ST:wait ]"
+    },
+    {
+      "$id": 54,
+      "label": "tev024701_MSG1003",
+      "style": 1,
+      "name": "Fortunately, the Zaruboggan have volunteered to help\nby detoxifying things every night.[ST:wait ]"
+    },
+    {
+      "$id": 55,
+      "label": "tev024701_MSG1004",
+      "style": 1,
+      "name": "I am in awe of the strange powers they possess.\nNo matter how tough the job, they always manage\nto have it completely detoxified by the next morning.[ST:wait ]"
+    },
+    {
+      "$id": 56,
+      "label": "tev024701_MSG1005",
+      "style": 1,
+      "name": "How I wish Jubietta could learn from their diligence\ninstead of spending most of her workday eating one\npizza after another.[ST:wait ]"
+    }
+  ]
+}

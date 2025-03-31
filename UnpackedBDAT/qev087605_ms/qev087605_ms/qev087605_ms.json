@@ -1,0 +1,78 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev087605_MSG0001",
+      "style": 1,
+      "name": "Medicine, eh? And it's organic stuff you're looking for,\nright? Not something to treat a mimeosome?[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev087605_MSG0002",
+      "style": 1,
+      "name": "Well, I can sell you one of the med kits I make.\nIf you need five, that comes to 100,000 credits.[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev087605_JNK0010",
+      "style": 4,
+      "name": "Purchase"
+    },
+    {
+      "$id": 4,
+      "label": "qev087605_SEL0011",
+      "style": 3,
+      "name": "Buy five med kits for 100,000 credits."
+    },
+    {
+      "$id": 5,
+      "label": "qev087605_JNK0020",
+      "style": 4,
+      "name": "Wait"
+    },
+    {
+      "$id": 6,
+      "label": "qev087605_SEL0021",
+      "style": 3,
+      "name": "Tell Jeffery that you changed your mind."
+    },
+    {
+      "$id": 7,
+      "label": "qev087605_MSG0003",
+      "style": 1,
+      "name": "Here you are. I'm happy to hear they'll go toward\nhelping people.[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev087605_MSG0004",
+      "style": 1,
+      "name": "Yeah, I don't really blame you at that price.\nUnfortunately, the only substances out there that work\nagainst Miran pathogens are rare—which means pricey.[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev087605_MSG0005",
+      "style": 1,
+      "name": "Er...this isn't quite enough. And look, I know these are\nexpensive, but the only substances that can combat\nMiran pathogens are rare—which means pricey.[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev087605_MSG0006",
+      "style": 1,
+      "name": ""
+    }
+  ]
+}

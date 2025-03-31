@@ -1,0 +1,498 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev000801_MSG0001",
+      "style": 1,
+      "name": "Huh. It's you.[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev000801_MSG0002",
+      "style": 1,
+      "name": "......[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev000801_MSG0003",
+      "style": 1,
+      "name": "What? Nothing! What do you want from me, anyway?\nGet to business or get the hell outta here![ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev000801_MSG1001",
+      "style": 1,
+      "name": "Heya, pard! You got a job in the works?\nIf so, bring me along![ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev000801_JNK0010",
+      "style": 4,
+      "name": "Agree"
+    },
+    {
+      "$id": 6,
+      "label": "tev000801_SEL0011",
+      "style": 3,
+      "name": "Add Yelv to your team."
+    },
+    {
+      "$id": 7,
+      "label": "tev000801_JNK0020",
+      "style": 4,
+      "name": "Refuse"
+    },
+    {
+      "$id": 8,
+      "label": "tev000801_SEL0021",
+      "style": 3,
+      "name": "Decline Yelv's request for now."
+    },
+    {
+      "$id": 9,
+      "label": "tev000801_MSG1002",
+      "style": 1,
+      "name": "Damn straight! With the two of us together,\nthere ain't nothing out there we can't handle.[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "tev000801_MSG1003",
+      "style": 1,
+      "name": "Aw, you're killin' me here! You gotta let me prove how\nunbeatable we could be together![ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev000801_MSG1008",
+      "style": 1,
+      "name": "You got that job straight from Vandham, huh?\nThose BLADEs down there must be real deep in the\nweeds if the big man is barkin'.[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "tev000801_MSG1009",
+      "style": 1,
+      "name": "But I'm sure it's nothing you and I can't handle.\nSo come on, pard! Take me off the bench![ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "tev000801_JNK0030",
+      "style": 4,
+      "name": "Agree"
+    },
+    {
+      "$id": 14,
+      "label": "tev000801_SEL0031",
+      "style": 3,
+      "name": "Add Yelv to your team."
+    },
+    {
+      "$id": 15,
+      "label": "tev000801_JNK0040",
+      "style": 4,
+      "name": "Refuse"
+    },
+    {
+      "$id": 16,
+      "label": "tev000801_SEL0041",
+      "style": 3,
+      "name": "Decline Yelv's request for now."
+    },
+    {
+      "$id": 17,
+      "label": "tev000801_MSG1011",
+      "style": 1,
+      "name": "Aw, you're killin' me here! You gotta let me prove how\nunbeatable we could be together![ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "tev000801_MSG1016",
+      "style": 1,
+      "name": "It sounds like a whole bunch of White Whale debris\nlanded in Oblivia.[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "tev000801_MSG1017",
+      "style": 1,
+      "name": "We should try to recover it while you're on your\nmission, and that means you should take me along!\nWhat do you say, pard? Ready to kick some ass?[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "tev000801_JNK0050",
+      "style": 4,
+      "name": "Agree"
+    },
+    {
+      "$id": 21,
+      "label": "tev000801_SEL0051",
+      "style": 3,
+      "name": "Add Yelv to your team."
+    },
+    {
+      "$id": 22,
+      "label": "tev000801_JNK0060",
+      "style": 4,
+      "name": "Refuse"
+    },
+    {
+      "$id": 23,
+      "label": "tev000801_SEL0061",
+      "style": 3,
+      "name": "Decline Yelv's request for now."
+    },
+    {
+      "$id": 24,
+      "label": "tev000801_MSG1019",
+      "style": 1,
+      "name": "Aw, you're killin' me here! You gotta let me prove how\nunbeatable we could be together![ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "tev000801_MSG1024",
+      "style": 1,
+      "name": "You've already had your team assigned for this\nmission? Damn it to hell![ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "tev000801_MSG1025",
+      "style": 1,
+      "name": "Well then, crank that job out and hurry back.\nI wanna go recover more White Whale pieces together.[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "tev000801_MSG1030",
+      "style": 1,
+      "name": "So a little bird told me that Irina's team has been\nsurrounded by the Ganglion.[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "tev000801_MSG1031",
+      "style": 1,
+      "name": "I know this ain't a Reclaimers' gig, but I'd like to\nhelp save your friends before it turns into one.\nBe nice to bring BLADEs back alive for once, yeah?[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "tev000801_JNK0070",
+      "style": 4,
+      "name": "Agree"
+    },
+    {
+      "$id": 30,
+      "label": "tev000801_SEL0071",
+      "style": 3,
+      "name": "Add Yelv to your team."
+    },
+    {
+      "$id": 31,
+      "label": "tev000801_JNK0080",
+      "style": 4,
+      "name": "Refuse"
+    },
+    {
+      "$id": 32,
+      "label": "tev000801_SEL0081",
+      "style": 3,
+      "name": "Decline Yelv's request for now."
+    },
+    {
+      "$id": 33,
+      "label": "tev000801_MSG1033",
+      "style": 1,
+      "name": "Aw, you're killin' me here! You gotta let me prove how\nunbeatable we could be together![ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "tev000801_MSG1038",
+      "style": 1,
+      "name": "I hear the Ganglion have some major bases\nin Sylvalum.[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "tev000801_MSG1039",
+      "style": 1,
+      "name": "Not that it'd even slow down the superteam that is\nyou and me! Ha! So what's the verdict, pard?\nWe gonna mop up these Ganglion bastards or what?[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "tev000801_JNK0090",
+      "style": 4,
+      "name": "Agree"
+    },
+    {
+      "$id": 37,
+      "label": "tev000801_SEL0091",
+      "style": 3,
+      "name": "Add Yelv to your team."
+    },
+    {
+      "$id": 38,
+      "label": "tev000801_JNK0100",
+      "style": 4,
+      "name": "Refuse"
+    },
+    {
+      "$id": 39,
+      "label": "tev000801_SEL0101",
+      "style": 3,
+      "name": "Decline Yelv's request for now."
+    },
+    {
+      "$id": 40,
+      "label": "tev000801_MSG1041",
+      "style": 1,
+      "name": "Aw, you're killin' me here! You gotta let me prove how\nunbeatable we could be together![ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "tev000801_MSG1046",
+      "style": 1,
+      "name": "All that searchin', and still no sign of the Lifehold Core.[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "tev000801_MSG1047",
+      "style": 1,
+      "name": "Maybe it'll finally turn up on our next job, yeah?\nJust like, bam! Out of nowhere! So what do you think?\nWanna bring me along for luck?[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "tev000801_JNK0110",
+      "style": 4,
+      "name": "Agree"
+    },
+    {
+      "$id": 44,
+      "label": "tev000801_SEL0111",
+      "style": 3,
+      "name": "Add Yelv to your team."
+    },
+    {
+      "$id": 45,
+      "label": "tev000801_JNK0120",
+      "style": 4,
+      "name": "Refuse"
+    },
+    {
+      "$id": 46,
+      "label": "tev000801_SEL0121",
+      "style": 3,
+      "name": "Decline Yelv's request for now."
+    },
+    {
+      "$id": 47,
+      "label": "tev000801_MSG1049",
+      "style": 1,
+      "name": "Aw, you're killin' me here! You gotta let me prove how\nunbeatable we could be together![ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "tev000801_MSG1054",
+      "style": 1,
+      "name": "Finally, an assault on the Ganglion HQ!\nMan, I've dreamed of this day...[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "tev000801_MSG1055",
+      "style": 1,
+      "name": "Open wide, Ganglion! You're about to have the full\npotential of mankind rammed down your goddamn\nthroat, and Yelv's gonna be the chef![ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "tev000801_JNK0130",
+      "style": 4,
+      "name": "Agree"
+    },
+    {
+      "$id": 51,
+      "label": "tev000801_SEL0131",
+      "style": 3,
+      "name": "Add Yelv to your team."
+    },
+    {
+      "$id": 52,
+      "label": "tev000801_JNK0140",
+      "style": 4,
+      "name": "Refuse"
+    },
+    {
+      "$id": 53,
+      "label": "tev000801_SEL0141",
+      "style": 3,
+      "name": "Decline Yelv's request for now."
+    },
+    {
+      "$id": 54,
+      "label": "tev000801_MSG1057",
+      "style": 1,
+      "name": "Aw, you're killin' me here! You gotta let me prove how\nunbeatable we could be together![ST:wait ]"
+    },
+    {
+      "$id": 55,
+      "label": "tev000801_MSG1062",
+      "style": 1,
+      "name": "The damn Lifehold Core won't keep runnin' for much\nlonger.[ST:wait ]"
+    },
+    {
+      "$id": 56,
+      "label": "tev000801_MSG1063",
+      "style": 1,
+      "name": "We gotta get down there and secure it...for him.[ST:wait ]"
+    },
+    {
+      "$id": 57,
+      "label": "tev000801_MSG1064",
+      "style": 1,
+      "name": "And also for every other BLADE that we lost to a\nGanglion attack! So come on! Lemme deal out some\nhot, creamy justice on this one![ST:wait ]"
+    },
+    {
+      "$id": 58,
+      "label": "tev000801_JNK0150",
+      "style": 4,
+      "name": "Agree"
+    },
+    {
+      "$id": 59,
+      "label": "tev000801_SEL0151",
+      "style": 3,
+      "name": "Add Yelv to your team."
+    },
+    {
+      "$id": 60,
+      "label": "tev000801_JNK0160",
+      "style": 4,
+      "name": "Refuse"
+    },
+    {
+      "$id": 61,
+      "label": "tev000801_SEL0161",
+      "style": 3,
+      "name": "Decline Yelv's request for now."
+    },
+    {
+      "$id": 62,
+      "label": "tev000801_MSG1065",
+      "style": 1,
+      "name": "This could be our last job ever, so we gotta do it\ntogether. You hear me, right, pard?[ST:wait ]"
+    },
+    {
+      "$id": 63,
+      "label": "tev000801_MSG1066",
+      "style": 1,
+      "name": "Aw, you're breakin' my heart. If this ain't the time to\nget the superteam back together, when the hell is?[ST:wait ]"
+    },
+    {
+      "$id": 64,
+      "label": "tev000801_MSG1071",
+      "style": 1,
+      "name": "No way we're letting those bastards make fools out of\nhumanity and get away with it.[ST:wait ]"
+    },
+    {
+      "$id": 65,
+      "label": "tev000801_MSG1072",
+      "style": 1,
+      "name": "Once we're done with them, everyone on Mira will\nsing the legends of our goddamn superteam![ST:wait ]"
+    },
+    {
+      "$id": 66,
+      "label": "tev000801_JNK0170",
+      "style": 4,
+      "name": "Agree"
+    },
+    {
+      "$id": 67,
+      "label": "tev000801_SEL0171",
+      "style": 3,
+      "name": "Add Yelv to your team."
+    },
+    {
+      "$id": 68,
+      "label": "tev000801_JNK0180",
+      "style": 4,
+      "name": "Refuse"
+    },
+    {
+      "$id": 69,
+      "label": "tev000801_SEL0181",
+      "style": 3,
+      "name": "Decline Yelv's request for now."
+    },
+    {
+      "$id": 70,
+      "label": "tev000801_MSG1073",
+      "style": 1,
+      "name": "There you go, pard! Ain't nowhere we can't go if we\njust stick together.[ST:wait ]"
+    },
+    {
+      "$id": 71,
+      "label": "tev000801_MSG1074",
+      "style": 1,
+      "name": "Aw, you're killin' me here! You gotta let me prove how\nunbeatable we could be together![ST:wait ]"
+    },
+    {
+      "$id": 72,
+      "label": "tev000801_MSG2001",
+      "style": 1,
+      "name": "So if they found his left arm in Oblivia...[ST:wait ]"
+    },
+    {
+      "$id": 73,
+      "label": "tev000801_MSG2002",
+      "style": 1,
+      "name": "That means he must have fallen somewhere around\nthat area, right?[ST:wait ]"
+    },
+    {
+      "$id": 74,
+      "label": "tev000801_MSG2003",
+      "style": 1,
+      "name": "At the very least, we might find something that leads us\nto where he landed. So whaddya say, pard?\nWill you help me search the area?[ST:wait ]"
+    },
+    {
+      "$id": 75,
+      "label": "tev000801_JNK2010",
+      "style": 4,
+      "name": "Agree"
+    },
+    {
+      "$id": 76,
+      "label": "tev000801_SEL2011",
+      "style": 3,
+      "name": "Add Yelv to your team."
+    },
+    {
+      "$id": 77,
+      "label": "tev000801_JNK2020",
+      "style": 4,
+      "name": "Refuse"
+    },
+    {
+      "$id": 78,
+      "label": "tev000801_SEL2021",
+      "style": 3,
+      "name": "Decline Yelv's request for now."
+    },
+    {
+      "$id": 79,
+      "label": "tev000801_MSG2004",
+      "style": 1,
+      "name": "Thanks, pard. I know we can find him if we just\nwork together.[ST:wait ]"
+    },
+    {
+      "$id": 80,
+      "label": "tev000801_MSG2005",
+      "style": 1,
+      "name": "Huh. Well, all right then. Guess I'll just head out and\nsearch by my own goddamn self![ST:wait ]"
+    }
+  ]
+}

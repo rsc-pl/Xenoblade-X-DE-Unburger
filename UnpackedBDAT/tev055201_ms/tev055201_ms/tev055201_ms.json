@@ -1,0 +1,492 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev055201_JNK0010",
+      "style": 4,
+      "name": "Inquire"
+    },
+    {
+      "$id": 2,
+      "label": "tev055201_SEL0011",
+      "style": 3,
+      "name": "Ask Tora about the Nopon caravans."
+    },
+    {
+      "$id": 3,
+      "label": "tev055201_JNK0020",
+      "style": 4,
+      "name": "Discuss"
+    },
+    {
+      "$id": 4,
+      "label": "tev055201_SEL0021",
+      "style": 3,
+      "name": "Ask Tora if he's heard any interesting rumors."
+    },
+    {
+      "$id": 5,
+      "label": "tev055201_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 6,
+      "label": "tev055201_SEL0031",
+      "style": 3,
+      "name": "Ask Tora about business negotiations with the Ma-non."
+    },
+    {
+      "$id": 7,
+      "label": "tev055201_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 8,
+      "label": "tev055201_SEL0021",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 9,
+      "label": "tev055201_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 10,
+      "label": "tev055201_SEL0051",
+      "style": 3,
+      "name": "Ask Tora what he did during the attack."
+    },
+    {
+      "$id": 11,
+      "label": "tev055201_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 12,
+      "label": "tev055201_SEL0021",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 13,
+      "label": "tev055201_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 14,
+      "label": "tev055201_SEL0071",
+      "style": 3,
+      "name": "Ask Tora about the battle with the Zu Pharg."
+    },
+    {
+      "$id": 15,
+      "label": "tev055201_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 16,
+      "label": "tev055201_SEL0081",
+      "style": 3,
+      "name": "Ask Tora if anything is troubling him."
+    },
+    {
+      "$id": 17,
+      "label": "tev055201_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 18,
+      "label": "tev055201_SEL0091",
+      "style": 3,
+      "name": "Ask Tora about the final battle in the Lifehold Core."
+    },
+    {
+      "$id": 19,
+      "label": "tev055201_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 20,
+      "label": "tev055201_SEL0081",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 21,
+      "label": "tev055201_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 22,
+      "label": "tev055201_SEL0111",
+      "style": 3,
+      "name": "Ask Tora when the battle for\nNopon supremacy will be settled."
+    },
+    {
+      "$id": 23,
+      "label": "tev055201_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 24,
+      "label": "tev055201_SEL0081",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 25,
+      "label": "tev055201_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 26,
+      "label": "tev055201_SEL0111",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 27,
+      "label": "tev055201_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 28,
+      "label": "tev055201_SEL1021",
+      "style": 3,
+      "name": "Ask Tora about recent developments."
+    },
+    {
+      "$id": 29,
+      "label": "tev055201_MSG0001",
+      "style": 1,
+      "name": "Dodonga Caravan admittedly mildly famous.\nThat former caravan of Tatsu.[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "tev055201_MSG0002",
+      "style": 1,
+      "name": "But Dodonga Caravan cannot hold candle to old\ncaravan of Tora—super amazing wonderful Dorian\nCaravan![ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "tev055201_MSG0003",
+      "style": 1,
+      "name": "If friend goes east from Oblivia canyon entrance,\nfriend will hit steep trench called Ibra Ravine.[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "tev055201_MSG0004",
+      "style": 1,
+      "name": "Head north from there to find super Dorian Caravan.\nCaravan surrounded by ginormous lake, if that help.[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "tev055201_MSG0005",
+      "style": 1,
+      "name": "Friend should go check it out, see for self how wild\nNopon nomads tame savage frontier![ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "tev055201_MSG0010",
+      "style": 1,
+      "name": "Noctilum, home of Dodonga Caravan, is to west.\nOblivia, handsome home of Tora, is to east.[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "tev055201_MSG0011",
+      "style": 1,
+      "name": "And far far FAAAR to north lies terrible, horrifying,\nunspeakable—[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "tev055201_MSG0012",
+      "style": 1,
+      "name": "Mrrm... Friend probably wants to see terrible horrors\nfor self. Friend should have same joy of exploring and\ndiscovering Mira that Nopon have![ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "tev055201_MSG0013",
+      "style": 1,
+      "name": "It is very big world out there. But no matter how far\naway something might seem, so long as friend feels\nlike going there, friend can get there![ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "tev055201_MSG0014",
+      "style": 1,
+      "name": "So what is human friend waiting for? Go, go!\nUse silly long legs to dash across landscape and\nuncover every corner![ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "tev055201_MSG0019",
+      "style": 1,
+      "name": "Tora hoping to score points with Nopon Commerce\nGuild by landing whopper of contract with Ma-non.[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "tev055201_MSG0020",
+      "style": 1,
+      "name": "But for smart aliens, Ma-non are kind of dumb.\nThey know NOTHING about business or money.[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "tev055201_MSG0021",
+      "style": 1,
+      "name": "Negotiations not going so well. Big plan of Tora\ncoming apart at seams. And then who come along?\nTatsu! Meh![ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "tev055201_MSG0022",
+      "style": 1,
+      "name": "Tatsu walk to Ma-non and mention name of friend.\nHe say, \"[ST:playername ] save you, right?\"\nThen he break out extra-large pizza and contract.[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "tev055201_MSG0023",
+      "style": 1,
+      "name": "Now EVERYONE love Tatsu! How did he know so\nmany people? How did he learn so much about other\ncultures? Unfair! Meh-meh-meeeeh![ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "tev055201_MSG0024",
+      "style": 1,
+      "name": "Well, Tora know when Tora is defeated...for now.\nBut one day, it will be Tora waving greasy signed\ncontract in face of Tatsu![ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "tev055201_MSG0029",
+      "style": 1,
+      "name": "Tora not want stupid Tatsu claiming all bits of glory,\nso Tora decided to pull some favors and scrape\ntogether supplies for city.[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "tev055201_MSG0030",
+      "style": 1,
+      "name": "Together with friends at home in Dorian Caravan,\nTora load up whole herd of nopopotamuses with\nshipments of miranium![ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "tev055201_MSG0031",
+      "style": 1,
+      "name": "Then Tora and caravan SMASH right through Ganglion\nsoldiers to reach city! ...Tora nearly wet self from fear.\nTora not ashamed to admit that to friend.[ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "tev055201_MSG0032",
+      "style": 1,
+      "name": "It is good that friend won. Otherwise, harrowing\nexperience of Tora would have been for nothing.[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "tev055201_MSG0033",
+      "style": 1,
+      "name": "Good job, human friend! Keep punching Ganglion in\nbig stupid faces![ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "tev055201_MSG0038",
+      "style": 1,
+      "name": "Tatsu say he take down that behemoth all by himself,\nbut Tora not impressed at all! Meh![ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "tev055201_MSG0039",
+      "style": 1,
+      "name": "Mighty Tora actually took down Ruler of Fates that lurks\ndeep in Noctilum. Took him down with one paw tied\nbehind back![ST:wait ]"
+    },
+    {
+      "$id": 52,
+      "label": "tev055201_MSG0040",
+      "style": 1,
+      "name": "Don't stare at Tora like that! Story is completely true!\nTora use Mega Torageddon move to put hurt on nasty\nRuler of Fates![ST:wait ]"
+    },
+    {
+      "$id": 53,
+      "label": "tev055201_MSG0041",
+      "style": 1,
+      "name": "...What? F-friend wants to know what Ruler look like?\nEr, Tora cannot answer because Tora was blinded\nby battle rage. Saw only red.[ST:wait ]"
+    },
+    {
+      "$id": 54,
+      "label": "tev055201_MSG0046",
+      "style": 1,
+      "name": "Soon, Tora will be reunited with mamapon and\ndadapon![ST:wait ]"
+    },
+    {
+      "$id": 55,
+      "label": "tev055201_MSG0047",
+      "style": 1,
+      "name": "But it very important that Tora become distinguished\nmerchant before reunion happens.[ST:wait ]"
+    },
+    {
+      "$id": 56,
+      "label": "tev055201_MSG0048",
+      "style": 1,
+      "name": "Tora might have to hire BLADE friend to get ball\nrolling, otherwise stingy Nopon Commerce Guild never\ngive Tora membership.[ST:wait ]"
+    },
+    {
+      "$id": 57,
+      "label": "tev055201_MSG0049",
+      "style": 1,
+      "name": "But friend looks kind of busy. ...Also expensive.\nDoes friend know any novice BLADEs who do good\nwork for cheap? Maybe even free?[ST:wait ]"
+    },
+    {
+      "$id": 58,
+      "label": "tev055201_MSG0054",
+      "style": 1,
+      "name": "There bound to be epic scrap, meh...\nWhat if something happen to Tatsu...?[ST:wait ]"
+    },
+    {
+      "$id": 59,
+      "label": "tev055201_MSG0055",
+      "style": 1,
+      "name": "Say... Would friend do Tora huge favor?\nPlease bring Tatsu here before friends head out\nfor grand showdown, okay?[ST:wait ]"
+    },
+    {
+      "$id": 60,
+      "label": "tev055201_MSG0060",
+      "style": 1,
+      "name": "Tora hears that Ganglion is making all kinds of nasty\npreparations. Plan to stop friends dead in tracks![ST:wait ]"
+    },
+    {
+      "$id": 61,
+      "label": "tev055201_MSG0061",
+      "style": 1,
+      "name": "Tatsu has to promise to be careful.\nTora not want Tatsu to die![ST:wait ]"
+    },
+    {
+      "$id": 62,
+      "label": "tev055201_MSG0062",
+      "style": 1,
+      "name": "This fight for human friends. Fight they will win![ST:wait ]"
+    },
+    {
+      "$id": 63,
+      "label": "tev055201_MSG0063",
+      "style": 1,
+      "name": "But Tora still needs to finish battle with Tatsu for\nNopon supremacy.[ST:wait ]"
+    },
+    {
+      "$id": 64,
+      "label": "tev055201_MSG0064",
+      "style": 1,
+      "name": "Tora cannot prove who better Nopon is if Tatsu comes\nback in little body bag, so be safe![ST:wait ]"
+    },
+    {
+      "$id": 65,
+      "label": "tev055201_MSG0069",
+      "style": 1,
+      "name": "Did Tatsu survive Lifehold Core death trap?\nIs Tatsu safe?[ST:wait ]"
+    },
+    {
+      "$id": 66,
+      "label": "tev055201_MSG0070",
+      "style": 1,
+      "name": "Meh! Good! This means Tora can challenge Tatsu to\nfinal face-off![ST:wait ]"
+    },
+    {
+      "$id": 67,
+      "label": "tev055201_MSG0071",
+      "style": 1,
+      "name": "Go ahead! Bring Tatsu! Tora will not run.\nTora will prove supremacy once and for all![ST:wait ]\n"
+    },
+    {
+      "$id": 68,
+      "label": "tev055201_MSG0076",
+      "style": 1,
+      "name": "Meh! Right now! Why wait?[ST:wait ]"
+    },
+    {
+      "$id": 69,
+      "label": "tev055201_MSG0077",
+      "style": 1,
+      "name": "Tora very glad Tatsu return from Lifehold Core death\ntrap, but now Tatsu must face music for real.[ST:wait ]"
+    },
+    {
+      "$id": 70,
+      "label": "tev055201_MSG0078",
+      "style": 1,
+      "name": "Today Tora and Tatsu decide once and for all who\nis greatest Nopon! Dun dun DUNNNH![ST:wait ]"
+    },
+    {
+      "$id": 71,
+      "label": "tev055201_MSG0079",
+      "style": 1,
+      "name": "...Meh? Tatsu too hungry to have final face-off\nright now?[ST:wait ]"
+    },
+    {
+      "$id": 72,
+      "label": "tev055201_MSG0080",
+      "style": 1,
+      "name": "No fair! Does stupid Tatsu know how hard Tora has\nbeen practicing?![ST:wait ]"
+    },
+    {
+      "$id": 73,
+      "label": "tev055201_MSG0081",
+      "style": 1,
+      "name": "Tora bother all kinds of human friends to practice\nrock paper scissors and duck duck goose.\nDid Tora train to become true warrior for nothing?![ST:wait ]"
+    },
+    {
+      "$id": 74,
+      "label": "tev055201_MSG1001",
+      "style": 1,
+      "name": "Now that Tora member of Nopon Commerce Guild,\nwares of Tora selling like hotcakes![ST:wait ]"
+    },
+    {
+      "$id": 75,
+      "label": "tev055201_MSG1002",
+      "style": 1,
+      "name": "Tora going to do just like Dadato said and treat\ngood friends like [ST:playername ] and Mia\nEXTRA special![ST:wait ]"
+    },
+    {
+      "$id": 76,
+      "label": "tev055201_MSG1003",
+      "style": 1,
+      "name": "Friends get first dibs on leftover and defective...\n*ahem* Er, BEST merchandise![ST:wait ]"
+    },
+    {
+      "$id": 77,
+      "label": "tev055201_MSG1004",
+      "style": 1,
+      "name": "Friends not regret single purchase ever.\nThat what friends are for![ST:wait ]"
+    },
+    {
+      "$id": 78,
+      "label": "tev055201_MSG2001",
+      "style": 1,
+      "name": "Has friend been to Dodonga Caravan yet?[ST:wait ]"
+    },
+    {
+      "$id": 79,
+      "label": "tev055201_MSG2002",
+      "style": 1,
+      "name": "Make sure to bring back nice present for Tora, okay?\nAfter all, Tora was nice enough to tell about amazing,\nbest-ever caravan in first place.[ST:wait ]"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev012405_MSG0001",
+      "style": 1,
+      "name": "Which wire will you connect the parts to?[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev012405_JNK0010",
+      "style": 4,
+      "name": "Blue"
+    },
+    {
+      "$id": 3,
+      "label": "qev012405_SEL0011",
+      "style": 3,
+      "name": "Connect the parts to the blue wire."
+    },
+    {
+      "$id": 4,
+      "label": "qev012405_JNK0020",
+      "style": 4,
+      "name": "Red"
+    },
+    {
+      "$id": 5,
+      "label": "qev012405_SEL0021",
+      "style": 3,
+      "name": "Connect the parts to the red wire."
+    },
+    {
+      "$id": 6,
+      "label": "qev012405_JNK0030",
+      "style": 4,
+      "name": "Wait"
+    },
+    {
+      "$id": 7,
+      "label": "qev012405_SEL0031",
+      "style": 3,
+      "name": "Think about it a while longer."
+    }
+  ]
+}

@@ -1,0 +1,342 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev000494_MSG0001",
+      "style": 1,
+      "name": "[ST:playername ]? What are you doing here?![ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev000494_MSG0002",
+      "style": 1,
+      "name": "Damn it all! I can't believe you've discovered my secret\ntraining regimen![ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev000494_MSG0003",
+      "style": 1,
+      "name": "I worked so hard to conceal it from my rivals...[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev000494_MSG0004",
+      "style": 1,
+      "name": "But I suppose there's nothing to be done about it now.\nSo go ahead! Make it your own! Steal all of my ideas!\nI will find a new and better way to stay ahead of you.[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev000494_MSG0005",
+      "style": 1,
+      "name": "Er, but while we're on the subject, what do you\nconsider to be the secret to success?[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "tev000494_JNK0010",
+      "style": 4,
+      "name": "Luck"
+    },
+    {
+      "$id": 7,
+      "label": "tev000494_SEL0011",
+      "style": 3,
+      "name": "Say that luck is the key factor."
+    },
+    {
+      "$id": 8,
+      "label": "tev000494_JNK0020",
+      "style": 4,
+      "name": "Ability"
+    },
+    {
+      "$id": 9,
+      "label": "tev000494_SEL0021",
+      "style": 3,
+      "name": "Say that one's ability is the key factor."
+    },
+    {
+      "$id": 10,
+      "label": "tev000494_JNK0030",
+      "style": 4,
+      "name": "Spirit"
+    },
+    {
+      "$id": 11,
+      "label": "tev000494_SEL0031",
+      "style": 3,
+      "name": "Say that an indomitable spirit is the key factor."
+    },
+    {
+      "$id": 12,
+      "label": "tev000494_MSG0006",
+      "style": 1,
+      "name": "Luck, you say? I see.[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "tev000494_MSG0007",
+      "style": 1,
+      "name": "Well, I cannot deny the value of such a thing.[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "tev000494_MSG0008",
+      "style": 1,
+      "name": "Certainly, some of those in high places achieved their\npositions through the capricious whims of Lady Fortune,\ndespite a clear lack of ability.[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "tev000494_MSG0009",
+      "style": 1,
+      "name": "Er, I am not speaking of you, of course.[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "tev000494_MSG0010",
+      "style": 1,
+      "name": "But I fear I must disagree, for I do not consider luck to\nbe the key factor in success.[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "tev000494_MSG0011",
+      "style": 1,
+      "name": "It is ability, above all else, that determines success.\nOne must always prioritize increasing their abilities,\neven if the effort is great and the result small.[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "tev000494_MSG0012",
+      "style": 1,
+      "name": "For once, you and I are of the same mind.[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "tev000494_MSG0013",
+      "style": 1,
+      "name": "Luck may bring victory, but only a fleeting one.[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "tev000494_MSG0014",
+      "style": 1,
+      "name": "Ability, at sufficient levels, brings not only the possibility\nof success, but the near certainty of it.[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "tev000494_MSG0015",
+      "style": 1,
+      "name": "Success comes unbidden to the skilled; it is acquiring\nand increasing those skills that poses the challenge.[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "tev000494_MSG0016",
+      "style": 1,
+      "name": "How charmingly naïve.[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "tev000494_MSG0017",
+      "style": 1,
+      "name": "Oh, certainly, such spirit can be a virtue.[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "tev000494_MSG0018",
+      "style": 1,
+      "name": "But do you truly consider mindlessly throwing yourself\nat the same insurmountable challenge over and over\nagain to be a true path to success?[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "tev000494_MSG0019",
+      "style": 1,
+      "name": "Let us be realistic, you and I—honing one's skills is the\nway to increase the odds of success, not some kind of\nintangible...pluck, or grit, or what have you.[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "tev000494_MSG0020",
+      "style": 1,
+      "name": "And that is why I developed my training regimen.[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "tev000494_MSG0021",
+      "style": 1,
+      "name": "I do not see NLA as a place for rest and relaxation,\nbut rather as a forge upon which to temper my skills.[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "tev000494_MSG0022",
+      "style": 1,
+      "name": "After all, it seems that my rival is honing [ST:gender p1=his p2=her ] own skills\nat an alarming rate.[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "tev000494_MSG0023",
+      "style": 1,
+      "name": "Therefore, I must work all the harder to compensate.[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "tev000494_MSG0024",
+      "style": 1,
+      "name": "And now that I have spilled forth my secret, tell me—\nwhat is yours?[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "tev000494_JNK0040",
+      "style": 4,
+      "name": "Be Evasive"
+    },
+    {
+      "$id": 32,
+      "label": "tev000494_SEL0041",
+      "style": 3,
+      "name": "Say that stuff just...happens. It's nothing special."
+    },
+    {
+      "$id": 33,
+      "label": "tev000494_JNK0050",
+      "style": 4,
+      "name": "Be Humble"
+    },
+    {
+      "$id": 34,
+      "label": "tev000494_SEL0051",
+      "style": 3,
+      "name": "Say that the credit belongs to Elma."
+    },
+    {
+      "$id": 35,
+      "label": "tev000494_JNK0060",
+      "style": 4,
+      "name": "Be Honest"
+    },
+    {
+      "$id": 36,
+      "label": "tev000494_SEL0061",
+      "style": 3,
+      "name": "Claim that your success comes from\nfinishing a great number of missions."
+    },
+    {
+      "$id": 37,
+      "label": "tev000494_MSG0025",
+      "style": 1,
+      "name": "Hmph. Fine. Keep your secrets close.[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "tev000494_MSG0026",
+      "style": 1,
+      "name": "So it's to be scorched-earth warfare, then? You would\ndeny your rival even the dignity of an honest answer?[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "tev000494_MSG0027",
+      "style": 1,
+      "name": "Very well. I shall succeed through my own strength,\nand never again turn to you for succor![ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "tev000494_MSG0028",
+      "style": 1,
+      "name": "How very like you to say that.[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "tev000494_MSG0029",
+      "style": 1,
+      "name": "It's true, you are certainly lucky to have a skilled\ncommander such as Elma.[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "tev000494_MSG0030",
+      "style": 1,
+      "name": "But she sees you as a trusted comrade as well.[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "tev000494_MSG0031",
+      "style": 1,
+      "name": "No reasonable person would waste effort propping up\na comrade who failed to pull [ST:gender p1=his p2=her ] own weight.[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "tev000494_MSG0032",
+      "style": 1,
+      "name": "I cannot believe I'm saying this to my rival, but...\nYou are who you are because of your own strength\nand ability. Not hers.[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "tev000494_MSG0033",
+      "style": 1,
+      "name": "Although...perhaps your humility IS your secret?\nOr a part of it, at least?[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "tev000494_MSG0034",
+      "style": 1,
+      "name": "I will study it, then, in hopes that it will lead me to\nemulate your success. Farewell for now.[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "tev000494_MSG0035",
+      "style": 1,
+      "name": "I see.[ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "tev000494_MSG0036",
+      "style": 1,
+      "name": "By completing a wide variety of assignments, you've\ngathered valuable experience.[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "tev000494_MSG0037",
+      "style": 1,
+      "name": "I certainly haven't forgotten how effortlessly you\ncompleted the mission that I pushed onto you when\nwe first met.[ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "tev000494_MSG0038",
+      "style": 1,
+      "name": "Perhaps I merely need more experience to bring out\nthe strength that lies within me.[ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "tev000494_MSG0039",
+      "style": 1,
+      "name": "Your advice is appreciated.[ST:wait ]"
+    },
+    {
+      "$id": 52,
+      "label": "tev000494_MSG0040",
+      "style": 1,
+      "name": "It seems I have outgrown my special training regimen.\nFrom now on, I will accept more missions in order to\nkeep pace with my rival.[ST:wait ]"
+    },
+    {
+      "$id": 53,
+      "label": "tev000494_MSG0041",
+      "style": 1,
+      "name": "I will begin by engaging in 10 assignments\nsimultaneously, then work my way up from there.[ST:wait ]"
+    },
+    {
+      "$id": 54,
+      "label": "tev000494_MSG0042",
+      "style": 1,
+      "name": "Farewell for now.[ST:wait ]"
+    }
+  ]
+}

@@ -1,0 +1,408 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev065201_MSG0003",
+      "style": 1,
+      "name": "Oh, [ST:playername ]. Good.[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev065201_MSG0004",
+      "style": 1,
+      "name": "Processing the data took time, but I'm finally close to\nthe information about my sisters. Once I have that,\nI should be able to free them.[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev065201_MSG0005",
+      "style": 1,
+      "name": "Ha ha! A powerless little Definian like you believes she\ncan thwart her mother's ambitions?[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev065201_MSG0006",
+      "style": 1,
+      "name": "Not alone. But with [ST:playername ]'s help,\nabsolutely.[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev065201_MSG0007",
+      "style": 1,
+      "name": "...Er, right? I'm sure you'll be able to overcome any\ntrick or trap she throws our way.[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev065201_JNK0010",
+      "style": 4,
+      "name": "Agree"
+    },
+    {
+      "$id": 7,
+      "label": "qev065201_SEL0011",
+      "style": 3,
+      "name": "Nod confidently."
+    },
+    {
+      "$id": 8,
+      "label": "qev065201_JNK0020",
+      "style": 4,
+      "name": "Fret"
+    },
+    {
+      "$id": 9,
+      "label": "qev065201_SEL0021",
+      "style": 3,
+      "name": "Frown and say that you're not so sure."
+    },
+    {
+      "$id": 10,
+      "label": "qev065201_MSG0008",
+      "style": 1,
+      "name": "And what will a single human do? That pathetic\ncreature is just another marionette dancing at my\ncommand.[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev065201_MSG0009",
+      "style": 1,
+      "name": "[ST:gender p1=He p2=She ] isn't like us Definians. If you look [ST:gender p1=him p2=her ] in the eye,\nsee [ST:gender p1=his p2=her ] confidence and resolve, and still feel nothing...\nthen I pity you, Mother.[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev065201_MSG0010",
+      "style": 1,
+      "name": "You have chosen a pathetic champion in this fight.\nThis meager wretch is no match for my daughters.[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev065201_MSG0011",
+      "style": 1,
+      "name": "Humans push through doubt as they find their own\nway. I see it as proof of their strength.[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev065201_MSG0012",
+      "style": 1,
+      "name": "Worry not, [ST:playername ].\nMy sisters have no will of their own.\nYou will never lose to them.[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev065201_MSG0013",
+      "style": 1,
+      "name": "...All right. The analysis is complete.[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev065201_MSG0014",
+      "style": 1,
+      "name": "...Wh-what?! Could Mother and so few Definians\nreally control all of my sisters?[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev065201_MSG0015",
+      "style": 1,
+      "name": "If this is true, then freeing my sisters should be easy—\nwe just have to dispose of the three Definians in that\nbase.[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev065201_MSG0016",
+      "style": 1,
+      "name": "Aaaah ha ha ha! You honestly think that THING there\nis capable of defeating the three sisters?![ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev065201_MSG0017",
+      "style": 1,
+      "name": "They are my finest masterpieces among all Definians!\nIf you so much as approach them, your death will be\nassured.[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev065201_MSG0018",
+      "style": 1,
+      "name": "I imagine this will be the last request I ever make of\nyou, [ST:playername ].[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev065201_MSG0019",
+      "style": 1,
+      "name": "Will you put an end to my kind's long history of\ndeception and subjugation?[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev065201_MSG0020",
+      "style": 1,
+      "name": "Thank you. I knew I could count on you.[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev065201_MSG0021",
+      "style": 1,
+      "name": "I'll obtain the access code to the base from Mother\nnow.[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev065201_MSG0022",
+      "style": 1,
+      "name": "That should allow you to face the three sisters.[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev065201_MSG0028",
+      "style": 1,
+      "name": "Hmm. It looks like the data block containing that access\ncode is quite heavily protected.[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev065201_MSG0029",
+      "style": 1,
+      "name": "I'll take another crack at breaking into it here.\nPerhaps you can also try prying it out of her yourself?[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev065201_MSG0030",
+      "style": 1,
+      "name": "Even with Mother gone, my kind cannot be free from\nher will so long as the three sisters live.[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev065201_MSG0031",
+      "style": 1,
+      "name": "You must head to their base in Cauldros and put an\nend to this forever.[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev065201_MSG0032",
+      "style": 1,
+      "name": "I am sorry, but I just don't think I have the technical\nskill to break through Mother's encryption.[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev065201_MSG0033",
+      "style": 1,
+      "name": "It would take someone with truly exceptional\nknowledge.[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev065201_MSG0034",
+      "style": 1,
+      "name": "Do you have any ideas? This city is a gathering place\nfor all kinds of aliens, after all, though I do not know\nmany of them.[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev065201_MSG0035",
+      "style": 1,
+      "name": "...He's from the future? Well, if true, he may well know\nhow to crack Mother's protection.[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev065201_MSG0036",
+      "style": 1,
+      "name": "But is it? True, I mean. It's a bit hard to swallow.[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev065201_MSG0037",
+      "style": 1,
+      "name": "Even with Mother under our control, my kind cannot be\nfree from her will so long as the three sisters live.[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev065201_MSG0038",
+      "style": 1,
+      "name": "You must head to their base in Cauldros and put an\nend to this forever.[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev065201_MSG0039",
+      "style": 1,
+      "name": "The voice that was always being broadcast into my\nhead has finally fallen silent.[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev065201_MSG0040",
+      "style": 1,
+      "name": "...Is it truly over?[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev065201_JNK0030",
+      "style": 4,
+      "name": "Confirm"
+    },
+    {
+      "$id": 39,
+      "label": "qev065201_SEL0031",
+      "style": 3,
+      "name": "Report that you killed the three sisters."
+    },
+    {
+      "$id": 40,
+      "label": "qev065201_JNK0040",
+      "style": 4,
+      "name": "Deny"
+    },
+    {
+      "$id": 41,
+      "label": "qev065201_SEL0041",
+      "style": 3,
+      "name": "Explain that hostile Definian forces still remain."
+    },
+    {
+      "$id": 42,
+      "label": "qev065201_MSG0041",
+      "style": 1,
+      "name": "Thank you. Now we can all finally be free of the\nmanufactured madness Mother and the sisters forced\nupon us.[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "qev065201_MSG0042",
+      "style": 1,
+      "name": "We Definians are by nature a weak-willed people.\nThat's why we were so easily coerced into crime.[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "qev065201_MSG0043",
+      "style": 1,
+      "name": "With the ones controlling my sisters removed,\nI can promise we'll make no further trouble.[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "qev065201_MSG0044",
+      "style": 1,
+      "name": "We'll simply blend into the things around us and\nlive out peaceful, quiet lives.[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "qev065201_MSG0045",
+      "style": 1,
+      "name": "Thank you for all that you've done,\nand for being so kind to someone like me.[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "qev065201_MSG0046",
+      "style": 1,
+      "name": "Take this. It's the least I can do in return.[ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "qev065201_MSG0047",
+      "style": 1,
+      "name": "I may not still look like this, but I'll be around the city.\nLet's meet again someday.[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "qev065201_MSG0048",
+      "style": 1,
+      "name": "The voice that was always being broadcast into my\nhead has finally fallen silent.[ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "qev065201_MSG0049",
+      "style": 1,
+      "name": "...Is it all finally over?[ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "qev065201_JNK0050",
+      "style": 4,
+      "name": "Confirm"
+    },
+    {
+      "$id": 52,
+      "label": "qev065201_SEL0051",
+      "style": 3,
+      "name": "Report that you killed the three sisters."
+    },
+    {
+      "$id": 53,
+      "label": "qev065201_JNK0060",
+      "style": 4,
+      "name": "Deny"
+    },
+    {
+      "$id": 54,
+      "label": "qev065201_SEL0061",
+      "style": 3,
+      "name": "Explain that hostile Definian forces still remain."
+    },
+    {
+      "$id": 55,
+      "label": "qev065201_MSG0050",
+      "style": 1,
+      "name": "Thank you. Now we can all finally be free of the\nmanufactured madness Mother and the sisters forced\nupon my sisters and I.[ST:wait ]"
+    },
+    {
+      "$id": 56,
+      "label": "qev065201_MSG0051",
+      "style": 1,
+      "name": "We Definians are by nature a weak-willed people.\nThat's why we were so easily coerced into crime.[ST:wait ]"
+    },
+    {
+      "$id": 57,
+      "label": "qev065201_MSG0052",
+      "style": 1,
+      "name": "With the ones controlling my sisters removed,\nI can promise they'll make no further trouble.[ST:wait ]"
+    },
+    {
+      "$id": 58,
+      "label": "qev065201_MSG0053",
+      "style": 1,
+      "name": "They'll simply blend into the things around them and\nlive out peaceful, quiet lives.[ST:wait ]"
+    },
+    {
+      "$id": 59,
+      "label": "qev065201_MSG0054",
+      "style": 1,
+      "name": "Thank you for all that you've done,\nand for being so kind to someone like me.[ST:wait ]"
+    },
+    {
+      "$id": 60,
+      "label": "qev065201_MSG0055",
+      "style": 1,
+      "name": "Take this. It's the least I can do in return.[ST:wait ]"
+    },
+    {
+      "$id": 61,
+      "label": "qev065201_MSG0056",
+      "style": 1,
+      "name": "I may not still look like this, but I'll be around the city.\nLet's meet again someday.[ST:wait ]"
+    },
+    {
+      "$id": 62,
+      "label": "qev065201_MSG0057",
+      "style": 1,
+      "name": "All right... C'mon, Mom![ST:wait ]"
+    },
+    {
+      "$id": 63,
+      "label": "qev065201_MSG0058",
+      "style": 1,
+      "name": "Ow! I will not be manhandled in this way!\nI am the ruler of all spa—HEY! What are you doing?![ST:wait ]"
+    },
+    {
+      "$id": 64,
+      "label": "qev065201_MSG0059",
+      "style": 1,
+      "name": "You're not ruler of anything anymore, Mom.\nYou're just a chatty ball, and I'm here to make sure\nthat you never forget it![ST:wait ]"
+    },
+    {
+      "$id": 65,
+      "label": "qev065201_MSG0060",
+      "style": 1,
+      "name": "Rrrgh! This is a violation of my rights and autonomy!\nYour parents should be ashamed![ST:wait ]"
+    }
+  ]
+}

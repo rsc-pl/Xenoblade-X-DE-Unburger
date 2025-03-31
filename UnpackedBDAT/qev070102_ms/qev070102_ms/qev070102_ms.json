@@ -1,0 +1,240 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev070102_MSG0001",
+      "style": 1,
+      "name": "Now, how's about I ask you a few questions and you\ngive me specific, concise answers?[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev070102_MSG0002",
+      "style": 1,
+      "name": "Run your mouth or try to lie, and we'll have to try\nagain in a setting you'll find a lot less...comfortable.[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev070102_MSG0003",
+      "style": 1,
+      "name": "You're smart—you don't want any needless trouble.\nBest for everyone involved if you just cooperate.[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev070102_MSG0004",
+      "style": 1,
+      "name": "So, question one—what did Professor B want from you?[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev070102_JNK0010",
+      "style": 4,
+      "name": "Answer"
+    },
+    {
+      "$id": 6,
+      "label": "qev070102_SEL0011",
+      "style": 3,
+      "name": "Reveal the job Professor B gave you."
+    },
+    {
+      "$id": 7,
+      "label": "qev070102_JNK0020",
+      "style": 4,
+      "name": "Query"
+    },
+    {
+      "$id": 8,
+      "label": "qev070102_SEL0021",
+      "style": 3,
+      "name": "Ask just who Gadd is."
+    },
+    {
+      "$id": 9,
+      "label": "qev070102_MSG0005",
+      "style": 1,
+      "name": "The hell does he want with that?[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev070102_MSG0006",
+      "style": 1,
+      "name": "I swear, the big guy's technology makes zero damned\nsense to us...[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev070102_MSG0007",
+      "style": 1,
+      "name": "I thought you were smart. Maybe I'm wrong.\nIs who I am more important than your own life?[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev070102_MSG0008",
+      "style": 1,
+      "name": "All right, fine by me. I'll just invite you to a VIP room\nwhere nobody can ever get in to help you.[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev070102_MSG0009",
+      "style": 1,
+      "name": "You'll have all the time in the world to see how I do\nmy job. Give ya the Gadd special! Heh heh...\nYou're never seeing home again, pal.[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev070102_MSG0010",
+      "style": 1,
+      "name": "On to question two—what do you know about the\nprofessor's research?[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev070102_JNK0030",
+      "style": 4,
+      "name": "Answer"
+    },
+    {
+      "$id": 16,
+      "label": "qev070102_SEL0031",
+      "style": 3,
+      "name": "Truthfully admit that you do not know anything."
+    },
+    {
+      "$id": 17,
+      "label": "qev070102_JNK0040",
+      "style": 4,
+      "name": "Query"
+    },
+    {
+      "$id": 18,
+      "label": "qev070102_SEL0041",
+      "style": 3,
+      "name": "Ask Gadd why he is interested in Professor B's work."
+    },
+    {
+      "$id": 19,
+      "label": "qev070102_MSG0011",
+      "style": 1,
+      "name": "Yeah, okay. Figures. He's a pretty cautious guy.\nWouldn't let anyone in too easy.[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev070102_MSG0012",
+      "style": 1,
+      "name": "It's a huge pain, but it looks like I'll have to kidnap the\nguy if I want a crack at that tech...[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev070102_MSG0013",
+      "style": 1,
+      "name": "I thought you were smart. Maybe I'm wrong.\nIs what I want more important than your own life?[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev070102_MSG0014",
+      "style": 1,
+      "name": "All right, fine by me. I'll just invite you to a VIP room\nwhere nobody can ever get in to help.[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev070102_MSG0015",
+      "style": 1,
+      "name": "You'll have all the time in the world to see how I do\nmy job. Give ya the Gadd special! Heh heh...\nYou're never seeing home again, pal.[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev070102_MSG0016",
+      "style": 1,
+      "name": "All right, you're doing great so far. A real champ.\nI just got one last question for you...[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev070102_MSG0017",
+      "style": 1,
+      "name": "Drowned in the sea or filled with holes here and now?\nHow would you rather die?[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev070102_JNK0050",
+      "style": 4,
+      "name": "Choose Sea"
+    },
+    {
+      "$id": 27,
+      "label": "qev070102_SEL0051",
+      "style": 3,
+      "name": "Say that you would prefer to drown."
+    },
+    {
+      "$id": 28,
+      "label": "qev070102_JNK0060",
+      "style": 4,
+      "name": "Choose Holes"
+    },
+    {
+      "$id": 29,
+      "label": "qev070102_SEL0061",
+      "style": 3,
+      "name": "Tell Gadd that you definitely prefer the holes."
+    },
+    {
+      "$id": 30,
+      "label": "qev070102_JNK0070",
+      "style": 4,
+      "name": "Refuse"
+    },
+    {
+      "$id": 31,
+      "label": "qev070102_SEL0071",
+      "style": 3,
+      "name": "Explain that you do not plan on dying today."
+    },
+    {
+      "$id": 32,
+      "label": "qev070102_MSG0018",
+      "style": 1,
+      "name": "Hey, all right! I was hoping to hit the beach today.[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev070102_MSG0019",
+      "style": 1,
+      "name": "Don't worry—I promise to make it nice and painless.\nThe waves will rock you to sleep like your dear ol' ma.[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev070102_MSG0020",
+      "style": 1,
+      "name": "Hey, [ST:gender p1=he p2=she ] wants to go out with a bang! I like it![ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev070102_MSG0021",
+      "style": 1,
+      "name": "You got it, boss. I'll put so many bullets into you,\nyour dear ol' ma won't even recognize ya![ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev070102_MSG0022",
+      "style": 1,
+      "name": "Well, ain't you the confident one?[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev070102_MSG0023",
+      "style": 1,
+      "name": "The good news is you won't live to regret it long.\nNow die pissing yourself, ya cocky punk![ST:wait ]"
+    }
+  ]
+}

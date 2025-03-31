@@ -1,0 +1,438 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "RNK_Name_TA001",
+      "style": 34,
+      "name": "\"Xeno from the Abyss\" Time Attack: Best clear time"
+    },
+    {
+      "$id": 2,
+      "label": "RNK_Name_TA002",
+      "style": 34,
+      "name": "\"The Infernal Beast\" Time Attack: Best clear time"
+    },
+    {
+      "$id": 3,
+      "label": "RNK_Name_TA003",
+      "style": 34,
+      "name": "\"Beauty and the Beast\" Time Attack: Best clear time"
+    },
+    {
+      "$id": 4,
+      "label": "RNK_Name_TA004",
+      "style": 34,
+      "name": "\"The Wrothian Samurai\" Time Attack: Best clear time"
+    },
+    {
+      "$id": 5,
+      "label": "RNK_Name_TA005",
+      "style": 34,
+      "name": "\"The Expert Warrior\" Time Attack: Best clear time"
+    },
+    {
+      "$id": 6,
+      "label": "RNK_Name_TA006",
+      "style": 34,
+      "name": "\"Dark Matter Phantom\" Time Attack: Best clear time"
+    },
+    {
+      "$id": 7,
+      "label": "RNK_Name_TA007",
+      "style": 34,
+      "name": ""
+    },
+    {
+      "$id": 8,
+      "label": "RNK_Name_TA008",
+      "style": 34,
+      "name": ""
+    },
+    {
+      "$id": 9,
+      "label": "RNK_Name_TA009",
+      "style": 34,
+      "name": "\"Twin Dolls of Mystery\" Time Attack: Best clear time"
+    },
+    {
+      "$id": 10,
+      "label": "RNK_Name_TA010",
+      "style": 34,
+      "name": "\"Gone Berserk\" Time Attack: Best clear time"
+    },
+    {
+      "$id": 11,
+      "label": "RNK_Name_11",
+      "style": 34,
+      "name": ""
+    },
+    {
+      "$id": 12,
+      "label": "RNK_Name_12",
+      "style": 34,
+      "name": ""
+    },
+    {
+      "$id": 13,
+      "label": "RNK_Name_13",
+      "style": 34,
+      "name": ""
+    },
+    {
+      "$id": 14,
+      "label": "RNK_Name_14",
+      "style": 34,
+      "name": ""
+    },
+    {
+      "$id": 15,
+      "label": "RNK_Name_15",
+      "style": 34,
+      "name": ""
+    },
+    {
+      "$id": 16,
+      "label": "RNK_Name_16",
+      "style": 34,
+      "name": ""
+    },
+    {
+      "$id": 17,
+      "label": "RNK_Name_17",
+      "style": 34,
+      "name": ""
+    },
+    {
+      "$id": 18,
+      "label": "RNK_Name_18",
+      "style": 34,
+      "name": ""
+    },
+    {
+      "$id": 19,
+      "label": "RNK_Name_19",
+      "style": 34,
+      "name": ""
+    },
+    {
+      "$id": 20,
+      "label": "RNK_Name_20",
+      "style": 34,
+      "name": ""
+    },
+    {
+      "$id": 21,
+      "label": "RNK_Name_21",
+      "style": 34,
+      "name": "Enemy Slayer: Number of enemies killed"
+    },
+    {
+      "$id": 22,
+      "label": "RNK_Name_22",
+      "style": 34,
+      "name": "Nemesis Destroyer: Total RP claimed"
+    },
+    {
+      "$id": 23,
+      "label": "RNK_Name_23",
+      "style": 34,
+      "name": "Sakuraba Fan: Max SA weapon damage"
+    },
+    {
+      "$id": 24,
+      "label": "RNK_Name_24",
+      "style": 34,
+      "name": "Grenada Fan: Max GG weapon damage"
+    },
+    {
+      "$id": 25,
+      "label": "RNK_Name_25",
+      "style": 34,
+      "name": "C&C Fan: Max CC weapon damage"
+    },
+    {
+      "$id": 26,
+      "label": "RNK_Name_26",
+      "style": 34,
+      "name": "Meredith Fan: Max ME weapon damage"
+    },
+    {
+      "$id": 27,
+      "label": "RNK_Name_27",
+      "style": 34,
+      "name": "Six Stars Fan: Max SS weapon damage"
+    },
+    {
+      "$id": 28,
+      "label": "RNK_Name_28",
+      "style": 34,
+      "name": "Orphean Fan: Max OR weapon damage"
+    },
+    {
+      "$id": 29,
+      "label": "RNK_Name_29",
+      "style": 34,
+      "name": "Nopon CG Fan: Max NP weapon damage"
+    },
+    {
+      "$id": 30,
+      "label": "RNK_Name_30",
+      "style": 34,
+      "name": "Factory 1.21 Fan: Max FC weapon damage"
+    },
+    {
+      "$id": 31,
+      "label": "RNK_Name_31",
+      "style": 34,
+      "name": "Rescue Crew: HP recovered with Arts"
+    },
+    {
+      "$id": 32,
+      "label": "RNK_Name_32",
+      "style": 34,
+      "name": "Naked Slayer: Enemies killed while unequipped"
+    },
+    {
+      "$id": 33,
+      "label": "RNK_Name_33",
+      "style": 34,
+      "name": "Pro Packrat: Number of collected items"
+    },
+    {
+      "$id": 34,
+      "label": "RNK_Name_34",
+      "style": 34,
+      "name": "Mission Master: Number of missions completed"
+    },
+    {
+      "$id": 35,
+      "label": "RNK_Name_35",
+      "style": 34,
+      "name": ""
+    },
+    {
+      "$id": 36,
+      "label": "RNK_Name_36",
+      "style": 34,
+      "name": ""
+    },
+    {
+      "$id": 37,
+      "label": "RNK_Name_37",
+      "style": 34,
+      "name": "Social Butterfly: Number of co-op partners"
+    },
+    {
+      "$id": 38,
+      "label": "RNK_Name_38",
+      "style": 34,
+      "name": ""
+    },
+    {
+      "$id": 39,
+      "label": "RNK_Name_39",
+      "style": 34,
+      "name": "Golden Retriever: Number of gold drops opened"
+    },
+    {
+      "$id": 40,
+      "label": "RNK_Name_40",
+      "style": 34,
+      "name": "Financial Backer: Total credits earned"
+    },
+    {
+      "$id": 41,
+      "label": "RNK_Name_41",
+      "style": 34,
+      "name": "Spoiled Brat: Weapons obtained from battle spoils"
+    },
+    {
+      "$id": 42,
+      "label": "RNK_Name_42",
+      "style": 34,
+      "name": ""
+    },
+    {
+      "$id": 43,
+      "label": "RNK_Name_43",
+      "style": 34,
+      "name": "Heavy Hitter: Maximum damage"
+    },
+    {
+      "$id": 44,
+      "label": "RNK_Name_44",
+      "style": 34,
+      "name": "Sole Survivor: Battles won with single-digit HP left"
+    },
+    {
+      "$id": 45,
+      "label": "RNK_Name_45",
+      "style": 34,
+      "name": "Lucky Stiff: Battles won with 777 HP left"
+    },
+    {
+      "$id": 46,
+      "label": "RNK_Name_46",
+      "style": 34,
+      "name": "Fearless Hunter: Online missions cleared unequipped"
+    },
+    {
+      "$id": 47,
+      "label": "RNK_Name_47",
+      "style": 34,
+      "name": "Beach Bum: Number of swimsuits obtained"
+    },
+    {
+      "$id": 48,
+      "label": "RNK_Name_48",
+      "style": 34,
+      "name": "Caretaker: Times revived from incapacitation"
+    },
+    {
+      "$id": 49,
+      "label": "RNK_Name_49",
+      "style": 34,
+      "name": "Caregiver: Revived others from incapacitation"
+    },
+    {
+      "$id": 50,
+      "label": "RNK_Name_50",
+      "style": 34,
+      "name": "Deep Diver: Times fell into a pit"
+    },
+    {
+      "$id": 51,
+      "label": "RNK_Name_51",
+      "style": 34,
+      "name": "Treasure Hunter: Number of treasures opened"
+    },
+    {
+      "$id": 52,
+      "label": "RNK_Name_52",
+      "style": 34,
+      "name": "Soul Speaker: Successful Soul Voice attempts"
+    },
+    {
+      "$id": 53,
+      "label": "RNK_Name_53",
+      "style": 34,
+      "name": "Miranium Miner: Total miranium mined"
+    },
+    {
+      "$id": 54,
+      "label": "RNK_Name_54",
+      "style": 34,
+      "name": "Rain Singer: Times caught in the rain"
+    },
+    {
+      "$id": 55,
+      "label": "RNK_Name_55",
+      "style": 34,
+      "name": "Chief Crusher: Enemy appendages destroyed"
+    },
+    {
+      "$id": 56,
+      "label": "RNK_Name_56",
+      "style": 34,
+      "name": ""
+    },
+    {
+      "$id": 57,
+      "label": "RNK_Name_57",
+      "style": 34,
+      "name": "Skellraiser: Skells repaired with Arts"
+    },
+    {
+      "$id": 58,
+      "label": "RNK_Name_58",
+      "style": 34,
+      "name": "Skellwrecker: Skells wrecked"
+    },
+    {
+      "$id": 59,
+      "label": "RNK_Name_59",
+      "style": 34,
+      "name": "Party Crasher: Number of party wipes"
+    },
+    {
+      "$id": 60,
+      "label": "RNK_Name_60",
+      "style": 34,
+      "name": "Top Talent: Number of times scouted"
+    },
+    {
+      "$id": 61,
+      "label": "RNK_Name_61",
+      "style": 34,
+      "name": "Rabid Recruiter: Number of times scouting others"
+    },
+    {
+      "$id": 62,
+      "label": "RNK_Name_62",
+      "style": 34,
+      "name": "Seasoned Traveler: Number of fast travel uses"
+    },
+    {
+      "$id": 63,
+      "label": "RNK_Name_63",
+      "style": 34,
+      "name": ""
+    },
+    {
+      "$id": 64,
+      "label": "RNK_Name_64",
+      "style": 34,
+      "name": ""
+    },
+    {
+      "$id": 65,
+      "label": "RNK_Name_65",
+      "style": 34,
+      "name": ""
+    },
+    {
+      "$id": 66,
+      "label": "RNK_Name_66",
+      "style": 34,
+      "name": ""
+    },
+    {
+      "$id": 67,
+      "label": "RNK_Name_67",
+      "style": 34,
+      "name": ""
+    },
+    {
+      "$id": 68,
+      "label": "RNK_Name_68",
+      "style": 34,
+      "name": ""
+    },
+    {
+      "$id": 69,
+      "label": "RNK_Name_69",
+      "style": 34,
+      "name": ""
+    },
+    {
+      "$id": 70,
+      "label": "RNK_Name_70",
+      "style": 34,
+      "name": ""
+    }
+  ]
+}

@@ -1,0 +1,282 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev060101_JNK0010",
+      "style": 4,
+      "name": "Inquire[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev060101_SEL0011",
+      "style": 3,
+      "name": "Ask Kupee about the caravan.[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev060101_JNK0020",
+      "style": 4,
+      "name": "Discuss[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev060101_SEL0021",
+      "style": 3,
+      "name": "Ask Kupee if anything is troubling her.[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev060101_MSG0001",
+      "style": 1,
+      "name": "Welcome, traveler![ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "tev060101_MSG0002",
+      "style": 1,
+      "name": "This is Dopang Caravan, warm and caring home of\nNopon who prefer quiet, peaceful life.[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "tev060101_MSG0003",
+      "style": 1,
+      "name": "Friend should rest now after long journey.\nCaravan can be like second home to friend![ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "tev060101_MSG0004",
+      "style": 1,
+      "name": "...Oh, and if friend has any questions or problems,\njust ask Kupee.[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "tev060101_MSG0005",
+      "style": 1,
+      "name": "Kupee take job as leader seriously and want friend\nto feel taken care of.[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "tev060101_MSG0008",
+      "style": 1,
+      "name": "Hmm... Kupee does have troubles, but Kupee should\ntry to figure out solution alone first. ...Hrrrrrrg![ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev060101_MSG0009",
+      "style": 1,
+      "name": "...H-hrr-hrrrRRRRG! *gasp* *wheeze* *pant*\nMeh-meh. Maybe Kupee thinking too hard.\nBrain about to have meltdown![ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "tev060101_MSG0010",
+      "style": 1,
+      "name": "Maybe Kupee should just go ahead and ask friend for\nhelp instead...[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "tev060101_SEL1011",
+      "style": 3,
+      "name": "Ask Kupee about Sylvalum.[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "tev060101_SEL1021",
+      "style": 3,
+      "name": "Ask Kupee about recent developments.[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "tev060101_SEL1031",
+      "style": 3,
+      "name": "Ask Kupee about the humans\nwho have come to Sylvalum.[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "tev060101_SEL1041",
+      "style": 3,
+      "name": "Ask Kupee about the humans\nwho have come to Sylvalum.[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "tev060101_MSG0011",
+      "style": 1,
+      "name": "Friend sees big round thing floating up there?[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "tev060101_MSG0012",
+      "style": 1,
+      "name": "That is mystic place called noctilucent sphere![ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "tev060101_MSG0013",
+      "style": 1,
+      "name": "Very shiny and sparkling inside, although friend might\nnot be able to get there.[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "tev060101_MSG0014",
+      "style": 1,
+      "name": "No roads lead to it, so friend will just have to learn\nhow to fly.[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "tev060101_MSG0015",
+      "style": 1,
+      "name": "Too bad friend does not have wings like Kupee!\nThen friend could flappity-flap right up there.[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "tev060101_MSG0018",
+      "style": 1,
+      "name": "For some reason, Mira attracting awful lot of aliens\nlately.[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "tev060101_MSG0019",
+      "style": 1,
+      "name": "There are human friends, Ganglion, and Mysteroids.\n...Er, Kupee probably forgetting some others.[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "tev060101_MSG0020",
+      "style": 1,
+      "name": "There might even be secret aliens Kupee not meet yet!\nFriend never knows.[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "tev060101_MSG0021",
+      "style": 1,
+      "name": "Anyway, so long as aliens here, Kupee hope they\nenjoy time on Mira.[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "tev060101_MSG0022",
+      "style": 1,
+      "name": "Kupee make sure all aliens treated right and get help\nthey need at Dopang Caravan.[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "tev060101_MSG0030",
+      "style": 1,
+      "name": "Kupee recently see lots of human friends congregating\nnear Shivering Sands.[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "tev060101_MSG0032",
+      "style": 1,
+      "name": "Kupee warn friends that vicious Prone patrol area.[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "tev060101_MSG0033",
+      "style": 1,
+      "name": "Sylvalum is very beautiful, but also full of danger.[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "tev060101_MSG0034",
+      "style": 1,
+      "name": "Worst when haze sets in and friends cannot see where\nthey are going. So be careful![ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "tev060101_MSG0039",
+      "style": 1,
+      "name": "Kupee heard sad news about human friends\ncongregating near Shivering Sands.[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "tev060101_MSG0040",
+      "style": 1,
+      "name": "Apparently Prone did them all in. So sad![ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "tev060101_MSG0041",
+      "style": 1,
+      "name": "Also, human friends got turned into weapons!\nProne really are stupid jerkfaces...[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "tev060101_MSG0042",
+      "style": 1,
+      "name": "Prone probably turn Nopon they catch into cushions\nand sit on them until stuffing is squished out.[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "tev060101_MSG0043",
+      "style": 1,
+      "name": "See big round thing floating up there?[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "tev060101_MSG0044",
+      "style": 1,
+      "name": "That is mystic place called noctilucent sphere.\nKupee love it there.[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "tev060101_MSG0045",
+      "style": 1,
+      "name": "Kupee had not been for while, but other day decided\nto pop in and have little bit of chill time.[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "tev060101_MSG0046",
+      "style": 1,
+      "name": "Bad idea! Monster called Pharsis, the Everqueen\nmove in and strut around like she own place!\nKupee not get any chill time at all.[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "tev060101_MSG0047",
+      "style": 1,
+      "name": "If Everqueen was even just a little bit adorable,\nKupee might have tried to make friends. But nope![ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "tev060101_SEL2021",
+      "style": 3,
+      "name": "Ask Kupee about recent developments.[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "tev060101_MSG2001",
+      "style": 1,
+      "name": "Lots of Nopon say such bad things about Elder Nan.\nHow elder is spoiled... Or coward... Or total pervert...[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "tev060101_MSG2002",
+      "style": 1,
+      "name": "But Kupee know elder is thinking about Nopon future![ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "tev060101_MSG2003",
+      "style": 1,
+      "name": "Elder only tell Nopon to move to New LA to protect\nthem from mean and dangerous Ganglion.[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "tev060101_MSG2004",
+      "style": 1,
+      "name": "But Kupee has to stay with caravan great Dopang\npassed down to her instead of heading into city,\nwhich is kind of scary.[ST:wait ]"
+    }
+  ]
+}

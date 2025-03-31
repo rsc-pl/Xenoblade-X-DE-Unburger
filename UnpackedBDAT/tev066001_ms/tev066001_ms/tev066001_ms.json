@@ -1,0 +1,234 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev066001_JNK0010",
+      "style": 4,
+      "name": "Inquire[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev066001_SEL0011",
+      "style": 3,
+      "name": "Ask Da Naguth about the Wrothians.[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev066001_JNK0020",
+      "style": 4,
+      "name": "Discuss[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev066001_SEL0021",
+      "style": 3,
+      "name": "Ask Da Naguth if anything is troubling him.[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev066001_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 6,
+      "label": "tev066001_SEL0031",
+      "style": 3,
+      "name": "Ask Da Naguth about the Ganglion.[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "tev066001_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 8,
+      "label": "tev066001_SEL0041",
+      "style": 3,
+      "name": "Ask Da Naguth about recent developments.[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "tev066001_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 10,
+      "label": "tev066001_SEL0031",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 11,
+      "label": "tev066001_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 12,
+      "label": "tev066001_SEL1021",
+      "style": 3,
+      "name": "Ask Da Naguth about recent developments.[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "tev066001_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 14,
+      "label": "tev066001_SEL1031",
+      "style": 3,
+      "name": "Ask Da Naguth about the Ganglion.[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "tev066001_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 16,
+      "label": "tev066001_SEL1021",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 17,
+      "label": "tev066001_MSG0001",
+      "style": 1,
+      "name": "A human? What business have you here?[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "tev066001_MSG0002",
+      "style": 1,
+      "name": "Have you come seeking revenge?[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "tev066001_MSG0003",
+      "style": 1,
+      "name": "Know that we no longer serve the Ganglion,\nand thus have no quarrel with you.[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "tev066001_MSG0004",
+      "style": 1,
+      "name": "But if you insist on a fight, you will get one!\n...Well? Why do you not draw your weapon?![ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "tev066001_MSG0009",
+      "style": 1,
+      "name": "We are the Wrothians, human! Our strength is legend!\nOur pride is endless![ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "tev066001_MSG0010",
+      "style": 1,
+      "name": "And impoverished though we may be,\nwe do not want your aid.[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "tev066001_MSG0015",
+      "style": 1,
+      "name": "The cold-blooded scoundrels think only of increasing\nSamaar's territory. Their members scheme and plot with\nno compunction.[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "tev066001_MSG0016",
+      "style": 1,
+      "name": "And yet we joined them in their wretched acts...\nThough circumstances forced our decision,\nthese sins still weigh heavy on my heart.[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "tev066001_MSG0017",
+      "style": 1,
+      "name": "I will strike them all down someday,\neven if it costs me my life.[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "tev066001_MSG0021",
+      "style": 1,
+      "name": "If Prince Jiarg has forged an alliance with you,\nthen it is for us to obey.[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "tev066001_MSG0022",
+      "style": 1,
+      "name": "My siblings and I are the Three Talons!\nSend us against the Ganglion, and we shall annihilate\nthem like Wrothians possessed![ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "tev066001_MSG0023",
+      "style": 1,
+      "name": "You will see when the time comes.\nNo human can fight the way we do.[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "tev066001_MSG1001",
+      "style": 1,
+      "name": "I saw your battle with that wretched queen jacul,\n[ST:playername ]. You fought brilliantly.[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "tev066001_MSG1002",
+      "style": 1,
+      "name": "In fact, I have never seen a warrior fight with such\nferocity even among my own people.[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "tev066001_MSG1003",
+      "style": 1,
+      "name": "I am honored to have joined forces with you.\nMay we meet again on some other battlefield.[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "tev066001_MSG1004",
+      "style": 1,
+      "name": "Next time, it will be Da Naguth, Cutting Wind of the\nThree Talons, who rescues YOU from danger![ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "tev066001_MSG1009",
+      "style": 1,
+      "name": "I thank you for bringing the Ganglion to their end.[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "tev066001_MSG1010",
+      "style": 1,
+      "name": "But it should have been the Wrothians.\nWe must atone for the atrocities we inflicted at their\nbehest upon so many alien races.[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "tev066001_MSG1011",
+      "style": 1,
+      "name": "I hear many of the Ganglion's forces continue to put up\na fight in Cauldros.[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "tev066001_MSG1012",
+      "style": 1,
+      "name": "If nothing else, let my fellow Wrothians help you scatter\nthose fiends to the wind.[ST:wait ]"
+    }
+  ]
+}

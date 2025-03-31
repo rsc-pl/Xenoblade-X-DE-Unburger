@@ -1,0 +1,414 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev056401_MSG0001",
+      "style": 1,
+      "name": "Mmm... This matter is far too important to ignore.\nIt represents a serious problem for the Orphe as well.[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev056401_MSG0002",
+      "style": 1,
+      "name": "We Orphe will lend our skills to humankind.\nIn return, I ask that you assist us.[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev056401_JNK0010",
+      "style": 4,
+      "name": "Inquire"
+    },
+    {
+      "$id": 4,
+      "label": "qev056401_SEL0011",
+      "style": 3,
+      "name": "Ask to hear more about the Orphe's problem."
+    },
+    {
+      "$id": 5,
+      "label": "qev056401_JNK0020",
+      "style": 4,
+      "name": "Query"
+    },
+    {
+      "$id": 6,
+      "label": "qev056401_SEL0021",
+      "style": 3,
+      "name": "Ask what matter Tan'celeg is talking about."
+    },
+    {
+      "$id": 7,
+      "label": "qev056401_MSG0003",
+      "style": 1,
+      "name": "It relates to the security of the Biahno water-purification\nplant.[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev056401_MSG0004",
+      "style": 1,
+      "name": "There was an incident in which humans were attacked\non-site by cantors.[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev056401_MSG0005",
+      "style": 1,
+      "name": "We Orphe have a plan to ensure that tragedy is\nnever repeated.[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev056401_MSG0006",
+      "style": 1,
+      "name": "But it requires your kind to participate as well.\nAs it is a proposal that would benefit us both,\nI hope we can work together to make it happen.[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev056401_MSG0007",
+      "style": 1,
+      "name": "The attack at the Biahno water-purification plant.[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev056401_MSG0008",
+      "style": 1,
+      "name": "Primordial creatures called cantors attacked a number\nof humans working on-site there.[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev056401_MSG0009",
+      "style": 1,
+      "name": "We Orphe have a plan to ensure that tragedy is\nnever repeated.[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev056401_MSG0010",
+      "style": 1,
+      "name": "But it requires your kind to participate as well.\nAs it is a proposal that would benefit us both,\nI hope we can work together to make it happen.[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev056401_JNK0050",
+      "style": 4,
+      "name": "Ask about Benefits"
+    },
+    {
+      "$id": 16,
+      "label": "qev056401_SEL0051",
+      "style": 3,
+      "name": "Ask what the Orphe stand to gain."
+    },
+    {
+      "$id": 17,
+      "label": "qev056401_JNK0060",
+      "style": 4,
+      "name": "Ask about Plans"
+    },
+    {
+      "$id": 18,
+      "label": "qev056401_SEL0061",
+      "style": 3,
+      "name": "Ask Tan'celeg to explain his scheme."
+    },
+    {
+      "$id": 19,
+      "label": "qev056401_MSG0013",
+      "style": 1,
+      "name": "I expect you are aware that we Orpheans require\nsenirapa water in order to reproduce?[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev056401_MSG0014",
+      "style": 1,
+      "name": "The process by which we manufacture that water relies\non the Biahno plant functioning.[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev056401_MSG0015",
+      "style": 1,
+      "name": "We cannot allow it to be jeopardized by primordial\ncreatures.[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev056401_MSG0016",
+      "style": 1,
+      "name": "So then, how to defend it? You humans are too few in\nnumber, and I expect there is a limit to what can be\nasked of your fellow BLADE operatives.[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev056401_MSG0017",
+      "style": 1,
+      "name": "Instead, we propose autosentries.[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev056401_MSG0018",
+      "style": 1,
+      "name": "We propose that autosentries be used to defend the\nplant and surrounding area.[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev056401_MSG0019",
+      "style": 1,
+      "name": "You humans are too few in number, and I expect there\nis a limit to what can be asked of your fellow BLADE\noperatives.[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev056401_MSG0020",
+      "style": 1,
+      "name": "I assume you are aware that we require senirapa water\nin order to reproduce?[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev056401_MSG0021",
+      "style": 1,
+      "name": "The process by which we manufacture that water relies\non the Biahno plant functioning.[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev056401_MSG0022",
+      "style": 1,
+      "name": "We cannot allow it to be jeopardized by primordial\ncreatures, and believe this machine is the solution.[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev056401_MSG0023",
+      "style": 1,
+      "name": "The autosentries will be unmanned and fully automatic.[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev056401_MSG0024",
+      "style": 1,
+      "name": "They should be more than sufficient to defend both the\nlake and the purification plant itself.[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev056401_MSG0025",
+      "style": 1,
+      "name": "We are already hard at work on construction of a\nprototype, but have come up short on a few parts.[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev056401_MSG0026",
+      "style": 1,
+      "name": "I would like to ask you to procure the necessary\nOuroboros crystals and eradicator eyepieces\nso we can complete our work.[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev056401_MSG0027",
+      "style": 1,
+      "name": "You should be able to obtain both outside of New LA.\nYour help is most appreciated.[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev056401_MSG0028",
+      "style": 1,
+      "name": "We lack the parts necessary to build our prototype\nautosentry.[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev056401_MSG0029",
+      "style": 1,
+      "name": "Once we have those Ouroboros crystals\nand eradicator eyepieces, it should be\nsimple work to complete its assembly.[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev056401_MSG0030",
+      "style": 1,
+      "name": "You should be able to procure both outside of New LA.\nYour help is most appreciated.[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev056401_MSG0031",
+      "style": 1,
+      "name": "Work here is nearly complete.\nNow we are just waiting on the parts I requested.[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev056401_MSG0032",
+      "style": 1,
+      "name": "How is your search progressing? Have you procured\nthe Ouroboros crystals and eradicator eyepieces?"
+    },
+    {
+      "$id": 39,
+      "label": "qev056401_MSG0033",
+      "style": 1,
+      "name": "Flawless work.\nI see I found the right [ST:gender p1=man  p2=woman  ]for the job.[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "qev056401_MSG0034",
+      "style": 1,
+      "name": "Once these are installed, we will be ready to begin\ncombat testing.[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "qev056401_MSG0035",
+      "style": 1,
+      "name": "Your help would be most welcome with that phase too,\nif you can spare the time?[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "qev056401_MSG0036",
+      "style": 1,
+      "name": "The prototype autosentry has already been transported\nto the Outfitters test hangar.[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "qev056401_MSG0037",
+      "style": 1,
+      "name": "If you are able to assist us once again, please meet me\nthere after making any necessary preparations.[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "qev056401_MSG0038",
+      "style": 1,
+      "name": "Thank you for coming.\nI just finished making the final adjustments.[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "qev056401_MSG0039",
+      "style": 1,
+      "name": "Well? What do you think?\nConsidering its role is defending a human facility,\nI tried to cater the design to reflect human tastes.[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "qev056401_MSG0040",
+      "style": 1,
+      "name": "Your people have a fondness for designs like this, no?\nAs such, I trust that you will like it as well.[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "qev056401_JNK0030",
+      "style": 4,
+      "name": "Confirm"
+    },
+    {
+      "$id": 48,
+      "label": "qev056401_SEL0031",
+      "style": 3,
+      "name": "Say that you find it quite pleasing."
+    },
+    {
+      "$id": 49,
+      "label": "qev056401_JNK0040",
+      "style": 4,
+      "name": "Deny"
+    },
+    {
+      "$id": 50,
+      "label": "qev056401_SEL0041",
+      "style": 3,
+      "name": "Blurt out that it looks weak."
+    },
+    {
+      "$id": 51,
+      "label": "qev056401_MSG0041",
+      "style": 1,
+      "name": "Wonderful. Earlier designs crafted according to an\nOrphean aesthetic standard ran into problems,\nin that they tended to...terrify humans.[ST:wait ]"
+    },
+    {
+      "$id": 52,
+      "label": "qev056401_MSG0042",
+      "style": 1,
+      "name": "I am glad our adjustments were successful.[ST:wait ]"
+    },
+    {
+      "$id": 53,
+      "label": "qev056401_MSG0043",
+      "style": 1,
+      "name": "Though its easily accepted exterior is less important\nthan the cutting-edge Orphean technology inside.[ST:wait ]"
+    },
+    {
+      "$id": 54,
+      "label": "qev056401_MSG0044",
+      "style": 1,
+      "name": "Hrmm. The nuances of your human sensibilities are\ndifficult to grasp.[ST:wait ]"
+    },
+    {
+      "$id": 55,
+      "label": "qev056401_MSG0045",
+      "style": 1,
+      "name": "Regardless, the exterior is less important than the\ncutting-edge Orphean technology inside.[ST:wait ]"
+    },
+    {
+      "$id": 56,
+      "label": "qev056401_MSG0046",
+      "style": 1,
+      "name": "I urge you to bring total focus to this test.\nA moment's inattention could lead to grave injury.[ST:wait ]"
+    },
+    {
+      "$id": 57,
+      "label": "qev056401_MSG0047",
+      "style": 1,
+      "name": "Are you ready to begin?\nThe more combat data you can provide us, the better.[ST:wait ]"
+    },
+    {
+      "$id": 58,
+      "label": "qev056401_MSG0048",
+      "style": 1,
+      "name": "Thank you.\nYou have given us excellent data.[ST:wait ]"
+    },
+    {
+      "$id": 59,
+      "label": "qev056401_MSG0049",
+      "style": 1,
+      "name": "We will use these results to improve on our design,\nthen deploy the autosentries en masse to Biahno Lake.[ST:wait ]"
+    },
+    {
+      "$id": 60,
+      "label": "qev056401_MSG0050",
+      "style": 1,
+      "name": "I am certain they will keep the water-purification plant\nsafe and clear of even the most ferocious primordial\ncreatures.[ST:wait ]"
+    },
+    {
+      "$id": 61,
+      "label": "qev056401_MSG0051",
+      "style": 1,
+      "name": "And as a result, we will have a steady supply of pure\nwater with which to synthesize senirapa water.[ST:wait ]"
+    },
+    {
+      "$id": 62,
+      "label": "qev056401_MSG0052",
+      "style": 1,
+      "name": "That will allow us to steadily increase our numbers.[ST:wait ]"
+    },
+    {
+      "$id": 63,
+      "label": "qev056401_MSG0053",
+      "style": 1,
+      "name": "All excellent news for us Orphe.[ST:wait ]"
+    },
+    {
+      "$id": 64,
+      "label": "qev056401_MSG0054",
+      "style": 1,
+      "name": "I had planned to run combat tests for the autosentry\nin the Outfitters test hangar, but it seems someone\nhas beaten me to the space.[ST:wait ]"
+    },
+    {
+      "$id": 65,
+      "label": "qev056401_MSG0055",
+      "style": 1,
+      "name": "I was asked to wait until they are done.[ST:wait ]"
+    },
+    {
+      "$id": 66,
+      "label": "qev056401_MSG0056",
+      "style": 1,
+      "name": "I see no alternative but to be patient.[ST:wait ]"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev016002_MSG0001",
+      "style": 1,
+      "name": "Hey! You're that new [ST:gender p1=guy p2=gal ], aren'tcha?[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev016002_MSG0002",
+      "style": 1,
+      "name": "The new crew member that Elma found, right?\nI was wondering what sorta person you'd be.[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev016002_MSG0003",
+      "style": 1,
+      "name": "You're a handsome one, that's for sure...\nYessir! I like the cut of your jib.[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev016002_MSG0004",
+      "style": 1,
+      "name": "You're a pretty one, that's for sure...\nYes, ma'am! I like the cut of your jib.[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev016002_MSG0005",
+      "style": 1,
+      "name": "Well, welcome to New LA. We're happy to have you.[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "tev016002_MSG0006",
+      "style": 1,
+      "name": "I'm sure there's all sorts of stuff you have to do before\nyou get situated, eh? Paperwork and whatnot?[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "tev016002_MSG0007",
+      "style": 1,
+      "name": "In that case, you can just hop right into that transport\nthat's idling over there, and it'll take you straight to the\nadministrative district.[ST:wait ]"
+    }
+  ]
+}

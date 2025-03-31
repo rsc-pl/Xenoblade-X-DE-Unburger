@@ -1,0 +1,420 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "TEST_FLD_Console001",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 2,
+      "label": "TEST_FLD_Console002",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 3,
+      "label": "TEST_FLD_Console003",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 4,
+      "label": "TEST_FLD_Console004",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 5,
+      "label": "TEST_FLD_Console005",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 6,
+      "label": "TEST_FLD_Console006",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 7,
+      "label": "TEST_FLD_Console007",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 8,
+      "label": "TEST_FLD_Console008",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 9,
+      "label": "TEST_FLD_Console009",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 10,
+      "label": "TEST_FLD_Console010",
+      "style": 113,
+      "name": "Calling elevator...[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "TEST_FLD_Console011",
+      "style": 113,
+      "name": "Calling elevator...[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "TEST_FLD_Console012",
+      "style": 113,
+      "name": "Please wait for the elevator to arrive.[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "TEST_FLD_Console013",
+      "style": 113,
+      "name": "The elevator is ready for use.[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "TBOX_MES_01",
+      "style": 113,
+      "name": ""
+    },
+    {
+      "$id": 15,
+      "label": "TICKET_01",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 16,
+      "label": "TICKET_01_01",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 17,
+      "label": "TICKET_01_02",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 18,
+      "label": "TICKET_01_03",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 19,
+      "label": "TICKET_YES_01",
+      "style": 16,
+      "name": "Yes"
+    },
+    {
+      "$id": 20,
+      "label": "TICKET_YES_02",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 21,
+      "label": "TICKET_NO_01",
+      "style": 16,
+      "name": "No"
+    },
+    {
+      "$id": 22,
+      "label": "TICKET_NO_02",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 23,
+      "label": "TICKET_02",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 24,
+      "label": "TICKET_03",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 25,
+      "label": "ITEM_01",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 26,
+      "label": "ITEM_01_01",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 27,
+      "label": "ITEM_02",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 28,
+      "label": "ITEM_02_01",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 29,
+      "label": "ITEM_03",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 30,
+      "label": "ITEM_03_01",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 31,
+      "label": "RES_01",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 32,
+      "label": "RES_02",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 33,
+      "label": "RES_03",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 34,
+      "label": "C_Name",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 35,
+      "label": "AM_01",
+      "style": 113,
+      "name": "Utilize this machine to modify your mimeosome's\nappearance and gender. This will not affect your\ncurrent stats or abilities.[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "AM_02",
+      "style": 113,
+      "name": "Initiate mimeosome modification procedure?[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "AM_03",
+      "style": 113,
+      "name": "Modify your mimeosome."
+    },
+    {
+      "$id": 38,
+      "label": "AM_04",
+      "style": 113,
+      "name": "Leave things be for now."
+    },
+    {
+      "$id": 39,
+      "label": "AM_05",
+      "style": 113,
+      "name": "Acknowledged.\nCommencing mimeosome modification setup...[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "AM_06",
+      "style": 113,
+      "name": "Canceling modification setup.[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "C_Name_00",
+      "style": 0,
+      "name": "MS-MT"
+    },
+    {
+      "$id": 42,
+      "label": "CONSOLE_DISABLE",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 43,
+      "label": "CONSOLE_LABEL",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 44,
+      "label": "BLADE_DOOR_01",
+      "style": 25,
+      "name": "Exit to the administrative district?[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "BLADE_DOOR_02",
+      "style": 25,
+      "name": "Enter the BLADE barracks?[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "BLADE_DOOR_03",
+      "style": 25,
+      "name": "Exit to the administrative district?[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "BLADE_DOOR_04",
+      "style": 25,
+      "name": "Enter the BLADE barracks?[ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "BLADE_DOOR_05",
+      "style": 113,
+      "name": "Mission sortie authorization is required to\nproceed. Please accept a mission from the\nNetwork Console.[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "BLADE_DOOR_06",
+      "style": 25,
+      "name": "Remain in the BLADE barracks.[ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "BLADE_DOOR_07",
+      "style": 25,
+      "name": "Remain in the administrative district.[ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "BLADE_DOOR_08",
+      "style": 28,
+      "name": "Ready to sortie?"
+    },
+    {
+      "$id": 52,
+      "label": "BLADE_DOOR_09",
+      "style": 16,
+      "name": "Defend the NLA Front Lines"
+    },
+    {
+      "$id": 53,
+      "label": "BLADE_DOOR_10",
+      "style": 16,
+      "name": "Remain in the Barracks"
+    },
+    {
+      "$id": 54,
+      "label": "BLADE_DOOR_11",
+      "style": 28,
+      "name": "Return to the BLADE barracks?"
+    },
+    {
+      "$id": 55,
+      "label": "BLADE_DOOR_12",
+      "style": 16,
+      "name": "Return to the Barracks"
+    },
+    {
+      "$id": 56,
+      "label": "BLADE_DOOR_13",
+      "style": 16,
+      "name": "Continue the Fight"
+    },
+    {
+      "$id": 57,
+      "label": "BLADE_DOOR_14",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 58,
+      "label": "menu_program_PopUp_High04",
+      "style": 113,
+      "name": "You used your mechanical field skill to\nanalyze the treasure.[ST:wait ]"
+    },
+    {
+      "$id": 59,
+      "label": "menu_program_PopUp_High05",
+      "style": 113,
+      "name": "You used your biological field skill to\nanalyze the treasure.[ST:wait ]"
+    },
+    {
+      "$id": 60,
+      "label": "menu_program_PopUp_High06",
+      "style": 113,
+      "name": "You used your archaeological field skill to\nanalyze the treasure.[ST:wait ]"
+    },
+    {
+      "$id": 61,
+      "label": "BLADE_DOOR_20",
+      "style": 16,
+      "name": "Repel the Ghost Attack"
+    },
+    {
+      "$id": 62,
+      "label": "BLADE_DOOR_21",
+      "style": 71,
+      "name": "The White Whale 2 is ready to depart.\nGive the signal to cast off?"
+    },
+    {
+      "$id": 63,
+      "label": "BLADE_DOOR_22",
+      "style": 16,
+      "name": "Cast off"
+    },
+    {
+      "$id": 64,
+      "label": "BLADE_DOOR_23",
+      "style": 16,
+      "name": "Not yet"
+    },
+    {
+      "$id": 65,
+      "label": "BLADE_DOOR_24",
+      "style": 71,
+      "name": "Activating the elevator will take you to the\nfinal battle with Void. Are you sure?"
+    },
+    {
+      "$id": 66,
+      "label": "BLADE_DOOR_25",
+      "style": 16,
+      "name": "Activate"
+    },
+    {
+      "$id": 67,
+      "label": "BLADE_DOOR_26",
+      "style": 16,
+      "name": "Hold off"
+    }
+  ]
+}

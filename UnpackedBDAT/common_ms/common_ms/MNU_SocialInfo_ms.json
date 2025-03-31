@@ -1,0 +1,444 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "MNU_SocialInfo_Profile",
+      "style": 24,
+      "name": ""
+    },
+    {
+      "$id": 2,
+      "label": "MNU_SocialInfo_Title01",
+      "style": 24,
+      "name": "Joined Squad"
+    },
+    {
+      "$id": 3,
+      "label": "MNU_SocialInfo_Title02",
+      "style": 24,
+      "name": "Left Squad"
+    },
+    {
+      "$id": 4,
+      "label": "MNU_SocialInfo_Title03",
+      "style": 24,
+      "name": "Achievement Unlocked"
+    },
+    {
+      "$id": 5,
+      "label": "MNU_SocialInfo_Title04",
+      "style": 24,
+      "name": "Achievement Unlocked (Other Player)"
+    },
+    {
+      "$id": 6,
+      "label": "MNU_SocialInfo_Title05",
+      "style": 24,
+      "name": "Division Rewards Available"
+    },
+    {
+      "$id": 7,
+      "label": "MNU_SocialInfo_Title06",
+      "style": 24,
+      "name": "Scout Rewards Available"
+    },
+    {
+      "$id": 8,
+      "label": "MNU_SocialInfo_Title07",
+      "style": 24,
+      "name": "Global Nemesis Rewards Available"
+    },
+    {
+      "$id": 9,
+      "label": "MNU_SocialInfo_Title08",
+      "style": 24,
+      "name": "Scout Level Up Reward 1"
+    },
+    {
+      "$id": 10,
+      "label": "MNU_SocialInfo_Title09",
+      "style": 24,
+      "name": "Scout Level Up Reward 2"
+    },
+    {
+      "$id": 11,
+      "label": "MNU_SocialInfo_Title10",
+      "style": 24,
+      "name": "Scout Level Up Reward 3"
+    },
+    {
+      "$id": 12,
+      "label": "MNU_SocialInfo_Title11",
+      "style": 24,
+      "name": "Avatar Scouted"
+    },
+    {
+      "$id": 13,
+      "label": "MNU_SocialInfo_Title12",
+      "style": 24,
+      "name": "BLADE Scouted"
+    },
+    {
+      "$id": 14,
+      "label": "MNU_SocialInfo_Title13",
+      "style": 24,
+      "name": "BLADE Releasing in Five Minutes"
+    },
+    {
+      "$id": 15,
+      "label": "MNU_SocialInfo_Title14",
+      "style": 24,
+      "name": "BLADE Released"
+    },
+    {
+      "$id": 16,
+      "label": "MNU_SocialInfo_Title15",
+      "style": 24,
+      "name": "Friend Online"
+    },
+    {
+      "$id": 17,
+      "label": "MNU_SocialInfo_Title16",
+      "style": 24,
+      "name": "New Squad Tasks Commenced"
+    },
+    {
+      "$id": 18,
+      "label": "MNU_SocialInfo_Title17",
+      "style": 24,
+      "name": "1st Squad Task Completed"
+    },
+    {
+      "$id": 19,
+      "label": "MNU_SocialInfo_Title18",
+      "style": 24,
+      "name": "2nd Squad Task Completed"
+    },
+    {
+      "$id": 20,
+      "label": "MNU_SocialInfo_Title19",
+      "style": 24,
+      "name": "3rd Squad Task Completed"
+    },
+    {
+      "$id": 21,
+      "label": "MNU_SocialInfo_Title20",
+      "style": 24,
+      "name": "4th Squad Task Completed"
+    },
+    {
+      "$id": 22,
+      "label": "MNU_SocialInfo_Title21",
+      "style": 24,
+      "name": "All Squad Tasks Completed"
+    },
+    {
+      "$id": 23,
+      "label": "MNU_SocialInfo_Title22",
+      "style": 24,
+      "name": "Recruiting for Online Mission"
+    },
+    {
+      "$id": 24,
+      "label": "MNU_SocialInfo_Title23",
+      "style": 24,
+      "name": "Hidden Online Mission Unlocked"
+    },
+    {
+      "$id": 25,
+      "label": "MNU_SocialInfo_Title24",
+      "style": 24,
+      "name": "New Online Missions Available"
+    },
+    {
+      "$id": 26,
+      "label": "MNU_SocialInfo_Title25",
+      "style": 24,
+      "name": "Telethia Plume Active"
+    },
+    {
+      "$id": 27,
+      "label": "MNU_SocialInfo_Title26",
+      "style": 24,
+      "name": "Telethia Plume Attempts Reset"
+    },
+    {
+      "$id": 28,
+      "label": "MNU_SocialInfo_Title27",
+      "style": 24,
+      "name": "Telethia Plume RP Reduced"
+    },
+    {
+      "$id": 29,
+      "label": "MNU_SocialInfo_Title28",
+      "style": 24,
+      "name": "Telethia Plume Defeated"
+    },
+    {
+      "$id": 30,
+      "label": "MNU_SocialInfo_Title29",
+      "style": 24,
+      "name": "Yggralith Zero Active"
+    },
+    {
+      "$id": 31,
+      "label": "MNU_SocialInfo_Title30",
+      "style": 24,
+      "name": "Yggralith Zero Attempts Reset"
+    },
+    {
+      "$id": 32,
+      "label": "MNU_SocialInfo_Title31",
+      "style": 24,
+      "name": "Yggralith Zero RP Reduced"
+    },
+    {
+      "$id": 33,
+      "label": "MNU_SocialInfo_Title32",
+      "style": 24,
+      "name": "Yggralith Zero Defeated"
+    },
+    {
+      "$id": 34,
+      "label": "MNU_SocialInfo_Caption05",
+      "style": 67,
+      "name": "You can claim division rewards from\nMain Menu > Online > Rewards."
+    },
+    {
+      "$id": 35,
+      "label": "MNU_SocialInfo_Caption06",
+      "style": 67,
+      "name": "You can claim scout rewards from\nMain Menu > Online > Rewards."
+    },
+    {
+      "$id": 36,
+      "label": "MNU_SocialInfo_Caption07",
+      "style": 67,
+      "name": "You can claim Global Nemesis rewards\nfrom Main Menu > Online > Rewards."
+    },
+    {
+      "$id": 37,
+      "label": "MNU_SocialInfo_Caption16",
+      "style": 67,
+      "name": "You can check your objectives from the\nSquad Tasks tab of the navigation panel."
+    },
+    {
+      "$id": 38,
+      "label": "MNU_SocialInfo_Caption17",
+      "style": 67,
+      "name": "You can check your objectives from the\nSquad Tasks tab of the navigation panel."
+    },
+    {
+      "$id": 39,
+      "label": "MNU_SocialInfo_Caption18",
+      "style": 67,
+      "name": "You can check your objectives from the\nSquad Tasks tab of the navigation panel."
+    },
+    {
+      "$id": 40,
+      "label": "MNU_SocialInfo_Caption19",
+      "style": 67,
+      "name": "You can check your objectives from the\nSquad Tasks tab of the navigation panel."
+    },
+    {
+      "$id": 41,
+      "label": "MNU_SocialInfo_Caption20",
+      "style": 67,
+      "name": "You can check your objectives from the\nSquad Tasks tab of the navigation panel."
+    },
+    {
+      "$id": 42,
+      "label": "MNU_SocialInfo_Caption21",
+      "style": 67,
+      "name": "Squad tasks will be refreshed shortly.\nPlease wait..."
+    },
+    {
+      "$id": 43,
+      "label": "MNU_SocialInfo_Caption23",
+      "style": 67,
+      "name": "You can check details from the Network\nConsole in the BLADE barracks."
+    },
+    {
+      "$id": 44,
+      "label": "MNU_SocialInfo_Caption24",
+      "style": 67,
+      "name": "You can check details from the Network\nConsole in the BLADE barracks."
+    },
+    {
+      "$id": 45,
+      "label": "MNU_SocialInfo_Caption25",
+      "style": 67,
+      "name": "You can take on Telethia Plume from\nthe BLADE barracks Network Console."
+    },
+    {
+      "$id": 46,
+      "label": "MNU_SocialInfo_Caption26",
+      "style": 67,
+      "name": "You can take on Telethia Plume from\nthe BLADE barracks Network Console."
+    },
+    {
+      "$id": 47,
+      "label": "MNU_SocialInfo_Caption27_01",
+      "style": 67,
+      "name": "Telethia Plume's RP has fallen to 90%."
+    },
+    {
+      "$id": 48,
+      "label": "MNU_SocialInfo_Caption27_02",
+      "style": 67,
+      "name": "Telethia Plume's RP has fallen to 80%."
+    },
+    {
+      "$id": 49,
+      "label": "MNU_SocialInfo_Caption27_03",
+      "style": 67,
+      "name": "Telethia Plume's RP has fallen to 70%."
+    },
+    {
+      "$id": 50,
+      "label": "MNU_SocialInfo_Caption27_04",
+      "style": 67,
+      "name": "Telethia Plume's RP has fallen to 60%."
+    },
+    {
+      "$id": 51,
+      "label": "MNU_SocialInfo_Caption27_05",
+      "style": 67,
+      "name": "Telethia Plume's RP has fallen to 50%."
+    },
+    {
+      "$id": 52,
+      "label": "MNU_SocialInfo_Caption27_06",
+      "style": 67,
+      "name": "Telethia Plume's RP has fallen to 40%."
+    },
+    {
+      "$id": 53,
+      "label": "MNU_SocialInfo_Caption27_07",
+      "style": 67,
+      "name": "Telethia Plume's RP has fallen to 30%."
+    },
+    {
+      "$id": 54,
+      "label": "MNU_SocialInfo_Caption27_08",
+      "style": 67,
+      "name": "Telethia Plume's RP has fallen to 20%."
+    },
+    {
+      "$id": 55,
+      "label": "MNU_SocialInfo_Caption27_09",
+      "style": 67,
+      "name": "Telethia Plume's RP has fallen to 10%."
+    },
+    {
+      "$id": 56,
+      "label": "MNU_SocialInfo_Caption28",
+      "style": 67,
+      "name": "Telethia Plume has been defeated.\nYour rewards will arrive shortly..."
+    },
+    {
+      "$id": 57,
+      "label": "MNU_SocialInfo_Caption29",
+      "style": 67,
+      "name": "You can take on Yggralith Zero from\nthe BLADE barracks Network Console."
+    },
+    {
+      "$id": 58,
+      "label": "MNU_SocialInfo_Caption30",
+      "style": 67,
+      "name": "You can take on Yggralith Zero from\nthe BLADE barracks Network Console."
+    },
+    {
+      "$id": 59,
+      "label": "MNU_SocialInfo_Caption31_01",
+      "style": 67,
+      "name": "Yggralith Zero's RP has fallen to 90%."
+    },
+    {
+      "$id": 60,
+      "label": "MNU_SocialInfo_Caption31_02",
+      "style": 67,
+      "name": "Yggralith Zero's RP has fallen to 80%."
+    },
+    {
+      "$id": 61,
+      "label": "MNU_SocialInfo_Caption31_03",
+      "style": 67,
+      "name": "Yggralith Zero's RP has fallen to 70%."
+    },
+    {
+      "$id": 62,
+      "label": "MNU_SocialInfo_Caption31_04",
+      "style": 67,
+      "name": "Yggralith Zero's RP has fallen to 60%."
+    },
+    {
+      "$id": 63,
+      "label": "MNU_SocialInfo_Caption31_05",
+      "style": 67,
+      "name": "Yggralith Zero's RP has fallen to 50%."
+    },
+    {
+      "$id": 64,
+      "label": "MNU_SocialInfo_Caption31_06",
+      "style": 67,
+      "name": "Yggralith Zero's RP has fallen to 40%."
+    },
+    {
+      "$id": 65,
+      "label": "MNU_SocialInfo_Caption31_07",
+      "style": 67,
+      "name": "Yggralith Zero's RP has fallen to 30%."
+    },
+    {
+      "$id": 66,
+      "label": "MNU_SocialInfo_Caption31_08",
+      "style": 67,
+      "name": "Yggralith Zero's RP has fallen to 20%."
+    },
+    {
+      "$id": 67,
+      "label": "MNU_SocialInfo_Caption31_09",
+      "style": 67,
+      "name": "Yggralith Zero's RP has fallen to 10%."
+    },
+    {
+      "$id": 68,
+      "label": "MNU_SocialInfo_Caption32",
+      "style": 67,
+      "name": "Yggralith Zero has been defeated.\nYour rewards will arrive shortly..."
+    },
+    {
+      "$id": 69,
+      "label": "MNU_SocialInfo_Title33",
+      "style": 24,
+      "name": "Squad Details"
+    },
+    {
+      "$id": 70,
+      "label": "MNU_SocialInfo_Caption33",
+      "style": 67,
+      "name": "Your current squad will be\ndisbanded in one hour."
+    },
+    {
+      "$id": 71,
+      "label": "MNU_SocialInfo_Caption34",
+      "style": 67,
+      "name": "Your current squad will be\ndisbanded in five minutes."
+    }
+  ]
+}

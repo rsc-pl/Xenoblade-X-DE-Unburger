@@ -1,0 +1,342 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev031202_MSG0001",
+      "style": 1,
+      "name": "Eep! Wh-what are you doing here?\nYou're not here for US, are you?[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev031202_JNK0010",
+      "style": 4,
+      "name": "Confirm"
+    },
+    {
+      "$id": 3,
+      "label": "qev031202_SEL0011",
+      "style": 3,
+      "name": "Tell Leroy that you're here to stop\nhis vile kidnapping scheme."
+    },
+    {
+      "$id": 4,
+      "label": "qev031202_JNK0020",
+      "style": 4,
+      "name": "Query"
+    },
+    {
+      "$id": 5,
+      "label": "qev031202_SEL0021",
+      "style": 3,
+      "name": "Ask Leroy what he's doing here."
+    },
+    {
+      "$id": 6,
+      "label": "qev031202_MSG0002",
+      "style": 1,
+      "name": "Oh no! Did her father send you? He did, didn't he?!\nWh-what are we gonna do, Lavina?![ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev031202_MSG0003",
+      "style": 1,
+      "name": "Er, we're...waiting! Just, uh...waiting for a friend.\nRight, Lavina?[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev031202_MSG0004",
+      "style": 1,
+      "name": "Yes. Waiting in very unsuspicious manner.[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev031202_MSG0005",
+      "style": 1,
+      "name": "So, um, what are you doing here?[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev031202_MSG0006",
+      "style": 1,
+      "name": "...What? You're looking for Lavina? But this isn't...\nIt wasn't her father who sent you, was it?\nAw, Lavina! What are we gonna do?[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev031202_MSG0007",
+      "style": 1,
+      "name": "Be calm. I will not part with you.\nNo matter what comes.[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev031202_MSG0008",
+      "style": 1,
+      "name": "I don't know what my father told you.\nBut I choose to be here.[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev031202_MSG0009",
+      "style": 1,
+      "name": "Now go. Leave us in peace.\nDo not destroy our happiness.[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev031202_JNK0030",
+      "style": 4,
+      "name": "Query"
+    },
+    {
+      "$id": 15,
+      "label": "qev031202_SEL0031",
+      "style": 3,
+      "name": "Attempt to figure out exactly what is going on."
+    },
+    {
+      "$id": 16,
+      "label": "qev031202_JNK0040",
+      "style": 4,
+      "name": "Persuade"
+    },
+    {
+      "$id": 17,
+      "label": "qev031202_SEL0041",
+      "style": 3,
+      "name": "Try to convince Lavina to come back with you."
+    },
+    {
+      "$id": 18,
+      "label": "qev031202_MSG0010",
+      "style": 1,
+      "name": "I love Leroy. This makes my father angry.\nHe does not want me to marry Earth alien.[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev031202_MSG0011",
+      "style": 1,
+      "name": "He wants me to be mate of Wazdo Tygant.\nBut Wazdo Tygant is thug! I do not love him.[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev031202_MSG0012",
+      "style": 1,
+      "name": "So I left. Hid from clansmen here.[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev031202_MSG0013",
+      "style": 1,
+      "name": "Leroy is timid and meek. But I still love him.[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev031202_MSG0014",
+      "style": 1,
+      "name": "I will not leave him. I would leave my own limbs first.[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev031202_MSG0015",
+      "style": 1,
+      "name": "Can I ask favor, Earth alien? Bring me ringstone.\nAlso sapphire horns taken from xiphias.[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev031202_MSG0016",
+      "style": 1,
+      "name": "Bring them to me. Then I will visit my father.[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev031202_MSG0017",
+      "style": 1,
+      "name": "Everything will end well if I have them.\nAnd if Leroy has courage.[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev031202_MSG0018",
+      "style": 1,
+      "name": "...I need what now?[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev031202_MSG0019",
+      "style": 1,
+      "name": "You know we cannot run forever.[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev031202_MSG0020",
+      "style": 1,
+      "name": "You love me. But you must prove it.[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev031202_MSG0021",
+      "style": 1,
+      "name": "Er...prove it?[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev031202_MSG0022",
+      "style": 1,
+      "name": "We will speak once stone and horns are mine.\nTrust me until then.[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev031202_MSG1001",
+      "style": 1,
+      "name": "Well, of course I'm gonna hide in a place like this.\nHave you SEEN how big those Prone guys are?[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev031202_MSG1002",
+      "style": 1,
+      "name": "Look, I didn't run off with Lavina because of some\nchildish whim. I did it because I love her.[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev031202_MSG1003",
+      "style": 1,
+      "name": "So If she says I need to prove my commitment,\nI'll hike up my big-boy pants and do what I gotta do.[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev031202_MSG2001",
+      "style": 1,
+      "name": "Hey, you haven't seen Lavina around, have you?[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev031202_MSG2002",
+      "style": 1,
+      "name": "I went shopping for a minute, and now she's gone.[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev031202_MSG2003",
+      "style": 1,
+      "name": "You don't, uh... You don't think she got tired of me\nand went home, do you?[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev031202_JNK0050",
+      "style": 4,
+      "name": "Confirm"
+    },
+    {
+      "$id": 38,
+      "label": "qev031202_SEL0051",
+      "style": 3,
+      "name": "Tell Leroy that seems extremely likely."
+    },
+    {
+      "$id": 39,
+      "label": "qev031202_JNK0060",
+      "style": 4,
+      "name": "Deny"
+    },
+    {
+      "$id": 40,
+      "label": "qev031202_SEL0061",
+      "style": 3,
+      "name": "Reassure Leroy that his special lady\nfriend hasn't abandoned him."
+    },
+    {
+      "$id": 41,
+      "label": "qev031202_MSG2004",
+      "style": 1,
+      "name": "Do your friends ever tell you you're awfully...honest?\nI was hoping for a little reassurance here.\nPretty little lies and all that?[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "qev031202_MSG2005",
+      "style": 1,
+      "name": "But even if she did, that's not gonna stop me!\nShe can dump me as many times as she likes—\nI'll be right there every time to win her back.[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "qev031202_MSG2006",
+      "style": 1,
+      "name": "Oh, did you happen to get the sapphire horns and\nringstone Lavina mentioned?[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "qev031202_MSG2007",
+      "style": 1,
+      "name": "Thanks. You're really nice.[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "qev031202_MSG2008",
+      "style": 1,
+      "name": "And you're right. The love we've got isn't something\nthat just disappears, so I'm not giving up![ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "qev031202_MSG2009",
+      "style": 1,
+      "name": "Oh, hey—did you get the sapphire horns and\nringstone that Lavina was asking about?[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "qev031202_MSG2010",
+      "style": 1,
+      "name": "I'm afraid to head out there, but I've got to go find\nLavina. I want to get these to her as soon as possible.[ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "qev031202_MSG2011",
+      "style": 1,
+      "name": "Besides, I have a hunch where she might be.\nThere's a beach tucked away west of New LA...[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "qev031202_MSG2012",
+      "style": 1,
+      "name": "If she's making some big decision, I'm sure I'll find her\nwaiting there.[ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "qev031202_MSG3001",
+      "style": 1,
+      "name": "I want these people to be my family.\nNot just Lavina, but her entire clan.[ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "qev031202_MSG3002",
+      "style": 1,
+      "name": "They all love her as much as I do. And if we agree\non that, there has to be more common ground.[ST:wait ]"
+    },
+    {
+      "$id": 52,
+      "label": "qev031202_MSG4001",
+      "style": 1,
+      "name": "Thanks for everything you've done. I don't think I could\nhave been strong through all this without your example.[ST:wait ]"
+    },
+    {
+      "$id": 53,
+      "label": "qev031202_MSG4002",
+      "style": 1,
+      "name": "I'm going to make her father accept me some day.\nFor starters, I'll focus on my job as a BLADE.[ST:wait ]"
+    },
+    {
+      "$id": 54,
+      "label": "qev031202_MSG4003",
+      "style": 1,
+      "name": "That's the baseline measure of a man's character, right?\nHow he handles his career? Regardless, I'll do whatever\nit takes to stay with her.[ST:wait ]"
+    }
+  ]
+}

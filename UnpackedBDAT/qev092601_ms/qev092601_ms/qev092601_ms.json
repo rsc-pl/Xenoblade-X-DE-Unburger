@@ -1,0 +1,630 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev092601_MSG0001",
+      "style": 0,
+      "name": "Pop quiz time, Chief![ST:wait ]\n"
+    },
+    {
+      "$id": 2,
+      "label": "qev092601_MSG0002",
+      "style": 0,
+      "name": "You get an urgent, life-or-death request from a Nopon...[ST:wait ]\n"
+    },
+    {
+      "$id": 3,
+      "label": "qev092601_MSG0003",
+      "style": 0,
+      "name": "You're supposed to meet him here, but he's hours late...[ST:wait ]\n"
+    },
+    {
+      "$id": 4,
+      "label": "qev092601_MSG0004",
+      "style": 0,
+      "name": "What do you do?![ST:wait ]\n"
+    },
+    {
+      "$id": 5,
+      "label": "qev092601_JNK0010",
+      "style": 4,
+      "name": "Search"
+    },
+    {
+      "$id": 6,
+      "label": "qev092601_SEL0011",
+      "style": 3,
+      "name": "Say that you track him down right away."
+    },
+    {
+      "$id": 7,
+      "label": "qev092601_JNK0020",
+      "style": 4,
+      "name": "Wait"
+    },
+    {
+      "$id": 8,
+      "label": "qev092601_SEL0021",
+      "style": 3,
+      "name": "Say that you stay put and wait for him to arrive."
+    },
+    {
+      "$id": 9,
+      "label": "qev092601_MSG0005",
+      "style": 0,
+      "name": "You're always in such a hurry, Chief!\nReminds me of how I used to be.[ST:wait ]\n"
+    },
+    {
+      "$id": 10,
+      "label": "qev092601_MSG0006",
+      "style": 0,
+      "name": "I'm not sure that's such a good idea. If I leave now,\nhe might come here and miss me in passing, you know?[ST:wait ]\n"
+    },
+    {
+      "$id": 11,
+      "label": "qev092601_MSG0007",
+      "style": 0,
+      "name": "I say be patient and wait.\nBesides, it's been forever since we had time to talk.[ST:wait ]\n"
+    },
+    {
+      "$id": 12,
+      "label": "qev092601_MSG0008",
+      "style": 0,
+      "name": "You're always so relaxed, Chief!\n...Still, it WOULD be nice to get a little rest.[ST:wait ]\n"
+    },
+    {
+      "$id": 13,
+      "label": "qev092601_MSG0009",
+      "style": 0,
+      "name": "It feels good to zone out sometimes.\nLately, it's just been mission after mission, yeah?[ST:wait ]\n"
+    },
+    {
+      "$id": 14,
+      "label": "qev092601_MSG0010",
+      "style": 0,
+      "name": "Anyway, we've got the time. Let's chat![ST:wait ]\n"
+    },
+    {
+      "$id": 15,
+      "label": "qev092601_MSG0011",
+      "style": 0,
+      "name": "You remember this place?[ST:wait ]\n"
+    },
+    {
+      "$id": 16,
+      "label": "qev092601_MSG0011_2",
+      "style": 0,
+      "name": "We first met here at this very spot.[ST:wait ]\n"
+    },
+    {
+      "$id": 17,
+      "label": "qev092601_JNK0030",
+      "style": 4,
+      "name": "Affirm"
+    },
+    {
+      "$id": 18,
+      "label": "qev092601_SEL0031",
+      "style": 3,
+      "name": "Tell Mia you remember it like it was yesterday."
+    },
+    {
+      "$id": 19,
+      "label": "qev092601_JNK0040",
+      "style": 4,
+      "name": "Deny"
+    },
+    {
+      "$id": 20,
+      "label": "qev092601_SEL0041",
+      "style": 3,
+      "name": "Say you forgot."
+    },
+    {
+      "$id": 21,
+      "label": "qev092601_MSG0012",
+      "style": 0,
+      "name": "I knew you would. Still, I'm happy to hear it.[ST:wait ]\n"
+    },
+    {
+      "$id": 22,
+      "label": "qev092601_MSG0013",
+      "style": 0,
+      "name": "Ha! You're such a kidder.\nStill, so much has happened in between...[ST:wait ]\n"
+    },
+    {
+      "$id": 23,
+      "label": "qev092601_MSG0014",
+      "style": 0,
+      "name": "We've been all over Mira since then.\nI managed to become a BLADE...[ST:wait ]\n"
+    },
+    {
+      "$id": 24,
+      "label": "qev092601_MSG0015",
+      "style": 0,
+      "name": "I fell in with the Curators...[ST:wait ]\n"
+    },
+    {
+      "$id": 25,
+      "label": "qev092601_MSG0016",
+      "style": 0,
+      "name": "You and I started going on adventures on the front lines...[ST:wait ]\n"
+    },
+    {
+      "$id": 26,
+      "label": "qev092601_MSG0017",
+      "style": 0,
+      "name": "It all happened so fast![ST:wait ]\n"
+    },
+    {
+      "$id": 27,
+      "label": "qev092601_MSG0018",
+      "style": 0,
+      "name": "Heh. I wonder what my parents would think\nif they were alive to see me now.[ST:wait ]\n"
+    },
+    {
+      "$id": 28,
+      "label": "qev092601_MSG0019",
+      "style": 0,
+      "name": "I'm still not half the explorers they were,\nbut I like to think they'd be proud.[ST:wait ]\n"
+    },
+    {
+      "$id": 29,
+      "label": "qev092601_JNK0050",
+      "style": 4,
+      "name": "Confirm"
+    },
+    {
+      "$id": 30,
+      "label": "qev092601_SEL0051",
+      "style": 3,
+      "name": "Tell Mia you're sure her parents would be proud."
+    },
+    {
+      "$id": 31,
+      "label": "qev092601_JNK0060",
+      "style": 4,
+      "name": "Chide"
+    },
+    {
+      "$id": 32,
+      "label": "qev092601_SEL0061",
+      "style": 3,
+      "name": "Tell Mia her folks would think she\nstill has a lot of growing to do."
+    },
+    {
+      "$id": 33,
+      "label": "qev092601_MSG0020",
+      "style": 0,
+      "name": "Aw, thanks, Chief.[ST:wait ]\n"
+    },
+    {
+      "$id": 34,
+      "label": "qev092601_MSG0021",
+      "style": 0,
+      "name": "I remember once as a kid, I wandered off\nto the next town over and got lost.[ST:wait ]\n"
+    },
+    {
+      "$id": 35,
+      "label": "qev092601_MSG0022",
+      "style": 0,
+      "name": "When they came to get me, they weren't even mad.\nThey actually congratulated me on my courage![ST:wait ]\n"
+    },
+    {
+      "$id": 36,
+      "label": "qev092601_MSG0023",
+      "style": 0,
+      "name": "That's probably about what I'd get now, too.[ST:wait ]\n"
+    },
+    {
+      "$id": 37,
+      "label": "qev092601_MSG0024",
+      "style": 0,
+      "name": "Ha! Yeah, I suppose they would.[ST:wait ]\n"
+    },
+    {
+      "$id": 38,
+      "label": "qev092601_MSG0025",
+      "style": 0,
+      "name": "They were both every bit the drill sergeant Walter is.\nTalk about tough love...[ST:wait ]\n"
+    },
+    {
+      "$id": 39,
+      "label": "qev092601_MSG0026",
+      "style": 0,
+      "name": "I guess I need to keep at it, huh?[ST:wait ]\n"
+    },
+    {
+      "$id": 40,
+      "label": "qev092601_MSG0027",
+      "style": 0,
+      "name": "Sorry! Tora run late! Where is friend Mia?[ST:wait ]\n"
+    },
+    {
+      "$id": 41,
+      "label": "qev092601_MSG0028",
+      "style": 0,
+      "name": "That's me. Are you the client?\nGosh, you're adorable![ST:wait ]\n"
+    },
+    {
+      "$id": 42,
+      "label": "qev092601_MSG0029",
+      "style": 0,
+      "name": "Tora not adorable! Tora cool. Possibly awesome.[ST:wait ]\n"
+    },
+    {
+      "$id": 43,
+      "label": "qev092601_MSG0030",
+      "style": 0,
+      "name": "That's what all the Nopon boys say, but...I just see cute.[ST:wait ]\n"
+    },
+    {
+      "$id": 44,
+      "label": "qev092601_MSG0031",
+      "style": 0,
+      "name": "Not to worry. Tora about to BECOME awesome![ST:wait ]\n"
+    },
+    {
+      "$id": 45,
+      "label": "qev092601_MSG0032",
+      "style": 0,
+      "name": "Ooo, lemme guess![ST:wait ]\n"
+    },
+    {
+      "$id": 46,
+      "label": "qev092601_MSG0033",
+      "style": 0,
+      "name": "The job is for me to find the thing\nthat's gonna make that happen, right?[ST:wait ]\n"
+    },
+    {
+      "$id": 47,
+      "label": "qev092601_MSG0034",
+      "style": 0,
+      "name": "Friend smarter than Tora thought.[ST:wait ]\n"
+    },
+    {
+      "$id": 48,
+      "label": "qev092601_MSG0035",
+      "style": 0,
+      "name": "What can I say? When you've seen what I've seen,\nyou can just sense these things.[ST:wait ]\n"
+    },
+    {
+      "$id": 49,
+      "label": "qev092601_MSG0036",
+      "style": 0,
+      "name": "And I sense you want...the Sword of Legendaryness![ST:wait ]\n"
+    },
+    {
+      "$id": 50,
+      "label": "qev092601_MSG0037",
+      "style": 0,
+      "name": "Tora not looking for toy, lady.[ST:wait ]\n"
+    },
+    {
+      "$id": 51,
+      "label": "qev092601_MSG0038",
+      "style": 0,
+      "name": "Aww...[ST:wait ]\n"
+    },
+    {
+      "$id": 52,
+      "label": "qev092601_MSG0039",
+      "style": 0,
+      "name": "Tora looking for coin![ST:wait ]\n"
+    },
+    {
+      "$id": 53,
+      "label": "qev092601_MSG0040",
+      "style": 0,
+      "name": "Coin? You need change?[ST:wait ]\n"
+    },
+    {
+      "$id": 54,
+      "label": "qev092601_MSG0041",
+      "style": 0,
+      "name": "Friends know of Nopon caravans roaming Mira?[ST:wait ]\n"
+    },
+    {
+      "$id": 55,
+      "label": "qev092601_MSG0042",
+      "style": 0,
+      "name": "Of course.[ST:wait ]\n"
+    },
+    {
+      "$id": 56,
+      "label": "qev092601_MSG0043",
+      "style": 0,
+      "name": "Before Nopon can start to sell at caravan,\nmembers must join Nopon Commerce Guild.[ST:wait ]\n"
+    },
+    {
+      "$id": 57,
+      "label": "qev092601_MSG0044",
+      "style": 0,
+      "name": "Oh! And this coin you're after is used\nas proof of membership in the guild?[ST:wait ]\n"
+    },
+    {
+      "$id": 58,
+      "label": "qev092601_MSG0045",
+      "style": 0,
+      "name": "FRIEND SO PERCEPTIVE![ST:wait ]\n"
+    },
+    {
+      "$id": 59,
+      "label": "qev092601_MSG0046",
+      "style": 0,
+      "name": "But yes. With coin in hand,\nTora not lose to stupid Tatsu.[ST:wait ]\n"
+    },
+    {
+      "$id": 60,
+      "label": "qev092601_MSG0047",
+      "style": 0,
+      "name": "Then Tora can go see dadapon and mamapon![ST:wait ]\n"
+    },
+    {
+      "$id": 61,
+      "label": "qev092601_JNK0070",
+      "style": 4,
+      "name": "Query"
+    },
+    {
+      "$id": 62,
+      "label": "qev092601_SEL0071",
+      "style": 3,
+      "name": "Ask Tora why he's upset with Tatsu."
+    },
+    {
+      "$id": 63,
+      "label": "qev092601_JNK0080",
+      "style": 4,
+      "name": "Assume"
+    },
+    {
+      "$id": 64,
+      "label": "qev092601_SEL0081",
+      "style": 3,
+      "name": "Ask whether Tora can't meet his\nparents before he obtains the coin."
+    },
+    {
+      "$id": 65,
+      "label": "qev092601_MSG0048",
+      "style": 0,
+      "name": "Stupid Tatsu always bragging about BLADE exploits![ST:wait ]\n"
+    },
+    {
+      "$id": 66,
+      "label": "qev092601_MSG0049",
+      "style": 0,
+      "name": "That why Tora need to become\nbig merchant boss and show Tatsu up.[ST:wait ]\n"
+    },
+    {
+      "$id": 67,
+      "label": "qev092601_MSG0050",
+      "style": 0,
+      "name": "Also, Tora parents coming home\nfrom traveling merchant journey.[ST:wait ]\n"
+    },
+    {
+      "$id": 68,
+      "label": "qev092601_MSG0051",
+      "style": 0,
+      "name": "Tora swore to be independent by then.[ST:wait ]\n"
+    },
+    {
+      "$id": 69,
+      "label": "qev092601_MSG0052",
+      "style": 0,
+      "name": "If parents get back before Tora is merchant,\nTora die of shamefulness.[ST:wait ]\n"
+    },
+    {
+      "$id": 70,
+      "label": "qev092601_MSG0053",
+      "style": 0,
+      "name": "Tora promised to be independent by time\nparents returned from merchant journey.[ST:wait ]\n"
+    },
+    {
+      "$id": 71,
+      "label": "qev092601_MSG0054",
+      "style": 0,
+      "name": "If parents get back before Tora is merchant,\nTora die of shamefulness![ST:wait ]\n"
+    },
+    {
+      "$id": 72,
+      "label": "qev092601_MSG0055",
+      "style": 0,
+      "name": "Aw, little boys trying to show off\nfor their parents are so adorable![ST:wait ]\n"
+    },
+    {
+      "$id": 73,
+      "label": "qev092601_MSG0056",
+      "style": 0,
+      "name": "Tora NOT adorable!\n...Though Tora concede friend has fair point.[ST:wait ]\n"
+    },
+    {
+      "$id": 74,
+      "label": "qev092601_MSG0057",
+      "style": 0,
+      "name": "Parents of Tora roam Mira selling rare and valuable treasures.[ST:wait ]\n"
+    },
+    {
+      "$id": 75,
+      "label": "qev092601_MSG0058",
+      "style": 0,
+      "name": "Parents big-time legends among Nopon caravanners![ST:wait ]\n"
+    },
+    {
+      "$id": 76,
+      "label": "qev092601_MSG0059",
+      "style": 0,
+      "name": "They sound an awful lot like my folks.[ST:wait ]\n"
+    },
+    {
+      "$id": 77,
+      "label": "qev092601_MSG0060",
+      "style": 0,
+      "name": "They'd often leave me for 10 months out of\nthe year on some crazy adventure.[ST:wait ]\n"
+    },
+    {
+      "$id": 78,
+      "label": "qev092601_MSG0061",
+      "style": 0,
+      "name": "So friend understands pain of Tora?[ST:wait ]\n"
+    },
+    {
+      "$id": 79,
+      "label": "qev092601_MSG0062",
+      "style": 0,
+      "name": "Oh, believe me, I get it. I became a BLADE\nbecause part of me was still chasing them.[ST:wait ]\n"
+    },
+    {
+      "$id": 80,
+      "label": "qev092601_MSG0063",
+      "style": 0,
+      "name": "Friend and Tora have much in common.[ST:wait ]\n"
+    },
+    {
+      "$id": 81,
+      "label": "qev092601_MSG0064",
+      "style": 0,
+      "name": "Tora want to become strong, independent,\ncool grown-up like mamapon and dadapon.[ST:wait ]\n"
+    },
+    {
+      "$id": 82,
+      "label": "qev092601_MSG0065",
+      "style": 0,
+      "name": "Well, you're already pretty cool in my book,\nbut keep setting those goals high.[ST:wait ]\n"
+    },
+    {
+      "$id": 83,
+      "label": "qev092601_MSG0066",
+      "style": 0,
+      "name": "Oh ho! Tora feasts on praise! Now Tora satisfied.[ST:wait ]\n"
+    },
+    {
+      "$id": 84,
+      "label": "qev092601_MSG0067",
+      "style": 0,
+      "name": "Hey, whoa, let's get back to the plan, okay?[ST:wait ]\n"
+    },
+    {
+      "$id": 85,
+      "label": "qev092601_MSG0068",
+      "style": 0,
+      "name": "You don't want to backpedal on that promise, do you?[ST:wait ]\n"
+    },
+    {
+      "$id": 86,
+      "label": "qev092601_MSG0069",
+      "style": 0,
+      "name": "No![ST:wait ]\n"
+    },
+    {
+      "$id": 87,
+      "label": "qev092601_MSG0070",
+      "style": 0,
+      "name": "Parents come through area one day of year.\nThis only chance for Tora to see them![ST:wait ]\n"
+    },
+    {
+      "$id": 88,
+      "label": "qev092601_MSG0071",
+      "style": 0,
+      "name": "But Tora still no closer to getting\nwings on Commerce Guild coin...[ST:wait ]\n"
+    },
+    {
+      "$id": 89,
+      "label": "qev092601_MSG0071_2",
+      "style": 0,
+      "name": "Prospects DIRE![ST:wait ]\n"
+    },
+    {
+      "$id": 90,
+      "label": "qev092601_MSG0072",
+      "style": 0,
+      "name": "Will friend help Tora?[ST:wait ]\n"
+    },
+    {
+      "$id": 91,
+      "label": "qev092601_MSG0073",
+      "style": 0,
+      "name": "Of course![ST:wait ]\n"
+    },
+    {
+      "$id": 92,
+      "label": "qev092601_MSG0073_2",
+      "style": 0,
+      "name": "For you, I'll take the case at a discount.[ST:wait ]\n"
+    },
+    {
+      "$id": 93,
+      "label": "qev092601_MSG0074",
+      "style": 0,
+      "name": "For one keppo carrot even?[ST:wait ]\n"
+    },
+    {
+      "$id": 94,
+      "label": "qev092601_MSG0075",
+      "style": 0,
+      "name": "Don't push it, buddy.[ST:wait ]\n"
+    },
+    {
+      "$id": 95,
+      "label": "qev092601_MSG0076",
+      "style": 0,
+      "name": "Okay, okay. Tora think of something good\nby time mission is over.[ST:wait ]\n"
+    },
+    {
+      "$id": 96,
+      "label": "qev092601_MSG0077",
+      "style": 0,
+      "name": "Deal. So what's our first step?[ST:wait ]\n"
+    },
+    {
+      "$id": 97,
+      "label": "qev092601_MSG0078",
+      "style": 0,
+      "name": "Nopon elder Nan here in New LA know about coins.[ST:wait ]\n"
+    },
+    {
+      "$id": 98,
+      "label": "qev092601_MSG0079",
+      "style": 0,
+      "name": "But stubborn Nan not take Tora seriously![ST:wait ]\n"
+    },
+    {
+      "$id": 99,
+      "label": "qev092601_MSG0080",
+      "style": 0,
+      "name": "Maybe friend can pry information about coin from Nan?[ST:wait ]\n"
+    },
+    {
+      "$id": 100,
+      "label": "qev092601_MSG0081",
+      "style": 0,
+      "name": "You got it.[ST:wait ]\n"
+    },
+    {
+      "$id": 101,
+      "label": "qev092601_MSG0082",
+      "style": 0,
+      "name": "Great. Tora run on ahead![ST:wait ]\n"
+    },
+    {
+      "$id": 102,
+      "label": "qev092601_MSG0083",
+      "style": 0,
+      "name": "C'mon, Chief. We'd better keep up.[ST:wait ]\n"
+    }
+  ]
+}

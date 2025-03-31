@@ -1,0 +1,240 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev030601_JNK0010",
+      "style": 4,
+      "name": "Inquire[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev030601_SEL0011",
+      "style": 3,
+      "name": "Ask Staccata about his work.[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev030601_JNK0020",
+      "style": 4,
+      "name": "Discuss[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev030601_SEL0021",
+      "style": 3,
+      "name": "Ask Staccata if anything is troubling him.[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev030601_MSG0001",
+      "style": 1,
+      "name": "I perform corporeal maintenance on on the Ma-non.\nIn layman's terms, I'm basically a doctor?[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "tev030601_MSG0002",
+      "style": 1,
+      "name": "Did you come here for a checkup?[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "tev030601_MSG0003",
+      "style": 1,
+      "name": "I don't have any experience with mechanical bodies like\nyours, you understand?[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "tev030601_MSG0004",
+      "style": 1,
+      "name": "If you are feeling under the weather, perhaps you\nshould seek out a mechanic instead?[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "tev030601_MSG0012",
+      "style": 1,
+      "name": "Lately, I've had a surge in patients complaining about\nstomach pains, you know?[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "tev030601_MSG0013",
+      "style": 1,
+      "name": "Well, even after numerous rigorous examinations,\nI don't think I'm any closer to pinpointing the cause?\nHowever...[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev030601_MSG0014",
+      "style": 1,
+      "name": "Many of my patients claim to have been cured by\nsomething called the Bringer of Miracles?[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "tev030601_MSG0017",
+      "style": 1,
+      "name": "So in the interest of medical research, I took it upon\nmyself to visit this Mr. Bringer—and you know what?\nIt it it turns out he's not human![ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "tev030601_MSG0018",
+      "style": 1,
+      "name": "They really believe some invisible being cured them?\n...Perhaps more than stomachs ail them, am I right?[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "tev030601_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 15,
+      "label": "tev030601_SEL0031",
+      "style": 3,
+      "name": "Ask Staccata about Ma-non life cycles.[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "tev030601_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 17,
+      "label": "tev030601_SEL0041",
+      "style": 3,
+      "name": "Ask Staccata about recent developments.[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "tev030601_SEL1031",
+      "style": 3,
+      "name": "Ask Staccata about mimeosomes.[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "tev030601_MSG0019",
+      "style": 1,
+      "name": "We Ma-non live a great number of years,\nbut we produce very few children, you know?[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "tev030601_MSG0020",
+      "style": 1,
+      "name": "Surely you've noted their absence from our ship?\nThat's because they're being cared for and and\nprotected on our homeworld...[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "tev030601_MSG0021",
+      "style": 1,
+      "name": "Of course, if we fail to find a way to escape the\nconfines of Mira, we'll have to more seriously consider\nextending our species here, you understand?[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "tev030601_MSG0022",
+      "style": 1,
+      "name": "But we would just as soon wait until the Ganglion\nthreat has passed, I imagine? That's one advantage of\nliving long lives—we're never in a rush...[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "tev030601_MSG0028",
+      "style": 1,
+      "name": "When Fraisie left, I saw several Ma-non go with her...[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "tev030601_MSG0031",
+      "style": 1,
+      "name": "I know the fiend has been declawed, but it it still\ndoesn't sit right with me, you know?[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "tev030601_MSG0032",
+      "style": 1,
+      "name": "Once I'm done treating the Ma-non she inflicted that\npoison of hers on, maybe I'll try to track them down?[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "tev030601_MSG0033",
+      "style": 1,
+      "name": "And if I find anything unsavory is going on, I hope you\nwill be there to to help me?[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "tev030601_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 28,
+      "label": "tev030601_SEL0031",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 29,
+      "label": "tev030601_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 30,
+      "label": "tev030601_SEL0041",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 31,
+      "label": "tev030601_MSG2010",
+      "style": 1,
+      "name": "It seems Fraisie believed the Bringer of Miracles would\ncome to her rescue until the very end, don't you think?[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "tev030601_MSG2011",
+      "style": 1,
+      "name": "It should have been plain as day that the xenoform was\ntricking her, right?[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "tev030601_MSG2012",
+      "style": 1,
+      "name": "The villain might even be hiding among us as we\nspeak, you know?[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "tev030601_MSG2013",
+      "style": 1,
+      "name": "And and and who knows what form it's taken?\nWe must take care not to miss even the tiniest detail![ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "tev030601_MSG2018",
+      "style": 1,
+      "name": "Are you still in your mechanical body?[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "tev030601_MSG2019",
+      "style": 1,
+      "name": "Since you'd gone to the Lifehold Core, I just assumed\nyou would return with your real body, you know?[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "tev030601_MSG2020",
+      "style": 1,
+      "name": "There go my hopes of carefully dissecting every last\nlimb and lymph node you possess, I suppose?\nEr, figuratively speaking, of course...[ST:wait ]"
+    }
+  ]
+}

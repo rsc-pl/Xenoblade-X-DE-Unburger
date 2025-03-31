@@ -1,0 +1,486 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev055901_MSG0001",
+      "style": 1,
+      "name": "This can't possibly be a natural phenomenon.\nWe have to intervene.[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev055901_MSG0002",
+      "style": 1,
+      "name": "Just weeks ago, there were hardly any of them in\nCauldros! But now...[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev055901_JNK0010",
+      "style": 4,
+      "name": "Query"
+    },
+    {
+      "$id": 4,
+      "label": "qev055901_SEL0011",
+      "style": 3,
+      "name": "Ask what Julius is talking about."
+    },
+    {
+      "$id": 5,
+      "label": "qev055901_JNK0020",
+      "style": 4,
+      "name": "Inquire"
+    },
+    {
+      "$id": 6,
+      "label": "qev055901_SEL0021",
+      "style": 3,
+      "name": "Ask who \"them\" is."
+    },
+    {
+      "$id": 7,
+      "label": "qev055901_MSG0003",
+      "style": 1,
+      "name": "The visigel population is growing in Cauldros.[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev055901_MSG0004",
+      "style": 1,
+      "name": "They're normally very slow to multiply, as indigens go,\nbut lately they've been spreading like clover.[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev055901_MSG0005",
+      "style": 1,
+      "name": "Oh, and they're also extremely aggressive,\nwhich isn't any fun at all.[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev055901_MSG0006",
+      "style": 1,
+      "name": "If they keep growing at this rate, it will make work in\nCauldros extremely difficult for us BLADEs.[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev055901_MSG0007",
+      "style": 1,
+      "name": "Visigels. They're indigens over in Cauldros.[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev055901_MSG0008",
+      "style": 1,
+      "name": "Lately, their population has started to grow at an\nunnatural rate. They're usually very slow to multiply,\nso something is definitely not right.[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev055901_MSG0009",
+      "style": 1,
+      "name": "Oh, and they're also extremely aggressive,\nif I didn't mention that yet.[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev055901_MSG0010",
+      "style": 1,
+      "name": "If they keep growing at this rate, it will make work in\nCauldros extremely difficult for us BLADEs.[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev055901_MSG0011",
+      "style": 1,
+      "name": "If you have time, I'd love your help in investigating.[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev055901_MSG0012",
+      "style": 1,
+      "name": "I'll need a tissue sample first, if you can head out there\nand round one up.[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev055901_MSG0013",
+      "style": 1,
+      "name": "Come back with that sample once you have it.\nI'll be waiting.[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev055901_MSG0014",
+      "style": 1,
+      "name": "Please hunt down a visigel and bring me a tissue\nsample, okay?[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev055901_MSG0015",
+      "style": 1,
+      "name": "Thanks for the good work.\nUnfortunately, something's still not right.[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev055901_MSG0016",
+      "style": 1,
+      "name": "According to the latest FrontierNav data,\nthe visigel population has risen by two.[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev055901_MSG0017",
+      "style": 1,
+      "name": "But it should be down one, thanks to you.\n...What in the heck is going on here?[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev055901_JNK0030",
+      "style": 4,
+      "name": "Propose[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev055901_SEL0031",
+      "style": 3,
+      "name": "Offer to bring Julius more samples\nto help find the answer.[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev055901_JNK0040",
+      "style": 4,
+      "name": "Assert[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev055901_SEL0041",
+      "style": 3,
+      "name": "Say that something must be actively\ncausing the visigel population to rise.[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev055901_MSG0018",
+      "style": 1,
+      "name": "Thank you. It really is bizarre.\nVisigels simply shouldn't be breeding like this.[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev055901_MSG0019",
+      "style": 1,
+      "name": "If we're going to figure out what's happening,\nwe'll need those extra tissue samples.[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev055901_MSG0020",
+      "style": 1,
+      "name": "It really is bizarre. Visigels simply shouldn't be\nbreeding in these numbers.[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev055901_MSG0021",
+      "style": 1,
+      "name": "If we hope to figure out what's happening,\nwe're going to need more tissue samples.[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev055901_MSG0022",
+      "style": 1,
+      "name": "Sorry to send you back out to Cauldros, but samples\nfrom two more visigels would be a big help in getting\nto the bottom of this.[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev055901_MSG0023",
+      "style": 1,
+      "name": "Collect tissue samples from two visigels,\nthen bring them back here to me.[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev055901_MSG0024",
+      "style": 1,
+      "name": "...What? That's not... This shouldn't be possible![ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev055901_MSG0025",
+      "style": 1,
+      "name": "The visigel numbers are up again! This time FrontierNav\nis saying there are four more. What in the hell...?[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev055901_JNK0050",
+      "style": 4,
+      "name": "Inquire"
+    },
+    {
+      "$id": 35,
+      "label": "qev055901_SEL0051",
+      "style": 3,
+      "name": "Ask what Julius's analysis has turned up."
+    },
+    {
+      "$id": 36,
+      "label": "qev055901_JNK0060",
+      "style": 4,
+      "name": "Observe"
+    },
+    {
+      "$id": 37,
+      "label": "qev055901_SEL0061",
+      "style": 3,
+      "name": "Say there must be some secret to the visigel life cycle.[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev055901_MSG0026",
+      "style": 1,
+      "name": "Well, there are some irregularities in the blood,\nbut I still haven't pinned down exactly what's going on.[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "qev055901_MSG0027",
+      "style": 1,
+      "name": "I suppose it's possible, but this sort of behavior has\nnever been seen before. There must be some immediate\ncause. Some prompt.[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "qev055901_MSG0028",
+      "style": 1,
+      "name": "Rapidly multiplying organisms...\nYes, I've seen something like it before.[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "qev055901_MSG0029",
+      "style": 1,
+      "name": "Can I possibly trouble you for four more samples,\n[ST:playername ]?[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "qev055901_MSG0030",
+      "style": 1,
+      "name": "This mystery's too big for me to handle alone.\nI'm going to see about getting some help while you're\noff in Cauldros.[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "qev055901_MSG0031",
+      "style": 1,
+      "name": "Good luck to the both of us![ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "qev055901_MSG0032",
+      "style": 1,
+      "name": "I know it's a lot to ask, but please bring me four more\nvisigel tissue samples.[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "qev055901_MSG0033",
+      "style": 1,
+      "name": "The anomaly was more than one human could puzzle\nthrough, so I reached out to the Orphe for help.[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "qev055901_MSG0034",
+      "style": 1,
+      "name": "I suppose this is what you humans would call a\n\"bad feeling.\"[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "qev055901_MSG0035",
+      "style": 1,
+      "name": "I have been analyzing the visigel samples since Julius\ncame to me, and I am concerned.[ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "qev055901_MSG0036",
+      "style": 1,
+      "name": "I worry that this phenomenon may have serious\nimplications for the Orphe's very existence.[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "qev055901_MSG0037",
+      "style": 1,
+      "name": "However, I must be extremely cautious and thorough in\nmy work. As such, I require more samples.[ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "qev055901_MSG0038",
+      "style": 1,
+      "name": "Well, they won't be hard to find—the damn buggers\nare multiplying again, somehow.[ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "qev055901_MSG0039",
+      "style": 1,
+      "name": "Tissue samples from six more individuals should do.[ST:wait ]"
+    },
+    {
+      "$id": 52,
+      "label": "qev055901_MSG0040",
+      "style": 1,
+      "name": "That should be enough to reach a conclusion.\nI only hope it will not be a grim one.[ST:wait ]"
+    },
+    {
+      "$id": 53,
+      "label": "qev055901_JNK0070",
+      "style": 4,
+      "name": "Inquire about Theories"
+    },
+    {
+      "$id": 54,
+      "label": "qev055901_SEL0071",
+      "style": 3,
+      "name": "Ask if Han'barac has a hypothesis."
+    },
+    {
+      "$id": 55,
+      "label": "qev055901_JNK0080",
+      "style": 4,
+      "name": "Inquire about Conclusions"
+    },
+    {
+      "$id": 56,
+      "label": "qev055901_SEL0081",
+      "style": 3,
+      "name": "Ask what exactly a \"grim conclusion\" would entail."
+    },
+    {
+      "$id": 57,
+      "label": "qev055901_MSG0041",
+      "style": 1,
+      "name": "I would prefer not to speculate until I am more\ncertain.[ST:wait ]"
+    },
+    {
+      "$id": 58,
+      "label": "qev055901_MSG0042",
+      "style": 1,
+      "name": "Putting off things you don't want to deal with isn't very\nlogical. Nice to see us humans and you Orpheans have\nthat in common.[ST:wait ]"
+    },
+    {
+      "$id": 59,
+      "label": "qev055901_MSG0043",
+      "style": 1,
+      "name": "I...would prefer not to discuss it yet.\nThinking about it fills my mind with confusion.[ST:wait ]"
+    },
+    {
+      "$id": 60,
+      "label": "qev055901_MSG0044",
+      "style": 1,
+      "name": "You Orphe feel that way sometimes too, huh?[ST:wait ]"
+    },
+    {
+      "$id": 61,
+      "label": "qev055901_MSG0045",
+      "style": 1,
+      "name": "One last round of tissue samples should get us to the\nbottom of this. So yeah, we need six more, please.[ST:wait ]"
+    },
+    {
+      "$id": 62,
+      "label": "qev055901_MSG0046",
+      "style": 1,
+      "name": "I know this has been a lot of work,\nand I appreciate it.[ST:wait ]"
+    },
+    {
+      "$id": 63,
+      "label": "qev055901_MSG0047",
+      "style": 1,
+      "name": "One last round of visigel tissue samples should give us\nour answer. We need six more, please.[ST:wait ]"
+    },
+    {
+      "$id": 64,
+      "label": "qev055901_MSG0048",
+      "style": 1,
+      "name": "Does it look like you'll get your answer, Han'barac?[ST:wait ]"
+    },
+    {
+      "$id": 65,
+      "label": "qev055901_MSG0049",
+      "style": 1,
+      "name": "...Has the visigel population continued to expand?[ST:wait ]"
+    },
+    {
+      "$id": 66,
+      "label": "qev055901_MSG0050",
+      "style": 1,
+      "name": "'Fraid so.[ST:wait ]"
+    },
+    {
+      "$id": 67,
+      "label": "qev055901_MSG0051",
+      "style": 1,
+      "name": "I suspected as much. I have never felt this way before.\nNever felt this...gloom, I suppose you would call it.[ST:wait ]"
+    },
+    {
+      "$id": 68,
+      "label": "qev055901_MSG0052",
+      "style": 1,
+      "name": "The visigel tissue analysis results, combined with the\nfact that their numbers continue to grow, makes it\nconclusive.[ST:wait ]"
+    },
+    {
+      "$id": 69,
+      "label": "qev055901_MSG0053",
+      "style": 1,
+      "name": "Though I am shocked, to be frank.\nIt is a conclusion I did not wish to think possible...[ST:wait ]"
+    },
+    {
+      "$id": 70,
+      "label": "qev055901_JNK0090",
+      "style": 4,
+      "name": "Inquire about Conclusions"
+    },
+    {
+      "$id": 71,
+      "label": "qev055901_SEL0091",
+      "style": 3,
+      "name": "Ask what Han'barac has learned."
+    },
+    {
+      "$id": 72,
+      "label": "qev055901_JNK0100",
+      "style": 4,
+      "name": "Inquire about Shock"
+    },
+    {
+      "$id": 73,
+      "label": "qev055901_SEL0101",
+      "style": 3,
+      "name": "Ask why Han'barac is so surprised."
+    },
+    {
+      "$id": 74,
+      "label": "qev055901_MSG0054",
+      "style": 1,
+      "name": "The Ovah my kind reveres and obeys also exists within\nthe bodies of these visigels.[ST:wait ]"
+    },
+    {
+      "$id": 75,
+      "label": "qev055901_MSG0055",
+      "style": 1,
+      "name": "The Ovah my kind reveres and obeys also exists within\nthe bodies of these primitive visigels.[ST:wait ]"
+    },
+    {
+      "$id": 76,
+      "label": "qev055901_MSG0056",
+      "style": 1,
+      "name": "This is a most shocking revelation.[ST:wait ]"
+    },
+    {
+      "$id": 77,
+      "label": "qev055901_MSG0057",
+      "style": 1,
+      "name": "And this Ovah you talk about is...what, exactly?[ST:wait ]"
+    },
+    {
+      "$id": 78,
+      "label": "qev055901_MSG0058",
+      "style": 1,
+      "name": "It is a virus that exists within the bodies of the Orphe,\nbut further explanation can wait. For now, we need to\nformulate a plan to deal with this new development.[ST:wait ]"
+    }
+  ]
+}

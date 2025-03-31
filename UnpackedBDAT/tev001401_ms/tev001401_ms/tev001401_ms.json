@@ -1,0 +1,456 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev001401_MSG0001",
+      "style": 1,
+      "name": "Hey, [ST:playername ]. How's it going?[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev001401_MSG0002",
+      "style": 1,
+      "name": "If you need some backup, just say so.\nI'm always willing to help.[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev001401_MSG0003",
+      "style": 1,
+      "name": "Not that you're extra-special or anything—it's just one\nof my duties as a senior officer. Anyway, feel free to\nbring me along if you want.[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev001401_JNK0010",
+      "style": 4,
+      "name": "Agree"
+    },
+    {
+      "$id": 5,
+      "label": "tev001401_SEL0011",
+      "style": 3,
+      "name": "Add Irina to your team."
+    },
+    {
+      "$id": 6,
+      "label": "tev001401_JNK0020",
+      "style": 4,
+      "name": "Refuse"
+    },
+    {
+      "$id": 7,
+      "label": "tev001401_SEL0021",
+      "style": 3,
+      "name": "Decline Irina's request for now."
+    },
+    {
+      "$id": 8,
+      "label": "tev001401_MSG0004",
+      "style": 1,
+      "name": "Roger that. Leave the hard parts to me.[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "tev001401_MSG0005",
+      "style": 1,
+      "name": "Hey if you're sure you can handle it, then great.\nBut if you ever run into trouble, come find me.[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "tev001401_MSG0006",
+      "style": 1,
+      "name": "Wait, so your next mission is in Noctilum?\nThen you'll want to leave through the west gate.[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev001401_MSG0007",
+      "style": 1,
+      "name": "You know, I'm between missions right now.\nWhy don't I come along and show you the way?[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "tev001401_MSG0008",
+      "style": 1,
+      "name": "I've eradicated more than a few Noctilum indigens.\nI could be a big help to you.[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "tev001401_JNK0030",
+      "style": 4,
+      "name": "Agree"
+    },
+    {
+      "$id": 14,
+      "label": "tev001401_SEL0031",
+      "style": 3,
+      "name": "Add Irina to your team."
+    },
+    {
+      "$id": 15,
+      "label": "tev001401_JNK0040",
+      "style": 4,
+      "name": "Refuse"
+    },
+    {
+      "$id": 16,
+      "label": "tev001401_SEL0041",
+      "style": 3,
+      "name": "Decline Irina's request for now."
+    },
+    {
+      "$id": 17,
+      "label": "tev001401_MSG0009",
+      "style": 1,
+      "name": "Then let's not waste any time!\nThe west gate's over in the industrial district.[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "tev001401_MSG0010",
+      "style": 1,
+      "name": "You sure? Well, if you need more backup,\njust come find me. Roger that?[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "tev001401_MSG0015",
+      "style": 1,
+      "name": "I've got my own mission to do right now,\nso I doubt I'll be able to help with yours.[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "tev001401_MSG0016",
+      "style": 1,
+      "name": "Er, sorry if you were counting on me.\nTry me again next time, all right?[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "tev001401_MSG0021",
+      "style": 1,
+      "name": "Don't worry—I'm not going to freak out on you again.[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "tev001401_MSG0022",
+      "style": 1,
+      "name": "Such things are disrespectful to my teammates.\nI realize that now.[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "tev001401_MSG0023",
+      "style": 1,
+      "name": "And with that out of the way, let's get moving!\nI've got your back, no matter the mission.[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "tev001401_JNK0050",
+      "style": 4,
+      "name": "Agree"
+    },
+    {
+      "$id": 25,
+      "label": "tev001401_SEL0051",
+      "style": 3,
+      "name": "Add Irina to your team."
+    },
+    {
+      "$id": 26,
+      "label": "tev001401_JNK0060",
+      "style": 4,
+      "name": "Refuse"
+    },
+    {
+      "$id": 27,
+      "label": "tev001401_SEL0061",
+      "style": 3,
+      "name": "Decline Irina's request for now."
+    },
+    {
+      "$id": 28,
+      "label": "tev001401_MSG0024",
+      "style": 1,
+      "name": "Right on. Let's team up and take these bastards down.[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "tev001401_MSG0025",
+      "style": 1,
+      "name": "You sure? Well, if you need more backup,\ncome find me. Roger that?[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "tev001401_MSG0030",
+      "style": 1,
+      "name": "We don't have time to be looking over our\nshoulders right now.[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "tev001401_MSG0031",
+      "style": 1,
+      "name": "We have to hurry and find the Lifehold Core so we can\nbring Marcus back to us. So bring me along, okay?[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "tev001401_JNK0070",
+      "style": 4,
+      "name": "Agree"
+    },
+    {
+      "$id": 33,
+      "label": "tev001401_SEL0071",
+      "style": 3,
+      "name": "Add Irina to your team."
+    },
+    {
+      "$id": 34,
+      "label": "tev001401_JNK0080",
+      "style": 4,
+      "name": "Refuse"
+    },
+    {
+      "$id": 35,
+      "label": "tev001401_SEL0081",
+      "style": 3,
+      "name": "Decline Irina's request for now."
+    },
+    {
+      "$id": 36,
+      "label": "tev001401_MSG0032",
+      "style": 1,
+      "name": "Roger that. Leave the hard parts to me.[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "tev001401_MSG0033",
+      "style": 1,
+      "name": "You sure? Well, if you need more backup,\ncome find me. Roger that?[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "tev001401_MSG0038",
+      "style": 1,
+      "name": "Looks like it'll be a while before Lao's mimeosome is in\nworking order again.[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "tev001401_MSG0039",
+      "style": 1,
+      "name": "And if he ain't moving, that's just more work we'll have\nto do in his stead. Speaking of, you need any help?[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "tev001401_JNK0090",
+      "style": 4,
+      "name": "Agree"
+    },
+    {
+      "$id": 41,
+      "label": "tev001401_SEL0091",
+      "style": 3,
+      "name": "Add Irina to your team."
+    },
+    {
+      "$id": 42,
+      "label": "tev001401_JNK0100",
+      "style": 4,
+      "name": "Refuse"
+    },
+    {
+      "$id": 43,
+      "label": "tev001401_SEL0101",
+      "style": 3,
+      "name": "Decline Irina's request for now."
+    },
+    {
+      "$id": 44,
+      "label": "tev001401_MSG0040",
+      "style": 1,
+      "name": "You got it. I'll make sure that anyone who stands in\nour way doesn't stand for long.[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "tev001401_MSG0041",
+      "style": 1,
+      "name": "You sure? Well, if you need more backup,\ncome find me. Roger that?[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "tev001401_MSG0046",
+      "style": 1,
+      "name": "Hey, wait. You have to take me with you on this one.\nI won't be satisfied until I can look Lao in the eyes\nand ask him a question.[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "tev001401_MSG0047",
+      "style": 1,
+      "name": "And if he gives the wrong answer, I won't be satisfied\nuntil I can pummel him with my own two fists!\nSo take me along![ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "tev001401_JNK0110",
+      "style": 4,
+      "name": "Agree"
+    },
+    {
+      "$id": 49,
+      "label": "tev001401_SEL0111",
+      "style": 3,
+      "name": "Add Irina to your team."
+    },
+    {
+      "$id": 50,
+      "label": "tev001401_JNK0120",
+      "style": 4,
+      "name": "Refuse"
+    },
+    {
+      "$id": 51,
+      "label": "tev001401_SEL0121",
+      "style": 3,
+      "name": "Decline Irina's request for now."
+    },
+    {
+      "$id": 52,
+      "label": "tev001401_MSG0048",
+      "style": 1,
+      "name": "Thanks. If he really did betray us, then we're gonna\nmake him answer for what he did.[ST:wait ]"
+    },
+    {
+      "$id": 53,
+      "label": "tev001401_MSG0049",
+      "style": 1,
+      "name": "But the pummeling! I was gonna pummel him so hard![ST:wait ]"
+    },
+    {
+      "$id": 54,
+      "label": "tev001401_MSG0054",
+      "style": 1,
+      "name": "We have to secure the Lifehold Core and give everyone\nhere some semblance of a normal life.[ST:wait ]"
+    },
+    {
+      "$id": 55,
+      "label": "tev001401_MSG0055",
+      "style": 1,
+      "name": "We'll do it for my little brother and everyone else we\nleft behind on Earth.[ST:wait ]"
+    },
+    {
+      "$id": 56,
+      "label": "tev001401_MSG0056",
+      "style": 1,
+      "name": "Right, [ST:playername ]? Let's do this!\nYou and me, baby![ST:wait ]"
+    },
+    {
+      "$id": 57,
+      "label": "tev001401_JNK0130",
+      "style": 4,
+      "name": "Agree"
+    },
+    {
+      "$id": 58,
+      "label": "tev001401_SEL0131",
+      "style": 3,
+      "name": "Add Irina to your team."
+    },
+    {
+      "$id": 59,
+      "label": "tev001401_JNK0140",
+      "style": 4,
+      "name": "Refuse"
+    },
+    {
+      "$id": 60,
+      "label": "tev001401_SEL0141",
+      "style": 3,
+      "name": "Decline Irina's request for now."
+    },
+    {
+      "$id": 61,
+      "label": "tev001401_MSG0057",
+      "style": 1,
+      "name": "Right on. Let's team up and take these bastards down.[ST:wait ]"
+    },
+    {
+      "$id": 62,
+      "label": "tev001401_MSG0058",
+      "style": 1,
+      "name": "All right. If you change your mind, let me know ASAP.[ST:wait ]"
+    },
+    {
+      "$id": 63,
+      "label": "tev001401_MSG0063",
+      "style": 1,
+      "name": "So long as Mira's overrun with dangerous indigens\nand Ganglion loyalists are fighting for their cause,\nan Interceptor's work is never done.[ST:wait ]"
+    },
+    {
+      "$id": 64,
+      "label": "tev001401_MSG0064",
+      "style": 1,
+      "name": "So if you need a hand, I've always got two right here.[ST:wait ]"
+    },
+    {
+      "$id": 65,
+      "label": "tev001401_MSG0065",
+      "style": 1,
+      "name": "What say we get out there right now and do some\ndamage? You know, for the security of New LA?[ST:wait ]"
+    },
+    {
+      "$id": 66,
+      "label": "tev001401_JNK0150",
+      "style": 4,
+      "name": "Agree"
+    },
+    {
+      "$id": 67,
+      "label": "tev001401_SEL0151",
+      "style": 3,
+      "name": "Add Irina to your team."
+    },
+    {
+      "$id": 68,
+      "label": "tev001401_JNK0160",
+      "style": 4,
+      "name": "Refuse"
+    },
+    {
+      "$id": 69,
+      "label": "tev001401_SEL0161",
+      "style": 3,
+      "name": "Decline Irina's request for now."
+    },
+    {
+      "$id": 70,
+      "label": "tev001401_MSG0066",
+      "style": 1,
+      "name": "You got it. I'll make sure that anyone who stands in\nour way doesn't stand for long.[ST:wait ]"
+    },
+    {
+      "$id": 71,
+      "label": "tev001401_MSG0067",
+      "style": 1,
+      "name": "You sure? Well, if you need more backup,\ncome find me. Understand?[ST:wait ]"
+    },
+    {
+      "$id": 72,
+      "label": "tev001401_MSG0068",
+      "style": 1,
+      "name": "Hey, [ST:playername ]! What's up?\nYou need my help?[ST:wait ]"
+    },
+    {
+      "$id": 73,
+      "label": "tev001401_MSG0069",
+      "style": 1,
+      "name": "Afraid I can't right now—I've got a mission that just\nwon't quit. But hit me up next time, all right?[ST:wait ]"
+    }
+  ]
+}

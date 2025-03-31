@@ -1,0 +1,432 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev042202_MSG0001",
+      "style": 1,
+      "name": "Friend has done well to defeat incarnation of\nDivine Nopopon.[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev042202_MSG0002",
+      "style": 1,
+      "name": "Now Divine Nopopon will bestow further trial upon\npromising warrior friend.[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev042202_MSG0003",
+      "style": 1,
+      "name": "It will be difficult beyond reason. Fit to shatter souls![ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev042202_MSG0004",
+      "style": 1,
+      "name": "Knowing this, does friend still wish to face it?[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev042202_JNK0010",
+      "style": 4,
+      "name": "Accept"
+    },
+    {
+      "$id": 6,
+      "label": "qev042202_SEL0011",
+      "style": 3,
+      "name": "Ask to undergo the trial."
+    },
+    {
+      "$id": 7,
+      "label": "qev042202_JNK0020",
+      "style": 4,
+      "name": "Refuse"
+    },
+    {
+      "$id": 8,
+      "label": "qev042202_SEL0021",
+      "style": 3,
+      "name": "Say that you have no interest in these trials."
+    },
+    {
+      "$id": 9,
+      "label": "qev042202_MSG0005",
+      "style": 1,
+      "name": "So be it.[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev042202_MSG0006",
+      "style": 1,
+      "name": "Divine Nopopon is satisfied with answer of friend.[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev042202_MSG0007",
+      "style": 1,
+      "name": "...Whaaat?! Wait just one second! If friend passes trial,\nreward is amazing power![ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev042202_MSG0008",
+      "style": 1,
+      "name": "Besides, if friend leave now, incarnation of Divine\nNopopon just got beat up for nothing.[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev042202_MSG0009",
+      "style": 1,
+      "name": "That is NOT going to fly![ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev042202_MSG0010",
+      "style": 1,
+      "name": "Nope nope...nope...nopopoPOPOPON![ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev042202_MSG0011",
+      "style": 1,
+      "name": "Now, will friend face trial?[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev042202_JNK0030",
+      "style": 4,
+      "name": "Accept"
+    },
+    {
+      "$id": 17,
+      "label": "qev042202_SEL0031",
+      "style": 3,
+      "name": "Say that you gladly accept."
+    },
+    {
+      "$id": 18,
+      "label": "qev042202_JNK0040",
+      "style": 4,
+      "name": "Accept"
+    },
+    {
+      "$id": 19,
+      "label": "qev042202_SEL0041",
+      "style": 3,
+      "name": "Say that you humbly accept."
+    },
+    {
+      "$id": 20,
+      "label": "qev042202_JNK0050",
+      "style": 4,
+      "name": "Accept"
+    },
+    {
+      "$id": 21,
+      "label": "qev042202_SEL0051",
+      "style": 3,
+      "name": "Say that you eagerly accept."
+    },
+    {
+      "$id": 22,
+      "label": "qev042202_MSG0012",
+      "style": 1,
+      "name": "Divine Nopopon is happy that friend is happy.[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev042202_MSG0013",
+      "style": 1,
+      "name": "Yes, very good. Reverence of friend is duly noted.[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev042202_MSG0014",
+      "style": 1,
+      "name": "Oh ho! Divine Nopopon is eager to see how long\neagerness of friend lasts.[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev042202_MSG0015",
+      "style": 1,
+      "name": "Now then! Trial is to refine this gemstone, which is\ninscribed with ancient secret of Nopon origins.[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev042202_MSG0016",
+      "style": 1,
+      "name": "Friend must travel to each land and receive blessing\nfrom other divine spirits there to make stone shimmer\nand reveal said ancient secrets.[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev042202_JNK0060",
+      "style": 4,
+      "name": "Inquire about Origins"
+    },
+    {
+      "$id": 28,
+      "label": "qev042202_SEL0061",
+      "style": 3,
+      "name": "Petition the Divine Nopopon to tell you\nmore about the origin of the Nopon."
+    },
+    {
+      "$id": 29,
+      "label": "qev042202_JNK0070",
+      "style": 4,
+      "name": "Inquire about Spirits"
+    },
+    {
+      "$id": 30,
+      "label": "qev042202_SEL0071",
+      "style": 3,
+      "name": "Petition the Divine Nopopon to tell you\nmore about these \"other divine spirits.\""
+    },
+    {
+      "$id": 31,
+      "label": "qev042202_MSG0017",
+      "style": 1,
+      "name": "It is said that by polishing this stone, one can read\nhow Nopon first came to be.[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev042202_MSG0018",
+      "style": 1,
+      "name": "It is truth hidden even to Divine Nopopon.[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev042202_MSG0019",
+      "style": 1,
+      "name": "Divine Nopopon is not only spirit here on Mira.\nThere are three others.[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev042202_MSG0020",
+      "style": 1,
+      "name": "All possess power equal to Divine Nopopon.\nPerhaps even greater.[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev042202_MSG0021",
+      "style": 1,
+      "name": "There is power enough to overturn entire world,\nshould all four unite in purpose![ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev042202_MSG0022",
+      "style": 1,
+      "name": "Divine Nopopon will entrust stone into care of friend.[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev042202_MSG0023",
+      "style": 1,
+      "name": "First spirit dwells in Azure Lagoon of Oblivia.[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev042202_MSG0024",
+      "style": 1,
+      "name": "Second awaits in Old Ceremonial Hollow of Cauldros.[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "qev042202_MSG0025",
+      "style": 1,
+      "name": "And third spirit will be found in Quay Hollows\nof Sylvalum.[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "qev042202_MSG0026",
+      "style": 1,
+      "name": "Once friend has secured blessings of each one,\nreturn here to Divine Nopopon. Friend can do it!\nRah rah rah![ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "qev042202_MSG0027",
+      "style": 1,
+      "name": "Friend has received final blessing?\nThen show stone to Divine Nopopon![ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "qev042202_MSG0028",
+      "style": 1,
+      "name": "Oooooo! It shines with shiny luster never seen before!\nDivine Nopopon can see something...\nYesss, it grows clearer...[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "qev042202_MSG0029",
+      "style": 1,
+      "name": "This is ancient Nopon script![ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "qev042202_MSG0030",
+      "style": 1,
+      "name": "I see... Ahhh, yes... Hmmm... Uhhh... Uh huh?[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "qev042202_JNK0100",
+      "style": 4,
+      "name": "Press[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "qev042202_SEL0101",
+      "style": 3,
+      "name": "Urge the Divine Nopopon to tell you what it says.[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "qev042202_JNK0110",
+      "style": 4,
+      "name": "Observe[ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "qev042202_SEL0111",
+      "style": 3,
+      "name": "Point out that the Divine Nopopon\ndoesn't sound very happy.[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "qev042202_MSG0031",
+      "style": 1,
+      "name": "Divine Nopopon wishes friend would stop looking at\nhim with such sparkly and anticipating eyes...[ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "qev042202_MSG0032",
+      "style": 1,
+      "name": "This is, er...very difficult to say.[ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "qev042202_MSG0033",
+      "style": 1,
+      "name": "...Friend picked up on that?[ST:wait ]"
+    },
+    {
+      "$id": 52,
+      "label": "qev042202_MSG0034",
+      "style": 1,
+      "name": "This was not quite tale that Divine Nopopon was\nhoping for.[ST:wait ]"
+    },
+    {
+      "$id": 53,
+      "label": "qev042202_MSG0035",
+      "style": 1,
+      "name": "Divine Nopopon thought it detailed how Nopon first\ncame to be born on this planet. Er, but instead, it is\njust long list of Nopon-related...stuff.[ST:wait ]"
+    },
+    {
+      "$id": 54,
+      "label": "qev042202_MSG0036",
+      "style": 1,
+      "name": "\"Nopon must always be considered cute by all other\nliving things!\"[ST:wait ]"
+    },
+    {
+      "$id": 55,
+      "label": "qev042202_MSG0037",
+      "style": 1,
+      "name": "\"Nopon must always preserve fluffiness of their fur!\"[ST:wait ]"
+    },
+    {
+      "$id": 56,
+      "label": "qev042202_MSG0038",
+      "style": 1,
+      "name": "\"Nopon must maximize fluffiness by drinking\nkeppo-carrot juice every day!\"[ST:wait ]"
+    },
+    {
+      "$id": 57,
+      "label": "qev042202_MSG0039",
+      "style": 1,
+      "name": "...There are like 50 of these things.[ST:wait ]"
+    },
+    {
+      "$id": 58,
+      "label": "qev042202_MSG0040",
+      "style": 1,
+      "name": "This is sort of dumb information Napopon would like.\nBut Divine Nopopon about ready to cry.[ST:wait ]"
+    },
+    {
+      "$id": 59,
+      "label": "qev042202_MSG0041",
+      "style": 1,
+      "name": "All it prove is that whatever ancestor left this behind\nwas big, dumb idiot. Ugh. Probably best for friend to\nforget this ever happened.[ST:wait ]"
+    },
+    {
+      "$id": 60,
+      "label": "qev042202_MSG0042",
+      "style": 1,
+      "name": "...Divine Nopopon will try to pull it together here.[ST:wait ]"
+    },
+    {
+      "$id": 61,
+      "label": "qev042202_MSG0043",
+      "style": 1,
+      "name": "Well, at least part about giving friend power of spirits\nwas true![ST:wait ]"
+    },
+    {
+      "$id": 62,
+      "label": "qev042202_MSG0044",
+      "style": 1,
+      "name": "Nopo...nopo...nopopoPOPOPON![ST:wait ]"
+    },
+    {
+      "$id": 63,
+      "label": "qev042202_MSG0045",
+      "style": 1,
+      "name": "And...TA DAAAAA![ST:wait ]"
+    },
+    {
+      "$id": 64,
+      "label": "qev042202_MSG0046",
+      "style": 1,
+      "name": "It may look like dumb toy, but it is actually REALLY\npowerful![ST:wait ]"
+    },
+    {
+      "$id": 65,
+      "label": "qev042202_MSG0047",
+      "style": 1,
+      "name": "This sword of spirits could cleave even Divine Nopopon\nin twain! Er, so watch where friend point it.[ST:wait ]"
+    },
+    {
+      "$id": 66,
+      "label": "qev042202_MSG0048",
+      "style": 1,
+      "name": "And with that, role of Divine Nopopon is fulfilled.[ST:wait ]"
+    },
+    {
+      "$id": 67,
+      "label": "qev042202_MSG0049",
+      "style": 1,
+      "name": "Divine Nopopon will probably never see friend again,\nbut keep that chin up.[ST:wait ]"
+    },
+    {
+      "$id": 68,
+      "label": "qev042202_MSG0050",
+      "style": 1,
+      "name": "Oh, and Divine Nopopon heard everything other spirits\nsaid to friend.[ST:wait ]"
+    },
+    {
+      "$id": 69,
+      "label": "qev042202_MSG0051",
+      "style": 1,
+      "name": "Time to go give them all hot helping of Legendary\nNopopopopon Slash X! HIYAAA![ST:wait ]"
+    }
+  ]
+}

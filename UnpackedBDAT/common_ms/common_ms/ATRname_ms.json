@@ -1,0 +1,78 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "ATR_NONE_ms",
+      "style": 9,
+      "name": "None"
+    },
+    {
+      "$id": 2,
+      "label": "ATR_PHYSICAL_ms",
+      "style": 9,
+      "name": "Physical"
+    },
+    {
+      "$id": 3,
+      "label": "ATR_BEAM_ms",
+      "style": 9,
+      "name": "Beam"
+    },
+    {
+      "$id": 4,
+      "label": "ATR_DM_ms",
+      "style": 9,
+      "name": "Ether"
+    },
+    {
+      "$id": 5,
+      "label": "ATR_FIRE_ms",
+      "style": 9,
+      "name": "Thermal"
+    },
+    {
+      "$id": 6,
+      "label": "ATR_VOLT_ms",
+      "style": 9,
+      "name": "Electric"
+    },
+    {
+      "$id": 7,
+      "label": "ATR_GRAVITY_ms",
+      "style": 9,
+      "name": "Gravity"
+    },
+    {
+      "$id": 8,
+      "label": "ATR_ANTI_ms",
+      "style": 9,
+      "name": ""
+    },
+    {
+      "$id": 9,
+      "label": "ATR_WPN_ms",
+      "style": 9,
+      "name": "Weapon"
+    },
+    {
+      "$id": 10,
+      "label": "ATR_09_ms",
+      "style": 0,
+      "name": ""
+    }
+  ]
+}

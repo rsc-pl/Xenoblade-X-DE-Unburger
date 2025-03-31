@@ -1,0 +1,396 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev014301_MSG0001",
+      "style": 1,
+      "name": "I'm glad I ran into you, [ST:playername ].[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev014301_MSG0002",
+      "style": 1,
+      "name": "Alice and I have been investigating the people\nresponsible for the attack at my speech.[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev014301_MSG0003",
+      "style": 1,
+      "name": "We've found proof it was Alex and his followers![ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev014301_MSG0004",
+      "style": 1,
+      "name": "I was hoping we might ask for your help again.[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev014301_JNK0010",
+      "style": 4,
+      "name": "Express Concern"
+    },
+    {
+      "$id": 6,
+      "label": "qev014301_SEL0011",
+      "style": 3,
+      "name": "Check whether Eliza is well enough for such activity."
+    },
+    {
+      "$id": 7,
+      "label": "qev014301_JNK0020",
+      "style": 4,
+      "name": "Inquire"
+    },
+    {
+      "$id": 8,
+      "label": "qev014301_SEL0021",
+      "style": 3,
+      "name": "Ask Eliza how she learned the identity of the shooter."
+    },
+    {
+      "$id": 9,
+      "label": "qev014301_MSG0005",
+      "style": 1,
+      "name": "I'm good as new, thanks to the Ma-non who treated\nme. He's a real wizard.[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev014301_MSG0006",
+      "style": 1,
+      "name": "And wanting to pay him back only makes me more\neager to put a stop to Alex's plot.[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev014301_MSG0007",
+      "style": 1,
+      "name": "They fled New LA like rats off a sinking starship,\nand now they're in hiding.[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev014301_MSG0008",
+      "style": 1,
+      "name": "Our sources tell us they're planning to slaughter all the\nxenoforms in the city, and that they've been gathering\nweapons—including Skells.[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev014301_MSG0009",
+      "style": 1,
+      "name": "Which is why we have to stop them before something\ntruly irreparable happens.[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev014301_MSG0010",
+      "style": 1,
+      "name": "I'd like you to speak with Cheche, the Nopon intel\ndealer who uncovered the link between Alex and\nthe shooter.[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev014301_MSG0011",
+      "style": 1,
+      "name": "Once you've learned where Alex is hiding, you can go\nthere and stop this madness once and for all.[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev014301_MSG0012",
+      "style": 1,
+      "name": "At this point, we've got a pretty big network of\nNopon allies.[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev014301_MSG0013",
+      "style": 1,
+      "name": "An intel dealer named Cheche uncovered the link\nbetween the shooter and Alex.[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev014301_MSG0014",
+      "style": 1,
+      "name": "He also said Alex's group has been gathering weapons\nand Skells so they can kill every last xenoform in NLA.[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev014301_MSG0015",
+      "style": 1,
+      "name": "I can forgive what they've done to me, but this is\ngenocide. We can't allow it to happen.[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev014301_MSG0016",
+      "style": 1,
+      "name": "Speak with Cheche and find out where Alex and his\ncronies are hiding. The time has come to put an end\nto this madness.[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev014301_MSG0017",
+      "style": 1,
+      "name": "Can I count on your help, [ST:playername ]?[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev014301_MSG0018",
+      "style": 1,
+      "name": "I still haven't given up hope that Alex will listen to\nreason and turn away from violence.[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev014301_MSG0019",
+      "style": 1,
+      "name": "But their recent actions have crossed a line.\nIf you feel your life is in danger...[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev014301_MSG0020",
+      "style": 1,
+      "name": "Well, do what you must.[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev014301_MSG0021",
+      "style": 1,
+      "name": "You're way too nice, Eliza.\nThese are the people who SHOT you, remember?![ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev014301_MSG0022",
+      "style": 1,
+      "name": "I'll never forgive them. They all deserve to die![ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev014301_JNK0110",
+      "style": 4,
+      "name": "Judge"
+    },
+    {
+      "$id": 28,
+      "label": "qev014301_SEL0111",
+      "style": 3,
+      "name": "Agree with Alice that Alex must pay for his crimes."
+    },
+    {
+      "$id": 29,
+      "label": "qev014301_JNK0120",
+      "style": 4,
+      "name": "Forgive"
+    },
+    {
+      "$id": 30,
+      "label": "qev014301_SEL0121",
+      "style": 3,
+      "name": "Agree with Eliza that they should\nstick to diplomacy if they can."
+    },
+    {
+      "$id": 31,
+      "label": "qev014301_MSG0023",
+      "style": 1,
+      "name": "...Perhaps I am too kindhearted.[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev014301_MSG0024",
+      "style": 1,
+      "name": "And that may have led to suffering...[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev014301_MSG0025",
+      "style": 1,
+      "name": "Well then, perhaps we should do as you and Alice say.[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev014301_MSG0026",
+      "style": 1,
+      "name": "Regardless, I leave it to you. Stop their plans\nhowever you think best.[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev014301_MSG0027",
+      "style": 1,
+      "name": "Thank you.[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev014301_MSG0028",
+      "style": 1,
+      "name": "Your kindness and strength give me the courage\nto keep going.[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev014301_MSG0029",
+      "style": 1,
+      "name": "I hope you stay true to your kind nature as well.[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev014301_MSG0030",
+      "style": 1,
+      "name": "I trust you. Stop their plans.[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "qev014301_MSG0031",
+      "style": 1,
+      "name": "You should find Cheche the informant at the west end\nof Melville Street. Speak with him first.[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "qev014301_MSG0032",
+      "style": 1,
+      "name": "You should find Cheche the informant at the west end\nof Melville Street.[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "qev014301_MSG0033",
+      "style": 1,
+      "name": "He refused to give details on Alex's whereabouts to a\ncouple of rank amateurs like us.[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "qev014301_MSG0034",
+      "style": 1,
+      "name": "But can you try talking to him? We have to get that\ninformation about Alex![ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "qev014301_MSG0035",
+      "style": 1,
+      "name": "So Alex and his group are in Cauldros...?[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "qev014301_MSG0036",
+      "style": 1,
+      "name": "Please hurry there and put a stop to this evil.[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "qev014301_MSG0053",
+      "style": 1,
+      "name": "It's over now, isn't it? For good.\nYes, well, I'm just glad you're safe.[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "qev014301_MSG0054",
+      "style": 1,
+      "name": "Now New LA and the rest of Mira can build towards\na lasting peace.[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "qev014301_MSG0055",
+      "style": 1,
+      "name": "Yes. Things are going to get busy.[ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "qev014301_MSG0056",
+      "style": 1,
+      "name": "Bring it on! Getting there together will be half the fun![ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "qev014301_MSG0057",
+      "style": 1,
+      "name": "We've already lost so many along the way...[ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "qev014301_MSG0058",
+      "style": 1,
+      "name": "I pledge to do all I can to see that no more lives are\nlost in the struggle for equality and acceptance in NLA.[ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "qev014301_JNK0310",
+      "style": 4,
+      "name": "Doubt Eliza"
+    },
+    {
+      "$id": 52,
+      "label": "qev014301_SEL0311",
+      "style": 3,
+      "name": "Question if that's too much for Eliza to handle."
+    },
+    {
+      "$id": 53,
+      "label": "qev014301_JNK0320",
+      "style": 4,
+      "name": "Encourage Alice"
+    },
+    {
+      "$id": 54,
+      "label": "qev014301_SEL0321",
+      "style": 3,
+      "name": "Tell Alice to hang in there."
+    },
+    {
+      "$id": 55,
+      "label": "qev014301_MSG0059",
+      "style": 1,
+      "name": "Goodness, I hope it won't just be me.[ST:wait ]"
+    },
+    {
+      "$id": 56,
+      "label": "qev014301_MSG0060",
+      "style": 1,
+      "name": "This is about the whole city's future. The lives of every\nhuman and alien living here.[ST:wait ]"
+    },
+    {
+      "$id": 57,
+      "label": "qev014301_MSG0061",
+      "style": 1,
+      "name": "I'll need help from Alice and everyone else along\nthe way.[ST:wait ]"
+    },
+    {
+      "$id": 58,
+      "label": "qev014301_MSG0062",
+      "style": 1,
+      "name": "Hey, thanks! But this isn't just about me, you know?\nIt's about Eliza and everyone else![ST:wait ]"
+    },
+    {
+      "$id": 59,
+      "label": "qev014301_MSG0063",
+      "style": 1,
+      "name": "After all, if we're gonna make New LA a place where\nhumans and xenoforms can live as friends, it'll take\nevery last citizen to make it happen![ST:wait ]"
+    },
+    {
+      "$id": 60,
+      "label": "qev014301_MSG0064",
+      "style": 1,
+      "name": "Oh! Eliza, don't forget [ST:gender p1=his p2=her ] reward![ST:wait ]"
+    },
+    {
+      "$id": 61,
+      "label": "qev014301_MSG0065",
+      "style": 1,
+      "name": "Of course. Thank you for helping us time and again.[ST:wait ]"
+    },
+    {
+      "$id": 62,
+      "label": "qev014301_MSG0066",
+      "style": 1,
+      "name": "I pray this is the last time we'll have need of your\nservices.[ST:wait ]"
+    },
+    {
+      "$id": 63,
+      "label": "qev014301_MSG0067",
+      "style": 1,
+      "name": "But once this long fight is over, I hope you'll join us\nin celebrating.[ST:wait ]"
+    }
+  ]
+}

@@ -1,0 +1,210 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev013102_MSG0001",
+      "style": 1,
+      "name": "Who are you? Why are you here?\nI want to be left alone![ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev013102_MSG0002",
+      "style": 1,
+      "name": "If you've got no business here, get going.\nAnd if you do, make it quick.[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev013102_JNK0010",
+      "style": 4,
+      "name": "Inquire"
+    },
+    {
+      "$id": 4,
+      "label": "qev013102_SEL0011",
+      "style": 3,
+      "name": "Ask about the Celeste Three."
+    },
+    {
+      "$id": 5,
+      "label": "qev013102_JNK0020",
+      "style": 4,
+      "name": "Press"
+    },
+    {
+      "$id": 6,
+      "label": "qev013102_SEL0021",
+      "style": 3,
+      "name": "Tell him Fosdyke sent you and\ndemand to know Briggs's location."
+    },
+    {
+      "$id": 7,
+      "label": "qev013102_MSG0003",
+      "style": 1,
+      "name": "I have nothing to say to you.[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev013102_MSG0004",
+      "style": 1,
+      "name": "Fosdyke? The name is vaguely familiar,\nbut I have no recollection of the man.[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev013102_MSG0005",
+      "style": 1,
+      "name": "Gave you that, did he? Well, I'll be.\nSeems the man sees something worthwhile in you...[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev013102_MSG0006",
+      "style": 1,
+      "name": "I assume he told you I'm not the trusting type.\nWell, I'm also not stupid enough to put my life\nin some stranger's hands.[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev013102_MSG0007",
+      "style": 1,
+      "name": "I need you to pass a test before this goes any further.[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev013102_MSG0008",
+      "style": 1,
+      "name": "Go kill five sea forfexes. If you can't handle at least\nthat much, Briggs will eat you alive.[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev013102_MSG0009",
+      "style": 1,
+      "name": "Why are you still here? Go and kill those\nfive sea forfexes.[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev013102_MSG0010",
+      "style": 1,
+      "name": "I'm not trusting you until then, and I'm certainly not\ndoing a damn thing for a [ST:gender p1=man p2=woman ] I don't trust![ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev013102_MSG0011",
+      "style": 1,
+      "name": "You took those sea forfexes down? Hmm...\nYou might actually stand a chance against him.[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev013102_MSG0012",
+      "style": 1,
+      "name": "All right, I'll talk. I take it Fosdyke informed\nyou of the particulars?[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev013102_JNK0030",
+      "style": 4,
+      "name": "Confirm"
+    },
+    {
+      "$id": 18,
+      "label": "qev013102_SEL0031",
+      "style": 3,
+      "name": "Tell Moorehouse that you know everything."
+    },
+    {
+      "$id": 19,
+      "label": "qev013102_JNK0040",
+      "style": 4,
+      "name": "Evade"
+    },
+    {
+      "$id": 20,
+      "label": "qev013102_SEL0041",
+      "style": 3,
+      "name": "Ask Moorehouse for his side of the story."
+    },
+    {
+      "$id": 21,
+      "label": "qev013102_MSG0013",
+      "style": 1,
+      "name": "Good. Spares me the effort.[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev013102_MSG0014",
+      "style": 1,
+      "name": "Briggs is holed up in the bowels of Molten Hollow.[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev013102_MSG0015",
+      "style": 1,
+      "name": "A monster named Briggs stole a load of white gold and\nhid it away, killing many innocents in the process.[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev013102_MSG0016",
+      "style": 1,
+      "name": "And out of fear for our own lives, myself and\na man named Fosdyke helped him do it.[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev013102_MSG0017",
+      "style": 1,
+      "name": "The only thing I got out of it was a lifetime's worth of\nnightmares, and I want to see Briggs hang for that.\nClear enough for you?[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev013102_MSG0018",
+      "style": 1,
+      "name": "Good. He's holed up in the bowels of Molten Hollow.[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev013102_MSG0019",
+      "style": 1,
+      "name": "Bet you're wondering why anyone would pick a place\nlike that to live, eh? Well, he's got a giant safe there.\nBuilt the thing himself.[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev013102_MSG0020",
+      "style": 1,
+      "name": "He's not letting anyone near that white gold.\nGreedy bastard will do anything it takes to\nkeep his prize.[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev013102_MSG0021",
+      "style": 1,
+      "name": "He ruined my life. And Fosdyke's.\nStill better than what the others got...[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev013102_MSG0022",
+      "style": 1,
+      "name": "Please, he's got to be stopped. You make that\nhappen, and I'll atone for my part in this horror\nstory any way you like.[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev013102_MSG0023",
+      "style": 1,
+      "name": "That Briggs is crooked as an old fence.\nDon't go thinking you'll be able to play fair with him.[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev013102_MSG0024",
+      "style": 1,
+      "name": "You feed him whatever lies you have to,\nbut don't trust a damn word he says.[ST:wait ]"
+    }
+  ]
+}

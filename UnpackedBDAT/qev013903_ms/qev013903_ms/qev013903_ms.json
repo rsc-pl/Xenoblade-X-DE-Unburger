@@ -1,0 +1,420 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev013903_MSG0001",
+      "style": 1,
+      "name": "So that damned woman made her move...\nShe'll pay for this![ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev013903_MSG0002",
+      "style": 1,
+      "name": "Ah, if it isn't our little xeno lover.\nCome to end the life of a fellow human, traitor?[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev013903_JNK0010",
+      "style": 4,
+      "name": "Deny"
+    },
+    {
+      "$id": 4,
+      "label": "qev013903_SEL0011",
+      "style": 3,
+      "name": "Explain to Alex that Eliza asked you to come in peace."
+    },
+    {
+      "$id": 5,
+      "label": "qev013903_JNK0020",
+      "style": 4,
+      "name": "Convince"
+    },
+    {
+      "$id": 6,
+      "label": "qev013903_SEL0021",
+      "style": 3,
+      "name": "Persuade Alex to stop his crimes and turn himself in."
+    },
+    {
+      "$id": 7,
+      "label": "qev013903_MSG0003",
+      "style": 1,
+      "name": "I had hoped we might be fast friends. That you might\nhave the wisdom to see things as they truly are.\nIt seems I was mistaken.[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev013903_MSG0004",
+      "style": 1,
+      "name": "Look at you... Nothing but a sniveling cur in service to\nthat idiot woman.[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev013903_MSG0005",
+      "style": 1,
+      "name": "Crime? And what crime have I committed?[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev013903_MSG0006",
+      "style": 1,
+      "name": "I have done nothing less than save all humanity from\nbecoming a race of slaves. I am no criminal...\nI am a HERO![ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev013903_MSG0008",
+      "style": 1,
+      "name": "Ah! Welcome, [ST:gender p1=brother p2=sister ]!\nHave you come to offer your assistance again?[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev013903_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 13,
+      "label": "qev013903_SEL0011",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 14,
+      "label": "qev013903_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 15,
+      "label": "qev013903_SEL0021",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 16,
+      "label": "qev013903_MSG0013",
+      "style": 1,
+      "name": "But if you wish to discuss the matter, I am agreeable.\nReasoned debate has always been one of humanity's\ngreatest hallmarks, after all.[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev013903_MSG0014",
+      "style": 1,
+      "name": "If you can convince me that your claim is correct,\nI will acknowledge defeat.[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev013903_MSG0015",
+      "style": 1,
+      "name": "And in that case, you will be allowed to walk away in\npeace.[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev013903_MSG0016",
+      "style": 1,
+      "name": "I'll even have my colleagues stand down.[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev013903_JNK0110",
+      "style": 4,
+      "name": "Contend"
+    },
+    {
+      "$id": 21,
+      "label": "qev013903_SEL0111",
+      "style": 3,
+      "name": "Assert that not all xenoforms are hostile."
+    },
+    {
+      "$id": 22,
+      "label": "qev013903_JNK0120",
+      "style": 4,
+      "name": "Inquire"
+    },
+    {
+      "$id": 23,
+      "label": "qev013903_SEL0121",
+      "style": 3,
+      "name": "Ask Alex why he can't compromise with xenoforms."
+    },
+    {
+      "$id": 24,
+      "label": "qev013903_MSG0017",
+      "style": 1,
+      "name": "Have you forgotten what happened to Earth?[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev013903_MSG0018",
+      "style": 1,
+      "name": "Those xeno swine turned Earth into a battlefield...\nThey destroyed our planet![ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev013903_MSG0019",
+      "style": 1,
+      "name": "Nearly 10 billion men and women died, and I will\nnot forget OR forgive their senseless slaughter.[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev013903_MSG0020",
+      "style": 1,
+      "name": "These Ma-non are no different than the xenos who\nruined Earth, and they will destroy New LA if we do\nnot stop them now. Surely you must see this. Unless...[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev013903_MSG0021",
+      "style": 1,
+      "name": "Unless they have already brainwashed you with their\ninsidious alien technology![ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev013903_MSG0022",
+      "style": 1,
+      "name": "Compromise? COMPROMISE?! Compromise with the\nvermin that came stomping into OUR city?![ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev013903_MSG0023",
+      "style": 1,
+      "name": "I might as well compromise with the cockroach that\nlives in my pantry![ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev013903_MSG0024",
+      "style": 1,
+      "name": "How exactly would you propose I compromise with\nthese interlopers? Hmm? With the xeno plague that\ninvaded our city for their own selfish gain?[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev013903_JNK0210",
+      "style": 4,
+      "name": "Cite an Example"
+    },
+    {
+      "$id": 33,
+      "label": "qev013903_SEL0211",
+      "style": 3,
+      "name": "Say that the arms manufacturers\nprove interspecies cooperation."
+    },
+    {
+      "$id": 34,
+      "label": "qev013903_JNK0220",
+      "style": 4,
+      "name": "Rebut"
+    },
+    {
+      "$id": 35,
+      "label": "qev013903_SEL0221",
+      "style": 3,
+      "name": "Tell Alex that his beliefs do not justify violence."
+    },
+    {
+      "$id": 36,
+      "label": "qev013903_MSG0025",
+      "style": 1,
+      "name": "A fine collaboration for now. But do you really think\nthat partnership will last forever?[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev013903_MSG0026",
+      "style": 1,
+      "name": "Look at Earth's history. Even when it was just us\nhumans, we still fought a string of endless wars.[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev013903_MSG0027",
+      "style": 1,
+      "name": "We shared biology. Learned each other's languages.\nAnd even with all that, peace never lasted.[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "qev013903_MSG0028",
+      "style": 1,
+      "name": "This dream of peaceful understanding between alien\nraces with no such common ground is ludicrous.[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "qev013903_MSG0029",
+      "style": 1,
+      "name": "Even now, they fail to understand us. They cannot\neven fathom why they find themselves in this\ncurrent predicament![ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "qev013903_MSG0030",
+      "style": 1,
+      "name": "Have you heard nothing I've said?[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "qev013903_MSG0031",
+      "style": 1,
+      "name": "These creatures will rise up and steal what is ours.\nThey'll have us in chains before we know it!\nI will not allow that to happen.[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "qev013903_MSG0032",
+      "style": 1,
+      "name": "Well then? What specious claim will you make next?[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "qev013903_JNK0310",
+      "style": 4,
+      "name": "Persist"
+    },
+    {
+      "$id": 45,
+      "label": "qev013903_SEL0311",
+      "style": 3,
+      "name": "Try to convince Alex that humans cannot survive alone."
+    },
+    {
+      "$id": 46,
+      "label": "qev013903_JNK0320",
+      "style": 4,
+      "name": "Fight"
+    },
+    {
+      "$id": 47,
+      "label": "qev013903_SEL0321",
+      "style": 3,
+      "name": "Accept that words are futile, and stop Alex by force."
+    },
+    {
+      "$id": 48,
+      "label": "qev013903_MSG0033",
+      "style": 1,
+      "name": "You honestly feel these xenos are so great an asset?[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "qev013903_MSG0034",
+      "style": 1,
+      "name": "...I will concede that without their assistance,\nNew LA might have fallen by now.[ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "qev013903_MSG0035",
+      "style": 1,
+      "name": "But that doesn't... No. Am I...wrong...after all?[ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "qev013903_MSG0036",
+      "style": 1,
+      "name": "...Pffaaa ha ha! Aaah ha ha ha ha ha![ST:wait ]"
+    },
+    {
+      "$id": 52,
+      "label": "qev013903_MSG0037",
+      "style": 1,
+      "name": "Rrrgh! I should have known you'd be watching...[ST:wait ]"
+    },
+    {
+      "$id": 53,
+      "label": "qev013903_MSG0038",
+      "style": 1,
+      "name": "No! It's you who are the fool![ST:wait ]"
+    },
+    {
+      "$id": 54,
+      "label": "qev013903_MSG0039",
+      "style": 1,
+      "name": "Have you ever truly stared into the darkness\nwithin them?[ST:wait ]"
+    },
+    {
+      "$id": 55,
+      "label": "qev013903_MSG0040",
+      "style": 1,
+      "name": "Xenos kill! They pillage! They care about nothing but\ntheir own selfish desires![ST:wait ]"
+    },
+    {
+      "$id": 56,
+      "label": "qev013903_MSG0041",
+      "style": 1,
+      "name": "All xenos are the same! None of them will ever be true\nbrothers and sisters of humanity![ST:wait ]"
+    },
+    {
+      "$id": 57,
+      "label": "qev013903_MSG0042",
+      "style": 1,
+      "name": "And if you and Eliza refuse to see that, then I name\nyou my enemies as well.[ST:wait ]"
+    },
+    {
+      "$id": 58,
+      "label": "qev013903_MSG0043",
+      "style": 1,
+      "name": "So you turn to force after all.\nWhat would dear Eliza think, I wonder?[ST:wait ]"
+    },
+    {
+      "$id": 59,
+      "label": "qev013903_MSG0044",
+      "style": 1,
+      "name": "Worry not, friend. I, at least, understand your course.\nFor fear of death is the only force capable of making\nthis world pure![ST:wait ]"
+    },
+    {
+      "$id": 60,
+      "label": "qev013903_MSG0045",
+      "style": 1,
+      "name": "Ngh... Enough.[ST:wait ]"
+    },
+    {
+      "$id": 61,
+      "label": "qev013903_MSG0046",
+      "style": 1,
+      "name": "I yield for today, but know that I will not be stopped.[ST:wait ]"
+    },
+    {
+      "$id": 62,
+      "label": "qev013903_MSG0047",
+      "style": 1,
+      "name": "It matters not what temporary profits this xeno\ninfestation may offer New LA.[ST:wait ]"
+    },
+    {
+      "$id": 63,
+      "label": "qev013903_MSG0048",
+      "style": 1,
+      "name": "There can be no surrender, no rest, until every last one\nof them has been chased from our streets.[ST:wait ]"
+    },
+    {
+      "$id": 64,
+      "label": "qev013903_MSG0049",
+      "style": 1,
+      "name": "Ngh... Enough.[ST:wait ]"
+    },
+    {
+      "$id": 65,
+      "label": "qev013903_MSG0050",
+      "style": 1,
+      "name": "I yield for today, but know that I will not be stopped.[ST:wait ]"
+    },
+    {
+      "$id": 66,
+      "label": "qev013903_MSG0051",
+      "style": 1,
+      "name": "The time will come when I see the last of those\nxeno interlopers snuffed out.[ST:wait ]"
+    },
+    {
+      "$id": 67,
+      "label": "qev013903_MSG0052",
+      "style": 1,
+      "name": "Tell Eliza that if she persists in interfering,\nI will do what I must. Farewell.[ST:wait ]"
+    }
+  ]
+}

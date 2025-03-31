@@ -1,0 +1,366 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs03030100_MSG0001",
+      "style": 0,
+      "name": "Damn...I knew we would have heard from them by now...[ST:wait ]\n\n"
+    },
+    {
+      "$id": 2,
+      "label": "xs03030100_MSG0002",
+      "style": 0,
+      "name": "It was definitely fighting SOMETHING.\nBut this damage... It's not the usual claw or bite marks.[ST:wait ]\n"
+    },
+    {
+      "$id": 3,
+      "label": "xs03030100_MSG0003",
+      "style": 0,
+      "name": "No signs of the team.[ST:wait ]\n"
+    },
+    {
+      "$id": 4,
+      "label": "xs03030100_MSG0004",
+      "style": 0,
+      "name": "If they were eaten, we'd know it.\nSo did they walk away, or were they taken?[ST:wait ]\n"
+    },
+    {
+      "$id": 5,
+      "label": "xs03030100_JNK0010",
+      "style": 4,
+      "name": "Investigate"
+    },
+    {
+      "$id": 6,
+      "label": "xs03030100_SEL0011",
+      "style": 3,
+      "name": "Suggest searching the area."
+    },
+    {
+      "$id": 7,
+      "label": "xs03030100_JNK0020",
+      "style": 4,
+      "name": "Retreat"
+    },
+    {
+      "$id": 8,
+      "label": "xs03030100_SEL0021",
+      "style": 3,
+      "name": "Suggest heading back to New LA.[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "xs03030100_MSG0005",
+      "style": 0,
+      "name": "Right. Either way, they couldn't have gotten very far.\nLet's keep looking.[ST:wait ]\n"
+    },
+    {
+      "$id": 10,
+      "label": "xs03030100_MSG0006",
+      "style": 0,
+      "name": "The job's not finished—\nwe have more questions now than when we started.[ST:wait ]\n"
+    },
+    {
+      "$id": 11,
+      "label": "xs03030100_MSG0007",
+      "style": 0,
+      "name": "We'll head back once we find some answers.[ST:wait ]\n"
+    },
+    {
+      "$id": 12,
+      "label": "xs03030100_MSG0007_2",
+      "style": 0,
+      "name": "Until then, we keep looking.[ST:wait ]\n"
+    },
+    {
+      "$id": 13,
+      "label": "xs03030100_MSG0008",
+      "style": 0,
+      "name": "Hold up, Elma—check this out![ST:wait ]\n"
+    },
+    {
+      "$id": 14,
+      "label": "xs03030100_MSG0009",
+      "style": 0,
+      "name": "I'm picking up an Earth-based IFF signal\ncoming from that direction. It's Pathfinder![ST:wait ]\n"
+    },
+    {
+      "$id": 15,
+      "label": "xs03030100_MSG0010",
+      "style": 0,
+      "name": "That thing over there, maybe?[ST:wait ]\n"
+    },
+    {
+      "$id": 16,
+      "label": "xs03030100_MSG0011",
+      "style": 0,
+      "name": "It doesn't look natural, does it?[ST:wait ]\n"
+    },
+    {
+      "$id": 17,
+      "label": "xs03030100_MSG0012",
+      "style": 0,
+      "name": "No, it doesn't. It looks like trouble.[ST:wait ]\n"
+    },
+    {
+      "$id": 18,
+      "label": "xs03030100_MSG0013",
+      "style": 0,
+      "name": "And look at this—\nI'm picking up readings for other lifeforms, too.[ST:wait ]\n"
+    },
+    {
+      "$id": 19,
+      "label": "xs03030100_MSG0014",
+      "style": 0,
+      "name": "Multiple signals, moving around inside the structure.\nElma, you don't think...?[ST:wait ]\n"
+    },
+    {
+      "$id": 20,
+      "label": "xs03030100_JNK0030",
+      "style": 4,
+      "name": "Hypothesize"
+    },
+    {
+      "$id": 21,
+      "label": "xs03030100_SEL0031",
+      "style": 3,
+      "name": "Suggest they must be intelligent lifeforms."
+    },
+    {
+      "$id": 22,
+      "label": "xs03030100_JNK0040",
+      "style": 4,
+      "name": "Guess"
+    },
+    {
+      "$id": 23,
+      "label": "xs03030100_SEL0041",
+      "style": 3,
+      "name": "Suggest indigens must have wandered inside."
+    },
+    {
+      "$id": 24,
+      "label": "xs03030100_MSG0015",
+      "style": 0,
+      "name": "I think you're right.[ST:wait ]\n"
+    },
+    {
+      "$id": 25,
+      "label": "xs03030100_MSG0016",
+      "style": 0,
+      "name": "No.[ST:wait ]\n"
+    },
+    {
+      "$id": 26,
+      "label": "xs03030100_MSG0017",
+      "style": 0,
+      "name": "Look at their movements—they're controlled, orderly.\nThey're definitely not wild animals.[ST:wait ]\n"
+    },
+    {
+      "$id": 27,
+      "label": "xs03030100_MSG0018",
+      "style": 0,
+      "name": "Now the question is, are they native to Mira...?[ST:wait ]\n"
+    },
+    {
+      "$id": 28,
+      "label": "xs03030100_MSG0019",
+      "style": 0,
+      "name": "Or are they visitors, like us? And if so, from where?[ST:wait ]\n"
+    },
+    {
+      "$id": 29,
+      "label": "xs03030100_MSG0020",
+      "style": 0,
+      "name": "You think it's one of the forces that destroyed Earth?[ST:wait ]\n"
+    },
+    {
+      "$id": 30,
+      "label": "xs03030100_MSG0021",
+      "style": 0,
+      "name": "Let's not jump to any conclusions.\nIt's a big universe out there.[ST:wait ]\n"
+    },
+    {
+      "$id": 31,
+      "label": "xs03030100_MSG0022",
+      "style": 0,
+      "name": "Of course, we shouldn't rule it out, either.[ST:wait ]\n"
+    },
+    {
+      "$id": 32,
+      "label": "xs03030100_MSG0023",
+      "style": 0,
+      "name": "Should we call this in to HQ?[ST:wait ]\n"
+    },
+    {
+      "$id": 33,
+      "label": "xs03030100_MSG0024",
+      "style": 0,
+      "name": "Yes, but not from here. If we're picking up their signals,\nthey might be close enough to intercept ours...[ST:wait ]\n"
+    },
+    {
+      "$id": 34,
+      "label": "xs03030100_MSG0025",
+      "style": 0,
+      "name": "You there! Drop your weapons![ST:wait ]\n"
+    },
+    {
+      "$id": 35,
+      "label": "xs03030100_MSG0026",
+      "style": 0,
+      "name": " [ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "xs03030100_MSG0027",
+      "style": 0,
+      "name": "Stay calm. We don't want to provoke them.[ST:wait ]\n"
+    },
+    {
+      "$id": 37,
+      "label": "xs03030100_MSG0028",
+      "style": 0,
+      "name": "Earth aliens?! Surrender. Now![ST:wait ]\n"
+    },
+    {
+      "$id": 38,
+      "label": "xs03030100_MSG0029",
+      "style": 0,
+      "name": "They know about Earth?!\nYou may have been right after all, Lin...[ST:wait ]\n"
+    },
+    {
+      "$id": 39,
+      "label": "xs03030100_JNK0050",
+      "style": 4,
+      "name": "Stand Down"
+    },
+    {
+      "$id": 40,
+      "label": "xs03030100_SEL0051",
+      "style": 3,
+      "name": "Lower your guard and negotiate."
+    },
+    {
+      "$id": 41,
+      "label": "xs03030100_JNK0060",
+      "style": 4,
+      "name": "Grip Weapon"
+    },
+    {
+      "$id": 42,
+      "label": "xs03030100_SEL0061",
+      "style": 3,
+      "name": "Prepare to attack."
+    },
+    {
+      "$id": 43,
+      "label": "xs03030100_MSG0030",
+      "style": 0,
+      "name": "What are you doing?[ST:wait ]\n"
+    },
+    {
+      "$id": 44,
+      "label": "xs03030100_MSG0031",
+      "style": 0,
+      "name": "It's okay, Lin.[ST:wait ]\n"
+    },
+    {
+      "$id": 45,
+      "label": "xs03030100_MSG0031_2",
+      "style": 0,
+      "name": "Just stand down. I'm not sure why, but somehow,\nthey're able to communicate with us...[ST:wait ]\n"
+    },
+    {
+      "$id": 46,
+      "label": "xs03030100_MSG0032",
+      "style": 0,
+      "name": "Meaning...?[ST:wait ]\n"
+    },
+    {
+      "$id": 47,
+      "label": "xs03030100_MSG0033",
+      "style": 0,
+      "name": "Meaning we need to know if diplomacy is a viable option.[ST:wait ]\n"
+    },
+    {
+      "$id": 48,
+      "label": "xs03030100_MSG0034",
+      "style": 0,
+      "name": "Roger that.[ST:wait ]\n"
+    },
+    {
+      "$id": 49,
+      "label": "xs03030100_MSG0035",
+      "style": 0,
+      "name": "Stand down![ST:wait ]\n"
+    },
+    {
+      "$id": 50,
+      "label": "xs03030100_MSG0036",
+      "style": 0,
+      "name": "Did you already forget my first lesson?\nFighting is a last resort.[ST:wait ]\n"
+    },
+    {
+      "$id": 51,
+      "label": "xs03030100_MSG0037",
+      "style": 0,
+      "name": "Our friends here appear to be able to speak our language.[ST:wait ]\n"
+    },
+    {
+      "$id": 52,
+      "label": "xs03030100_MSG0038",
+      "style": 0,
+      "name": "Which means, we need to find out\nif diplomacy is a viable option.[ST:wait ]\n"
+    },
+    {
+      "$id": 53,
+      "label": "xs03030100_MSG0039",
+      "style": 0,
+      "name": "You're right.[ST:wait ]\n"
+    },
+    {
+      "$id": 54,
+      "label": "xs03030100_MSG0040",
+      "style": 0,
+      "name": "We come in peace.[ST:wait ]\n"
+    },
+    {
+      "$id": 55,
+      "label": "xs03030100_MSG0040_2",
+      "style": 0,
+      "name": "And we're willing to negotiate. If you have any Earth alien\nprisoners, we'd ask the conditions for their release.[ST:wait ]\n"
+    },
+    {
+      "$id": 56,
+      "label": "xs03030100_MSG0041",
+      "style": 0,
+      "name": "If you don't...we'll leave you in peace.[ST:wait ]\n"
+    },
+    {
+      "$id": 57,
+      "label": "xs03030100_MSG0042",
+      "style": 0,
+      "name": "No negotiations. No conditions.\nWe have our orders![ST:wait ]\n"
+    },
+    {
+      "$id": 58,
+      "label": "xs03030100_MSG0043",
+      "style": 0,
+      "name": "All Earth aliens must die![ST:wait ]\n"
+    }
+  ]
+}

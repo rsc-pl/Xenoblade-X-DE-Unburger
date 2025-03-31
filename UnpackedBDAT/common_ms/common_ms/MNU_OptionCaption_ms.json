@@ -1,0 +1,540 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "Caption_CamSet_Item_Vertical",
+      "style": 170,
+      "name": ""
+    },
+    {
+      "$id": 2,
+      "label": "Caption_CamSet_Item_Horizontal",
+      "style": 170,
+      "name": ""
+    },
+    {
+      "$id": 3,
+      "label": "Caption_CamSet_Item_RotIPO",
+      "style": 170,
+      "name": ""
+    },
+    {
+      "$id": 4,
+      "label": "Caption_CamSet_Item_CntIPO",
+      "style": 170,
+      "name": ""
+    },
+    {
+      "$id": 5,
+      "label": "Caption_CamSet_Item_AutoIPO",
+      "style": 170,
+      "name": ""
+    },
+    {
+      "$id": 6,
+      "label": "Caption_CamSet_Item_Slope",
+      "style": 170,
+      "name": ""
+    },
+    {
+      "$id": 7,
+      "label": "Caption_CamSet_Item_Near_Inner",
+      "style": 170,
+      "name": ""
+    },
+    {
+      "$id": 8,
+      "label": "Caption_CamSet_Item_Near_Doll",
+      "style": 170,
+      "name": ""
+    },
+    {
+      "$id": 9,
+      "label": "Caption_CamSet_Item_Far_Inner",
+      "style": 170,
+      "name": ""
+    },
+    {
+      "$id": 10,
+      "label": "Caption_CamSet_Item_Far_Doll",
+      "style": 170,
+      "name": ""
+    },
+    {
+      "$id": 11,
+      "label": "Caption_CamSet_Item_RotSPD",
+      "style": 170,
+      "name": ""
+    },
+    {
+      "$id": 12,
+      "label": "Caption_CamSet_Item_ZoomSPD",
+      "style": 170,
+      "name": ""
+    },
+    {
+      "$id": 13,
+      "label": "Caption_CamSet_Item_CntPos_Inner",
+      "style": 170,
+      "name": ""
+    },
+    {
+      "$id": 14,
+      "label": "Caption_CamSet_Item_CntPos_Doll",
+      "style": 170,
+      "name": ""
+    },
+    {
+      "$id": 15,
+      "label": "Caption_CamSet_Item_YcamSPD",
+      "style": 170,
+      "name": ""
+    },
+    {
+      "$id": 16,
+      "label": "Caption_CamSet_Item_SlopeAJT",
+      "style": 170,
+      "name": ""
+    },
+    {
+      "$id": 17,
+      "label": "Caption_GammaSet_Item_Gamma",
+      "style": 170,
+      "name": ""
+    },
+    {
+      "$id": 18,
+      "label": "Caption_DispHeadSet_Item_DispHead",
+      "style": 170,
+      "name": ""
+    },
+    {
+      "$id": 19,
+      "label": "Caption_HUDSet_Item_SubtitlesDSP",
+      "style": 170,
+      "name": ""
+    },
+    {
+      "$id": 20,
+      "label": "Caption_HUDSet_Item_CtrlInfoDSP",
+      "style": 170,
+      "name": ""
+    },
+    {
+      "$id": 21,
+      "label": "Caption_HUDSet_Item_MapDSP",
+      "style": 170,
+      "name": ""
+    },
+    {
+      "$id": 22,
+      "label": "Caption_HUDSet_Item_MapDir",
+      "style": 170,
+      "name": ""
+    },
+    {
+      "$id": 23,
+      "label": "Caption_HUDSet_Item_StatusDSP",
+      "style": 170,
+      "name": ""
+    },
+    {
+      "$id": 24,
+      "label": "Caption_HUDSet_Item_FuelDSP",
+      "style": 170,
+      "name": ""
+    },
+    {
+      "$id": 25,
+      "label": "Caption_HUDSet_Item_SVoiceDSP",
+      "style": 170,
+      "name": ""
+    },
+    {
+      "$id": 26,
+      "label": "Caption_HUDSet_Item_ArtsDSP",
+      "style": 170,
+      "name": ""
+    },
+    {
+      "$id": 27,
+      "label": "Caption_HUDSet_Item_TempTimeDSP",
+      "style": 170,
+      "name": ""
+    },
+    {
+      "$id": 28,
+      "label": "Caption_HUDSet_Item_UnionDSP",
+      "style": 170,
+      "name": ""
+    },
+    {
+      "$id": 29,
+      "label": "Caption_HUDSet_Item_BLReportDSP",
+      "style": 170,
+      "name": ""
+    },
+    {
+      "$id": 30,
+      "label": "Caption_HUDSet_Item_QuestDSP",
+      "style": 170,
+      "name": ""
+    },
+    {
+      "$id": 31,
+      "label": "Caption_HUDSet_Item_SquadDSP",
+      "style": 170,
+      "name": ""
+    },
+    {
+      "$id": 32,
+      "label": "Caption_C_SocialSet_Item_Profile",
+      "style": 170,
+      "name": ""
+    },
+    {
+      "$id": 33,
+      "label": "Caption_SocialSet_Item_Profile",
+      "style": 170,
+      "name": ""
+    },
+    {
+      "$id": 34,
+      "label": "Caption_C_SocialSet_Item_BLEnable",
+      "style": 169,
+      "name": ""
+    },
+    {
+      "$id": 35,
+      "label": "Caption_SocialSet_Item_BLEnable",
+      "style": 170,
+      "name": ""
+    },
+    {
+      "$id": 36,
+      "label": "Caption_C_SocialSet_Item_BLMiiverse",
+      "style": 169,
+      "name": ""
+    },
+    {
+      "$id": 37,
+      "label": "Caption_SocialSet_Item_BLMiiverse",
+      "style": 170,
+      "name": ""
+    },
+    {
+      "$id": 38,
+      "label": "Caption_C_SocialSet_Item_BLTime",
+      "style": 169,
+      "name": ""
+    },
+    {
+      "$id": 39,
+      "label": "Caption_SocialSet_Item_BLTime",
+      "style": 170,
+      "name": ""
+    },
+    {
+      "$id": 40,
+      "label": "Caption_C_SocialSet_Item_BLSpoiler",
+      "style": 169,
+      "name": ""
+    },
+    {
+      "$id": 41,
+      "label": "Caption_SocialSet_Item_BLSpoiler",
+      "style": 170,
+      "name": ""
+    },
+    {
+      "$id": 42,
+      "label": "Caption_C_SocialSet_Item_ListOpen",
+      "style": 169,
+      "name": ""
+    },
+    {
+      "$id": 43,
+      "label": "Caption_SocialSet_Item_ListOpen",
+      "style": 170,
+      "name": ""
+    },
+    {
+      "$id": 44,
+      "label": "Caption_C_SocialSet_Item_BLScout",
+      "style": 169,
+      "name": ""
+    },
+    {
+      "$id": 45,
+      "label": "Caption_SocialSet_Item_BLScout",
+      "style": 170,
+      "name": ""
+    },
+    {
+      "$id": 46,
+      "label": "Caption_C_SocialSet_Item_SocialInfo",
+      "style": 169,
+      "name": ""
+    },
+    {
+      "$id": 47,
+      "label": "Caption_SocialSet_Item_SocialInfo",
+      "style": 170,
+      "name": ""
+    },
+    {
+      "$id": 48,
+      "label": "Caption_C_SocialSet_Item_AwardlInfo",
+      "style": 169,
+      "name": ""
+    },
+    {
+      "$id": 49,
+      "label": "Caption_SocialSet_Item_AwardlInfo",
+      "style": 170,
+      "name": ""
+    },
+    {
+      "$id": 50,
+      "label": "Caption_EnemyList_AllEnemy",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 51,
+      "label": "Caption_EnemyList_EnemyTipe",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 52,
+      "label": "Caption_EnemyList_HabitatZone",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 53,
+      "label": "Caption_MemberList_SquadMember",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 54,
+      "label": "Caption_MemberList_Friend",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 55,
+      "label": "Caption_MemberList_Favorite",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 56,
+      "label": "Caption_Select_Squad_SearchCLP",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 57,
+      "label": "Caption_Select_Squad_Conquest",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 58,
+      "label": "Caption_Select_Squad_Friend",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 59,
+      "label": "Caption_Shop_InnerEquipment",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 60,
+      "label": "Caption_Shop_DollEquipment",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 61,
+      "label": "Caption_Shop_DollAsset",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 62,
+      "label": "Caption_Shop_Sell",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 63,
+      "label": "Caption_LuShop_EquipmentInnerItem",
+      "style": 72,
+      "name": "Buy augment slots for currently equipped\nweapons and ground gear."
+    },
+    {
+      "$id": 64,
+      "label": "Caption_LuShop_EquipmentDollItem",
+      "style": 72,
+      "name": "Buy augment slots for currently equipped\nSkell weapons and Skell gear."
+    },
+    {
+      "$id": 65,
+      "label": "Caption_LuShop_PossessionItem",
+      "style": 72,
+      "name": "Purchase augment slots for gear in your inventory."
+    },
+    {
+      "$id": 66,
+      "label": "Caption_AC_CompanyManegement",
+      "style": 72,
+      "name": "Invest miranium in New LA's arms manufacturers.\nNew products are added as their level increases."
+    },
+    {
+      "$id": 67,
+      "label": "Caption_AC_AffixStrengthen",
+      "style": 72,
+      "name": "Expend materials to upgrade battle traits for\nyour gear."
+    },
+    {
+      "$id": 68,
+      "label": "Caption_AC_DeviceCreation",
+      "style": 72,
+      "name": "Expend materials, precious resources, and\nmiranium to create various types of augments."
+    },
+    {
+      "$id": 69,
+      "label": "Caption_AC_EquipmentDevelop",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 70,
+      "label": "Caption_DGarage_Top_MyDollRegistration",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 71,
+      "label": "Caption_DGarage_Top_Setup",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 72,
+      "label": "Caption_DGarage_Top_Naming",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 73,
+      "label": "Caption_DGarage_Top_Coloring",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 74,
+      "label": "Caption_DGarage_Top_SellDoll",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 75,
+      "label": "Caption_DGarage_Color_Hue",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 76,
+      "label": "Caption_DGarage_Color_Saturation",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 77,
+      "label": "Caption_DGarage_Color_Brightness",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 78,
+      "label": "Caption_DGarage_Sell_EquipmentCheck",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 79,
+      "label": "Caption_DGarage_Sell_DollSell",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 80,
+      "label": "Caption_DispHeadSet_Item_DispElma",
+      "style": 170,
+      "name": ""
+    },
+    {
+      "$id": 81,
+      "label": "Caption_HUDSet_Item_EnemyLvDSP",
+      "style": 170,
+      "name": ""
+    },
+    {
+      "$id": 82,
+      "label": "Caption_PowerSet_Item_AutoPowerOff",
+      "style": 170,
+      "name": ""
+    },
+    {
+      "$id": 83,
+      "label": "Caption_DGarage_Top_Refuel",
+      "style": 72,
+      "name": ""
+    },
+    {
+      "$id": 84,
+      "label": "Caption_C_PowerSet_Item_AutoPowerOff",
+      "style": 169,
+      "name": ""
+    },
+    {
+      "$id": 85,
+      "label": "Caption_C_SocialSet_Item_MnuDisplay",
+      "style": 169,
+      "name": ""
+    },
+    {
+      "$id": 86,
+      "label": "Caption_SocialSet_Item_MnuDisplay",
+      "style": 169,
+      "name": ""
+    },
+    {
+      "$id": 87,
+      "label": "Caption_AC_EquipmentDevelop_02",
+      "style": 72,
+      "name": "Obtain schematics to unlock new types\nof gear that can be developed."
+    }
+  ]
+}

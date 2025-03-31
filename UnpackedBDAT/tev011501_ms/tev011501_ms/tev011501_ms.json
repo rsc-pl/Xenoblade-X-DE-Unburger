@@ -1,0 +1,366 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev011501_JNK0010",
+      "style": 4,
+      "name": "Inquire[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev011501_SEL0011",
+      "style": 3,
+      "name": "Ask Jim about the duties of a Mediator.[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev011501_JNK0020",
+      "style": 4,
+      "name": "Discuss[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev011501_SEL0021",
+      "style": 3,
+      "name": "Ask Jim if anything is troubling him.[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev011501_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 6,
+      "label": "tev011501_SEL0031",
+      "style": 3,
+      "name": "Ask Jim for his thoughts on public order in NLA.[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "tev011501_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 8,
+      "label": "tev011501_SEL0021",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 9,
+      "label": "tev011501_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 10,
+      "label": "tev011501_SEL0041",
+      "style": 3,
+      "name": "Ask Jim about the enemy assault.[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev011501_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 12,
+      "label": "tev011501_SEL0051",
+      "style": 3,
+      "name": "Ask Jim if he has any interesting news.[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "tev011501_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 14,
+      "label": "tev011501_SEL0061",
+      "style": 3,
+      "name": "Ask Jim what he's going to do next.[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "tev011501_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 16,
+      "label": "tev011501_SEL0051",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 17,
+      "label": "tev011501_SEL1011",
+      "style": 3,
+      "name": "Ask Jim about recent developments.[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "tev011501_SEL2011",
+      "style": 3,
+      "name": "Ask Jim about recent developments.[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "tev011501_MSG0001",
+      "style": 1,
+      "name": "While the rest of the BLADEs are doing battle outside\nthe city, we Mediators are responsible for resolving\nconflicts within New LA.[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "tev011501_MSG0002",
+      "style": 1,
+      "name": "To do so, we patrol the city streets looking for signs\nof trouble.[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "tev011501_MSG0003",
+      "style": 1,
+      "name": "There's no telling when enemies might slip past the\nInterceptors and make their way into the city.[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "tev011501_MSG0004",
+      "style": 1,
+      "name": "We're all keeping a focused watch for anything that\nseems out of the ordinary.[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "tev011501_MSG0005",
+      "style": 1,
+      "name": "After all, this is a foreign world where anything could\nhappen. For all we know, there could be an invisible\nxenoform standing behind you right now![ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "tev011501_MSG0008",
+      "style": 1,
+      "name": "Most new BLADE recruits are placed in divisions\nfocused on outside exploration, leaving the Mediators\ndivision chronically understaffed.[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "tev011501_MSG0009",
+      "style": 1,
+      "name": "Admittedly, our duties involve less danger than\nbattling it out with angry indigens.[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "tev011501_MSG0010",
+      "style": 1,
+      "name": "But indigens don't voice petty grievances or become\nviolent over ideology, now do they?[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "tev011501_MSG0011",
+      "style": 1,
+      "name": "I'm just saying that beyond suppressing threats,\nwe must also listen to our citizens and strive to\nunderstand where they're coming from.[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "tev011501_MSG0012",
+      "style": 1,
+      "name": "Doing our job the right way takes time and manpower.\nHonestly, we could use a few more people.[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "tev011501_MSG0020",
+      "style": 1,
+      "name": "Thanks to everyone's hard work, most of the city's\nfunctionality has been restored, and our lives have\nbecome a little more normal.[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "tev011501_MSG0021",
+      "style": 1,
+      "name": "However, that's also allowed the criminal element to\nemerge from hiding.[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "tev011501_MSG0022",
+      "style": 1,
+      "name": "Suspicious activities have begun to occur throughout\nNew LA, and even we Mediators don't have all the\ndetails.[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "tev011501_MSG0023",
+      "style": 1,
+      "name": "No one's going to post about such criminal activities\non Mission Control, of course.[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "tev011501_MSG0024",
+      "style": 1,
+      "name": "We have to learn about and resolve them by speaking\nto the people of New LA directly.[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "tev011501_MSG0025",
+      "style": 1,
+      "name": "If you're a righteous BLADE with a will to help the\npeople of this city, you should lend an ear to any\ncitizen who seems troubled.[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "tev011501_MSG0040",
+      "style": 1,
+      "name": "We Mediators were attacked as we led the evacuation\nof the civilians, and had to fight in their defense.[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "tev011501_MSG0041",
+      "style": 1,
+      "name": "Sadly, many of my friends died holding back the\nGanglion attackers.[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "tev011501_MSG0042",
+      "style": 1,
+      "name": "So that's the power level of the enemy we're facing—\nwe can barely protect the things we value most.[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "tev011501_MSG0043",
+      "style": 1,
+      "name": "The way things are now, we don't stand a chance.[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "tev011501_MSG0044",
+      "style": 1,
+      "name": "BLADE needs to strengthen itself, and I'm wondering if\nperhaps our new xenoform friends can help.[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "tev011501_MSG0047",
+      "style": 1,
+      "name": "Recently, a Ma-non named Ackwar joined the\nMediators.[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "tev011501_MSG0048",
+      "style": 1,
+      "name": "As more xenoforms move into New LA, we encounter\nmore and more situations where our human intuition\nis simply not up to the task.[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "tev011501_MSG0049",
+      "style": 1,
+      "name": "Ackwar was recruited into the Mediators to help us\nwith these sorts of situations.[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "tev011501_MSG0050",
+      "style": 1,
+      "name": "His behavior can be impetuous for a Ma-non, and he's\na little reckless, but he has a strong sense of justice.\nI quite like him.[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "tev011501_MSG0051",
+      "style": 1,
+      "name": "We've never had a xenoform colleague before,\nbut I think we're all going to get along just fine.[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "tev011501_MSG0056",
+      "style": 1,
+      "name": "At a glance, New LA seems to be at peace ever since\nyour team defeated the Ganglion boss.[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "tev011501_MSG0057",
+      "style": 1,
+      "name": "But as the city transforms into a melting pot of various\nxenoform races, maintaining public order has become\na much greater challenge.[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "tev011501_MSG0058",
+      "style": 1,
+      "name": "As far as the Mediators are concerned,\nour war has only just begun![ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "tev011501_MSG0059",
+      "style": 1,
+      "name": "But it's a war I'm confident we can win. You fought\nhard to bring us peace, and we will do what we must\nto maintain it.[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "tev011501_MSG1001",
+      "style": 1,
+      "name": "Ackwar is fond of saying \"We Ma-non owe our\nlives to humanity, and I intend to pay that debt.\"[ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "tev011501_MSG1002",
+      "style": 1,
+      "name": "After all the benefit we've reaped from Ma-non tech,\nI don't know if that even holds true anymore.[ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "tev011501_MSG1003",
+      "style": 1,
+      "name": "But he's a stubborn guy, and really serious about\nseeing justice done.[ST:wait ]"
+    },
+    {
+      "$id": 52,
+      "label": "tev011501_MSG1004",
+      "style": 1,
+      "name": "His enthusiasm even inspired me to devote myself\nmore forcefully to my duties.[ST:wait ]"
+    },
+    {
+      "$id": 53,
+      "label": "tev011501_MSG1005",
+      "style": 1,
+      "name": "Like him, I won't let anything stand in the way of doing\nwhat I believe to be right.[ST:wait ]"
+    },
+    {
+      "$id": 54,
+      "label": "tev011501_MSG2001",
+      "style": 1,
+      "name": "I still can't believe that Powell from Army Pizza was\nthe Ma-non serial killer.[ST:wait ]"
+    },
+    {
+      "$id": 55,
+      "label": "tev011501_MSG2002",
+      "style": 1,
+      "name": "Ackwar did great work on that case. Now all the\nMa-non living in New LA will be able to rest easier.[ST:wait ]"
+    },
+    {
+      "$id": 56,
+      "label": "tev011501_MSG2003",
+      "style": 1,
+      "name": "Still, we have to make sure nothing like that ever\nhappens again.[ST:wait ]"
+    },
+    {
+      "$id": 57,
+      "label": "tev011501_MSG2004",
+      "style": 1,
+      "name": "We must make New LA a safe city for everyone,\nno matter what planet they come from. [ST:wait ]"
+    },
+    {
+      "$id": 58,
+      "label": "tev011501_MSG2005",
+      "style": 1,
+      "name": "And like Ackwar, I'm going to do whatever it takes to\nback that promise up![ST:wait ]"
+    }
+  ]
+}

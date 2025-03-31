@@ -1,0 +1,246 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev000491_MSG0001",
+      "style": 1,
+      "name": "Is that you, [ST:playername ]?[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev000491_MSG0002",
+      "style": 1,
+      "name": "What brings you to this neck of the woods?[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev000491_MSG0003",
+      "style": 1,
+      "name": "As you can see, I've been inspecting the water-\npurification plant.[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev000491_MSG0004",
+      "style": 1,
+      "name": "Water is every bit as vital here on Mira as it was back\non Earth.[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev000491_MSG0005",
+      "style": 1,
+      "name": "Therefore, it must be rigorously supervised![ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "tev000491_JNK0010",
+      "style": 4,
+      "name": "Inquire"
+    },
+    {
+      "$id": 7,
+      "label": "tev000491_SEL0011",
+      "style": 3,
+      "name": "Ask H.B. if he is a Mediator."
+    },
+    {
+      "$id": 8,
+      "label": "tev000491_JNK0020",
+      "style": 4,
+      "name": "Observe"
+    },
+    {
+      "$id": 9,
+      "label": "tev000491_SEL0021",
+      "style": 3,
+      "name": "Point out that this is a job for BLADE HQ."
+    },
+    {
+      "$id": 10,
+      "label": "tev000491_MSG0006",
+      "style": 1,
+      "name": "What idiocy is this? Have you lost your wits?[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev000491_MSG0007",
+      "style": 1,
+      "name": "I am a Pathfinder through and through!\n...And a quite famous one, I might add.[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "tev000491_MSG0008",
+      "style": 1,
+      "name": "You are not wrong—the responsibility does lie with HQ.[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "tev000491_MSG0009",
+      "style": 1,
+      "name": "\"But wait!\" I hear you cry. \"Why is a Pathfinder of\nH.B.'s stature doing their job for them?\"[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "tev000491_MSG0010",
+      "style": 1,
+      "name": "There are but two possibilities—because they are\nincapable of doing it themselves, or because my\ncapabilities make me especially qualified.[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "tev000491_MSG0011",
+      "style": 1,
+      "name": "The answer is, of course, the latter.[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "tev000491_MSG0012",
+      "style": 1,
+      "name": "Anyway, HQ is known to be shorthanded\nat the moment.[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "tev000491_MSG0013",
+      "style": 1,
+      "name": "When capable citizens step up to assist with their\nworkload, it benefits all of New LA.[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "tev000491_MSG0014",
+      "style": 1,
+      "name": "Is hammering in data probes a Pathfinder's only duty\nto New LA? No! The very notion reeks of indolence![ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "tev000491_MSG0015",
+      "style": 1,
+      "name": "If ever a citizen of New LA finds his talents needed,\nhe must answer the call, whenever and wherever it\ncomes.[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "tev000491_MSG0016",
+      "style": 1,
+      "name": "When fellow citizens are in peril, do you not rush to\ntheir aid?[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "tev000491_JNK0030",
+      "style": 4,
+      "name": "Concur"
+    },
+    {
+      "$id": 22,
+      "label": "tev000491_SEL0031",
+      "style": 3,
+      "name": "Agree that H.B.'s assertion is logically sound."
+    },
+    {
+      "$id": 23,
+      "label": "tev000491_JNK0040",
+      "style": 4,
+      "name": "Object"
+    },
+    {
+      "$id": 24,
+      "label": "tev000491_SEL0041",
+      "style": 3,
+      "name": "Accept H.B.'s reasoning, but express reservations."
+    },
+    {
+      "$id": 25,
+      "label": "tev000491_JNK0050",
+      "style": 4,
+      "name": "Rebut"
+    },
+    {
+      "$id": 26,
+      "label": "tev000491_SEL0051",
+      "style": 3,
+      "name": "Refute H.B.'s assertion."
+    },
+    {
+      "$id": 27,
+      "label": "tev000491_MSG0017",
+      "style": 1,
+      "name": "I pride myself on being an excellent judge of character,\nand I see now how right I was about your command\nof objective reason and holistic wisdom.[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "tev000491_MSG0018",
+      "style": 1,
+      "name": "I am honored to have met someone capable of\nunderstanding my philosophy.[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "tev000491_MSG0019",
+      "style": 1,
+      "name": "That is an all-too-common reaction.[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "tev000491_MSG0020",
+      "style": 1,
+      "name": "Nevertheless, I applaud your grasp of reason.\nIf you cannot embrace the truth, at least you can\naccept it.[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "tev000491_MSG0021",
+      "style": 1,
+      "name": "Even your minimal level of perspicacity is a breath\nof fresh air by New LA standards.[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "tev000491_MSG0022",
+      "style": 1,
+      "name": "The nerve![ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "tev000491_MSG0023",
+      "style": 1,
+      "name": "Do calm down now. You're embarrassing yourself.[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "tev000491_MSG0024",
+      "style": 1,
+      "name": "Surely you didn't intend to pick a fight when you\ninitiated this conversation?[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "tev000491_MSG0025",
+      "style": 1,
+      "name": "Please remember why you came here in the first place.\nOh, and do try to maintain your composure.[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "tev000491_MSG0026",
+      "style": 1,
+      "name": "Well, that concludes my inspection of this facility.[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "tev000491_MSG0027",
+      "style": 1,
+      "name": "I have some important business to attend to in the\nindustrial district.[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "tev000491_MSG0028",
+      "style": 1,
+      "name": "I hope we can work together again soon.[ST:wait ]"
+    }
+  ]
+}

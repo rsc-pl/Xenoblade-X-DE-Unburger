@@ -1,0 +1,324 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev065101_MSG0001",
+      "style": 1,
+      "name": "You're back. I've been waiting.[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev065101_MSG0002",
+      "style": 1,
+      "name": "...What? Surprised to have a criminal with a record of\ntrickery come to see you all on her own?[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev065101_MSG0003",
+      "style": 1,
+      "name": "Lara Nara said he'd let me go free if I came and\ntalked to you. So here I am.[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev065101_MSG0004",
+      "style": 1,
+      "name": "I have no idea what my next move is after turning\non the Ganglion. Do you?[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev065101_JNK0010",
+      "style": 4,
+      "name": "Suggest"
+    },
+    {
+      "$id": 6,
+      "label": "qev065101_SEL0011",
+      "style": 3,
+      "name": "Propose that Erio join you in fighting them."
+    },
+    {
+      "$id": 7,
+      "label": "qev065101_JNK0020",
+      "style": 4,
+      "name": "Refuse"
+    },
+    {
+      "$id": 8,
+      "label": "qev065101_SEL0021",
+      "style": 3,
+      "name": "Tell Erio that she has to find that answer for herself."
+    },
+    {
+      "$id": 9,
+      "label": "qev065101_MSG0005",
+      "style": 1,
+      "name": "You taught me the joy of living. The workings of life.\nI'd like to continue to nurture that within me.[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev065101_MSG0006",
+      "style": 1,
+      "name": "But that would mean making an enemy of all my sisters\nwho work for the Ganglion.[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev065101_MSG0007",
+      "style": 1,
+      "name": "I don't know if I'm capable of that.\nCapable of hurting a fellow Definian, I mean.[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev065101_MSG0008",
+      "style": 1,
+      "name": "......[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev065101_MSG0009",
+      "style": 1,
+      "name": "No. Allowing my sisters to go on compounding their\ncrimes in thoughtless obedience is far worse.[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev065101_MSG0010",
+      "style": 1,
+      "name": "For myself? Hmm. You may be right.[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev065101_MSG0011",
+      "style": 1,
+      "name": "We Definians have lived all this while devoid of our\nown will, following orders blindly.[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev065101_MSG0012",
+      "style": 1,
+      "name": "We've deceived others without a thought,\nand taken countless lives.[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev065101_MSG0013",
+      "style": 1,
+      "name": "If I am to walk a new path, it must be as you do.\nI must decide my own destination and see myself there.[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev065101_MSG0014",
+      "style": 1,
+      "name": "......[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev065101_MSG0015",
+      "style": 1,
+      "name": "There is one task before me which takes precedence\nover all others...[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev065101_MSG0016",
+      "style": 1,
+      "name": "I must free my sisters from their loathsome mission![ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev065101_MSG0017",
+      "style": 1,
+      "name": "Will you help me? You are the only one in this city\nwho knows who I truly am. I can turn to no one else.[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev065101_MSG0018",
+      "style": 1,
+      "name": "Fortun is coming topside. This could be our chance.[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev065101_MSG0019",
+      "style": 1,
+      "name": "I have deceived you time and again, and still you\nwould help me. Thank you.[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev065101_MSG0020",
+      "style": 1,
+      "name": "I feel like I understand why Lara Nara sent me to\nspeak to you.[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev065101_JNK0050",
+      "style": 4,
+      "name": "Ask about Fortun"
+    },
+    {
+      "$id": 26,
+      "label": "qev065101_SEL0051",
+      "style": 3,
+      "name": "Press Erio for more information about Fortun."
+    },
+    {
+      "$id": 27,
+      "label": "qev065101_JNK0060",
+      "style": 4,
+      "name": "Ask about Lara"
+    },
+    {
+      "$id": 28,
+      "label": "qev065101_SEL0061",
+      "style": 3,
+      "name": "Inquire about Erio's relationship with Lara Nara."
+    },
+    {
+      "$id": 29,
+      "label": "qev065101_MSG0021",
+      "style": 1,
+      "name": "The sage Fortun has given our orders since ancient\ntimes, though I have never seen her in person.[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev065101_MSG0022",
+      "style": 1,
+      "name": "She is being transported across Sylvalum right now,\nguarded by my sisters.[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev065101_MSG0023",
+      "style": 1,
+      "name": "He is the cruel dog who inflicted this freedom upon me!\nIt was...punishment for my crimes.[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev065101_MSG0024",
+      "style": 1,
+      "name": "He helped me obtain all the privileges of a full resident\nand promised to take the blame himself if anything\nwent wrong.[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev065101_MSG0025",
+      "style": 1,
+      "name": "...It is more trust than I can stand to break.\nI have to see my duty done.[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev065101_MSG0026",
+      "style": 1,
+      "name": "As you may know, the sage Fortun has given us our\norders since ancient times.[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev065101_MSG0027",
+      "style": 1,
+      "name": "And while I have never seen her in person, I know she\nis being transported through Sylvalum now, guarded by\nmy sisters.[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev065101_MSG0028",
+      "style": 1,
+      "name": "If we can take her out, we may be able to free them\nfrom bondage.[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev065101_MSG0029",
+      "style": 1,
+      "name": "Please find that Definian squad and take Fortun from\nthem.[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev065101_MSG0030",
+      "style": 1,
+      "name": "Fortun is being transported through Sylvalum now,\nalong with an elite escort.[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "qev065101_MSG0031",
+      "style": 1,
+      "name": "If we fail to make contact, we may not have the chance\nagain. You must steal Fortun away from them any way\nyou can.[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "qev065101_MSG0032",
+      "style": 1,
+      "name": "I feel her... You have brought Fortun here.[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "qev065101_MSG0033",
+      "style": 1,
+      "name": "So that is what has ruled over us as queen and\nmother all these years...[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "qev065101_MSG0034",
+      "style": 1,
+      "name": "For all the crimes she forced upon us, I can't help but\nfeel a nostalgic warmth.[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "qev065101_JNK0030",
+      "style": 4,
+      "name": "Query"
+    },
+    {
+      "$id": 44,
+      "label": "qev065101_SEL0031",
+      "style": 3,
+      "name": "Ask Erio what she will do now."
+    },
+    {
+      "$id": 45,
+      "label": "qev065101_JNK0040",
+      "style": 4,
+      "name": "Dismiss"
+    },
+    {
+      "$id": 46,
+      "label": "qev065101_SEL0041",
+      "style": 3,
+      "name": "Say that Fortun didn't seem all that impressive."
+    },
+    {
+      "$id": 47,
+      "label": "qev065101_MSG0035",
+      "style": 1,
+      "name": "Analyze the data, first and foremost. My sisters are far\ntoo mercurial to pin down unless I have an absolute\ngrasp of all the Definians.[ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "qev065101_MSG0036",
+      "style": 1,
+      "name": "This is my first time meeting her face-to-face as well.\n...Honestly, I thought she'd be taller.[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "qev065101_MSG0037",
+      "style": 1,
+      "name": "But she is still the queen who exerted total dominance\nover large portions of the galaxy—I'd advise you not to\ntake her lightly.[ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "qev065101_MSG0038",
+      "style": 1,
+      "name": "I think it's time I had a long talk with Mother here.[ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "qev065101_MSG0039",
+      "style": 1,
+      "name": "And when I'm done, I will stop my sisters from doing\nany more evil—no matter what it takes.[ST:wait ]"
+    }
+  ]
+}

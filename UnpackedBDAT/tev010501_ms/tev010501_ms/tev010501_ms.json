@@ -1,0 +1,126 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev010501_JNK0010",
+      "style": 4,
+      "name": "Inquire[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev010501_SEL0011",
+      "style": 3,
+      "name": "Ask Gus about the purpose of BLADE.[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev010501_JNK0020",
+      "style": 4,
+      "name": "Discuss[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev010501_SEL0021",
+      "style": 3,
+      "name": "Ask Gus if he's heard any interesting rumors.[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev010501_MSG0001",
+      "style": 1,
+      "name": "Well, I'm in the Outfitters division, so my duty is to\nhelp the arms manufacturers develop new weaponry.\nEr, I guess?[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "tev010501_MSG0002",
+      "style": 1,
+      "name": "Anyway, BLADE is an organization that devotes itself\nto building a future for humanity.[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "tev010501_MSG0003",
+      "style": 1,
+      "name": "...At least that's what the BLADE handbook says.\nAnd there's no shortage of idiots who believe it![ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "tev010501_MSG0004",
+      "style": 1,
+      "name": "Me, I joined up because being a BLADE pays better\nthan any other gig out there.[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "tev010501_MSG0005",
+      "style": 1,
+      "name": "Do your missions right, and you'll make more bank\nthan a civvy could ever hope to see, no matter how\nhard they work![ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "tev010501_MSG0008",
+      "style": 1,
+      "name": "Rumors, eh? Maybe you wanna hear about some\neasier ways to make money?[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev010501_MSG0009",
+      "style": 1,
+      "name": "Yeah, I got a little something in the works.\nBut you look like a [ST:gender p1=fellow p2=lady ] who's got more than a few\nbrain cells to rub together.[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "tev010501_MSG0010",
+      "style": 1,
+      "name": "And to pull off my plan, I'm gonna need some of the\ndimmest bulbs that BLADE has to offer.\nSo I got no use for the likes of you.[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "tev010501_MSG0011",
+      "style": 1,
+      "name": "I need people who are gullible enough to believe\nanything! Marks I can squeeze completely dry![ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "tev010501_MSG0012",
+      "style": 1,
+      "name": "Like that one Curator. You know? Quincy?\nThat's exactly the level of stupid I'm looking for.[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "tev010501_MSG0020",
+      "style": 1,
+      "name": "If you want to earn some serious money, go to\nMission Control and take a bunch of minor jobs.[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "tev010501_MSG0021",
+      "style": 1,
+      "name": "Then pursue those at the same time as you're out doing\nbig missions to earn rewards on top of rewards.\nTHAT'S using the old noodle right there![ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "tev010501_MSG0022",
+      "style": 1,
+      "name": "Beyond that, you should try to install as many research\ndata probes as you can. Although to be honest, that's\nway too much work for me to bother with.[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "tev010501_MSG0023",
+      "style": 1,
+      "name": "Why do yourself what you can manipulate some other\ndope into doing for you? Let them focus on completing\nthe missions while you focus on skimming the reward![ST:wait ]"
+    }
+  ]
+}

@@ -1,0 +1,168 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev041001_MSG0001",
+      "style": 1,
+      "name": "Augh! Some bodyguard friend is! Where is weapon?![ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev041001_MSG0002",
+      "style": 1,
+      "name": "My weapon? It got totaled by some monsters on my\nway out here from New LA. Better it than me though,\nam I right?[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev041001_MSG0003",
+      "style": 1,
+      "name": "Anyway, what's the big deal? You get me a new piece,\nI'll keep you safe. Just like our contract says.[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev041001_MSG0004",
+      "style": 1,
+      "name": "I'll just be waiting right here until you get it all worked\nout. Okay, fuzzy?[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev041001_MSG0005",
+      "style": 1,
+      "name": "Nrrgh! Why is Zazazan running errands for Harvey\nwhen Zazazan is boss?![ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev041001_MSG0006",
+      "style": 1,
+      "name": "...Friend is BLADE too, yes? Are all BLADEs so bad?\nThis one is useless![ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev041001_JNK0010",
+      "style": 4,
+      "name": "Agree"
+    },
+    {
+      "$id": 8,
+      "label": "qev041001_SEL0011",
+      "style": 3,
+      "name": "Criticize Harvey's work ethic."
+    },
+    {
+      "$id": 9,
+      "label": "qev041001_JNK0020",
+      "style": 4,
+      "name": "Defend"
+    },
+    {
+      "$id": 10,
+      "label": "qev041001_SEL0021",
+      "style": 3,
+      "name": "Say that unexpected setbacks can happen to anyone."
+    },
+    {
+      "$id": 11,
+      "label": "qev041001_MSG0007",
+      "style": 1,
+      "name": "Damn, [ST:gender p1=brother p2=sister ]! That stings! Then again,\nI bet most folks don't meet your exacting standards.[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev041001_MSG0008",
+      "style": 1,
+      "name": "Zazazan should have asked someone like reliable\nBLADE friend in the first place.[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev041001_MSG0009",
+      "style": 1,
+      "name": "Aw, ain't that sweet. I'm getting misty over here![ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev041001_MSG0010",
+      "style": 1,
+      "name": "Jerk Harvey not taking either of us seriously.\nFriend may be right in theory, but this BLADE is\ncertainly exception![ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev041001_MSG0011",
+      "style": 1,
+      "name": "Zazazan should have asked someone like you from the\nstart, friend.[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev041001_MSG0012",
+      "style": 1,
+      "name": "Still, contract is signed, so Zazazan is stuck with lazy\nbodyguard.[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev041001_MSG0013",
+      "style": 1,
+      "name": "Aw, you really know how to make a guy feel special.\nLook, this ain't that hard—you find me a weapon,\nI'll risk my neck to keep yours intact.[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev041001_MSG0014",
+      "style": 1,
+      "name": "Nrrrgh... Fine! You there! Responsible BLADE friend!\nGo find weapon for Harvey so he can do job and\ndefend Zazazan.[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev041001_MSG0015",
+      "style": 1,
+      "name": "Er, please? Zazazan is in hurry to deliver inventory to\nNew LA.[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev041001_MSG0016",
+      "style": 1,
+      "name": "Zazazan is glad that friend is so reasonable.\nNow please go fetch random weapon.[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev041001_MSG0017",
+      "style": 1,
+      "name": "Whoa, whoa. It's an iron sword or bust with me, pal.\nPersonal policy. No exceptions.[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev041001_MSG0018",
+      "style": 1,
+      "name": "Oh, and my buddies will be needing a warrior assault\nrifle and a titanium shield. Thanks and junk, yeah?[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev041001_MSG0019",
+      "style": 1,
+      "name": "Aaaarrrggh! This tomfoolery frosts cookies of Zazazan,\nbut there is probably no use arguing. Sorry, friend.[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev041001_MSG0020",
+      "style": 1,
+      "name": "Usually Zazazan get more reasonable bodyguards.\nLooks like unlucky draw this time.[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev041001_MSG0021",
+      "style": 1,
+      "name": "But contract is contract. We just have to get lazy friend\nhis iron sword, warrior assault rifle, and titanium shield,\nin order to make him do job already.[ST:wait ]"
+    }
+  ]
+}

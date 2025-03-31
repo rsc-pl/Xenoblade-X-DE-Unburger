@@ -1,0 +1,684 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev025501_MSG0001",
+      "style": 1,
+      "name": "Ugh. I never should have started offering my repair\nservices to human customers... Big, big mistake.[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev025501_MSG0002",
+      "style": 1,
+      "name": "I'll fix something up, and and they just wreck it again.\nNo respect for their machines, right? No love.[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev025501_MSG0003",
+      "style": 1,
+      "name": "Hmm? Did you also break something, perhaps?[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev025501_MSG0004",
+      "style": 1,
+      "name": "Sorry, but I'm full up at the moment, aren't I?\nCan't take any new jobs till I work through this\nbacklog, you see?[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev025501_JNK0010",
+      "style": 4,
+      "name": "Correct"
+    },
+    {
+      "$id": 6,
+      "label": "qev025501_SEL0011",
+      "style": 3,
+      "name": "Explain to Sostenasa that you\nhave nothing in need of repair."
+    },
+    {
+      "$id": 7,
+      "label": "qev025501_JNK0020",
+      "style": 4,
+      "name": "Press"
+    },
+    {
+      "$id": 8,
+      "label": "qev025501_SEL0021",
+      "style": 3,
+      "name": "Ask Sostenasa if he hates humans."
+    },
+    {
+      "$id": 9,
+      "label": "qev025501_MSG0005",
+      "style": 1,
+      "name": "Then I'll have to ask you to go, okay?\nI've got to gather the materials I need here, don't I?[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev025501_MSG0006",
+      "style": 1,
+      "name": "It's a full-time job cleaning up after the messes you\nhumans make, you know?[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev025501_MSG0007",
+      "style": 1,
+      "name": "What? No. No no no. I wouldn't have opened a shop\nhere if I did, would I? I'm just...surprised at how little\nyou humans seem to care about your things, right?[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev025501_MSG0008",
+      "style": 1,
+      "name": "Fixing things you're just going to break again has\nstarted feeling kind of pointless, you know?[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev025501_MSG0009",
+      "style": 1,
+      "name": "I mean, you probably see machines as convenient things\nyou use up and throw away, yes?[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev025501_JNK0030",
+      "style": 4,
+      "name": "Confirm"
+    },
+    {
+      "$id": 15,
+      "label": "qev025501_SEL0031",
+      "style": 3,
+      "name": "Agree that's pretty much how you look at it."
+    },
+    {
+      "$id": 16,
+      "label": "qev025501_JNK0040",
+      "style": 4,
+      "name": "Deny"
+    },
+    {
+      "$id": 17,
+      "label": "qev025501_SEL0041",
+      "style": 3,
+      "name": "Explain how you feel they're more than that."
+    },
+    {
+      "$id": 18,
+      "label": "qev025501_MSG0010",
+      "style": 1,
+      "name": "Well, that's a tough mind-set to understand for a\nMa-non who grew up tinkering since he was old\nenough to hold a screwdriver, okay?[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev025501_MSG0011",
+      "style": 1,
+      "name": "Machines may not talk, but they've got a part of of of\nthe soul of whoever built or maintains them inside them,\ndon't they?[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev025501_MSG0012",
+      "style": 1,
+      "name": "Then you're the exception, yes? But I agree that\nmachines are more than mere tools.[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev025501_MSG0013",
+      "style": 1,
+      "name": "They've got a part of the soul of whoever built or\nmaintains them inside them, you see? And they\ndeserve to be handled with respect, don't they?[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev025501_MSG0014",
+      "style": 1,
+      "name": "Well, anyway, I've got to go stock up on materials to\nget these repairs done, don't I?[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev025501_MSG0015",
+      "style": 1,
+      "name": "I'm afraid I'm too busy to chat, so if you've got no\nbusiness, off you go, okay?[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev025501_JNK0050",
+      "style": 4,
+      "name": "Leave"
+    },
+    {
+      "$id": 25,
+      "label": "qev025501_SEL0051",
+      "style": 3,
+      "name": "Depart as requested."
+    },
+    {
+      "$id": 26,
+      "label": "qev025501_JNK0060",
+      "style": 4,
+      "name": "Propose"
+    },
+    {
+      "$id": 27,
+      "label": "qev025501_SEL0061",
+      "style": 3,
+      "name": "Offer to gather the materials for Sostenasa."
+    },
+    {
+      "$id": 28,
+      "label": "qev025501_MSG0016",
+      "style": 1,
+      "name": "See you around.[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev025501_MSG0017",
+      "style": 1,
+      "name": "All right then, yes? Which of of you poor kids needs\nrepairs the worst...?[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev025501_MSG0018",
+      "style": 1,
+      "name": "Wait. You want to...to help me?\nIs there an ulterior motive here? It's pity, yes?[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev025501_MSG0019",
+      "style": 1,
+      "name": "Hmm. I don't know what your angle is, but if you're\noffering, I'm agreeable, all right?[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev025501_MSG0020",
+      "style": 1,
+      "name": "It's not easy though, yes? Even repairing a kitchen\nappliance can mean trekking outside the city.[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev025501_MSG0021",
+      "style": 1,
+      "name": "Are you sure you still want to help gather materials?\nReally really sure?[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev025501_MSG0022",
+      "style": 1,
+      "name": "Well, it's your call. But if you say you'll do it,\nI really need you to follow through, okay?[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev025501_MSG0023",
+      "style": 1,
+      "name": "These may just look like busted machines to you,\nbut to me my patients are living creatures, you see?[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev025501_MSG0024",
+      "style": 1,
+      "name": "So please go find me some shiny new parts to patch\nthis poor broken kitchen appliance up, all right?\nAnd I'll keep my expectations low. So so low.[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev025501_MSG0025",
+      "style": 1,
+      "name": "If you find me five pieces of stripped plating and three\nquality fuses, then I can have this poor little guy as\ngood as new, okay?[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev025501_MSG0026",
+      "style": 1,
+      "name": "The little guy helped you humans even after being\nflown out to this crazy planet. We can't just abandon\nit now, right?[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "qev025501_MSG0027",
+      "style": 1,
+      "name": "Hmm. Don't bother telling me. You couldn't find any\nstripped plating or quality fuses, could you?[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "qev025501_MSG0028",
+      "style": 1,
+      "name": "Well, I wasn't really counting on on on it anyway.\nNow, if you'd please please leave me to my work?[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "qev025501_MSG0029",
+      "style": 1,
+      "name": "What? You went outside the city, yes?\nPut your life at risk for this appliance?[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "qev025501_MSG0030",
+      "style": 1,
+      "name": "You're really not like all the other humans who who\nwho abuse their machines, are you?[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "qev025501_JNK0070",
+      "style": 4,
+      "name": "Affirm"
+    },
+    {
+      "$id": 44,
+      "label": "qev025501_SEL0071",
+      "style": 3,
+      "name": "Say that machines should be handled with respect."
+    },
+    {
+      "$id": 45,
+      "label": "qev025501_JNK0080",
+      "style": 4,
+      "name": "Deny"
+    },
+    {
+      "$id": 46,
+      "label": "qev025501_SEL0081",
+      "style": 3,
+      "name": "Claim that you're no different from any other human."
+    },
+    {
+      "$id": 47,
+      "label": "qev025501_MSG0031",
+      "style": 1,
+      "name": "Your eyes say you're telling the truth, don't they?[ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "qev025501_MSG0032",
+      "style": 1,
+      "name": "Other humans are also...like you? Then why do they\nkeep manhandling their things and throwing the broken\nones at me?[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "qev025501_MSG0033",
+      "style": 1,
+      "name": "...Because everyone here is desperate to survive?\nAnd that given the chance and better circumstances,\nhumans will actually care for their things?[ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "qev025501_MSG0034",
+      "style": 1,
+      "name": "Er, but no. No no no. I don't believe it.\nEver since I've been here, I've seen—[ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "qev025501_MSG0035",
+      "style": 1,
+      "name": "Sostenasa?! Have you finished the repairs on the two\nmilitary vehicles I asked about?[ST:wait ]"
+    },
+    {
+      "$id": 52,
+      "label": "qev025501_MSG0036",
+      "style": 1,
+      "name": "You mean the two vehicles the BLADEs ruined, yes?[ST:wait ]"
+    },
+    {
+      "$id": 53,
+      "label": "qev025501_MSG0037",
+      "style": 1,
+      "name": "So so sorry, but I still don't have the the the parts I\nneed, do I? So I haven't been able to work on them.[ST:wait ]"
+    },
+    {
+      "$id": 54,
+      "label": "qev025501_MSG0038",
+      "style": 1,
+      "name": "The humans make do with their scant resources, right?\nI don't hear them making excuses.[ST:wait ]"
+    },
+    {
+      "$id": 55,
+      "label": "qev025501_MSG0039",
+      "style": 1,
+      "name": "Keep dragging your feet, and I'll test my new inventions\nout on just you like I did in in in the old days.\nI've got a flamethrower in the works, you know?[ST:wait ]"
+    },
+    {
+      "$id": 56,
+      "label": "qev025501_MSG0040",
+      "style": 1,
+      "name": "Wh-whoa! No no! Please no! I...I...I can find the oil\nsomewhere, but Earth-made windshield glass is near\nimpossible! I'm doing my best, okay?![ST:wait ]"
+    },
+    {
+      "$id": 57,
+      "label": "qev025501_JNK0090",
+      "style": 4,
+      "name": "Propose"
+    },
+    {
+      "$id": 58,
+      "label": "qev025501_SEL0091",
+      "style": 3,
+      "name": "Offer to track down what Sostenasa needs."
+    },
+    {
+      "$id": 59,
+      "label": "qev025501_JNK0100",
+      "style": 4,
+      "name": "Do Nothing"
+    },
+    {
+      "$id": 60,
+      "label": "qev025501_SEL0101",
+      "style": 3,
+      "name": "Keep silent and watch their exchange further."
+    },
+    {
+      "$id": 61,
+      "label": "qev025501_MSG0041",
+      "style": 1,
+      "name": "The humans need those vehicles right away, don't they,\nSostenasa? Now which is it? Repair them, or try your\nluck with my flamethrower?[ST:wait ]"
+    },
+    {
+      "$id": 62,
+      "label": "qev025501_MSG0042",
+      "style": 1,
+      "name": "Fine, yes? Fine! I'll put them at the top of my list,\nall right? Very very very top![ST:wait ]"
+    },
+    {
+      "$id": 63,
+      "label": "qev025501_MSG0043",
+      "style": 1,
+      "name": "...Sorry, but it looks like I have to head out, don't I?[ST:wait ]"
+    },
+    {
+      "$id": 64,
+      "label": "qev025501_MSG0044",
+      "style": 1,
+      "name": "Here. As thanks for your help, yes?[ST:wait ]"
+    },
+    {
+      "$id": 65,
+      "label": "qev025501_MSG0045",
+      "style": 1,
+      "name": "I'm glad to see there are SOME humans who aren't a\ntotal lost cause, you know?[ST:wait ]"
+    },
+    {
+      "$id": 66,
+      "label": "qev025501_MSG0046",
+      "style": 1,
+      "name": "...Good luck with your work too, okay?\nI guess I'll see you around.[ST:wait ]"
+    },
+    {
+      "$id": 67,
+      "label": "qev025501_MSG0047",
+      "style": 1,
+      "name": "Er, you'd really do that?[ST:wait ]"
+    },
+    {
+      "$id": 68,
+      "label": "qev025501_MSG0048",
+      "style": 1,
+      "name": "Why all the help? This is my job, isn't it?\nThere's no reason for you to go this far.[ST:wait ]"
+    },
+    {
+      "$id": 69,
+      "label": "qev025501_JNK0110",
+      "style": 4,
+      "name": "Explain"
+    },
+    {
+      "$id": 70,
+      "label": "qev025501_SEL0111",
+      "style": 3,
+      "name": "Tell Sostenasa it's only natural\nfor one citizen to help another."
+    },
+    {
+      "$id": 71,
+      "label": "qev025501_JNK0120",
+      "style": 4,
+      "name": "Shrug"
+    },
+    {
+      "$id": 72,
+      "label": "qev025501_SEL0121",
+      "style": 3,
+      "name": "Say you just kinda...feel like it."
+    },
+    {
+      "$id": 73,
+      "label": "qev025501_MSG0049",
+      "style": 1,
+      "name": "...You're the first person in this city to to to say that.[ST:wait ]"
+    },
+    {
+      "$id": 74,
+      "label": "qev025501_MSG0050",
+      "style": 1,
+      "name": "There's something special about you, isn't there?\nAre you sure you're even human?[ST:wait ]"
+    },
+    {
+      "$id": 75,
+      "label": "qev025501_MSG0051",
+      "style": 1,
+      "name": "I'm starting to think that I was too quick to judge your\nkind, perhaps?[ST:wait ]"
+    },
+    {
+      "$id": 76,
+      "label": "qev025501_MSG0052",
+      "style": 1,
+      "name": "Maybe I was just cranky from being so so overworked,\nyes? Stress and all that?[ST:wait ]"
+    },
+    {
+      "$id": 77,
+      "label": "qev025501_MSG0053",
+      "style": 1,
+      "name": "Heh...[ST:wait ]"
+    },
+    {
+      "$id": 78,
+      "label": "qev025501_MSG0054",
+      "style": 1,
+      "name": "Anyway, I appreciate it, okay? And while you're\nhunting down the parts, I'll fix this poor appliance.[ST:wait ]"
+    },
+    {
+      "$id": 79,
+      "label": "qev025501_MSG0055",
+      "style": 1,
+      "name": "The materials I need are honey oil from a cinicula,\nand windshield glass from a scrapped vehicle, okay?[ST:wait ]"
+    },
+    {
+      "$id": 80,
+      "label": "qev025501_MSG0056",
+      "style": 1,
+      "name": "For the scrapped vehicle, I think there might be one\non the East Gate Plain?[ST:wait ]"
+    },
+    {
+      "$id": 81,
+      "label": "qev025501_MSG0057",
+      "style": 1,
+      "name": "I repaired that appliance good as new and returned the\nlittle guy to the owner, didn't I?[ST:wait ]"
+    },
+    {
+      "$id": 82,
+      "label": "qev025501_MSG0058",
+      "style": 1,
+      "name": "She was a BLADE, you see? Badly injured.\nCouldn't cook a decent meal for herself without it.\nGood thing I got to it early, no?[ST:wait ]"
+    },
+    {
+      "$id": 83,
+      "label": "qev025501_MSG0059",
+      "style": 1,
+      "name": "Any luck with those materials yet?\nI need honey oil and windshield glass, remember?[ST:wait ]"
+    },
+    {
+      "$id": 84,
+      "label": "qev025501_MSG0060",
+      "style": 1,
+      "name": "These things aren't easy to find, are they?\nMust have been lots and lots of trouble, right?[ST:wait ]"
+    },
+    {
+      "$id": 85,
+      "label": "qev025501_JNK0130",
+      "style": 4,
+      "name": "Agree"
+    },
+    {
+      "$id": 86,
+      "label": "qev025501_SEL0131",
+      "style": 3,
+      "name": "Confirm that it was pretty rough."
+    },
+    {
+      "$id": 87,
+      "label": "qev025501_JNK0140",
+      "style": 4,
+      "name": "Disagree"
+    },
+    {
+      "$id": 88,
+      "label": "qev025501_SEL0141",
+      "style": 3,
+      "name": "Boast that it was easy."
+    },
+    {
+      "$id": 89,
+      "label": "qev025501_MSG0061",
+      "style": 1,
+      "name": "I believe it, okay? But but I still don't understand why\nyou'd go through that just to help me.[ST:wait ]"
+    },
+    {
+      "$id": 90,
+      "label": "qev025501_MSG0062",
+      "style": 1,
+      "name": "You say that, but but I know the truth, okay?\nI've nearly died trying to get them in the past.[ST:wait ]"
+    },
+    {
+      "$id": 91,
+      "label": "qev025501_MSG0063",
+      "style": 1,
+      "name": "I don't understand why you'd go to such lengths just to\nhelp me.[ST:wait ]"
+    },
+    {
+      "$id": 92,
+      "label": "qev025501_MSG0064",
+      "style": 1,
+      "name": "What's that? You feel responsible because I'm fixing\nthese things for BLADE?[ST:wait ]"
+    },
+    {
+      "$id": 93,
+      "label": "qev025501_MSG0065",
+      "style": 1,
+      "name": "Dammit...[ST:wait ]"
+    },
+    {
+      "$id": 94,
+      "label": "qev025501_MSG0066",
+      "style": 1,
+      "name": "......[ST:wait ]"
+    },
+    {
+      "$id": 95,
+      "label": "qev025501_MSG0067",
+      "style": 1,
+      "name": "Fine, okay? I concede defeat![ST:wait ]"
+    },
+    {
+      "$id": 96,
+      "label": "qev025501_MSG0068",
+      "style": 1,
+      "name": "The reason my brother's working as a mechanic for\nyou humans...[ST:wait ]"
+    },
+    {
+      "$id": 97,
+      "label": "qev025501_MSG0069",
+      "style": 1,
+      "name": "And the reason I decided to start a repair shop here,\nfor that matter...[ST:wait ]"
+    },
+    {
+      "$id": 98,
+      "label": "qev025501_MSG0070",
+      "style": 1,
+      "name": "It's because we knew that both our peoples could make\nit on this planet if we worked together, you know?[ST:wait ]"
+    },
+    {
+      "$id": 99,
+      "label": "qev025501_MSG0071",
+      "style": 1,
+      "name": "I got so busy, I lost sight of that, didn't I?\nSo so so simple, but I still forgot.[ST:wait ]"
+    },
+    {
+      "$id": 100,
+      "label": "qev025501_MSG0072",
+      "style": 1,
+      "name": "Well, I'm not about to get all gushy with thank-yous.\nThat's not the kind of of of Ma-non I am.\nSo just shut up and take this, okay?[ST:wait ]"
+    },
+    {
+      "$id": 101,
+      "label": "qev025501_MSG0073",
+      "style": 1,
+      "name": "Hmph... You're a BLADE, yes?[ST:wait ]"
+    },
+    {
+      "$id": 102,
+      "label": "qev025501_MSG0074",
+      "style": 1,
+      "name": "Well, you all can bring the stuff you break here any\ntime you want, all right? I'll fix it till I drop.[ST:wait ]"
+    },
+    {
+      "$id": 103,
+      "label": "qev025501_MSG0075",
+      "style": 1,
+      "name": "Just promise you'll use it to keep us all safe,\nokay? Teamwork and all that?[ST:wait ]"
+    },
+    {
+      "$id": 104,
+      "label": "qev025501_JNK0150",
+      "style": 4,
+      "name": "Agree"
+    },
+    {
+      "$id": 105,
+      "label": "qev025501_SEL0151",
+      "style": 3,
+      "name": "Nod enthusiastically."
+    },
+    {
+      "$id": 106,
+      "label": "qev025501_JNK0160",
+      "style": 4,
+      "name": "Disagree"
+    },
+    {
+      "$id": 107,
+      "label": "qev025501_SEL0161",
+      "style": 3,
+      "name": "Explain to Sostenasa that you didn't do this out of guilt."
+    },
+    {
+      "$id": 108,
+      "label": "qev025501_MSG0076",
+      "style": 1,
+      "name": "We're in this together, right? You won't hear me\nwhining like I'm the the the victim ever again, okay?[ST:wait ]"
+    },
+    {
+      "$id": 109,
+      "label": "qev025501_MSG0077",
+      "style": 1,
+      "name": "Then why have you been helping me?\nI don't understand.[ST:wait ]"
+    },
+    {
+      "$id": 110,
+      "label": "qev025501_MSG0078",
+      "style": 1,
+      "name": "Perhaps I don't need to know. One look at your\nface tells me it's a reason I can get behind, isn't it?[ST:wait ]"
+    },
+    {
+      "$id": 111,
+      "label": "qev025501_MSG0079",
+      "style": 1,
+      "name": "So good luck out there, yes?\nI'll hold down the fort around here.[ST:wait ]"
+    }
+  ]
+}

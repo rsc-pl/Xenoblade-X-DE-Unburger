@@ -1,0 +1,462 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev070301_MSG0001",
+      "style": 1,
+      "name": "Hey, er, [ST:playername ]...\nYou've been to Sylvalum, haven't you?[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev070301_MSG0002",
+      "style": 1,
+      "name": "I don't suppose you've seen anybody who looked like\nthe boss there? Professor B, that is?[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev070301_JNK0010",
+      "style": 4,
+      "name": "Answer"
+    },
+    {
+      "$id": 4,
+      "label": "qev070301_SEL0011",
+      "style": 3,
+      "name": "Tell Veven that you have not seen Professor B."
+    },
+    {
+      "$id": 5,
+      "label": "qev070301_JNK0020",
+      "style": 4,
+      "name": "Query"
+    },
+    {
+      "$id": 6,
+      "label": "qev070301_SEL0021",
+      "style": 3,
+      "name": "Ask Veven why he called Professor B \"boss.\""
+    },
+    {
+      "$id": 7,
+      "label": "qev070301_MSG0003",
+      "style": 1,
+      "name": "I see. With all the traveling around you do,\nI thought maybe...[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev070301_MSG0004",
+      "style": 1,
+      "name": "Er, but I should probably back up, right? The professor\nran off to Sylvalum to gather materials for for a new\nproduct we're rolling out through Factory 1.21.[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev070301_MSG0005",
+      "style": 1,
+      "name": "He headed out there in the Miramobile, so he should\nbe able to return home literally as soon as he's done\nacquiring those materials, if you follow me?[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev070301_MSG0006",
+      "style": 1,
+      "name": "But I haven't heard a thing from him since he he left...[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev070301_MSG0007",
+      "style": 1,
+      "name": "The professor started a new company called Factory\n1.21 that sells weapons to BLADEs. I mean, he had to\ndo SOMETHING to to pay off that debt, you know?[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev070301_MSG0008",
+      "style": 1,
+      "name": "I work there now, and whenever I call him \"Professor,\"\nhe snaps at me, right? He keeps saying that the CEO\ndeserves to be called \"boss,\" so I just...do it?[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev070301_MSG0009",
+      "style": 1,
+      "name": "Typical, right? When he started the company,\nhe was bellyaching about it nonstop, you know?\nNow he fancies himself some kind of tycoon.[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev070301_MSG0010",
+      "style": 1,
+      "name": "He took off for Sylvalum to gather materials for a new\nproduct we're rolling out, and now I've pretty much lost\nall contact with him...[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev070301_MSG0011",
+      "style": 1,
+      "name": "He headed out there in the Miramobile, so it's not\nlike traveling back should take very long, you know?\nOr any time at at all...[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev070301_MSG0012",
+      "style": 1,
+      "name": "If he doesn't come back, Factory 1.21 will go under.\nAnd then I'll never receive all the money he owes me![ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev070301_MSG0013",
+      "style": 1,
+      "name": "I'll be left holding the bag on a small mountain of\ndebts, which means I'll be totally ruined![ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev070301_MSG0014",
+      "style": 1,
+      "name": "I'll just disappear into the void like the professor...\nMourned by no one... Ha ha...haaaaa.[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev070301_MSG0015",
+      "style": 1,
+      "name": "Veven, it wouldn't be fair to be the only one to survive\nthis nightmare, now would it? So come with me.\nCome to a place beyond debts and liabilities...[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev070301_MSG0016",
+      "style": 1,
+      "name": "P-please try to calm down, okay, Graham?\nWe don't know anything about the professor for\ncertain...[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev070301_MSG0017",
+      "style": 1,
+      "name": "But he's gone silent! Did he run away to the future?\nWho knows? Hell, who can EVER know?!\nBut wherever he went, it's all over for us![ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev070301_MSG0018",
+      "style": 1,
+      "name": "What about you? Will you come with us as well?\nThere's nothing in this life to miss.[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev070301_JNK0030",
+      "style": 4,
+      "name": "Accept"
+    },
+    {
+      "$id": 24,
+      "label": "qev070301_SEL0031",
+      "style": 3,
+      "name": "Tell Graham to sign you up."
+    },
+    {
+      "$id": 25,
+      "label": "qev070301_JNK0040",
+      "style": 4,
+      "name": "Refuse"
+    },
+    {
+      "$id": 26,
+      "label": "qev070301_SEL0041",
+      "style": 3,
+      "name": "Tell Graham that you have other things to do."
+    },
+    {
+      "$id": 27,
+      "label": "qev070301_MSG0019",
+      "style": 1,
+      "name": "Don't YOU go all crazy on me too, okay?!\nWhat reason do you have to give up on life, anyway?\nLet's all just just take a deep breath here...[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev070301_MSG0020",
+      "style": 1,
+      "name": "And so do you, Graham! Life is chock full of fun things\nto look forward to, am I right?[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev070301_MSG0021",
+      "style": 1,
+      "name": "Hey, so, [ST:playername ]?\nIs there any way I can convince you to go look for the\nprofessor out in Sylvalum?[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev070301_MSG0022",
+      "style": 1,
+      "name": "Factory 1.21's fate is on the line, you know?\nSo we won't skimp on the reward...[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev070301_MSG0023",
+      "style": 1,
+      "name": "Do you mind? I'm less worried about the professor at\nthis point than I am about what Graham will do if if\nhe doesn't get back soon...[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev070301_MSG0024",
+      "style": 1,
+      "name": "Thank you. The Miramobile should be somewhere in\nSylvalum's North Cinderdunes, okay?[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev070301_MSG0025",
+      "style": 1,
+      "name": "Maybe you'll find some sign of Professor B nearby?[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev070301_MSG0026",
+      "style": 1,
+      "name": "Regardless of wherever or WHENever he's run off to,\nI need you to to drag him back here pronto, all right?[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev070301_MSG0027",
+      "style": 1,
+      "name": "There are tons of things I still need the professor to\nteach me, you know? Graham and I both need him...[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev070301_JNK0050",
+      "style": 4,
+      "name": "Agree"
+    },
+    {
+      "$id": 37,
+      "label": "qev070301_SEL0051",
+      "style": 3,
+      "name": "Say that Professor B is important to you, too."
+    },
+    {
+      "$id": 38,
+      "label": "qev070301_JNK0060",
+      "style": 4,
+      "name": "Worry"
+    },
+    {
+      "$id": 39,
+      "label": "qev070301_SEL0061",
+      "style": 3,
+      "name": "Warn Veven that it is possible the professor is dead."
+    },
+    {
+      "$id": 40,
+      "label": "qev070301_MSG0028",
+      "style": 1,
+      "name": "For a nutty guy with the world's most suspicious\nbackstory, the professor is is awfully popular, isn't he?[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "qev070301_MSG0029",
+      "style": 1,
+      "name": "Weeeell, I suppose brutal realism has its place...?[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "qev070301_MSG0030",
+      "style": 1,
+      "name": "But I just believe the professor wouldn't give up the\nghost that easily, okay? I think he's still alive.[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "qev070301_MSG0040",
+      "style": 1,
+      "name": "I'm counting on you to drag Professor B back from\nSylvalum, all right?[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "qev070301_MSG0041",
+      "style": 1,
+      "name": "He still has volumes to to teach me, you know?\nAnd honestly, I'm not sure Graham will make it if\nthe professor doesn't come home soon...[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "qev070301_MSG0042",
+      "style": 1,
+      "name": "Professor B told me what what happened...\nAbout how that Gadd guy was keeping him prisoner?[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "qev070301_MSG0043",
+      "style": 1,
+      "name": "\"Thank you\" doesn't really begin to cover it,\nyou know? If you hadn't gone after him,\nwho can say if if the professor would still be alive?[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "qev070301_MSG0044",
+      "style": 1,
+      "name": "Veven! What have I said about calling me that?!\nI'm founder, president, and CEO of Factory 1.21![ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "qev070301_MSG0045",
+      "style": 1,
+      "name": "Y-yes, boss! Sorry, boss...[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "qev070301_MSG0046",
+      "style": 1,
+      "name": "Yeeesh... Lately he's been so obsessed with running this\nbusiness, you know? Well, the making-money part of it,\nanyway.[ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "qev070301_MSG0047",
+      "style": 1,
+      "name": "Remember how he used to go on about how science\nwas the pure and noble pursuit of a better future?\nTalk about fickle, eh...?[ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "qev070301_JNK0090",
+      "style": 4,
+      "name": "Agree"
+    },
+    {
+      "$id": 52,
+      "label": "qev070301_SEL0091",
+      "style": 3,
+      "name": "Sigh and agree that Professor B is hopeless."
+    },
+    {
+      "$id": 53,
+      "label": "qev070301_JNK0100",
+      "style": 4,
+      "name": "Disagree"
+    },
+    {
+      "$id": 54,
+      "label": "qev070301_SEL0101",
+      "style": 3,
+      "name": "Explain that such things are part of Professor B's charm."
+    },
+    {
+      "$id": 55,
+      "label": "qev070301_MSG0048",
+      "style": 1,
+      "name": "And after all the trouble he's dragged you through,\nno one's more qualified to say that than you, right?[ST:wait ]"
+    },
+    {
+      "$id": 56,
+      "label": "qev070301_MSG0049",
+      "style": 1,
+      "name": "Sometimes I wonder if maybe everyone in the future\nis like him? Talk about bleak prospects...[ST:wait ]"
+    },
+    {
+      "$id": 57,
+      "label": "qev070301_MSG0050",
+      "style": 1,
+      "name": "After all the trouble he's dragged you into? Wow...[ST:wait ]"
+    },
+    {
+      "$id": 58,
+      "label": "qev070301_MSG0051",
+      "style": 1,
+      "name": "Still, I suppose I'm just as crazy?\nI did sign up to work for him, after all...[ST:wait ]"
+    },
+    {
+      "$id": 59,
+      "label": "qev070301_MSG0052",
+      "style": 1,
+      "name": "In any case, here's your reward, all right?\nThank you for saving our company.[ST:wait ]"
+    },
+    {
+      "$id": 60,
+      "label": "qev070301_MSG0053",
+      "style": 1,
+      "name": "Get this, Veven! Graham here has sworn fealty to me\nand joined our little Factory 1.21 family![ST:wait ]"
+    },
+    {
+      "$id": 61,
+      "label": "qev070301_MSG0054",
+      "style": 1,
+      "name": "What? NO! I just told you to hurry up and pay me\nback as quickly as—[ST:wait ]"
+    },
+    {
+      "$id": 62,
+      "label": "qev070301_MSG0055",
+      "style": 1,
+      "name": "Possible, yes, which clearly means you want the\ncompany to grow and succeed and are eager to\nhelp that happen in whatever way you can.[ST:wait ]"
+    },
+    {
+      "$id": 63,
+      "label": "qev070301_MSG0056",
+      "style": 1,
+      "name": "Oh, you're just adorable, Graham. Lucky you, Veven!\nYou finally get an underling of your own![ST:wait ]"
+    },
+    {
+      "$id": 64,
+      "label": "qev070301_MSG0057",
+      "style": 1,
+      "name": "Oof... Graham's kind of a pushover, isn't he?\nHe'll probably be working here for life...[ST:wait ]"
+    },
+    {
+      "$id": 65,
+      "label": "qev070301_JNK0110",
+      "style": 4,
+      "name": "Rescue"
+    },
+    {
+      "$id": 66,
+      "label": "qev070301_SEL0111",
+      "style": 3,
+      "name": "Intervene on Graham's behalf."
+    },
+    {
+      "$id": 67,
+      "label": "qev070301_JNK0120",
+      "style": 4,
+      "name": "Watch"
+    },
+    {
+      "$id": 68,
+      "label": "qev070301_SEL0121",
+      "style": 3,
+      "name": "Stand back and see what happens."
+    },
+    {
+      "$id": 69,
+      "label": "qev070301_MSG0058",
+      "style": 1,
+      "name": "Hey, that's right!\nThere's no reason I should have to work he—[ST:wait ]"
+    },
+    {
+      "$id": 70,
+      "label": "qev070301_MSG0059",
+      "style": 1,
+      "name": "Hey, don't just stand there and let me get railroaded!\nThere's no reason at all why I should have to work h—[ST:wait ]"
+    },
+    {
+      "$id": 71,
+      "label": "qev070301_MSG0060",
+      "style": 1,
+      "name": "Enough whining! Now get over here so we can start\nyour employee orientation![ST:wait ]"
+    },
+    {
+      "$id": 72,
+      "label": "qev070301_MSG0061",
+      "style": 1,
+      "name": "Whaaat? Why?! This isn't FAIR![ST:wait ]"
+    },
+    {
+      "$id": 73,
+      "label": "qev070301_MSG0062",
+      "style": 1,
+      "name": "Well, the professor's a solid engineer, right?\nAt least you'll help make some excellent gear...[ST:wait ]"
+    },
+    {
+      "$id": 74,
+      "label": "qev070301_MSG0063",
+      "style": 1,
+      "name": "Maybe you'll let us help you out the next time you're in\nneed of equipment?[ST:wait ]"
+    }
+  ]
+}

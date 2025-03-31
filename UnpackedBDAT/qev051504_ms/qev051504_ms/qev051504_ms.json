@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev051504_MSG0001",
+      "style": 1,
+      "name": "Ho, [ST:playername ]!\nYour next opponent is Slovity Pagus![ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev051504_MSG0002",
+      "style": 1,
+      "name": "We fought before. I know you are fierce warrior.[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev051504_MSG0003",
+      "style": 1,
+      "name": "I just learned you were my foe.\nIt made wave of heat surge through body![ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev051504_MSG0004",
+      "style": 1,
+      "name": "I have been injured. Weak. But no longer.\nToday I fight at full strength. You should do same.\nOr I will devour you![ST:wait ]"
+    }
+  ]
+}

@@ -1,0 +1,522 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "DEF_PC_01_Name",
+      "style": 14,
+      "name": "Player 1"
+    },
+    {
+      "$id": 2,
+      "label": "DEF_PC_02_Name",
+      "style": 14,
+      "name": ""
+    },
+    {
+      "$id": 3,
+      "label": "DEF_PC_03_Name",
+      "style": 14,
+      "name": ""
+    },
+    {
+      "$id": 4,
+      "label": "DEF_PC_04_Name",
+      "style": 14,
+      "name": ""
+    },
+    {
+      "$id": 5,
+      "label": "DEF_PC_05_Name",
+      "style": 14,
+      "name": ""
+    },
+    {
+      "$id": 6,
+      "label": "DEF_PCNPC_01_Name",
+      "style": 14,
+      "name": "Nagi"
+    },
+    {
+      "$id": 7,
+      "label": "DEF_PCNPC_02_Name",
+      "style": 14,
+      "name": "L"
+    },
+    {
+      "$id": 8,
+      "label": "DEF_PCNPC_03_Name",
+      "style": 14,
+      "name": "Lao"
+    },
+    {
+      "$id": 9,
+      "label": "DEF_PCNPC_04_Name",
+      "style": 14,
+      "name": "H.B."
+    },
+    {
+      "$id": 10,
+      "label": "DEF_PCNPC_05_Name",
+      "style": 14,
+      "name": "Gwin"
+    },
+    {
+      "$id": 11,
+      "label": "DEF_PCNPC_06_Name",
+      "style": 14,
+      "name": "Frye"
+    },
+    {
+      "$id": 12,
+      "label": "DEF_PCNPC_07_Name",
+      "style": 14,
+      "name": "Doug"
+    },
+    {
+      "$id": 13,
+      "label": "DEF_PCNPC_08_Name",
+      "style": 14,
+      "name": "Yelv"
+    },
+    {
+      "$id": 14,
+      "label": "DEF_PCNPC_09_Name",
+      "style": 14,
+      "name": "Bozé"
+    },
+    {
+      "$id": 15,
+      "label": "DEF_PCNPC_10_Name",
+      "style": 14,
+      "name": "Phog"
+    },
+    {
+      "$id": 16,
+      "label": "DEF_PCNPC_11_Name",
+      "style": 14,
+      "name": "Elma"
+    },
+    {
+      "$id": 17,
+      "label": "DEF_PCNPC_12_Name",
+      "style": 14,
+      "name": "Lin"
+    },
+    {
+      "$id": 18,
+      "label": "DEF_PCNPC_13_Name",
+      "style": 14,
+      "name": "Celica"
+    },
+    {
+      "$id": 19,
+      "label": "DEF_PCNPC_14_Name",
+      "style": 14,
+      "name": "Irina"
+    },
+    {
+      "$id": 20,
+      "label": "DEF_PCNPC_15_Name",
+      "style": 14,
+      "name": "Murderess"
+    },
+    {
+      "$id": 21,
+      "label": "DEF_PCNPC_16_Name",
+      "style": 14,
+      "name": "Alexa"
+    },
+    {
+      "$id": 22,
+      "label": "DEF_PCNPC_17_Name",
+      "style": 14,
+      "name": "Hope"
+    },
+    {
+      "$id": 23,
+      "label": "DEF_PCNPC_18_Name",
+      "style": 14,
+      "name": "Mia"
+    },
+    {
+      "$id": 24,
+      "label": "DEF_CHR101_Name",
+      "style": 14,
+      "name": ""
+    },
+    {
+      "$id": 25,
+      "label": "DEF_CHR102_Name",
+      "style": 14,
+      "name": ""
+    },
+    {
+      "$id": 26,
+      "label": "DEF_CHR103_Name",
+      "style": 14,
+      "name": ""
+    },
+    {
+      "$id": 27,
+      "label": "DEF_CHR104_Name",
+      "style": 14,
+      "name": ""
+    },
+    {
+      "$id": 28,
+      "label": "DEF_CHR105_Name",
+      "style": 14,
+      "name": ""
+    },
+    {
+      "$id": 29,
+      "label": "DEF_CHR106_Name",
+      "style": 14,
+      "name": ""
+    },
+    {
+      "$id": 30,
+      "label": "DEF_CHR107_Name",
+      "style": 14,
+      "name": ""
+    },
+    {
+      "$id": 31,
+      "label": "DEF_CHR108_Name",
+      "style": 14,
+      "name": ""
+    },
+    {
+      "$id": 32,
+      "label": "DEF_CHR109_Name",
+      "style": 14,
+      "name": ""
+    },
+    {
+      "$id": 33,
+      "label": "DEF_CHR110_Name",
+      "style": 14,
+      "name": ""
+    },
+    {
+      "$id": 34,
+      "label": "DEF_CHR111_Name",
+      "style": 14,
+      "name": ""
+    },
+    {
+      "$id": 35,
+      "label": "DEF_CHR112_Name",
+      "style": 14,
+      "name": ""
+    },
+    {
+      "$id": 36,
+      "label": "DEF_CHR113_Name",
+      "style": 14,
+      "name": ""
+    },
+    {
+      "$id": 37,
+      "label": "DEF_CHR114_Name",
+      "style": 14,
+      "name": ""
+    },
+    {
+      "$id": 38,
+      "label": "DEF_CHR115_Name",
+      "style": 14,
+      "name": ""
+    },
+    {
+      "$id": 39,
+      "label": "DEF_CHR116_Name",
+      "style": 14,
+      "name": ""
+    },
+    {
+      "$id": 40,
+      "label": "DEF_CHR117_Name",
+      "style": 14,
+      "name": ""
+    },
+    {
+      "$id": 41,
+      "label": "DEF_CHR118_Name",
+      "style": 14,
+      "name": ""
+    },
+    {
+      "$id": 42,
+      "label": "DEF_DL01_Name",
+      "style": 14,
+      "name": ""
+    },
+    {
+      "$id": 43,
+      "label": "DEF_DL02_Name",
+      "style": 14,
+      "name": ""
+    },
+    {
+      "$id": 44,
+      "label": "DEF_DL03_Name",
+      "style": 14,
+      "name": ""
+    },
+    {
+      "$id": 45,
+      "label": "DEF_DL04_Name",
+      "style": 14,
+      "name": ""
+    },
+    {
+      "$id": 46,
+      "label": "DEF_DL05_Name",
+      "style": 14,
+      "name": ""
+    },
+    {
+      "$id": 47,
+      "label": "DEF_DL06_Name",
+      "style": 14,
+      "name": ""
+    },
+    {
+      "$id": 48,
+      "label": "DEF_DL07_Name",
+      "style": 14,
+      "name": ""
+    },
+    {
+      "$id": 49,
+      "label": "DEF_DL08_Name",
+      "style": 14,
+      "name": ""
+    },
+    {
+      "$id": 50,
+      "label": "DEF_DL09_Name",
+      "style": 14,
+      "name": ""
+    },
+    {
+      "$id": 51,
+      "label": "DEF_DL10_Name",
+      "style": 14,
+      "name": ""
+    },
+    {
+      "$id": 52,
+      "label": "DEF_DL11_Name",
+      "style": 14,
+      "name": ""
+    },
+    {
+      "$id": 53,
+      "label": "DEF_DL12_Name",
+      "style": 14,
+      "name": ""
+    },
+    {
+      "$id": 54,
+      "label": "DEF_DL13_Name",
+      "style": 14,
+      "name": ""
+    },
+    {
+      "$id": 55,
+      "label": "DEF_DL14_Name",
+      "style": 14,
+      "name": ""
+    },
+    {
+      "$id": 56,
+      "label": "DEF_DL15_Name",
+      "style": 14,
+      "name": ""
+    },
+    {
+      "$id": 57,
+      "label": "DEF_DL16_Name",
+      "style": 14,
+      "name": ""
+    },
+    {
+      "$id": 58,
+      "label": "DEF_DL17_Name",
+      "style": 14,
+      "name": ""
+    },
+    {
+      "$id": 59,
+      "label": "DEF_DL18_Name",
+      "style": 14,
+      "name": ""
+    },
+    {
+      "$id": 60,
+      "label": "DEF_DL19_Name",
+      "style": 14,
+      "name": ""
+    },
+    {
+      "$id": 61,
+      "label": "DEF_DL20_Name",
+      "style": 14,
+      "name": ""
+    },
+    {
+      "$id": 62,
+      "label": "DEF_CLASS_Assault",
+      "style": 14,
+      "name": ""
+    },
+    {
+      "$id": 63,
+      "label": "DEF_CLASS_Command",
+      "style": 14,
+      "name": ""
+    },
+    {
+      "$id": 64,
+      "label": "DEF_CLASS_Forcer",
+      "style": 14,
+      "name": ""
+    },
+    {
+      "$id": 65,
+      "label": "DEF_CLASS_Spartan",
+      "style": 14,
+      "name": ""
+    },
+    {
+      "$id": 66,
+      "label": "DEF_CLASS_Sentinel",
+      "style": 14,
+      "name": ""
+    },
+    {
+      "$id": 67,
+      "label": "DEF_CLASS_TwoHand",
+      "style": 14,
+      "name": ""
+    },
+    {
+      "$id": 68,
+      "label": "DEF_CLASS_LongLancer",
+      "style": 14,
+      "name": ""
+    },
+    {
+      "$id": 69,
+      "label": "DEF_CLASS_DarkWatcher",
+      "style": 14,
+      "name": ""
+    },
+    {
+      "$id": 70,
+      "label": "DEF_CLASS_BlustFencer",
+      "style": 14,
+      "name": ""
+    },
+    {
+      "$id": 71,
+      "label": "DEF_PC_CHK10_name",
+      "style": 14,
+      "name": ""
+    },
+    {
+      "$id": 72,
+      "label": "DEF_PC_CHK11_name",
+      "style": 14,
+      "name": ""
+    },
+    {
+      "$id": 73,
+      "label": "DEF_PC_CHK12_name",
+      "style": 14,
+      "name": ""
+    },
+    {
+      "$id": 74,
+      "label": "DEF_PC_CHK13_name",
+      "style": 14,
+      "name": ""
+    },
+    {
+      "$id": 75,
+      "label": "DEF_PC_CHK14_name",
+      "style": 14,
+      "name": ""
+    },
+    {
+      "$id": 76,
+      "label": "DEF_PC_CHK15_name",
+      "style": 14,
+      "name": ""
+    },
+    {
+      "$id": 77,
+      "label": "DEF_PC_CHK16_name",
+      "style": 14,
+      "name": ""
+    },
+    {
+      "$id": 78,
+      "label": "DEF_PC_CHK17_name",
+      "style": 14,
+      "name": ""
+    },
+    {
+      "$id": 79,
+      "label": "DEF_PC_CHK18_name",
+      "style": 14,
+      "name": ""
+    },
+    {
+      "$id": 80,
+      "label": "DEF_PC_CHK19_name",
+      "style": 14,
+      "name": ""
+    },
+    {
+      "$id": 81,
+      "label": "DEF_PCNPC_20_Name",
+      "style": 14,
+      "name": "Neilnail"
+    },
+    {
+      "$id": 82,
+      "label": "DEF_PCNPC_21_Name",
+      "style": 14,
+      "name": "Liesel"
+    },
+    {
+      "$id": 83,
+      "label": "DEF_PCNPC_22_Name",
+      "style": 14,
+      "name": "Al"
+    },
+    {
+      "$id": 84,
+      "label": "DEF_PCNPC_23_Name",
+      "style": 14,
+      "name": "Ga Jiarg"
+    }
+  ]
+}

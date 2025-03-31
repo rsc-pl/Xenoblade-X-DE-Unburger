@@ -1,0 +1,234 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev000691_MSG0001",
+      "style": 1,
+      "name": "Hey there, [ST:playername ].[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev000691_MSG0002",
+      "style": 1,
+      "name": "Lemme tell ya, I'm having one rough day over here.\nI drink and I drink, but I can't get drunk![ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev000691_MSG0003",
+      "style": 1,
+      "name": "It's like I built up an immunity to Scotch—which is the\nmost terrible thing I've ever heard! I don't know what\nI'm gonna do...[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev000691_MSG0004",
+      "style": 1,
+      "name": "What do you like to drink, [ST:playername ]?\nMaybe I'll try your poison and see if it works.[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev000691_JNK0010",
+      "style": 4,
+      "name": "Beer"
+    },
+    {
+      "$id": 6,
+      "label": "tev000691_SEL0011",
+      "style": 3,
+      "name": "Suggest that Frye crack open a cold one."
+    },
+    {
+      "$id": 7,
+      "label": "tev000691_JNK0020",
+      "style": 4,
+      "name": "Cocktail"
+    },
+    {
+      "$id": 8,
+      "label": "tev000691_SEL0021",
+      "style": 3,
+      "name": "Suggest that Frye try a fancy cocktail. With an umbrella."
+    },
+    {
+      "$id": 9,
+      "label": "tev000691_JNK0030",
+      "style": 4,
+      "name": "Wine"
+    },
+    {
+      "$id": 10,
+      "label": "tev000691_SEL0031",
+      "style": 3,
+      "name": "Suggest that Frye try a fine, aged wine."
+    },
+    {
+      "$id": 11,
+      "label": "tev000691_JNK0040",
+      "style": 4,
+      "name": "Vodka"
+    },
+    {
+      "$id": 12,
+      "label": "tev000691_SEL0041",
+      "style": 3,
+      "name": "Suggest a healthy belt of vodka."
+    },
+    {
+      "$id": 13,
+      "label": "tev000691_JNK0050",
+      "style": 4,
+      "name": "Sake"
+    },
+    {
+      "$id": 14,
+      "label": "tev000691_SEL0051",
+      "style": 3,
+      "name": "Suggest a high-quality Japanese sake."
+    },
+    {
+      "$id": 15,
+      "label": "tev000691_JNK0060",
+      "style": 4,
+      "name": "Shrug"
+    },
+    {
+      "$id": 16,
+      "label": "tev000691_SEL0061",
+      "style": 3,
+      "name": "Explain that you're still a minor, so you wouldn't know."
+    },
+    {
+      "$id": 17,
+      "label": "tev000691_MSG0005",
+      "style": 1,
+      "name": "Beer? Really? I dunno...[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "tev000691_MSG0006",
+      "style": 1,
+      "name": "I got a long-standing policy about beer—I only drink\nit while watching football. And it's not like that's a\ncommon occurrence nowadays.[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "tev000691_MSG0007",
+      "style": 1,
+      "name": "But yeah, I guess I could give it a shot...[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "tev000691_MSG0008",
+      "style": 1,
+      "name": "Blech! Those foo-foo drinks are always so sweet!\nSave it for a 21st birthday, you know?[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "tev000691_MSG0009",
+      "style": 1,
+      "name": "Still, I guess it never hurts to try something new...[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "tev000691_MSG0010",
+      "style": 1,
+      "name": "Hey, I ain't some fancy snob, ya know? I drink Scotch.\nCHEAP Scotch. Wine's pretty much the opposite of that.[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "tev000691_MSG0011",
+      "style": 1,
+      "name": "But maybe since it's so unlike what I usually drink,\nit'll actually get me smashed! Worth a shot, I guess...[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "tev000691_MSG0012",
+      "style": 1,
+      "name": "That's not a bad idea. Not bad at all.\nI didn't know you were a vodka[ST:gender p1= man p2= woman ]![ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "tev000691_MSG0013",
+      "style": 1,
+      "name": "Nice thing about vodka is that it's easy to get.\nThat'll be important if I end up making a habit of it.[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "tev000691_MSG0014",
+      "style": 1,
+      "name": "Geez, no wonder you get along with Nagi so well.\nYou got pretty esoteric tastes.[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "tev000691_MSG0015",
+      "style": 1,
+      "name": "I usually don't like to drink things I can't pronounce,\nbut if you really think I could develop a taste for it...[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "tev000691_MSG0016",
+      "style": 1,
+      "name": "Oh, right! Riiight. I forgot you couldn't drink. Sorry.\n...Er, don't call the law or nothing, okay?\nHonest mistake.[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "tev000691_MSG0017",
+      "style": 1,
+      "name": "Hey, you know what? Talking to you just gave me a\ngreat idea![ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "tev000691_MSG0018",
+      "style": 1,
+      "name": "If I can't find a type of booze that'll get me properly\nhammered, I should just make one myself! Moonshine!\nWhite lightning! That's the ticket, all right![ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "tev000691_MSG0019",
+      "style": 1,
+      "name": "There's all sorts of weird fruits and grains and crap\nhere on Mira that we didn't have back on Earth, right?[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "tev000691_MSG0020",
+      "style": 1,
+      "name": "Next time I'm off on an Interceptor mission, I'll just\ngather up a bunch and see if I can ferment 'em into\nan entirely new type of drink.[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "tev000691_MSG0021",
+      "style": 1,
+      "name": "Man, I never thought I'd turn into one of those bathtub\ndistiller types. But I guess sobriety's the mother of\ninvention![ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "tev000691_MSG0022",
+      "style": 1,
+      "name": "Thanks for talking me through that. I owe ya one.[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "tev000691_MSG0023",
+      "style": 1,
+      "name": "Still, I guess I better try the Scotch one more time\njust to make sure it still ain't working. Then I'll start\ndrawing up plans for the distillery.[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "tev000691_MSG0024",
+      "style": 1,
+      "name": "See ya next time duty calls, all right?[ST:wait ]"
+    }
+  ]
+}

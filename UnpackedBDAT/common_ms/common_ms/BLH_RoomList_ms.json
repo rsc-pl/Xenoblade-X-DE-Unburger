@@ -1,0 +1,498 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "ROOM_01",
+      "style": 17,
+      "name": "Common Room"
+    },
+    {
+      "$id": 2,
+      "label": "ROOM_02",
+      "style": 17,
+      "name": "Skell Hangar"
+    },
+    {
+      "$id": 3,
+      "label": "ROOM_03",
+      "style": 17,
+      "name": "Holofigure Gallery"
+    },
+    {
+      "$id": 4,
+      "label": "ROOM_04",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 5,
+      "label": "ROOM_05",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 6,
+      "label": "PARTS_01",
+      "style": 17,
+      "name": "Primary"
+    },
+    {
+      "$id": 7,
+      "label": "PARTS_02",
+      "style": 17,
+      "name": "Secondary"
+    },
+    {
+      "$id": 8,
+      "label": "PARTS_03",
+      "style": 17,
+      "name": "Floor 1"
+    },
+    {
+      "$id": 9,
+      "label": "PARTS_04",
+      "style": 17,
+      "name": "Floor 2"
+    },
+    {
+      "$id": 10,
+      "label": "PARTS_05",
+      "style": 17,
+      "name": "Furniture"
+    },
+    {
+      "$id": 11,
+      "label": "PARTS_06",
+      "style": 17,
+      "name": "Primary"
+    },
+    {
+      "$id": 12,
+      "label": "PARTS_07",
+      "style": 17,
+      "name": "Accents"
+    },
+    {
+      "$id": 13,
+      "label": "PARTS_08",
+      "style": 17,
+      "name": "Floor 1"
+    },
+    {
+      "$id": 14,
+      "label": "PARTS_09",
+      "style": 17,
+      "name": "Floor 2"
+    },
+    {
+      "$id": 15,
+      "label": "PARTS_10",
+      "style": 17,
+      "name": "Secondary"
+    },
+    {
+      "$id": 16,
+      "label": "PARTS_11",
+      "style": 17,
+      "name": "Primary"
+    },
+    {
+      "$id": 17,
+      "label": "PARTS_12",
+      "style": 17,
+      "name": "Secondary"
+    },
+    {
+      "$id": 18,
+      "label": "PARTS_13",
+      "style": 17,
+      "name": "Floor 1"
+    },
+    {
+      "$id": 19,
+      "label": "PARTS_14",
+      "style": 17,
+      "name": "Floor 2"
+    },
+    {
+      "$id": 20,
+      "label": "PARTS_15",
+      "style": 17,
+      "name": "Projectors"
+    },
+    {
+      "$id": 21,
+      "label": "PARTS_16",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 22,
+      "label": "PARTS_17",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 23,
+      "label": "PARTS_18",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 24,
+      "label": "DECAL01",
+      "style": 18,
+      "name": "BLADE"
+    },
+    {
+      "$id": 25,
+      "label": "DECAL02",
+      "style": 18,
+      "name": "ECP (Project Exodus)"
+    },
+    {
+      "$id": 26,
+      "label": "DECAL03",
+      "style": 16,
+      "name": "Pathfinders"
+    },
+    {
+      "$id": 27,
+      "label": "DECAL04",
+      "style": 16,
+      "name": "Interceptors"
+    },
+    {
+      "$id": 28,
+      "label": "DECAL05",
+      "style": 16,
+      "name": "Harriers"
+    },
+    {
+      "$id": 29,
+      "label": "DECAL06",
+      "style": 16,
+      "name": "Reclaimers"
+    },
+    {
+      "$id": 30,
+      "label": "DECAL07",
+      "style": 16,
+      "name": "Curators"
+    },
+    {
+      "$id": 31,
+      "label": "DECAL08",
+      "style": 16,
+      "name": "Prospectors"
+    },
+    {
+      "$id": 32,
+      "label": "DECAL09",
+      "style": 16,
+      "name": "Outfitters"
+    },
+    {
+      "$id": 33,
+      "label": "DECAL10",
+      "style": 16,
+      "name": "Mediators"
+    },
+    {
+      "$id": 34,
+      "label": "DECAL11",
+      "style": 15,
+      "name": "Sakuraba Industries"
+    },
+    {
+      "$id": 35,
+      "label": "DECAL12",
+      "style": 15,
+      "name": "Grenada Galactic Group"
+    },
+    {
+      "$id": 36,
+      "label": "DECAL13",
+      "style": 15,
+      "name": "Meredith & Co."
+    },
+    {
+      "$id": 37,
+      "label": "DECAL14",
+      "style": 15,
+      "name": "Factory 1.21"
+    },
+    {
+      "$id": 38,
+      "label": "DECAL15",
+      "style": 15,
+      "name": "Six Stars"
+    },
+    {
+      "$id": 39,
+      "label": "DECAL16",
+      "style": 15,
+      "name": "Nopon Commerce Guild"
+    },
+    {
+      "$id": 40,
+      "label": "DECAL17",
+      "style": 15,
+      "name": "Candid & Credible"
+    },
+    {
+      "$id": 41,
+      "label": "DECAL18",
+      "style": 15,
+      "name": "Orphean Technologies"
+    },
+    {
+      "$id": 42,
+      "label": "DECAL19",
+      "style": 18,
+      "name": "\"Machine\" Art"
+    },
+    {
+      "$id": 43,
+      "label": "DECAL20",
+      "style": 18,
+      "name": "\"God\" Art"
+    },
+    {
+      "$id": 44,
+      "label": "DECAL21",
+      "style": 18,
+      "name": "Welcome to BLADE"
+    },
+    {
+      "$id": 45,
+      "label": "DECAL22",
+      "style": 18,
+      "name": "Seraphic Nopon"
+    },
+    {
+      "$id": 46,
+      "label": "DECAL23",
+      "style": 18,
+      "name": "Chibi Skells"
+    },
+    {
+      "$id": 47,
+      "label": "DECAL24",
+      "style": 18,
+      "name": "Verus"
+    },
+    {
+      "$id": 48,
+      "label": "DECAL25",
+      "style": 18,
+      "name": "Poster 1"
+    },
+    {
+      "$id": 49,
+      "label": "DECAL26",
+      "style": 18,
+      "name": "Poster 2"
+    },
+    {
+      "$id": 50,
+      "label": "DECAL27",
+      "style": 18,
+      "name": "Poster 3"
+    },
+    {
+      "$id": 51,
+      "label": "DECAL28",
+      "style": 18,
+      "name": "Poster 4"
+    },
+    {
+      "$id": 52,
+      "label": "DECAL29",
+      "style": 18,
+      "name": "Poster 5"
+    },
+    {
+      "$id": 53,
+      "label": "DECAL30",
+      "style": 18,
+      "name": "Poster 6"
+    },
+    {
+      "$id": 54,
+      "label": "DECAL31",
+      "style": 18,
+      "name": "Home, Sweet Home"
+    },
+    {
+      "$id": 55,
+      "label": "DECAL32",
+      "style": 18,
+      "name": "\"X\" Art"
+    },
+    {
+      "$id": 56,
+      "label": "DECAL33",
+      "style": 18,
+      "name": "Sakuraba Industries Ad"
+    },
+    {
+      "$id": 57,
+      "label": "DECAL34",
+      "style": 18,
+      "name": "Grenada Galactic Ad"
+    },
+    {
+      "$id": 58,
+      "label": "DECAL35",
+      "style": 18,
+      "name": "Candid & Credible Ad"
+    },
+    {
+      "$id": 59,
+      "label": "DECAL36",
+      "style": 18,
+      "name": "Orphean Technologies Ad"
+    },
+    {
+      "$id": 60,
+      "label": "DECAL37",
+      "style": 18,
+      "name": "01 Decal"
+    },
+    {
+      "$id": 61,
+      "label": "DECAL38",
+      "style": 18,
+      "name": "02 Decal"
+    },
+    {
+      "$id": 62,
+      "label": "DECAL39",
+      "style": 18,
+      "name": "03 Decal"
+    },
+    {
+      "$id": 63,
+      "label": "DECAL40",
+      "style": 18,
+      "name": "04 Decal"
+    },
+    {
+      "$id": 64,
+      "label": "DECAL41",
+      "style": 18,
+      "name": "05 Decal"
+    },
+    {
+      "$id": 65,
+      "label": "DECAL42",
+      "style": 18,
+      "name": "06 Decal"
+    },
+    {
+      "$id": 66,
+      "label": "DECAL43",
+      "style": 18,
+      "name": "07 Decal"
+    },
+    {
+      "$id": 67,
+      "label": "DECAL44",
+      "style": 18,
+      "name": "08 Decal"
+    },
+    {
+      "$id": 68,
+      "label": "DECAL45",
+      "style": 18,
+      "name": "09 Decal"
+    },
+    {
+      "$id": 69,
+      "label": "DECAL46",
+      "style": 18,
+      "name": "Meredith & Co. Ad"
+    },
+    {
+      "$id": 70,
+      "label": "DECAL47",
+      "style": 18,
+      "name": "Six Stars Ad"
+    },
+    {
+      "$id": 71,
+      "label": "LIGHT01",
+      "style": 11,
+      "name": "Lighting 1"
+    },
+    {
+      "$id": 72,
+      "label": "LIGHT02",
+      "style": 11,
+      "name": "Lighting 2"
+    },
+    {
+      "$id": 73,
+      "label": "LIGHT03",
+      "style": 11,
+      "name": "Lighting 3"
+    },
+    {
+      "$id": 74,
+      "label": "PET_01",
+      "style": 14,
+      "name": "Silver Tabby"
+    },
+    {
+      "$id": 75,
+      "label": "PET_02",
+      "style": 14,
+      "name": "Abyssinian"
+    },
+    {
+      "$id": 76,
+      "label": "PET_03",
+      "style": 14,
+      "name": "Calico"
+    },
+    {
+      "$id": 77,
+      "label": "PET_04",
+      "style": 14,
+      "name": "Labrador"
+    },
+    {
+      "$id": 78,
+      "label": "PET_05",
+      "style": 14,
+      "name": "Dalmatian"
+    },
+    {
+      "$id": 79,
+      "label": "PET_06",
+      "style": 14,
+      "name": "Beagle"
+    },
+    {
+      "$id": 80,
+      "label": "DECAL48",
+      "style": 18,
+      "name": "Mira Survey Complete"
+    }
+  ]
+}

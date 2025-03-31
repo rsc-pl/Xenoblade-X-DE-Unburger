@@ -1,0 +1,462 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev016802_JNK0010",
+      "style": 4,
+      "name": "Inquire[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev016802_SEL0011",
+      "style": 3,
+      "name": "Ask Quentin about FrontierNav.[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev016802_JNK0020",
+      "style": 1,
+      "name": "Discuss[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev016802_SEL0021",
+      "style": 3,
+      "name": ""
+    },
+    {
+      "$id": 5,
+      "label": "tev016802_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 6,
+      "label": "tev016802_SEL0031",
+      "style": 1,
+      "name": "Ask Quentin to tell you more about data probes.[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "tev016802_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 8,
+      "label": "tev016802_SEL0041",
+      "style": 3,
+      "name": "Ask Quentin if anything is troubling him.[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "tev016802_MSG0001",
+      "style": 1,
+      "name": "Our current system for expanding FrontierNav is to\ndisplay the pre-calculated optimal sites as markers\non the map for data probes to be placed at.[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "tev016802_MSG0002",
+      "style": 1,
+      "name": "But I understand that some FrontierNav data probe\nplacement sites can be quite difficult for BLADEs on\nthe ground to find.[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev016802_MSG0003",
+      "style": 1,
+      "name": "I get lots of requests to pick more accessible placement\nsites.[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "tev016802_MSG0004",
+      "style": 1,
+      "name": "However, I'm already at the end of my rope just trying\nto keep FrontierNav up and running. So I wish people\nwould stop asking for things I can't possibly do![ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "tev016802_MSG0007",
+      "style": 1,
+      "name": "I mainly do FrontierNav-related system engineering\nwork, you know?[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "tev016802_MSG0008",
+      "style": 1,
+      "name": "Day after day after day, I pull overtime, fighting\nendless battles with massive volumes of data...\nHonestly, I'm at my breaking point.[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "tev016802_MSG0009",
+      "style": 1,
+      "name": "I mean, sure, I know we civilians aren't out there\nputting our lives on the line like BLADE.[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "tev016802_MSG0010",
+      "style": 1,
+      "name": "And I know we're short handed! I know all of that...\nBut what's rough is still rough.[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "tev016802_MSG0011",
+      "style": 1,
+      "name": "If this keeps up, I'm going to burn out.\n*sigh* I'd better go ask her for advice soon...[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "tev016802_MSG0019",
+      "style": 1,
+      "name": "Thanks to BLADE's efforts, we've come to understand\na little bit more about Mira.[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "tev016802_MSG0020",
+      "style": 1,
+      "name": "When we first landed here, we knew next to nothing\nabout the world outside our walls, and no one was\nsure that we'd even be able to survive.[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "tev016802_MSG0021",
+      "style": 1,
+      "name": "That's what spurred us to develop the upgraded,\ninformation-gathering data probes known as \"research\nprobes\"—and why we made that data viewable to all.[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "tev016802_MSG0022",
+      "style": 1,
+      "name": "Now everyone can use FrontierNav to learn about\nMira, and scientists can put its data to good use\nin their research.[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "tev016802_MSG0023",
+      "style": 1,
+      "name": "It's a major pain to manage the vast quantity of data\nthe probes are collecting, but at least the value we're\ngetting out of it makes the trouble worthwhile.[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "tev016802_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 24,
+      "label": "tev016802_SEL0011",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 25,
+      "label": "tev016802_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 26,
+      "label": "tev016802_SEL0051",
+      "style": 1,
+      "name": "Ask Quentin about recent developments.[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "tev016802_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 28,
+      "label": "tev016802_SEL0031",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 29,
+      "label": "tev016802_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 30,
+      "label": "tev016802_SEL0051",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 31,
+      "label": "tev016802_MSG0024",
+      "style": 1,
+      "name": "So I hear that you and Hope have gotten pretty...close.[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "tev016802_MSG0025",
+      "style": 1,
+      "name": "You know she belongs to all of us, right?\nIt isn't fair for you to monopolize her.[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "tev016802_MSG0026",
+      "style": 1,
+      "name": "...What? SHE approached YOU?[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "tev016802_MSG0027",
+      "style": 1,
+      "name": "Dammit, no! NO! I refuse to accept that![ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "tev016802_MSG0030",
+      "style": 1,
+      "name": "It is always a joy and a pleasure to speak to you,\nHope. Let me thank you again for your wise counsel.[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "tev016802_MSG0031",
+      "style": 1,
+      "name": "Might I invite you out again today, perhaps?\nThere's a matter I'd love to get your input on.[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "tev016802_MSG0032",
+      "style": 1,
+      "name": "Er, I'm sorry, but I'm on an important mission today.\nI don't think I'd be able to fit that into my schedule.[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "tev016802_MSG0033",
+      "style": 1,
+      "name": "But if you tell Ornella what's troubling you,\nI promise to arrange some time soon.[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "tev016802_MSG0034",
+      "style": 1,
+      "name": "It would be my deepest pleasure!\nI await word of your availability with bated breath.[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "tev016802_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 41,
+      "label": "tev016802_SEL0011",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 42,
+      "label": "tev016802_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 43,
+      "label": "tev016802_SEL0051",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 44,
+      "label": "tev016802_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 45,
+      "label": "tev016802_SEL0031",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 46,
+      "label": "tev016802_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 47,
+      "label": "tev016802_SEL0061",
+      "style": 3,
+      "name": "Ask Quentin about recent developments.[ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "tev016802_MSG0035",
+      "style": 1,
+      "name": "Lately, Hope hasn't seemed to be in very high spirits.\nI can't imagine what's going on.[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "tev016802_MSG0036",
+      "style": 1,
+      "name": "And Ornella seems to have disappeared completely!\nI wonder what happened...?[ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "tev016802_MSG0037",
+      "style": 1,
+      "name": "Hope has been such a huge help to me.\nIf she needs aid herself, I would do anything for her.\n...ANYTHING.[ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "tev016802_MSG0038",
+      "style": 1,
+      "name": "Not that there's something a nobody like me could do\nto help an amazing person like her...[ST:wait ]"
+    },
+    {
+      "$id": 52,
+      "label": "tev016802_MSG0041",
+      "style": 1,
+      "name": "Oh, Hope! It's you! I've been meaning to talk to\nyou because I haven't seen Ornella around lately.\nIs everything okay?[ST:wait ]"
+    },
+    {
+      "$id": 53,
+      "label": "tev016802_MSG0042",
+      "style": 1,
+      "name": "O-Ornella? Well, I'm afraid she... Um...[ST:wait ]"
+    },
+    {
+      "$id": 54,
+      "label": "tev016802_MSG0043",
+      "style": 1,
+      "name": "......[ST:wait ]"
+    },
+    {
+      "$id": 55,
+      "label": "tev016802_MSG0044",
+      "style": 1,
+      "name": "Oh no! Forgive me, Hope! If it's something difficult\nfor you to talk about, you don't need to tell me\nanything.[ST:wait ]"
+    },
+    {
+      "$id": 56,
+      "label": "tev016802_MSG0045",
+      "style": 1,
+      "name": "I'm sure she's just...taking a long vacation!\nYes. That must be it.[ST:wait ]"
+    },
+    {
+      "$id": 57,
+      "label": "tev016802_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 58,
+      "label": "tev016802_SEL0011",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 59,
+      "label": "tev016802_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 60,
+      "label": "tev016802_SEL0051",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 61,
+      "label": "tev016802_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 62,
+      "label": "tev016802_SEL0031",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 63,
+      "label": "tev016802_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 64,
+      "label": "tev016802_SEL0071",
+      "style": 3,
+      "name": "Ask Quentin about recent developments.[ST:wait ]"
+    },
+    {
+      "$id": 65,
+      "label": "tev016802_MSG0046",
+      "style": 1,
+      "name": "I did a little hacking to help Hope find what she was\nlooking for.[ST:wait ]"
+    },
+    {
+      "$id": 66,
+      "label": "tev016802_MSG0047",
+      "style": 1,
+      "name": "But my boss figured out what I'd done and came\ndown on me like a ton of bricks.[ST:wait ]"
+    },
+    {
+      "$id": 67,
+      "label": "tev016802_MSG0048",
+      "style": 1,
+      "name": "Fortunately, he owed Hope a favor or two himself,\nso when I told him why I'd done it, he said that he\nwould have done the same in my position.[ST:wait ]"
+    },
+    {
+      "$id": 68,
+      "label": "tev016802_MSG0049",
+      "style": 1,
+      "name": "Hope really is such an incredible person.\nShe's like the goddess of New LA.[ST:wait ]"
+    },
+    {
+      "$id": 69,
+      "label": "tev016802_MSG0052",
+      "style": 1,
+      "name": "Say, Hope? Do you ever give advice to my...boss?[ST:wait ]"
+    },
+    {
+      "$id": 70,
+      "label": "tev016802_MSG0053",
+      "style": 1,
+      "name": "I only ask because I brought you up the other day,\nand he got very excited.[ST:wait ]"
+    },
+    {
+      "$id": 71,
+      "label": "tev016802_MSG0054",
+      "style": 1,
+      "name": "Why yes, Quentin. After we spoke about your working\nconditions, I went to your boss in an effort to improve\nthem.[ST:wait ]"
+    },
+    {
+      "$id": 72,
+      "label": "tev016802_MSG0055",
+      "style": 1,
+      "name": "He mentioned that he was having problems with his\nmimeosome, so I introduced him to a good\nmaintenance technician.[ST:wait ]"
+    },
+    {
+      "$id": 73,
+      "label": "tev016802_MSG0056",
+      "style": 1,
+      "name": "Ah, that explains it! Thank you so much!\nMy boss is still stubborn, but we've been getting along\nmuch better recently, and now I know why.[ST:wait ]"
+    },
+    {
+      "$id": 74,
+      "label": "tev016802_MSG0057",
+      "style": 1,
+      "name": "I can't thank you enough. I really hope we can talk\nlike that again sometime.[ST:wait ]"
+    }
+  ]
+}

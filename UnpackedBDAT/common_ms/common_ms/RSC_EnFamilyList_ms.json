@@ -1,0 +1,66 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "EN_FAMILY00",
+      "style": 15,
+      "name": ""
+    },
+    {
+      "$id": 2,
+      "label": "EN_FAMILY_BEAST",
+      "style": 15,
+      "name": "Theroids"
+    },
+    {
+      "$id": 3,
+      "label": "EN_FAMILY_INSECT",
+      "style": 15,
+      "name": "Insectoids"
+    },
+    {
+      "$id": 4,
+      "label": "EN_FAMILY_FLGHT",
+      "style": 15,
+      "name": "Piscinoids"
+    },
+    {
+      "$id": 5,
+      "label": "EN_FAMILY_HUMANOID",
+      "style": 15,
+      "name": "Humanoids"
+    },
+    {
+      "$id": 6,
+      "label": "EN_FAMILY_MACHINE",
+      "style": 15,
+      "name": "Mechanoids"
+    },
+    {
+      "$id": 7,
+      "label": "EN_FAMILY_KIMERA",
+      "style": 15,
+      "name": "Chimeroids"
+    },
+    {
+      "$id": 8,
+      "label": "EN_FAMILY_NEO",
+      "style": 15,
+      "name": "Ultrafauna"
+    }
+  ]
+}

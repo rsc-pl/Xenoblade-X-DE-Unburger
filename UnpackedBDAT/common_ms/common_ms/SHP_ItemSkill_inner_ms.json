@@ -1,0 +1,2466 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "SHP_ITM_SKL_IN_CAT_STATUS_UP_name",
+      "style": 18,
+      "name": "Stat Augments"
+    },
+    {
+      "$id": 2,
+      "label": "SHP_ITM_SKL_IN_CAT_DOLL_UP_name",
+      "style": 18,
+      "name": "Skell Augments"
+    },
+    {
+      "$id": 3,
+      "label": "SHP_ITM_SKL_IN_CAT_BLOCK_DMG_name",
+      "style": 18,
+      "name": "Attribute Res Augments"
+    },
+    {
+      "$id": 4,
+      "label": "SHP_ITM_SKL_IN_CAT_WP_SPEC_name",
+      "style": 18,
+      "name": "Weapon Mod Augments"
+    },
+    {
+      "$id": 5,
+      "label": "SHP_ITM_SKL_IN_CAT_RESIST_DEBUFF_name",
+      "style": 18,
+      "name": "Debuff Res Augments"
+    },
+    {
+      "$id": 6,
+      "label": "SHP_ITM_SKL_IN_CAT_CRTC_UP_name",
+      "style": 18,
+      "name": "Critical Augments"
+    },
+    {
+      "$id": 7,
+      "label": "SHP_ITM_SKL_IN_CAT_FAMILY_KILLER_name",
+      "style": 18,
+      "name": "Enemy Exploit Augments"
+    },
+    {
+      "$id": 8,
+      "label": "SHP_ITM_SKL_IN_CAT_ATK_UP_name",
+      "style": 18,
+      "name": "Attack Augments"
+    },
+    {
+      "$id": 9,
+      "label": "SHP_ITM_SKL_IN_CAT_REC_DMG_name",
+      "style": 18,
+      "name": "Antidamage Augments"
+    },
+    {
+      "$id": 10,
+      "label": "SHP_ITM_SKL_IN_CAT_OCG_name",
+      "style": 18,
+      "name": "Overdrive Augments"
+    },
+    {
+      "$id": 11,
+      "label": "SHP_ITM_SKL_IN_CAT_ARTS_SPEC_name",
+      "style": 18,
+      "name": "Art Mod Augments"
+    },
+    {
+      "$id": 12,
+      "label": "SHP_ITM_SKL_IN_CAT_SOULVOICE_name",
+      "style": 18,
+      "name": "Soul Voice Augments"
+    },
+    {
+      "$id": 13,
+      "label": "SHP_ITM_SKL_IN_CAT_SPECIAL_name",
+      "style": 18,
+      "name": "Special Augments"
+    },
+    {
+      "$id": 14,
+      "label": "SHP_ITM_SKL_IN_CAT_WEATHER_name",
+      "style": 18,
+      "name": "Anticlimate Augments"
+    },
+    {
+      "$id": 15,
+      "label": "SHP_ITM_SKL_IN_HPMAX01_P_name",
+      "style": 18,
+      "name": "Max HP Up"
+    },
+    {
+      "$id": 16,
+      "label": "SHP_ITM_SKL_IN_TPMAX01_P_name",
+      "style": 18,
+      "name": "Max TP Up"
+    },
+    {
+      "$id": 17,
+      "label": "SHP_ITM_SKL_IN_F_DEX01_P_name",
+      "style": 18,
+      "name": "Melee Accuracy Up"
+    },
+    {
+      "$id": 18,
+      "label": "SHP_ITM_SKL_IN_S_DEX01_P_name",
+      "style": 18,
+      "name": "Ranged Accuracy Up"
+    },
+    {
+      "$id": 19,
+      "label": "SHP_ITM_SKL_IN_EVA01_P_name",
+      "style": 18,
+      "name": "Evasion Up"
+    },
+    {
+      "$id": 20,
+      "label": "SHP_ITM_SKL_IN_F_POW01_P_name",
+      "style": 18,
+      "name": "Melee Attack Up"
+    },
+    {
+      "$id": 21,
+      "label": "SHP_ITM_SKL_IN_S_POW01_P_name",
+      "style": 18,
+      "name": "Ranged Attack Up"
+    },
+    {
+      "$id": 22,
+      "label": "SHP_ITM_SKL_IN_M_POW01_P_name",
+      "style": 18,
+      "name": "Potential Up"
+    },
+    {
+      "$id": 23,
+      "label": "SHP_ITM_SKL_IN_HPMAX01_R_name",
+      "style": 18,
+      "name": "Max HP Boost"
+    },
+    {
+      "$id": 24,
+      "label": "SHP_ITM_SKL_IN_TPMAX01_R_name",
+      "style": 18,
+      "name": "Max TP Boost"
+    },
+    {
+      "$id": 25,
+      "label": "SHP_ITM_SKL_IN_F_DEX01_R_name",
+      "style": 18,
+      "name": "Melee Accuracy Boost"
+    },
+    {
+      "$id": 26,
+      "label": "SHP_ITM_SKL_IN_S_DEX01_R_name",
+      "style": 18,
+      "name": "Ranged Accuracy Boost"
+    },
+    {
+      "$id": 27,
+      "label": "SHP_ITM_SKL_IN_EVA01_R_name",
+      "style": 18,
+      "name": "Evasion Boost"
+    },
+    {
+      "$id": 28,
+      "label": "SHP_ITM_SKL_IN_F_ROW01_R_name",
+      "style": 18,
+      "name": "Melee Attack Boost"
+    },
+    {
+      "$id": 29,
+      "label": "SHP_ITM_SKL_IN_S_ROW01_R_name",
+      "style": 18,
+      "name": "Ranged Attack Boost"
+    },
+    {
+      "$id": 30,
+      "label": "SHP_ITM_SKL_IN_M_ROW01_R_name",
+      "style": 18,
+      "name": "Potential Boost"
+    },
+    {
+      "$id": 31,
+      "label": "SHP_ITM_SKL_IN_HPMAX01_DL_name",
+      "style": 18,
+      "name": "Max HP Drive"
+    },
+    {
+      "$id": 32,
+      "label": "SHP_ITM_SKL_IN_TPMAX01_DL_name",
+      "style": 18,
+      "name": "Max GP Drive"
+    },
+    {
+      "$id": 33,
+      "label": "SHP_ITM_SKL_IN_F_DEX01_DL_name",
+      "style": 18,
+      "name": "Melee Accuracy Drive"
+    },
+    {
+      "$id": 34,
+      "label": "SHP_ITM_SKL_IN_S_DEX01_DL_name",
+      "style": 18,
+      "name": "Ranged Accuracy Drive"
+    },
+    {
+      "$id": 35,
+      "label": "SHP_ITM_SKL_IN_EVA01_DL_name",
+      "style": 18,
+      "name": "Evasion Drive"
+    },
+    {
+      "$id": 36,
+      "label": "SHP_ITM_SKL_IN_F_POW01_DL_name",
+      "style": 18,
+      "name": "Melee Attack Drive"
+    },
+    {
+      "$id": 37,
+      "label": "SHP_ITM_SKL_IN_S_POW01_DL_name",
+      "style": 18,
+      "name": "Ranged Attack Drive"
+    },
+    {
+      "$id": 38,
+      "label": "SHP_ITM_SKL_IN_M_POW01_DL_name",
+      "style": 18,
+      "name": "Potential Drive"
+    },
+    {
+      "$id": 39,
+      "label": "SHP_ITM_SKL_IN_CATCH_FUEL01_DL_name",
+      "style": 18,
+      "name": "Bind: Refuel"
+    },
+    {
+      "$id": 40,
+      "label": "SHP_ITM_SKL_IN_ECO_FUEL01_DL_name",
+      "style": 18,
+      "name": "Fuel Efficiency Up"
+    },
+    {
+      "$id": 41,
+      "label": "SHP_ITM_SKL_IN_ANTI_PH01_P_name",
+      "style": 18,
+      "name": "Physical Res Up"
+    },
+    {
+      "$id": 42,
+      "label": "SHP_ITM_SKL_IN_ANTI_BM01_P_name",
+      "style": 18,
+      "name": "Beam Res Up"
+    },
+    {
+      "$id": 43,
+      "label": "SHP_ITM_SKL_IN_ANTI_TH01_P_name",
+      "style": 18,
+      "name": "Electric Res Up"
+    },
+    {
+      "$id": 44,
+      "label": "SHP_ITM_SKL_IN_ANTI_FR01_P_name",
+      "style": 18,
+      "name": "Thermal Res Up"
+    },
+    {
+      "$id": 45,
+      "label": "SHP_ITM_SKL_IN_ANTI_ET01_P_name",
+      "style": 18,
+      "name": "Ether Res Up"
+    },
+    {
+      "$id": 46,
+      "label": "SHP_ITM_SKL_IN_ANTI_GR01_P_name",
+      "style": 18,
+      "name": "Gravity Res Up"
+    },
+    {
+      "$id": 47,
+      "label": "SHP_ITM_SKL_IN_CTM_POW01_name",
+      "style": 18,
+      "name": "Weapon Attack Power Up"
+    },
+    {
+      "$id": 48,
+      "label": "SHP_ITM_SKL_IN_CTM_BAL01_name",
+      "style": 18,
+      "name": "Stabilizer"
+    },
+    {
+      "$id": 49,
+      "label": "SHP_ITM_SKL_IN_CTM_BRK01_name",
+      "style": 18,
+      "name": "Destabilizer"
+    },
+    {
+      "$id": 50,
+      "label": "SHP_ITM_SKL_IN_CTM_MAG01_name",
+      "style": 18,
+      "name": "Magazine Capacity Up"
+    },
+    {
+      "$id": 51,
+      "label": "SHP_ITM_SKL_IN_CTM_F_TP00_name",
+      "style": 18,
+      "name": "Melee: TP Gain Up"
+    },
+    {
+      "$id": 52,
+      "label": "SHP_ITM_SKL_IN_CTM_S_TP00_name",
+      "style": 18,
+      "name": "Ranged: TP Gain Up"
+    },
+    {
+      "$id": 53,
+      "label": "SHP_ITM_SKL_IN_CTM_SPD01_name",
+      "style": 18,
+      "name": "Cooldown Reducer"
+    },
+    {
+      "$id": 54,
+      "label": "SHP_ITM_SKL_IN_CTM_RNG01_name",
+      "style": 18,
+      "name": "Firing Range Up"
+    },
+    {
+      "$id": 55,
+      "label": "SHP_ITM_SKL_IN_REG_BREAK01_name",
+      "style": 18,
+      "name": "Resist Stagger"
+    },
+    {
+      "$id": 56,
+      "label": "SHP_ITM_SKL_IN_REG_FLINCH01_name",
+      "style": 18,
+      "name": "Resist Flinch"
+    },
+    {
+      "$id": 57,
+      "label": "SHP_ITM_SKL_IN_REG_DOWN01_name",
+      "style": 18,
+      "name": "Resist Topple"
+    },
+    {
+      "$id": 58,
+      "label": "SHP_ITM_SKL_IN_REG_KNOCK01_name",
+      "style": 18,
+      "name": "Resist Knockback"
+    },
+    {
+      "$id": 59,
+      "label": "SHP_ITM_SKL_IN_REG_BLOW01_name",
+      "style": 18,
+      "name": "Resist Launch"
+    },
+    {
+      "$id": 60,
+      "label": "SHP_ITM_SKL_IN_REG_STAN01_name",
+      "style": 18,
+      "name": "Resist Stun"
+    },
+    {
+      "$id": 61,
+      "label": "SHP_ITM_SKL_IN_REG_SLEEP01_name",
+      "style": 18,
+      "name": "Resist Sleep"
+    },
+    {
+      "$id": 62,
+      "label": "SHP_ITM_SKL_IN_REG_TAUNT01_name",
+      "style": 18,
+      "name": "Resist Taunt"
+    },
+    {
+      "$id": 63,
+      "label": "SHP_ITM_SKL_IN_REG_CTR01_name",
+      "style": 18,
+      "name": "Resist Control"
+    },
+    {
+      "$id": 64,
+      "label": "SHP_ITM_SKL_IN_REG_VIRSUS01_name",
+      "style": 18,
+      "name": "Resist Virus"
+    },
+    {
+      "$id": 65,
+      "label": "SHP_ITM_SKL_IN_REG_BLACK01_name",
+      "style": 18,
+      "name": "Resist Blackout"
+    },
+    {
+      "$id": 66,
+      "label": "SHP_ITM_SKL_IN_REG_POWDN01_name",
+      "style": 18,
+      "name": "Resist Fatigue"
+    },
+    {
+      "$id": 67,
+      "label": "SHP_ITM_SKL_IN_REG_ASLOW01_name",
+      "style": 18,
+      "name": "Resist Slow Arts"
+    },
+    {
+      "$id": 68,
+      "label": "SHP_ITM_SKL_IN_REG_PH_DN01_name",
+      "style": 18,
+      "name": "Resist Physical Res Down"
+    },
+    {
+      "$id": 69,
+      "label": "SHP_ITM_SKL_IN_REG_BM_DN01_name",
+      "style": 18,
+      "name": "Resist Beam Res Down"
+    },
+    {
+      "$id": 70,
+      "label": "SHP_ITM_SKL_IN_REG_FR_DN01_name",
+      "style": 18,
+      "name": "Resist Thermal Res Down"
+    },
+    {
+      "$id": 71,
+      "label": "SHP_ITM_SKL_IN_REG_TH_DN01_name",
+      "style": 18,
+      "name": "Resist Electric Res Down"
+    },
+    {
+      "$id": 72,
+      "label": "SHP_ITM_SKL_IN_REG_ET_DN01_name",
+      "style": 18,
+      "name": "Resist Ether Res Down"
+    },
+    {
+      "$id": 73,
+      "label": "SHP_ITM_SKL_IN_REG_GR_DN01_name",
+      "style": 18,
+      "name": "Resist Gravity Res Down"
+    },
+    {
+      "$id": 74,
+      "label": "SHP_ITM_SKL_IN_REG_CTBOM01_name",
+      "style": 18,
+      "name": "Resist Time Bomb"
+    },
+    {
+      "$id": 75,
+      "label": "SHP_ITM_SKL_IN_REG_DEBDN01_name",
+      "style": 18,
+      "name": "Resist Debuff Res Down"
+    },
+    {
+      "$id": 76,
+      "label": "SHP_ITM_SKL_IN_REG_HP_HEALDN01_name",
+      "style": 18,
+      "name": "Resist HP Recovery Down"
+    },
+    {
+      "$id": 77,
+      "label": "SHP_ITM_SKL_IN_REG_FR_DOT01_name",
+      "style": 18,
+      "name": "Resist Blaze"
+    },
+    {
+      "$id": 78,
+      "label": "SHP_ITM_SKL_IN_REG_TH_DOT01_name",
+      "style": 18,
+      "name": "Resist Shock"
+    },
+    {
+      "$id": 79,
+      "label": "SHP_ITM_SKL_IN_REG_TIME01_name",
+      "style": 18,
+      "name": "Debuff Suppressor"
+    },
+    {
+      "$id": 80,
+      "label": "SHP_ITM_SKL_IN_CRTC_R_ALL01_name",
+      "style": 18,
+      "name": "Critical Chance Up"
+    },
+    {
+      "$id": 81,
+      "label": "SHP_ITM_SKL_IN_CRTC_R_BEAST01_name",
+      "style": 18,
+      "name": "Theroid Criticals Up"
+    },
+    {
+      "$id": 82,
+      "label": "SHP_ITM_SKL_IN_CRTC_R_INSECT01_name",
+      "style": 18,
+      "name": "Insectoid Criticals Up"
+    },
+    {
+      "$id": 83,
+      "label": "SHP_ITM_SKL_IN_CRTC_R_MEGAFLY01_name",
+      "style": 18,
+      "name": "Piscinoid Criticals Up"
+    },
+    {
+      "$id": 84,
+      "label": "SHP_ITM_SKL_IN_CRTC_R_ALIEN01_name",
+      "style": 18,
+      "name": "Humanoid Criticals Up"
+    },
+    {
+      "$id": 85,
+      "label": "SHP_ITM_SKL_IN_CRTC_R_MACHINE01_name",
+      "style": 18,
+      "name": "Mechanoid Criticals Up"
+    },
+    {
+      "$id": 86,
+      "label": "SHP_ITM_SKL_IN_CRTC_R_KIMERA01_name",
+      "style": 18,
+      "name": "Chimeroid Criticals Up"
+    },
+    {
+      "$id": 87,
+      "label": "SHP_ITM_SKL_IN_CRTC_R_TERESIA01_name",
+      "style": 18,
+      "name": "Ultrafauna Criticals Up"
+    },
+    {
+      "$id": 88,
+      "label": "SHP_ITM_SKL_IN_CRTC_P_STAGE01_name",
+      "style": 18,
+      "name": "Extend Critical Power"
+    },
+    {
+      "$id": 89,
+      "label": "SHP_ITM_SKL_IN_CRTC_R_ZERO00_name",
+      "style": 18,
+      "name": ""
+    },
+    {
+      "$id": 90,
+      "label": "SHP_ITM_SKL_IN_KILL_BEAST01_name",
+      "style": 18,
+      "name": "Theroid Slayer"
+    },
+    {
+      "$id": 91,
+      "label": "SHP_ITM_SKL_IN_KILL_INSECT01_name",
+      "style": 18,
+      "name": "Insectoid Slayer"
+    },
+    {
+      "$id": 92,
+      "label": "SHP_ITM_SKL_IN_KILL_MEGAFLY01_name",
+      "style": 18,
+      "name": "Piscinoid Slayer"
+    },
+    {
+      "$id": 93,
+      "label": "SHP_ITM_SKL_IN_KILL_ALIEN01_name",
+      "style": 18,
+      "name": "Humanoid Slayer"
+    },
+    {
+      "$id": 94,
+      "label": "SHP_ITM_SKL_IN_KILL_MACHINE01_name",
+      "style": 18,
+      "name": "Mechanoid Slayer"
+    },
+    {
+      "$id": 95,
+      "label": "SHP_ITM_SKL_IN_KILL_KIMERA01_name",
+      "style": 18,
+      "name": "Chimeroid Slayer"
+    },
+    {
+      "$id": 96,
+      "label": "SHP_ITM_SKL_IN_KILL_TERESIA01_name",
+      "style": 18,
+      "name": "Ultrafauna Slayer"
+    },
+    {
+      "$id": 97,
+      "label": "SHP_ITM_SKL_IN_ATK_PH01_name",
+      "style": 18,
+      "name": "Physical Attack Plus"
+    },
+    {
+      "$id": 98,
+      "label": "SHP_ITM_SKL_IN_ATK_BM01_name",
+      "style": 18,
+      "name": "Beam Attack Plus"
+    },
+    {
+      "$id": 99,
+      "label": "SHP_ITM_SKL_IN_ATK_ET01_name",
+      "style": 18,
+      "name": "Ether Attack Plus"
+    },
+    {
+      "$id": 100,
+      "label": "SHP_ITM_SKL_IN_ATK_FR01_name",
+      "style": 18,
+      "name": "Thermal Attack Plus"
+    },
+    {
+      "$id": 101,
+      "label": "SHP_ITM_SKL_IN_ATK_TH01_name",
+      "style": 18,
+      "name": "Electric Attack Plus"
+    },
+    {
+      "$id": 102,
+      "label": "SHP_ITM_SKL_IN_ATK_GR01_name",
+      "style": 18,
+      "name": "Gravity Attack Plus"
+    },
+    {
+      "$id": 103,
+      "label": "SHP_ITM_SKL_IN_ATK_FRONT01_name",
+      "style": 18,
+      "name": "Front Attack Plus"
+    },
+    {
+      "$id": 104,
+      "label": "SHP_ITM_SKL_IN_ATK_SIDE01_name",
+      "style": 18,
+      "name": "Side Attack Plus"
+    },
+    {
+      "$id": 105,
+      "label": "SHP_ITM_SKL_IN_ATK_BACK01_name",
+      "style": 18,
+      "name": "Back Attack Plus"
+    },
+    {
+      "$id": 106,
+      "label": "SHP_ITM_SKL_IN_ATK_HIGH01_name",
+      "style": 18,
+      "name": "Vantage Attack Plus"
+    },
+    {
+      "$id": 107,
+      "label": "SHP_ITM_SKL_IN_F_AT_BLACK01_name",
+      "style": 18,
+      "name": "Melee: Blackout"
+    },
+    {
+      "$id": 108,
+      "label": "SHP_ITM_SKL_IN_F_AT_POWDN01_name",
+      "style": 18,
+      "name": "Melee: Fatigue"
+    },
+    {
+      "$id": 109,
+      "label": "SHP_ITM_SKL_IN_F_AT_PH_DN01_name",
+      "style": 18,
+      "name": "Melee: Physical Res Down"
+    },
+    {
+      "$id": 110,
+      "label": "SHP_ITM_SKL_IN_F_AT_BM_DN01_name",
+      "style": 18,
+      "name": "Melee: Beam Res Down"
+    },
+    {
+      "$id": 111,
+      "label": "SHP_ITM_SKL_IN_F_AT_ET_DN01_name",
+      "style": 18,
+      "name": "Melee: Ether Res Down"
+    },
+    {
+      "$id": 112,
+      "label": "SHP_ITM_SKL_IN_F_AT_FR_DN01_name",
+      "style": 18,
+      "name": "Melee: Thermal Res Down"
+    },
+    {
+      "$id": 113,
+      "label": "SHP_ITM_SKL_IN_F_AT_TH_DN01_name",
+      "style": 18,
+      "name": "Melee: Electric Res Down"
+    },
+    {
+      "$id": 114,
+      "label": "SHP_ITM_SKL_IN_F_AT_GR_DN01_name",
+      "style": 18,
+      "name": "Melee: Gravity Res Down"
+    },
+    {
+      "$id": 115,
+      "label": "SHP_ITM_SKL_IN_F_AT_FR_DOT01_name",
+      "style": 18,
+      "name": "Melee: Blaze"
+    },
+    {
+      "$id": 116,
+      "label": "SHP_ITM_SKL_IN_F_AT_TH_DOT01_name",
+      "style": 18,
+      "name": "Melee: Shock"
+    },
+    {
+      "$id": 117,
+      "label": "SHP_ITM_SKL_IN_F_AT_HP_HEAL01_name",
+      "style": 18,
+      "name": "Melee: Recover HP"
+    },
+    {
+      "$id": 118,
+      "label": "SHP_ITM_SKL_IN_SLEEP_NO_WAKE01_name",
+      "style": 18,
+      "name": "Soft Touch"
+    },
+    {
+      "$id": 119,
+      "label": "SHP_ITM_SKL_IN_CT_HP01_name",
+      "style": 18,
+      "name": "HP Rebound"
+    },
+    {
+      "$id": 120,
+      "label": "SHP_ITM_SKL_IN_CT_TP01_name",
+      "style": 18,
+      "name": "TP Rebound"
+    },
+    {
+      "$id": 121,
+      "label": "SHP_ITM_SKL_IN_CT_TAUNT_DARM01_name",
+      "style": 18,
+      "name": "Taunt: Barrier"
+    },
+    {
+      "$id": 122,
+      "label": "SHP_ITM_SKL_IN_CT_TAUNT_FAKE01_name",
+      "style": 18,
+      "name": "Taunt: Decoy"
+    },
+    {
+      "$id": 123,
+      "label": "SHP_ITM_SKL_IN_CT_TAUNT_BULLET01_name",
+      "style": 18,
+      "name": "Taunt: Supercharge"
+    },
+    {
+      "$id": 124,
+      "label": "SHP_ITM_SKL_IN_CT_DOWN_DARM01_name",
+      "style": 18,
+      "name": "Topple: Barrier"
+    },
+    {
+      "$id": 125,
+      "label": "SHP_ITM_SKL_IN_CT_DOWN_FAKE01_name",
+      "style": 18,
+      "name": "Topple: Decoy"
+    },
+    {
+      "$id": 126,
+      "label": "SHP_ITM_SKL_IN_CT_STAN_DARM01_name",
+      "style": 18,
+      "name": "Stun: Barrier"
+    },
+    {
+      "$id": 127,
+      "label": "SHP_ITM_SKL_IN_CT_STAN_FAKE01_name",
+      "style": 18,
+      "name": "Stun: Decoy"
+    },
+    {
+      "$id": 128,
+      "label": "SHP_ITM_SKL_IN_REF_PLUS_PH00_name",
+      "style": 18,
+      "name": ""
+    },
+    {
+      "$id": 129,
+      "label": "SHP_ITM_SKL_IN_REF_PLUS_BM00_name",
+      "style": 18,
+      "name": ""
+    },
+    {
+      "$id": 130,
+      "label": "SHP_ITM_SKL_IN_REF_PLUS_ET00_name",
+      "style": 18,
+      "name": ""
+    },
+    {
+      "$id": 131,
+      "label": "SHP_ITM_SKL_IN_REF_PLUS_FR00_name",
+      "style": 18,
+      "name": ""
+    },
+    {
+      "$id": 132,
+      "label": "SHP_ITM_SKL_IN_REF_PLUS_TH00_name",
+      "style": 18,
+      "name": ""
+    },
+    {
+      "$id": 133,
+      "label": "SHP_ITM_SKL_IN_REF_PLUS_GR00_name",
+      "style": 18,
+      "name": ""
+    },
+    {
+      "$id": 134,
+      "label": "SHP_ITM_SKL_IN_REF_DMG_UP01_name",
+      "style": 18,
+      "name": "Reflect Damage Up"
+    },
+    {
+      "$id": 135,
+      "label": "SHP_ITM_SKL_IN_REF_ATK_PH01_name",
+      "style": 18,
+      "name": "Nullify Physical Reflect"
+    },
+    {
+      "$id": 136,
+      "label": "SHP_ITM_SKL_IN_REF_ATK_BM01_name",
+      "style": 18,
+      "name": "Nullify Beam Reflect"
+    },
+    {
+      "$id": 137,
+      "label": "SHP_ITM_SKL_IN_REF_ATK_ET01_name",
+      "style": 18,
+      "name": "Nullify Ether Reflect"
+    },
+    {
+      "$id": 138,
+      "label": "SHP_ITM_SKL_IN_REF_ATK_FR01_name",
+      "style": 18,
+      "name": "Nullify Thermal Reflect"
+    },
+    {
+      "$id": 139,
+      "label": "SHP_ITM_SKL_IN_REF_ATK_TH01_name",
+      "style": 18,
+      "name": "Nullify Electric Reflect"
+    },
+    {
+      "$id": 140,
+      "label": "SHP_ITM_SKL_IN_REF_ATK_GR01_name",
+      "style": 18,
+      "name": "Nullify Gravity Reflect"
+    },
+    {
+      "$id": 141,
+      "label": "SHP_ITM_SKL_IN_GEAR_ST_HP01_name",
+      "style": 18,
+      "name": "Overdrive: Recover HP"
+    },
+    {
+      "$id": 142,
+      "label": "SHP_ITM_SKL_IN_GEAR_ST_TP01_name",
+      "style": 18,
+      "name": "Overdrive: Gain TP"
+    },
+    {
+      "$id": 143,
+      "label": "SHP_ITM_SKL_IN_GEAR_ST_CNT01_name",
+      "style": 18,
+      "name": "Overdrive Count Up"
+    },
+    {
+      "$id": 144,
+      "label": "SHP_ITM_SKL_IN_GEAR_ST_TIME01_name",
+      "style": 18,
+      "name": "Extend Overdrive"
+    },
+    {
+      "$id": 145,
+      "label": "SHP_ITM_SKL_IN_GEAR_RULE_FS00_name",
+      "style": 18,
+      "name": "Overdrive Blue Bonus"
+    },
+    {
+      "$id": 146,
+      "label": "SHP_ITM_SKL_IN_GEAR_RULE_SF00_name",
+      "style": 18,
+      "name": "Overdrive Green Bonus"
+    },
+    {
+      "$id": 147,
+      "label": "SHP_ITM_SKL_IN_AURA_TIME01_name",
+      "style": 18,
+      "name": "Extend Aura"
+    },
+    {
+      "$id": 148,
+      "label": "SHP_ITM_SKL_IN_AURA_SPEED01_name",
+      "style": 18,
+      "name": "Aura Rapid Cooldown"
+    },
+    {
+      "$id": 149,
+      "label": "SHP_ITM_SKL_IN_AURA_DOLL01_name",
+      "style": 18,
+      "name": "Aura: Refuel"
+    },
+    {
+      "$id": 150,
+      "label": "SHP_ITM_SKL_IN_ARTS_ST_TP01_name",
+      "style": 18,
+      "name": "Arts: Gain TP"
+    },
+    {
+      "$id": 151,
+      "label": "SHP_ITM_SKL_IN_ARTS_ST_HP01_name",
+      "style": 18,
+      "name": "Arts: Recover HP"
+    },
+    {
+      "$id": 152,
+      "label": "SHP_ITM_SKL_IN_ARTS_RECAST01_name",
+      "style": 18,
+      "name": "Secondary CD Reducer"
+    },
+    {
+      "$id": 153,
+      "label": "SHP_ITM_SKL_IN_TIME_EX_TAUNT01_name",
+      "style": 18,
+      "name": "Extend Taunt"
+    },
+    {
+      "$id": 154,
+      "label": "SHP_ITM_SKL_IN_TIME_EX_CONTROL01_name",
+      "style": 18,
+      "name": "Extend Control"
+    },
+    {
+      "$id": 155,
+      "label": "SHP_ITM_SKL_IN_TIME_EX_VIRUS01_name",
+      "style": 18,
+      "name": "Extend Virus"
+    },
+    {
+      "$id": 156,
+      "label": "SHP_ITM_SKL_IN_TIME_EX_BALCK01_name",
+      "style": 18,
+      "name": "Extend Blackout"
+    },
+    {
+      "$id": 157,
+      "label": "SHP_ITM_SKL_IN_TIME_EX_POWDN01_name",
+      "style": 18,
+      "name": "Extend Fatigue"
+    },
+    {
+      "$id": 158,
+      "label": "SHP_ITM_SKL_IN_TIME_EX_SLOW01_name",
+      "style": 18,
+      "name": "Extend Slow Arts"
+    },
+    {
+      "$id": 159,
+      "label": "SHP_ITM_SKL_IN_TIME_EX_RSTDN01_name",
+      "style": 18,
+      "name": "Extend Debuff Res Down"
+    },
+    {
+      "$id": 160,
+      "label": "SHP_ITM_SKL_IN_TIME_EX_HPDN01_name",
+      "style": 18,
+      "name": ""
+    },
+    {
+      "$id": 161,
+      "label": "SHP_ITM_SKL_IN_TIME_EX_FRDOT01_name",
+      "style": 18,
+      "name": "Extend Blaze"
+    },
+    {
+      "$id": 162,
+      "label": "SHP_ITM_SKL_IN_TIME_EX_THDOT01_name",
+      "style": 18,
+      "name": "Extend Shock"
+    },
+    {
+      "$id": 163,
+      "label": "SHP_ITM_SKL_IN_TIME_EX_PHDN01_name",
+      "style": 18,
+      "name": "Extend Physical Res Down"
+    },
+    {
+      "$id": 164,
+      "label": "SHP_ITM_SKL_IN_TIME_EX_BMDN01_name",
+      "style": 18,
+      "name": "Extend Beam Res Down"
+    },
+    {
+      "$id": 165,
+      "label": "SHP_ITM_SKL_IN_TIME_EX_ETDN01_name",
+      "style": 18,
+      "name": "Extend Ether Res Down"
+    },
+    {
+      "$id": 166,
+      "label": "SHP_ITM_SKL_IN_TIME_EX_FRDN01_name",
+      "style": 18,
+      "name": "Extend Thermal Res Down"
+    },
+    {
+      "$id": 167,
+      "label": "SHP_ITM_SKL_IN_TIME_EX_THDN01_name",
+      "style": 18,
+      "name": "Extend Electric Res Down"
+    },
+    {
+      "$id": 168,
+      "label": "SHP_ITM_SKL_IN_TIME_EX_GRDN01_name",
+      "style": 18,
+      "name": "Extend Gravity Res Down"
+    },
+    {
+      "$id": 169,
+      "label": "SHP_ITM_SKL_IN_FST_TP01_name",
+      "style": 18,
+      "name": ""
+    },
+    {
+      "$id": 170,
+      "label": "SHP_ITM_SKL_IN_FST_ARTS01_name",
+      "style": 18,
+      "name": "Opening Art: Damage Up"
+    },
+    {
+      "$id": 171,
+      "label": "SHP_ITM_SKL_IN_FST_CRTC01_name",
+      "style": 18,
+      "name": ""
+    },
+    {
+      "$id": 172,
+      "label": "SHP_ITM_SKL_IN_FST_FDEX01_name",
+      "style": 18,
+      "name": ""
+    },
+    {
+      "$id": 173,
+      "label": "SHP_ITM_SKL_IN_FST_SDEX01_name",
+      "style": 18,
+      "name": ""
+    },
+    {
+      "$id": 174,
+      "label": "SHP_ITM_SKL_IN_FST_EVA01_name",
+      "style": 18,
+      "name": ""
+    },
+    {
+      "$id": 175,
+      "label": "SHP_ITM_SKL_IN_FST_FPOW01_name",
+      "style": 18,
+      "name": ""
+    },
+    {
+      "$id": 176,
+      "label": "SHP_ITM_SKL_IN_FST_SPOW01_name",
+      "style": 18,
+      "name": ""
+    },
+    {
+      "$id": 177,
+      "label": "SHP_ITM_SKL_IN_FST_MIND01_name",
+      "style": 18,
+      "name": ""
+    },
+    {
+      "$id": 178,
+      "label": "SHP_ITM_SKL_IN_FST_DARM01_name",
+      "style": 18,
+      "name": ""
+    },
+    {
+      "$id": 179,
+      "label": "SHP_ITM_SKL_IN_FST_BULLET01_name",
+      "style": 18,
+      "name": ""
+    },
+    {
+      "$id": 180,
+      "label": "SHP_ITM_SKL_IN_FST_FAKE01_name",
+      "style": 18,
+      "name": ""
+    },
+    {
+      "$id": 181,
+      "label": "SHP_ITM_SKL_IN_SOUL_RT_FOP01_name",
+      "style": 18,
+      "name": "Melee Draw Surge"
+    },
+    {
+      "$id": 182,
+      "label": "SHP_ITM_SKL_IN_SOUL_RT_SOP01_name",
+      "style": 18,
+      "name": "Ranged Draw Surge"
+    },
+    {
+      "$id": 183,
+      "label": "SHP_ITM_SKL_IN_SOUL_RT_ARTSOP01_name",
+      "style": 18,
+      "name": "Art Draw Surge"
+    },
+    {
+      "$id": 184,
+      "label": "SHP_ITM_SKL_IN_SOUL_RT_PINCH01_name",
+      "style": 18,
+      "name": "Danger Surge"
+    },
+    {
+      "$id": 185,
+      "label": "SHP_ITM_SKL_IN_SOUL_RT_BPINCH01_name",
+      "style": 18,
+      "name": "High Danger Surge"
+    },
+    {
+      "$id": 186,
+      "label": "SHP_ITM_SKL_IN_SOUL_RT_DEATH01_name",
+      "style": 18,
+      "name": "Incapacitation Surge"
+    },
+    {
+      "$id": 187,
+      "label": "SHP_ITM_SKL_IN_SOUL_RT_CRTC01_name",
+      "style": 18,
+      "name": "Critical Surge"
+    },
+    {
+      "$id": 188,
+      "label": "SHP_ITM_SKL_IN_SOUL_RT_PARTS01_name",
+      "style": 18,
+      "name": "Crush Surge"
+    },
+    {
+      "$id": 189,
+      "label": "SHP_ITM_SKL_IN_SOUL_RT_BIG01_name",
+      "style": 18,
+      "name": "Underdog Surge"
+    },
+    {
+      "$id": 190,
+      "label": "SHP_ITM_SKL_IN_SOUL_RT_SPEX01_name",
+      "style": 18,
+      "name": "Artful Execution Surge"
+    },
+    {
+      "$id": 191,
+      "label": "SHP_ITM_SKL_IN_SOUL_RT_AURA01_name",
+      "style": 18,
+      "name": "Aura Surge"
+    },
+    {
+      "$id": 192,
+      "label": "SHP_ITM_SKL_IN_SOUL_RT_GEAR01_name",
+      "style": 18,
+      "name": "Overdrive Surge"
+    },
+    {
+      "$id": 193,
+      "label": "SHP_ITM_SKL_IN_RAIZE_HP01_name",
+      "style": 18,
+      "name": "Reinvigorate"
+    },
+    {
+      "$id": 194,
+      "label": "SHP_ITM_SKL_IN_EXP_UP01_name",
+      "style": 18,
+      "name": "EXP Boost"
+    },
+    {
+      "$id": 195,
+      "label": "SHP_ITM_SKL_IN_STEALTH_EYE01_name",
+      "style": 18,
+      "name": "Visual Cloaking"
+    },
+    {
+      "$id": 196,
+      "label": "SHP_ITM_SKL_IN_STEALTH_ROUND01_name",
+      "style": 18,
+      "name": "Aural Cloaking"
+    },
+    {
+      "$id": 197,
+      "label": "SHP_ITM_SKL_IN_PARTS_CDN00_name",
+      "style": 18,
+      "name": "Appendage Crusher"
+    },
+    {
+      "$id": 198,
+      "label": "SHP_ITM_SKL_IN_PARTS_TP01_name",
+      "style": 18,
+      "name": "Crush: Gain TP"
+    },
+    {
+      "$id": 199,
+      "label": "SHP_ITM_SKL_IN_PARTS_DMG01_name",
+      "style": 18,
+      "name": "Ranged Appendage Damage"
+    },
+    {
+      "$id": 200,
+      "label": "SHP_ITM_SKL_IN_DMG_LAND01_name",
+      "style": 18,
+      "name": "Terrain Damage Reducer"
+    },
+    {
+      "$id": 201,
+      "label": "SHP_ITM_SKL_IN_EVA_SPIKE01_name",
+      "style": 18,
+      "name": "Antispike"
+    },
+    {
+      "$id": 202,
+      "label": "SHP_ITM_SKL_IN_TIGER_SKIN01_name",
+      "style": 18,
+      "name": "Resistance Reducer"
+    },
+    {
+      "$id": 203,
+      "label": "SHP_ITM_SKL_IN_TRESURE_SENSER01_name",
+      "style": 18,
+      "name": "Treasure Sensor"
+    },
+    {
+      "$id": 204,
+      "label": "SHP_ITM_SKL_IN_BEST_DUSH01_name",
+      "style": 18,
+      "name": "Untouchable Dash"
+    },
+    {
+      "$id": 205,
+      "label": "SHP_ITM_SKL_IN_HERO_RIDE01_name",
+      "style": 18,
+      "name": ""
+    },
+    {
+      "$id": 206,
+      "label": "SHP_ITM_SKL_IN_DEX_NIGHT01_name",
+      "style": 18,
+      "name": "Night Vision"
+    },
+    {
+      "$id": 207,
+      "label": "SHP_ITM_SKL_IN_RANGE_CON01_name",
+      "style": 18,
+      "name": "Focused Evasion"
+    },
+    {
+      "$id": 208,
+      "label": "SHP_ITM_SKL_IN_WEATHER_FOG00_name",
+      "style": 18,
+      "name": "Fog Screen"
+    },
+    {
+      "$id": 209,
+      "label": "SHP_ITM_SKL_IN_WEATHER_RAIN00_name",
+      "style": 18,
+      "name": "Rain Screen"
+    },
+    {
+      "$id": 210,
+      "label": "SHP_ITM_SKL_IN_WEATHER_THUNDER00_name",
+      "style": 18,
+      "name": ""
+    },
+    {
+      "$id": 211,
+      "label": "SHP_ITM_SKL_IN_WEATHER_HRAIN00_name",
+      "style": 18,
+      "name": "Heavy Rain Screen"
+    },
+    {
+      "$id": 212,
+      "label": "SHP_ITM_SKL_IN_WEATHER_HEATWAVE00_name",
+      "style": 18,
+      "name": "Heat Wave Screen"
+    },
+    {
+      "$id": 213,
+      "label": "SHP_ITM_SKL_IN_WEATHER_SAND00_name",
+      "style": 18,
+      "name": "Sandstorm Screen"
+    },
+    {
+      "$id": 214,
+      "label": "SHP_ITM_SKL_IN_WEATHER_TRAIN00_name",
+      "style": 18,
+      "name": "Thunderstorm Screen"
+    },
+    {
+      "$id": 215,
+      "label": "SHP_ITM_SKL_IN_WEATHER_ERECT00_name",
+      "style": 18,
+      "name": "EM Storm Screen"
+    },
+    {
+      "$id": 216,
+      "label": "SHP_ITM_SKL_IN_WEATHER_PAR_A00_name",
+      "style": 18,
+      "name": "Energy Mist Screen"
+    },
+    {
+      "$id": 217,
+      "label": "SHP_ITM_SKL_IN_WEATHER_PAR_B00_name",
+      "style": 18,
+      "name": "Rising Energy Mist Screen"
+    },
+    {
+      "$id": 218,
+      "label": "SHP_ITM_SKL_IN_WEATHER_FIRERAIN00_name",
+      "style": 18,
+      "name": "Brimstone Rain Screen"
+    },
+    {
+      "$id": 219,
+      "label": "SHP_ITM_SKL_IN_WEATHER_OURA00_name",
+      "style": 18,
+      "name": ""
+    },
+    {
+      "$id": 220,
+      "label": "SHP_ITM_SKL_IN_WEATHER_REDOURA00_name",
+      "style": 18,
+      "name": ""
+    },
+    {
+      "$id": 221,
+      "label": "SHP_ITM_SKL_IN_WEATHER_HOUSI00_name",
+      "style": 18,
+      "name": "Spore Screen"
+    },
+    {
+      "$id": 222,
+      "label": "SHP_ITM_SKL_IN_WEATHER_METOR00_name",
+      "style": 18,
+      "name": ""
+    },
+    {
+      "$id": 223,
+      "label": "SHP_ITM_SKL_IN_WEATHER_DMG01_name",
+      "style": 18,
+      "name": "Weather Master"
+    },
+    {
+      "$id": 224,
+      "label": "ITM_SKL_IN_HPMAX01_P_OUTLINE",
+      "style": 153,
+      "name": "Boosts maximum HP."
+    },
+    {
+      "$id": 225,
+      "label": "ITM_SKL_IN_TPMAX01_P_OUTLINE",
+      "style": 153,
+      "name": "Boosts maximum TP."
+    },
+    {
+      "$id": 226,
+      "label": "ITM_SKL_IN_F_DEX01_P_OUTLINE",
+      "style": 153,
+      "name": "Boosts melee accuracy."
+    },
+    {
+      "$id": 227,
+      "label": "ITM_SKL_IN_S_DEX01_P_OUTLINE",
+      "style": 153,
+      "name": "Boosts ranged accuracy."
+    },
+    {
+      "$id": 228,
+      "label": "ITM_SKL_IN_EVA01_P_OUTLINE",
+      "style": 153,
+      "name": "Boosts evasion."
+    },
+    {
+      "$id": 229,
+      "label": "ITM_SKL_IN_F_POW01_P_OUTLINE",
+      "style": 153,
+      "name": "Boosts melee attack."
+    },
+    {
+      "$id": 230,
+      "label": "ITM_SKL_IN_S_POW01_P_OUTLINE",
+      "style": 153,
+      "name": "Boosts ranged attack."
+    },
+    {
+      "$id": 231,
+      "label": "ITM_SKL_IN_M_POW01_P_OUTLINE",
+      "style": 153,
+      "name": "Boosts potential."
+    },
+    {
+      "$id": 232,
+      "label": "ITM_SKL_IN_HPMAX01_R_OUTLINE",
+      "style": 153,
+      "name": "Boosts maximum HP by a percentage."
+    },
+    {
+      "$id": 233,
+      "label": "ITM_SKL_IN_TPMAX01_R_OUTLINE",
+      "style": 153,
+      "name": "Boosts maximum TP by a percentage."
+    },
+    {
+      "$id": 234,
+      "label": "ITM_SKL_IN_F_DEX01_R_OUTLINE",
+      "style": 153,
+      "name": "Boosts melee accuracy by a percentage."
+    },
+    {
+      "$id": 235,
+      "label": "ITM_SKL_IN_S_DEX01_R_OUTLINE",
+      "style": 153,
+      "name": "Boosts ranged accuracy by a percentage."
+    },
+    {
+      "$id": 236,
+      "label": "ITM_SKL_IN_EVA01_R_OUTLINE",
+      "style": 153,
+      "name": "Boosts evasion by a percentage."
+    },
+    {
+      "$id": 237,
+      "label": "ITM_SKL_IN_F_ROW01_R_OUTLINE",
+      "style": 153,
+      "name": "Boosts melee attack by a percentage."
+    },
+    {
+      "$id": 238,
+      "label": "ITM_SKL_IN_S_ROW01_R_OUTLINE",
+      "style": 153,
+      "name": "Boosts ranged attack by a percentage."
+    },
+    {
+      "$id": 239,
+      "label": "ITM_SKL_IN_M_ROW01_R_OUTLINE",
+      "style": 153,
+      "name": "Boosts potential by a percentage."
+    },
+    {
+      "$id": 240,
+      "label": "ITM_SKL_IN_HPMAX01_DL_OUTLINE",
+      "style": 153,
+      "name": "Boosts maximum Skell HP by a percentage."
+    },
+    {
+      "$id": 241,
+      "label": "ITM_SKL_IN_TPMAX01_DL_OUTLINE",
+      "style": 153,
+      "name": "Boosts maximum Skell GP by a percentage."
+    },
+    {
+      "$id": 242,
+      "label": "ITM_SKL_IN_F_DEX01_DL_OUTLINE",
+      "style": 153,
+      "name": "Boosts Skell melee accuracy by a percentage."
+    },
+    {
+      "$id": 243,
+      "label": "ITM_SKL_IN_S_DEX01_DL_OUTLINE",
+      "style": 153,
+      "name": "Boosts Skell ranged accuracy by a percentage."
+    },
+    {
+      "$id": 244,
+      "label": "ITM_SKL_IN_EVA01_DL_OUTLINE",
+      "style": 153,
+      "name": "Boosts Skell evasion by a percentage."
+    },
+    {
+      "$id": 245,
+      "label": "ITM_SKL_IN_F_POW01_DL_OUTLINE",
+      "style": 153,
+      "name": "Boosts Skell melee attack by a percentage."
+    },
+    {
+      "$id": 246,
+      "label": "ITM_SKL_IN_S_POW01_DL_OUTLINE",
+      "style": 153,
+      "name": "Boosts Skell ranged attack by a percentage."
+    },
+    {
+      "$id": 247,
+      "label": "ITM_SKL_IN_M_POW01_DL_OUTLINE",
+      "style": 153,
+      "name": "Boosts Skell potential by a percentage."
+    },
+    {
+      "$id": 248,
+      "label": "ITM_SKL_IN_CATCH_FUEL01_DL_OUTLINE",
+      "style": 153,
+      "name": "Boosts fuel recovery by a certain value\nper second when binding an enemy."
+    },
+    {
+      "$id": 249,
+      "label": "ITM_SKL_IN_ECO_FUEL01_DL_OUTLINE",
+      "style": 153,
+      "name": "Boosts fuel efficiency by a percentage\nwhen fighting in a Skell."
+    },
+    {
+      "$id": 250,
+      "label": "ITM_SKL_IN_ANTI_PH01_P_OUTLINE",
+      "style": 153,
+      "name": "Boosts physical resistance."
+    },
+    {
+      "$id": 251,
+      "label": "ITM_SKL_IN_ANTI_BM01_P_OUTLINE",
+      "style": 153,
+      "name": "Boosts beam resistance."
+    },
+    {
+      "$id": 252,
+      "label": "ITM_SKL_IN_ANTI_TH01_P_OUTLINE",
+      "style": 153,
+      "name": "Boosts electric resistance."
+    },
+    {
+      "$id": 253,
+      "label": "ITM_SKL_IN_ANTI_FR01_P_OUTLINE",
+      "style": 153,
+      "name": "Boosts thermal resistance."
+    },
+    {
+      "$id": 254,
+      "label": "ITM_SKL_IN_ANTI_ET01_P_OUTLINE",
+      "style": 153,
+      "name": "Boosts ether resistance."
+    },
+    {
+      "$id": 255,
+      "label": "ITM_SKL_IN_ANTI_GR01_P_OUTLINE",
+      "style": 153,
+      "name": "Boosts gravity resistance."
+    },
+    {
+      "$id": 256,
+      "label": "ITM_SKL_IN_CTM_POW01_OUTLINE",
+      "style": 153,
+      "name": "Boosts weapon attack by a percentage."
+    },
+    {
+      "$id": 257,
+      "label": "ITM_SKL_IN_CTM_BAL01_OUTLINE",
+      "style": 153,
+      "name": "Boosts weapon stability by a percentage."
+    },
+    {
+      "$id": 258,
+      "label": "ITM_SKL_IN_CTM_BRK01_OUTLINE",
+      "style": 153,
+      "name": "Reduces weapon stability by a percentage."
+    },
+    {
+      "$id": 259,
+      "label": "ITM_SKL_IN_CTM_MAG01_OUTLINE",
+      "style": 153,
+      "name": "Increases magazine capacity for ranged\nweapons."
+    },
+    {
+      "$id": 260,
+      "label": "ITM_SKL_IN_CTM_F_TP00_OUTLINE",
+      "style": 153,
+      "name": "Boosts TP gain for melee auto-attacks."
+    },
+    {
+      "$id": 261,
+      "label": "ITM_SKL_IN_CTM_S_TP00_OUTLINE",
+      "style": 153,
+      "name": "Boosts TP gain for ranged auto-attacks."
+    },
+    {
+      "$id": 262,
+      "label": "ITM_SKL_IN_CTM_SPD01_OUTLINE",
+      "style": 153,
+      "name": "Reduces auto-attack cooldown by a percentage."
+    },
+    {
+      "$id": 263,
+      "label": "ITM_SKL_IN_CTM_RNG01_OUTLINE",
+      "style": 153,
+      "name": "Boosts ranged weapon range."
+    },
+    {
+      "$id": 264,
+      "label": "ITM_SKL_IN_REG_BREAK01_OUTLINE",
+      "style": 153,
+      "name": "Boosts resistance to Stagger."
+    },
+    {
+      "$id": 265,
+      "label": "ITM_SKL_IN_REG_FLINCH01_OUTLINE",
+      "style": 153,
+      "name": "Boosts resistance to Flinch."
+    },
+    {
+      "$id": 266,
+      "label": "ITM_SKL_IN_REG_DOWN01_OUTLINE",
+      "style": 153,
+      "name": "Boosts resistance to Topple."
+    },
+    {
+      "$id": 267,
+      "label": "ITM_SKL_IN_REG_KNOCK01_OUTLINE",
+      "style": 153,
+      "name": "Boosts resistance to Knockback."
+    },
+    {
+      "$id": 268,
+      "label": "ITM_SKL_IN_REG_BLOW01_OUTLINE",
+      "style": 153,
+      "name": "Boosts resistance to Launch."
+    },
+    {
+      "$id": 269,
+      "label": "ITM_SKL_IN_REG_STAN01_OUTLINE",
+      "style": 153,
+      "name": "Boosts resistance to Stun."
+    },
+    {
+      "$id": 270,
+      "label": "ITM_SKL_IN_REG_SLEEP01_OUTLINE",
+      "style": 153,
+      "name": "Boosts resistance to Sleep."
+    },
+    {
+      "$id": 271,
+      "label": "ITM_SKL_IN_REG_TAUNT01_OUTLINE",
+      "style": 153,
+      "name": "Boosts resistance to Taunt."
+    },
+    {
+      "$id": 272,
+      "label": "ITM_SKL_IN_REG_CTR01_OUTLINE",
+      "style": 153,
+      "name": "Boosts resistance to Control."
+    },
+    {
+      "$id": 273,
+      "label": "ITM_SKL_IN_REG_VIRSUS01_OUTLINE",
+      "style": 153,
+      "name": "Boosts resistance to Virus."
+    },
+    {
+      "$id": 274,
+      "label": "ITM_SKL_IN_REG_BLACK01_OUTLINE",
+      "style": 153,
+      "name": "Boosts resistance to Blackout."
+    },
+    {
+      "$id": 275,
+      "label": "ITM_SKL_IN_REG_POWDN01_OUTLINE",
+      "style": 153,
+      "name": "Boosts resistance to Fatigue."
+    },
+    {
+      "$id": 276,
+      "label": "ITM_SKL_IN_REG_ASLOW01_OUTLINE",
+      "style": 153,
+      "name": "Boosts resistance to Slow Arts."
+    },
+    {
+      "$id": 277,
+      "label": "ITM_SKL_IN_REG_PH_DN01_OUTLINE",
+      "style": 153,
+      "name": "Boosts resistance to Physical Res Down."
+    },
+    {
+      "$id": 278,
+      "label": "ITM_SKL_IN_REG_BM_DN01_OUTLINE",
+      "style": 153,
+      "name": "Boosts resistance to Beam Res Down."
+    },
+    {
+      "$id": 279,
+      "label": "ITM_SKL_IN_REG_FR_DN01_OUTLINE",
+      "style": 153,
+      "name": "Boosts resistance to Thermal Res Down."
+    },
+    {
+      "$id": 280,
+      "label": "ITM_SKL_IN_REG_TH_DN01_OUTLINE",
+      "style": 153,
+      "name": "Boosts resistance to Electric Res Down."
+    },
+    {
+      "$id": 281,
+      "label": "ITM_SKL_IN_REG_ET_DN01_OUTLINE",
+      "style": 153,
+      "name": "Boosts resistance to Ether Res Down."
+    },
+    {
+      "$id": 282,
+      "label": "ITM_SKL_IN_REG_GR_DN01_OUTLINE",
+      "style": 153,
+      "name": "Boosts resistance to Gravity Res Down."
+    },
+    {
+      "$id": 283,
+      "label": "ITM_SKL_IN_REG_CTBOM01_OUTLINE",
+      "style": 153,
+      "name": "Boosts resistance to Time Bomb."
+    },
+    {
+      "$id": 284,
+      "label": "ITM_SKL_IN_REG_DEBDN01_OUTLINE",
+      "style": 153,
+      "name": "Boosts resistance to Debuff Res Down."
+    },
+    {
+      "$id": 285,
+      "label": "ITM_SKL_IN_REG_HP_HEALDN01_OUTLINE",
+      "style": 153,
+      "name": "Boosts resistance to HP Recovery Down."
+    },
+    {
+      "$id": 286,
+      "label": "ITM_SKL_IN_REG_FR_DOT01_OUTLINE",
+      "style": 153,
+      "name": "Boosts resistance to Blaze."
+    },
+    {
+      "$id": 287,
+      "label": "ITM_SKL_IN_REG_TH_DOT01_OUTLINE",
+      "style": 153,
+      "name": "Boosts resistance to Shock."
+    },
+    {
+      "$id": 288,
+      "label": "ITM_SKL_IN_REG_TIME01_OUTLINE",
+      "style": 153,
+      "name": "Reduces the duration of debuffs."
+    },
+    {
+      "$id": 289,
+      "label": "ITM_SKL_IN_CRTC_R_ALL01_OUTLINE",
+      "style": 153,
+      "name": "Boosts critical chance."
+    },
+    {
+      "$id": 290,
+      "label": "ITM_SKL_IN_CRTC_R_BEAST01_OUTLINE",
+      "style": 153,
+      "name": "Boosts critical chance against theroid enemies."
+    },
+    {
+      "$id": 291,
+      "label": "ITM_SKL_IN_CRTC_R_INSECT01_OUTLINE",
+      "style": 153,
+      "name": "Boosts critical chance against insectoid\nenemies."
+    },
+    {
+      "$id": 292,
+      "label": "ITM_SKL_IN_CRTC_R_MEGAFLY01_OUTLINE",
+      "style": 153,
+      "name": "Boosts critical chance against piscinoid\nenemies."
+    },
+    {
+      "$id": 293,
+      "label": "ITM_SKL_IN_CRTC_R_ALIEN01_OUTLINE",
+      "style": 153,
+      "name": "Boosts critical chance against humanoid\nenemies."
+    },
+    {
+      "$id": 294,
+      "label": "ITM_SKL_IN_CRTC_R_MACHINE01_OUTLINE",
+      "style": 153,
+      "name": "Boosts critical chance against mechanoid\nenemies."
+    },
+    {
+      "$id": 295,
+      "label": "ITM_SKL_IN_CRTC_R_KIMERA01_OUTLINE",
+      "style": 153,
+      "name": "Boosts critical chance against chimeroid\nenemies."
+    },
+    {
+      "$id": 296,
+      "label": "ITM_SKL_IN_CRTC_R_TERESIA01_OUTLINE",
+      "style": 153,
+      "name": "Boosts critical chance against ultrafauna\nenemies."
+    },
+    {
+      "$id": 297,
+      "label": "ITM_SKL_IN_CRTC_P_STAGE01_OUTLINE",
+      "style": 153,
+      "name": "Extends Critical Power effects granted by\nyour Arts."
+    },
+    {
+      "$id": 298,
+      "label": "ITM_SKL_IN_KILL_BEAST01_OUTLINE",
+      "style": 153,
+      "name": "Boosts damage to theroid enemies\nby a percentage."
+    },
+    {
+      "$id": 299,
+      "label": "ITM_SKL_IN_KILL_INSECT01_OUTLINE",
+      "style": 153,
+      "name": "Boosts damage to insectoid enemies\nby a percentage."
+    },
+    {
+      "$id": 300,
+      "label": "ITM_SKL_IN_KILL_MEGAFLY01_OUTLINE",
+      "style": 153,
+      "name": "Boosts damage to piscinoid enemies\nby a percentage."
+    },
+    {
+      "$id": 301,
+      "label": "ITM_SKL_IN_KILL_ALIEN01_OUTLINE",
+      "style": 153,
+      "name": "Boosts damage to humanoid enemies\nby a percentage."
+    },
+    {
+      "$id": 302,
+      "label": "ITM_SKL_IN_KILL_MACHINE01_OUTLINE",
+      "style": 153,
+      "name": "Boosts damage to mechanoid enemies\nby a percentage."
+    },
+    {
+      "$id": 303,
+      "label": "ITM_SKL_IN_KILL_KIMERA01_OUTLINE",
+      "style": 153,
+      "name": "Boosts damage to chimeroid enemies\nby a percentage."
+    },
+    {
+      "$id": 304,
+      "label": "ITM_SKL_IN_KILL_TERESIA01_OUTLINE",
+      "style": 153,
+      "name": "Boosts damage to ultrafauna enemies\nby a percentage."
+    },
+    {
+      "$id": 305,
+      "label": "ITM_SKL_IN_ATK_PH01_OUTLINE",
+      "style": 153,
+      "name": "Boosts physical damage by a percentage."
+    },
+    {
+      "$id": 306,
+      "label": "ITM_SKL_IN_ATK_BM01_OUTLINE",
+      "style": 153,
+      "name": "Boosts beam damage by a percentage."
+    },
+    {
+      "$id": 307,
+      "label": "ITM_SKL_IN_ATK_ET01_OUTLINE",
+      "style": 153,
+      "name": "Boosts ether damage by a percentage."
+    },
+    {
+      "$id": 308,
+      "label": "ITM_SKL_IN_ATK_FR01_OUTLINE",
+      "style": 153,
+      "name": "Boosts thermal damage by a percentage."
+    },
+    {
+      "$id": 309,
+      "label": "ITM_SKL_IN_ATK_TH01_OUTLINE",
+      "style": 153,
+      "name": "Boosts electric damage by a percentage."
+    },
+    {
+      "$id": 310,
+      "label": "ITM_SKL_IN_ATK_GR01_OUTLINE",
+      "style": 153,
+      "name": "Boosts gravity damage by a percentage."
+    },
+    {
+      "$id": 311,
+      "label": "ITM_SKL_IN_ATK_FRONT01_OUTLINE",
+      "style": 153,
+      "name": "Boosts damage by a percentage when\nattacking from the front."
+    },
+    {
+      "$id": 312,
+      "label": "ITM_SKL_IN_ATK_SIDE01_OUTLINE",
+      "style": 153,
+      "name": "Boosts damage by a percentage when\nattacking from the side."
+    },
+    {
+      "$id": 313,
+      "label": "ITM_SKL_IN_ATK_BACK01_OUTLINE",
+      "style": 153,
+      "name": "Boosts damage by a percentage when\nattacking from behind."
+    },
+    {
+      "$id": 314,
+      "label": "ITM_SKL_IN_ATK_HIGH01_OUTLINE",
+      "style": 153,
+      "name": "Boosts damage by a percentage when\nattacking from above."
+    },
+    {
+      "$id": 315,
+      "label": "ITM_SKL_IN_F_AT_BLACK01_OUTLINE",
+      "style": 153,
+      "name": "Grants a chance of inflicting Blackout\nwhen melee auto-attacking."
+    },
+    {
+      "$id": 316,
+      "label": "ITM_SKL_IN_F_AT_POWDN01_OUTLINE",
+      "style": 153,
+      "name": "Grants a chance of inflicting Fatigue\nwhen melee auto-attacking."
+    },
+    {
+      "$id": 317,
+      "label": "ITM_SKL_IN_F_AT_PH_DN01_OUTLINE",
+      "style": 153,
+      "name": "Grants a chance of inflicting Physical Res Down\nwhen melee auto-attacking."
+    },
+    {
+      "$id": 318,
+      "label": "ITM_SKL_IN_F_AT_BM_DN01_OUTLINE",
+      "style": 153,
+      "name": "Grants a chance of inflicting Beam Res Down\nwhen melee auto-attacking."
+    },
+    {
+      "$id": 319,
+      "label": "ITM_SKL_IN_F_AT_ET_DN01_OUTLINE",
+      "style": 153,
+      "name": "Grants a chance of inflicting Ether Res Down\nwhen melee auto-attacking."
+    },
+    {
+      "$id": 320,
+      "label": "ITM_SKL_IN_F_AT_FR_DN01_OUTLINE",
+      "style": 153,
+      "name": "Grants a chance of inflicting Thermal Res Down\nwhen melee auto-attacking."
+    },
+    {
+      "$id": 321,
+      "label": "ITM_SKL_IN_F_AT_TH_DN01_OUTLINE",
+      "style": 153,
+      "name": "Grants a chance of inflicting Electric Res Down\nwhen melee auto-attacking."
+    },
+    {
+      "$id": 322,
+      "label": "ITM_SKL_IN_F_AT_GR_DN01_OUTLINE",
+      "style": 153,
+      "name": "Grants a chance of inflicting Gravity Res Down\nwhen melee auto-attacking."
+    },
+    {
+      "$id": 323,
+      "label": "ITM_SKL_IN_F_AT_FR_DOT01_OUTLINE",
+      "style": 153,
+      "name": "Grants a chance of inflicting Blaze\nwhen melee auto-attacking."
+    },
+    {
+      "$id": 324,
+      "label": "ITM_SKL_IN_F_AT_TH_DOT01_OUTLINE",
+      "style": 153,
+      "name": "Grants a chance of inflicting Shock\nwhen melee auto-attacking."
+    },
+    {
+      "$id": 325,
+      "label": "ITM_SKL_IN_F_AT_HP_HEAL01_OUTLINE",
+      "style": 153,
+      "name": "Grants a chance of recovering HP\nwhen melee auto-attacking."
+    },
+    {
+      "$id": 326,
+      "label": "ITM_SKL_IN_SLEEP_NO_WAKE01_OUTLINE",
+      "style": 153,
+      "name": "Grants a chance of not waking\na sleeping enemy when attacking."
+    },
+    {
+      "$id": 327,
+      "label": "ITM_SKL_IN_CT_HP01_OUTLINE",
+      "style": 153,
+      "name": "Grants a low chance of recovering HP\nwhen taking damage."
+    },
+    {
+      "$id": 328,
+      "label": "ITM_SKL_IN_CT_TP01_OUTLINE",
+      "style": 153,
+      "name": "Grants a low chance of receiving TP\nwhen taking damage."
+    },
+    {
+      "$id": 329,
+      "label": "ITM_SKL_IN_CT_TAUNT_DARM01_OUTLINE",
+      "style": 153,
+      "name": "Grants a chance of activating Barrier\nwhen taunted."
+    },
+    {
+      "$id": 330,
+      "label": "ITM_SKL_IN_CT_TAUNT_FAKE01_OUTLINE",
+      "style": 153,
+      "name": "Grants a chance of activating Decoy\nwhen taunted."
+    },
+    {
+      "$id": 331,
+      "label": "ITM_SKL_IN_CT_TAUNT_BULLET01_OUTLINE",
+      "style": 153,
+      "name": "Grants a chance of activating Supercharge\nwhen taunted."
+    },
+    {
+      "$id": 332,
+      "label": "ITM_SKL_IN_CT_DOWN_DARM01_OUTLINE",
+      "style": 153,
+      "name": "Grants a chance of activating Barrier\nwhen toppled."
+    },
+    {
+      "$id": 333,
+      "label": "ITM_SKL_IN_CT_DOWN_FAKE01_OUTLINE",
+      "style": 153,
+      "name": "Grants a chance of activating Decoy\nwhen toppled."
+    },
+    {
+      "$id": 334,
+      "label": "ITM_SKL_IN_CT_STAN_DARM01_OUTLINE",
+      "style": 153,
+      "name": "Grants a chance of activating Barrier\nwhen stunned."
+    },
+    {
+      "$id": 335,
+      "label": "ITM_SKL_IN_CT_STAN_FAKE01_OUTLINE",
+      "style": 153,
+      "name": "Grants a chance of activating Decoy\nwhen stunned."
+    },
+    {
+      "$id": 336,
+      "label": "ITM_SKL_IN_REF_DMG_UP01_OUTLINE",
+      "style": 153,
+      "name": "Boosts reflect damage by a percentage."
+    },
+    {
+      "$id": 337,
+      "label": "ITM_SKL_IN_REF_ATK_PH01_OUTLINE",
+      "style": 153,
+      "name": "Grants a chance of negating enemy reflection\nof physical attacks."
+    },
+    {
+      "$id": 338,
+      "label": "ITM_SKL_IN_REF_ATK_BM01_OUTLINE",
+      "style": 153,
+      "name": "Grants a chance of negating enemy reflection\nof beam attacks."
+    },
+    {
+      "$id": 339,
+      "label": "ITM_SKL_IN_REF_ATK_ET01_OUTLINE",
+      "style": 153,
+      "name": "Grants a chance of negating enemy reflection\nof ether attacks."
+    },
+    {
+      "$id": 340,
+      "label": "ITM_SKL_IN_REF_ATK_FR01_OUTLINE",
+      "style": 153,
+      "name": "Grants a chance of negating enemy reflection\nof thermal attacks."
+    },
+    {
+      "$id": 341,
+      "label": "ITM_SKL_IN_REF_ATK_TH01_OUTLINE",
+      "style": 153,
+      "name": "Grants a chance of negating enemy reflection\nof electric attacks."
+    },
+    {
+      "$id": 342,
+      "label": "ITM_SKL_IN_REF_ATK_GR01_OUTLINE",
+      "style": 153,
+      "name": "Grants a chance of negating enemy reflection\nof gravity attacks."
+    },
+    {
+      "$id": 343,
+      "label": "ITM_SKL_IN_GEAR_ST_HP01_OUTLINE",
+      "style": 153,
+      "name": "Recovers HP by a percentage when activating\nOverdrive."
+    },
+    {
+      "$id": 344,
+      "label": "ITM_SKL_IN_GEAR_ST_TP01_OUTLINE",
+      "style": 153,
+      "name": "Boosts TP when activating Overdrive."
+    },
+    {
+      "$id": 345,
+      "label": "ITM_SKL_IN_GEAR_ST_CNT01_OUTLINE",
+      "style": 153,
+      "name": "Boosts your Overdrive count when activating\nOverdrive."
+    },
+    {
+      "$id": 346,
+      "label": "ITM_SKL_IN_GEAR_ST_TIME01_OUTLINE",
+      "style": 153,
+      "name": "Extends Overdrive duration."
+    },
+    {
+      "$id": 347,
+      "label": "ITM_SKL_IN_GEAR_RULE_FS01_OUTLINE",
+      "style": 153,
+      "name": "Adds to your Overdrive count when using\na blue Art during Overdrive."
+    },
+    {
+      "$id": 348,
+      "label": "ITM_SKL_IN_GEAR_RULE_SF01_OUTLINE",
+      "style": 153,
+      "name": "Adds to your Overdrive count when using\na green Art during Overdrive."
+    },
+    {
+      "$id": 349,
+      "label": "ITM_SKL_IN_AURA_TIME01_OUTLINE",
+      "style": 153,
+      "name": "Extends aura effects."
+    },
+    {
+      "$id": 350,
+      "label": "ITM_SKL_IN_AURA_SPEED01_OUTLINE",
+      "style": 153,
+      "name": "Reduces an Art's cooldown by a percentage\nwhen you have an aura active."
+    },
+    {
+      "$id": 351,
+      "label": "ITM_SKL_IN_AURA_DOLL01_OUTLINE",
+      "style": 153,
+      "name": "Recovers fuel when using an aura."
+    },
+    {
+      "$id": 352,
+      "label": "ITM_SKL_IN_ARTS_ST_TP01_OUTLINE",
+      "style": 153,
+      "name": "Boosts TP when using an Art."
+    },
+    {
+      "$id": 353,
+      "label": "ITM_SKL_IN_ARTS_ST_HP01_OUTLINE",
+      "style": 153,
+      "name": "Recovers HP when using an Art."
+    },
+    {
+      "$id": 354,
+      "label": "ITM_SKL_IN_ARTS_RECAST01_OUTLINE",
+      "style": 153,
+      "name": "Reduces secondary cooldown by a percentage."
+    },
+    {
+      "$id": 355,
+      "label": "ITM_SKL_IN_TIME_EX_TAUNT01_OUTLINE",
+      "style": 153,
+      "name": "Extends Taunt effects inflicted by your Arts."
+    },
+    {
+      "$id": 356,
+      "label": "ITM_SKL_IN_TIME_EX_CONTROL01_OUTLINE",
+      "style": 153,
+      "name": "Extends Control effects inflicted by your Arts."
+    },
+    {
+      "$id": 357,
+      "label": "ITM_SKL_IN_TIME_EX_VIRUS01_OUTLINE",
+      "style": 153,
+      "name": "Extends Virus effects inflicted by your Arts."
+    },
+    {
+      "$id": 358,
+      "label": "ITM_SKL_IN_TIME_EX_BALCK01_OUTLINE",
+      "style": 153,
+      "name": "Extends Blackout effects inflicted by your Arts."
+    },
+    {
+      "$id": 359,
+      "label": "ITM_SKL_IN_TIME_EX_POWDN01_OUTLINE",
+      "style": 153,
+      "name": "Extends Fatigue effects inflicted by your Arts."
+    },
+    {
+      "$id": 360,
+      "label": "ITM_SKL_IN_TIME_EX_SLOW01_OUTLINE",
+      "style": 153,
+      "name": "Extends Slow Arts effects inflicted by your Arts."
+    },
+    {
+      "$id": 361,
+      "label": "ITM_SKL_IN_TIME_EX_RSTDN01_OUTLINE",
+      "style": 153,
+      "name": "Extends Debuff Res Down effects inflicted\nby your Arts."
+    },
+    {
+      "$id": 362,
+      "label": "ITM_SKL_IN_TIME_EX_FRDOT01_OUTLINE",
+      "style": 153,
+      "name": "Extends Blaze effects inflicted by your Arts."
+    },
+    {
+      "$id": 363,
+      "label": "ITM_SKL_IN_TIME_EX_THDOT01_OUTLINE",
+      "style": 153,
+      "name": "Extends Shock effects inflicted by your Arts."
+    },
+    {
+      "$id": 364,
+      "label": "ITM_SKL_IN_TIME_EX_PHDN01_OUTLINE",
+      "style": 153,
+      "name": "Extends Physical Res Down effects inflicted\nby your Arts."
+    },
+    {
+      "$id": 365,
+      "label": "ITM_SKL_IN_TIME_EX_BMDN01_OUTLINE",
+      "style": 153,
+      "name": "Extends Beam Res Down effects inflicted\nby your Arts."
+    },
+    {
+      "$id": 366,
+      "label": "ITM_SKL_IN_TIME_EX_ETDN01_OUTLINE",
+      "style": 153,
+      "name": "Extends Ether Res Down effects inflicted\nby your Arts."
+    },
+    {
+      "$id": 367,
+      "label": "ITM_SKL_IN_TIME_EX_FRDN01_OUTLINE",
+      "style": 153,
+      "name": "Extends Thermal Res Down effects inflicted\nby your Arts."
+    },
+    {
+      "$id": 368,
+      "label": "ITM_SKL_IN_TIME_EX_THDN01_OUTLINE",
+      "style": 153,
+      "name": "Extends Electric Res Down effects inflicted\nby your Arts."
+    },
+    {
+      "$id": 369,
+      "label": "ITM_SKL_IN_TIME_EX_GRDN01_OUTLINE",
+      "style": 153,
+      "name": "Extends Gravity Res Down effects inflicted\nby your Arts."
+    },
+    {
+      "$id": 370,
+      "label": "ITM_SKL_IN_FST_ARTS02_OUTLINE",
+      "style": 153,
+      "name": "Boosts damage for Opening Arts\nby a percentage."
+    },
+    {
+      "$id": 371,
+      "label": "ITM_SKL_IN_SOUL_RT_FOP01_OUTLINE",
+      "style": 153,
+      "name": "Boosts chances of triggering the\n\"Draw Melee\" Soul Voice by a percentage."
+    },
+    {
+      "$id": 372,
+      "label": "ITM_SKL_IN_SOUL_RT_SOP01_OUTLINE",
+      "style": 153,
+      "name": "Boosts chances of triggering the\n\"Draw Ranged\" Soul Voice by a percentage."
+    },
+    {
+      "$id": 373,
+      "label": "ITM_SKL_IN_SOUL_RT_ARTSOP01_OUTLINE",
+      "style": 153,
+      "name": "Boosts chances of triggering the\n\"Opening Art\" Soul Voice by a percentage."
+    },
+    {
+      "$id": 374,
+      "label": "ITM_SKL_IN_SOUL_RT_PINCH01_OUTLINE",
+      "style": 153,
+      "name": "Boosts chances of triggering the\n\"HP Risk\" Soul Voice by a percentage."
+    },
+    {
+      "$id": 375,
+      "label": "ITM_SKL_IN_SOUL_RT_BPINCH01_OUTLINE",
+      "style": 153,
+      "name": "Boosts chances of triggering the\n\"HP Peril\" Soul Voice by a percentage."
+    },
+    {
+      "$id": 376,
+      "label": "ITM_SKL_IN_SOUL_RT_DEATH01_OUTLINE",
+      "style": 153,
+      "name": "Boosts chances of triggering the\n\"Last Words\" Soul Voice by a percentage."
+    },
+    {
+      "$id": 377,
+      "label": "ITM_SKL_IN_SOUL_RT_CRTC01_OUTLINE",
+      "style": 153,
+      "name": "Boosts chances of triggering the\n\"Heavy Hitter\" Soul Voice by a percentage."
+    },
+    {
+      "$id": 378,
+      "label": "ITM_SKL_IN_SOUL_RT_PARTS01_OUTLINE",
+      "style": 153,
+      "name": "Boosts chances of triggering the\n\"Dismemberer\" Soul Voice by a percentage."
+    },
+    {
+      "$id": 379,
+      "label": "ITM_SKL_IN_SOUL_RT_BIG01_OUTLINE",
+      "style": 153,
+      "name": "Boosts chances of triggering the\n\"Underdog\" Soul Voice by a percentage."
+    },
+    {
+      "$id": 380,
+      "label": "ITM_SKL_IN_SOUL_RT_SPEX01_OUTLINE",
+      "style": 153,
+      "name": "Boosts chances of triggering the\n\"Artful Execution\" Soul Voice by a percentage."
+    },
+    {
+      "$id": 381,
+      "label": "ITM_SKL_IN_SOUL_RT_AURA01_OUTLINE",
+      "style": 153,
+      "name": "Boosts chances of triggering the\n\"Aura Ready\" Soul Voice by a percentage."
+    },
+    {
+      "$id": 382,
+      "label": "ITM_SKL_IN_SOUL_RT_GEAR01_OUTLINE",
+      "style": 153,
+      "name": "Boosts chances of triggering the\n\"Activate Overdrive\" Soul Voice by a percentage."
+    },
+    {
+      "$id": 383,
+      "label": "ITM_SKL_IN_RAIZE_HP01_OUTLINE",
+      "style": 153,
+      "name": "Boosts HP recovery by a percentage\nwhen revived."
+    },
+    {
+      "$id": 384,
+      "label": "ITM_SKL_IN_EXP_UP01_OUTLINE",
+      "style": 153,
+      "name": "Boosts experience received by a percentage."
+    },
+    {
+      "$id": 385,
+      "label": "ITM_SKL_IN_STEALTH_EYE01_OUTLINE",
+      "style": 153,
+      "name": "Reduces detection by shrinking enemy\nfield of view by a percentage."
+    },
+    {
+      "$id": 386,
+      "label": "ITM_SKL_IN_STEALTH_ROUND01_OUTLINE",
+      "style": 153,
+      "name": "Reduces detection by shrinking enemy\nauditory range by a percentage."
+    },
+    {
+      "$id": 387,
+      "label": "ITM_SKL_IN_PARTS_CDN00_OUTLINE",
+      "style": 153,
+      "name": "Softens enemy appendages by one tier."
+    },
+    {
+      "$id": 388,
+      "label": "ITM_SKL_IN_PARTS_TP01_OUTLINE",
+      "style": 153,
+      "name": "Boosts TP when destroying an enemy\nappendage."
+    },
+    {
+      "$id": 389,
+      "label": "ITM_SKL_IN_PARTS_DMG01_OUTLINE",
+      "style": 153,
+      "name": "Boosts ranged appendage damage by\na percentage."
+    },
+    {
+      "$id": 390,
+      "label": "ITM_SKL_IN_DMG_LAND01_OUTLINE",
+      "style": 153,
+      "name": "Reduces terrain damage by a percentage."
+    },
+    {
+      "$id": 391,
+      "label": "ITM_SKL_IN_EVA_SPIKE01_OUTLINE",
+      "style": 153,
+      "name": "Grants a chance of evading spike damage."
+    },
+    {
+      "$id": 392,
+      "label": "ITM_SKL_IN_TIGER_SKIN01_OUTLINE",
+      "style": 153,
+      "name": "Reduces enemy debuff resistance by\na percentage when landing an attack."
+    },
+    {
+      "$id": 393,
+      "label": "ITM_SKL_IN_TRESURE_SENSER01_OUTLINE",
+      "style": 153,
+      "name": "Boosts item drop rate by a percentage."
+    },
+    {
+      "$id": 394,
+      "label": "ITM_SKL_IN_BEST_DUSH01_OUTLINE",
+      "style": 153,
+      "name": "Boosts evasion by a percentage when sprinting."
+    },
+    {
+      "$id": 395,
+      "label": "ITM_SKL_IN_DEX_NIGHT01_OUTLINE",
+      "style": 153,
+      "name": "Boosts melee and ranged accuracy by\na percentage during the nighttime."
+    },
+    {
+      "$id": 396,
+      "label": "ITM_SKL_IN_RANGE_CON01_OUTLINE",
+      "style": 153,
+      "name": "Boosts evasion by a percentage when within\nenemy melee range."
+    },
+    {
+      "$id": 397,
+      "label": "ITM_SKL_IN_WEATHER_FOG00_OUTLINE",
+      "style": 153,
+      "name": "Grants immunity to the effects of fog."
+    },
+    {
+      "$id": 398,
+      "label": "ITM_SKL_IN_WEATHER_RAIN00_OUTLINE",
+      "style": 153,
+      "name": "Grants immunity to the effects of rain."
+    },
+    {
+      "$id": 399,
+      "label": "ITM_SKL_IN_WEATHER_HRAIN00_OUTLINE",
+      "style": 153,
+      "name": "Grants immunity to the effects of\nheavy rain."
+    },
+    {
+      "$id": 400,
+      "label": "ITM_SKL_IN_WEATHER_HEATWAVE00_OUTLINE",
+      "style": 153,
+      "name": "Grants immunity to the effects of\nheat waves."
+    },
+    {
+      "$id": 401,
+      "label": "ITM_SKL_IN_WEATHER_SAND00_OUTLINE",
+      "style": 153,
+      "name": "Grants immunity to the effects of\nsandstorms."
+    },
+    {
+      "$id": 402,
+      "label": "ITM_SKL_IN_WEATHER_TRAIN00_OUTLINE",
+      "style": 153,
+      "name": "Grants immunity to the effects of\nthunderstorms."
+    },
+    {
+      "$id": 403,
+      "label": "ITM_SKL_IN_WEATHER_ERECT00_OUTLINE",
+      "style": 153,
+      "name": "Grants immunity to the effects of\nelectromagnetic storms."
+    },
+    {
+      "$id": 404,
+      "label": "ITM_SKL_IN_WEATHER_PAR_A00_OUTLINE",
+      "style": 153,
+      "name": "Grants immunity to the effects of\nenergy mist."
+    },
+    {
+      "$id": 405,
+      "label": "ITM_SKL_IN_WEATHER_PAR_B00_OUTLINE",
+      "style": 153,
+      "name": "Grants immunity to the effects of\nrising energy mist."
+    },
+    {
+      "$id": 406,
+      "label": "ITM_SKL_IN_WEATHER_FIRERAIN00_OUTLINE",
+      "style": 153,
+      "name": "Grants immunity to the effects of\nbrimstone rain."
+    },
+    {
+      "$id": 407,
+      "label": "ITM_SKL_IN_WEATHER_HOUSI00_OUTLINE",
+      "style": 153,
+      "name": "Grants immunity to the effects of\nspore clouds."
+    },
+    {
+      "$id": 408,
+      "label": "ITM_SKL_IN_WEATHER_DMG01_OUTLINE",
+      "style": 153,
+      "name": "Reduces weather damage by a percentage."
+    }
+  ]
+}

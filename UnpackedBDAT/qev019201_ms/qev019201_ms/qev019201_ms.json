@@ -1,0 +1,420 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev019201_MSG0001",
+      "style": 1,
+      "name": "Where's that chump gone off to...?[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev019201_MSG0002",
+      "style": 1,
+      "name": "Muh? Wait, I know that face...\nYou're [ST:playername ], yeah?[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev019201_JNK0010",
+      "style": 4,
+      "name": "Confirm"
+    },
+    {
+      "$id": 4,
+      "label": "qev019201_SEL0011",
+      "style": 3,
+      "name": "Nod in agreement."
+    },
+    {
+      "$id": 5,
+      "label": "qev019201_JNK0020",
+      "style": 4,
+      "name": "Deny"
+    },
+    {
+      "$id": 6,
+      "label": "qev019201_SEL0021",
+      "style": 3,
+      "name": "Keep your identity concealed from the suspicious man."
+    },
+    {
+      "$id": 7,
+      "label": "qev019201_MSG0003",
+      "style": 1,
+      "name": "Ah-HA! I finally found you, you thievin' little punk!\nI got words for you, see?! We got problems![ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev019201_MSG0004",
+      "style": 1,
+      "name": "Not the least of which is that you made THE Tobias\nhike all the way out here just to chew you out![ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev019201_MSG0005",
+      "style": 1,
+      "name": "Oh yeah? Well, if you see [ST:gender p1=him p2=her ], I want you to pass on\na little message from me...[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev019201_MSG0006",
+      "style": 1,
+      "name": "Tell [ST:gender p1=him p2=her ] that Tobias is waiting outside the BLADE\nbarracks to put an end to [ST:gender p1=his p2=her ] little thieving spree.[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev019201_MSG0007",
+      "style": 1,
+      "name": "And if [ST:gender p1=he p2=she ] has the guts to turn up, I'll be there to give\n[ST:gender p1=him p2=her ] what-for![ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev019201_MSG0008",
+      "style": 1,
+      "name": "You've been planting data probes all over lately, yeah?\nThat make you feel good? Make you feel like the\nbig[ST:gender p1= man p2= lady ] on campus?[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev019201_MSG0009",
+      "style": 1,
+      "name": "Well, yank 'em back out! Every last one, you hear me?[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev019201_MSG0010",
+      "style": 1,
+      "name": "You've been costing me a fortune, and I am NOT the\nkind of man what likes folks messing with his wallet.\nWe clear?[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev019201_JNK0030",
+      "style": 4,
+      "name": "Provoke"
+    },
+    {
+      "$id": 16,
+      "label": "qev019201_SEL0031",
+      "style": 3,
+      "name": "Roll your eyes waaaaay back in your head."
+    },
+    {
+      "$id": 17,
+      "label": "qev019201_JNK0040",
+      "style": 4,
+      "name": "Discuss"
+    },
+    {
+      "$id": 18,
+      "label": "qev019201_SEL0041",
+      "style": 3,
+      "name": "Ask Tobias to explain what he's talking about."
+    },
+    {
+      "$id": 19,
+      "label": "qev019201_MSG0011",
+      "style": 1,
+      "name": "Oh, we got ourselves a real tough [ST:gender p1=guy p2=gal ] here!\nYou even got any idea what you've done, tough [ST:gender p1=guy p2=gal ]?[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev019201_MSG0012",
+      "style": 1,
+      "name": "...Wait. You mean you been raiding people's turf\nwithout even REALIZING it?[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev019201_MSG0013",
+      "style": 1,
+      "name": "Well, here's the deal—every stupid data probe you stick\nin the ground cuts into the number of users accessing\nMINE! That clear enough for ya?[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev019201_MSG0014",
+      "style": 1,
+      "name": "I been sitting there watching my profits drop day by\nday, and I don't like it one damn bit.[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev019201_MSG0015",
+      "style": 1,
+      "name": "...Huh? The Lifehold? Aw, who gives a crap?\nI'm talking 'bout cash here, pal! MY cash![ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev019201_MSG0016",
+      "style": 1,
+      "name": "Look, pal, if brains were dynamite you couldn't blow\nyour nose, so lemme spell it out for you real slow...\nAll the money...in New LA...is MINE![ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev019201_MSG0017",
+      "style": 1,
+      "name": "Any of those cowards wants to know about the world\noutside, they can keep accessing my research data\nprobes just like they always have.[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev019201_JNK0050",
+      "style": 4,
+      "name": "Argue"
+    },
+    {
+      "$id": 27,
+      "label": "qev019201_SEL0051",
+      "style": 3,
+      "name": "Mount a passionate rebuttal\nagainst Tobias's unfair claim."
+    },
+    {
+      "$id": 28,
+      "label": "qev019201_JNK0060",
+      "style": 4,
+      "name": "Mock"
+    },
+    {
+      "$id": 29,
+      "label": "qev019201_SEL0061",
+      "style": 3,
+      "name": "Rub your fingers together like you're\nplaying the world's smallest violin."
+    },
+    {
+      "$id": 30,
+      "label": "qev019201_MSG0018",
+      "style": 1,
+      "name": "...Rules? Duty? Forget that noise! I'm talking about cash\nhere, pal! Cold hard credits! You get me?[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev019201_MSG0019",
+      "style": 1,
+      "name": "I got no time for your stupid excuses, so if you won't\nlisten to me, that's fine.[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev019201_MSG0020",
+      "style": 1,
+      "name": "...The hell is that smug look about, pal?\nI don't give two rips if you wanna listen to me or not.[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev019201_MSG0021",
+      "style": 1,
+      "name": "Enough talk! We're gonna have us a little wager to see\nwho the REAL boss is around here.[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev019201_MSG0022",
+      "style": 1,
+      "name": "...Easy there, ya mad dog. I ain't talking violence.\nAll them medical bills are a waste of money.[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev019201_MSG0023",
+      "style": 1,
+      "name": "I'm saying we race to earn 70 large with FrontierNav.\n...That's 70,000 credits, in case you're still slow.[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev019201_MSG0024",
+      "style": 1,
+      "name": "Loser does whatever the winner says. ...Well?\nAre ya gonna accept, or are ya...chicken?\nBaaawk bawk bawk bawk![ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev019201_MSG0025",
+      "style": 1,
+      "name": "Ha! Then the deal is done, and YOU, pal, are the\nworld's biggest idiot.[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev019201_MSG0026",
+      "style": 1,
+      "name": "You even know who I am? I'm a damned genius\nPathfinder! A prodigal! Ain't no BLADE can outearn\nme, least of all some little punk like you.[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "qev019201_MSG0027",
+      "style": 1,
+      "name": "I'm gonna wring 70,000 credits out of FrontierNav so\nfast your head'll spin right off your body.\nRIGHT THE HELL OFF IT![ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "qev019201_MSG0028",
+      "style": 1,
+      "name": "Bwa ha ha! You don't even KNOW, pal!\nI got money flying at me so fast, I gotta parry it![ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "qev019201_MSG0029",
+      "style": 1,
+      "name": "New LA's a sad little cage full'a sad little people.\nGive 'em a little peek at the outside world,\nand they pay through the nose![ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "qev019201_MSG0030",
+      "style": 1,
+      "name": "You're crazy if you think I'm letting you horn in on a\nracket this sweet.[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "qev019201_MSG0031",
+      "style": 1,
+      "name": "I'll have a piddling 70,000 credits in no time, and then\nyou can wave bye-bye to all your data probes![ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "qev019201_MSG0032",
+      "style": 1,
+      "name": "How goes, you thieving little punk? Bad? Ha!\nMe, I'm just shy of that 70 grand.[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "qev019201_MSG0033",
+      "style": 1,
+      "name": "You even got two nickels to rub together yet?\nCome on—just bow down and admit defeat already.[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "qev019201_JNK0070",
+      "style": 4,
+      "name": "Inform"
+    },
+    {
+      "$id": 47,
+      "label": "qev019201_SEL0071",
+      "style": 3,
+      "name": "Calmly inform Tobias that you completed the wager."
+    },
+    {
+      "$id": 48,
+      "label": "qev019201_JNK0080",
+      "style": 4,
+      "name": "Gloat"
+    },
+    {
+      "$id": 49,
+      "label": "qev019201_SEL0081",
+      "style": 3,
+      "name": "Tell Tobias you won. Then laugh in his fat face."
+    },
+    {
+      "$id": 50,
+      "label": "qev019201_MSG0034",
+      "style": 1,
+      "name": "You seem awfully calm. You give up ye...[ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "qev019201_MSG0035",
+      "style": 1,
+      "name": "The hell you laughing about, pal? You go craz...[ST:wait ]"
+    },
+    {
+      "$id": 52,
+      "label": "qev019201_MSG0036",
+      "style": 1,
+      "name": "WHAT? You got the full 70,000 simoleons?\n...Nah, there ain't no WAY you beat ol' Tobias![ST:wait ]"
+    },
+    {
+      "$id": 53,
+      "label": "qev019201_MSG0037",
+      "style": 1,
+      "name": "You're a lying dog, and I'm gonna prove it right...\nAh, hell.[ST:wait ]"
+    },
+    {
+      "$id": 54,
+      "label": "qev019201_MSG0038",
+      "style": 1,
+      "name": "Fine. You got it.[ST:wait ]"
+    },
+    {
+      "$id": 55,
+      "label": "qev019201_MSG0039",
+      "style": 1,
+      "name": "But how the hell'd you get it so fast, huh? I'm calling\nfoul on this! Dirty pool! It ain't possible, you hear me?\nYou're a dirty cheatin' fink![ST:wait ]"
+    },
+    {
+      "$id": 56,
+      "label": "qev019201_JNK0090",
+      "style": 4,
+      "name": "Divulge"
+    },
+    {
+      "$id": 57,
+      "label": "qev019201_SEL0091",
+      "style": 3,
+      "name": "Explain your methodical installation methods.[ST:wait ]"
+    },
+    {
+      "$id": 58,
+      "label": "qev019201_JNK0100",
+      "style": 4,
+      "name": "Conceal"
+    },
+    {
+      "$id": 59,
+      "label": "qev019201_SEL0101",
+      "style": 3,
+      "name": "Hint at your wide range of awesome secret techniques."
+    },
+    {
+      "$id": 60,
+      "label": "qev019201_MSG0040",
+      "style": 1,
+      "name": "And whaddya think I'VE been doing over here, huh?\nEating bonbons? I done walked every CORNER of this\nstupid planet looking for places to put research probes![ST:wait ]"
+    },
+    {
+      "$id": 61,
+      "label": "qev019201_MSG0041",
+      "style": 1,
+      "name": "What? But I know every FrontierNav trick in the book.\nHell, I WROTE that book![ST:wait ]"
+    },
+    {
+      "$id": 62,
+      "label": "qev019201_MSG0042",
+      "style": 1,
+      "name": "I've been at this for a lot longer than you, pal, so why?\nWhy, huh? WHY?![ST:wait ]"
+    },
+    {
+      "$id": 63,
+      "label": "qev019201_MSG0043",
+      "style": 1,
+      "name": "What are you doing that I ain't?![ST:wait ]"
+    },
+    {
+      "$id": 64,
+      "label": "qev019201_MSG0044",
+      "style": 1,
+      "name": "Or are you gonna spew the same pap Kirsty did about\nyour \"love for FrontierNav\"? Barf![ST:wait ]"
+    },
+    {
+      "$id": 65,
+      "label": "qev019201_MSG0045",
+      "style": 1,
+      "name": "No... No, this don't count. I won't accept it!\nThis ain't over by a long shot![ST:wait ]"
+    },
+    {
+      "$id": 66,
+      "label": "qev019201_MSG0046",
+      "style": 1,
+      "name": "I'm gonna find every last person who accesses your\nresearch probes and make sure they go back to\nwatching mine![ST:wait ]"
+    },
+    {
+      "$id": 67,
+      "label": "qev019201_MSG0047",
+      "style": 1,
+      "name": "Enjoy your piddling profits till then, chump! Rrragh![ST:wait ]"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev300031_MSG0001",
+      "style": 1,
+      "name": "You here with that miranium?[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev300031_MSG0002",
+      "style": 1,
+      "name": "I tell you, between Skell maintenance and the other\nheavy machinery, we really chew through the stuff.\nI could use about 1,800 units this time.[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev300031_JNK0010",
+      "style": 4,
+      "name": "Deliver[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev300031_SEL0011",
+      "style": 3,
+      "name": "Hand over 1,800 units of miranium.[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev300031_JNK0020",
+      "style": 4,
+      "name": "Keep[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev300031_SEL0021",
+      "style": 3,
+      "name": "Hold on to your miranium for now.[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev300031_MSG0004",
+      "style": 1,
+      "name": "Thanks a bunch. See you again soon, I hope?[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev300031_MSG0005",
+      "style": 1,
+      "name": "No dice? Well, give a shout if you change your mind.[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev300031_MSG0006",
+      "style": 1,
+      "name": "Huh. Don't think you've quite got 1,800 units there.\nI'd prefer to get it all at once if you don't mind,\nso whenever you get it in, just lemme know.[ST:wait ]"
+    }
+  ]
+}

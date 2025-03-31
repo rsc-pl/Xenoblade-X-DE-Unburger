@@ -1,0 +1,402 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev096102_MSG0001",
+      "style": 1,
+      "name": "Commander Vandham told me you'd be stopping by\nto take the Skell license exam.[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev096102_MSG0002",
+      "style": 1,
+      "name": "Do you have your certifications from the eight\nproficiency exams?[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev096102_MSG0003",
+      "style": 1,
+      "name": "...Yep, looks like a full set. Nice work.[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev096102_MSG0004",
+      "style": 1,
+      "name": "We're ready for the final exam.[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev096102_MSG0005",
+      "style": 1,
+      "name": "No need to stress, though. It's a simple verbal quiz.[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev096102_MSG0006",
+      "style": 1,
+      "name": "We had you run missions for each of the eight\ndivisions, and there's a reason for that.[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev096102_MSG0007",
+      "style": 1,
+      "name": "Care to guess what it might be?[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev096102_JNK0010",
+      "style": 4,
+      "name": "Deduce"
+    },
+    {
+      "$id": 9,
+      "label": "qev096102_SEL0011",
+      "style": 3,
+      "name": "Say that it was to better understand the\nrole each division plays within BLADE."
+    },
+    {
+      "$id": 10,
+      "label": "qev096102_JNK0020",
+      "style": 4,
+      "name": "Joke"
+    },
+    {
+      "$id": 11,
+      "label": "qev096102_SEL0021",
+      "style": 3,
+      "name": "Say that it was Vandham's way of hazing you."
+    },
+    {
+      "$id": 12,
+      "label": "qev096102_MSG0008",
+      "style": 1,
+      "name": "Exactly! Now you've got a feel for each one's particular\nflavor.[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev096102_MSG0009",
+      "style": 1,
+      "name": "Hopefully that's given you a few ideas of how you can\nput a Skell to use.[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev096102_MSG0010",
+      "style": 1,
+      "name": "Heh. Believe me, he's put me through plenty—\nbut it wasn't just spite that motivated this call.[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev096102_MSG0011",
+      "style": 1,
+      "name": "I expect those missions have given you a feel for each\ndivision's particular flavor.[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev096102_MSG0012",
+      "style": 1,
+      "name": "Hopefully that's given you a few ideas of how you can\nput a Skell to use.[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev096102_MSG0013",
+      "style": 1,
+      "name": "Anyway, that's one reason. But there's another.[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev096102_MSG0014",
+      "style": 1,
+      "name": "There aren't exactly enough Skells to go around all of\nthe divisions.[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev096102_MSG0015",
+      "style": 1,
+      "name": "Sometimes situations arise where people have to cross\ndivision lines and cooperate to get things done.[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev096102_MSG0016",
+      "style": 1,
+      "name": "For efficiency's sake, it's important that everyone knows\nhow the other divisions work.[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev096102_MSG0017",
+      "style": 1,
+      "name": "Make sense?[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev096102_JNK0030",
+      "style": 4,
+      "name": "Confirm"
+    },
+    {
+      "$id": 23,
+      "label": "qev096102_SEL0031",
+      "style": 3,
+      "name": "Nod in understanding."
+    },
+    {
+      "$id": 24,
+      "label": "qev096102_JNK0040",
+      "style": 4,
+      "name": "Deny"
+    },
+    {
+      "$id": 25,
+      "label": "qev096102_SEL0041",
+      "style": 3,
+      "name": "Shake your head in confusion."
+    },
+    {
+      "$id": 26,
+      "label": "qev096102_MSG0018",
+      "style": 1,
+      "name": "Hmm. Guess I wasn't very clear.[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev096102_MSG0019",
+      "style": 1,
+      "name": "I'll try again. We can keep going over it till it clicks.[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev096102_MSG0020",
+      "style": 1,
+      "name": "Better that than letting a BLADE run wild in a Skell\nwithout understanding what it means.[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev096102_MSG0021",
+      "style": 1,
+      "name": "Each of the eight divisions has its own characteristic\ntraits.[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev096102_MSG0022",
+      "style": 1,
+      "name": "You should have gotten a feel for that over the course\nof those tests—the types of work they do and the role\nthey serve in New LA are all different.[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev096102_MSG0023",
+      "style": 1,
+      "name": "And each uses Skells differently as well.[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev096102_MSG0024",
+      "style": 1,
+      "name": "Keep that in mind when deciding how to put yours to\nproductive use.[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev096102_MSG0025",
+      "style": 1,
+      "name": "Oh, and one more thing.[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev096102_MSG0026",
+      "style": 1,
+      "name": "There's a limit to the number of Skells we've got.[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev096102_MSG0027",
+      "style": 1,
+      "name": "Sometimes we need to pool those resources and work\ntogether to get things done.[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev096102_MSG0028",
+      "style": 1,
+      "name": "Knowing everyone's role is crucial to making such joint\noperations run smoothly.[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev096102_MSG0029",
+      "style": 1,
+      "name": "Clearer now?[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev096102_JNK0050",
+      "style": 4,
+      "name": "Confirm"
+    },
+    {
+      "$id": 39,
+      "label": "qev096102_SEL0051",
+      "style": 3,
+      "name": "Nod in understanding."
+    },
+    {
+      "$id": 40,
+      "label": "qev096102_JNK0060",
+      "style": 4,
+      "name": "Deny"
+    },
+    {
+      "$id": 41,
+      "label": "qev096102_SEL0061",
+      "style": 3,
+      "name": "Say you're still confused."
+    },
+    {
+      "$id": 42,
+      "label": "qev096102_MSG0030",
+      "style": 1,
+      "name": "Good. Then you are now cleared to own and operate\na Skell![ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "qev096102_MSG0031",
+      "style": 1,
+      "name": "I'll authorize your license now.[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "qev096102_MSG0032",
+      "style": 1,
+      "name": "I also get to share some good news—looks like you're\nbeing given a free Skell, compliments of Vandham.[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "qev096102_MSG0033",
+      "style": 1,
+      "name": "It's parked in the hangar in the back.\nGo introduce yourself and give it a test ride.[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "qev096102_JNK0070",
+      "style": 4,
+      "name": "Thank"
+    },
+    {
+      "$id": 47,
+      "label": "qev096102_SEL0071",
+      "style": 3,
+      "name": "Tell Walter how much you appreciate his help."
+    },
+    {
+      "$id": 48,
+      "label": "qev096102_JNK0080",
+      "style": 4,
+      "name": "Provoke"
+    },
+    {
+      "$id": 49,
+      "label": "qev096102_SEL0081",
+      "style": 3,
+      "name": "Demand that everyone on your team receive a free Skell."
+    },
+    {
+      "$id": 50,
+      "label": "qev096102_MSG0034",
+      "style": 1,
+      "name": "Just doing my own job. Really, Vandham is the one\nyou should be thanking.[ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "qev096102_MSG0035",
+      "style": 1,
+      "name": "He must expect big things from you—it's a rare day a\nrookie pilot gets issued a Skell free of charge.[ST:wait ]"
+    },
+    {
+      "$id": 52,
+      "label": "qev096102_MSG0036",
+      "style": 1,
+      "name": "I look forward to seeing what you do with it.[ST:wait ]"
+    },
+    {
+      "$id": 53,
+      "label": "qev096102_MSG0037",
+      "style": 1,
+      "name": "...Wow. You've got brass, I'll give you that.[ST:wait ]"
+    },
+    {
+      "$id": 54,
+      "label": "qev096102_MSG0038",
+      "style": 1,
+      "name": "Commander Vandham paid for that Skell out of his\nown private funds.[ST:wait ]"
+    },
+    {
+      "$id": 55,
+      "label": "qev096102_MSG0039",
+      "style": 1,
+      "name": "And you're going to go and ask for... Just...wow.[ST:wait ]"
+    },
+    {
+      "$id": 56,
+      "label": "qev096102_MSG0040",
+      "style": 1,
+      "name": "Yeah, I don't think I'm comfortable issuing a license to\nsomeone who can't appreciate the kindness of others.[ST:wait ]"
+    },
+    {
+      "$id": 57,
+      "label": "qev096102_MSG0041",
+      "style": 1,
+      "name": "Retest![ST:wait ]"
+    },
+    {
+      "$id": 58,
+      "label": "qev096102_MSG0042",
+      "style": 1,
+      "name": "You'll start the whole process over from the beginning.[ST:wait ]"
+    },
+    {
+      "$id": 59,
+      "label": "qev096102_MSG0043",
+      "style": 1,
+      "name": "Er, no. That's too easy. I'm adding a hundred hours of\nmandatory classroom training on top of it![ST:wait ]"
+    },
+    {
+      "$id": 60,
+      "label": "qev096102_MSG0044",
+      "style": 1,
+      "name": "...Is what I SHOULD say.[ST:wait ]"
+    },
+    {
+      "$id": 61,
+      "label": "qev096102_MSG0045",
+      "style": 1,
+      "name": "Seriously, though, if the commander heard you he'd\nbe crying right now. And is that what you want?\nBig salty Vandham tears all over the place?[ST:wait ]"
+    },
+    {
+      "$id": 62,
+      "label": "qev096102_MSG0046",
+      "style": 1,
+      "name": "All right. If you've learned your lesson, go take your\nSkell for a ride. Commander Vandham and I both are\nexpecting great things.[ST:wait ]"
+    },
+    {
+      "$id": 63,
+      "label": "qev096102_MSG0047",
+      "style": 1,
+      "name": "Go become an ace pilot and make yourself useful to\nBLADE, all right?[ST:wait ]"
+    },
+    {
+      "$id": 64,
+      "label": "qev096102_MSG0048",
+      "style": 1,
+      "name": "Head on back in the hangar. I'm sure your Skell is\ndying to meet its new owner.[ST:wait ]"
+    }
+  ]
+}

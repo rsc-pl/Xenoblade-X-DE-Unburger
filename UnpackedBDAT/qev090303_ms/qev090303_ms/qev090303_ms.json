@@ -1,0 +1,84 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev090303_MSG0001_02",
+      "style": 0,
+      "name": "Should be around here, based on the coordinates...[ST:wait ]\n"
+    },
+    {
+      "$id": 2,
+      "label": "qev090303_MSG0001",
+      "style": 0,
+      "name": "Hey, look! It's... Is that a person?[ST:wait ]\n"
+    },
+    {
+      "$id": 3,
+      "label": "qev090303_MSG0003",
+      "style": 0,
+      "name": "I knew it! He's alive! He stuck it out here all on his own![ST:wait ]\n"
+    },
+    {
+      "$id": 4,
+      "label": "qev090303_JNK0010",
+      "style": 4,
+      "name": "Agree"
+    },
+    {
+      "$id": 5,
+      "label": "qev090303_SEL0011",
+      "style": 3,
+      "name": "Say that must be him."
+    },
+    {
+      "$id": 6,
+      "label": "qev090303_JNK0020",
+      "style": 4,
+      "name": "Warn"
+    },
+    {
+      "$id": 7,
+      "label": "qev090303_SEL0021",
+      "style": 3,
+      "name": "Tell Yelv to be careful."
+    },
+    {
+      "$id": 8,
+      "label": "qev090303_MSG0004",
+      "style": 0,
+      "name": "Hey! Hey, it's me! It's Yelv![ST:wait ]\n"
+    },
+    {
+      "$id": 9,
+      "label": "qev090303_MSG0005",
+      "style": 0,
+      "name": "Careful? Careful of WHAT?![ST:wait ]\n"
+    },
+    {
+      "$id": 10,
+      "label": "qev090303_MSG0006",
+      "style": 0,
+      "name": "...Wait.[ST:wait ]\n"
+    },
+    {
+      "$id": 11,
+      "label": "qev090303_MSG0007",
+      "style": 0,
+      "name": "That's... Ah, crap! Look out![ST:wait ]\n"
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev025702_MSG0001",
+      "style": 1,
+      "name": "You need something, perhaps?[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev025702_MSG0002",
+      "style": 1,
+      "name": "Because I'm not working right now, so I'm basically\ndoing nothing. Which I guess makes me free for\nwhatever?[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev025702_JNK0010",
+      "style": 4,
+      "name": "Get Measurements"
+    },
+    {
+      "$id": 4,
+      "label": "qev025702_SEL0011",
+      "style": 3,
+      "name": "Ask Veverta for her measurements."
+    },
+    {
+      "$id": 5,
+      "label": "qev025702_JNK0020",
+      "style": 4,
+      "name": "Worry"
+    },
+    {
+      "$id": 6,
+      "label": "qev025702_SEL0021",
+      "style": 3,
+      "name": "Express concern for Veverta's jobless status."
+    },
+    {
+      "$id": 7,
+      "label": "qev025702_MSG0003",
+      "style": 1,
+      "name": "You must be a friend of Panyar, no? In THAT case,\nI'll tell you anything you you want. What measurements\ndid you need?[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev025702_MSG0004",
+      "style": 1,
+      "name": "...Bust, waist, and hip? Easy enough. Wait just a\nminute and I'll go take the readings, okay?[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev025702_MSG0005",
+      "style": 1,
+      "name": "Here are my measurements, okay? So, um, just what\ndo you need these for, anyway?[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev025702_MSG0006",
+      "style": 1,
+      "name": "...Underwear? That sounds kind of of interesting.\nMaybe I'll give them a try once they're available?[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev025702_MSG0007",
+      "style": 1,
+      "name": "Aw, that's nice of you, but but but don't worry, okay?\nMy mother and father both have fine fine jobs,\nyou see?[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev025702_MSG0008",
+      "style": 1,
+      "name": "Wearing clothes under your clothes is so so strange,\nisn't it? You must let me know when they're ready![ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev025702_MSG0009",
+      "style": 1,
+      "name": "How did that underwear turn out?\nGreat? Very very great?[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev025702_MSG0010",
+      "style": 1,
+      "name": "...They were a failure?\nAw, that's a shame, isn't it?[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev025702_MSG0011",
+      "style": 1,
+      "name": "Oh, but don't feel bad about me, okay?\nI had too much free time anyway.\n...Plus it was a fun distraction, wasn't it?[ST:wait ]"
+    }
+  ]
+}

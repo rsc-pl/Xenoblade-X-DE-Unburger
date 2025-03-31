@@ -1,0 +1,342 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev023301_JNK0010",
+      "style": 4,
+      "name": "Inquire"
+    },
+    {
+      "$id": 2,
+      "label": "tev023301_SEL0011",
+      "style": 3,
+      "name": "Ask Sherry about the weather in Primordia."
+    },
+    {
+      "$id": 3,
+      "label": "tev023301_JNK0020",
+      "style": 4,
+      "name": "Discuss"
+    },
+    {
+      "$id": 4,
+      "label": "tev023301_SEL0021",
+      "style": 3,
+      "name": "Ask Sherry if she's heard any interesting rumors."
+    },
+    {
+      "$id": 5,
+      "label": "tev023301_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 6,
+      "label": "tev023301_SEL0031",
+      "style": 3,
+      "name": "Ask Sherry about BLADE's\ntheater of operations on Mira."
+    },
+    {
+      "$id": 7,
+      "label": "tev023301_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 8,
+      "label": "tev023301_SEL0041",
+      "style": 3,
+      "name": "Ask Sherry if she's heard any interesting rumors."
+    },
+    {
+      "$id": 9,
+      "label": "tev023301_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 10,
+      "label": "tev023301_SEL0051",
+      "style": 3,
+      "name": "Ask Sherry about Sylvalum."
+    },
+    {
+      "$id": 11,
+      "label": "tev023301_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 12,
+      "label": "tev023301_SEL0061",
+      "style": 3,
+      "name": "Ask Sherry if she's heard any interesting rumors."
+    },
+    {
+      "$id": 13,
+      "label": "tev023301_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 14,
+      "label": "tev023301_SEL0071",
+      "style": 3,
+      "name": "Ask Sherry about Sylvalum."
+    },
+    {
+      "$id": 15,
+      "label": "tev023301_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 16,
+      "label": "tev023301_SEL0081",
+      "style": 3,
+      "name": "Ask Sherry if she's heard any interesting rumors."
+    },
+    {
+      "$id": 17,
+      "label": "tev023301_SEL1021",
+      "style": 3,
+      "name": "Ask Sherry about recent developments."
+    },
+    {
+      "$id": 18,
+      "label": "tev023301_MSG0001",
+      "style": 1,
+      "name": "The weather on Mira changes abruptly and often.\nThey say it's as fickle as a young lover's heart.[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "tev023301_MSG0002",
+      "style": 1,
+      "name": "Oftentimes you'll head out on a bright, clear morning\nand end up soaked from thunderstorms by noon.[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "tev023301_MSG0003",
+      "style": 1,
+      "name": "Veteran BLADEs tend to carry a wide variety of\nequipment in order to respond to changing weather.[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "tev023301_MSG0004",
+      "style": 1,
+      "name": "For example, electrified weaponry is especially effective\nduring thunderstorms![ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "tev023301_MSG0010",
+      "style": 1,
+      "name": "Did you hear about the BLADE who found an unusual\nflower while she was on a mission in Primordia?[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "tev023301_MSG0011",
+      "style": 1,
+      "name": "It turned out to be an indigen that was just\ncamouflaged as a flower. Thing attacked her out of\nnowhere—she's lucky she wasn't killed.[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "tev023301_MSG0012",
+      "style": 1,
+      "name": "I hear the poor girl is totally traumatized now.[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "tev023301_MSG0013",
+      "style": 1,
+      "name": "Even the get-well flowers she's been receiving have left\nher screaming and shaking like a leaf, poor thing.[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "tev023301_MSG0020",
+      "style": 1,
+      "name": "What are you talking about?\nThis entire planet is BLADE's theater of operations![ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "tev023301_MSG0021",
+      "style": 1,
+      "name": "BLADEs are pushing through to the far corners of\nMira—crossing fields, climbing mountains, island\nhopping over seas, whatever it takes![ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "tev023301_MSG0022",
+      "style": 1,
+      "name": "And when they hurt themselves doing it,\nthey get dragged right back here to me.[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "tev023301_MSG0023",
+      "style": 1,
+      "name": "But when that happens, I'll take good care of you.\nSo don't be afraid to get out there and do some\nadventuring![ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "tev023301_MSG0030",
+      "style": 1,
+      "name": "Did you know that some particularly dangerous\nindigens self-destruct when they're near death?[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "tev023301_MSG0031",
+      "style": 1,
+      "name": "One indigen was chased down and surrounded by an\nentire team of BLADEs when it detonated.[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "tev023301_MSG0032",
+      "style": 1,
+      "name": "I know because they were all brought in here\nafterward—one big happy family of injured![ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "tev023301_MSG0033",
+      "style": 1,
+      "name": "So if you're a BLADE yourself, please be careful.\nNever drop your guard until the battle is well and\ntruly over.[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "tev023301_MSG0040",
+      "style": 1,
+      "name": "That's the continent to the far north or northeast of\nhere, right?[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "tev023301_MSG0041",
+      "style": 1,
+      "name": "Sounds like a pretty dangerous region. We see a lot of\nfallen BLADEs carried back from there.[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "tev023301_MSG0042",
+      "style": 1,
+      "name": "Though some veteran BLADEs say it's just a passage to\nthe true hell that lies even farther north.[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "tev023301_MSG0043",
+      "style": 1,
+      "name": "Regardless, if you're going to Sylvalum,\nmake sure that you're especially well prepared.[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "tev023301_MSG0050",
+      "style": 1,
+      "name": "Apparently some intelligent indigens sap their target's\nwill to fight before they strike.[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "tev023301_MSG0051",
+      "style": 1,
+      "name": "Even after we patch them up, BLADEs that were struck\nby such lethargy-inducing attacks remain languid and\ndispirited.[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "tev023301_MSG0052",
+      "style": 1,
+      "name": "I try to rouse them out of it by singing and dancing,\nbuuuuut...yeah. It never gets much of a reaction.[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "tev023301_MSG0053",
+      "style": 1,
+      "name": "What do you BLADEs do out on the field to raise\neach other's spirits?[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "tev023301_MSG0060",
+      "style": 1,
+      "name": "I heard there's an incredible scenic viewpoint at\nthe peak of a jagged mountain in central Sylvalum.[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "tev023301_MSG0061",
+      "style": 1,
+      "name": "When the mist clears, you get a sweeping view of the\nwhite earth below, dotted by beautifully shimmering\ntrees.[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "tev023301_MSG0062",
+      "style": 1,
+      "name": "I know this because some BLADEs have become\nentranced by the view and ended up losing their\nbalance and tumbling down the mountain.[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "tev023301_MSG0063",
+      "style": 1,
+      "name": "That's one hell of an endorsement!\nI'd sure love to see it for myself one day.[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "tev023301_MSG0070",
+      "style": 1,
+      "name": "Sometimes BLADEs get complacent when battling\nindigens they've fought dozens of times before.[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "tev023301_MSG0071",
+      "style": 1,
+      "name": "Then the battle takes a turn, the BLADE gets an\nunexpected beating, and they end up here.[ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "tev023301_MSG0072",
+      "style": 1,
+      "name": "Any group of indigens could contain an individual\nthat's far more powerful than normal.[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "tev023301_MSG0073",
+      "style": 1,
+      "name": "So even a gifted BLADE like yourself should take every\nbattle seriously.[ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "tev023301_MSG1001",
+      "style": 1,
+      "name": "I came to this restaurant once to escort Ni Zain back\nto the maintenance center.[ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "tev023301_MSG1002",
+      "style": 1,
+      "name": "But I ended up falling madly in love with the curry they\nsell, and now it's the only thing I eat. ...Seriously.\nEvery meal. Breakfast, lunch, AND dinner.[ST:wait ]"
+    },
+    {
+      "$id": 52,
+      "label": "tev023301_MSG1003",
+      "style": 1,
+      "name": "I know I've become like a Ma-non addicted to pizza,\nbut I can't help it! It's just so damn good![ST:wait ]"
+    },
+    {
+      "$id": 53,
+      "label": "tev023301_MSG1004",
+      "style": 1,
+      "name": "I can't even describe what makes it so good.\nIt's not spicy or sweet, really. Just...exquisite![ST:wait ]"
+    },
+    {
+      "$id": 54,
+      "label": "tev023301_MSG1005",
+      "style": 1,
+      "name": "I'm drooling just thinking about it... Mmmrrrggghhh...\nMust...have...one more bowl...[ST:wait ]"
+    }
+  ]
+}

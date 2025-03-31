@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev051305_MSG0001",
+      "style": 1,
+      "name": "Have you managed to locate the key?[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev051305_MSG0002",
+      "style": 1,
+      "name": "The Celeste Three's vault is here. Now all that remains\nis to open it with those keys.[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev051305_MSG0003",
+      "style": 1,
+      "name": "Please don't keep my master waiting.[ST:wait ]"
+    }
+  ]
+}

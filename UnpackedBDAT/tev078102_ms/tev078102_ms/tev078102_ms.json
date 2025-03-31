@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev078102_MSG0001",
+      "style": 1,
+      "name": "At the moment, I'm having Nococche repair my\nbackpack for me. *fsssh*[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev078102_MSG0002",
+      "style": 1,
+      "name": "However, it's been nothing but grumbles and groans\nfrom her for quite some time now. *fsssh*\nI wonder if she can actually fix it?[ST:wait ]"
+    }
+  ]
+}

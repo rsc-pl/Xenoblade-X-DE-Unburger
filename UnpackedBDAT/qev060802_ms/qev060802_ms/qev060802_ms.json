@@ -1,0 +1,402 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev060802_MSG0049",
+      "style": 1,
+      "name": "My friend Nococche is repairing my backpack at the\nmoment. *fsssh*[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev060802_MSG0050",
+      "style": 1,
+      "name": "She's been mumbling for a while, though. *fsssh*\nDo you suppose she will be able to handle it?[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev060802_MSG0051",
+      "style": 1,
+      "name": "So you volunteered to find the part needed to repair\nmy backpack? *fsssh* I really appreciate it.[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev060802_MSG0052",
+      "style": 1,
+      "name": "Between you and Nococche, it seems like everyone in\nthis city is so friendly and helpful! *fsssh*[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev060802_MSG0001",
+      "style": 1,
+      "name": "*fsssh* Nococche won't get up! What...\nWhat could have happened?[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev060802_JNK0010",
+      "style": 4,
+      "name": "Deduce"
+    },
+    {
+      "$id": 7,
+      "label": "qev060802_SEL0011",
+      "style": 3,
+      "name": "Ask if it's possible that she inhaled voltant."
+    },
+    {
+      "$id": 8,
+      "label": "qev060802_JNK0020",
+      "style": 4,
+      "name": "Soothe"
+    },
+    {
+      "$id": 9,
+      "label": "qev060802_SEL0021",
+      "style": 3,
+      "name": "Try to help Atheron calm down."
+    },
+    {
+      "$id": 10,
+      "label": "qev060802_MSG0002",
+      "style": 1,
+      "name": "You're right! *fsssh* She said it was leaking from the\nbackpack, didn't she?![ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev060802_MSG0003",
+      "style": 1,
+      "name": "She's been poring over it this whole time with barely\nany breaks—she must have been exposed! *fsssh*[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev060802_MSG0004",
+      "style": 1,
+      "name": "Sorry. You're right. There must be some cause. *fsssh*[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev060802_MSG0005",
+      "style": 1,
+      "name": "Er, you don't suppose...[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev060802_MSG0006",
+      "style": 1,
+      "name": "*fsssh* Could she have inhaled some voltant that leaked\nfrom my backpack?[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev060802_MSG0007",
+      "style": 1,
+      "name": "That has to be it. *fsssh* She's been here poring over it\nthis whole time, after all.[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev060802_MSG0008",
+      "style": 1,
+      "name": "I'm sorry to ask more of you, but is there any way you\ncould go to Cauldros to look for a couple of mottled\nmums and some ore called parhelion platinum? *fsssh*[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev060802_MSG0009",
+      "style": 1,
+      "name": "I can make a devoltanizing extract from them that\nshould be able to save Nococche. *fsssh*[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev060802_MSG0010",
+      "style": 1,
+      "name": "Please. She was the first friend I made here in the city.[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev060802_MSG0011",
+      "style": 1,
+      "name": "*fsssh* If I killed her—and with sacred voltant no less—\nI just couldn't bear it.[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev060802_MSG0012",
+      "style": 1,
+      "name": "Nococche was so eager to fix my backpack for me,\nand I wound up poisoning her. *fsssh*[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev060802_MSG0013",
+      "style": 1,
+      "name": "But if you can bring me two mottled mums and, say,\nfive pieces of parhelion platinum, I think I can save her.\n*fsssh* ...No. I promise I will![ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev060802_MSG0014",
+      "style": 1,
+      "name": "*fsssh* Have you found the mottled mums and\nparhelion platinum?[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev060802_MSG0015",
+      "style": 1,
+      "name": "The color's draining from her face... *fsssh*\nShe's weakening.[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev060802_MSG0016",
+      "style": 1,
+      "name": "Yes, that's exactly what I needed! *fsssh*\nI'll just absorb those into me...[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev060802_MSG0017",
+      "style": 1,
+      "name": "*fsssssssssh*[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev060802_MSG0018",
+      "style": 1,
+      "name": "Uurgh...aaAAAH! *fsssh*\nI can...feel the voltant surging...inside me...[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev060802_MSG0019",
+      "style": 1,
+      "name": "I won't let my...friend die... *fsssh* *fsssh* *fsssh*\nHrrrrrngh! ...There. If I give this to Nococche,\nshe should improve.[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev060802_MSG0020",
+      "style": 1,
+      "name": "......[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev060802_MSG0021",
+      "style": 1,
+      "name": "...Nnngh.[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev060802_MSG0022",
+      "style": 1,
+      "name": "...Mmm? Was I sleeping?[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev060802_JNK0030",
+      "style": 4,
+      "name": "Query"
+    },
+    {
+      "$id": 32,
+      "label": "qev060802_SEL0031",
+      "style": 3,
+      "name": "Ask Atheron what in the world he just did."
+    },
+    {
+      "$id": 33,
+      "label": "qev060802_JNK0040",
+      "style": 4,
+      "name": "Worry"
+    },
+    {
+      "$id": 34,
+      "label": "qev060802_SEL0041",
+      "style": 3,
+      "name": "Ask Nococche how she feels."
+    },
+    {
+      "$id": 35,
+      "label": "qev060802_MSG0023",
+      "style": 1,
+      "name": "We produce an extract when we devoltanize. *fsssh*\nI used some to neutralize the voltant inside her body.[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev060802_MSG0024",
+      "style": 1,
+      "name": "It takes a very precise mixture, and this is the first time\nI've heard of anyone trying it on a non-Zaruboggan.\nI'm relieved it worked! *fsssh*[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev060802_MSG0025",
+      "style": 1,
+      "name": "More refreshed and awake than I have been in a long\nwhile, after that nap. Er, should I feel differently?[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev060802_MSG0026",
+      "style": 1,
+      "name": "That means the voltant was removed successfully.\nI'm so glad! *fsssh*[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "qev060802_MSG0027",
+      "style": 1,
+      "name": "I feel like I'm missing something here, but I guess\nit sounds like everything worked out?[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "qev060802_MSG0028",
+      "style": 1,
+      "name": "How is that backpack working, Atheron?\nNo problems?[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "qev060802_MSG0029",
+      "style": 1,
+      "name": "It's perfect, thank you. *fsssh*\nAnd you're sure your body feels all right?[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "qev060802_MSG0030",
+      "style": 1,
+      "name": "Better than ever. Probably thanks to that big nap\nI took, don't you think?[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "qev060802_MSG0031",
+      "style": 1,
+      "name": "*fsssh* I guess we both owe [ST:playername ]\nfor all [ST:gender p1=his p2=her ] help.[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "qev060802_MSG0032",
+      "style": 1,
+      "name": "Oh? Oh! Yes, of course. You have my thanks.[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "qev060802_MSG0033",
+      "style": 1,
+      "name": "Here is a little something to show our gratitude,\nif that's all right?[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "qev060802_MSG0034",
+      "style": 1,
+      "name": "And I've learned my lesson. *fsssh* From here on out,\nI'll be extra thorough about maintaining my backpack.[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "qev060802_MSG0035",
+      "style": 1,
+      "name": "It could turn into a major tragedy if it started leaking\nvoltant in the middle of New LA. *fsssh*[ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "qev060802_JNK0050",
+      "style": 4,
+      "name": "Worry about NLA"
+    },
+    {
+      "$id": 49,
+      "label": "qev060802_SEL0051",
+      "style": 3,
+      "name": "Fret about whether the city is at risk."
+    },
+    {
+      "$id": 50,
+      "label": "qev060802_JNK0060",
+      "style": 4,
+      "name": "Worry about Atheron"
+    },
+    {
+      "$id": 51,
+      "label": "qev060802_SEL0061",
+      "style": 3,
+      "name": "Express concern for the burden placed on Atheron."
+    },
+    {
+      "$id": 52,
+      "label": "qev060802_MSG0036",
+      "style": 1,
+      "name": "Your propensity to always think of the whole is very...\nWell, it is very Zaruboggan, really. *fsssh*\nI think you would get along well with my companions.[ST:wait ]"
+    },
+    {
+      "$id": 53,
+      "label": "qev060802_MSG0037",
+      "style": 1,
+      "name": "*fsssh* But if a large-scale incident WERE to occur,\nwe would surely be kicked out of New LA, right?[ST:wait ]"
+    },
+    {
+      "$id": 54,
+      "label": "qev060802_MSG0038",
+      "style": 1,
+      "name": "Since coming here, we've become friends with you\nhumans and these amazing Ma-non. *fsssh*\nI simply couldn't bear to leave.[ST:wait ]"
+    },
+    {
+      "$id": 55,
+      "label": "qev060802_MSG0039",
+      "style": 1,
+      "name": "No cause for worry. By this point, I probably have the\nentire construction of your backpack memorized?[ST:wait ]"
+    },
+    {
+      "$id": 56,
+      "label": "qev060802_MSG0040",
+      "style": 1,
+      "name": "Burn it, break it, crush it to dust—it doesn't matter.\nI can put it back together in no time, you see?[ST:wait ]"
+    },
+    {
+      "$id": 57,
+      "label": "qev060802_MSG0041",
+      "style": 1,
+      "name": "You will have a home here for as long as you like,\nall right? So so so don't worry about that.[ST:wait ]"
+    },
+    {
+      "$id": 58,
+      "label": "qev060802_MSG0042",
+      "style": 1,
+      "name": "Thank you, Nococche. *fsssh*[ST:wait ]"
+    },
+    {
+      "$id": 59,
+      "label": "qev060802_MSG0043",
+      "style": 1,
+      "name": "I feel a new sort of connection with you. *fsssh*\nOne unlike the bond I share with other Zaruboggan.[ST:wait ]"
+    },
+    {
+      "$id": 60,
+      "label": "qev060802_MSG0044",
+      "style": 1,
+      "name": "*fsssh* You're like Nococche.\nAlways worrying more about me than yourself.[ST:wait ]"
+    },
+    {
+      "$id": 61,
+      "label": "qev060802_MSG0045",
+      "style": 1,
+      "name": "Still, thank you. But there is no need to worry. *fsssh*\nWe take pride in these bodies we've been granted by\nGolbogga.[ST:wait ]"
+    },
+    {
+      "$id": 62,
+      "label": "qev060802_MSG0046",
+      "style": 1,
+      "name": "They will hold, and we never consider our mission a\nburden. If anything, I'm eager to go out there and\ndevoltanize more! *fsssh*[ST:wait ]"
+    },
+    {
+      "$id": 63,
+      "label": "qev060802_MSG0047",
+      "style": 1,
+      "name": "Hmm. That is a largely foreign sentiment to me,\nbut if you can go about your work happy and healthy,\nI suppose that's all that matters, isn't it?[ST:wait ]"
+    },
+    {
+      "$id": 64,
+      "label": "qev060802_MSG0048",
+      "style": 1,
+      "name": "And then we come home to this city and all the\nwonderful friends we've made here. *fsssh*\nYes, us Zaruboggan will be just fine.[ST:wait ]"
+    }
+  ]
+}

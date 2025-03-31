@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev092801_MSG0010",
+      "style": 0,
+      "name": "Hey, Liesel here. Been a while, huh?[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev092801_MSG0020",
+      "style": 0,
+      "name": "If you've got the time,\ncould you head over to meet me?[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev092801_MSG0030",
+      "style": 0,
+      "name": "I, uh...I might need a little help.\nIt's about Hraesvelg.[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev092801_MSG0040",
+      "style": 0,
+      "name": "Alicia's waiting for you too.\nWe'll see you soon.[ST:wait ]"
+    }
+  ]
+}

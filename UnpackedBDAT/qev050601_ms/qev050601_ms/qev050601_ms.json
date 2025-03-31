@@ -1,0 +1,612 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev050601_MSG0001",
+      "style": 1,
+      "name": "We march upon Cauldros to smite our long-sworn foe![ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev050601_MSG0002",
+      "style": 1,
+      "name": "You! Human! You are the vaunted warrior who bested\neven the blade of our own prince, yes?[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev050601_MSG0003",
+      "style": 1,
+      "name": "Your people and mine are joined by blood oath.\nWill you do us the great honor of joining in this fight?[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev050601_JNK0010",
+      "style": 4,
+      "name": "Query"
+    },
+    {
+      "$id": 5,
+      "label": "qev050601_SEL0011",
+      "style": 3,
+      "name": "Ask Ni Zinga what they are planning to do."
+    },
+    {
+      "$id": 6,
+      "label": "qev050601_JNK0020",
+      "style": 4,
+      "name": "Guess"
+    },
+    {
+      "$id": 7,
+      "label": "qev050601_SEL0021",
+      "style": 3,
+      "name": "Ask Ni Zinga if they're off to\npick a fight with the Ganglion."
+    },
+    {
+      "$id": 8,
+      "label": "qev050601_MSG0004",
+      "style": 1,
+      "name": "After first landing on this planet, many of my fellow\nWrothians were devoured by the vile queen jacul.\nWe go now to slit her belly and retrieve their bones.[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev050601_MSG0005",
+      "style": 1,
+      "name": "The time will come when they pay for sullying the\nhonor of the Wrothians. But today is not that day.[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev050601_MSG0006",
+      "style": 1,
+      "name": "After first landing on this planet, many of my kind were\ndevoured by the vile beast known as the queen jacul.\nBut today, she is our prey![ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev050601_MSG0007",
+      "style": 1,
+      "name": "By custom, vengeance should be claimed by Wrothian\nhands alone...[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev050601_MSG0008",
+      "style": 1,
+      "name": "But time and wear have dulled our weapons and\nshattered our Skells, and those with the skill to repair\nthem met their end in the foul queen's maw.[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev050601_MSG0009",
+      "style": 1,
+      "name": "To go alone would be to die with vengeance unwon.\nAnd so it is that I swallow my pride and beg your\nassistance.[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev050601_MSG0010",
+      "style": 1,
+      "name": "Will you march with us to still the breath of the putrid\nqueen jacul forever?[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev050601_JNK0210",
+      "style": 4,
+      "name": "Refuse"
+    },
+    {
+      "$id": 16,
+      "label": "qev050601_SEL0211",
+      "style": 3,
+      "name": "Say that you're busy at the moment."
+    },
+    {
+      "$id": 17,
+      "label": "qev050601_JNK0220",
+      "style": 4,
+      "name": "Accept"
+    },
+    {
+      "$id": 18,
+      "label": "qev050601_SEL0221",
+      "style": 3,
+      "name": "Nod grimly."
+    },
+    {
+      "$id": 19,
+      "label": "qev050601_MSG0064",
+      "style": 1,
+      "name": "I see. But I fear that without your strength,\nthis battle is lost before it begins.[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev050601_MSG0065",
+      "style": 1,
+      "name": "If ever you find time to help, I humbly ask that you\ncome speak with me.[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev050601_MSG0011",
+      "style": 1,
+      "name": "We will not forget this debt. Now let the hunt begin![ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev050601_MSG0012",
+      "style": 1,
+      "name": "Ah, look! The Three Talons! Excellent timing.\nThis fine human will join our hunt, my friends.[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev050601_MSG0013",
+      "style": 1,
+      "name": "General, this is a matter for Wrothian hands alone.\nWe need enlist no help from outsiders.[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev050601_MSG0014",
+      "style": 1,
+      "name": "Well said, brother. We will avenge our father ourselves.\nWe have trained long and hard for that very purpose![ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev050601_MSG0015",
+      "style": 1,
+      "name": "No foe can stand against the combined might of\nDa Naguth the Cutting Wind, Da Girhi\nthe Thundercrash, and Da Zeulbe the Boulder-Smasher![ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev050601_MSG0016",
+      "style": 1,
+      "name": "My siblings and I require no further assistance,\nleast of all from a scrawny outsider![ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev050601_JNK0030",
+      "style": 4,
+      "name": "Challenge"
+    },
+    {
+      "$id": 28,
+      "label": "qev050601_SEL0031",
+      "style": 3,
+      "name": "Say you're tougher than the Three Talons combined."
+    },
+    {
+      "$id": 29,
+      "label": "qev050601_JNK0040",
+      "style": 4,
+      "name": "Downplay"
+    },
+    {
+      "$id": 30,
+      "label": "qev050601_SEL0041",
+      "style": 3,
+      "name": "Admit that you're no Wrothian,\nbut you'll do your best."
+    },
+    {
+      "$id": 31,
+      "label": "qev050601_MSG0017",
+      "style": 1,
+      "name": "Keh! A bold boast! But I shall need proof that your\nbravery is not mere talk.[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev050601_MSG0018",
+      "style": 1,
+      "name": "It seems our guest is aware of [ST:gender p1=his p2=her ] limitations, at least.[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev050601_MSG0019",
+      "style": 1,
+      "name": "But the foe we face is deadly. An ally without absolute\nconfidence in [ST:gender p1=his p2=her ] abilities is naught but a liability.[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev050601_MSG0020",
+      "style": 1,
+      "name": "I will hear no squabbling! I know and respect the\nstrength of the Three Talons, but I will not have you\ndie needlessly.[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev050601_MSG0021",
+      "style": 1,
+      "name": "May we spar with this warrior you have found before\nmarching on the queen jacul, then?[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev050601_MSG0022",
+      "style": 1,
+      "name": "Knowing an ally's strength is paramount when trusting\nthem with one's back in battle.[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev050601_MSG0023",
+      "style": 1,
+      "name": "If we decide [ST:gender p1=he p2=she ] is more liability than asset,\nthen I must insist that [ST:gender p1=he p2=she ] stays behind.\nIt would not do to lead an ally into certain death.[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev050601_MSG0024",
+      "style": 1,
+      "name": "No doubt you wish to know the caliber of those you\nwill be fighting with as well, friend?[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "qev050601_JNK0050",
+      "style": 4,
+      "name": "Agree"
+    },
+    {
+      "$id": 40,
+      "label": "qev050601_SEL0051",
+      "style": 3,
+      "name": "Nod and say that it crossed your mind."
+    },
+    {
+      "$id": 41,
+      "label": "qev050601_JNK0060",
+      "style": 4,
+      "name": "Disagree"
+    },
+    {
+      "$id": 42,
+      "label": "qev050601_SEL0061",
+      "style": 3,
+      "name": "Admit that you aren't particularly interested."
+    },
+    {
+      "$id": 43,
+      "label": "qev050601_MSG0025",
+      "style": 1,
+      "name": "And rightly so! Then we shall\nawait you atop Stickstone Rise.[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "qev050601_MSG0026",
+      "style": 1,
+      "name": "We shall endeavor to do you no lasting harm,\nbut I advise you to come prepared just the same.[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "qev050601_MSG0027",
+      "style": 1,
+      "name": "Then you think our strength to be irrelevant?\nOr perhaps you plan to perform this hunt alone?\nBrave words, human.[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "qev050601_MSG0028",
+      "style": 1,
+      "name": "Then meet us atop Stickstone Rise! We shall do our\nbest to respond to your valor in kind.[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "qev050601_MSG0029",
+      "style": 1,
+      "name": "Both of their parents were killed by the queen jacul.\nNo doubt they wish to avenge that loss themselves.[ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "qev050601_MSG0030",
+      "style": 1,
+      "name": "But I am in command of this operation, and will not\nallow them to die in vain. This is why I have gathered\nhelp such as yours.[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "qev050601_MSG0031",
+      "style": 1,
+      "name": "I ask that you go and defeat the Three Talons,\nthat the siblings may learn the limits of their strength.[ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "qev050601_MSG0032",
+      "style": 1,
+      "name": "Ha ha! The Three Talons came and asked for the\nhonor of joining you in this hunt, just as I anticipated.[ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "qev050601_MSG0033",
+      "style": 1,
+      "name": "Though I am surprised by just how emphatic\nDa Naguth was, for he is not quick to\nacknowledge others. You must truly be a rare talent.[ST:wait ]"
+    },
+    {
+      "$id": 52,
+      "label": "qev050601_JNK0070",
+      "style": 4,
+      "name": "Boast"
+    },
+    {
+      "$id": 53,
+      "label": "qev050601_SEL0071",
+      "style": 3,
+      "name": "Claim that you're the strongest BLADE on Mira."
+    },
+    {
+      "$id": 54,
+      "label": "qev050601_JNK0080",
+      "style": 4,
+      "name": "Shrug"
+    },
+    {
+      "$id": 55,
+      "label": "qev050601_SEL0081",
+      "style": 3,
+      "name": "Humbly say that you're just an average BLADE."
+    },
+    {
+      "$id": 56,
+      "label": "qev050601_MSG0034",
+      "style": 1,
+      "name": "Ha ha ha! It seems that I have invited a legend into our\nmidst without realizing it.[ST:wait ]"
+    },
+    {
+      "$id": 57,
+      "label": "qev050601_MSG0035",
+      "style": 1,
+      "name": "Modesty well befits a warrior. And yet, an imposing\naura pours forth from you. You cannot hide it.[ST:wait ]"
+    },
+    {
+      "$id": 58,
+      "label": "qev050601_MSG0036",
+      "style": 1,
+      "name": "With the combined might of you and the Three Talons,\neven the queen jacul is nothing to fear.\nNow, let us begin the briefing.[ST:wait ]"
+    },
+    {
+      "$id": 59,
+      "label": "qev050601_MSG0037",
+      "style": 1,
+      "name": "Our quarry rarely alights on the ground. To lure her\ndown, we must first slay her minions around Cauldros.[ST:wait ]"
+    },
+    {
+      "$id": 60,
+      "label": "qev050601_MSG0038",
+      "style": 1,
+      "name": "To do this, we will need to cover considerable ground.\nYou and the Talons will each split up and defeat the\nminions in your own area.[ST:wait ]"
+    },
+    {
+      "$id": 61,
+      "label": "qev050601_MSG0039",
+      "style": 1,
+      "name": "Once the queen shows herself, the first to sight her will\nhail the others to that location. When you regroup,\nyou will unite and take her down![ST:wait ]"
+    },
+    {
+      "$id": 62,
+      "label": "qev050601_MSG0040",
+      "style": 1,
+      "name": "Hmm... A rather loose plan, is it not?[ST:wait ]"
+    },
+    {
+      "$id": 63,
+      "label": "qev050601_MSG0041",
+      "style": 1,
+      "name": "Have we no word on her weaknesses?\nAll we have ever seen is her flying away while\ncovered in the blood of our fellows.[ST:wait ]"
+    },
+    {
+      "$id": 64,
+      "label": "qev050601_MSG0042",
+      "style": 1,
+      "name": "Beyond that, we have no idea what manner of foe we\nface.[ST:wait ]"
+    },
+    {
+      "$id": 65,
+      "label": "qev050601_MSG0043",
+      "style": 1,
+      "name": "She seems to share the same nature as her minions.\n[ST:playername ], you have faced their kind\nbefore, have you not?[ST:wait ]"
+    },
+    {
+      "$id": 66,
+      "label": "qev050601_MSG0044",
+      "style": 1,
+      "name": "You are alone in that.\nMight you share your experience with us?[ST:wait ]"
+    },
+    {
+      "$id": 67,
+      "label": "qev050601_JNK0090",
+      "style": 4,
+      "name": "Suggest Physical[ST:wait ]"
+    },
+    {
+      "$id": 68,
+      "label": "qev050601_SEL0091",
+      "style": 3,
+      "name": "Say that jaculs are weak to physical damage."
+    },
+    {
+      "$id": 69,
+      "label": "qev050601_JNK0100",
+      "style": 4,
+      "name": "Suggest Flame[ST:wait ]"
+    },
+    {
+      "$id": 70,
+      "label": "qev050601_SEL0101",
+      "style": 3,
+      "name": "Say that jaculs are weak to fire."
+    },
+    {
+      "$id": 71,
+      "label": "qev050601_JNK0110",
+      "style": 4,
+      "name": "Suggest Lightning[ST:wait ]"
+    },
+    {
+      "$id": 72,
+      "label": "qev050601_SEL0111",
+      "style": 3,
+      "name": "Say that jaculs are weak to electricity."
+    },
+    {
+      "$id": 73,
+      "label": "qev050601_MSG0045",
+      "style": 1,
+      "name": "Hmm, I see. And what manner of attacks should we be\non the lookout for?[ST:wait ]"
+    },
+    {
+      "$id": 74,
+      "label": "qev050601_JNK0120",
+      "style": 4,
+      "name": "Warn of Gravity[ST:wait ]"
+    },
+    {
+      "$id": 75,
+      "label": "qev050601_SEL0121",
+      "style": 3,
+      "name": "Tell the Wrothians to watch out\nfor powerful gravity attacks.[ST:wait ]"
+    },
+    {
+      "$id": 76,
+      "label": "qev050601_JNK0130",
+      "style": 4,
+      "name": "Warn of Lasers[ST:wait ]"
+    },
+    {
+      "$id": 77,
+      "label": "qev050601_SEL0131",
+      "style": 3,
+      "name": "Explain that jaculs shoot lasers from their horns.[ST:wait ]"
+    },
+    {
+      "$id": 78,
+      "label": "qev050601_JNK0140",
+      "style": 4,
+      "name": "Warn of Charging[ST:wait ]"
+    },
+    {
+      "$id": 79,
+      "label": "qev050601_SEL0141",
+      "style": 3,
+      "name": "Claim that the birds use their horns to charge.[ST:wait ]"
+    },
+    {
+      "$id": 80,
+      "label": "qev050601_MSG0046",
+      "style": 1,
+      "name": "You observed your opponent well in such a short time.[ST:wait ]"
+    },
+    {
+      "$id": 81,
+      "label": "qev050601_MSG0047",
+      "style": 1,
+      "name": "That gives us more than enough to go on.\nLeave the rear guard to me![ST:wait ]"
+    },
+    {
+      "$id": 82,
+      "label": "qev050601_MSG0048",
+      "style": 1,
+      "name": "Very well. We shall depart for Cauldros now, General.[ST:wait ]"
+    },
+    {
+      "$id": 83,
+      "label": "qev050601_MSG0049",
+      "style": 1,
+      "name": "Let us smoke out this vile queen and defeat her as one,\n[ST:playername ]![ST:wait ]"
+    },
+    {
+      "$id": 84,
+      "label": "qev050601_MSG0050",
+      "style": 1,
+      "name": "It is time. Aid the Three Talons and smite this evil that\nhas taken so many Wrothian lives. May victory be\nyours![ST:wait ]"
+    },
+    {
+      "$id": 85,
+      "label": "qev050601_MSG0051",
+      "style": 1,
+      "name": "That was a black day. Those of us left at the base\nwere unable to give it so much as a scratch.[ST:wait ]"
+    },
+    {
+      "$id": 86,
+      "label": "qev050601_MSG0052",
+      "style": 1,
+      "name": "Please be careful—they are far stronger quarry than\nyour average indigens. They are, in truth, as demons,\nborn only to kill and devour men.[ST:wait ]"
+    },
+    {
+      "$id": 87,
+      "label": "qev050601_MSG0053",
+      "style": 1,
+      "name": "You have returned alive! ...And your quarry?\nIs the queen jacul dead?[ST:wait ]"
+    },
+    {
+      "$id": 88,
+      "label": "qev050601_MSG0054",
+      "style": 1,
+      "name": "Excellent! Then you and the Three Talons brought her\nto bay and delivered final justice![ST:wait ]"
+    },
+    {
+      "$id": 89,
+      "label": "qev050601_MSG0055",
+      "style": 1,
+      "name": "Thank you, my friend. Many fallen Wrothians will now\nknow peace. Please accept this in payment.[ST:wait ]"
+    },
+    {
+      "$id": 90,
+      "label": "qev050601_MSG0056",
+      "style": 1,
+      "name": "Mmm. In the days to come, I aim to train the Three\nTalons into true masters. They are as sons and\ndaughter to me, and I will raise them with pride.[ST:wait ]"
+    },
+    {
+      "$id": 91,
+      "label": "qev050601_MSG0057",
+      "style": 1,
+      "name": "In time, they will join me in destroying our tormentors,\nthe Ganglion. I hope that you shall fight at our side on\nthat glorious day![ST:wait ]"
+    },
+    {
+      "$id": 92,
+      "label": "qev050601_MSG0051",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 93,
+      "label": "qev050601_MSG0052",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 94,
+      "label": "qev050601_MSG0058",
+      "style": 1,
+      "name": "You have returned alive! ...And your quarry?\nIs the queen jacul dead?[ST:wait ]"
+    },
+    {
+      "$id": 95,
+      "label": "qev050601_MSG0059",
+      "style": 1,
+      "name": "...What? The beast is slain, but she killed all three of\nthe Talons? O blackest of days![ST:wait ]"
+    },
+    {
+      "$id": 96,
+      "label": "qev050601_MSG0060",
+      "style": 1,
+      "name": "Still, they were warriors all and knew the risks.\nAt least they can rest well knowing that their slayer\nmet grim justice.[ST:wait ]"
+    },
+    {
+      "$id": 97,
+      "label": "qev050601_MSG0061",
+      "style": 1,
+      "name": "Thank you, my friend. This victory is your doing.\nPlease accept this reward.[ST:wait ]"
+    },
+    {
+      "$id": 98,
+      "label": "qev050601_MSG0062",
+      "style": 1,
+      "name": "I lost my own son to that monster. He was their age,\nand I had come to see the Talons like my own children\nin the days since.[ST:wait ]"
+    },
+    {
+      "$id": 99,
+      "label": "qev050601_MSG0063",
+      "style": 1,
+      "name": "The least I can do now is mourn them as sons and\ndaughter. I will see that they are properly laid to rest.[ST:wait ]"
+    }
+  ]
+}

@@ -1,0 +1,456 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev030501_MSG0001",
+      "style": 1,
+      "name": "Thea! Have you eaten today?[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev030501_MSG0002",
+      "style": 1,
+      "name": "I know how you feel. But you must care for yourself.\nIt is important.[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev030501_MSG0003",
+      "style": 1,
+      "name": "I know. Thank you. I am all right.[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev030501_MSG0004",
+      "style": 1,
+      "name": "You are not. You never dance as you once did.\nThat is proof.[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev030501_MSG0005",
+      "style": 1,
+      "name": "...Hmm? Are you BLADE?\nOne finally comes to our aid![ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev030501_JNK0010",
+      "style": 4,
+      "name": "Inquire"
+    },
+    {
+      "$id": 7,
+      "label": "qev030501_SEL0011",
+      "style": 3,
+      "name": "Ask Hala what she needs done."
+    },
+    {
+      "$id": 8,
+      "label": "qev030501_JNK0020",
+      "style": 4,
+      "name": "Worry"
+    },
+    {
+      "$id": 9,
+      "label": "qev030501_SEL0021",
+      "style": 3,
+      "name": "Show concern for the clearly depressed Thea."
+    },
+    {
+      "$id": 10,
+      "label": "qev030501_MSG0006",
+      "style": 1,
+      "name": "You must lay fallen warrior to rest. He was Quegga.\nThea was to be his mate.[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev030501_MSG0007",
+      "style": 1,
+      "name": "He stayed in Oblivia and fought Ganglion so we might\nescape. He died as proud warrior.[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev030501_MSG0008",
+      "style": 1,
+      "name": "He deserves Prone death-custom of spirit rest.\nHe must become flesh and blood of mighty beast.[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev030501_MSG0009",
+      "style": 1,
+      "name": "His body must be eaten. Then he will know peace.\nThen Thea will know peace.[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev030501_MSG0010",
+      "style": 1,
+      "name": "She was betrothed. He was killed.[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev030501_MSG0011",
+      "style": 1,
+      "name": "He was brave warrior. He was called Quegga.\nHe stayed in Oblivia and held back our pursuers.\nHe died protecting woman he loved.[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev030501_MSG0012",
+      "style": 1,
+      "name": "He deserves proper send-off.\nFor this, I need BLADE assistance.[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev030501_MSG0013",
+      "style": 1,
+      "name": "But you are busy. Must be busy.\nAll this time, no one responds.[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev030501_MSG0014",
+      "style": 1,
+      "name": "But now you have come.\nPlease give Thea comfort.[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev030501_MSG0015",
+      "style": 1,
+      "name": "Please feed Quegga's body to mighty beast.\nThis is proper. This is Prone way.[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev030501_MSG0016",
+      "style": 1,
+      "name": "Be careful. Cavern Clan scum still prowl Oblivia.[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev030501_MSG0017",
+      "style": 1,
+      "name": "They are strong. They stop us laying Quegga to rest.\nIt is hard to wait. Hard for all.[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev030501_MSG0018",
+      "style": 1,
+      "name": "Aunt Hala? [ST:gender p1=He p2=She ] will return Quegga to beasts?[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev030501_MSG0019",
+      "style": 1,
+      "name": "Yes! Then Quegga's spirit can depart for new lands.[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev030501_MSG0020",
+      "style": 1,
+      "name": "You must also move on. You have gift of dance.\nYou must share it with world.[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev030501_MSG0021",
+      "style": 1,
+      "name": "No. Quegga is not here to see.\nDancing will bring only emptiness. Pain.[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev030501_MSG0022",
+      "style": 1,
+      "name": "Thea is skilled in dances of Prone. But she is poor girl.\nStubborn girl.[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev030501_MSG0023",
+      "style": 1,
+      "name": "For many suns, she captured hearts of clansmen with\ndance. But now nothing. Not since that day.[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev030501_MSG0024",
+      "style": 1,
+      "name": "It is sad waste. You must agree.\nYou must also want to see such beauty![ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev030501_JNK0030",
+      "style": 4,
+      "name": "Agree"
+    },
+    {
+      "$id": 30,
+      "label": "qev030501_SEL0031",
+      "style": 3,
+      "name": "Express interest in seeing Thea dance."
+    },
+    {
+      "$id": 31,
+      "label": "qev030501_JNK0040",
+      "style": 4,
+      "name": "Brush Off"
+    },
+    {
+      "$id": 32,
+      "label": "qev030501_SEL0041",
+      "style": 3,
+      "name": "Explain that dancing isn't really your...thing."
+    },
+    {
+      "$id": 33,
+      "label": "qev030501_MSG0025",
+      "style": 1,
+      "name": "Of course. Yes. All more reason to lay Quegga to rest.\nThen her heart is free. She can dance once more.[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev030501_MSG0026",
+      "style": 1,
+      "name": "Yours is dry life. Are all BLADEs so joyless?[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev030501_MSG0027",
+      "style": 1,
+      "name": "No matter. You only need to do job.\nYour life is your business.[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev030501_MSG0028",
+      "style": 1,
+      "name": "Contact me when you find Quegga's body.\nIt is in Oblivia. In Barbarich Desert.[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev030501_MSG0029",
+      "style": 1,
+      "name": "I will explain details of Prone funeral then.[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev030501_MSG0030",
+      "style": 1,
+      "name": "Quegga's body is in Barbarich Desert.\nHe stopped Ganglion there. He let us escape.[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "qev030501_MSG0031",
+      "style": 1,
+      "name": "He was brave fool. Bighearted fool.\nHe left behind fine woman.[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "qev030501_MSG0032",
+      "style": 1,
+      "name": "He deserves to be fed to beast.\nBeast as large and reckless as him![ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "qev030501_MSG0033",
+      "style": 1,
+      "name": "Go find his body. Then contact me.[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "qev030501_MSG0034",
+      "style": 1,
+      "name": "I ask you to find Quegga's gift.\nI ask you to send off Quegga's spirit.\nI ask much of you.[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "qev030501_MSG0035",
+      "style": 1,
+      "name": "It brings Thea comfort. She deserves comfort.\nThe world deserves to see her dance again.[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "qev030501_MSG0036",
+      "style": 1,
+      "name": "Have you sent Quegga on, [ST:playername ]?[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "qev030501_MSG0037",
+      "style": 1,
+      "name": "I see. He has become flesh of falsaxum. Very good.[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "qev030501_MSG0038",
+      "style": 1,
+      "name": "Now you must retrieve what he left behind.\nIt is in Scabland Fortress. Good luck. Be safe.[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "qev030501_MSG0039",
+      "style": 1,
+      "name": "Have you sent Quegga on, [ST:playername ]?[ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "qev030501_MSG0040",
+      "style": 1,
+      "name": "I see. He has become flesh of falsaxum. Very good.[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "qev030501_MSG0041",
+      "style": 1,
+      "name": "His body has been devoured by powerful beast.\nNow his soul will know peace.[ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "qev030501_MSG0042",
+      "style": 1,
+      "name": "...And item he hid? Have you found that?[ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "NewText_75",
+      "style": 1,
+      "name": "This... Oh![ST:wait ]"
+    },
+    {
+      "$id": 52,
+      "label": "qev030501_MSG0043",
+      "style": 1,
+      "name": "Thea! Look! Fool Quegga left this for you.\nThen stood against Ganglion.[ST:wait ]"
+    },
+    {
+      "$id": 53,
+      "label": "qev030501_MSG0044",
+      "style": 1,
+      "name": "...It is dancer's costume.[ST:wait ]"
+    },
+    {
+      "$id": 54,
+      "label": "qev030501_MSG0045",
+      "style": 1,
+      "name": "When Ganglion captured us, he had gift for me.\nHe made it in secret.[ST:wait ]"
+    },
+    {
+      "$id": 55,
+      "label": "qev030501_MSG0046",
+      "style": 1,
+      "name": "...It was this.[ST:wait ]"
+    },
+    {
+      "$id": 56,
+      "label": "qev030501_MSG0047",
+      "style": 1,
+      "name": "Poor girl. Quegga is no longer with us.\nBut you know what he tells you.[ST:wait ]"
+    },
+    {
+      "$id": 57,
+      "label": "qev030501_MSG0048",
+      "style": 1,
+      "name": "......[ST:wait ]"
+    },
+    {
+      "$id": 58,
+      "label": "qev030501_MSG0049",
+      "style": 1,
+      "name": "Poor girl. Foolish girl.[ST:wait ]"
+    },
+    {
+      "$id": 59,
+      "label": "qev030501_MSG0050",
+      "style": 1,
+      "name": "You found this, [ST:playername ].\nTell her what it means.[ST:wait ]"
+    },
+    {
+      "$id": 60,
+      "label": "qev030501_JNK0050",
+      "style": 4,
+      "name": "Explain"
+    },
+    {
+      "$id": 61,
+      "label": "qev030501_SEL0051",
+      "style": 3,
+      "name": "Say that Quegga wished for Thea to keep dancing."
+    },
+    {
+      "$id": 62,
+      "label": "qev030501_JNK0060",
+      "style": 4,
+      "name": "Watch"
+    },
+    {
+      "$id": 63,
+      "label": "qev030501_SEL0061",
+      "style": 3,
+      "name": "Stay silent as Thea grasps for words."
+    },
+    {
+      "$id": 64,
+      "label": "qev030501_MSG0051",
+      "style": 1,
+      "name": "Ah... Ahhh![ST:wait ]"
+    },
+    {
+      "$id": 65,
+      "label": "qev030501_MSG0052",
+      "style": 1,
+      "name": "I know. Of course I know.\nI know him better than any spirit in this world.[ST:wait ]"
+    },
+    {
+      "$id": 66,
+      "label": "qev030501_MSG0053",
+      "style": 1,
+      "name": "He loved my dancing more than anyone.[ST:wait ]"
+    },
+    {
+      "$id": 67,
+      "label": "qev030501_MSG0054",
+      "style": 1,
+      "name": "But I ran away. I betrayed him in grief.[ST:wait ]"
+    },
+    {
+      "$id": 68,
+      "label": "qev030501_MSG0055",
+      "style": 1,
+      "name": "Thea...[ST:wait ]"
+    },
+    {
+      "$id": 69,
+      "label": "qev030501_MSG0056",
+      "style": 1,
+      "name": "I will be reborn. I will take name of beast that\nconsumed his spirit.[ST:wait ]"
+    },
+    {
+      "$id": 70,
+      "label": "qev030501_MSG0057",
+      "style": 1,
+      "name": "I am Thea Falsaxum!\nI will dance until last ember of my spirit goes dark![ST:wait ]"
+    },
+    {
+      "$id": 71,
+      "label": "qev030501_MSG0058",
+      "style": 1,
+      "name": "Brave girl! How I have waited for those words.[ST:wait ]"
+    },
+    {
+      "$id": 72,
+      "label": "qev030501_MSG0059",
+      "style": 1,
+      "name": "Thank you. Thea found her strength because of you.[ST:wait ]"
+    },
+    {
+      "$id": 73,
+      "label": "qev030501_MSG0060",
+      "style": 1,
+      "name": "Please take this. ...And come see her dance soon![ST:wait ]"
+    }
+  ]
+}

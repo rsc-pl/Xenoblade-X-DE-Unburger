@@ -1,0 +1,522 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev000701_MSG1001",
+      "style": 1,
+      "name": "How am I supposed to handle this by myself?[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev000701_MSG1002",
+      "style": 1,
+      "name": "Oh, don't mind me.\nGo on ahead to the BLADE barracks.[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev000701_MSG1003",
+      "style": 1,
+      "name": "There's a transport pilot just down this way. Ask him,\nand he'll take you to the administrative district.[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev000701_MSG0001",
+      "style": 1,
+      "name": "Hiya, [ST:playername ]. You're not busy?\nThen we should team up![ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev000701_MSG0002",
+      "style": 1,
+      "name": "Between the two of us, I bet we could bring down\nsome pretty big game! What do you think?[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "tev000701_JNK0010",
+      "style": 4,
+      "name": "Agree"
+    },
+    {
+      "$id": 7,
+      "label": "tev000701_SEL0011",
+      "style": 3,
+      "name": "Add Doug to your team."
+    },
+    {
+      "$id": 8,
+      "label": "tev000701_JNK0020",
+      "style": 4,
+      "name": "Refuse"
+    },
+    {
+      "$id": 9,
+      "label": "tev000701_SEL0021",
+      "style": 3,
+      "name": "Decline Doug's request for now."
+    },
+    {
+      "$id": 10,
+      "label": "tev000701_MSG0003",
+      "style": 1,
+      "name": "All right, now we're talking! Let's go![ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev000701_MSG0004",
+      "style": 1,
+      "name": "Not up for that today, huh?\nStill, you DO know I'm right, don't you?[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "tev000701_MSG0009",
+      "style": 1,
+      "name": "You have a mission to explore Noctilum, huh?[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "tev000701_MSG0010",
+      "style": 1,
+      "name": "Looks like it pays pretty well, too. So how about it?\nGot room for me on your team?[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "tev000701_JNK0030",
+      "style": 4,
+      "name": "Agree"
+    },
+    {
+      "$id": 15,
+      "label": "tev000701_SEL0031",
+      "style": 3,
+      "name": "Add Doug to your team."
+    },
+    {
+      "$id": 16,
+      "label": "tev000701_JNK0040",
+      "style": 4,
+      "name": "Refuse"
+    },
+    {
+      "$id": 17,
+      "label": "tev000701_SEL0041",
+      "style": 3,
+      "name": "Decline Doug's request for now."
+    },
+    {
+      "$id": 18,
+      "label": "tev000701_MSG0011",
+      "style": 1,
+      "name": "All right, now we're talking! Let's go![ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "tev000701_MSG0012",
+      "style": 1,
+      "name": "That's a shame. But if any more good assignments\ncome your way, keep me in mind, all right?[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "tev000701_MSG0017",
+      "style": 1,
+      "name": "So now it's an expedition to Oblivia, huh?[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "tev000701_MSG0018",
+      "style": 1,
+      "name": "I heard that area is rife with tyrants, and real tough\nones, too. Probably be a good idea to have a\nspecialist on your team.[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "tev000701_MSG0019",
+      "style": 1,
+      "name": "If you don't have one yet, I happen to be available.\nSo what do you say?[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "tev000701_JNK0050",
+      "style": 4,
+      "name": "Agree"
+    },
+    {
+      "$id": 24,
+      "label": "tev000701_SEL0051",
+      "style": 3,
+      "name": "Add Doug to your team."
+    },
+    {
+      "$id": 25,
+      "label": "tev000701_JNK0060",
+      "style": 4,
+      "name": "Refuse"
+    },
+    {
+      "$id": 26,
+      "label": "tev000701_SEL0061",
+      "style": 3,
+      "name": "Decline Doug's request for now."
+    },
+    {
+      "$id": 27,
+      "label": "tev000701_MSG0020",
+      "style": 1,
+      "name": "All right, now we're talking! Let's go![ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "tev000701_MSG0021",
+      "style": 1,
+      "name": "Well, just so long as you got a good team watching\nout for you. Best of luck![ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "tev000701_MSG0026",
+      "style": 1,
+      "name": "I've been hearing rumors about some unbelievably\npowerful monster out in the heart of Noctilum.[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "tev000701_MSG0027",
+      "style": 1,
+      "name": "But if Lao's going with you, you should be safe.\nThat guy could take down anything with a single\nwell-placed shot.[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "tev000701_MSG0031",
+      "style": 1,
+      "name": "They say Irina's team got hit by the Ganglion.[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "tev000701_MSG0032",
+      "style": 1,
+      "name": "We need to go save her. I know she looks tough,\nbut she's got a bit of a careless streak.[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "tev000701_MSG0033",
+      "style": 1,
+      "name": "And honestly, I don't know that Gwin is up for it.\nWe'd better do the rescue ourselves.[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "tev000701_JNK0070",
+      "style": 4,
+      "name": "Agree"
+    },
+    {
+      "$id": 35,
+      "label": "tev000701_SEL0071",
+      "style": 3,
+      "name": "Add Doug to your team."
+    },
+    {
+      "$id": 36,
+      "label": "tev000701_JNK0080",
+      "style": 4,
+      "name": "Refuse"
+    },
+    {
+      "$id": 37,
+      "label": "tev000701_SEL0081",
+      "style": 3,
+      "name": "Decline Doug's request for now."
+    },
+    {
+      "$id": 38,
+      "label": "tev000701_MSG0034",
+      "style": 1,
+      "name": "Great, I'm ready when you are.\nGet your things together and let's go![ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "tev000701_MSG0035",
+      "style": 1,
+      "name": "Okay, I'll leave this one to you.\nJust make sure to bring her back safely, okay?[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "tev000701_MSG0040",
+      "style": 1,
+      "name": "Lao's still being worked on in the maintenance center.\nSounds like it'll be a while before he's back in\nfighting shape.[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "tev000701_MSG0041",
+      "style": 1,
+      "name": "Whaddya say we go clear out the Mission Control\nbacklog so he doesn't have a damn thing to do once\nhe's finally back on duty?[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "tev000701_JNK0090",
+      "style": 4,
+      "name": "Agree"
+    },
+    {
+      "$id": 43,
+      "label": "tev000701_SEL0091",
+      "style": 3,
+      "name": "Add Doug to your team."
+    },
+    {
+      "$id": 44,
+      "label": "tev000701_JNK0100",
+      "style": 4,
+      "name": "Refuse"
+    },
+    {
+      "$id": 45,
+      "label": "tev000701_SEL0101",
+      "style": 3,
+      "name": "Decline Doug's request for now."
+    },
+    {
+      "$id": 46,
+      "label": "tev000701_MSG0042",
+      "style": 1,
+      "name": "All right, now we're talking! Let's go![ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "tev000701_MSG0043",
+      "style": 1,
+      "name": "You sure? Well, maybe I'll go pay the guy a visit, then.[ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "tev000701_MSG0048",
+      "style": 1,
+      "name": "Lao's still being worked on in the maintenance center.\nSounds like it'll be a while before he's back in\nfighting shape.[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "tev000701_MSG0049",
+      "style": 1,
+      "name": "If you're going all the way out to Sylvalum,\ncould you maybe let me tag along?[ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "tev000701_JNK0110",
+      "style": 4,
+      "name": "Agree"
+    },
+    {
+      "$id": 51,
+      "label": "tev000701_SEL0111",
+      "style": 3,
+      "name": "Add Doug to your team."
+    },
+    {
+      "$id": 52,
+      "label": "tev000701_JNK0120",
+      "style": 4,
+      "name": "Refuse"
+    },
+    {
+      "$id": 53,
+      "label": "tev000701_SEL0121",
+      "style": 3,
+      "name": "Decline Doug's request for now."
+    },
+    {
+      "$id": 54,
+      "label": "tev000701_MSG0050",
+      "style": 1,
+      "name": "All right, now we're talking! Let's go![ST:wait ]"
+    },
+    {
+      "$id": 55,
+      "label": "tev000701_MSG0051",
+      "style": 1,
+      "name": "Well, just so long as you have a good team watching\nout for you. Best of luck![ST:wait ]"
+    },
+    {
+      "$id": 56,
+      "label": "tev000701_MSG0056",
+      "style": 1,
+      "name": "I need to be the one to do it. I need to stop him with\nmy own two hands.[ST:wait ]"
+    },
+    {
+      "$id": 57,
+      "label": "tev000701_MSG0057",
+      "style": 1,
+      "name": "You understand that, right?\nThen you gotta take me![ST:wait ]"
+    },
+    {
+      "$id": 58,
+      "label": "tev000701_JNK0130",
+      "style": 4,
+      "name": "Agree"
+    },
+    {
+      "$id": 59,
+      "label": "tev000701_SEL0131",
+      "style": 3,
+      "name": "Add Doug to your team."
+    },
+    {
+      "$id": 60,
+      "label": "tev000701_JNK0140",
+      "style": 4,
+      "name": "Refuse"
+    },
+    {
+      "$id": 61,
+      "label": "tev000701_SEL0141",
+      "style": 3,
+      "name": "Decline Doug's request for now."
+    },
+    {
+      "$id": 62,
+      "label": "tev000701_MSG0058",
+      "style": 1,
+      "name": "If a friend's about to make a terrible mistake, I will risk\nmy life to stop them. That's what friends do, right?[ST:wait ]"
+    },
+    {
+      "$id": 63,
+      "label": "tev000701_MSG0059",
+      "style": 1,
+      "name": "That's your final decision? ...Well, okay then.\nI guess I'm counting on you to stop him.[ST:wait ]"
+    },
+    {
+      "$id": 64,
+      "label": "tev000701_MSG0064",
+      "style": 1,
+      "name": "Thanks for saving Lao.[ST:wait ]"
+    },
+    {
+      "$id": 65,
+      "label": "tev000701_MSG0065",
+      "style": 1,
+      "name": "I feel like I owe you one. Can I help out with your next\nmission or something?[ST:wait ]"
+    },
+    {
+      "$id": 66,
+      "label": "tev000701_JNK0150",
+      "style": 4,
+      "name": "Agree"
+    },
+    {
+      "$id": 67,
+      "label": "tev000701_SEL0151",
+      "style": 3,
+      "name": "Add Doug to your team."
+    },
+    {
+      "$id": 68,
+      "label": "tev000701_JNK0160",
+      "style": 4,
+      "name": "Refuse"
+    },
+    {
+      "$id": 69,
+      "label": "tev000701_SEL0161",
+      "style": 3,
+      "name": "Decline Doug's request for now."
+    },
+    {
+      "$id": 70,
+      "label": "tev000701_MSG0066",
+      "style": 1,
+      "name": "Thanks! I'll help out in any way that I can.\nYou just say the word.[ST:wait ]"
+    },
+    {
+      "$id": 71,
+      "label": "tev000701_MSG0067",
+      "style": 1,
+      "name": "I understand. But if you ever find yourself shorthanded,\nmy offer still stands.[ST:wait ]"
+    },
+    {
+      "$id": 72,
+      "label": "tev000701_MSG0072",
+      "style": 1,
+      "name": "We made it through all the rehearsals, and now it's\nfinally showtime![ST:wait ]"
+    },
+    {
+      "$id": 73,
+      "label": "tev000701_MSG0073",
+      "style": 1,
+      "name": "If I could be of some use to you, just say the word.\nI'll give you every last drop of strength that I've got![ST:wait ]"
+    },
+    {
+      "$id": 74,
+      "label": "tev000701_JNK0170",
+      "style": 4,
+      "name": "Agree"
+    },
+    {
+      "$id": 75,
+      "label": "tev000701_SEL0171",
+      "style": 3,
+      "name": "Add Doug to your team."
+    },
+    {
+      "$id": 76,
+      "label": "tev000701_JNK0180",
+      "style": 4,
+      "name": "Refuse"
+    },
+    {
+      "$id": 77,
+      "label": "tev000701_SEL0181",
+      "style": 3,
+      "name": "Decline Doug's request for now."
+    },
+    {
+      "$id": 78,
+      "label": "tev000701_MSG0074",
+      "style": 1,
+      "name": "When this battle's finally done, I'm buying Lin 10 cups\nof hot chocolate from that café she likes.[ST:wait ]"
+    },
+    {
+      "$id": 79,
+      "label": "tev000701_MSG0075",
+      "style": 1,
+      "name": "Well, just so long as you have a good team watching\nout for you. Best of luck![ST:wait ]"
+    },
+    {
+      "$id": 80,
+      "label": "tev000701_MSG0080",
+      "style": 1,
+      "name": "Hopefully that dumbass will be able to come back\nto his old body soon.[ST:wait ]"
+    },
+    {
+      "$id": 81,
+      "label": "tev000701_MSG0081",
+      "style": 1,
+      "name": "And then I'll be able to help him atone for all the\nsuffering he's caused.[ST:wait ]"
+    },
+    {
+      "$id": 82,
+      "label": "tev000701_MSG0082",
+      "style": 1,
+      "name": "But until then, I'll have plenty of free time on my hands.\nWanna take me somewhere? I'll go wherever.[ST:wait ]"
+    },
+    {
+      "$id": 83,
+      "label": "tev000701_MSG0083",
+      "style": 1,
+      "name": "All right, now we're talking! Let's go![ST:wait ]"
+    },
+    {
+      "$id": 84,
+      "label": "tev000701_MSG0084",
+      "style": 1,
+      "name": "Well, just so long as you have a good team watching\nout for you. Best of luck![ST:wait ]"
+    }
+  ]
+}

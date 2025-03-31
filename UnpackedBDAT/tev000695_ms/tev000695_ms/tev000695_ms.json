@@ -1,0 +1,216 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev000695_MSG0001",
+      "style": 1,
+      "name": "What're you doing here, [ST:playername ]?\nGot the day off or something?[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev000695_JNK0010",
+      "style": 4,
+      "name": "Inquire"
+    },
+    {
+      "$id": 3,
+      "label": "tev000695_SEL0011",
+      "style": 3,
+      "name": "Ask what Frye is doing."
+    },
+    {
+      "$id": 4,
+      "label": "tev000695_JNK0020",
+      "style": 4,
+      "name": "Confess"
+    },
+    {
+      "$id": 5,
+      "label": "tev000695_SEL0021",
+      "style": 3,
+      "name": "Admit that you came here to see Frye."
+    },
+    {
+      "$id": 6,
+      "label": "tev000695_MSG0002",
+      "style": 1,
+      "name": "I know it ain't my style, but I was just spending a little\ntime with my thoughts. ...Sober, even.[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "tev000695_MSG0003",
+      "style": 1,
+      "name": "I appreciate that.[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "tev000695_MSG0004",
+      "style": 1,
+      "name": "Hey, so since you're here, will you hear me out on\nsomething?[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "tev000695_MSG0005",
+      "style": 1,
+      "name": "Sometimes I just can't stop thinking about Earth.[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "tev000695_MSG0006",
+      "style": 1,
+      "name": "Like how I used to walk through a weird jumble of\ndowntown shops before ducking down this one specific\nback alley...[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev000695_MSG0007",
+      "style": 1,
+      "name": "And then? Boom! The best dive bar in the whole damn\ncity, where I knew everybody, and they all knew me!\nMan, did we ever have some laughs...[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "tev000695_MSG0008",
+      "style": 1,
+      "name": "But I guess they're all gone now, huh?[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "tev000695_MSG0009",
+      "style": 1,
+      "name": "Anyway, this planet ain't so bad, but it's hard not to\nthink about home sometimes.[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "tev000695_MSG0010",
+      "style": 1,
+      "name": "I understand that no amount of thinking about Earth is\ngonna change what happened to it.[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "tev000695_MSG0011",
+      "style": 1,
+      "name": "But if the Earth was still around somehow...?\nWell, that's a fantasy I just can't let go of.[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "tev000695_MSG0012",
+      "style": 1,
+      "name": "So how am I supposed to get it out of my head, huh?\nHow do I forget it? You gotta tell me![ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "tev000695_JNK0030",
+      "style": 4,
+      "name": "Suggest"
+    },
+    {
+      "$id": 18,
+      "label": "tev000695_SEL0031",
+      "style": 3,
+      "name": "Tell Frye to drink until the pain goes away."
+    },
+    {
+      "$id": 19,
+      "label": "tev000695_JNK0040",
+      "style": 4,
+      "name": "Shrug"
+    },
+    {
+      "$id": 20,
+      "label": "tev000695_SEL0041",
+      "style": 3,
+      "name": "Tell Frye that drinking more is all you can think of."
+    },
+    {
+      "$id": 21,
+      "label": "tev000695_MSG0013",
+      "style": 1,
+      "name": "Exactly![ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "tev000695_MSG0014",
+      "style": 1,
+      "name": "On days like this, I can never seem to get drunk—\nbut it's still the only way I can get myself going.[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "tev000695_MSG0015",
+      "style": 1,
+      "name": "I'll drink beer after beer, just like you recommended.[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "tev000695_MSG0016",
+      "style": 1,
+      "name": "I'll drink cocktail after cocktail, just like you suggested.[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "tev000695_MSG0017",
+      "style": 1,
+      "name": "I'll drink one glass of wine after another,\njust like you recommended.[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "tev000695_MSG0018",
+      "style": 1,
+      "name": "I'll drink vodka after vodka, just like you suggested.[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "tev000695_MSG0019",
+      "style": 1,
+      "name": "I'll drink one cup of sake after another,\njust like you suggested.[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "tev000695_MSG0020",
+      "style": 1,
+      "name": "I'll drink my favorite Scotch till I'm practically drowning\nin the stuff.[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "tev000695_MSG0021",
+      "style": 1,
+      "name": "Tonight I'm gonna drink till morning with Phog and a\nbunch of Interceptors.[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "tev000695_MSG0022",
+      "style": 1,
+      "name": "Then tomorrow I'll go kill a tyrant in between heated\nbattles with my hangover.[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "tev000695_MSG0023",
+      "style": 1,
+      "name": "...Just like I do pretty much every day of my life.[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "tev000695_MSG0024",
+      "style": 1,
+      "name": "But maybe that's what I need right now.[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "tev000695_MSG0025",
+      "style": 1,
+      "name": "Anyway, thanks for listening. If you get the night off,\nyou should come with us![ST:wait ]"
+    }
+  ]
+}

@@ -1,0 +1,1788 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "FE_SA_BS_01",
+      "style": 24,
+      "name": "Sakuraba BLADE Suit (Prototype)"
+    },
+    {
+      "$id": 2,
+      "label": "FE_SA_BS_02",
+      "style": 24,
+      "name": "Sakuraba BLADE Suit (Survival)"
+    },
+    {
+      "$id": 3,
+      "label": "FE_SA_BS_03",
+      "style": 24,
+      "name": "Sakuraba BLADE Suit (Combat)"
+    },
+    {
+      "$id": 4,
+      "label": "FE_SA_BS_04",
+      "style": 24,
+      "name": "Sakuraba BLADE Suit (Vivid)"
+    },
+    {
+      "$id": 5,
+      "label": "FE_SA_BS_05",
+      "style": 24,
+      "name": "Sakuraba BLADE Suit (Valor)"
+    },
+    {
+      "$id": 6,
+      "label": "FE_SA_BS_06",
+      "style": 24,
+      "name": "Sakuraba BLADE Suit (Forza)"
+    },
+    {
+      "$id": 7,
+      "label": "FE_SA_BS_07",
+      "style": 24,
+      "name": "Sakuraba BLADE Suit (Reginal)"
+    },
+    {
+      "$id": 8,
+      "label": "FE_SA_LS_01",
+      "style": 24,
+      "name": "Sakuraba Light Suit (Survival)"
+    },
+    {
+      "$id": 9,
+      "label": "FE_SA_LS_02",
+      "style": 24,
+      "name": "Sakuraba Light Suit (Combat)"
+    },
+    {
+      "$id": 10,
+      "label": "FE_SA_LS_03",
+      "style": 24,
+      "name": "Sakuraba Light Suit (Vivid)"
+    },
+    {
+      "$id": 11,
+      "label": "FE_SA_LS_04",
+      "style": 24,
+      "name": "Sakuraba Light Suit (Valor)"
+    },
+    {
+      "$id": 12,
+      "label": "FE_SA_LS_05",
+      "style": 24,
+      "name": "Sakuraba Light Suit (Forza)"
+    },
+    {
+      "$id": 13,
+      "label": "FE_SA_LS_06",
+      "style": 24,
+      "name": "Sakuraba Light Suit (Reginal)"
+    },
+    {
+      "$id": 14,
+      "label": "FE_SA_MS_01",
+      "style": 24,
+      "name": "Sakuraba Medium Suit (Clover)"
+    },
+    {
+      "$id": 15,
+      "label": "FE_SA_MS_02",
+      "style": 24,
+      "name": "Sakuraba Medium Suit (Survival)"
+    },
+    {
+      "$id": 16,
+      "label": "FE_SA_MS_03",
+      "style": 24,
+      "name": "Sakuraba Medium Suit (Combat)"
+    },
+    {
+      "$id": 17,
+      "label": "FE_SA_MS_04",
+      "style": 24,
+      "name": "Sakuraba Medium Suit (Vivid)"
+    },
+    {
+      "$id": 18,
+      "label": "FE_SA_MS_05",
+      "style": 24,
+      "name": "Sakuraba Medium Suit (Valor)"
+    },
+    {
+      "$id": 19,
+      "label": "FE_SA_MS_06",
+      "style": 24,
+      "name": "Sakuraba Medium Suit (Forza)"
+    },
+    {
+      "$id": 20,
+      "label": "FE_SA_MS_07",
+      "style": 24,
+      "name": "Sakuraba Medium Suit (Reginal)"
+    },
+    {
+      "$id": 21,
+      "label": "FE_SA_HS_01",
+      "style": 24,
+      "name": "Sakuraba Heavy Suit (Combat)"
+    },
+    {
+      "$id": 22,
+      "label": "FE_SA_HS_02",
+      "style": 24,
+      "name": "Sakuraba Heavy Suit (Vivid)"
+    },
+    {
+      "$id": 23,
+      "label": "FE_SA_HS_03",
+      "style": 24,
+      "name": "Sakuraba Heavy Suit (Valor)"
+    },
+    {
+      "$id": 24,
+      "label": "FE_SA_HS_04",
+      "style": 24,
+      "name": "Sakuraba Heavy Suit (Forza)"
+    },
+    {
+      "$id": 25,
+      "label": "FE_SA_HS_05",
+      "style": 24,
+      "name": "Sakuraba Heavy Suit (Reginal)"
+    },
+    {
+      "$id": 26,
+      "label": "FE_SA_DS_01",
+      "style": 24,
+      "name": "Sakuraba Skell Suit (Combat)"
+    },
+    {
+      "$id": 27,
+      "label": "FE_SA_DS_02",
+      "style": 24,
+      "name": "Sakuraba Skell Suit (Vivid)"
+    },
+    {
+      "$id": 28,
+      "label": "FE_SA_DS_03",
+      "style": 24,
+      "name": "Sakuraba Skell Suit (Valor)"
+    },
+    {
+      "$id": 29,
+      "label": "FE_SA_DS_04",
+      "style": 24,
+      "name": "Sakuraba Skell Suit (Forza)"
+    },
+    {
+      "$id": 30,
+      "label": "FE_SA_DS_05",
+      "style": 24,
+      "name": "Sakuraba Skell Suit (Reginal)"
+    },
+    {
+      "$id": 31,
+      "label": "FE_GG_LS_01",
+      "style": 24,
+      "name": "Grenada Light Suit (Survival)"
+    },
+    {
+      "$id": 32,
+      "label": "FE_GG_LS_02",
+      "style": 24,
+      "name": "Grenada Light Suit (Combat)"
+    },
+    {
+      "$id": 33,
+      "label": "FE_GG_LS_03",
+      "style": 24,
+      "name": "Grenada Light Suit (Vivid)"
+    },
+    {
+      "$id": 34,
+      "label": "FE_GG_LS_04",
+      "style": 24,
+      "name": "Grenada Light Suit (Valor)"
+    },
+    {
+      "$id": 35,
+      "label": "FE_GG_LS_05",
+      "style": 24,
+      "name": "Grenada Light Suit (Forza)"
+    },
+    {
+      "$id": 36,
+      "label": "FE_GG_LS_06",
+      "style": 24,
+      "name": "Grenada Light Suit (Reginal)"
+    },
+    {
+      "$id": 37,
+      "label": "FE_GG_MS_01",
+      "style": 24,
+      "name": "Grenada Clover Medium Series"
+    },
+    {
+      "$id": 38,
+      "label": "FE_GG_MS_02",
+      "style": 24,
+      "name": "Grenada Medium Suit (Survival)"
+    },
+    {
+      "$id": 39,
+      "label": "FE_GG_MS_03",
+      "style": 24,
+      "name": "Grenada Medium Suit (Combat)"
+    },
+    {
+      "$id": 40,
+      "label": "FE_GG_MS_04",
+      "style": 24,
+      "name": "Grenada Medium Suit (Vivid)"
+    },
+    {
+      "$id": 41,
+      "label": "FE_GG_MS_05",
+      "style": 24,
+      "name": "Grenada Medium Suit (Valor)"
+    },
+    {
+      "$id": 42,
+      "label": "FE_GG_MS_06",
+      "style": 24,
+      "name": "Grenada Medium Suit (Forza)"
+    },
+    {
+      "$id": 43,
+      "label": "FE_GG_MS_07",
+      "style": 24,
+      "name": "Grenada Medium Suit (Reginal)"
+    },
+    {
+      "$id": 44,
+      "label": "FE_GG_HS_01",
+      "style": 24,
+      "name": "Grenada Heavy Suit (Combat)"
+    },
+    {
+      "$id": 45,
+      "label": "FE_GG_HS_02",
+      "style": 24,
+      "name": "Grenada Heavy Suit (Vivid)"
+    },
+    {
+      "$id": 46,
+      "label": "FE_GG_HS_03",
+      "style": 24,
+      "name": "Grenada Heavy Suit (Valor)"
+    },
+    {
+      "$id": 47,
+      "label": "FE_GG_HS_04",
+      "style": 24,
+      "name": "Grenada Heavy Suit (Forza)"
+    },
+    {
+      "$id": 48,
+      "label": "FE_GG_HS_05",
+      "style": 24,
+      "name": "Grenada Heavy Suit (Reginal)"
+    },
+    {
+      "$id": 49,
+      "label": "FE_GG_DS_01",
+      "style": 24,
+      "name": "Grenada Skell Suit (Combat)"
+    },
+    {
+      "$id": 50,
+      "label": "FE_GG_DS_02",
+      "style": 24,
+      "name": "Grenada Skell Suit (Vivid)"
+    },
+    {
+      "$id": 51,
+      "label": "FE_GG_DS_03",
+      "style": 24,
+      "name": "Grenada Skell Suit (Valor)"
+    },
+    {
+      "$id": 52,
+      "label": "FE_GG_DS_04",
+      "style": 24,
+      "name": "Grenada Skell Suit (Forza)"
+    },
+    {
+      "$id": 53,
+      "label": "FE_GG_DS_05",
+      "style": 24,
+      "name": "Grenada Skell Suit (Reginal)"
+    },
+    {
+      "$id": 54,
+      "label": "FE_ME_LS_01",
+      "style": 24,
+      "name": "Meredith Light Suit (Combat)"
+    },
+    {
+      "$id": 55,
+      "label": "FE_ME_LS_02",
+      "style": 24,
+      "name": "Meredith Light Suit (Vivid)"
+    },
+    {
+      "$id": 56,
+      "label": "FE_ME_LS_03",
+      "style": 24,
+      "name": "Meredith Light Suit (Valor)"
+    },
+    {
+      "$id": 57,
+      "label": "FE_ME_LS_04",
+      "style": 24,
+      "name": "Meredith Light Suit (Forza)"
+    },
+    {
+      "$id": 58,
+      "label": "FE_ME_LS_05",
+      "style": 24,
+      "name": "Meredith Light Suit (Reginal)"
+    },
+    {
+      "$id": 59,
+      "label": "FE_ME_MS_01",
+      "style": 24,
+      "name": "Meredith Medium Suit (Combat)"
+    },
+    {
+      "$id": 60,
+      "label": "FE_ME_MS_02",
+      "style": 24,
+      "name": "Meredith Medium Suit (Vivid)"
+    },
+    {
+      "$id": 61,
+      "label": "FE_ME_MS_03",
+      "style": 24,
+      "name": "Meredith Medium Suit (Valor)"
+    },
+    {
+      "$id": 62,
+      "label": "FE_ME_MS_04",
+      "style": 24,
+      "name": "Meredith Medium Suit (Forza)"
+    },
+    {
+      "$id": 63,
+      "label": "FE_ME_MS_05",
+      "style": 24,
+      "name": "Meredith Medium Suit (Reginal)"
+    },
+    {
+      "$id": 64,
+      "label": "FE_ME_HS_01",
+      "style": 24,
+      "name": "Meredith Heavy Suit (Combat)"
+    },
+    {
+      "$id": 65,
+      "label": "FE_ME_HS_02",
+      "style": 24,
+      "name": "Meredith Heavy Suit (Vivid)"
+    },
+    {
+      "$id": 66,
+      "label": "FE_ME_HS_03",
+      "style": 24,
+      "name": "Meredith Heavy Suit (Valor)"
+    },
+    {
+      "$id": 67,
+      "label": "FE_ME_HS_04",
+      "style": 24,
+      "name": "Meredith Heavy Suit (Forza)"
+    },
+    {
+      "$id": 68,
+      "label": "FE_ME_HS_05",
+      "style": 24,
+      "name": "Meredith Heavy Suit (Reginal)"
+    },
+    {
+      "$id": 69,
+      "label": "FE_IT_LS_01",
+      "style": 24,
+      "name": "C&C Light Suit (Combat)"
+    },
+    {
+      "$id": 70,
+      "label": "FE_IT_LS_02",
+      "style": 24,
+      "name": "C&C Light Suit (Vivid)"
+    },
+    {
+      "$id": 71,
+      "label": "FE_IT_LS_03",
+      "style": 24,
+      "name": "C&C Light Suit (Valor)"
+    },
+    {
+      "$id": 72,
+      "label": "FE_IT_LS_04",
+      "style": 24,
+      "name": "C&C Light Suit (Forza)"
+    },
+    {
+      "$id": 73,
+      "label": "FE_IT_LS_05",
+      "style": 24,
+      "name": "C&C Light Suit (Reginal)"
+    },
+    {
+      "$id": 74,
+      "label": "FE_IT_MS_01",
+      "style": 24,
+      "name": "C&C Medium Suit (Combat)"
+    },
+    {
+      "$id": 75,
+      "label": "FE_IT_MS_02",
+      "style": 24,
+      "name": "C&C Medium Suit (Vivid)"
+    },
+    {
+      "$id": 76,
+      "label": "FE_IT_MS_03",
+      "style": 24,
+      "name": "C&C Medium Suit (Valor)"
+    },
+    {
+      "$id": 77,
+      "label": "FE_IT_MS_04",
+      "style": 24,
+      "name": "C&C Medium Suit (Forza)"
+    },
+    {
+      "$id": 78,
+      "label": "FE_IT_MS_05",
+      "style": 24,
+      "name": "C&C Medium Suit (Reginal)"
+    },
+    {
+      "$id": 79,
+      "label": "FE_IT_HS_01",
+      "style": 24,
+      "name": "C&C Heavy Suit (Combat)"
+    },
+    {
+      "$id": 80,
+      "label": "FE_IT_HS_02",
+      "style": 24,
+      "name": "C&C Heavy Suit (Vivid)"
+    },
+    {
+      "$id": 81,
+      "label": "FE_IT_HS_03",
+      "style": 24,
+      "name": "C&C Heavy Suit (Valor)"
+    },
+    {
+      "$id": 82,
+      "label": "FE_IT_HS_04",
+      "style": 24,
+      "name": "C&C Heavy Suit (Forza)"
+    },
+    {
+      "$id": 83,
+      "label": "FE_IT_HS_05",
+      "style": 24,
+      "name": "C&C Heavy Suit (Reginal)"
+    },
+    {
+      "$id": 84,
+      "label": "FE_OP_LS_01",
+      "style": 24,
+      "name": "Orphean Light Suit (Vivid)"
+    },
+    {
+      "$id": 85,
+      "label": "FE_OP_LS_02",
+      "style": 24,
+      "name": "Orphean Light Suit (Valor)"
+    },
+    {
+      "$id": 86,
+      "label": "FE_OP_LS_03",
+      "style": 24,
+      "name": "Orphean Light Suit (Forza)"
+    },
+    {
+      "$id": 87,
+      "label": "FE_OP_LS_04",
+      "style": 24,
+      "name": "Orphean Light Suit (Reginal)"
+    },
+    {
+      "$id": 88,
+      "label": "FE_OP_MS_01",
+      "style": 24,
+      "name": "Orphean Medium Suit (Vivid)"
+    },
+    {
+      "$id": 89,
+      "label": "FE_OP_MS_02",
+      "style": 24,
+      "name": "Orphean Medium Suit (Valor)"
+    },
+    {
+      "$id": 90,
+      "label": "FE_OP_MS_03",
+      "style": 24,
+      "name": "Orphean Medium Suit (Forza)"
+    },
+    {
+      "$id": 91,
+      "label": "FE_OP_MS_04",
+      "style": 24,
+      "name": "Orphean Medium Suit (Reginal)"
+    },
+    {
+      "$id": 92,
+      "label": "FE_OP_HS_01",
+      "style": 24,
+      "name": "Orphean Heavy Suit (Vivid)"
+    },
+    {
+      "$id": 93,
+      "label": "FE_OP_HS_02",
+      "style": 24,
+      "name": "Orphean Heavy Suit (Valor)"
+    },
+    {
+      "$id": 94,
+      "label": "FE_OP_HS_03",
+      "style": 24,
+      "name": "Orphean Heavy Suit (Forza)"
+    },
+    {
+      "$id": 95,
+      "label": "FE_OP_HS_04",
+      "style": 24,
+      "name": "Orphean Heavy Suit (Reginal)"
+    },
+    {
+      "$id": 96,
+      "label": "FE_MU_LS_01",
+      "style": 24,
+      "name": "Six Stars Light Gear (Warrior)"
+    },
+    {
+      "$id": 97,
+      "label": "FE_MU_LS_02",
+      "style": 24,
+      "name": "Six Stars Light Gear (Vanquisher)"
+    },
+    {
+      "$id": 98,
+      "label": "FE_MU_LS_03",
+      "style": 24,
+      "name": "Six Stars Light Gear (Overlord)"
+    },
+    {
+      "$id": 99,
+      "label": "FE_MU_LS_04",
+      "style": 24,
+      "name": "Six Stars Light Gear (Mother God)"
+    },
+    {
+      "$id": 100,
+      "label": "FE_MU_MS_01",
+      "style": 24,
+      "name": "Six Stars Medium Gear (Warrior)"
+    },
+    {
+      "$id": 101,
+      "label": "FE_MU_MS_02",
+      "style": 24,
+      "name": "Six Stars Medium Gear (Vanquisher)"
+    },
+    {
+      "$id": 102,
+      "label": "FE_MU_MS_03",
+      "style": 24,
+      "name": "Six Stars Medium Gear (Overlord)"
+    },
+    {
+      "$id": 103,
+      "label": "FE_MU_MS_04",
+      "style": 24,
+      "name": "Six Stars Medium Gear (Mother God)"
+    },
+    {
+      "$id": 104,
+      "label": "FE_MU_HS_01",
+      "style": 24,
+      "name": "Six Stars Heavy Gear (Warrior)"
+    },
+    {
+      "$id": 105,
+      "label": "FE_MU_HS_02",
+      "style": 24,
+      "name": "Six Stars Heavy Gear (Vanquisher)"
+    },
+    {
+      "$id": 106,
+      "label": "FE_MU_HS_03",
+      "style": 24,
+      "name": "Six Stars Heavy Gear (Overlord)"
+    },
+    {
+      "$id": 107,
+      "label": "FE_MU_HS_04",
+      "style": 24,
+      "name": "Six Stars Heavy Gear (Mother God)"
+    },
+    {
+      "$id": 108,
+      "label": "FE_SA_BS_08",
+      "style": 24,
+      "name": "Sakuraba BLADE Suit (Regal)"
+    },
+    {
+      "$id": 109,
+      "label": "FE_SA_BS_09",
+      "style": 24,
+      "name": "Sakuraba BLADE Suit (Infinite)"
+    },
+    {
+      "$id": 110,
+      "label": "FE_SA_LS_07",
+      "style": 24,
+      "name": "Sakuraba Light Suit (Regal)"
+    },
+    {
+      "$id": 111,
+      "label": "FE_SA_LS_08",
+      "style": 24,
+      "name": "Sakuraba Light Suit (Infinite)"
+    },
+    {
+      "$id": 112,
+      "label": "FE_SA_MS_08",
+      "style": 24,
+      "name": "Sakuraba Medium Suit (Regal)"
+    },
+    {
+      "$id": 113,
+      "label": "FE_SA_MS_09",
+      "style": 24,
+      "name": "Sakuraba Medium Suit (Infinite)"
+    },
+    {
+      "$id": 114,
+      "label": "FE_SA_HS_06",
+      "style": 24,
+      "name": "Sakuraba Heavy Suit (Regal)"
+    },
+    {
+      "$id": 115,
+      "label": "FE_SA_HS_07",
+      "style": 24,
+      "name": "Sakuraba Heavy Suit (Infinite)"
+    },
+    {
+      "$id": 116,
+      "label": "FE_SA_DS_06",
+      "style": 24,
+      "name": "Sakuraba Skell Suit (Regal)"
+    },
+    {
+      "$id": 117,
+      "label": "FE_SA_DS_07",
+      "style": 24,
+      "name": "Sakuraba Skell Suit (Infinite)"
+    },
+    {
+      "$id": 118,
+      "label": "FE_GG_LS_07",
+      "style": 24,
+      "name": "Grenada Light Suit (Regal)"
+    },
+    {
+      "$id": 119,
+      "label": "FE_GG_LS_08",
+      "style": 24,
+      "name": "Grenada Light Suit (Infinite)"
+    },
+    {
+      "$id": 120,
+      "label": "FE_GG_MS_08",
+      "style": 24,
+      "name": "Grenada Medium Suit (Regal)"
+    },
+    {
+      "$id": 121,
+      "label": "FE_GG_MS_09",
+      "style": 24,
+      "name": "Grenada Medium Suit (Infinite)"
+    },
+    {
+      "$id": 122,
+      "label": "FE_GG_HS_06",
+      "style": 24,
+      "name": "Grenada Heavy Suit (Regal)"
+    },
+    {
+      "$id": 123,
+      "label": "FE_GG_HS_07",
+      "style": 24,
+      "name": "Grenada Heavy Suit (Infinite)"
+    },
+    {
+      "$id": 124,
+      "label": "FE_GG_DS_06",
+      "style": 24,
+      "name": "Grenada Skell Suit (Regal)"
+    },
+    {
+      "$id": 125,
+      "label": "FE_GG_DS_07",
+      "style": 24,
+      "name": "Grenada Skell Suit (Infinite)"
+    },
+    {
+      "$id": 126,
+      "label": "FE_ME_LS_06",
+      "style": 24,
+      "name": "Meredith Light Suit (Regal)"
+    },
+    {
+      "$id": 127,
+      "label": "FE_ME_LS_07",
+      "style": 24,
+      "name": "Meredith Light Suit (Infinite)"
+    },
+    {
+      "$id": 128,
+      "label": "FE_ME_MS_06",
+      "style": 24,
+      "name": "Meredith Medium Suit (Regal)"
+    },
+    {
+      "$id": 129,
+      "label": "FE_ME_MS_07",
+      "style": 24,
+      "name": "Meredith Medium Suit (Infinite)"
+    },
+    {
+      "$id": 130,
+      "label": "FE_ME_HS_06",
+      "style": 24,
+      "name": "Meredith Heavy Suit (Regal)"
+    },
+    {
+      "$id": 131,
+      "label": "FE_ME_HS_07",
+      "style": 24,
+      "name": "Meredith Heavy Suit (Infinite)"
+    },
+    {
+      "$id": 132,
+      "label": "FE_IT_LS_06",
+      "style": 24,
+      "name": "C&C Light Suit (Regal)"
+    },
+    {
+      "$id": 133,
+      "label": "FE_IT_LS_07",
+      "style": 24,
+      "name": "C&C Light Suit (Infinite)"
+    },
+    {
+      "$id": 134,
+      "label": "FE_IT_MS_06",
+      "style": 24,
+      "name": "C&C Medium Suit (Regal)"
+    },
+    {
+      "$id": 135,
+      "label": "FE_IT_MS_07",
+      "style": 24,
+      "name": "C&C Medium Suit (Infinite)"
+    },
+    {
+      "$id": 136,
+      "label": "FE_IT_HS_06",
+      "style": 24,
+      "name": "C&C Heavy Suit (Regal)"
+    },
+    {
+      "$id": 137,
+      "label": "FE_IT_HS_07",
+      "style": 24,
+      "name": "C&C Heavy Suit (Infinite)"
+    },
+    {
+      "$id": 138,
+      "label": "FE_OP_LS_05",
+      "style": 24,
+      "name": "Orphean Light Suit (Regal)"
+    },
+    {
+      "$id": 139,
+      "label": "FE_OP_LS_06",
+      "style": 24,
+      "name": "Orphean Light Suit (Infinite)"
+    },
+    {
+      "$id": 140,
+      "label": "FE_OP_MS_05",
+      "style": 24,
+      "name": "Orphean Medium Suit (Regal)"
+    },
+    {
+      "$id": 141,
+      "label": "FE_OP_MS_06",
+      "style": 24,
+      "name": "Orphean Medium Suit (Infinite)"
+    },
+    {
+      "$id": 142,
+      "label": "FE_OP_HS_05",
+      "style": 24,
+      "name": "Orphean Heavy Suit (Regal)"
+    },
+    {
+      "$id": 143,
+      "label": "FE_OP_HS_06",
+      "style": 24,
+      "name": "Orphean Heavy Suit (Infinite)"
+    },
+    {
+      "$id": 144,
+      "label": "FE_MU_LS_05",
+      "style": 24,
+      "name": "Six Stars Light Gear (Deific)"
+    },
+    {
+      "$id": 145,
+      "label": "FE_MU_LS_06",
+      "style": 24,
+      "name": "Six Stars Light Gear (Boundless)"
+    },
+    {
+      "$id": 146,
+      "label": "FE_MU_MS_05",
+      "style": 24,
+      "name": "Six Stars Medium Gear (Deific)"
+    },
+    {
+      "$id": 147,
+      "label": "FE_MU_MS_06",
+      "style": 24,
+      "name": "Six Stars Medium Gear (Boundless)"
+    },
+    {
+      "$id": 148,
+      "label": "FE_MU_HS_05",
+      "style": 24,
+      "name": "Six Stars Heavy Gear (Deific)"
+    },
+    {
+      "$id": 149,
+      "label": "FE_MU_HS_06",
+      "style": 24,
+      "name": "Six Stars Heavy Gear (Boundless)"
+    },
+    {
+      "$id": 150,
+      "label": "FE_UNIQUE_01",
+      "style": 24,
+      "name": "Diving Series"
+    },
+    {
+      "$id": 151,
+      "label": "FE_UNIQUE_02",
+      "style": 24,
+      "name": "Limited Diving Series"
+    },
+    {
+      "$id": 152,
+      "label": "FE_UNIQUE_03",
+      "style": 24,
+      "name": "Upgraded Diving Series"
+    },
+    {
+      "$id": 153,
+      "label": "FE_UNIQUE_04",
+      "style": 24,
+      "name": "Prime Diving Series"
+    },
+    {
+      "$id": 154,
+      "label": "FE_UNIQUE_05",
+      "style": 24,
+      "name": "Upgraded Diving II Series"
+    },
+    {
+      "$id": 155,
+      "label": "FE_UNIQUE_06",
+      "style": 24,
+      "name": "Supreme Diving Series"
+    },
+    {
+      "$id": 156,
+      "label": "FE_UNIQUE_07",
+      "style": 24,
+      "name": "Prototype Trekware Series"
+    },
+    {
+      "$id": 157,
+      "label": "FE_UNIQUE_08",
+      "style": 24,
+      "name": "Trekware Series"
+    },
+    {
+      "$id": 158,
+      "label": "FE_UNIQUE_09",
+      "style": 24,
+      "name": "Limited Trekware Series"
+    },
+    {
+      "$id": 159,
+      "label": "FE_UNIQUE_10",
+      "style": 24,
+      "name": "Upgraded Trekware Series"
+    },
+    {
+      "$id": 160,
+      "label": "FE_UNIQUE_11",
+      "style": 24,
+      "name": "Prototype Workwear Series"
+    },
+    {
+      "$id": 161,
+      "label": "FE_UNIQUE_12",
+      "style": 24,
+      "name": "Workwear Series"
+    },
+    {
+      "$id": 162,
+      "label": "FE_UNIQUE_13",
+      "style": 24,
+      "name": "Limited Workwear Series"
+    },
+    {
+      "$id": 163,
+      "label": "FE_UNIQUE_14",
+      "style": 24,
+      "name": "Upgraded Workwear Series"
+    },
+    {
+      "$id": 164,
+      "label": "FE_UNIQUE_15",
+      "style": 24,
+      "name": "Prototype BLADE Wear Series"
+    },
+    {
+      "$id": 165,
+      "label": "FE_UNIQUE_16",
+      "style": 24,
+      "name": "BLADE Wear Series"
+    },
+    {
+      "$id": 166,
+      "label": "FE_UNIQUE_17",
+      "style": 24,
+      "name": "Limited BLADE Wear Series"
+    },
+    {
+      "$id": 167,
+      "label": "FE_UNIQUE_18",
+      "style": 24,
+      "name": "Upgraded BLADE Wear Series"
+    },
+    {
+      "$id": 168,
+      "label": "FE_UNIQUE_19",
+      "style": 24,
+      "name": "Warhorse's Uniform Series"
+    },
+    {
+      "$id": 169,
+      "label": "FE_UNIQUE_20",
+      "style": 24,
+      "name": "Forerunner's Uniform Series"
+    },
+    {
+      "$id": 170,
+      "label": "FE_UNIQUE_21",
+      "style": 24,
+      "name": "Distinguished Uniform Series"
+    },
+    {
+      "$id": 171,
+      "label": "FE_UNIQUE_22",
+      "style": 24,
+      "name": "Veteran's Uniform Series"
+    },
+    {
+      "$id": 172,
+      "label": "FE_UNIQUE_23",
+      "style": 24,
+      "name": "School Blazer Series"
+    },
+    {
+      "$id": 173,
+      "label": "FE_UNIQUE_24",
+      "style": 24,
+      "name": "Dark Suit Series"
+    },
+    {
+      "$id": 174,
+      "label": "FE_UNIQUE_25",
+      "style": 24,
+      "name": "Formal Suit Series"
+    },
+    {
+      "$id": 175,
+      "label": "FE_UNIQUE_26",
+      "style": 24,
+      "name": "Party Suit Series"
+    },
+    {
+      "$id": 176,
+      "label": "FE_UNIQUE_27",
+      "style": 24,
+      "name": "Bargain Turtleneck Series"
+    },
+    {
+      "$id": 177,
+      "label": "FE_UNIQUE_28",
+      "style": 24,
+      "name": "Turtleneck Series"
+    },
+    {
+      "$id": 178,
+      "label": "FE_UNIQUE_29",
+      "style": 24,
+      "name": "Limited Turtleneck Series"
+    },
+    {
+      "$id": 179,
+      "label": "FE_UNIQUE_30",
+      "style": 24,
+      "name": "Redesigned Turtleneck Series"
+    },
+    {
+      "$id": 180,
+      "label": "FE_UNIQUE_31",
+      "style": 24,
+      "name": "Bargain Jacket Series"
+    },
+    {
+      "$id": 181,
+      "label": "FE_UNIQUE_32",
+      "style": 24,
+      "name": "Jacket Series"
+    },
+    {
+      "$id": 182,
+      "label": "FE_UNIQUE_33",
+      "style": 24,
+      "name": "Limited Jacket Series"
+    },
+    {
+      "$id": 183,
+      "label": "FE_UNIQUE_34",
+      "style": 24,
+      "name": "Redesigned Jacket Series"
+    },
+    {
+      "$id": 184,
+      "label": "FE_UNIQUE_35",
+      "style": 24,
+      "name": "Bargain Hoodie Series"
+    },
+    {
+      "$id": 185,
+      "label": "FE_UNIQUE_36",
+      "style": 24,
+      "name": "Hoodie Series"
+    },
+    {
+      "$id": 186,
+      "label": "FE_UNIQUE_37",
+      "style": 24,
+      "name": "Limited Hoodie Series"
+    },
+    {
+      "$id": 187,
+      "label": "FE_UNIQUE_38",
+      "style": 24,
+      "name": "Redesigned Hoodie Series"
+    },
+    {
+      "$id": 188,
+      "label": "FE_UNIQUE_39",
+      "style": 24,
+      "name": "Tank Top Series (White)"
+    },
+    {
+      "$id": 189,
+      "label": "FE_UNIQUE_40",
+      "style": 24,
+      "name": "Tank Top Series (Black)"
+    },
+    {
+      "$id": 190,
+      "label": "FE_UNIQUE_41",
+      "style": 24,
+      "name": "Tank Top Series (Gray)"
+    },
+    {
+      "$id": 191,
+      "label": "FE_UNIQUE_42",
+      "style": 24,
+      "name": "Tank Top Series (Navy)"
+    },
+    {
+      "$id": 192,
+      "label": "FE_UNIQUE_43",
+      "style": 24,
+      "name": "Tank Top Series (Blue)"
+    },
+    {
+      "$id": 193,
+      "label": "FE_UNIQUE_44",
+      "style": 24,
+      "name": "Tank Top Series (Pink)"
+    },
+    {
+      "$id": 194,
+      "label": "FE_UNIQUE_45",
+      "style": 24,
+      "name": "Tank Top Series (Red)"
+    },
+    {
+      "$id": 195,
+      "label": "FE_UNIQUE_46",
+      "style": 24,
+      "name": "Tank Top Series (Green)"
+    },
+    {
+      "$id": 196,
+      "label": "FE_UNIQUE_47",
+      "style": 24,
+      "name": "Tank Top Series (Yellow)"
+    },
+    {
+      "$id": 197,
+      "label": "FE_UNIQUE_48",
+      "style": 24,
+      "name": "Tank Top Series (Orange)"
+    },
+    {
+      "$id": 198,
+      "label": "FE_UNIQUE_49",
+      "style": 24,
+      "name": "Tank Top Series (Violet)"
+    },
+    {
+      "$id": 199,
+      "label": "FE_UNIQUE_50",
+      "style": 24,
+      "name": "Tank Top Series (Army Yellow)"
+    },
+    {
+      "$id": 200,
+      "label": "FE_UNIQUE_51",
+      "style": 24,
+      "name": "Tank Top Series (Army Green)"
+    },
+    {
+      "$id": 201,
+      "label": "FE_UNIQUE_52",
+      "style": 24,
+      "name": "Tank Top Series (Yellow Camo)"
+    },
+    {
+      "$id": 202,
+      "label": "FE_UNIQUE_53",
+      "style": 24,
+      "name": "Tank Top Series (Green Camo)"
+    },
+    {
+      "$id": 203,
+      "label": "FE_UNIQUE_54",
+      "style": 24,
+      "name": "Tank Top Series (Black Camo)"
+    },
+    {
+      "$id": 204,
+      "label": "FE_UNIQUE_55",
+      "style": 24,
+      "name": "Tank Top Series (Blue Camo)"
+    },
+    {
+      "$id": 205,
+      "label": "FE_UNIQUE_56",
+      "style": 24,
+      "name": "Tank Top Series (Pink Camo)"
+    },
+    {
+      "$id": 206,
+      "label": "FE_UNIQUE_57",
+      "style": 24,
+      "name": "Bargain Tee Series"
+    },
+    {
+      "$id": 207,
+      "label": "FE_UNIQUE_58",
+      "style": 24,
+      "name": "Tee Series"
+    },
+    {
+      "$id": 208,
+      "label": "FE_UNIQUE_59",
+      "style": 24,
+      "name": "Limited Tee Series"
+    },
+    {
+      "$id": 209,
+      "label": "FE_UNIQUE_60",
+      "style": 24,
+      "name": "Redesigned Tee Series"
+    },
+    {
+      "$id": 210,
+      "label": "FE_UNIQUE_61",
+      "style": 24,
+      "name": "Swimsuit Series"
+    },
+    {
+      "$id": 211,
+      "label": "FE_UNIQUE_62",
+      "style": 24,
+      "name": "Limited Swimsuit Series"
+    },
+    {
+      "$id": 212,
+      "label": "FE_UNIQUE_63",
+      "style": 24,
+      "name": "Upgraded Swimsuit Series"
+    },
+    {
+      "$id": 213,
+      "label": "FE_UNIQUE_64",
+      "style": 24,
+      "name": "Prime Swimsuit Series"
+    },
+    {
+      "$id": 214,
+      "label": "FE_UNIQUE_65",
+      "style": 24,
+      "name": "Upgraded Swimsuit II Series"
+    },
+    {
+      "$id": 215,
+      "label": "FE_UNIQUE_66",
+      "style": 24,
+      "name": "Supreme Swimsuit Series"
+    },
+    {
+      "$id": 216,
+      "label": "FE_UNIQUE_67",
+      "style": 24,
+      "name": "Redesigned Glasses Series"
+    },
+    {
+      "$id": 217,
+      "label": "FE_UNIQUE_68",
+      "style": 24,
+      "name": "Glasses Series"
+    },
+    {
+      "$id": 218,
+      "label": "FE_UNIQUE_69",
+      "style": 24,
+      "name": "Rare Glasses Series"
+    },
+    {
+      "$id": 219,
+      "label": "FE_UNIQUE_70",
+      "style": 24,
+      "name": "Bargain Sunglasses Series"
+    },
+    {
+      "$id": 220,
+      "label": "FE_UNIQUE_71",
+      "style": 24,
+      "name": "Sunglasses Series"
+    },
+    {
+      "$id": 221,
+      "label": "FE_UNIQUE_72",
+      "style": 24,
+      "name": "Limited Sunglasses Series"
+    },
+    {
+      "$id": 222,
+      "label": "FE_UNIQUE_73",
+      "style": 24,
+      "name": "Bargain Heart Glasses Series"
+    },
+    {
+      "$id": 223,
+      "label": "FE_UNIQUE_74",
+      "style": 24,
+      "name": "Bargain Sport Glasses Series"
+    },
+    {
+      "$id": 224,
+      "label": "FE_UNIQUE_75",
+      "style": 24,
+      "name": "Sport Glasses Series"
+    },
+    {
+      "$id": 225,
+      "label": "FE_UNIQUE_76",
+      "style": 24,
+      "name": "Limited Sport Glasses Series"
+    },
+    {
+      "$id": 226,
+      "label": "FE_UNIQUE_77",
+      "style": 24,
+      "name": "Bargain Round Sunglasses Series"
+    },
+    {
+      "$id": 227,
+      "label": "FE_UNIQUE_78",
+      "style": 24,
+      "name": "Limited Halfrim Glasses Series"
+    },
+    {
+      "$id": 228,
+      "label": "FE_UNIQUE_79",
+      "style": 24,
+      "name": "Limited Browline Glasses Series"
+    },
+    {
+      "$id": 229,
+      "label": "FE_UNIQUE_80",
+      "style": 24,
+      "name": "Bargain Round Glasses Series"
+    },
+    {
+      "$id": 230,
+      "label": "FE_UNIQUE_81",
+      "style": 24,
+      "name": "Redesigned Round Glasses Series"
+    },
+    {
+      "$id": 231,
+      "label": "FE_UNIQUE_82",
+      "style": 24,
+      "name": "Limited NVD Series"
+    },
+    {
+      "$id": 232,
+      "label": "FE_UNIQUE_83",
+      "style": 24,
+      "name": "Supreme Search Scope Series"
+    },
+    {
+      "$id": 233,
+      "label": "FE_UNIQUE_84",
+      "style": 24,
+      "name": "Custom Search Scope Series"
+    },
+    {
+      "$id": 234,
+      "label": "FE_UNIQUE_85",
+      "style": 24,
+      "name": "Rare Search Scope Series"
+    },
+    {
+      "$id": 235,
+      "label": "FE_UNIQUE_86",
+      "style": 24,
+      "name": "Prototype Scouter Series"
+    },
+    {
+      "$id": 236,
+      "label": "FE_UNIQUE_87",
+      "style": 24,
+      "name": "Scouter Series"
+    },
+    {
+      "$id": 237,
+      "label": "FE_UNIQUE_88",
+      "style": 24,
+      "name": "Limited Scouter Series"
+    },
+    {
+      "$id": 238,
+      "label": "FE_UNIQUE_89",
+      "style": 24,
+      "name": "Chilling Facade Series"
+    },
+    {
+      "$id": 239,
+      "label": "FE_UNIQUE_90",
+      "style": 24,
+      "name": "Makeshift Gauze Eyepatch Series"
+    },
+    {
+      "$id": 240,
+      "label": "FE_UNIQUE_91",
+      "style": 24,
+      "name": "Relaxing Angel Wings Series"
+    },
+    {
+      "$id": 241,
+      "label": "FE_UNIQUE_92",
+      "style": 24,
+      "name": "Soothing Angel Wings Series"
+    },
+    {
+      "$id": 242,
+      "label": "FE_UNIQUE_93",
+      "style": 24,
+      "name": "Soothing Angel Halo Series"
+    },
+    {
+      "$id": 243,
+      "label": "FE_UNIQUE_94",
+      "style": 24,
+      "name": "Adhesive Bandage Series"
+    },
+    {
+      "$id": 244,
+      "label": "FE_UNIQUE_95",
+      "style": 24,
+      "name": "Jet Black Devil Wings Series"
+    },
+    {
+      "$id": 245,
+      "label": "FE_UNIQUE_96",
+      "style": 24,
+      "name": "Fearsome Devil Horns Series"
+    },
+    {
+      "$id": 246,
+      "label": "FE_UNIQUE_97",
+      "style": 24,
+      "name": "Soft Cat Ears Series"
+    },
+    {
+      "$id": 247,
+      "label": "FE_UNIQUE_98",
+      "style": 24,
+      "name": "Relaxing Bunny Ears Series"
+    },
+    {
+      "$id": 248,
+      "label": "FE_UNIQUE_99",
+      "style": 24,
+      "name": "Soothing Bunny Ears Series"
+    },
+    {
+      "$id": 249,
+      "label": "FE_UNIQUE_100",
+      "style": 24,
+      "name": "Urbane Bunny Whiskers Series"
+    },
+    {
+      "$id": 250,
+      "label": "FE_UNIQUE_101",
+      "style": 24,
+      "name": "Wild Bunny Whiskers Series"
+    },
+    {
+      "$id": 251,
+      "label": "FE_UNIQUE_102",
+      "style": 24,
+      "name": "Wild Kitty Ears Series"
+    },
+    {
+      "$id": 252,
+      "label": "FE_UNIQUE_103",
+      "style": 24,
+      "name": "Youthful Sheep Horns Series"
+    },
+    {
+      "$id": 253,
+      "label": "FE_UNIQUE_104",
+      "style": 24,
+      "name": "Vogue Sheep Horns Series"
+    },
+    {
+      "$id": 254,
+      "label": "FE_UNIQUE_105",
+      "style": 24,
+      "name": "Tactician's Eyepatch Series"
+    },
+    {
+      "$id": 255,
+      "label": "FE_UNIQUE_106",
+      "style": 24,
+      "name": "L's Bodywear Series"
+    },
+    {
+      "$id": 256,
+      "label": "FE_UNIQUE_107",
+      "style": 24,
+      "name": "Celica's Bodywear Series"
+    },
+    {
+      "$id": 257,
+      "label": "FE_UNIQUE_108",
+      "style": 24,
+      "name": "Six Stars Ritual Series"
+    },
+    {
+      "$id": 258,
+      "label": "FE_UNIQUE_109",
+      "style": 24,
+      "name": "Black Bunnyband Series"
+    },
+    {
+      "$id": 259,
+      "label": "FE_UNIQUE_110",
+      "style": 24,
+      "name": "Red Bunnyband Series"
+    },
+    {
+      "$id": 260,
+      "label": "FE_UNIQUE_111",
+      "style": 24,
+      "name": "White Bunnyband Series"
+    },
+    {
+      "$id": 261,
+      "label": "FE_UNIQUE_112",
+      "style": 24,
+      "name": "Bunnytop Series"
+    },
+    {
+      "$id": 262,
+      "label": "FE_UNIQUE_113",
+      "style": 24,
+      "name": "Unknown BLADE Suit Series (Reginal)"
+    },
+    {
+      "$id": 263,
+      "label": "FE_UNIQUE_114",
+      "style": 24,
+      "name": "Unknown BLADE Suit Series (Regal)"
+    },
+    {
+      "$id": 264,
+      "label": "FE_UNIQUE_115",
+      "style": 24,
+      "name": "Unknown BLADE Suit Series (Infinite)"
+    },
+    {
+      "$id": 265,
+      "label": "FE_UNIQUE_116",
+      "style": 24,
+      "name": "Unknown BLADE Suit Series (True)"
+    },
+    {
+      "$id": 266,
+      "label": "FE_UNIQUE_117",
+      "style": 24,
+      "name": "Youthful Hibiscus Series"
+    },
+    {
+      "$id": 267,
+      "label": "FE_UNIQUE_118",
+      "style": 24,
+      "name": "Wild Hibiscus Series"
+    },
+    {
+      "$id": 268,
+      "label": "FE_UNIQUE_119",
+      "style": 24,
+      "name": "Urbane Hibiscus Series"
+    },
+    {
+      "$id": 269,
+      "label": "FE_UNIQUE_120",
+      "style": 24,
+      "name": "Vogue Hibiscus Series"
+    },
+    {
+      "$id": 270,
+      "label": "FE_UNIQUE_121",
+      "style": 24,
+      "name": "Lovestruck Hibiscus Series"
+    },
+    {
+      "$id": 271,
+      "label": "FE_UNIQUE_122",
+      "style": 24,
+      "name": "Refined Hibiscus Series"
+    },
+    {
+      "$id": 272,
+      "label": "FE_UNIQUE_123",
+      "style": 24,
+      "name": "Custom Diving Series"
+    },
+    {
+      "$id": 273,
+      "label": "FE_UNIQUE_124",
+      "style": 24,
+      "name": "Custom Swimsuit Series"
+    },
+    {
+      "$id": 274,
+      "label": "FE_UNIQUE_125",
+      "style": 24,
+      "name": "Bunnybod Series"
+    },
+    {
+      "$id": 275,
+      "label": "FE_NONE",
+      "style": 24,
+      "name": "None"
+    },
+    {
+      "$id": 276,
+      "label": "FE_AL_01",
+      "style": 24,
+      "name": "Al's Bodywear Series"
+    },
+    {
+      "$id": 277,
+      "label": "FE_NEIL_01",
+      "style": 24,
+      "name": "Neil's Bodywear Series"
+    },
+    {
+      "$id": 278,
+      "label": "FE_LIESEL_01",
+      "style": 24,
+      "name": "Liesel's Bodywear Series"
+    },
+    {
+      "$id": 279,
+      "label": "FE_JIARG_01",
+      "style": 24,
+      "name": "Ga Jiarg's Bodywear Series"
+    },
+    {
+      "$id": 280,
+      "label": "FE_AL_02",
+      "style": 24,
+      "name": "Flight Jacket II Series"
+    },
+    {
+      "$id": 281,
+      "label": "FE_AL_03",
+      "style": 24,
+      "name": "Flight Jacket III Series"
+    },
+    {
+      "$id": 282,
+      "label": "FE_AL_04",
+      "style": 24,
+      "name": "Flight Jacket IV Series"
+    },
+    {
+      "$id": 283,
+      "label": "FE_NEIL_02",
+      "style": 24,
+      "name": "Superciv Scholastics II Series"
+    },
+    {
+      "$id": 284,
+      "label": "FE_NEIL_03",
+      "style": 24,
+      "name": "Superciv Scholastics III Series"
+    },
+    {
+      "$id": 285,
+      "label": "FE_NEIL_04",
+      "style": 24,
+      "name": "Superciv Scholastics IV Series"
+    },
+    {
+      "$id": 286,
+      "label": "FE_LIESEL_02",
+      "style": 24,
+      "name": "Vivid Olivos II Series"
+    },
+    {
+      "$id": 287,
+      "label": "FE_LIESEL_03",
+      "style": 24,
+      "name": "Vivid Olivos III Series"
+    },
+    {
+      "$id": 288,
+      "label": "FE_LIESEL_04",
+      "style": 24,
+      "name": "Vivid Olivos IV Series"
+    },
+    {
+      "$id": 289,
+      "label": "FE_JIARG_02",
+      "style": 24,
+      "name": "Warlord's Armor II Series"
+    },
+    {
+      "$id": 290,
+      "label": "FE_JIARG_03",
+      "style": 24,
+      "name": "Warlord's Armor III Series"
+    },
+    {
+      "$id": 291,
+      "label": "FE_JIARG_04",
+      "style": 24,
+      "name": "Warlord's Armor IV Series"
+    },
+    {
+      "$id": 292,
+      "label": "FE_MTW_01",
+      "style": 24,
+      "name": "Maintenance Wear I Series"
+    },
+    {
+      "$id": 293,
+      "label": "FE_MTW_02",
+      "style": 24,
+      "name": "Maintenance Wear II Series"
+    },
+    {
+      "$id": 294,
+      "label": "FE_MTW_03",
+      "style": 24,
+      "name": "Maintenance Wear III Series"
+    },
+    {
+      "$id": 295,
+      "label": "FE_MTW_04",
+      "style": 24,
+      "name": "Maintenance Wear IV Series"
+    }
+  ]
+}

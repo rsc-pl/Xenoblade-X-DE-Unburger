@@ -1,0 +1,288 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev010701_JNK0010",
+      "style": 4,
+      "name": "Inquire[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev010701_SEL0011",
+      "style": 3,
+      "name": "Ask Camber about Skells.[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev010701_JNK0020",
+      "style": 4,
+      "name": "Discuss[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev010701_SEL0021",
+      "style": 3,
+      "name": "Ask Camber if he's heard any interesting rumors.[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev010701_MSG0001",
+      "style": 1,
+      "name": "What's that, newbie? You wanna pilot a Skell?\nHa! I'm guessing you don't have a license.[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "tev010701_MSG0002",
+      "style": 1,
+      "name": "If you want to pilot a Skell, you'll need to get yourself\na license by passing the license test.[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "tev010701_MSG0003",
+      "style": 1,
+      "name": "That test would be a lot to handle for a tenderfoot\nlike yourself. Fact is, I doubt they'd even let you take it.[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "tev010701_MSG0004",
+      "style": 1,
+      "name": "But if you can make a name for yourself out there,\nCommander Vandham himself will invite you to take it\nsooner or later.[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "tev010701_MSG0005",
+      "style": 1,
+      "name": "For now, don't even worry about Skells.\nJust focus on completing those missions.[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "tev010701_MSG0010",
+      "style": 1,
+      "name": "Me? I'm obsessed with Skells—and there's no shortage\nof BLADEs who feel the same way.[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev010701_MSG0011",
+      "style": 1,
+      "name": "But the biggest Skell fan is probably that one girl in the\nOutfitters division. She's 100 percent insane about 'em![ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "tev010701_MSG0012",
+      "style": 1,
+      "name": "When we go out to dinner together, she spends so\nmuch time talking about Skells that she forgets to eat![ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "tev010701_MSG0013",
+      "style": 1,
+      "name": "We got caught up in Skell talk at the diner the other\nnight and totally lost track of time. Before I knew it,\nI could see the sunrise outside the window.[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "tev010701_MSG0014",
+      "style": 1,
+      "name": "If that sounds like your kind of night, head on down\nto the Outfitters test hangar, look for a young woman\nstaring intently at a Skell, and strike up a conversation.[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "tev010701_MSG0024",
+      "style": 1,
+      "name": "If you want to pilot a Skell, you'll need to complete\ngrueling tasks assigned by Commander Vandham\nin order to earn your Skell license.[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "tev010701_MSG0025",
+      "style": 1,
+      "name": "My license test was backbreaking. I had a big list of\nindigens to kill and precious resources to gather.[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "tev010701_MSG0026",
+      "style": 1,
+      "name": "I very nearly killed myself trying to bring down a\ntyrant, and that was just ONE of my tasks.[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "tev010701_MSG0027",
+      "style": 1,
+      "name": "At the time, I hated Commander Vandham for putting\nme through that hell.[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "tev010701_MSG0028",
+      "style": 1,
+      "name": "But I'm still using the things I learned in that test.\nHell, I doubt I'd be alive today if I hadn't had to\ntoughen myself up like that.[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "tev010701_MSG0043",
+      "style": 1,
+      "name": "Light-type Skells excel at evasion.[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "tev010701_MSG0044",
+      "style": 1,
+      "name": "A lot of people prioritize armor, so light-type models\ntend to get overlooked. But who needs armor if your\nenemies can't land a hit?[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "tev010701_MSG0045",
+      "style": 1,
+      "name": "An evasive fighting style can also reduce the odds\nof your Skell being destroyed in battle.[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "tev010701_MSG0046",
+      "style": 1,
+      "name": "Don't get me wrong—I have a lot of respect for the\nresilience of the heavy-type Skells. It's really just a\nmatter of personal preference.[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "tev010701_MSG0060",
+      "style": 1,
+      "name": "Everyone in the hangars is obsessively tinkering with\nthose new flight-module-equipped Skells.[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "tev010701_MSG0061",
+      "style": 1,
+      "name": "And I'm certainly no exception. Their invention has sent\nme back to the drawing board to radically rethink the\nway we arm flight-capable Skells.[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "tev010701_MSG0062",
+      "style": 1,
+      "name": "I'm barely getting any sleep! I can't stop thinking\nabout what the optimal weapons system would be for\na flying Skell.[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "tev010701_MSG0063",
+      "style": 1,
+      "name": "The more I consider it, the more infinite the possibilities\nseem. There are so many cool things we could do!\nHow am I supposed to push that aside and just sleep?[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "tev010701_SEL0061",
+      "style": 3,
+      "name": "Ask Camber about recent developments.[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "tev010701_MSG0064",
+      "style": 1,
+      "name": "I heard the whole story from Mika.\nI am so sorry for what she put you through.[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "tev010701_MSG0065",
+      "style": 1,
+      "name": "I just don't understand why she would do something\nlike that.[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "tev010701_MSG0066",
+      "style": 1,
+      "name": "But she was a member of our team, so if there's\nanything we can do to make this right, just tell us.\nWe'll do whatever we can.[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "tev010701_MSG0068",
+      "style": 1,
+      "name": "For the millionth time, I'll be fine!\nMika's let me take her Skell out loads of times![ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "tev010701_MSG0069",
+      "style": 1,
+      "name": "Yeah, but if you mess this up, you could die![ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "tev010701_MSG0072",
+      "style": 1,
+      "name": "I told you I'm not gonna mess up, so stop worrying!\nYou need to be looking after Mika now anyway.[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "tev010701_SEL0071",
+      "style": 3,
+      "name": "Ask Camber about recent developments.[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "tev010701_MSG0073",
+      "style": 1,
+      "name": "Hey, thanks for saving me back there![ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "tev010701_MSG0074",
+      "style": 1,
+      "name": "As for the Skell, Alexa has it back in perfect\nworking order, and it's ready to return to service.[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "tev010701_MSG0075",
+      "style": 1,
+      "name": "She's been a big help around here. I ought to buy her\ndinner one of these days to say thanks.[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "tev010701_MSG0077",
+      "style": 1,
+      "name": "That's sweet and all, Camber, but I'd be happier if\nyou treated me to some Skell components.[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "tev010701_MSG0080",
+      "style": 1,
+      "name": "In fact, they just released some new ones that I've had\nmy eye on...[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "tev010701_MSG0083",
+      "style": 1,
+      "name": "Ha! I should have guessed you'd rather starve than\nneglect your Skell.[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "tev010701_MSG0086",
+      "style": 1,
+      "name": "Hmmm... Actually, if I really want to thank Alexa,\nI should probably just buy her a new Skell component.\nI bet she'd like that better.[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "tev010701_MSG0087",
+      "style": 1,
+      "name": "Yeah, I'm pretty sure she'd rather starve than neglect\nher Skell.[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "tev010701_SEL0041",
+      "style": 3,
+      "name": "Ask Camber about light-type Skells.[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "tev010701_SEL0051",
+      "style": 3,
+      "name": "Ask Camber about the Skell flight module.[ST:wait ]"
+    }
+  ]
+}

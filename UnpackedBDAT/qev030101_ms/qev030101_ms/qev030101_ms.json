@@ -1,0 +1,348 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev030101_MSG0001",
+      "style": 1,
+      "name": "BLADE! Ransomer of my people!\nYou find me in my hour of need.[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev030101_MSG0037",
+      "style": 1,
+      "name": "I need your strength. Lend it to me again.[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev030101_MSG0002",
+      "style": 1,
+      "name": "You saved many Tree clansmen.\nBut three are still prisoners.[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev030101_MSG0003",
+      "style": 1,
+      "name": "Cavern Clan has them. They must be rescued now![ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev030101_MSG0004",
+      "style": 1,
+      "name": "We are not strong. We cannot best them in combat.[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev030101_MSG0005",
+      "style": 1,
+      "name": "We beg Earth aliens to intervene.\nIt is our only hope. Kin die otherwise.[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev030101_JNK0010",
+      "style": 4,
+      "name": "Encourage[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev030101_SEL0011",
+      "style": 3,
+      "name": "Say Sevvy's clan will regain their strength in time.[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev030101_JNK0020",
+      "style": 4,
+      "name": "Reluctantly Agree[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev030101_SEL0021",
+      "style": 3,
+      "name": "Help Sevvy, but say they cannot rely on humans forever."
+    },
+    {
+      "$id": 11,
+      "label": "qev030101_MSG0006",
+      "style": 1,
+      "name": "Your words are kind and true.\nWhen clansmen return, we will not lose again![ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev030101_MSG0007",
+      "style": 1,
+      "name": "Correct. But not yet. Our numbers must grow.\nOur clansmen must return.[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev030101_MSG0008",
+      "style": 1,
+      "name": "It is good you are helping. It puts me at ease.\nI will give you names of those I seek.[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev030101_MSG0009",
+      "style": 1,
+      "name": "First is Oll Valdileo.\nHe was taken to Milligan supply base in Oblivia.[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev030101_MSG0010",
+      "style": 1,
+      "name": "Second is Rada Valdileo, younger brother of Oll.\nHe is also in supply base.[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev030101_MSG0011",
+      "style": 1,
+      "name": "Third is Uzoma Vassago.\n...He is my son.[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev030101_MSG0012",
+      "style": 1,
+      "name": "He was rear guard when we fled. He let us escape.\nThen he was made prisoner.[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev030101_MSG0013",
+      "style": 1,
+      "name": "He is at Mesa Fortress. We hear things about\nthat place. Terrible things. You must help him.[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev030101_MSG0014",
+      "style": 1,
+      "name": "Are locations clear? I can repeat them.\nWho would you hear about?[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev030101_JNK0030",
+      "style": 4,
+      "name": "Oll Valdileo[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev030101_SEL0031",
+      "style": 3,
+      "name": "Ask Sevvy about Oll Valdileo's whereabouts."
+    },
+    {
+      "$id": 22,
+      "label": "qev030101_JNK0040",
+      "style": 4,
+      "name": "Rada Valdileo[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev030101_SEL0041",
+      "style": 3,
+      "name": "Ask Sevvy about Rada Valdileo's whereabouts."
+    },
+    {
+      "$id": 24,
+      "label": "qev030101_JNK0050",
+      "style": 4,
+      "name": "Uzoma Vassago[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev030101_SEL0051",
+      "style": 3,
+      "name": "Ask Sevvy about Uzoma Vassago's whereabouts."
+    },
+    {
+      "$id": 26,
+      "label": "qev030101_MSG0015",
+      "style": 1,
+      "name": "Oll Valdileo is at Milligan supply base.\nHis brother Rada is also there. Help them.[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev030101_MSG0016",
+      "style": 1,
+      "name": "Rada Valdileo is at Milligan supply base.[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev030101_MSG0017",
+      "style": 1,
+      "name": "He is timid sort. Rare for Prone. But he has been\ncaptive for long time and will likely be afraid.[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev030101_MSG0018",
+      "style": 1,
+      "name": "Uzoma is prisoner at Mesa Fortress. In Oblivia.[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev030101_MSG0019",
+      "style": 1,
+      "name": "I know it is hard. But he is my son.\n...Please bring him home.[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev030101_MSG0020",
+      "style": 1,
+      "name": "My clansmen are safe!\nYou have done this![ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev030101_MSG0021",
+      "style": 1,
+      "name": "As chieftain of Tree Clan,\nI give you this award for bravery.[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev030101_MSG0022",
+      "style": 1,
+      "name": "My people were also brave. They withstood Cavern\nClan. They did not yield. This makes me proud.[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev030101_MSG0023",
+      "style": 1,
+      "name": "Slaves of Ganglion try to trample us underfoot.[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev030101_MSG0024",
+      "style": 1,
+      "name": "They cannot crush our spirit.\nWe are one with beasts and Great Tree.\nWe are true form of Prone![ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev030101_MSG0025",
+      "style": 1,
+      "name": "You are same, [ST:playername ].[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev030101_JNK0060",
+      "style": 4,
+      "name": "Agree[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev030101_SEL0061",
+      "style": 3,
+      "name": "Say that the Tree Clan's ways resonate with you.[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "qev030101_JNK0070",
+      "style": 4,
+      "name": "Deny[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "qev030101_SEL0071",
+      "style": 3,
+      "name": "Bluntly confess that you do not understand their ways.[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "qev030101_MSG0026",
+      "style": 1,
+      "name": "Indeed. You are family now. Fellow clansman.\nWe are at your side always.[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "qev030101_MSG0027",
+      "style": 1,
+      "name": "Nrgh... Such things take time. But I still like you.\nWe are at your side always.[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "qev030101_MSG0028",
+      "style": 1,
+      "name": "Now only Uzoma remains.\nRescue my son like you did others.[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "qev030101_MSG0029",
+      "style": 1,
+      "name": "...Hmm? What is matter? Is Uzoma well?[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "qev030101_JNK0080",
+      "style": 4,
+      "name": "Evade[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "qev030101_SEL0081",
+      "style": 3,
+      "name": "Offer a vague, hand-waving answer.[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "qev030101_JNK0090",
+      "style": 4,
+      "name": "Inform[ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "qev030101_SEL0091",
+      "style": 3,
+      "name": "Report Uzoma's death.[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "qev030101_MSG0030",
+      "style": 1,
+      "name": "Then hurry to his aid! His life is in your hands.[ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "qev030101_MSG0031",
+      "style": 1,
+      "name": "...What? Killed by Cavern Clan?[ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "qev030101_MSG0032",
+      "style": 1,
+      "name": "...He refused to yield and died in belly of beast?\nThis is noble Prone death.[ST:wait ]"
+    },
+    {
+      "$id": 52,
+      "label": "qev030101_MSG0033",
+      "style": 1,
+      "name": "......[ST:wait ]"
+    },
+    {
+      "$id": 53,
+      "label": "qev030101_MSG0034",
+      "style": 1,
+      "name": "No time to mourn. We will feed on his sacrifice and\ngrow stronger as clan.[ST:wait ]"
+    },
+    {
+      "$id": 54,
+      "label": "qev030101_MSG0035",
+      "style": 1,
+      "name": "Soon we will destroy Cavern Clan.\nEvery man. Every woman. Every child.\nNone shall survive.[ST:wait ]"
+    },
+    {
+      "$id": 55,
+      "label": "qev030101_MSG0036",
+      "style": 1,
+      "name": "You have aided us. This is my thanks.\nI hope you will aid us again.[ST:wait ]"
+    }
+  ]
+}

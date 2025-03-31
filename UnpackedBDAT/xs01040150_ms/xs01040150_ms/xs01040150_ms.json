@@ -1,0 +1,552 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs01040150_MSG0001",
+      "style": 0,
+      "name": "Allow me to formally introduce myself:\nMy name is Kentaro Nagi.[ST:wait ]\n"
+    },
+    {
+      "$id": 2,
+      "label": "xs01040150_MSG0002",
+      "style": 0,
+      "name": "You may remember me as captain of the White Whale,\nbut now I serve as Secretary of Defense here for New LA. [ST:wait ]\n"
+    },
+    {
+      "$id": 3,
+      "label": "xs01040150_MSG0003",
+      "style": 0,
+      "name": "The provisional government has charged me\nwith keeping the peace,[ST:page p1=90 ]so all military and police matters fall under my jurisdiction.[ST:wait ]\n"
+    },
+    {
+      "$id": 4,
+      "label": "xs01040150_MSG0004",
+      "style": 0,
+      "name": "He's also my superior officer.[ST:wait ]\n"
+    },
+    {
+      "$id": 5,
+      "label": "xs01040150_MSG0005",
+      "style": 0,
+      "name": "And he'd be an excellent person to talk to\nwhen you're ready to start looking for work.[ST:wait ]\n"
+    },
+    {
+      "$id": 6,
+      "label": "xs01040150_MSG0006",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 7,
+      "label": "xs01040150_MSG0006_m",
+      "style": 0,
+      "name": "What about a job right here with BLADE?\nHe seems capable.[ST:wait ]\n"
+    },
+    {
+      "$id": 8,
+      "label": "xs01040150_MSG0006_f",
+      "style": 0,
+      "name": "What about a job right here with BLADE?\nShe seems capable.[ST:wait ]\n"
+    },
+    {
+      "$id": 9,
+      "label": "xs01040150_MSG0007",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 10,
+      "label": "xs01040150_MSG0007_m",
+      "style": 0,
+      "name": "Let's give it a little more time—at least until he\nknows enough to be able to make an informed decision.[ST:wait ]\n"
+    },
+    {
+      "$id": 11,
+      "label": "xs01040150_MSG0007_f",
+      "style": 0,
+      "name": "Let's give it a little more time—at least until she\nknows enough to be able to make an informed decision.[ST:wait ]\n"
+    },
+    {
+      "$id": 12,
+      "label": "xs01040150_MSG0008",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 13,
+      "label": "xs01040150_MSG0008_m",
+      "style": 0,
+      "name": "He seems to be suffering from some form of memory loss.[ST:wait ]\n"
+    },
+    {
+      "$id": 14,
+      "label": "xs01040150_MSG0008_f",
+      "style": 0,
+      "name": "She seems to be suffering from some form of memory loss.[ST:wait ]\n"
+    },
+    {
+      "$id": 15,
+      "label": "xs01040150_MSG0009",
+      "style": 0,
+      "name": "Memory loss...? From the stasis?[ST:wait ]\n"
+    },
+    {
+      "$id": 16,
+      "label": "xs01040150_MSG0010",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 17,
+      "label": "xs01040150_MSG0010_m",
+      "style": 0,
+      "name": "He could barely remember his name—and nothing at all\nabout what happened to Earth or the White Whale.[ST:wait ]\n"
+    },
+    {
+      "$id": 18,
+      "label": "xs01040150_MSG0010_f",
+      "style": 0,
+      "name": "She could barely remember her name—and nothing at all\nabout what happened to Earth or the White Whale.[ST:wait ]\n"
+    },
+    {
+      "$id": 19,
+      "label": "xs01040150_MSG0011",
+      "style": 0,
+      "name": "I see...[ST:wait ]\n"
+    },
+    {
+      "$id": 20,
+      "label": "xs01040150_MSG0012",
+      "style": 0,
+      "name": "Though, come to think of it, the entire lot of us\nhave only been on this planet for what, two months?[ST:wait ]\n"
+    },
+    {
+      "$id": 21,
+      "label": "xs01040150_MSG0013",
+      "style": 0,
+      "name": "It shouldn't take very long to get caught up.[ST:wait ]\n"
+    },
+    {
+      "$id": 22,
+      "label": "xs01040150_MSG0014",
+      "style": 0,
+      "name": "My thoughts exactly.[ST:wait ]\n"
+    },
+    {
+      "$id": 23,
+      "label": "xs01040150_MSG0015",
+      "style": 0,
+      "name": "Well then...where should we begin?[ST:wait ]\n"
+    },
+    {
+      "$id": 24,
+      "label": "xs01040150_JNK0010",
+      "style": 4,
+      "name": "Inquire"
+    },
+    {
+      "$id": 25,
+      "label": "xs01040150_SEL0011",
+      "style": 3,
+      "name": "Ask how we ended up on Mira."
+    },
+    {
+      "$id": 26,
+      "label": "xs01040150_JNK0020",
+      "style": 4,
+      "name": "Clarify"
+    },
+    {
+      "$id": 27,
+      "label": "xs01040150_SEL0021",
+      "style": 3,
+      "name": "Ask for more information about BLADE."
+    },
+    {
+      "$id": 28,
+      "label": "xs01040150_JNK0030",
+      "style": 4,
+      "name": "Question"
+    },
+    {
+      "$id": 29,
+      "label": "xs01040150_SEL0031",
+      "style": 3,
+      "name": "Ask about registration."
+    },
+    {
+      "$id": 30,
+      "label": "xs01040150_MSG0016",
+      "style": 0,
+      "name": "It started at the end, two years ago.[ST:wait ]\n"
+    },
+    {
+      "$id": 31,
+      "label": "xs01040150_MSG0017",
+      "style": 0,
+      "name": "The end of Earth—the casualty of a battle\nbetween two hyper-advanced alien civilizations.[ST:wait ]\n"
+    },
+    {
+      "$id": 32,
+      "label": "xs01040150_MSG0018",
+      "style": 0,
+      "name": "Their technology and weapons were...beyond our\ncomprehension. We were like infants... Naked, powerless.[ST:wait ]\n"
+    },
+    {
+      "$id": 33,
+      "label": "xs01040150_MSG0019",
+      "style": 0,
+      "name": "The Earth was reduced to ash—and blown away.[ST:wait ]\n"
+    },
+    {
+      "$id": 34,
+      "label": "xs01040150_MSG0020",
+      "style": 0,
+      "name": "I still wonder if I hadn't been there...if maybe\nall of this could have somehow been avoided...[ST:wait ]\n"
+    },
+    {
+      "$id": 35,
+      "label": "xs01040150_MSG0021",
+      "style": 0,
+      "name": "No one can know that, Elma.[ST:wait ]\n"
+    },
+    {
+      "$id": 36,
+      "label": "xs01040150_MSG0022",
+      "style": 0,
+      "name": "What we DO know is, without you, there'd have been\nno Project Exodus, and no escape, for any of us.[ST:wait ]\n"
+    },
+    {
+      "$id": 37,
+      "label": "xs01040150_MSG0023",
+      "style": 0,
+      "name": "Did it go perfectly? No.\nBut we are here, and we are alive. We survived.[ST:wait ]\n"
+    },
+    {
+      "$id": 38,
+      "label": "xs01040150_MSG0024",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 39,
+      "label": "xs01040150_MSG0025",
+      "style": 0,
+      "name": "So yes, Project Exodus.[ST:wait ]\n"
+    },
+    {
+      "$id": 40,
+      "label": "xs01040150_MSG0026",
+      "style": 0,
+      "name": "Once we learned the Earth might be threatened,\nwe needed a plan to preserve all her various lifeforms.[ST:wait ]\n"
+    },
+    {
+      "$id": 41,
+      "label": "xs01040150_MSG0027",
+      "style": 0,
+      "name": "That plan was the Earthlife Colonization Project.\nOtherwise known as Project Exodus.[ST:wait ]\n"
+    },
+    {
+      "$id": 42,
+      "label": "xs01040150_MSG0028",
+      "style": 0,
+      "name": "Those of us who escaped on the White Whale\nspent over two years wandering in space.[ST:wait ]\n"
+    },
+    {
+      "$id": 43,
+      "label": "xs01040150_MSG0028_2",
+      "style": 0,
+      "name": "Two hard years.[ST:wait ]\n"
+    },
+    {
+      "$id": 44,
+      "label": "xs01040150_MSG0029",
+      "style": 0,
+      "name": "But we clung to our mission:\nfind a habitable planet, and settle there.[ST:wait ]\n"
+    },
+    {
+      "$id": 45,
+      "label": "xs01040150_MSG0030",
+      "style": 0,
+      "name": "We had no idea how long it would take...[ST:wait ]\n"
+    },
+    {
+      "$id": 46,
+      "label": "xs01040150_MSG0031",
+      "style": 0,
+      "name": "Or...that the decision would eventually be made for us.[ST:wait ]\n"
+    },
+    {
+      "$id": 47,
+      "label": "xs01040150_MSG0032",
+      "style": 0,
+      "name": "The xenoforms found us again, and...\nwell, it wasn't a happy reunion.[ST:wait ]\n"
+    },
+    {
+      "$id": 48,
+      "label": "xs01040150_MSG0033",
+      "style": 0,
+      "name": "Earth wasn't enough.\nThey wanted humanity destroyed.[ST:wait ]\n"
+    },
+    {
+      "$id": 49,
+      "label": "xs01040150_MSG0034",
+      "style": 0,
+      "name": "For better and for worse, we were close to\nplanet Mira when we lost control of the White Whale.[ST:page p1=180 ]Inertia and gravity took it from there.[ST:wait ]\n"
+    },
+    {
+      "$id": 50,
+      "label": "xs01040150_MSG0035",
+      "style": 0,
+      "name": "The ship had taken way too much damage\nto survive entering the atmosphere intact.[ST:wait ]\n"
+    },
+    {
+      "$id": 51,
+      "label": "xs01040150_MSG0036",
+      "style": 0,
+      "name": "We had no choice: we channeled all the power\nwe had left to soft-land the Habitat.[ST:wait ]\n"
+    },
+    {
+      "$id": 52,
+      "label": "xs01040150_MSG0037",
+      "style": 0,
+      "name": "Once the dust cleared, we set to work\ntransforming it into its current state...[ST:wait ]\n"
+    },
+    {
+      "$id": 53,
+      "label": "xs01040150_MSG0038",
+      "style": 0,
+      "name": "Searching for survivors, establishing BLADE,\ninstalling the provisional government...[ST:wait ]\n"
+    },
+    {
+      "$id": 54,
+      "label": "xs01040150_MSG0039",
+      "style": 0,
+      "name": "Basically making it a sustainable city.[ST:wait ]\n"
+    },
+    {
+      "$id": 55,
+      "label": "xs01040150_MSG0040",
+      "style": 0,
+      "name": "BLADE is an acronym.[ST:wait ]\n"
+    },
+    {
+      "$id": 56,
+      "label": "xs01040150_MSG0041",
+      "style": 0,
+      "name": "\"Builders of a Legacy After the Destruction of Earth.\"\nQuite fitting, I think.[ST:wait ]\n"
+    },
+    {
+      "$id": 57,
+      "label": "xs01040150_MSG0042",
+      "style": 0,
+      "name": "It's a relatively new organization.[ST:wait ]\n"
+    },
+    {
+      "$id": 58,
+      "label": "xs01040150_MSG0043",
+      "style": 0,
+      "name": "Up there in space, we had plenty of provisions,[ST:page p1=90 ]and a crew trained to handle the limited amount\nof situations we might encounter in our travels...[ST:wait ]\n"
+    },
+    {
+      "$id": 59,
+      "label": "xs01040150_MSG0044",
+      "style": 0,
+      "name": "But, of course, all that changed after we lost\nmost of our ship and came crashing down here on Mira.[ST:wait ]\n"
+    },
+    {
+      "$id": 60,
+      "label": "xs01040150_MSG0045",
+      "style": 0,
+      "name": "We needed food. Water.\nSearch and rescue teams. Surveyors. Police...[ST:wait ]\n"
+    },
+    {
+      "$id": 61,
+      "label": "xs01040150_MSG0046",
+      "style": 0,
+      "name": "The list goes on and on. It was too much for the provisional\ngovernment to manage on its own. So BLADE was born.[ST:wait ]\n"
+    },
+    {
+      "$id": 62,
+      "label": "xs01040150_MSG0047",
+      "style": 0,
+      "name": "The idea was to have one central organization\nwith different disciplines to fill these various roles.[ST:wait ]\n"
+    },
+    {
+      "$id": 63,
+      "label": "xs01040150_MSG0048",
+      "style": 0,
+      "name": "Its core was pulled from the Coalition military,\nso it's mostly former soldiers.[ST:wait ]\n"
+    },
+    {
+      "$id": 64,
+      "label": "xs01040150_MSG0049",
+      "style": 0,
+      "name": "But...fighting isn't our most important duty.[ST:wait ]\n"
+    },
+    {
+      "$id": 65,
+      "label": "xs01040150_MSG0050",
+      "style": 0,
+      "name": "Right now, we have a single, top priority\nthat supersedes all others:[ST:wait ]\n"
+    },
+    {
+      "$id": 66,
+      "label": "xs01040150_MSG0051",
+      "style": 0,
+      "name": "The search for—and recovery of—the Lifehold.[ST:wait ]\n"
+    },
+    {
+      "$id": 67,
+      "label": "xs01040150_MSG0052",
+      "style": 0,
+      "name": "Take a look at this.[ST:wait ]\n"
+    },
+    {
+      "$id": 68,
+      "label": "xs01040150_MSG0053",
+      "style": 0,
+      "name": "The White Whale was designed to carry an exceedingly\nlarge number of passengers, all of them held in stasis...[ST:wait ]\n"
+    },
+    {
+      "$id": 69,
+      "label": "xs01040150_MSG0054",
+      "style": 0,
+      "name": "All housed in a structure called the Lifehold.[ST:wait ]\n"
+    },
+    {
+      "$id": 70,
+      "label": "xs01040150_MSG0055",
+      "style": 0,
+      "name": "This is a complete schematic of that facility.[ST:wait ]\n"
+    },
+    {
+      "$id": 71,
+      "label": "xs01040150_MSG0056",
+      "style": 0,
+      "name": "Only essential personnel were conscious and active for the\njourney from Earth. The flight crew, maintenance engineers...[ST:wait ]\n"
+    },
+    {
+      "$id": 72,
+      "label": "xs01040150_MSG0057",
+      "style": 0,
+      "name": "And of course, some military,\nso we could defend ourselves if necessary.[ST:wait ]\n"
+    },
+    {
+      "$id": 73,
+      "label": "xs01040150_MSG0058",
+      "style": 0,
+      "name": "But the vast majority were in the Lifehold—\nARE in the Lifehold.[ST:wait ]\n"
+    },
+    {
+      "$id": 74,
+      "label": "xs01040150_MSG0059",
+      "style": 0,
+      "name": "With any luck, they're all still there, in stasis,\nwaiting to be rescued.[ST:wait ]\n"
+    },
+    {
+      "$id": 75,
+      "label": "xs01040150_MSG0060",
+      "style": 0,
+      "name": "But, there's a problem...[ST:wait ]\n"
+    },
+    {
+      "$id": 76,
+      "label": "xs01040150_MSG0061",
+      "style": 0,
+      "name": "We know now the Lifehold broke apart along with\nthe rest of the ship when we came down on Mira.[ST:wait ]\n"
+    },
+    {
+      "$id": 77,
+      "label": "xs01040150_MSG0062",
+      "style": 0,
+      "name": "What we don't know is exactly where all the pieces landed.\nNot very comforting, I know.[ST:wait ]\n"
+    },
+    {
+      "$id": 78,
+      "label": "xs01040150_MSG0063",
+      "style": 0,
+      "name": "BLADE's top priority now is locating the missing units.[ST:wait ]\n"
+    },
+    {
+      "$id": 79,
+      "label": "xs01040150_MSG0066",
+      "style": 0,
+      "name": "Ah, yes—all citizens of NLA are required\nto register their name, age, and occupation.[ST:wait ]\n"
+    },
+    {
+      "$id": 80,
+      "label": "xs01040150_MSG0067",
+      "style": 0,
+      "name": "We also ask you report any personal assets, and take\na short survey regarding your current state of health.[ST:wait ]\n"
+    },
+    {
+      "$id": 81,
+      "label": "xs01040150_MSG0068",
+      "style": 0,
+      "name": "All purely as a precaution—I'm sure you understand.[ST:wait ]\n"
+    },
+    {
+      "$id": 82,
+      "label": "xs01040150_MSG0069",
+      "style": 0,
+      "name": "As the caretakers of humanity's survival,\nwe all have certain responsibilities.[ST:wait ]\n"
+    },
+    {
+      "$id": 83,
+      "label": "xs01040150_MSG0070",
+      "style": 0,
+      "name": "And hey—it's not all bad.\nRegistering gets you access to all kinds of public services.[ST:wait ]\n"
+    },
+    {
+      "$id": 84,
+      "label": "xs01040150_MSG0071",
+      "style": 0,
+      "name": "In any case, I'm sure this is all a lot to digest.\nYou'll be wanting some time.[ST:wait ]\n"
+    },
+    {
+      "$id": 85,
+      "label": "xs01040150_MSG0072",
+      "style": 0,
+      "name": "Ms. Koo—[ST:wait ]\n"
+    },
+    {
+      "$id": 86,
+      "label": "xs01040150_MSG0073",
+      "style": 0,
+      "name": "Even I'M tired of hearing myself speak.\nWhy don't you take our guest out for some air?[ST:wait ]\n"
+    },
+    {
+      "$id": 87,
+      "label": "xs01040150_MSG0074",
+      "style": 0,
+      "name": "Perhaps a tour of the administrative district.[ST:wait ]\n"
+    },
+    {
+      "$id": 88,
+      "label": "xs01040150_MSG0076",
+      "style": 0,
+      "name": "Yes, sir![ST:wait ]\n"
+    },
+    {
+      "$id": 89,
+      "label": "xs01040150_MSG0076_02",
+      "style": 0,
+      "name": "C'mon. We'll keep this briefing brief.[ST:wait ]\n"
+    }
+  ]
+}

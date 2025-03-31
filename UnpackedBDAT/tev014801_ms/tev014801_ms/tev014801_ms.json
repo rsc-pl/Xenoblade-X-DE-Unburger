@@ -1,0 +1,486 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev014801_JNK0010",
+      "style": 4,
+      "name": "Inquire"
+    },
+    {
+      "$id": 2,
+      "label": "tev014801_SEL0011",
+      "style": 3,
+      "name": "Ask Fritz about the residents of NLA."
+    },
+    {
+      "$id": 3,
+      "label": "tev014801_JNK0020",
+      "style": 4,
+      "name": "Discuss"
+    },
+    {
+      "$id": 4,
+      "label": "tev014801_SEL0021",
+      "style": 3,
+      "name": "Ask Fritz about recent developments."
+    },
+    {
+      "$id": 5,
+      "label": "tev014801_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 6,
+      "label": "tev014801_SEL0031",
+      "style": 3,
+      "name": "Ask Fritz how to buy equipment."
+    },
+    {
+      "$id": 7,
+      "label": "tev014801_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 8,
+      "label": "tev014801_SEL0041",
+      "style": 3,
+      "name": "Ask Fritz about recent developments."
+    },
+    {
+      "$id": 9,
+      "label": "tev014801_SEL1011",
+      "style": 3,
+      "name": "Ask Fritz about the arms manufacturers.[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "tev014801_SEL1021",
+      "style": 3,
+      "name": "Ask Fritz if he's heard any interesting rumors."
+    },
+    {
+      "$id": 11,
+      "label": "tev014801_SEL2011",
+      "style": 3,
+      "name": "Ask Fritz about weapons dropped by indigens.[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "tev014801_SEL2031",
+      "style": 3,
+      "name": "Ask Fritz about Meredith & Co.[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "tev014801_SEL2051",
+      "style": 3,
+      "name": "Ask Fritz about Candid & Credible.[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "tev014801_SEL2052",
+      "style": 3,
+      "name": "Ask Fritz if anything is troubling him."
+    },
+    {
+      "$id": 15,
+      "label": "tev014801_SEL2071",
+      "style": 3,
+      "name": "Ask Fritz about the Nopon Commerce Guild."
+    },
+    {
+      "$id": 16,
+      "label": "tev014801_SEL2091",
+      "style": 3,
+      "name": "Ask Fritz about Orphean Technologies."
+    },
+    {
+      "$id": 17,
+      "label": "tev014801_SEL2111",
+      "style": 3,
+      "name": "Ask Fritz about Six Stars."
+    },
+    {
+      "$id": 18,
+      "label": "tev014801_SEL3021",
+      "style": 3,
+      "name": "Ask Fritz about recent developments."
+    },
+    {
+      "$id": 19,
+      "label": "tev014801_MSG0001",
+      "style": 1,
+      "name": "The city's economy has finally sprung to life,\nand customers are swarming to Armory Alley.[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "tev014801_MSG0002",
+      "style": 1,
+      "name": "I must admit, I worried about our future when we were\nattacked by an unknown enemy and had to crash-land\non this dangerous world.[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "tev014801_MSG0003",
+      "style": 1,
+      "name": "But humans are tenacious creatures. It's hard not to\nappreciate that when you see the level of energy on\ndisplay here.[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "tev014801_MSG0004",
+      "style": 1,
+      "name": "But I'd rather be a part of this than a mere observer,\nso I'd better get to work.[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "tev014801_MSG0009",
+      "style": 1,
+      "name": "Did you see the director general's broadcast earlier?[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "tev014801_MSG0010",
+      "style": 1,
+      "name": "Apparently they've discovered 10 new crew members![ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "tev014801_MSG0011",
+      "style": 1,
+      "name": "At this rate, the survey of Mira that's been stalled\nfor so long will probably be able to resume soon.\nThat sure was a relief to hear![ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "tev014801_MSG0018",
+      "style": 1,
+      "name": "If you join BLADE, you'll be able to use the shop\nterminal in Armory Alley to buy armaments from\nthe city's various arms manufacturers.[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "tev014801_MSG0019",
+      "style": 1,
+      "name": "And once you acquire a Skell license, you'll be able to\nbuy Skells from there as well.[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "tev014801_MSG0020",
+      "style": 1,
+      "name": "When that happy day comes, I hope you'll consider\nbuying one of the high-quality Skells from my company,\nSakuraba Industries.[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "tev014801_MSG0026",
+      "style": 1,
+      "name": "The arms manufacturers have been asked to prioritize\nnew weapons development, but that sort of work\nrequires resources and money.[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "tev014801_MSG0027",
+      "style": 1,
+      "name": "And there aren't any large investors in New LA,\nso we have to seek capital and miranium from\nindividual BLADEs.[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "tev014801_MSG0028",
+      "style": 1,
+      "name": "The amounts of investment provided by each is small,\nbut merge enough small streams and you end up with\na mighty river! At least, that's what we're counting on.[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "tev014801_MSG0029",
+      "style": 1,
+      "name": "If you join BLADE, I hope you'll considering investing\nin your preferred arms manufacturers.[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "tev014801_MSG1001",
+      "style": 1,
+      "name": "Each arms manufacturer has a corporation level.[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "tev014801_MSG1002",
+      "style": 1,
+      "name": "As that rises, they'll be able to develop and sell\nprogressively better equipment.[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "tev014801_MSG1003",
+      "style": 1,
+      "name": "...Hmm? You want to know what makes a corporate\nlevel rise?[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "tev014801_MSG1004",
+      "style": 1,
+      "name": "Well, it's based on the degree to which you BLADEs\nuse a company's equipment. Using them in combat\npromotes the products to a wider audience.[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "tev014801_MSG1005",
+      "style": 1,
+      "name": "As a BLADE, you should battle using the equipment of\nthe manufacturers you wish to support. That will cause\ntheir corporate level to gradually rise.[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "tev014801_MSG1006",
+      "style": 1,
+      "name": "You can increase it much more quickly by using the\nAM terminal in Armory Alley to contribute miranium\nto a favored arms manufacturer.[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "tev014801_MSG1007",
+      "style": 1,
+      "name": "Miranium is a valuable resource. With plenty on hand,\ndevelopment can proceed at a significantly faster pace.[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "tev014801_MSG1012",
+      "style": 1,
+      "name": "Sometimes the weapons that emerge from a fallen\nindigen's belly possess strange properties.[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "tev014801_MSG1013",
+      "style": 1,
+      "name": "I work in sales, not development, so I couldn't begin to\nexplain the how or why of it.[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "tev014801_MSG1014",
+      "style": 1,
+      "name": "But I think it has something to do with the strange\nchemical reactions that go on inside their bodies that\nallow indigens to shoot lasers and...things like that.[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "tev014801_MSG2001",
+      "style": 1,
+      "name": "At the moment, New LA hosts two arms manufacturers:\nMy company, Sakuraba Industries, and our rival,\nthe Grenada Galactic Group.[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "tev014801_MSG2002",
+      "style": 1,
+      "name": "We at Sakuraba Industries pride ourselves on making\nhigh-quality, conventional armaments that excel at\nphysical damage and defense.[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "tev014801_MSG2003",
+      "style": 1,
+      "name": "On the other hand, GGG primarily focuses on creating\narmaments that employ a special beam coating.[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "tev014801_MSG2004",
+      "style": 1,
+      "name": "Obviously, I would recommend that you mainly\npurchase Sakuraba products! But your safety is,\nof course, always the highest priority.[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "tev014801_MSG2005",
+      "style": 1,
+      "name": "Therefore, I suggest you compare the wares of both\ncompanies, then purchase the ones that will be most\neffective against the enemies you expect to face.[ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "tev014801_MSG2010",
+      "style": 1,
+      "name": "They're a recently registered start-up arms manufacturer.[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "tev014801_MSG2011",
+      "style": 1,
+      "name": "They seem to be developing weaponry that employs\nGanglion technologies.[ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "tev014801_MSG2012",
+      "style": 1,
+      "name": "In fact, they're even designed to look similar to the\nequipment employed by enemy xenoforms.[ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "tev014801_MSG2013",
+      "style": 1,
+      "name": "Their armor seems sturdy, and has unique attributes\nthat weren't available on conventional equipment.\nIt's really quite something.[ST:wait ]"
+    },
+    {
+      "$id": 52,
+      "label": "tev014801_MSG2014",
+      "style": 1,
+      "name": "If you're interested, why not take a look at the\nshop terminal in Armory Alley?[ST:wait ]"
+    },
+    {
+      "$id": 53,
+      "label": "tev014801_MSG2020",
+      "style": 1,
+      "name": "Their weaponry uses highly advanced electric-\nattribute technology.[ST:wait ]"
+    },
+    {
+      "$id": 54,
+      "label": "tev014801_MSG2021",
+      "style": 1,
+      "name": "That makes them particularly effective against fish-like\npiscinoid indigens who live near water, as well as the\nGanglion's automated weaponry.[ST:wait ]"
+    },
+    {
+      "$id": 55,
+      "label": "tev014801_MSG2022",
+      "style": 1,
+      "name": "They may be a rival, but there's no denying their\ntechnical prowess when it comes to harnessing and\ncontrolling extreme amounts of electricity.[ST:wait ]"
+    },
+    {
+      "$id": 56,
+      "label": "tev014801_MSG2023",
+      "style": 1,
+      "name": "I suppose we shouldn't be surprised. After all, this is a\nrace of xenoforms that was cruising the galaxy long\nbefore we humans fired our first rocket into space.[ST:wait ]"
+    },
+    {
+      "$id": 57,
+      "label": "tev014801_MSG2024",
+      "style": 1,
+      "name": "As a BLADE, you should give them a try.\nI think you'll be impressed![ST:wait ]"
+    },
+    {
+      "$id": 58,
+      "label": "tev014801_MSG2025",
+      "style": 1,
+      "name": "Do you know why destroying enemy appendages refills\nyour Skell's fuel supply?[ST:wait ]"
+    },
+    {
+      "$id": 59,
+      "label": "tev014801_MSG2026",
+      "style": 1,
+      "name": "...That look on your face tells me that you don't.\nAnd to be honest, I don't either.[ST:wait ]"
+    },
+    {
+      "$id": 60,
+      "label": "tev014801_MSG2027",
+      "style": 1,
+      "name": "I asked a mechanic about it so that I could speak more\nknowledgeably about our products, but his answer was\nso technical that I couldn't understand a word of it.[ST:wait ]"
+    },
+    {
+      "$id": 61,
+      "label": "tev014801_MSG2028",
+      "style": 1,
+      "name": "Maybe it's enough to just remember that it's true:\nDestroying appendages refills your fuel supply.[ST:wait ]"
+    },
+    {
+      "$id": 62,
+      "label": "tev014801_MSG2030",
+      "style": 1,
+      "name": "The weapons that the Nopon Commerce Guild deals in\nseem positively adorable, but make no mistake...[ST:wait ]"
+    },
+    {
+      "$id": 63,
+      "label": "tev014801_MSG2031",
+      "style": 1,
+      "name": "They are deadly weapons that typically use extreme\nheat to incinerate their targets into dust![ST:wait ]"
+    },
+    {
+      "$id": 64,
+      "label": "tev014801_MSG2032",
+      "style": 1,
+      "name": "The Nopon are so tiny, they're often eaten by the Prone\nas food.[ST:wait ]"
+    },
+    {
+      "$id": 65,
+      "label": "tev014801_MSG2033",
+      "style": 1,
+      "name": "Yet if they were simply strong enough to wield their\nown weapons, they could have turned the tables on\nthe Prone long ago.[ST:wait ]"
+    },
+    {
+      "$id": 66,
+      "label": "tev014801_MSG2040",
+      "style": 1,
+      "name": "They develop high-tech weaponry that we aren't even\ncapable of comprehending with our current level of\ntechnology.[ST:wait ]"
+    },
+    {
+      "$id": 67,
+      "label": "tev014801_MSG2041",
+      "style": 1,
+      "name": "Their product line includes equipment developed with\nadvanced ether technology, as well as close-combat\nweapons that deal damage with gravitational waves.[ST:wait ]"
+    },
+    {
+      "$id": 68,
+      "label": "tev014801_MSG2042",
+      "style": 1,
+      "name": "When the Orphe were imprisoned by the Ganglion,\nthey were apparently forced to make weapons for them.[ST:wait ]"
+    },
+    {
+      "$id": 69,
+      "label": "tev014801_MSG2043",
+      "style": 1,
+      "name": "And if you wield an Orphean Technologies weapon,\nyou'll understand why the Ganglion sought them out.[ST:wait ]"
+    },
+    {
+      "$id": 70,
+      "label": "tev014801_MSG2049",
+      "style": 1,
+      "name": "Six Stars employs many skilled Wrothian artisans to\nmake a variety of unique arms that only they know\nhow to craft.[ST:wait ]"
+    },
+    {
+      "$id": 71,
+      "label": "tev014801_MSG2050",
+      "style": 1,
+      "name": "They are designed by Wrothians and for Wrothians,\nand I'm told that they can be somewhat challenging\nfor mere humans to wield.[ST:wait ]"
+    },
+    {
+      "$id": 72,
+      "label": "tev014801_MSG2051",
+      "style": 1,
+      "name": "Nevertheless, the destructive power that they unleash\nupon a successful strike is truly eye-opening.[ST:wait ]"
+    },
+    {
+      "$id": 73,
+      "label": "tev014801_MSG2052",
+      "style": 1,
+      "name": "If you supplement your accuracy with skills and battle\ntraits, a Six Star weapon can be a potent companion.[ST:wait ]"
+    },
+    {
+      "$id": 74,
+      "label": "tev014801_MSG2053",
+      "style": 1,
+      "name": "Incidentally, \"Six Stars\" is some Wrothian cultural\nallusion, and is not intended to imply that their\nweapons are superior to Sakuraba's five-star offerings![ST:wait ]"
+    },
+    {
+      "$id": 75,
+      "label": "tev014801_MSG3001",
+      "style": 1,
+      "name": "You know, I haven't seen Avi around lately.\nShe used to be one of my most regular customers.[ST:wait ]"
+    },
+    {
+      "$id": 76,
+      "label": "tev014801_MSG3002",
+      "style": 1,
+      "name": "It sounded like she was having a hard time at work.\nMaybe she ended up quitting her job?[ST:wait ]"
+    },
+    {
+      "$id": 77,
+      "label": "tev014801_MSG3003",
+      "style": 1,
+      "name": "Well, whether she's started at some new job or is just\nworking hard hours at her old one, I hope she's found\nsome happiness in life.[ST:wait ]"
+    },
+    {
+      "$id": 78,
+      "label": "tev014801_MSG3004",
+      "style": 1,
+      "name": "It would be a shame to see all of her hard work go\nunrewarded.[ST:wait ]"
+    }
+  ]
+}

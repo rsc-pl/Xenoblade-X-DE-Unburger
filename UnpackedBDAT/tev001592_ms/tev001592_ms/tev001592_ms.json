@@ -1,0 +1,348 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev001592_MSG0001",
+      "style": 1,
+      "name": "Doing a little sightseeing, are we?[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev001592_JNK0010",
+      "style": 4,
+      "name": "Reproach[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev001592_SEL0011",
+      "style": 3,
+      "name": "Ask the Murderess if she's instigating fights again.[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev001592_JNK0020",
+      "style": 4,
+      "name": "Propose[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev001592_SEL0021",
+      "style": 3,
+      "name": "Ask the Murderess to help you break up the fight.[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "tev001592_MSG0002",
+      "style": 1,
+      "name": "Your accusation wounds me, [ST:gender p1=sir p2=madam ]!\nI don't start EVERY fight in New LA, you know.[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "tev001592_MSG0003",
+      "style": 1,
+      "name": "I assure you, I am merely a bystander.[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "tev001592_JNK0110",
+      "style": 4,
+      "name": "Believe[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "tev001592_SEL0111",
+      "style": 3,
+      "name": "Agree that the Murderess may not be responsible.[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "tev001592_JNK0120",
+      "style": 4,
+      "name": "Demand[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev001592_SEL0121",
+      "style": 3,
+      "name": "Insist that the combatants should resolve\ntheir problems with words instead of fists.[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "tev001592_JNK0130",
+      "style": 4,
+      "name": "Suspect[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "tev001592_SEL0131",
+      "style": 3,
+      "name": "Say this is too much of a coincidence to believe.[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "tev001592_MSG0004",
+      "style": 1,
+      "name": "Your grasp of these situations is as astute as ever.[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "tev001592_MSG0005",
+      "style": 1,
+      "name": "Anyway, it looks like the fight ended while we\nwere talking.[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "tev001592_MSG0006",
+      "style": 1,
+      "name": "Dammit, Egor! You're useless!\nYou can't even bring home pocket change![ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "tev001592_MSG0007",
+      "style": 1,
+      "name": "...Hmm? Oh, I was just talking to myself.[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "tev001592_MSG0008",
+      "style": 1,
+      "name": "Anyway, enjoy your evening and all that.\nI'll see you back in the administrative district.[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "tev001592_MSG0009",
+      "style": 1,
+      "name": "Were you a librarian in a former life?[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "tev001592_MSG0010",
+      "style": 1,
+      "name": "You must understand that everyone has their limits,\nand this city offers few ways to blow off steam.[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "tev001592_MSG0011",
+      "style": 1,
+      "name": "Everyone needs a way to release accumulated stress.\nEspecially the common folk.[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "tev001592_MSG0012",
+      "style": 1,
+      "name": "Anyway, it looks like the fight ended while we\nwere talking.[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "tev001592_MSG0013",
+      "style": 1,
+      "name": "Dammit, Egor! You're useless!\nYou can't even bring home pocket change![ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "tev001592_MSG0014",
+      "style": 1,
+      "name": "...Hmm? Oh, I was just talking to myself.[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "tev001592_MSG0015",
+      "style": 1,
+      "name": "Anyway, enjoy your evening and all that.\nI'll see you back in the administrative district.[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "tev001592_MSG0016",
+      "style": 1,
+      "name": "You truly are a suspicious person, aren't you?\nOr am I really that untrustworthy?[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "tev001592_MSG0017",
+      "style": 1,
+      "name": "Hmm... Actually, I suppose I am.[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "tev001592_MSG0018",
+      "style": 1,
+      "name": "I'm sure a[ST:gender p1= man p2= woman ] as observant as yourself has\nalready realized, but I wagered more than a few\ncredits on this fight.[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "tev001592_MSG0019",
+      "style": 1,
+      "name": "I'm hopeful that Egor here will be able to best Daniel.[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "tev001592_MSG0020",
+      "style": 1,
+      "name": "I'll grant you that it's hardly the Roman Colosseum,\nbut a city with as little to offer as New LA needs these\nsorts of amusements.[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "tev001592_MSG0021",
+      "style": 1,
+      "name": "Anyway, it looks like the fight ended while we\nwere talking.[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "tev001592_MSG0022",
+      "style": 1,
+      "name": "Heh heh. You pulled it off, Egor.\nThat's 4,000 credits in my pocket.[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "tev001592_MSG0023",
+      "style": 1,
+      "name": "Well, I'm going home while I'm still ahead.\nI'll see you back at the administrative district.[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "tev001592_MSG0024",
+      "style": 1,
+      "name": "Oh, that certainly wouldn't fly.[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "tev001592_MSG0025",
+      "style": 1,
+      "name": "If we were to stop the fight before it ended,\nno one would be satisfied.[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "tev001592_MSG0026",
+      "style": 1,
+      "name": "Except for you, apparently.[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "tev001592_MSG0027",
+      "style": 1,
+      "name": "Can't you see the poetry in two men fighting with\nbare fists?[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "tev001592_MSG0028",
+      "style": 1,
+      "name": "There are no guns or blades involved.\nThey waited until a whistle was blown.[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "tev001592_MSG0029",
+      "style": 1,
+      "name": "It's as orderly and fair a way as any to resolve a\ndisagreement in this world of ours.[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "tev001592_JNK0030",
+      "style": 4,
+      "name": "Accept[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "tev001592_SEL0031",
+      "style": 3,
+      "name": "Admit that there is some truth in the Murderess's words.[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "tev001592_JNK0040",
+      "style": 4,
+      "name": "Disagree[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "tev001592_SEL0041",
+      "style": 3,
+      "name": "Insist that they should have resolved it with words.[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "tev001592_MSG0030",
+      "style": 1,
+      "name": "Your grasp of these situations is as astute as ever.[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "tev001592_MSG0031",
+      "style": 1,
+      "name": "Anyway, it looks like the fight ended while we were\ntalking.[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "tev001592_MSG0032",
+      "style": 1,
+      "name": "Dammit, Egor! You're useless!\nYou can't even bring home pocket change![ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "tev001592_MSG0033",
+      "style": 1,
+      "name": "...Hmm? Oh, I was just talking to myself.[ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "tev001592_MSG0034",
+      "style": 1,
+      "name": "Anyway, enjoy your evening and all that.\nI'll see you back in the administrative district.[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "tev001592_MSG0035",
+      "style": 1,
+      "name": "Were you a librarian in a former life?[ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "tev001592_MSG0036",
+      "style": 1,
+      "name": "You must understand that everyone has their limits,\nand this city offers few ways to blow off steam.[ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "tev001592_MSG0037",
+      "style": 1,
+      "name": "Everyone needs a way to release accumulated stress.\nEspecially the common folk.[ST:wait ]"
+    },
+    {
+      "$id": 52,
+      "label": "tev001592_MSG0038",
+      "style": 1,
+      "name": "Anyway, it looks like the fight ended while we\nwere talking.[ST:wait ]"
+    },
+    {
+      "$id": 53,
+      "label": "tev001592_MSG0039",
+      "style": 1,
+      "name": "Dammit, Egor! You're useless!\nYou can't even bring home pocket change![ST:wait ]"
+    },
+    {
+      "$id": 54,
+      "label": "tev001592_MSG0040",
+      "style": 1,
+      "name": "...Hmm? Oh, I was just talking to myself.[ST:wait ]"
+    },
+    {
+      "$id": 55,
+      "label": "tev001592_MSG0041",
+      "style": 1,
+      "name": "Anyway, enjoy your evening and all that.\nI'll see you back in the administrative district.[ST:wait ]"
+    }
+  ]
+}

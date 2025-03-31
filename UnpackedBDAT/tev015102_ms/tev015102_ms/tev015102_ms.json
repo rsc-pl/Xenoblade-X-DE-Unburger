@@ -1,0 +1,126 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev015102_MSG0001",
+      "style": 1,
+      "name": "I'm the older twin, Lara Nara.[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev015102_MSG0002",
+      "style": 1,
+      "name": "I'm the younger twin, Lara Mara.[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev015102_MSG0003",
+      "style": 1,
+      "name": "And were are...the Beautiful Mediator Brothers!\n...Well? Did you see that coming?[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev015102_JNK0010",
+      "style": 4,
+      "name": "Affirm[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev015102_SEL0011",
+      "style": 3,
+      "name": "Claim that you had figured it out.[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "tev015102_JNK0020",
+      "style": 4,
+      "name": "Deny[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "tev015102_SEL0021",
+      "style": 3,
+      "name": "Say that you're completely shocked.[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "tev015102_MSG0004",
+      "style": 1,
+      "name": "Nice work! And your reward is...a hug!\nCome get some, [ST:gender p1=guy p2=girl ]![ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "tev015102_MSG0007",
+      "style": 1,
+      "name": "That's what I was hoping for! But I'm sorry if we\nsurprised you. Here, I'll make it up to you with a hug.\nCome get some, [ST:gender p1=guy p2=girl ]![ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "tev015102_MSG0010",
+      "style": 1,
+      "name": "Come now! Save this fooling around for later!\n...Anyway, as you can see, we're the best of friends.[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev015102_MSG0011",
+      "style": 1,
+      "name": "I promise that it was never our intent to deceive you.\nI'm sorry if we caught you by surprise.[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "tev015102_MSG0014",
+      "style": 1,
+      "name": "It's been so captivating watching you grow into such\na splendid [ST:gender p1=man! p2=woman! ] So what do you say?\nCare to swing by our room at the barracks tonight?[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "tev015102_MSG0015",
+      "style": 1,
+      "name": "Stop doing that already! When you finally meet the\nperson of your dreams, you'll regret this behavior.\nDon't take him seriously, [ST:playername ].[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "tev015102_MSG0016",
+      "style": 1,
+      "name": "That's easy for you to say, Nara—you've met the man\nof your dreams! You've forgotten what it's like to yearn\nfor the warmth of human contact...[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "tev015102_MSG0019",
+      "style": 1,
+      "name": "It's been so much fun for us to watch you grow up![ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "tev015102_MSG0020",
+      "style": 1,
+      "name": "You're stronger now than any man in New LA.\nI dub thee...the manliest BLADE of all![ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "tev015102_MSG0021",
+      "style": 1,
+      "name": "Nara! No woman wants to be called that![ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "tev015102_MSG0022",
+      "style": 1,
+      "name": "Really? I thought it sounded cool.[ST:wait ]"
+    }
+  ]
+}

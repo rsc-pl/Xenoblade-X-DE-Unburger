@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev022702_MSG0001",
+      "style": 1,
+      "name": "Are you the survivor who was found asleep in that\nLifepod?[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev022702_MSG0002",
+      "style": 1,
+      "name": "I heard you faced a lot of indigens out there.\nIt's like you rolled out of bed and onto a battlefield![ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev022702_MSG0003",
+      "style": 1,
+      "name": "Look, I'm no specialist, but if I were you,\nI'd worry that I pushed my body too far.[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev022702_MSG0004",
+      "style": 1,
+      "name": "You should head over to the administrative district\nfor a medical checkup, or at the very least some rest.[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev022702_MSG0005",
+      "style": 1,
+      "name": "I don't know what you intend to do now that you're\nhere, but it can wait until you've taken care of yourself.[ST:wait ]"
+    }
+  ]
+}

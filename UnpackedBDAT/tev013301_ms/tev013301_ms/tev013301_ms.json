@@ -1,0 +1,66 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev013301_JNK0010",
+      "style": 4,
+      "name": "Inquire"
+    },
+    {
+      "$id": 2,
+      "label": "tev013301_SEL0011",
+      "style": 3,
+      "name": "Ask to learn more about New LA."
+    },
+    {
+      "$id": 3,
+      "label": "tev013301_JNK0020",
+      "style": 4,
+      "name": "Discuss"
+    },
+    {
+      "$id": 4,
+      "label": "tev013301_SEL0021",
+      "style": 3,
+      "name": "Ask Moorehouse to tell you about himself."
+    },
+    {
+      "$id": 5,
+      "label": "tev013301_MSG0001",
+      "style": 1,
+      "name": "I'm afraid that I do not possess the answers you seek.[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "tev013301_MSG0002",
+      "style": 1,
+      "name": "You should ask someone who's a more active member\nof society.[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "tev013301_MSG5001",
+      "style": 1,
+      "name": "People speak of colonizing this world, but I merely wish\nto live my life in solitude.[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "tev013301_MSG5002",
+      "style": 1,
+      "name": "You can find more fruitful ways to spend your time\nthan by speaking with me.[ST:wait ]"
+    }
+  ]
+}

@@ -1,0 +1,216 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev030101_JNK0010",
+      "style": 4,
+      "name": "Inquire[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev030101_SEL0011",
+      "style": 3,
+      "name": "Ask Ackwar about the Ma-non.[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev030101_JNK0020",
+      "style": 4,
+      "name": "Discuss[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev030101_SEL0021",
+      "style": 3,
+      "name": "Ask Ackwar if anything is troubling him.[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev030101_SEL0031",
+      "style": 3,
+      "name": "Ask Ackwar about the attack.[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "tev030101_MSG0001",
+      "style": 1,
+      "name": "The Ma-non are mostly pacifists, you know?\nWe try to to avoid fights.[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "tev030101_MSG0002",
+      "style": 1,
+      "name": "But when I saw you humans risking your lives to save\neach other, I think I had an epiphany?[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "tev030101_MSG0003",
+      "style": 1,
+      "name": "I realized the importance of keeping the people I care\nabout safe, you know?[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "tev030101_MSG0004",
+      "style": 1,
+      "name": "So that's why I asked Commander Vandham to to let\nme join BLADE. Does that make sense?[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "tev030101_MSG0005",
+      "style": 1,
+      "name": "We Ma-non are not quite as robust as you humans,\nbut we are the smartest species in all the galaxy,\npretty much? I can pick things up as I go.[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev030101_MSG0006",
+      "style": 1,
+      "name": "Just wait, okay? Soon I'll be a masterful Mediator\nresolving conflicts all across the city.[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "tev030101_MSG0009",
+      "style": 1,
+      "name": "My BLADE work has been keeping me so so busy,\nyou know? I barely see my dear sweetheart Yuyu...[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "tev030101_MSG0010",
+      "style": 1,
+      "name": "When I get my next break, maybe I'll take her on a\ndate to Army Pizza?[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "tev030101_MSG0011",
+      "style": 1,
+      "name": "Of course, I still have a lot to learn, so I may not have\nearned a break, you know?[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "tev030101_MSG0012",
+      "style": 1,
+      "name": "One day I'll be so good at my job that I can finish\nearly and spend lots and lots of time with my Yuyu,\nyou know what I mean?[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "tev030101_MSG0020",
+      "style": 1,
+      "name": "When New LA came under attack, all the Ma-non were\nscared and and confused, you know? Big time panic.[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "tev030101_MSG0021",
+      "style": 1,
+      "name": "So I used my powers of quick thinking to devise\na strategy—I told the Ma-non that I had filled our\nentire ship with pizza![ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "tev030101_MSG0022",
+      "style": 1,
+      "name": "Everyone piled right onto the ship, and my superiors in\nBLADE commended me. Pretty clever, don't you think?[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "tev030101_MSG0023",
+      "style": 1,
+      "name": "Of course, once the crisis had subsided, the other\nMa-non had many many sternly worded complaints\nabout the ship's notable...lack of pizza?[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "tev030101_MSG0024",
+      "style": 1,
+      "name": "Regardless, I really feel like a true BLADE now,\nyou know?[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "tev030101_SEL0051",
+      "style": 3,
+      "name": "Ask Ackwar about the Ganglion threat.[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "tev030101_SEL0061",
+      "style": 3,
+      "name": "Ask Ackwar about recent developments.[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "tev030101_MSG0025",
+      "style": 1,
+      "name": "While we do need to deal with the Ganglion's direct\nassaults on the city, we must also remain mindful of\nother threats as well, don't you think?[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "tev030101_MSG0026",
+      "style": 1,
+      "name": "For example, how did Powell manage to get his hands\non that Skell?[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "tev030101_MSG0027",
+      "style": 1,
+      "name": "He may be ex-military, but BLADE isn't stupid, right?\nThey keep a tight watch on their Skells.[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "tev030101_MSG0028",
+      "style": 1,
+      "name": "So I figured Powell must have had help, you know?\nWell, when I followed up on this theory,\nI discovered something quite...unsettling?[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "tev030101_MSG0029",
+      "style": 1,
+      "name": "It seems he received assistance from other elements in\nthe city—non-human types, if you follow me?[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "tev030101_MSG0030",
+      "style": 1,
+      "name": "I am quite certain the Ganglion had a hand in\nmanipulating Powell's derangement to their advantage.\nAnd cleverness makes them dangerous, don't you think?[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "tev030101_MSG0033",
+      "style": 1,
+      "name": "Admittedly, some family members of Powell's Ma-non\nvictims have developed a markedly negative opinion\nof humans...[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "tev030101_MSG0034",
+      "style": 1,
+      "name": "But I intend to step in where I can and and and make\nthings right, if such a goal is possible.[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "tev030101_MSG0035",
+      "style": 1,
+      "name": "After all, I can relate. I once had my own proverbial\nbone to pick with humans because of Yuyu, you know?[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "tev030101_MSG0036",
+      "style": 1,
+      "name": "If it were not for you, I might still hate humans?[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "tev030101_MSG0037",
+      "style": 1,
+      "name": "So I suppose I must thank you, right? Right!\nLet's team up again and bring the light of reason to\nthis fine fine city, okay?[ST:wait ]"
+    }
+  ]
+}

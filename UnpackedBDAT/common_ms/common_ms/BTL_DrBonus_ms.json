@@ -1,0 +1,120 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "DRB_DMG_UP250_name",
+      "style": 24,
+      "name": "Damage +250%"
+    },
+    {
+      "$id": 2,
+      "label": "DRB_DMG_UP400_name",
+      "style": 24,
+      "name": "Damage +400%"
+    },
+    {
+      "$id": 3,
+      "label": "DRB_DEBUFF_UP20_name",
+      "style": 24,
+      "name": "Debuff tier +1 / Effect duration +20s"
+    },
+    {
+      "$id": 4,
+      "label": "DRB_DEBUFF_UP40_name",
+      "style": 24,
+      "name": "Debuff tier +2 / Effect duration +40s"
+    },
+    {
+      "$id": 5,
+      "label": "DRB_BUFF_UP20_name",
+      "style": 24,
+      "name": "Buff tier +1 / Effect duration +20s"
+    },
+    {
+      "$id": 6,
+      "label": "DRB_BUFF_UP40_name",
+      "style": 24,
+      "name": "Buff tier +2 / Effect duration +40s"
+    },
+    {
+      "$id": 7,
+      "label": "DRB_AURA_UP20_name",
+      "style": 24,
+      "name": "Aura tier +1 / Effect duration +20s"
+    },
+    {
+      "$id": 8,
+      "label": "DRB_AURA_UP40_name",
+      "style": 24,
+      "name": "Aura tier +2 / Effect duration +40s"
+    },
+    {
+      "$id": 9,
+      "label": "DRB_HIT_TP25_name",
+      "style": 24,
+      "name": "+25 TP per hit"
+    },
+    {
+      "$id": 10,
+      "label": "DRB_HIT_TP50_name",
+      "style": 24,
+      "name": "+50 TP per hit"
+    },
+    {
+      "$id": 11,
+      "label": "DRB_GEAR_CT2_name",
+      "style": 24,
+      "name": ""
+    },
+    {
+      "$id": 12,
+      "label": "DRB_GEAR_CT3_name",
+      "style": 24,
+      "name": ""
+    },
+    {
+      "$id": 13,
+      "label": "DRB_GEAR_TIME_EX1_name",
+      "style": 24,
+      "name": ""
+    },
+    {
+      "$id": 14,
+      "label": "DRB_GEAR_TIME_EX2_name",
+      "style": 24,
+      "name": ""
+    },
+    {
+      "$id": 15,
+      "label": "DRB_ARTS_STOCK_name",
+      "style": 24,
+      "name": "Immediate reuse"
+    },
+    {
+      "$id": 16,
+      "label": "DRB_BUFF_UP10_name",
+      "style": 24,
+      "name": "Buff tier +1 / Effect duration +10s"
+    },
+    {
+      "$id": 17,
+      "label": "DRB_BUFF_UP20EX_name",
+      "style": 24,
+      "name": "Buff tier +2 / Effect duration +20s"
+    }
+  ]
+}

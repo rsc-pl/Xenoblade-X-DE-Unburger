@@ -1,0 +1,372 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev025113_MSG0001",
+      "style": 1,
+      "name": "Hey, I know you.\nIt's, uh...[ST:playername ], right?[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev025113_MSG0002",
+      "style": 1,
+      "name": "Your timing's perfect. Think you could help me out with\none more little job?[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev025113_MSG0003",
+      "style": 1,
+      "name": "I've gotta bury this Ma-non, but the hole's taking\nforever to dig.[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev025113_JNK0010",
+      "style": 4,
+      "name": "Query"
+    },
+    {
+      "$id": 5,
+      "label": "qev025113_SEL0011",
+      "style": 3,
+      "name": "Demand to know whose body it is."
+    },
+    {
+      "$id": 6,
+      "label": "qev025113_JNK0020",
+      "style": 4,
+      "name": "Refuse"
+    },
+    {
+      "$id": 7,
+      "label": "qev025113_SEL0021",
+      "style": 3,
+      "name": "Tell Powell to dig his own hole."
+    },
+    {
+      "$id": 8,
+      "label": "qev025113_MSG0004",
+      "style": 1,
+      "name": "Guy named Ackwar. Thought he was a BLADE, but\nreally he was just a dumb, hungry animal like the rest\nof his kind.[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev025113_MSG0005",
+      "style": 1,
+      "name": "You said you were helping out with his investigation,\nyeah?[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev025113_MSG0006",
+      "style": 1,
+      "name": "Now that I think about it...that makes you the same as\nhim, don't it?[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev025113_MSG0007",
+      "style": 1,
+      "name": "Oh, right. You were working with him on the\ninvestigation, huh?[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev025113_MSG0008",
+      "style": 1,
+      "name": "Just had to help the little monster get in my way,\ndidn't you?[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev025113_MSG0009",
+      "style": 1,
+      "name": "...Ha ha! AAAH HA HA HA!\nWell, you're late to that party, pal![ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev025113_MSG0010",
+      "style": 1,
+      "name": "Ackwar scarfed down a special grenade pizza and\nwent back to that great UFO in the sky![ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev025113_MSG0011",
+      "style": 1,
+      "name": "Ha ha! The little idiots' brains turn off the moment they\nsee a pizza.[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev025113_MSG0012",
+      "style": 1,
+      "name": "Well, he got a blast of salami and cheese, all right...\nPlus a little something with a real kick![ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev025113_MSG0013",
+      "style": 1,
+      "name": "Duduma, Gerome, Yuyu, Ackwar...\nEvery last one of them got the house special![ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev025113_MSG0014",
+      "style": 1,
+      "name": "They all died with the taste of grenade pizza fresh on\ntheir tongues![ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev025113_MSG0015",
+      "style": 1,
+      "name": "Surprised? Was I not the main dish you were\nexpecting? Ha ha ha![ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev025113_JNK0030",
+      "style": 4,
+      "name": "Question"
+    },
+    {
+      "$id": 21,
+      "label": "qev025113_SEL0031",
+      "style": 3,
+      "name": "Force yourself to stay calm and discover Powell's motive."
+    },
+    {
+      "$id": 22,
+      "label": "qev025113_JNK0040",
+      "style": 4,
+      "name": "Explode"
+    },
+    {
+      "$id": 23,
+      "label": "qev025113_SEL0041",
+      "style": 3,
+      "name": "Vent all your rage at Powell."
+    },
+    {
+      "$id": 24,
+      "label": "qev025113_MSG0016",
+      "style": 1,
+      "name": "You can try to keep up that cool facade,\nbut I hear your soul screaming.[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev025113_MSG0017",
+      "style": 1,
+      "name": "But hey, you want a story?\nI'll tell you one before I send ya to hell.[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev025113_MSG0018",
+      "style": 1,
+      "name": "Yes, good! Be angry! Cry and scream!\nTaste the loss of someone you care deeply about![ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev025113_MSG0019",
+      "style": 1,
+      "name": "...That's the only way you'll understand the horror of\nwhat those monsters did.[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev025113_MSG0020",
+      "style": 1,
+      "name": "The Ma-non killed my wife.\nACKWAR killed my wife![ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev025113_MSG0021",
+      "style": 1,
+      "name": "But dying for his crime isn't enough—I'll follow him to\nhell and poison him again.[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev025113_MSG0023",
+      "style": 1,
+      "name": "And since you're helping him, that makes YOU guilty\nby association![ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev025113_MSG0024",
+      "style": 1,
+      "name": "I don't care if you're a BLADE or the director general...\nYou became my enemy the moment you chose his side.[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev025113_MSG0025",
+      "style": 1,
+      "name": "......[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev025113_MSG0026",
+      "style": 1,
+      "name": "...Thanks for that audio file, yes?\nWho's the the idiot now, Powell?[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev025113_MSG0027",
+      "style": 1,
+      "name": "Wha...?[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev025113_MSG0028",
+      "style": 1,
+      "name": "Is something wrong with your ears, maybe?\nI said you're the idiot here, didn't I?[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev025113_MSG0029",
+      "style": 1,
+      "name": "N-no, but...HOW?![ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev025113_JNK0050",
+      "style": 4,
+      "name": "Suspect Ackwar"
+    },
+    {
+      "$id": 38,
+      "label": "qev025113_SEL0051",
+      "style": 3,
+      "name": "Ask Ackwar if he really killed Powell's wife."
+    },
+    {
+      "$id": 39,
+      "label": "qev025113_JNK0060",
+      "style": 4,
+      "name": "Question Ackwar"
+    },
+    {
+      "$id": 40,
+      "label": "qev025113_SEL0061",
+      "style": 3,
+      "name": "Ask Ackwar how he's alive if he ate poison pizza."
+    },
+    {
+      "$id": 41,
+      "label": "qev025113_MSG0030",
+      "style": 1,
+      "name": "No no no! Whatever happened, Powell has twisted it\naround in his head, you see?[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "qev025113_MSG0031",
+      "style": 1,
+      "name": "Twisted? You animals are the twisted ones![ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "qev025113_MSG0032",
+      "style": 1,
+      "name": "Your kind tortured my wife day after day,\nand then you decided to finish the job![ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "qev025113_MSG0033",
+      "style": 1,
+      "name": "Or don't you remember demanding that she replace\nyour pizza over a couple lousy slices of salami?![ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "qev025113_MSG0034",
+      "style": 1,
+      "name": "Have you lost your mind, Powell? Maybe you should\nremember the situation you're in here.[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "qev025113_MSG0035",
+      "style": 1,
+      "name": "Rrrgh! How are you even ALIVE?! I saw you eat that\ngrenade pizza with my own eyes![ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "qev025113_MSG0036",
+      "style": 1,
+      "name": "Y-yeah! I WATCHED you eat my specially spiked\ngrenade pizza![ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "qev025113_MSG0038",
+      "style": 1,
+      "name": "Actually, I owe this one to you, don't I?[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "qev025113_MSG0039",
+      "style": 1,
+      "name": "First of all, you kept Gerome in in in one piece?\nThis allowed forensics to find the poisoned pizza\nin his stomach, you see?[ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "qev025113_MSG0040",
+      "style": 1,
+      "name": "And that, um, got me investigating, you know?\nTurns out Duduma, Gerome, and Yuyu all had\nsomething in common...[ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "qev025113_MSG0041",
+      "style": 1,
+      "name": "They all called in an order to to to Army Pizza just\nbefore they died.[ST:wait ]"
+    },
+    {
+      "$id": 52,
+      "label": "qev025113_MSG0042",
+      "style": 1,
+      "name": "I can't believe I was set up by a mindless little Ma-non![ST:wait ]"
+    },
+    {
+      "$id": 53,
+      "label": "qev025113_MSG0043",
+      "style": 1,
+      "name": "I believe you Earth folk call this \"chickens coming home\nto roost,\" yes? ...Or was it turkeys?[ST:wait ]"
+    },
+    {
+      "$id": 54,
+      "label": "qev025113_MSG0044",
+      "style": 1,
+      "name": "Oh, ain't this just like your kind![ST:wait ]"
+    },
+    {
+      "$id": 55,
+      "label": "qev025113_MSG0045",
+      "style": 1,
+      "name": "You weasel your way into human business and end up\nruining everything![ST:wait ]"
+    },
+    {
+      "$id": 56,
+      "label": "qev025113_MSG0046",
+      "style": 1,
+      "name": "I'll never forgive you for taking my wife from me.\nYou'll die for what you did![ST:wait ]"
+    },
+    {
+      "$id": 57,
+      "label": "qev025113_MSG0047",
+      "style": 1,
+      "name": "They used to call me the Hellfire Margherita back in the\narmy—it's time to show you how I earned that name![ST:wait ]"
+    },
+    {
+      "$id": 58,
+      "label": "qev025113_MSG0048",
+      "style": 1,
+      "name": "You came just in in in time, [ST:playername ],\ndidn't you?[ST:wait ]"
+    },
+    {
+      "$id": 59,
+      "label": "qev025113_MSG0049",
+      "style": 1,
+      "name": "We've got to stop Powell for good, haven't we?\nThis is for Yuyu...and everyone else he killed![ST:wait ]"
+    }
+  ]
+}

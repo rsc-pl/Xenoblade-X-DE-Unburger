@@ -1,0 +1,546 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev040501_MSG0001",
+      "style": 1,
+      "name": "Moimoi! Is Legen-dar STILL not ready?[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev040501_MSG0002",
+      "style": 1,
+      "name": "Quiet, Muimui! Moimoi is king of inventioning,\nbut even king need time for inspiration to strike.[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev040501_MSG0003",
+      "style": 1,
+      "name": "Hurry up! Wallet of king's brotherpon cannot stand\nsupporting both for much longer.[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev040501_MSG0004",
+      "style": 1,
+      "name": "...Hmm? Ah! You are BLADE friend, right?\nMuimui and Moimoi joined BLADE to earn\nsome quick cash—[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev040501_MSG0005",
+      "style": 1,
+      "name": "Ack! Quiet! Does Muimui want to get yelled at by\nleader of BLADE again?[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev040501_MSG0006",
+      "style": 1,
+      "name": "Eeek! Well then, here is story—Muimui and Moimoi\nenlist in BLADE in order to do good things. Probably.[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev040501_MSG0007",
+      "style": 1,
+      "name": "But now friend must show Muimui ropes of being\nBLADE. Especially ropes that lead to getting rich.[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev040501_JNK0010",
+      "style": 4,
+      "name": "Agree"
+    },
+    {
+      "$id": 9,
+      "label": "qev040501_SEL0011",
+      "style": 3,
+      "name": "Teach Muimui the basics of being a BLADE."
+    },
+    {
+      "$id": 10,
+      "label": "qev040501_JNK0020",
+      "style": 4,
+      "name": "Refuse"
+    },
+    {
+      "$id": 11,
+      "label": "qev040501_SEL0021",
+      "style": 3,
+      "name": "Chide Muimui for his selfishness."
+    },
+    {
+      "$id": 12,
+      "label": "qev040501_MSG0008",
+      "style": 1,
+      "name": "Hmm... Hrrrrrrmmmm... Yes. Muimui understand.\nBLADEs risk life and limb to fight strong enemies\nin order to keep city safe.[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev040501_MSG0009",
+      "style": 1,
+      "name": "But Muimui not interested in any of that.[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev040501_MSG0010",
+      "style": 1,
+      "name": "Muimui want to know how to get biggest rewards\nfor least amount of work.[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev040501_MSG0011",
+      "style": 1,
+      "name": "Do not be that way, friend!\nTeach Muimui money-making secrets from BLADE.[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev040501_MSG0012",
+      "style": 1,
+      "name": "Show Muimui how to find easy jobs with big reward![ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev040501_MSG0013",
+      "style": 1,
+      "name": "...Whaaaat? Such jobs do not exist?\nMuimui have to work hard like normal schmo?[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev040501_MSG0014",
+      "style": 1,
+      "name": "Perhaps friend misunderstands situation. Muimui and\nMoimoi extremely poor. There is no time take on\none tiny job after next. Does friend see now?[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev040501_MSG0015",
+      "style": 1,
+      "name": "...Meh! Never mind! It sound like there is no choice but\nto bet all on Legen-dar.[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev040501_JNK0030",
+      "style": 4,
+      "name": "Query"
+    },
+    {
+      "$id": 21,
+      "label": "qev040501_SEL0031",
+      "style": 3,
+      "name": "Ask what in the heck a \"Legen-dar\" is."
+    },
+    {
+      "$id": 22,
+      "label": "qev040501_JNK0040",
+      "style": 4,
+      "name": "Chastise"
+    },
+    {
+      "$id": 23,
+      "label": "qev040501_SEL0041",
+      "style": 3,
+      "name": "Launch into a long lecture on the\nvalue of an honest day's hard work."
+    },
+    {
+      "$id": 24,
+      "label": "qev040501_MSG0016",
+      "style": 1,
+      "name": "Legen-dar is super radar! It latest creation from little\nbrotherpon of Muimui, Nopon king of inventioning.[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev040501_MSG0017",
+      "style": 1,
+      "name": "It pick up faint signature emitted by treasure of\nNopon ancestors. Treasure lost to Miran history.\nIt track Sword of Legendaryness![ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev040501_MSG0018",
+      "style": 1,
+      "name": "Sword is super rare, even for famous Nopon stuff.\nCurators should pay through nose for it.[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev040501_MSG0019",
+      "style": 1,
+      "name": "Preachy talk not buy Muimui lunch! Plus, we already\nspent ton of money developing Legen-dar, which is\ndevice that tracks rare Nopon Sword of Legendaryness.[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev040501_MSG0020",
+      "style": 1,
+      "name": "Either it lead us to sword, or Muimui spend rest of life\nliving in cardboard box.[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev040501_MSG0021",
+      "style": 1,
+      "name": "Whatever it take, we will find ancient sword.\nIt is rarest of all Nopon legend-type things,\nand Curators will pay through nose for it.[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev040501_MSG0022",
+      "style": 1,
+      "name": "Hmm... Though even with radar complete,\nequipment of Muimui not quite up to traveling\noutside city.[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev040501_MSG0023",
+      "style": 1,
+      "name": "Friend is a generous BLADE veteran, yes?\nThen friend must help plucky rookie Muimui\nmake pair of Infinigoggles![ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev040501_MSG0024",
+      "style": 1,
+      "name": "After all, BLADEs are all about helping each other out\nat hugely discounted rates.[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev040501_MSG0025",
+      "style": 1,
+      "name": "It is deal then! Friend should start by gathering\nmaterials needed to build Infinigoggles.[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev040501_MSG0026",
+      "style": 1,
+      "name": "With five pieces of taut leather and two pieces of\nwhite mirrorglass, Moimoi can whip up Infinigoggles\nin no time flat.[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev040501_MSG0027",
+      "style": 1,
+      "name": "Oh, and also bring snack—er, mission-critical rations!\nThree sonar lemons will do nicely.[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev040501_MSG0028",
+      "style": 1,
+      "name": "While friend is getting those, Moimoi will complete\nLegen-dar.[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev040501_MSG0029",
+      "style": 1,
+      "name": "BLADE friend and Moimoi will send Muimui off on\nquest for Nopon Sword of Legendaryness together.[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev040501_MSG0036",
+      "style": 1,
+      "name": "Gather materials for a pair of custom Infinigoggles!\nMoimoi need taut leather and white mirrorglass.[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "qev040501_MSG0037",
+      "style": 1,
+      "name": "Oh, and because journey will be long and hungry,\nalso bring some sonar lemons.[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "qev040501_MSG0038",
+      "style": 1,
+      "name": "Double quick, now! Muimui is in hurry to discover\nSword of Legendaryness and kiss poverty good-bye![ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "qev040501_MSG0039",
+      "style": 1,
+      "name": "Friend has brought materials? In stunning coincidence,\nbrotherpon of Muimui, Moimoi, just finish Legen-dar.[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "qev040501_MSG0040",
+      "style": 1,
+      "name": "Thank you, friend! Moimoi will be able to make\nGREAT set of Infinigoggles with these![ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "qev040501_MSG0041",
+      "style": 1,
+      "name": "Quest for Sword of Legendaryness can finally begin.\nAnd Muimui can finally get rich quick![ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "qev040501_JNK0050",
+      "style": 4,
+      "name": "Query"
+    },
+    {
+      "$id": 45,
+      "label": "qev040501_SEL0051",
+      "style": 3,
+      "name": "Ask Muimui where Moimoi is."
+    },
+    {
+      "$id": 46,
+      "label": "qev040501_JNK0060",
+      "style": 4,
+      "name": "Support"
+    },
+    {
+      "$id": 47,
+      "label": "qev040501_SEL0061",
+      "style": 3,
+      "name": "Cheer on the eager Muimui."
+    },
+    {
+      "$id": 48,
+      "label": "qev040501_MSG0042",
+      "style": 1,
+      "name": "Leave it to veteran-BLADE-like friend to notice every\ntiny detail.[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "qev040501_MSG0043",
+      "style": 1,
+      "name": "Moimoi left to perform a final check on Legen-dar.\nShould be back soon.[ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "qev040501_MSG0044",
+      "style": 1,
+      "name": "Friend is always so encouraging![ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "qev040501_MSG0045",
+      "style": 1,
+      "name": "Now we just have to wait for Moimoi to get back\nfrom final check on Legen-dar and...[ST:wait ]"
+    },
+    {
+      "$id": 52,
+      "label": "qev040501_MSG0046",
+      "style": 1,
+      "name": "Meh?[ST:wait ]"
+    },
+    {
+      "$id": 53,
+      "label": "qev040501_MSG0047",
+      "style": 1,
+      "name": "*sniff* B-Brotherpon... Moimoi have terrible news.[ST:wait ]"
+    },
+    {
+      "$id": 54,
+      "label": "qev040501_MSG0048",
+      "style": 1,
+      "name": "Er, what happen? And why does Moimoi reek of\nnot-fun-kind-of-funny smell?[ST:wait ]"
+    },
+    {
+      "$id": 55,
+      "label": "qev040501_MSG0049",
+      "style": 1,
+      "name": "*sniff* Moimoi follow Legen-dar signal to Biahno Lake,\nbut then ferocious terebra show up.[ST:wait ]"
+    },
+    {
+      "$id": 56,
+      "label": "qev040501_MSG0050",
+      "style": 1,
+      "name": "It gobble Moimoi up whole! Moimoi kick and punch\nand eventually get free, but mouth of terebra smell\nSO VERY TERRIBLE![ST:wait ]"
+    },
+    {
+      "$id": 57,
+      "label": "qev040501_JNK0070",
+      "style": 4,
+      "name": "Worry"
+    },
+    {
+      "$id": 58,
+      "label": "qev040501_SEL0071",
+      "style": 3,
+      "name": "Ask Moimoi if he is all right."
+    },
+    {
+      "$id": 59,
+      "label": "qev040501_JNK0080",
+      "style": 4,
+      "name": "Suggest"
+    },
+    {
+      "$id": 60,
+      "label": "qev040501_SEL0081",
+      "style": 3,
+      "name": "Tell Moimoi to stop talking\nand take a bath immediately."
+    },
+    {
+      "$id": 61,
+      "label": "qev040501_MSG0051",
+      "style": 1,
+      "name": "Thoughtfulness of friend to not mention unbearable\nstench of terebra touch Moimoi deep inside.[ST:wait ]"
+    },
+    {
+      "$id": 62,
+      "label": "qev040501_MSG0052",
+      "style": 1,
+      "name": "But there are bigger things to worry about than\nMoimoi right now![ST:wait ]"
+    },
+    {
+      "$id": 63,
+      "label": "qev040501_MSG0053",
+      "style": 1,
+      "name": "Yes, it really strong. Terebra must have eaten\nsomething weird besides Moimoi.[ST:wait ]"
+    },
+    {
+      "$id": 64,
+      "label": "qev040501_MSG0054",
+      "style": 1,
+      "name": "But this is no time for taking of baths![ST:wait ]"
+    },
+    {
+      "$id": 65,
+      "label": "qev040501_MSG0055",
+      "style": 1,
+      "name": "Terebra also swallow the Legen-dar! *sob*\nMoimoi so sorry, Brotherpon![ST:wait ]"
+    },
+    {
+      "$id": 66,
+      "label": "qev040501_MSG0056",
+      "style": 1,
+      "name": "Hush, Brotherpon. What matter most is that Moimoi\nmake it home safe. Do not worry about little things.[ST:wait ]"
+    },
+    {
+      "$id": 67,
+      "label": "qev040501_MSG0057",
+      "style": 1,
+      "name": "*sniffle* But what happen now? It would cost 30,000\ncredits to build new one from scratch, and Moimoi is\nso very broke.[ST:wait ]"
+    },
+    {
+      "$id": 68,
+      "label": "qev040501_MSG0058",
+      "style": 1,
+      "name": "BLADE friend here will do something!\nLike cough up money. Or else go nab terebra.[ST:wait ]"
+    },
+    {
+      "$id": 69,
+      "label": "qev040501_MSG0059",
+      "style": 1,
+      "name": "One way or another, generous friend will save day![ST:wait ]"
+    },
+    {
+      "$id": 70,
+      "label": "qev040501_MSG0060",
+      "style": 1,
+      "name": "Please, friend! If the money spent on Legen-dar is lost\nfor good, Muimui will be ruined.[ST:wait ]"
+    },
+    {
+      "$id": 71,
+      "label": "qev040501_MSG0061",
+      "style": 1,
+      "name": "So either give Moimoi money for a new Legen-dar,\nor hunt down vicious terebra at Biahno Lake in west.\nEither one work![ST:wait ]"
+    },
+    {
+      "$id": 72,
+      "label": "qev040501_MSG0062",
+      "style": 1,
+      "name": "BLADEs always help each other in time of crisis,\nso Muimui counting on friend.[ST:wait ]"
+    },
+    {
+      "$id": 73,
+      "label": "qev040501_MSG0063",
+      "style": 1,
+      "name": "Ooo! Friend has recovered Legen-dar![ST:wait ]"
+    },
+    {
+      "$id": 74,
+      "label": "qev040501_MSG0064",
+      "style": 1,
+      "name": "Meh-meh-meeeeeh! It smell AWFUL!\n...Also seem to be acting up a little, too.[ST:wait ]"
+    },
+    {
+      "$id": 75,
+      "label": "qev040501_MSG0065",
+      "style": 1,
+      "name": "Either way, Muimui not carrying it around like this.\nPlease give it to Moimoi for proper tune-up.\nAlso hose-down.[ST:wait ]"
+    },
+    {
+      "$id": 76,
+      "label": "qev040501_MSG0066",
+      "style": 1,
+      "name": "Legen-dar is fixed? That great news![ST:wait ]"
+    },
+    {
+      "$id": 77,
+      "label": "qev040501_MSG0067",
+      "style": 1,
+      "name": "Oh-ho-ho-hoooo! Legen-dar is picking up response!\nNow Muimui can track down Sword of Legendaryness![ST:wait ]"
+    },
+    {
+      "$id": 78,
+      "label": "qev040501_MSG0068",
+      "style": 1,
+      "name": "Here, Brotherpon! Moimoi also finish Infinigoggles.[ST:wait ]"
+    },
+    {
+      "$id": 79,
+      "label": "qev040501_MSG0069",
+      "style": 1,
+      "name": "Now Muimui can spot dangerous critters well in\nadvance of bitey time.[ST:wait ]"
+    },
+    {
+      "$id": 80,
+      "label": "qev040501_MSG0070",
+      "style": 1,
+      "name": "All right. Preparations are ready.\nTime for quest to begin![ST:wait ]"
+    },
+    {
+      "$id": 81,
+      "label": "qev040501_JNK0090",
+      "style": 4,
+      "name": "Cheer"
+    },
+    {
+      "$id": 82,
+      "label": "qev040501_SEL0091",
+      "style": 3,
+      "name": "Say that you hope Muimui finds the sword."
+    },
+    {
+      "$id": 83,
+      "label": "qev040501_JNK0100",
+      "style": 4,
+      "name": "Warn"
+    },
+    {
+      "$id": 84,
+      "label": "qev040501_SEL0101",
+      "style": 3,
+      "name": "Warn Muimui that the outside world is full of dangers."
+    },
+    {
+      "$id": 85,
+      "label": "qev040501_MSG0071",
+      "style": 1,
+      "name": "It is sure thing with Legen-dar from Moimoi![ST:wait ]"
+    },
+    {
+      "$id": 86,
+      "label": "qev040501_MSG0072",
+      "style": 1,
+      "name": "Not to worry! With Infinigoggles from brotherpon,\nMuimui will spot them before they spot me.\nThen run away screaming into distance.[ST:wait ]"
+    },
+    {
+      "$id": 87,
+      "label": "qev040501_MSG0073",
+      "style": 1,
+      "name": "Now Muimui is off![ST:wait ]"
+    },
+    {
+      "$id": 88,
+      "label": "qev040501_MSG0074",
+      "style": 1,
+      "name": "Good luck! Come back safe![ST:wait ]"
+    }
+  ]
+}

@@ -1,0 +1,408 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev011201_JNK0010",
+      "style": 4,
+      "name": "Inquire[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev011201_SEL0011",
+      "style": 3,
+      "name": "Ask Corwin about the recently discovered survivors.[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev011201_JNK0020",
+      "style": 4,
+      "name": "Discuss[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev011201_SEL0021",
+      "style": 3,
+      "name": "Ask Corwin if anything is troubling him.[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev011201_SEL0031",
+      "style": 3,
+      "name": "Ask Corwin about the duties of a Pathfinder.[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "tev011201_SEL0041",
+      "style": 1,
+      "name": "Ask Corwin about the duties of a Pathfinder.[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "tev011201_MSG0001",
+      "style": 1,
+      "name": "You mean the lone survivor found in Starfall Basin?\nPretty crazy, huh?[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "tev011201_MSG0003",
+      "style": 1,
+      "name": "My team has found plenty of Lifepods that were\njettisoned from the White Whale as it crashed, but they\nwere all in terrible shape and... Well, no survivors.[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "tev011201_MSG0004",
+      "style": 1,
+      "name": "So it seems this new survivor got incredibly lucky.[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "tev011201_MSG0005",
+      "style": 1,
+      "name": "And if my experience has taught me anything,\nI'd expect him or her to live a long life and\naccomplish many great things.[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev011201_MSG0006",
+      "style": 1,
+      "name": "As someone who fell from the peak of Mt. Everest\nand actually lived to tell about it, take it from me.\nI know what I'm talking about.[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "tev011201_MSG0009",
+      "style": 1,
+      "name": "Well, Team Corwin specializes in exploring the most\ndangerous parts of Mira.[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "tev011201_MSG0010",
+      "style": 1,
+      "name": "As you'd imagine, we suffer a lot of casualties doing it.\nAll but the bravest of Pathfinders quickly transfer to\nother teams.[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "tev011201_MSG0011",
+      "style": 1,
+      "name": "As a result, we're undermanned. We're always trying to\nrecruit new members, but there aren't many BLADEs\nwith the guts to join us.[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "tev011201_MSG0012",
+      "style": 1,
+      "name": "At the moment, all that's left is myself, Raleigh, Peter,\nthe new guy, Bates, and my old friends from way back.[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "tev011201_MSG0013",
+      "style": 1,
+      "name": "That's all. It's a pretty sad state of affairs.[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "tev011201_MSG0014",
+      "style": 1,
+      "name": "It's breaking my heart. What happened to all the\neager new recruits brimming with frontier spirit?[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "tev011201_MSG0022",
+      "style": 1,
+      "name": "It ain't easy to accomplish much on this planet without\nreliable information.[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "tev011201_MSG0023",
+      "style": 1,
+      "name": "That's why we enter unexplored areas ahead of the\nother divisions and plant data probes.[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "tev011201_MSG0024",
+      "style": 1,
+      "name": "Once installed, a data probe will send back tons of\nuseful information over FrontierNav.[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "tev011201_MSG0025",
+      "style": 1,
+      "name": "Sure, the job's dangerous, but getting to see a new\nplace before anyone else? Ain't no mission more\nexciting than that![ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "tev011201_MSG0026",
+      "style": 1,
+      "name": "For a longtime adventurer like me, it's pretty much the\ngig of my dreams.[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "tev011201_MSG0042",
+      "style": 1,
+      "name": "I did a lot of successful expeditions before I ever\nboarded the White Whale.[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "tev011201_MSG0043",
+      "style": 1,
+      "name": "The toughest of them all was the many years I spent\nsurveying the surface of the Moon.[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "tev011201_MSG0044",
+      "style": 1,
+      "name": "But that job didn't hold a candle to how hard it is\nreaching these damned FrontierNav probe placement\nsites.[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "tev011201_MSG0045",
+      "style": 1,
+      "name": "At least this planet has oxygen—but that's hardly worth\nfacing all the nasty indigens![ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "tev011201_MSG0046",
+      "style": 1,
+      "name": "Our mission is all about slipping past the beasties to\nreach FrontierNav probe sites that are invariably at the\nleast-accessible points on the entire planet.[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "tev011201_MSG0047",
+      "style": 1,
+      "name": "We put our lives on the line every day, but that just\nmakes the triumph all the sweeter when we do reach\nour target.[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "tev011201_SEL0041",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 30,
+      "label": "tev011201_SEL1011",
+      "style": 3,
+      "name": "Ask Corwin about recent developments.[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "tev011201_MSG0048",
+      "style": 1,
+      "name": "Well, I just saved Bates's sorry ass, for one.[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "tev011201_MSG0049",
+      "style": 1,
+      "name": "But during that mission, a gal named Tempera showed\nup in this weird black Skell.[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "tev011201_MSG0050",
+      "style": 1,
+      "name": "It was closing in on me and Raleigh, so we really had\nto haul ass outta there.[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "tev011201_MSG0051",
+      "style": 1,
+      "name": "That crazy gal was carrying on about her mom or her\nbig sister or...something.[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "tev011201_MSG0052",
+      "style": 1,
+      "name": "Anyway, you better watch out—we still got a whole\nlot of enemies out there. This planet ain't ours yet.\nNot by a long shot.[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "tev011201_SEL2011",
+      "style": 3,
+      "name": "Ask Corwin about recent developments.[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "tev011201_MSG0053",
+      "style": 1,
+      "name": "Hey, how's it going, [ST:playername ]!\nThanks for your help with that whole Bates thing.[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "tev011201_MSG0054",
+      "style": 1,
+      "name": "I've been trying to track down the black Skell that\nattacked you and Bates.[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "tev011201_MSG0055",
+      "style": 1,
+      "name": "If you find out anything about it, could you give me\na heads-up?[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "tev011201_MSG0056",
+      "style": 1,
+      "name": "Someone needs to be taught a lesson about picking\nfights with Team Corwin![ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "tev011201_SEL3011",
+      "style": 3,
+      "name": "Ask Corwin about the duties of a Pathfinder.[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "tev011201_SEL3021",
+      "style": 3,
+      "name": "Ask Corwin about recent developments.[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "tev011201_SEL3031",
+      "style": 3,
+      "name": "Ask Corwin about the Lifehold.[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "tev011201_SEL3021",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 45,
+      "label": "tev011201_MSG0057",
+      "style": 1,
+      "name": "I did a lot of successful expeditions before I ever\nboarded the White Whale.[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "tev011201_MSG0058",
+      "style": 1,
+      "name": "The toughest of them all was the many years I spent\nsurveying the surface of the Moon.[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "tev011201_MSG0059",
+      "style": 1,
+      "name": "But that job didn't hold a candle to how hard it is\nreaching these damned FrontierNav probe placement\nsites.[ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "tev011201_MSG0060",
+      "style": 1,
+      "name": "At least this planet has oxygen—but that's hardly worth\nfacing all the nasty indigens![ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "tev011201_MSG0063",
+      "style": 1,
+      "name": "And on top of that, now we got all these weird xenos\ngunning for us. We haven't had a single expedition\never go smoothly. Not a single one![ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "tev011201_MSG0064",
+      "style": 1,
+      "name": "But that just makes the triumph all the sweeter when\nwe do reach our target, right? I'm sure you know\nwhat I'm talking about.[ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "tev011201_MSG0067",
+      "style": 1,
+      "name": "Well, I've had a pretty rough time of it,\nbut it ain't dampened my frontier spirit any.[ST:wait ]"
+    },
+    {
+      "$id": 52,
+      "label": "tev011201_MSG0068",
+      "style": 1,
+      "name": "Actually, my spirit is burning hotter than ever,\ndespite the fact I just lost a friend from way back.[ST:wait ]"
+    },
+    {
+      "$id": 53,
+      "label": "tev011201_MSG0069",
+      "style": 1,
+      "name": "Bates is actually starting to earn his keep, and Peter?\nMan, that guy's got the boundless curiosity of a true\nadventurer.[ST:wait ]"
+    },
+    {
+      "$id": 54,
+      "label": "tev011201_MSG0070",
+      "style": 1,
+      "name": "And we've still got Raleigh loving us all to pieces,\nso I'm confident Team Corwin's gonna dust itself off\nand reclaim its past glory.[ST:wait ]"
+    },
+    {
+      "$id": 55,
+      "label": "tev011201_MSG0071",
+      "style": 1,
+      "name": "Honestly, I'd ask 'em to transfer you onto my team,\nbut I know there's no way Elma would give you up.[ST:wait ]"
+    },
+    {
+      "$id": 56,
+      "label": "tev011201_MSG0072",
+      "style": 1,
+      "name": "No matter. Let's both just keep on chasing those\nsweet Miran dreams.[ST:wait ]"
+    },
+    {
+      "$id": 57,
+      "label": "tev011201_MSG0078",
+      "style": 1,
+      "name": "So is it true? You got back the comm device with the\ncoordinates of the Lifehold Core?[ST:wait ]"
+    },
+    {
+      "$id": 58,
+      "label": "tev011201_MSG0079",
+      "style": 1,
+      "name": "To be honest, I was hoping it'd be Team Corwin\nbringing back that glory, but a win's a win.\nWell done, my friend.[ST:wait ]"
+    },
+    {
+      "$id": 59,
+      "label": "tev011201_MSG0080",
+      "style": 1,
+      "name": "Team Corwin's not exactly in the best of shape after all\nthat trouble we had earlier, but you better believe we'll\nfight to the last man in the final battle.[ST:wait ]"
+    },
+    {
+      "$id": 60,
+      "label": "tev011201_MSG0081",
+      "style": 1,
+      "name": "Our real bodies? Humanity's future?\nI'm gonna take it back with my own two hands![ST:wait ]"
+    },
+    {
+      "$id": 61,
+      "label": "tev011201_SEL3041",
+      "style": 1,
+      "name": "Ask Corwin about the Lifehold Core."
+    },
+    {
+      "$id": 62,
+      "label": "tev011201_MSG0082",
+      "style": 1,
+      "name": "I wanna stand barefoot on the surface of Mira and feel\nthe true frontier spirit course through my veins.[ST:wait ]"
+    },
+    {
+      "$id": 63,
+      "label": "tev011201_MSG0083",
+      "style": 1,
+      "name": "I wonder how long it's gonna take before the\nLifehold is up and running again?[ST:wait ]"
+    },
+    {
+      "$id": 64,
+      "label": "tev011201_MSG0084",
+      "style": 1,
+      "name": "I know a research party went into the Lifehold Core,\nbut I haven't heard a word about what they've been\ndoing there. Hope that's not a bad sign.[ST:wait ]"
+    },
+    {
+      "$id": 65,
+      "label": "tev011201_MSG0085",
+      "style": 1,
+      "name": "Ah, I gotta stop thinking like that.\nIt ain't like me to worry.[ST:wait ]"
+    }
+  ]
+}

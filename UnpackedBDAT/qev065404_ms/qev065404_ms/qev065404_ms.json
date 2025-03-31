@@ -1,0 +1,228 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev065404_MSG0001",
+      "style": 1,
+      "name": "Um, [ST:playername ]? Why are you here...?[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev065404_MSG0002",
+      "style": 1,
+      "name": "Oh well. Doesn't matter. Take a look at this body.[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev065404_MSG0003",
+      "style": 1,
+      "name": "It's Clemons. ...The real Clemons. Poor guy.[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev065404_MSG0004",
+      "style": 1,
+      "name": "I'd say time of death was about a week ago. Killed by\nthe same Definian who set up the ambush, is my guess.[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev065404_JNK0010",
+      "style": 4,
+      "name": "Consider"
+    },
+    {
+      "$id": 6,
+      "label": "qev065404_SEL0011",
+      "style": 3,
+      "name": "Think about Clemons's time of death."
+    },
+    {
+      "$id": 7,
+      "label": "qev065404_JNK0020",
+      "style": 4,
+      "name": "Query"
+    },
+    {
+      "$id": 8,
+      "label": "qev065404_SEL0021",
+      "style": 3,
+      "name": "Ask Lara Nara how the search for the Definian is going."
+    },
+    {
+      "$id": 9,
+      "label": "qev065404_MSG0005",
+      "style": 1,
+      "name": "Mmm? What is it? Something stick out to you about\nhis time of death?[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev065404_MSG0006",
+      "style": 1,
+      "name": "Judging by the body, I'm pretty confident in my guess.[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev065404_MSG0007",
+      "style": 1,
+      "name": "But if not a week, then it's been here a few days at the\nvery least.[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev065404_MSG0008",
+      "style": 1,
+      "name": "Still at large, I'm afraid.[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev065404_MSG0009",
+      "style": 1,
+      "name": "But we've got every gate locked down completely.\nRank-and-file resident or leader of the BLADEs,\nyou're not getting through. She's in here somewhere.[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev065404_MSG0010",
+      "style": 1,
+      "name": "...Yeeees? You're still staring at me all funny.\nAre you coming to a realization here or what?[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev065404_MSG0011",
+      "style": 1,
+      "name": "Look, even if you're not sure yet, let's hear it.[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev065404_JNK0030",
+      "style": 4,
+      "name": "Declare"
+    },
+    {
+      "$id": 17,
+      "label": "qev065404_SEL0031",
+      "style": 3,
+      "name": "Say that you saw the suspect."
+    },
+    {
+      "$id": 18,
+      "label": "qev065404_JNK0040",
+      "style": 4,
+      "name": "Muse"
+    },
+    {
+      "$id": 19,
+      "label": "qev065404_SEL0041",
+      "style": 3,
+      "name": "Try to sum up your thoughts."
+    },
+    {
+      "$id": 20,
+      "label": "qev065404_MSG0012",
+      "style": 1,
+      "name": "What? Where?![ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev065404_MSG0013",
+      "style": 1,
+      "name": "Why didn't you stop her?![ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev065404_MSG0014",
+      "style": 1,
+      "name": "If you keep scrunching your face up like that,\nyou're going to get wrinkles.[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev065404_MSG0015",
+      "style": 1,
+      "name": "Don't worry about solving everything yourself.\nJust tell me what you've seen and we can work out\nwhat it means together.[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev065404_MSG0016",
+      "style": 1,
+      "name": "...Wait, you talked to Clemons just now?[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev065404_MSG0017",
+      "style": 1,
+      "name": "It has to have been that nasty Definian...[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev065404_MSG0018",
+      "style": 1,
+      "name": "She knew you hadn't seen this body yet,\nso she turned back into Clemons to fool you![ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev065404_MSG0019",
+      "style": 1,
+      "name": "Rrgh! This is SO infuriating![ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev065404_MSG0020",
+      "style": 1,
+      "name": "We're going to find her! ...Er, him. Whatever!\nAnd then we're going to—[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev065404_MSG0021",
+      "style": 1,
+      "name": "Oops, one second. Emergency message.\n...Huuuuuh? What the heck is THIS?![ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev065404_MSG0022",
+      "style": 1,
+      "name": "Suriella and Clemons are fighting outside the city!\nThat Clemons has to be our perp![ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev065404_MSG0027",
+      "style": 1,
+      "name": "I'll head out as soon as I can gear up, but you go on\nahead. They're at the little island west of the city.[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev065404_MSG0023",
+      "style": 1,
+      "name": "Suriella and Clemons are fighting on the little island to\nthe west of the city.[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev065404_MSG0024",
+      "style": 1,
+      "name": "We have no idea what the Definians are capable of,\ncombat-wise, so I'm going to get some serious gear\ntogether just in case.[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev065404_MSG0025",
+      "style": 1,
+      "name": "Go on ahead of me. I'll meet you there![ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev065404_MSG0026",
+      "style": 1,
+      "name": "And do NOT let that nasty creature get away.\nThis mess ends on that island![ST:wait ]"
+    }
+  ]
+}
