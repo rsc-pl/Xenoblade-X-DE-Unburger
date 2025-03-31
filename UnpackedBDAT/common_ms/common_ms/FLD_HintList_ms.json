@@ -66,7 +66,7 @@
       "$id": 9,
       "label": "HINT_CONTENT_008",
       "style": 174,
-      "name": "[ST:icon p1=zl ]: Board/Exit Skell\n\n[ST:icon p1=analp ]: Toggle Skell Mode Change"
+      "name": "[ST:icon p1=zl ]: Board/Exit Doll\n\n[ST:icon p1=analp ]: Toggle Doll Mode Change"
     },
     {
       "$id": 10,
@@ -102,7 +102,7 @@
       "$id": 15,
       "label": "HINT_CONTENT_014",
       "style": 174,
-      "name": "[ST:icon p1=a ] in Center of Arts Palette: Overdrive"
+      "name": "[ST:icon p1=a ] in Center of Arts Palette: Overclock"
     },
     {
       "$id": 16,
@@ -210,13 +210,13 @@
       "$id": 33,
       "label": "HINT_CONTENT_032",
       "style": 174,
-      "name": "During Rising Energy Mist weather:\npotential will be reduced, while ether\nattack will be increased and Skell fuel\nwill regenerate steadily."
+      "name": "During Rising Energy Mist weather:\npotential will be reduced, while ether\nattack will be increased and Doll fuel\nwill regenerate steadily."
     },
     {
       "$id": 34,
       "label": "HINT_CONTENT_033",
       "style": 174,
-      "name": "During Energy Mist weather: potential\nwill be reduced, while ether attack\nwill be increased and Skell fuel will\nregenerate steadily."
+      "name": "During Energy Mist weather: potential\nwill be reduced, while ether attack\nwill be increased and Doll fuel will\nregenerate steadily."
     },
     {
       "$id": 35,
@@ -282,13 +282,13 @@
       "$id": 45,
       "label": "HINT_CONTENT_044",
       "style": 174,
-      "name": "You can top up your Skells' fuel\nreserves by interacting with the\nconsole in the BLADE barracks,\nthen selecting Barracks Hangar."
+      "name": "You can top up your Dolls' fuel\nreserves by interacting with the\nconsole in the BLADE barracks,\nthen selecting Barracks Hangar."
     },
     {
       "$id": 46,
       "label": "HINT_CONTENT_045",
       "style": 174,
-      "name": "Install a data probe at a FrontierNav\nprobe site to reveal segment recon\ninformation about adjacent segments\nand unlock the site for fast travel."
+      "name": "Install a data probe at a FrontierNET\nprobe site to reveal segment recon\ninformation about adjacent segments\nand unlock the site for fast travel."
     },
     {
       "$id": 47,
@@ -306,13 +306,13 @@
       "$id": 49,
       "label": "HINT_CONTENT_048",
       "style": 174,
-      "name": "You can access FrontierNav from one\nof the consoles on the White Whale 2's\nbridge."
+      "name": "You can access FrontierNET from one\nof the consoles on the White Whale 2's\nbridge."
     },
     {
       "$id": 50,
       "label": "HINT_CONTENT_049",
       "style": 174,
-      "name": "Install data probes at FrontierNav\nprobe sites and complete segment\nrecon to raise the survey rate."
+      "name": "Install data probes at FrontierNET\nprobe sites and complete segment\nrecon to raise the survey rate."
     },
     {
       "$id": 51,
@@ -330,7 +330,7 @@
       "$id": 53,
       "label": "HINT_CONTENT_052",
       "style": 174,
-      "name": "You can accept basic missions by\ninteracting with the Mission Control\nboard."
+      "name": "You can accept basic missions by\ninteracting with the Quest Board\nboard."
     },
     {
       "$id": 54,
@@ -342,7 +342,7 @@
       "$id": 55,
       "label": "HINT_CONTENT_054",
       "style": 174,
-      "name": "You can fast travel to your Skell's\nlocation by going to Main Menu >\nParty > Return to Skell."
+      "name": "You can fast travel to your Doll's\nlocation by going to Main Menu >\nParty > Return to Doll."
     },
     {
       "$id": 56,
@@ -360,7 +360,7 @@
       "$id": 58,
       "label": "HINT_CONTENT_057",
       "style": 174,
-      "name": "Collecting FrontierNav revenue is\na way of earning money, miranium,\nand rare resources."
+      "name": "Collecting FrontierNET revenue is\na way of earning money, miranium,\nand rare resources."
     },
     {
       "$id": 59,
@@ -396,13 +396,13 @@
       "$id": 64,
       "label": "HINT_CONTENT_063",
       "style": 174,
-      "name": "When fighting against giant enemies,\nit is advantageous to use Skells."
+      "name": "When fighting against giant enemies,\nit is advantageous to use Dolls."
     },
     {
       "$id": 65,
       "label": "HINT_CONTENT_064",
       "style": 174,
-      "name": "When using Overdrive, Arts can reach\na state beyond secondary cooldown\ncalled tertiary cooldown, even further\nincreasing their effects."
+      "name": "When using Overclock, Arts can reach\na state beyond secondary cooldown\ncalled tertiary cooldown, even further\nincreasing their effects."
     },
     {
       "$id": 66,
@@ -438,7 +438,7 @@
       "$id": 71,
       "label": "HINT_CONTENT_070",
       "style": 174,
-      "name": "Using offensive Arts during Overdrive\nwill raise the Overdrive counter based\non the number of hits. The higher the\ncounter, the stronger the counter bonus\ndeployed when using Arts."
+      "name": "Using offensive Arts during Overclock\nwill raise the Overclock counter based\non the number of hits. The higher the\ncounter, the stronger the counter bonus\ndeployed when using Arts."
     },
     {
       "$id": 72,
@@ -450,19 +450,19 @@
       "$id": 73,
       "label": "HINT_CONTENT_072",
       "style": 174,
-      "name": "When you use Arts while driving a Skell,\nthere's a chance for Cockpit Time to\ntrigger. When it does, all Arts will be\nfully recharged, and you'll be granted\ntemporary invincibility."
+      "name": "When you use Arts while driving a Doll,\nthere's a chance for Cockpit Time to\ntrigger. When it does, all Arts will be\nfully recharged, and you'll be granted\ntemporary invincibility."
     },
     {
       "$id": 74,
       "label": "HINT_CONTENT_073",
       "style": 174,
-      "name": "During Overdrive, using offensive Arts\nof different types in sequence (e.g.\nusing a yellow ranged Art followed by\nan orange melee Art) will not increase\nthe counter. Use debuff (purple) or buff\n(green) Arts between different types of\noffensive Arts to build up the counter."
+      "name": "During Overclock, using offensive Arts\nof different types in sequence (e.g.\nusing a yellow ranged Art followed by\nan orange melee Art) will not increase\nthe counter. Use debuff (purple) or buff\n(green) Arts between different types of\noffensive Arts to build up the counter."
     },
     {
       "$id": 75,
       "label": "HINT_CONTENT_074",
       "style": 174,
-      "name": "Overdrive will end when the timer\nreaches zero. The timer can be\nextended through the counter bonus\neffect gained when using green or\nblue Arts."
+      "name": "Overclock will end when the timer\nreaches zero. The timer can be\nextended through the counter bonus\neffect gained when using green or\nblue Arts."
     },
     {
       "$id": 76,
@@ -480,13 +480,13 @@
       "$id": 78,
       "label": "HINT_CONTENT_077",
       "style": 174,
-      "name": "Press [ST:icon p1=zl ]+[ST:icon p1=zr ] to grapple a staggered\nenemy and bind them using your Skell.\nAll attacks against a bound enemy will\nhit, and it will take increased damage."
+      "name": "Press [ST:icon p1=zl ]+[ST:icon p1=zr ] to grapple a staggered\nenemy and bind them using your Doll.\nAll attacks against a bound enemy will\nhit, and it will take increased damage."
     },
     {
       "$id": 79,
       "label": "HINT_CONTENT_078",
       "style": 174,
-      "name": "If one of your Skell's weapons\n(appendages) is destroyed, you will\nlose access to attacks using that\nweapon. Destroyed appendages will\nbe automatically repaired once the\nbattle concludes."
+      "name": "If one of your Doll's weapons\n(appendages) is destroyed, you will\nlose access to attacks using that\nweapon. Destroyed appendages will\nbe automatically repaired once the\nbattle concludes."
     },
     {
       "$id": 80,

@@ -354,7 +354,7 @@
       "$id": 57,
       "label": "ARTS_JAVELIN_SP10_LEV1_CAP",
       "style": 148,
-      "name": "Deals +<<enp1>>% more damage if your Skell\nis destroyed during the battle."
+      "name": "Deals +<<enp1>>% more damage if your Doll\nis destroyed during the battle."
     },
     {
       "$id": 58,
@@ -402,7 +402,7 @@
       "$id": 65,
       "label": "ARTS_BEAMSAVIOR_SP08_LEV1_CAP",
       "style": 148,
-      "name": "When targeting a Skell, all appendages\nrecover <<enp1>>% HP."
+      "name": "When targeting a Doll, all appendages\nrecover <<enp1>>% HP."
     },
     {
       "$id": 66,
@@ -1572,7 +1572,7 @@
       "$id": 260,
       "label": "CLASS_TWOHAND_SKL06_LEV1_CAP",
       "style": 148,
-      "name": "Extends Overdrive duration\nby <<enp1>> seconds."
+      "name": "Extends Overclock duration\nby <<enp1>> seconds."
     },
     {
       "$id": 261,
@@ -1728,31 +1728,31 @@
       "$id": 286,
       "label": "CLASS_KINGDOM_SKL04_LEV1_CAP",
       "style": 148,
-      "name": "Boosts entire party's TP by <<enp1>>\nwhen activating Overdrive."
+      "name": "Boosts entire party's TP by <<enp1>>\nwhen activating Overclock."
     },
     {
       "$id": 287,
       "label": "CLASS_KINGDOM_SKL04_LEV2_CAP",
       "style": 148,
-      "name": "Boosts entire party's TP by <<enp1>>\nwhen activating Overdrive."
+      "name": "Boosts entire party's TP by <<enp1>>\nwhen activating Overclock."
     },
     {
       "$id": 288,
       "label": "CLASS_KINGDOM_SKL04_LEV3_CAP",
       "style": 148,
-      "name": "Boosts entire party's TP by <<enp1>>\nwhen activating Overdrive."
+      "name": "Boosts entire party's TP by <<enp1>>\nwhen activating Overclock."
     },
     {
       "$id": 289,
       "label": "CLASS_KINGDOM_SKL04_LEV4_CAP",
       "style": 148,
-      "name": "Boosts entire party's TP by <<enp1>>\nwhen activating Overdrive."
+      "name": "Boosts entire party's TP by <<enp1>>\nwhen activating Overclock."
     },
     {
       "$id": 290,
       "label": "CLASS_KINGDOM_SKL04_LEV5_CAP",
       "style": 148,
-      "name": "Boosts entire party's TP by <<enp1>>\nwhen activating Overdrive."
+      "name": "Boosts entire party's TP by <<enp1>>\nwhen activating Overclock."
     },
     {
       "$id": 291,
@@ -1794,7 +1794,7 @@
       "$id": 297,
       "label": "CLASS_ASSASIGN_SKL03_LEV1_CAP",
       "style": 148,
-      "name": "Boosts critical chance by <<enp1>>\nduring Overdrive."
+      "name": "Boosts critical chance by <<enp1>>\nduring Overclock."
     },
     {
       "$id": 298,
@@ -1812,7 +1812,7 @@
       "$id": 300,
       "label": "CLASS_ASSASIGN_SKL06_LEV1_CAP",
       "style": 148,
-      "name": "Boosts your Overdrive count\nby <<enp1>> when activating Overdrive."
+      "name": "Boosts your Overclock count\nby <<enp1>> when activating Overclock."
     },
     {
       "$id": 301,
@@ -1872,7 +1872,7 @@
       "$id": 310,
       "label": "CLASS_CRUSEIDER_SKL06_LEV1_CAP",
       "style": 148,
-      "name": "Boosts TP by <<enp1>> when using\nan Art while in Overdrive."
+      "name": "Boosts TP by <<enp1>> when using\nan Art while in Overclock."
     },
     {
       "$id": 311,
@@ -1962,13 +1962,13 @@
       "$id": 325,
       "label": "CLASS_GALAXY_SKL03_LEV1_CAP",
       "style": 148,
-      "name": "Boosts GP by <<enp1>> when\nboarding your Skell while in\nOverdrive."
+      "name": "Boosts GP by <<enp1>> when\nboarding your Doll while in\nOverclock."
     },
     {
       "$id": 326,
       "label": "CLASS_GALAXY_SKL04_LEV1_CAP",
       "style": 148,
-      "name": "Boosts Skell melee attack, ranged\nattack, melee & ranged accuracy,\npotential, and evasion by <<enp2>>%."
+      "name": "Boosts Doll melee attack, ranged\nattack, melee & ranged accuracy,\npotential, and evasion by <<enp2>>%."
     },
     {
       "$id": 327,
@@ -2070,49 +2070,49 @@
       "$id": 343,
       "label": "ITM_SKL_IN_HPMAX01_DL_CAP",
       "style": 148,
-      "name": "Boosts maximum Skell HP by <<enp2>>%."
+      "name": "Boosts maximum Doll HP by <<enp2>>%."
     },
     {
       "$id": 344,
       "label": "ITM_SKL_IN_TPMAX01_DL_CAP",
       "style": 148,
-      "name": "Boosts maximum Skell GP by <<enp2>>%."
+      "name": "Boosts maximum Doll GP by <<enp2>>%."
     },
     {
       "$id": 345,
       "label": "ITM_SKL_IN_F_DEX01_DL_CAP",
       "style": 148,
-      "name": "Boosts Skell melee accuracy by <<enp2>>%."
+      "name": "Boosts Doll melee accuracy by <<enp2>>%."
     },
     {
       "$id": 346,
       "label": "ITM_SKL_IN_S_DEX01_DL_CAP",
       "style": 148,
-      "name": "Boosts Skell ranged accuracy by <<enp2>>%."
+      "name": "Boosts Doll ranged accuracy by <<enp2>>%."
     },
     {
       "$id": 347,
       "label": "ITM_SKL_IN_EVA01_DL_CAP",
       "style": 148,
-      "name": "Boosts Skell evasion by <<enp2>>%."
+      "name": "Boosts Doll evasion by <<enp2>>%."
     },
     {
       "$id": 348,
       "label": "ITM_SKL_IN_F_POW01_DL_CAP",
       "style": 148,
-      "name": "Boosts Skell melee attack by <<enp2>>%."
+      "name": "Boosts Doll melee attack by <<enp2>>%."
     },
     {
       "$id": 349,
       "label": "ITM_SKL_IN_S_POW01_DL_CAP",
       "style": 148,
-      "name": "Boosts Skell ranged attack by <<enp2>>%."
+      "name": "Boosts Doll ranged attack by <<enp2>>%."
     },
     {
       "$id": 350,
       "label": "ITM_SKL_IN_M_POW01_DL_CAP",
       "style": 148,
-      "name": "Boosts Skell potential by <<enp2>>%."
+      "name": "Boosts Doll potential by <<enp2>>%."
     },
     {
       "$id": 351,
@@ -2124,7 +2124,7 @@
       "$id": 352,
       "label": "ITM_SKL_IN_ECO_FUEL01_DL_CAP",
       "style": 148,
-      "name": "Boosts fuel efficiency by <<enp1>>%\nwhen fighting in a Skell."
+      "name": "Boosts fuel efficiency by <<enp1>>%\nwhen fighting in a Doll."
     },
     {
       "$id": 353,
@@ -4182,37 +4182,37 @@
       "$id": 695,
       "label": "ITM_SKL_IN_GEAR_ST_HP01_CAP",
       "style": 148,
-      "name": "Recovers <<enp1>>% HP\nwhen activating Overdrive."
+      "name": "Recovers <<enp1>>% HP\nwhen activating Overclock."
     },
     {
       "$id": 696,
       "label": "ITM_SKL_IN_GEAR_ST_TP01_CAP",
       "style": 148,
-      "name": "Boosts TP by <<enp1>>\nwhen activating Overdrive. "
+      "name": "Boosts TP by <<enp1>>\nwhen activating Overclock. "
     },
     {
       "$id": 697,
       "label": "ITM_SKL_IN_GEAR_ST_CNT01_CAP",
       "style": 148,
-      "name": "Boosts your Overdrive count by <<enp1>>\nwhen activating Overdrive."
+      "name": "Boosts your Overclock count by <<enp1>>\nwhen activating Overclock."
     },
     {
       "$id": 698,
       "label": "ITM_SKL_IN_GEAR_ST_TIME01_CAP",
       "style": 148,
-      "name": "Extends Overdrive duration\nby <<enp1>> seconds."
+      "name": "Extends Overclock duration\nby <<enp1>> seconds."
     },
     {
       "$id": 699,
       "label": "ITM_SKL_IN_GEAR_RULE_FS01_CAP",
       "style": 148,
-      "name": "Adds <<enp1>> to your Overdrive count\nwhen using a blue Art during Overdrive."
+      "name": "Adds <<enp1>> to your Overclock count\nwhen using a blue Art during Overclock."
     },
     {
       "$id": 700,
       "label": "ITM_SKL_IN_GEAR_RULE_SF01_CAP",
       "style": 148,
-      "name": "Adds <<enp1>> to your Overdrive count\nwhen using a green Art during Overdrive."
+      "name": "Adds <<enp1>> to your Overclock count\nwhen using a green Art during Overclock."
     },
     {
       "$id": 701,
@@ -4782,7 +4782,7 @@
       "$id": 795,
       "label": "ITM_SKL_IN_SOUL_RT_GEAR01_CAP",
       "style": 148,
-      "name": "Boosts chances of triggering the\n\"Activate Overdrive\" Soul Voice by <<enp2>>%."
+      "name": "Boosts chances of triggering the\n\"Activate Overclock\" Soul Voice by <<enp2>>%."
     },
     {
       "$id": 796,
@@ -4974,49 +4974,49 @@
       "$id": 827,
       "label": "ITM_SKL_DL_HPMAX01_P_CAP",
       "style": 148,
-      "name": "Boosts maximum Skell HP by <<enp2>>."
+      "name": "Boosts maximum Doll HP by <<enp2>>."
     },
     {
       "$id": 828,
       "label": "ITM_SKL_DL_TPMAX01_P_CAP",
       "style": 148,
-      "name": "Boosts maximum Skell GP by <<enp2>>."
+      "name": "Boosts maximum Doll GP by <<enp2>>."
     },
     {
       "$id": 829,
       "label": "ITM_SKL_DL_F_DEX01_P_CAP",
       "style": 148,
-      "name": "Boosts Skell melee accuracy by <<enp2>>."
+      "name": "Boosts Doll melee accuracy by <<enp2>>."
     },
     {
       "$id": 830,
       "label": "ITM_SKL_DL_S_DEX01_P_CAP",
       "style": 148,
-      "name": "Boosts Skell ranged accuracy by <<enp2>>."
+      "name": "Boosts Doll ranged accuracy by <<enp2>>."
     },
     {
       "$id": 831,
       "label": "ITM_SKL_DL_EVA01_P_CAP",
       "style": 148,
-      "name": "Boosts Skell evasion by <<enp2>>."
+      "name": "Boosts Doll evasion by <<enp2>>."
     },
     {
       "$id": 832,
       "label": "ITM_SKL_DL_F_POW01_P_CAP",
       "style": 148,
-      "name": "Boosts Skell melee attack by <<enp2>>."
+      "name": "Boosts Doll melee attack by <<enp2>>."
     },
     {
       "$id": 833,
       "label": "ITM_SKL_DL_S_POW01_P_CAP",
       "style": 148,
-      "name": "Boosts Skell ranged attack by <<enp2>>."
+      "name": "Boosts Doll ranged attack by <<enp2>>."
     },
     {
       "$id": 834,
       "label": "ITM_SKL_DL_M_POW01_P_CAP",
       "style": 148,
-      "name": "Boosts Skell potential by <<enp2>>."
+      "name": "Boosts Doll potential by <<enp2>>."
     },
     {
       "$id": 835,
@@ -5028,1003 +5028,1003 @@
       "$id": 836,
       "label": "ITM_SKL_DL_HPMAX01_R_CAP",
       "style": 148,
-      "name": "Boosts maximum Skell HP by <<enp2>>%."
+      "name": "Boosts maximum Doll HP by <<enp2>>%."
     },
     {
       "$id": 837,
       "label": "ITM_SKL_DL_TPMAX01_R_CAP",
       "style": 148,
-      "name": "Boosts maximum Skell GP by <<enp2>>%."
+      "name": "Boosts maximum Doll GP by <<enp2>>%."
     },
     {
       "$id": 838,
       "label": "ITM_SKL_DL_F_DEX01_R_CAP",
       "style": 148,
-      "name": "Boosts Skell melee accuracy by <<enp2>>%."
+      "name": "Boosts Doll melee accuracy by <<enp2>>%."
     },
     {
       "$id": 839,
       "label": "ITM_SKL_DL_S_DEX01_R_CAP",
       "style": 148,
-      "name": "Boosts Skell ranged accuracy by <<enp2>>%."
+      "name": "Boosts Doll ranged accuracy by <<enp2>>%."
     },
     {
       "$id": 840,
       "label": "ITM_SKL_DL_EVA01_R_CAP",
       "style": 148,
-      "name": "Boosts Skell evasion by <<enp2>>%."
+      "name": "Boosts Doll evasion by <<enp2>>%."
     },
     {
       "$id": 841,
       "label": "ITM_SKL_DL_F_ROW01_R_CAP",
       "style": 148,
-      "name": "Boosts Skell melee attack by <<enp2>>%."
+      "name": "Boosts Doll melee attack by <<enp2>>%."
     },
     {
       "$id": 842,
       "label": "ITM_SKL_DL_S_ROW01_R_CAP",
       "style": 148,
-      "name": "Boosts Skell ranged attack by <<enp2>>%."
+      "name": "Boosts Doll ranged attack by <<enp2>>%."
     },
     {
       "$id": 843,
       "label": "ITM_SKL_DL_M_ROW01_R_CAP",
       "style": 148,
-      "name": "Boosts Skell potential by <<enp2>>%."
+      "name": "Boosts Doll potential by <<enp2>>%."
     },
     {
       "$id": 844,
       "label": "ITM_SKL_DL_G_LEVUP01_CAP",
       "style": 148,
-      "name": "Boosts Skell generator output by <<enp2>>."
+      "name": "Boosts Doll generator output by <<enp2>>."
     },
     {
       "$id": 845,
       "label": "ITM_SKL_DL_G_LEVUP02_CAP",
       "style": 148,
-      "name": "Boosts Skell generator output by <<enp2>>."
+      "name": "Boosts Doll generator output by <<enp2>>."
     },
     {
       "$id": 846,
       "label": "ITM_SKL_DL_G_LEVUP03_CAP",
       "style": 148,
-      "name": "Boosts Skell generator output by <<enp2>>."
+      "name": "Boosts Doll generator output by <<enp2>>."
     },
     {
       "$id": 847,
       "label": "ITM_SKL_DL_ANTI_PH01_P_CAP",
       "style": 148,
-      "name": "Boosts Skell physical resistance by <<enp2>>."
+      "name": "Boosts Doll physical resistance by <<enp2>>."
     },
     {
       "$id": 848,
       "label": "ITM_SKL_DL_ANTI_BM01_P_CAP",
       "style": 148,
-      "name": "Boosts Skell beam resistance by <<enp2>>."
+      "name": "Boosts Doll beam resistance by <<enp2>>."
     },
     {
       "$id": 849,
       "label": "ITM_SKL_DL_ANTI_TH01_P_CAP",
       "style": 148,
-      "name": "Boosts Skell electric resistance by <<enp2>>."
+      "name": "Boosts Doll electric resistance by <<enp2>>."
     },
     {
       "$id": 850,
       "label": "ITM_SKL_DL_ANTI_FR01_P_CAP",
       "style": 148,
-      "name": "Boosts Skell thermal resistance by <<enp2>>."
+      "name": "Boosts Doll thermal resistance by <<enp2>>."
     },
     {
       "$id": 851,
       "label": "ITM_SKL_DL_ANTI_ET01_P_CAP",
       "style": 148,
-      "name": "Boosts Skell ether resistance by <<enp2>>."
+      "name": "Boosts Doll ether resistance by <<enp2>>."
     },
     {
       "$id": 852,
       "label": "ITM_SKL_DL_ANTI_GR01_P_CAP",
       "style": 148,
-      "name": "Boosts Skell gravity resistance by <<enp2>>."
+      "name": "Boosts Doll gravity resistance by <<enp2>>."
     },
     {
       "$id": 853,
       "label": "ITM_SKL_DL_FUELMAX_UP01_CAP",
       "style": 148,
-      "name": "Boosts Skell fuel capacity by <<enp1>>."
+      "name": "Boosts Doll fuel capacity by <<enp1>>."
     },
     {
       "$id": 854,
       "label": "ITM_SKL_DL_MILEAGE_UP01_CAP",
       "style": 148,
-      "name": "Boosts fuel efficiency by <<enp1>>%\nwhen fighting in a Skell."
+      "name": "Boosts fuel efficiency by <<enp1>>%\nwhen fighting in a Doll."
     },
     {
       "$id": 855,
       "label": "ITM_SKL_DL_FUEL_STAND_UP01_CAP",
       "style": 148,
-      "name": "Boosts fuel recovery by <<enp1>> unit(s)\nper 10 seconds when your Skell is parked."
+      "name": "Boosts fuel recovery by <<enp1>> unit(s)\nper 10 seconds when your Doll is parked."
     },
     {
       "$id": 856,
       "label": "ITM_SKL_DL_FUEL_CATCH_UP01_CAP",
       "style": 148,
-      "name": "Boosts fuel recovery by <<enp1>> unit(s)\nper second when your Skell is binding\nan enemy."
+      "name": "Boosts fuel recovery by <<enp1>> unit(s)\nper second when your Doll is binding\nan enemy."
     },
     {
       "$id": 857,
       "label": "ITM_SKL_DL_FUEL_GEAR_UP01_CAP",
       "style": 148,
-      "name": "Recovers <<enp1>> fuel when\nactivating Overdrive."
+      "name": "Recovers <<enp1>> fuel when\nactivating Overclock."
     },
     {
       "$id": 858,
       "label": "ITM_SKL_DL_FUEL_GEAR_UP02_CAP",
       "style": 148,
-      "name": "Recovers <<enp1>> fuel when\nactivating Overdrive."
+      "name": "Recovers <<enp1>> fuel when\nactivating Overclock."
     },
     {
       "$id": 859,
       "label": "ITM_SKL_DL_FUEL_GEAR_UP03_CAP",
       "style": 148,
-      "name": "Recovers <<enp1>> fuel when\nactivating Overdrive."
+      "name": "Recovers <<enp1>> fuel when\nactivating Overclock."
     },
     {
       "$id": 860,
       "label": "ITM_SKL_DL_FUEL_GEAR_UP04_CAP",
       "style": 148,
-      "name": "Recovers <<enp1>> fuel when\nactivating Overdrive."
+      "name": "Recovers <<enp1>> fuel when\nactivating Overclock."
     },
     {
       "$id": 861,
       "label": "ITM_SKL_DL_FUEL_GEAR_UP05_CAP",
       "style": 148,
-      "name": "Recovers <<enp1>> fuel when\nactivating Overdrive."
+      "name": "Recovers <<enp1>> fuel when\nactivating Overclock."
     },
     {
       "$id": 862,
       "label": "ITM_SKL_DL_FUEL_GEAR_UP06_CAP",
       "style": 148,
-      "name": "Recovers <<enp1>> fuel when\nactivating Overdrive."
+      "name": "Recovers <<enp1>> fuel when\nactivating Overclock."
     },
     {
       "$id": 863,
       "label": "ITM_SKL_DL_FUEL_GEAR_UP07_CAP",
       "style": 148,
-      "name": "Recovers <<enp1>> fuel when\nactivating Overdrive."
+      "name": "Recovers <<enp1>> fuel when\nactivating Overclock."
     },
     {
       "$id": 864,
       "label": "ITM_SKL_DL_FUEL_GEAR_UP08_CAP",
       "style": 148,
-      "name": "Recovers <<enp1>> fuel when\nactivating Overdrive."
+      "name": "Recovers <<enp1>> fuel when\nactivating Overclock."
     },
     {
       "$id": 865,
       "label": "ITM_SKL_DL_FUEL_GEAR_UP09_CAP",
       "style": 148,
-      "name": "Recovers <<enp1>> fuel when\nactivating Overdrive."
+      "name": "Recovers <<enp1>> fuel when\nactivating Overclock."
     },
     {
       "$id": 866,
       "label": "ITM_SKL_DL_FUEL_GEAR_UP10_CAP",
       "style": 148,
-      "name": "Recovers <<enp1>> fuel when\nactivating Overdrive."
+      "name": "Recovers <<enp1>> fuel when\nactivating Overclock."
     },
     {
       "$id": 867,
       "label": "ITM_SKL_DL_FUEL_GEAR_UP11_CAP",
       "style": 148,
-      "name": "Recovers <<enp1>> fuel when\nactivating Overdrive."
+      "name": "Recovers <<enp1>> fuel when\nactivating Overclock."
     },
     {
       "$id": 868,
       "label": "ITM_SKL_DL_FUEL_GEAR_UP12_CAP",
       "style": 148,
-      "name": "Recovers <<enp1>> fuel when\nactivating Overdrive."
+      "name": "Recovers <<enp1>> fuel when\nactivating Overclock."
     },
     {
       "$id": 869,
       "label": "ITM_SKL_DL_FUEL_GEAR_UP13_CAP",
       "style": 148,
-      "name": "Recovers <<enp1>> fuel when\nactivating Overdrive."
+      "name": "Recovers <<enp1>> fuel when\nactivating Overclock."
     },
     {
       "$id": 870,
       "label": "ITM_SKL_DL_FUEL_GEAR_UP14_CAP",
       "style": 148,
-      "name": "Recovers <<enp1>> fuel when\nactivating Overdrive."
+      "name": "Recovers <<enp1>> fuel when\nactivating Overclock."
     },
     {
       "$id": 871,
       "label": "ITM_SKL_DL_FUEL_GEAR_UP15_CAP",
       "style": 148,
-      "name": "Recovers <<enp1>> fuel when\nactivating Overdrive."
+      "name": "Recovers <<enp1>> fuel when\nactivating Overclock."
     },
     {
       "$id": 872,
       "label": "ITM_SKL_DL_FUEL_GEAR_UP16_CAP",
       "style": 148,
-      "name": "Recovers <<enp1>> fuel when\nactivating Overdrive."
+      "name": "Recovers <<enp1>> fuel when\nactivating Overclock."
     },
     {
       "$id": 873,
       "label": "ITM_SKL_DL_FUEL_GEAR_UP17_CAP",
       "style": 148,
-      "name": "Recovers <<enp1>> fuel when\nactivating Overdrive."
+      "name": "Recovers <<enp1>> fuel when\nactivating Overclock."
     },
     {
       "$id": 874,
       "label": "ITM_SKL_DL_FUEL_GEAR_UP18_CAP",
       "style": 148,
-      "name": "Recovers <<enp1>> fuel when\nactivating Overdrive."
+      "name": "Recovers <<enp1>> fuel when\nactivating Overclock."
     },
     {
       "$id": 875,
       "label": "ITM_SKL_DL_FUEL_GEAR_UP19_CAP",
       "style": 148,
-      "name": "Recovers <<enp1>> fuel when\nactivating Overdrive."
+      "name": "Recovers <<enp1>> fuel when\nactivating Overclock."
     },
     {
       "$id": 876,
       "label": "ITM_SKL_DL_FUEL_GEAR_UP20_CAP",
       "style": 148,
-      "name": "Recovers <<enp1>> fuel when\nactivating Overdrive."
+      "name": "Recovers <<enp1>> fuel when\nactivating Overclock."
     },
     {
       "$id": 877,
       "label": "ITM_SKL_DL_CTM_POW01_CAP",
       "style": 148,
-      "name": "Boosts Skell weapon attack by <<enp1>>%."
+      "name": "Boosts Doll weapon attack by <<enp1>>%."
     },
     {
       "$id": 878,
       "label": "ITM_SKL_DL_CTM_BAL01_CAP",
       "style": 148,
-      "name": "Boosts Skell weapon stability by <<enp1>>%."
+      "name": "Boosts Doll weapon stability by <<enp1>>%."
     },
     {
       "$id": 879,
       "label": "ITM_SKL_DL_CTM_BRK01_CAP",
       "style": 148,
-      "name": "Reduces Skell weapon stability by <<enp1>>%."
+      "name": "Reduces Doll weapon stability by <<enp1>>%."
     },
     {
       "$id": 880,
       "label": "ITM_SKL_DL_CTM_MAG_R01_CAP",
       "style": 148,
-      "name": "Increases magazine capacity for Skell\nrifle-type armaments by <<enp1>>."
+      "name": "Increases magazine capacity for Doll\nrifle-type armaments by <<enp1>>."
     },
     {
       "$id": 881,
       "label": "ITM_SKL_DL_CTM_MAG_M01_CAP",
       "style": 148,
-      "name": "Increases magazine capacity for Skell\nmissile-type armaments by <<enp1>>."
+      "name": "Increases magazine capacity for Doll\nmissile-type armaments by <<enp1>>."
     },
     {
       "$id": 882,
       "label": "ITM_SKL_DL_CTM_F_TP00_CAP",
       "style": 148,
-      "name": "Boosts GP gain for Skell melee weapons\nby <<enp1>>."
+      "name": "Boosts GP gain for Doll melee weapons\nby <<enp1>>."
     },
     {
       "$id": 883,
       "label": "ITM_SKL_DL_CTM_S_TP00_CAP",
       "style": 148,
-      "name": "Boosts GP gain for Skell ranged weapons\nby <<enp1>>."
+      "name": "Boosts GP gain for Doll ranged weapons\nby <<enp1>>."
     },
     {
       "$id": 884,
       "label": "ITM_SKL_DL_CTM_SPD01_CAP",
       "style": 148,
-      "name": "Reduces Skell weapon cooldown by <<enp1>>%."
+      "name": "Reduces Doll weapon cooldown by <<enp1>>%."
     },
     {
       "$id": 885,
       "label": "ITM_SKL_DL_CTM_RNG01_CAP",
       "style": 148,
-      "name": "Boosts Skell ranged weapon range\nby <<enp1>>m."
+      "name": "Boosts Doll ranged weapon range\nby <<enp1>>m."
     },
     {
       "$id": 886,
       "label": "ITM_SKL_DL_CTM_MILEAGE01_CAP",
       "style": 148,
-      "name": "Reduces Skell Art fuel consumption\nby <<enp1>>%."
+      "name": "Reduces Doll Art fuel consumption\nby <<enp1>>%."
     },
     {
       "$id": 887,
       "label": "ITM_SKL_DL_REG_BREAK01_CAP",
       "style": 148,
-      "name": "Boosts Skell resistance to Stagger by <<enp2>>."
+      "name": "Boosts Doll resistance to Stagger by <<enp2>>."
     },
     {
       "$id": 888,
       "label": "ITM_SKL_DL_REG_FLINCH01_CAP",
       "style": 148,
-      "name": "Boosts Skell resistance to Flinch by <<enp2>>."
+      "name": "Boosts Doll resistance to Flinch by <<enp2>>."
     },
     {
       "$id": 889,
       "label": "ITM_SKL_DL_REG_DOWN01_CAP",
       "style": 148,
-      "name": "Boosts Skell resistance to Topple by <<enp2>>."
+      "name": "Boosts Doll resistance to Topple by <<enp2>>."
     },
     {
       "$id": 890,
       "label": "ITM_SKL_DL_REG_KNOCK01_CAP",
       "style": 148,
-      "name": "Boosts Skell resistance to Knockback\nby <<enp2>>."
+      "name": "Boosts Doll resistance to Knockback\nby <<enp2>>."
     },
     {
       "$id": 891,
       "label": "ITM_SKL_DL_REG_BLOW01_CAP",
       "style": 148,
-      "name": "Boosts Skell resistance to Launch by <<enp2>>."
+      "name": "Boosts Doll resistance to Launch by <<enp2>>."
     },
     {
       "$id": 892,
       "label": "ITM_SKL_DL_REG_STAN01_CAP",
       "style": 148,
-      "name": "Boosts Skell resistance to Stun by <<enp2>>."
+      "name": "Boosts Doll resistance to Stun by <<enp2>>."
     },
     {
       "$id": 893,
       "label": "ITM_SKL_DL_REG_SLEEP01_CAP",
       "style": 148,
-      "name": "Boosts Skell resistance to Sleep by <<enp2>>."
+      "name": "Boosts Doll resistance to Sleep by <<enp2>>."
     },
     {
       "$id": 894,
       "label": "ITM_SKL_DL_REG_TAUNT01_CAP",
       "style": 148,
-      "name": "Boosts Skell resistance to Taunt by <<enp2>>."
+      "name": "Boosts Doll resistance to Taunt by <<enp2>>."
     },
     {
       "$id": 895,
       "label": "ITM_SKL_DL_REG_CTR01_CAP",
       "style": 148,
-      "name": "Boosts Skell resistance to Control by <<enp2>>."
+      "name": "Boosts Doll resistance to Control by <<enp2>>."
     },
     {
       "$id": 896,
       "label": "ITM_SKL_DL_REG_VIRSUS01_CAP",
       "style": 148,
-      "name": "Boosts Skell resistance to Virus by <<enp2>>."
+      "name": "Boosts Doll resistance to Virus by <<enp2>>."
     },
     {
       "$id": 897,
       "label": "ITM_SKL_DL_REG_BLACK01_CAP",
       "style": 148,
-      "name": "Boosts Skell resistance to Blackout by <<enp2>>."
+      "name": "Boosts Doll resistance to Blackout by <<enp2>>."
     },
     {
       "$id": 898,
       "label": "ITM_SKL_DL_REG_POWDN01_CAP",
       "style": 148,
-      "name": "Boosts Skell resistance to Fatigue by <<enp2>>."
+      "name": "Boosts Doll resistance to Fatigue by <<enp2>>."
     },
     {
       "$id": 899,
       "label": "ITM_SKL_DL_REG_ASLOW01_CAP",
       "style": 148,
-      "name": "Boosts Skell resistance to Slow Arts\nby <<enp2>>."
+      "name": "Boosts Doll resistance to Slow Arts\nby <<enp2>>."
     },
     {
       "$id": 900,
       "label": "ITM_SKL_DL_REG_PH_DN01_CAP",
       "style": 148,
-      "name": "Boosts Skell resistance to\nPhysical Res Down by <<enp2>>."
+      "name": "Boosts Doll resistance to\nPhysical Res Down by <<enp2>>."
     },
     {
       "$id": 901,
       "label": "ITM_SKL_DL_REG_BM_DN01_CAP",
       "style": 148,
-      "name": "Boosts Skell resistance to\nBeam Res Down by <<enp2>>."
+      "name": "Boosts Doll resistance to\nBeam Res Down by <<enp2>>."
     },
     {
       "$id": 902,
       "label": "ITM_SKL_DL_REG_FR_DN01_CAP",
       "style": 148,
-      "name": "Boosts Skell resistance to\nThermal Res Down by <<enp2>>."
+      "name": "Boosts Doll resistance to\nThermal Res Down by <<enp2>>."
     },
     {
       "$id": 903,
       "label": "ITM_SKL_DL_REG_TH_DN01_CAP",
       "style": 148,
-      "name": "Boosts Skell resistance to\nElectric Res Down by <<enp2>>."
+      "name": "Boosts Doll resistance to\nElectric Res Down by <<enp2>>."
     },
     {
       "$id": 904,
       "label": "ITM_SKL_DL_REG_ET_DN01_CAP",
       "style": 148,
-      "name": "Boosts Skell resistance to\nEther Res Down by <<enp2>>."
+      "name": "Boosts Doll resistance to\nEther Res Down by <<enp2>>."
     },
     {
       "$id": 905,
       "label": "ITM_SKL_DL_REG_GR_DN01_CAP",
       "style": 148,
-      "name": "Boosts Skell resistance to\nGravity Res Down by <<enp2>>."
+      "name": "Boosts Doll resistance to\nGravity Res Down by <<enp2>>."
     },
     {
       "$id": 906,
       "label": "ITM_SKL_DL_REG_CTBOM01_CAP",
       "style": 148,
-      "name": "Boosts Skell resistance to Time Bomb\nby <<enp2>>."
+      "name": "Boosts Doll resistance to Time Bomb\nby <<enp2>>."
     },
     {
       "$id": 907,
       "label": "ITM_SKL_DL_REG_DEBDN01_CAP",
       "style": 148,
-      "name": "Boosts Skell resistance to\nDebuff Res Down by <<enp2>>."
+      "name": "Boosts Doll resistance to\nDebuff Res Down by <<enp2>>."
     },
     {
       "$id": 908,
       "label": "ITM_SKL_DL_REG_HP_HEALDN01_CAP",
       "style": 148,
-      "name": "Boosts Skell resistance to\nHP Recovery Down by <<enp2>>."
+      "name": "Boosts Doll resistance to\nHP Recovery Down by <<enp2>>."
     },
     {
       "$id": 909,
       "label": "ITM_SKL_DL_REG_FR_DOT01_CAP",
       "style": 148,
-      "name": "Boosts Skell resistance to Blaze by <<enp2>>."
+      "name": "Boosts Doll resistance to Blaze by <<enp2>>."
     },
     {
       "$id": 910,
       "label": "ITM_SKL_DL_REG_TH_DOT01_CAP",
       "style": 148,
-      "name": "Boosts Skell resistance to Shock by <<enp2>>."
+      "name": "Boosts Doll resistance to Shock by <<enp2>>."
     },
     {
       "$id": 911,
       "label": "ITM_SKL_DL_REG_ALL01_CAP",
       "style": 148,
-      "name": "Reduces the duration of debuffs your Skell\nincurs by <<enp1>>%."
+      "name": "Reduces the duration of debuffs your Doll\nincurs by <<enp1>>%."
     },
     {
       "$id": 912,
       "label": "ITM_SKL_DL_CRTC_R_ALL01_CAP",
       "style": 148,
-      "name": "Boosts Skell critical chance by <<enp1>>."
+      "name": "Boosts Doll critical chance by <<enp1>>."
     },
     {
       "$id": 913,
       "label": "ITM_SKL_DL_CRTC_R_BEAST01_CAP",
       "style": 148,
-      "name": "Boosts Skell critical chance against\ntheroid enemies by <<enp1>>."
+      "name": "Boosts Doll critical chance against\ntheroid enemies by <<enp1>>."
     },
     {
       "$id": 914,
       "label": "ITM_SKL_DL_CRTC_R_INSECT01_CAP",
       "style": 148,
-      "name": "Boosts Skell critical chance against\ninsectoid enemies by <<enp1>>."
+      "name": "Boosts Doll critical chance against\ninsectoid enemies by <<enp1>>."
     },
     {
       "$id": 915,
       "label": "ITM_SKL_DL_CRTC_R_MEGAFLY01_CAP",
       "style": 148,
-      "name": "Boosts Skell critical chance against\npiscinoid enemies by <<enp1>>."
+      "name": "Boosts Doll critical chance against\npiscinoid enemies by <<enp1>>."
     },
     {
       "$id": 916,
       "label": "ITM_SKL_DL_CRTC_R_ALIEN01_CAP",
       "style": 148,
-      "name": "Boosts Skell critical chance against\nhumanoid enemies by <<enp1>>."
+      "name": "Boosts Doll critical chance against\nhumanoid enemies by <<enp1>>."
     },
     {
       "$id": 917,
       "label": "ITM_SKL_DL_CRTC_R_MACHINE01_CAP",
       "style": 148,
-      "name": "Boosts Skell critical chance against\nmechanoid enemies by <<enp1>>."
+      "name": "Boosts Doll critical chance against\nmechanoid enemies by <<enp1>>."
     },
     {
       "$id": 918,
       "label": "ITM_SKL_DL_CRTC_R_KIMERA01_CAP",
       "style": 148,
-      "name": "Boosts Skell critical chance against\nchimeroid enemies by <<enp1>>."
+      "name": "Boosts Doll critical chance against\nchimeroid enemies by <<enp1>>."
     },
     {
       "$id": 919,
       "label": "ITM_SKL_DL_CRTC_R_TERESIA01_CAP",
       "style": 148,
-      "name": "Boosts Skell critical chance against\nultrafauna enemies by <<enp1>>."
+      "name": "Boosts Doll critical chance against\nultrafauna enemies by <<enp1>>."
     },
     {
       "$id": 920,
       "label": "ITM_SKL_DL_CRTC_P_STAGE01_CAP",
       "style": 148,
-      "name": "Extends Skell Critical Power effects\nby <<enp2>> second(s)."
+      "name": "Extends Doll Critical Power effects\nby <<enp2>> second(s)."
     },
     {
       "$id": 921,
       "label": "ITM_SKL_DL_KILL_BEAST01_CAP",
       "style": 148,
-      "name": "Boosts Skell damage to theroid enemies\nby +<<enp1>>%."
+      "name": "Boosts Doll damage to theroid enemies\nby +<<enp1>>%."
     },
     {
       "$id": 922,
       "label": "ITM_SKL_DL_KILL_INSECT01_CAP",
       "style": 148,
-      "name": "Boosts Skell damage to insectoid enemies\nby +<<enp1>>%."
+      "name": "Boosts Doll damage to insectoid enemies\nby +<<enp1>>%."
     },
     {
       "$id": 923,
       "label": "ITM_SKL_DL_KILL_MEGAFLY01_CAP",
       "style": 148,
-      "name": "Boosts Skell damage to piscinoid enemies\nby +<<enp1>>%."
+      "name": "Boosts Doll damage to piscinoid enemies\nby +<<enp1>>%."
     },
     {
       "$id": 924,
       "label": "ITM_SKL_DL_KILL_ALIEN01_CAP",
       "style": 148,
-      "name": "Boosts Skell damage to humanoid enemies\nby +<<enp1>>%."
+      "name": "Boosts Doll damage to humanoid enemies\nby +<<enp1>>%."
     },
     {
       "$id": 925,
       "label": "ITM_SKL_DL_KILL_MACHINE01_CAP",
       "style": 148,
-      "name": "Boosts Skell damage to mechanoid\nenemies by +<<enp1>>%."
+      "name": "Boosts Doll damage to mechanoid\nenemies by +<<enp1>>%."
     },
     {
       "$id": 926,
       "label": "ITM_SKL_DL_KILL_KIMERA01_CAP",
       "style": 148,
-      "name": "Boosts Skell damage to chimeroid enemies\nby +<<enp1>>%."
+      "name": "Boosts Doll damage to chimeroid enemies\nby +<<enp1>>%."
     },
     {
       "$id": 927,
       "label": "ITM_SKL_DL_KILL_TERESIA01_CAP",
       "style": 148,
-      "name": "Boosts Skell damage to ultrafauna enemies\nby +<<enp1>>%."
+      "name": "Boosts Doll damage to ultrafauna enemies\nby +<<enp1>>%."
     },
     {
       "$id": 928,
       "label": "ITM_SKL_DL_ATK_PH01_CAP",
       "style": 148,
-      "name": "Boosts Skell physical damage by +<<enp1>>%."
+      "name": "Boosts Doll physical damage by +<<enp1>>%."
     },
     {
       "$id": 929,
       "label": "ITM_SKL_DL_ATK_BM01_CAP",
       "style": 148,
-      "name": "Boosts Skell beam damage by +<<enp1>>%."
+      "name": "Boosts Doll beam damage by +<<enp1>>%."
     },
     {
       "$id": 930,
       "label": "ITM_SKL_DL_ATK_ET01_CAP",
       "style": 148,
-      "name": "Boosts Skell ether damage by +<<enp1>>%."
+      "name": "Boosts Doll ether damage by +<<enp1>>%."
     },
     {
       "$id": 931,
       "label": "ITM_SKL_DL_ATK_FR01_CAP",
       "style": 148,
-      "name": "Boosts Skell thermal damage by +<<enp1>>%."
+      "name": "Boosts Doll thermal damage by +<<enp1>>%."
     },
     {
       "$id": 932,
       "label": "ITM_SKL_DL_ATK_TH01_CAP",
       "style": 148,
-      "name": "Boosts Skell electric damage by +<<enp1>>%."
+      "name": "Boosts Doll electric damage by +<<enp1>>%."
     },
     {
       "$id": 933,
       "label": "ITM_SKL_DL_ATK_GR01_CAP",
       "style": 148,
-      "name": "Boosts Skell gravity damage by +<<enp1>>%."
+      "name": "Boosts Doll gravity damage by +<<enp1>>%."
     },
     {
       "$id": 934,
       "label": "ITM_SKL_DL_ATK_FRONT01_CAP",
       "style": 148,
-      "name": "Boosts Skell damage by +<<enp1>>%\nwhen attacking from the front."
+      "name": "Boosts Doll damage by +<<enp1>>%\nwhen attacking from the front."
     },
     {
       "$id": 935,
       "label": "ITM_SKL_DL_ATK_SIDE01_CAP",
       "style": 148,
-      "name": "Boosts Skell damage by +<<enp1>>%\nwhen attacking from the side."
+      "name": "Boosts Doll damage by +<<enp1>>%\nwhen attacking from the side."
     },
     {
       "$id": 936,
       "label": "ITM_SKL_DL_ATK_BACK01_CAP",
       "style": 148,
-      "name": "Boosts Skell damage by +<<enp1>>%\nwhen attacking from behind."
+      "name": "Boosts Doll damage by +<<enp1>>%\nwhen attacking from behind."
     },
     {
       "$id": 937,
       "label": "ITM_SKL_DL_ATK_HIGH01_CAP",
       "style": 148,
-      "name": "Boosts Skell damage by +<<enp1>>%\nwhen attacking from above."
+      "name": "Boosts Doll damage by +<<enp1>>%\nwhen attacking from above."
     },
     {
       "$id": 938,
       "label": "ITM_SKL_DL_F_AT_BLACK01_CAP",
       "style": 148,
-      "name": "Grants a <<enp0>>% chance of inflicting\nBlackout I when melee auto-attacking\nwith your Skell."
+      "name": "Grants a <<enp0>>% chance of inflicting\nBlackout I when melee auto-attacking\nwith your Doll."
     },
     {
       "$id": 939,
       "label": "ITM_SKL_DL_F_AT_BLACK06_CAP",
       "style": 148,
-      "name": "Grants a <<enp0>>% chance of inflicting\nBlackout II when melee auto-attacking\nwith your Skell."
+      "name": "Grants a <<enp0>>% chance of inflicting\nBlackout II when melee auto-attacking\nwith your Doll."
     },
     {
       "$id": 940,
       "label": "ITM_SKL_DL_F_AT_BLACK11_CAP",
       "style": 148,
-      "name": "Grants a <<enp0>>% chance of inflicting\nBlackout III when melee auto-attacking\nwith your Skell."
+      "name": "Grants a <<enp0>>% chance of inflicting\nBlackout III when melee auto-attacking\nwith your Doll."
     },
     {
       "$id": 941,
       "label": "ITM_SKL_DL_F_AT_BLACK16_CAP",
       "style": 148,
-      "name": "Grants a <<enp0>>% chance of inflicting\nBlackout IV when melee auto-attacking\nwith your Skell."
+      "name": "Grants a <<enp0>>% chance of inflicting\nBlackout IV when melee auto-attacking\nwith your Doll."
     },
     {
       "$id": 942,
       "label": "ITM_SKL_DL_F_AT_POWDN01_CAP",
       "style": 148,
-      "name": "Grants a <<enp0>>% chance of inflicting\nFatigue I when melee auto-attacking\nwith your Skell."
+      "name": "Grants a <<enp0>>% chance of inflicting\nFatigue I when melee auto-attacking\nwith your Doll."
     },
     {
       "$id": 943,
       "label": "ITM_SKL_DL_F_AT_POWDN06_CAP",
       "style": 148,
-      "name": "Grants a <<enp0>>% chance of inflicting\nFatigue II when melee auto-attacking\nwith your Skell."
+      "name": "Grants a <<enp0>>% chance of inflicting\nFatigue II when melee auto-attacking\nwith your Doll."
     },
     {
       "$id": 944,
       "label": "ITM_SKL_DL_F_AT_POWDN11_CAP",
       "style": 148,
-      "name": "Grants a <<enp0>>% chance of inflicting\nFatigue III when melee auto-attacking\nwith your Skell."
+      "name": "Grants a <<enp0>>% chance of inflicting\nFatigue III when melee auto-attacking\nwith your Doll."
     },
     {
       "$id": 945,
       "label": "ITM_SKL_DL_F_AT_POWDN16_CAP",
       "style": 148,
-      "name": "Grants a <<enp0>>% chance of inflicting\nFatigue IV when melee auto-attacking\nwith your Skell."
+      "name": "Grants a <<enp0>>% chance of inflicting\nFatigue IV when melee auto-attacking\nwith your Doll."
     },
     {
       "$id": 946,
       "label": "ITM_SKL_DL_F_AT_PH_DN01_CAP",
       "style": 148,
-      "name": "Grants a <<enp0>>% chance of inflicting\nPhysical Res Down I when melee\nauto-attacking with your Skell."
+      "name": "Grants a <<enp0>>% chance of inflicting\nPhysical Res Down I when melee\nauto-attacking with your Doll."
     },
     {
       "$id": 947,
       "label": "ITM_SKL_DL_F_AT_PH_DN06_CAP",
       "style": 148,
-      "name": "Grants a <<enp0>>% chance of inflicting\nPhysical Res Down II when melee\nauto-attacking with your Skell."
+      "name": "Grants a <<enp0>>% chance of inflicting\nPhysical Res Down II when melee\nauto-attacking with your Doll."
     },
     {
       "$id": 948,
       "label": "ITM_SKL_DL_F_AT_PH_DN11_CAP",
       "style": 148,
-      "name": "Grants a <<enp0>>% chance of inflicting\nPhysical Res Down III when melee\nauto-attacking with your Skell."
+      "name": "Grants a <<enp0>>% chance of inflicting\nPhysical Res Down III when melee\nauto-attacking with your Doll."
     },
     {
       "$id": 949,
       "label": "ITM_SKL_DL_F_AT_PH_DN16_CAP",
       "style": 148,
-      "name": "Grants a <<enp0>>% chance of inflicting\nPhysical Res Down IV when melee\nauto-attacking with your Skell."
+      "name": "Grants a <<enp0>>% chance of inflicting\nPhysical Res Down IV when melee\nauto-attacking with your Doll."
     },
     {
       "$id": 950,
       "label": "ITM_SKL_DL_F_AT_BM_DN01_CAP",
       "style": 148,
-      "name": "Grants a <<enp0>>% chance of inflicting\nBeam Res Down I when melee\nauto-attacking with your Skell."
+      "name": "Grants a <<enp0>>% chance of inflicting\nBeam Res Down I when melee\nauto-attacking with your Doll."
     },
     {
       "$id": 951,
       "label": "ITM_SKL_DL_F_AT_BM_DN06_CAP",
       "style": 148,
-      "name": "Grants a <<enp0>>% chance of inflicting\nBeam Res Down II when melee\nauto-attacking with your Skell."
+      "name": "Grants a <<enp0>>% chance of inflicting\nBeam Res Down II when melee\nauto-attacking with your Doll."
     },
     {
       "$id": 952,
       "label": "ITM_SKL_DL_F_AT_BM_DN11_CAP",
       "style": 148,
-      "name": "Grants a <<enp0>>% chance of inflicting\nBeam Res Down III when melee\nauto-attacking with your Skell."
+      "name": "Grants a <<enp0>>% chance of inflicting\nBeam Res Down III when melee\nauto-attacking with your Doll."
     },
     {
       "$id": 953,
       "label": "ITM_SKL_DL_F_AT_BM_DN16_CAP",
       "style": 148,
-      "name": "Grants a <<enp0>>% chance of inflicting\nBeam Res Down IV when melee\nauto-attacking with your Skell."
+      "name": "Grants a <<enp0>>% chance of inflicting\nBeam Res Down IV when melee\nauto-attacking with your Doll."
     },
     {
       "$id": 954,
       "label": "ITM_SKL_DL_F_AT_ET_DN01_CAP",
       "style": 148,
-      "name": "Grants a <<enp0>>% chance of inflicting\nEther Res Down I when melee\nauto-attacking with your Skell."
+      "name": "Grants a <<enp0>>% chance of inflicting\nEther Res Down I when melee\nauto-attacking with your Doll."
     },
     {
       "$id": 955,
       "label": "ITM_SKL_DL_F_AT_ET_DN06_CAP",
       "style": 148,
-      "name": "Grants a <<enp0>>% chance of inflicting\nEther Res Down II when melee\nauto-attacking with your Skell."
+      "name": "Grants a <<enp0>>% chance of inflicting\nEther Res Down II when melee\nauto-attacking with your Doll."
     },
     {
       "$id": 956,
       "label": "ITM_SKL_DL_F_AT_ET_DN11_CAP",
       "style": 148,
-      "name": "Grants a <<enp0>>% chance of inflicting\nEther Res Down III when melee\nauto-attacking with your Skell."
+      "name": "Grants a <<enp0>>% chance of inflicting\nEther Res Down III when melee\nauto-attacking with your Doll."
     },
     {
       "$id": 957,
       "label": "ITM_SKL_DL_F_AT_ET_DN16_CAP",
       "style": 148,
-      "name": "Grants a <<enp0>>% chance of inflicting\nEther Res Down IV when melee\nauto-attacking with your Skell."
+      "name": "Grants a <<enp0>>% chance of inflicting\nEther Res Down IV when melee\nauto-attacking with your Doll."
     },
     {
       "$id": 958,
       "label": "ITM_SKL_DL_F_AT_FR_DN01_CAP",
       "style": 148,
-      "name": "Grants a <<enp0>>% chance of inflicting\nThermal Res Down I when melee\nauto-attacking with your Skell."
+      "name": "Grants a <<enp0>>% chance of inflicting\nThermal Res Down I when melee\nauto-attacking with your Doll."
     },
     {
       "$id": 959,
       "label": "ITM_SKL_DL_F_AT_FR_DN06_CAP",
       "style": 148,
-      "name": "Grants a <<enp0>>% chance of inflicting\nThermal Res Down II when melee\nauto-attacking with your Skell."
+      "name": "Grants a <<enp0>>% chance of inflicting\nThermal Res Down II when melee\nauto-attacking with your Doll."
     },
     {
       "$id": 960,
       "label": "ITM_SKL_DL_F_AT_FR_DN11_CAP",
       "style": 148,
-      "name": "Grants a <<enp0>>% chance of inflicting\nThermal Res Down III when melee\nauto-attacking with your Skell."
+      "name": "Grants a <<enp0>>% chance of inflicting\nThermal Res Down III when melee\nauto-attacking with your Doll."
     },
     {
       "$id": 961,
       "label": "ITM_SKL_DL_F_AT_FR_DN16_CAP",
       "style": 148,
-      "name": "Grants a <<enp0>>% chance of inflicting\nThermal Res Down IV when melee\nauto-attacking with your Skell."
+      "name": "Grants a <<enp0>>% chance of inflicting\nThermal Res Down IV when melee\nauto-attacking with your Doll."
     },
     {
       "$id": 962,
       "label": "ITM_SKL_DL_F_AT_TH_DN01_CAP",
       "style": 148,
-      "name": "Grants a <<enp0>>% chance of inflicting\nElectric Res Down I when melee\nauto-attacking with your Skell."
+      "name": "Grants a <<enp0>>% chance of inflicting\nElectric Res Down I when melee\nauto-attacking with your Doll."
     },
     {
       "$id": 963,
       "label": "ITM_SKL_DL_F_AT_TH_DN06_CAP",
       "style": 148,
-      "name": "Grants a <<enp0>>% chance of inflicting\nElectric Res Down II when melee\nauto-attacking with your Skell."
+      "name": "Grants a <<enp0>>% chance of inflicting\nElectric Res Down II when melee\nauto-attacking with your Doll."
     },
     {
       "$id": 964,
       "label": "ITM_SKL_DL_F_AT_TH_DN11_CAP",
       "style": 148,
-      "name": "Grants a <<enp0>>% chance of inflicting\nElectric Res Down III when melee\nauto-attacking with your Skell."
+      "name": "Grants a <<enp0>>% chance of inflicting\nElectric Res Down III when melee\nauto-attacking with your Doll."
     },
     {
       "$id": 965,
       "label": "ITM_SKL_DL_F_AT_TH_DN16_CAP",
       "style": 148,
-      "name": "Grants a <<enp0>>% chance of inflicting\nElectric Res Down IV when melee\nauto-attacking with your Skell."
+      "name": "Grants a <<enp0>>% chance of inflicting\nElectric Res Down IV when melee\nauto-attacking with your Doll."
     },
     {
       "$id": 966,
       "label": "ITM_SKL_DL_F_AT_GR_DN01_CAP",
       "style": 148,
-      "name": "Grants a <<enp0>>% chance of inflicting\nGravity Res Down I when melee\nauto-attacking with your Skell."
+      "name": "Grants a <<enp0>>% chance of inflicting\nGravity Res Down I when melee\nauto-attacking with your Doll."
     },
     {
       "$id": 967,
       "label": "ITM_SKL_DL_F_AT_GR_DN06_CAP",
       "style": 148,
-      "name": "Grants a <<enp0>>% chance of inflicting\nGravity Res Down II when melee\nauto-attacking with your Skell."
+      "name": "Grants a <<enp0>>% chance of inflicting\nGravity Res Down II when melee\nauto-attacking with your Doll."
     },
     {
       "$id": 968,
       "label": "ITM_SKL_DL_F_AT_GR_DN11_CAP",
       "style": 148,
-      "name": "Grants a <<enp0>>% chance of inflicting\nGravity Res Down III when melee\nauto-attacking with your Skell."
+      "name": "Grants a <<enp0>>% chance of inflicting\nGravity Res Down III when melee\nauto-attacking with your Doll."
     },
     {
       "$id": 969,
       "label": "ITM_SKL_DL_F_AT_GR_DN16_CAP",
       "style": 148,
-      "name": "Grants a <<enp0>>% chance of inflicting\nGravity Res Down IV when melee\nauto-attacking with your Skell."
+      "name": "Grants a <<enp0>>% chance of inflicting\nGravity Res Down IV when melee\nauto-attacking with your Doll."
     },
     {
       "$id": 970,
       "label": "ITM_SKL_DL_F_AT_FR_DOT01_CAP",
       "style": 148,
-      "name": "Grants a <<enp0>>% chance of inflicting\nBlaze I when melee auto-attacking\nwith your Skell."
+      "name": "Grants a <<enp0>>% chance of inflicting\nBlaze I when melee auto-attacking\nwith your Doll."
     },
     {
       "$id": 971,
       "label": "ITM_SKL_DL_F_AT_FR_DOT06_CAP",
       "style": 148,
-      "name": "Grants a <<enp0>>% chance of inflicting\nBlaze II when melee auto-attacking\nwith your Skell."
+      "name": "Grants a <<enp0>>% chance of inflicting\nBlaze II when melee auto-attacking\nwith your Doll."
     },
     {
       "$id": 972,
       "label": "ITM_SKL_DL_F_AT_FR_DOT11_CAP",
       "style": 148,
-      "name": "Grants a <<enp0>>% chance of inflicting\nBlaze III when melee auto-attacking\nwith your Skell."
+      "name": "Grants a <<enp0>>% chance of inflicting\nBlaze III when melee auto-attacking\nwith your Doll."
     },
     {
       "$id": 973,
       "label": "ITM_SKL_DL_F_AT_FR_DOT16_CAP",
       "style": 148,
-      "name": "Grants a <<enp0>>% chance of inflicting\nBlaze IV when melee auto-attacking\nwith your Skell."
+      "name": "Grants a <<enp0>>% chance of inflicting\nBlaze IV when melee auto-attacking\nwith your Doll."
     },
     {
       "$id": 974,
       "label": "ITM_SKL_DL_F_AT_TH_DOT01_CAP",
       "style": 148,
-      "name": "Grants a <<enp0>>% chance of inflicting\nShock I when melee auto-attacking\nwith your Skell."
+      "name": "Grants a <<enp0>>% chance of inflicting\nShock I when melee auto-attacking\nwith your Doll."
     },
     {
       "$id": 975,
       "label": "ITM_SKL_DL_F_AT_TH_DOT06_CAP",
       "style": 148,
-      "name": "Grants a <<enp0>>% chance of inflicting\nShock II when melee auto-attacking\nwith your Skell."
+      "name": "Grants a <<enp0>>% chance of inflicting\nShock II when melee auto-attacking\nwith your Doll."
     },
     {
       "$id": 976,
       "label": "ITM_SKL_DL_F_AT_TH_DOT11_CAP",
       "style": 148,
-      "name": "Grants a <<enp0>>% chance of inflicting\nShock III when melee auto-attacking\nwith your Skell."
+      "name": "Grants a <<enp0>>% chance of inflicting\nShock III when melee auto-attacking\nwith your Doll."
     },
     {
       "$id": 977,
       "label": "ITM_SKL_DL_F_AT_TH_DOT16_CAP",
       "style": 148,
-      "name": "Grants a <<enp0>>% chance of inflicting\nShock IV when melee auto-attacking\nwith your Skell."
+      "name": "Grants a <<enp0>>% chance of inflicting\nShock IV when melee auto-attacking\nwith your Doll."
     },
     {
       "$id": 978,
       "label": "ITM_SKL_DL_F_AT_HP_HEAL01_CAP",
       "style": 148,
-      "name": "Grants a <<enp0>>% chance of recovering\n<<enp1>> HP when melee auto-attacking\nwith your Skell."
+      "name": "Grants a <<enp0>>% chance of recovering\n<<enp1>> HP when melee auto-attacking\nwith your Doll."
     },
     {
       "$id": 979,
       "label": "ITM_SKL_DL_CT_TP01_CAP",
       "style": 148,
-      "name": "Grants a <<enp0>>% chance of receiving\n<<enp1>> GP when taking Skell damage."
+      "name": "Grants a <<enp0>>% chance of receiving\n<<enp1>> GP when taking Doll damage."
     },
     {
       "$id": 980,
       "label": "ITM_SKL_DL_CT_TP02_CAP",
       "style": 148,
-      "name": "Grants a <<enp0>>% chance of receiving\n<<enp1>> GP when taking Skell damage."
+      "name": "Grants a <<enp0>>% chance of receiving\n<<enp1>> GP when taking Doll damage."
     },
     {
       "$id": 981,
       "label": "ITM_SKL_DL_CT_TP03_CAP",
       "style": 148,
-      "name": "Grants a <<enp0>>% chance of receiving\n<<enp1>> GP when taking Skell damage."
+      "name": "Grants a <<enp0>>% chance of receiving\n<<enp1>> GP when taking Doll damage."
     },
     {
       "$id": 982,
       "label": "ITM_SKL_DL_CT_TP04_CAP",
       "style": 148,
-      "name": "Grants a <<enp0>>% chance of receiving\n<<enp1>> GP when taking Skell damage."
+      "name": "Grants a <<enp0>>% chance of receiving\n<<enp1>> GP when taking Doll damage."
     },
     {
       "$id": 983,
       "label": "ITM_SKL_DL_CT_TP05_CAP",
       "style": 148,
-      "name": "Grants a <<enp0>>% chance of receiving\n<<enp1>> GP when taking Skell damage."
+      "name": "Grants a <<enp0>>% chance of receiving\n<<enp1>> GP when taking Doll damage."
     },
     {
       "$id": 984,
       "label": "ITM_SKL_DL_CT_TP06_CAP",
       "style": 148,
-      "name": "Grants a <<enp0>>% chance of receiving\n<<enp1>> GP when taking Skell damage."
+      "name": "Grants a <<enp0>>% chance of receiving\n<<enp1>> GP when taking Doll damage."
     },
     {
       "$id": 985,
       "label": "ITM_SKL_DL_CT_TP07_CAP",
       "style": 148,
-      "name": "Grants a <<enp0>>% chance of receiving\n<<enp1>> GP when taking Skell damage."
+      "name": "Grants a <<enp0>>% chance of receiving\n<<enp1>> GP when taking Doll damage."
     },
     {
       "$id": 986,
       "label": "ITM_SKL_DL_CT_TP08_CAP",
       "style": 148,
-      "name": "Grants a <<enp0>>% chance of receiving\n<<enp1>> GP when taking Skell damage."
+      "name": "Grants a <<enp0>>% chance of receiving\n<<enp1>> GP when taking Doll damage."
     },
     {
       "$id": 987,
       "label": "ITM_SKL_DL_CT_TP09_CAP",
       "style": 148,
-      "name": "Grants a <<enp0>>% chance of receiving\n<<enp1>> GP when taking Skell damage."
+      "name": "Grants a <<enp0>>% chance of receiving\n<<enp1>> GP when taking Doll damage."
     },
     {
       "$id": 988,
       "label": "ITM_SKL_DL_CT_TP10_CAP",
       "style": 148,
-      "name": "Grants a <<enp0>>% chance of receiving\n<<enp1>> GP when taking Skell damage."
+      "name": "Grants a <<enp0>>% chance of receiving\n<<enp1>> GP when taking Doll damage."
     },
     {
       "$id": 989,
       "label": "ITM_SKL_DL_CT_TP11_CAP",
       "style": 148,
-      "name": "Grants a <<enp0>>% chance of receiving\n<<enp1>> GP when taking Skell damage."
+      "name": "Grants a <<enp0>>% chance of receiving\n<<enp1>> GP when taking Doll damage."
     },
     {
       "$id": 990,
       "label": "ITM_SKL_DL_CT_TP12_CAP",
       "style": 148,
-      "name": "Grants a <<enp0>>% chance of receiving\n<<enp1>> GP when taking Skell damage."
+      "name": "Grants a <<enp0>>% chance of receiving\n<<enp1>> GP when taking Doll damage."
     },
     {
       "$id": 991,
       "label": "ITM_SKL_DL_CT_TP13_CAP",
       "style": 148,
-      "name": "Grants a <<enp0>>% chance of receiving\n<<enp1>> GP when taking Skell damage."
+      "name": "Grants a <<enp0>>% chance of receiving\n<<enp1>> GP when taking Doll damage."
     },
     {
       "$id": 992,
       "label": "ITM_SKL_DL_CT_TP14_CAP",
       "style": 148,
-      "name": "Grants a <<enp0>>% chance of receiving\n<<enp1>> GP when taking Skell damage."
+      "name": "Grants a <<enp0>>% chance of receiving\n<<enp1>> GP when taking Doll damage."
     },
     {
       "$id": 993,
       "label": "ITM_SKL_DL_CT_TP15_CAP",
       "style": 148,
-      "name": "Grants a <<enp0>>% chance of receiving\n<<enp1>> GP when taking Skell damage."
+      "name": "Grants a <<enp0>>% chance of receiving\n<<enp1>> GP when taking Doll damage."
     },
     {
       "$id": 994,
       "label": "ITM_SKL_DL_CT_TP16_CAP",
       "style": 148,
-      "name": "Grants a <<enp0>>% chance of receiving\n<<enp1>> GP when taking Skell damage."
+      "name": "Grants a <<enp0>>% chance of receiving\n<<enp1>> GP when taking Doll damage."
     },
     {
       "$id": 995,
       "label": "ITM_SKL_DL_CT_TP17_CAP",
       "style": 148,
-      "name": "Grants a <<enp0>>% chance of receiving\n<<enp1>> GP when taking Skell damage."
+      "name": "Grants a <<enp0>>% chance of receiving\n<<enp1>> GP when taking Doll damage."
     },
     {
       "$id": 996,
       "label": "ITM_SKL_DL_CT_TP18_CAP",
       "style": 148,
-      "name": "Grants a <<enp0>>% chance of receiving\n<<enp1>> GP when taking Skell damage."
+      "name": "Grants a <<enp0>>% chance of receiving\n<<enp1>> GP when taking Doll damage."
     },
     {
       "$id": 997,
       "label": "ITM_SKL_DL_CT_TP19_CAP",
       "style": 148,
-      "name": "Grants a <<enp0>>% chance of receiving\n<<enp1>> GP when taking Skell damage."
+      "name": "Grants a <<enp0>>% chance of receiving\n<<enp1>> GP when taking Doll damage."
     },
     {
       "$id": 998,
       "label": "ITM_SKL_DL_CT_TP20_CAP",
       "style": 148,
-      "name": "Grants a <<enp0>>% chance of receiving\n<<enp1>> GP when taking Skell damage."
+      "name": "Grants a <<enp0>>% chance of receiving\n<<enp1>> GP when taking Doll damage."
     },
     {
       "$id": 999,
       "label": "ITM_SKL_DL_PARTS_SHD01_CAP",
       "style": 148,
-      "name": "Grants a <<enp0>>% chance of reducing\nappendage damage by <<enp1>>% when\nyour Skell takes a hit."
+      "name": "Grants a <<enp0>>% chance of reducing\nappendage damage by <<enp1>>% when\nyour Doll takes a hit."
     },
     {
       "$id": 1000,
       "label": "ITM_SKL_DL_JAMMING01_CAP",
       "style": 148,
-      "name": "Boosts Skell evasion against homing\nattacks by <<enp2>>%."
+      "name": "Boosts Doll evasion against homing\nattacks by <<enp2>>%."
     },
     {
       "$id": 1001,
       "label": "ITM_SKL_DL_LOST_ATTACK01_CAP",
       "style": 148,
-      "name": "Boosts damage by +<<enp1>>% for each\nSkell appendage lost."
+      "name": "Boosts damage by +<<enp1>>% for each\nDoll appendage lost."
     },
     {
       "$id": 1002,
       "label": "ITM_SKL_DL_LOST_SPEED01_CAP",
       "style": 148,
-      "name": "Boosts evasion by <<enp1>>% for each\nSkell appendage lost."
+      "name": "Boosts evasion by <<enp1>>% for each\nDoll appendage lost."
     },
     {
       "$id": 1003,
@@ -6036,103 +6036,103 @@
       "$id": 1004,
       "label": "ITM_SKL_DL_REF_PLUS_PH00_CAP",
       "style": 148,
-      "name": "Reflects physical attacks as well when your\nSkell reflects damage."
+      "name": "Reflects physical attacks as well when your\nDoll reflects damage."
     },
     {
       "$id": 1005,
       "label": "ITM_SKL_DL_REF_PLUS_BM00_CAP",
       "style": 148,
-      "name": "Reflects beam attacks as well when your\nSkell reflects damage."
+      "name": "Reflects beam attacks as well when your\nDoll reflects damage."
     },
     {
       "$id": 1006,
       "label": "ITM_SKL_DL_REF_PLUS_ET00_CAP",
       "style": 148,
-      "name": "Reflects ether attacks as well when your\nSkell reflects damage."
+      "name": "Reflects ether attacks as well when your\nDoll reflects damage."
     },
     {
       "$id": 1007,
       "label": "ITM_SKL_DL_REF_PLUS_FR00_CAP",
       "style": 148,
-      "name": "Reflects thermal attacks as well when your\nSkell reflects damage."
+      "name": "Reflects thermal attacks as well when your\nDoll reflects damage."
     },
     {
       "$id": 1008,
       "label": "ITM_SKL_DL_REF_PLUS_TH00_CAP",
       "style": 148,
-      "name": "Reflects electric attacks as well when your\nSkell reflects damage."
+      "name": "Reflects electric attacks as well when your\nDoll reflects damage."
     },
     {
       "$id": 1009,
       "label": "ITM_SKL_DL_REF_PLUS_GR00_CAP",
       "style": 148,
-      "name": "Reflects gravity attacks as well when your\nSkell reflects damage."
+      "name": "Reflects gravity attacks as well when your\nDoll reflects damage."
     },
     {
       "$id": 1010,
       "label": "ITM_SKL_DL_REF_DMG_UP01_CAP",
       "style": 148,
-      "name": "Boosts Skell reflect damage by +<<enp1>>%."
+      "name": "Boosts Doll reflect damage by +<<enp1>>%."
     },
     {
       "$id": 1011,
       "label": "ITM_SKL_DL_REF_ATK_PH01_CAP",
       "style": 148,
-      "name": "Grants a <<enp0>>% chance of negating enemy\nreflection of Skell physical attacks."
+      "name": "Grants a <<enp0>>% chance of negating enemy\nreflection of Doll physical attacks."
     },
     {
       "$id": 1012,
       "label": "ITM_SKL_DL_REF_ATK_BM01_CAP",
       "style": 148,
-      "name": "Grants a <<enp0>>% chance of negating enemy\nreflection of Skell beam attacks."
+      "name": "Grants a <<enp0>>% chance of negating enemy\nreflection of Doll beam attacks."
     },
     {
       "$id": 1013,
       "label": "ITM_SKL_DL_REF_ATK_ET01_CAP",
       "style": 148,
-      "name": "Grants a <<enp0>>% chance of negating enemy\nreflection of Skell ether attacks."
+      "name": "Grants a <<enp0>>% chance of negating enemy\nreflection of Doll ether attacks."
     },
     {
       "$id": 1014,
       "label": "ITM_SKL_DL_REF_ATK_FR01_CAP",
       "style": 148,
-      "name": "Grants a <<enp0>>% chance of negating enemy\nreflection of Skell thermal attacks."
+      "name": "Grants a <<enp0>>% chance of negating enemy\nreflection of Doll thermal attacks."
     },
     {
       "$id": 1015,
       "label": "ITM_SKL_DL_REF_ATK_TH01_CAP",
       "style": 148,
-      "name": "Grants a <<enp0>>% chance of negating enemy\nreflection of Skell electric attacks."
+      "name": "Grants a <<enp0>>% chance of negating enemy\nreflection of Doll electric attacks."
     },
     {
       "$id": 1016,
       "label": "ITM_SKL_DL_REF_ATK_GR01_CAP",
       "style": 148,
-      "name": "Grants a <<enp0>>% chance of negating enemy\nreflection of Skell gravity attacks."
+      "name": "Grants a <<enp0>>% chance of negating enemy\nreflection of Doll gravity attacks."
     },
     {
       "$id": 1017,
       "label": "ITM_SKL_DL_GEAR_ST_HP01_CAP",
       "style": 148,
-      "name": "Recovers <<enp1>>% HP when activating\nOverdrive."
+      "name": "Recovers <<enp1>>% HP when activating\nOverclock."
     },
     {
       "$id": 1018,
       "label": "ITM_SKL_DL_GEAR_ST_PHP01_CAP",
       "style": 148,
-      "name": "Recovers <<enp1>>% HP to all appendages\nwhen activating Overdrive."
+      "name": "Recovers <<enp1>>% HP to all appendages\nwhen activating Overclock."
     },
     {
       "$id": 1019,
       "label": "ITM_SKL_DL_GEAR_ST_CNT01_CAP",
       "style": 148,
-      "name": "Boosts Overdrive sustainment rate by <<enp1>>%."
+      "name": "Boosts Overclock sustainment rate by <<enp1>>%."
     },
     {
       "$id": 1020,
       "label": "ITM_SKL_DL_ARTS_ST_TP01_CAP",
       "style": 148,
-      "name": "Boosts GP by <<enp1>> when using Skell Arts."
+      "name": "Boosts GP by <<enp1>> when using Doll Arts."
     },
     {
       "$id": 1021,
@@ -6246,7 +6246,7 @@
       "$id": 1039,
       "label": "ITM_SKL_DL_FST_ARTS01_CAP",
       "style": 148,
-      "name": "Boosts Skell Opening Art damage\nby  <<enp1>>%."
+      "name": "Boosts Doll Opening Art damage\nby  <<enp1>>%."
     },
     {
       "$id": 1040,
@@ -6516,67 +6516,67 @@
       "$id": 1084,
       "label": "ITM_SKL_DL_STEALTH_EYE01_CAP",
       "style": 148,
-      "name": "Reduces detection by shrinking enemy\nfield of view by <<enp1>>% when\nin your Skell."
+      "name": "Reduces detection by shrinking enemy\nfield of view by <<enp1>>% when\nin your Doll."
     },
     {
       "$id": 1085,
       "label": "ITM_SKL_DL_STEALTH_ROUND01_CAP",
       "style": 148,
-      "name": "Reduces detection by shrinking enemy\nauditory range by <<enp1>>%\nwhen in your Skell."
+      "name": "Reduces detection by shrinking enemy\nauditory range by <<enp1>>%\nwhen in your Doll."
     },
     {
       "$id": 1086,
       "label": "ITM_SKL_DL_PARTS_TP01_CAP",
       "style": 148,
-      "name": "Boosts GP by <<enp1>> when destroying an\nenemy appendage with your Skell."
+      "name": "Boosts GP by <<enp1>> when destroying an\nenemy appendage with your Doll."
     },
     {
       "$id": 1087,
       "label": "ITM_SKL_DL_PARTS_DMG01_CAP",
       "style": 148,
-      "name": "Boosts Skell ranged appendage damage\nby +<<enp1>>%."
+      "name": "Boosts Doll ranged appendage damage\nby +<<enp1>>%."
     },
     {
       "$id": 1088,
       "label": "ITM_SKL_DL_EVA_SPIKE01_CAP",
       "style": 148,
-      "name": "Grants a <<enp1>>% chance of evading\nspike damage when in your Skell."
+      "name": "Grants a <<enp1>>% chance of evading\nspike damage when in your Doll."
     },
     {
       "$id": 1089,
       "label": "ITM_SKL_DL_CAR_DEF_PARTS01_CAP",
       "style": 148,
-      "name": "Reduces appendage damage by <<enp1>>%\nwhen in Skell vehicle mode."
+      "name": "Reduces appendage damage by <<enp1>>%\nwhen in Doll vehicle mode."
     },
     {
       "$id": 1090,
       "label": "ITM_SKL_DL_CAR_DEF_FRAME01_CAP",
       "style": 148,
-      "name": "Reduces primary damage by <<enp1>>%\nwhen in Skell vehicle mode."
+      "name": "Reduces primary damage by <<enp1>>%\nwhen in Doll vehicle mode."
     },
     {
       "$id": 1091,
       "label": "ITM_SKL_DL_CAR_DEF_DEBUFF01_CAP",
       "style": 148,
-      "name": "Boosts resistance to all debuffs by <<enp2>>%\nwhen in Skell vehicle mode."
+      "name": "Boosts resistance to all debuffs by <<enp2>>%\nwhen in Doll vehicle mode."
     },
     {
       "$id": 1092,
       "label": "ITM_SKL_DL_NIGHT_DEX01_CAP",
       "style": 148,
-      "name": "Boosts Skell melee and ranged accuracy\nby <<enp1>>% during the nighttime."
+      "name": "Boosts Doll melee and ranged accuracy\nby <<enp1>>% during the nighttime."
     },
     {
       "$id": 1093,
       "label": "ITM_SKL_DL_WEATHER_FOG00_CAP",
       "style": 148,
-      "name": "Grants immunity to the effects of\nfog when in your Skell."
+      "name": "Grants immunity to the effects of\nfog when in your Doll."
     },
     {
       "$id": 1094,
       "label": "ITM_SKL_DL_WEATHER_RAIN00_CAP",
       "style": 148,
-      "name": "Grants immunity to the effects of\nrain when in your Skell."
+      "name": "Grants immunity to the effects of\nrain when in your Doll."
     },
     {
       "$id": 1095,
@@ -6588,79 +6588,79 @@
       "$id": 1096,
       "label": "ITM_SKL_DL_WEATHER_HRAIN00_CAP",
       "style": 148,
-      "name": "Grants immunity to the effects of\nheavy rain when in your Skell."
+      "name": "Grants immunity to the effects of\nheavy rain when in your Doll."
     },
     {
       "$id": 1097,
       "label": "ITM_SKL_DL_WEATHER_HEATWAVE00_CAP",
       "style": 148,
-      "name": "Grants immunity to the effects of\nheat waves when in your Skell."
+      "name": "Grants immunity to the effects of\nheat waves when in your Doll."
     },
     {
       "$id": 1098,
       "label": "ITM_SKL_DL_WEATHER_SAND00_CAP",
       "style": 148,
-      "name": "Grants immunity to the effects of\nsandstorms when in your Skell."
+      "name": "Grants immunity to the effects of\nsandstorms when in your Doll."
     },
     {
       "$id": 1099,
       "label": "ITM_SKL_DL_WEATHER_TRAIN00_CAP",
       "style": 148,
-      "name": "Grants immunity to the effects of\nthunderstorms when in your Skell."
+      "name": "Grants immunity to the effects of\nthunderstorms when in your Doll."
     },
     {
       "$id": 1100,
       "label": "ITM_SKL_DL_WEATHER_ERECT00_CAP",
       "style": 148,
-      "name": "Grants immunity to the effects of\nelectromagnetic storms when in your Skell."
+      "name": "Grants immunity to the effects of\nelectromagnetic storms when in your Doll."
     },
     {
       "$id": 1101,
       "label": "ITM_SKL_DL_WEATHER_PAR_A00_CAP",
       "style": 148,
-      "name": "Grants immunity to the effects of\nenergy mist when in your Skell."
+      "name": "Grants immunity to the effects of\nenergy mist when in your Doll."
     },
     {
       "$id": 1102,
       "label": "ITM_SKL_DL_WEATHER_PAR_B00_CAP",
       "style": 148,
-      "name": "Grants immunity to the effects of\nrising energy mist when in your Skell."
+      "name": "Grants immunity to the effects of\nrising energy mist when in your Doll."
     },
     {
       "$id": 1103,
       "label": "ITM_SKL_DL_WEATHER_FIRERAIN00_CAP",
       "style": 148,
-      "name": "Grants immunity to the effects of\nbrimstone rain when in your Skell."
+      "name": "Grants immunity to the effects of\nbrimstone rain when in your Doll."
     },
     {
       "$id": 1104,
       "label": "ITM_SKL_DL_WEATHER_OURA00_CAP",
       "style": 148,
-      "name": "Grants immunity to the effects of\nauroras when in your Skell."
+      "name": "Grants immunity to the effects of\nauroras when in your Doll."
     },
     {
       "$id": 1105,
       "label": "ITM_SKL_DL_WEATHER_REDOURA00_CAP",
       "style": 148,
-      "name": "Grants immunity to the effects of\ncrimson auroras when in your Skell."
+      "name": "Grants immunity to the effects of\ncrimson auroras when in your Doll."
     },
     {
       "$id": 1106,
       "label": "ITM_SKL_DL_WEATHER_HOUSI00_CAP",
       "style": 148,
-      "name": "Grants immunity to the effects of\nspore clouds when in your Skell."
+      "name": "Grants immunity to the effects of\nspore clouds when in your Doll."
     },
     {
       "$id": 1107,
       "label": "ITM_SKL_DL_WEATHER_METOR00_CAP",
       "style": 148,
-      "name": "Grants immunity to the effects of\nmeteor showers when in your Skell."
+      "name": "Grants immunity to the effects of\nmeteor showers when in your Doll."
     },
     {
       "$id": 1108,
       "label": "ITM_SKL_DL_WEATHER_DMG01_CAP",
       "style": 148,
-      "name": "Reduces weather damage by <<enp1>>%\nwhen in your Skell."
+      "name": "Reduces weather damage by <<enp1>>%\nwhen in your Doll."
     },
     {
       "$id": 1109,
