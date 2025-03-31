@@ -84,7 +84,7 @@
       "$id": 12,
       "label": "SVT_P12_TriggerName",
       "style": 19,
-      "name": "Activate Overdrive"
+      "name": "Activate Overclock"
     },
     {
       "$id": 13,
@@ -168,13 +168,13 @@
       "$id": 26,
       "label": "SVT_C14_TriggerName",
       "style": 19,
-      "name": "Skell Crush"
+      "name": "Doll Crush"
     },
     {
       "$id": 27,
       "label": "SVT_C15_TriggerName",
       "style": 19,
-      "name": "Wrecked Skell"
+      "name": "Wrecked Doll"
     },
     {
       "$id": 28,
@@ -252,7 +252,7 @@
       "$id": 40,
       "label": "SVT_P12_TriggerCaption",
       "style": 64,
-      "name": "Trigger: Character activates\nOverdrive"
+      "name": "Trigger: Character activates\nOverclock"
     },
     {
       "$id": 41,
@@ -330,25 +330,25 @@
       "$id": 53,
       "label": "SVT_C13_TriggerCaption",
       "style": 64,
-      "name": "Trigger: Character uses a Skell\nto Bind an enemy"
+      "name": "Trigger: Character uses a Doll\nto Bind an enemy"
     },
     {
       "$id": 54,
       "label": "SVT_C14_TriggerCaption",
       "style": 64,
-      "name": "Trigger: Appendage of character's\nSkell is destroyed"
+      "name": "Trigger: Appendage of character's\nDoll is destroyed"
     },
     {
       "$id": 55,
       "label": "SVT_C15_TriggerCaption",
       "style": 64,
-      "name": "Trigger: Character's Skell is\nwrecked and removed from battle"
+      "name": "Trigger: Character's Doll is\nwrecked and removed from battle"
     },
     {
       "$id": 56,
       "label": "SVT_C16_TriggerCaption",
       "style": 64,
-      "name": "Trigger: Fuel of character's Skell\nfalls below 30% in combat"
+      "name": "Trigger: Fuel of character's Doll\nfalls below 30% in combat"
     }
   ]
 }

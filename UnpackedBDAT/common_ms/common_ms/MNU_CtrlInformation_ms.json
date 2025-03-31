@@ -162,13 +162,13 @@
       "$id": 25,
       "label": "CTRL_enter_cancel_info_charaselect",
       "style": 45,
-      "name": "[ST:icon p1=a ] Confirm [ST:icon p1=b ] Cancel [ST:icon p1=x ] Character Profile [ST:icon p1=anal ] Select Affinity"
+      "name": "[ST:icon p1=a ] Confirm [ST:icon p1=b ] Cancel [ST:icon p1=x ] Character Profile [ST:icon p1=anal ] Select Bonding"
     },
     {
       "$id": 26,
       "label": "CTRL_enter_cancel_charaselect",
       "style": 45,
-      "name": "[ST:icon p1=a ] Confirm [ST:icon p1=b ] Cancel [ST:icon p1=anal ] Select Affinity"
+      "name": "[ST:icon p1=a ] Confirm [ST:icon p1=b ] Cancel [ST:icon p1=anal ] Select Bonding"
     },
     {
       "$id": 27,
@@ -306,7 +306,7 @@
       "$id": 49,
       "label": "CTRL_enter_cancel_transition",
       "style": 45,
-      "name": "[ST:icon p1=a ] Confirm [ST:icon p1=b ] Cancel [ST:icon p1=crslr ] Switch Affinity Orientation"
+      "name": "[ST:icon p1=a ] Confirm [ST:icon p1=b ] Cancel [ST:icon p1=crslr ] Switch Bonding Orientation"
     },
     {
       "$id": 50,
@@ -540,7 +540,7 @@
       "$id": 88,
       "label": "HUD_CMD_StartGear",
       "style": 45,
-      "name": "[ST:icon p1=crsl ] Activate Overdrive!"
+      "name": "[ST:icon p1=crsl ] Activate Overclock!"
     },
     {
       "$id": 89,
@@ -588,7 +588,7 @@
       "$id": 96,
       "label": "HUD_GetOffDoll",
       "style": 45,
-      "name": "[ST:icon p1=y ] Exit Skell"
+      "name": "[ST:icon p1=y ] Exit Doll"
     },
     {
       "$id": 97,
@@ -642,13 +642,13 @@
       "$id": 105,
       "label": "HUD_CMD_DollRideOn",
       "style": 45,
-      "name": "[ST:icon p1=crsl ] Board Skells!"
+      "name": "[ST:icon p1=crsl ] Board Dolls!"
     },
     {
       "$id": 106,
       "label": "HUD_CMD_DollGetOff",
       "style": 45,
-      "name": "[ST:icon p1=crsr ] Exit Skells!"
+      "name": "[ST:icon p1=crsr ] Exit Dolls!"
     },
     {
       "$id": 107,

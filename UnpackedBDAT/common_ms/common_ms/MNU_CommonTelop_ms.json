@@ -48,7 +48,7 @@
       "$id": 6,
       "label": "Te_CmnErr_ChrSel_RentalDoll",
       "style": 72,
-      "name": "[ST:col p1=red ]Cannot apply changes to this Skell's gear."
+      "name": "[ST:col p1=red ]Cannot apply changes to this Doll's gear."
     },
     {
       "$id": 7,
@@ -66,7 +66,7 @@
       "$id": 9,
       "label": "Te_CmnErr_DollGarageFull",
       "style": 72,
-      "name": "[ST:col p1=red ]Your Skell garage is full."
+      "name": "[ST:col p1=red ]Your Doll garage is full."
     },
     {
       "$id": 10,
@@ -96,7 +96,7 @@
       "$id": 14,
       "label": "Te_CmnErr_NoLicense",
       "style": 72,
-      "name": "[ST:col p1=red ]You do not have a Skell license."
+      "name": "[ST:col p1=red ]You do not have a Doll license."
     },
     {
       "$id": 15,
@@ -276,7 +276,7 @@
       "$id": 44,
       "label": "Te_CmnErr_DollTransfer",
       "style": 72,
-      "name": "[ST:col p1=red ]Skell registration cannot be changed."
+      "name": "[ST:col p1=red ]Doll registration cannot be changed."
     },
     {
       "$id": 45,
@@ -2508,7 +2508,7 @@
       "$id": 416,
       "label": "Te_CmnErr_EquFrNotChange",
       "style": 72,
-      "name": "[ST:col p1=red ]The Skell itself cannot be changed."
+      "name": "[ST:col p1=red ]The Doll itself cannot be changed."
     },
     {
       "$id": 417,
@@ -2532,7 +2532,7 @@
       "$id": 420,
       "label": "Te_CmnErr_EquNot_DlLvShortage",
       "style": 72,
-      "name": "[ST:col p1=red ]Insufficient Skell level."
+      "name": "[ST:col p1=red ]Insufficient Doll level."
     },
     {
       "$id": 421,
@@ -2544,7 +2544,7 @@
       "$id": 422,
       "label": "Te_CmnErr_EquNot_DlArmLvShortage",
       "style": 72,
-      "name": "[ST:col p1=red ]Cannot equip this item with\nthe current Skell type."
+      "name": "[ST:col p1=red ]Cannot equip this item with\nthe current Doll type."
     },
     {
       "$id": 423,
@@ -2628,7 +2628,7 @@
       "$id": 436,
       "label": "Te_CmnTelop_DollInsurance",
       "style": 72,
-      "name": "Your insurance has replaced your lost Skell."
+      "name": "Your insurance has replaced your lost Doll."
     },
     {
       "$id": 437,
@@ -2778,7 +2778,7 @@
       "$id": 461,
       "label": "Te_CmnErr_NoDollFrame",
       "style": 72,
-      "name": "[ST:col p1=red ]You do not have a Skell."
+      "name": "[ST:col p1=red ]You do not have a Doll."
     },
     {
       "$id": 462,
@@ -3036,7 +3036,7 @@
       "$id": 504,
       "label": "Te_MultiQuestOrder_UnionSelect_now",
       "style": 72,
-      "name": "This is your current division."
+      "name": "This is your current Union."
     },
     {
       "$id": 505,
@@ -3048,7 +3048,7 @@
       "$id": 506,
       "label": "Te_EN_SITUATION_MES_M09_002",
       "style": 72,
-      "name": "Ga Jiarg and Ga Buidhe are\nstrengthening their teamwork."
+      "name": "Ga-Derg and Ga Buidhe are\nstrengthening their teamwork."
     },
     {
       "$id": 507,
@@ -3240,7 +3240,7 @@
       "$id": 538,
       "label": "Te_Telop_Center11",
       "style": 72,
-      "name": "Your Skell has been replaced by your insurance."
+      "name": "Your Doll has been replaced by your insurance."
     },
     {
       "$id": 539,
@@ -3318,13 +3318,13 @@
       "$id": 551,
       "label": "Te_Telop_Center19",
       "style": 72,
-      "name": "Your assigned division has been changed."
+      "name": "Your assigned Union has been changed."
     },
     {
       "$id": 552,
       "label": "Te_Telop_Center20",
       "style": 72,
-      "name": "You are already assigned to this division."
+      "name": "You are already assigned to this Union."
     },
     {
       "$id": 553,
@@ -3360,7 +3360,7 @@
       "$id": 558,
       "label": "Te_Telop_Center24",
       "style": 72,
-      "name": "Skell sold.\n(Equipped augments have been kept.)"
+      "name": "Doll sold.\n(Equipped augments have been kept.)"
     },
     {
       "$id": 559,
@@ -3384,7 +3384,7 @@
       "$id": 562,
       "label": "Te_PopUp_Center26",
       "style": 72,
-      "name": "The new Skell has been sent to the Barracks Hangar.\n(You can check it from the Customization Center.)"
+      "name": "The new Doll has been sent to the Barracks Hangar.\n(You can check it from the Customization Center.)"
     },
     {
       "$id": 563,
@@ -3408,13 +3408,13 @@
       "$id": 566,
       "label": "Te_Telop_Center30",
       "style": 72,
-      "name": "No division rewards.\n(You can receive these once per day.)"
+      "name": "No Union rewards.\n(You can receive these once per day.)"
     },
     {
       "$id": 567,
       "label": "Te_Telop_Center31",
       "style": 72,
-      "name": "You have received division rewards."
+      "name": "You have received Union rewards."
     },
     {
       "$id": 568,
@@ -3564,7 +3564,7 @@
       "$id": 592,
       "label": "Te_Telop_Center39",
       "style": 72,
-      "name": "You must be registered as a Skell's pilot to use\nthis. Register pilots at the Customization Center."
+      "name": "You must be registered as a Doll's pilot to use\nthis. Register pilots at the Customization Center."
     },
     {
       "$id": 593,
@@ -3618,13 +3618,13 @@
       "$id": 601,
       "label": "Te_Telop_Center49",
       "style": 72,
-      "name": "[ST:col p1=red ]This cannot be used while piloting a Skell."
+      "name": "[ST:col p1=red ]This cannot be used while piloting a Doll."
     },
     {
       "$id": 602,
       "label": "Te_Telop_Center50",
       "style": 72,
-      "name": "[ST:col p1=red ]Cannot be used while your Skell is wrecked.\nYou can repair it at the Customization Center."
+      "name": "[ST:col p1=red ]Cannot be used while your Doll is wrecked.\nYou can repair it at the Customization Center."
     },
     {
       "$id": 603,
@@ -3708,7 +3708,7 @@
       "$id": 616,
       "label": "Te_skip_travel_error_2",
       "style": 72,
-      "name": "[ST:col p1=red ]You cannot fast travel to this location by Skell.\nExit your Skell first."
+      "name": "[ST:col p1=red ]You cannot fast travel to this location by Doll.\nExit your Doll first."
     },
     {
       "$id": 617,
@@ -3720,19 +3720,19 @@
       "$id": 618,
       "label": "Te_Telop_Center55",
       "style": 72,
-      "name": "[ST:col p1=red ]You cannot use this without a Skell."
+      "name": "[ST:col p1=red ]You cannot use this without a Doll."
     },
     {
       "$id": 619,
       "label": "Te_PopUp_Error22",
       "style": 72,
-      "name": "[ST:col p1=red ]This Skell cannot be sold."
+      "name": "[ST:col p1=red ]This Doll cannot be sold."
     },
     {
       "$id": 620,
       "label": "Te_PopUp_Error23",
       "style": 72,
-      "name": "[ST:col p1=red ]You cannot sell a damaged Skell."
+      "name": "[ST:col p1=red ]You cannot sell a damaged Doll."
     },
     {
       "$id": 621,
@@ -3750,7 +3750,7 @@
       "$id": 623,
       "label": "Te_Telop_Center58",
       "style": 72,
-      "name": "[ST:col p1=red ]This character cannot change their\nassigned Skell right now."
+      "name": "[ST:col p1=red ]This character cannot change their\nassigned Doll right now."
     },
     {
       "$id": 624,
@@ -3804,7 +3804,7 @@
       "$id": 632,
       "label": "Te_PopUp_Error28",
       "style": 72,
-      "name": "[ST:col p1=red ]You cannot scrap this Skell."
+      "name": "[ST:col p1=red ]You cannot scrap this Doll."
     },
     {
       "$id": 633,
@@ -3816,7 +3816,7 @@
       "$id": 634,
       "label": "Te_PopUp_Error29",
       "style": 72,
-      "name": "[ST:col p1=red ]You cannot change this Skell's colors."
+      "name": "[ST:col p1=red ]You cannot change this Doll's colors."
     },
     {
       "$id": 635,
@@ -3846,7 +3846,7 @@
       "$id": 639,
       "label": "Te_Telop_Center65",
       "style": 72,
-      "name": "Your Skell has been replaced free of charge,\nthanks to a successful Soul Challenge."
+      "name": "Your Doll has been replaced free of charge,\nthanks to a successful Soul Challenge."
     },
     {
       "$id": 640,
@@ -3858,7 +3858,7 @@
       "$id": 641,
       "label": "Te_Telop_Center66",
       "style": 72,
-      "name": "[ST:col p1=red ]You cannot change the pilot of this Skell."
+      "name": "[ST:col p1=red ]You cannot change the pilot of this Doll."
     },
     {
       "$id": 642,
@@ -3870,7 +3870,7 @@
       "$id": 643,
       "label": "Te_Telop_Center68",
       "style": 72,
-      "name": "[ST:col p1=red ]You cannot change the name of this Skell."
+      "name": "[ST:col p1=red ]You cannot change the name of this Doll."
     },
     {
       "$id": 644,
@@ -3924,19 +3924,19 @@
       "$id": 652,
       "label": "Te_Telop_Center76",
       "style": 72,
-      "name": "Your Skell has been replaced free of charge,\nowing to the ongoing emergency mission."
+      "name": "Your Doll has been replaced free of charge,\nowing to the ongoing emergency mission."
     },
     {
       "$id": 653,
       "label": "Te_Telop_Center77",
       "style": 72,
-      "name": "Your Skell has been replaced free of charge,\nowing to your ongoing test flight."
+      "name": "Your Doll has been replaced free of charge,\nowing to your ongoing test flight."
     },
     {
       "$id": 654,
       "label": "Te_Telop_Center78",
       "style": 72,
-      "name": "Your Skell has been replaced free of charge,\ndue to being destroyed in a de-mat event."
+      "name": "Your Doll has been replaced free of charge,\ndue to being destroyed in a de-mat event."
     },
     {
       "$id": 655,
@@ -3954,7 +3954,7 @@
       "$id": 657,
       "label": "Te_Telop_Center81",
       "style": 72,
-      "name": "[ST:col p1=red ]This Skell's pilot cannot be removed."
+      "name": "[ST:col p1=red ]This Doll's pilot cannot be removed."
     },
     {
       "$id": 658,
@@ -4032,13 +4032,13 @@
       "$id": 670,
       "label": "Te_PopUp_Error38",
       "style": 72,
-      "name": "[ST:col p1=red ]You cannot hold any more Skell weapons."
+      "name": "[ST:col p1=red ]You cannot hold any more Doll weapons."
     },
     {
       "$id": 671,
       "label": "Te_PopUp_Error39",
       "style": 72,
-      "name": "[ST:col p1=red ]You cannot hold any more Skell armor."
+      "name": "[ST:col p1=red ]You cannot hold any more Doll armor."
     },
     {
       "$id": 672,
@@ -4110,7 +4110,7 @@
       "$id": 683,
       "label": "Te_PopUp_Error46",
       "style": 72,
-      "name": "Cannot be used while an ally is piloting a Skell.\nTo order allies to disembark, press [ST:icon p1=r ] + [ST:icon p1=crsr ]."
+      "name": "Cannot be used while an ally is piloting a Doll.\nTo order allies to disembark, press [ST:icon p1=r ] + [ST:icon p1=crsr ]."
     }
   ]
 }

@@ -24,7 +24,7 @@
       "$id": 2,
       "label": "SHP_ITM_SKL_IN_CAT_DOLL_UP_name",
       "style": 18,
-      "name": "Skell Augments"
+      "name": "Doll Augments"
     },
     {
       "$id": 3,
@@ -72,7 +72,7 @@
       "$id": 10,
       "label": "SHP_ITM_SKL_IN_CAT_OCG_name",
       "style": 18,
-      "name": "Overdrive Augments"
+      "name": "Overclock Augments"
     },
     {
       "$id": 11,
@@ -858,37 +858,37 @@
       "$id": 141,
       "label": "SHP_ITM_SKL_IN_GEAR_ST_HP01_name",
       "style": 18,
-      "name": "Overdrive: Recover HP"
+      "name": "Overclock: Recover HP"
     },
     {
       "$id": 142,
       "label": "SHP_ITM_SKL_IN_GEAR_ST_TP01_name",
       "style": 18,
-      "name": "Overdrive: Gain TP"
+      "name": "Overclock: Gain TP"
     },
     {
       "$id": 143,
       "label": "SHP_ITM_SKL_IN_GEAR_ST_CNT01_name",
       "style": 18,
-      "name": "Overdrive Count Up"
+      "name": "Overclock Count Up"
     },
     {
       "$id": 144,
       "label": "SHP_ITM_SKL_IN_GEAR_ST_TIME01_name",
       "style": 18,
-      "name": "Extend Overdrive"
+      "name": "Extend Overclock"
     },
     {
       "$id": 145,
       "label": "SHP_ITM_SKL_IN_GEAR_RULE_FS00_name",
       "style": 18,
-      "name": "Overdrive Blue Bonus"
+      "name": "Overclock Blue Bonus"
     },
     {
       "$id": 146,
       "label": "SHP_ITM_SKL_IN_GEAR_RULE_SF00_name",
       "style": 18,
-      "name": "Overdrive Green Bonus"
+      "name": "Overclock Green Bonus"
     },
     {
       "$id": 147,
@@ -1164,7 +1164,7 @@
       "$id": 192,
       "label": "SHP_ITM_SKL_IN_SOUL_RT_GEAR01_name",
       "style": 18,
-      "name": "Overdrive Surge"
+      "name": "Overclock Surge"
     },
     {
       "$id": 193,
@@ -1452,49 +1452,49 @@
       "$id": 240,
       "label": "ITM_SKL_IN_HPMAX01_DL_OUTLINE",
       "style": 153,
-      "name": "Boosts maximum Skell HP by a percentage."
+      "name": "Boosts maximum Doll HP by a percentage."
     },
     {
       "$id": 241,
       "label": "ITM_SKL_IN_TPMAX01_DL_OUTLINE",
       "style": 153,
-      "name": "Boosts maximum Skell GP by a percentage."
+      "name": "Boosts maximum Doll GP by a percentage."
     },
     {
       "$id": 242,
       "label": "ITM_SKL_IN_F_DEX01_DL_OUTLINE",
       "style": 153,
-      "name": "Boosts Skell melee accuracy by a percentage."
+      "name": "Boosts Doll melee accuracy by a percentage."
     },
     {
       "$id": 243,
       "label": "ITM_SKL_IN_S_DEX01_DL_OUTLINE",
       "style": 153,
-      "name": "Boosts Skell ranged accuracy by a percentage."
+      "name": "Boosts Doll ranged accuracy by a percentage."
     },
     {
       "$id": 244,
       "label": "ITM_SKL_IN_EVA01_DL_OUTLINE",
       "style": 153,
-      "name": "Boosts Skell evasion by a percentage."
+      "name": "Boosts Doll evasion by a percentage."
     },
     {
       "$id": 245,
       "label": "ITM_SKL_IN_F_POW01_DL_OUTLINE",
       "style": 153,
-      "name": "Boosts Skell melee attack by a percentage."
+      "name": "Boosts Doll melee attack by a percentage."
     },
     {
       "$id": 246,
       "label": "ITM_SKL_IN_S_POW01_DL_OUTLINE",
       "style": 153,
-      "name": "Boosts Skell ranged attack by a percentage."
+      "name": "Boosts Doll ranged attack by a percentage."
     },
     {
       "$id": 247,
       "label": "ITM_SKL_IN_M_POW01_DL_OUTLINE",
       "style": 153,
-      "name": "Boosts Skell potential by a percentage."
+      "name": "Boosts Doll potential by a percentage."
     },
     {
       "$id": 248,
@@ -1506,7 +1506,7 @@
       "$id": 249,
       "label": "ITM_SKL_IN_ECO_FUEL01_DL_OUTLINE",
       "style": 153,
-      "name": "Boosts fuel efficiency by a percentage\nwhen fighting in a Skell."
+      "name": "Boosts fuel efficiency by a percentage\nwhen fighting in a Doll."
     },
     {
       "$id": 250,
@@ -2070,37 +2070,37 @@
       "$id": 343,
       "label": "ITM_SKL_IN_GEAR_ST_HP01_OUTLINE",
       "style": 153,
-      "name": "Recovers HP by a percentage when activating\nOverdrive."
+      "name": "Recovers HP by a percentage when activating\nOverclock."
     },
     {
       "$id": 344,
       "label": "ITM_SKL_IN_GEAR_ST_TP01_OUTLINE",
       "style": 153,
-      "name": "Boosts TP when activating Overdrive."
+      "name": "Boosts TP when activating Overclock."
     },
     {
       "$id": 345,
       "label": "ITM_SKL_IN_GEAR_ST_CNT01_OUTLINE",
       "style": 153,
-      "name": "Boosts your Overdrive count when activating\nOverdrive."
+      "name": "Boosts your Overclock count when activating\nOverclock."
     },
     {
       "$id": 346,
       "label": "ITM_SKL_IN_GEAR_ST_TIME01_OUTLINE",
       "style": 153,
-      "name": "Extends Overdrive duration."
+      "name": "Extends Overclock duration."
     },
     {
       "$id": 347,
       "label": "ITM_SKL_IN_GEAR_RULE_FS01_OUTLINE",
       "style": 153,
-      "name": "Adds to your Overdrive count when using\na blue Art during Overdrive."
+      "name": "Adds to your Overclock count when using\na blue Art during Overclock."
     },
     {
       "$id": 348,
       "label": "ITM_SKL_IN_GEAR_RULE_SF01_OUTLINE",
       "style": 153,
-      "name": "Adds to your Overdrive count when using\na green Art during Overdrive."
+      "name": "Adds to your Overclock count when using\na green Art during Overclock."
     },
     {
       "$id": 349,
@@ -2304,7 +2304,7 @@
       "$id": 382,
       "label": "ITM_SKL_IN_SOUL_RT_GEAR01_OUTLINE",
       "style": 153,
-      "name": "Boosts chances of triggering the\n\"Activate Overdrive\" Soul Voice by a percentage."
+      "name": "Boosts chances of triggering the\n\"Activate Overclock\" Soul Voice by a percentage."
     },
     {
       "$id": 383,
