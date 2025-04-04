@@ -1,0 +1,255 @@
+{
+  "schema": [
+    {
+      "name": "<DBEA0DF4>",
+      "type": 9
+    },
+    {
+      "name": "<59512D9A>",
+      "type": 2
+    },
+    {
+      "name": "<F179E5C9>",
+      "type": 7
+    },
+    {
+      "name": "<FBB72FF3>",
+      "type": 7
+    },
+    {
+      "name": "<7CBBE236>",
+      "type": 2
+    },
+    {
+      "name": "<41A318B6>",
+      "type": 2
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "<DBEA0DF4>": "<1DE52263>",
+      "<59512D9A>": 1,
+      "<F179E5C9>": "cf/sky/sky_fine",
+      "<FBB72FF3>": "",
+      "<7CBBE236>": 1,
+      "<41A318B6>": 2093
+    },
+    {
+      "$id": 2,
+      "<DBEA0DF4>": "<84F4A207>",
+      "<59512D9A>": 2,
+      "<F179E5C9>": "cf/sky/sky_ssw",
+      "<FBB72FF3>": "cf/weather/sky_ssw",
+      "<7CBBE236>": 2,
+      "<41A318B6>": 2094
+    },
+    {
+      "$id": 3,
+      "<DBEA0DF4>": "<F55EE880>",
+      "<59512D9A>": 3,
+      "<F179E5C9>": "cf/sky/sky_cloud",
+      "<FBB72FF3>": "cf/weather/sky_cloud",
+      "<7CBBE236>": 3,
+      "<41A318B6>": 2095
+    },
+    {
+      "$id": 4,
+      "<DBEA0DF4>": "<827A3202>",
+      "<59512D9A>": 4,
+      "<F179E5C9>": "cf/sky/sky_fog",
+      "<FBB72FF3>": "cf/weather/sky_fog",
+      "<7CBBE236>": 4,
+      "<41A318B6>": 2096
+    },
+    {
+      "$id": 5,
+      "<DBEA0DF4>": "<602966D1>",
+      "<59512D9A>": 5,
+      "<F179E5C9>": "cf/sky/sky_rain",
+      "<FBB72FF3>": "cf/weather/sky_rain",
+      "<7CBBE236>": 5,
+      "<41A318B6>": 2097
+    },
+    {
+      "$id": 6,
+      "<DBEA0DF4>": "<C174E52A>",
+      "<59512D9A>": 6,
+      "<F179E5C9>": "cf/sky/sky_tnd",
+      "<FBB72FF3>": "",
+      "<7CBBE236>": 6,
+      "<41A318B6>": 2098
+    },
+    {
+      "$id": 7,
+      "<DBEA0DF4>": "<7E2D52EA>",
+      "<59512D9A>": 7,
+      "<F179E5C9>": "cf/sky/sky_hrain",
+      "<FBB72FF3>": "cf/weather/sky_hrain",
+      "<7CBBE236>": 7,
+      "<41A318B6>": 2099
+    },
+    {
+      "$id": 8,
+      "<DBEA0DF4>": "<18DF8CB2>",
+      "<59512D9A>": 8,
+      "<F179E5C9>": "cf/sky/sky_hwv",
+      "<FBB72FF3>": "cf/weather/sky_hwv",
+      "<7CBBE236>": 8,
+      "<41A318B6>": 2100
+    },
+    {
+      "$id": 9,
+      "<DBEA0DF4>": "<A641B96B>",
+      "<59512D9A>": 9,
+      "<F179E5C9>": "cf/sky/sky_sstm",
+      "<FBB72FF3>": "cf/weather/sky_sstm",
+      "<7CBBE236>": 9,
+      "<41A318B6>": 2101
+    },
+    {
+      "$id": 10,
+      "<DBEA0DF4>": "<41ECF72D>",
+      "<59512D9A>": 10,
+      "<F179E5C9>": "cf/sky/sky_tdr",
+      "<FBB72FF3>": "cf/weather/sky_tdr",
+      "<7CBBE236>": 10,
+      "<41A318B6>": 2102
+    },
+    {
+      "$id": 11,
+      "<DBEA0DF4>": "<BEFA47CE>",
+      "<59512D9A>": 11,
+      "<F179E5C9>": "cf/sky/sky_estm",
+      "<FBB72FF3>": "cf/weather/sky_estm",
+      "<7CBBE236>": 11,
+      "<41A318B6>": 2103
+    },
+    {
+      "$id": 12,
+      "<DBEA0DF4>": "<3FE980A0>",
+      "<59512D9A>": 12,
+      "<F179E5C9>": "cf/sky/sky_lpta",
+      "<FBB72FF3>": "cf/weather/sky_lpta",
+      "<7CBBE236>": 12,
+      "<41A318B6>": 2104
+    },
+    {
+      "$id": 13,
+      "<DBEA0DF4>": "<EBAC0D77>",
+      "<59512D9A>": 13,
+      "<F179E5C9>": "cf/sky/sky_lptb",
+      "<FBB72FF3>": "cf/weather/sky_lptb",
+      "<7CBBE236>": 13,
+      "<41A318B6>": 2105
+    },
+    {
+      "$id": 14,
+      "<DBEA0DF4>": "<6DDDC3D6>",
+      "<59512D9A>": 14,
+      "<F179E5C9>": "cf/sky/sky_frain",
+      "<FBB72FF3>": "cf/weather/sky_frain",
+      "<7CBBE236>": 14,
+      "<41A318B6>": 2106
+    },
+    {
+      "$id": 15,
+      "<DBEA0DF4>": "<FEFBBF48>",
+      "<59512D9A>": 15,
+      "<F179E5C9>": "cf/sky/sky_spr",
+      "<FBB72FF3>": "cf/weather/sky_spr",
+      "<7CBBE236>": 15,
+      "<41A318B6>": 2107
+    },
+    {
+      "$id": 16,
+      "<DBEA0DF4>": "<E7508816>",
+      "<59512D9A>": 16,
+      "<F179E5C9>": "cf/sky/sky_arr",
+      "<FBB72FF3>": "cf/weather/sky_arr",
+      "<7CBBE236>": 16,
+      "<41A318B6>": 2108
+    },
+    {
+      "$id": 17,
+      "<DBEA0DF4>": "<568FE894>",
+      "<59512D9A>": 17,
+      "<F179E5C9>": "cf/sky/sky_rarr",
+      "<FBB72FF3>": "cf/weather/sky_arr",
+      "<7CBBE236>": 17,
+      "<41A318B6>": 2109
+    },
+    {
+      "$id": 18,
+      "<DBEA0DF4>": "<AEB059E0>",
+      "<59512D9A>": 18,
+      "<F179E5C9>": "cf/sky/sky_mstm",
+      "<FBB72FF3>": "cf/weather/sky_mstm",
+      "<7CBBE236>": 18,
+      "<41A318B6>": 2110
+    },
+    {
+      "$id": 19,
+      "<DBEA0DF4>": "<FAC93827>",
+      "<59512D9A>": 19,
+      "<F179E5C9>": "cf/sky/sky_rnbw",
+      "<FBB72FF3>": "",
+      "<7CBBE236>": 19,
+      "<41A318B6>": 2111
+    },
+    {
+      "$id": 20,
+      "<DBEA0DF4>": "<62F30CAF>",
+      "<59512D9A>": 7,
+      "<F179E5C9>": "cf/sky/sky_raid",
+      "<FBB72FF3>": "cf/weather/sky_hrain",
+      "<7CBBE236>": 7,
+      "<41A318B6>": 2112
+    },
+    {
+      "$id": 21,
+      "<DBEA0DF4>": "<76CFBEA5>",
+      "<59512D9A>": 7,
+      "<F179E5C9>": "cf/sky/sky_sp01",
+      "<FBB72FF3>": "cf/weather/sky_hrain",
+      "<7CBBE236>": 5,
+      "<41A318B6>": 2113
+    },
+    {
+      "$id": 22,
+      "<DBEA0DF4>": "<FF1D9FDA>",
+      "<59512D9A>": 3,
+      "<F179E5C9>": "cf/sky/sky_fine",
+      "<FBB72FF3>": "",
+      "<7CBBE236>": 1,
+      "<41A318B6>": 2095
+    },
+    {
+      "$id": 23,
+      "<DBEA0DF4>": "<45C5CAB5>",
+      "<59512D9A>": 1,
+      "<F179E5C9>": "",
+      "<FBB72FF3>": "",
+      "<7CBBE236>": 1,
+      "<41A318B6>": 2093
+    },
+    {
+      "$id": 24,
+      "<DBEA0DF4>": "<0F33C54A>",
+      "<59512D9A>": 0,
+      "<F179E5C9>": "",
+      "<FBB72FF3>": "",
+      "<7CBBE236>": 0,
+      "<41A318B6>": 0
+    },
+    {
+      "$id": 25,
+      "<DBEA0DF4>": "<374422C6>",
+      "<59512D9A>": 0,
+      "<F179E5C9>": "",
+      "<FBB72FF3>": "",
+      "<7CBBE236>": 0,
+      "<41A318B6>": 0
+    }
+  ]
+}
