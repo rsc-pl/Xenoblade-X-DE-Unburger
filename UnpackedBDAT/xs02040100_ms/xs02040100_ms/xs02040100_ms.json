@@ -18,61 +18,61 @@
       "$id": 1,
       "label": "xs02040100_MSG0001",
       "style": 0,
-      "name": "Okay, the probe should be ready for insertion.\nI'll just boot it up.[ST:wait ]\n"
+      "name": "Data Probe attachment complete.\nBeginning start-up prep.[ST:wait ]"
     },
     {
       "$id": 2,
       "label": "xs02040100_MSG0002",
       "style": 0,
-      "name": "Thanks, Lin.[ST:wait ]\n"
+      "name": "Thank you, Lin.[ST:wait ]"
     },
     {
       "$id": 3,
       "label": "xs02040100_MSG0003",
       "style": 0,
-      "name": "The top half of the cylinder contains the probe itself.[ST:wait ]\n"
+      "name": "This cylindrical machine is the Data Probe.[ST:wait ]\n"
     },
     {
       "$id": 4,
       "label": "xs02040100_MSG0004",
       "style": 0,
-      "name": "The bottom half is a laser—it dissolves the soil\nso the probe can burrow to the proper depth.[ST:wait ]\n"
+      "name": "It's made to advance while dissolving the soil\nby irradiating a laser from its tip.[ST:wait ]"
     },
     {
       "$id": 5,
       "label": "xs02040100_MSG0005",
       "style": 0,
-      "name": "We tried just planting them on the surface at first,[ST:page p1=70 ]but we kept running into problems\nwith the local wildlife damaging the goods.[ST:wait ]\n"
+      "name": "At first, we installed them on the surface.\nBut destruction by native creatures occurred frequently.[ST:wait ]"
     },
     {
       "$id": 6,
       "label": "xs02040100_MSG0006",
       "style": 0,
-      "name": "Burying them is going to save us all\na lot of time and headaches in the long run.[ST:wait ]\n"
+      "name": "They were modified into the current design\nthat gets installed deep underground.[ST:wait ]"
     },
     {
       "$id": 7,
       "label": "xs02040100_MSG0007",
       "style": 0,
-      "name": "We all set?[ST:wait ]\n"
+      "name": "How is it?[ST:wait ]"
     },
     {
       "$id": 8,
       "label": "xs02040100_MSG0008",
       "style": 0,
-      "name": "Yes, ma'am. Whenever you're ready.[ST:wait ]\n"
+      "name": "Prep complete!\nReady when you are![ST:wait ]"
     },
     {
       "$id": 9,
       "label": "xs02040100_MSG0009",
       "style": 0,
-      "name": "Why don't you do the honors? You can launch it\nright from your comm device. Give it a try.[ST:wait ]\n"
+      "name": "The signal for installation is done from the [System:Ruby rt=Device ]terminal[/System:Ruby].\nTry doing it.[ST:wait ]\n"
     },
     {
       "$id": 10,
       "label": "xs02040100_JNK0010",
       "style": 4,
-      "name": "Launch"
+      "name": "Interest"
     },
     {
       "$id": 11,
@@ -90,25 +90,25 @@
       "$id": 13,
       "label": "xs02040100_SEL0021",
       "style": 3,
-      "name": "Suggest Lin should take care of it."
+      "name": "Look at Lin and ask her to do the installation"
     },
     {
       "$id": 14,
       "label": "xs02040100_MSG0010",
       "style": 0,
-      "name": "What? You want me to do it?![ST:wait ]\n"
+      "name": "Eh!? Me??[ST:wait ]"
     },
     {
       "$id": 15,
       "label": "xs02040100_MSG0011",
       "style": 0,
-      "name": "Now, now. There's nothing to it, trust me. It's easy.[ST:wait ]\n"
+      "name": "No way!\nThen it wouldn't be training, would it?[ST:wait ]\n"
     },
     {
       "$id": 16,
       "label": "xs02040100_MSG0012",
       "style": 0,
-      "name": "And besides, this is supposed to be\nYOUR training mission, remember?[ST:wait ]\n"
+      "name": "There's nothing scary about it at all,\nso just push the button![ST:wait ]"
     },
     {
       "$id": 17,
@@ -120,7 +120,7 @@
       "$id": 18,
       "label": "xs02040100_SEL0027",
       "style": 3,
-      "name": "Nod and launch the probe."
+      "name": "Nod and operate the terminal."
     },
     {
       "$id": 19,
@@ -132,91 +132,91 @@
       "$id": 20,
       "label": "xs02040100_SEL0022",
       "style": 3,
-      "name": "Remind Elma you've never done this before."
+      "name": "Look at Elma and shake head."
     },
     {
       "$id": 21,
       "label": "xs02040100_MSG0013",
       "style": 0,
-      "name": "Which is exactly why we're here. You're going to have plenty\nof firsts as you become a BLADE—you'd best get used to it.[ST:wait ]\n"
+      "name": "You're already a member of BLADE.\nHow are you going to manage if you get scared by something like this?[ST:wait"
     },
     {
       "$id": 22,
       "label": "xs02040100_JNK0030",
       "style": 4,
-      "name": "Step Up"
+      "name": "Decision"
     },
     {
       "$id": 23,
       "label": "xs02040100_SEL0031",
       "style": 3,
-      "name": "Put aside your fears and launch the probe."
+      "name": "Make up your mind and operate the terminal."
     },
     {
       "$id": 24,
       "label": "xs02040100_JNK0032",
       "style": 4,
-      "name": "Take Charge"
+      "name": "Determination"
     },
     {
       "$id": 25,
       "label": "xs02040100_SEL0033",
       "style": 3,
-      "name": "Show your worth and launch the probe."
+      "name": "With renewed resolve, operate the terminal."
     },
     {
       "$id": 26,
       "label": "xs02040100_MSG0014",
       "style": 0,
-      "name": "Good, now we just need to give it a minute\nto reach the target depth.[ST:wait ]\n"
+      "name": "Now we just wait for it to reach the target depth.[ST:wait ]"
     },
     {
       "$id": 27,
       "label": "xs02040100_MSG0015",
       "style": 0,
-      "name": "Aaand installation complete.[ST:wait ]\n"
+      "name": "Data Probe activation confirmed.[ST:wait ]"
     },
     {
       "$id": 28,
       "label": "xs02040100_MSG0016",
       "style": 0,
-      "name": "We are now online with a solid connection to FrontierNET.[ST:wait ]\n"
+      "name": "Connection to FrontierNet\nis proceeding normally, too.[ST:wait ]"
     },
     {
       "$id": 29,
       "label": "xs02040100_MSG0017",
       "style": 0,
-      "name": "Excellent. See? At the end of the day,\nthere's really not much to it.[ST:wait ]\n"
+      "name": "Hmm, well done.\nRemember how you did that.[ST:wait ]"
     },
     {
       "$id": 30,
       "label": "xs02040100_MSG0018",
       "style": 0,
-      "name": "The hardest part was calculating the ideal probe locations.\nWe need them spread out evenly to maximize data collection.[ST:wait ]\n"
+      "name": "FrontierNet Spots are designated to collect information efficiently at fixed intervals.[ST:wait ]"
     },
     {
       "$id": 31,
       "label": "xs02040100_MSG0019",
       "style": 0,
-      "name": "Yup, planting probes is easy.[ST:wait ]\n"
+      "name": "In order to discover the Life Point[ST:wide ]―[ST:wait ]"
     },
     {
       "$id": 32,
       "label": "xs02040100_MSG0020",
       "style": 0,
-      "name": "And the more we plant,\nthe more likely we are to find missing crew,[ST:wait ]\n"
+      "name": "we need to install Data Probes\nover a wide area.[ST:wait ]"
     },
     {
       "$id": 33,
       "label": "xs02040100_MSG0021",
       "style": 0,
-      "name": "so anytime you see a probe site, \nthere's no excuse not to plant that sucker.[ST:wait ]\n"
+      "name": "When you find FrontierNet Spots,\nkeep installing probes![ST:wait ]"
     },
     {
       "$id": 34,
       "label": "xs02040100_MSG0026",
       "style": 0,
-      "name": "That'll do it for your training.\nLet's head back to the barracks and report to Secretary Nagi.[ST:wait ]\n"
+      "name": "That's it for the training.\nLet's head back to the BLADE Home and report to Nagi.[ST:wait ]\n"
     }
   ]
 }
