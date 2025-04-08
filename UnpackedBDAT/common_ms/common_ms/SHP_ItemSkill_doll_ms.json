@@ -1272,7 +1272,7 @@
       "$id": 210,
       "label": "ITM_SKL_DL_ANTI_TH01_P_OUTLINE",
       "style": 153,
-      "name": "Boosts Doll electric resistance."
+      "name": "Boosts Doll bolt resistance."
     },
     {
       "$id": 211,
@@ -1464,13 +1464,13 @@
       "$id": 242,
       "label": "ITM_SKL_DL_REG_FR_DN01_OUTLINE",
       "style": 153,
-      "name": "Boosts Doll resistance to Thermal Res Down."
+      "name": "Boosts Doll resistance to Heat Res Down."
     },
     {
       "$id": 243,
       "label": "ITM_SKL_DL_REG_TH_DN01_OUTLINE",
       "style": 153,
-      "name": "Boosts Doll resistance to Electric Res Down."
+      "name": "Boosts Doll resistance to Bolt Res Down."
     },
     {
       "$id": 244,
@@ -1638,7 +1638,7 @@
       "$id": 271,
       "label": "ITM_SKL_DL_ATK_TH01_OUTLINE",
       "style": 153,
-      "name": "Boosts Doll electric damage by a percentage."
+      "name": "Boosts Doll bolt damage by a percentage."
     },
     {
       "$id": 272,
@@ -1704,13 +1704,13 @@
       "$id": 282,
       "label": "ITM_SKL_DL_F_AT_FR_DN01_OUTLINE",
       "style": 153,
-      "name": "Grants a chance of inflicting Thermal Res Down\nwhen melee auto-attacking with your Doll."
+      "name": "Grants a chance of inflicting Heat Res Down\nwhen melee auto-attacking with your Doll."
     },
     {
       "$id": 283,
       "label": "ITM_SKL_DL_F_AT_TH_DN01_OUTLINE",
       "style": 153,
-      "name": "Grants a chance of inflicting Electric Res Down\nwhen melee auto-attacking with your Doll."
+      "name": "Grants a chance of inflicting Bolt Res Down\nwhen melee auto-attacking with your Doll."
     },
     {
       "$id": 284,
@@ -1806,7 +1806,7 @@
       "$id": 299,
       "label": "ITM_SKL_DL_REF_ATK_TH01_OUTLINE",
       "style": 153,
-      "name": "Grants a chance of negating enemy\nreflection of Doll electric attacks."
+      "name": "Grants a chance of negating enemy\nreflection of Doll bolt attacks."
     },
     {
       "$id": 300,
@@ -1914,13 +1914,13 @@
       "$id": 317,
       "label": "ITM_SKL_DL_TIME_EX_FRDN01_OUTLINE",
       "style": 153,
-      "name": "Extends Thermal Res Down effects inflicted\nby your Arts."
+      "name": "Extends Heat Res Down effects inflicted\nby your Arts."
     },
     {
       "$id": 318,
       "label": "ITM_SKL_DL_TIME_EX_THDN01_OUTLINE",
       "style": 153,
-      "name": "Extends Electric Res Down effects inflicted\nby your Arts."
+      "name": "Extends Bolt Res Down effects inflicted\nby your Arts."
     },
     {
       "$id": 319,

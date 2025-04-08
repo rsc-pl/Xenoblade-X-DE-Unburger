@@ -18,115 +18,115 @@
       "$id": 1,
       "label": "xs05140100_MSG0001",
       "style": 0,
-      "name": "Welcome back.[ST:wait ]\n"
+      "name": "Looks like you're awake.[ST:wait ]"
     },
     {
       "$id": 2,
       "label": "xs05140100_MSG0002",
       "style": 0,
-      "name": "So...how's that new left arm feeling?[ST:wait ]\n"
+      "name": "How's the new left arm feeling?[ST:wait ]"
     },
     {
       "$id": 3,
       "label": "xs05140100_JNK0010",
       "style": 4,
-      "name": "Reassure"
+      "name": "Good"
     },
     {
       "$id": 4,
       "label": "xs05140100_SEL0011",
       "style": 3,
-      "name": "Check your arm and nod approvingly."
+      "name": "Check left arm and nod."
     },
     {
       "$id": 5,
       "label": "xs05140100_JNK0020",
       "style": 4,
-      "name": "Worry"
+      "name": "Bad"
     },
     {
       "$id": 6,
       "label": "xs05140100_SEL0021",
       "style": 3,
-      "name": "Check your arm and shake your head."
+      "name": "Look at left arm and tilt head doubtfully."
     },
     {
       "$id": 7,
       "label": "xs05140100_MSG0003",
       "style": 0,
-      "name": "Man, what a relief.[ST:wait ]\n"
+      "name": "That's gooood~[ST:wait ]\n"
     },
     {
       "$id": 8,
       "label": "xs05140100_MSG0004",
       "style": 0,
-      "name": "You're lucky Lin was with us.[ST:wait ]\n"
+      "name": "All thanks to Lin acting quickly.[ST:wait ]"
     },
     {
       "$id": 9,
       "label": "xs05140100_MSG0005",
       "style": 0,
-      "name": "If she hadn't acted as fast as she did, you might have\nbled out entirely. We could have lost your whole unit.[ST:wait ]\n"
+      "name": "All the biocirculatory fluid would have leaked out,\nand regeneration wouldn't have been possible if not her.[ST:wait ]"
     },
     {
       "$id": 10,
       "label": "xs05140100_MSG0006",
       "style": 0,
-      "name": "Aw, it was nothing...[ST:wait ]\n"
+      "name": ""
     },
     {
       "$id": 11,
       "label": "xs05140100_MSG0007",
       "style": 0,
-      "name": "Hmm... That's strange.\nThe analytical scans didn't pick up any major problems.[ST:wait ]\n"
+      "name": "Hmm, the analysis results\ndidn't show any particular problems, but...[ST:wait ]"
     },
     {
       "$id": 12,
       "label": "xs05140100_MSG0008",
       "style": 0,
-      "name": "We know your fluids are circulating properly,\nand it looks like you can definitely control your fingers.[ST:wait ]\n"
+      "name": "Can't confirm any fluid leakage from the joint, and\nsince the fingertips are moving fine...[ST:wait ]"
     },
     {
       "$id": 13,
       "label": "xs05140100_MSG0009",
       "style": 0,
-      "name": "You SHOULD be back to normal...[ST:wait ]\n"
+      "name": "Doesn't seem like there are any problems, but...[ST:wide ]―[ST:wait ]\n"
     },
     {
       "$id": 14,
       "label": "xs05140100_MSG0010",
       "style": 0,
-      "name": "If Lin says the scans check out, I'm sure it'll be fine.\nIt can take some time to re-adjust.[ST:wait ]\n"
+      "name": "Lin's treatment was perfect.\nAnd if the analysis results show no problems either[ST:wide ]―[ST:wait ]"
     },
     {
       "$id": 15,
       "label": "xs05140100_MSG0011",
       "style": 0,
-      "name": "It's kind of like phantom limb syndrome, just in reverse.[ST:wait ]\n"
+      "name": "Isn't it just that the sync between the body and the arm\nis still low?[ST:wait ]"
     },
     {
       "$id": 16,
       "label": "xs05140100_MSG0012",
       "style": 0,
-      "name": "That must be it.[ST:wait ]\n"
+      "name": "Probably.[ST:wait ]"
     },
     {
       "$id": 17,
       "label": "xs05140100_MSG0013",
       "style": 0,
-      "name": "You DID just have the operation...\nSadly, there's nothing I can do to speed up the sync process.[ST:wait ]\n"
+      "name": "Not much time has passed since your operation.\nSadly, there's nothing I can do to speed up the sync process.[ST:wait ]\n"
     },
     {
       "$id": 18,
       "label": "xs05140100_MSG0014",
       "style": 0,
-      "name": "Just give it a little time—you'll see.[ST:wait ]\n"
+      "name": "I think it'll be fine after a while.[ST:wait ]\n"
     },
     {
       "$id": 19,
       "label": "xs05140100_MSG0015",
       "style": 0,
-      "name": "Before we go any further, I wanted to apologize.[ST:wait ]\n"
+      "name": "First, I have to apologize\nto you.[ST:wait ]"
     },
     {
       "$id": 20,
@@ -138,61 +138,61 @@
       "$id": 21,
       "label": "xs05140100_MSG0017",
       "style": 0,
-      "name": "As you've probably noticed, the body you're inhabiting\nis artificial. We call them \"Blue Bloods.\"[ST:wait ]\n\n"
+      "name": "As you've probably noticed, the body you're inhabiting\nis artificial. We call them \"Blue Bloods.\"[ST:wait ]\n"
     },
     {
       "$id": 22,
       "label": "xs05140100_MSG0018",
       "style": 0,
-      "name": "\"B.B.,\" for short.[ST:wait ]\n"
+      "name": "Sorry.[ST:wait ]"
     },
     {
       "$id": 23,
       "label": "xs05140100_MSG0019",
       "style": 0,
-      "name": "Blue Bloods are designed to mimic\nhuman physiology as much as possible.[ST:wait ]\n"
+      "name": "B.Bs. are designed to mimic\nhuman physiology as much as possible[ST:wait ]\n"
     },
     {
       "$id": 24,
       "label": "xs05140100_MSG0020",
       "style": 0,
-      "name": "The whole point is for us to forget about them.[ST:wait ]\n"
+      "name": "so that in daily life\nwe don't consciously think about that,[ST:wait ]\n"
     },
     {
       "$id": 25,
       "label": "xs05140100_MSG0021",
       "style": 0,
-      "name": "That way we can still enjoy the things we love—like cooking![ST:wait ]\n"
+      "name": "That's why I can enjoy cooking, too.[ST:wait ]"
     },
     {
       "$id": 26,
       "label": "xs05140100_MSG0022",
       "style": 0,
-      "name": "We're all like this—every single crew member\nthat escaped on the White Whale.[ST:wait ]\n"
+      "name": "The crew piloting and maintaining\nthe giant emigration ship[ST:wait ]"
     },
     {
       "$id": 27,
       "label": "xs05140100_MSG0023",
       "style": 0,
-      "name": "All of us are B.B..[ST:wait ]\n"
+      "name": "All of them are B.Bs.\n"
     },
     {
       "$id": 28,
       "label": "xs05140100_MSG0024",
       "style": 0,
-      "name": "But why would friends all become robots?[ST:wait ]\n"
+      "name": "But why did you need to become B.Bs.\n, meh?[ST:wait ]\n"
     },
     {
       "$id": 29,
       "label": "xs05140100_MSG0025",
       "style": 0,
-      "name": "Well, just think about it:[ST:wait ]\n"
+      "name": "It obvious![ST:wait ]"
     },
     {
       "$id": 30,
       "label": "xs05140100_MSG0026",
       "style": 0,
-      "name": "It could've taken decades to find a new planet to call home...\nor even centuries. We had no idea.[ST:wait ]\n"
+      "name": "We didn't know if it would take decades or centuries\nto find a habitable planet.[ST:wait ]"
     },
     {
       "$id": 31,
@@ -204,97 +204,97 @@
       "$id": 32,
       "label": "xs05140100_MSG0028",
       "style": 0,
-      "name": "Mmm... Tatsu see Lin-san point.[ST:wait ]\n"
+      "name": "I see. So that's how it is, meh.[ST:wait ]"
     },
     {
       "$id": 33,
       "label": "xs05140100_MSG0029",
       "style": 0,
-      "name": "Our actual bodies are waiting in the Lifepoint,\nin stasis with all the human passengers.[ST:wait ]\n"
+      "name": "Our real bodies\nare sleeping in the Life Point, just like everyone else.[ST:wait ]"
     },
     {
       "$id": 34,
       "label": "xs05140100_MSG0030",
       "style": 0,
-      "name": "We control our Blue Bloods remotely from there.[ST:wait ]\n"
+      "name": "We control our B.Bs. remotely from there.[ST:wait ]\n"
     },
     {
       "$id": 35,
       "label": "xs05140100_MSG0031",
       "style": 0,
-      "name": "So you see?[ST:wait ]\n"
+      "name": "So don't forget.[ST:wait ]"
     },
     {
       "$id": 36,
       "label": "xs05140100_MSG0032",
       "style": 0,
-      "name": "That's why it's so important for us to find and protect\nthe Lifepoint. Our lives are on the line here, too.[ST:wait ]\n"
+      "name": "Finding and securing the Life Points\nalso means securing our own lives.[ST:wait ]"
     },
     {
       "$id": 37,
       "label": "xs05140100_MSG0033",
       "style": 0,
-      "name": "If the Lifepoint were to stop functioning\nfor any reason while we're still there in stasis...[ST:wait ]\n"
+      "name": "If the Life Points where our real bodies are in cryosleep\nceases to function...[ST:wait ]\n"
     },
     {
       "$id": 38,
       "label": "xs05140100_MSG0034",
       "style": 0,
-      "name": "...Everyone, including every B.B. in New LA,\nwould drop dead on the spot.[ST:wait ]\n"
+      "name": "...Everyone, including every B.B. in NLA,\nwould drop dead on the spot.[ST:wait ]\n"
     },
     {
       "$id": 39,
       "label": "xs05140100_MSG0035",
       "style": 0,
-      "name": "That reminds me—something else you should know:[ST:wait ]\n"
+      "name": "And there's one more thing I should warn you about.[ST:wait ]"
     },
     {
       "$id": 40,
       "label": "xs05140100_MSG0036",
       "style": 0,
-      "name": "It's possible for us to switch to another Blue Blood\nif these bodies fail or become too badly damaged.[ST:wait ]\n"
+      "name": "Even if we lose our current bodies, we can get a new\nB.B. and become functioning again.[ST:wait ]\n"
     },
     {
       "$id": 41,
       "label": "xs05140100_MSG0037",
       "style": 0,
-      "name": "But the process requires equipment from the Central Life,\nthe central unit of the whole operation.[ST:wait ]\n"
+      "name": "But that reconfiguration can only be done\nat the Life's core[ST:wide ]― the Central Life.[ST:wait ]\n"
     },
     {
       "$id": 42,
       "label": "xs05140100_MSG0038",
       "style": 0,
-      "name": "Meh-meh! So what if Growth or big beastie\nsmash friends' robot B.B.?[ST:wait ]\n"
+      "name": "Mehmeh! Then if you're taken out by Growth or native creatures\nand lose your B.B.[ST:wide ]―[ST:wait ]\n"
     },
     {
       "$id": 43,
       "label": "xs05140100_MSG0039",
       "style": 0,
-      "name": "We wouldn't be able to come back yet.[ST:wait ]\n"
+      "name": "You can't come back right away.[ST:wait ]"
     },
     {
       "$id": 44,
       "label": "xs05140100_MSG0040",
       "style": 0,
-      "name": "For now, we need to consider these B.B.\nas precious as we would our real, actual bodies.[ST:wait ]\n"
+      "name": "For now, I want you to treat it as if it's your only life\nand act cautiously.[ST:wait ]"
     },
     {
       "$id": 45,
       "label": "xs05140100_MSG0041",
       "style": 0,
-      "name": "Don't get reckless out there just 'cause you're in a Blue Blood.\nThat's an order, you hear?[ST:wait ]\n"
+      "name": "Don't treat it roughly, just because it's a B.B.\nThat's a request from your team leader.[ST:wait ]\n"
     },
     {
       "$id": 46,
       "label": "xs05140100_MSG0042",
       "style": 0,
-      "name": "One last thing...and I need to trust you all to keep this quiet.[ST:wait ]\n"
+      "name": "There's one more I need to tell you.[ST:wait ]"
     },
     {
       "$id": 47,
       "label": "xs05140100_MSG0043",
       "style": 0,
-      "name": "It's sensitive info, so HQ has only been telling team leaders\nabout it. We can't have a panic on our hands.[ST:wait ]\n"
+      "name": "To prevent confusion, it's a fact kept hidden\nfrom everyone except BLADE team leaders.[ST:wait ]"
     },
     {
       "$id": 48,
@@ -306,49 +306,49 @@
       "$id": 49,
       "label": "xs05140100_MSG0045",
       "style": 0,
-      "name": "The readout on BLADE Tower... You've seen it?[ST:wait ]\n"
+      "name": "Have you seen the clock on BLADE Tower?[ST:wait ]"
     },
     {
       "$id": 50,
       "label": "xs05140100_MSG0046",
       "style": 0,
-      "name": "It's not some kind of special clock or anything like that.\nIt's a countdown.[ST:wait ]\n"
+      "name": "That clock\nis displaying a countdown.[ST:wait ]"
     },
     {
       "$id": 51,
       "label": "xs05140100_MSG0047",
       "style": 0,
-      "name": "Big number counts down to what?[ST:wait ]\n"
+      "name": "What kind of countdown, meh?[ST:wait ]\n"
     },
     {
       "$id": 52,
       "label": "xs05140100_MSG0048",
       "style": 0,
-      "name": "The Lifepoint shutting down.[ST:wait ]\n"
+      "name": "The Life Point's operational limit.[ST:wait ]"
     },
     {
       "$id": 53,
       "label": "xs05140100_MSG0049",
       "style": 0,
-      "name": "What?![ST:wait ]\n"
+      "name": "[ST:undisp ][ST:wait ]"
     },
     {
       "$id": 54,
       "label": "xs05140100_MSG0050",
       "style": 0,
-      "name": "The Lifepoint lost its power source when we lost the\nWhite Whale. It's been running on backup ever since.[ST:wait ]\n"
+      "name": "The Life Point, separated from the White Whale's main power core,\nwill reach its operational limit soon.[ST:wait ]"
     },
     {
       "$id": 55,
       "label": "xs05140100_MSG0051",
       "style": 0,
-      "name": "We need to locate the Lifepoint AND get a power source\nin place by the time that percentage reaches zero.[ST:wait ]\n"
+      "name": "We absolutely must find it before then\nand secure a new power source.[ST:wait ]"
     },
     {
       "$id": 56,
       "label": "xs05140100_MSG0052",
       "style": 0,
-      "name": "And...if we don't?[ST:wait ]\n"
+      "name": "And if we can't find it...?[ST:wait ]\n"
     },
     {
       "$id": 57,
@@ -360,43 +360,43 @@
       "$id": 58,
       "label": "xs05140100_MSG0054",
       "style": 0,
-      "name": "We'll die.[ST:wait ]\n"
+      "name": "In other words[ST:wide ]―[ST:wait ]"
     },
     {
       "$id": 59,
       "label": "xs05140100_MSG0055",
       "style": 0,
-      "name": "Not just die, Lin. Die out.[ST:wait ]\n"
+      "name": "A world of eternal darkness... death comes[ST:wide ]―[ST:wait ]"
     },
     {
       "$id": 60,
       "label": "xs05140100_MSG0056",
       "style": 0,
-      "name": "It would mean the end of the human race as we know it. \nThe end of everything.[ST:wait ]\n"
+      "name": "To every Earthling, equally, without exception.[ST:wait ]"
     },
     {
       "$id": 61,
       "label": "xs05140100_MSG0057",
       "style": 0,
-      "name": "Well, on that cheerful note...[ST:wait ]\n"
+      "name": "Elma-san, what now?[ST:wait ]"
     },
     {
       "$id": 62,
       "label": "xs05140100_MSG0058",
       "style": 0,
-      "name": "Okay, Rook.[ST:wait ]\n"
+      "name": "Your condition[ST:wide ]―[ST:wait ]"
     },
     {
       "$id": 63,
       "label": "xs05140100_MSG0058_2",
       "style": 0,
-      "name": "You good to go?[ST:wait ]\n"
+      "name": "seems alright.[ST:wait ]"
     },
     {
       "$id": 64,
       "label": "xs05140100_MSG0059",
       "style": 0,
-      "name": "Then let's report back to HQ.\nI'm sure the Commander will want to hear about this himself.[ST:wait ]\n"
+      "name": "Let's go to BLADE Tower.\nWe need to report the mission to Commander Vandham.[ST:wait ]"
     },
     {
       "$id": 65,
@@ -408,7 +408,7 @@
       "$id": 66,
       "label": "xs05140100_MSG9000",
       "style": 0,
-      "name": "—Blue Blood Maintenance Center—[ST:wait ]\n"
+      "name": "[ST:wide ]―B.B. Maintenance Center [ST:wide ]―[ST:wait ]\n"
     }
   ]
 }
