@@ -1584,13 +1584,13 @@
       "$id": 262,
       "label": "CLASS_LONGLANCER_SKL02_LEV1_CAP",
       "style": 148,
-      "name": "Boosts electric resistance by <<enp2>>\nwhen wielding a melee weapon."
+      "name": "Boosts bolt resistance by <<enp2>>\nwhen wielding a melee weapon."
     },
     {
       "$id": 263,
       "label": "CLASS_LONGLANCER_SKL03_LEV1_CAP",
       "style": 148,
-      "name": "Boosts electric damage by +<<enp1>>%."
+      "name": "Boosts bolt damage by +<<enp1>>%."
     },
     {
       "$id": 264,
@@ -1860,13 +1860,13 @@
       "$id": 308,
       "label": "CLASS_CRUSEIDER_SKL04_LEV1_CAP",
       "style": 148,
-      "name": "Boosts electric damage by +<<enp1>>%\nto enemies inflicted with Shock."
+      "name": "Boosts bolt damage by +<<enp1>>%\nto enemies inflicted with Shock."
     },
     {
       "$id": 309,
       "label": "CLASS_CRUSEIDER_SKL05_LEV1_CAP",
       "style": 148,
-      "name": "Grants a <<enp0>>% chance of dealing\nelectric spike damage when\ntaking a hit."
+      "name": "Grants a <<enp0>>% chance of dealing\nbolt spike damage when\ntaking a hit."
     },
     {
       "$id": 310,
@@ -2142,7 +2142,7 @@
       "$id": 355,
       "label": "ITM_SKL_IN_ANTI_TH01_P_CAP",
       "style": 148,
-      "name": "Boosts electric resistance by <<enp2>>."
+      "name": "Boosts bolt resistance by <<enp2>>."
     },
     {
       "$id": 356,
@@ -2304,13 +2304,13 @@
       "$id": 382,
       "label": "ITM_SKL_IN_REG_FR_DN01_CAP",
       "style": 148,
-      "name": "Boosts resistance to Thermal Res Down\nby <<enp2>>."
+      "name": "Boosts resistance to Heat Res Down\nby <<enp2>>."
     },
     {
       "$id": 383,
       "label": "ITM_SKL_IN_REG_TH_DN01_CAP",
       "style": 148,
-      "name": "Boosts resistance to Electric Res Down\nby <<enp2>>."
+      "name": "Boosts resistance to Bolt Res Down\nby <<enp2>>."
     },
     {
       "$id": 384,
@@ -2484,7 +2484,7 @@
       "$id": 412,
       "label": "ITM_SKL_IN_ATK_TH01_CAP",
       "style": 148,
-      "name": "Boosts electric damage\nby +<<enp1>>%."
+      "name": "Boosts bolt damage\nby +<<enp1>>%."
     },
     {
       "$id": 413,
@@ -3120,241 +3120,241 @@
       "$id": 518,
       "label": "ITM_SKL_IN_F_AT_FR_DN01_CAP",
       "style": 148,
-      "name": "Grants a very low chance of inflicting\nThermal Res Down I when\nmelee auto-attacking."
+      "name": "Grants a very low chance of inflicting\nHeat Res Down I when\nmelee auto-attacking."
     },
     {
       "$id": 519,
       "label": "ITM_SKL_IN_F_AT_FR_DN012_CAP",
       "style": 148,
-      "name": "Grants a low chance of inflicting\nThermal Res Down I when\nmelee auto-attacking."
+      "name": "Grants a low chance of inflicting\nHeat Res Down I when\nmelee auto-attacking."
     },
     {
       "$id": 520,
       "label": "ITM_SKL_IN_F_AT_FR_DN013_CAP",
       "style": 148,
-      "name": "Grants a chance of inflicting\nThermal Res Down I when\nmelee auto-attacking."
+      "name": "Grants a chance of inflicting\nHeat Res Down I when\nmelee auto-attacking."
     },
     {
       "$id": 521,
       "label": "ITM_SKL_IN_F_AT_FR_DN014_CAP",
       "style": 148,
-      "name": "Grants a high chance of inflicting\nThermal Res Down I when\nmelee auto-attacking."
+      "name": "Grants a high chance of inflicting\nHeat Res Down I when\nmelee auto-attacking."
     },
     {
       "$id": 522,
       "label": "ITM_SKL_IN_F_AT_FR_DN015_CAP",
       "style": 148,
-      "name": "Grants a very high chance of inflicting\nThermal Res Down I when\nmelee auto-attacking."
+      "name": "Grants a very high chance of inflicting\nHeat Res Down I when\nmelee auto-attacking."
     },
     {
       "$id": 523,
       "label": "ITM_SKL_IN_F_AT_FR_DN06_CAP",
       "style": 148,
-      "name": "Grants a very low chance of inflicting\nThermal Res Down II when\nmelee auto-attacking."
+      "name": "Grants a very low chance of inflicting\nHeat Res Down II when\nmelee auto-attacking."
     },
     {
       "$id": 524,
       "label": "ITM_SKL_IN_F_AT_FR_DN062_CAP",
       "style": 148,
-      "name": "Grants a low chance of inflicting\nThermal Res Down II when\nmelee auto-attacking."
+      "name": "Grants a low chance of inflicting\nHeat Res Down II when\nmelee auto-attacking."
     },
     {
       "$id": 525,
       "label": "ITM_SKL_IN_F_AT_FR_DN063_CAP",
       "style": 148,
-      "name": "Grants a chance of inflicting\nThermal Res Down II when\nmelee auto-attacking."
+      "name": "Grants a chance of inflicting\nHeat Res Down II when\nmelee auto-attacking."
     },
     {
       "$id": 526,
       "label": "ITM_SKL_IN_F_AT_FR_DN064_CAP",
       "style": 148,
-      "name": "Grants a high chance of inflicting\nThermal Res Down II when\nmelee auto-attacking."
+      "name": "Grants a high chance of inflicting\nHeat Res Down II when\nmelee auto-attacking."
     },
     {
       "$id": 527,
       "label": "ITM_SKL_IN_F_AT_FR_DN065_CAP",
       "style": 148,
-      "name": "Grants a very high chance of inflicting\nThermal Res Down II when\nmelee auto-attacking."
+      "name": "Grants a very high chance of inflicting\nHeat Res Down II when\nmelee auto-attacking."
     },
     {
       "$id": 528,
       "label": "ITM_SKL_IN_F_AT_FR_DN11_CAP",
       "style": 148,
-      "name": "Grants a very low chance of inflicting\nThermal Res Down III when\nmelee auto-attacking."
+      "name": "Grants a very low chance of inflicting\nHeat Res Down III when\nmelee auto-attacking."
     },
     {
       "$id": 529,
       "label": "ITM_SKL_IN_F_AT_FR_DN112_CAP",
       "style": 148,
-      "name": "Grants a low chance of inflicting\nThermal Res Down III when\nmelee auto-attacking."
+      "name": "Grants a low chance of inflicting\nHeat Res Down III when\nmelee auto-attacking."
     },
     {
       "$id": 530,
       "label": "ITM_SKL_IN_F_AT_FR_DN113_CAP",
       "style": 148,
-      "name": "Grants a chance of inflicting\nThermal Res Down III when\nmelee auto-attacking."
+      "name": "Grants a chance of inflicting\nHeat Res Down III when\nmelee auto-attacking."
     },
     {
       "$id": 531,
       "label": "ITM_SKL_IN_F_AT_FR_DN114_CAP",
       "style": 148,
-      "name": "Grants a high chance of inflicting\nThermal Res Down III when\nmelee auto-attacking."
+      "name": "Grants a high chance of inflicting\nHeat Res Down III when\nmelee auto-attacking."
     },
     {
       "$id": 532,
       "label": "ITM_SKL_IN_F_AT_FR_DN115_CAP",
       "style": 148,
-      "name": "Grants a very high chance of inflicting\nThermal Res Down III when\nmelee auto-attacking."
+      "name": "Grants a very high chance of inflicting\nHeat Res Down III when\nmelee auto-attacking."
     },
     {
       "$id": 533,
       "label": "ITM_SKL_IN_F_AT_FR_DN16_CAP",
       "style": 148,
-      "name": "Grants a very low chance of inflicting\nThermal Res Down IV when\nmelee auto-attacking."
+      "name": "Grants a very low chance of inflicting\nHeat Res Down IV when\nmelee auto-attacking."
     },
     {
       "$id": 534,
       "label": "ITM_SKL_IN_F_AT_FR_DN162_CAP",
       "style": 148,
-      "name": "Grants a low chance of inflicting\nThermal Res Down IV when\nmelee auto-attacking."
+      "name": "Grants a low chance of inflicting\nHeat Res Down IV when\nmelee auto-attacking."
     },
     {
       "$id": 535,
       "label": "ITM_SKL_IN_F_AT_FR_DN163_CAP",
       "style": 148,
-      "name": "Grants a chance of inflicting\nThermal Res Down IV when\nmelee auto-attacking."
+      "name": "Grants a chance of inflicting\nHeat Res Down IV when\nmelee auto-attacking."
     },
     {
       "$id": 536,
       "label": "ITM_SKL_IN_F_AT_FR_DN164_CAP",
       "style": 148,
-      "name": "Grants a high chance of inflicting\nThermal Res Down IV when\nmelee auto-attacking."
+      "name": "Grants a high chance of inflicting\nHeat Res Down IV when\nmelee auto-attacking."
     },
     {
       "$id": 537,
       "label": "ITM_SKL_IN_F_AT_FR_DN165_CAP",
       "style": 148,
-      "name": "Grants a very high chance of inflicting\nThermal Res Down IV when\nmelee auto-attacking."
+      "name": "Grants a very high chance of inflicting\nHeat Res Down IV when\nmelee auto-attacking."
     },
     {
       "$id": 538,
       "label": "ITM_SKL_IN_F_AT_TH_DN01_CAP",
       "style": 148,
-      "name": "Grants a very low chance of inflicting\nElectric Res Down I when\nmelee auto-attacking."
+      "name": "Grants a very low chance of inflicting\nBolt Res Down I when\nmelee auto-attacking."
     },
     {
       "$id": 539,
       "label": "ITM_SKL_IN_F_AT_TH_DN012_CAP",
       "style": 148,
-      "name": "Grants a low chance of inflicting\nElectric Res Down I when\nmelee auto-attacking."
+      "name": "Grants a low chance of inflicting\nBolt Res Down I when\nmelee auto-attacking."
     },
     {
       "$id": 540,
       "label": "ITM_SKL_IN_F_AT_TH_DN013_CAP",
       "style": 148,
-      "name": "Grants a chance of inflicting\nElectric Res Down I when\nmelee auto-attacking."
+      "name": "Grants a chance of inflicting\nBolt Res Down I when\nmelee auto-attacking."
     },
     {
       "$id": 541,
       "label": "ITM_SKL_IN_F_AT_TH_DN014_CAP",
       "style": 148,
-      "name": "Grants a high chance of inflicting\nElectric Res Down I when\nmelee auto-attacking."
+      "name": "Grants a high chance of inflicting\nBolt Res Down I when\nmelee auto-attacking."
     },
     {
       "$id": 542,
       "label": "ITM_SKL_IN_F_AT_TH_DN015_CAP",
       "style": 148,
-      "name": "Grants a very high chance of inflicting\nElectric Res Down I when\nmelee auto-attacking."
+      "name": "Grants a very high chance of inflicting\nBolt Res Down I when\nmelee auto-attacking."
     },
     {
       "$id": 543,
       "label": "ITM_SKL_IN_F_AT_TH_DN06_CAP",
       "style": 148,
-      "name": "Grants a very low chance of inflicting\nElectric Res Down II when\nmelee auto-attacking."
+      "name": "Grants a very low chance of inflicting\nBolt Res Down II when\nmelee auto-attacking."
     },
     {
       "$id": 544,
       "label": "ITM_SKL_IN_F_AT_TH_DN062_CAP",
       "style": 148,
-      "name": "Grants a low chance of inflicting\nElectric Res Down II when\nmelee auto-attacking."
+      "name": "Grants a low chance of inflicting\nBolt Res Down II when\nmelee auto-attacking."
     },
     {
       "$id": 545,
       "label": "ITM_SKL_IN_F_AT_TH_DN063_CAP",
       "style": 148,
-      "name": "Grants a chance of inflicting\nElectric Res Down II when\nmelee auto-attacking."
+      "name": "Grants a chance of inflicting\nBolt Res Down II when\nmelee auto-attacking."
     },
     {
       "$id": 546,
       "label": "ITM_SKL_IN_F_AT_TH_DN064_CAP",
       "style": 148,
-      "name": "Grants a high chance of inflicting\nElectric Res Down II when\nmelee auto-attacking."
+      "name": "Grants a high chance of inflicting\nBolt Res Down II when\nmelee auto-attacking."
     },
     {
       "$id": 547,
       "label": "ITM_SKL_IN_F_AT_TH_DN065_CAP",
       "style": 148,
-      "name": "Grants a very high chance of inflicting\nElectric Res Down II when\nmelee auto-attacking."
+      "name": "Grants a very high chance of inflicting\nBolt Res Down II when\nmelee auto-attacking."
     },
     {
       "$id": 548,
       "label": "ITM_SKL_IN_F_AT_TH_DN11_CAP",
       "style": 148,
-      "name": "Grants a very low chance of inflicting\nElectric Res Down III when\nmelee auto-attacking."
+      "name": "Grants a very low chance of inflicting\nBolt Res Down III when\nmelee auto-attacking."
     },
     {
       "$id": 549,
       "label": "ITM_SKL_IN_F_AT_TH_DN112_CAP",
       "style": 148,
-      "name": "Grants a low chance of inflicting\nElectric Res Down III when\nmelee auto-attacking."
+      "name": "Grants a low chance of inflicting\nBolt Res Down III when\nmelee auto-attacking."
     },
     {
       "$id": 550,
       "label": "ITM_SKL_IN_F_AT_TH_DN113_CAP",
       "style": 148,
-      "name": "Grants a chance of inflicting\nElectric Res Down III when\nmelee auto-attacking."
+      "name": "Grants a chance of inflicting\nBolt Res Down III when\nmelee auto-attacking."
     },
     {
       "$id": 551,
       "label": "ITM_SKL_IN_F_AT_TH_DN114_CAP",
       "style": 148,
-      "name": "Grants a high chance of inflicting\nElectric Res Down III when\nmelee auto-attacking."
+      "name": "Grants a high chance of inflicting\nBolt Res Down III when\nmelee auto-attacking."
     },
     {
       "$id": 552,
       "label": "ITM_SKL_IN_F_AT_TH_DN115_CAP",
       "style": 148,
-      "name": "Grants a very high chance of inflicting\nElectric Res Down III when\nmelee auto-attacking."
+      "name": "Grants a very high chance of inflicting\nBolt Res Down III when\nmelee auto-attacking."
     },
     {
       "$id": 553,
       "label": "ITM_SKL_IN_F_AT_TH_DN16_CAP",
       "style": 148,
-      "name": "Grants a very low chance of inflicting\nElectric Res Down IV when\nmelee auto-attacking."
+      "name": "Grants a very low chance of inflicting\nBolt Res Down IV when\nmelee auto-attacking."
     },
     {
       "$id": 554,
       "label": "ITM_SKL_IN_F_AT_TH_DN162_CAP",
       "style": 148,
-      "name": "Grants a low chance of inflicting\nElectric Res Down IV when\nmelee auto-attacking."
+      "name": "Grants a low chance of inflicting\nBolt Res Down IV when\nmelee auto-attacking."
     },
     {
       "$id": 555,
       "label": "ITM_SKL_IN_F_AT_TH_DN163_CAP",
       "style": 148,
-      "name": "Grants a chance of inflicting\nElectric Res Down IV when\nmelee auto-attacking."
+      "name": "Grants a chance of inflicting\nBolt Res Down IV when\nmelee auto-attacking."
     },
     {
       "$id": 556,
       "label": "ITM_SKL_IN_F_AT_TH_DN164_CAP",
       "style": 148,
-      "name": "Grants a high chance of inflicting\nElectric Res Down IV when\nmelee auto-attacking."
+      "name": "Grants a high chance of inflicting\nBolt Res Down IV when\nmelee auto-attacking."
     },
     {
       "$id": 557,
       "label": "ITM_SKL_IN_F_AT_TH_DN165_CAP",
       "style": 148,
-      "name": "Grants a very high chance of inflicting\nElectric Res Down IV when\nmelee auto-attacking."
+      "name": "Grants a very high chance of inflicting\nBolt Res Down IV when\nmelee auto-attacking."
     },
     {
       "$id": 558,
@@ -4128,7 +4128,7 @@
       "$id": 686,
       "label": "ITM_SKL_IN_REF_PLUS_TH00_CAP",
       "style": 148,
-      "name": "Reflects electric attacks as well when\nusing an Art with damage reflection."
+      "name": "Reflects bolt attacks as well when\nusing an Art with damage reflection."
     },
     {
       "$id": 687,
@@ -4170,7 +4170,7 @@
       "$id": 693,
       "label": "ITM_SKL_IN_REF_ATK_TH01_CAP",
       "style": 148,
-      "name": "Grants a <<enp0>>% chance of negating\nenemy reflection of electric attacks."
+      "name": "Grants a <<enp0>>% chance of negating\nenemy reflection of bolt attacks."
     },
     {
       "$id": 694,
@@ -4332,13 +4332,13 @@
       "$id": 720,
       "label": "ITM_SKL_IN_TIME_EX_FRDN01_CAP",
       "style": 148,
-      "name": "Extends Thermal Res Down effects inflicted\nby your Arts by <<enp2>> second(s)."
+      "name": "Extends Heat Res Down effects inflicted\nby your Arts by <<enp2>> second(s)."
     },
     {
       "$id": 721,
       "label": "ITM_SKL_IN_TIME_EX_THDN01_CAP",
       "style": 148,
-      "name": "Extends Electric Res Down effects inflicted\nby your Arts by <<enp2>> second(s)."
+      "name": "Extends Bolt Res Down effects inflicted\nby your Arts by <<enp2>> second(s)."
     },
     {
       "$id": 722,
@@ -5106,7 +5106,7 @@
       "$id": 849,
       "label": "ITM_SKL_DL_ANTI_TH01_P_CAP",
       "style": 148,
-      "name": "Boosts Doll electric resistance by <<enp2>>."
+      "name": "Boosts Doll bolt resistance by <<enp2>>."
     },
     {
       "$id": 850,
@@ -5424,13 +5424,13 @@
       "$id": 902,
       "label": "ITM_SKL_DL_REG_FR_DN01_CAP",
       "style": 148,
-      "name": "Boosts Doll resistance to\nThermal Res Down by <<enp2>>."
+      "name": "Boosts Doll resistance to\nHeat Res Down by <<enp2>>."
     },
     {
       "$id": 903,
       "label": "ITM_SKL_DL_REG_TH_DN01_CAP",
       "style": 148,
-      "name": "Boosts Doll resistance to\nElectric Res Down by <<enp2>>."
+      "name": "Boosts Doll resistance to\nBolt Res Down by <<enp2>>."
     },
     {
       "$id": 904,
@@ -5604,7 +5604,7 @@
       "$id": 932,
       "label": "ITM_SKL_DL_ATK_TH01_CAP",
       "style": 148,
-      "name": "Boosts Doll electric damage by +<<enp1>>%."
+      "name": "Boosts Doll bolt damage by +<<enp1>>%."
     },
     {
       "$id": 933,
@@ -5760,49 +5760,49 @@
       "$id": 958,
       "label": "ITM_SKL_DL_F_AT_FR_DN01_CAP",
       "style": 148,
-      "name": "Grants a <<enp0>>% chance of inflicting\nThermal Res Down I when melee\nauto-attacking with your Doll."
+      "name": "Grants a <<enp0>>% chance of inflicting\nHeat Res Down I when melee\nauto-attacking with your Doll."
     },
     {
       "$id": 959,
       "label": "ITM_SKL_DL_F_AT_FR_DN06_CAP",
       "style": 148,
-      "name": "Grants a <<enp0>>% chance of inflicting\nThermal Res Down II when melee\nauto-attacking with your Doll."
+      "name": "Grants a <<enp0>>% chance of inflicting\nHeat Res Down II when melee\nauto-attacking with your Doll."
     },
     {
       "$id": 960,
       "label": "ITM_SKL_DL_F_AT_FR_DN11_CAP",
       "style": 148,
-      "name": "Grants a <<enp0>>% chance of inflicting\nThermal Res Down III when melee\nauto-attacking with your Doll."
+      "name": "Grants a <<enp0>>% chance of inflicting\nHeat Res Down III when melee\nauto-attacking with your Doll."
     },
     {
       "$id": 961,
       "label": "ITM_SKL_DL_F_AT_FR_DN16_CAP",
       "style": 148,
-      "name": "Grants a <<enp0>>% chance of inflicting\nThermal Res Down IV when melee\nauto-attacking with your Doll."
+      "name": "Grants a <<enp0>>% chance of inflicting\nHeat Res Down IV when melee\nauto-attacking with your Doll."
     },
     {
       "$id": 962,
       "label": "ITM_SKL_DL_F_AT_TH_DN01_CAP",
       "style": 148,
-      "name": "Grants a <<enp0>>% chance of inflicting\nElectric Res Down I when melee\nauto-attacking with your Doll."
+      "name": "Grants a <<enp0>>% chance of inflicting\nBolt Res Down I when melee\nauto-attacking with your Doll."
     },
     {
       "$id": 963,
       "label": "ITM_SKL_DL_F_AT_TH_DN06_CAP",
       "style": 148,
-      "name": "Grants a <<enp0>>% chance of inflicting\nElectric Res Down II when melee\nauto-attacking with your Doll."
+      "name": "Grants a <<enp0>>% chance of inflicting\nBolt Res Down II when melee\nauto-attacking with your Doll."
     },
     {
       "$id": 964,
       "label": "ITM_SKL_DL_F_AT_TH_DN11_CAP",
       "style": 148,
-      "name": "Grants a <<enp0>>% chance of inflicting\nElectric Res Down III when melee\nauto-attacking with your Doll."
+      "name": "Grants a <<enp0>>% chance of inflicting\nBolt Res Down III when melee\nauto-attacking with your Doll."
     },
     {
       "$id": 965,
       "label": "ITM_SKL_DL_F_AT_TH_DN16_CAP",
       "style": 148,
-      "name": "Grants a <<enp0>>% chance of inflicting\nElectric Res Down IV when melee\nauto-attacking with your Doll."
+      "name": "Grants a <<enp0>>% chance of inflicting\nBolt Res Down IV when melee\nauto-attacking with your Doll."
     },
     {
       "$id": 966,
@@ -6060,7 +6060,7 @@
       "$id": 1008,
       "label": "ITM_SKL_DL_REF_PLUS_TH00_CAP",
       "style": 148,
-      "name": "Reflects electric attacks as well when your\nDoll reflects damage."
+      "name": "Reflects bolt attacks as well when your\nDoll reflects damage."
     },
     {
       "$id": 1009,
@@ -6102,7 +6102,7 @@
       "$id": 1015,
       "label": "ITM_SKL_DL_REF_ATK_TH01_CAP",
       "style": 148,
-      "name": "Grants a <<enp0>>% chance of negating enemy\nreflection of Doll electric attacks."
+      "name": "Grants a <<enp0>>% chance of negating enemy\nreflection of Doll bolt attacks."
     },
     {
       "$id": 1016,
@@ -6222,13 +6222,13 @@
       "$id": 1035,
       "label": "ITM_SKL_DL_TIME_EX_FRDN01_CAP",
       "style": 148,
-      "name": "Extends Thermal Res Down effects inflicted\nby your Arts by <<enp2>> second(s)."
+      "name": "Extends Heat Res Down effects inflicted\nby your Arts by <<enp2>> second(s)."
     },
     {
       "$id": 1036,
       "label": "ITM_SKL_DL_TIME_EX_THDN01_CAP",
       "style": 148,
-      "name": "Extends Electric Res Down effects inflicted\nby your Arts by <<enp2>> second(s)."
+      "name": "Extends Bolt Res Down effects inflicted\nby your Arts by <<enp2>> second(s)."
     },
     {
       "$id": 1037,

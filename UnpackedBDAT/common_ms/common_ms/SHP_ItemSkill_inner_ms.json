@@ -270,13 +270,13 @@
       "$id": 43,
       "label": "SHP_ITM_SKL_IN_ANTI_TH01_P_name",
       "style": 18,
-      "name": "Electric Res Up"
+      "name": "Bolt Res Up"
     },
     {
       "$id": 44,
       "label": "SHP_ITM_SKL_IN_ANTI_FR01_P_name",
       "style": 18,
-      "name": "Thermal Res Up"
+      "name": "Heat Res Up"
     },
     {
       "$id": 45,
@@ -432,13 +432,13 @@
       "$id": 70,
       "label": "SHP_ITM_SKL_IN_REG_FR_DN01_name",
       "style": 18,
-      "name": "Resist Thermal Res Down"
+      "name": "Resist Heat Res Down"
     },
     {
       "$id": 71,
       "label": "SHP_ITM_SKL_IN_REG_TH_DN01_name",
       "style": 18,
-      "name": "Resist Electric Res Down"
+      "name": "Resist Bolt Res Down"
     },
     {
       "$id": 72,
@@ -612,13 +612,13 @@
       "$id": 100,
       "label": "SHP_ITM_SKL_IN_ATK_FR01_name",
       "style": 18,
-      "name": "Thermal Attack Plus"
+      "name": "Heat Attack Plus"
     },
     {
       "$id": 101,
       "label": "SHP_ITM_SKL_IN_ATK_TH01_name",
       "style": 18,
-      "name": "Electric Attack Plus"
+      "name": "Bolt Attack Plus"
     },
     {
       "$id": 102,
@@ -684,13 +684,13 @@
       "$id": 112,
       "label": "SHP_ITM_SKL_IN_F_AT_FR_DN01_name",
       "style": 18,
-      "name": "Melee: Thermal Res Down"
+      "name": "Melee: Heat Res Down"
     },
     {
       "$id": 113,
       "label": "SHP_ITM_SKL_IN_F_AT_TH_DN01_name",
       "style": 18,
-      "name": "Melee: Electric Res Down"
+      "name": "Melee: Bolt Res Down"
     },
     {
       "$id": 114,
@@ -840,13 +840,13 @@
       "$id": 138,
       "label": "SHP_ITM_SKL_IN_REF_ATK_FR01_name",
       "style": 18,
-      "name": "Nullify Thermal Reflect"
+      "name": "Nullify Heat Reflect"
     },
     {
       "$id": 139,
       "label": "SHP_ITM_SKL_IN_REF_ATK_TH01_name",
       "style": 18,
-      "name": "Nullify Electric Reflect"
+      "name": "Nullify Bolt Reflect"
     },
     {
       "$id": 140,
@@ -1008,13 +1008,13 @@
       "$id": 166,
       "label": "SHP_ITM_SKL_IN_TIME_EX_FRDN01_name",
       "style": 18,
-      "name": "Extend Thermal Res Down"
+      "name": "Extend Heat Res Down"
     },
     {
       "$id": 167,
       "label": "SHP_ITM_SKL_IN_TIME_EX_THDN01_name",
       "style": 18,
-      "name": "Extend Electric Res Down"
+      "name": "Extend Bolt Res Down"
     },
     {
       "$id": 168,
@@ -1524,7 +1524,7 @@
       "$id": 252,
       "label": "ITM_SKL_IN_ANTI_TH01_P_OUTLINE",
       "style": 153,
-      "name": "Boosts electric resistance."
+      "name": "Boosts bolt resistance."
     },
     {
       "$id": 253,
@@ -1686,13 +1686,13 @@
       "$id": 279,
       "label": "ITM_SKL_IN_REG_FR_DN01_OUTLINE",
       "style": 153,
-      "name": "Boosts resistance to Thermal Res Down."
+      "name": "Boosts resistance to Heat Res Down."
     },
     {
       "$id": 280,
       "label": "ITM_SKL_IN_REG_TH_DN01_OUTLINE",
       "style": 153,
-      "name": "Boosts resistance to Electric Res Down."
+      "name": "Boosts resistance to Bolt Res Down."
     },
     {
       "$id": 281,
@@ -1866,7 +1866,7 @@
       "$id": 309,
       "label": "ITM_SKL_IN_ATK_TH01_OUTLINE",
       "style": 153,
-      "name": "Boosts electric damage by a percentage."
+      "name": "Boosts bolt damage by a percentage."
     },
     {
       "$id": 310,
@@ -1932,13 +1932,13 @@
       "$id": 320,
       "label": "ITM_SKL_IN_F_AT_FR_DN01_OUTLINE",
       "style": 153,
-      "name": "Grants a chance of inflicting Thermal Res Down\nwhen melee auto-attacking."
+      "name": "Grants a chance of inflicting Heat Res Down\nwhen melee auto-attacking."
     },
     {
       "$id": 321,
       "label": "ITM_SKL_IN_F_AT_TH_DN01_OUTLINE",
       "style": 153,
-      "name": "Grants a chance of inflicting Electric Res Down\nwhen melee auto-attacking."
+      "name": "Grants a chance of inflicting Bolt Res Down\nwhen melee auto-attacking."
     },
     {
       "$id": 322,
@@ -2058,7 +2058,7 @@
       "$id": 341,
       "label": "ITM_SKL_IN_REF_ATK_TH01_OUTLINE",
       "style": 153,
-      "name": "Grants a chance of negating enemy reflection\nof electric attacks."
+      "name": "Grants a chance of negating enemy reflection\nof bolt attacks."
     },
     {
       "$id": 342,
@@ -2214,13 +2214,13 @@
       "$id": 367,
       "label": "ITM_SKL_IN_TIME_EX_FRDN01_OUTLINE",
       "style": 153,
-      "name": "Extends Thermal Res Down effects inflicted\nby your Arts."
+      "name": "Extends Heat Res Down effects inflicted\nby your Arts."
     },
     {
       "$id": 368,
       "label": "ITM_SKL_IN_TIME_EX_THDN01_OUTLINE",
       "style": 153,
-      "name": "Extends Electric Res Down effects inflicted\nby your Arts."
+      "name": "Extends Bolt Res Down effects inflicted\nby your Arts."
     },
     {
       "$id": 369,

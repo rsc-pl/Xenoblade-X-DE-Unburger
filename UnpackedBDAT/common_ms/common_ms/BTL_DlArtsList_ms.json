@@ -372,7 +372,7 @@
       "$id": 60,
       "label": "DL_ARTS_WD035001_01_name",
       "style": 17,
-      "name": "Thermal Bomber"
+      "name": "Heat Bomber"
     },
     {
       "$id": 61,
@@ -1158,7 +1158,7 @@
       "$id": 191,
       "label": "DL_ARTS_WD033401_01_caption",
       "style": 108,
-      "name": "(200 Fuel) Deals thermal damage +\nInflicts Thermal Res Down"
+      "name": "(200 Fuel) Deals thermal damage +\nInflicts Heat Res Down"
     },
     {
       "$id": 192,
@@ -1224,13 +1224,13 @@
       "$id": 202,
       "label": "DL_ARTS_WD034401_01_caption",
       "style": 108,
-      "name": "(30 Fuel) Deals electric damage + Inflicts Flinch +\nInflicts Blackout + Boosts GP on hit"
+      "name": "(30 Fuel) Deals bolt damage + Inflicts Flinch +\nInflicts Blackout + Boosts GP on hit"
     },
     {
       "$id": 203,
       "label": "DL_ARTS_WD035101_01_caption",
       "style": 108,
-      "name": "(50 Fuel) Deals electric damage + Inflicts Shock"
+      "name": "(50 Fuel) Deals bolt damage + Inflicts Shock"
     },
     {
       "$id": 204,
@@ -1308,7 +1308,7 @@
       "$id": 216,
       "label": "DL_ARTS_WD032301_01_caption",
       "style": 108,
-      "name": "(50 Fuel) Deals electric damage + Inflicts Shock"
+      "name": "(50 Fuel) Deals bolt damage + Inflicts Shock"
     },
     {
       "$id": 217,
@@ -1422,13 +1422,13 @@
       "$id": 235,
       "label": "DL_ARTS_WD032609_2003_caption",
       "style": 108,
-      "name": "(50 Fuel) Inflicts Electric Res Down + Inflicts Stun +\nGrants total evasion + VS. MECHANOIDS: absorbs fuel"
+      "name": "(50 Fuel) Inflicts Bolt Res Down + Inflicts Stun +\nGrants total evasion + VS. MECHANOIDS: absorbs fuel"
     },
     {
       "$id": 236,
       "label": "DL_ARTS_WD032609_2004_caption",
       "style": 108,
-      "name": "(50 Fuel) Thermal Res Down + Inflicts Stun +\nGrants total evasion + VS. MECHANOIDS: absorbs fuel"
+      "name": "(50 Fuel) Heat Res Down + Inflicts Stun +\nGrants total evasion + VS. MECHANOIDS: absorbs fuel"
     },
     {
       "$id": 237,
@@ -1494,13 +1494,13 @@
       "$id": 247,
       "label": "DL_ARTS_WD042301_1003_caption",
       "style": 108,
-      "name": "(50 Fuel) Grants Electric Res Up +\nRestores appendage HP"
+      "name": "(50 Fuel) Grants Bolt Res Up +\nRestores appendage HP"
     },
     {
       "$id": 248,
       "label": "DL_ARTS_WD042301_1004_caption",
       "style": 108,
-      "name": "(50 Fuel) Grants Thermal Res Up +\nRestores appendage HP"
+      "name": "(50 Fuel) Grants Heat Res Up +\nRestores appendage HP"
     },
     {
       "$id": 249,
@@ -1536,7 +1536,7 @@
       "$id": 254,
       "label": "DL_ARTS_WD021101_01_caption",
       "style": 108,
-      "name": "(30 Fuel) Deals electric damage + Inflicts Shock +\nVS. BOUND TARGETS: boosts damage"
+      "name": "(30 Fuel) Deals bolt damage + Inflicts Shock +\nVS. BOUND TARGETS: boosts damage"
     },
     {
       "$id": 255,
@@ -1572,7 +1572,7 @@
       "$id": 260,
       "label": "DL_ARTS_WD021701_01_caption",
       "style": 108,
-      "name": "(30 Fuel) Deals electric damage + Inflicts Taunt"
+      "name": "(30 Fuel) Deals bolt damage + Inflicts Taunt"
     },
     {
       "$id": 261,
@@ -1614,7 +1614,7 @@
       "$id": 267,
       "label": "DL_ARTS_WD300601_01_caption",
       "style": 108,
-      "name": "(50 Fuel) Deals electric damage +\nInflicts HP Recovery Down"
+      "name": "(50 Fuel) Deals bolt damage +\nInflicts HP Recovery Down"
     },
     {
       "$id": 268,
@@ -1656,7 +1656,7 @@
       "$id": 274,
       "label": "DL_ARTS_WD301301_01_caption",
       "style": 108,
-      "name": "(200 Fuel) Deals thermal damage + Inflicts Thermal\nRes Down + VS. BLAZED TARGETS: boosts damage"
+      "name": "(200 Fuel) Deals thermal damage + Inflicts Heat\nRes Down + VS. BLAZED TARGETS: boosts damage"
     },
     {
       "$id": 275,
@@ -1722,19 +1722,19 @@
       "$id": 285,
       "label": "DL_ARTS_WD200401_01_caption",
       "style": 108,
-      "name": "(1500 Fuel) Deals electric damage + Inflicts Shock"
+      "name": "(1500 Fuel) Deals bolt damage + Inflicts Shock"
     },
     {
       "$id": 286,
       "label": "DL_ARTS_WD200501_01_caption",
       "style": 108,
-      "name": "(1000 Fuel) Deals electric damage + Inflicts Stun +\nInflicts Virus + DURING RAIN: boosts damage"
+      "name": "(1000 Fuel) Deals bolt damage + Inflicts Stun +\nInflicts Virus + DURING RAIN: boosts damage"
     },
     {
       "$id": 287,
       "label": "DL_ARTS_WD200601_01_caption",
       "style": 108,
-      "name": "(1500 Fuel) Deals electric damage +\nDURING RAIN: boosts damage"
+      "name": "(1500 Fuel) Deals bolt damage +\nDURING RAIN: boosts damage"
     },
     {
       "$id": 288,
@@ -1782,7 +1782,7 @@
       "$id": 295,
       "label": "DL_ARTS_WD201401_01_caption",
       "style": 108,
-      "name": "(1800 Fuel) Deals thermal damage +\nInflicts Thermal Res Down"
+      "name": "(1800 Fuel) Deals thermal damage +\nInflicts Heat Res Down"
     },
     {
       "$id": 296,
@@ -2100,7 +2100,7 @@
       "$id": 348,
       "label": "DL_ARTS_WD033401_01_Caption2_00",
       "style": 108,
-      "name": "(200 Fuel) Deals thermal damage +\nInflicts Thermal Res Down"
+      "name": "(200 Fuel) Deals thermal damage +\nInflicts Heat Res Down"
     },
     {
       "$id": 349,
@@ -2166,13 +2166,13 @@
       "$id": 359,
       "label": "DL_ARTS_WD034401_01_Caption2_00",
       "style": 108,
-      "name": "(30 Fuel) Deals electric damage +\nInflicts Flinch + Inflicts Blackout +\nBoosts GP on hit"
+      "name": "(30 Fuel) Deals bolt damage +\nInflicts Flinch + Inflicts Blackout +\nBoosts GP on hit"
     },
     {
       "$id": 360,
       "label": "DL_ARTS_WD035101_01_Caption2_00",
       "style": 108,
-      "name": "(50 Fuel) Deals electric damage +\nInflicts Shock"
+      "name": "(50 Fuel) Deals bolt damage +\nInflicts Shock"
     },
     {
       "$id": 361,
@@ -2250,7 +2250,7 @@
       "$id": 373,
       "label": "DL_ARTS_WD032301_01_Caption2_00",
       "style": 108,
-      "name": "(50 Fuel) Deals electric damage +\nInflicts Shock"
+      "name": "(50 Fuel) Deals bolt damage +\nInflicts Shock"
     },
     {
       "$id": 374,
@@ -2364,13 +2364,13 @@
       "$id": 392,
       "label": "DL_ARTS_WD032609_2003_Caption2_00",
       "style": 108,
-      "name": "(50 Fuel) Inflicts Electric Res Down +\nInflicts Stun + Grants total evasion +\nVS. MECHANOIDS: absorbs fuel"
+      "name": "(50 Fuel) Inflicts Bolt Res Down +\nInflicts Stun + Grants total evasion +\nVS. MECHANOIDS: absorbs fuel"
     },
     {
       "$id": 393,
       "label": "DL_ARTS_WD032609_2004_Caption2_00",
       "style": 108,
-      "name": "(50 Fuel) Thermal Res Down +\nInflicts Stun + Grants total evasion +\nVS. MECHANOIDS: absorbs fuel"
+      "name": "(50 Fuel) Heat Res Down +\nInflicts Stun + Grants total evasion +\nVS. MECHANOIDS: absorbs fuel"
     },
     {
       "$id": 394,
@@ -2436,13 +2436,13 @@
       "$id": 404,
       "label": "DL_ARTS_WD042301_1003_Caption2_00",
       "style": 108,
-      "name": "(50 Fuel) Grants Electric Res Up +\nRestores appendage HP"
+      "name": "(50 Fuel) Grants Bolt Res Up +\nRestores appendage HP"
     },
     {
       "$id": 405,
       "label": "DL_ARTS_WD042301_1004_Caption2_00",
       "style": 108,
-      "name": "(50 Fuel) Grants Thermal Res Up +\nRestores appendage HP"
+      "name": "(50 Fuel) Grants Heat Res Up +\nRestores appendage HP"
     },
     {
       "$id": 406,
@@ -2478,7 +2478,7 @@
       "$id": 411,
       "label": "DL_ARTS_WD021101_01_Caption2_00",
       "style": 108,
-      "name": "(30 Fuel) Deals electric damage\n+ Inflicts Shock + VS. BOUND\nTARGETS: boosts damage"
+      "name": "(30 Fuel) Deals bolt damage\n+ Inflicts Shock + VS. BOUND\nTARGETS: boosts damage"
     },
     {
       "$id": 412,
@@ -2514,7 +2514,7 @@
       "$id": 417,
       "label": "DL_ARTS_WD021701_01_Caption2_00",
       "style": 108,
-      "name": "(30 Fuel) Deals electric damage +\nInflicts Taunt"
+      "name": "(30 Fuel) Deals bolt damage +\nInflicts Taunt"
     },
     {
       "$id": 418,
@@ -2556,7 +2556,7 @@
       "$id": 424,
       "label": "DL_ARTS_WD300601_01_Caption2_00",
       "style": 108,
-      "name": "(50 Fuel) Deals electric damage +\nInflicts HP Recovery Down"
+      "name": "(50 Fuel) Deals bolt damage +\nInflicts HP Recovery Down"
     },
     {
       "$id": 425,
@@ -2598,7 +2598,7 @@
       "$id": 431,
       "label": "DL_ARTS_WD301301_01_Caption2_00",
       "style": 108,
-      "name": "(200 Fuel) Deals thermal damage +\nInflicts Thermal Res Down + VS.\nBLAZED TARGETS: boosts damage"
+      "name": "(200 Fuel) Deals thermal damage +\nInflicts Heat Res Down + VS.\nBLAZED TARGETS: boosts damage"
     },
     {
       "$id": 432,
@@ -2664,19 +2664,19 @@
       "$id": 442,
       "label": "DL_ARTS_WD200401_01_Caption2_00",
       "style": 108,
-      "name": "(1500 Fuel) Deals electric damage +\nInflicts Shock"
+      "name": "(1500 Fuel) Deals bolt damage +\nInflicts Shock"
     },
     {
       "$id": 443,
       "label": "DL_ARTS_WD200501_01_Caption2_00",
       "style": 108,
-      "name": "(1000 Fuel) Deals electric damage +\nInflicts Stun + Inflicts Virus +\nDURING RAIN: boosts damage"
+      "name": "(1000 Fuel) Deals bolt damage +\nInflicts Stun + Inflicts Virus +\nDURING RAIN: boosts damage"
     },
     {
       "$id": 444,
       "label": "DL_ARTS_WD200601_01_Caption2_00",
       "style": 108,
-      "name": "(1500 Fuel) Deals electric damage +\nDURING RAIN: boosts damage"
+      "name": "(1500 Fuel) Deals bolt damage +\nDURING RAIN: boosts damage"
     },
     {
       "$id": 445,
@@ -2724,7 +2724,7 @@
       "$id": 452,
       "label": "DL_ARTS_WD201401_01_Caption2_00",
       "style": 108,
-      "name": "(1800 Fuel) Deals thermal damage +\nInflicts Thermal Res Down"
+      "name": "(1800 Fuel) Deals thermal damage +\nInflicts Heat Res Down"
     },
     {
       "$id": 453,
