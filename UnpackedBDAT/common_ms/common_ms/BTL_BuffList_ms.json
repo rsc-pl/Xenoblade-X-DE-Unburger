@@ -60,7 +60,7 @@
       "$id": 8,
       "label": "DEBUF_CATCH_Name",
       "style": 18,
-      "name": "Bind"
+      "name": "Catch"
     },
     {
       "$id": 9,
@@ -96,19 +96,19 @@
       "$id": 14,
       "label": "DEBUF_BLACK_SIGHT_Name",
       "style": 18,
-      "name": "Blackout"
+      "name": "Black Sight"
     },
     {
       "$id": 15,
       "label": "DEBUF_POWER_DOWN_Name",
       "style": 18,
-      "name": "Fatigue"
+      "name": "Power Down"
     },
     {
       "$id": 16,
       "label": "DEBUF_SLOW_Name",
       "style": 18,
-      "name": "Slow Arts"
+      "name": "Arts Slow"
     },
     {
       "$id": 17,
@@ -156,7 +156,7 @@
       "$id": 24,
       "label": "DEBUF_COUNT_BOMB_Name",
       "style": 18,
-      "name": "Time Bomb"
+      "name": "Count Bomb"
     },
     {
       "$id": 25,
@@ -294,13 +294,13 @@
       "$id": 47,
       "label": "BUF_DAMAGE_ARMOR_Name",
       "style": 18,
-      "name": "Barrier"
+      "name": "Damage Barrier"
     },
     {
       "$id": 48,
       "label": "BUF_BULLET_CHARGE_Name",
       "style": 18,
-      "name": "Supercharge"
+      "name": "Bullet Charge"
     },
     {
       "$id": 49,
@@ -348,7 +348,7 @@
       "$id": 56,
       "label": "AURA_RAGE_Name",
       "style": 18,
-      "name": "Defensive Stance"
+      "name": "Protection Mode"
     },
     {
       "$id": 57,
@@ -360,7 +360,7 @@
       "$id": 58,
       "label": "AURA_BLOOD_TIME_Name",
       "style": 18,
-      "name": "Early Bird"
+      "name": "Early Count"
     },
     {
       "$id": 59,
@@ -372,13 +372,13 @@
       "$id": 60,
       "label": "AURA_BRAVE_HEART_Name",
       "style": 18,
-      "name": "Offensive Stance"
+      "name": "Aggressive Mode"
     },
     {
       "$id": 61,
       "label": "AURA_FRONT_LINE_Name",
       "style": 18,
-      "name": "Medic Free"
+      "name": "Non-Medic"
     },
     {
       "$id": 62,
@@ -390,7 +390,7 @@
       "$id": 63,
       "label": "AURA_BLOOD_EDGE_Name",
       "style": 18,
-      "name": "Thirsty Edge"
+      "name": "Blood Edge"
     },
     {
       "$id": 64,
@@ -402,13 +402,13 @@
       "$id": 65,
       "label": "AURA_DELTA_SHIELD_Name",
       "style": 18,
-      "name": "Geolibrium"
+      "name": "Astro Cross"
     },
     {
       "$id": 66,
       "label": "AURA_MEIKYOSHISUI_Name",
       "style": 18,
-      "name": "Astrolibrium"
+      "name": "Galaxy Cross"
     },
     {
       "$id": 67,
@@ -426,37 +426,37 @@
       "$id": 69,
       "label": "AURA_STRONG_SHIELD_Name",
       "style": 18,
-      "name": "Supershield"
+      "name": "Strong Shield"
     },
     {
       "$id": 70,
       "label": "AURA_ADVANCE_Name",
       "style": 18,
-      "name": "Enhanced Stand"
+      "name": "Advance War"
     },
     {
       "$id": 71,
       "label": "AURA_SPEED_STAR_Name",
       "style": 18,
-      "name": "Speed Demon"
+      "name": "Speedster"
     },
     {
       "$id": 72,
       "label": "AURA_STAR_FIELD_Name",
       "style": 18,
-      "name": "Astral Horizon"
+      "name": "Star Field"
     },
     {
       "$id": 73,
       "label": "AURA_ASTEROID_CROSS_Name",
       "style": 18,
-      "name": "Novalibrium"
+      "name": "Asteroid Cross"
     },
     {
       "$id": 74,
       "label": "AURA_STAR_PROTECTION_Name",
       "style": 18,
-      "name": "Astral Protection"
+      "name": "Star Protection"
     },
     {
       "$id": 75,
@@ -504,7 +504,7 @@
       "$id": 82,
       "label": "AURA_SHEILD13_Name",
       "style": 18,
-      "name": "Flamehand"
+      "name": "Frame Hand"
     },
     {
       "$id": 83,
@@ -516,7 +516,7 @@
       "$id": 84,
       "label": "AURA_RECOVER_name",
       "style": 18,
-      "name": "Recuperate"
+      "name": "Recovery"
     },
     {
       "$id": 85,
@@ -540,7 +540,7 @@
       "$id": 88,
       "label": "BUF_BERSERK_Name",
       "style": 18,
-      "name": "Enraged"
+      "name": "Berserk"
     },
     {
       "$id": 89,
@@ -552,13 +552,13 @@
       "$id": 90,
       "label": "BUF_COOL21_Name",
       "style": 18,
-      "name": "Unhinged"
+      "name": "Confused"
     },
     {
       "$id": 91,
       "label": "BUF_AWAKE_Name",
       "style": 18,
-      "name": "Aware"
+      "name": "Awakened"
     },
     {
       "$id": 92,
@@ -630,7 +630,7 @@
       "$id": 103,
       "label": "BUF_UNION_SUPPORT07_name",
       "style": 18,
-      "name": "R&D Support"
+      "name": "Corporate Support"
     },
     {
       "$id": 104,
@@ -720,7 +720,7 @@
       "$id": 118,
       "label": "BUF_ALL_STATUS_UP_Name",
       "style": 18,
-      "name": "All Stats Up"
+      "name": "All Up"
     },
     {
       "$id": 119,
@@ -750,7 +750,7 @@
       "$id": 123,
       "label": "BUF_CHARGECLOAK_Name",
       "style": 18,
-      "name": "Charged Mantle"
+      "name": "Charge Cloak"
     },
     {
       "$id": 124,
