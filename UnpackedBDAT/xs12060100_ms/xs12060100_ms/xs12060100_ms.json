@@ -18,55 +18,55 @@
       "$id": 1,
       "label": "xs12060100_MSG0001",
       "style": 0,
-      "name": "Once we're inside, there's no turning back.\nEveryone ready?[ST:wait ]\n"
+      "name": "Once we go inside, there will be no leeway to turn back.\nAre you ready?[ST:wait ]"
     },
     {
       "$id": 2,
       "label": "xs12060100_JNK0010",
       "style": 4,
-      "name": "Nod"
+      "name": "Affirm"
     },
     {
       "$id": 3,
       "label": "xs12060100_SEL0011",
       "style": 3,
-      "name": "Tell Elma you're ready."
+      "name": "Nod with resolve."
     },
     {
       "$id": 4,
       "label": "xs12060100_JNK0020",
       "style": 4,
-      "name": "Shake Your Head"
+      "name": "Deny"
     },
     {
       "$id": 5,
       "label": "xs12060100_SEL0021",
       "style": 3,
-      "name": "Tell Elma you need more time."
+      "name": "Say that you have things left undone."
     },
     {
       "$id": 6,
       "label": "xs12060100_MSG0002",
       "style": 0,
-      "name": "Do what you have to do.[ST:wait ]\n"
+      "name": "Let's prepare thoroughly.[ST:wait ]"
     },
     {
       "$id": 7,
       "label": "xs12060100_MSG0003",
       "style": 0,
-      "name": "You're sure now?[ST:wait ]\n"
+      "name": "Are you really sure?[ST:wait ]"
     },
     {
       "$id": 8,
       "label": "xs12060100_SEL0031",
       "style": 3,
-      "name": "Tell Elma you're sure you're ready."
+      "name": "Show your resolve with a strong nod."
     },
     {
       "$id": 9,
       "label": "xs12060100_SEL0041",
       "style": 3,
-      "name": "Tell Elma you actually could use some more time."
+      "name": "Remember things left undone."
     }
   ]
 }
