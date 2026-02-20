@@ -18,109 +18,109 @@
       "$id": 1,
       "label": "qev016001_MSG0001",
       "style": 1,
-      "name": "It's [ST:playername ], right?[ST:wait ]"
+      "name": "...You're\n[ST:playername ], right?[ST:wait ]"
     },
     {
       "$id": 2,
       "label": "qev016001_JNK0010",
       "style": 4,
-      "name": "Confirm"
+      "name": "Affirmative"
     },
     {
       "$id": 3,
       "label": "qev016001_SEL0011",
       "style": 3,
-      "name": "Acknowledge with a small nod."
+      "name": "Honestly reveal that is the case."
     },
     {
       "$id": 4,
       "label": "qev016001_JNK0020",
       "style": 4,
-      "name": "Evade"
+      "name": "Question"
     },
     {
       "$id": 5,
       "label": "qev016001_SEL0021",
       "style": 3,
-      "name": "Ask who wants to know."
+      "name": "Feel suspicious about the sudden\nquestion and ask for her name."
     },
     {
       "$id": 6,
       "label": "qev016001_MSG0002",
       "style": 1,
-      "name": "Oh, good. I've been looking for you.[ST:wait ]"
+      "name": "Thank goodness. I've been looking\nfor you.[ST:wait ]"
     },
     {
       "$id": 7,
       "label": "qev016001_MSG0003",
       "style": 1,
-      "name": "Not letting your guard down, eh?\nI'm impressed, rookie.[ST:wait ]"
+      "name": "Always keeping your guard up, even around\nallies... huh. That's a good mindset, rookie.[ST:wait ]"
     },
     {
       "$id": 8,
       "label": "qev016001_MSG0004",
       "style": 1,
-      "name": "The name's Kirsty. With a K.[ST:wait ]"
+      "name": "I'm Kirsty.[ST:wait ]"
     },
     {
       "$id": 9,
       "label": "qev016001_MSG0005",
       "style": 1,
-      "name": "I'm the operations manager for FrontierNet.[ST:wait ]"
+      "name": "I work as the Operations Manager\nfor Frontier Net.[ST:wait ]"
     },
     {
       "$id": 10,
       "label": "qev016001_MSG0006",
       "style": 1,
-      "name": "Nagi requested that I brief you on the whole \nFrontierNet \"deal.\" Sound good?[ST:wait ]"
+      "name": "Secretary Nagi asked me to give you\na lecture on Frontier Net.[ST:wait ]"
     },
     {
       "$id": 11,
       "label": "qev016001_JNK0030",
       "style": 4,
-      "name": "Decline"
+      "name": "Counter"
     },
     {
       "$id": 12,
       "label": "qev016001_SEL0031",
       "style": 3,
-      "name": "Tell Kirsty that you already know all about it."
+      "name": "Tell her that your training is already finished."
     },
     {
       "$id": 13,
       "label": "qev016001_JNK0040",
       "style": 4,
-      "name": "Listen"
+      "name": "Interest"
     },
     {
       "$id": 14,
       "label": "qev016001_SEL0041",
       "style": 3,
-      "name": "Hear Kirsty out."
+      "name": "Show interest in Kirsty's story\nand listen to what she has to say."
     },
     {
       "$id": 15,
       "label": "qev016001_MSG0007",
       "style": 1,
-      "name": "Oh, really? All that knowledge is swimming around in\nyour noggin just because you helped Colonel Elma\ninstall one little data probe?[ST:wait ]"
+      "name": "I hear you went out to install a\nData Probe with Colonel Elma.[ST:wait ]"
     },
     {
       "$id": 16,
       "label": "qev016001_MSG0008",
       "style": 1,
-      "name": "Sorry, rookie—there's more to the network than that.[ST:wait ]"
+      "name": "But, you can't say you understand everything\nabout Frontier Net just from that.[ST:wait ]"
     },
     {
       "$id": 17,
       "label": "qev016001_MSG0009",
       "style": 1,
-      "name": "Excellent. I like your curiosity. Always remember that\nFrontierNet connects us to the land—[ST:wait ]"
+      "name": "That's a good mindset. Frontier Net connects\nus and Mira[ST:wide ]—[ST:wait ]"
     },
     {
       "$id": 18,
       "label": "qev016001_MSG0010",
       "style": 1,
-      "name": "and like the rest of Mira, it takes dedication and\ncuriosity to really understand.[ST:wait ]"
+      "name": "You won't be able to understand everything\nunless you have a greedy desire to learn.[ST:wait ]"
     },
     {
       "$id": 19,
@@ -132,271 +132,271 @@
       "$id": 20,
       "label": "qev016001_MSG0012",
       "style": 1,
-      "name": "So then! First lesson—there are several different types of\ndata probes that can be installed at FrontierNet probe-\nplacement sites.[ST:wait ]"
+      "name": "You can install various Data Probes\nat Frontier Net Spots.[ST:wait ]"
     },
     {
       "$id": 21,
       "label": "qev016001_MSG0013",
       "style": 1,
-      "name": "It's vital that you keep the desired application in mind,\nbecause each type of probe yields different effects.[ST:wait ]"
+      "name": "The effects differ depending on the type of\nData Probe, so you need to use them properly\ndepending on your goal.[ST:wait ]"
     },
     {
       "$id": 22,
       "label": "qev016001_MSG0014",
       "style": 1,
-      "name": "What's more, placing the exact same type and grade\nof data probe in neighboring sites will amplify the\neffects of each probe.[ST:wait ]"
+      "name": "And by installing the same type of Data Probe\nin adjacent spots, you can obtain even greater\neffects[ST:wide ]—[ST:wait ]"
     },
     {
       "$id": 23,
       "label": "qev016001_MSG0015",
       "style": 1,
-      "name": "Now, I could stand here and make you listen to a long,\ndrawn-out explanation, but I think it's better if you just\ntry out each one for yourself.[ST:wait ]"
+      "name": "Well, rather than giving a long explanation with words,\nit's better to actually try it out one by one.[ST:wait ]"
     },
     {
       "$id": 24,
       "label": "qev016001_MSG0016",
       "style": 1,
-      "name": "Remember the data probe you installed out on the\nEast Gate Plain?[ST:wait ]"
+      "name": "Do you remember the Data Probe you\ninstalled in the East Gate Plains before?[ST:wait ]"
     },
     {
       "$id": 25,
       "label": "qev016001_JNK0050",
       "style": 4,
-      "name": "Confirm"
+      "name": "Affirmative"
     },
     {
       "$id": 26,
       "label": "qev016001_SEL0051",
       "style": 3,
-      "name": "Tell Kirsty that you remember."
+      "name": "Say that you remember clearly."
     },
     {
       "$id": 27,
       "label": "qev016001_JNK0060",
       "style": 4,
-      "name": "Deny"
+      "name": "Unknown"
     },
     {
       "$id": 28,
       "label": "qev016001_SEL0061",
       "style": 3,
-      "name": "Admit to Kirsty that you've forgotten where that was."
+      "name": "Say that you forgot where it was."
     },
     {
       "$id": 29,
       "label": "qev016001_MSG0017",
       "style": 1,
-      "name": "Good. I can see why you're on Nagi's short list.[ST:wait ]"
+      "name": "As expected of someone Secretary Nagi\nhas his eye on.[ST:wait ]"
     },
     {
       "$id": 30,
       "label": "qev016001_MSG0018",
       "style": 1,
-      "name": "So if you ever need to verify its exact location,\njust access the segment map with your comm device.[ST:wait ]"
+      "name": "If you want to properly confirm the location,\njust look at the Segment Map on your terminal.[ST:wait ]"
     },
     {
       "$id": 31,
       "label": "qev016001_MSG0019",
       "style": 1,
-      "name": "Ha! I like your honesty. In that case, take a look\nat the segment map. You can access it with\nyour comm device.[ST:wait ]"
+      "name": "In that case, look at the Segment Map\ndisplayed on your terminal.[ST:wait ]"
     },
     {
       "$id": 32,
       "label": "qev016001_MSG0020",
       "style": 1,
-      "name": "The data probe's location should be highlighted.[ST:wait ]"
+      "name": "The place where you installed the Data Probe\nshould be brightly displayed.[ST:wait ]"
     },
     {
       "$id": 33,
       "label": "qev016001_MSG0021",
       "style": 1,
-      "name": "I'll point out a pair of placement sites in the plains\npast the east gate that you can chain together on\nthe FrontierNet grid.[ST:wait ]"
+      "name": "I'll tell you two places connected to the\nFrontier Net from the East Gate Plains.[ST:wait ]"
     },
     {
       "$id": 34,
       "label": "qev016001_MSG0022",
       "style": 1,
-      "name": "Head there and install a data probe at each site, okay?[ST:wait ]"
+      "name": "First, go to those spots and plant a Data Probe.[ST:wait ]"
     },
     {
       "$id": 35,
       "label": "qev016001_MSG0023",
       "style": 1,
-      "name": "But I don't want just any probes installed there—\nyou'll need to change them to be the same type.\nThat's how you get the chain amplification effects.[ST:wait ]"
+      "name": "But just planting them is no good. You need to change\nthem to the same type of Data Probe to link them.[ST:wait ]"
     },
     {
       "$id": 36,
       "label": "qev016001_MSG0105",
       "style": 1,
-      "name": "You can swap around data probes using your\ncomm device. Just select the corresponding site\non the FrontierNet map.[ST:wait ]"
+      "name": "To swap Data Probes, select the spot where\nyou installed it on your terminal[ST:wide ]—[ST:wait ]"
     },
     {
       "$id": 37,
       "label": "qev016001_MSG0106",
       "style": 1,
-      "name": "If you select Swap Data Probe, you can take\nyour pick from all the unused probes you've got.\n...Er, you DO have unused probes, right?[ST:wait ]"
+      "name": "If you choose \"Swap Data Probe,\" you can pick\nfrom the probes on hand. ...What's that? You\ndon't have any?[ST:wait ]"
     },
     {
       "$id": 38,
       "label": "qev016001_MSG0107",
       "style": 1,
-      "name": "Here, take a few mining probes just in case. They're on\nme. But don't go spreading tales of my generosity.[ST:wait ]"
+      "name": "Here, some Mining Probes. Since it's your first time,\nI'll give them to you as a special present.[ST:wait ]"
     },
     {
       "$id": 39,
       "label": "qev016001_MSG0108",
       "style": 1,
-      "name": "Your assignment is to travel to the two specified sites\nand install data probes there. Then make sure all three\nof your installed probes are set as mining probes.[ST:wait ]"
+      "name": "Your mission this time is to install Data Probes\nat two spots and change all three probes to\nMining Probes.[ST:wait ]"
     },
     {
       "$id": 40,
       "label": "qev016001_MSG0109",
       "style": 1,
-      "name": "You'll figure it out. It's all much clearer in action.[ST:wait ]"
+      "name": "...Well, just try it out anyway.\nFor this kind of thing, you just have to get used to it.[ST:wait ]"
     },
     {
       "$id": 41,
       "label": "qev016001_MSG0024",
       "style": 1,
-      "name": "Have you installed data probes at those two\nFrontierNet placement sites yet, rookie?[ST:wait ]"
+      "name": "Did you manage to install the Data Probes at the\ntwo Frontier Net Spots I told you about?[ST:wait ]"
     },
     {
       "$id": 42,
       "label": "qev016001_MSG0025",
       "style": 1,
-      "name": "Once they've both been placed, take a look at the\nFrontierNet map on your comm device.[ST:wait ]"
+      "name": "Once they're installed, take a look at the map\non your terminal next.[ST:wait ]"
     },
     {
       "$id": 43,
       "label": "qev016001_MSG0110",
       "style": 1,
-      "name": "All the placement sites you've installed probes at\nwill be highlighted there. Go ahead and select\none to start with.[ST:wait ]"
+      "name": "The spots where you installed them will be lit up,\nso select them and[ST:wide ]—[ST:wait ]"
     },
     {
       "$id": 44,
       "label": "qev016001_MSG0111",
       "style": 1,
-      "name": "Then select Swap Data Probe and set one of the\nmining probes I gave you earlier, and then just\nrepeat the process with the other two sites.[ST:wait ]"
+      "name": "All you have to do is choose \"Swap Data Probe\"\nand change it to the Mining Probe I gave you.[ST:wait ]"
     },
     {
       "$id": 45,
       "label": "qev016001_MSG0026",
       "style": 1,
-      "name": "The probes are installed aaand...set up as mining\nprobes. Perfect.[ST:wait ]"
+      "name": "Installation of the Data Probes and changing them\nto Mining Probes... confirmed.[ST:wait ]"
     },
     {
       "$id": 46,
       "label": "qev016001_MSG0027",
       "style": 1,
-      "name": "You work fast. I'm sure that's part of what Nagi\nsees in you.[ST:wait ]"
+      "name": "You work fast. As expected of the rookie\nSecretary Nagi has high hopes for.[ST:wait ]"
     },
     {
       "$id": 47,
       "label": "qev016001_JNK0070",
       "style": 4,
-      "name": "Boast"
+      "name": "Pride"
     },
     {
       "$id": 48,
       "label": "qev016001_SEL0071",
       "style": 3,
-      "name": "Tell Kirsty it was a walk in the park."
+      "name": "Boast that a mission of this level\nis a piece of cake."
     },
     {
       "$id": 49,
       "label": "qev016001_JNK0080",
       "style": 4,
-      "name": "Downplay"
+      "name": "Humility"
     },
     {
       "$id": 50,
       "label": "qev016001_SEL0081",
       "style": 3,
-      "name": "Say you were just lucky it worked out."
+      "name": "Humbly accept that it just happened\nto go well."
     },
     {
       "$id": 51,
       "label": "qev016001_MSG0028",
       "style": 1,
-      "name": "All right there, rookie. Don't go getting a big head.\nThis stuff SHOULD be easy.[ST:wait ]"
+      "name": "If that wasn't the case, we'd be in trouble.\nThis is only the first step, after all.[ST:wait ]"
     },
     {
       "$id": 52,
       "label": "qev016001_MSG0029",
       "style": 1,
-      "name": "That humility will serve you well. Never lose sight of it.\nThat said, a little confidence doesn't hurt, either.[ST:wait ]"
+      "name": "You must never forget that feeling. But,\nit's okay to have a bit more confidence.[ST:wait ]"
     },
     {
       "$id": 53,
       "label": "qev016001_MSG0030",
       "style": 1,
-      "name": "Try setting your comm device's display to\nFrontierNet Mode.[ST:wait ]"
+      "name": "If you switch your terminal's display\nto Frontier Net mode...[ST:wait ]"
     },
     {
       "$id": 54,
       "label": "qev016001_MSG0112",
       "style": 1,
-      "name": "You should see three sites circled in red and connected\nby link lines.[ST:wait ]"
+      "name": "The three spots marked with red circles\nare connected by link lines.[ST:wait ]"
     },
     {
       "$id": 55,
       "label": "qev016001_MSG0031",
       "style": 1,
-      "name": "That's a three-site link combo. It boosts the effects of\neach of those data probes by 30 percent.[ST:wait ]"
+      "name": "This state is a 3-link combo. The effects\nof each Data Probe increase by 30%.[ST:wait ]"
     },
     {
       "$id": 56,
       "label": "qev016001_MSG0032",
       "style": 1,
-      "name": "If you get that link combo up to five neighboring sites\nwith the same data probe type set, the effects will be\namplified by 50 percent.[ST:wait ]"
+      "name": "If 5 Data Probes are linked, it's a 5-link combo,\nand the effects increase by 50%.[ST:wait ]"
     },
     {
       "$id": 57,
       "label": "qev016001_MSG0033",
       "style": 1,
-      "name": "And an eight-probe link combo will net you an extra\n80 percent. You see where this is going?[ST:wait ]"
+      "name": "Furthermore, if you link 8 Data Probes,\nyou can expect an 80% effect increase![ST:wait ]"
     },
     {
       "$id": 58,
       "label": "qev016001_MSG0034",
       "style": 1,
-      "name": "The more data probes of the same type you install\nin neighboring placement sites, the more efficient\nFrontierNet—and your related assignments—will be.[ST:wait ]"
+      "name": "In other words, by installing the same Data Probes\nin nearby spots, you'll be able to carry out your\nmissions more efficiently.[ST:wait ]"
     },
     {
       "$id": 59,
       "label": "qev016001_MSG0035",
       "style": 1,
-      "name": "So? Think you've got the hang of all this chaining-\ndata-probes jazz?[ST:wait ]"
+      "name": "How is it? That's a link combo.\nDid you understand?[ST:wait ]"
     },
     {
       "$id": 60,
       "label": "qev016001_JNK0090",
       "style": 4,
-      "name": "Confirm"
+      "name": "Affirmative"
     },
     {
       "$id": 61,
       "label": "qev016001_SEL0091",
       "style": 3,
-      "name": "Nod confidently."
+      "name": "Nod, indicating you understood."
     },
     {
       "$id": 62,
       "label": "qev016001_JNK0100",
       "style": 4,
-      "name": "Deny"
+      "name": "Negative"
     },
     {
       "$id": 63,
       "label": "qev016001_SEL0101",
       "style": 3,
-      "name": "Stare at Kirsty, utterly confused."
+      "name": "Look troubled, indicating you\nstill don't really get it."
     },
     {
       "$id": 64,
       "label": "qev016001_MSG0036",
       "style": 1,
-      "name": "Swift pupils make teaching a pleasure.[ST:wait ]"
+      "name": "It's easy to teach an excellent rookie like you.[ST:wait ]"
     },
     {
       "$id": 65,
@@ -408,73 +408,73 @@
       "$id": 66,
       "label": "qev016001_MSG0038",
       "style": 1,
-      "name": "Look, don't worry. This will come to you, all right?\nTake your time with it. Try each type. Experiment.[ST:wait ]"
+      "name": "Then don't rush, and try testing them\nout one by one.[ST:wait ]"
     },
     {
       "$id": 67,
       "label": "qev016001_MSG0039",
       "style": 1,
-      "name": "There's no wrong way to install or change a data\nprobe. It's just about boosting efficiency. Either way,\nyou can go on exploring worry free.[ST:wait ]"
+      "name": "Because there is no such thing as failure\nwhen installing or swapping Data Probes.[ST:wait ]"
     },
     {
       "$id": 68,
       "label": "qev016001_MSG0040",
       "style": 1,
-      "name": "Well then, I'd say that concludes your first assignment.[ST:wait ]"
+      "name": "For now, this concludes your first mission.[ST:wait ]"
     },
     {
       "$id": 69,
       "label": "qev016001_MSG0041",
       "style": 1,
-      "name": "You can have this research probe by way of reward.\nDon't say I never gave you anything![ST:wait ]"
+      "name": "As a reward, I'll give you a Research Data Probe\nas a present.[ST:wait ]"
     },
     {
       "$id": 70,
       "label": "qev016001_MSG0042",
       "style": 1,
-      "name": "I'll teach you about that one next, okay?[ST:wait ]"
+      "name": "Next, we'll study this Research Data Probe.[ST:wait ]"
     },
     {
       "$id": 71,
       "label": "qev016001_MSG0043",
       "style": 1,
-      "name": "We'll start the same way—I'll point you to a new\nFrontierNet probe site, and you'll go install a probe.[ST:wait ]"
+      "name": "This time too, first install a Data Probe at the\nFrontier Net Spot I designate[ST:wide ]—[ST:wait ]"
     },
     {
       "$id": 72,
       "label": "qev016001_MSG0044",
       "style": 1,
-      "name": "Then you'll use your comm device to change its type\nto a research probe.[ST:wait ]"
+      "name": "And from your terminal, change that\nData Probe to a Research Data Probe.[ST:wait ]"
     },
     {
       "$id": 73,
       "label": "qev016001_MSG0045",
       "style": 1,
-      "name": "Then, on top of that, I want you to go find an\nunexplored territory known as the Rock Cavern.[ST:wait ]"
+      "name": "...Also, I'd like you to find an unexplored territory\ncalled the Rock Cavern.[ST:wait ]"
     },
     {
       "$id": 74,
       "label": "qev016001_MSG0046",
       "style": 1,
-      "name": "Good luck.[ST:wait ]"
+      "name": "I'm counting on you.[ST:wait ]"
     },
     {
       "$id": 75,
       "label": "qev016001_MSG0047",
       "style": 1,
-      "name": "Once you've installed a data probe at the placement\nsite I specified, change its type to a research probe.[ST:wait ]"
+      "name": "Install a Data Probe at the Frontier Net Spot\nI specified, and then change it to a\nResearch Data Probe.[ST:wait ]"
     },
     {
       "$id": 76,
       "label": "qev016001_MSG0048",
       "style": 1,
-      "name": "And while you're at it, find the unexplored territory\nknown as the Rock Cavern and marvel at it with\nyour own eyes.[ST:wait ]"
+      "name": "And please discover the unexplored territory named\nthe Rock Cavern with your own eyes.[ST:wait ]"
     },
     {
       "$id": 77,
       "label": "qev016001_MSG0049",
       "style": 1,
-      "name": "I'm curious just what sort of place it is.\nHopefully not dangerous, right? Ha![ST:wait ]"
+      "name": "The Rock Cavern...\nI wonder what kind of place it is.[ST:wait ]"
     },
     {
       "$id": 78,
@@ -486,91 +486,91 @@
       "$id": 79,
       "label": "qev016001_MSG0051",
       "style": 1,
-      "name": "The Rock Cavern looks like a pretty mystical place.[ST:wait ]"
+      "name": "The Rock Cavern[ST:wide ]—\nIt's a very mystical place, isn't it?[ST:wait ]"
     },
     {
       "$id": 80,
       "label": "qev016001_MSG0052",
       "style": 1,
-      "name": "Folks here in town were all blown away by it.[ST:wait ]"
+      "name": "Everyone in the city seemed to be moved\nby seeing the inside of an unknown cave.[ST:wait ]"
     },
     {
       "$id": 81,
       "label": "qev016001_MSG0053",
       "style": 1,
-      "name": "Heh. You seem curious how they could have seen it\nwithout leaving NLA.[ST:wait ]"
+      "name": "...Are you wondering how the people in the city\nwere able to see the scenery of the Rock Cavern?[ST:wait ]"
     },
     {
       "$id": 82,
       "label": "qev016001_MSG0054",
       "style": 1,
-      "name": "Well, by accessing the research probe you installed,\nthey can view the data it's amassed.[ST:wait ]"
+      "name": "By accessing the Research Data Probe you installed,\nthe people of NLA are able to view the\naccumulated data.[ST:wait ]"
     },
     {
       "$id": 83,
       "label": "qev016001_MSG0055",
       "style": 1,
-      "name": "For the civilians living here, that's their only way of\nlearning about the outside world.[ST:wait ]"
+      "name": "For the non-combatants who can't leave the city walls,\nthat is their sole means of knowing the outside world.[ST:wait ]"
     },
     {
       "$id": 84,
       "label": "qev016001_MSG0056",
       "style": 1,
-      "name": "The probes you're installing aren't just a way to track\ndown parts of the White Whale's Lifepoint.[ST:wait ]"
+      "name": "The Data Probes you install aren't just a means to\ngrasp the future by discovering Lifepoints.[ST:wait ]"
     },
     {
       "$id": 85,
       "label": "qev016001_MSG0057",
       "style": 1,
-      "name": "Sure, they serve as a source of hope for the future,\nbut they're also helping people today.[ST:wait ]"
+      "name": "It's a job that supports the present lives of the\npeople living in this city and gives them hope.[ST:wait ]"
     },
     {
       "$id": 86,
       "label": "qev016001_MSG0058",
       "style": 1,
-      "name": "I hope that underscores just how important your work\nis. Make sense?[ST:wait ]"
+      "name": "How is it? Do you understand the importance\nof the work you'll be doing from now on?[ST:wait ]"
     },
     {
       "$id": 87,
       "label": "qev016001_JNK0110",
       "style": 4,
-      "name": "Confirm"
+      "name": "Affirmative"
     },
     {
       "$id": 88,
       "label": "qev016001_SEL0111",
       "style": 3,
-      "name": "Nod in agreement."
+      "name": "Reflect on Kirsty's words and nod."
     },
     {
       "$id": 89,
       "label": "qev016001_JNK0120",
       "style": 4,
-      "name": "Press"
+      "name": "Question"
     },
     {
       "$id": 90,
       "label": "qev016001_SEL0121",
       "style": 3,
-      "name": "Ask Kirsty if there are any more perks."
+      "name": "Ask if this generates any personal profit."
     },
     {
       "$id": 91,
       "label": "qev016001_MSG0059",
       "style": 1,
-      "name": "I like the fire in your eyes.[ST:wait ]"
+      "name": "You have good eyes.[ST:wait ]"
     },
     {
       "$id": 92,
       "label": "qev016001_MSG0060",
       "style": 1,
-      "name": "Oh, and you'll also receive sightseeing profits if a lot of\npeople access your research probes.[ST:wait ]"
+      "name": "That's right. If a lot of people access your\nResearch Data Probes, you'll receive tourism revenue.[ST:wait ]"
     },
     {
       "$id": 93,
       "label": "qev016001_MSG0061",
       "style": 1,
-      "name": "New BLADEs need all sorts of equipment,\nand a little extra income never hurts.[ST:wait ]"
+      "name": "A rookie BLADE has a lot of expenses, right?\nYou should use it to help cover them.[ST:wait ]"
     },
     {
       "$id": 94,
@@ -582,19 +582,19 @@
       "$id": 95,
       "label": "qev016001_MSG0063",
       "style": 1,
-      "name": "Not much slips by you, does it?[ST:wait ]"
+      "name": "Hehe... rest assured.[ST:wait ]"
     },
     {
       "$id": 96,
       "label": "qev016001_MSG0064",
       "style": 1,
-      "name": "Well, don't worry—you'll be paid sightseeing profits if\nlots of people access your research probes.[ST:wait ]"
+      "name": "If a lot of people access your Research Data Probes,\nyou'll receive tourism revenue.[ST:wait ]"
     },
     {
       "$id": 97,
       "label": "qev016001_MSG0065",
       "style": 1,
-      "name": "Set enough of them, and you may find yourself raking\nin a small fortune.[ST:wait ]"
+      "name": "If you install a lot of Research Data Probes...\nyou might make a fortune.[ST:wait ]"
     },
     {
       "$id": 98,
@@ -780,49 +780,49 @@
       "$id": 128,
       "label": "qev016001_MSG0092",
       "style": 1,
-      "name": "Discovering unexplored territories like the Rock Cavern\nwill get lots of people to access your research probes,\nso keep an eye out for them.[ST:wait ]"
+      "name": "...Like this time, if you discover unexplored territories,\nyou can increase the number of people accessing your\nResearch Data Probes, so you should keep exploring.[ST:wait ]"
     },
     {
       "$id": 129,
       "label": "qev016001_MSG0093",
       "style": 1,
-      "name": "Hmm, what else am I forgetting... Ah.[ST:wait ]"
+      "name": "Also, something I forgot to teach you...\nOh, right.[ST:wait ]"
     },
     {
       "$id": 130,
       "label": "qev016001_MSG0097",
       "style": 1,
-      "name": "As you install more probes, miranium mining should\nalso pick up steam.[ST:wait ]"
+      "name": "As you install many Data Probes and\nproceed with Miranium mining...[ST:wait ]"
     },
     {
       "$id": 131,
       "label": "qev016001_MSG0098",
       "style": 1,
-      "name": "You may eventually reach the limit of how much\nmiranium you can hold.[ST:wait ]"
+      "name": "I think there will be times when you reach the\nmaximum limit of Miranium you can hold.[ST:wait ]"
     },
     {
       "$id": 132,
       "label": "qev016001_MSG0099",
       "style": 1,
-      "name": "In that case, setting special data probes known as\nstorage probes can help.[ST:wait ]"
+      "name": "In those cases, you can install a special Data Probe\ncalled a Storage Probe...[ST:wait ]"
     },
     {
       "$id": 133,
       "label": "qev016001_MSG0100",
       "style": 1,
-      "name": "They'll raise the limit of how much miranium you can\nstore.[ST:wait ]"
+      "name": "To increase your maximum Miranium holding\nlimit and deal with it.[ST:wait ]"
     },
     {
       "$id": 134,
       "label": "qev016001_MSG0101",
       "style": 1,
-      "name": "Let me give you one now as thanks for showing me\nthat unexplored territory I wouldn't have otherwise seen.[ST:wait ]"
+      "name": "As a reward for finding that wonderful unexplored\nterritory, I'll give you one of those Storage Probes.[ST:wait ]"
     },
     {
       "$id": 135,
       "label": "qev016001_MSG0102",
       "style": 1,
-      "name": "Just remember that, like any data probe, simply\ncarrying around that storage probe won't do\nyou any good.[ST:wait ]"
+      "name": "Just like the other Data Probes, just having a\nStorage Probe in your inventory won't have any effect.[ST:wait ]"
     },
     {
       "$id": 136,
@@ -834,25 +834,25 @@
       "$id": 137,
       "label": "qev016001_MSG0104",
       "style": 1,
-      "name": "You'll need to put it into actual use, so access your\ncomm device at a FrontierNet probe site to change\nthe installed probe to a storage probe.[ST:wait ]"
+      "name": "You have to change it to a Storage Probe\nfrom your terminal.[ST:wait ]"
     },
     {
       "$id": 138,
       "label": "qev016001_MSG0094",
       "style": 1,
-      "name": "...Whew. That should cover the basics.[ST:wait ]"
+      "name": "...I've taught you the basics.[ST:wait ]"
     },
     {
       "$id": 139,
       "label": "qev016001_MSG0095",
       "style": 1,
-      "name": "When more FrontierNet assignments come across my\ndesk, I'll be sure to send them your way.[ST:wait ]"
+      "name": "If there are any missions involving Frontier Net,\nI plan to ask you again.[ST:wait ]"
     },
     {
       "$id": 140,
       "label": "qev016001_MSG0096",
       "style": 1,
-      "name": "Each one spreads our roots into Mira that much farther.[ST:wait ]"
+      "name": "Let's spread our roots all across this planet Mira![ST:wait ]"
     }
   ]
 }

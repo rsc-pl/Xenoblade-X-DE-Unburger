@@ -18,319 +18,319 @@
       "$id": 1,
       "label": "qev027001_MSG0001",
       "style": 1,
-      "name": "Ah! You there! [ST:gender p1=Mr. p2=Ms. ] BLADE, yes? This may seem like a\nchance meeting, but I assure you it is not, all right?[ST:wait ]"
+      "name": "Whoa there, passing BLADE-san!\nMeeting here must be fate, jan! [ST:wait ]"
     },
     {
       "$id": 2,
       "label": "qev027001_MSG0002",
       "style": 1,
-      "name": "Clearly, you are fated to to to hear me out, you see?[ST:wait ]"
+      "name": "Just stop and listen to what I have to say, jan! [ST:wait ]"
     },
     {
       "$id": 3,
       "label": "qev027001_MSG0003",
       "style": 1,
-      "name": "This is a deeply serious matter to us, okay?\nSo before you say anything, I'm going to start talking.[ST:wait ]"
+      "name": "Even if you say no, I'm going to start talking anyway, jan.\nBecause this is a serious problem for us, jan! [ST:wait ]"
     },
     {
       "$id": 4,
       "label": "qev027001_MSG0004",
       "style": 1,
-      "name": "The short short version is that the world really is a\ndangerous place, isn't it? Yes. So so dangerous.[ST:wait ]"
+      "name": "To put it quickly, the point is that the world has become\na truly dangerous place lately, jan, but... [ST:wait ]"
     },
     {
       "$id": 5,
       "label": "qev027001_MSG0005",
       "style": 1,
-      "name": "Especially recently, yes? It's gotten to the point where a\nperson can't even step outside to do maintenance work,\nhasn't it?[ST:wait ]"
+      "name": "Recently, it's gone too far, jan!\nIt's gotten to the point where we can't even do maintenance outside in peace, jan! [ST:wait ]"
     },
     {
       "$id": 6,
       "label": "qev027001_MSG0006",
       "style": 1,
-      "name": "Or or like right now, as we're out here talking...[ST:wait ]"
+      "name": "And even as I say this............ [ST:wait ]"
     },
     {
       "$id": 7,
       "label": "qev027001_MSG0007",
       "style": 1,
-      "name": "Have a look above us, maybe?[ST:wait ]"
+      "name": "Look, look up there, jan. [ST:wait ]"
     },
     {
       "$id": 8,
       "label": "qev027001_MSG0008",
       "style": 1,
-      "name": "We could be minding our business, working in an\nopen spot like this, and then BLAM! ...Yes? Blam?[ST:wait ]"
+      "name": "If we do our work in conspicuous places like this,\nwe get shot at out of nowhere, jan. [ST:wait ]"
     },
     {
       "$id": 9,
       "label": "qev027001_MSG0009",
       "style": 1,
-      "name": "Fourteen people have already been killed, right?\nIt's far past the point where we can ignore this.[ST:wait ]"
+      "name": "This makes 14 victims so far, jan.\nThat's a number we can't just ignore, jan! [ST:wait ]"
     },
     {
       "$id": 10,
       "label": "qev027001_MSG0010",
       "style": 1,
-      "name": "And it's not like we don't know who's responsible, yes?\nAs I'm sure you've guessed, it has to be the Growth.[ST:wait ]"
+      "name": "But we have a pretty good idea of who the culprit is, jan.\nAs you might have guessed, it has to be the work of the Growth, jan. [ST:wait ]"
     },
     {
       "$id": 11,
       "label": "qev027001_MSG0011",
       "style": 1,
-      "name": "We were supposed to have chased the last of them out\nof the area, but but there are still stragglers, it seems?[ST:wait ]"
+      "name": "Those guys should have been completely driven out from around here,\nbut there are still stragglers left, jan! [ST:wait ]"
     },
     {
       "$id": 12,
       "label": "qev027001_MSG0012",
       "style": 1,
-      "name": "There's only one reason I can think of for these\nsenseless attacks...[ST:wait ]"
+      "name": "I'm sure it's harassment against the Ma-non who wouldn't become their subordinates, and... [ST:wait ]"
     },
     {
       "$id": 13,
       "label": "qev027001_MSG0013",
       "style": 1,
-      "name": "It's a mix of spite against the Ma-non they couldn't\nenslave and the humans they couldn't defeat![ST:wait ]"
+      "name": "They must be carrying out these meaningless attacks to vent their frustration\nover being no match for armed Earthlings, jan! [ST:wait ]"
     },
     {
       "$id": 14,
       "label": "qev027001_MSG0014",
       "style": 1,
-      "name": "And I can't forgive that, can I? It makes me really really\nreally mad. So mad. So so mad![ST:wait ]"
+      "name": "It's unforgivable, jan! I'm furious, jan! [ST:wait ]"
     },
     {
       "$id": 15,
       "label": "qev027001_MSG0015",
       "style": 1,
-      "name": "If you feel the same, I'd like you to help me, okay?[ST:wait ]"
+      "name": "If you understand how I feel,\nI want you to be my ally, jan. [ST:wait ]"
     },
     {
       "$id": 16,
       "label": "qev027001_MSG0016",
       "style": 1,
-      "name": "You should go find those Growth survivors and beat\nthem up, yes? Beat them up a lot, even?[ST:wait ]"
+      "name": "I want you to find those remaining Growth attackers and defeat them, jan! [ST:wait ]"
     },
     {
       "$id": 17,
       "label": "qev027001_JNK0010",
       "style": 4,
-      "name": "Inquire"
+      "name": "Inquire[ST:wait ]"
     },
     {
       "$id": 18,
       "label": "qev027001_SEL0011",
       "style": 3,
-      "name": "Ask Bihabba about the scale of this Growth force."
+      "name": "Ask about the scale of the enemy forces.[ST:wait ]"
     },
     {
       "$id": 19,
       "label": "qev027001_JNK0020",
       "style": 4,
-      "name": "Doubt"
+      "name": "Doubt[ST:wait ]"
     },
     {
       "$id": 20,
       "label": "qev027001_SEL0021",
       "style": 3,
-      "name": "Question whether the Growth are truly responsible."
+      "name": "Doubt whether it is truly the Growth.[ST:wait ]"
     },
     {
       "$id": 21,
       "label": "qev027001_MSG0017",
       "style": 1,
-      "name": "Hrm... That's a reasonable question, isn't it?\nBut it's also a hard one to answer.[ST:wait ]"
+      "name": "Hmm. The enemy's scale... That's a fair question,\nbut a difficult one to answer, jan. [ST:wait ]"
     },
     {
       "$id": 22,
       "label": "qev027001_MSG0018",
       "style": 1,
-      "name": "We can at least be sure that it isn't overly large,\nmaybe?[ST:wait ]"
+      "name": "But it's certain that it's not a large force, jan. [ST:wait ]"
     },
     {
       "$id": 23,
       "label": "qev027001_MSG0019",
       "style": 1,
-      "name": "A big squad wouldn't bother sneaking around sniping\npeople, right? They'd just march on the city.[ST:wait ]"
+      "name": "If it were a large force, they wouldn't sneak around shooting at us,\nthey'd just surge in all at once, jan! [ST:wait ]"
     },
     {
       "$id": 24,
       "label": "qev027001_MSG0020",
       "style": 1,
-      "name": "Their tactics are proof that they don't have that kind of\nof of manpower to spare, you see?[ST:wait ]"
+      "name": "The fact that they go out of their way to snipe us\nis proof that the enemy's military strength doesn't have much leeway, jan! [ST:wait ]"
     },
     {
       "$id": 25,
       "label": "qev027001_MSG0021",
       "style": 1,
-      "name": "Er, what? How is that not clear?\nAnd why would you doubt me?[ST:wait ]"
+      "name": "Why, jan!\nWhy do you doubt what I'm saying, jan! [ST:wait ]"
     },
     {
       "$id": 26,
       "label": "qev027001_MSG0022",
       "style": 1,
-      "name": "It's because of you humans that this area is so so so\npeaceful, you know?[ST:wait ]"
+      "name": "Thanks to you Earthlings,\nthis area is already completely peaceful, jan! [ST:wait ]"
     },
     {
       "$id": 27,
       "label": "qev027001_MSG0023",
       "style": 1,
-      "name": "Who would think to do this kind of of cowardly crime\nbut the Growth?[ST:wait ]"
+      "name": "To pull off such malicious harassment at this stage...\nIt's unthinkable that it could be anyone but the Growth, jan! [ST:wait ]"
     },
     {
       "$id": 28,
       "label": "qev027001_MSG0024",
       "style": 1,
-      "name": "I hope you'll stop asking silly questions and help me\nout already, maybe?[ST:wait ]"
+      "name": "Stop doubting me\nand cheerfully cooperate with me, jan! [ST:wait ]"
     },
     {
       "$id": 29,
       "label": "qev027001_MSG0025",
       "style": 1,
-      "name": "Now that we've established that, I'd like you to start\nby tracking down their hideout, okay?[ST:wait ]"
+      "name": "So with that said...\nI want you to start by investigating to find the enemy's whereabouts right away, jan. [ST:wait ]"
     },
     {
       "$id": 30,
       "label": "qev027001_MSG0026",
       "style": 1,
-      "name": "Sadly, nobody thought to record the direction from\nwhich these shots have been fired and so on.\nForensics should have been more thorough, no?[ST:wait ]"
+      "name": "But as things are now, we don't know the direction they shot from, jan.\nWe really should have been observing properly, jan! [ST:wait ]"
     },
     {
       "$id": 31,
       "label": "qev027001_MSG0027",
       "style": 1,
-      "name": "Oh, is that all you need?[ST:wait ]"
+      "name": "Ah, if that's what you need... [ST:wait ]"
     },
     {
       "$id": 32,
       "label": "qev027001_MSG0028",
       "style": 1,
-      "name": "BWAUGH! D-don't just jump into a conversation like\nthat, all right? Also, wait—you're alive?![ST:wait ]"
+      "name": "Gwaaah!?\nDon't just suddenly butt into the conversation, jan!\nOr rather, you were alive, jan! [ST:wait ]"
     },
     {
       "$id": 33,
       "label": "qev027001_MSG0029",
       "style": 1,
-      "name": "Er, of course I am? True, I was hurt rather badly—\nbut as you can see, I'm still here, no?[ST:wait ]"
+      "name": "Of course I am, dawayo.\nI got heavily injured, but as you can see, I'm alive, dawayo. [ST:wait ]"
     },
     {
       "$id": 34,
       "label": "qev027001_MSG0030",
       "style": 1,
-      "name": "I'm also mad enough to to to spit. Who just shoots a\nperson out of the blue? A jerk, right?\nA jerk who you should go beat up a lot![ST:wait ]"
+      "name": "I was suddenly shot,\nand my guts are boiling with rage, dawayo!\nI want you to go and beat them up, dawayo! [ST:wait ]"
     },
     {
       "$id": 35,
       "label": "qev027001_MSG0031",
       "style": 1,
-      "name": "So you remember the direction the attack came from?[ST:wait ]"
+      "name": "Do you remember the direction you were attacked from, jan? [ST:wait ]"
     },
     {
       "$id": 36,
       "label": "qev027001_MSG0032",
       "style": 1,
-      "name": "Well, I was shot in the right side of my back, yes?\nSo then...[ST:wait ]"
+      "name": "It seems I was shot from behind, around my right hip, so... [ST:wait ]"
     },
     {
       "$id": 37,
       "label": "qev027001_MSG0033",
       "style": 1,
-      "name": "the shooter would have been north of me.[ST:wait ]"
+      "name": "The enemy is definitely in the northern direction, dawayo. [ST:wait ]"
     },
     {
       "$id": 38,
       "label": "qev027001_MSG0034",
       "style": 1,
-      "name": "There was a fair bit of percussive force to the shot,\nbut I wasn't burned to a crisp or anything, was I?[ST:wait ]"
+      "name": "There was a fair amount of impact,\nbut I didn't get burned to a crisp or anything, so... [ST:wait ]"
     },
     {
       "$id": 39,
       "label": "qev027001_MSG0035",
       "style": 1,
-      "name": "Which means the beam was extremely focused.\nA precision sniper round, perhaps? That suggests it\nwas fired from a considerable distance, no?[ST:wait ]"
+      "name": "Even considering it was a precision shot with the beam's convergence width narrowed to the limit,\nthe attack must have come from quite far away, dawayo. [ST:wait ]"
     },
     {
       "$id": 40,
       "label": "qev027001_MSG0036",
       "style": 1,
-      "name": "And based on direction and distance...that would\nplace the shooter somewhere in Primordial Wilderness?[ST:wait ]"
+      "name": "Judging from the distance and direction...\nThe enemy is likely around the Primordial Wilderness, dawayo! [ST:wait ]"
     },
     {
       "$id": 41,
       "label": "qev027001_MSG0037",
       "style": 1,
-      "name": "...Oof. I think I need to lay down.\nAll this talking has me a little...dizzy?[ST:wait ]"
+      "name": "...Huff, puff.\nI talked too much all of a sudden, dawayo.\nI don't have enough blood, and I'm feeling dizzy, dawayo. [ST:wait ]"
     },
     {
       "$id": 42,
       "label": "qev027001_MSG0038",
       "style": 1,
-      "name": "You go get rest, okay? We've got a good lead on the\nenemy now, so so don't worry. Oh, and remember to\neat lots of pizza for strength, yes?[ST:wait ]"
+      "name": "We know the gist of the enemy now,\nso you should leave the rest to us and rest, jan.\nEat lots of foods that build blood, jan! [ST:wait ]"
     },
     {
       "$id": 43,
       "label": "qev027001_MSG0039",
       "style": 1,
-      "name": "By the time you've had dinner and a nap, this whole\nmess will be over. After all, I've got an ace BLADE on\nthe job, don't I?![ST:wait ]"
+      "name": "Don't worry, by the time you've eaten, slept, and gotten better,\neverything will be settled, jan!\nTrust in the BLADE I've hired, jan. [ST:wait ]"
     },
     {
       "$id": 44,
       "label": "qev027001_MSG0040",
       "style": 1,
-      "name": "...Er, I DO have an ace BLADE on the case, right?\nPlease? Because I really need you to head north into\nPrimordial Wilderness and investigate.[ST:wait ]"
+      "name": "So with that, I'm counting on you, jan!\nI want you to start investigating in the northern direction from here, in the Primordial Wilderness, jan! [ST:wait ]"
     },
     {
       "$id": 45,
       "label": "qev027001_MSG0041",
       "style": 1,
-      "name": "Did you decide to help me out, maybe?[ST:wait ]"
+      "name": "Oh? Have you decided to listen to Bihabba's request, jan? [ST:wait ]"
     },
     {
       "$id": 46,
       "label": "qev027001_MSG0042",
       "style": 1,
-      "name": "I want you to search for whoever's sniping at us from\nnorth of here in Primordial Wilderness, all right?[ST:wait ]"
+      "name": "I want you to investigate the enemy shooting at us from the northern direction,\nin the Primordial Wilderness, jan! [ST:wait ]"
     },
     {
       "$id": 47,
       "label": "qev027001_MSG0043",
       "style": 1,
-      "name": "You're already involved at this point, so you might as\nwell see it through, yes? Nobody likes a quitter.[ST:wait ]"
+      "name": "You're already involved this much, so you might as well see it through, jan!\nLeaving things half-finished is no good, jan! [ST:wait ]"
     },
     {
       "$id": 48,
       "label": "qev027001_MSG0044",
       "style": 1,
-      "name": "Do this, and Heradot’s ghost will finally know peace.[ST:wait ]"
+      "name": "If you accept the investigation, Heradot will be happy in the afterlife too, jan! [ST:wait ]"
     },
     {
       "$id": 49,
       "label": "qev027001_MSG0045",
       "style": 1,
-      "name": "Er, sorry. Did I say ghost? No. Not ghost. Not dead.\nI mean she'll be happy wherever it is that she's\npresently recovering! ...Right?[ST:wait ]"
+      "name": "Even though Heradot is just receiving treatment right now and isn't actually dead, jan! [ST:wait ]"
     },
     {
       "$id": 50,
       "label": "qev027001_MSG0046",
       "style": 1,
-      "name": "Now, go go go! Get out in Primordial Wilderness and start\ninvestigating already, okay?![ST:wait ]"
+      "name": "Now, commence the investigation in the Primordial Wilderness, jan! [ST:wait ]"
     },
     {
       "$id": 51,
       "label": "qev027001_MSG0047",
       "style": 1,
-      "name": "Really, what is the world coming to these days?[ST:wait ]"
+      "name": "It truly is a dangerous world, jan. [ST:wait ]"
     },
     {
       "$id": 52,
       "label": "qev027001_MSG0048",
       "style": 1,
-      "name": "We Ma-non just want to live easy, free, peaceful lives,\ndon't we? Of course we go.[ST:wait ]"
+      "name": "We Ma-non just want to live leisurely and freely, jan. [ST:wait ]"
     },
     {
       "$id": 53,
       "label": "qev027001_MSG0049",
       "style": 1,
-      "name": "We don't need anyone else coming in and ruining that,\nright?[ST:wait ]"
+      "name": "We don't want anyone interfering with our way of life, jan! [ST:wait ]"
     }
   ]
 }

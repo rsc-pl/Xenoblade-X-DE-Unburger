@@ -18,13 +18,13 @@
       "$id": 1,
       "label": "qev025901_MSG0001",
       "style": 1,
-      "name": "Er, hello? You're the human who helped Dr. Staccata\nstop Fraisie, aren't you?[ST:wait ]"
+      "name": "Oh... aren't you the Earthling who took down Fraisie\nwith Dr. Staccata?[ST:wait ]"
     },
     {
       "$id": 2,
       "label": "qev025901_MSG0002",
       "style": 1,
-      "name": "Good. Good timing. I need your help, you see?\nThe doctor still hasn't come back from his undercover\ninvestigation, and and I don't know what to do.[ST:wait ]"
+      "name": "You came at just the right time, you know!\nThe doctor hasn't come back from his undercover investigation at all,\nso I was just wondering what I should do![ST:wait ]"
     },
     {
       "$id": 3,
@@ -36,163 +36,163 @@
       "$id": 4,
       "label": "qev025901_SEL0011",
       "style": 3,
-      "name": "Ask Jilinbo what the undercover investigation is about."
+      "name": "Ask what the undercover investigation is."
     },
     {
       "$id": 5,
       "label": "qev025901_JNK0020",
       "style": 4,
-      "name": "Shrug"
+      "name": "Forget"
     },
     {
       "$id": 6,
       "label": "qev025901_SEL0021",
       "style": 3,
-      "name": "Say the name Fraisie doesn't ring any bells."
+      "name": "State that you don't recall the name Fraisie."
     },
     {
       "$id": 7,
       "label": "qev025901_MSG0003",
       "style": 1,
-      "name": "That rotten Fraisie took what was left of her cult and\ndisappeared into Cauldros, you know?[ST:wait ]"
+      "name": "That Fraisie took the remaining believers after that\nand disappeared into the Valley of Oblivion, you know![ST:wait ]"
     },
     {
       "$id": 8,
       "label": "qev025901_MSG0004",
       "style": 1,
-      "name": "Wow. You're very very forgetful, yes?[ST:wait ]"
+      "name": "Wow! Aren't you a super forgetful person?![ST:wait ]"
     },
     {
       "$id": 9,
       "label": "qev025901_MSG0005",
       "style": 1,
-      "name": "She's the terrible person who poisoned the water at\nBiahno Lake, then handed out a miracle cure in order\nto recruit Ma-non into her her cult?[ST:wait ]"
+      "name": "She's the worst kind of villain who spread a lethal poison in Biahno Lake,\nhanded out \"Miracle Water\" to the Ma-non, and tried to propagate her cult, you know![ST:wait ]"
     },
     {
       "$id": 10,
       "label": "qev025901_MSG0006",
       "style": 1,
-      "name": "Sounds familiar, no? Well, it turns out she took all her\nremaining followers and disappeared in Cauldros.[ST:wait ]"
+      "name": "...Remember now?\nAfter that, she took the remaining believers of the God of Miracles\nand disappeared into the Black Steel Continent, didn't she![ST:wait ]"
     },
     {
       "$id": 11,
       "label": "qev025901_MSG0007",
       "style": 1,
-      "name": "The doctor was sure she'd try some new scam,\nso so so he pretended to be a believer and snuck\ninto their hideout.[ST:wait ]"
+      "name": "So, worried she might pull something again, Staccata-sensei\ndisguised himself as a believer and sneaked into their hideout![ST:wait ]"
     },
     {
       "$id": 12,
       "label": "qev025901_MSG0008",
       "style": 1,
-      "name": "But but but I haven't heard from him at ALL, okay?\nI'm worried he's gotten caught or...you know?[ST:wait ]"
+      "name": "But there hasn't been any contact from him at all...\nI'm worried that maybe the doctor got caught by Fraisie...[ST:wait ]"
     },
     {
       "$id": 13,
       "label": "qev025901_MSG0009",
       "style": 1,
-      "name": "...Huh? Well, speak of the deviled-egg pizza—it's the\ndoctor, isn't it?! Will you wait just a second, please...?[ST:wait ]"
+      "name": "...Whoa! Speak of the devil, this is unbelievable!\nA transmission from the doctor, isn't it!\nWait a sec, I'll answer it right away.[ST:wait ]"
     },
     {
       "$id": 14,
       "label": "qev025901_MSG0010",
       "style": 1,
-      "name": "Hello hello? Yes yes, this is Jilinbo.\nWhere are you, Doctor?[ST:wait ]"
+      "name": "Yes, yes, this is Jilinbo!\nDoctor, where are you right now...[ST:wait ]"
     },
     {
       "$id": 15,
       "label": "qev025901_MSG0011",
       "style": 1,
-      "name": "I'm in the Bandits' Refuge in in in Cauldros.\nYou must get in touch with [ST:playername ].\nTell [ST:gender p1=him p2=her ] I need help, and [ST:gender p1=he p2=she ] has to hurry, okay?[ST:wait ]"
+      "name": "I am currently at the Bandits' Hideout on the Black Steel Continent!\nPlease contact [ST:playername ] immediately\nand tell them to come rescue me![ST:wait ]"
     },
     {
       "$id": 16,
       "label": "qev025901_MSG0012",
       "style": 1,
-      "name": "...Uh-oh. Fraisie's coming back, it seems.\nPlease, Jilinbo. I don't have long before—[ST:wait ]"
+      "name": "...Tch! Fraisie has returned!\nI'm counting on you, at this rate Staccata will...[ST:wait ]"
     },
     {
       "$id": 17,
       "label": "qev025901_MSG0013",
       "style": 1,
-      "name": "...I lost the connection.[ST:wait ]"
+      "name": "Doctor!\n...Ah, the connection cut out, didn't it![ST:wait ]"
     },
     {
       "$id": 18,
       "label": "qev025901_MSG0014",
       "style": 1,
-      "name": "This is very very very bad news, although at least you\nwere around when it happened, no?[ST:wait ]"
+      "name": "This is super bad news, but\nthe fact that you were here was good timing, wasn't it![ST:wait ]"
     },
     {
       "$id": 19,
       "label": "qev025901_MSG0015",
       "style": 1,
-      "name": "Please, you have to go rescue the doctor, okay?\nAnd then maybe stop Fraisie from whatever she's\ntrying to do?[ST:wait ]"
+      "name": "I'm begging you! Please save Staccata-sensei!\nPlease go stop Fraisie's evil deeds, won't you![ST:wait ]"
     },
     {
       "$id": 20,
       "label": "qev025901_MSG0016",
       "style": 1,
-      "name": "Dr. Staccata is headstrong and impulsive,\nbut he has a true heart, you know?[ST:wait ]"
+      "name": "Then please head to the Black Steel Continent right away, okay![ST:wait ]"
     },
     {
       "$id": 21,
       "label": "qev025901_MSG0017",
       "style": 1,
-      "name": "So hurry to Cauldros, yes? Yes! And thank you.[ST:wait ]"
+      "name": "Please rescue our clumsy but straightforward...\nvery pretty doctor![ST:wait ]"
     },
     {
       "$id": 22,
       "label": "qev025901_MSG0022",
       "style": 1,
-      "name": "Whatever Fraisie's cooked up this time,\nit it it can't be good, no?[ST:wait ]"
+      "name": "Since it's Fraisie, she's definitely doing something no good, isn't she![ST:wait ]"
     },
     {
       "$id": 23,
       "label": "qev025901_MSG0023",
       "style": 1,
-      "name": "So please head to Bandits' Refuge in Cauldros and\nsave Dr. Staccata, won't you?[ST:wait ]"
+      "name": "Please head to the Bandits' Hideout on the Black Steel Continent\nat super speed and save the doctor, okay![ST:wait ]"
     },
     {
       "$id": 24,
       "label": "qev025901_MSG0024",
       "style": 1,
-      "name": "Dr. Staccata's back safe, yes? And I hear Fraisie's also\nbeen captured? This is a good news parade![ST:wait ]"
+      "name": "Yahoo! The doctor is back!\nAnd it looks like Fraisie was caught too,\nso congratulations all around, isn't it![ST:wait ]"
     },
     {
       "$id": 25,
       "label": "qev025901_MSG0025",
       "style": 1,
-      "name": "Please let me give you this as thanks, if I may?[ST:wait ]"
+      "name": "This is a reward from Jilinbo.\nPlease accept it without any hesitation, okay![ST:wait ]"
     },
     {
       "$id": 26,
       "label": "qev025901_MSG0026",
       "style": 1,
-      "name": "Still, um...I guess all of of of the Ma-non that Fraisie\ntook with her were killed, right?[ST:wait ]"
+      "name": "Say...\nIt looks like all the Ma-non Fraisie took with her ended up getting killed, didn't they?[ST:wait ]"
     },
     {
       "$id": 27,
       "label": "qev025901_MSG0027",
       "style": 1,
-      "name": "If you and Dr. Staccata hadn't saved me, I'd probably\nhave been there with them, wouldn't I?[ST:wait ]"
+      "name": "If I hadn't been saved by the doctor and you,\nJilinbo might have been killed too, you know...[ST:wait ]"
     },
     {
       "$id": 28,
       "label": "qev025901_MSG0028",
       "style": 1,
-      "name": "So I've decided to spend my life keeping the doc safe.\nHe's so impulsive, and I think that's probably the best\nway to repay him?[ST:wait ]"
+      "name": "...So from now on, Jilinbo will protect the reckless doctor\neven if it costs my life!\nYeah, that's what returning a favor is all about, isn't it?[ST:wait ]"
     },
     {
       "$id": 29,
       "label": "qev025901_JNK0030",
       "style": 4,
-      "name": "Agree"
+      "name": "Affirm"
     },
     {
       "$id": 30,
       "label": "qev025901_SEL0031",
       "style": 3,
-      "name": "Leave Dr. Staccata in Jilinbo's care."
+      "name": "Leave Staccata in Jilinbo's hands."
     },
     {
       "$id": 31,
@@ -204,19 +204,19 @@
       "$id": 32,
       "label": "qev025901_SEL0041",
       "style": 3,
-      "name": "Tell Jilinbo to be wary of xenoforms\nmasquerading as humans."
+      "name": "Tell him to be careful of aliens disguising themselves as Earthlings."
     },
     {
       "$id": 33,
       "label": "qev025901_MSG0029",
       "style": 1,
-      "name": "Leave it to me! Oh, but if you could teach me how\nto fight sometime, that might actually be...good?[ST:wait ]"
+      "name": "You can leave it to me, can't you!\n...Oh, that's right. If you can, please teach Jilinbo how to fight sometime![ST:wait ]"
     },
     {
       "$id": 34,
       "label": "qev025901_MSG0030",
       "style": 1,
-      "name": "That sounds like real trouble, doesn't it? I'll be sure to\nkeep the the the doctor away from anyone who's even\na little bit suspicious.[ST:wait ]"
+      "name": "Those are some troublesome folks, aren't they!\nGot it, I won't let a single suspicious person near the doctor, okay![ST:wait ]"
     }
   ]
 }

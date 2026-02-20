@@ -18,19 +18,19 @@
       "$id": 1,
       "label": "qev013105_MSG0001",
       "style": 1,
-      "name": "PRESENT KEY TO OPEN SAFE.[ST:wait ]"
+      "name": "WILL YOU UNLOCK THE SAFE? \nTHEN PLEASE PRESENT THE KEY.[ST:wait ]"
     },
     {
       "$id": 2,
       "label": "qev013105_MSG0002",
       "style": 1,
-      "name": "SCANNING...[ST:wait ]"
+      "name": "VALIDATING KEY...[ST:wait ]"
     },
     {
       "$id": 3,
       "label": "qev013105_MSG0003",
       "style": 1,
-      "name": "VALIDATING...[ST:wait ]"
+      "name": "AUTHENTICATING...[ST:wait ]"
     },
     {
       "$id": 4,
@@ -42,19 +42,19 @@
       "$id": 5,
       "label": "qev013105_MSG0005",
       "style": 1,
-      "name": "KEY ONE OF FOUR VERIFIED.\nPLEASE PRESENT NEXT KEY.[ST:wait ]"
+      "name": "THEN PLEASE PRESENT THE REMAINING THREE KEYS.[ST:wait ]"
     },
     {
       "$id": 6,
       "label": "qev013105_MSG0006",
       "style": 1,
-      "name": "Ha ha! Get a load of this idiot!\nWorks every time![ST:wait ]"
+      "name": "Hahahaha! This one fell for it too!! \nNo matter how many times we do it, this method is foolproof![ST:wait ]"
     },
     {
       "$id": 7,
       "label": "qev013105_MSG0007",
       "style": 1,
-      "name": "Lemme clue you in, [ST:playername ].\nThat safe only opens with all four of our keys.\nOne for each survivor.[ST:wait ]"
+      "name": "[ST:playername ]! \nThat safe won't open without the keys of the survivors \nfrom that team... all four of them![ST:wait ]"
     },
     {
       "$id": 8,
@@ -66,7 +66,7 @@
       "$id": 9,
       "label": "qev013105_SEL0011",
       "style": 3,
-      "name": "Demand to know if they were all in on it from the start."
+      "name": "Ask if they were all in on it."
     },
     {
       "$id": 10,
@@ -78,97 +78,97 @@
       "$id": 11,
       "label": "qev013105_SEL0021",
       "style": 3,
-      "name": "Inquire about there being four keys."
+      "name": "Ask about the existence of the fourth key."
     },
     {
       "$id": 12,
       "label": "qev013105_MSG0008",
       "style": 1,
-      "name": "Surprised? They always are.\nIsn't that right, Fosdyke?[ST:wait ]"
+      "name": "Didn't notice, did you? \nSimple as that, right, Fosdyke![ST:wait ]"
     },
     {
       "$id": 13,
       "label": "qev013105_MSG0009",
       "style": 1,
-      "name": "Don't you worry about the number of keys!\nYou won't live to see that safe opened anyway.[ST:wait ]"
+      "name": "You're going to die here anyway. \nWhy does that matter?[ST:wait ]"
     },
     {
       "$id": 14,
       "label": "qev013105_MSG0010",
       "style": 1,
-      "name": "One more nosy fool taken care of, eh, Fosdyke?[ST:wait ]"
+      "name": "Hah! It worked again this time, Fosdyke![ST:wait ]"
     },
     {
       "$id": 15,
       "label": "qev013105_MSG0011",
       "style": 1,
-      "name": "Oh, indeed. Once they hear a tale of sordid betrayal,\nsuch do-gooders are all too eager to lend a hand.[ST:wait ]"
+      "name": "They immediately trust you when you show them \na falling out among friends.[ST:wait ]"
     },
     {
       "$id": 16,
       "label": "qev013105_MSG0012",
       "style": 1,
-      "name": "They'll doubt one side or the other,\nbut no one thinks to doubt the entire story.\nWe humans are such a simple lot![ST:wait ]"
+      "name": "Even if they doubt an individual, they don't suspect everyone... \nPeople are such simple creatures![ST:wait ]"
     },
     {
       "$id": 17,
       "label": "qev013105_MSG0013",
       "style": 1,
-      "name": "And speaking of simple, you've made your\nown disposal quite convenient. No one will\never find you out here, let alone suspect us.[ST:wait ]"
+      "name": "No one will find us here, and we won't be suspected. \nIt's the safest, most surefire, and perfect strategy.[ST:wait ]"
     },
     {
       "$id": 18,
       "label": "qev013105_MSG0014",
       "style": 1,
-      "name": "Briggs, you should have been an actor.\nEven I bought that![ST:wait ]"
+      "name": "As long as we have Briggs's realistic acting, \neveryone will be fooled.[ST:wait ]"
     },
     {
       "$id": 19,
       "label": "qev013105_MSG0015",
       "style": 1,
-      "name": "Is that supposed to be sarcasm, kid?[ST:wait ]"
+      "name": "Don't poke fun at me, youngster.[ST:wait ]"
     },
     {
       "$id": 20,
       "label": "qev013105_MSG0016",
       "style": 1,
-      "name": "And forget simple—people are just greedy.\nRisking their lives to come scrounge for a\nshiny pile of metal![ST:wait ]"
+      "name": "Still, coming all the way out here blinded by money \nin a life-or-death situation... Earthlings really are greedy bastards.[ST:wait ]"
     },
     {
       "$id": 21,
       "label": "qev013105_MSG0017",
       "style": 1,
-      "name": "Like you can talk.[ST:wait ]"
+      "name": "Look who's talking.[ST:wait ]"
     },
     {
       "$id": 22,
       "label": "qev013105_MSG0018",
       "style": 1,
-      "name": "Or you.[ST:wait ]"
+      "name": "You too.[ST:wait ]"
     },
     {
       "$id": 23,
       "label": "qev013105_MSG0019",
       "style": 1,
-      "name": "And double for you. Now let's finish up here![ST:wait ]"
+      "name": "You too... \nNow, let's do this![ST:wait ]"
     },
     {
       "$id": 24,
       "label": "qev013105_MSG0020",
       "style": 1,
-      "name": "PRESENT KEY TO OPEN SAFE.[ST:wait ]"
+      "name": "WILL YOU UNLOCK THE SAFE? \nTHEN PLEASE PRESENT THE KEY.[ST:wait ]"
     },
     {
       "$id": 25,
       "label": "qev013105_MSG0021",
       "style": 1,
-      "name": "SCANNING...[ST:wait ]"
+      "name": "VALIDATING KEY...[ST:wait ]"
     },
     {
       "$id": 26,
       "label": "qev013105_MSG0022",
       "style": 1,
-      "name": "VALIDATING...[ST:wait ]"
+      "name": "AUTHENTICATING...[ST:wait ]"
     },
     {
       "$id": 27,
@@ -180,25 +180,25 @@
       "$id": 28,
       "label": "qev013105_MSG0024",
       "style": 1,
-      "name": "KEY ONE OF FOUR VERIFIED.\nPLEASE PRESENT NEXT KEY.[ST:wait ]"
+      "name": "THEN PLEASE PRESENT THE REMAINING THREE KEYS.[ST:wait ]"
     },
     {
       "$id": 29,
       "label": "qev013105_MSG0025",
       "style": 1,
-      "name": "So Briggs got offed, did he?[ST:wait ]"
+      "name": "So Briggs has died...[ST:wait ]"
     },
     {
       "$id": 30,
       "label": "qev013105_MSG0026",
       "style": 1,
-      "name": "Should've worked on his acting.[ST:wait ]"
+      "name": "He lacked acting skills.[ST:wait ]"
     },
     {
       "$id": 31,
       "label": "qev013105_MSG0027",
       "style": 1,
-      "name": "Heh. You look like you've seen a ghost.\nNeed me to catch you up?[ST:wait ]"
+      "name": "Hmm? You look like a pigeon that just got shot with a peashooter. \nDo you want me to explain the situation?[ST:wait ]"
     },
     {
       "$id": 32,
@@ -210,7 +210,7 @@
       "$id": 33,
       "label": "qev013105_SEL0031",
       "style": 3,
-      "name": "Ask what's going on."
+      "name": "Demand an explanation as to why Fosdyke is here."
     },
     {
       "$id": 34,
@@ -222,37 +222,37 @@
       "$id": 35,
       "label": "qev013105_SEL0041",
       "style": 3,
-      "name": "Refuse to listen to one more word."
+      "name": "Prepare for battle, stating you don't need an explanation."
     },
     {
       "$id": 36,
       "label": "qev013105_MSG0028",
       "style": 1,
-      "name": "I fear that's a secret for the Celeste Three.\n...Well, Four, actually.[ST:wait ]"
+      "name": "I decline. \nThis is a secret kept only among us, the Celeste Three... \nNo, the Celeste Four.[ST:wait ]"
     },
     {
       "$id": 37,
       "label": "qev013105_MSG0029",
       "style": 1,
-      "name": "Careful, Fosdyke. This one's got more bite\nthan the others up till now.[ST:wait ]"
+      "name": "...Fosdyke, don't mess up. \nThis one seems different from the usual weaklings.[ST:wait ]"
     },
     {
       "$id": 38,
       "label": "qev013105_MSG0030",
       "style": 1,
-      "name": "Huh. Looks like this one's sharper than the others\nup till now. Keep your wits about you, Fosdyke.[ST:wait ]"
+      "name": "I see... This one seems different from the usual weaklings. \nFosdyke, be on your guard...[ST:wait ]"
     },
     {
       "$id": 39,
       "label": "qev013105_MSG0031",
       "style": 1,
-      "name": "Perhaps. Still, it's nothing we can't handle.[ST:wait ]"
+      "name": "It seems so... \nbut [ST:gender p1=he's p2=she's ] no match for us.[ST:wait ]"
     },
     {
       "$id": 40,
       "label": "qev013105_MSG0032",
       "style": 1,
-      "name": "You can ask Briggs to fill you in when you\nmeet him in hell![ST:wait ]"
+      "name": "Please ask Briggs about the whole truth in the afterlife! \nNow then... here we go![ST:wait ]"
     },
     {
       "$id": 41,

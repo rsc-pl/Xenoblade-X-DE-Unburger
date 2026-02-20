@@ -18,79 +18,79 @@
       "$id": 1,
       "label": "qev010401_MSG0001",
       "style": 1,
-      "name": "What am I going to do? This can't be all the parts...[ST:wait ]"
+      "name": "Ahhh~ What should I do...\nNo matter how I look at it, there aren't enough parts...[ST:wait ]"
     },
     {
       "$id": 2,
       "label": "qev010401_MSG0002",
       "style": 1,
-      "name": "Er, y-yes! Hello! Welcome! Have a seat right here!\nI mean, um, if you want to...sit down.[ST:wait ]"
+      "name": "Y-Yes, welcome!\nPlease take a seat right here.[ST:wait ]"
     },
     {
       "$id": 3,
       "label": "qev010401_MSG0003",
       "style": 1,
-      "name": "No espresso or lattes today, I'm afraid.\nWe're, uh...sold out. Yes! That's it! So sad...[ST:wait ]"
+      "name": "Um, we're actually sold out of espresso and cafe lattes\ntoday. Is that alright with you?[ST:wait ]"
     },
     {
       "$id": 4,
       "label": "qev010401_JNK0010",
       "style": 4,
-      "name": "Compromise"
+      "name": "Agree"
     },
     {
       "$id": 5,
       "label": "qev010401_SEL0011",
       "style": 3,
-      "name": "Agree to drink whatever she can offer."
+      "name": "Nod and say anything is fine."
     },
     {
       "$id": 6,
       "label": "qev010401_JNK0020",
       "style": 4,
-      "name": "Complain"
+      "name": "Question"
     },
     {
       "$id": 7,
       "label": "qev010401_SEL0021",
       "style": 3,
-      "name": "Demand to know why there's no espresso."
+      "name": "Ask why they are sold out."
     },
     {
       "$id": 8,
       "label": "qev010401_MSG0004",
       "style": 1,
-      "name": "Oh, w-wow! You're being really nice about this...[ST:wait ]"
+      "name": "You're a really nice person...[ST:wait ]"
     },
     {
       "$id": 9,
       "label": "qev010401_MSG0005",
       "style": 1,
-      "name": "But no. I mean, you took the time to come here and\nwhatnot, so you deserve to drink what you really want.[ST:wait ]"
+      "name": "No... But... That's no good!\nYou came all the way here, so I want you to\ndrink whatever you like...[ST:wait ]"
     },
     {
       "$id": 10,
       "label": "qev010401_MSG0006",
       "style": 1,
-      "name": "Well, aren't you one nosy customer?\nMust reeeally need your caffeine fix, huh?[ST:wait ]"
+      "name": "You're quite the nosy customer, aren't you...[ST:wait ]"
     },
     {
       "$id": 11,
       "label": "qev010401_MSG0007",
       "style": 1,
-      "name": "But yeah, I kinda can't make them today.[ST:wait ]"
+      "name": "It's not so much why as it is... I can't make them...\nUm...[ST:wait ]"
     },
     {
       "$id": 12,
       "label": "qev010401_MSG0008",
       "style": 1,
-      "name": "Hey, um, are you good with machines by any chance?[ST:wait ]"
+      "name": "A-Are you good with machines?![ST:wait ]"
     },
     {
       "$id": 13,
       "label": "qev010401_MSG0009",
       "style": 1,
-      "name": "You certainly SEEM good with machines!\nJust, you know...aura-wise? So...maybe?[ST:wait ]"
+      "name": "You just look like someone who would be\nreally good with machines.\nWell, are you?![ST:wait ]"
     },
     {
       "$id": 14,
@@ -102,7 +102,7 @@
       "$id": 15,
       "label": "qev010401_SEL0031",
       "style": 3,
-      "name": "Tell Latte that you can sling a mean wrench if need be."
+      "name": "Answer that you are fairly confident."
     },
     {
       "$id": 16,
@@ -114,451 +114,451 @@
       "$id": 17,
       "label": "qev010401_SEL0041",
       "style": 3,
-      "name": "Admit you're probably better at breaking stuff."
+      "name": "Answer that you aren't very confident."
     },
     {
       "$id": 18,
       "label": "qev010401_MSG0010",
       "style": 1,
-      "name": "I knew it! Sometimes you can just tell.[ST:wait ]"
+      "name": "I knew it!\nMy eyes didn't deceive me after all...[ST:wait ]"
     },
     {
       "$id": 19,
       "label": "qev010401_MSG0011",
       "style": 1,
-      "name": "Really? Well, um, I'm sure you're still better at repairing\nstuff than me, right? I mean, you kind of have to be.[ST:wait ]"
+      "name": "...Eh?\nBut you're definitely better than me! Right?![ST:wait ]"
     },
     {
       "$id": 20,
       "label": "qev010401_MSG0012",
       "style": 1,
-      "name": "I'm a complete basket case when it comes to\nmechanical stuff. Well, and most other stuff, actually.[ST:wait ]"
+      "name": "...I'm just really bad with machines...\nWell, not just machines...[ST:wait ]"
     },
     {
       "$id": 21,
       "label": "qev010401_MSG0013",
       "style": 1,
-      "name": "Anyway, the owner just got this new espresso machine,\nand it seems that I've somehow managed to...break it.[ST:wait ]"
+      "name": "I ended up breaking the espresso machine\nwe just had issued to us the other day...[ST:wait ]"
     },
     {
       "$id": 22,
       "label": "qev010401_MSG0014",
       "style": 1,
-      "name": "It should be okay once I get the right parts,\nbut finding them has been a nightmare.[ST:wait ]"
+      "name": "It looks like it can be fixed if I just had the parts...\nBut they seem pretty hard to get ahold of...[ST:wait ]"
     },
     {
       "$id": 23,
       "label": "qev010401_MSG0015",
       "style": 1,
-      "name": "Er, I don't suppose you might know where I could find\nthree heatproof inox pipes, do you?[ST:wait ]"
+      "name": "Um... do you happen to know where I can find...\nUltra-heat-resistant stainless piping?[ST:wait ]"
     },
     {
       "$id": 24,
       "label": "qev010401_MSG0016",
       "style": 1,
-      "name": "Oh, gosh! I'm so glad I asked![ST:wait ]"
+      "name": "Oh, thank goodness!\nIt really doesn't hurt to ask.[ST:wait ]"
     },
     {
       "$id": 25,
       "label": "qev010401_MSG0017",
       "style": 1,
-      "name": "As soon as that machine is up and running, I'll fix\nyou the tastiest latte you've ever had! I mean it![ST:wait ]"
+      "name": "Once the espresso machine is fixed,\nI'll make you the most delicious cafe latte ever.\nSo... please help me out![ST:wait ]"
     },
     {
       "$id": 26,
       "label": "qev010401_MSG0018",
       "style": 1,
-      "name": "My boss begged for WEEKS to get this espresso\nmachine made for the shop.[ST:wait ]"
+      "name": "I submitted requests for ages...\nAnd the espresso machine finally arrived\nat the shop...[ST:wait ]"
     },
     {
       "$id": 27,
       "label": "qev010401_MSG0019",
       "style": 1,
-      "name": "As soon as it's fixed, I'll make you the best latte ever,\nI swear. So, um, PLEASE can you go find me those\nheatproof inox pipes?[ST:wait ]"
+      "name": "Um... Once it's fixed, I'll make you a\ndelicious cafe latte... So please, make sure you\nget that Ultra-heat-resistant stainless piping.[ST:wait ]"
     },
     {
       "$id": 28,
       "label": "qev010401_MSG0020",
       "style": 1,
-      "name": "My boss was asking why the espresso machine isn't\naround. I told her it called in sick, and then she just\nkind of looked at me funny and walked away.[ST:wait ]"
+      "name": "The manager just asked me why\nthe espresso machine is missing...[ST:wait ]"
     },
     {
       "$id": 29,
       "label": "qev010401_MSG0021",
       "style": 1,
-      "name": "If this thing doesn't get fixed soon, I'm so dead![ST:wait ]"
+      "name": "Ahhh~ If I don't fix it soon,\nmy crimes are going to be exposed...[ST:wait ]"
     },
     {
       "$id": 30,
       "label": "qev010401_JNK0050",
       "style": 4,
-      "name": "Assure"
+      "name": "Encourage"
     },
     {
       "$id": 31,
       "label": "qev010401_SEL0051",
       "style": 3,
-      "name": "Tell Joinot to worry as you have the pipes she needs."
+      "name": "Tell Latte you brought the parts\nand cheer her up."
     },
     {
       "$id": 32,
       "label": "qev010401_JNK0060",
       "style": 4,
-      "name": "Chide"
+      "name": "Point Out"
     },
     {
       "$id": 33,
       "label": "qev010401_SEL0061",
       "style": 3,
-      "name": "Reprimand Latte for lying to her boss."
+      "name": "Point out that she still hasn't told\nthe shop about breaking it."
     },
     {
       "$id": 34,
       "label": "qev010401_MSG0022",
       "style": 1,
-      "name": "Really?! Wow, you're so dependable!\nUnlike that machine. ...Or me.[ST:wait ]"
+      "name": "R-Really?!\nUnlike me, you seem like someone\nwho's really capable at their job![ST:wait ]"
     },
     {
       "$id": 35,
       "label": "qev010401_MSG0023",
       "style": 1,
-      "name": "Can I see? Er, please?\nI'm kinda sorta freaking out about this here.[ST:wait ]"
+      "name": "Um, hurry and show me![ST:wait ]"
     },
     {
       "$id": 36,
       "label": "qev010401_MSG0024",
       "style": 1,
-      "name": "It took forever to get this thing in, and I broke it\nbefore it made a single cup! YOU try telling your\nboss something like that![ST:wait ]"
+      "name": "It was something they went out of their way to get for us,\nand I broke it before even making a single cup...\nI feel too guilty to tell the manager...[ST:wait ]"
     },
     {
       "$id": 37,
       "label": "qev010401_MSG0025",
       "style": 1,
-      "name": "So, um...any luck? I don't suppose you've found those\nheatproof inox pipes yet, have you?[ST:wait ]"
+      "name": "Um... so how about it?\nWere you unable to get the\nUltra-heat-resistant stainless piping after all?[ST:wait ]"
     },
     {
       "$id": 38,
       "label": "qev010401_MSG0026",
       "style": 1,
-      "name": "That's perfect, thank you! Really![ST:wait ]"
+      "name": "This is it! Thank you!\nThank you so much!![ST:wait ]"
     },
     {
       "$id": 39,
       "label": "qev010401_MSG0027",
       "style": 1,
-      "name": "Now we can start offering espresso again!\n...Or for the first time, depending on how you\nlook at it.[ST:wait ]"
+      "name": "Now I'll be able to serve espresso\nand all sorts of other things![ST:wait ]"
     },
     {
       "$id": 40,
       "label": "qev010401_MSG0028",
       "style": 1,
-      "name": "Oh, right! Hold on just ONE second! I'll be right back![ST:wait ]"
+      "name": "...Oh, right!\nPlease wait here for a second![ST:wait ]"
     },
     {
       "$id": 41,
       "label": "qev010401_MSG0029",
       "style": 1,
-      "name": "I'm going to fix you the best thank-you latte EVER![ST:wait ]"
+      "name": "I'll go make you a delicious\ncafe latte as thanks![ST:wait ]"
     },
     {
       "$id": 42,
       "label": "qev010401_JNK0070",
       "style": 4,
-      "name": "Accept"
+      "name": "Confirm"
     },
     {
       "$id": 43,
       "label": "qev010401_SEL0071",
       "style": 3,
-      "name": "Enthusiastically accept Latte's offer."
+      "name": "Accept Latte's kind offer."
     },
     {
       "$id": 44,
       "label": "qev010401_JNK0080",
       "style": 4,
-      "name": "Decline"
+      "name": "Deny"
     },
     {
       "$id": 45,
       "label": "qev010401_SEL0081",
       "style": 3,
-      "name": "Politely decline Latte's offer."
+      "name": "Decline Latte's kind offer."
     },
     {
       "$id": 46,
       "label": "qev010401_MSG0030",
       "style": 1,
-      "name": "Aw, you're so sweet. Believe me, it's my pleasure![ST:wait ]"
+      "name": "You really know what's up!\nI'm so happy![ST:wait ]"
     },
     {
       "$id": 47,
       "label": "qev010401_MSG0031",
       "style": 1,
-      "name": "Honestly, it just feels nice to be able to give someone\nwhat they want. Seems like most BLADEs prefer a stiff\ndrink over a good cup of joe.[ST:wait ]"
+      "name": "...I mean, most BLADEs prefer alcohol over a good cup of tea...\nso they rarely ever order something like this.[ST:wait ]"
     },
     {
       "$id": 48,
       "label": "qev010401_MSG0032",
       "style": 1,
-      "name": "But I'm going to pull out all the stops and make this the\nfinest coffee creation of my career![ST:wait ]"
+      "name": "I'll put my skills to work and make you\nthe best cup ever![ST:wait ]"
     },
     {
       "$id": 49,
       "label": "qev010401_MSG0033",
       "style": 1,
-      "name": "What? No, you have to let me do this for you! I need\npractice before making one for real custom— Er...[ST:wait ]"
+      "name": "Please don't hold back!\nI mean, I need a guinea pig before serving it to everyone else...[ST:wait ]"
     },
     {
       "$id": 50,
       "label": "qev010401_MSG0034",
       "style": 1,
-      "name": "I mean, ha! Ha ha! Don't mind me! Just be a minute.\n...Please have a drink before you go?[ST:wait ]"
+      "name": "...Ah, never mind!\nIt won't take long, so please stay\nand have a drink![ST:wait ]"
     },
     {
       "$id": 51,
       "label": "qev010401_MSG0035",
       "style": 1,
-      "name": "Oh, I know! It's been hot lately, so why don't we make\nit an iced latte?[ST:wait ]"
+      "name": "Let's see...\nIt's been getting a bit hot lately, so\nan iced one would be better, right?[ST:wait ]"
     },
     {
       "$id": 52,
       "label": "qev010401_MSG0036",
       "style": 1,
-      "name": "You hold on to your seat, now! I may be useless with\nmachines, but I'm one mean bean slinger![ST:wait ]"
+      "name": "Hehe! You'll be surprised, you know?\nI might be bad with machines, but...\nI'm actually a pretty capable barista![ST:wait ]"
     },
     {
       "$id": 53,
       "label": "qev010401_MSG0037",
       "style": 1,
-      "name": "Eeep! Aaaaaack! NOOOOOOOOOOOO![ST:wait ]"
+      "name": "Gya... GYAAAAAAAAAAH!![ST:wait ]"
     },
     {
       "$id": 54,
       "label": "qev010401_MSG0038",
       "style": 1,
-      "name": "Huh? Latte, wait! Where are you going?[ST:wait ]"
+      "name": "...Hey! Latte!\nWhere do you think you're going?![ST:wait ]"
     },
     {
       "$id": 55,
       "label": "qev010401_JNK0090",
       "style": 4,
-      "name": "Ignore"
+      "name": "Interest"
     },
     {
       "$id": 56,
       "label": "qev010401_SEL0091",
       "style": 3,
-      "name": "Ask Bergamot what happened to Latte."
+      "name": "Ask what on earth happened to Latte."
     },
     {
       "$id": 57,
       "label": "qev010401_JNK0100",
       "style": 4,
-      "name": "Worry"
+      "name": "Question"
     },
     {
       "$id": 58,
       "label": "qev010401_SEL0101",
       "style": 3,
-      "name": "Ask Bergamot to tell you about herself."
+      "name": "Ask Bergamot various questions about herself."
     },
     {
       "$id": 59,
       "label": "qev010401_MSG0039",
       "style": 1,
-      "name": "Beats me. She went into the back, screamed,\nthen ran off.[ST:wait ]"
+      "name": "Just when I thought she went into the kitchen,\nshe suddenly let out a scream and ran off...[ST:wait ]"
     },
     {
       "$id": 60,
       "label": "qev010401_MSG0040",
       "style": 1,
-      "name": "If I had to bet, I'd say she broke some kitchen\nequipment. ...Again.[ST:wait ]"
+      "name": "...Well, she probably broke\nanother piece of cooking equipment.[ST:wait ]"
     },
     {
       "$id": 61,
       "label": "qev010401_MSG0041",
       "style": 1,
-      "name": "That girl is death to electronics. The register, customers'\ncomm devices, you name it. She even managed to\nshort-circuit a light bulb once.[ST:wait ]"
+      "name": "From the shop's cash register to a customer's terminal...\nLatte has destroyed just about every single thing\nin this shop.[ST:wait ]"
     },
     {
       "$id": 62,
       "label": "qev010401_MSG0042",
       "style": 1,
-      "name": "Frankly, nothing that breaks around her surprises me\nanymore.[ST:wait ]"
+      "name": "At this point, no matter what she breaks,\nI'm not even surprised anymore.[ST:wait ]"
     },
     {
       "$id": 63,
       "label": "qev010401_MSG0043",
       "style": 1,
-      "name": "Me? Oh, I own the place. Nice to meet you.[ST:wait ]"
+      "name": "I'm the owner of this place.[ST:wait ]"
     },
     {
       "$id": 64,
       "label": "qev010401_MSG0044",
       "style": 1,
-      "name": "Unlike the muddy slop other places give you,\nwe use only the purest springwater for our coffee.[ST:wait ]"
+      "name": "Unlike other cafes, our shop brews coffee\nusing only highly purified water.[ST:wait ]"
     },
     {
       "$id": 65,
       "label": "qev010401_MSG0045",
       "style": 1,
-      "name": "We even grow our own beans on actual plants.\nNo synthetics here![ST:wait ]"
+      "name": "We don't use those easily obtainable synthetic beans either.\nWe use pure coffee beans grown from scratch in a plant...[ST:wait ]"
     },
     {
       "$id": 66,
       "label": "qev010401_MSG0046",
       "style": 1,
-      "name": "This café is the one place in my life where I make no\ncompromises. Well, when Latte's not tearing it down,\nanyway.[ST:wait ]"
+      "name": "...You see, this shop is very important to me,\nfilled with all my particular standards.\n...Though Latte keeps destroying it.[ST:wait ]"
     },
     {
       "$id": 67,
       "label": "qev010401_MSG0047",
       "style": 1,
-      "name": "Are you a friend of hers? Would you mind checking on\nher and seeing if she's okay?[ST:wait ]"
+      "name": "...So, are you an acquaintance of Latte's?\nIf so, could you go check on her for me?[ST:wait ]"
     },
     {
       "$id": 68,
       "label": "qev010401_MSG0048",
       "style": 1,
-      "name": "I can't leave the shop, and I really need her back here\nas soon as possible. Thanks a lot.[ST:wait ]"
+      "name": "I can't leave the shop...\nso please tell her to hurry back.[ST:wait ]"
     },
     {
       "$id": 69,
       "label": "qev010401_MSG0049",
       "style": 1,
-      "name": "I'm so sorry! I'm so sorry!\nOh, God! Why do I end up\nbreaking everything I touch!?[ST:wait ]"
+      "name": "I'm sorry! I'm sorry!\nOh, God! Why do I end up breaking everything I touch?![ST:wait ]"
     },
     {
       "$id": 70,
       "label": "qev010401_MSG0050",
       "style": 1,
-      "name": "Ack, sorry, I... Oh. It's you.[ST:wait ]"
+      "name": "Ah... You're the customer from before...[ST:wait ]"
     },
     {
       "$id": 71,
       "label": "qev010401_MSG0051",
       "style": 1,
-      "name": "I'm so sorry! Your iced latte...[ST:wait ]"
+      "name": "...Um... I'm sorry!\nEven though I took your order for an iced cafe latte...[ST:wait ]"
     },
     {
       "$id": 72,
       "label": "qev010401_MSG0052",
       "style": 1,
-      "name": "I was trying to get the ice when the stupid freezer...\nI mean, when stupid ME broke it![ST:wait ]"
+      "name": "When I tried to get the ice...\nUm... I broke the refrigerator...[ST:wait ]"
     },
     {
       "$id": 73,
       "label": "qev010401_JNK0110",
       "style": 4,
-      "name": "Boggle"
+      "name": "Surprise"
     },
     {
       "$id": 74,
       "label": "qev010401_SEL0111",
       "style": 3,
-      "name": "Ask Latte how someone can even break a freezer."
+      "name": "Ask her how one even manages to break a refrigerator."
     },
     {
       "$id": 75,
       "label": "qev010401_JNK0120",
       "style": 4,
-      "name": "Console"
+      "name": "Encourage"
     },
     {
       "$id": 76,
       "label": "qev010401_SEL0121",
       "style": 3,
-      "name": "Console Latte by telling her we've all broken freezers."
+      "name": "Comfort her by saying it happens all the time."
     },
     {
       "$id": 77,
       "label": "qev010401_MSG0053",
       "style": 1,
-      "name": "I don't know what I did...[ST:wait ]"
+      "name": "I don't know...[ST:wait ]"
     },
     {
       "$id": 78,
       "label": "qev010401_MSG0054",
       "style": 1,
-      "name": "Maybe I have mutant powers and give off\nelectromagnetic waves or something.[ST:wait ]"
+      "name": "Maybe I'm equipped with some special ability\nthat emits super static electricity...[ST:wait ]"
     },
     {
       "$id": 79,
       "label": "qev010401_MSG0055",
       "style": 1,
-      "name": "That would explain why the espresso machine and the\nfreezer both died the moment I got near them...[ST:wait ]"
+      "name": "That's why the espresso machine, the refrigerator...\nThey all break just by me touching them...[ST:wait ]"
     },
     {
       "$id": 80,
       "label": "qev010401_MSG0056",
       "style": 1,
-      "name": "Curse you, machine gods! Why have you forsaken me?![ST:wait ]"
+      "name": "Oh, God! Why have you given me such a trial?![ST:wait ]"
     },
     {
       "$id": 81,
       "label": "qev010401_MSG0057",
       "style": 1,
-      "name": "...R-really? You too? Gosh, you must be a real menace\naround Dolls.[ST:wait ]"
+      "name": "R-Really?!\nYou must be quite the destroyer yourself![ST:wait ]"
     },
     {
       "$id": 82,
       "label": "qev010401_MSG0058",
       "style": 1,
-      "name": "B-but I'm glad to hear I'm not alone. Maybe the two of\nus destroyers need to go make some sort of offering to\nthe machine gods.[ST:wait ]"
+      "name": "Hehe, we're comrades... right?\nIf you don't mind, want to apologize to God together\nas fellow destroyers...?[ST:wait ]"
     },
     {
       "$id": 83,
       "label": "qev010401_MSG0059",
       "style": 1,
-      "name": "Huh? My boss needs me back at the shop?[ST:wait ]"
+      "name": "...Eh? The manager wants me to come back to the shop?[ST:wait ]"
     },
     {
       "$id": 84,
       "label": "qev010401_MSG0060",
       "style": 1,
-      "name": "But I CAN'T go back! Not after all this![ST:wait ]"
+      "name": "No way... After causing so much trouble,\nI don't know how I can face her this time...[ST:wait ]"
     },
     {
       "$id": 85,
       "label": "qev010401_MSG0061",
       "style": 1,
-      "name": "Maybe if I had a couple of L-002 fuel tanks to repair\nthe freezer... But now? I just can't...[ST:wait ]"
+      "name": "If I at least had an L-002 Fuel Tank to repair the refrigerator,\nI might have the courage to go back, but...[ST:wait ]"
     },
     {
       "$id": 86,
       "label": "qev010401_MSG0062",
       "style": 1,
-      "name": "I feel TERRIBLE asking, but can you help me out again?\nYou're the only one I can turn to.[ST:wait ]"
+      "name": "...I'm sorry.\nCould you fetch something for me again?\nYou're the only one I can rely on right now...[ST:wait ]"
     },
     {
       "$id": 87,
       "label": "qev010401_MSG0063",
       "style": 1,
-      "name": "I'll be here making supplications to the machine gods\ntill you get back with those L-002 fuel tanks.[ST:wait ]"
+      "name": "I'll be right here praying to God until you return\nwith the L-002 Fuel Tank...[ST:wait ]"
     },
     {
       "$id": 88,
       "label": "qev010401_MSG0064",
       "style": 1,
-      "name": "Maybe if I beg enough, they'll lift this curse...[ST:wait ]"
+      "name": "Praying that He lifts this curse of destruction\nplaced upon me...[ST:wait ]"
     },
     {
       "$id": 89,
       "label": "qev010401_MSG0065",
       "style": 1,
-      "name": "All I ever wanted was to make people a nice hot drink\nand bring five minutes of peace to their day.[ST:wait ]"
+      "name": "Ugh... I just want to serve everyone delicious tea\nas a barista![ST:wait ]"
     },
     {
       "$id": 90,
       "label": "qev010401_MSG0066",
       "style": 1,
-      "name": "I, um, just got a call from my boss.[ST:wait ]"
+      "name": "Um...\nI just got a call from the manager...[ST:wait ]"
     },
     {
       "$id": 91,
       "label": "qev010401_MSG0067",
       "style": 1,
-      "name": "Bergamot's got to be pretty mad, right? Am I fired?\nSuper fired? I'm probably super fired, huh?[ST:wait ]"
+      "name": "...She's probably angry, right?\nIs she... going to abandon me?[ST:wait ]"
     },
     {
       "$id": 92,
@@ -570,7 +570,7 @@
       "$id": 93,
       "label": "qev010401_SEL0131",
       "style": 3,
-      "name": "Nod and tell Latte she's probably super fired."
+      "name": "Nod and say that might be the case."
     },
     {
       "$id": 94,
@@ -582,181 +582,181 @@
       "$id": 95,
       "label": "qev010401_SEL0141",
       "style": 3,
-      "name": "Reassure Latte that everything will be just fine."
+      "name": "Reassure her that it isn't true."
     },
     {
       "$id": 96,
       "label": "qev010401_MSG0068",
       "style": 1,
-      "name": "Oh, I know you're right. But I still want to work there!\nNowhere else on Mira takes that kind of care with their\ncoffee![ST:wait ]"
+      "name": "...Even so, I still want to work at that shop.\nI can't make the best coffee without the ingredients\nthe manager so carefully selected...[ST:wait ]"
     },
     {
       "$id": 97,
       "label": "qev010401_MSG0069",
       "style": 1,
-      "name": "Plus, I just love the café! Well, the parts of it I don't\nmanage to break, anyway.[ST:wait ]"
+      "name": "More than anything, I love that shop.\n...Even though I'm always breaking things.[ST:wait ]"
     },
     {
       "$id": 98,
       "label": "qev010401_MSG0070",
       "style": 1,
-      "name": "You really think so? I mean, I guess I've burned through\na dozen coffee makers and still kept my job, so...[ST:wait ]"
+      "name": "That's right, because the manager...\nNo matter how many coffee makers I broke,\nshe never abandoned me...[ST:wait ]"
     },
     {
       "$id": 99,
       "label": "qev010401_MSG0071",
       "style": 1,
-      "name": "In any case, I need to go apologize.\nOh! Did you happen to find those L-002 fuel tanks\nfor me, by any chance?[ST:wait ]"
+      "name": "—Yeah, anyway, I have to properly apologize!\nOh right, did you manage to get the L-002 Fuel Tank?[ST:wait ]"
     },
     {
       "$id": 100,
       "label": "qev010401_MSG0072",
       "style": 1,
-      "name": "Okay! Then it's time to woman up and give the boss\na call![ST:wait ]"
+      "name": "...Alright!\nFirst, I'll gather my courage and call the manager![ST:wait ]"
     },
     {
       "$id": 101,
       "label": "qev010401_MSG0073",
       "style": 1,
-      "name": "Phew... You can do this, Latte.[ST:wait ]"
+      "name": "Do your best... me![ST:wait ]"
     },
     {
       "$id": 102,
       "label": "qev010401_MSG0074",
       "style": 1,
-      "name": "......[ST:wait ]"
+      "name": ".........[ST:wait ]"
     },
     {
       "$id": 103,
       "label": "qev010401_MSG0075",
       "style": 1,
-      "name": "...Wait, what? Why won't this thing turn on?[ST:wait ]"
+      "name": "...Wait, huh...?\nThe terminal isn't responding?[ST:wait ]"
     },
     {
       "$id": 104,
       "label": "qev010401_MSG0076",
       "style": 1,
-      "name": "Oh, you have GOT to be kidding me!\nI broke my COMM DEVICE?![ST:wait ]"
+      "name": "Eeeeeh?! Don't tell me, at a time like this...\nDid I break my terminal?![ST:wait ]"
     },
     {
       "$id": 105,
       "label": "qev010401_MSG0077",
       "style": 1,
-      "name": "It's like a bad dream...[ST:wait ]"
+      "name": "N-No way...[ST:wait ]"
     },
     {
       "$id": 106,
       "label": "qev010401_JNK0150",
       "style": 4,
-      "name": "Assist"
+      "name": "Offer"
     },
     {
       "$id": 107,
       "label": "qev010401_SEL0151",
       "style": 3,
-      "name": "Offer Latte use of your own device instead."
+      "name": "Offer to lend her your terminal."
     },
     {
       "$id": 108,
       "label": "qev010401_JNK0160",
       "style": 4,
-      "name": "Watch"
+      "name": "Silence"
     },
     {
       "$id": 109,
       "label": "qev010401_SEL0161",
       "style": 3,
-      "name": "Keep your own device far, far away from this girl."
+      "name": "Do not lend your terminal out of fear she will break it."
     },
     {
       "$id": 110,
       "label": "qev010401_MSG0078",
       "style": 1,
-      "name": "What? No, I couldn't. I'd just break yours, too.[ST:wait ]"
+      "name": "Eh... But...\nI'll probably end up breaking yours too...[ST:wait ]"
     },
     {
       "$id": 111,
       "label": "qev010401_MSG0079",
       "style": 1,
-      "name": "That's it! I'm never touching another machine again![ST:wait ]"
+      "name": "I really don't have the courage to touch another machine right now![ST:wait ]"
     },
     {
       "$id": 112,
       "label": "qev010401_MSG0080",
       "style": 1,
-      "name": "I can tell what you're thinking, and believe me, I agree.[ST:wait ]"
+      "name": "I feel like I know exactly what you're thinking...[ST:wait ]"
     },
     {
       "$id": 113,
       "label": "qev010401_MSG0081",
       "style": 1,
-      "name": "It's true. I ruin everything.[ST:wait ]"
+      "name": "It's fine... It's all my fault anyway...[ST:wait ]"
     },
     {
       "$id": 114,
       "label": "qev010401_MSG0082",
       "style": 1,
-      "name": "Ha! Classic Latte... Your mechanical troubles are proof\nof the divine at this point.[ST:wait ]"
+      "name": "...Haha! At this point, your talent for destruction\nis practically divine, Latte![ST:wait ]"
     },
     {
       "$id": 115,
       "label": "qev010401_MSG0083",
       "style": 1,
-      "name": "M-ma'am?![ST:wait ]"
+      "name": "M-Manager![ST:wait ]"
     },
     {
       "$id": 116,
       "label": "qev010401_MSG0084",
       "style": 1,
-      "name": "I don't remember giving you a lunch break this long.[ST:wait ]"
+      "name": "Honestly, what are you doing abandoning the shop like this?[ST:wait ]"
     },
     {
       "$id": 117,
       "label": "qev010401_MSG0085",
       "style": 1,
-      "name": "Look, you really think blowing up a freezer or two is\ngoing to faze me at this point?[ST:wait ]"
+      "name": "You really think I'm going to abandon you\njust because you broke a refrigerator or two now?[ST:wait ]"
     },
     {
       "$id": 118,
       "label": "qev010401_MSG0086",
       "style": 1,
-      "name": "I want the best of everything for my coffee. Including\nthe best coffee maker: Latte. the ballista barista![ST:wait ]"
+      "name": "The taste of our coffee can only be brought out by the best barista...\nLatte the Destroyer![ST:wait ]"
     },
     {
       "$id": 119,
       "label": "qev010401_MSG0087",
       "style": 1,
-      "name": "I don't know what to say... *sniff* How are you two\nyears younger than me and yet so much more mature?[ST:wait ]"
+      "name": "Ugh... Uuuuh...\nEven though you're two years younger than me, Manager...\nYou have such incredible capacity for forgiveness...[ST:wait ]"
     },
     {
       "$id": 120,
       "label": "qev010401_MSG0088",
       "style": 1,
-      "name": "Heh. Looks like Latte put you through the wringer as well.\nHere—this is from me. Please take it.[ST:wait ]"
+      "name": "...Seems like she caused you a lot of trouble too, huh?\nHere's a little something as thanks. Don't hold back.[ST:wait ]"
     },
     {
       "$id": 121,
       "label": "qev010401_MSG0089",
       "style": 1,
-      "name": "Now c'mon, Latte. You and me have a freezer to fix.[ST:wait ]"
+      "name": "Come on, let's go, Latte!\nFirst, let's get that refrigerator fixed.[ST:wait ]"
     },
     {
       "$id": 122,
       "label": "qev010401_MSG0090",
       "style": 1,
-      "name": "...Yes, ma'am![ST:wait ]"
+      "name": "...Yes![ST:wait ]"
     },
     {
       "$id": 123,
       "label": "qev010401_MSG0091",
       "style": 1,
-      "name": "Er, and next time—that is, if you're not TOTALLY sick\nof me—next time, I swear, I'll make you that latte![ST:wait ]"
+      "name": "Oh, and customer... I will absolutely serve you\nthe best cafe latte next time![ST:wait ]"
     },
     {
       "$id": 124,
       "label": "qev010401_MSG0092",
       "style": 1,
-      "name": "So I hope to see you again soon at the Sunshine Café![ST:wait ]"
+      "name": "So... please don't give up on us and\ncome visit Sunshine Cafe again![ST:wait ]"
     }
   ]
 }

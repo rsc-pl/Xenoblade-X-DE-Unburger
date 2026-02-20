@@ -18,19 +18,19 @@
       "$id": 1,
       "label": "qev050101_MSG0001",
       "style": 1,
-      "name": "Hmm. I have seen you before. You carry yourself\nwith the air of a master.[ST:wait ]"
+      "name": "Hmm... I recognize your face.\nAnd from your bearing, I wager you are quite the master.[ST:wait ]"
     },
     {
       "$id": 2,
       "label": "qev050101_MSG0002",
       "style": 1,
-      "name": "Ah! I remember![ST:wait ]"
+      "name": "...Ah, I remember now![ST:wait ]"
     },
     {
       "$id": 3,
       "label": "qev050101_MSG0003",
       "style": 1,
-      "name": "Might your name be [ST:playername ]?\nThe human who bested Prince Jiarg?[ST:wait ]"
+      "name": "Could it be? Are you [ST:playername ],\nthe one who defeated Ga Derg-sama?[ST:wait ]"
     },
     {
       "$id": 4,
@@ -42,7 +42,7 @@
       "$id": 5,
       "label": "qev050101_SEL0011",
       "style": 3,
-      "name": "Confirm Go Belg's suspicions."
+      "name": "Express surprise at the unexpected praise\nand answer that he is correct."
     },
     {
       "$id": 6,
@@ -54,121 +54,121 @@
       "$id": 7,
       "label": "qev050101_SEL0021",
       "style": 3,
-      "name": "Stay wary of Go Belg's intentions\nand say that he is mistaken."
+      "name": "Stay wary of being suddenly recognized\nand answer that he has the wrong person."
     },
     {
       "$id": 8,
       "label": "qev050101_MSG0004",
       "style": 1,
-      "name": "I knew it. Though my body may have aged,\nmy eyes remain keen.[ST:wait ]"
+      "name": "I knew it! My body may have weakened with age,\nbut it seems my eyes have not failed me yet.[ST:wait ]"
     },
     {
       "$id": 9,
       "label": "qev050101_MSG0005",
       "style": 1,
-      "name": "This is perfect. I am sure I can finally know peace if\nI entrust my dream to you.[ST:wait ]"
+      "name": "This is perfect timing!\nIt seems I can entrust my wish to you.[ST:wait ]"
     },
     {
       "$id": 10,
       "label": "qev050101_MSG0006",
       "style": 1,
-      "name": "Ha ha! Do not be modest, human.[ST:wait ]"
+      "name": "Ha ha ha ha!\nThere is no need for modesty![ST:wait ]"
     },
     {
       "$id": 11,
       "label": "qev050101_MSG0007",
       "style": 1,
-      "name": "Your feats earned you great fame among Larsians.\nI know your face as well as my own.[ST:wait ]"
+      "name": "Striking down that mighty warrior has made you\nquite the hot topic among the Lars, you know?\nNo one could easily forget that face of yours.[ST:wait ]"
     },
     {
       "$id": 12,
       "label": "qev050101_MSG0008",
       "style": 1,
-      "name": "I am called Go Belg. Though I am now retired, I was a\nfighter of some repute back on our homeworld.[ST:wait ]"
+      "name": "My name is Go Belg.\nI am retired now, but back on our home world,\nI made quite a name for myself as a warrior.[ST:wait ]"
     },
     {
       "$id": 13,
       "label": "qev050101_MSG0009",
       "style": 1,
-      "name": "I now spend my days training the next generation.[ST:wait ]"
+      "name": "Now, I dedicate my time to educating the next generation.[ST:wait ]"
     },
     {
       "$id": 14,
       "label": "qev050101_MSG0010",
       "style": 1,
-      "name": "Ours is a warrior race. Though we may face poverty\nor hunger, that pride and culture must never be\nallowed to perish.[ST:wait ]"
+      "name": "We Larsians are a people built upon the warrior's path.\nNo matter how impoverished we may become,\nwe cannot allow our blood and culture to die out.[ST:wait ]"
     },
     {
       "$id": 15,
       "label": "qev050101_MSG0011",
       "style": 1,
-      "name": "Will you show me your strength, fellow warrior?[ST:wait ]"
+      "name": "I would like to formally request a favor of you.\nSimply show me your strength.[ST:wait ]"
     },
     {
       "$id": 16,
       "label": "qev050101_MSG0012",
       "style": 1,
-      "name": "My ancestral armaments and a modest sum await you\nwhen you complete this task. What say you?[ST:wait ]"
+      "name": "Once you have successfully completed my request,\nI shall reward you with a secret weapon and compensation.\nWhat do you say?[ST:wait ]"
     },
     {
       "$id": 17,
       "label": "qev050101_MSG0013",
       "style": 1,
-      "name": "My thanks. First, I would beg a simple demonstration of\nyour skill—an indigen hunt.[ST:wait ]"
+      "name": "I have my thanks. Let us begin with a little test.\nI would ask that you hunt down a specific native creature.[ST:wait ]"
     },
     {
       "$id": 18,
       "label": "qev050101_MSG0014",
       "style": 1,
-      "name": "Your target is a creature called the welkin levitath.\nI wish for you to slay two of them.[ST:wait ]"
+      "name": "It is a beast known as\nthe Welkin Luciola.[ST:wait ]"
     },
     {
       "$id": 19,
       "label": "qev050101_MSG0015",
       "style": 1,
-      "name": "I hear they make Primordial Wilderness their home.[ST:wait ]"
+      "name": "I hear the Welkin Luciola\ncan be found in the Primordial Wilderness.[ST:wait ]"
     },
     {
       "$id": 20,
       "label": "qev050101_MSG0016",
       "style": 1,
-      "name": "I will wait here for word of your victory.[ST:wait ]"
+      "name": "I am counting on you. I shall wait for you here.[ST:wait ]"
     },
     {
       "$id": 21,
       "label": "qev050101_MSG0017",
       "style": 1,
-      "name": "Your target is two welkin levitath.\nGo forth to Primordial Wilderness and strike them down.[ST:wait ]"
+      "name": "Your target is the Welkin Luciola.\nHead to the Primordial Wilderness![ST:wait ]"
     },
     {
       "$id": 22,
       "label": "qev050101_MSG0018",
       "style": 1,
-      "name": "...The longer I look upon your body, the more it seems\na great wonder.[ST:wait ]"
+      "name": "...Still, the more I look at you,\nthe more marvelous your physique appears.[ST:wait ]"
     },
     {
       "$id": 23,
       "label": "qev050101_MSG0019",
       "style": 1,
-      "name": "For such power to be held within so slight a frame\nis quite amazing. It is clear you have weathered\ncountless battles.[ST:wait ]"
+      "name": "The sheer vitality hidden within your small frame...\nYou must have survived countless battlefields.[ST:wait ]"
     },
     {
       "$id": 24,
       "label": "qev050101_MSG0020",
       "style": 1,
-      "name": "The two welkin levitath are defeated? Very good.[ST:wait ]"
+      "name": "The Welkin Luciola has been defeated.\nIndeed...[ST:wait ]"
     },
     {
       "$id": 25,
       "label": "qev050101_MSG0021",
       "style": 1,
-      "name": "Those beasts resemble the ones Larsians hunted when\ncoming of age on our home planet.[ST:wait ]"
+      "name": "The Welkin Luciola closely resembles the beast we\nLarsians must strike down to come of age.[ST:wait ]"
     },
     {
       "$id": 26,
       "label": "qev050101_MSG0022",
       "style": 1,
-      "name": "They seemed fine opponents to gauge your skill as a\nwarrior.[ST:wait ]"
+      "name": "It serves as the perfect opponent\nto measure a warrior's true capabilities.[ST:wait ]"
     },
     {
       "$id": 27,
@@ -180,133 +180,133 @@
       "$id": 28,
       "label": "qev050101_SEL0111",
       "style": 3,
-      "name": "Claim that it was hardly a challenge."
+      "name": "Puff your chest out and claim\nthat it wasn't a very tough opponent."
     },
     {
       "$id": 29,
       "label": "qev050101_JNK0120",
       "style": 4,
-      "name": "Grumble"
+      "name": "Complain"
     },
     {
       "$id": 30,
       "label": "qev050101_SEL0121",
       "style": 3,
-      "name": "Complain that Larsian customs are brutal."
+      "name": "Complain about the brutal intensity\nof Larsian customs."
     },
     {
       "$id": 31,
       "label": "qev050101_MSG0023",
       "style": 1,
-      "name": "I see you have mettle to match your skill.[ST:wait ]"
+      "name": "Ho... You certainly look the part,\nbut it seems you have the guts to match![ST:wait ]"
     },
     {
       "$id": 32,
       "label": "qev050101_MSG0024",
       "style": 1,
-      "name": "I like it! I would welcome one of your caliber as my\nthird pupil.[ST:wait ]"
+      "name": "I like you!\nI am half-tempted to make you\nmy third disciple on the spot.[ST:wait ]"
     },
     {
       "$id": 33,
       "label": "qev050101_MSG0025",
       "style": 1,
-      "name": "And yet you defeated the beast nonetheless.\nIt was a fine hunt.[ST:wait ]"
+      "name": "But the fact remains that you defeated it!\nIt was a splendid display![ST:wait ]"
     },
     {
       "$id": 34,
       "label": "qev050101_MSG0026",
       "style": 1,
-      "name": "But now is time for the true test.\nI would have you challenge my pupils.[ST:wait ]"
+      "name": "Now for the main event.\n...I would have you challenge my disciples.[ST:wait ]"
     },
     {
       "$id": 35,
       "label": "qev050101_MSG0027",
       "style": 1,
-      "name": "Two Larsian males by the names of Gi Ziordo and\nGi Ziorde.[ST:wait ]"
+      "name": "They are two Larsian men named\nGi Ziordo and Gi Ziorde.[ST:wait ]"
     },
     {
       "$id": 36,
       "label": "qev050101_MSG0028",
       "style": 1,
-      "name": "They are skilled warriors both, and all the more\nformidable when fighting as a pair.[ST:wait ]"
+      "name": "They have a fair amount of talent for battle,\nand when they fight together as a pair,\nthey exhibit truly unbelievable power, but...[ST:wait ]"
     },
     {
       "$id": 37,
       "label": "qev050101_MSG0029",
       "style": 1,
-      "name": "But of late that power has made them proud.\nThey have parted ways to train alone, no longer\nseeing the need for one another's aid.[ST:wait ]"
+      "name": "Lately, they have grown arrogant in that strength.\nClaiming they don't need each other, they scattered\nand are now training on their own.[ST:wait ]"
     },
     {
       "$id": 38,
       "label": "qev050101_MSG0030",
       "style": 1,
-      "name": "At this rate, I fear they will lose sight of their true\npotential and end life as mediocre talents.[ST:wait ]"
+      "name": "If this continues, they will lose sight of what truly\nmatters and end up as nothing but mediocre warriors.[ST:wait ]"
     },
     {
       "$id": 39,
       "label": "qev050101_MSG0031",
       "style": 1,
-      "name": "Therefore, I would ask your assistance in beating the\nsense back into them.[ST:wait ]"
+      "name": "Therefore... I want you to knock some sense into them\nand correct their misguided notions.[ST:wait ]"
     },
     {
       "$id": 40,
       "label": "qev050101_MSG0032",
       "style": 1,
-      "name": "Gi Ziordo is at King's Falls in Valley of Oblivion.[ST:wait ]"
+      "name": "Gi Ziordo is at King's Falls\nin the Valley of Oblivion.[ST:wait ]"
     },
     {
       "$id": 41,
       "label": "qev050101_MSG0033",
       "style": 1,
-      "name": "And Gi Ziorde is in White Woods, at the second Anvil Rock.[ST:wait ]"
+      "name": "Gi Ziorde is at the Second Anvil Rock\nin the White Tree Continent.[ST:wait ]"
     },
     {
       "$id": 42,
       "label": "qev050101_MSG0034",
       "style": 1,
-      "name": "I leave the matter to you. You can find me here.[ST:wait ]"
+      "name": "I leave it in your hands...\nI shall wait for you here.[ST:wait ]"
     },
     {
       "$id": 43,
       "label": "qev050101_MSG0035",
       "style": 1,
-      "name": "My pupils once urged each other on as brothers would.\nAnd as rivals, they spurred one another to greatness.[ST:wait ]"
+      "name": "Once, they encouraged each other like true brothers,\ncompeting and pushing themselves to greater heights...[ST:wait ]"
     },
     {
       "$id": 44,
       "label": "qev050101_MSG0056",
       "style": 1,
-      "name": "But somewhere they lost sight of that and came to trust\nonly in their own strength.[ST:wait ]"
+      "name": "But somewhere along the line, they forgot that spirit\nand began to drown in their own individual strength.[ST:wait ]"
     },
     {
       "$id": 45,
       "label": "qev050101_MSG0036",
       "style": 1,
-      "name": "Gi Ziordo is at King's Falls in Valley of Oblivion.[ST:wait ]"
+      "name": "Gi Ziordo is at King's Falls\nin the Valley of Oblivion.[ST:wait ]"
     },
     {
       "$id": 46,
       "label": "qev050101_MSG0037",
       "style": 1,
-      "name": "And Gi Ziorde is in White Woods, at the second Anvil Rock.[ST:wait ]"
+      "name": "Gi Ziorde is at the Second Anvil Rock\nin the White Tree Continent.[ST:wait ]"
     },
     {
       "$id": 47,
       "label": "qev050101_MSG0038",
       "style": 1,
-      "name": "I ask that you use your strength to beat the sense back\ninto them both.[ST:wait ]"
+      "name": "I want you to use your strength to correct\ntheir misguided notions... I am counting on you.[ST:wait ]"
     },
     {
       "$id": 48,
       "label": "qev050101_MSG0040",
       "style": 1,
-      "name": "You return at last! Good. I grew weary of waiting.[ST:wait ]"
+      "name": "Oh, that took quite a bit of time!\nI was growing tired of waiting.[ST:wait ]"
     },
     {
       "$id": 49,
       "label": "qev050101_MSG0041",
       "style": 1,
-      "name": "And? Were my pupils able to land a blow?[ST:wait ]"
+      "name": "How did it go?\nWere my disciples able to land even a single blow\nagainst you?[ST:wait ]"
     },
     {
       "$id": 50,
@@ -318,163 +318,163 @@
       "$id": 51,
       "label": "qev050101_SEL0031",
       "style": 3,
-      "name": "Puff out your chest as if to say it was an easy win."
+      "name": "Put on a boastful attitude and\npuff your chest out to show it was easy."
     },
     {
       "$id": 52,
       "label": "qev050101_JNK0040",
       "style": 4,
-      "name": "Reel"
+      "name": "Surrender"
     },
     {
       "$id": 53,
       "label": "qev050101_SEL0041",
       "style": 3,
-      "name": "Make a show of surrender and marvel at their strength."
+      "name": "Put your hands up in surrender and\nsay they were so strong you had trouble."
     },
     {
       "$id": 54,
       "label": "qev050101_MSG0042",
       "style": 1,
-      "name": "So they were a mere warm-up for you...[ST:wait ]"
+      "name": "So to you, my disciples were nothing more\nthan a light warm-up before breakfast![ST:wait ]"
     },
     {
       "$id": 55,
       "label": "qev050101_MSG0043",
       "style": 1,
-      "name": "All the more reason I was right to scout you.\nFor even your proud tongue serves as proof of your\nstrength and skill.[ST:wait ]"
+      "name": "It seems my judgment of you was correct.\nYou have quite the mouth on you.\nBut I certainly do not hate it![ST:wait ]"
     },
     {
       "$id": 56,
       "label": "qev050101_MSG0044",
       "style": 1,
-      "name": "I see. Well, proud fools or no, they are warriors I\ntrained with loving care.[ST:wait ]"
+      "name": "I see, I see!\nFools they may be, but they are my beloved disciples.[ST:wait ]"
     },
     {
       "$id": 57,
       "label": "qev050101_MSG0045",
       "style": 1,
-      "name": "I would hope that even a veteran such as you would\nstruggle against them—at least a little.[ST:wait ]"
+      "name": "Even a master like you should have\nat least a little trouble with them, or I'd be upset![ST:wait ]"
     },
     {
       "$id": 58,
       "label": "qev050101_MSG0046",
       "style": 1,
-      "name": "But this is all good news. Losing to you seems to have\nshown them that the path to mastery is one they will\nhave to walk together.[ST:wait ]"
+      "name": "...Yes. Defeat at your hands surely stripped them\nof the delusion that they could master the warrior's\npath without each other's support.[ST:wait ]"
     },
     {
       "$id": 59,
       "label": "qev050101_MSG0047",
       "style": 1,
-      "name": "Both returned to me separately to take stock of\nthemselves, and I sent them on to the Arms test\nhangar in NLA's administrative district.[ST:wait ]"
+      "name": "In order to reassess themselves,\nthey returned to me.\nSo, I sent them to the Arms Performance Testing Ground in NLA.[ST:wait ]"
     },
     {
       "$id": 60,
       "label": "qev050101_MSG0048",
       "style": 1,
-      "name": "The moment they see each other, I expect it will be as\nif no time has passed at all.[ST:wait ]"
+      "name": "Having seen each other's faces for the first time in a while,\nthey should have regained the bond they once shared.[ST:wait ]"
     },
     {
       "$id": 61,
       "label": "qev050101_MSG0049",
       "style": 1,
-      "name": "Which brings me to my final request.\nI would ask that you spar with my pupils once more,\nbut this time as a pair.[ST:wait ]"
+      "name": "...Which brings me to my final request. I would ask\nthat you cross blades with my disciples one more time.[ST:wait ]"
     },
     {
       "$id": 62,
       "label": "qev050101_MSG0050",
       "style": 1,
-      "name": "It will be their first fight together in some time.[ST:wait ]"
+      "name": "But this time, it won't be a one-on-one...\nYou will face the two of them fighting as a pair![ST:wait ]"
     },
     {
       "$id": 63,
       "label": "qev050101_MSG0051",
       "style": 1,
-      "name": "Go and test the measure of their bond.\nThat should be well within your ability.[ST:wait ]"
+      "name": "Go and test if the bond between my disciples is genuine.\nWith your strength, you should be more than capable![ST:wait ]"
     },
     {
       "$id": 64,
       "label": "qev050101_MSG0072",
       "style": 1,
-      "name": "When Gi Ziordo and Gi Ziorde fight side by side,\ntheir strength is magnified tenfold.[ST:wait ]"
+      "name": "Gi Ziordo and Gi Ziorde...\nWhen those two join forces,\ntheir power multiplies tenfold...[ST:wait ]"
     },
     {
       "$id": 65,
       "label": "qev050101_MSG0073",
       "style": 1,
-      "name": "Or so it was when last they fought as one.\nPlease go see whether that bond exists still.[ST:wait ]"
+      "name": "Please, see with your own eyes if the strength\nof my disciples' bond has been reawakened![ST:wait ]"
     },
     {
       "$id": 66,
       "label": "qev050101_MSG0074",
       "style": 1,
-      "name": "You have returned! And from the looks of it,\nit was a fierce battle.[ST:wait ]"
+      "name": "Oh! You have returned!\nJudging from your appearance... it was a fierce battle.[ST:wait ]"
     },
     {
       "$id": 67,
       "label": "qev050101_MSG0075",
       "style": 1,
-      "name": "What do you think? Were my pupils able to hold trust\nin one another and draw forth a power greater than\ntheir own?[ST:wait ]"
+      "name": "How did it go? Did my disciples trust in one another\nand draw out power that exceeded their own limits?[ST:wait ]"
     },
     {
       "$id": 68,
       "label": "qev050101_JNK0050",
       "style": 4,
-      "name": "Confirm[ST:wait ]"
+      "name": "Affirm"
     },
     {
       "$id": 69,
       "label": "qev050101_SEL0051",
       "style": 3,
-      "name": "Say that they were like entirely different fighters."
+      "name": "Say that fighting as a pair,\nthey were like entirely different people."
     },
     {
       "$id": 70,
       "label": "qev050101_JNK0060",
       "style": 4,
-      "name": "Deny[ST:wait ]"
+      "name": "Deny"
     },
     {
       "$id": 71,
       "label": "qev050101_SEL0061",
       "style": 3,
-      "name": "Claim that they still have a long way to go."
+      "name": "Say that they are still far too inexperienced."
     },
     {
       "$id": 72,
       "label": "qev050101_MSG0052",
       "style": 1,
-      "name": "If a warrior of your skill says so, I have no doubt.[ST:wait ]"
+      "name": "If a warrior of your caliber says so,\nthen there can be no mistake![ST:wait ]"
     },
     {
       "$id": 73,
       "label": "qev050101_MSG0053",
       "style": 1,
-      "name": "From your vantage, it must seem that way.\nBut I have looked into their eyes since they returned,\nand they shine clear and true.[ST:wait ]"
+      "name": "From your perspective, I suppose it would look that way!\nHowever, when they returned, the stagnation\nhad completely vanished from their eyes![ST:wait ]"
     },
     {
       "$id": 74,
       "label": "qev050101_MSG0054",
       "style": 1,
-      "name": "Heh. This time my pupils departed on a journey to\ntrain together.[ST:wait ]"
+      "name": "Heh. It seems my disciples have set out\non a journey of martial training together this time![ST:wait ]"
     },
     {
       "$id": 75,
       "label": "qev050101_MSG0055",
       "style": 1,
-      "name": "I doubt they will lose their way again. Competition\nbetween them will hone their edges into fine blades.[ST:wait ]"
+      "name": "They will not stray from the path again. They will\nhone each other's skills and grow tremendously.[ST:wait ]"
     },
     {
       "$id": 76,
       "label": "qev050101_MSG0058",
       "style": 1,
-      "name": "I thank you for using your strength to guide them.[ST:wait ]"
+      "name": "Thank you for using your strength\nto guide my disciples![ST:wait ]"
     },
     {
       "$id": 77,
       "label": "qev050101_MSG0057",
       "style": 1,
-      "name": "This is an old teacher's humble thanks.\nIt would please me for you to have it.[ST:wait ]"
+      "name": "This is a small token of gratitude from an inadequate master.\nPlease, accept it![ST:wait ]"
     }
   ]
 }

@@ -18,61 +18,61 @@
       "$id": 1,
       "label": "qev035103_MSG0001",
       "style": 1,
-      "name": "Zarch here. Have you sighted Odsent?[ST:wait ]"
+      "name": "...This is Zarch!\nWhat's the situation? Did you find Odsent!?[ST:wait ]"
     },
     {
       "$id": 2,
       "label": "qev035103_MSG0002",
       "style": 1,
-      "name": "...What? There, of all places?[ST:wait ]"
+      "name": "...What!?\nHe was in a place like that...[ST:wait ]"
     },
     {
       "$id": 3,
       "label": "qev035103_MSG0003",
       "style": 1,
-      "name": "I will head out at once. Keep him there![ST:wait ]"
+      "name": "Alright! I'll head there right away,\nso just stall him for now![ST:wait ]"
     },
     {
       "$id": 4,
       "label": "qev035103_JNK0010",
       "style": 4,
-      "name": "Query"
+      "name": "Question"
     },
     {
       "$id": 5,
       "label": "qev035103_SEL0011",
       "style": 3,
-      "name": "Ask how, exactly, you're supposed to \"keep him there.\""
+      "name": "Ask how you should stall him."
     },
     {
       "$id": 6,
       "label": "qev035103_JNK0020",
       "style": 4,
-      "name": "Assume"
+      "name": "Affirmation"
     },
     {
       "$id": 7,
       "label": "qev035103_SEL0021",
       "style": 3,
-      "name": "Stop Odsent by force."
+      "name": "Use force to stall him."
     },
     {
       "$id": 8,
       "label": "qev035103_MSG0004",
       "style": 1,
-      "name": "You cannot control beast's mind like Bias.\nSo you must beat beast unconscious![ST:wait ]"
+      "name": "You can't dominate a beast's mind\nlike the Bias do![ST:wait ]"
     },
     {
       "$id": 9,
       "label": "qev035103_MSG0005",
       "style": 1,
-      "name": "That also makes retraining easier for me.[ST:wait ]"
+      "name": "Beat him up until he faints!\nThat'll make it easier for me to train him later.\n...I'm counting on you![ST:wait ]"
     },
     {
       "$id": 10,
       "label": "qev035103_MSG0006",
       "style": 1,
-      "name": "Yes, warrior! Beat beast unconscious!\nThis also makes retraining easier for me.[ST:wait ]"
+      "name": "You really are a reliable warrior!\nThen, beat him up until he faints!\nThat'll make it easier for me to train him later![ST:wait ]"
     }
   ]
 }
