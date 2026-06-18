@@ -18,13 +18,13 @@
       "$id": 1,
       "label": "xs33180100_MSG0010",
       "style": 0,
-      "name": "You've regained consciousness.[ST:wait ]"
+      "name": "You're awake.[ST:wait ]"
     },
     {
       "$id": 2,
       "label": "xs33180100_MSG0020",
       "style": 0,
-      "name": "You don't appear to be injured\nfrom what I can see, but[ST:wide ]—[ST:wait ]"
+      "name": "You don't seem injured,\nat least from what I can see, but[ST:wide ]—[ST:wait ]"
     },
     {
       "$id": 3,
@@ -36,13 +36,13 @@
       "$id": 4,
       "label": "xs33180100_MSG0040",
       "style": 0,
-      "name": "Thank goodness. Both of us being safe\nis a small mercy amidst this disaster.[ST:wait ]"
+      "name": "Thank goodness. At least\nwe're both safe.[ST:wait ]"
     },
     {
       "$id": 5,
       "label": "xs33180100_MSG0050",
       "style": 0,
-      "name": "That being said[ST:wide ]— The situation\nisn't exactly looking favorable.[ST:wait ]"
+      "name": "That said[ST:wide ]— the situation\nisn't exactly looking favorable.[ST:wait ]"
     },
     {
       "$id": 6,
@@ -54,7 +54,7 @@
       "$id": 7,
       "label": "xs33180100_MSG0070",
       "style": 0,
-      "name": "It seems Void blew us all the way out here.[ST:wait ]"
+      "name": "Void seems to have blown us all the way out here.[ST:wait ]"
     },
     {
       "$id": 8,
@@ -78,13 +78,13 @@
       "$id": 11,
       "label": "xs33180100_MSG0101",
       "style": 0,
-      "name": "We are separated from our allies,\nand our Dolls crashed somewhere[ST:wide ]—[ST:wait ]"
+      "name": "We're cut off from our allies,\nand our Dolls crashed somewhere[ST:wide ]—[ST:wait ]"
     },
     {
       "$id": 12,
       "label": "xs33180100_MSG0102",
       "style": 0,
-      "name": "We're truly backed into a corner.[ST:wait ]"
+      "name": "We're completely boxed in.[ST:wait ]"
     },
     {
       "$id": 13,
@@ -96,13 +96,13 @@
       "$id": 14,
       "label": "xs33180100_SEL0104",
       "style": 3,
-      "name": "Propose that the first step should\nbe regrouping with your allies."
+      "name": "Propose regrouping with your allies\nas the first step."
     },
     {
       "$id": 15,
       "label": "xs33180100_MSG0105",
       "style": 0,
-      "name": "Yes, you're exactly right.[ST:wait ]"
+      "name": "Yes, you're right.[ST:wait ]"
     },
     {
       "$id": 16,
@@ -138,7 +138,7 @@
       "$id": 21,
       "label": "xs33180100_MSG0120",
       "style": 0,
-      "name": "activating all the cores[ST:wait ]"
+      "name": "activating every core[ST:wait ]"
     },
     {
       "$id": 22,
@@ -216,7 +216,7 @@
       "$id": 34,
       "label": "xs33180100_MSG0240",
       "style": 0,
-      "name": "If we track the location data from their emergency\nbeacons, we should be able to find them.[ST:wait ]"
+      "name": "If we track their emergency beacon data,\nwe should be able to find them.[ST:wait ]"
     },
     {
       "$id": 35,
@@ -228,13 +228,13 @@
       "$id": 36,
       "label": "xs33180100_MSG0260",
       "style": 0,
-      "name": "As a means of transportation for our search, I'd\nlike to recover them as quickly as possible.[ST:wait ]"
+      "name": "We'll need them to move around while searching,\nso I'd like to recover them as soon as possible.[ST:wait ]"
     },
     {
       "$id": 37,
       "label": "xs33180100_MSG0270",
       "style": 0,
-      "name": "Either way, let's not panic and deal\nwith things one step at a time.[ST:wait ]"
+      "name": "Either way, let's stay calm and handle\nthings one step at a time.[ST:wait ]"
     }
   ]
 }
