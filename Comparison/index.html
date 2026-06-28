@@ -68,7 +68,9 @@
                     { "data": "fan translation" },
                     { "data": "localized version" }
                 ],
-                "order": [[0, "asc"], [1, "asc"]],
+                // Keep the same order as records appear in translation_differences.json.
+                // DataTables normally sorts the first column by default; an empty order disables that.
+                "order": [],
                 "lengthMenu": [ [10, 25, 50, -1], [10, 25, 50, "All"] ],
                 "pageLength": -1
             });
