@@ -1,1 +1,306 @@
-{"schema":[{"name":"label","type":9},{"name":"style","type":2},{"name":"name","type":7}],"rows":[{"$id":1,"label":"xs11030100_MSG0001","style":0,"name":"Now, I assume you can give us the details?[ST:wait ]"},{"$id":2,"label":"xs11030100_MSG0002","style":0,"name":"Yeah[ST:wide ]—[ST:wait ]"},{"$id":3,"label":"xs11030100_MSG0003","style":0,"name":"The Life coordinates were calculated using information from\nData Probes and the White Whale's crash trajectory,[ST:wait ]"},{"$id":4,"label":"xs11030100_MSG0004","style":0,"name":"and FrontierNet analyzed that data to\ndetermine the approximate location.[ST:wait ]"},{"$id":5,"label":"xs11030100_MSG0005","style":0,"name":"You all know that much, right?[ST:wait ]"},{"$id":6,"label":"xs11030100_MSG0006","style":0,"name":"The number of Data Probes has increased, and\nthe analysis accuracy has improved significantly.[ST:wait ]"},{"$id":7,"label":"xs11030100_MSG0007","style":0,"name":"And so, finally, the real target[ST:wide ]—[ST:wait ]"},{"$id":8,"label":"xs11030100_MSG0008","style":0,"name":"In other words, we've found the coordinates\nof the Life's main body: the Central Life.[ST:wait ]"},{"$id":9,"label":"xs11030100_MSG0009","style":0,"name":"Whaaat!?[ST:wait ]"},{"$id":10,"label":"xs11030100_MSG0010","style":0,"name":"Momo!?[ST:wait ]"},{"$id":11,"label":"xs11030100_MSG0011","style":0,"name":"Is that true?[ST:wait ]"},{"$id":12,"label":"xs11030100_MSG0012","style":0,"name":"Yeah, there's almost no doubt about it.[ST:wait ]"},{"$id":13,"label":"xs11030100_MSG0013","style":0,"name":"Lin-san, you did it, mo![ST:wait ]"},{"$id":14,"label":"xs11030100_MSG0014","style":0,"name":"Yeah! Then we have to hurry![ST:wait ]"},{"$id":15,"label":"xs11030100_MSG0015","style":0,"name":"But[ST:wide ]—[ST:wait ]"},{"$id":16,"label":"xs11030100_JNK0010","style":4,"name":"Speculate"},{"$id":17,"label":"xs11030100_SEL0011","style":3,"name":"Bring up Lao's name."},{"$id":18,"label":"xs11030100_JNK0020","style":4,"name":"Observe"},{"$id":19,"label":"xs11030100_SEL0021","style":3,"name":"Wait silently for him to continue."},{"$id":20,"label":"xs11030100_MSG0016","style":0,"name":"Why Lao-san?[ST:wait ]"},{"$id":21,"label":"xs11030100_MSG0017","style":0,"name":"That's what this is.[ST:wait ]"},{"$id":22,"label":"xs11030100_MSG0018","style":0,"name":"Could it be... already broken\nor something?[ST:wait ]"},{"$id":23,"label":"xs11030100_MSG0019","style":0,"name":"If that were the case, we would\nhave stopped functioning.[ST:wait ]"},{"$id":24,"label":"xs11030100_MSG0020","style":0,"name":"Ah, right.[ST:wait ]"},{"$id":25,"label":"xs11030100_MSG0021","style":0,"name":"Lao[ST:wide ]—[ST:wait ]"},{"$id":26,"label":"xs11030100_MSG0021_2","style":0,"name":"That's what this is about, isn't it, Vandham?[ST:wait ]"},{"$id":27,"label":"xs11030100_MSG0022","style":0,"name":"Yeah. He took the [System:Ruby rt=device ]terminal[/System:Ruby] mid-analysis,\nand even kindly deleted the backups.[ST:wait ]"},{"$id":28,"label":"xs11030100_JNK0030","style":4,"name":"Regret"},{"$id":29,"label":"xs11030100_SEL0031","style":3,"name":"Regret not shooting Lao."},{"$id":30,"label":"xs11030100_JNK0040","style":4,"name":"Question"},{"$id":31,"label":"xs11030100_SEL0041","style":3,"name":"Ask if the analysis can be redone."},{"$id":32,"label":"xs11030100_MSG0024","style":0,"name":"That decision wasn't wrong.[ST:wait ]"},{"$id":33,"label":"xs11030100_MSG0025","style":0,"name":"We didn't know where on his body\nLao was hiding the [System:Ruby rt=device ]terminal[/System:Ruby].[ST:wait ]"},{"$id":34,"label":"xs11030100_MSG0026","style":0,"name":"If we had accidentally shot it, the analysis\nwould have had to start over from scratch.[ST:wait ]"},{"$id":35,"label":"xs11030100_MSG0027","style":0,"name":"But then we wouldn't make it\nbefore the operational limit.[ST:wait ]"},{"$id":36,"label":"xs11030100_MSG0028","style":0,"name":"Exactly.[ST:wait ]"},{"$id":37,"label":"xs11030100_MSG0029","style":0,"name":"Of course, we've already started.[ST:wait ]"},{"$id":38,"label":"xs11030100_MSG0030","style":0,"name":"But that coordinate data came from\na massive amount of accumulated data.[ST:wait ]"},{"$id":39,"label":"xs11030100_MSG0031","style":0,"name":"With enough time, we could probably\nget the same result. However[ST:wide ]—[ST:wait ]"},{"$id":40,"label":"xs11030100_MSG0032","style":0,"name":"The operational limit will arrive before\nthe analysis results are ready, won't it?[ST:wait ]"},{"$id":41,"label":"xs11030100_MSG0033","style":0,"name":"Yeah.[ST:wait ]"},{"$id":42,"label":"xs11030100_MSG0034","style":0,"name":"There is only one path.[ST:wait ]"},{"$id":43,"label":"xs11030100_MSG0035","style":0,"name":"Find Lao-san and get the data [System:Ruby rt=device ]terminal[/System:Ruby] back.[ST:wait ]"},{"$id":44,"label":"xs11030100_MSG0036","style":0,"name":"He likely headed to the Growth stronghold, said\nto be in the northern part of White Woods.[ST:wait ]"},{"$id":45,"label":"xs11030100_MSG0037","style":0,"name":"We'll go after him immediately.[ST:wait ]"},{"$id":46,"label":"xs11030100_MSG0038","style":0,"name":"That place the alien\nGa Derg mentioned, right?[ST:wait ]"},{"$id":47,"label":"xs11030100_MSG0039","style":0,"name":"I know I'm always relying on you,\nbut I'm counting on you again.[ST:wait ]"},{"$id":48,"label":"xs11030100_MSG0040","style":0,"name":"Lao, that bastard... what the\nhell is he trying to do?[ST:wait ]"}]}
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs11030100_MSG0001",
+      "style": 0,
+      "name": "Now, I assume you can give us the details?[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs11030100_MSG0002",
+      "style": 0,
+      "name": "Yeah[ST:wide ]—[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs11030100_MSG0003",
+      "style": 0,
+      "name": "The Life coordinates were calculated using information\nfrom Data Probes and the White Whale's crash trajectory,[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs11030100_MSG0004",
+      "style": 0,
+      "name": "and FrontierNet analyzed that data to\ndetermine the approximate location.[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs11030100_MSG0005",
+      "style": 0,
+      "name": "You all know that much, right?[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "xs11030100_MSG0006",
+      "style": 0,
+      "name": "The number of Data Probes has increased, and the\nanalysis accuracy has improved significantly.[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "xs11030100_MSG0007",
+      "style": 0,
+      "name": "And so, finally, the real target[ST:wide ]—[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "xs11030100_MSG0008",
+      "style": 0,
+      "name": "In other words, we've found the coordinates\nof the Life's main body: the Central Life.[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "xs11030100_MSG0009",
+      "style": 0,
+      "name": "Whaaat!?[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "xs11030100_MSG0010",
+      "style": 0,
+      "name": "Momo!?[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "xs11030100_MSG0011",
+      "style": 0,
+      "name": "Is that true?[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "xs11030100_MSG0012",
+      "style": 0,
+      "name": "Yeah, there's almost no doubt about it.[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "xs11030100_MSG0013",
+      "style": 0,
+      "name": "Lin-san, you did it, mo![ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "xs11030100_MSG0014",
+      "style": 0,
+      "name": "Yeah! Then we have to hurry![ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "xs11030100_MSG0015",
+      "style": 0,
+      "name": "But[ST:wide ]—[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "xs11030100_JNK0010",
+      "style": 4,
+      "name": "Speculate"
+    },
+    {
+      "$id": 17,
+      "label": "xs11030100_SEL0011",
+      "style": 3,
+      "name": "Bring up Lao's name."
+    },
+    {
+      "$id": 18,
+      "label": "xs11030100_JNK0020",
+      "style": 4,
+      "name": "Observe"
+    },
+    {
+      "$id": 19,
+      "label": "xs11030100_SEL0021",
+      "style": 3,
+      "name": "Wait silently for him to continue."
+    },
+    {
+      "$id": 20,
+      "label": "xs11030100_MSG0016",
+      "style": 0,
+      "name": "Why Lao-san?[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "xs11030100_MSG0017",
+      "style": 0,
+      "name": "That's what this is.[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "xs11030100_MSG0018",
+      "style": 0,
+      "name": "Could it be... already broken or something?[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "xs11030100_MSG0019",
+      "style": 0,
+      "name": "If that were the case, we would\nhave stopped functioning.[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "xs11030100_MSG0020",
+      "style": 0,
+      "name": "Ah, right.[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "xs11030100_MSG0021",
+      "style": 0,
+      "name": "Lao[ST:wide ]—[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "xs11030100_MSG0021_2",
+      "style": 0,
+      "name": "That's what this is about, isn't it, Vandham?[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "xs11030100_MSG0022",
+      "style": 0,
+      "name": "Yeah. He took the [System:Ruby rt=device ]terminal[/System:Ruby] mid-analysis,\nand even kindly deleted the backups.[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "xs11030100_JNK0030",
+      "style": 4,
+      "name": "Regret"
+    },
+    {
+      "$id": 29,
+      "label": "xs11030100_SEL0031",
+      "style": 3,
+      "name": "Regret not shooting Lao."
+    },
+    {
+      "$id": 30,
+      "label": "xs11030100_JNK0040",
+      "style": 4,
+      "name": "Question"
+    },
+    {
+      "$id": 31,
+      "label": "xs11030100_SEL0041",
+      "style": 3,
+      "name": "Ask if the analysis can be redone."
+    },
+    {
+      "$id": 32,
+      "label": "xs11030100_MSG0024",
+      "style": 0,
+      "name": "That decision wasn't wrong.[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "xs11030100_MSG0025",
+      "style": 0,
+      "name": "We didn't know where on his body\nLao was hiding the [System:Ruby rt=device ]terminal[/System:Ruby].[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "xs11030100_MSG0026",
+      "style": 0,
+      "name": "If we had accidentally shot it, the analysis\nwould have had to start over from scratch.[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "xs11030100_MSG0027",
+      "style": 0,
+      "name": "But then we wouldn't make it\nbefore the operational limit.[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "xs11030100_MSG0028",
+      "style": 0,
+      "name": "Exactly.[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "xs11030100_MSG0029",
+      "style": 0,
+      "name": "Of course, we've already started.[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "xs11030100_MSG0030",
+      "style": 0,
+      "name": "But that coordinate data came from a\nmassive amount of accumulated data.[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "xs11030100_MSG0031",
+      "style": 0,
+      "name": "With enough time, we could probably\nget the same result. However[ST:wide ]—[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "xs11030100_MSG0032",
+      "style": 0,
+      "name": "The operational limit will arrive before\nthe analysis results are ready, won't it?[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "xs11030100_MSG0033",
+      "style": 0,
+      "name": "Yeah.[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "xs11030100_MSG0034",
+      "style": 0,
+      "name": "There is only one path.[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "xs11030100_MSG0035",
+      "style": 0,
+      "name": "Find Lao-san and get the data [System:Ruby rt=device ]terminal[/System:Ruby] back.[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "xs11030100_MSG0036",
+      "style": 0,
+      "name": "He likely headed to the Growth stronghold, said\nto be in the northern part of White Woods.[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "xs11030100_MSG0037",
+      "style": 0,
+      "name": "We'll go after him immediately.[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "xs11030100_MSG0038",
+      "style": 0,
+      "name": "That place the alien Ga\nDerg mentioned, right?[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "xs11030100_MSG0039",
+      "style": 0,
+      "name": "I know I'm always relying on you,\nbut I'm counting on you again.[ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "xs11030100_MSG0040",
+      "style": 0,
+      "name": "Lao, that bastard... what the\nhell is he trying to do?[ST:wait ]"
+    }
+  ]
+}

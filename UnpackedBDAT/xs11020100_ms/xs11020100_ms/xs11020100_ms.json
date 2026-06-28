@@ -1,1 +1,222 @@
-{"schema":[{"name":"label","type":9},{"name":"style","type":2},{"name":"name","type":7}],"rows":[{"$id":1,"label":"xs11020100_MSG0001","style":0,"name":"Lao, what are you thinking!?[ST:wait ]"},{"$id":2,"label":"xs11020100_MSG0002","style":0,"name":"You know what that information\nmeans to us![ST:wait ]"},{"$id":3,"label":"xs11020100_MSG0003","style":0,"name":"I know. That's exactly\nwhy I took action.[ST:wait ]"},{"$id":4,"label":"xs11020100_MSG0003_2","style":0,"name":"I've been waiting for this day\nfor a long time...[ST:wait ]"},{"$id":5,"label":"xs11020100_MSG0004","style":0,"name":"Tch.[ST:wait ]"},{"$id":6,"label":"xs11020100_MSG0005","style":0,"name":"Vandham, what happened!?[ST:wait ]"},{"$id":7,"label":"xs11020100_MSG0006","style":0,"name":"It's Lao.[ST:wait ]"},{"$id":8,"label":"xs11020100_MSG0007","style":0,"name":"He's taking the data [System:Ruby rt=device ]terminal[/System:Ruby]\nand trying to defect to the Growth.[ST:wait ]"},{"$id":9,"label":"xs11020100_MSG0008","style":0,"name":"Lao-san is!?[ST:wait ]"},{"$id":10,"label":"xs11020100_MSG0009","style":0,"name":"Explain yourself, Lao.[ST:wait ]"},{"$id":11,"label":"xs11020100_MSG0010","style":0,"name":"Elma[ST:wide ]—[ST:wait ]"},{"$id":12,"label":"xs11020100_MSG0010_2","style":0,"name":"Your mistake was not\nletting me die.[ST:wait ]"},{"$id":13,"label":"xs11020100_MSG0011","style":0,"name":"You realized it, didn't you?\nThat I was the Growth spy.[ST:wait ]"},{"$id":14,"label":"xs11020100_MSG0012","style":0,"name":"It can't be![ST:wait ]"},{"$id":15,"label":"xs11020100_MSG0013","style":0,"name":"I suspected it. But... I\ndidn't want to believe it.[ST:wait ]"},{"$id":16,"label":"xs11020100_MSG0014","style":0,"name":"You're honest.[ST:wait ]"},{"$id":17,"label":"xs11020100_MSG0015","style":0,"name":"Whatever. While I'm at it, I'll take\nthis new-model Doll... the Prog Ares.[ST:wait ]"},{"$id":18,"label":"xs11020100_MSG0016","style":0,"name":"A souvenir for the Growth.[ST:wait ]"},{"$id":19,"label":"xs11020100_MSG0017","style":0,"name":"Don't give me that crap! If you're leaving,\nyou get through me one-on-one first, Lao![ST:wait ]"},{"$id":20,"label":"xs11020100_MSG0018","style":0,"name":"Like I could beat you\nbare-handed.[ST:wait ]"},{"$id":21,"label":"xs11020100_MSG0019","style":0,"name":"Lao! You bastard,\nwhat the hell are you thinking!?[ST:wait ]"},{"$id":22,"label":"xs11020100_MSG0020","style":0,"name":"One after another... Looks like you all\nhave too much time on your hands.[ST:wait ]"},{"$id":23,"label":"xs11020100_MSG0021","style":0,"name":"Don't make jokes, Lao![ST:wait ]"},{"$id":24,"label":"xs11020100_MSG0022","style":0,"name":"Stop! There's something\nwe have to retrieve from him![ST:wait ]"},{"$id":25,"label":"xs11020100_MSG0023","style":0,"name":"Damn it[ST:wide ]—[ST:wait ]"},{"$id":26,"label":"xs11020100_MSG0024","style":0,"name":"That's how it is. Sorry, Doug.[ST:wait ]"},{"$id":27,"label":"xs11020100_MSG0025","style":0,"name":"Did you seriously betray us,\nLao? The enemy is the Growth![ST:wait ]"},{"$id":28,"label":"xs11020100_MSG0026","style":0,"name":"Joining hands with walking brains and\ndog-like people... Yeah, it's no thrill.[ST:wait ]"},{"$id":29,"label":"xs11020100_MSG0027","style":0,"name":"But if our goals line up,\nwe can work together.[ST:wait ]"},{"$id":30,"label":"xs11020100_MSG0028","style":0,"name":"Goal?[ST:wait ]"},{"$id":31,"label":"xs11020100_MSG0029","style":0,"name":"Doug, you understand, don't you?[ST:wait ]"},{"$id":32,"label":"xs11020100_MSG0030","style":0,"name":"I don't understand... and I\ndon't want to understand![ST:wait ]"},{"$id":33,"label":"xs11020100_MSG0031","style":0,"name":"I'm going now. See ya.[ST:wait ]"},{"$id":34,"label":"xs11020100_MSG0032","style":0,"name":"Lao...[ST:wait ]"}]}
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs11020100_MSG0001",
+      "style": 0,
+      "name": "Lao, what are you thinking!?[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs11020100_MSG0002",
+      "style": 0,
+      "name": "You know what that information means to us![ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs11020100_MSG0003",
+      "style": 0,
+      "name": "I know. That's exactly why I took action.[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs11020100_MSG0003_2",
+      "style": 0,
+      "name": "I've been waiting for this\nday for a long time...[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs11020100_MSG0004",
+      "style": 0,
+      "name": "Tch.[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "xs11020100_MSG0005",
+      "style": 0,
+      "name": "Vandham, what happened!?[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "xs11020100_MSG0006",
+      "style": 0,
+      "name": "It's Lao.[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "xs11020100_MSG0007",
+      "style": 0,
+      "name": "He's taking the data [System:Ruby rt=device ]terminal[/System:Ruby] and\ntrying to defect to the Growth.[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "xs11020100_MSG0008",
+      "style": 0,
+      "name": "Lao-san is!?[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "xs11020100_MSG0009",
+      "style": 0,
+      "name": "Explain yourself, Lao.[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "xs11020100_MSG0010",
+      "style": 0,
+      "name": "Elma[ST:wide ]—[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "xs11020100_MSG0010_2",
+      "style": 0,
+      "name": "Your mistake was not letting me die.[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "xs11020100_MSG0011",
+      "style": 0,
+      "name": "You realized it, didn't you?\nThat I was the Growth spy.[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "xs11020100_MSG0012",
+      "style": 0,
+      "name": "It can't be![ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "xs11020100_MSG0013",
+      "style": 0,
+      "name": "I suspected it. But... I\ndidn't want to believe it.[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "xs11020100_MSG0014",
+      "style": 0,
+      "name": "You're honest.[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "xs11020100_MSG0015",
+      "style": 0,
+      "name": "Whatever. While I'm at it, I'll take\nthis new-model Doll... the Prog Ares.[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "xs11020100_MSG0016",
+      "style": 0,
+      "name": "A souvenir for the Growth.[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "xs11020100_MSG0017",
+      "style": 0,
+      "name": "Don't give me that crap! If you're leaving,\nyou get through me one-on-one first, Lao![ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "xs11020100_MSG0018",
+      "style": 0,
+      "name": "Like I could beat you bare-handed.[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "xs11020100_MSG0019",
+      "style": 0,
+      "name": "Lao! You bastard, what the\nhell are you thinking!?[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "xs11020100_MSG0020",
+      "style": 0,
+      "name": "One after another... Looks like you\nall have too much time on your hands.[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "xs11020100_MSG0021",
+      "style": 0,
+      "name": "Don't make jokes, Lao![ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "xs11020100_MSG0022",
+      "style": 0,
+      "name": "Stop! There's something we\nhave to retrieve from him![ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "xs11020100_MSG0023",
+      "style": 0,
+      "name": "Damn it[ST:wide ]—[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "xs11020100_MSG0024",
+      "style": 0,
+      "name": "That's how it is. Sorry, Doug.[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "xs11020100_MSG0025",
+      "style": 0,
+      "name": "Did you seriously betray us,\nLao? The enemy is the Growth![ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "xs11020100_MSG0026",
+      "style": 0,
+      "name": "Joining hands with walking brains and\ndog-like people... Yeah, it's no thrill.[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "xs11020100_MSG0027",
+      "style": 0,
+      "name": "But if our goals line up,\nwe can work together.[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "xs11020100_MSG0028",
+      "style": 0,
+      "name": "Goal?[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "xs11020100_MSG0029",
+      "style": 0,
+      "name": "Doug, you understand, don't you?[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "xs11020100_MSG0030",
+      "style": 0,
+      "name": "I don't understand... and I\ndon't want to understand![ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "xs11020100_MSG0031",
+      "style": 0,
+      "name": "I'm going now. See ya.[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "xs11020100_MSG0032",
+      "style": 0,
+      "name": "Lao...[ST:wait ]"
+    }
+  ]
+}

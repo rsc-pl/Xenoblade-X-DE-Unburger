@@ -1,1 +1,288 @@
-{"schema":[{"name":"label","type":9},{"name":"style","type":2},{"name":"name","type":7}],"rows":[{"$id":1,"label":"xs10060100_MSG0001","style":0,"name":"So this is the broken Data Probe.\nPlease wait while I finish the repairs.[ST:wait ]"},{"$id":2,"label":"xs10060100_MSG0002","style":0,"name":"And... that should do it.[ST:wait ]"},{"$id":3,"label":"xs10060100_MSG0003","style":0,"name":"Sorry for the wait. All set now![ST:wait ]"},{"$id":4,"label":"xs10060100_MSG0004","style":0,"name":"Impressive as always, Lin.\nThat's a big help.[ST:wait ]"},{"$id":5,"label":"xs10060100_MSG0005","style":0,"name":"Thank you![ST:wait ]"},{"$id":6,"label":"xs10060100_MSG0006","style":0,"name":"However[ST:wide ]—[ST:wait ]"},{"$id":7,"label":"xs10060100_MSG0007","style":0,"name":"I think we should apply a correction\npatch to every probe we've launched so far.[ST:wait ]"},{"$id":8,"label":"xs10060100_MSG0008","style":0,"name":"They might stop working eventually.[ST:wait ]"},{"$id":9,"label":"xs10060100_MSG0009","style":0,"name":"Wh-What, mo!?[ST:wait ]"},{"$id":10,"label":"xs10060100_MSG0010","style":0,"name":"Go around to every single probe\nand correction-patch it, mo!?[ST:wait ]"},{"$id":11,"label":"xs10060100_MSG0011","style":0,"name":"Tatsu will be an old Nopon\nby the time you finish, mo![ST:wait ]"},{"$id":12,"label":"xs10060100_MSG0012","style":0,"name":"No, no, that's not it. I fixed\nthis one manually, but[ST:wide ]—[ST:wait ]"},{"$id":13,"label":"xs10060100_MSG0013","style":0,"name":"The other probes can be fixed just by\ntransferring the corrected program.[ST:wait ]"},{"$id":14,"label":"xs10060100_MSG0014","style":0,"name":"Tatsu doesn't really understand,\nbut I'm relieved, mo![ST:wait ]"},{"$id":15,"label":"xs10060100_MSG0015","style":0,"name":"There are lots and loooots\nof probes on this planet, mo![ST:wait ]"},{"$id":16,"label":"xs10060100_MSG0016","style":0,"name":"Yeah, that's true.[ST:wait ]"},{"$id":17,"label":"xs10060100_MSG0017","style":0,"name":"We've worked so hard launching\nall those probes, haven't we?[ST:wait ]"},{"$id":18,"label":"xs10060100_MSG0018","style":0,"name":"Lin-san?[ST:wait ]"},{"$id":19,"label":"xs10060100_MSG0019","style":0,"name":"It's not just us. Plenty of teams\nare still keeping up the work.[ST:wait ]"},{"$id":20,"label":"xs10060100_MSG0020","style":0,"name":"But no matter how far FrontierNet expands,\nwe still can't find the Central Life.[ST:wait ]"},{"$id":21,"label":"xs10060100_MSG0021","style":0,"name":"Why is that?[ST:wait ]"},{"$id":22,"label":"xs10060100_MSG0023","style":0,"name":"Maybe the thing we're looking for\nisn't even on this planet[ST:wide ]—[ST:wait ]"},{"$id":23,"label":"xs10060100_MSG0024","style":0,"name":"Or maybe... it broke when\nit fell to the surface[ST:wide ]—[ST:wait ]"},{"$id":24,"label":"xs10060100_MSG0025","style":0,"name":"That's impossible.[ST:wait ]"},{"$id":25,"label":"xs10060100_MSG0026","style":0,"name":"But![ST:wait ]"},{"$id":26,"label":"xs10060100_MSG0027","style":0,"name":"The consciousness that moves our\nB.B.s isn't inside these bodies.[ST:wait ]"},{"$id":27,"label":"xs10060100_MSG0028","style":0,"name":"It's in the Central Life.[ST:wait ]"},{"$id":28,"label":"xs10060100_MSG0029","style":0,"name":"Naturally, that means it's intact, and close\nenough for us not to feel any communication lag.[ST:wait ]"},{"$id":29,"label":"xs10060100_MSG0030","style":0,"name":"You're right[ST:wide ]—[ST:wait ]"},{"$id":30,"label":"xs10060100_MSG0030_2","style":0,"name":"I'm sorry.[ST:wait ]"},{"$id":31,"label":"xs10060100_MSG0030_02","style":0,"name":""},{"$id":32,"label":"xs10060100_MSG0031","style":0,"name":"It's okay. Of course you're tired,\nwashing up on an unknown planet.[ST:wait ]"},{"$id":33,"label":"xs10060100_MSG0032","style":0,"name":"Even adults get tired from having\nto keep living in a B.B...[ST:wait ]"},{"$id":34,"label":"xs10060100_MSG0033","style":0,"name":"You've done well, enduring it\nall the way to today.[ST:wait ]"},{"$id":35,"label":"xs10060100_MSG0034","style":0,"name":"I wonder what the person who\ndesigned the B.B. was thinking.[ST:wait ]"},{"$id":36,"label":"xs10060100_MSG0035","style":0,"name":"Is something wrong, mo?[ST:wait ]"},{"$id":37,"label":"xs10060100_MSG0036","style":0,"name":"Because[ST:wide ]— they didn't have to make me\nable to shed this many tears.[ST:wait ]"},{"$id":38,"label":"xs10060100_MSG0037","style":0,"name":"It's embarrassing.[ST:wait ]"},{"$id":39,"label":"xs10060100_MSG0038","style":0,"name":"Tears are necessary. They serve the\nimportant function of washing things away.[ST:wait ]"},{"$id":40,"label":"xs10060100_MSG0039","style":0,"name":"Like dirt and dust that get in your eyes...[ST:wait ]"},{"$id":41,"label":"xs10060100_MSG0040","style":0,"name":"And the things that build\nup in your heart, too.[ST:wait ]"},{"$id":42,"label":"xs10060100_MSG0041","style":0,"name":"They're well made, aren't they?\nBoth human bodies and B.B.s.[ST:wait ]"},{"$id":43,"label":"xs10060100_MSG0042","style":0,"name":"If you ever meet the designers,\nyou should thank them.[ST:wait ]"},{"$id":44,"label":"xs10060100_MSG0043","style":0,"name":"Right![ST:wait ]"},{"$id":45,"label":"xs10060100_MSG0044","style":0,"name":"Wh-What's that sound, mo?[ST:wait ]"}]}
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs10060100_MSG0001",
+      "style": 0,
+      "name": "So this is the broken Data Probe. Please\nwait while I finish the repairs.[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs10060100_MSG0002",
+      "style": 0,
+      "name": "And... that should do it.[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs10060100_MSG0003",
+      "style": 0,
+      "name": "Sorry for the wait. All set now![ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs10060100_MSG0004",
+      "style": 0,
+      "name": "Impressive as always, Lin. That's a big help.[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs10060100_MSG0005",
+      "style": 0,
+      "name": "Thank you![ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "xs10060100_MSG0006",
+      "style": 0,
+      "name": "However[ST:wide ]—[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "xs10060100_MSG0007",
+      "style": 0,
+      "name": "I think we should apply a correction patch\nto every probe we've launched so far.[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "xs10060100_MSG0008",
+      "style": 0,
+      "name": "They might stop working eventually.[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "xs10060100_MSG0009",
+      "style": 0,
+      "name": "Wh-What, mo!?[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "xs10060100_MSG0010",
+      "style": 0,
+      "name": "Go around to every single probe\nand correction-patch it, mo!?[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "xs10060100_MSG0011",
+      "style": 0,
+      "name": "Tatsu will be an old Nopon\nby the time you finish, mo![ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "xs10060100_MSG0012",
+      "style": 0,
+      "name": "No, no, that's not it. I fixed\nthis one manually, but[ST:wide ]—[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "xs10060100_MSG0013",
+      "style": 0,
+      "name": "The other probes can be fixed just by\ntransferring the corrected program.[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "xs10060100_MSG0014",
+      "style": 0,
+      "name": "Tatsu doesn't really understand,\nbut I'm relieved, mo![ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "xs10060100_MSG0015",
+      "style": 0,
+      "name": "There are lots and loooots of\nprobes on this planet, mo![ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "xs10060100_MSG0016",
+      "style": 0,
+      "name": "Yeah, that's true.[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "xs10060100_MSG0017",
+      "style": 0,
+      "name": "We've worked so hard launching\nall those probes, haven't we?[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "xs10060100_MSG0018",
+      "style": 0,
+      "name": "Lin-san?[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "xs10060100_MSG0019",
+      "style": 0,
+      "name": "It's not just us. Plenty of teams\nare still keeping up the work.[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "xs10060100_MSG0020",
+      "style": 0,
+      "name": "But no matter how far FrontierNet expands,\nwe still can't find the Central Life.[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "xs10060100_MSG0021",
+      "style": 0,
+      "name": "Why is that?[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "xs10060100_MSG0023",
+      "style": 0,
+      "name": "Maybe the thing we're looking\nfor isn't even on this planet[ST:wide ]—[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "xs10060100_MSG0024",
+      "style": 0,
+      "name": "Or maybe... it broke when\nit fell to the surface[ST:wide ]—[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "xs10060100_MSG0025",
+      "style": 0,
+      "name": "That's impossible.[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "xs10060100_MSG0026",
+      "style": 0,
+      "name": "But![ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "xs10060100_MSG0027",
+      "style": 0,
+      "name": "The consciousness that moves our\nB.B.s isn't inside these bodies.[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "xs10060100_MSG0028",
+      "style": 0,
+      "name": "It's in the Central Life.[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "xs10060100_MSG0029",
+      "style": 0,
+      "name": "Naturally, that means it's intact, and close\nenough for us not to feel any communication lag.[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "xs10060100_MSG0030",
+      "style": 0,
+      "name": "You're right[ST:wide ]—[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "xs10060100_MSG0030_2",
+      "style": 0,
+      "name": "I'm sorry.[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "xs10060100_MSG0030_02",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 32,
+      "label": "xs10060100_MSG0031",
+      "style": 0,
+      "name": "It's okay. Of course you're tired,\nwashing up on an unknown planet.[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "xs10060100_MSG0032",
+      "style": 0,
+      "name": "Even adults get tired from having\nto keep living in a B.B...[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "xs10060100_MSG0033",
+      "style": 0,
+      "name": "You've done well, enduring\nit all the way to today.[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "xs10060100_MSG0034",
+      "style": 0,
+      "name": "I wonder what the person who\ndesigned the B.B. was thinking.[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "xs10060100_MSG0035",
+      "style": 0,
+      "name": "Is something wrong, mo?[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "xs10060100_MSG0036",
+      "style": 0,
+      "name": "Because[ST:wide ]— they didn't have to make\nme able to shed this many tears.[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "xs10060100_MSG0037",
+      "style": 0,
+      "name": "It's embarrassing.[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "xs10060100_MSG0038",
+      "style": 0,
+      "name": "Tears are necessary. They serve the\nimportant function of washing things away.[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "xs10060100_MSG0039",
+      "style": 0,
+      "name": "Like dirt and dust that get in your eyes...[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "xs10060100_MSG0040",
+      "style": 0,
+      "name": "And the things that build\nup in your heart, too.[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "xs10060100_MSG0041",
+      "style": 0,
+      "name": "They're well made, aren't they?\nBoth human bodies and B.B.s.[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "xs10060100_MSG0042",
+      "style": 0,
+      "name": "If you ever meet the designers,\nyou should thank them.[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "xs10060100_MSG0043",
+      "style": 0,
+      "name": "Right![ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "xs10060100_MSG0044",
+      "style": 0,
+      "name": "Wh-What's that sound, mo?[ST:wait ]"
+    }
+  ]
+}
