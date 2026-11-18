@@ -1,0 +1,39 @@
+{
+  "schema": [
+    {
+      "name": "ID",
+      "type": 9
+    },
+    {
+      "name": "challengeLv[0]",
+      "type": 1
+    },
+    {
+      "name": "challengeLv[1]",
+      "type": 1
+    },
+    {
+      "name": "challengeLv[2]",
+      "type": 1
+    },
+    {
+      "name": "slowRate",
+      "type": 8
+    },
+    {
+      "name": "slowTime",
+      "type": 2
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "ID": "BTN_CHALLENGE_SOUL_PARAM",
+      "challengeLv[0]": 1,
+      "challengeLv[1]": 1,
+      "challengeLv[2]": 2,
+      "slowRate": 1.0,
+      "slowTime": 1
+    }
+  ]
+}

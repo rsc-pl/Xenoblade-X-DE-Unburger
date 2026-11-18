@@ -1,0 +1,282 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev014406_MSG0001",
+      "style": 1,
+      "name": "This alarm sounds when there's an\nanomaly in the purification plant...[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev014406_MSG0002",
+      "style": 1,
+      "name": "Don't tell me, that native\ncreature is back...?[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev014406_MSG0003",
+      "style": 1,
+      "name": "Haa... haa... That thing... that's\nthe thing that attacked us...[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev014406_MSG0004",
+      "style": 1,
+      "name": "Those cocoons... it\nemerged... from them...[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev014406_MSG0005",
+      "style": 1,
+      "name": "I hate this... I can't take this anymore...\nEveryone... Ian... Where did you go...? I\nwant to return to NLA right now...[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev014406_JNK0010",
+      "style": 4,
+      "name": "Encourage"
+    },
+    {
+      "$id": 7,
+      "label": "qev014406_SEL0011",
+      "style": 3,
+      "name": "Give Ajoa courage."
+    },
+    {
+      "$id": 8,
+      "label": "qev014406_JNK0020",
+      "style": 4,
+      "name": "Present"
+    },
+    {
+      "$id": 9,
+      "label": "qev014406_SEL0021",
+      "style": 3,
+      "name": "Show Ajoa the ID cards found on the monster's corpses.[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev014406_MSG0006",
+      "style": 1,
+      "name": "Thank you. I'm glad you came.\nI'll have to thank Rosie too...[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev014406_MSG0007",
+      "style": 1,
+      "name": "Anyway, I have to check the\nsurveillance camera data and find\nout what happened to the others...[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev014406_MSG0008",
+      "style": 1,
+      "name": "...Hey, was Ian outside? The surveillance\ncamera data is set up so it can only\nbe viewed with his ID card...[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev014406_MSG0009",
+      "style": 1,
+      "name": "...These are researchers' ID cards? Did\nthey all get eaten by those things...?[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev014406_MSG0010",
+      "style": 1,
+      "name": "Ahh... I have to check the\nsurveillance camera data quickly...[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev014406_MSG0011",
+      "style": 1,
+      "name": "But... it seems the surveillance\ncamera data is set up so it can only\nbe viewed with Ian's ID card...[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev014406_MSG0012",
+      "style": 1,
+      "name": "...Wait, isn't that Ian's ID card? Did\nthe monster from earlier drop this too?[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev014406_MSG0013",
+      "style": 1,
+      "name": "Yeah, with this, we can view the data...[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev014406_MSG0014",
+      "style": 1,
+      "name": "Right... hey, I'm sorry, but...\ncould you take a look at it first?[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev014406_MSG0015",
+      "style": 1,
+      "name": "Please. I... feel somewhat sick...[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev014406_MSG0016",
+      "style": 1,
+      "name": "I want to go take a\nshower... Is that okay?[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev014406_JNK0030",
+      "style": 4,
+      "name": "Affirm"
+    },
+    {
+      "$id": 22,
+      "label": "qev014406_SEL0031",
+      "style": 3,
+      "name": "Let her go to the shower room."
+    },
+    {
+      "$id": 23,
+      "label": "qev014406_JNK0040",
+      "style": 4,
+      "name": "Deny"
+    },
+    {
+      "$id": 24,
+      "label": "qev014406_SEL0041",
+      "style": 3,
+      "name": "Tell the pale Ajoa that it would be better to wait until she calms down."
+    },
+    {
+      "$id": 25,
+      "label": "qev014406_MSG0017",
+      "style": 1,
+      "name": "Thank you. I'll return the ID\ncard then. Please extract the\ndata from that terminal.[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev014406_MSG0018",
+      "style": 1,
+      "name": "The shower room only has a single door,\nso I'll scream if anything happens.[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev014406_MSG0019",
+      "style": 1,
+      "name": "Don't hesitate to come in.[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev014406_MSG0020",
+      "style": 1,
+      "name": "Haa... I feel like my stamina would\nrecover if I took one, but if you\nsay so, it can't be helped.[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev014406_MSG0021",
+      "style": 1,
+      "name": "Let's take a look then. Please insert\nthis ID card into that terminal.[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev014406_MSG0022",
+      "style": 1,
+      "name": "But... I wonder why...? My skin\nis getting extremely dry. Ahh,\nI want to soak in water...[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev014406_MSG0023",
+      "style": 1,
+      "name": "I'm so thirsty... My skin\nis extremely dry too...[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev014406_MSG0024",
+      "style": 1,
+      "name": "My body is hot... I wonder\nif I have a fever...[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev014406_MSG0025",
+      "style": 1,
+      "name": "Is my craving for water... because of\nwhat was implanted in my body...?[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev014406_MSG0026",
+      "style": 1,
+      "name": "Then what about the others? What about\neveryone else...? The thing from earlier...\nAre you saying that was them...?[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev014406_JNK0050",
+      "style": 4,
+      "name": "Worry"
+    },
+    {
+      "$id": 36,
+      "label": "qev014406_SEL0051",
+      "style": 3,
+      "name": "Show concern for Ajoa's body."
+    },
+    {
+      "$id": 37,
+      "label": "qev014406_JNK0060",
+      "style": 4,
+      "name": "Cautious"
+    },
+    {
+      "$id": 38,
+      "label": "qev014406_SEL0061",
+      "style": 3,
+      "name": "Stay vigilant in case Ajoa turns into a monster."
+    },
+    {
+      "$id": 39,
+      "label": "qev014406_MSG0027",
+      "style": 1,
+      "name": "You... aren't you afraid of\nme...? You're so kind...[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "qev014406_MSG0028",
+      "style": 1,
+      "name": "...Yeah, if I go back to NLA without taking in any\nfluids and have the eggs inside my body surgically\nremoved... I'm sure... it will work out somehow...[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "qev014406_MSG0029",
+      "style": 1,
+      "name": "Don't look at me with those\neyes... You're terrible...[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "qev014406_MSG0030",
+      "style": 1,
+      "name": "It's fine... As long as I don't drink\nwater, the eggs shouldn't hatch...[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "qev014406_MSG0031",
+      "style": 1,
+      "name": "If I go back to NLA like this and have the\neggs inside my body surgically removed...\nI'm sure... it will work out somehow...[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "qev014406_MSG0032",
+      "style": 1,
+      "name": "I'll be heading back first then...\nPlease tell Rosie that I survived...[ST:wait ]"
+    }
+  ]
+}

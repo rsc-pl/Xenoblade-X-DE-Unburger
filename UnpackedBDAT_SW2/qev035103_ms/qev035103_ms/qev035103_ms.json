@@ -1,0 +1,78 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev035103_MSG0001",
+      "style": 1,
+      "name": "...This is Zarch! What's the\nsituation? Did you find Odsent!?[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev035103_MSG0002",
+      "style": 1,
+      "name": "...What!? He was in a place like that...[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev035103_MSG0003",
+      "style": 1,
+      "name": "Alright! I'll head there right\naway, so just stall him for now![ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev035103_JNK0010",
+      "style": 4,
+      "name": "Question"
+    },
+    {
+      "$id": 5,
+      "label": "qev035103_SEL0011",
+      "style": 3,
+      "name": "Ask how you should stall him."
+    },
+    {
+      "$id": 6,
+      "label": "qev035103_JNK0020",
+      "style": 4,
+      "name": "Affirmation"
+    },
+    {
+      "$id": 7,
+      "label": "qev035103_SEL0021",
+      "style": 3,
+      "name": "Use force to stall him."
+    },
+    {
+      "$id": 8,
+      "label": "qev035103_MSG0004",
+      "style": 1,
+      "name": "You can't dominate a beast's\nmind like the Bias do![ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev035103_MSG0005",
+      "style": 1,
+      "name": "Beat him up until he faints! That'll\nmake it easier for me to train him\nlater. ...I'm counting on you![ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev035103_MSG0006",
+      "style": 1,
+      "name": "You really are a reliable warrior! Then,\nbeat him up until he faints! That'll make\nit easier for me to train him later![ST:wait ]"
+    }
+  ]
+}

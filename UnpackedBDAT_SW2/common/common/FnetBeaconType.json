@@ -1,0 +1,49 @@
+{
+  "schema": [
+    {
+      "name": "ID",
+      "type": 9
+    },
+    {
+      "name": "Name",
+      "type": 2
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "ID": "FNT_BCN_TYPE_DEFAULT",
+      "Name": 1
+    },
+    {
+      "$id": 2,
+      "ID": "FNT_BCN_TYPE_MINE",
+      "Name": 2
+    },
+    {
+      "$id": 3,
+      "ID": "FNT_BCN_TYPE_TOURISM",
+      "Name": 3
+    },
+    {
+      "$id": 4,
+      "ID": "FNT_BCN_TYPE_BATTLE",
+      "Name": 4
+    },
+    {
+      "$id": 5,
+      "ID": "FNT_BCN_TYPE_RAISE",
+      "Name": 5
+    },
+    {
+      "$id": 6,
+      "ID": "FNT_BCN_TYPE_STORAGE",
+      "Name": 6
+    },
+    {
+      "$id": 7,
+      "ID": "FNT_BCN_TYPE_COPY",
+      "Name": 7
+    }
+  ]
+}

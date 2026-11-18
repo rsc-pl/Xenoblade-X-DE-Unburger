@@ -1,0 +1,544 @@
+{
+  "schema": [
+    {
+      "name": "ID",
+      "type": 9
+    },
+    {
+      "name": "DefIcon",
+      "type": 2
+    },
+    {
+      "name": "ChangeIcon1",
+      "type": 2
+    },
+    {
+      "name": "IconCondition1",
+      "type": 2
+    },
+    {
+      "name": "CountStartCond1",
+      "type": 1
+    },
+    {
+      "name": "ChangeIcon2",
+      "type": 2
+    },
+    {
+      "name": "IconCondition2",
+      "type": 2
+    },
+    {
+      "name": "CountStartCond2",
+      "type": 1
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "ID": "SCL_ICON_001",
+      "DefIcon": 601,
+      "ChangeIcon1": 0,
+      "IconCondition1": 0,
+      "CountStartCond1": 0,
+      "ChangeIcon2": 0,
+      "IconCondition2": 0,
+      "CountStartCond2": 0
+    },
+    {
+      "$id": 2,
+      "ID": "SCL_ICON_002",
+      "DefIcon": 699,
+      "ChangeIcon1": 0,
+      "IconCondition1": 0,
+      "CountStartCond1": 0,
+      "ChangeIcon2": 0,
+      "IconCondition2": 0,
+      "CountStartCond2": 0
+    },
+    {
+      "$id": 3,
+      "ID": "SCL_ICON_003",
+      "DefIcon": 703,
+      "ChangeIcon1": 0,
+      "IconCondition1": 0,
+      "CountStartCond1": 0,
+      "ChangeIcon2": 0,
+      "IconCondition2": 0,
+      "CountStartCond2": 0
+    },
+    {
+      "$id": 4,
+      "ID": "SCL_ICON_004",
+      "DefIcon": 670,
+      "ChangeIcon1": 0,
+      "IconCondition1": 0,
+      "CountStartCond1": 0,
+      "ChangeIcon2": 0,
+      "IconCondition2": 0,
+      "CountStartCond2": 0
+    },
+    {
+      "$id": 5,
+      "ID": "SCL_ICON_005",
+      "DefIcon": 725,
+      "ChangeIcon1": 0,
+      "IconCondition1": 0,
+      "CountStartCond1": 0,
+      "ChangeIcon2": 0,
+      "IconCondition2": 0,
+      "CountStartCond2": 0
+    },
+    {
+      "$id": 6,
+      "ID": "SM_ICON_EN_FAM_BEAST",
+      "DefIcon": 601,
+      "ChangeIcon1": 0,
+      "IconCondition1": 0,
+      "CountStartCond1": 0,
+      "ChangeIcon2": 0,
+      "IconCondition2": 0,
+      "CountStartCond2": 0
+    },
+    {
+      "$id": 7,
+      "ID": "SM_ICON_EN_FAM_INSECT",
+      "DefIcon": 602,
+      "ChangeIcon1": 0,
+      "IconCondition1": 0,
+      "CountStartCond1": 0,
+      "ChangeIcon2": 0,
+      "IconCondition2": 0,
+      "CountStartCond2": 0
+    },
+    {
+      "$id": 8,
+      "ID": "SM_ICON_EN_FAM_FLGHT",
+      "DefIcon": 603,
+      "ChangeIcon1": 0,
+      "IconCondition1": 0,
+      "CountStartCond1": 0,
+      "ChangeIcon2": 0,
+      "IconCondition2": 0,
+      "CountStartCond2": 0
+    },
+    {
+      "$id": 9,
+      "ID": "SM_ICON_EN_FAM_HUMANOID",
+      "DefIcon": 604,
+      "ChangeIcon1": 0,
+      "IconCondition1": 0,
+      "CountStartCond1": 0,
+      "ChangeIcon2": 0,
+      "IconCondition2": 0,
+      "CountStartCond2": 0
+    },
+    {
+      "$id": 10,
+      "ID": "SM_ICON_EN_FAM_MACHINE",
+      "DefIcon": 605,
+      "ChangeIcon1": 0,
+      "IconCondition1": 0,
+      "CountStartCond1": 0,
+      "ChangeIcon2": 0,
+      "IconCondition2": 0,
+      "CountStartCond2": 0
+    },
+    {
+      "$id": 11,
+      "ID": "SM_ICON_EN_FAM_KIMERA",
+      "DefIcon": 606,
+      "ChangeIcon1": 0,
+      "IconCondition1": 0,
+      "CountStartCond1": 0,
+      "ChangeIcon2": 0,
+      "IconCondition2": 0,
+      "CountStartCond2": 0
+    },
+    {
+      "$id": 12,
+      "ID": "SM_ICON_EN_FAM_NEO",
+      "DefIcon": 607,
+      "ChangeIcon1": 0,
+      "IconCondition1": 0,
+      "CountStartCond1": 0,
+      "ChangeIcon2": 0,
+      "IconCondition2": 0,
+      "CountStartCond2": 0
+    },
+    {
+      "$id": 13,
+      "ID": "SM_ICON_EN_GEN_BEAST",
+      "DefIcon": 608,
+      "ChangeIcon1": 0,
+      "IconCondition1": 0,
+      "CountStartCond1": 0,
+      "ChangeIcon2": 0,
+      "IconCondition2": 0,
+      "CountStartCond2": 0
+    },
+    {
+      "$id": 14,
+      "ID": "SM_ICON_EN_GEN_INSECT",
+      "DefIcon": 609,
+      "ChangeIcon1": 0,
+      "IconCondition1": 0,
+      "CountStartCond1": 0,
+      "ChangeIcon2": 0,
+      "IconCondition2": 0,
+      "CountStartCond2": 0
+    },
+    {
+      "$id": 15,
+      "ID": "SM_ICON_EN_GEN_FLGHT",
+      "DefIcon": 610,
+      "ChangeIcon1": 0,
+      "IconCondition1": 0,
+      "CountStartCond1": 0,
+      "ChangeIcon2": 0,
+      "IconCondition2": 0,
+      "CountStartCond2": 0
+    },
+    {
+      "$id": 16,
+      "ID": "SM_ICON_EN_GEN_HUMANOID",
+      "DefIcon": 611,
+      "ChangeIcon1": 0,
+      "IconCondition1": 0,
+      "CountStartCond1": 0,
+      "ChangeIcon2": 0,
+      "IconCondition2": 0,
+      "CountStartCond2": 0
+    },
+    {
+      "$id": 17,
+      "ID": "SM_ICON_EN_GEN_MACHINE",
+      "DefIcon": 612,
+      "ChangeIcon1": 0,
+      "IconCondition1": 0,
+      "CountStartCond1": 0,
+      "ChangeIcon2": 0,
+      "IconCondition2": 0,
+      "CountStartCond2": 0
+    },
+    {
+      "$id": 18,
+      "ID": "SM_ICON_EN_GEN_KIMERA",
+      "DefIcon": 613,
+      "ChangeIcon1": 0,
+      "IconCondition1": 0,
+      "CountStartCond1": 0,
+      "ChangeIcon2": 0,
+      "IconCondition2": 0,
+      "CountStartCond2": 0
+    },
+    {
+      "$id": 19,
+      "ID": "SM_ICON_EN_GEN_NEO",
+      "DefIcon": 614,
+      "ChangeIcon1": 0,
+      "IconCondition1": 0,
+      "CountStartCond1": 0,
+      "ChangeIcon2": 0,
+      "IconCondition2": 0,
+      "CountStartCond2": 0
+    },
+    {
+      "$id": 20,
+      "ID": "SM_ICON_EN_IND_BEAST",
+      "DefIcon": 615,
+      "ChangeIcon1": 0,
+      "IconCondition1": 0,
+      "CountStartCond1": 0,
+      "ChangeIcon2": 0,
+      "IconCondition2": 0,
+      "CountStartCond2": 0
+    },
+    {
+      "$id": 21,
+      "ID": "SM_ICON_EN_IND_INSECT",
+      "DefIcon": 616,
+      "ChangeIcon1": 0,
+      "IconCondition1": 0,
+      "CountStartCond1": 0,
+      "ChangeIcon2": 0,
+      "IconCondition2": 0,
+      "CountStartCond2": 0
+    },
+    {
+      "$id": 22,
+      "ID": "SM_ICON_EN_IND_FLGHT",
+      "DefIcon": 617,
+      "ChangeIcon1": 0,
+      "IconCondition1": 0,
+      "CountStartCond1": 0,
+      "ChangeIcon2": 0,
+      "IconCondition2": 0,
+      "CountStartCond2": 0
+    },
+    {
+      "$id": 23,
+      "ID": "SM_ICON_EN_IND_HUMANOID",
+      "DefIcon": 618,
+      "ChangeIcon1": 0,
+      "IconCondition1": 0,
+      "CountStartCond1": 0,
+      "ChangeIcon2": 0,
+      "IconCondition2": 0,
+      "CountStartCond2": 0
+    },
+    {
+      "$id": 24,
+      "ID": "SM_ICON_EN_IND_MACHINE",
+      "DefIcon": 619,
+      "ChangeIcon1": 0,
+      "IconCondition1": 0,
+      "CountStartCond1": 0,
+      "ChangeIcon2": 0,
+      "IconCondition2": 0,
+      "CountStartCond2": 0
+    },
+    {
+      "$id": 25,
+      "ID": "SM_ICON_EN_IND_KIMERA",
+      "DefIcon": 620,
+      "ChangeIcon1": 0,
+      "IconCondition1": 0,
+      "CountStartCond1": 0,
+      "ChangeIcon2": 0,
+      "IconCondition2": 0,
+      "CountStartCond2": 0
+    },
+    {
+      "$id": 26,
+      "ID": "SM_ICON_EN_IND_NEO",
+      "DefIcon": 621,
+      "ChangeIcon1": 0,
+      "IconCondition1": 0,
+      "CountStartCond1": 0,
+      "ChangeIcon2": 0,
+      "IconCondition2": 0,
+      "CountStartCond2": 0
+    },
+    {
+      "$id": 27,
+      "ID": "SM_ICON_CL_CAT_VEGI",
+      "DefIcon": 622,
+      "ChangeIcon1": 0,
+      "IconCondition1": 0,
+      "CountStartCond1": 0,
+      "ChangeIcon2": 0,
+      "IconCondition2": 0,
+      "CountStartCond2": 0
+    },
+    {
+      "$id": 28,
+      "ID": "SM_ICON_CL_CAT_FRUIT",
+      "DefIcon": 623,
+      "ChangeIcon1": 0,
+      "IconCondition1": 0,
+      "CountStartCond1": 0,
+      "ChangeIcon2": 0,
+      "IconCondition2": 0,
+      "CountStartCond2": 0
+    },
+    {
+      "$id": 29,
+      "ID": "SM_ICON_CL_CAT_FLOWER",
+      "DefIcon": 624,
+      "ChangeIcon1": 0,
+      "IconCondition1": 0,
+      "CountStartCond1": 0,
+      "ChangeIcon2": 0,
+      "IconCondition2": 0,
+      "CountStartCond2": 0
+    },
+    {
+      "$id": 30,
+      "ID": "SM_ICON_CL_CAT_ANIMAL",
+      "DefIcon": 625,
+      "ChangeIcon1": 0,
+      "IconCondition1": 0,
+      "CountStartCond1": 0,
+      "ChangeIcon2": 0,
+      "IconCondition2": 0,
+      "CountStartCond2": 0
+    },
+    {
+      "$id": 31,
+      "ID": "SM_ICON_CL_CAT_BEETLE",
+      "DefIcon": 626,
+      "ChangeIcon1": 0,
+      "IconCondition1": 0,
+      "CountStartCond1": 0,
+      "ChangeIcon2": 0,
+      "IconCondition2": 0,
+      "CountStartCond2": 0
+    },
+    {
+      "$id": 32,
+      "ID": "SM_ICON_CL_CAT_NATU",
+      "DefIcon": 627,
+      "ChangeIcon1": 0,
+      "IconCondition1": 0,
+      "CountStartCond1": 0,
+      "ChangeIcon2": 0,
+      "IconCondition2": 0,
+      "CountStartCond2": 0
+    },
+    {
+      "$id": 33,
+      "ID": "SM_ICON_CL_CAT_EARTH",
+      "DefIcon": 628,
+      "ChangeIcon1": 0,
+      "IconCondition1": 0,
+      "CountStartCond1": 0,
+      "ChangeIcon2": 0,
+      "IconCondition2": 0,
+      "CountStartCond2": 0
+    },
+    {
+      "$id": 34,
+      "ID": "SM_ICON_CL_CAT_RELIC",
+      "DefIcon": 629,
+      "ChangeIcon1": 0,
+      "IconCondition1": 0,
+      "CountStartCond1": 0,
+      "ChangeIcon2": 0,
+      "IconCondition2": 0,
+      "CountStartCond2": 0
+    },
+    {
+      "$id": 35,
+      "ID": "SM_ICON_CL_CAT_TEC",
+      "DefIcon": 630,
+      "ChangeIcon1": 0,
+      "IconCondition1": 0,
+      "CountStartCond1": 0,
+      "ChangeIcon2": 0,
+      "IconCondition2": 0,
+      "CountStartCond2": 0
+    },
+    {
+      "$id": 36,
+      "ID": "SM_ICON_CL_CAT_MYST",
+      "DefIcon": 631,
+      "ChangeIcon1": 0,
+      "IconCondition1": 0,
+      "CountStartCond1": 0,
+      "ChangeIcon2": 0,
+      "IconCondition2": 0,
+      "CountStartCond2": 0
+    },
+    {
+      "$id": 37,
+      "ID": "SM_ICON_CL_IND_VEGI",
+      "DefIcon": 632,
+      "ChangeIcon1": 0,
+      "IconCondition1": 0,
+      "CountStartCond1": 0,
+      "ChangeIcon2": 0,
+      "IconCondition2": 0,
+      "CountStartCond2": 0
+    },
+    {
+      "$id": 38,
+      "ID": "SM_ICON_CL_IND_FRUIT",
+      "DefIcon": 633,
+      "ChangeIcon1": 0,
+      "IconCondition1": 0,
+      "CountStartCond1": 0,
+      "ChangeIcon2": 0,
+      "IconCondition2": 0,
+      "CountStartCond2": 0
+    },
+    {
+      "$id": 39,
+      "ID": "SM_ICON_CL_IND_FLOWER",
+      "DefIcon": 634,
+      "ChangeIcon1": 0,
+      "IconCondition1": 0,
+      "CountStartCond1": 0,
+      "ChangeIcon2": 0,
+      "IconCondition2": 0,
+      "CountStartCond2": 0
+    },
+    {
+      "$id": 40,
+      "ID": "SM_ICON_CL_IND_ANIMAL",
+      "DefIcon": 635,
+      "ChangeIcon1": 0,
+      "IconCondition1": 0,
+      "CountStartCond1": 0,
+      "ChangeIcon2": 0,
+      "IconCondition2": 0,
+      "CountStartCond2": 0
+    },
+    {
+      "$id": 41,
+      "ID": "SM_ICON_CL_IND_BEETLE",
+      "DefIcon": 636,
+      "ChangeIcon1": 0,
+      "IconCondition1": 0,
+      "CountStartCond1": 0,
+      "ChangeIcon2": 0,
+      "IconCondition2": 0,
+      "CountStartCond2": 0
+    },
+    {
+      "$id": 42,
+      "ID": "SM_ICON_CL_IND_NATU",
+      "DefIcon": 637,
+      "ChangeIcon1": 0,
+      "IconCondition1": 0,
+      "CountStartCond1": 0,
+      "ChangeIcon2": 0,
+      "IconCondition2": 0,
+      "CountStartCond2": 0
+    },
+    {
+      "$id": 43,
+      "ID": "SM_ICON_CL_IND_EARTH",
+      "DefIcon": 638,
+      "ChangeIcon1": 0,
+      "IconCondition1": 0,
+      "CountStartCond1": 0,
+      "ChangeIcon2": 0,
+      "IconCondition2": 0,
+      "CountStartCond2": 0
+    },
+    {
+      "$id": 44,
+      "ID": "SM_ICON_CL_IND_RELIC",
+      "DefIcon": 639,
+      "ChangeIcon1": 0,
+      "IconCondition1": 0,
+      "CountStartCond1": 0,
+      "ChangeIcon2": 0,
+      "IconCondition2": 0,
+      "CountStartCond2": 0
+    },
+    {
+      "$id": 45,
+      "ID": "SM_ICON_CL_IND_TEC",
+      "DefIcon": 640,
+      "ChangeIcon1": 0,
+      "IconCondition1": 0,
+      "CountStartCond1": 0,
+      "ChangeIcon2": 0,
+      "IconCondition2": 0,
+      "CountStartCond2": 0
+    },
+    {
+      "$id": 46,
+      "ID": "SM_ICON_CL_IND_MYST",
+      "DefIcon": 641,
+      "ChangeIcon1": 0,
+      "IconCondition1": 0,
+      "CountStartCond1": 0,
+      "ChangeIcon2": 0,
+      "IconCondition2": 0,
+      "CountStartCond2": 0
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "schema": [
+    {
+      "name": "ID",
+      "type": 9
+    },
+    {
+      "name": "Name",
+      "type": 2
+    },
+    {
+      "name": "Lgt",
+      "type": 2
+    },
+    {
+      "name": "UNOCOKLEVEL",
+      "type": 1
+    },
+    {
+      "name": "DefSet",
+      "type": 1
+    },
+    {
+      "name": "LodID",
+      "type": 2
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "ID": "FIGURE_LIGHT01",
+      "Name": 71,
+      "Lgt": 1,
+      "UNOCOKLEVEL": 0,
+      "DefSet": 1,
+      "LodID": 1016
+    },
+    {
+      "$id": 2,
+      "ID": "FIGURE_LIGHT02",
+      "Name": 72,
+      "Lgt": 2,
+      "UNOCOKLEVEL": 0,
+      "DefSet": 1,
+      "LodID": 1017
+    },
+    {
+      "$id": 3,
+      "ID": "FIGURE_LIGHT03",
+      "Name": 73,
+      "Lgt": 3,
+      "UNOCOKLEVEL": 0,
+      "DefSet": 1,
+      "LodID": 1018
+    }
+  ]
+}

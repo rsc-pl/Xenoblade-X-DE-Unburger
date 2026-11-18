@@ -1,0 +1,214 @@
+{
+  "schema": [
+    {
+      "name": "ID",
+      "type": 9
+    },
+    {
+      "name": "su",
+      "type": 5
+    },
+    {
+      "name": "angly",
+      "type": 5
+    },
+    {
+      "name": "sad",
+      "type": 5
+    },
+    {
+      "name": "smile",
+      "type": 5
+    },
+    {
+      "name": "smile2",
+      "type": 5
+    },
+    {
+      "name": "surpri",
+      "type": 5
+    },
+    {
+      "name": "fear",
+      "type": 5
+    }
+  ],
+  "rows": [
+    {
+      "$id": 0,
+      "ID": "BDAT_FACE_TYPE",
+      "su": 0,
+      "angly": 1,
+      "sad": 2,
+      "smile": 3,
+      "smile2": 3,
+      "surpri": 4,
+      "fear": 5
+    },
+    {
+      "$id": 1,
+      "ID": "BDAT_FACE_WEIGHT",
+      "su": 100,
+      "angly": 100,
+      "sad": 100,
+      "smile": 100,
+      "smile2": 100,
+      "surpri": 100,
+      "fear": 100
+    },
+    {
+      "$id": 2,
+      "ID": "BDAT_MOUSE_TYPE",
+      "su": 0,
+      "angly": 2,
+      "sad": 2,
+      "smile": 1,
+      "smile2": 4,
+      "surpri": 3,
+      "fear": 2
+    },
+    {
+      "$id": 3,
+      "ID": "BDAT_MOUSE_WEIGHT",
+      "su": 100,
+      "angly": 100,
+      "sad": 100,
+      "smile": 100,
+      "smile2": 90,
+      "surpri": 100,
+      "fear": 100
+    },
+    {
+      "$id": 4,
+      "ID": "BDAT_TALK_FACE_WEIGHT",
+      "su": 40,
+      "angly": 40,
+      "sad": 40,
+      "smile": 40,
+      "smile2": 40,
+      "surpri": 40,
+      "fear": 40
+    },
+    {
+      "$id": 5,
+      "ID": "BDAT_TALK_FACE_SPEED",
+      "su": 100,
+      "angly": 100,
+      "sad": 100,
+      "smile": 100,
+      "smile2": 100,
+      "surpri": 100,
+      "fear": 100
+    },
+    {
+      "$id": 6,
+      "ID": "BDAT_TALK_MOUSE_WEIGHT",
+      "su": 50,
+      "angly": 50,
+      "sad": 50,
+      "smile": 50,
+      "smile2": 50,
+      "surpri": 50,
+      "fear": 50
+    },
+    {
+      "$id": 7,
+      "ID": "BDAT_TALK_MOUSE_SPEED",
+      "su": 80,
+      "angly": 80,
+      "sad": 80,
+      "smile": 80,
+      "smile2": 80,
+      "surpri": 80,
+      "fear": 80
+    },
+    {
+      "$id": 8,
+      "ID": "BDAT_TALK_HEAD_WEIGHT",
+      "su": 10,
+      "angly": 10,
+      "sad": 10,
+      "smile": 10,
+      "smile2": 10,
+      "surpri": 10,
+      "fear": 10
+    },
+    {
+      "$id": 9,
+      "ID": "BDAT_TALK_HEAD_SPEED",
+      "su": 30,
+      "angly": 30,
+      "sad": 30,
+      "smile": 30,
+      "smile2": 30,
+      "surpri": 30,
+      "fear": 30
+    },
+    {
+      "$id": 10,
+      "ID": "BDAT_PATI_SIZE",
+      "su": 100,
+      "angly": 60,
+      "sad": 60,
+      "smile": 100,
+      "smile2": 100,
+      "surpri": 100,
+      "fear": 60
+    },
+    {
+      "$id": 11,
+      "ID": "BDAT_PATI_SPEED",
+      "su": 100,
+      "angly": 100,
+      "sad": 100,
+      "smile": 100,
+      "smile2": 100,
+      "surpri": 100,
+      "fear": 100
+    },
+    {
+      "$id": 12,
+      "ID": "BDAT_URU_SIZE",
+      "su": 40,
+      "angly": 40,
+      "sad": 40,
+      "smile": 40,
+      "smile2": 40,
+      "surpri": 40,
+      "fear": 40
+    },
+    {
+      "$id": 13,
+      "ID": "BDAT_URU_SPEED",
+      "su": 40,
+      "angly": 40,
+      "sad": 40,
+      "smile": 40,
+      "smile2": 40,
+      "surpri": 40,
+      "fear": 40
+    },
+    {
+      "$id": 14,
+      "ID": "BDAT_HEAD_WEIGHT",
+      "su": 50,
+      "angly": 50,
+      "sad": 50,
+      "smile": 50,
+      "smile2": 50,
+      "surpri": 50,
+      "fear": 50
+    },
+    {
+      "$id": 15,
+      "ID": "BDAT_HEAD_SPEED",
+      "su": 100,
+      "angly": 100,
+      "sad": 100,
+      "smile": 100,
+      "smile2": 100,
+      "surpri": 100,
+      "fear": 100
+    }
+  ]
+}

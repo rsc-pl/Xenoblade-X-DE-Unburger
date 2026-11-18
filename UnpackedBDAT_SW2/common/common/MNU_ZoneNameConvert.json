@@ -1,0 +1,162 @@
+{
+  "schema": [
+    {
+      "name": "ID",
+      "type": 9
+    },
+    {
+      "name": "zoneID",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 2
+    },
+    {
+      "name": "MenuZoneName",
+      "type": 1
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "ID": "ZONE_NAME_01",
+      "zoneID": 1,
+      "name": 458,
+      "MenuZoneName": 1
+    },
+    {
+      "$id": 2,
+      "ID": "ZONE_NAME_02",
+      "zoneID": 2,
+      "name": 99,
+      "MenuZoneName": 2
+    },
+    {
+      "$id": 3,
+      "ID": "ZONE_NAME_03",
+      "zoneID": 3,
+      "name": 514,
+      "MenuZoneName": 1
+    },
+    {
+      "$id": 4,
+      "ID": "ZONE_NAME_04",
+      "zoneID": 4,
+      "name": 1,
+      "MenuZoneName": 4
+    },
+    {
+      "$id": 5,
+      "ID": "ZONE_NAME_05",
+      "zoneID": 5,
+      "name": 190,
+      "MenuZoneName": 3
+    },
+    {
+      "$id": 6,
+      "ID": "ZONE_NAME_07",
+      "zoneID": 6,
+      "name": 282,
+      "MenuZoneName": 6
+    },
+    {
+      "$id": 7,
+      "ID": "ZONE_NAME_08",
+      "zoneID": 7,
+      "name": 355,
+      "MenuZoneName": 5
+    },
+    {
+      "$id": 8,
+      "ID": "ZONE_NAME_09",
+      "zoneID": 8,
+      "name": 510,
+      "MenuZoneName": 4
+    },
+    {
+      "$id": 9,
+      "ID": "ZONE_NAME_10",
+      "zoneID": 9,
+      "name": 511,
+      "MenuZoneName": 3
+    },
+    {
+      "$id": 10,
+      "ID": "ZONE_NAME_CLAN",
+      "zoneID": 10,
+      "name": 523,
+      "MenuZoneName": 1
+    },
+    {
+      "$id": 11,
+      "ID": "ZONE_NAME_11",
+      "zoneID": 11,
+      "name": 512,
+      "MenuZoneName": 6
+    },
+    {
+      "$id": 12,
+      "ID": "ZONE_NAME_12",
+      "zoneID": 12,
+      "name": 513,
+      "MenuZoneName": 5
+    },
+    {
+      "$id": 13,
+      "ID": "ZONE_NAME_13",
+      "zoneID": 13,
+      "name": 515,
+      "MenuZoneName": 1
+    },
+    {
+      "$id": 14,
+      "ID": "ZONE_NAME_14",
+      "zoneID": 14,
+      "name": 516,
+      "MenuZoneName": 1
+    },
+    {
+      "$id": 15,
+      "ID": "ZONE_NAME_15",
+      "zoneID": 15,
+      "name": 517,
+      "MenuZoneName": 1
+    },
+    {
+      "$id": 16,
+      "ID": "ZONE_NAME_16",
+      "zoneID": 16,
+      "name": 518,
+      "MenuZoneName": 1
+    },
+    {
+      "$id": 17,
+      "ID": "ZONE_NAME_17",
+      "zoneID": 17,
+      "name": 520,
+      "MenuZoneName": 6
+    },
+    {
+      "$id": 18,
+      "ID": "ZONE_NAME_18",
+      "zoneID": 0,
+      "name": 521,
+      "MenuZoneName": 1
+    },
+    {
+      "$id": 19,
+      "ID": "ZONE_NAME_19",
+      "zoneID": 80,
+      "name": 0,
+      "MenuZoneName": 1
+    },
+    {
+      "$id": 20,
+      "ID": "ZONE_NAME_20",
+      "zoneID": 100,
+      "name": 0,
+      "MenuZoneName": 6
+    }
+  ]
+}

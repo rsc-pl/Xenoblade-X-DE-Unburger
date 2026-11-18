@@ -1,0 +1,306 @@
+{
+  "schema": [
+    {
+      "name": "ID",
+      "type": 9
+    },
+    {
+      "name": "Pt_POSI",
+      "type": 5
+    },
+    {
+      "name": "Pt_CARE",
+      "type": 5
+    },
+    {
+      "name": "Pt_HUMA",
+      "type": 5
+    },
+    {
+      "name": "Pt_EFFI",
+      "type": 5
+    },
+    {
+      "name": "Pt_FRAN",
+      "type": 5
+    },
+    {
+      "name": "Pt_SIDE",
+      "type": 5
+    },
+    {
+      "name": "Pt_INTE",
+      "type": 5
+    },
+    {
+      "name": "Pt_SENS",
+      "type": 5
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "ID": "FRIEND_0001",
+      "Pt_POSI": 90,
+      "Pt_CARE": 0,
+      "Pt_HUMA": 180,
+      "Pt_EFFI": 0,
+      "Pt_FRAN": 90,
+      "Pt_SIDE": 0,
+      "Pt_INTE": 140,
+      "Pt_SENS": 0
+    },
+    {
+      "$id": 2,
+      "ID": "FRIEND_0002",
+      "Pt_POSI": 40,
+      "Pt_CARE": 0,
+      "Pt_HUMA": 0,
+      "Pt_EFFI": 0,
+      "Pt_FRAN": 0,
+      "Pt_SIDE": 40,
+      "Pt_INTE": 80,
+      "Pt_SENS": 80
+    },
+    {
+      "$id": 3,
+      "ID": "FRIEND_0003",
+      "Pt_POSI": 0,
+      "Pt_CARE": 40,
+      "Pt_HUMA": 0,
+      "Pt_EFFI": 80,
+      "Pt_FRAN": 40,
+      "Pt_SIDE": 0,
+      "Pt_INTE": 80,
+      "Pt_SENS": 0
+    },
+    {
+      "$id": 4,
+      "ID": "FRIEND_0004",
+      "Pt_POSI": 0,
+      "Pt_CARE": 80,
+      "Pt_HUMA": 0,
+      "Pt_EFFI": 80,
+      "Pt_FRAN": 40,
+      "Pt_SIDE": 0,
+      "Pt_INTE": 40,
+      "Pt_SENS": 0
+    },
+    {
+      "$id": 5,
+      "ID": "FRIEND_0005",
+      "Pt_POSI": 0,
+      "Pt_CARE": 60,
+      "Pt_HUMA": 30,
+      "Pt_EFFI": 30,
+      "Pt_FRAN": 0,
+      "Pt_SIDE": 60,
+      "Pt_INTE": 0,
+      "Pt_SENS": 0
+    },
+    {
+      "$id": 6,
+      "ID": "FRIEND_0006",
+      "Pt_POSI": 100,
+      "Pt_CARE": 0,
+      "Pt_HUMA": 50,
+      "Pt_EFFI": 0,
+      "Pt_FRAN": 100,
+      "Pt_SIDE": 0,
+      "Pt_INTE": 0,
+      "Pt_SENS": 50
+    },
+    {
+      "$id": 7,
+      "ID": "FRIEND_0007",
+      "Pt_POSI": 0,
+      "Pt_CARE": 30,
+      "Pt_HUMA": 0,
+      "Pt_EFFI": 60,
+      "Pt_FRAN": 0,
+      "Pt_SIDE": 60,
+      "Pt_INTE": 0,
+      "Pt_SENS": 30
+    },
+    {
+      "$id": 8,
+      "ID": "FRIEND_0008",
+      "Pt_POSI": 40,
+      "Pt_CARE": 0,
+      "Pt_HUMA": 0,
+      "Pt_EFFI": 40,
+      "Pt_FRAN": 80,
+      "Pt_SIDE": 0,
+      "Pt_INTE": 0,
+      "Pt_SENS": 70
+    },
+    {
+      "$id": 9,
+      "ID": "FRIEND_0009",
+      "Pt_POSI": 0,
+      "Pt_CARE": 60,
+      "Pt_HUMA": 110,
+      "Pt_EFFI": 0,
+      "Pt_FRAN": 120,
+      "Pt_SIDE": 0,
+      "Pt_INTE": 60,
+      "Pt_SENS": 0
+    },
+    {
+      "$id": 10,
+      "ID": "FRIEND_0010",
+      "Pt_POSI": 0,
+      "Pt_CARE": 90,
+      "Pt_HUMA": 50,
+      "Pt_EFFI": 50,
+      "Pt_FRAN": 0,
+      "Pt_SIDE": 0,
+      "Pt_INTE": 0,
+      "Pt_SENS": 100
+    },
+    {
+      "$id": 11,
+      "ID": "FRIEND_0011",
+      "Pt_POSI": 0,
+      "Pt_CARE": 30,
+      "Pt_HUMA": 0,
+      "Pt_EFFI": 50,
+      "Pt_FRAN": 0,
+      "Pt_SIDE": 30,
+      "Pt_INTE": 60,
+      "Pt_SENS": 0
+    },
+    {
+      "$id": 12,
+      "ID": "FRIEND_0012",
+      "Pt_POSI": 50,
+      "Pt_CARE": 0,
+      "Pt_HUMA": 30,
+      "Pt_EFFI": 0,
+      "Pt_FRAN": 0,
+      "Pt_SIDE": 60,
+      "Pt_INTE": 0,
+      "Pt_SENS": 30
+    },
+    {
+      "$id": 13,
+      "ID": "FRIEND_0013",
+      "Pt_POSI": 0,
+      "Pt_CARE": 200,
+      "Pt_HUMA": 100,
+      "Pt_EFFI": 0,
+      "Pt_FRAN": 0,
+      "Pt_SIDE": 100,
+      "Pt_INTE": 200,
+      "Pt_SENS": 0
+    },
+    {
+      "$id": 14,
+      "ID": "FRIEND_0014",
+      "Pt_POSI": 30,
+      "Pt_CARE": 0,
+      "Pt_HUMA": 50,
+      "Pt_EFFI": 0,
+      "Pt_FRAN": 60,
+      "Pt_SIDE": 30,
+      "Pt_INTE": 0,
+      "Pt_SENS": 0
+    },
+    {
+      "$id": 15,
+      "ID": "FRIEND_0015",
+      "Pt_POSI": 120,
+      "Pt_CARE": 0,
+      "Pt_HUMA": 0,
+      "Pt_EFFI": 120,
+      "Pt_FRAN": 60,
+      "Pt_SIDE": 0,
+      "Pt_INTE": 60,
+      "Pt_SENS": 0
+    },
+    {
+      "$id": 16,
+      "ID": "FRIEND_0016",
+      "Pt_POSI": 100,
+      "Pt_CARE": 0,
+      "Pt_HUMA": 0,
+      "Pt_EFFI": 50,
+      "Pt_FRAN": 90,
+      "Pt_SIDE": 0,
+      "Pt_INTE": 0,
+      "Pt_SENS": 50
+    },
+    {
+      "$id": 17,
+      "ID": "FRIEND_0017",
+      "Pt_POSI": 0,
+      "Pt_CARE": 40,
+      "Pt_HUMA": 90,
+      "Pt_EFFI": 0,
+      "Pt_FRAN": 0,
+      "Pt_SIDE": 60,
+      "Pt_INTE": 40,
+      "Pt_SENS": 0
+    },
+    {
+      "$id": 18,
+      "ID": "FRIEND_0018",
+      "Pt_POSI": 120,
+      "Pt_CARE": 0,
+      "Pt_HUMA": 0,
+      "Pt_EFFI": 0,
+      "Pt_FRAN": 120,
+      "Pt_SIDE": 180,
+      "Pt_INTE": 0,
+      "Pt_SENS": 240
+    },
+    {
+      "$id": 19,
+      "ID": "FRIEND_0022",
+      "Pt_POSI": 140,
+      "Pt_CARE": 0,
+      "Pt_HUMA": 280,
+      "Pt_EFFI": 280,
+      "Pt_FRAN": 0,
+      "Pt_SIDE": 0,
+      "Pt_INTE": 0,
+      "Pt_SENS": 140
+    },
+    {
+      "$id": 20,
+      "ID": "FRIEND_0020",
+      "Pt_POSI": 60,
+      "Pt_CARE": 0,
+      "Pt_HUMA": 0,
+      "Pt_EFFI": 60,
+      "Pt_FRAN": 0,
+      "Pt_SIDE": 120,
+      "Pt_INTE": 120,
+      "Pt_SENS": 0
+    },
+    {
+      "$id": 21,
+      "ID": "FRIEND_0021",
+      "Pt_POSI": 0,
+      "Pt_CARE": 140,
+      "Pt_HUMA": 70,
+      "Pt_EFFI": 140,
+      "Pt_FRAN": 0,
+      "Pt_SIDE": 0,
+      "Pt_INTE": 70,
+      "Pt_SENS": 0
+    },
+    {
+      "$id": 22,
+      "ID": "FRIEND_0023",
+      "Pt_POSI": 220,
+      "Pt_CARE": 0,
+      "Pt_HUMA": 220,
+      "Pt_EFFI": 0,
+      "Pt_FRAN": 110,
+      "Pt_SIDE": 0,
+      "Pt_INTE": 0,
+      "Pt_SENS": 110
+    }
+  ]
+}

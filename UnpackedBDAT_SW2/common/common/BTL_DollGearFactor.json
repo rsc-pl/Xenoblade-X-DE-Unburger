@@ -1,0 +1,69 @@
+{
+  "schema": [
+    {
+      "name": "ID",
+      "type": 9
+    },
+    {
+      "name": "param",
+      "type": 5
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "ID": "DG_Factor_Critical",
+      "param": 20
+    },
+    {
+      "$id": 2,
+      "ID": "DG_Factor_Catch",
+      "param": 100
+    },
+    {
+      "$id": 3,
+      "ID": "DG_Factor_SetBreak",
+      "param": 50
+    },
+    {
+      "$id": 4,
+      "ID": "DG_Factor_Kill",
+      "param": 100
+    },
+    {
+      "$id": 5,
+      "ID": "DG_Factor_GetOn",
+      "param": 300
+    },
+    {
+      "$id": 6,
+      "ID": "DG_Factor_Soul",
+      "param": 100
+    },
+    {
+      "$id": 7,
+      "ID": "DG_Factor_GetOff",
+      "param": -50
+    },
+    {
+      "$id": 8,
+      "ID": "DG_Factor_BattleEnd",
+      "param": 0
+    },
+    {
+      "$id": 9,
+      "ID": "DG_Factor_GetBreak",
+      "param": -500
+    },
+    {
+      "$id": 10,
+      "ID": "DG_Factor_GetReaction",
+      "param": -100
+    },
+    {
+      "$id": 11,
+      "ID": "DG_Factor_Cockpit",
+      "param": 500
+    }
+  ]
+}

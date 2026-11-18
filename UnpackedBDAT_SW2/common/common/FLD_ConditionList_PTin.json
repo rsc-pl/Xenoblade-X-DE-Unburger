@@ -1,0 +1,197 @@
+{
+  "schema": [
+    {
+      "name": "ID",
+      "type": 9
+    },
+    {
+      "name": "PTinID1",
+      "type": 2
+    },
+    {
+      "name": "PTinID2",
+      "type": 2
+    },
+    {
+      "name": "PTinID3",
+      "type": 2
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "ID": "COND_PTIN_NONE",
+      "PTinID1": 0,
+      "PTinID2": 0,
+      "PTinID3": 0
+    },
+    {
+      "$id": 2,
+      "ID": "COND_PTIN_ER_RI",
+      "PTinID1": 11,
+      "PTinID2": 12,
+      "PTinID3": 0
+    },
+    {
+      "$id": 3,
+      "ID": "COND_PTIN_ER_RI_RA",
+      "PTinID1": 11,
+      "PTinID2": 12,
+      "PTinID3": 3
+    },
+    {
+      "$id": 4,
+      "ID": "COND_PTIN_ER_RI_GU",
+      "PTinID1": 11,
+      "PTinID2": 12,
+      "PTinID3": 5
+    },
+    {
+      "$id": 5,
+      "ID": "COND_PTIN_ER_RI_IR",
+      "PTinID1": 11,
+      "PTinID2": 12,
+      "PTinID3": 14
+    },
+    {
+      "$id": 6,
+      "ID": "COND_PTIN_ER_RI_LU",
+      "PTinID1": 11,
+      "PTinID2": 12,
+      "PTinID3": 2
+    },
+    {
+      "$id": 7,
+      "ID": "COND_PTIN_ER_RI_SE",
+      "PTinID1": 11,
+      "PTinID2": 12,
+      "PTinID3": 13
+    },
+    {
+      "$id": 8,
+      "ID": "COND_PTIN_ER_RI_NA",
+      "PTinID1": 11,
+      "PTinID2": 12,
+      "PTinID3": 1
+    },
+    {
+      "$id": 9,
+      "ID": "COND_PTIN_IR",
+      "PTinID1": 14,
+      "PTinID2": 0,
+      "PTinID3": 0
+    },
+    {
+      "$id": 10,
+      "ID": "COND_PTIN_RI",
+      "PTinID1": 12,
+      "PTinID2": 0,
+      "PTinID3": 0
+    },
+    {
+      "$id": 11,
+      "ID": "COND_PTIN_MI",
+      "PTinID1": 18,
+      "PTinID2": 0,
+      "PTinID3": 0
+    },
+    {
+      "$id": 12,
+      "ID": "COND_PTIN_LU",
+      "PTinID1": 2,
+      "PTinID2": 0,
+      "PTinID3": 0
+    },
+    {
+      "$id": 13,
+      "ID": "COND_PTIN_HI",
+      "PTinID1": 17,
+      "PTinID2": 0,
+      "PTinID3": 0
+    },
+    {
+      "$id": 14,
+      "ID": "COND_PTIN_SE",
+      "PTinID1": 13,
+      "PTinID2": 0,
+      "PTinID3": 0
+    },
+    {
+      "$id": 15,
+      "ID": "COND_PTIN_MA",
+      "PTinID1": 15,
+      "PTinID2": 0,
+      "PTinID3": 0
+    },
+    {
+      "$id": 16,
+      "ID": "COND_PTIN_AK",
+      "PTinID1": 16,
+      "PTinID2": 0,
+      "PTinID3": 0
+    },
+    {
+      "$id": 17,
+      "ID": "COND_PTIN_IE",
+      "PTinID1": 8,
+      "PTinID2": 0,
+      "PTinID3": 0
+    },
+    {
+      "$id": 18,
+      "ID": "COND_PTIN_BO",
+      "PTinID1": 9,
+      "PTinID2": 0,
+      "PTinID3": 0
+    },
+    {
+      "$id": 19,
+      "ID": "COND_PTIN_HB",
+      "PTinID1": 4,
+      "PTinID2": 0,
+      "PTinID3": 0
+    },
+    {
+      "$id": 20,
+      "ID": "COND_PTIN_FU_FO",
+      "PTinID1": 6,
+      "PTinID2": 10,
+      "PTinID3": 0
+    },
+    {
+      "$id": 21,
+      "ID": "COND_PTIN_FO",
+      "PTinID1": 10,
+      "PTinID2": 0,
+      "PTinID3": 0
+    },
+    {
+      "$id": 22,
+      "ID": "COND_PTIN_ER",
+      "PTinID1": 11,
+      "PTinID2": 0,
+      "PTinID3": 0
+    },
+    {
+      "$id": 23,
+      "ID": "COND_PTIN_GU",
+      "PTinID1": 5,
+      "PTinID2": 0,
+      "PTinID3": 0
+    },
+    {
+      "$id": 24,
+      "ID": "COND_PTIN_RA",
+      "PTinID1": 3,
+      "PTinID2": 0,
+      "PTinID3": 0
+    },
+    {
+      "$id": 25,
+      "ID": "COND_PTIN_FU",
+      "PTinID1": 6,
+      "PTinID2": 0,
+      "PTinID3": 0
+    }
+  ]
+}

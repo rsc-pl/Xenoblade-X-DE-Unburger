@@ -1,0 +1,78 @@
+{
+  "schema": [
+    {
+      "name": "ID",
+      "type": 9
+    },
+    {
+      "name": "CategoryID",
+      "type": 2
+    },
+    {
+      "name": "CategoryName",
+      "type": 2
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "ID": "CollectItemCat01",
+      "CategoryID": 1,
+      "CategoryName": 225
+    },
+    {
+      "$id": 2,
+      "ID": "CollectItemCat02",
+      "CategoryID": 2,
+      "CategoryName": 226
+    },
+    {
+      "$id": 3,
+      "ID": "CollectItemCat03",
+      "CategoryID": 3,
+      "CategoryName": 227
+    },
+    {
+      "$id": 4,
+      "ID": "CollectItemCat04",
+      "CategoryID": 4,
+      "CategoryName": 228
+    },
+    {
+      "$id": 5,
+      "ID": "CollectItemCat05",
+      "CategoryID": 5,
+      "CategoryName": 229
+    },
+    {
+      "$id": 6,
+      "ID": "CollectItemCat06",
+      "CategoryID": 6,
+      "CategoryName": 230
+    },
+    {
+      "$id": 7,
+      "ID": "CollectItemCat07",
+      "CategoryID": 7,
+      "CategoryName": 231
+    },
+    {
+      "$id": 8,
+      "ID": "CollectItemCat08",
+      "CategoryID": 8,
+      "CategoryName": 232
+    },
+    {
+      "$id": 9,
+      "ID": "CollectItemCat09",
+      "CategoryID": 9,
+      "CategoryName": 233
+    },
+    {
+      "$id": 10,
+      "ID": "CollectItemCat10",
+      "CategoryID": 10,
+      "CategoryName": 234
+    }
+  ]
+}

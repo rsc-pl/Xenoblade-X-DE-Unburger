@@ -1,0 +1,456 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev020801_JNK0010",
+      "style": 4,
+      "name": "Inquire"
+    },
+    {
+      "$id": 2,
+      "label": "tev020801_SEL0011",
+      "style": 3,
+      "name": "Ask Sarona about maps."
+    },
+    {
+      "$id": 3,
+      "label": "tev020801_JNK0020",
+      "style": 4,
+      "name": "Discuss"
+    },
+    {
+      "$id": 4,
+      "label": "tev020801_SEL0021",
+      "style": 3,
+      "name": "Ask Sarona if anything is troubling her."
+    },
+    {
+      "$id": 5,
+      "label": "tev020801_SEL0031",
+      "style": 3,
+      "name": "Ask Sarona about the Landbanker Union."
+    },
+    {
+      "$id": 6,
+      "label": "tev020801_SEL0051",
+      "style": 3,
+      "name": "Ask Sarona for her thoughts on the Ma-non."
+    },
+    {
+      "$id": 7,
+      "label": "tev020801_SEL1011",
+      "style": 3,
+      "name": "Ask Sarona for her opinion of the Growth."
+    },
+    {
+      "$id": 8,
+      "label": "tev020801_SEL1021",
+      "style": 3,
+      "name": "Ask Sarona about recent developments."
+    },
+    {
+      "$id": 9,
+      "label": "tev020801_SEL1031",
+      "style": 3,
+      "name": "Ask Sarona for her thoughts on the Growth's weaponry."
+    },
+    {
+      "$id": 10,
+      "label": "tev020801_SEL1041",
+      "style": 3,
+      "name": "Ask Sarona about conditions during the enemy attack."
+    },
+    {
+      "$id": 11,
+      "label": "tev020801_SEL1051",
+      "style": 3,
+      "name": "Ask Sarona for her thoughts on the Larsians."
+    },
+    {
+      "$id": 12,
+      "label": "tev020801_SEL1061",
+      "style": 3,
+      "name": "Ask Sarona about her experiences with the Larsians."
+    },
+    {
+      "$id": 13,
+      "label": "tev020801_SEL1071",
+      "style": 3,
+      "name": "Ask Sarona about the Central Life."
+    },
+    {
+      "$id": 14,
+      "label": "tev020801_SEL1081",
+      "style": 3,
+      "name": "Ask Sarona what she intends to do next."
+    },
+    {
+      "$id": 15,
+      "label": "tev020801_MSG0001",
+      "style": 1,
+      "name": "Huh. You're that new crew\nmember they found, aren't you?[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "tev020801_MSG0002",
+      "style": 1,
+      "name": "So what do you think? Isn't this town huge?\nBut as big as it seems, Mira is a whole lot\nbigger— so don't go running off half-cocked.[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "tev020801_MSG0003",
+      "style": 1,
+      "name": "That comm device you're holding can display a\nmap of the surrounding area. If you lose your\nbearings, just fire it up and take a look.[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "tev020801_MSG0004",
+      "style": 1,
+      "name": "The triangle is your current position, the teal\ndots are your fellow team members, and the white\ndots are people like me. As for Dolls...[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "tev020801_MSG0005",
+      "style": 1,
+      "name": "Well, you don't have one of those yet, so\nnever mind! But when you do get one, take\na look at your map and see for yourself.[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "tev020801_MSG0008",
+      "style": 1,
+      "name": "You've heard of Talon Rock, right? That big rocky\nmountain in the northern part of Primordial Wilderness?\nIt's that big spire you can even see from the city.[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "tev020801_MSG0009",
+      "style": 1,
+      "name": "That area hasn't been fully explored\nyet, so Eleonora is always nagging us\nto get out there and do a survey.[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "tev020801_MSG0010",
+      "style": 1,
+      "name": "But the Talon Rock mountain is swarming with\ndangerous indigens, which makes it a big hassle.\nWe've been kicking that can down the road forever.[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "tev020801_MSG0011",
+      "style": 1,
+      "name": "But now they aren't even offering\nus any other missions, so we basically\nhave no choice BUT to do it.[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "tev020801_MSG0012",
+      "style": 1,
+      "name": "That Eleonora has the face of an\nangel, but she's doing the devil's\nwork in that receptionist's guise.[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "tev020801_MSG0020",
+      "style": 1,
+      "name": "As a member of the Landbanker Union, my\nprimary duty is finding and collecting the\nminerals and other resources of Mira.[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "tev020801_MSG0021",
+      "style": 1,
+      "name": "To do that, we explore each\nregion, plant data probes, and\nperform other related tasks.[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "tev020801_MSG0022",
+      "style": 1,
+      "name": "I volunteered to join the Union because I thought it\nsounded easy—I didn't want to have to be fighting\ndangerous indigens, like the Avalanche and Interceptor.[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "tev020801_MSG0023",
+      "style": 1,
+      "name": "But it's a heck of a lot tougher than I'd thought!\nScientific research can't advance without resources,\nso we have BLADE HQ on our backs constantly.[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "tev020801_MSG0024",
+      "style": 1,
+      "name": "Although I suppose if we're gonna\nlive on this planet forever, then\nsomeone's gotta do this sort of thing.[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "tev020801_MSG0046",
+      "style": 1,
+      "name": "Those little xenos are wandering around\nthe BLADE Area as we speak.[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "tev020801_MSG0047",
+      "style": 1,
+      "name": "Is that really okay? My friend was saying\nthey might secretly be trying to conquer\nNLA from that big ol' ship of theirs.[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "tev020801_MSG0048",
+      "style": 1,
+      "name": "What if that friendship\ntreaty is all a ruse?[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "tev020801_MSG0049",
+      "style": 1,
+      "name": "As soon as we let down our guard,\ndeath could rain down from above![ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "tev020801_MSG0050",
+      "style": 1,
+      "name": "And then the survivors would be subjects for\ncreepy alien experiments and probing! So very\nmuch probing... Anyway, we can't let that happen.[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "tev020801_MSG1001",
+      "style": 1,
+      "name": "I was thinking like, maybe if we could talk to\nthem, we could come to understand each other\nbetter. Just like the way Inisae and I have.[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "tev020801_MSG1002",
+      "style": 1,
+      "name": "So when I ran into a Growth soldier\non a mission, I figured I'd walk right\nup and try to start a dialogue.[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "tev020801_MSG1003",
+      "style": 1,
+      "name": "But he was just like, \"All humans must die!\"\nThen he started shooting at me. A lot, actually.\nAnyway, I ran the hell out of there.[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "tev020801_MSG1004",
+      "style": 1,
+      "name": "So I don't think we're gonna be friends\nanytime soon. I guess something about us\nreally just bugs the crap out of them.[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "tev020801_MSG1005",
+      "style": 1,
+      "name": "Anyway, I'm satisfied now that no matter\nhow long we have to deal with them, we'll\nnever come to any sort of understanding.[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "tev020801_MSG1010",
+      "style": 1,
+      "name": "Hey, thanks for everything you did\nfor us back on that mountain.[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "tev020801_MSG1011",
+      "style": 1,
+      "name": "Now Inisae and I have become good\nfriends, and it's all because of you![ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "tev020801_MSG1012",
+      "style": 1,
+      "name": "A little while ago, the two of us went\nout to have coffee with Eleonora at a\ncafé in the Commercial Area.[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "tev020801_MSG1013",
+      "style": 1,
+      "name": "And imagine my surprise when Inisae\nbrought out another one of those Vasalt\nintestines that look like chocolates.[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "tev020801_MSG1014",
+      "style": 1,
+      "name": "Anyway, Eleonora was all, \"Wow, I can't\nbelieve their viscera can be cooked like\nthis!\" Then she just dug in and gobbled it up.[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "tev020801_MSG1015",
+      "style": 1,
+      "name": "There's a whole lot of scary lurking\nbehind that cheery smile of hers, man...[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "tev020801_MSG1020",
+      "style": 1,
+      "name": "I was just remembering that Doll thing\nthe creepy squid lady Goetia was riding.[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "tev020801_MSG1021",
+      "style": 1,
+      "name": "Oh, and that idol of theirs we\nfound in Nightglow Forest.[ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "tev020801_MSG1022",
+      "style": 1,
+      "name": "Anyway, it made me wonder—why does\neverything the Growth use have to\nbe so creepy and disgusting?[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "tev020801_MSG1023",
+      "style": 1,
+      "name": "And now MEREDES & Co. is selling gear that's\ninspired by all that nasty junk, and folks\nare lining up to buy it! It's disgusting![ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "tev020801_MSG1024",
+      "style": 1,
+      "name": "I don't care how good it is on\npaper, there's no way in hell I'm\ntouching any of that awful stuff.[ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "tev020801_MSG1030",
+      "style": 1,
+      "name": "I heard that the city's defenders\nslew countless enemies and managed\nto hold the east gate.[ST:wait ]"
+    },
+    {
+      "$id": 52,
+      "label": "tev020801_MSG1031",
+      "style": 1,
+      "name": "And I also heard there was one super-strong\nBLADE who even managed to take out the enemy\ncommander! So I asked what [ST:gender p1=his p2=her ] name was...[ST:wait ]"
+    },
+    {
+      "$id": 53,
+      "label": "tev020801_MSG1032",
+      "style": 1,
+      "name": "And they said it was [ST:playername ]! So I was like,\nholy crap! Because that's YOU![ST:wait ]"
+    },
+    {
+      "$id": 54,
+      "label": "tev020801_MSG1033",
+      "style": 1,
+      "name": "I mean, wow. I knew you were\ngood and all, but I had no\nidea that you were THAT good.[ST:wait ]"
+    },
+    {
+      "$id": 55,
+      "label": "tev020801_MSG1034",
+      "style": 1,
+      "name": "You gotta keep that roll of yours\ngoing. Go bring down the Growth\nand find our Central Life![ST:wait ]"
+    },
+    {
+      "$id": 56,
+      "label": "tev020801_MSG1040",
+      "style": 1,
+      "name": "The Larsians told us that the Growth\nheadquarters is on the Black Steel\nContinent, right?[ST:wait ]"
+    },
+    {
+      "$id": 57,
+      "label": "tev020801_MSG1041",
+      "style": 1,
+      "name": "So does that mean that those guys are cool\nwith us now? Because if they said it with\nthe intention of leaving the Growth...[ST:wait ]"
+    },
+    {
+      "$id": 58,
+      "label": "tev020801_MSG1042",
+      "style": 1,
+      "name": "Well, then maybe we could be\nfriends with them, the way Inisae\nand I are good friends now.[ST:wait ]"
+    },
+    {
+      "$id": 59,
+      "label": "tev020801_MSG1043",
+      "style": 1,
+      "name": "Personally, I LOVE cats, so I\nthink I could really get along\ngreat with xenoforms like that.[ST:wait ]"
+    },
+    {
+      "$id": 60,
+      "label": "tev020801_MSG1048",
+      "style": 1,
+      "name": "Now that we're allies, I thought\nI'd try getting along with them.[ST:wait ]"
+    },
+    {
+      "$id": 61,
+      "label": "tev020801_MSG1049",
+      "style": 1,
+      "name": "But everything I do to befriend\nthem just makes them angry at me![ST:wait ]"
+    },
+    {
+      "$id": 62,
+      "label": "tev020801_MSG1050",
+      "style": 1,
+      "name": "I've dangled Kiran catnip in front of their\nnoses... I've hit them in the face with big\nballs of yarn... Nothing seems to work![ST:wait ]"
+    },
+    {
+      "$id": 63,
+      "label": "tev020801_MSG1051",
+      "style": 1,
+      "name": "I don't understand it. I've raised cats all\nmy life! I was so sure that making friends\nwith a catlike species would be easy for me.[ST:wait ]"
+    },
+    {
+      "$id": 64,
+      "label": "tev020801_MSG1052",
+      "style": 1,
+      "name": "I guess I'll just need to break out the big\nguns. Next time maybe I'll sneak up and rub\ntheir chins when they aren't looking...[ST:wait ]"
+    },
+    {
+      "$id": 65,
+      "label": "tev020801_MSG1057",
+      "style": 1,
+      "name": "If you and the Pathfinder hadn't traveled to\nthe far reaches of Mira to install all those\ndata probes, we would have been in big trouble.[ST:wait ]"
+    },
+    {
+      "$id": 66,
+      "label": "tev020801_MSG1058",
+      "style": 1,
+      "name": "And we sure never would have figured out\nthat the Central Life had fallen into\nthe sea near the Black Steel Continent.[ST:wait ]"
+    },
+    {
+      "$id": 67,
+      "label": "tev020801_MSG1059",
+      "style": 1,
+      "name": "I know recovering it won't be easy,\nbut we found it, so that means\neveryone's gonna be okay. ...Er, right?[ST:wait ]"
+    },
+    {
+      "$id": 68,
+      "label": "tev020801_MSG1060",
+      "style": 1,
+      "name": "Let's use every resource we've\nfound here on Mira and go get\nour real bodies back![ST:wait ]"
+    },
+    {
+      "$id": 69,
+      "label": "tev020801_MSG1065",
+      "style": 1,
+      "name": "Now that the Growth have mostly been\ndestroyed, Inisae and I were thinking\nabout hiking across Mira together.[ST:wait ]"
+    },
+    {
+      "$id": 70,
+      "label": "tev020801_MSG1066",
+      "style": 1,
+      "name": "Just two girls going wherever\nthe spirit takes them! Doesn't\nthat sound like fun?[ST:wait ]"
+    },
+    {
+      "$id": 71,
+      "label": "tev020801_MSG1067",
+      "style": 1,
+      "name": "We can go visit the ruins of Valley\nof Oblivion, or see the fantastic\nscenery of White Woods...[ST:wait ]"
+    },
+    {
+      "$id": 72,
+      "label": "tev020801_MSG1068",
+      "style": 1,
+      "name": "Imagine actually walking around\nin the picturesque areas we've\nseen on the research probes![ST:wait ]"
+    },
+    {
+      "$id": 73,
+      "label": "tev020801_MSG1069",
+      "style": 1,
+      "name": "Hey, you know a lot about Mira, right?\nIf you think of any great spots for\nus to visit, you gotta clue me in![ST:wait ]"
+    }
+  ]
+}

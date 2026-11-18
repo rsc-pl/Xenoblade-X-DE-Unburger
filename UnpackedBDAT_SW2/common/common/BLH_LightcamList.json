@@ -1,0 +1,39 @@
+{
+  "schema": [
+    {
+      "name": "ID",
+      "type": 9
+    },
+    {
+      "name": "CamID_0",
+      "type": 1
+    },
+    {
+      "name": "CamID_1",
+      "type": 1
+    },
+    {
+      "name": "CamID_2",
+      "type": 1
+    },
+    {
+      "name": "CamID_3",
+      "type": 1
+    },
+    {
+      "name": "CamID_4",
+      "type": 1
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "ID": "LIGHTCAM_01",
+      "CamID_0": 33,
+      "CamID_1": 34,
+      "CamID_2": 35,
+      "CamID_3": 36,
+      "CamID_4": 37
+    }
+  ]
+}

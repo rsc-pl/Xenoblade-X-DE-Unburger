@@ -1,0 +1,696 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs03010100_MSG0001",
+      "style": 0,
+      "name": "By the way, where did you go,\ndumping the work on Nagi?[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs03010100_MSG0002",
+      "style": 0,
+      "name": "Hey now, the BLADE Commander\nis busy too, y'know.[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs03010100_MSG0003",
+      "style": 0,
+      "name": "Busy enough to leave scouting\nnew members to someone else?[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs03010100_MSG0004",
+      "style": 0,
+      "name": "You can talk, considering how fired up you\nwere, saying \"Okay, I'll persuade them!\"[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs03010100_MSG0005",
+      "style": 0,
+      "name": "Is that so?[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "xs03010100_MSG0006",
+      "style": 0,
+      "name": "Was that so?[ST:wide ]― I'll leave the\nrest to you, Commander.[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "xs03010100_MSG0007",
+      "style": 0,
+      "name": "Uncle Nagi totally ran away.[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "xs03010100_MSG0008",
+      "style": 0,
+      "name": "Unbelievable. The Secretary of Defense\nand the BLADE Commander, both of you...[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "xs03010100_MSG0009",
+      "style": 0,
+      "name": "Weren't you looking happy yourself,\nsaying you'd found a promising newbie?[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "xs03010100_MSG0010",
+      "style": 0,
+      "name": "Was I?[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "xs03010100_MSG0011",
+      "style": 0,
+      "name": "Come on now, don't be so cold. Are\nyou one of those 'tsundere' types?[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "xs03010100_MSG0011_m",
+      "style": 0,
+      "name": "Come on now, don't be so cold. Are\nyou one of those 'tsundere' types?[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "xs03010100_MSG0011_f",
+      "style": 0,
+      "name": "Come on now, don't be so cold. Are\nyou one of those 'tsundere' types?[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "xs03010100_MSG0012",
+      "style": 0,
+      "name": "Well, I don't really understand your slang.[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "xs03010100_MSG0013",
+      "style": 0,
+      "name": "More importantly, is that the\nnewbie? You've got a good look![ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "xs03010100_MSG0014",
+      "style": 0,
+      "name": "This is BLADE's Commander, Vandham.[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "xs03010100_MSG0015",
+      "style": 0,
+      "name": "Originally I was the Chief\nEngineer on the White Whale, but[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "xs03010100_MSG0016",
+      "style": 0,
+      "name": "Since arriving on Mira, by some twist of\nfate, I've been serving as BLADE Commander.[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "xs03010100_MSG0017",
+      "style": 0,
+      "name": "Nice to meet ya, newbie.[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "xs03010100_MSG0018",
+      "style": 0,
+      "name": "So what's your business? You didn't just\ncome here to see the newcomer, right?[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "xs03010100_MSG0019",
+      "style": 0,
+      "name": "You can tell?[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "xs03010100_MSG0020",
+      "style": 0,
+      "name": "Of course. You're not that type of person.[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "xs03010100_MSG0021",
+      "style": 0,
+      "name": "Okay, let's get to it. Two things: Union\naffiliation, and a mission request.[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "xs03010100_JNK0010",
+      "style": 4,
+      "name": "Show Interest"
+    },
+    {
+      "$id": 25,
+      "label": "xs03010100_SEL0011",
+      "style": 3,
+      "name": "Ask in detail about the mission."
+    },
+    {
+      "$id": 26,
+      "label": "xs03010100_JNK0020",
+      "style": 4,
+      "name": "Question"
+    },
+    {
+      "$id": 27,
+      "label": "xs03010100_SEL0021",
+      "style": 3,
+      "name": "Ask what a Union is."
+    },
+    {
+      "$id": 28,
+      "label": "xs03010100_MSG0022",
+      "style": 0,
+      "name": "Don't be in such a hurry.[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "xs03010100_MSG0023",
+      "style": 0,
+      "name": "I know you want to run around freely already, but\nyou can't even do that until you pick your Union.[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "xs03010100_MSG0024",
+      "style": 0,
+      "name": "Once I'm done explaining the Unions,\nyou'll understand the mission too.[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "xs03010100_MSG0025",
+      "style": 0,
+      "name": "Most people living in NLA,\nas members of BLADE[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "xs03010100_MSG0026",
+      "style": 0,
+      "name": "are involved in exploring Mira and maintaining\npublic order in NLA, just like Nagi said.[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "xs03010100_MSG0027",
+      "style": 0,
+      "name": "BLADE is divided into eight Unions,\neach based on mission type.[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "xs03010100_MSG0028",
+      "style": 0,
+      "name": "Those are the Unions.[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "xs03010100_MSG0029",
+      "style": 0,
+      "name": "You'll have to join the Union\nthat matches your aptitude too.[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "xs03010100_MSG0030",
+      "style": 0,
+      "name": "Let's start with the Pathfinder.[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "xs03010100_MSG0031",
+      "style": 0,
+      "name": "What you did on your first mission[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "xs03010100_MSG0032",
+      "style": 0,
+      "name": "that's the Union primarily in\ncharge of Data Probe installation.[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "xs03010100_MSG0033",
+      "style": 0,
+      "name": "We're beginners who don't know\nanything about Mira yet.[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "xs03010100_MSG0034",
+      "style": 0,
+      "name": "That's why installing Data Probes[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "xs03010100_MSG0035",
+      "style": 0,
+      "name": "and expanding FrontierNET helps\nus learn more about this planet.[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "xs03010100_MSG0036",
+      "style": 0,
+      "name": "The more FrontierNET expands, the\nmore varied information comes in.[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "xs03010100_MSG0037",
+      "style": 0,
+      "name": "Based on that information, we\ncan live safely on this planet[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "xs03010100_MSG0038",
+      "style": 0,
+      "name": "and find a way to build a stable life.[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "xs03010100_MSG0039",
+      "style": 0,
+      "name": "Besides, expanding FrontierNET is essential for\nfinding the Life Point, our main objective.[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "xs03010100_MSG0040",
+      "style": 0,
+      "name": "Okay, next up—Interceptor.[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "xs03010100_MSG0041",
+      "style": 0,
+      "name": "You've already met Iriina and Gwin, right?\nIt's the Union those guys belong to.[ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "xs03010100_MSG0042",
+      "style": 0,
+      "name": "The Interceptor's main mission is[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "xs03010100_MSG0043",
+      "style": 0,
+      "name": "Protecting NLA residents from the\nthreat of Mira's native creatures.[ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "xs03010100_MSG0044",
+      "style": 0,
+      "name": "This might be the busiest Union.[ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "xs03010100_MSG0045",
+      "style": 0,
+      "name": "Guarding survey teams, protecting VIPs[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 52,
+      "label": "xs03010100_MSG0046",
+      "style": 0,
+      "name": "Depending on the situation, rescuing NLA\nresidents is also one of this Union's duties.[ST:wait ]"
+    },
+    {
+      "$id": 53,
+      "label": "xs03010100_MSG0047",
+      "style": 0,
+      "name": "Next are the Avalanche.[ST:wait ]"
+    },
+    {
+      "$id": 54,
+      "label": "xs03010100_MSG0048",
+      "style": 0,
+      "name": "Remember Doug? The one who piloted\nthe Doll during the flight test?[ST:wait ]"
+    },
+    {
+      "$id": 55,
+      "label": "xs03010100_MSG0049",
+      "style": 0,
+      "name": "That's the Union he belongs to.[ST:wait ]"
+    },
+    {
+      "$id": 56,
+      "label": "xs03010100_MSG0050",
+      "style": 0,
+      "name": "If Interceptor is defense,\nAvalanche handles offense.[ST:wait ]"
+    },
+    {
+      "$id": 57,
+      "label": "xs03010100_MSG0051",
+      "style": 0,
+      "name": "That said, it's not like\nthey just attack blindly.[ST:wait ]"
+    },
+    {
+      "$id": 58,
+      "label": "xs03010100_MSG0052",
+      "style": 0,
+      "name": "Taking down especially dangerous creatures\non Mira is this Union's main mission.[ST:wait ]"
+    },
+    {
+      "$id": 59,
+      "label": "xs03010100_MSG0053",
+      "style": 0,
+      "name": "Next are Testament,[ST:wait ]"
+    },
+    {
+      "$id": 60,
+      "label": "xs03010100_MSG0054",
+      "style": 0,
+      "name": "searching for and recovering the wreckage of\nthe White Whale that scattered across Mira.[ST:wait ]"
+    },
+    {
+      "$id": 61,
+      "label": "xs03010100_MSG0055",
+      "style": 0,
+      "name": "And one more thing: recovering items left\non battlefields is another main mission.[ST:wait ]"
+    },
+    {
+      "$id": 62,
+      "label": "xs03010100_MSG0056",
+      "style": 0,
+      "name": "Recovering those left-behind items isn't a mission\nyou want to see often, but it does happen.[ST:wait ]"
+    },
+    {
+      "$id": 63,
+      "label": "xs03010100_MSG0057",
+      "style": 0,
+      "name": "For us, still unfamiliar with this planet\nand unable to produce anything ourselves,[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 64,
+      "label": "xs03010100_MSG0058",
+      "style": 0,
+      "name": "everything from Earth carried by\nthe White Whale is precious.[ST:wait ]"
+    },
+    {
+      "$id": 65,
+      "label": "xs03010100_MSG0059",
+      "style": 0,
+      "name": "Searching for the Life Point is\nalso this Union's responsibility.[ST:wait ]"
+    },
+    {
+      "$id": 66,
+      "label": "xs03010100_MSG0060",
+      "style": 0,
+      "name": "Next: Collepedian,[ST:wait ]"
+    },
+    {
+      "$id": 67,
+      "label": "xs03010100_MSG0061",
+      "style": 0,
+      "name": "going ahead of any other Union\nto various places on Mira[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 68,
+      "label": "xs03010100_MSG0062",
+      "style": 0,
+      "name": "Surveying those places and recovering\nmaterials and the like is their main mission.[ST:wait ]"
+    },
+    {
+      "$id": 69,
+      "label": "xs03010100_MSG0063",
+      "style": 0,
+      "name": "Walking through unseen places sounds nice, but it goes\nhand in hand with the threat of native creatures.[ST:wait ]"
+    },
+    {
+      "$id": 70,
+      "label": "xs03010100_MSG0064",
+      "style": 0,
+      "name": "Next are Landbanker.[ST:wait ]"
+    },
+    {
+      "$id": 71,
+      "label": "xs03010100_MSG0065",
+      "style": 0,
+      "name": "Securing resources and collecting minerals is their main\nmission. Resources are vital for survival, after all."
+    },
+    {
+      "$id": 72,
+      "label": "xs03010100_MSG0066",
+      "style": 0,
+      "name": "Even though we loaded all the\nessentials, supplies are limited.[ST:wait ]"
+    },
+    {
+      "$id": 73,
+      "label": "xs03010100_MSG0067",
+      "style": 0,
+      "name": "We have to find substitutes for water, fuel,[ST:wait ]"
+    },
+    {
+      "$id": 74,
+      "label": "xs03010100_MSG0068",
+      "style": 0,
+      "name": "parts and tools for repairing NLA and Dolls[ST:wide ]―[ST:wait ]"
+    },
+    {
+      "$id": 75,
+      "label": "xs03010100_MSG0069",
+      "style": 0,
+      "name": "Even frying pans - we have to learn to\nmake them using materials from Mira.[ST:wait ]"
+    },
+    {
+      "$id": 76,
+      "label": "xs03010100_MSG0070",
+      "style": 0,
+      "name": "That's why they spend their days\ncollecting and researching.[ST:wait ]"
+    },
+    {
+      "$id": 77,
+      "label": "xs03010100_MSG0071",
+      "style": 0,
+      "name": "Next up: Arms.[ST:wait ]"
+    },
+    {
+      "$id": 78,
+      "label": "xs03010100_MSG0072",
+      "style": 0,
+      "name": "The Arms Companies develop\nall Doll and Inner weapons.[ST:wait ]"
+    },
+    {
+      "$id": 79,
+      "label": "xs03010100_MSG0073",
+      "style": 0,
+      "name": "It's the Union whose main\nmission is supporting them[ST:wait ]"
+    },
+    {
+      "$id": 80,
+      "label": "xs03010100_MSG0074",
+      "style": 0,
+      "name": "by finding things that could provide\nhints for weapon development.[ST:wait ]"
+    },
+    {
+      "$id": 81,
+      "label": "xs03010100_MSG0075",
+      "style": 0,
+      "name": "They also test prototypes.[ST:wait ]"
+    },
+    {
+      "$id": 82,
+      "label": "xs03010100_MSG0076",
+      "style": 0,
+      "name": "Finally, the Companion.[ST:wait ]"
+    },
+    {
+      "$id": 83,
+      "label": "xs03010100_MSG0077",
+      "style": 0,
+      "name": "It's the Union whose main mission is\nsolving problems among NLA residents.[ST:wait ]"
+    },
+    {
+      "$id": 84,
+      "label": "xs03010100_MSG0078",
+      "style": 0,
+      "name": "From mediating residents' quarrels to searching for\nlost cats, residents' requests cover a wide range.[ST:wait ]"
+    },
+    {
+      "$id": 85,
+      "label": "xs03010100_MSG0079",
+      "style": 0,
+      "name": "Since they handle all of that, you might\nsay they're close to a jack-of-all-trades.[ST:wait ]"
+    },
+    {
+      "$id": 86,
+      "label": "xs03010100_MSG0080",
+      "style": 0,
+      "name": "You might think it's too plain, but\nprecisely because Companion exists,[ST:wait ]"
+    },
+    {
+      "$id": 87,
+      "label": "xs03010100_MSG0081",
+      "style": 0,
+      "name": "the other Unions can focus all\ntheir energy on external affairs.[ST:wait ]"
+    },
+    {
+      "$id": 88,
+      "label": "xs03010100_MSG0082",
+      "style": 0,
+      "name": "That's it for the Union explanations.[ST:wait ]"
+    },
+    {
+      "$id": 89,
+      "label": "xs03010100_MSG0083",
+      "style": 0,
+      "name": "Finally, about the Union you'll join,[ST:wait ]"
+    },
+    {
+      "$id": 90,
+      "label": "xs03010100_MSG0084",
+      "style": 0,
+      "name": "whichever you pick, your\nfreedom won't be restricted.[ST:wait ]"
+    },
+    {
+      "$id": 91,
+      "label": "xs03010100_MSG0085",
+      "style": 0,
+      "name": "Even if you belong to Companion, you\ncan still go hunt native creatures.[ST:wait ]"
+    },
+    {
+      "$id": 92,
+      "label": "xs03010100_MSG0086",
+      "style": 0,
+      "name": "You can join the Avalanche and devote yourself\nto solving NLA residents' problems.[ST:wait ]"
+    },
+    {
+      "$id": 93,
+      "label": "xs03010100_MSG0087",
+      "style": 0,
+      "name": "Although it's not really recommended, it's\nalso possible to change your Union later.[ST:wait ]"
+    },
+    {
+      "$id": 94,
+      "label": "xs03010100_MSG0088",
+      "style": 0,
+      "name": "It's fine to choose without stressing\nabout it at first. So? Do you understand?[ST:wait ]"
+    },
+    {
+      "$id": 95,
+      "label": "xs03010100_JNK0030",
+      "style": 4,
+      "name": "Yes"
+    },
+    {
+      "$id": 96,
+      "label": "xs03010100_SEL0031",
+      "style": 3,
+      "name": "Nod, indicating you understand perfectly."
+    },
+    {
+      "$id": 97,
+      "label": "xs03010100_JNK0040",
+      "style": 4,
+      "name": "No"
+    },
+    {
+      "$id": 98,
+      "label": "xs03010100_SEL0041",
+      "style": 3,
+      "name": "Look away nervously."
+    },
+    {
+      "$id": 99,
+      "label": "xs03010100_MSG0089",
+      "style": 0,
+      "name": "Since it's important, I'll explain again.[ST:wait ]"
+    },
+    {
+      "$id": 100,
+      "label": "xs03010100_MSG0090",
+      "style": 0,
+      "name": "Okay then, please choose your Union.[ST:wait ]"
+    },
+    {
+      "$id": 101,
+      "label": "xs03010100_JNK0050",
+      "style": 4,
+      "name": "Confirm"
+    },
+    {
+      "$id": 102,
+      "label": "xs03010100_SEL0051",
+      "style": 3,
+      "name": "Choose your Union."
+    },
+    {
+      "$id": 103,
+      "label": "xs03010100_JNK0060",
+      "style": 4,
+      "name": "Hesitate"
+    },
+    {
+      "$id": 104,
+      "label": "xs03010100_SEL0061",
+      "style": 3,
+      "name": "Ask to hear the Union explanation again."
+    },
+    {
+      "$id": 105,
+      "label": "xs03010100_MSG0091",
+      "style": 0,
+      "name": "So that's your decision?[ST:wait ]"
+    },
+    {
+      "$id": 106,
+      "label": "xs03010100_JNK0070",
+      "style": 4,
+      "name": "Confirm"
+    },
+    {
+      "$id": 107,
+      "label": "xs03010100_SEL0071",
+      "style": 3,
+      "name": "Look Elma in the eyes and nod."
+    },
+    {
+      "$id": 108,
+      "label": "xs03010100_JNK0080",
+      "style": 4,
+      "name": "Reconsider"
+    },
+    {
+      "$id": 109,
+      "label": "xs03010100_SEL0081",
+      "style": 3,
+      "name": "Choose a different Union."
+    },
+    {
+      "$id": 110,
+      "label": "xs03010100_MSG0092",
+      "style": 0,
+      "name": "Alright! All procedures complete.[ST:wait ]"
+    },
+    {
+      "$id": 111,
+      "label": "xs03010100_MSG0092_2",
+      "style": 0,
+      "name": "With this, you're officially a\nmember of BLADE. Good luck![ST:wait ]"
+    },
+    {
+      "$id": 112,
+      "label": "xs03010100_MSG0093",
+      "style": 0,
+      "name": "Welcome to BLADE.[ST:wait ]"
+    },
+    {
+      "$id": 113,
+      "label": "xs03010100_MSG0094",
+      "style": 0,
+      "name": "Let's do our best together![ST:wait ]"
+    }
+  ]
+}

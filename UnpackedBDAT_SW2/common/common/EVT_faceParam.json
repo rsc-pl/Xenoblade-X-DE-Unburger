@@ -1,0 +1,39 @@
+{
+  "schema": [
+    {
+      "name": "ID",
+      "type": 9
+    },
+    {
+      "name": "val",
+      "type": 5
+    }
+  ],
+  "rows": [
+    {
+      "$id": 0,
+      "ID": "BDAT_ACTION_ADD_BLEND",
+      "val": 10
+    },
+    {
+      "$id": 1,
+      "ID": "BDAT_FACE_BLEND",
+      "val": 10
+    },
+    {
+      "$id": 2,
+      "ID": "BDAT_TALK_BLEND",
+      "val": 30
+    },
+    {
+      "$id": 3,
+      "ID": "BDAT_LENS_MILD",
+      "val": 20
+    },
+    {
+      "$id": 4,
+      "ID": "BDAT_LOOK_WEIGHT",
+      "val": 80
+    }
+  ]
+}

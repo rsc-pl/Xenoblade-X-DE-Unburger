@@ -1,0 +1,336 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev018301_MSG0001",
+      "style": 1,
+      "name": "Miranium! Miranium! Miranium![ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev018301_MSG0002",
+      "style": 1,
+      "name": "Anyway, the development of\nBattle Data Probes requires a\nmassive amount of Miranium![ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev018301_MSG0003",
+      "style": 1,
+      "name": "Please! In order to create the next Battle\nData Probe! The Ranged Power Up Probe!\nWon't you provide me with Miranium?[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev018301_MSG0004",
+      "style": 1,
+      "name": "At this rate, the precious Battle\nData Probes will fade away without\never seeing the light of day.[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev018301_JNK0010",
+      "style": 4,
+      "name": "Affirmative"
+    },
+    {
+      "$id": 6,
+      "label": "qev018301_SEL0011",
+      "style": 3,
+      "name": "Offer your cooperation."
+    },
+    {
+      "$id": 7,
+      "label": "qev018301_JNK0020",
+      "style": 4,
+      "name": "Question"
+    },
+    {
+      "$id": 8,
+      "label": "qev018301_SEL0021",
+      "style": 3,
+      "name": "Ask for details on what the Miranium is used for."
+    },
+    {
+      "$id": 9,
+      "label": "qev018301_MSG0005",
+      "style": 1,
+      "name": "Thank you. I'm truly glad to\nhave a collaborator like you.[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev018301_MSG0006",
+      "style": 1,
+      "name": "The required amount of Miranium is 20000gm.\n...How is it? Think you can do it?[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev018301_MSG0007",
+      "style": 1,
+      "name": "Depending on the processing, it can\nbe turned into a hard substance or a\nflexible substance like aluminum.[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev018301_MSG0008",
+      "style": 1,
+      "name": "It can't cover everything, but there\nis no other ore as versatile as this.[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev018301_MSG0009",
+      "style": 1,
+      "name": "...Now, go get 20000gm of Miranium.[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev018301_MSG0010",
+      "style": 1,
+      "name": "Let us revive the next\nBattle Data Probe![ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev018301_MSG0011",
+      "style": 1,
+      "name": "I'm sorry to always ask this. I know\nI'm requesting an enormous amount.[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev018301_MSG0012",
+      "style": 1,
+      "name": "But... I'll show you that I can\nmake something that will reward\nthat Miranium this time as well.[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev018301_MSG0013",
+      "style": 1,
+      "name": "Normally, corporations should\nbe investing in a capable\nresearcher like myself, but...[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev018301_MSG0014",
+      "style": 1,
+      "name": "It seems they still don't understand\nthe value of these Battle Data Probes.[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev018301_MSG0015",
+      "style": 1,
+      "name": "Without receiving your support\nlike this, I wouldn't be able\nto revive a single one.[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev018301_MSG0016",
+      "style": 1,
+      "name": "Hmph... It's an absurd\nstory, but this is reality.[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev018301_MSG0017",
+      "style": 1,
+      "name": "Well, I'm truly glad to have\na collaborator like you.[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev018301_MSG0018",
+      "style": 1,
+      "name": "Even though I surely hold the\nhope that will save the BLADEs[ST:wide ]—no,\nthis city, in my hands...[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev018301_MSG0019",
+      "style": 1,
+      "name": "In the ridiculous reality of lacking\nmaterials, I cannot give it form...[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev018301_MSG0020",
+      "style": 1,
+      "name": "It's an extremely absurd story... Hey,\nhaven't you gotten the Miranium yet?[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev018301_JNK0030",
+      "style": 4,
+      "name": "Hand over"
+    },
+    {
+      "$id": 26,
+      "label": "qev018301_SEL0031",
+      "style": 3,
+      "name": "Hand over 20000gm of Miranium."
+    },
+    {
+      "$id": 27,
+      "label": "qev018301_JNK0040",
+      "style": 4,
+      "name": "Do not hand over"
+    },
+    {
+      "$id": 28,
+      "label": "qev018301_SEL0041",
+      "style": 3,
+      "name": "Do not hand it over for now."
+    },
+    {
+      "$id": 29,
+      "label": "qev018301_MSG0021",
+      "style": 1,
+      "name": "Good! With this amount of Miranium,\nit looks like I can start producing\nthe Ranged Power Up Probe![ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev018301_MSG0022",
+      "style": 1,
+      "name": "Wait right there! I'll\nrevive it right away![ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev018301_MSG0023",
+      "style": 1,
+      "name": "[ST:wide ]—It's complete! I have\nfinally accomplished it![ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev018301_MSG0024",
+      "style": 1,
+      "name": "This is the Ranged Power Up Probe![ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev018301_MSG0025",
+      "style": 1,
+      "name": "Install this at a FrontierNET Spot and\nit can boost the ranged attack ability\nof everyone nearby![ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev018301_MSG0026",
+      "style": 1,
+      "name": "Even an outstanding Doll wouldn't\nhave the power to change the battle\nsituation this dramatically, right?[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev018301_MSG0027",
+      "style": 1,
+      "name": "Make full use of this and annihilate\nthe external enemies attacking NLA![ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev018301_MSG0029",
+      "style": 1,
+      "name": "Right... Say, are you acquainted\nwith a woman named Kirsty?[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev018301_MSG0030",
+      "style": 1,
+      "name": "I wonder what kind of person she is?[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev018301_JNK0050",
+      "style": 4,
+      "name": "Affirmative"
+    },
+    {
+      "$id": 39,
+      "label": "qev018301_SEL0051",
+      "style": 3,
+      "name": "State a favorable opinion about Kirsty."
+    },
+    {
+      "$id": 40,
+      "label": "qev018301_JNK0060",
+      "style": 4,
+      "name": "Criticism"
+    },
+    {
+      "$id": 41,
+      "label": "qev018301_SEL0061",
+      "style": 3,
+      "name": "State a critical opinion about Kirsty."
+    },
+    {
+      "$id": 42,
+      "label": "qev018301_MSG0031",
+      "style": 1,
+      "name": "I see... If she's that kind of person,\nshe should be able to understand the\nmagnificence of this Battle Data Probe.[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "qev018301_MSG0032",
+      "style": 1,
+      "name": "Thank you. I think I'll go\nvisit her in the near future.[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "qev018301_MSG0033",
+      "style": 1,
+      "name": "To think she was such a troublesome\nperson... However... The reality is\nshe's the only breakthrough right now.[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "qev018301_MSG0034",
+      "style": 1,
+      "name": "It seems difficult, but I'll\ntry visiting her once.[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "qev018301_MSG0035",
+      "style": 1,
+      "name": "...Eh, what am I meeting her for?[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "qev018301_MSG0036",
+      "style": 1,
+      "name": "Thanks to the Miranium you've\nprovided so far, I've managed\nto continue development, but...[ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "qev018301_MSG0037",
+      "style": 1,
+      "name": "As expected, for more large-scale development,\nthe cooperation of corporations and BLADE\nHeadquarters is absolutely essential.[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "qev018301_MSG0038",
+      "style": 1,
+      "name": "She's a FrontierNET expert with strong\nties to many companies, so I thought she\ncould put in a good word for me.[ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "qev018301_MSG0039",
+      "style": 1,
+      "name": "Hmmm... I have no idea how\nit will turn out, but...[ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "qev018301_MSG0040",
+      "style": 1,
+      "name": "...Well, I can only pray she has the\neyes to discern something excellent.[ST:wait ]"
+    },
+    {
+      "$id": 52,
+      "label": "qev018301_MSG0041",
+      "style": 1,
+      "name": "[ST:wide ]—Hm? What are you putting on airs for?[ST:wait ]"
+    },
+    {
+      "$id": 53,
+      "label": "qev018301_MSG0042",
+      "style": 1,
+      "name": "Hurry up and let me start\nproducing the Battle Data Probe.[ST:wait ]"
+    }
+  ]
+}

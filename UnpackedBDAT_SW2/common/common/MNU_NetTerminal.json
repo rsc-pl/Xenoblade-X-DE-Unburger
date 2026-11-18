@@ -1,0 +1,85 @@
+{
+  "schema": [
+    {
+      "name": "ID",
+      "type": 9
+    },
+    {
+      "name": "Flag",
+      "type": 2
+    },
+    {
+      "name": "Text",
+      "type": 2
+    },
+    {
+      "name": "ErrID",
+      "type": 2
+    }
+  ],
+  "rows": [
+    {
+      "$id": 256,
+      "ID": "Net_Join",
+      "Flag": 4738,
+      "Text": 4038,
+      "ErrID": 0
+    },
+    {
+      "$id": 257,
+      "ID": "Net_Squad",
+      "Flag": 4734,
+      "Text": 3986,
+      "ErrID": 13
+    },
+    {
+      "$id": 258,
+      "ID": "Net_TimeAtack",
+      "Flag": 4735,
+      "Text": 4023,
+      "ErrID": 13
+    },
+    {
+      "$id": 259,
+      "ID": "Net_DLC",
+      "Flag": 0,
+      "Text": 4035,
+      "ErrID": 13
+    },
+    {
+      "$id": 260,
+      "ID": "Net_Content",
+      "Flag": 0,
+      "Text": 4347,
+      "ErrID": 0
+    },
+    {
+      "$id": 261,
+      "ID": "Net_Cancel",
+      "Flag": 0,
+      "Text": 4057,
+      "ErrID": 0
+    },
+    {
+      "$id": 262,
+      "ID": "Net_Parts",
+      "Flag": 4740,
+      "Text": 4050,
+      "ErrID": 13
+    },
+    {
+      "$id": 263,
+      "ID": "Net_Item",
+      "Flag": 4739,
+      "Text": 4044,
+      "ErrID": 13
+    },
+    {
+      "$id": 264,
+      "ID": "Net_Union",
+      "Flag": 4741,
+      "Text": 4058,
+      "ErrID": 0
+    }
+  ]
+}

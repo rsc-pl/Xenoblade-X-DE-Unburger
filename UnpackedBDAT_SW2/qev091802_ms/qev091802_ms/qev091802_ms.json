@@ -1,0 +1,624 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev091802_MSG0001",
+      "style": 0,
+      "name": "Murderess-san. Listen, there are\nsome Companion looking for—[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev091802_MSG0002",
+      "style": 0,
+      "name": "Yeah, we know.[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev091802_MSG0003",
+      "style": 0,
+      "name": "We're playing sleuth now, thanks to the\nselfless intervention of a certain BLADE.[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev091802_MSG0004",
+      "style": 0,
+      "name": "Oh. Then I guess you came\nhere for intel, huh?[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev091802_MSG0005",
+      "style": 0,
+      "name": "Right. So gimme all ya got![ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev091802_MSG0006",
+      "style": 0,
+      "name": "I've got nothing. ...Sorry.[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev091802_MSG0007",
+      "style": 0,
+      "name": "They asked me mainly about your dealings up\nto now, Murderess-san[ST:wide ]—[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev091802_MSG0008",
+      "style": 0,
+      "name": "Wow, they REALLY don't trust me.[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev091802_MSG0009",
+      "style": 0,
+      "name": "But I believe you didn't\ndo what they say you did.[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev091802_MSG0010",
+      "style": 0,
+      "name": "Let me look around on my own, okay?[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev091802_MSG0011",
+      "style": 0,
+      "name": "Thanks. We'll ask around\ntown while you're at it.[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev091802_MSG0012",
+      "style": 0,
+      "name": "All right. I'll start digging up leads ASAP.[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev091802_MSG0013",
+      "style": 0,
+      "name": "What did your search turn up?[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev091802_MSG0014",
+      "style": 0,
+      "name": "I've got a question for you.[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev091802_MSG0015",
+      "style": 0,
+      "name": "Were all of the male victims shot in\nthe right thigh and between the eyes?[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev091802_MSG0016",
+      "style": 0,
+      "name": "That's what I heard.[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev091802_MSG0018",
+      "style": 0,
+      "name": "And the women were all shot\nin the foot and temple.[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev091802_MSG0019",
+      "style": 0,
+      "name": "Hmm...[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev091802_MSG0020",
+      "style": 0,
+      "name": "Pretty weird, huh?[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev091802_JNK0010",
+      "style": 4,
+      "name": "Assert"
+    },
+    {
+      "$id": 21,
+      "label": "qev091802_SEL0011",
+      "style": 3,
+      "name": "Claim that the bodies are a message."
+    },
+    {
+      "$id": 22,
+      "label": "qev091802_JNK0020",
+      "style": 4,
+      "name": "Assume"
+    },
+    {
+      "$id": 23,
+      "label": "qev091802_SEL0021",
+      "style": 3,
+      "name": "Guess that the Growth are behind it."
+    },
+    {
+      "$id": 24,
+      "label": "qev091802_MSG0021",
+      "style": 0,
+      "name": "I could buy that the killer is\ntrying to say something with this.[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev091802_MSG0022",
+      "style": 0,
+      "name": "I just have no idea what that is...[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev091802_MSG0023",
+      "style": 0,
+      "name": "This is pretty nickel-and-dime\nstuff for them.[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev091802_MSG0024",
+      "style": 0,
+      "name": "They're more interested in wiping\nus all out of existence, you know?[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev091802_MSG0025",
+      "style": 0,
+      "name": "Which means we're probably looking for\na human. But what's the motive...?[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev091802_MSG0026",
+      "style": 0,
+      "name": "I've got it.[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev091802_MSG0027",
+      "style": 0,
+      "name": "Right down to the perp's name.[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev091802_MSG0028",
+      "style": 0,
+      "name": "You do?[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev091802_MSG0029",
+      "style": 0,
+      "name": "It's Dale Gibbon. The bastard\nwho killed my parents.[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev091802_MSG0030",
+      "style": 0,
+      "name": "What?! How can you be sure?[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev091802_MSG0031",
+      "style": 0,
+      "name": "My father was shot in the same\nway as Obs and the other men.[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev091802_MSG0032",
+      "style": 0,
+      "name": "And my mother the same as\nJolanda and the other women.[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev091802_MSG0033",
+      "style": 0,
+      "name": "Even the number of victims lines up. It's\njust like what happened back on Earth.[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev091802_MSG0034",
+      "style": 0,
+      "name": "Wait. You're saying a serial\nkiller made it onto the Whale?[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev091802_MSG0035",
+      "style": 0,
+      "name": "He was captured and sentenced to\ndeath, but it has to be him.[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "qev091802_MSG0036",
+      "style": 0,
+      "name": "...Heh.[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "qev091802_MSG0037",
+      "style": 0,
+      "name": "Um, Murderess-san?[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "qev091802_MSG0038",
+      "style": 0,
+      "name": "There's no way this isn't about\nme. He's sending me a challenge.[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "qev091802_MSG0039",
+      "style": 0,
+      "name": "This is my dream. Not a day\ngoes by where I don't—[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "qev091802_JNK0030",
+      "style": 4,
+      "name": "Suggest"
+    },
+    {
+      "$id": 44,
+      "label": "qev091802_SEL0031",
+      "style": 3,
+      "name": "Suggest having a bounty placed on Dale Gibbon."
+    },
+    {
+      "$id": 45,
+      "label": "qev091802_JNK0040",
+      "style": 4,
+      "name": "Worry"
+    },
+    {
+      "$id": 46,
+      "label": "qev091802_SEL0041",
+      "style": 3,
+      "name": "Ask Murderess if she's planning revenge."
+    },
+    {
+      "$id": 47,
+      "label": "qev091802_JNK0050",
+      "style": 4,
+      "name": "Query"
+    },
+    {
+      "$id": 48,
+      "label": "qev091802_SEL0051",
+      "style": 3,
+      "name": "Tell Murderess that you thought her dream was to restore her family name."
+    },
+    {
+      "$id": 49,
+      "label": "qev091802_MSG0040",
+      "style": 0,
+      "name": "No. No one else gets even a whiff of this.[ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "qev091802_MSG0041",
+      "style": 0,
+      "name": "This bastard is mine.[ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "qev091802_MSG0042",
+      "style": 0,
+      "name": "I'd gladly kill him for free.[ST:wait ]"
+    },
+    {
+      "$id": 52,
+      "label": "qev091802_MSG0043",
+      "style": 0,
+      "name": "Of course I am![ST:wait ]"
+    },
+    {
+      "$id": 53,
+      "label": "qev091802_MSG0044",
+      "style": 0,
+      "name": "I swore to kill the bastard the\nday he gunned my parents down.[ST:wait ]"
+    },
+    {
+      "$id": 54,
+      "label": "qev091802_MSG0045",
+      "style": 0,
+      "name": "Who said a girl can only have one dream?[ST:wait ]"
+    },
+    {
+      "$id": 55,
+      "label": "qev091802_MSG0046",
+      "style": 0,
+      "name": "The family name is one thing, and\nkilling this ratbag is another.[ST:wait ]"
+    },
+    {
+      "$id": 56,
+      "label": "qev091802_MSG0047",
+      "style": 0,
+      "name": "You can't just go kill somebody\nin cold blood. It's illegal![ST:wait ]"
+    },
+    {
+      "$id": 57,
+      "label": "qev091802_MSG0048",
+      "style": 0,
+      "name": "Oh, right. And where was that law\nwhen he killed my parents, huh?[ST:wait ]"
+    },
+    {
+      "$id": 58,
+      "label": "qev091802_MSG0049",
+      "style": 0,
+      "name": "W-wait! Please help me stop Murderess-san![ST:wait ]"
+    },
+    {
+      "$id": 59,
+      "label": "qev091802_JNK0060",
+      "style": 4,
+      "name": "Persuade"
+    },
+    {
+      "$id": 60,
+      "label": "qev091802_SEL0061",
+      "style": 3,
+      "name": "Tell Murderess to consider Iriina."
+    },
+    {
+      "$id": 61,
+      "label": "qev091802_JNK0070",
+      "style": 4,
+      "name": "Caution"
+    },
+    {
+      "$id": 62,
+      "label": "qev091802_SEL0071",
+      "style": 3,
+      "name": "Tell Murderess that killing Dale Gibbon could impact her other dream."
+    },
+    {
+      "$id": 63,
+      "label": "qev091802_JNK0080",
+      "style": 4,
+      "name": "Offer"
+    },
+    {
+      "$id": 64,
+      "label": "qev091802_SEL0081",
+      "style": 3,
+      "name": "Tell Murderess that you'll go with her."
+    },
+    {
+      "$id": 65,
+      "label": "qev091802_MSG0050",
+      "style": 0,
+      "name": "She has nothing to do with this.[ST:wait ]"
+    },
+    {
+      "$id": 66,
+      "label": "qev091802_MSG0051",
+      "style": 0,
+      "name": "If I kill a guy and go on the\nrun, that's my business.[ST:wait ]"
+    },
+    {
+      "$id": 67,
+      "label": "qev091802_MSG0052",
+      "style": 0,
+      "name": "B-but Iriina-san trusts you...[ST:wait ]"
+    },
+    {
+      "$id": 68,
+      "label": "qev091802_MSG0053",
+      "style": 0,
+      "name": "Isn't that exactly why she's taking your\nplace?[ST:wait ]"
+    },
+    {
+      "$id": 69,
+      "label": "qev091802_MSG0054",
+      "style": 0,
+      "name": "Of course not.[ST:wait ]"
+    },
+    {
+      "$id": 70,
+      "label": "qev091802_MSG0055",
+      "style": 0,
+      "name": "They're not ACTUALLY gonna\nkeep her locked up.[ST:wait ]"
+    },
+    {
+      "$id": 71,
+      "label": "qev091802_MSG0056",
+      "style": 0,
+      "name": "I can't leave her in detention forever.[ST:wait ]"
+    },
+    {
+      "$id": 72,
+      "label": "qev091802_MSG0057",
+      "style": 0,
+      "name": "Murderess-san...[ST:wait ]"
+    },
+    {
+      "$id": 73,
+      "label": "qev091802_MSG0058",
+      "style": 0,
+      "name": "Urgh...[ST:wait ]"
+    },
+    {
+      "$id": 74,
+      "label": "qev091802_MSG0059",
+      "style": 0,
+      "name": "Exactly. Are you going to throw away all the\nmoney you've saved up?[ST:wait ]"
+    },
+    {
+      "$id": 75,
+      "label": "qev091802_MSG0060",
+      "style": 0,
+      "name": "Your parents would be proud to know\nyou restored the family name.[ST:wait ]"
+    },
+    {
+      "$id": 76,
+      "label": "qev091802_MSG0061",
+      "style": 0,
+      "name": "Do you think they'd be happy to learn\ntheir daughter is also a killer?[ST:wait ]"
+    },
+    {
+      "$id": 77,
+      "label": "qev091802_MSG0062",
+      "style": 0,
+      "name": "...I don't know.[ST:wait ]"
+    },
+    {
+      "$id": 78,
+      "label": "qev091802_MSG0063",
+      "style": 0,
+      "name": "I have to see him. Then I'll\nfigure out what comes next.[ST:wait ]"
+    },
+    {
+      "$id": 79,
+      "label": "qev091802_MSG0064",
+      "style": 0,
+      "name": "Thanks.[ST:wait ]"
+    },
+    {
+      "$id": 80,
+      "label": "qev091802_MSG0065",
+      "style": 0,
+      "name": "I knew you'd have my back on this.[ST:wait ]"
+    },
+    {
+      "$id": 81,
+      "label": "qev091802_MSG0066",
+      "style": 0,
+      "name": "Eleonora, my mind is made up.[ST:wait ]"
+    },
+    {
+      "$id": 82,
+      "label": "qev091802_MSG0067",
+      "style": 0,
+      "name": "So stop trying to convince\nme and tell me where he is.[ST:wait ]"
+    },
+    {
+      "$id": 83,
+      "label": "qev091802_MSG0068",
+      "style": 0,
+      "name": "[ST:wait ]"
+    },
+    {
+      "$id": 84,
+      "label": "qev091802_MSG0069",
+      "style": 0,
+      "name": "Look, I have a couple of leads, but I don't\nknow if any of them are this Gibbon person.[ST:wait ]"
+    },
+    {
+      "$id": 85,
+      "label": "qev091802_MSG0070",
+      "style": 0,
+      "name": "If you say one of those suspects\nis me again, I WILL kill you.[ST:wait ]"
+    },
+    {
+      "$id": 86,
+      "label": "qev091802_MSG0071",
+      "style": 0,
+      "name": "Heh! Let's see...[ST:wait ]"
+    },
+    {
+      "$id": 87,
+      "label": "qev091802_MSG0074",
+      "style": 0,
+      "name": "So one of those two men\nis actually Dale Gibbon?[ST:wait ]"
+    },
+    {
+      "$id": 88,
+      "label": "qev091802_MSG0075",
+      "style": 0,
+      "name": "Right.[ST:wait ]"
+    },
+    {
+      "$id": 89,
+      "label": "qev091802_MSG0076",
+      "style": 0,
+      "name": "Thank you, Eleonora.[ST:wait ]"
+    },
+    {
+      "$id": 90,
+      "label": "qev091802_MSG0077",
+      "style": 0,
+      "name": "Let's go. That monster stole my future.\nIt's time for me to steal his.[ST:wait ]"
+    },
+    {
+      "$id": 91,
+      "label": "qev091802_MSG0079",
+      "style": 0,
+      "name": "So one is an Interceptor named Martin-san\nwho's currently somewhere in White Woods.[ST:wait ]"
+    },
+    {
+      "$id": 92,
+      "label": "qev091802_MSG0084",
+      "style": 0,
+      "name": "Also, Landbanker Dart-san set out alone toward\nValley of Oblivion before dawn, apparently.[ST:wait ]"
+    },
+    {
+      "$id": 93,
+      "label": "qev091802_MSG0085",
+      "style": 1,
+      "name": "Are you really sure the\nperpetrator is Dale Gibbon?[ST:wait ]"
+    },
+    {
+      "$id": 94,
+      "label": "qev091802_MSG0086",
+      "style": 1,
+      "name": "I mean, isn't it possible that it\nwas someone else? Maybe a police\ndetective who was working the case?[ST:wait ]"
+    },
+    {
+      "$id": 95,
+      "label": "qev091802_MSG0087",
+      "style": 1,
+      "name": "Either way, it's clearly\nsomeone who knows me.[ST:wait ]"
+    },
+    {
+      "$id": 96,
+      "label": "qev091802_MSG0088",
+      "style": 1,
+      "name": "And whether it's Dale or someone else,\nI won't be satisfied until I find out.[ST:wait ]"
+    },
+    {
+      "$id": 97,
+      "label": "qev091802_MSG0089",
+      "style": 1,
+      "name": "So I'm going.[ST:wait ]"
+    },
+    {
+      "$id": 98,
+      "label": "qev091802_MSG0090",
+      "style": 1,
+      "name": "Murderess-san! You're back...[ST:wait ]"
+    },
+    {
+      "$id": 99,
+      "label": "qev091802_MSG0091",
+      "style": 1,
+      "name": "That's one dream off the bucket list.[ST:wait ]"
+    },
+    {
+      "$id": 100,
+      "label": "qev091802_MSG0092",
+      "style": 1,
+      "name": "R-right...[ST:wait ]"
+    },
+    {
+      "$id": 101,
+      "label": "qev091802_MSG0093",
+      "style": 1,
+      "name": "I'm afraid there's not much I can\ndo, but whatever I CAN do, I will![ST:wait ]"
+    }
+  ]
+}

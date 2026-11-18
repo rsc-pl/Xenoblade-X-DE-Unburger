@@ -1,0 +1,564 @@
+{
+  "schema": [
+    {
+      "name": "ID",
+      "type": 9
+    },
+    {
+      "name": "SkipVoice",
+      "type": 7
+    },
+    {
+      "name": "SkipCond",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "ID": "VoiceSkip001",
+      "SkipVoice": "btl02060401",
+      "SkipCond": "COND_GAME_9056"
+    },
+    {
+      "$id": 2,
+      "ID": "VoiceSkip002",
+      "SkipVoice": "btl01120301",
+      "SkipCond": "COND_GAME_9056"
+    },
+    {
+      "$id": 3,
+      "ID": "VoiceSkip003",
+      "SkipVoice": "btl01120301_t2",
+      "SkipCond": "COND_GAME_9056"
+    },
+    {
+      "$id": 4,
+      "ID": "VoiceSkip004",
+      "SkipVoice": "btl01040201",
+      "SkipCond": "COND_GAME_9056"
+    },
+    {
+      "$id": 5,
+      "ID": "VoiceSkip005",
+      "SkipVoice": "btl01040601",
+      "SkipCond": "COND_GAME_9056"
+    },
+    {
+      "$id": 6,
+      "ID": "VoiceSkip006",
+      "SkipVoice": "btl06060401",
+      "SkipCond": "COND_GAME_7044"
+    },
+    {
+      "$id": 7,
+      "ID": "VoiceSkip007",
+      "SkipVoice": "btl07070301",
+      "SkipCond": "COND_GAME_9056"
+    },
+    {
+      "$id": 8,
+      "ID": "VoiceSkip008",
+      "SkipVoice": "btl08070301",
+      "SkipCond": "COND_GAME_7044"
+    },
+    {
+      "$id": 9,
+      "ID": "VoiceSkip009",
+      "SkipVoice": "btl10060401",
+      "SkipCond": "COND_GAME_9007"
+    },
+    {
+      "$id": 10,
+      "ID": "VoiceSkip010",
+      "SkipVoice": "btl10130101",
+      "SkipCond": "COND_GAME_9007"
+    },
+    {
+      "$id": 11,
+      "ID": "VoiceSkip011",
+      "SkipVoice": "btl10110902",
+      "SkipCond": "COND_GAME_9007"
+    },
+    {
+      "$id": 12,
+      "ID": "VoiceSkip012",
+      "SkipVoice": "btl23060401",
+      "SkipCond": "COND_GAME_9056"
+    },
+    {
+      "$id": 13,
+      "ID": "VoiceSkip013",
+      "SkipVoice": "btl27070301",
+      "SkipCond": "COND_GAME_7044"
+    },
+    {
+      "$id": 14,
+      "ID": "VoiceSkip014",
+      "SkipVoice": "btl41080101",
+      "SkipCond": "COND_GAME_7511"
+    },
+    {
+      "$id": 15,
+      "ID": "VoiceSkip015",
+      "SkipVoice": "btl45050302",
+      "SkipCond": "COND_GAME_9056"
+    },
+    {
+      "$id": 16,
+      "ID": "VoiceSkip016",
+      "SkipVoice": "btl45071401",
+      "SkipCond": "COND_GAME_9007"
+    },
+    {
+      "$id": 17,
+      "ID": "VoiceSkip017",
+      "SkipVoice": "btl45071001",
+      "SkipCond": "COND_GAME_7044"
+    },
+    {
+      "$id": 18,
+      "ID": "VoiceSkip018",
+      "SkipVoice": "btl45070601",
+      "SkipCond": "COND_GAME_7044"
+    },
+    {
+      "$id": 19,
+      "ID": "VoiceSkip019",
+      "SkipVoice": "soul465009",
+      "SkipCond": "COND_GAME_9007"
+    },
+    {
+      "$id": 20,
+      "ID": "VoiceSkip020",
+      "SkipVoice": "btl46071601",
+      "SkipCond": "COND_GAME_9007"
+    },
+    {
+      "$id": 21,
+      "ID": "VoiceSkip021",
+      "SkipVoice": "btl46070301",
+      "SkipCond": "COND_GAME_9007"
+    },
+    {
+      "$id": 22,
+      "ID": "VoiceSkip022",
+      "SkipVoice": "btl48070402",
+      "SkipCond": "COND_GAME_7044"
+    },
+    {
+      "$id": 23,
+      "ID": "VoiceSkip023",
+      "SkipVoice": "btl51070401",
+      "SkipCond": "COND_GAME_7044"
+    },
+    {
+      "$id": 24,
+      "ID": "VoiceSkip024",
+      "SkipVoice": "btl51080401",
+      "SkipCond": "COND_GAME_9007"
+    },
+    {
+      "$id": 25,
+      "ID": "VoiceSkip025",
+      "SkipVoice": "btl51070601",
+      "SkipCond": "COND_GAME_9056"
+    },
+    {
+      "$id": 26,
+      "ID": "VoiceSkip026",
+      "SkipVoice": "btl51071701",
+      "SkipCond": "COND_GAME_9007"
+    },
+    {
+      "$id": 27,
+      "ID": "VoiceSkip027",
+      "SkipVoice": "btl52070302",
+      "SkipCond": "COND_GAME_0716"
+    },
+    {
+      "$id": 28,
+      "ID": "VoiceSkip028",
+      "SkipVoice": "btl52070401",
+      "SkipCond": "COND_GAME_0716"
+    },
+    {
+      "$id": 29,
+      "ID": "VoiceSkip029",
+      "SkipVoice": "btl52080401",
+      "SkipCond": "COND_GAME_0716"
+    },
+    {
+      "$id": 30,
+      "ID": "VoiceSkip030",
+      "SkipVoice": "btl52071701",
+      "SkipCond": "COND_GAME_8655"
+    },
+    {
+      "$id": 31,
+      "ID": "VoiceSkip031",
+      "SkipVoice": "btl52080201",
+      "SkipCond": "COND_GAME_9007"
+    },
+    {
+      "$id": 32,
+      "ID": "VoiceSkip032",
+      "SkipVoice": "btl52080601",
+      "SkipCond": "COND_GAME_9007"
+    },
+    {
+      "$id": 33,
+      "ID": "VoiceSkip033",
+      "SkipVoice": "btl53080301",
+      "SkipCond": "COND_GAME_7044"
+    },
+    {
+      "$id": 34,
+      "ID": "VoiceSkip034",
+      "SkipVoice": "btl57070301",
+      "SkipCond": "COND_GAME_9007"
+    },
+    {
+      "$id": 35,
+      "ID": "VoiceSkip035",
+      "SkipVoice": "btl57070401",
+      "SkipCond": "COND_GAME_9007"
+    },
+    {
+      "$id": 36,
+      "ID": "VoiceSkip036",
+      "SkipVoice": "btl57070601",
+      "SkipCond": "COND_GAME_9056"
+    },
+    {
+      "$id": 37,
+      "ID": "VoiceSkip037",
+      "SkipVoice": "btl57070901",
+      "SkipCond": "COND_GAME_9007"
+    },
+    {
+      "$id": 38,
+      "ID": "VoiceSkip038",
+      "SkipVoice": "btl58071401",
+      "SkipCond": "COND_GAME_9007"
+    },
+    {
+      "$id": 39,
+      "ID": "VoiceSkip039",
+      "SkipVoice": "btl72071401",
+      "SkipCond": "COND_GAME_9007"
+    },
+    {
+      "$id": 40,
+      "ID": "VoiceSkip040",
+      "SkipVoice": "btl70070302",
+      "SkipCond": "COND_GAME_9056"
+    },
+    {
+      "$id": 41,
+      "ID": "VoiceSkip041",
+      "SkipVoice": "btl71070302",
+      "SkipCond": "COND_GAME_9056"
+    },
+    {
+      "$id": 42,
+      "ID": "VoiceSkip042",
+      "SkipVoice": "btl71072401",
+      "SkipCond": "COND_GAME_9056"
+    },
+    {
+      "$id": 43,
+      "ID": "VoiceSkip043",
+      "SkipVoice": "btl72070301",
+      "SkipCond": "COND_GAME_9056"
+    },
+    {
+      "$id": 44,
+      "ID": "VoiceSkip044",
+      "SkipVoice": "btl73070601",
+      "SkipCond": "COND_GAME_9056"
+    },
+    {
+      "$id": 45,
+      "ID": "VoiceSkip114",
+      "SkipVoice": "btl51080501",
+      "SkipCond": "COND_GAME_7511"
+    },
+    {
+      "$id": 46,
+      "ID": "VoiceSkip124",
+      "SkipVoice": "btl54080101",
+      "SkipCond": "COND_GAME_9007"
+    },
+    {
+      "$id": 47,
+      "ID": "VoiceSkip129",
+      "SkipVoice": "btl51080101",
+      "SkipCond": "COND_GAME_0716"
+    },
+    {
+      "$id": 48,
+      "ID": "VoiceSkip131",
+      "SkipVoice": "btl53080401",
+      "SkipCond": "COND_GAME_9007"
+    },
+    {
+      "$id": 49,
+      "ID": "VoiceSkip132",
+      "SkipVoice": "btl56080101",
+      "SkipCond": "COND_GAME_9007"
+    },
+    {
+      "$id": 50,
+      "ID": "VoiceSkip133",
+      "SkipVoice": "btl58080601",
+      "SkipCond": "COND_GAME_7044"
+    },
+    {
+      "$id": 51,
+      "ID": "VoiceSkip201",
+      "SkipVoice": "btl51070301",
+      "SkipCond": "COND_GAME_2764"
+    },
+    {
+      "$id": 52,
+      "ID": "VoiceSkip202",
+      "SkipVoice": "btl51070701",
+      "SkipCond": "COND_GAME_2764"
+    },
+    {
+      "$id": 53,
+      "ID": "VoiceSkip203",
+      "SkipVoice": "btl51071701",
+      "SkipCond": "COND_GAME_2764"
+    },
+    {
+      "$id": 54,
+      "ID": "VoiceSkip204",
+      "SkipVoice": "btl51072301",
+      "SkipCond": "COND_GAME_2764"
+    },
+    {
+      "$id": 55,
+      "ID": "VoiceSkip208",
+      "SkipVoice": "btl52070701",
+      "SkipCond": "COND_GAME_2764"
+    },
+    {
+      "$id": 56,
+      "ID": "VoiceSkip210",
+      "SkipVoice": "btl01040201",
+      "SkipCond": "COND_GAME_2764"
+    },
+    {
+      "$id": 57,
+      "ID": "VoiceSkip211",
+      "SkipVoice": "btl01060102",
+      "SkipCond": "COND_GAME_2764"
+    },
+    {
+      "$id": 58,
+      "ID": "VoiceSkip212",
+      "SkipVoice": "btl01070301",
+      "SkipCond": "COND_GAME_2764"
+    },
+    {
+      "$id": 59,
+      "ID": "VoiceSkip213",
+      "SkipVoice": "btl01120301",
+      "SkipCond": "COND_GAME_2764"
+    },
+    {
+      "$id": 60,
+      "ID": "VoiceSkip214",
+      "SkipVoice": "btl01120301_t2",
+      "SkipCond": "COND_GAME_2764"
+    },
+    {
+      "$id": 61,
+      "ID": "VoiceSkip215",
+      "SkipVoice": "btl02200002",
+      "SkipCond": "COND_GAME_2764"
+    },
+    {
+      "$id": 62,
+      "ID": "VoiceSkip216",
+      "SkipVoice": "soul035042",
+      "SkipCond": "COND_GAME_2764"
+    },
+    {
+      "$id": 63,
+      "ID": "VoiceSkip217",
+      "SkipVoice": "btl05060401",
+      "SkipCond": "COND_GAME_2764"
+    },
+    {
+      "$id": 64,
+      "ID": "VoiceSkip218",
+      "SkipVoice": "btl07050601",
+      "SkipCond": "COND_GAME_2764"
+    },
+    {
+      "$id": 65,
+      "ID": "VoiceSkip219",
+      "SkipVoice": "btl10060401",
+      "SkipCond": "COND_GAME_2764"
+    },
+    {
+      "$id": 66,
+      "ID": "VoiceSkip220",
+      "SkipVoice": "btl10130101",
+      "SkipCond": "COND_GAME_2764"
+    },
+    {
+      "$id": 67,
+      "ID": "VoiceSkip221",
+      "SkipVoice": "btl27060401",
+      "SkipCond": "COND_GAME_2764"
+    },
+    {
+      "$id": 68,
+      "ID": "VoiceSkip222",
+      "SkipVoice": "btl29070301",
+      "SkipCond": "COND_GAME_2764"
+    },
+    {
+      "$id": 69,
+      "ID": "VoiceSkip223",
+      "SkipVoice": "btl29060401",
+      "SkipCond": "COND_GAME_2764"
+    },
+    {
+      "$id": 70,
+      "ID": "VoiceSkip301",
+      "SkipVoice": "btl45040301",
+      "SkipCond": "COND_GAME_9056"
+    },
+    {
+      "$id": 71,
+      "ID": "VoiceSkip302",
+      "SkipVoice": "btl70070301",
+      "SkipCond": "COND_GAME_9056"
+    },
+    {
+      "$id": 72,
+      "ID": "VoiceSkip401",
+      "SkipVoice": "btl01070501",
+      "SkipCond": "COND_GAME_9173"
+    },
+    {
+      "$id": 73,
+      "ID": "VoiceSkip402",
+      "SkipVoice": "btl02070501",
+      "SkipCond": "COND_GAME_9173"
+    },
+    {
+      "$id": 74,
+      "ID": "VoiceSkip403",
+      "SkipVoice": "btl03070501",
+      "SkipCond": "COND_GAME_9173"
+    },
+    {
+      "$id": 75,
+      "ID": "VoiceSkip404",
+      "SkipVoice": "btl04070501",
+      "SkipCond": "COND_GAME_9173"
+    },
+    {
+      "$id": 76,
+      "ID": "VoiceSkip405",
+      "SkipVoice": "btl05070501",
+      "SkipCond": "COND_GAME_9173"
+    },
+    {
+      "$id": 77,
+      "ID": "VoiceSkip406",
+      "SkipVoice": "btl06070501",
+      "SkipCond": "COND_GAME_9173"
+    },
+    {
+      "$id": 78,
+      "ID": "VoiceSkip407",
+      "SkipVoice": "btl07070501",
+      "SkipCond": "COND_GAME_9173"
+    },
+    {
+      "$id": 79,
+      "ID": "VoiceSkip408",
+      "SkipVoice": "btl08070501",
+      "SkipCond": "COND_GAME_9173"
+    },
+    {
+      "$id": 80,
+      "ID": "VoiceSkip409",
+      "SkipVoice": "btl09070501",
+      "SkipCond": "COND_GAME_9173"
+    },
+    {
+      "$id": 81,
+      "ID": "VoiceSkip410",
+      "SkipVoice": "btl10070501",
+      "SkipCond": "COND_GAME_9173"
+    },
+    {
+      "$id": 82,
+      "ID": "VoiceSkip411",
+      "SkipVoice": "btl21070501",
+      "SkipCond": "COND_GAME_9173"
+    },
+    {
+      "$id": 83,
+      "ID": "VoiceSkip412",
+      "SkipVoice": "btl22070501",
+      "SkipCond": "COND_GAME_9173"
+    },
+    {
+      "$id": 84,
+      "ID": "VoiceSkip413",
+      "SkipVoice": "btl23070501",
+      "SkipCond": "COND_GAME_9173"
+    },
+    {
+      "$id": 85,
+      "ID": "VoiceSkip414",
+      "SkipVoice": "btl24070501",
+      "SkipCond": "COND_GAME_9173"
+    },
+    {
+      "$id": 86,
+      "ID": "VoiceSkip415",
+      "SkipVoice": "btl25070501",
+      "SkipCond": "COND_GAME_9173"
+    },
+    {
+      "$id": 87,
+      "ID": "VoiceSkip416",
+      "SkipVoice": "btl26070501",
+      "SkipCond": "COND_GAME_9173"
+    },
+    {
+      "$id": 88,
+      "ID": "VoiceSkip417",
+      "SkipVoice": "btl27070501",
+      "SkipCond": "COND_GAME_9173"
+    },
+    {
+      "$id": 89,
+      "ID": "VoiceSkip418",
+      "SkipVoice": "btl28070501",
+      "SkipCond": "COND_GAME_9173"
+    },
+    {
+      "$id": 90,
+      "ID": "VoiceSkip419",
+      "SkipVoice": "btl29070501",
+      "SkipCond": "COND_GAME_9173"
+    },
+    {
+      "$id": 91,
+      "ID": "VoiceSkip420",
+      "SkipVoice": "btl30070501",
+      "SkipCond": "COND_GAME_9173"
+    }
+  ]
+}

@@ -1,0 +1,246 @@
+{
+  "schema": [
+    {
+      "name": "ID",
+      "type": 9
+    },
+    {
+      "name": "Name",
+      "type": 2
+    },
+    {
+      "name": "Caption",
+      "type": 2
+    },
+    {
+      "name": "Rare",
+      "type": 1
+    },
+    {
+      "name": "Price",
+      "type": 2
+    },
+    {
+      "name": "Rate",
+      "type": 2
+    },
+    {
+      "name": "ItemInfo(NoSell)",
+      "type": 1
+    },
+    {
+      "name": "ItemType",
+      "type": 1
+    },
+    {
+      "name": "ItemID",
+      "type": 2
+    },
+    {
+      "name": "LinkSymbol",
+      "type": 7
+    },
+    {
+      "name": "UI2",
+      "type": 2
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "ID": "ITM_WE01_PCE001",
+      "Name": 1,
+      "Caption": 29,
+      "Rare": 5,
+      "Price": 200,
+      "Rate": 30,
+      "ItemInfo(NoSell)": 0,
+      "ItemType": 26,
+      "ItemID": 655,
+      "LinkSymbol": "WE01_HEAD",
+      "UI2": 2830
+    },
+    {
+      "$id": 2,
+      "ID": "ITM_WE01_PCE002",
+      "Name": 2,
+      "Caption": 30,
+      "Rare": 5,
+      "Price": 200,
+      "Rate": 28,
+      "ItemInfo(NoSell)": 0,
+      "ItemType": 26,
+      "ItemID": 655,
+      "LinkSymbol": "WE01_WING_L1",
+      "UI2": 2830
+    },
+    {
+      "$id": 3,
+      "ID": "ITM_WE01_PCE003",
+      "Name": 3,
+      "Caption": 31,
+      "Rare": 5,
+      "Price": 200,
+      "Rate": 32,
+      "ItemInfo(NoSell)": 0,
+      "ItemType": 26,
+      "ItemID": 655,
+      "LinkSymbol": "WE01_WING_R1",
+      "UI2": 2830
+    },
+    {
+      "$id": 4,
+      "ID": "ITM_WE01_PCE004",
+      "Name": 4,
+      "Caption": 32,
+      "Rare": 5,
+      "Price": 200,
+      "Rate": 26,
+      "ItemInfo(NoSell)": 0,
+      "ItemType": 26,
+      "ItemID": 655,
+      "LinkSymbol": "WE01_WING_L2",
+      "UI2": 2830
+    },
+    {
+      "$id": 5,
+      "ID": "ITM_WE01_PCE005",
+      "Name": 5,
+      "Caption": 33,
+      "Rare": 5,
+      "Price": 200,
+      "Rate": 34,
+      "ItemInfo(NoSell)": 0,
+      "ItemType": 26,
+      "ItemID": 655,
+      "LinkSymbol": "WE01_WING_R2",
+      "UI2": 2830
+    },
+    {
+      "$id": 6,
+      "ID": "ITM_WE01_PCE006",
+      "Name": 6,
+      "Caption": 34,
+      "Rare": 5,
+      "Price": 200,
+      "Rate": 24,
+      "ItemInfo(NoSell)": 0,
+      "ItemType": 26,
+      "ItemID": 655,
+      "LinkSymbol": "WE01_BACK",
+      "UI2": 2830
+    },
+    {
+      "$id": 7,
+      "ID": "ITM_WE01_PCE007",
+      "Name": 7,
+      "Caption": 35,
+      "Rare": 5,
+      "Price": 200,
+      "Rate": 38,
+      "ItemInfo(NoSell)": 0,
+      "ItemType": 26,
+      "ItemID": 655,
+      "LinkSymbol": "WE01_TAIL",
+      "UI2": 2830
+    },
+    {
+      "$id": 8,
+      "ID": "ITM_FR01_PCE001",
+      "Name": 15,
+      "Caption": 43,
+      "Rare": 5,
+      "Price": 200,
+      "Rate": 40,
+      "ItemInfo(NoSell)": 0,
+      "ItemType": 26,
+      "ItemID": 654,
+      "LinkSymbol": "FR01_HEAD",
+      "UI2": 2829
+    },
+    {
+      "$id": 9,
+      "ID": "ITM_FR01_PCE002",
+      "Name": 16,
+      "Caption": 44,
+      "Rare": 5,
+      "Price": 200,
+      "Rate": 48,
+      "ItemInfo(NoSell)": 0,
+      "ItemType": 26,
+      "ItemID": 654,
+      "LinkSymbol": "FR01_CHEST",
+      "UI2": 2829
+    },
+    {
+      "$id": 10,
+      "ID": "ITM_FR01_PCE003",
+      "Name": 17,
+      "Caption": 45,
+      "Rare": 5,
+      "Price": 200,
+      "Rate": 46,
+      "ItemInfo(NoSell)": 0,
+      "ItemType": 26,
+      "ItemID": 654,
+      "LinkSymbol": "FR01_WEAK",
+      "UI2": 2829
+    },
+    {
+      "$id": 11,
+      "ID": "ITM_FR01_PCE004",
+      "Name": 18,
+      "Caption": 46,
+      "Rare": 5,
+      "Price": 200,
+      "Rate": 44,
+      "ItemInfo(NoSell)": 0,
+      "ItemType": 26,
+      "ItemID": 654,
+      "LinkSymbol": "FR01_WING_L",
+      "UI2": 2829
+    },
+    {
+      "$id": 12,
+      "ID": "ITM_FR01_PCE005",
+      "Name": 19,
+      "Caption": 47,
+      "Rare": 5,
+      "Price": 200,
+      "Rate": 38,
+      "ItemInfo(NoSell)": 0,
+      "ItemType": 26,
+      "ItemID": 654,
+      "LinkSymbol": "FR01_WING_R",
+      "UI2": 2829
+    },
+    {
+      "$id": 13,
+      "ID": "ITM_FR01_PCE006",
+      "Name": 20,
+      "Caption": 48,
+      "Rare": 5,
+      "Price": 200,
+      "Rate": 36,
+      "ItemInfo(NoSell)": 0,
+      "ItemType": 26,
+      "ItemID": 654,
+      "LinkSymbol": "FR01_BACK",
+      "UI2": 2829
+    },
+    {
+      "$id": 14,
+      "ID": "ITM_FR01_PCE007",
+      "Name": 21,
+      "Caption": 49,
+      "Rare": 5,
+      "Price": 200,
+      "Rate": 34,
+      "ItemInfo(NoSell)": 0,
+      "ItemType": 26,
+      "ItemID": 654,
+      "LinkSymbol": "FR01_TAIL",
+      "UI2": 2829
+    }
+  ]
+}

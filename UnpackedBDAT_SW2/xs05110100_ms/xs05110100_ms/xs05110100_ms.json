@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs05110100_MSG0001",
+      "style": 0,
+      "name": "Huh? The Ma-non aren't here.[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs05110100_MSG0002",
+      "style": 0,
+      "name": "I wonder where they went.[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs05110100_MSG0003",
+      "style": 0,
+      "name": "Maybe they already went back to their ship?[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs05110100_MSG0004",
+      "style": 0,
+      "name": "Something over that way is flashing, mo![ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs05110100_MSG0005",
+      "style": 0,
+      "name": "Let's go check it out.[ST:wait ]"
+    }
+  ]
+}

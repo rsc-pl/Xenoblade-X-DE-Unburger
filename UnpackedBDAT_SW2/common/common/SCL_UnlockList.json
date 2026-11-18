@@ -1,0 +1,29 @@
+{
+  "schema": [
+    {
+      "name": "ID",
+      "type": 9
+    },
+    {
+      "name": "GameCondition",
+      "type": 2
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "ID": "SCL_UNLOCK_UNION",
+      "GameCondition": 5548
+    },
+    {
+      "$id": 2,
+      "ID": "SCL_UNLOCK_SQUAD",
+      "GameCondition": 5549
+    },
+    {
+      "$id": 3,
+      "ID": "SCL_UNLOCK_WORLD_ENEMY",
+      "GameCondition": 5550
+    }
+  ]
+}

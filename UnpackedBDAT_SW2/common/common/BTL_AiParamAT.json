@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "ID",
+      "type": 9
+    },
+    {
+      "name": "atposFight[0]",
+      "type": 8
+    },
+    {
+      "name": "atposFight[1]",
+      "type": 8
+    },
+    {
+      "name": "atposShoot[0]",
+      "type": 8
+    },
+    {
+      "name": "atposShoot[1]",
+      "type": 8
+    }
+  ],
+  "rows": [
+    {
+      "$id": 0,
+      "ID": "ai_param_inner",
+      "atposFight[0]": 0.5,
+      "atposFight[1]": 0.8999999761581421,
+      "atposShoot[0]": 0.30000001192092896,
+      "atposShoot[1]": 0.5
+    },
+    {
+      "$id": 1,
+      "ID": "ai_param_doll",
+      "atposFight[0]": 0.699999988079071,
+      "atposFight[1]": 0.8999999761581421,
+      "atposShoot[0]": 0.4000000059604645,
+      "atposShoot[1]": 0.6000000238418579
+    }
+  ]
+}

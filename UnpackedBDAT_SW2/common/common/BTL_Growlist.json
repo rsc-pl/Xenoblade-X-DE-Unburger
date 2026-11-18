@@ -1,0 +1,722 @@
+{
+  "schema": [
+    {
+      "name": "ID",
+      "type": 9
+    },
+    {
+      "name": "LevelExp",
+      "type": 3
+    },
+    {
+      "name": "LevelExpRental",
+      "type": 3
+    },
+    {
+      "name": "EnemyExp",
+      "type": 3
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "ID": "LVID01",
+      "LevelExp": 0,
+      "LevelExpRental": 0,
+      "EnemyExp": 0
+    },
+    {
+      "$id": 2,
+      "ID": "LVID02",
+      "LevelExp": 20,
+      "LevelExpRental": 4,
+      "EnemyExp": 20
+    },
+    {
+      "$id": 3,
+      "ID": "LVID03",
+      "LevelExp": 80,
+      "LevelExpRental": 16,
+      "EnemyExp": 24
+    },
+    {
+      "$id": 4,
+      "ID": "LVID04",
+      "LevelExp": 120,
+      "LevelExpRental": 24,
+      "EnemyExp": 28
+    },
+    {
+      "$id": 5,
+      "ID": "LVID05",
+      "LevelExp": 160,
+      "LevelExpRental": 32,
+      "EnemyExp": 32
+    },
+    {
+      "$id": 6,
+      "ID": "LVID06",
+      "LevelExp": 240,
+      "LevelExpRental": 48,
+      "EnemyExp": 36
+    },
+    {
+      "$id": 7,
+      "ID": "LVID07",
+      "LevelExp": 320,
+      "LevelExpRental": 64,
+      "EnemyExp": 40
+    },
+    {
+      "$id": 8,
+      "ID": "LVID08",
+      "LevelExp": 400,
+      "LevelExpRental": 80,
+      "EnemyExp": 44
+    },
+    {
+      "$id": 9,
+      "ID": "LVID09",
+      "LevelExp": 500,
+      "LevelExpRental": 100,
+      "EnemyExp": 48
+    },
+    {
+      "$id": 10,
+      "ID": "LVID10",
+      "LevelExp": 620,
+      "LevelExpRental": 124,
+      "EnemyExp": 52
+    },
+    {
+      "$id": 11,
+      "ID": "LVID11",
+      "LevelExp": 880,
+      "LevelExpRental": 176,
+      "EnemyExp": 56
+    },
+    {
+      "$id": 12,
+      "ID": "LVID12",
+      "LevelExp": 1140,
+      "LevelExpRental": 228,
+      "EnemyExp": 60
+    },
+    {
+      "$id": 13,
+      "ID": "LVID13",
+      "LevelExp": 1360,
+      "LevelExpRental": 272,
+      "EnemyExp": 64
+    },
+    {
+      "$id": 14,
+      "ID": "LVID14",
+      "LevelExp": 1500,
+      "LevelExpRental": 300,
+      "EnemyExp": 68
+    },
+    {
+      "$id": 15,
+      "ID": "LVID15",
+      "LevelExp": 1740,
+      "LevelExpRental": 348,
+      "EnemyExp": 72
+    },
+    {
+      "$id": 16,
+      "ID": "LVID16",
+      "LevelExp": 1980,
+      "LevelExpRental": 396,
+      "EnemyExp": 76
+    },
+    {
+      "$id": 17,
+      "ID": "LVID17",
+      "LevelExp": 2220,
+      "LevelExpRental": 444,
+      "EnemyExp": 80
+    },
+    {
+      "$id": 18,
+      "ID": "LVID18",
+      "LevelExp": 2460,
+      "LevelExpRental": 492,
+      "EnemyExp": 84
+    },
+    {
+      "$id": 19,
+      "ID": "LVID19",
+      "LevelExp": 2700,
+      "LevelExpRental": 540,
+      "EnemyExp": 88
+    },
+    {
+      "$id": 20,
+      "ID": "LVID20",
+      "LevelExp": 2940,
+      "LevelExpRental": 588,
+      "EnemyExp": 96
+    },
+    {
+      "$id": 21,
+      "ID": "LVID21",
+      "LevelExp": 3200,
+      "LevelExpRental": 640,
+      "EnemyExp": 104
+    },
+    {
+      "$id": 22,
+      "ID": "LVID22",
+      "LevelExp": 3460,
+      "LevelExpRental": 692,
+      "EnemyExp": 112
+    },
+    {
+      "$id": 23,
+      "ID": "LVID23",
+      "LevelExp": 3720,
+      "LevelExpRental": 744,
+      "EnemyExp": 120
+    },
+    {
+      "$id": 24,
+      "ID": "LVID24",
+      "LevelExp": 3980,
+      "LevelExpRental": 796,
+      "EnemyExp": 128
+    },
+    {
+      "$id": 25,
+      "ID": "LVID25",
+      "LevelExp": 4260,
+      "LevelExpRental": 852,
+      "EnemyExp": 136
+    },
+    {
+      "$id": 26,
+      "ID": "LVID26",
+      "LevelExp": 4540,
+      "LevelExpRental": 908,
+      "EnemyExp": 144
+    },
+    {
+      "$id": 27,
+      "ID": "LVID27",
+      "LevelExp": 4820,
+      "LevelExpRental": 964,
+      "EnemyExp": 152
+    },
+    {
+      "$id": 28,
+      "ID": "LVID28",
+      "LevelExp": 5100,
+      "LevelExpRental": 1020,
+      "EnemyExp": 160
+    },
+    {
+      "$id": 29,
+      "ID": "LVID29",
+      "LevelExp": 5380,
+      "LevelExpRental": 1076,
+      "EnemyExp": 168
+    },
+    {
+      "$id": 30,
+      "ID": "LVID30",
+      "LevelExp": 5660,
+      "LevelExpRental": 1132,
+      "EnemyExp": 176
+    },
+    {
+      "$id": 31,
+      "ID": "LVID31",
+      "LevelExp": 5980,
+      "LevelExpRental": 1196,
+      "EnemyExp": 184
+    },
+    {
+      "$id": 32,
+      "ID": "LVID32",
+      "LevelExp": 6300,
+      "LevelExpRental": 1260,
+      "EnemyExp": 192
+    },
+    {
+      "$id": 33,
+      "ID": "LVID33",
+      "LevelExp": 6620,
+      "LevelExpRental": 1324,
+      "EnemyExp": 200
+    },
+    {
+      "$id": 34,
+      "ID": "LVID34",
+      "LevelExp": 6940,
+      "LevelExpRental": 1388,
+      "EnemyExp": 208
+    },
+    {
+      "$id": 35,
+      "ID": "LVID35",
+      "LevelExp": 7260,
+      "LevelExpRental": 1452,
+      "EnemyExp": 216
+    },
+    {
+      "$id": 36,
+      "ID": "LVID36",
+      "LevelExp": 7620,
+      "LevelExpRental": 1524,
+      "EnemyExp": 224
+    },
+    {
+      "$id": 37,
+      "ID": "LVID37",
+      "LevelExp": 7980,
+      "LevelExpRental": 1596,
+      "EnemyExp": 232
+    },
+    {
+      "$id": 38,
+      "ID": "LVID38",
+      "LevelExp": 8340,
+      "LevelExpRental": 1668,
+      "EnemyExp": 240
+    },
+    {
+      "$id": 39,
+      "ID": "LVID39",
+      "LevelExp": 8700,
+      "LevelExpRental": 1740,
+      "EnemyExp": 248
+    },
+    {
+      "$id": 40,
+      "ID": "LVID40",
+      "LevelExp": 9160,
+      "LevelExpRental": 1832,
+      "EnemyExp": 260
+    },
+    {
+      "$id": 41,
+      "ID": "LVID41",
+      "LevelExp": 9620,
+      "LevelExpRental": 1924,
+      "EnemyExp": 272
+    },
+    {
+      "$id": 42,
+      "ID": "LVID42",
+      "LevelExp": 10080,
+      "LevelExpRental": 2016,
+      "EnemyExp": 284
+    },
+    {
+      "$id": 43,
+      "ID": "LVID43",
+      "LevelExp": 10540,
+      "LevelExpRental": 2108,
+      "EnemyExp": 296
+    },
+    {
+      "$id": 44,
+      "ID": "LVID44",
+      "LevelExp": 11000,
+      "LevelExpRental": 2200,
+      "EnemyExp": 308
+    },
+    {
+      "$id": 45,
+      "ID": "LVID45",
+      "LevelExp": 11460,
+      "LevelExpRental": 2292,
+      "EnemyExp": 320
+    },
+    {
+      "$id": 46,
+      "ID": "LVID46",
+      "LevelExp": 12060,
+      "LevelExpRental": 2412,
+      "EnemyExp": 332
+    },
+    {
+      "$id": 47,
+      "ID": "LVID47",
+      "LevelExp": 12660,
+      "LevelExpRental": 2532,
+      "EnemyExp": 344
+    },
+    {
+      "$id": 48,
+      "ID": "LVID48",
+      "LevelExp": 13260,
+      "LevelExpRental": 2652,
+      "EnemyExp": 356
+    },
+    {
+      "$id": 49,
+      "ID": "LVID49",
+      "LevelExp": 13860,
+      "LevelExpRental": 2772,
+      "EnemyExp": 368
+    },
+    {
+      "$id": 50,
+      "ID": "LVID50",
+      "LevelExp": 14460,
+      "LevelExpRental": 2892,
+      "EnemyExp": 380
+    },
+    {
+      "$id": 51,
+      "ID": "LVID51",
+      "LevelExp": 15260,
+      "LevelExpRental": 3052,
+      "EnemyExp": 392
+    },
+    {
+      "$id": 52,
+      "ID": "LVID52",
+      "LevelExp": 16060,
+      "LevelExpRental": 3212,
+      "EnemyExp": 404
+    },
+    {
+      "$id": 53,
+      "ID": "LVID53",
+      "LevelExp": 16860,
+      "LevelExpRental": 3372,
+      "EnemyExp": 416
+    },
+    {
+      "$id": 54,
+      "ID": "LVID54",
+      "LevelExp": 17660,
+      "LevelExpRental": 3532,
+      "EnemyExp": 428
+    },
+    {
+      "$id": 55,
+      "ID": "LVID55",
+      "LevelExp": 18460,
+      "LevelExpRental": 3692,
+      "EnemyExp": 440
+    },
+    {
+      "$id": 56,
+      "ID": "LVID56",
+      "LevelExp": 19520,
+      "LevelExpRental": 3904,
+      "EnemyExp": 452
+    },
+    {
+      "$id": 57,
+      "ID": "LVID57",
+      "LevelExp": 20580,
+      "LevelExpRental": 4116,
+      "EnemyExp": 464
+    },
+    {
+      "$id": 58,
+      "ID": "LVID58",
+      "LevelExp": 21640,
+      "LevelExpRental": 4328,
+      "EnemyExp": 476
+    },
+    {
+      "$id": 59,
+      "ID": "LVID59",
+      "LevelExp": 22700,
+      "LevelExpRental": 4540,
+      "EnemyExp": 488
+    },
+    {
+      "$id": 60,
+      "ID": "LVID60",
+      "LevelExp": 23760,
+      "LevelExpRental": 4752,
+      "EnemyExp": 504
+    },
+    {
+      "$id": 61,
+      "ID": "LVID61",
+      "LevelExp": 24820,
+      "LevelExpRental": 4805,
+      "EnemyExp": 520
+    },
+    {
+      "$id": 62,
+      "ID": "LVID62",
+      "LevelExp": 25880,
+      "LevelExpRental": 4858,
+      "EnemyExp": 536
+    },
+    {
+      "$id": 63,
+      "ID": "LVID63",
+      "LevelExp": 26940,
+      "LevelExpRental": 4911,
+      "EnemyExp": 552
+    },
+    {
+      "$id": 64,
+      "ID": "LVID64",
+      "LevelExp": 28000,
+      "LevelExpRental": 4964,
+      "EnemyExp": 568
+    },
+    {
+      "$id": 65,
+      "ID": "LVID65",
+      "LevelExp": 29060,
+      "LevelExpRental": 5017,
+      "EnemyExp": 584
+    },
+    {
+      "$id": 66,
+      "ID": "LVID66",
+      "LevelExp": 30440,
+      "LevelExpRental": 5086,
+      "EnemyExp": 600
+    },
+    {
+      "$id": 67,
+      "ID": "LVID67",
+      "LevelExp": 31820,
+      "LevelExpRental": 5155,
+      "EnemyExp": 616
+    },
+    {
+      "$id": 68,
+      "ID": "LVID68",
+      "LevelExp": 33200,
+      "LevelExpRental": 5224,
+      "EnemyExp": 632
+    },
+    {
+      "$id": 69,
+      "ID": "LVID69",
+      "LevelExp": 34580,
+      "LevelExpRental": 5293,
+      "EnemyExp": 648
+    },
+    {
+      "$id": 70,
+      "ID": "LVID70",
+      "LevelExp": 35960,
+      "LevelExpRental": 5362,
+      "EnemyExp": 664
+    },
+    {
+      "$id": 71,
+      "ID": "LVID71",
+      "LevelExp": 37340,
+      "LevelExpRental": 5431,
+      "EnemyExp": 680
+    },
+    {
+      "$id": 72,
+      "ID": "LVID72",
+      "LevelExp": 38720,
+      "LevelExpRental": 5500,
+      "EnemyExp": 696
+    },
+    {
+      "$id": 73,
+      "ID": "LVID73",
+      "LevelExp": 40100,
+      "LevelExpRental": 5569,
+      "EnemyExp": 712
+    },
+    {
+      "$id": 74,
+      "ID": "LVID74",
+      "LevelExp": 41480,
+      "LevelExpRental": 5638,
+      "EnemyExp": 728
+    },
+    {
+      "$id": 75,
+      "ID": "LVID75",
+      "LevelExp": 42860,
+      "LevelExpRental": 5707,
+      "EnemyExp": 744
+    },
+    {
+      "$id": 76,
+      "ID": "LVID76",
+      "LevelExp": 44640,
+      "LevelExpRental": 5796,
+      "EnemyExp": 760
+    },
+    {
+      "$id": 77,
+      "ID": "LVID77",
+      "LevelExp": 46420,
+      "LevelExpRental": 5885,
+      "EnemyExp": 776
+    },
+    {
+      "$id": 78,
+      "ID": "LVID78",
+      "LevelExp": 48200,
+      "LevelExpRental": 5974,
+      "EnemyExp": 792
+    },
+    {
+      "$id": 79,
+      "ID": "LVID79",
+      "LevelExp": 49980,
+      "LevelExpRental": 6063,
+      "EnemyExp": 808
+    },
+    {
+      "$id": 80,
+      "ID": "LVID80",
+      "LevelExp": 51760,
+      "LevelExpRental": 6152,
+      "EnemyExp": 828
+    },
+    {
+      "$id": 81,
+      "ID": "LVID81",
+      "LevelExp": 53540,
+      "LevelExpRental": 6241,
+      "EnemyExp": 848
+    },
+    {
+      "$id": 82,
+      "ID": "LVID82",
+      "LevelExp": 55320,
+      "LevelExpRental": 6330,
+      "EnemyExp": 868
+    },
+    {
+      "$id": 83,
+      "ID": "LVID83",
+      "LevelExp": 57100,
+      "LevelExpRental": 6419,
+      "EnemyExp": 888
+    },
+    {
+      "$id": 84,
+      "ID": "LVID84",
+      "LevelExp": 58880,
+      "LevelExpRental": 6508,
+      "EnemyExp": 908
+    },
+    {
+      "$id": 85,
+      "ID": "LVID85",
+      "LevelExp": 60660,
+      "LevelExpRental": 6597,
+      "EnemyExp": 928
+    },
+    {
+      "$id": 86,
+      "ID": "LVID86",
+      "LevelExp": 62920,
+      "LevelExpRental": 6710,
+      "EnemyExp": 948
+    },
+    {
+      "$id": 87,
+      "ID": "LVID87",
+      "LevelExp": 65180,
+      "LevelExpRental": 6823,
+      "EnemyExp": 968
+    },
+    {
+      "$id": 88,
+      "ID": "LVID88",
+      "LevelExp": 67440,
+      "LevelExpRental": 6936,
+      "EnemyExp": 988
+    },
+    {
+      "$id": 89,
+      "ID": "LVID89",
+      "LevelExp": 69700,
+      "LevelExpRental": 7049,
+      "EnemyExp": 1008
+    },
+    {
+      "$id": 90,
+      "ID": "LVID90",
+      "LevelExp": 71960,
+      "LevelExpRental": 7162,
+      "EnemyExp": 1028
+    },
+    {
+      "$id": 91,
+      "ID": "LVID91",
+      "LevelExp": 74220,
+      "LevelExpRental": 7275,
+      "EnemyExp": 1048
+    },
+    {
+      "$id": 92,
+      "ID": "LVID92",
+      "LevelExp": 76480,
+      "LevelExpRental": 7388,
+      "EnemyExp": 1068
+    },
+    {
+      "$id": 93,
+      "ID": "LVID93",
+      "LevelExp": 78740,
+      "LevelExpRental": 7501,
+      "EnemyExp": 1088
+    },
+    {
+      "$id": 94,
+      "ID": "LVID94",
+      "LevelExp": 81000,
+      "LevelExpRental": 7614,
+      "EnemyExp": 1108
+    },
+    {
+      "$id": 95,
+      "ID": "LVID95",
+      "LevelExp": 83260,
+      "LevelExpRental": 7727,
+      "EnemyExp": 1128
+    },
+    {
+      "$id": 96,
+      "ID": "LVID96",
+      "LevelExp": 86100,
+      "LevelExpRental": 7869,
+      "EnemyExp": 1148
+    },
+    {
+      "$id": 97,
+      "ID": "LVID97",
+      "LevelExp": 88940,
+      "LevelExpRental": 8011,
+      "EnemyExp": 1168
+    },
+    {
+      "$id": 98,
+      "ID": "LVID98",
+      "LevelExp": 91780,
+      "LevelExpRental": 8153,
+      "EnemyExp": 1188
+    },
+    {
+      "$id": 99,
+      "ID": "LVID99",
+      "LevelExp": 94620,
+      "LevelExpRental": 8295,
+      "EnemyExp": 1208
+    },
+    {
+      "$id": 100,
+      "ID": "LVID100",
+      "LevelExp": 97460,
+      "LevelExpRental": 8437,
+      "EnemyExp": 1228
+    }
+  ]
+}

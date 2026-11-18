@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "ID",
+      "type": 9
+    },
+    {
+      "name": "Flag",
+      "type": 2
+    },
+    {
+      "name": "Text",
+      "type": 2
+    },
+    {
+      "name": "ErrID",
+      "type": 2
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "ID": "Home_customize",
+      "Flag": 0,
+      "Text": 3045,
+      "ErrID": 447
+    },
+    {
+      "$id": 2,
+      "ID": "Home_garage",
+      "Flag": 0,
+      "Text": 3047,
+      "ErrID": 457
+    }
+  ]
+}

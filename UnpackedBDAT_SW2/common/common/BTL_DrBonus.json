@@ -1,0 +1,183 @@
+{
+  "schema": [
+    {
+      "name": "ID",
+      "type": 9
+    },
+    {
+      "name": "Type",
+      "type": 1
+    },
+    {
+      "name": "Pt",
+      "type": 1
+    },
+    {
+      "name": "Param",
+      "type": 2
+    },
+    {
+      "name": "Name",
+      "type": 2
+    },
+    {
+      "name": "Icon",
+      "type": 2
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "ID": "DRB_DMG_UP250",
+      "Type": 0,
+      "Pt": 2,
+      "Param": 250,
+      "Name": 1,
+      "Icon": 2825
+    },
+    {
+      "$id": 2,
+      "ID": "DRB_DMG_UP400",
+      "Type": 0,
+      "Pt": 3,
+      "Param": 400,
+      "Name": 2,
+      "Icon": 2825
+    },
+    {
+      "$id": 3,
+      "ID": "DRB_DEBUFF_UP20",
+      "Type": 1,
+      "Pt": 2,
+      "Param": 20,
+      "Name": 3,
+      "Icon": 2826
+    },
+    {
+      "$id": 4,
+      "ID": "DRB_DEBUFF_UP40",
+      "Type": 1,
+      "Pt": 3,
+      "Param": 40,
+      "Name": 4,
+      "Icon": 2826
+    },
+    {
+      "$id": 5,
+      "ID": "DRB_BUFF_UP20",
+      "Type": 2,
+      "Pt": 2,
+      "Param": 20,
+      "Name": 5,
+      "Icon": 2826
+    },
+    {
+      "$id": 6,
+      "ID": "DRB_BUFF_UP40",
+      "Type": 2,
+      "Pt": 3,
+      "Param": 40,
+      "Name": 6,
+      "Icon": 2826
+    },
+    {
+      "$id": 7,
+      "ID": "DRB_AURA_UP20",
+      "Type": 3,
+      "Pt": 2,
+      "Param": 20,
+      "Name": 7,
+      "Icon": 2826
+    },
+    {
+      "$id": 8,
+      "ID": "DRB_AURA_UP40",
+      "Type": 3,
+      "Pt": 3,
+      "Param": 40,
+      "Name": 8,
+      "Icon": 2826
+    },
+    {
+      "$id": 9,
+      "ID": "DRB_HIT_TP25",
+      "Type": 4,
+      "Pt": 2,
+      "Param": 25,
+      "Name": 9,
+      "Icon": 2827
+    },
+    {
+      "$id": 10,
+      "ID": "DRB_HIT_TP50",
+      "Type": 4,
+      "Pt": 3,
+      "Param": 50,
+      "Name": 10,
+      "Icon": 2827
+    },
+    {
+      "$id": 11,
+      "ID": "DRB_GEAR_CT2",
+      "Type": 5,
+      "Pt": 2,
+      "Param": 2,
+      "Name": 11,
+      "Icon": 0
+    },
+    {
+      "$id": 12,
+      "ID": "DRB_GEAR_CT3",
+      "Type": 5,
+      "Pt": 3,
+      "Param": 3,
+      "Name": 12,
+      "Icon": 0
+    },
+    {
+      "$id": 13,
+      "ID": "DRB_GEAR_TIME_EX1",
+      "Type": 6,
+      "Pt": 2,
+      "Param": 1,
+      "Name": 13,
+      "Icon": 0
+    },
+    {
+      "$id": 14,
+      "ID": "DRB_GEAR_TIME_EX2",
+      "Type": 6,
+      "Pt": 3,
+      "Param": 2,
+      "Name": 14,
+      "Icon": 0
+    },
+    {
+      "$id": 15,
+      "ID": "DRB_ARTS_STOCK",
+      "Type": 7,
+      "Pt": 1,
+      "Param": 0,
+      "Name": 15,
+      "Icon": 2828
+    },
+    {
+      "$id": 16,
+      "ID": "DRB_BUFF_UP10",
+      "Type": 2,
+      "Pt": 2,
+      "Param": 10,
+      "Name": 16,
+      "Icon": 2826
+    },
+    {
+      "$id": 17,
+      "ID": "DRB_BUFF_UP20EX",
+      "Type": 2,
+      "Pt": 3,
+      "Param": 20,
+      "Name": 17,
+      "Icon": 2826
+    }
+  ]
+}

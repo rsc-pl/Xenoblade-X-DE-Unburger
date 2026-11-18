@@ -1,0 +1,174 @@
+{
+  "schema": [
+    {
+      "name": "ID",
+      "type": 9
+    },
+    {
+      "name": "name",
+      "type": 13
+    },
+    {
+      "name": "help",
+      "type": 13
+    },
+    {
+      "name": "hidden_condition",
+      "type": 2
+    },
+    {
+      "name": "grayout_condition",
+      "type": 2
+    },
+    {
+      "name": "control_type",
+      "type": 1
+    },
+    {
+      "name": "select_num",
+      "type": 1
+    },
+    {
+      "name": "default_value",
+      "type": 1
+    },
+    {
+      "name": "select_name1",
+      "type": 13
+    },
+    {
+      "name": "select_name2",
+      "type": 13
+    },
+    {
+      "name": "select_name3",
+      "type": 13
+    },
+    {
+      "name": "select_name4",
+      "type": 13
+    },
+    {
+      "name": "select_name5",
+      "type": 13
+    },
+    {
+      "name": "sort_no",
+      "type": 1
+    },
+    {
+      "name": "save_type",
+      "type": 1
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "ID": "OPTION_SIGN_STORY_QUEST",
+      "name": 47,
+      "help": 149,
+      "hidden_condition": 0,
+      "grayout_condition": 0,
+      "control_type": 3,
+      "select_num": 2,
+      "default_value": 1,
+      "select_name1": 205,
+      "select_name2": 206,
+      "select_name3": 0,
+      "select_name4": 0,
+      "select_name5": 0,
+      "sort_no": 1,
+      "save_type": 1
+    },
+    {
+      "$id": 2,
+      "ID": "OPTION_SIGN_KIZUNA_QUEST",
+      "name": 48,
+      "help": 150,
+      "hidden_condition": 0,
+      "grayout_condition": 0,
+      "control_type": 3,
+      "select_num": 2,
+      "default_value": 1,
+      "select_name1": 205,
+      "select_name2": 206,
+      "select_name3": 0,
+      "select_name4": 0,
+      "select_name5": 0,
+      "sort_no": 2,
+      "save_type": 1
+    },
+    {
+      "$id": 3,
+      "ID": "OPTION_SIGN_NORMAL_QUEST",
+      "name": 49,
+      "help": 151,
+      "hidden_condition": 0,
+      "grayout_condition": 0,
+      "control_type": 3,
+      "select_num": 2,
+      "default_value": 1,
+      "select_name1": 205,
+      "select_name2": 206,
+      "select_name3": 0,
+      "select_name4": 0,
+      "select_name5": 0,
+      "sort_no": 3,
+      "save_type": 1
+    },
+    {
+      "$id": 4,
+      "ID": "OPTION_SIGN_SIMPLE_QUEST",
+      "name": 50,
+      "help": 152,
+      "hidden_condition": 0,
+      "grayout_condition": 0,
+      "control_type": 3,
+      "select_num": 2,
+      "default_value": 1,
+      "select_name1": 205,
+      "select_name2": 206,
+      "select_name3": 0,
+      "select_name4": 0,
+      "select_name5": 0,
+      "sort_no": 4,
+      "save_type": 1
+    },
+    {
+      "$id": 5,
+      "ID": "OPTION_SIGN_MAT_SEARCH",
+      "name": 51,
+      "help": 153,
+      "hidden_condition": 0,
+      "grayout_condition": 0,
+      "control_type": 3,
+      "select_num": 2,
+      "default_value": 1,
+      "select_name1": 205,
+      "select_name2": 206,
+      "select_name3": 0,
+      "select_name4": 0,
+      "select_name5": 0,
+      "sort_no": 5,
+      "save_type": 1
+    },
+    {
+      "$id": 6,
+      "ID": "OPTION_SIGN_SQUAD_MISSION",
+      "name": 52,
+      "help": 154,
+      "hidden_condition": 0,
+      "grayout_condition": 0,
+      "control_type": 3,
+      "select_num": 2,
+      "default_value": 1,
+      "select_name1": 205,
+      "select_name2": 206,
+      "select_name3": 0,
+      "select_name4": 0,
+      "select_name5": 0,
+      "sort_no": 6,
+      "save_type": 1
+    }
+  ]
+}

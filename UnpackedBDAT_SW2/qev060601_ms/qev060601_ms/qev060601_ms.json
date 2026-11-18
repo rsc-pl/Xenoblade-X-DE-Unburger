@@ -1,0 +1,222 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev060601_MSG0001",
+      "style": 1,
+      "name": "Hello! Are you not a Zaruboggan?[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev060601_JNK0010",
+      "style": 4,
+      "name": "Confirm"
+    },
+    {
+      "$id": 3,
+      "label": "qev060601_SEL0011",
+      "style": 3,
+      "name": "State that you are not a Zaruboggan."
+    },
+    {
+      "$id": 4,
+      "label": "qev060601_JNK0020",
+      "style": 4,
+      "name": "Deny"
+    },
+    {
+      "$id": 5,
+      "label": "qev060601_SEL0021",
+      "style": 3,
+      "name": "Mention that you might possibly be a Zaruboggan."
+    },
+    {
+      "$id": 6,
+      "label": "qev060601_MSG0002",
+      "style": 1,
+      "name": "You are not a Zaruboggan...\nI see, I will learn...[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev060601_MSG0003",
+      "style": 1,
+      "name": "I think you seem like\na very good person.[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev060601_MSG0004",
+      "style": 1,
+      "name": "You are a Zaruboggan? I\nsee, I will learn...[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev060601_MSG0005",
+      "style": 1,
+      "name": "I sense a very evil,\nmischievous spirit from you.[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev060601_MSG0006",
+      "style": 1,
+      "name": "Do you understand?\nOrleron is Zaruboggan![ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev060601_MSG0007",
+      "style": 1,
+      "name": "So I must revoltant and\nfulfill my mission![ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev060601_MSG0008",
+      "style": 1,
+      "name": "To fulfill my mission,\nI need a new Gorkwa![ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev060601_MSG0009",
+      "style": 1,
+      "name": "But, there are no Gorkwas anywhere... The\nstaff to revoltant, where is a Gorkwa?[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev060601_JNK0050",
+      "style": 4,
+      "name": "Question"
+    },
+    {
+      "$id": 15,
+      "label": "qev060601_SEL0051",
+      "style": 3,
+      "name": "Ask what exactly a Gorkwa is."
+    },
+    {
+      "$id": 16,
+      "label": "qev060601_JNK0060",
+      "style": 4,
+      "name": "Answer"
+    },
+    {
+      "$id": 17,
+      "label": "qev060601_SEL0061",
+      "style": 3,
+      "name": "Answer that if it's a staff, the Zaruboggan have them."
+    },
+    {
+      "$id": 18,
+      "label": "qev060601_MSG0010",
+      "style": 1,
+      "name": "The Zaruboggan use the Gorkwa to\nfulfill their great mission! But\nthere is no new Gorkwa here![ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev060601_MSG0011",
+      "style": 1,
+      "name": "That is not Orleron's!\nSo I need a new Gorkwa![ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev060601_MSG0012",
+      "style": 1,
+      "name": "Will you all bring a new Gorkwa for\nme? Will you make Orleron a grown-up?[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev060601_MSG0013",
+      "style": 1,
+      "name": "When Orleron becomes a grown-up, I will\nenergetically fulfill my mission![ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev060601_MSG0014",
+      "style": 1,
+      "name": "Orleron will wait! While waiting,\nI will do grown-up studies![ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev060601_MSG0015",
+      "style": 1,
+      "name": "Where should Orleron do grown-up\nstudies? Please, you tell me.[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev060601_JNK0030",
+      "style": 4,
+      "name": "NLA"
+    },
+    {
+      "$id": 25,
+      "label": "qev060601_SEL0031",
+      "style": 3,
+      "name": "Tell him to study together with Earthlings in NLA."
+    },
+    {
+      "$id": 26,
+      "label": "qev060601_JNK0040",
+      "style": 4,
+      "name": "Ma-non Spaceship"
+    },
+    {
+      "$id": 27,
+      "label": "qev060601_SEL0041",
+      "style": 3,
+      "name": "Tell him to study together with the Zaruboggan inside the spaceship."
+    },
+    {
+      "$id": 28,
+      "label": "qev060601_MSG0016",
+      "style": 1,
+      "name": "I see, I will learn... Orleron\nwill do grown-up studies\ntogether with Earthlings.[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev060601_MSG0017",
+      "style": 1,
+      "name": "I see, I will learn... Orleron\nwill do grown-up studies\ntogether with the Zaruboggan.[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev060601_MSG0018",
+      "style": 1,
+      "name": "Please go get a Gorkwa. While you\ndo, Orleron will become a grown-up\ncapable of fulfilling his mission.[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev060601_MSG0021",
+      "style": 1,
+      "name": "So, I'll be doing my grown-up\nstudies in Nyuu Ro-sangerusu while\nwaiting for you to get a Gorkwa![ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev060601_MSG0022",
+      "style": 1,
+      "name": "Orleron doesn't know about the Gorkwa\neither. But I know that it is necessary![ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev060601_MSG0023",
+      "style": 1,
+      "name": "If I have a Gorkwa, I can\nfulfill my great mission![ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev060601_MSG0024",
+      "style": 1,
+      "name": "So, I'll be doing my grown-up studies\ntogether with the Zaruboggan while\nwaiting for you to get a Gorkwa![ST:wait ]"
+    }
+  ]
+}

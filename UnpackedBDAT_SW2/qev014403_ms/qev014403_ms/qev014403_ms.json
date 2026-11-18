@@ -1,0 +1,288 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev014403_MSG0001",
+      "style": 1,
+      "name": "Hey, please! Somebody open this door![ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev014403_JNK0010",
+      "style": 4,
+      "name": "Open"
+    },
+    {
+      "$id": 3,
+      "label": "qev014403_SEL0011",
+      "style": 3,
+      "name": "Attempt to force the closed door open."
+    },
+    {
+      "$id": 4,
+      "label": "qev014403_JNK0020",
+      "style": 4,
+      "name": "Call out"
+    },
+    {
+      "$id": 5,
+      "label": "qev014403_SEL0021",
+      "style": 3,
+      "name": "Call out to Ajoa inside."
+    },
+    {
+      "$id": 6,
+      "label": "qev014403_MSG0002",
+      "style": 1,
+      "name": "A person...!? You're trying to\nopen the door for me, aren't you?[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev014403_MSG0003",
+      "style": 1,
+      "name": "Thank you... but this door won't\nopen without a keycard...[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev014403_MSG0004",
+      "style": 1,
+      "name": "A person...!? There's a\nperson there! I'm saved...[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev014403_MSG0005",
+      "style": 1,
+      "name": "Listen, the door to the purification\nplant stopped opening, and I've been\ntrapped in here this whole time...[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev014403_MSG0006",
+      "style": 1,
+      "name": "My comrades must definitely be somewhere\nin this Biahno Water Purification Plant...\nPlease, get a keycard from them.[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev014403_MSG0007",
+      "style": 1,
+      "name": "Also... if there are any strange monsters around,\nI want you to exterminate them... I heard that\nthing's cry again just a moment ago...[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev014403_MSG0010",
+      "style": 1,
+      "name": "Oh, thank goodness! Now I can get out...\nI also heard the monster's death cry...\nYou defeated that thing, didn't you?[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev014403_JNK0030",
+      "style": 4,
+      "name": "Question"
+    },
+    {
+      "$id": 14,
+      "label": "qev014403_SEL0031",
+      "style": 3,
+      "name": "Ask for details regarding the reason she was trapped."
+    },
+    {
+      "$id": 15,
+      "label": "qev014403_JNK0040",
+      "style": 4,
+      "name": "Doubt"
+    },
+    {
+      "$id": 16,
+      "label": "qev014403_SEL0041",
+      "style": 3,
+      "name": "Ask about the cocoons enveloping the purification plant."
+    },
+    {
+      "$id": 17,
+      "label": "qev014403_MSG0011",
+      "style": 1,
+      "name": "The intrusion alarm went off... everyone\nwent outside... We heard screams... Then\nIan and I were attacked by something...[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev014403_MSG0012",
+      "style": 1,
+      "name": "Ian! Where is Ian? What\nabout the others...?[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev014403_JNK0050",
+      "style": 4,
+      "name": "Respond"
+    },
+    {
+      "$id": 20,
+      "label": "qev014403_SEL0051",
+      "style": 3,
+      "name": "Tell her there was no one else in the purification plant.[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev014403_JNK0060",
+      "style": 4,
+      "name": "Question"
+    },
+    {
+      "$id": 22,
+      "label": "qev014403_SEL0061",
+      "style": 3,
+      "name": "Ask her what attacked them."
+    },
+    {
+      "$id": 23,
+      "label": "qev014403_MSG0013",
+      "style": 1,
+      "name": "Then... why do you have the keycard to\nopen the door? That's something only\nthe research lab staff should have.[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev014403_MSG0014",
+      "style": 1,
+      "name": "I see... To begin with, why did you\ncome here? Unless you had business,\nthere's no reason to come all the way...[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev014403_MSG0015",
+      "style": 1,
+      "name": "...Eh? Rosie told you\nto come check on us?[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev014403_MSG0016",
+      "style": 1,
+      "name": "I see... I ended up\nbeing saved by her...[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev014403_MSG0017",
+      "style": 1,
+      "name": "This sound... It's the alarm notifying\nus of an anomaly in the purification\nplant. I wonder what is happening...[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev014403_MSG0018",
+      "style": 1,
+      "name": "Um... I'm sorry, but...\ncould you go take a look?[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev014403_MSG0019",
+      "style": 1,
+      "name": "I'll check the surveillance\ncamera data. First of all, I\nneed to grasp the situation...[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev014403_MSG0020",
+      "style": 1,
+      "name": "It was a creepy native creature\nwith four arms, and it approached\nus while making a bizarre sound...[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev014403_MSG0021",
+      "style": 1,
+      "name": "We were attacked, I lost\nconsciousness, and when I\nwoke up, I was in this room...[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev014403_MSG0022",
+      "style": 1,
+      "name": "Why are you here?[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev014403_MSG0023",
+      "style": 1,
+      "name": "...Eh? Rosie told you\nto come check on us?[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev014403_MSG0024",
+      "style": 1,
+      "name": "I see... I ended up\nbeing saved by her...[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev014403_MSG0025",
+      "style": 1,
+      "name": "This sound... It's the alarm notifying\nus of an anomaly in the purification\nplant. I wonder what is happening...[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev014403_MSG0026",
+      "style": 1,
+      "name": "Um... I'm sorry, but...\ncould you go take a look?[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev014403_MSG0027",
+      "style": 1,
+      "name": "I'll check the surveillance\ncamera data. First of all, I\nneed to grasp the situation...[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev014403_MSG0028",
+      "style": 1,
+      "name": "...Hii![ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "qev014403_MSG0029",
+      "style": 1,
+      "name": "Are you saying the outside has\nturned into this state too...? There\nwas nothing like this before...[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "qev014403_MSG0030",
+      "style": 1,
+      "name": "...Hey, why are you here?[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "qev014403_MSG0031",
+      "style": 1,
+      "name": "...Eh? Rosie told you\nto come check on us?[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "qev014403_MSG0032",
+      "style": 1,
+      "name": "I see... I ended up\nbeing saved by her...[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "qev014403_MSG0033",
+      "style": 1,
+      "name": "This sound... It's the alarm notifying\nus of an anomaly in the purification\nplant. I wonder what is happening...[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "qev014403_MSG0034",
+      "style": 1,
+      "name": "Um... I'm sorry, but...\ncould you go take a look?[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "qev014403_MSG0035",
+      "style": 1,
+      "name": "I'll check the surveillance\ncamera data. First of all, I\nneed to grasp the situation...[ST:wait ]"
+    }
+  ]
+}

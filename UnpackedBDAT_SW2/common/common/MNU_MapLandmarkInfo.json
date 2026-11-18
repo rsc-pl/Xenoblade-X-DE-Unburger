@@ -1,0 +1,867 @@
+{
+  "schema": [
+    {
+      "name": "ID",
+      "type": 9
+    },
+    {
+      "name": "location_id",
+      "type": 3
+    },
+    {
+      "name": "offset_x",
+      "type": 8
+    },
+    {
+      "name": "offset_y",
+      "type": 8
+    },
+    {
+      "name": "name_offset_x",
+      "type": 8
+    },
+    {
+      "name": "name_offset_y",
+      "type": 8
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "ID": "MAP_LANDMARK_INFO_0001",
+      "location_id": 33,
+      "offset_x": 0.0,
+      "offset_y": 0.0,
+      "name_offset_x": 0.0,
+      "name_offset_y": -20.0
+    },
+    {
+      "$id": 2,
+      "ID": "MAP_LANDMARK_INFO_0002",
+      "location_id": 35,
+      "offset_x": 0.0,
+      "offset_y": 0.0,
+      "name_offset_x": 0.0,
+      "name_offset_y": -20.0
+    },
+    {
+      "$id": 3,
+      "ID": "MAP_LANDMARK_INFO_0003",
+      "location_id": 36,
+      "offset_x": 0.0,
+      "offset_y": 0.0,
+      "name_offset_x": 0.0,
+      "name_offset_y": -20.0
+    },
+    {
+      "$id": 4,
+      "ID": "MAP_LANDMARK_INFO_0004",
+      "location_id": 39,
+      "offset_x": 0.0,
+      "offset_y": 0.0,
+      "name_offset_x": -14.0,
+      "name_offset_y": -20.0
+    },
+    {
+      "$id": 5,
+      "ID": "MAP_LANDMARK_INFO_0005",
+      "location_id": 42,
+      "offset_x": 0.0,
+      "offset_y": 0.0,
+      "name_offset_x": 0.0,
+      "name_offset_y": -20.0
+    },
+    {
+      "$id": 6,
+      "ID": "MAP_LANDMARK_INFO_0006",
+      "location_id": 47,
+      "offset_x": 0.0,
+      "offset_y": 0.0,
+      "name_offset_x": 0.0,
+      "name_offset_y": -20.0
+    },
+    {
+      "$id": 7,
+      "ID": "MAP_LANDMARK_INFO_0007",
+      "location_id": 49,
+      "offset_x": 0.0,
+      "offset_y": 0.0,
+      "name_offset_x": 0.0,
+      "name_offset_y": -20.0
+    },
+    {
+      "$id": 8,
+      "ID": "MAP_LANDMARK_INFO_0008",
+      "location_id": 51,
+      "offset_x": 0.0,
+      "offset_y": 0.0,
+      "name_offset_x": 0.0,
+      "name_offset_y": -20.0
+    },
+    {
+      "$id": 9,
+      "ID": "MAP_LANDMARK_INFO_0009",
+      "location_id": 52,
+      "offset_x": 0.0,
+      "offset_y": 0.0,
+      "name_offset_x": 0.0,
+      "name_offset_y": -20.0
+    },
+    {
+      "$id": 10,
+      "ID": "MAP_LANDMARK_INFO_0010",
+      "location_id": 54,
+      "offset_x": 0.0,
+      "offset_y": 0.0,
+      "name_offset_x": 0.0,
+      "name_offset_y": -20.0
+    },
+    {
+      "$id": 11,
+      "ID": "MAP_LANDMARK_INFO_0011",
+      "location_id": 55,
+      "offset_x": 0.0,
+      "offset_y": 0.0,
+      "name_offset_x": 0.0,
+      "name_offset_y": -20.0
+    },
+    {
+      "$id": 12,
+      "ID": "MAP_LANDMARK_INFO_0012",
+      "location_id": 58,
+      "offset_x": 0.0,
+      "offset_y": 0.0,
+      "name_offset_x": 0.0,
+      "name_offset_y": -20.0
+    },
+    {
+      "$id": 13,
+      "ID": "MAP_LANDMARK_INFO_0013",
+      "location_id": 59,
+      "offset_x": 0.0,
+      "offset_y": 0.0,
+      "name_offset_x": 0.0,
+      "name_offset_y": -20.0
+    },
+    {
+      "$id": 14,
+      "ID": "MAP_LANDMARK_INFO_0014",
+      "location_id": 60,
+      "offset_x": 0.0,
+      "offset_y": 0.0,
+      "name_offset_x": 0.0,
+      "name_offset_y": -20.0
+    },
+    {
+      "$id": 15,
+      "ID": "MAP_LANDMARK_INFO_0015",
+      "location_id": 62,
+      "offset_x": 0.0,
+      "offset_y": 0.0,
+      "name_offset_x": 0.0,
+      "name_offset_y": -20.0
+    },
+    {
+      "$id": 16,
+      "ID": "MAP_LANDMARK_INFO_0016",
+      "location_id": 63,
+      "offset_x": 0.0,
+      "offset_y": 0.0,
+      "name_offset_x": 0.0,
+      "name_offset_y": -20.0
+    },
+    {
+      "$id": 17,
+      "ID": "MAP_LANDMARK_INFO_0017",
+      "location_id": 65,
+      "offset_x": 0.0,
+      "offset_y": 0.0,
+      "name_offset_x": 0.0,
+      "name_offset_y": -20.0
+    },
+    {
+      "$id": 18,
+      "ID": "MAP_LANDMARK_INFO_0018",
+      "location_id": 66,
+      "offset_x": 0.0,
+      "offset_y": 0.0,
+      "name_offset_x": 0.0,
+      "name_offset_y": -20.0
+    },
+    {
+      "$id": 19,
+      "ID": "MAP_LANDMARK_INFO_0019",
+      "location_id": 67,
+      "offset_x": 0.0,
+      "offset_y": 0.0,
+      "name_offset_x": 0.0,
+      "name_offset_y": -20.0
+    },
+    {
+      "$id": 20,
+      "ID": "MAP_LANDMARK_INFO_0020",
+      "location_id": 73,
+      "offset_x": 0.0,
+      "offset_y": 0.0,
+      "name_offset_x": 0.0,
+      "name_offset_y": -20.0
+    },
+    {
+      "$id": 21,
+      "ID": "MAP_LANDMARK_INFO_0021",
+      "location_id": 75,
+      "offset_x": 0.0,
+      "offset_y": 0.0,
+      "name_offset_x": 0.0,
+      "name_offset_y": -20.0
+    },
+    {
+      "$id": 22,
+      "ID": "MAP_LANDMARK_INFO_0022",
+      "location_id": 76,
+      "offset_x": 0.0,
+      "offset_y": 0.0,
+      "name_offset_x": 0.0,
+      "name_offset_y": -20.0
+    },
+    {
+      "$id": 23,
+      "ID": "MAP_LANDMARK_INFO_0023",
+      "location_id": 78,
+      "offset_x": 0.0,
+      "offset_y": 0.0,
+      "name_offset_x": 0.0,
+      "name_offset_y": 20.0
+    },
+    {
+      "$id": 24,
+      "ID": "MAP_LANDMARK_INFO_0024",
+      "location_id": 80,
+      "offset_x": 0.0,
+      "offset_y": 0.0,
+      "name_offset_x": 0.0,
+      "name_offset_y": -20.0
+    },
+    {
+      "$id": 25,
+      "ID": "MAP_LANDMARK_INFO_0025",
+      "location_id": 90,
+      "offset_x": 0.0,
+      "offset_y": 0.0,
+      "name_offset_x": 0.0,
+      "name_offset_y": -20.0
+    },
+    {
+      "$id": 26,
+      "ID": "MAP_LANDMARK_INFO_0026",
+      "location_id": 108,
+      "offset_x": 0.0,
+      "offset_y": 0.0,
+      "name_offset_x": 0.0,
+      "name_offset_y": -20.0
+    },
+    {
+      "$id": 27,
+      "ID": "MAP_LANDMARK_INFO_0027",
+      "location_id": 115,
+      "offset_x": 0.0,
+      "offset_y": 0.0,
+      "name_offset_x": 0.0,
+      "name_offset_y": 20.0
+    },
+    {
+      "$id": 28,
+      "ID": "MAP_LANDMARK_INFO_0028",
+      "location_id": 122,
+      "offset_x": 0.0,
+      "offset_y": 0.0,
+      "name_offset_x": 0.0,
+      "name_offset_y": -20.0
+    },
+    {
+      "$id": 29,
+      "ID": "MAP_LANDMARK_INFO_0029",
+      "location_id": 128,
+      "offset_x": 0.0,
+      "offset_y": 0.0,
+      "name_offset_x": 0.0,
+      "name_offset_y": 20.0
+    },
+    {
+      "$id": 30,
+      "ID": "MAP_LANDMARK_INFO_0030",
+      "location_id": 137,
+      "offset_x": 0.0,
+      "offset_y": 0.0,
+      "name_offset_x": 0.0,
+      "name_offset_y": -20.0
+    },
+    {
+      "$id": 31,
+      "ID": "MAP_LANDMARK_INFO_0031",
+      "location_id": 139,
+      "offset_x": 0.0,
+      "offset_y": 0.0,
+      "name_offset_x": 0.0,
+      "name_offset_y": -20.0
+    },
+    {
+      "$id": 32,
+      "ID": "MAP_LANDMARK_INFO_0032",
+      "location_id": 141,
+      "offset_x": 0.0,
+      "offset_y": 0.0,
+      "name_offset_x": 0.0,
+      "name_offset_y": -20.0
+    },
+    {
+      "$id": 33,
+      "ID": "MAP_LANDMARK_INFO_0033",
+      "location_id": 154,
+      "offset_x": 0.0,
+      "offset_y": 0.0,
+      "name_offset_x": 0.0,
+      "name_offset_y": -20.0
+    },
+    {
+      "$id": 34,
+      "ID": "MAP_LANDMARK_INFO_0034",
+      "location_id": 155,
+      "offset_x": 0.0,
+      "offset_y": 0.0,
+      "name_offset_x": 0.0,
+      "name_offset_y": -25.0
+    },
+    {
+      "$id": 35,
+      "ID": "MAP_LANDMARK_INFO_0035",
+      "location_id": 156,
+      "offset_x": 0.0,
+      "offset_y": 0.0,
+      "name_offset_x": 0.0,
+      "name_offset_y": -20.0
+    },
+    {
+      "$id": 36,
+      "ID": "MAP_LANDMARK_INFO_0036",
+      "location_id": 157,
+      "offset_x": 0.0,
+      "offset_y": 0.0,
+      "name_offset_x": 0.0,
+      "name_offset_y": -20.0
+    },
+    {
+      "$id": 37,
+      "ID": "MAP_LANDMARK_INFO_0037",
+      "location_id": 159,
+      "offset_x": 0.0,
+      "offset_y": 0.0,
+      "name_offset_x": 0.0,
+      "name_offset_y": -20.0
+    },
+    {
+      "$id": 38,
+      "ID": "MAP_LANDMARK_INFO_0038",
+      "location_id": 196,
+      "offset_x": 0.0,
+      "offset_y": 0.0,
+      "name_offset_x": 0.0,
+      "name_offset_y": -20.0
+    },
+    {
+      "$id": 39,
+      "ID": "MAP_LANDMARK_INFO_0039",
+      "location_id": 198,
+      "offset_x": 0.0,
+      "offset_y": 0.0,
+      "name_offset_x": 0.0,
+      "name_offset_y": -20.0
+    },
+    {
+      "$id": 40,
+      "ID": "MAP_LANDMARK_INFO_0040",
+      "location_id": 200,
+      "offset_x": 0.0,
+      "offset_y": 0.0,
+      "name_offset_x": 0.0,
+      "name_offset_y": -20.0
+    },
+    {
+      "$id": 41,
+      "ID": "MAP_LANDMARK_INFO_0041",
+      "location_id": 203,
+      "offset_x": 0.0,
+      "offset_y": 0.0,
+      "name_offset_x": 0.0,
+      "name_offset_y": -20.0
+    },
+    {
+      "$id": 42,
+      "ID": "MAP_LANDMARK_INFO_0042",
+      "location_id": 207,
+      "offset_x": 0.0,
+      "offset_y": 0.0,
+      "name_offset_x": 0.0,
+      "name_offset_y": -20.0
+    },
+    {
+      "$id": 43,
+      "ID": "MAP_LANDMARK_INFO_0043",
+      "location_id": 208,
+      "offset_x": 0.0,
+      "offset_y": 0.0,
+      "name_offset_x": 0.0,
+      "name_offset_y": -20.0
+    },
+    {
+      "$id": 44,
+      "ID": "MAP_LANDMARK_INFO_0044",
+      "location_id": 209,
+      "offset_x": 0.0,
+      "offset_y": 0.0,
+      "name_offset_x": 0.0,
+      "name_offset_y": -20.0
+    },
+    {
+      "$id": 45,
+      "ID": "MAP_LANDMARK_INFO_0045",
+      "location_id": 212,
+      "offset_x": 0.0,
+      "offset_y": 0.0,
+      "name_offset_x": 0.0,
+      "name_offset_y": -20.0
+    },
+    {
+      "$id": 46,
+      "ID": "MAP_LANDMARK_INFO_0046",
+      "location_id": 213,
+      "offset_x": 0.0,
+      "offset_y": 0.0,
+      "name_offset_x": 0.0,
+      "name_offset_y": -20.0
+    },
+    {
+      "$id": 47,
+      "ID": "MAP_LANDMARK_INFO_0047",
+      "location_id": 215,
+      "offset_x": 0.0,
+      "offset_y": 0.0,
+      "name_offset_x": 0.0,
+      "name_offset_y": -20.0
+    },
+    {
+      "$id": 48,
+      "ID": "MAP_LANDMARK_INFO_0048",
+      "location_id": 220,
+      "offset_x": 0.0,
+      "offset_y": 0.0,
+      "name_offset_x": 0.0,
+      "name_offset_y": -20.0
+    },
+    {
+      "$id": 49,
+      "ID": "MAP_LANDMARK_INFO_0049",
+      "location_id": 223,
+      "offset_x": 0.0,
+      "offset_y": 0.0,
+      "name_offset_x": 0.0,
+      "name_offset_y": -20.0
+    },
+    {
+      "$id": 50,
+      "ID": "MAP_LANDMARK_INFO_0050",
+      "location_id": 225,
+      "offset_x": 0.0,
+      "offset_y": 0.0,
+      "name_offset_x": 0.0,
+      "name_offset_y": -20.0
+    },
+    {
+      "$id": 51,
+      "ID": "MAP_LANDMARK_INFO_0051",
+      "location_id": 226,
+      "offset_x": 0.0,
+      "offset_y": 0.0,
+      "name_offset_x": 0.0,
+      "name_offset_y": -20.0
+    },
+    {
+      "$id": 52,
+      "ID": "MAP_LANDMARK_INFO_0052",
+      "location_id": 228,
+      "offset_x": 0.0,
+      "offset_y": 0.0,
+      "name_offset_x": 0.0,
+      "name_offset_y": -20.0
+    },
+    {
+      "$id": 53,
+      "ID": "MAP_LANDMARK_INFO_0053",
+      "location_id": 230,
+      "offset_x": 0.0,
+      "offset_y": 0.0,
+      "name_offset_x": 0.0,
+      "name_offset_y": 20.0
+    },
+    {
+      "$id": 54,
+      "ID": "MAP_LANDMARK_INFO_0054",
+      "location_id": 231,
+      "offset_x": 0.0,
+      "offset_y": 0.0,
+      "name_offset_x": 0.0,
+      "name_offset_y": -20.0
+    },
+    {
+      "$id": 55,
+      "ID": "MAP_LANDMARK_INFO_0055",
+      "location_id": 268,
+      "offset_x": 0.0,
+      "offset_y": 0.0,
+      "name_offset_x": 0.0,
+      "name_offset_y": -20.0
+    },
+    {
+      "$id": 56,
+      "ID": "MAP_LANDMARK_INFO_0056",
+      "location_id": 269,
+      "offset_x": 0.0,
+      "offset_y": 0.0,
+      "name_offset_x": 0.0,
+      "name_offset_y": -20.0
+    },
+    {
+      "$id": 57,
+      "ID": "MAP_LANDMARK_INFO_0057",
+      "location_id": 271,
+      "offset_x": 0.0,
+      "offset_y": 0.0,
+      "name_offset_x": 0.0,
+      "name_offset_y": -20.0
+    },
+    {
+      "$id": 58,
+      "ID": "MAP_LANDMARK_INFO_0058",
+      "location_id": 272,
+      "offset_x": 0.0,
+      "offset_y": 0.0,
+      "name_offset_x": 0.0,
+      "name_offset_y": -20.0
+    },
+    {
+      "$id": 59,
+      "ID": "MAP_LANDMARK_INFO_0059",
+      "location_id": 277,
+      "offset_x": 0.0,
+      "offset_y": 0.0,
+      "name_offset_x": 0.0,
+      "name_offset_y": -20.0
+    },
+    {
+      "$id": 60,
+      "ID": "MAP_LANDMARK_INFO_0060",
+      "location_id": 278,
+      "offset_x": 0.0,
+      "offset_y": 0.0,
+      "name_offset_x": 0.0,
+      "name_offset_y": -20.0
+    },
+    {
+      "$id": 61,
+      "ID": "MAP_LANDMARK_INFO_0061",
+      "location_id": 280,
+      "offset_x": 0.0,
+      "offset_y": 0.0,
+      "name_offset_x": 0.0,
+      "name_offset_y": -20.0
+    },
+    {
+      "$id": 62,
+      "ID": "MAP_LANDMARK_INFO_0062",
+      "location_id": 282,
+      "offset_x": 0.0,
+      "offset_y": 0.0,
+      "name_offset_x": 0.0,
+      "name_offset_y": -20.0
+    },
+    {
+      "$id": 63,
+      "ID": "MAP_LANDMARK_INFO_0063",
+      "location_id": 284,
+      "offset_x": 0.0,
+      "offset_y": 0.0,
+      "name_offset_x": 0.0,
+      "name_offset_y": -20.0
+    },
+    {
+      "$id": 64,
+      "ID": "MAP_LANDMARK_INFO_0064",
+      "location_id": 285,
+      "offset_x": 0.0,
+      "offset_y": 0.0,
+      "name_offset_x": 0.0,
+      "name_offset_y": -20.0
+    },
+    {
+      "$id": 65,
+      "ID": "MAP_LANDMARK_INFO_0065",
+      "location_id": 287,
+      "offset_x": 0.0,
+      "offset_y": 0.0,
+      "name_offset_x": 0.0,
+      "name_offset_y": -20.0
+    },
+    {
+      "$id": 66,
+      "ID": "MAP_LANDMARK_INFO_0066",
+      "location_id": 288,
+      "offset_x": 0.0,
+      "offset_y": 0.0,
+      "name_offset_x": 0.0,
+      "name_offset_y": -20.0
+    },
+    {
+      "$id": 67,
+      "ID": "MAP_LANDMARK_INFO_0067",
+      "location_id": 290,
+      "offset_x": 0.0,
+      "offset_y": 0.0,
+      "name_offset_x": 0.0,
+      "name_offset_y": 20.0
+    },
+    {
+      "$id": 68,
+      "ID": "MAP_LANDMARK_INFO_0068",
+      "location_id": 291,
+      "offset_x": 0.0,
+      "offset_y": 0.0,
+      "name_offset_x": 0.0,
+      "name_offset_y": -20.0
+    },
+    {
+      "$id": 69,
+      "ID": "MAP_LANDMARK_INFO_0069",
+      "location_id": 295,
+      "offset_x": 0.0,
+      "offset_y": 0.0,
+      "name_offset_x": 0.0,
+      "name_offset_y": 20.0
+    },
+    {
+      "$id": 70,
+      "ID": "MAP_LANDMARK_INFO_0070",
+      "location_id": 296,
+      "offset_x": 0.0,
+      "offset_y": 0.0,
+      "name_offset_x": 0.0,
+      "name_offset_y": -20.0
+    },
+    {
+      "$id": 71,
+      "ID": "MAP_LANDMARK_INFO_0071",
+      "location_id": 298,
+      "offset_x": 0.0,
+      "offset_y": 0.0,
+      "name_offset_x": 0.0,
+      "name_offset_y": 20.0
+    },
+    {
+      "$id": 72,
+      "ID": "MAP_LANDMARK_INFO_0072",
+      "location_id": 301,
+      "offset_x": 0.0,
+      "offset_y": 0.0,
+      "name_offset_x": 0.0,
+      "name_offset_y": -20.0
+    },
+    {
+      "$id": 73,
+      "ID": "MAP_LANDMARK_INFO_0073",
+      "location_id": 302,
+      "offset_x": 0.0,
+      "offset_y": 0.0,
+      "name_offset_x": 0.0,
+      "name_offset_y": -20.0
+    },
+    {
+      "$id": 74,
+      "ID": "MAP_LANDMARK_INFO_0074",
+      "location_id": 334,
+      "offset_x": 0.0,
+      "offset_y": 0.0,
+      "name_offset_x": 0.0,
+      "name_offset_y": -20.0
+    },
+    {
+      "$id": 75,
+      "ID": "MAP_LANDMARK_INFO_0075",
+      "location_id": 337,
+      "offset_x": 0.0,
+      "offset_y": 0.0,
+      "name_offset_x": 0.0,
+      "name_offset_y": -23.0
+    },
+    {
+      "$id": 76,
+      "ID": "MAP_LANDMARK_INFO_0076",
+      "location_id": 338,
+      "offset_x": 0.0,
+      "offset_y": 0.0,
+      "name_offset_x": 0.0,
+      "name_offset_y": -20.0
+    },
+    {
+      "$id": 77,
+      "ID": "MAP_LANDMARK_INFO_0077",
+      "location_id": 340,
+      "offset_x": 0.0,
+      "offset_y": 0.0,
+      "name_offset_x": 0.0,
+      "name_offset_y": 20.0
+    },
+    {
+      "$id": 78,
+      "ID": "MAP_LANDMARK_INFO_0078",
+      "location_id": 342,
+      "offset_x": 0.0,
+      "offset_y": 0.0,
+      "name_offset_x": 10.0,
+      "name_offset_y": -20.0
+    },
+    {
+      "$id": 79,
+      "ID": "MAP_LANDMARK_INFO_0079",
+      "location_id": 344,
+      "offset_x": 0.0,
+      "offset_y": 0.0,
+      "name_offset_x": 0.0,
+      "name_offset_y": -20.0
+    },
+    {
+      "$id": 80,
+      "ID": "MAP_LANDMARK_INFO_0080",
+      "location_id": 346,
+      "offset_x": 0.0,
+      "offset_y": 0.0,
+      "name_offset_x": 0.0,
+      "name_offset_y": -20.0
+    },
+    {
+      "$id": 81,
+      "ID": "MAP_LANDMARK_INFO_0081",
+      "location_id": 354,
+      "offset_x": 0.0,
+      "offset_y": 0.0,
+      "name_offset_x": 0.0,
+      "name_offset_y": -20.0
+    },
+    {
+      "$id": 82,
+      "ID": "MAP_LANDMARK_INFO_0082",
+      "location_id": 355,
+      "offset_x": 0.0,
+      "offset_y": 0.0,
+      "name_offset_x": 0.0,
+      "name_offset_y": -20.0
+    },
+    {
+      "$id": 83,
+      "ID": "MAP_LANDMARK_INFO_0083",
+      "location_id": 359,
+      "offset_x": 0.0,
+      "offset_y": 0.0,
+      "name_offset_x": 0.0,
+      "name_offset_y": -20.0
+    },
+    {
+      "$id": 84,
+      "ID": "MAP_LANDMARK_INFO_0084",
+      "location_id": 361,
+      "offset_x": 0.0,
+      "offset_y": 0.0,
+      "name_offset_x": 0.0,
+      "name_offset_y": -20.0
+    },
+    {
+      "$id": 85,
+      "ID": "MAP_LANDMARK_INFO_0085",
+      "location_id": 362,
+      "offset_x": 0.0,
+      "offset_y": 0.0,
+      "name_offset_x": 0.0,
+      "name_offset_y": -20.0
+    },
+    {
+      "$id": 86,
+      "ID": "MAP_LANDMARK_INFO_0086",
+      "location_id": 365,
+      "offset_x": 0.0,
+      "offset_y": 0.0,
+      "name_offset_x": 0.0,
+      "name_offset_y": -20.0
+    },
+    {
+      "$id": 87,
+      "ID": "MAP_LANDMARK_INFO_0087",
+      "location_id": 367,
+      "offset_x": 0.0,
+      "offset_y": 0.0,
+      "name_offset_x": 0.0,
+      "name_offset_y": -20.0
+    },
+    {
+      "$id": 88,
+      "ID": "MAP_LANDMARK_INFO_0088",
+      "location_id": 368,
+      "offset_x": 0.0,
+      "offset_y": 0.0,
+      "name_offset_x": 0.0,
+      "name_offset_y": -20.0
+    },
+    {
+      "$id": 89,
+      "ID": "MAP_LANDMARK_INFO_0089",
+      "location_id": 369,
+      "offset_x": 0.0,
+      "offset_y": 0.0,
+      "name_offset_x": 0.0,
+      "name_offset_y": -20.0
+    },
+    {
+      "$id": 90,
+      "ID": "MAP_LANDMARK_INFO_0090",
+      "location_id": 371,
+      "offset_x": 0.0,
+      "offset_y": 0.0,
+      "name_offset_x": 0.0,
+      "name_offset_y": -20.0
+    },
+    {
+      "$id": 91,
+      "ID": "MAP_LANDMARK_INFO_0091",
+      "location_id": 372,
+      "offset_x": 0.0,
+      "offset_y": 0.0,
+      "name_offset_x": 0.0,
+      "name_offset_y": -20.0
+    },
+    {
+      "$id": 92,
+      "ID": "MAP_LANDMARK_INFO_0092",
+      "location_id": 373,
+      "offset_x": 0.0,
+      "offset_y": 0.0,
+      "name_offset_x": 0.0,
+      "name_offset_y": 20.0
+    },
+    {
+      "$id": 93,
+      "ID": "MAP_LANDMARK_INFO_0094",
+      "location_id": 445,
+      "offset_x": 0.0,
+      "offset_y": 0.0,
+      "name_offset_x": 0.0,
+      "name_offset_y": -20.0
+    }
+  ]
+}

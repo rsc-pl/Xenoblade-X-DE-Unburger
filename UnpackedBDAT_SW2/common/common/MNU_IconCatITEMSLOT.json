@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "ID",
+      "type": 9
+    },
+    {
+      "name": "texID",
+      "type": 2
+    },
+    {
+      "name": "MSlabel",
+      "type": 2
+    }
+  ],
+  "rows": [
+    {
+      "$id": 0,
+      "ID": "SLOT_OFF",
+      "texID": 2338,
+      "MSlabel": 0
+    },
+    {
+      "$id": 1,
+      "ID": "SLOT_ON",
+      "texID": 2339,
+      "MSlabel": 0
+    }
+  ]
+}

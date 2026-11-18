@@ -1,0 +1,44 @@
+{
+  "schema": [
+    {
+      "name": "ID",
+      "type": 9
+    },
+    {
+      "name": "uid",
+      "type": 6
+    },
+    {
+      "name": "script",
+      "type": 7
+    },
+    {
+      "name": "check",
+      "type": 5
+    },
+    {
+      "name": "id",
+      "type": 5
+    },
+    {
+      "name": "value1",
+      "type": 6
+    },
+    {
+      "name": "value2",
+      "type": 6
+    }
+  ],
+  "rows": [
+    {
+      "$id": 0,
+      "ID": "TALK_0552_001",
+      "uid": 301,
+      "script": "tev010201",
+      "check": 0,
+      "id": 0,
+      "value1": 0,
+      "value2": 0
+    }
+  ]
+}

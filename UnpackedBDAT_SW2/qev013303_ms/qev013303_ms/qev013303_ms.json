@@ -1,0 +1,210 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev013303_MSG0001",
+      "style": 1,
+      "name": "Ah! You're [ST:playername ]![ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev013303_MSG0002",
+      "style": 1,
+      "name": "So it really was you who\ntold me to escape south![ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev013303_MSG0003",
+      "style": 1,
+      "name": "Heh! I thought I heard a\nfamiliar voice over the radio![ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev013303_JNK0010",
+      "style": 4,
+      "name": "Worry"
+    },
+    {
+      "$id": 5,
+      "label": "qev013303_SEL0011",
+      "style": 3,
+      "name": "Ask Bates if he's hurt."
+    },
+    {
+      "$id": 6,
+      "label": "qev013303_JNK0020",
+      "style": 4,
+      "name": "Chide"
+    },
+    {
+      "$id": 7,
+      "label": "qev013303_SEL0021",
+      "style": 3,
+      "name": "Reprimand Bates for acting irresponsibly."
+    },
+    {
+      "$id": 8,
+      "label": "qev013303_MSG0004",
+      "style": 1,
+      "name": "I'm fine. Thanks to you, I\ndidn't get a single scratch.[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev013303_MSG0024",
+      "style": 1,
+      "name": "Man, I never thought there'd be\na Nopon caravan so close by![ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev013303_MSG0005",
+      "style": 1,
+      "name": "By hiding here, the black\nDoll searching for me gave\nup and disappeared somewhere.[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev013303_MSG0006",
+      "style": 1,
+      "name": "I can't argue back today. You\nsaved my life, after all.[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev013303_MSG0007",
+      "style": 1,
+      "name": "If you hadn't told me to escape\nsouth... I definitely would have\nbeen killed by that black Doll.[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev013303_MSG0008",
+      "style": 1,
+      "name": "...Hey, we're getting a transmission.\nCould it be from Larry-san?[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev013303_MSG0009",
+      "style": 1,
+      "name": "...This is Larry, how is\nthe transmission quality?[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev013303_MSG0010",
+      "style": 1,
+      "name": "According to Peter, you went to\nsave Bates, but how is it? Is\nthe little chick still alive?[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev013303_MSG0011",
+      "style": 1,
+      "name": "Larry-san! I'm perfectly fine! And\nI'm not a little chick anymore![ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev013303_MSG0012",
+      "style": 1,
+      "name": "Thank goodness, if you're like that\nthen you seem fine. In that case,\n[ST:playername ]... Here is your next mission.[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev013303_MSG0013",
+      "style": 1,
+      "name": "I received a message from Captain\nCorondas saying he's at Banshee\nCave in the White Woods.[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev013303_MSG0014",
+      "style": 1,
+      "name": "It seems they were attacked immediately\nafter the radio connected, and the\ntransmission cut off, but...[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev013303_MSG0015",
+      "style": 1,
+      "name": "Please, bring the Captain\nback to NLA alive.[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev013303_JNK0030",
+      "style": 4,
+      "name": "Accept"
+    },
+    {
+      "$id": 22,
+      "label": "qev013303_SEL0031",
+      "style": 3,
+      "name": "Agree to help no matter what."
+    },
+    {
+      "$id": 23,
+      "label": "qev013303_JNK0040",
+      "style": 4,
+      "name": "Resist"
+    },
+    {
+      "$id": 24,
+      "label": "qev013303_SEL0041",
+      "style": 3,
+      "name": "Say that you're not confident you can pull it off."
+    },
+    {
+      "$id": 25,
+      "label": "qev013303_MSG0016",
+      "style": 1,
+      "name": "...You really are reliable, as\nexpected. Just like Captain Corondas.[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev013303_MSG0017",
+      "style": 1,
+      "name": "I'm counting on you, then. Please be\nextremely careful of the black Doll.[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev013303_MSG0018",
+      "style": 1,
+      "name": "...It certainly isn't a simple\noperation. I understand your unease.[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev013303_MSG0019",
+      "style": 1,
+      "name": "Even so, you're the only one we\nhave. ...I'm counting on you.[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev013303_MSG0020",
+      "style": 1,
+      "name": "...I'm sorry we're so powerless. It's\nfrustrating, but I'll return from here.\nPlease go save Captain Corondas.[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev013303_MSG0021",
+      "style": 1,
+      "name": "Everyone joined this team because\nthey looked up to the Captain...\nCorondas's team exists because of him.[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev013303_MSG0022",
+      "style": 1,
+      "name": "If he dies, even if we survive,\nCorondas's team will be finished.[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev013303_MSG0023",
+      "style": 1,
+      "name": "...Promise me. You must\nsave the Captain safely.[ST:wait ]"
+    }
+  ]
+}

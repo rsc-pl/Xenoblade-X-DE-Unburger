@@ -1,0 +1,318 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev011101_MSG0001",
+      "style": 1,
+      "name": "You're— An Earthling—[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev011101_MSG0002",
+      "style": 1,
+      "name": "I never thought I'd run into a\nBLADE in a place like this. Seems\nthere's still some hope left—[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev011101_MSG0003",
+      "style": 1,
+      "name": "Please... Could you help\nme with an Arms mission?[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev011101_JNK0010",
+      "style": 4,
+      "name": "Interest"
+    },
+    {
+      "$id": 5,
+      "label": "qev011101_SEL0011",
+      "style": 3,
+      "name": "Ask what you need to help with."
+    },
+    {
+      "$id": 6,
+      "label": "qev011101_JNK0020",
+      "style": 4,
+      "name": "Question"
+    },
+    {
+      "$id": 7,
+      "label": "qev011101_SEL0021",
+      "style": 3,
+      "name": "Ask what Arms is."
+    },
+    {
+      "$id": 8,
+      "label": "qev011101_JNK0030",
+      "style": 4,
+      "name": "Admiration"
+    },
+    {
+      "$id": 9,
+      "label": "qev011101_SEL0031",
+      "style": 3,
+      "name": "Express admiration for his devotion to the mission."
+    },
+    {
+      "$id": 10,
+      "label": "qev011101_MSG0004",
+      "style": 1,
+      "name": "We were testing a new Doll weapon on the\nnative creatures around here per a request\nfrom Sakuraba Heavy Industries.[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev011101_MSG0005",
+      "style": 1,
+      "name": "—However, we were suddenly attacked\nby a ferocious Mepites nearby.[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev011101_MSG0006",
+      "style": 1,
+      "name": "I thought it was explained when you\nchose your Union, but did you forget?[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev011101_MSG0007",
+      "style": 1,
+      "name": "Our job is to provide development\nsupport for the Arms Company.[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev011101_MSG0008",
+      "style": 1,
+      "name": "Arms offers assistance to further\ncorporate activities in various ways.[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev011101_MSG0009",
+      "style": 1,
+      "name": "Of course, we are also involved in the\ntesting and manufacturing of new weapons.[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev011101_MSG0010",
+      "style": 1,
+      "name": "The weapon you are using might be\none we had a hand in developing.[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev011101_MSG0011",
+      "style": 1,
+      "name": "So, we were testing a new Doll weapon on\nthe native creatures around here per a\nrequest from Sakuraba Heavy Industries.[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev011101_MSG0012",
+      "style": 1,
+      "name": "—However, we were suddenly attacked\nby a ferocious Mepites nearby.[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev011101_MSG0013",
+      "style": 1,
+      "name": "I'm a BLADE too, however low-ranking.\nIt's only natural, isn't it?[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev011101_MSG0014",
+      "style": 1,
+      "name": "We were testing a new Doll weapon on the\nnative creatures around here per a request\nfrom Sakuraba Heavy Industries—[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev011101_MSG0015",
+      "style": 1,
+      "name": "However, we were suddenly attacked\nby a ferocious Mepites nearby.[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev011101_MSG0016",
+      "style": 1,
+      "name": "BLADE members who weren't piloting Dolls\nwere slaughtered in a single strike...[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev011101_MSG0017",
+      "style": 1,
+      "name": "My Doll was destroyed, but I somehow\nmanaged to eject and escape with my life—[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev011101_MSG0018",
+      "style": 1,
+      "name": "But the test data for the new\nweapon remains inside the Doll.[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev011101_MSG0019",
+      "style": 1,
+      "name": "To fail so miserably when we received this\nrequest directly from Isobe-san, the chief\nengineer at Sakuraba Heavy Industries—[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev011101_MSG0020",
+      "style": 1,
+      "name": "I was just thinking that I couldn't\npossibly return to NLA like this\nwhen I happened to run into you.[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev011101_MSG0021",
+      "style": 1,
+      "name": "How about it? Could you retrieve\nthe new weapon's test data from the\nDoll I abandoned in Rust Lake?[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev011101_MSG0022",
+      "style": 1,
+      "name": "I'll give you the exact reward\nwe were scheduled to receive.[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev011101_MSG0023",
+      "style": 1,
+      "name": "Thank you. I'm counting on you—[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev011101_MSG0024",
+      "style": 1,
+      "name": "I'll go hide in a nearby cave.\nStaying here might lead to\nanother native creature attack.[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev011101_MSG0025",
+      "style": 1,
+      "name": "Investigate the Doll I left\nin Rust Lake and retrieve the\nnew weapon's test data.[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev011101_MSG0026",
+      "style": 1,
+      "name": "The Mepites that attacked us might\nstill be hanging around, too.[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev011101_MSG0027",
+      "style": 1,
+      "name": "Please be extremely careful out there.[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev011101_MSG0028",
+      "style": 1,
+      "name": "Thank you, you saved me. I never\nthought I'd owe you my life as well—[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev011101_MSG0029",
+      "style": 1,
+      "name": "It seems there's no place to rest in\nNightglow Forest, not even inside a cave—[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev011101_MSG0030",
+      "style": 1,
+      "name": "By the way, how was the\ntest data? Was it intact?[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev011101_MSG0031",
+      "style": 1,
+      "name": "Thank goodness. Yes,\nthis is definitely it.[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev011101_MSG0032",
+      "style": 1,
+      "name": "The Doll was heavily damaged,\nbut this is all I need. You\nhave my deepest gratitude.[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "qev011101_JNK0040",
+      "style": 4,
+      "name": "Interest"
+    },
+    {
+      "$id": 40,
+      "label": "qev011101_SEL0041",
+      "style": 3,
+      "name": "Ask what kind of new weapon it is."
+    },
+    {
+      "$id": 41,
+      "label": "qev011101_JNK0050",
+      "style": 4,
+      "name": "Worry"
+    },
+    {
+      "$id": 42,
+      "label": "qev011101_SEL0051",
+      "style": 3,
+      "name": "Express concern over whether he can deliver it safely to Sakuraba Heavy Industries."
+    },
+    {
+      "$id": 43,
+      "label": "qev011101_MSG0033",
+      "style": 1,
+      "name": "I'm sorry, but that's a corporate secret.\nIsobe-san was very strict about that.[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "qev011101_MSG0034",
+      "style": 1,
+      "name": "Please look forward to when it lines the\nstore shelves. I'm sure you'll like it.[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "qev011101_MSG0035",
+      "style": 1,
+      "name": "It's a short distance from here to the\nexit of Nightglow Forest. I'm used to\nPrimordial Wilderness, so I'll be fine.[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "qev011101_MSG0036",
+      "style": 1,
+      "name": "Now then, I need to\nhand over your reward—[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "qev011101_MSG0037",
+      "style": 1,
+      "name": "It's quite the sum, isn't it?[ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "qev011101_MSG0038",
+      "style": 1,
+      "name": "Isobe-san had high expectations.\nWe faced the mission with high\nmorale to meet them.[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "qev011101_MSG0039",
+      "style": 1,
+      "name": "The results were disastrous, but\nat least I fulfilled the mission—[ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "qev011101_MSG0040",
+      "style": 1,
+      "name": "It's all thanks to you. Thank you.[ST:wait ]"
+    }
+  ]
+}

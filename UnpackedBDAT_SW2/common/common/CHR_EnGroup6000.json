@@ -1,0 +1,99 @@
+{
+  "schema": [
+    {
+      "name": "ID",
+      "type": 9
+    },
+    {
+      "name": "GroupID",
+      "type": 1
+    },
+    {
+      "name": "PopRecastMin",
+      "type": 2
+    },
+    {
+      "name": "PopRecastMax",
+      "type": 2
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "ID": "ENGROUP_Z_01",
+      "GroupID": 1,
+      "PopRecastMin": 300,
+      "PopRecastMax": 400
+    },
+    {
+      "$id": 2,
+      "ID": "ENGROUP_Z_02",
+      "GroupID": 2,
+      "PopRecastMin": 300,
+      "PopRecastMax": 400
+    },
+    {
+      "$id": 3,
+      "ID": "ENGROUP_Z_03",
+      "GroupID": 3,
+      "PopRecastMin": 300,
+      "PopRecastMax": 400
+    },
+    {
+      "$id": 4,
+      "ID": "ENGROUP_Z_04",
+      "GroupID": 4,
+      "PopRecastMin": 300,
+      "PopRecastMax": 400
+    },
+    {
+      "$id": 5,
+      "ID": "ENGROUP_Z_05",
+      "GroupID": 5,
+      "PopRecastMin": 300,
+      "PopRecastMax": 400
+    },
+    {
+      "$id": 6,
+      "ID": "ENGROUP_Z_06",
+      "GroupID": 6,
+      "PopRecastMin": 300,
+      "PopRecastMax": 400
+    },
+    {
+      "$id": 7,
+      "ID": "ENGROUP_Z_07",
+      "GroupID": 7,
+      "PopRecastMin": 300,
+      "PopRecastMax": 400
+    },
+    {
+      "$id": 8,
+      "ID": "ENGROUP_Z_08",
+      "GroupID": 8,
+      "PopRecastMin": 300,
+      "PopRecastMax": 400
+    },
+    {
+      "$id": 9,
+      "ID": "ENGROUP_Z_09",
+      "GroupID": 9,
+      "PopRecastMin": 540,
+      "PopRecastMax": 600
+    },
+    {
+      "$id": 10,
+      "ID": "ENGROUP_Z_10",
+      "GroupID": 10,
+      "PopRecastMin": 65535,
+      "PopRecastMax": 65535
+    },
+    {
+      "$id": 11,
+      "ID": "ENGROUP_Z_11",
+      "GroupID": 11,
+      "PopRecastMin": 65535,
+      "PopRecastMax": 65535
+    }
+  ]
+}

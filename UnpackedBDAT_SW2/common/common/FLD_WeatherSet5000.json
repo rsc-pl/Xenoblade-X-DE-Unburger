@@ -1,0 +1,155 @@
+{
+  "schema": [
+    {
+      "name": "ID",
+      "type": 9
+    },
+    {
+      "name": "wtr_id",
+      "type": 1
+    },
+    {
+      "name": "time_min",
+      "type": 2
+    },
+    {
+      "name": "time_max",
+      "type": 2
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "ID": "WTRSET5000_FINE",
+      "wtr_id": 1,
+      "time_min": 240,
+      "time_max": 300
+    },
+    {
+      "$id": 2,
+      "ID": "WTRSET5000_SSW",
+      "wtr_id": 2,
+      "time_min": 240,
+      "time_max": 300
+    },
+    {
+      "$id": 3,
+      "ID": "WTRSET5000_CLOUD",
+      "wtr_id": 3,
+      "time_min": 240,
+      "time_max": 300
+    },
+    {
+      "$id": 4,
+      "ID": "WTRSET5000_FOG",
+      "wtr_id": 4,
+      "time_min": 240,
+      "time_max": 300
+    },
+    {
+      "$id": 5,
+      "ID": "WTRSET5000_RAIN",
+      "wtr_id": 5,
+      "time_min": 240,
+      "time_max": 300
+    },
+    {
+      "$id": 6,
+      "ID": "WTRSET5000_TND",
+      "wtr_id": 6,
+      "time_min": 240,
+      "time_max": 300
+    },
+    {
+      "$id": 7,
+      "ID": "WTRSET5000_HRAIN",
+      "wtr_id": 7,
+      "time_min": 240,
+      "time_max": 300
+    },
+    {
+      "$id": 8,
+      "ID": "WTRSET5000_HWV",
+      "wtr_id": 8,
+      "time_min": 240,
+      "time_max": 300
+    },
+    {
+      "$id": 9,
+      "ID": "WTRSET5000_SSTM",
+      "wtr_id": 9,
+      "time_min": 240,
+      "time_max": 300
+    },
+    {
+      "$id": 10,
+      "ID": "WTRSET5000_TDR",
+      "wtr_id": 10,
+      "time_min": 240,
+      "time_max": 300
+    },
+    {
+      "$id": 11,
+      "ID": "WTRSET5000_ESTM",
+      "wtr_id": 11,
+      "time_min": 240,
+      "time_max": 300
+    },
+    {
+      "$id": 12,
+      "ID": "WTRSET5000_LPTA",
+      "wtr_id": 12,
+      "time_min": 240,
+      "time_max": 300
+    },
+    {
+      "$id": 13,
+      "ID": "WTRSET5000_LPTB",
+      "wtr_id": 13,
+      "time_min": 120,
+      "time_max": 240
+    },
+    {
+      "$id": 14,
+      "ID": "WTRSET5000_FRAIN",
+      "wtr_id": 14,
+      "time_min": 120,
+      "time_max": 240
+    },
+    {
+      "$id": 15,
+      "ID": "WTRSET5000_SPR",
+      "wtr_id": 15,
+      "time_min": 120,
+      "time_max": 240
+    },
+    {
+      "$id": 16,
+      "ID": "WTRSET5000_ARR",
+      "wtr_id": 16,
+      "time_min": 120,
+      "time_max": 240
+    },
+    {
+      "$id": 17,
+      "ID": "WTRSET5000_RARR",
+      "wtr_id": 17,
+      "time_min": 120,
+      "time_max": 240
+    },
+    {
+      "$id": 18,
+      "ID": "WTRSET5000_MSTM",
+      "wtr_id": 18,
+      "time_min": 120,
+      "time_max": 240
+    },
+    {
+      "$id": 19,
+      "ID": "WTRSET5000_RNBW",
+      "wtr_id": 19,
+      "time_min": 120,
+      "time_max": 240
+    }
+  ]
+}

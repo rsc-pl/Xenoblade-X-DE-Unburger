@@ -1,0 +1,228 @@
+{
+  "schema": [
+    {
+      "name": "ID",
+      "type": 9
+    },
+    {
+      "name": "buddyNum",
+      "type": 1
+    },
+    {
+      "name": "rewardMoney",
+      "type": 2
+    },
+    {
+      "name": "rewardticketNum",
+      "type": 2
+    },
+    {
+      "name": "rewardItemLotteryNum",
+      "type": 1
+    },
+    {
+      "name": "rewardItemId",
+      "type": 2
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "ID": "MNU_UR_0010",
+      "buddyNum": 1,
+      "rewardMoney": 100,
+      "rewardticketNum": 100,
+      "rewardItemLotteryNum": 0,
+      "rewardItemId": 9
+    },
+    {
+      "$id": 2,
+      "ID": "MNU_UR_0020",
+      "buddyNum": 2,
+      "rewardMoney": 400,
+      "rewardticketNum": 110,
+      "rewardItemLotteryNum": 0,
+      "rewardItemId": 9
+    },
+    {
+      "$id": 3,
+      "ID": "MNU_UR_0030",
+      "buddyNum": 3,
+      "rewardMoney": 900,
+      "rewardticketNum": 120,
+      "rewardItemLotteryNum": 1,
+      "rewardItemId": 9
+    },
+    {
+      "$id": 4,
+      "ID": "MNU_UR_0040",
+      "buddyNum": 4,
+      "rewardMoney": 1600,
+      "rewardticketNum": 130,
+      "rewardItemLotteryNum": 2,
+      "rewardItemId": 10
+    },
+    {
+      "$id": 5,
+      "ID": "MNU_UR_0050",
+      "buddyNum": 5,
+      "rewardMoney": 2500,
+      "rewardticketNum": 140,
+      "rewardItemLotteryNum": 2,
+      "rewardItemId": 10
+    },
+    {
+      "$id": 6,
+      "ID": "MNU_UR_0060",
+      "buddyNum": 6,
+      "rewardMoney": 3600,
+      "rewardticketNum": 150,
+      "rewardItemLotteryNum": 3,
+      "rewardItemId": 10
+    },
+    {
+      "$id": 7,
+      "ID": "MNU_UR_0070",
+      "buddyNum": 7,
+      "rewardMoney": 4900,
+      "rewardticketNum": 160,
+      "rewardItemLotteryNum": 3,
+      "rewardItemId": 12
+    },
+    {
+      "$id": 8,
+      "ID": "MNU_UR_0080",
+      "buddyNum": 8,
+      "rewardMoney": 6400,
+      "rewardticketNum": 170,
+      "rewardItemLotteryNum": 3,
+      "rewardItemId": 12
+    },
+    {
+      "$id": 9,
+      "ID": "MNU_UR_0090",
+      "buddyNum": 9,
+      "rewardMoney": 8100,
+      "rewardticketNum": 180,
+      "rewardItemLotteryNum": 4,
+      "rewardItemId": 12
+    },
+    {
+      "$id": 10,
+      "ID": "MNU_UR_0100",
+      "buddyNum": 10,
+      "rewardMoney": 10000,
+      "rewardticketNum": 190,
+      "rewardItemLotteryNum": 4,
+      "rewardItemId": 12
+    },
+    {
+      "$id": 11,
+      "ID": "MNU_UR_0110",
+      "buddyNum": 11,
+      "rewardMoney": 12100,
+      "rewardticketNum": 200,
+      "rewardItemLotteryNum": 4,
+      "rewardItemId": 12
+    },
+    {
+      "$id": 12,
+      "ID": "MNU_UR_0120",
+      "buddyNum": 12,
+      "rewardMoney": 14400,
+      "rewardticketNum": 210,
+      "rewardItemLotteryNum": 4,
+      "rewardItemId": 18
+    },
+    {
+      "$id": 13,
+      "ID": "MNU_UR_0130",
+      "buddyNum": 13,
+      "rewardMoney": 16900,
+      "rewardticketNum": 220,
+      "rewardItemLotteryNum": 5,
+      "rewardItemId": 25
+    },
+    {
+      "$id": 14,
+      "ID": "MNU_UR_0140",
+      "buddyNum": 14,
+      "rewardMoney": 19600,
+      "rewardticketNum": 230,
+      "rewardItemLotteryNum": 5,
+      "rewardItemId": 31
+    },
+    {
+      "$id": 15,
+      "ID": "MNU_UR_0150",
+      "buddyNum": 15,
+      "rewardMoney": 22500,
+      "rewardticketNum": 240,
+      "rewardItemLotteryNum": 5,
+      "rewardItemId": 18
+    },
+    {
+      "$id": 16,
+      "ID": "MNU_UR_0160",
+      "buddyNum": 16,
+      "rewardMoney": 25600,
+      "rewardticketNum": 250,
+      "rewardItemLotteryNum": 5,
+      "rewardItemId": 25
+    },
+    {
+      "$id": 17,
+      "ID": "MNU_UR_0170",
+      "buddyNum": 17,
+      "rewardMoney": 28900,
+      "rewardticketNum": 260,
+      "rewardItemLotteryNum": 6,
+      "rewardItemId": 31
+    },
+    {
+      "$id": 18,
+      "ID": "MNU_UR_0180",
+      "buddyNum": 18,
+      "rewardMoney": 32400,
+      "rewardticketNum": 270,
+      "rewardItemLotteryNum": 6,
+      "rewardItemId": 18
+    },
+    {
+      "$id": 19,
+      "ID": "MNU_UR_0190",
+      "buddyNum": 19,
+      "rewardMoney": 36100,
+      "rewardticketNum": 280,
+      "rewardItemLotteryNum": 6,
+      "rewardItemId": 25
+    },
+    {
+      "$id": 20,
+      "ID": "MNU_UR_0200",
+      "buddyNum": 20,
+      "rewardMoney": 40000,
+      "rewardticketNum": 290,
+      "rewardItemLotteryNum": 7,
+      "rewardItemId": 31
+    },
+    {
+      "$id": 21,
+      "ID": "MNU_UR_0210",
+      "buddyNum": 21,
+      "rewardMoney": 44100,
+      "rewardticketNum": 300,
+      "rewardItemLotteryNum": 7,
+      "rewardItemId": 18
+    },
+    {
+      "$id": 22,
+      "ID": "MNU_UR_0220",
+      "buddyNum": 22,
+      "rewardMoney": 48400,
+      "rewardticketNum": 310,
+      "rewardItemLotteryNum": 8,
+      "rewardItemId": 25
+    }
+  ]
+}

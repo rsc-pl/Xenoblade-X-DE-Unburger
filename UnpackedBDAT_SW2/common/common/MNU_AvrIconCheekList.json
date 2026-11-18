@@ -1,0 +1,85 @@
+{
+  "schema": [
+    {
+      "name": "ID",
+      "type": 9
+    },
+    {
+      "name": "AvtChrID",
+      "type": 2
+    },
+    {
+      "name": "Sex",
+      "type": 1
+    },
+    {
+      "name": "IconNo",
+      "type": 2
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "ID": "STS_AVR_ICON_CHEEK_10001",
+      "AvtChrID": 0,
+      "Sex": 0,
+      "IconNo": 0
+    },
+    {
+      "$id": 2,
+      "ID": "STS_AVR_ICON_CHEEK_10002",
+      "AvtChrID": 0,
+      "Sex": 0,
+      "IconNo": 1
+    },
+    {
+      "$id": 3,
+      "ID": "STS_AVR_ICON_CHEEK_10003",
+      "AvtChrID": 0,
+      "Sex": 0,
+      "IconNo": 2
+    },
+    {
+      "$id": 4,
+      "ID": "STS_AVR_ICON_CHEEK_20001",
+      "AvtChrID": 0,
+      "Sex": 1,
+      "IconNo": 0
+    },
+    {
+      "$id": 5,
+      "ID": "STS_AVR_ICON_CHEEK_20002",
+      "AvtChrID": 0,
+      "Sex": 1,
+      "IconNo": 1
+    },
+    {
+      "$id": 6,
+      "ID": "STS_AVR_ICON_CHEEK_20003",
+      "AvtChrID": 0,
+      "Sex": 1,
+      "IconNo": 2
+    },
+    {
+      "$id": 7,
+      "ID": "STS_AVR_ICON_CHEEK_20004",
+      "AvtChrID": 0,
+      "Sex": 1,
+      "IconNo": 3
+    },
+    {
+      "$id": 8,
+      "ID": "STS_AVR_ICON_CHEEK_20005",
+      "AvtChrID": 0,
+      "Sex": 1,
+      "IconNo": 4
+    },
+    {
+      "$id": 9,
+      "ID": "STS_AVR_ICON_CHEEK_20006",
+      "AvtChrID": 0,
+      "Sex": 1,
+      "IconNo": 5
+    }
+  ]
+}

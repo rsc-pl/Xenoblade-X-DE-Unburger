@@ -1,0 +1,672 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev011401_MSG0001",
+      "style": 1,
+      "name": "I really lost a lot of time...[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev011401_MSG0002",
+      "style": 1,
+      "name": "Gathering all this by the promised\ndate... No matter how I look at\nit, it's impossible...[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev011401_MSG0003",
+      "style": 1,
+      "name": "Sigh, what should I do... At\nthis rate, no one will ever\ngive me a mission again.[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev011401_MSG0004",
+      "style": 1,
+      "name": ".........[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev011401_MSG0005",
+      "style": 1,
+      "name": "Ah... [ST:playername ]-san...[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev011401_MSG0006",
+      "style": 1,
+      "name": "Thank you so much for your\nhelp back then. Thanks to\nyou, my Doll is fixed, but...[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev011401_MSG0007",
+      "style": 1,
+      "name": "When I calmly looked over the missions\nI've taken on, they're all things I\ncan't possibly finish in time...[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev011401_MSG0008",
+      "style": 1,
+      "name": "I was just reworking my plans\nto see what I could do.[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev011401_JNK0010",
+      "style": 4,
+      "name": "Question"
+    },
+    {
+      "$id": 10,
+      "label": "qev011401_SEL0011",
+      "style": 3,
+      "name": "Ask to at least hear the details of her missions."
+    },
+    {
+      "$id": 11,
+      "label": "qev011401_JNK0020",
+      "style": 4,
+      "name": "Rescue"
+    },
+    {
+      "$id": 12,
+      "label": "qev011401_SEL0021",
+      "style": 3,
+      "name": "Offer a helping hand to assist Mei with her missions."
+    },
+    {
+      "$id": 13,
+      "label": "qev011401_MSG0009",
+      "style": 1,
+      "name": "Um...[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev011401_MSG0010",
+      "style": 1,
+      "name": "I need to gather Ancient Redwood Dometom\nAntlers and Flash Divination Rods...[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev011401_MSG0011",
+      "style": 1,
+      "name": "And I also have to gather Rich Black\nStrutt Eggs, which I'm really bad at...[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev011401_MSG0012",
+      "style": 1,
+      "name": "But this one is the worst. I have\nto gather... 80 Angel Stones...[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev011401_MSG0013",
+      "style": 1,
+      "name": ".........[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev011401_MSG0014",
+      "style": 1,
+      "name": "...But I decided to do it, so I\nhave to finish it all by myself.[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev011401_MSG0015",
+      "style": 1,
+      "name": "I don't know how I'll do it...\nbut I'll figure something out![ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev011401_MSG0016",
+      "style": 1,
+      "name": "Um... thank you for talking\nto someone like me again![ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev011401_MSG0017",
+      "style": 1,
+      "name": "N-No way... I can't cause\nyou any more trouble...[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev011401_MSG0018",
+      "style": 1,
+      "name": "Eh...? There's no need to hold back\nbecause we're BLADE comrades?[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev011401_MSG0019",
+      "style": 1,
+      "name": "...Comrades. That makes me\nreally happy to hear...[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev011401_MSG0020",
+      "style": 1,
+      "name": "I'm sorry for being so shameless...\nbut is it okay if I lean on your\nkindness just a little bit?[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev011401_MSG0021",
+      "style": 1,
+      "name": "The missions I've currently accepted\ninvolve gathering Ancient Redwood Dometom\nAntlers and Flash Divination Rods...[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev011401_MSG0022",
+      "style": 1,
+      "name": "And a brutal mission to\ngather 80 Angel Stones...[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev011401_MSG0023",
+      "style": 1,
+      "name": "Plus, there's also the gathering of\nRich Black Strutt Eggs... No matter\nhow I look at it, it's impossible alone.[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev011401_MSG0024",
+      "style": 1,
+      "name": "Um... Could I ask you to handle two of those things for\nme? Gathering Rich Black Strutt Eggs, and either Ancient\nRedwood Dometom Antlers or Flash Divination Rods...[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev011401_MSG0025",
+      "style": 1,
+      "name": "I'll take responsibility and finish\nthe rest of the missions myself.[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev011401_JNK0110",
+      "style": 4,
+      "name": "Ancient Redwood Dometom Antlers"
+    },
+    {
+      "$id": 31,
+      "label": "qev011401_SEL0111",
+      "style": 3,
+      "name": "Take on this mission."
+    },
+    {
+      "$id": 32,
+      "label": "qev011401_JNK0120",
+      "style": 4,
+      "name": "Flash Divination Rods"
+    },
+    {
+      "$id": 33,
+      "label": "qev011401_SEL0121",
+      "style": 3,
+      "name": "Take on this mission."
+    },
+    {
+      "$id": 34,
+      "label": "qev011401_JNK0130",
+      "style": 4,
+      "name": "80 Angel Stones"
+    },
+    {
+      "$id": 35,
+      "label": "qev011401_SEL0131",
+      "style": 3,
+      "name": "Tell her you'll take on the hardest-looking mission."
+    },
+    {
+      "$id": 36,
+      "label": "qev011401_MSG0026",
+      "style": 1,
+      "name": "Thank you so much![ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev011401_MSG0027",
+      "style": 1,
+      "name": "Well then, I leave the gathering of Rich\nBlack Strutt Eggs and Ancient Redwood\nDometom Antlers to you! I'm counting on you![ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev011401_MSG0028",
+      "style": 1,
+      "name": "I'll manage to gather all 80\nAngel Stones... somehow![ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "qev011401_MSG0029",
+      "style": 1,
+      "name": "Thank you so much![ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "qev011401_MSG0030",
+      "style": 1,
+      "name": "Well then, I leave the gathering of\nRich Black Strutt Eggs and Flash\nDivination Rods to you! I'm counting on you![ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "qev011401_MSG0031",
+      "style": 1,
+      "name": "I'll manage to gather all 80\nAngel Stones... somehow![ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "qev011401_MSG0032",
+      "style": 1,
+      "name": "N-No! That's no good! I can't possibly\npush such a difficult mission onto you![ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "qev011401_MSG0033",
+      "style": 1,
+      "name": "I'll accomplish this even if it\ncosts me my life! So you just...[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "qev011401_MSG0034",
+      "style": 1,
+      "name": "Please gather Rich Black Strutt Eggs\nand... Flash Divination Rods for me.[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "qev011401_MSG0035",
+      "style": 1,
+      "name": "Being so kind to someone like\nme... Thank you so much.[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "qev011401_MSG0036",
+      "style": 1,
+      "name": "I'll leave the gathering of Rich\nBlack Strutt Eggs and Ancient\nRedwood Dometom Antlers to you.[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "qev011401_MSG0037",
+      "style": 1,
+      "name": "So as not to waste your help... I'll\nabsolutely gather the rest on my end![ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "qev011401_MSG0038",
+      "style": 1,
+      "name": "How are things going on your end?[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "qev011401_MSG0039",
+      "style": 1,
+      "name": "Over here... guess what! I was\ninvestigating a seaside cave\nI happened to find, and—[ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "qev011401_MSG0040",
+      "style": 1,
+      "name": "75 Angel Stones turned up!\nIsn't that quite the haul?[ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "qev011401_JNK0210",
+      "style": 4,
+      "name": "Amazement"
+    },
+    {
+      "$id": 52,
+      "label": "qev011401_SEL0211",
+      "style": 3,
+      "name": "Fail to hide your surprise at Mei's unbelievable luck."
+    },
+    {
+      "$id": 53,
+      "label": "qev011401_JNK0220",
+      "style": 4,
+      "name": "Doubt"
+    },
+    {
+      "$id": 54,
+      "label": "qev011401_SEL0221",
+      "style": 3,
+      "name": "Cast a suspicious glance at her impossible story."
+    },
+    {
+      "$id": 55,
+      "label": "qev011401_MSG0041",
+      "style": 1,
+      "name": "Y-You don't have to be that\nsurprised... Things like this\nhappen to me sometimes.[ST:wait ]"
+    },
+    {
+      "$id": 56,
+      "label": "qev011401_MSG0042",
+      "style": 1,
+      "name": "I-It's true! What would I\ngain from lying about this?[ST:wait ]"
+    },
+    {
+      "$id": 57,
+      "label": "qev011401_MSG0043",
+      "style": 1,
+      "name": "Things like this have happened to me\noccasionally ever since I was little.[ST:wait ]"
+    },
+    {
+      "$id": 58,
+      "label": "qev011401_MSG0044",
+      "style": 1,
+      "name": "Like when I was small, on my way home from\nschool, I once found a bag with 100,000 dollars\nin it in the mountain behind my house.[ST:wait ]"
+    },
+    {
+      "$id": 59,
+      "label": "qev011401_MSG0045",
+      "style": 1,
+      "name": "Hehe, people from the TV station came\nthat time, and it was quite an ordeal...[ST:wait ]"
+    },
+    {
+      "$id": 60,
+      "label": "qev011401_MSG0047",
+      "style": 1,
+      "name": "...Oops, I'm sorry, I haven't\neven finished my mission yet![ST:wait ]"
+    },
+    {
+      "$id": 61,
+      "label": "qev011401_MSG0048",
+      "style": 1,
+      "name": "Um, how did it go with the Rich Black Strutt\nEggs and Ancient Redwood Dometom Antlers I left\nto you, [ST:playername ]-san?[ST:wait ]"
+    },
+    {
+      "$id": 62,
+      "label": "qev011401_MSG0049",
+      "style": 1,
+      "name": "A-Amazing! Meanwhile, I haven't even found\nthe 2 Flash Divination Rods yet, let alone\nthe rest of the Angel Stones...[ST:wait ]"
+    },
+    {
+      "$id": 63,
+      "label": "qev011401_MSG0050",
+      "style": 1,
+      "name": "Um... I'm sorry... I feel like\nI'm dragging you down...[ST:wait ]"
+    },
+    {
+      "$id": 64,
+      "label": "qev011401_MSG0051",
+      "style": 1,
+      "name": "Suggest"
+    },
+    {
+      "$id": 65,
+      "label": "qev011401_JNK0310",
+      "style": 4,
+      "name": "Suggest that you go fetch the remaining items."
+    },
+    {
+      "$id": 66,
+      "label": "qev011401_SEL0311",
+      "style": 3,
+      "name": "Scold"
+    },
+    {
+      "$id": 67,
+      "label": "qev011401_JNK0320",
+      "style": 4,
+      "name": "Scold Mei for being overly self-conscious."
+    },
+    {
+      "$id": 68,
+      "label": "qev011401_SEL0321",
+      "style": 3,
+      "name": "Oh no, I couldn't possibly go that far—[ST:wait ]"
+    },
+    {
+      "$id": 69,
+      "label": "qev011401_MSG0052",
+      "style": 1,
+      "name": "—Wait, you're right. I'm in this\nsituation because I keep trying\nto shoulder everything alone.[ST:wait ]"
+    },
+    {
+      "$id": 70,
+      "label": "qev011401_MSG0053",
+      "style": 1,
+      "name": "We're comrades... so I\nshouldn't worry about it?[ST:wait ]"
+    },
+    {
+      "$id": 71,
+      "label": "qev011401_MSG0054",
+      "style": 1,
+      "name": ".........[ST:wait ]"
+    },
+    {
+      "$id": 72,
+      "label": "qev011401_MSG0055",
+      "style": 1,
+      "name": "Um... Thank you for getting mad at me.[ST:wait ]"
+    },
+    {
+      "$id": 73,
+      "label": "qev011401_MSG0056",
+      "style": 1,
+      "name": "This is probably why I always failed to\nget along with people in the past...[ST:wait ]"
+    },
+    {
+      "$id": 74,
+      "label": "qev011401_MSG0057",
+      "style": 1,
+      "name": "I'm sorry... Then let me\nmake one more request.[ST:wait ]"
+    },
+    {
+      "$id": 75,
+      "label": "qev011401_MSG0058",
+      "style": 1,
+      "name": "I will absolutely gather the rest\nof the Angel Stones myself.[ST:wait ]"
+    },
+    {
+      "$id": 76,
+      "label": "qev011401_MSG0059",
+      "style": 1,
+      "name": "So please... get the 2 Flash Divination\nRods for me. Um... I'm counting on you![ST:wait ]"
+    },
+    {
+      "$id": 77,
+      "label": "qev011401_MSG0060",
+      "style": 1,
+      "name": "This is the first time I've\never done a mission together\nwith someone like this, but...[ST:wait ]"
+    },
+    {
+      "$id": 78,
+      "label": "qev011401_MSG0061",
+      "style": 1,
+      "name": "It's a strange feeling. It makes\nme feel like I have to work many\ntimes harder than usual.[ST:wait ]"
+    },
+    {
+      "$id": 79,
+      "label": "qev011401_MSG0062",
+      "style": 1,
+      "name": "...I'll leave the Flash Divination\nRods to you. I will absolutely\ngather the remaining Angel Stones![ST:wait ]"
+    },
+    {
+      "$id": 80,
+      "label": "qev011401_MSG0063",
+      "style": 1,
+      "name": "Um... [ST:playername ]-san! How did it go?[ST:wait ]"
+    },
+    {
+      "$id": 81,
+      "label": "qev011401_MSG0064",
+      "style": 1,
+      "name": "Did you gather the Flash\nDivination Rods?![ST:wait ]"
+    },
+    {
+      "$id": 82,
+      "label": "qev011401_MSG0065",
+      "style": 1,
+      "name": "Y-Yay!![ST:wait ]"
+    },
+    {
+      "$id": 83,
+      "label": "qev011401_MSG0066",
+      "style": 1,
+      "name": "Look, I found the rest of the Angel\nStones on my end too... With this,\nthe missions are complete!![ST:wait ]"
+    },
+    {
+      "$id": 84,
+      "label": "qev011401_MSG0067",
+      "style": 1,
+      "name": "My Doll was broken, and I thought\nI'd never be able to finish them...[ST:wait ]"
+    },
+    {
+      "$id": 85,
+      "label": "qev011401_MSG0068",
+      "style": 1,
+      "name": "It's amazing... When you join forces\nwith your comrades, you can accomplish\nsuch incredible things![ST:wait ]"
+    },
+    {
+      "$id": 86,
+      "label": "qev011401_MSG0069",
+      "style": 1,
+      "name": "I've always worked alone, but I feel\nlike I finally understand why everyone\nforms teams to tackle missions.[ST:wait ]"
+    },
+    {
+      "$id": 87,
+      "label": "qev011401_MSG0070",
+      "style": 1,
+      "name": "Confirm"
+    },
+    {
+      "$id": 88,
+      "label": "qev011401_JNK0410",
+      "style": 4,
+      "name": "Advise her to continue working hard by cooperating with comrades."
+    },
+    {
+      "$id": 89,
+      "label": "qev011401_SEL0411",
+      "style": 3,
+      "name": "Deny"
+    },
+    {
+      "$id": 90,
+      "label": "qev011401_JNK0420",
+      "style": 4,
+      "name": "Bluntly state that you resolved these missions entirely with your own power."
+    },
+    {
+      "$id": 91,
+      "label": "qev011401_SEL0421",
+      "style": 3,
+      "name": "Yes! Up until now, I haven't even been able to properly talk with the people in my own Union, but...[ST:wait ]"
+    },
+    {
+      "$id": 92,
+      "label": "qev011401_MSG0071",
+      "style": 1,
+      "name": "From now on, I'll gather my\ncourage and try doing my best\ntogether with everyone![ST:wait ]"
+    },
+    {
+      "$id": 93,
+      "label": "qev011401_MSG0072",
+      "style": 1,
+      "name": "Thank you so much! As fellow\nBLADE comrades... Let's continue\nto join forces from now on![ST:wait ]"
+    },
+    {
+      "$id": 94,
+      "label": "qev011401_MSG0073",
+      "style": 1,
+      "name": "Eeeeeh...?![ST:wait ]"
+    },
+    {
+      "$id": 95,
+      "label": "qev011401_MSG0074",
+      "style": 1,
+      "name": "It's true that you basically\nsolved almost everything with\nyour own power, but...[ST:wait ]"
+    },
+    {
+      "$id": 96,
+      "label": "qev011401_MSG0075",
+      "style": 1,
+      "name": "I just didn't think the conversation\nwas heading that way...[ST:wait ]"
+    },
+    {
+      "$id": 97,
+      "label": "qev011401_MSG0076",
+      "style": 1,
+      "name": "...Um, does that mean it's better if I...\nkeep doing my best alone after all?[ST:wait ]"
+    },
+    {
+      "$id": 98,
+      "label": "qev011401_MSG0077",
+      "style": 1,
+      "name": "Confirm"
+    },
+    {
+      "$id": 99,
+      "label": "qev011401_JNK0510",
+      "style": 4,
+      "name": "Advise her to use her strong luck and do her best alone."
+    },
+    {
+      "$id": 100,
+      "label": "qev011401_SEL0511",
+      "style": 3,
+      "name": "Deny"
+    },
+    {
+      "$id": 101,
+      "label": "qev011401_JNK0520",
+      "style": 4,
+      "name": "Advise her once again to join forces with everyone and do her best."
+    },
+    {
+      "$id": 102,
+      "label": "qev011401_SEL0521",
+      "style": 3,
+      "name": "Strong luck...? I thought this kind of thing was normal, but...[ST:wait ]"
+    },
+    {
+      "$id": 103,
+      "label": "qev011401_MSG0078",
+      "style": 1,
+      "name": "But, I suppose that really is the most comfortable way for\nme... right? I'm sure I'd end up causing a lot of trouble\nfor the people around me just like I did this time...[ST:wait ]"
+    },
+    {
+      "$id": 104,
+      "label": "qev011401_MSG0079",
+      "style": 1,
+      "name": "...Understood. I'll try my best\nto manage on my own from now on.[ST:wait ]"
+    },
+    {
+      "$id": 105,
+      "label": "qev011401_MSG0080",
+      "style": 1,
+      "name": "Um... if we happen to meet somewhere\nagain, please at least talk to me.[ST:wait ]"
+    },
+    {
+      "$id": 106,
+      "label": "qev011401_MSG0081",
+      "style": 1,
+      "name": "R-Right...? Doing a mission\ntogether with you made me realize\njust how important that is.[ST:wait ]"
+    },
+    {
+      "$id": 107,
+      "label": "qev011401_MSG0082",
+      "style": 1,
+      "name": "From now on, I'll gather my\ncourage and try doing my best\ntogether with everyone![ST:wait ]"
+    },
+    {
+      "$id": 108,
+      "label": "qev011401_MSG0083",
+      "style": 1,
+      "name": "Thank you so much! As fellow\nBLADE comrades... Let's continue\nto join forces from now on![ST:wait ]"
+    },
+    {
+      "$id": 109,
+      "label": "qev011401_MSG0084",
+      "style": 1,
+      "name": "Thanks for everything! I look forward\nto teaming up with you again sometime![ST:wait ]"
+    }
+  ]
+}

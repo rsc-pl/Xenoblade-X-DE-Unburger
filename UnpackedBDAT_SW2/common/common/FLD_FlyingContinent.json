@@ -1,0 +1,44 @@
+{
+  "schema": [
+    {
+      "name": "ID",
+      "type": 9
+    },
+    {
+      "name": "gameCondId",
+      "type": 3
+    },
+    {
+      "name": "posX",
+      "type": 8
+    },
+    {
+      "name": "posY",
+      "type": 8
+    },
+    {
+      "name": "posZ",
+      "type": 8
+    },
+    {
+      "name": "rotY",
+      "type": 5
+    },
+    {
+      "name": "scale",
+      "type": 2
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "ID": "FLYING_CONTINENT_001",
+      "gameCondId": 6562,
+      "posX": -203.27000427246094,
+      "posY": 3070.0,
+      "posZ": 2571.820068359375,
+      "rotY": -19,
+      "scale": 100
+    }
+  ]
+}

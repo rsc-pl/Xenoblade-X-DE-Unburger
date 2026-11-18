@@ -1,0 +1,127 @@
+{
+  "schema": [
+    {
+      "name": "ID",
+      "type": 9
+    },
+    {
+      "name": "UnionName",
+      "type": 2
+    },
+    {
+      "name": "UnionCaption",
+      "type": 2
+    },
+    {
+      "name": "UI",
+      "type": 2
+    }
+  ],
+  "rows": [
+    {
+      "$id": 0,
+      "ID": "ID_UNI_NONE",
+      "UnionName": 0,
+      "UnionCaption": 0,
+      "UI": 2130
+    },
+    {
+      "$id": 1,
+      "ID": "ID_UNI_PATHFINDER",
+      "UnionName": 2,
+      "UnionCaption": 25,
+      "UI": 2122
+    },
+    {
+      "$id": 2,
+      "ID": "ID_UNI_INTERCEPTOR",
+      "UnionName": 3,
+      "UnionCaption": 26,
+      "UI": 2123
+    },
+    {
+      "$id": 3,
+      "ID": "ID_UNI_AVALANCHE",
+      "UnionName": 4,
+      "UnionCaption": 27,
+      "UI": 2124
+    },
+    {
+      "$id": 4,
+      "ID": "ID_UNI_TESTAMENT",
+      "UnionName": 5,
+      "UnionCaption": 28,
+      "UI": 2125
+    },
+    {
+      "$id": 5,
+      "ID": "ID_UNI_COLLEPEDIAN",
+      "UnionName": 6,
+      "UnionCaption": 29,
+      "UI": 2126
+    },
+    {
+      "$id": 6,
+      "ID": "ID_UNI_LANDBANK",
+      "UnionName": 7,
+      "UnionCaption": 30,
+      "UI": 2127
+    },
+    {
+      "$id": 7,
+      "ID": "ID_UNI_ARMS",
+      "UnionName": 8,
+      "UnionCaption": 31,
+      "UI": 2128
+    },
+    {
+      "$id": 8,
+      "ID": "ID_UNI_COMPANION",
+      "UnionName": 9,
+      "UnionCaption": 32,
+      "UI": 2129
+    },
+    {
+      "$id": 9,
+      "ID": "ID_UNI_DEFENSE_SECRETARY",
+      "UnionName": 10,
+      "UnionCaption": 0,
+      "UI": 2130
+    },
+    {
+      "$id": 10,
+      "ID": "ID_UNI_WANDERER",
+      "UnionName": 11,
+      "UnionCaption": 0,
+      "UI": 2130
+    },
+    {
+      "$id": 11,
+      "ID": "ID_UNI_COSMOARCHAEOLOGIST",
+      "UnionName": 12,
+      "UnionCaption": 0,
+      "UI": 2130
+    },
+    {
+      "$id": 12,
+      "ID": "ID_UNI_TEST_PILOT",
+      "UnionName": 13,
+      "UnionCaption": 0,
+      "UI": 2130
+    },
+    {
+      "$id": 13,
+      "ID": "ID_UNI_HERO",
+      "UnionName": 14,
+      "UnionCaption": 0,
+      "UI": 2130
+    },
+    {
+      "$id": 14,
+      "ID": "ID_UNI_MERCENARY_WARLORD",
+      "UnionName": 15,
+      "UnionCaption": 0,
+      "UI": 2130
+    }
+  ]
+}

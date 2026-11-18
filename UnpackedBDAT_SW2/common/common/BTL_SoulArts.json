@@ -1,0 +1,874 @@
+{
+  "schema": [
+    {
+      "name": "ID",
+      "type": 9
+    },
+    {
+      "name": "ArtsJob",
+      "type": 2
+    },
+    {
+      "name": "param1",
+      "type": 2
+    },
+    {
+      "name": "param2",
+      "type": 2
+    },
+    {
+      "name": "param3",
+      "type": 2
+    },
+    {
+      "name": "Target",
+      "type": 2
+    },
+    {
+      "name": "Name",
+      "type": 2
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "ID": "SoulArts_P0101",
+      "ArtsJob": 1,
+      "param1": 100,
+      "param2": 0,
+      "param3": 0,
+      "Target": 2,
+      "Name": 1
+    },
+    {
+      "$id": 2,
+      "ID": "SoulArts_P0102",
+      "ArtsJob": 2,
+      "param1": 1,
+      "param2": 1,
+      "param3": 100,
+      "Target": 2,
+      "Name": 2
+    },
+    {
+      "$id": 3,
+      "ID": "SoulArts_P0103",
+      "ArtsJob": 3,
+      "param1": 200,
+      "param2": 0,
+      "param3": 0,
+      "Target": 2,
+      "Name": 3
+    },
+    {
+      "$id": 4,
+      "ID": "SoulArts_P0201",
+      "ArtsJob": 4,
+      "param1": 50,
+      "param2": 0,
+      "param3": 0,
+      "Target": 2,
+      "Name": 4
+    },
+    {
+      "$id": 5,
+      "ID": "SoulArts_P0202",
+      "ArtsJob": 5,
+      "param1": 1,
+      "param2": 0,
+      "param3": 0,
+      "Target": 2,
+      "Name": 5
+    },
+    {
+      "$id": 6,
+      "ID": "SoulArts_P0203",
+      "ArtsJob": 6,
+      "param1": 1,
+      "param2": 0,
+      "param3": 100,
+      "Target": 2,
+      "Name": 6
+    },
+    {
+      "$id": 7,
+      "ID": "SoulArts_P0301",
+      "ArtsJob": 7,
+      "param1": 100,
+      "param2": 200,
+      "param3": 0,
+      "Target": 2,
+      "Name": 7
+    },
+    {
+      "$id": 8,
+      "ID": "SoulArts_P0302",
+      "ArtsJob": 8,
+      "param1": 100,
+      "param2": 0,
+      "param3": 0,
+      "Target": 2,
+      "Name": 8
+    },
+    {
+      "$id": 9,
+      "ID": "SoulArts_P0303",
+      "ArtsJob": 9,
+      "param1": 50,
+      "param2": 0,
+      "param3": 0,
+      "Target": 1,
+      "Name": 9
+    },
+    {
+      "$id": 10,
+      "ID": "SoulArts_P0401",
+      "ArtsJob": 10,
+      "param1": 50,
+      "param2": 0,
+      "param3": 0,
+      "Target": 2,
+      "Name": 10
+    },
+    {
+      "$id": 11,
+      "ID": "SoulArts_P0402",
+      "ArtsJob": 5,
+      "param1": 1,
+      "param2": 0,
+      "param3": 0,
+      "Target": 2,
+      "Name": 11
+    },
+    {
+      "$id": 12,
+      "ID": "SoulArts_P0403",
+      "ArtsJob": 11,
+      "param1": 250,
+      "param2": 250,
+      "param3": 50,
+      "Target": 2,
+      "Name": 12
+    },
+    {
+      "$id": 13,
+      "ID": "SoulArts_P0501",
+      "ArtsJob": 12,
+      "param1": 100,
+      "param2": 300,
+      "param3": 50,
+      "Target": 2,
+      "Name": 13
+    },
+    {
+      "$id": 14,
+      "ID": "SoulArts_P0502",
+      "ArtsJob": 13,
+      "param1": 25,
+      "param2": 51,
+      "param3": 1,
+      "Target": 2,
+      "Name": 14
+    },
+    {
+      "$id": 15,
+      "ID": "SoulArts_P0503",
+      "ArtsJob": 11,
+      "param1": 500,
+      "param2": 500,
+      "param3": 50,
+      "Target": 2,
+      "Name": 15
+    },
+    {
+      "$id": 16,
+      "ID": "SoulArts_P0601",
+      "ArtsJob": 3,
+      "param1": 500,
+      "param2": 0,
+      "param3": 0,
+      "Target": 2,
+      "Name": 16
+    },
+    {
+      "$id": 17,
+      "ID": "SoulArts_P0602",
+      "ArtsJob": 8,
+      "param1": 300,
+      "param2": 0,
+      "param3": 0,
+      "Target": 2,
+      "Name": 17
+    },
+    {
+      "$id": 18,
+      "ID": "SoulArts_P0603",
+      "ArtsJob": 14,
+      "param1": 51,
+      "param2": 3,
+      "param3": 0,
+      "Target": 1,
+      "Name": 18
+    },
+    {
+      "$id": 19,
+      "ID": "SoulArts_P0701",
+      "ArtsJob": 1,
+      "param1": 50,
+      "param2": 0,
+      "param3": 0,
+      "Target": 2,
+      "Name": 19
+    },
+    {
+      "$id": 20,
+      "ID": "SoulArts_P0702",
+      "ArtsJob": 15,
+      "param1": 47,
+      "param2": 1,
+      "param3": 25,
+      "Target": 1,
+      "Name": 20
+    },
+    {
+      "$id": 21,
+      "ID": "SoulArts_P0703",
+      "ArtsJob": 6,
+      "param1": 1,
+      "param2": 0,
+      "param3": 100,
+      "Target": 2,
+      "Name": 21
+    },
+    {
+      "$id": 22,
+      "ID": "SoulArts_P0801",
+      "ArtsJob": 7,
+      "param1": 150,
+      "param2": 400,
+      "param3": 0,
+      "Target": 2,
+      "Name": 22
+    },
+    {
+      "$id": 23,
+      "ID": "SoulArts_P0802",
+      "ArtsJob": 16,
+      "param1": 3,
+      "param2": 1,
+      "param3": 100,
+      "Target": 2,
+      "Name": 23
+    },
+    {
+      "$id": 24,
+      "ID": "SoulArts_P0803",
+      "ArtsJob": 6,
+      "param1": 2,
+      "param2": 0,
+      "param3": 100,
+      "Target": 2,
+      "Name": 24
+    },
+    {
+      "$id": 25,
+      "ID": "SoulArts_P0901",
+      "ArtsJob": 15,
+      "param1": 47,
+      "param2": 2,
+      "param3": 25,
+      "Target": 1,
+      "Name": 25
+    },
+    {
+      "$id": 26,
+      "ID": "SoulArts_P0902",
+      "ArtsJob": 17,
+      "param1": 1,
+      "param2": 51,
+      "param3": 1,
+      "Target": 2,
+      "Name": 26
+    },
+    {
+      "$id": 27,
+      "ID": "SoulArts_P0903",
+      "ArtsJob": 18,
+      "param1": 10,
+      "param2": 0,
+      "param3": 0,
+      "Target": 1,
+      "Name": 27
+    },
+    {
+      "$id": 28,
+      "ID": "SoulArts_P1001",
+      "ArtsJob": 7,
+      "param1": 50,
+      "param2": 100,
+      "param3": 0,
+      "Target": 2,
+      "Name": 28
+    },
+    {
+      "$id": 29,
+      "ID": "SoulArts_P1002",
+      "ArtsJob": 19,
+      "param1": 50,
+      "param2": 100,
+      "param3": 0,
+      "Target": 2,
+      "Name": 29
+    },
+    {
+      "$id": 30,
+      "ID": "SoulArts_P1003",
+      "ArtsJob": 6,
+      "param1": 1,
+      "param2": 0,
+      "param3": 100,
+      "Target": 2,
+      "Name": 30
+    },
+    {
+      "$id": 31,
+      "ID": "SoulArts_P1101",
+      "ArtsJob": 20,
+      "param1": 50,
+      "param2": 20,
+      "param3": 0,
+      "Target": 1,
+      "Name": 31
+    },
+    {
+      "$id": 32,
+      "ID": "SoulArts_P1102",
+      "ArtsJob": 21,
+      "param1": 50,
+      "param2": 0,
+      "param3": 0,
+      "Target": 1,
+      "Name": 32
+    },
+    {
+      "$id": 33,
+      "ID": "SoulArts_P1103",
+      "ArtsJob": 11,
+      "param1": 250,
+      "param2": 250,
+      "param3": 50,
+      "Target": 2,
+      "Name": 33
+    },
+    {
+      "$id": 34,
+      "ID": "SoulArts_P1201",
+      "ArtsJob": 18,
+      "param1": 10,
+      "param2": 10,
+      "param3": 0,
+      "Target": 1,
+      "Name": 34
+    },
+    {
+      "$id": 35,
+      "ID": "SoulArts_P1202",
+      "ArtsJob": 22,
+      "param1": 51,
+      "param2": 2,
+      "param3": 0,
+      "Target": 1,
+      "Name": 35
+    },
+    {
+      "$id": 36,
+      "ID": "SoulArts_P1203",
+      "ArtsJob": 23,
+      "param1": 1,
+      "param2": 50,
+      "param3": 100,
+      "Target": 1,
+      "Name": 36
+    },
+    {
+      "$id": 37,
+      "ID": "SoulArts_C0101",
+      "ArtsJob": 24,
+      "param1": 50,
+      "param2": 0,
+      "param3": 0,
+      "Target": 1,
+      "Name": 37
+    },
+    {
+      "$id": 38,
+      "ID": "SoulArts_C0102",
+      "ArtsJob": 25,
+      "param1": 50,
+      "param2": 0,
+      "param3": 0,
+      "Target": 1,
+      "Name": 38
+    },
+    {
+      "$id": 39,
+      "ID": "SoulArts_C0103",
+      "ArtsJob": 26,
+      "param1": 50,
+      "param2": 1000,
+      "param3": 50,
+      "Target": 2,
+      "Name": 39
+    },
+    {
+      "$id": 40,
+      "ID": "SoulArts_C0201",
+      "ArtsJob": 27,
+      "param1": 46,
+      "param2": 3,
+      "param3": 0,
+      "Target": 1,
+      "Name": 40
+    },
+    {
+      "$id": 41,
+      "ID": "SoulArts_C0202",
+      "ArtsJob": 28,
+      "param1": 34,
+      "param2": 3,
+      "param3": 0,
+      "Target": 2,
+      "Name": 41
+    },
+    {
+      "$id": 42,
+      "ID": "SoulArts_C0203",
+      "ArtsJob": 36,
+      "param1": 29,
+      "param2": 1,
+      "param3": 100,
+      "Target": 2,
+      "Name": 42
+    },
+    {
+      "$id": 43,
+      "ID": "SoulArts_C0301",
+      "ArtsJob": 29,
+      "param1": 47,
+      "param2": 2,
+      "param3": 10,
+      "Target": 1,
+      "Name": 43
+    },
+    {
+      "$id": 44,
+      "ID": "SoulArts_C0302",
+      "ArtsJob": 15,
+      "param1": 47,
+      "param2": 2,
+      "param3": 10,
+      "Target": 1,
+      "Name": 44
+    },
+    {
+      "$id": 45,
+      "ID": "SoulArts_C0303",
+      "ArtsJob": 30,
+      "param1": 80,
+      "param2": 0,
+      "param3": 0,
+      "Target": 1,
+      "Name": 45
+    },
+    {
+      "$id": 46,
+      "ID": "SoulArts_C0401",
+      "ArtsJob": 31,
+      "param1": 52,
+      "param2": 1,
+      "param3": 0,
+      "Target": 1,
+      "Name": 46
+    },
+    {
+      "$id": 47,
+      "ID": "SoulArts_C0402",
+      "ArtsJob": 32,
+      "param1": 52,
+      "param2": 2,
+      "param3": 0,
+      "Target": 1,
+      "Name": 47
+    },
+    {
+      "$id": 48,
+      "ID": "SoulArts_C0403",
+      "ArtsJob": 6,
+      "param1": 3,
+      "param2": 0,
+      "param3": 100,
+      "Target": 2,
+      "Name": 48
+    },
+    {
+      "$id": 49,
+      "ID": "SoulArts_C0501",
+      "ArtsJob": 33,
+      "param1": 53,
+      "param2": 3,
+      "param3": 0,
+      "Target": 2,
+      "Name": 49
+    },
+    {
+      "$id": 50,
+      "ID": "SoulArts_C0502",
+      "ArtsJob": 34,
+      "param1": 51,
+      "param2": 1,
+      "param3": 0,
+      "Target": 2,
+      "Name": 50
+    },
+    {
+      "$id": 51,
+      "ID": "SoulArts_C0503",
+      "ArtsJob": 35,
+      "param1": 48,
+      "param2": 3,
+      "param3": 0,
+      "Target": 1,
+      "Name": 51
+    },
+    {
+      "$id": 52,
+      "ID": "SoulArts_C0601",
+      "ArtsJob": 2,
+      "param1": 16,
+      "param2": 1,
+      "param3": 100,
+      "Target": 2,
+      "Name": 52
+    },
+    {
+      "$id": 53,
+      "ID": "SoulArts_C0602",
+      "ArtsJob": 36,
+      "param1": 18,
+      "param2": 1,
+      "param3": 100,
+      "Target": 2,
+      "Name": 53
+    },
+    {
+      "$id": 54,
+      "ID": "SoulArts_C0603",
+      "ArtsJob": 27,
+      "param1": 45,
+      "param2": 2,
+      "param3": 0,
+      "Target": 1,
+      "Name": 54
+    },
+    {
+      "$id": 55,
+      "ID": "SoulArts_C0701",
+      "ArtsJob": 37,
+      "param1": 0,
+      "param2": 500,
+      "param3": 25,
+      "Target": 2,
+      "Name": 55
+    },
+    {
+      "$id": 56,
+      "ID": "SoulArts_C0702",
+      "ArtsJob": 38,
+      "param1": 47,
+      "param2": 4,
+      "param3": 0,
+      "Target": 2,
+      "Name": 56
+    },
+    {
+      "$id": 57,
+      "ID": "SoulArts_C0703",
+      "ArtsJob": 39,
+      "param1": 50,
+      "param2": 75,
+      "param3": 50,
+      "Target": 1,
+      "Name": 57
+    },
+    {
+      "$id": 58,
+      "ID": "SoulArts_C0801",
+      "ArtsJob": 40,
+      "param1": 25,
+      "param2": 100,
+      "param3": 0,
+      "Target": 2,
+      "Name": 58
+    },
+    {
+      "$id": 59,
+      "ID": "SoulArts_C0802",
+      "ArtsJob": 41,
+      "param1": 25,
+      "param2": 50,
+      "param3": 0,
+      "Target": 2,
+      "Name": 59
+    },
+    {
+      "$id": 60,
+      "ID": "SoulArts_C0803",
+      "ArtsJob": 42,
+      "param1": 100,
+      "param2": 0,
+      "param3": 0,
+      "Target": 2,
+      "Name": 60
+    },
+    {
+      "$id": 61,
+      "ID": "SoulArts_C0901",
+      "ArtsJob": 43,
+      "param1": 50,
+      "param2": 10,
+      "param3": 0,
+      "Target": 2,
+      "Name": 61
+    },
+    {
+      "$id": 62,
+      "ID": "SoulArts_C0902",
+      "ArtsJob": 44,
+      "param1": 50,
+      "param2": 10,
+      "param3": 0,
+      "Target": 2,
+      "Name": 62
+    },
+    {
+      "$id": 63,
+      "ID": "SoulArts_C0903",
+      "ArtsJob": 15,
+      "param1": 47,
+      "param2": 1,
+      "param3": 25,
+      "Target": 2,
+      "Name": 63
+    },
+    {
+      "$id": 64,
+      "ID": "SoulArts_C1001",
+      "ArtsJob": 7,
+      "param1": 200,
+      "param2": 400,
+      "param3": 0,
+      "Target": 2,
+      "Name": 64
+    },
+    {
+      "$id": 65,
+      "ID": "SoulArts_C1002",
+      "ArtsJob": 19,
+      "param1": 200,
+      "param2": 300,
+      "param3": 0,
+      "Target": 2,
+      "Name": 65
+    },
+    {
+      "$id": 66,
+      "ID": "SoulArts_C1003",
+      "ArtsJob": 6,
+      "param1": 2,
+      "param2": 0,
+      "param3": 100,
+      "Target": 2,
+      "Name": 66
+    },
+    {
+      "$id": 67,
+      "ID": "SoulArts_C1101",
+      "ArtsJob": 40,
+      "param1": 25,
+      "param2": 100,
+      "param3": 0,
+      "Target": 2,
+      "Name": 67
+    },
+    {
+      "$id": 68,
+      "ID": "SoulArts_C1102",
+      "ArtsJob": 41,
+      "param1": 25,
+      "param2": 50,
+      "param3": 0,
+      "Target": 2,
+      "Name": 68
+    },
+    {
+      "$id": 69,
+      "ID": "SoulArts_C1103",
+      "ArtsJob": 6,
+      "param1": 1,
+      "param2": 0,
+      "param3": 100,
+      "Target": 2,
+      "Name": 69
+    },
+    {
+      "$id": 70,
+      "ID": "SoulArts_C1201",
+      "ArtsJob": 1,
+      "param1": 100,
+      "param2": 0,
+      "param3": 0,
+      "Target": 2,
+      "Name": 70
+    },
+    {
+      "$id": 71,
+      "ID": "SoulArts_C1202",
+      "ArtsJob": 4,
+      "param1": 100,
+      "param2": 0,
+      "param3": 0,
+      "Target": 2,
+      "Name": 71
+    },
+    {
+      "$id": 72,
+      "ID": "SoulArts_C1203",
+      "ArtsJob": 2,
+      "param1": 28,
+      "param2": 1,
+      "param3": 100,
+      "Target": 2,
+      "Name": 72
+    },
+    {
+      "$id": 73,
+      "ID": "SoulArts_C1301",
+      "ArtsJob": 7,
+      "param1": 150,
+      "param2": 200,
+      "param3": 0,
+      "Target": 2,
+      "Name": 73
+    },
+    {
+      "$id": 74,
+      "ID": "SoulArts_C1302",
+      "ArtsJob": 19,
+      "param1": 150,
+      "param2": 200,
+      "param3": 0,
+      "Target": 2,
+      "Name": 74
+    },
+    {
+      "$id": 75,
+      "ID": "SoulArts_C1303",
+      "ArtsJob": 45,
+      "param1": 0,
+      "param2": 30,
+      "param3": 100,
+      "Target": 2,
+      "Name": 75
+    },
+    {
+      "$id": 76,
+      "ID": "SoulArts_C1401",
+      "ArtsJob": 46,
+      "param1": 30,
+      "param2": 0,
+      "param3": 0,
+      "Target": 2,
+      "Name": 76
+    },
+    {
+      "$id": 77,
+      "ID": "SoulArts_C1402",
+      "ArtsJob": 47,
+      "param1": 400,
+      "param2": 0,
+      "param3": 0,
+      "Target": 2,
+      "Name": 77
+    },
+    {
+      "$id": 78,
+      "ID": "SoulArts_C1403",
+      "ArtsJob": 48,
+      "param1": 200,
+      "param2": 0,
+      "param3": 0,
+      "Target": 2,
+      "Name": 78
+    },
+    {
+      "$id": 79,
+      "ID": "SoulArts_C1501",
+      "ArtsJob": 13,
+      "param1": 400,
+      "param2": 51,
+      "param3": 2,
+      "Target": 2,
+      "Name": 79
+    },
+    {
+      "$id": 80,
+      "ID": "SoulArts_C1502",
+      "ArtsJob": 49,
+      "param1": 3000,
+      "param2": 0,
+      "param3": 0,
+      "Target": 2,
+      "Name": 80
+    },
+    {
+      "$id": 81,
+      "ID": "SoulArts_C1503",
+      "ArtsJob": 50,
+      "param1": 50,
+      "param2": 0,
+      "param3": 0,
+      "Target": 1,
+      "Name": 81
+    },
+    {
+      "$id": 82,
+      "ID": "SoulArts_C1601",
+      "ArtsJob": 51,
+      "param1": 15,
+      "param2": 0,
+      "param3": 0,
+      "Target": 2,
+      "Name": 82
+    },
+    {
+      "$id": 83,
+      "ID": "SoulArts_C1602",
+      "ArtsJob": 52,
+      "param1": 10,
+      "param2": 1000,
+      "param3": 0,
+      "Target": 2,
+      "Name": 83
+    },
+    {
+      "$id": 84,
+      "ID": "SoulArts_C1603",
+      "ArtsJob": 53,
+      "param1": 10,
+      "param2": 10,
+      "param3": 0,
+      "Target": 2,
+      "Name": 84
+    }
+  ]
+}

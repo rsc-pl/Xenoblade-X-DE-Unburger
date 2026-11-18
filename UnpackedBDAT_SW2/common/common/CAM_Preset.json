@@ -1,0 +1,300 @@
+{
+  "schema": [
+    {
+      "name": "ID",
+      "type": 9
+    },
+    {
+      "name": "LookDis",
+      "type": 1
+    },
+    {
+      "name": "CamDis",
+      "type": 1
+    },
+    {
+      "name": "HeightMin",
+      "type": 1
+    },
+    {
+      "name": "HeightMax",
+      "type": 1
+    },
+    {
+      "name": "RotX",
+      "type": 1
+    },
+    {
+      "name": "Angle",
+      "type": 1
+    },
+    {
+      "name": "ZoomSpeed",
+      "type": 1
+    },
+    {
+      "name": "RotSpeed",
+      "type": 1
+    },
+    {
+      "name": "ZoomDefault",
+      "type": 1
+    },
+    {
+      "name": "RevRot",
+      "type": 1
+    },
+    {
+      "name": "RevRotAddManual",
+      "type": 1
+    },
+    {
+      "name": "RevRotAddReset",
+      "type": 1
+    },
+    {
+      "name": "RevCtrlY",
+      "type": 1
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "ID": "CAM_PRESET_TYPE_A_PC",
+      "LookDis": 1,
+      "CamDis": 5,
+      "HeightMin": 6,
+      "HeightMax": 2,
+      "RotX": 3,
+      "Angle": 2,
+      "ZoomSpeed": 3,
+      "RotSpeed": 3,
+      "ZoomDefault": 1,
+      "RevRot": 3,
+      "RevRotAddManual": 2,
+      "RevRotAddReset": 3,
+      "RevCtrlY": 5
+    },
+    {
+      "$id": 2,
+      "ID": "CAM_PRESET_TYPE_A_DOLL",
+      "LookDis": 11,
+      "CamDis": 12,
+      "HeightMin": 16,
+      "HeightMax": 11,
+      "RotX": 13,
+      "Angle": 11,
+      "ZoomSpeed": 13,
+      "RotSpeed": 13,
+      "ZoomDefault": 11,
+      "RevRot": 13,
+      "RevRotAddManual": 12,
+      "RevRotAddReset": 13,
+      "RevCtrlY": 15
+    },
+    {
+      "$id": 3,
+      "ID": "CAM_PRESET_TYPE_A_VEHICLE",
+      "LookDis": 21,
+      "CamDis": 25,
+      "HeightMin": 26,
+      "HeightMax": 27,
+      "RotX": 23,
+      "Angle": 23,
+      "ZoomSpeed": 23,
+      "RotSpeed": 23,
+      "ZoomDefault": 21,
+      "RevRot": 23,
+      "RevRotAddManual": 22,
+      "RevRotAddReset": 23,
+      "RevCtrlY": 25
+    },
+    {
+      "$id": 4,
+      "ID": "CAM_PRESET_TYPE_B_PC",
+      "LookDis": 1,
+      "CamDis": 1,
+      "HeightMin": 4,
+      "HeightMax": 4,
+      "RotX": 2,
+      "Angle": 5,
+      "ZoomSpeed": 3,
+      "RotSpeed": 1,
+      "ZoomDefault": 1,
+      "RevRot": 1,
+      "RevRotAddManual": 1,
+      "RevRotAddReset": 2,
+      "RevCtrlY": 5
+    },
+    {
+      "$id": 5,
+      "ID": "CAM_PRESET_TYPE_B_DOLL",
+      "LookDis": 11,
+      "CamDis": 11,
+      "HeightMin": 15,
+      "HeightMax": 15,
+      "RotX": 12,
+      "Angle": 15,
+      "ZoomSpeed": 13,
+      "RotSpeed": 11,
+      "ZoomDefault": 11,
+      "RevRot": 11,
+      "RevRotAddManual": 11,
+      "RevRotAddReset": 12,
+      "RevCtrlY": 15
+    },
+    {
+      "$id": 6,
+      "ID": "CAM_PRESET_TYPE_B_VEHICLE",
+      "LookDis": 21,
+      "CamDis": 21,
+      "HeightMin": 25,
+      "HeightMax": 25,
+      "RotX": 23,
+      "Angle": 23,
+      "ZoomSpeed": 23,
+      "RotSpeed": 21,
+      "ZoomDefault": 21,
+      "RevRot": 21,
+      "RevRotAddManual": 21,
+      "RevRotAddReset": 22,
+      "RevCtrlY": 25
+    },
+    {
+      "$id": 7,
+      "ID": "CAM_PRESET_TYPE_C_PC",
+      "LookDis": 1,
+      "CamDis": 9,
+      "HeightMin": 8,
+      "HeightMax": 8,
+      "RotX": 4,
+      "Angle": 3,
+      "ZoomSpeed": 3,
+      "RotSpeed": 1,
+      "ZoomDefault": 1,
+      "RevRot": 1,
+      "RevRotAddManual": 1,
+      "RevRotAddReset": 2,
+      "RevCtrlY": 5
+    },
+    {
+      "$id": 8,
+      "ID": "CAM_PRESET_TYPE_C_DOLL",
+      "LookDis": 11,
+      "CamDis": 19,
+      "HeightMin": 18,
+      "HeightMax": 18,
+      "RotX": 14,
+      "Angle": 13,
+      "ZoomSpeed": 13,
+      "RotSpeed": 11,
+      "ZoomDefault": 11,
+      "RevRot": 11,
+      "RevRotAddManual": 11,
+      "RevRotAddReset": 12,
+      "RevCtrlY": 15
+    },
+    {
+      "$id": 9,
+      "ID": "CAM_PRESET_TYPE_C_VEHICLE",
+      "LookDis": 21,
+      "CamDis": 29,
+      "HeightMin": 28,
+      "HeightMax": 28,
+      "RotX": 23,
+      "Angle": 23,
+      "ZoomSpeed": 23,
+      "RotSpeed": 21,
+      "ZoomDefault": 21,
+      "RevRot": 21,
+      "RevRotAddManual": 21,
+      "RevRotAddReset": 22,
+      "RevCtrlY": 25
+    },
+    {
+      "$id": 10,
+      "ID": "CAM_PRESET_COCKPIT",
+      "LookDis": 31,
+      "CamDis": 31,
+      "HeightMin": 31,
+      "HeightMax": 31,
+      "RotX": 31,
+      "Angle": 31,
+      "ZoomSpeed": 31,
+      "RotSpeed": 31,
+      "ZoomDefault": 31,
+      "RevRot": 31,
+      "RevRotAddManual": 31,
+      "RevRotAddReset": 31,
+      "RevCtrlY": 31
+    },
+    {
+      "$id": 11,
+      "ID": "CAM_PRESET_ENEMY",
+      "LookDis": 32,
+      "CamDis": 32,
+      "HeightMin": 32,
+      "HeightMax": 32,
+      "RotX": 32,
+      "Angle": 32,
+      "ZoomSpeed": 32,
+      "RotSpeed": 32,
+      "ZoomDefault": 32,
+      "RevRot": 32,
+      "RevRotAddManual": 32,
+      "RevRotAddReset": 32,
+      "RevCtrlY": 32
+    },
+    {
+      "$id": 12,
+      "ID": "CAM_PRESET_ROOM_PC",
+      "LookDis": 33,
+      "CamDis": 33,
+      "HeightMin": 33,
+      "HeightMax": 33,
+      "RotX": 33,
+      "Angle": 33,
+      "ZoomSpeed": 33,
+      "RotSpeed": 33,
+      "ZoomDefault": 33,
+      "RevRot": 33,
+      "RevRotAddManual": 33,
+      "RevRotAddReset": 33,
+      "RevCtrlY": 33
+    },
+    {
+      "$id": 13,
+      "ID": "CAM_PRESET_ROOM_DOLL",
+      "LookDis": 34,
+      "CamDis": 34,
+      "HeightMin": 34,
+      "HeightMax": 34,
+      "RotX": 34,
+      "Angle": 34,
+      "ZoomSpeed": 34,
+      "RotSpeed": 34,
+      "ZoomDefault": 34,
+      "RevRot": 34,
+      "RevRotAddManual": 34,
+      "RevRotAddReset": 34,
+      "RevCtrlY": 34
+    },
+    {
+      "$id": 14,
+      "ID": "CAM_PRESET_ROOM_WATER",
+      "LookDis": 35,
+      "CamDis": 35,
+      "HeightMin": 35,
+      "HeightMax": 35,
+      "RotX": 35,
+      "Angle": 35,
+      "ZoomSpeed": 35,
+      "RotSpeed": 35,
+      "ZoomDefault": 35,
+      "RevRot": 35,
+      "RevRotAddManual": 35,
+      "RevRotAddReset": 35,
+      "RevCtrlY": 35
+    }
+  ]
+}

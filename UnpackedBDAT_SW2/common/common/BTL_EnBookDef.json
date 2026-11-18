@@ -1,0 +1,120 @@
+{
+  "schema": [
+    {
+      "name": "ID",
+      "type": 9
+    },
+    {
+      "name": "posX",
+      "type": 5
+    },
+    {
+      "name": "posY",
+      "type": 5
+    },
+    {
+      "name": "posZ",
+      "type": 5
+    },
+    {
+      "name": "posX2",
+      "type": 5
+    },
+    {
+      "name": "posY2",
+      "type": 5
+    },
+    {
+      "name": "posZ2",
+      "type": 5
+    },
+    {
+      "name": "rotX",
+      "type": 5
+    },
+    {
+      "name": "rotY",
+      "type": 5
+    },
+    {
+      "name": "rotZ",
+      "type": 5
+    },
+    {
+      "name": "scale",
+      "type": 2
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "ID": "SIZE_S",
+      "posX": -5,
+      "posY": -2,
+      "posZ": 0,
+      "posX2": 0,
+      "posY2": -2,
+      "posZ2": 0,
+      "rotX": 0,
+      "rotY": -40,
+      "rotZ": 0,
+      "scale": 800
+    },
+    {
+      "$id": 2,
+      "ID": "SIZE_M",
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "posX2": 0,
+      "posY2": 0,
+      "posZ2": 0,
+      "rotX": 0,
+      "rotY": -40,
+      "rotZ": 0,
+      "scale": 800
+    },
+    {
+      "$id": 3,
+      "ID": "SIZE_L",
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "posX2": 0,
+      "posY2": 0,
+      "posZ2": 0,
+      "rotX": 0,
+      "rotY": -40,
+      "rotZ": 0,
+      "scale": 800
+    },
+    {
+      "$id": 4,
+      "ID": "SIZE_LL",
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "posX2": 0,
+      "posY2": 0,
+      "posZ2": 0,
+      "rotX": 0,
+      "rotY": -40,
+      "rotZ": 0,
+      "scale": 800
+    },
+    {
+      "$id": 5,
+      "ID": "SIZE_LLL",
+      "posX": 0,
+      "posY": 0,
+      "posZ": 0,
+      "posX2": 0,
+      "posY2": 0,
+      "posZ2": 0,
+      "rotX": 0,
+      "rotY": -40,
+      "rotZ": 0,
+      "scale": 500
+    }
+  ]
+}

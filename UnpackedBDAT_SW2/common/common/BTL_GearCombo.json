@@ -1,0 +1,134 @@
+{
+  "schema": [
+    {
+      "name": "ID",
+      "type": 9
+    },
+    {
+      "name": "CurrentColor",
+      "type": 1
+    },
+    {
+      "name": "OldColor",
+      "type": 1
+    },
+    {
+      "name": "AncientColor",
+      "type": 1
+    },
+    {
+      "name": "HitCount",
+      "type": 1
+    },
+    {
+      "name": "PartsUp",
+      "type": 1
+    },
+    {
+      "name": "Heal",
+      "type": 1
+    },
+    {
+      "name": "DebuffExtend",
+      "type": 1
+    },
+    {
+      "name": "IExpUp",
+      "type": 1
+    },
+    {
+      "name": "CExpUp",
+      "type": 1
+    },
+    {
+      "name": "Text",
+      "type": 2
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "ID": "GearCombo_CountUp",
+      "CurrentColor": 0,
+      "OldColor": 5,
+      "AncientColor": 0,
+      "HitCount": 100,
+      "PartsUp": 0,
+      "Heal": 0,
+      "DebuffExtend": 0,
+      "IExpUp": 0,
+      "CExpUp": 0,
+      "Text": 14
+    },
+    {
+      "$id": 2,
+      "ID": "GearCombo_PartsUp",
+      "CurrentColor": 0,
+      "OldColor": 3,
+      "AncientColor": 0,
+      "HitCount": 0,
+      "PartsUp": 50,
+      "Heal": 0,
+      "DebuffExtend": 0,
+      "IExpUp": 0,
+      "CExpUp": 0,
+      "Text": 15
+    },
+    {
+      "$id": 3,
+      "ID": "GearCombo_AddHeal",
+      "CurrentColor": 5,
+      "OldColor": 6,
+      "AncientColor": 0,
+      "HitCount": 0,
+      "PartsUp": 0,
+      "Heal": 10,
+      "DebuffExtend": 0,
+      "IExpUp": 0,
+      "CExpUp": 0,
+      "Text": 16
+    },
+    {
+      "$id": 4,
+      "ID": "GearCombo_DebuffExtend",
+      "CurrentColor": 3,
+      "OldColor": 6,
+      "AncientColor": 0,
+      "HitCount": 0,
+      "PartsUp": 0,
+      "Heal": 0,
+      "DebuffExtend": 25,
+      "IExpUp": 0,
+      "CExpUp": 0,
+      "Text": 17
+    },
+    {
+      "$id": 5,
+      "ID": "GearCombo_IExpUp",
+      "CurrentColor": 1,
+      "OldColor": 1,
+      "AncientColor": 1,
+      "HitCount": 0,
+      "PartsUp": 0,
+      "Heal": 0,
+      "DebuffExtend": 0,
+      "IExpUp": 10,
+      "CExpUp": 0,
+      "Text": 18
+    },
+    {
+      "$id": 6,
+      "ID": "GearCombo_CExpUp",
+      "CurrentColor": 2,
+      "OldColor": 2,
+      "AncientColor": 2,
+      "HitCount": 0,
+      "PartsUp": 0,
+      "Heal": 0,
+      "DebuffExtend": 0,
+      "IExpUp": 0,
+      "CExpUp": 10,
+      "Text": 19
+    }
+  ]
+}

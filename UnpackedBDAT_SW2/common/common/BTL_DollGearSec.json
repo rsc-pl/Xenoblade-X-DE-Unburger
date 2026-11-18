@@ -1,0 +1,82 @@
+{
+  "schema": [
+    {
+      "name": "ID",
+      "type": 9
+    },
+    {
+      "name": "param",
+      "type": 1
+    },
+    {
+      "name": "Ratio",
+      "type": 1
+    },
+    {
+      "name": "BlurPrm",
+      "type": 1
+    },
+    {
+      "name": "Cockpit",
+      "type": 1
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "ID": "DG_Sec_01",
+      "param": 15,
+      "Ratio": 100,
+      "BlurPrm": 10,
+      "Cockpit": 30
+    },
+    {
+      "$id": 2,
+      "ID": "DG_Sec_02",
+      "param": 13,
+      "Ratio": 100,
+      "BlurPrm": 14,
+      "Cockpit": 20
+    },
+    {
+      "$id": 3,
+      "ID": "DG_Sec_03",
+      "param": 13,
+      "Ratio": 50,
+      "BlurPrm": 18,
+      "Cockpit": 30
+    },
+    {
+      "$id": 4,
+      "ID": "DG_Sec_04",
+      "param": 13,
+      "Ratio": 0,
+      "BlurPrm": 22,
+      "Cockpit": 20
+    },
+    {
+      "$id": 5,
+      "ID": "DG_Sec_05",
+      "param": 13,
+      "Ratio": 0,
+      "BlurPrm": 26,
+      "Cockpit": 30
+    },
+    {
+      "$id": 6,
+      "ID": "DG_Sec_06",
+      "param": 13,
+      "Ratio": 0,
+      "BlurPrm": 30,
+      "Cockpit": 20
+    },
+    {
+      "$id": 7,
+      "ID": "DG_Sec_END",
+      "param": 0,
+      "Ratio": 0,
+      "BlurPrm": 0,
+      "Cockpit": 0
+    }
+  ]
+}

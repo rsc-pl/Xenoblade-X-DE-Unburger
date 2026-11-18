@@ -1,0 +1,29 @@
+{
+  "schema": [
+    {
+      "name": "ID",
+      "type": 9
+    },
+    {
+      "name": "CamID_0",
+      "type": 1
+    },
+    {
+      "name": "CamID_1",
+      "type": 1
+    },
+    {
+      "name": "CamID_2",
+      "type": 1
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "ID": "DECALCAM_01",
+      "CamID_0": 30,
+      "CamID_1": 31,
+      "CamID_2": 32
+    }
+  ]
+}

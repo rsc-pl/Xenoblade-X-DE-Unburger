@@ -1,0 +1,210 @@
+{
+  "schema": [
+    {
+      "name": "ID",
+      "type": 9
+    },
+    {
+      "name": "name",
+      "type": 13
+    },
+    {
+      "name": "help",
+      "type": 13
+    },
+    {
+      "name": "hidden_condition",
+      "type": 2
+    },
+    {
+      "name": "grayout_condition",
+      "type": 2
+    },
+    {
+      "name": "control_type",
+      "type": 1
+    },
+    {
+      "name": "select_num",
+      "type": 1
+    },
+    {
+      "name": "default_value",
+      "type": 1
+    },
+    {
+      "name": "select_name1",
+      "type": 13
+    },
+    {
+      "name": "select_name2",
+      "type": 13
+    },
+    {
+      "name": "select_name3",
+      "type": 13
+    },
+    {
+      "name": "select_name4",
+      "type": 13
+    },
+    {
+      "name": "select_name5",
+      "type": 13
+    },
+    {
+      "name": "sort_no",
+      "type": 1
+    },
+    {
+      "name": "save_type",
+      "type": 1
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "ID": "OPTION_FIELD_MINIMAP_DISP",
+      "name": 32,
+      "help": 134,
+      "hidden_condition": 0,
+      "grayout_condition": 0,
+      "control_type": 3,
+      "select_num": 2,
+      "default_value": 1,
+      "select_name1": 205,
+      "select_name2": 206,
+      "select_name3": 0,
+      "select_name4": 0,
+      "select_name5": 0,
+      "sort_no": 1,
+      "save_type": 1
+    },
+    {
+      "$id": 2,
+      "ID": "OPTION_FIELD_MINIMAP_FIX_ROT",
+      "name": 33,
+      "help": 135,
+      "hidden_condition": 0,
+      "grayout_condition": 0,
+      "control_type": 3,
+      "select_num": 2,
+      "default_value": 1,
+      "select_name1": 205,
+      "select_name2": 206,
+      "select_name3": 0,
+      "select_name4": 0,
+      "select_name5": 0,
+      "sort_no": 2,
+      "save_type": 1
+    },
+    {
+      "$id": 3,
+      "ID": "OPTION_FIELD_PC_STATUS_DISP",
+      "name": 34,
+      "help": 136,
+      "hidden_condition": 0,
+      "grayout_condition": 0,
+      "control_type": 3,
+      "select_num": 2,
+      "default_value": 0,
+      "select_name1": 205,
+      "select_name2": 206,
+      "select_name3": 0,
+      "select_name4": 0,
+      "select_name5": 0,
+      "sort_no": 3,
+      "save_type": 1
+    },
+    {
+      "$id": 4,
+      "ID": "OPTION_FIELD_DOLL_FUEL_DISP",
+      "name": 35,
+      "help": 137,
+      "hidden_condition": 0,
+      "grayout_condition": 0,
+      "control_type": 3,
+      "select_num": 2,
+      "default_value": 1,
+      "select_name1": 205,
+      "select_name2": 206,
+      "select_name3": 0,
+      "select_name4": 0,
+      "select_name5": 0,
+      "sort_no": 4,
+      "save_type": 1
+    },
+    {
+      "$id": 5,
+      "ID": "OPTION_FIELD_WEATHER_TIME_DISP",
+      "name": 36,
+      "help": 138,
+      "hidden_condition": 0,
+      "grayout_condition": 0,
+      "control_type": 3,
+      "select_num": 2,
+      "default_value": 1,
+      "select_name1": 205,
+      "select_name2": 206,
+      "select_name3": 0,
+      "select_name4": 0,
+      "select_name5": 0,
+      "sort_no": 5,
+      "save_type": 1
+    },
+    {
+      "$id": 6,
+      "ID": "OPTION_FIELD_SYSLOG_DISP",
+      "name": 37,
+      "help": 139,
+      "hidden_condition": 0,
+      "grayout_condition": 0,
+      "control_type": 3,
+      "select_num": 2,
+      "default_value": 1,
+      "select_name1": 205,
+      "select_name2": 206,
+      "select_name3": 0,
+      "select_name4": 0,
+      "select_name5": 0,
+      "sort_no": 6,
+      "save_type": 1
+    },
+    {
+      "$id": 7,
+      "ID": "OPTION_FIELD_INFO_DISP",
+      "name": 38,
+      "help": 140,
+      "hidden_condition": 0,
+      "grayout_condition": 0,
+      "control_type": 3,
+      "select_num": 2,
+      "default_value": 1,
+      "select_name1": 205,
+      "select_name2": 206,
+      "select_name3": 0,
+      "select_name4": 0,
+      "select_name5": 0,
+      "sort_no": 7,
+      "save_type": 1
+    },
+    {
+      "$id": 8,
+      "ID": "OPTION_FIELD_CONTROL_GUIDE",
+      "name": 39,
+      "help": 141,
+      "hidden_condition": 0,
+      "grayout_condition": 0,
+      "control_type": 3,
+      "select_num": 2,
+      "default_value": 1,
+      "select_name1": 205,
+      "select_name2": 206,
+      "select_name3": 0,
+      "select_name4": 0,
+      "select_name5": 0,
+      "sort_no": 8,
+      "save_type": 1
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "schema": [
+    {
+      "name": "ID",
+      "type": 9
+    },
+    {
+      "name": "miranium",
+      "type": 2
+    },
+    {
+      "name": "veinNum",
+      "type": 2
+    },
+    {
+      "name": "veinID",
+      "type": 2
+    },
+    {
+      "name": "totalIncome",
+      "type": 3
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "ID": "COND_FNT_M04",
+      "miranium": 0,
+      "veinNum": 0,
+      "veinID": 15,
+      "totalIncome": 0
+    },
+    {
+      "$id": 2,
+      "ID": "COND_FNT_M05",
+      "miranium": 0,
+      "veinNum": 0,
+      "veinID": 49,
+      "totalIncome": 0
+    },
+    {
+      "$id": 3,
+      "ID": "COND_FNT_M06",
+      "miranium": 0,
+      "veinNum": 0,
+      "veinID": 15,
+      "totalIncome": 0
+    },
+    {
+      "$id": 4,
+      "ID": "COND_FNT_M07",
+      "miranium": 0,
+      "veinNum": 0,
+      "veinID": 15,
+      "totalIncome": 0
+    },
+    {
+      "$id": 5,
+      "ID": "COND_FNT_M09",
+      "miranium": 0,
+      "veinNum": 0,
+      "veinID": 76,
+      "totalIncome": 0
+    },
+    {
+      "$id": 6,
+      "ID": "COND_FNT_M10",
+      "miranium": 0,
+      "veinNum": 0,
+      "veinID": 15,
+      "totalIncome": 0
+    },
+    {
+      "$id": 7,
+      "ID": "COND_FNT_Q907_income",
+      "miranium": 0,
+      "veinNum": 0,
+      "veinID": 0,
+      "totalIncome": 3000
+    },
+    {
+      "$id": 8,
+      "ID": "COND_FNT_Q907_miranium",
+      "miranium": 150,
+      "veinNum": 0,
+      "veinID": 0,
+      "totalIncome": 0
+    },
+    {
+      "$id": 9,
+      "ID": "COND_FNT_Q967_income",
+      "miranium": 0,
+      "veinNum": 0,
+      "veinID": 0,
+      "totalIncome": 15000
+    },
+    {
+      "$id": 10,
+      "ID": "COND_FNT_Q192_income",
+      "miranium": 0,
+      "veinNum": 0,
+      "veinID": 0,
+      "totalIncome": 70000
+    },
+    {
+      "$id": 11,
+      "ID": "COND_FNT_Q193_income",
+      "miranium": 0,
+      "veinNum": 0,
+      "veinID": 0,
+      "totalIncome": 130000
+    }
+  ]
+}

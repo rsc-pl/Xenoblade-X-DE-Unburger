@@ -1,0 +1,6518 @@
+{
+  "schema": [
+    {
+      "name": "ID",
+      "type": 9
+    },
+    {
+      "name": "qid",
+      "type": 2
+    },
+    {
+      "name": "bitMin",
+      "type": 1
+    },
+    {
+      "name": "bitMax",
+      "type": 1
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "ID": "COND_SQ001_01_01",
+      "qid": 20000,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 2,
+      "ID": "COND_SQ001_02_02",
+      "qid": 20000,
+      "bitMin": 2,
+      "bitMax": 2
+    },
+    {
+      "$id": 3,
+      "ID": "COND_SQ001_03_03",
+      "qid": 20000,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 4,
+      "ID": "COND_SQ001_04_04",
+      "qid": 20000,
+      "bitMin": 4,
+      "bitMax": 4
+    },
+    {
+      "$id": 5,
+      "ID": "COND_SQ001_01_02_Kizuna",
+      "qid": 20000,
+      "bitMin": 1,
+      "bitMax": 2
+    },
+    {
+      "$id": 6,
+      "ID": "COND_SQ001_02_02_Kizuna",
+      "qid": 20000,
+      "bitMin": 2,
+      "bitMax": 2
+    },
+    {
+      "$id": 7,
+      "ID": "COND_SQ002_01_01",
+      "qid": 20001,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 8,
+      "ID": "COND_SQ002_02_02",
+      "qid": 20001,
+      "bitMin": 2,
+      "bitMax": 2
+    },
+    {
+      "$id": 9,
+      "ID": "COND_SQ002_03_03",
+      "qid": 20001,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 10,
+      "ID": "COND_SQ002_04_04",
+      "qid": 20001,
+      "bitMin": 4,
+      "bitMax": 4
+    },
+    {
+      "$id": 11,
+      "ID": "COND_SQ002_03_03_Kizuna",
+      "qid": 20001,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 12,
+      "ID": "COND_SQ003_01_01",
+      "qid": 20002,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 13,
+      "ID": "COND_SQ003_02_02",
+      "qid": 20002,
+      "bitMin": 2,
+      "bitMax": 2
+    },
+    {
+      "$id": 14,
+      "ID": "COND_SQ003_03_03",
+      "qid": 20002,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 15,
+      "ID": "COND_SQ004_01_01",
+      "qid": 20003,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 16,
+      "ID": "COND_SQ004_02_02",
+      "qid": 20003,
+      "bitMin": 2,
+      "bitMax": 2
+    },
+    {
+      "$id": 17,
+      "ID": "COND_SQ004_03_03",
+      "qid": 20003,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 18,
+      "ID": "COND_SQ004_04_04",
+      "qid": 20003,
+      "bitMin": 4,
+      "bitMax": 4
+    },
+    {
+      "$id": 19,
+      "ID": "COND_SQ004_01_02_kizuna",
+      "qid": 20003,
+      "bitMin": 1,
+      "bitMax": 2
+    },
+    {
+      "$id": 20,
+      "ID": "COND_SQ005_01_01",
+      "qid": 20004,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 21,
+      "ID": "COND_SQ005_02_02",
+      "qid": 20004,
+      "bitMin": 2,
+      "bitMax": 2
+    },
+    {
+      "$id": 22,
+      "ID": "COND_SQ005_03_03",
+      "qid": 20004,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 23,
+      "ID": "COND_SQ005_03_03_kizuna",
+      "qid": 20004,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 24,
+      "ID": "COND_SQ005_04_04",
+      "qid": 20004,
+      "bitMin": 4,
+      "bitMax": 4
+    },
+    {
+      "$id": 25,
+      "ID": "COND_SQ006_01_01",
+      "qid": 20005,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 26,
+      "ID": "COND_SQ006_02_02",
+      "qid": 20005,
+      "bitMin": 2,
+      "bitMax": 2
+    },
+    {
+      "$id": 27,
+      "ID": "COND_SQ006_03_03",
+      "qid": 20005,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 28,
+      "ID": "COND_SQ006_04_04",
+      "qid": 20005,
+      "bitMin": 4,
+      "bitMax": 4
+    },
+    {
+      "$id": 29,
+      "ID": "COND_SQ007_01_01",
+      "qid": 20006,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 30,
+      "ID": "COND_SQ007_02_02",
+      "qid": 20006,
+      "bitMin": 2,
+      "bitMax": 2
+    },
+    {
+      "$id": 31,
+      "ID": "COND_SQ007_03_03",
+      "qid": 20006,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 32,
+      "ID": "COND_SQ007_04_04",
+      "qid": 20006,
+      "bitMin": 4,
+      "bitMax": 4
+    },
+    {
+      "$id": 33,
+      "ID": "COND_SQ008_01_01",
+      "qid": 20007,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 34,
+      "ID": "COND_SQ008_02_02",
+      "qid": 20007,
+      "bitMin": 2,
+      "bitMax": 2
+    },
+    {
+      "$id": 35,
+      "ID": "COND_SQ008_03_03",
+      "qid": 20007,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 36,
+      "ID": "COND_SQ009_01_01",
+      "qid": 20008,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 37,
+      "ID": "COND_SQ009_02_02",
+      "qid": 20008,
+      "bitMin": 2,
+      "bitMax": 2
+    },
+    {
+      "$id": 38,
+      "ID": "COND_SQ009_03_03",
+      "qid": 20008,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 39,
+      "ID": "COND_SQ009_04_04",
+      "qid": 20008,
+      "bitMin": 4,
+      "bitMax": 4
+    },
+    {
+      "$id": 40,
+      "ID": "COND_SQ009_01_03_Kizuna",
+      "qid": 20008,
+      "bitMin": 1,
+      "bitMax": 3
+    },
+    {
+      "$id": 41,
+      "ID": "COND_SQ009_02_03_Kizuna",
+      "qid": 20008,
+      "bitMin": 2,
+      "bitMax": 3
+    },
+    {
+      "$id": 42,
+      "ID": "COND_SQ009_03_03_Kizuna",
+      "qid": 20008,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 43,
+      "ID": "COND_SQ010_01_01",
+      "qid": 20009,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 44,
+      "ID": "COND_SQ010_02_02",
+      "qid": 20009,
+      "bitMin": 2,
+      "bitMax": 2
+    },
+    {
+      "$id": 45,
+      "ID": "COND_SQ010_03_03",
+      "qid": 20009,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 46,
+      "ID": "COND_SQ010_04_04",
+      "qid": 20009,
+      "bitMin": 4,
+      "bitMax": 4
+    },
+    {
+      "$id": 47,
+      "ID": "COND_SQ010_02_03_kizuna",
+      "qid": 20009,
+      "bitMin": 2,
+      "bitMax": 3
+    },
+    {
+      "$id": 48,
+      "ID": "COND_SQ011_01_01",
+      "qid": 20010,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 49,
+      "ID": "COND_SQ011_02_02",
+      "qid": 20010,
+      "bitMin": 2,
+      "bitMax": 2
+    },
+    {
+      "$id": 50,
+      "ID": "COND_SQ011_03_03",
+      "qid": 20010,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 51,
+      "ID": "COND_SQ011_04_04",
+      "qid": 20010,
+      "bitMin": 4,
+      "bitMax": 4
+    },
+    {
+      "$id": 52,
+      "ID": "COND_SQ012_01_01",
+      "qid": 20011,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 53,
+      "ID": "COND_SQ012_02_02",
+      "qid": 20011,
+      "bitMin": 2,
+      "bitMax": 2
+    },
+    {
+      "$id": 54,
+      "ID": "COND_SQ012_03_03",
+      "qid": 20011,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 55,
+      "ID": "COND_SQ012_04_04",
+      "qid": 20011,
+      "bitMin": 4,
+      "bitMax": 4
+    },
+    {
+      "$id": 56,
+      "ID": "COND_SQ013_01_01",
+      "qid": 20012,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 57,
+      "ID": "COND_SQ013_02_02",
+      "qid": 20012,
+      "bitMin": 2,
+      "bitMax": 2
+    },
+    {
+      "$id": 58,
+      "ID": "COND_SQ013_03_03",
+      "qid": 20012,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 59,
+      "ID": "COND_SQ013_04_04",
+      "qid": 20012,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 60,
+      "ID": "COND_SQ013_01_03_Kizuna",
+      "qid": 20012,
+      "bitMin": 1,
+      "bitMax": 3
+    },
+    {
+      "$id": 61,
+      "ID": "COND_SQ013_02_03_Kizuna",
+      "qid": 20012,
+      "bitMin": 2,
+      "bitMax": 3
+    },
+    {
+      "$id": 62,
+      "ID": "COND_SQ013_03_03_Kizuna",
+      "qid": 20012,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 63,
+      "ID": "COND_SQ014_01_01",
+      "qid": 20013,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 64,
+      "ID": "COND_SQ014_02_02",
+      "qid": 20013,
+      "bitMin": 2,
+      "bitMax": 2
+    },
+    {
+      "$id": 65,
+      "ID": "COND_SQ014_03_03",
+      "qid": 20013,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 66,
+      "ID": "COND_SQ014_04_04",
+      "qid": 20013,
+      "bitMin": 4,
+      "bitMax": 4
+    },
+    {
+      "$id": 67,
+      "ID": "COND_SQ015_01_01",
+      "qid": 20014,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 68,
+      "ID": "COND_SQ015_02_02",
+      "qid": 20014,
+      "bitMin": 2,
+      "bitMax": 2
+    },
+    {
+      "$id": 69,
+      "ID": "COND_SQ015_03_03",
+      "qid": 20014,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 70,
+      "ID": "COND_SQ015_04_04",
+      "qid": 20014,
+      "bitMin": 4,
+      "bitMax": 4
+    },
+    {
+      "$id": 71,
+      "ID": "COND_SQ015_02_03_kizuna",
+      "qid": 20014,
+      "bitMin": 2,
+      "bitMax": 3
+    },
+    {
+      "$id": 72,
+      "ID": "COND_SQ016_01_01",
+      "qid": 20015,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 73,
+      "ID": "COND_SQ016_02_02",
+      "qid": 20015,
+      "bitMin": 2,
+      "bitMax": 2
+    },
+    {
+      "$id": 74,
+      "ID": "COND_SQ016_03_03",
+      "qid": 20015,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 75,
+      "ID": "COND_SQ016_04_04",
+      "qid": 20015,
+      "bitMin": 4,
+      "bitMax": 4
+    },
+    {
+      "$id": 76,
+      "ID": "COND_SQ017_01_01",
+      "qid": 20016,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 77,
+      "ID": "COND_SQ017_02_02",
+      "qid": 20016,
+      "bitMin": 2,
+      "bitMax": 2
+    },
+    {
+      "$id": 78,
+      "ID": "COND_SQ017_03_03",
+      "qid": 20016,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 79,
+      "ID": "COND_SQ017_04_04",
+      "qid": 20016,
+      "bitMin": 4,
+      "bitMax": 4
+    },
+    {
+      "$id": 80,
+      "ID": "COND_SQ017_01_02_Kizuna",
+      "qid": 20016,
+      "bitMin": 1,
+      "bitMax": 2
+    },
+    {
+      "$id": 81,
+      "ID": "COND_SQ017_02_02_Kizuna",
+      "qid": 20016,
+      "bitMin": 2,
+      "bitMax": 2
+    },
+    {
+      "$id": 82,
+      "ID": "COND_SQ018_01_01",
+      "qid": 20017,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 83,
+      "ID": "COND_SQ018_02_02",
+      "qid": 20017,
+      "bitMin": 2,
+      "bitMax": 2
+    },
+    {
+      "$id": 84,
+      "ID": "COND_SQ018_03_03",
+      "qid": 20017,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 85,
+      "ID": "COND_SQ018_04_04",
+      "qid": 20017,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 86,
+      "ID": "COND_SQ019_01_01",
+      "qid": 20018,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 87,
+      "ID": "COND_SQ019_02_02",
+      "qid": 20018,
+      "bitMin": 2,
+      "bitMax": 2
+    },
+    {
+      "$id": 88,
+      "ID": "COND_SQ019_03_03",
+      "qid": 20018,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 89,
+      "ID": "COND_SQ019_04_04",
+      "qid": 20018,
+      "bitMin": 4,
+      "bitMax": 4
+    },
+    {
+      "$id": 90,
+      "ID": "COND_SQ020_01_01",
+      "qid": 20019,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 91,
+      "ID": "COND_SQ020_02_02",
+      "qid": 20019,
+      "bitMin": 2,
+      "bitMax": 2
+    },
+    {
+      "$id": 92,
+      "ID": "COND_SQ020_03_03",
+      "qid": 20019,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 93,
+      "ID": "COND_SQ020_04_04",
+      "qid": 20019,
+      "bitMin": 4,
+      "bitMax": 4
+    },
+    {
+      "$id": 94,
+      "ID": "COND_SQ021_01_01",
+      "qid": 20020,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 95,
+      "ID": "COND_SQ021_02_02",
+      "qid": 20020,
+      "bitMin": 2,
+      "bitMax": 2
+    },
+    {
+      "$id": 96,
+      "ID": "COND_SQ021_03_03",
+      "qid": 20020,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 97,
+      "ID": "COND_SQ021_04_04",
+      "qid": 20020,
+      "bitMin": 4,
+      "bitMax": 4
+    },
+    {
+      "$id": 98,
+      "ID": "COND_SQ021_02_02_kizuna",
+      "qid": 20020,
+      "bitMin": 2,
+      "bitMax": 2
+    },
+    {
+      "$id": 99,
+      "ID": "COND_SQ022_01_01",
+      "qid": 20021,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 100,
+      "ID": "COND_SQ022_02_02",
+      "qid": 20021,
+      "bitMin": 2,
+      "bitMax": 2
+    },
+    {
+      "$id": 101,
+      "ID": "COND_SQ022_03_03",
+      "qid": 20021,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 102,
+      "ID": "COND_SQ022_04_04",
+      "qid": 20021,
+      "bitMin": 4,
+      "bitMax": 4
+    },
+    {
+      "$id": 103,
+      "ID": "COND_SQ023_01_01",
+      "qid": 20022,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 104,
+      "ID": "COND_SQ023_02_02",
+      "qid": 20022,
+      "bitMin": 2,
+      "bitMax": 2
+    },
+    {
+      "$id": 105,
+      "ID": "COND_SQ023_03_03",
+      "qid": 20022,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 106,
+      "ID": "COND_SQ023_04_04",
+      "qid": 20022,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 107,
+      "ID": "COND_SQ023_02_02_kizuna",
+      "qid": 20022,
+      "bitMin": 2,
+      "bitMax": 2
+    },
+    {
+      "$id": 108,
+      "ID": "COND_SQ024_01_01",
+      "qid": 20023,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 109,
+      "ID": "COND_SQ024_02_02",
+      "qid": 20023,
+      "bitMin": 2,
+      "bitMax": 2
+    },
+    {
+      "$id": 110,
+      "ID": "COND_SQ024_03_03",
+      "qid": 20023,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 111,
+      "ID": "COND_SQ024_04_04",
+      "qid": 20023,
+      "bitMin": 4,
+      "bitMax": 4
+    },
+    {
+      "$id": 112,
+      "ID": "COND_SQ025_01_01",
+      "qid": 20024,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 113,
+      "ID": "COND_SQ025_02_02",
+      "qid": 20024,
+      "bitMin": 2,
+      "bitMax": 2
+    },
+    {
+      "$id": 114,
+      "ID": "COND_SQ025_03_03",
+      "qid": 20024,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 115,
+      "ID": "COND_SQ025_04_04",
+      "qid": 20024,
+      "bitMin": 4,
+      "bitMax": 4
+    },
+    {
+      "$id": 116,
+      "ID": "COND_SQ025_01_03_Kizuna",
+      "qid": 20024,
+      "bitMin": 1,
+      "bitMax": 3
+    },
+    {
+      "$id": 117,
+      "ID": "COND_SQ025_02_03_Kizuna",
+      "qid": 20024,
+      "bitMin": 2,
+      "bitMax": 3
+    },
+    {
+      "$id": 118,
+      "ID": "COND_SQ025_03_03_Kizuna",
+      "qid": 20024,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 119,
+      "ID": "COND_SQ026_01_01",
+      "qid": 20025,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 120,
+      "ID": "COND_SQ026_02_02",
+      "qid": 20025,
+      "bitMin": 2,
+      "bitMax": 2
+    },
+    {
+      "$id": 121,
+      "ID": "COND_SQ026_03_03",
+      "qid": 20025,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 122,
+      "ID": "COND_SQ026_04_04",
+      "qid": 20025,
+      "bitMin": 4,
+      "bitMax": 4
+    },
+    {
+      "$id": 123,
+      "ID": "COND_SQ026_02_03_kizuna",
+      "qid": 20025,
+      "bitMin": 2,
+      "bitMax": 3
+    },
+    {
+      "$id": 124,
+      "ID": "COND_SQ027_01_01",
+      "qid": 20026,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 125,
+      "ID": "COND_SQ027_02_02",
+      "qid": 20026,
+      "bitMin": 2,
+      "bitMax": 2
+    },
+    {
+      "$id": 126,
+      "ID": "COND_SQ027_03_03",
+      "qid": 20026,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 127,
+      "ID": "COND_SQ027_04_04",
+      "qid": 20026,
+      "bitMin": 4,
+      "bitMax": 4
+    },
+    {
+      "$id": 128,
+      "ID": "COND_SQ028_01_01",
+      "qid": 20027,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 129,
+      "ID": "COND_SQ028_02_02",
+      "qid": 20027,
+      "bitMin": 2,
+      "bitMax": 2
+    },
+    {
+      "$id": 130,
+      "ID": "COND_SQ028_03_03",
+      "qid": 20027,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 131,
+      "ID": "COND_SQ028_04_04",
+      "qid": 20027,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 132,
+      "ID": "COND_SQ029_01_01",
+      "qid": 20028,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 133,
+      "ID": "COND_SQ029_02_02",
+      "qid": 20028,
+      "bitMin": 2,
+      "bitMax": 2
+    },
+    {
+      "$id": 134,
+      "ID": "COND_SQ029_03_03",
+      "qid": 20028,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 135,
+      "ID": "COND_SQ029_04_04",
+      "qid": 20028,
+      "bitMin": 4,
+      "bitMax": 4
+    },
+    {
+      "$id": 136,
+      "ID": "COND_SQ029_05_05",
+      "qid": 20028,
+      "bitMin": 5,
+      "bitMax": 5
+    },
+    {
+      "$id": 137,
+      "ID": "COND_SQ029_06_06",
+      "qid": 20028,
+      "bitMin": 6,
+      "bitMax": 6
+    },
+    {
+      "$id": 138,
+      "ID": "COND_SQ029_07_07",
+      "qid": 20028,
+      "bitMin": 7,
+      "bitMax": 7
+    },
+    {
+      "$id": 139,
+      "ID": "COND_SQ029_08_08",
+      "qid": 20028,
+      "bitMin": 8,
+      "bitMax": 8
+    },
+    {
+      "$id": 140,
+      "ID": "COND_SQ029_09_09",
+      "qid": 20028,
+      "bitMin": 9,
+      "bitMax": 9
+    },
+    {
+      "$id": 141,
+      "ID": "COND_SQ029_02_08",
+      "qid": 20028,
+      "bitMin": 2,
+      "bitMax": 8
+    },
+    {
+      "$id": 142,
+      "ID": "COND_SQ029_05_08_kizuna",
+      "qid": 20028,
+      "bitMin": 5,
+      "bitMax": 8
+    },
+    {
+      "$id": 143,
+      "ID": "COND_SQ030_01_01",
+      "qid": 20029,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 144,
+      "ID": "COND_SQ030_02_02",
+      "qid": 20029,
+      "bitMin": 2,
+      "bitMax": 2
+    },
+    {
+      "$id": 145,
+      "ID": "COND_SQ030_03_03",
+      "qid": 20029,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 146,
+      "ID": "COND_SQ030_04_04",
+      "qid": 20029,
+      "bitMin": 4,
+      "bitMax": 4
+    },
+    {
+      "$id": 147,
+      "ID": "COND_SQ031_01_01",
+      "qid": 20030,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 148,
+      "ID": "COND_SQ031_02_02",
+      "qid": 20030,
+      "bitMin": 2,
+      "bitMax": 2
+    },
+    {
+      "$id": 149,
+      "ID": "COND_SQ031_03_03",
+      "qid": 20030,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 150,
+      "ID": "COND_SQ031_04_04",
+      "qid": 20030,
+      "bitMin": 4,
+      "bitMax": 4
+    },
+    {
+      "$id": 151,
+      "ID": "COND_SQ032_01_01",
+      "qid": 20031,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 152,
+      "ID": "COND_SQ032_02_02",
+      "qid": 20031,
+      "bitMin": 2,
+      "bitMax": 2
+    },
+    {
+      "$id": 153,
+      "ID": "COND_SQ032_03_03",
+      "qid": 20031,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 154,
+      "ID": "COND_SQ032_04_04",
+      "qid": 20031,
+      "bitMin": 4,
+      "bitMax": 4
+    },
+    {
+      "$id": 155,
+      "ID": "COND_SQ032_01_15",
+      "qid": 20031,
+      "bitMin": 1,
+      "bitMax": 15
+    },
+    {
+      "$id": 156,
+      "ID": "COND_SQ033_01_01",
+      "qid": 20032,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 157,
+      "ID": "COND_SQ033_02_02",
+      "qid": 20032,
+      "bitMin": 2,
+      "bitMax": 2
+    },
+    {
+      "$id": 158,
+      "ID": "COND_SQ033_03_03",
+      "qid": 20032,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 159,
+      "ID": "COND_SQ033_04_04",
+      "qid": 20032,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 160,
+      "ID": "COND_SQ034_01_01",
+      "qid": 20033,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 161,
+      "ID": "COND_SQ034_02_02",
+      "qid": 20033,
+      "bitMin": 2,
+      "bitMax": 2
+    },
+    {
+      "$id": 162,
+      "ID": "COND_SQ034_03_03",
+      "qid": 20033,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 163,
+      "ID": "COND_SQ034_04_04",
+      "qid": 20033,
+      "bitMin": 4,
+      "bitMax": 4
+    },
+    {
+      "$id": 164,
+      "ID": "COND_SQ035_01_01",
+      "qid": 20034,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 165,
+      "ID": "COND_SQ035_02_02",
+      "qid": 20034,
+      "bitMin": 2,
+      "bitMax": 2
+    },
+    {
+      "$id": 166,
+      "ID": "COND_SQ035_03_03",
+      "qid": 20034,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 167,
+      "ID": "COND_SQ035_04_04",
+      "qid": 20034,
+      "bitMin": 4,
+      "bitMax": 4
+    },
+    {
+      "$id": 168,
+      "ID": "COND_SQ036_01_01",
+      "qid": 20035,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 169,
+      "ID": "COND_SQ036_02_02",
+      "qid": 20035,
+      "bitMin": 2,
+      "bitMax": 2
+    },
+    {
+      "$id": 170,
+      "ID": "COND_SQ036_03_03",
+      "qid": 20035,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 171,
+      "ID": "COND_SQ036_04_04",
+      "qid": 20035,
+      "bitMin": 4,
+      "bitMax": 4
+    },
+    {
+      "$id": 172,
+      "ID": "COND_SQ037_01_01",
+      "qid": 20036,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 173,
+      "ID": "COND_SQ037_02_02",
+      "qid": 20036,
+      "bitMin": 2,
+      "bitMax": 2
+    },
+    {
+      "$id": 174,
+      "ID": "COND_SQ037_03_03",
+      "qid": 20036,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 175,
+      "ID": "COND_SQ037_04_04",
+      "qid": 20036,
+      "bitMin": 4,
+      "bitMax": 4
+    },
+    {
+      "$id": 176,
+      "ID": "COND_SQ038_01_01",
+      "qid": 20037,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 177,
+      "ID": "COND_SQ038_02_02",
+      "qid": 20037,
+      "bitMin": 2,
+      "bitMax": 2
+    },
+    {
+      "$id": 178,
+      "ID": "COND_SQ038_03_03",
+      "qid": 20037,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 179,
+      "ID": "COND_SQ038_04_04",
+      "qid": 20037,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 180,
+      "ID": "COND_SQ039_01_01",
+      "qid": 20038,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 181,
+      "ID": "COND_SQ039_02_02",
+      "qid": 20038,
+      "bitMin": 2,
+      "bitMax": 2
+    },
+    {
+      "$id": 182,
+      "ID": "COND_SQ039_03_03",
+      "qid": 20038,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 183,
+      "ID": "COND_SQ039_04_04",
+      "qid": 20038,
+      "bitMin": 4,
+      "bitMax": 4
+    },
+    {
+      "$id": 184,
+      "ID": "COND_SQ040_01_01",
+      "qid": 20039,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 185,
+      "ID": "COND_SQ040_02_02",
+      "qid": 20039,
+      "bitMin": 2,
+      "bitMax": 2
+    },
+    {
+      "$id": 186,
+      "ID": "COND_SQ040_03_03",
+      "qid": 20039,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 187,
+      "ID": "COND_SQ040_04_04",
+      "qid": 20039,
+      "bitMin": 4,
+      "bitMax": 4
+    },
+    {
+      "$id": 188,
+      "ID": "COND_SQ040_02_02_SUB",
+      "qid": 20039,
+      "bitMin": 2,
+      "bitMax": 2
+    },
+    {
+      "$id": 189,
+      "ID": "COND_SQ041_01_01",
+      "qid": 20040,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 190,
+      "ID": "COND_SQ041_02_02",
+      "qid": 20040,
+      "bitMin": 2,
+      "bitMax": 2
+    },
+    {
+      "$id": 191,
+      "ID": "COND_SQ041_03_03",
+      "qid": 20040,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 192,
+      "ID": "COND_SQ041_04_04",
+      "qid": 20040,
+      "bitMin": 4,
+      "bitMax": 4
+    },
+    {
+      "$id": 193,
+      "ID": "COND_SQ042_01_01",
+      "qid": 20041,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 194,
+      "ID": "COND_SQ042_02_02",
+      "qid": 20041,
+      "bitMin": 2,
+      "bitMax": 2
+    },
+    {
+      "$id": 195,
+      "ID": "COND_SQ042_03_03",
+      "qid": 20041,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 196,
+      "ID": "COND_SQ042_01_03_kizuna",
+      "qid": 20041,
+      "bitMin": 1,
+      "bitMax": 3
+    },
+    {
+      "$id": 197,
+      "ID": "COND_SQ043_01_01",
+      "qid": 20042,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 198,
+      "ID": "COND_SQ043_02_02",
+      "qid": 20042,
+      "bitMin": 2,
+      "bitMax": 2
+    },
+    {
+      "$id": 199,
+      "ID": "COND_SQ043_03_03",
+      "qid": 20042,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 200,
+      "ID": "COND_SQ043_04_04",
+      "qid": 20042,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 201,
+      "ID": "COND_SQ044_01_01",
+      "qid": 20043,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 202,
+      "ID": "COND_SQ044_02_02",
+      "qid": 20043,
+      "bitMin": 2,
+      "bitMax": 2
+    },
+    {
+      "$id": 203,
+      "ID": "COND_SQ044_03_03",
+      "qid": 20043,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 204,
+      "ID": "COND_SQ044_04_04",
+      "qid": 20043,
+      "bitMin": 4,
+      "bitMax": 4
+    },
+    {
+      "$id": 205,
+      "ID": "COND_SQ045_01_01",
+      "qid": 20044,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 206,
+      "ID": "COND_SQ045_02_02",
+      "qid": 20044,
+      "bitMin": 2,
+      "bitMax": 2
+    },
+    {
+      "$id": 207,
+      "ID": "COND_SQ045_03_03",
+      "qid": 20044,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 208,
+      "ID": "COND_SQ045_04_04",
+      "qid": 20044,
+      "bitMin": 4,
+      "bitMax": 4
+    },
+    {
+      "$id": 209,
+      "ID": "COND_SQ045_03_03_SUB",
+      "qid": 20044,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 210,
+      "ID": "COND_SQ046_01_01",
+      "qid": 20045,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 211,
+      "ID": "COND_SQ046_02_02",
+      "qid": 20045,
+      "bitMin": 2,
+      "bitMax": 2
+    },
+    {
+      "$id": 212,
+      "ID": "COND_SQ046_03_03",
+      "qid": 20045,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 213,
+      "ID": "COND_SQ046_04_04",
+      "qid": 20045,
+      "bitMin": 4,
+      "bitMax": 4
+    },
+    {
+      "$id": 214,
+      "ID": "COND_SQ046_01_03_kizuna",
+      "qid": 20045,
+      "bitMin": 1,
+      "bitMax": 3
+    },
+    {
+      "$id": 215,
+      "ID": "COND_SQ047_01_01",
+      "qid": 20046,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 216,
+      "ID": "COND_SQ047_02_02",
+      "qid": 20046,
+      "bitMin": 2,
+      "bitMax": 2
+    },
+    {
+      "$id": 217,
+      "ID": "COND_SQ047_03_03",
+      "qid": 20046,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 218,
+      "ID": "COND_SQ047_04_04",
+      "qid": 20046,
+      "bitMin": 4,
+      "bitMax": 4
+    },
+    {
+      "$id": 219,
+      "ID": "COND_SQ048_01_01",
+      "qid": 20047,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 220,
+      "ID": "COND_SQ048_02_02",
+      "qid": 20047,
+      "bitMin": 2,
+      "bitMax": 2
+    },
+    {
+      "$id": 221,
+      "ID": "COND_SQ048_03_03",
+      "qid": 20047,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 222,
+      "ID": "COND_SQ048_04_04",
+      "qid": 20047,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 223,
+      "ID": "COND_SQ049_01_01",
+      "qid": 20048,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 224,
+      "ID": "COND_SQ049_02_02",
+      "qid": 20048,
+      "bitMin": 2,
+      "bitMax": 2
+    },
+    {
+      "$id": 225,
+      "ID": "COND_SQ049_03_03",
+      "qid": 20048,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 226,
+      "ID": "COND_SQ049_04_04",
+      "qid": 20048,
+      "bitMin": 4,
+      "bitMax": 4
+    },
+    {
+      "$id": 227,
+      "ID": "COND_SQ049_01_03",
+      "qid": 20048,
+      "bitMin": 1,
+      "bitMax": 2
+    },
+    {
+      "$id": 228,
+      "ID": "COND_SQ049_02_03_kizuna",
+      "qid": 20048,
+      "bitMin": 2,
+      "bitMax": 3
+    },
+    {
+      "$id": 229,
+      "ID": "COND_SQ050_01_01",
+      "qid": 20049,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 230,
+      "ID": "COND_SQ050_02_02",
+      "qid": 20049,
+      "bitMin": 2,
+      "bitMax": 2
+    },
+    {
+      "$id": 231,
+      "ID": "COND_SQ050_03_03",
+      "qid": 20049,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 232,
+      "ID": "COND_SQ050_04_04",
+      "qid": 20049,
+      "bitMin": 4,
+      "bitMax": 4
+    },
+    {
+      "$id": 233,
+      "ID": "COND_SQ051_01_01",
+      "qid": 20050,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 234,
+      "ID": "COND_SQ051_02_02",
+      "qid": 20050,
+      "bitMin": 2,
+      "bitMax": 2
+    },
+    {
+      "$id": 235,
+      "ID": "COND_SQ051_03_03",
+      "qid": 20050,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 236,
+      "ID": "COND_SQ051_04_04",
+      "qid": 20050,
+      "bitMin": 4,
+      "bitMax": 4
+    },
+    {
+      "$id": 237,
+      "ID": "COND_SQ052_01_01",
+      "qid": 20051,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 238,
+      "ID": "COND_SQ052_02_02",
+      "qid": 20051,
+      "bitMin": 2,
+      "bitMax": 2
+    },
+    {
+      "$id": 239,
+      "ID": "COND_SQ052_03_03",
+      "qid": 20051,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 240,
+      "ID": "COND_SQ052_04_04",
+      "qid": 20051,
+      "bitMin": 4,
+      "bitMax": 4
+    },
+    {
+      "$id": 241,
+      "ID": "COND_SQ052_01_03",
+      "qid": 20051,
+      "bitMin": 1,
+      "bitMax": 3
+    },
+    {
+      "$id": 242,
+      "ID": "COND_SQ052_02_03_SUB",
+      "qid": 20051,
+      "bitMin": 2,
+      "bitMax": 3
+    },
+    {
+      "$id": 243,
+      "ID": "COND_SQ053_01_01",
+      "qid": 20052,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 244,
+      "ID": "COND_SQ053_02_02",
+      "qid": 20052,
+      "bitMin": 2,
+      "bitMax": 2
+    },
+    {
+      "$id": 245,
+      "ID": "COND_SQ053_03_03",
+      "qid": 20052,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 246,
+      "ID": "COND_SQ053_04_04",
+      "qid": 20052,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 247,
+      "ID": "COND_SQ053_01_03_Kizuna",
+      "qid": 20052,
+      "bitMin": 1,
+      "bitMax": 3
+    },
+    {
+      "$id": 248,
+      "ID": "COND_SQ053_02_03_Kizuna",
+      "qid": 20052,
+      "bitMin": 2,
+      "bitMax": 3
+    },
+    {
+      "$id": 249,
+      "ID": "COND_SQ053_03_03_kizuna",
+      "qid": 20052,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 250,
+      "ID": "COND_SQ054_01_01",
+      "qid": 20053,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 251,
+      "ID": "COND_SQ054_02_02",
+      "qid": 20053,
+      "bitMin": 2,
+      "bitMax": 2
+    },
+    {
+      "$id": 252,
+      "ID": "COND_SQ054_03_03",
+      "qid": 20053,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 253,
+      "ID": "COND_SQ054_04_04",
+      "qid": 20053,
+      "bitMin": 4,
+      "bitMax": 4
+    },
+    {
+      "$id": 254,
+      "ID": "COND_SQ055_01_01",
+      "qid": 20054,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 255,
+      "ID": "COND_SQ055_02_02",
+      "qid": 20054,
+      "bitMin": 2,
+      "bitMax": 2
+    },
+    {
+      "$id": 256,
+      "ID": "COND_SQ055_03_03",
+      "qid": 20054,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 257,
+      "ID": "COND_SQ055_04_04",
+      "qid": 20054,
+      "bitMin": 4,
+      "bitMax": 4
+    },
+    {
+      "$id": 258,
+      "ID": "COND_SQ055_02_03_kizuna",
+      "qid": 20054,
+      "bitMin": 2,
+      "bitMax": 3
+    },
+    {
+      "$id": 259,
+      "ID": "COND_SQ056_01_01",
+      "qid": 20055,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 260,
+      "ID": "COND_SQ056_02_02",
+      "qid": 20055,
+      "bitMin": 2,
+      "bitMax": 2
+    },
+    {
+      "$id": 261,
+      "ID": "COND_SQ056_03_03",
+      "qid": 20055,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 262,
+      "ID": "COND_SQ056_04_04",
+      "qid": 20055,
+      "bitMin": 4,
+      "bitMax": 4
+    },
+    {
+      "$id": 263,
+      "ID": "COND_SQ057_01_01",
+      "qid": 20056,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 264,
+      "ID": "COND_SQ057_02_02",
+      "qid": 20056,
+      "bitMin": 2,
+      "bitMax": 2
+    },
+    {
+      "$id": 265,
+      "ID": "COND_SQ057_03_03",
+      "qid": 20056,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 266,
+      "ID": "COND_SQ057_04_04",
+      "qid": 20056,
+      "bitMin": 4,
+      "bitMax": 4
+    },
+    {
+      "$id": 267,
+      "ID": "COND_SQ057_02_04_kizuna",
+      "qid": 20056,
+      "bitMin": 2,
+      "bitMax": 4
+    },
+    {
+      "$id": 268,
+      "ID": "COND_SQ058_01_01",
+      "qid": 20057,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 269,
+      "ID": "COND_SQ059_01_01",
+      "qid": 20058,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 270,
+      "ID": "COND_SQ059_02_02",
+      "qid": 20058,
+      "bitMin": 2,
+      "bitMax": 2
+    },
+    {
+      "$id": 271,
+      "ID": "COND_SQ059_03_03",
+      "qid": 20058,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 272,
+      "ID": "COND_SQ059_04_04",
+      "qid": 20058,
+      "bitMin": 4,
+      "bitMax": 4
+    },
+    {
+      "$id": 273,
+      "ID": "COND_SQ060_01_01",
+      "qid": 20059,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 274,
+      "ID": "COND_SQ060_02_02",
+      "qid": 20059,
+      "bitMin": 2,
+      "bitMax": 2
+    },
+    {
+      "$id": 275,
+      "ID": "COND_SQ060_03_03",
+      "qid": 20059,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 276,
+      "ID": "COND_SQ060_04_04",
+      "qid": 20059,
+      "bitMin": 4,
+      "bitMax": 4
+    },
+    {
+      "$id": 277,
+      "ID": "COND_SQ061_01_01",
+      "qid": 20060,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 278,
+      "ID": "COND_SQ061_02_02",
+      "qid": 20060,
+      "bitMin": 2,
+      "bitMax": 2
+    },
+    {
+      "$id": 279,
+      "ID": "COND_SQ061_03_03",
+      "qid": 20060,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 280,
+      "ID": "COND_SQ061_04_04",
+      "qid": 20060,
+      "bitMin": 4,
+      "bitMax": 4
+    },
+    {
+      "$id": 281,
+      "ID": "COND_SQ062_01_01",
+      "qid": 20061,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 282,
+      "ID": "COND_SQ062_02_02",
+      "qid": 20061,
+      "bitMin": 2,
+      "bitMax": 2
+    },
+    {
+      "$id": 283,
+      "ID": "COND_SQ062_03_03",
+      "qid": 20061,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 284,
+      "ID": "COND_SQ062_04_04",
+      "qid": 20061,
+      "bitMin": 4,
+      "bitMax": 4
+    },
+    {
+      "$id": 285,
+      "ID": "COND_SQ062_01_02_kizuna",
+      "qid": 20061,
+      "bitMin": 1,
+      "bitMax": 2
+    },
+    {
+      "$id": 286,
+      "ID": "COND_SQ063_01_01",
+      "qid": 20062,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 287,
+      "ID": "COND_SQ063_02_02",
+      "qid": 20062,
+      "bitMin": 2,
+      "bitMax": 2
+    },
+    {
+      "$id": 288,
+      "ID": "COND_SQ063_03_03",
+      "qid": 20062,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 289,
+      "ID": "COND_SQ063_04_04",
+      "qid": 20062,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 290,
+      "ID": "COND_SQ063_02_03_kizuna",
+      "qid": 20062,
+      "bitMin": 2,
+      "bitMax": 3
+    },
+    {
+      "$id": 291,
+      "ID": "COND_SQ064_01_01",
+      "qid": 20063,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 292,
+      "ID": "COND_SQ064_02_02",
+      "qid": 20063,
+      "bitMin": 2,
+      "bitMax": 2
+    },
+    {
+      "$id": 293,
+      "ID": "COND_SQ064_03_03",
+      "qid": 20063,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 294,
+      "ID": "COND_SQ064_04_04",
+      "qid": 20063,
+      "bitMin": 4,
+      "bitMax": 4
+    },
+    {
+      "$id": 295,
+      "ID": "COND_SQ065_01_01",
+      "qid": 20064,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 296,
+      "ID": "COND_SQ065_02_02",
+      "qid": 20064,
+      "bitMin": 2,
+      "bitMax": 2
+    },
+    {
+      "$id": 297,
+      "ID": "COND_SQ065_03_03",
+      "qid": 20064,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 298,
+      "ID": "COND_SQ065_04_04",
+      "qid": 20064,
+      "bitMin": 4,
+      "bitMax": 4
+    },
+    {
+      "$id": 299,
+      "ID": "COND_SQ066_01_01",
+      "qid": 20065,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 300,
+      "ID": "COND_SQ066_02_02",
+      "qid": 20065,
+      "bitMin": 2,
+      "bitMax": 2
+    },
+    {
+      "$id": 301,
+      "ID": "COND_SQ066_03_03",
+      "qid": 20065,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 302,
+      "ID": "COND_SQ066_04_04",
+      "qid": 20065,
+      "bitMin": 4,
+      "bitMax": 4
+    },
+    {
+      "$id": 303,
+      "ID": "COND_SQ067_01_01",
+      "qid": 20066,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 304,
+      "ID": "COND_SQ067_02_02",
+      "qid": 20066,
+      "bitMin": 2,
+      "bitMax": 2
+    },
+    {
+      "$id": 305,
+      "ID": "COND_SQ067_03_03",
+      "qid": 20066,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 306,
+      "ID": "COND_SQ067_04_04",
+      "qid": 20066,
+      "bitMin": 4,
+      "bitMax": 4
+    },
+    {
+      "$id": 307,
+      "ID": "COND_SQ068_01_01",
+      "qid": 20067,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 308,
+      "ID": "COND_SQ068_02_02",
+      "qid": 20067,
+      "bitMin": 2,
+      "bitMax": 2
+    },
+    {
+      "$id": 309,
+      "ID": "COND_SQ068_03_03",
+      "qid": 20067,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 310,
+      "ID": "COND_SQ068_04_04",
+      "qid": 20067,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 311,
+      "ID": "COND_SQ069_01_01",
+      "qid": 20068,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 312,
+      "ID": "COND_SQ069_02_02",
+      "qid": 20068,
+      "bitMin": 2,
+      "bitMax": 2
+    },
+    {
+      "$id": 313,
+      "ID": "COND_SQ069_03_03",
+      "qid": 20068,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 314,
+      "ID": "COND_SQ069_04_04",
+      "qid": 20068,
+      "bitMin": 4,
+      "bitMax": 4
+    },
+    {
+      "$id": 315,
+      "ID": "COND_SQ070_01_01",
+      "qid": 20069,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 316,
+      "ID": "COND_SQ070_02_02",
+      "qid": 20069,
+      "bitMin": 2,
+      "bitMax": 2
+    },
+    {
+      "$id": 317,
+      "ID": "COND_SQ070_03_03",
+      "qid": 20069,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 318,
+      "ID": "COND_SQ070_04_04",
+      "qid": 20069,
+      "bitMin": 4,
+      "bitMax": 4
+    },
+    {
+      "$id": 319,
+      "ID": "COND_SQ071_01_01",
+      "qid": 20070,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 320,
+      "ID": "COND_SQ071_02_02",
+      "qid": 20070,
+      "bitMin": 2,
+      "bitMax": 2
+    },
+    {
+      "$id": 321,
+      "ID": "COND_SQ071_03_03",
+      "qid": 20070,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 322,
+      "ID": "COND_SQ071_04_04",
+      "qid": 20070,
+      "bitMin": 4,
+      "bitMax": 4
+    },
+    {
+      "$id": 323,
+      "ID": "COND_SQ072_01_01",
+      "qid": 20071,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 324,
+      "ID": "COND_SQ072_02_02",
+      "qid": 20071,
+      "bitMin": 2,
+      "bitMax": 2
+    },
+    {
+      "$id": 325,
+      "ID": "COND_SQ072_03_03",
+      "qid": 20071,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 326,
+      "ID": "COND_SQ072_04_04",
+      "qid": 20071,
+      "bitMin": 4,
+      "bitMax": 4
+    },
+    {
+      "$id": 327,
+      "ID": "COND_SQ072_01_03_Kizuna",
+      "qid": 20071,
+      "bitMin": 1,
+      "bitMax": 3
+    },
+    {
+      "$id": 328,
+      "ID": "COND_SQ072_02_03_Kizuna",
+      "qid": 20071,
+      "bitMin": 2,
+      "bitMax": 3
+    },
+    {
+      "$id": 329,
+      "ID": "COND_SQ072_03_03_Kizuna",
+      "qid": 20071,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 330,
+      "ID": "COND_SQ073_01_01",
+      "qid": 20072,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 331,
+      "ID": "COND_SQ073_02_02",
+      "qid": 20072,
+      "bitMin": 2,
+      "bitMax": 2
+    },
+    {
+      "$id": 332,
+      "ID": "COND_SQ073_03_03",
+      "qid": 20072,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 333,
+      "ID": "COND_SQ073_04_04",
+      "qid": 20072,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 334,
+      "ID": "COND_SQ074_01_01",
+      "qid": 20073,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 335,
+      "ID": "COND_SQ074_02_02",
+      "qid": 20073,
+      "bitMin": 2,
+      "bitMax": 2
+    },
+    {
+      "$id": 336,
+      "ID": "COND_SQ074_03_03",
+      "qid": 20073,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 337,
+      "ID": "COND_SQ074_04_04",
+      "qid": 20073,
+      "bitMin": 4,
+      "bitMax": 4
+    },
+    {
+      "$id": 338,
+      "ID": "COND_SQ075_01_01",
+      "qid": 20074,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 339,
+      "ID": "COND_SQ075_02_02",
+      "qid": 20074,
+      "bitMin": 2,
+      "bitMax": 2
+    },
+    {
+      "$id": 340,
+      "ID": "COND_SQ075_03_03",
+      "qid": 20074,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 341,
+      "ID": "COND_SQ075_04_04",
+      "qid": 20074,
+      "bitMin": 4,
+      "bitMax": 4
+    },
+    {
+      "$id": 342,
+      "ID": "COND_SQ076_01_01",
+      "qid": 20075,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 343,
+      "ID": "COND_SQ076_02_02",
+      "qid": 20075,
+      "bitMin": 2,
+      "bitMax": 2
+    },
+    {
+      "$id": 344,
+      "ID": "COND_SQ076_03_03",
+      "qid": 20075,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 345,
+      "ID": "COND_SQ076_04_04",
+      "qid": 20075,
+      "bitMin": 4,
+      "bitMax": 4
+    },
+    {
+      "$id": 346,
+      "ID": "COND_SQ076_02_04_kizuna",
+      "qid": 20075,
+      "bitMin": 2,
+      "bitMax": 4
+    },
+    {
+      "$id": 347,
+      "ID": "COND_SQ077_01_01",
+      "qid": 20076,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 348,
+      "ID": "COND_SQ077_02_02",
+      "qid": 20076,
+      "bitMin": 2,
+      "bitMax": 2
+    },
+    {
+      "$id": 349,
+      "ID": "COND_SQ077_03_03",
+      "qid": 20076,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 350,
+      "ID": "COND_SQ077_04_04",
+      "qid": 20076,
+      "bitMin": 4,
+      "bitMax": 4
+    },
+    {
+      "$id": 351,
+      "ID": "COND_SQ078_01_01",
+      "qid": 20077,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 352,
+      "ID": "COND_SQ078_02_02",
+      "qid": 20077,
+      "bitMin": 2,
+      "bitMax": 2
+    },
+    {
+      "$id": 353,
+      "ID": "COND_SQ078_03_03",
+      "qid": 20077,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 354,
+      "ID": "COND_SQ078_04_04",
+      "qid": 20077,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 355,
+      "ID": "COND_SQ078_01_02_kizuna",
+      "qid": 20077,
+      "bitMin": 1,
+      "bitMax": 2
+    },
+    {
+      "$id": 356,
+      "ID": "COND_SQ079_01_01",
+      "qid": 20078,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 357,
+      "ID": "COND_SQ079_02_02",
+      "qid": 20078,
+      "bitMin": 2,
+      "bitMax": 2
+    },
+    {
+      "$id": 358,
+      "ID": "COND_SQ079_03_03",
+      "qid": 20078,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 359,
+      "ID": "COND_SQ079_04_04",
+      "qid": 20078,
+      "bitMin": 4,
+      "bitMax": 4
+    },
+    {
+      "$id": 360,
+      "ID": "COND_SQ080_01_01",
+      "qid": 20079,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 361,
+      "ID": "COND_SQ080_02_02",
+      "qid": 20079,
+      "bitMin": 2,
+      "bitMax": 2
+    },
+    {
+      "$id": 362,
+      "ID": "COND_SQ080_03_03",
+      "qid": 20079,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 363,
+      "ID": "COND_SQ080_04_04",
+      "qid": 20079,
+      "bitMin": 4,
+      "bitMax": 4
+    },
+    {
+      "$id": 364,
+      "ID": "COND_SQ081_01_01",
+      "qid": 20080,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 365,
+      "ID": "COND_SQ081_02_02",
+      "qid": 20080,
+      "bitMin": 2,
+      "bitMax": 2
+    },
+    {
+      "$id": 366,
+      "ID": "COND_SQ081_03_03",
+      "qid": 20080,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 367,
+      "ID": "COND_SQ081_04_04",
+      "qid": 20080,
+      "bitMin": 4,
+      "bitMax": 4
+    },
+    {
+      "$id": 368,
+      "ID": "COND_SQ082_01_01",
+      "qid": 20081,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 369,
+      "ID": "COND_SQ082_02_02",
+      "qid": 20081,
+      "bitMin": 2,
+      "bitMax": 2
+    },
+    {
+      "$id": 370,
+      "ID": "COND_SQ082_03_03",
+      "qid": 20081,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 371,
+      "ID": "COND_SQ082_04_04",
+      "qid": 20081,
+      "bitMin": 4,
+      "bitMax": 4
+    },
+    {
+      "$id": 372,
+      "ID": "COND_SQ083_01_01",
+      "qid": 20082,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 373,
+      "ID": "COND_SQ083_02_02",
+      "qid": 20082,
+      "bitMin": 2,
+      "bitMax": 2
+    },
+    {
+      "$id": 374,
+      "ID": "COND_SQ083_03_03",
+      "qid": 20082,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 375,
+      "ID": "COND_SQ083_04_04",
+      "qid": 20082,
+      "bitMin": 4,
+      "bitMax": 4
+    },
+    {
+      "$id": 376,
+      "ID": "COND_SQ083_03_04_kizuna",
+      "qid": 20082,
+      "bitMin": 3,
+      "bitMax": 4
+    },
+    {
+      "$id": 377,
+      "ID": "COND_SQ084_01_01",
+      "qid": 20083,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 378,
+      "ID": "COND_SQ084_02_02",
+      "qid": 20083,
+      "bitMin": 2,
+      "bitMax": 2
+    },
+    {
+      "$id": 379,
+      "ID": "COND_SQ084_03_03",
+      "qid": 20083,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 380,
+      "ID": "COND_SQ084_04_04",
+      "qid": 20083,
+      "bitMin": 4,
+      "bitMax": 4
+    },
+    {
+      "$id": 381,
+      "ID": "COND_SQ085_01_01",
+      "qid": 20084,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 382,
+      "ID": "COND_SQ085_02_02",
+      "qid": 20084,
+      "bitMin": 2,
+      "bitMax": 2
+    },
+    {
+      "$id": 383,
+      "ID": "COND_SQ085_03_03",
+      "qid": 20084,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 384,
+      "ID": "COND_SQ085_04_04",
+      "qid": 20084,
+      "bitMin": 4,
+      "bitMax": 4
+    },
+    {
+      "$id": 385,
+      "ID": "COND_SQ086_01_01",
+      "qid": 20085,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 386,
+      "ID": "COND_SQ086_02_02",
+      "qid": 20085,
+      "bitMin": 2,
+      "bitMax": 2
+    },
+    {
+      "$id": 387,
+      "ID": "COND_SQ086_03_03",
+      "qid": 20085,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 388,
+      "ID": "COND_SQ086_04_04",
+      "qid": 20085,
+      "bitMin": 4,
+      "bitMax": 4
+    },
+    {
+      "$id": 389,
+      "ID": "COND_SQ087_01_01",
+      "qid": 20086,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 390,
+      "ID": "COND_SQ087_02_02",
+      "qid": 20086,
+      "bitMin": 2,
+      "bitMax": 2
+    },
+    {
+      "$id": 391,
+      "ID": "COND_SQ087_03_03",
+      "qid": 20086,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 392,
+      "ID": "COND_SQ087_04_04",
+      "qid": 20086,
+      "bitMin": 4,
+      "bitMax": 4
+    },
+    {
+      "$id": 393,
+      "ID": "COND_SQ087_02_03_SUB",
+      "qid": 20086,
+      "bitMin": 2,
+      "bitMax": 3
+    },
+    {
+      "$id": 394,
+      "ID": "COND_SQ087_01_03_Kizuna",
+      "qid": 20086,
+      "bitMin": 1,
+      "bitMax": 3
+    },
+    {
+      "$id": 395,
+      "ID": "COND_SQ087_02_03_Kizuna",
+      "qid": 20086,
+      "bitMin": 2,
+      "bitMax": 3
+    },
+    {
+      "$id": 396,
+      "ID": "COND_SQ087_03_03_Kizuna",
+      "qid": 20086,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 397,
+      "ID": "COND_SQ088_01_01",
+      "qid": 20087,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 398,
+      "ID": "COND_SQ088_02_02",
+      "qid": 20087,
+      "bitMin": 2,
+      "bitMax": 2
+    },
+    {
+      "$id": 399,
+      "ID": "COND_SQ088_03_03",
+      "qid": 20087,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 400,
+      "ID": "COND_SQ088_04_04",
+      "qid": 20087,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 401,
+      "ID": "COND_SQ089_01_01",
+      "qid": 20088,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 402,
+      "ID": "COND_SQ089_02_02",
+      "qid": 20088,
+      "bitMin": 2,
+      "bitMax": 2
+    },
+    {
+      "$id": 403,
+      "ID": "COND_SQ089_03_03",
+      "qid": 20088,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 404,
+      "ID": "COND_SQ089_04_04",
+      "qid": 20088,
+      "bitMin": 4,
+      "bitMax": 4
+    },
+    {
+      "$id": 405,
+      "ID": "COND_SQ090_01_01",
+      "qid": 20089,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 406,
+      "ID": "COND_SQ090_02_02",
+      "qid": 20089,
+      "bitMin": 2,
+      "bitMax": 2
+    },
+    {
+      "$id": 407,
+      "ID": "COND_SQ090_03_03",
+      "qid": 20089,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 408,
+      "ID": "COND_SQ090_04_04",
+      "qid": 20089,
+      "bitMin": 4,
+      "bitMax": 4
+    },
+    {
+      "$id": 409,
+      "ID": "COND_SQ091_01_01",
+      "qid": 20090,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 410,
+      "ID": "COND_SQ091_02_02",
+      "qid": 20090,
+      "bitMin": 2,
+      "bitMax": 2
+    },
+    {
+      "$id": 411,
+      "ID": "COND_SQ091_03_03",
+      "qid": 20090,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 412,
+      "ID": "COND_SQ091_04_04",
+      "qid": 20090,
+      "bitMin": 4,
+      "bitMax": 4
+    },
+    {
+      "$id": 413,
+      "ID": "COND_SQ092_01_01",
+      "qid": 20091,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 414,
+      "ID": "COND_SQ092_02_02",
+      "qid": 20091,
+      "bitMin": 2,
+      "bitMax": 2
+    },
+    {
+      "$id": 415,
+      "ID": "COND_SQ092_03_03",
+      "qid": 20091,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 416,
+      "ID": "COND_SQ092_04_04",
+      "qid": 20091,
+      "bitMin": 4,
+      "bitMax": 4
+    },
+    {
+      "$id": 417,
+      "ID": "COND_SQ093_01_01",
+      "qid": 20092,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 418,
+      "ID": "COND_SQ093_02_02",
+      "qid": 20092,
+      "bitMin": 2,
+      "bitMax": 2
+    },
+    {
+      "$id": 419,
+      "ID": "COND_SQ093_03_03",
+      "qid": 20092,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 420,
+      "ID": "COND_SQ093_04_04",
+      "qid": 20092,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 421,
+      "ID": "COND_SQ093_02_03_SUB",
+      "qid": 20092,
+      "bitMin": 2,
+      "bitMax": 3
+    },
+    {
+      "$id": 422,
+      "ID": "COND_SQ094_01_01",
+      "qid": 20093,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 423,
+      "ID": "COND_SQ094_02_02",
+      "qid": 20093,
+      "bitMin": 2,
+      "bitMax": 2
+    },
+    {
+      "$id": 424,
+      "ID": "COND_SQ094_03_03",
+      "qid": 20093,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 425,
+      "ID": "COND_SQ094_04_04",
+      "qid": 20093,
+      "bitMin": 4,
+      "bitMax": 4
+    },
+    {
+      "$id": 426,
+      "ID": "COND_SQ095_01_01",
+      "qid": 20094,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 427,
+      "ID": "COND_SQ095_02_02",
+      "qid": 20094,
+      "bitMin": 2,
+      "bitMax": 2
+    },
+    {
+      "$id": 428,
+      "ID": "COND_SQ095_03_03",
+      "qid": 20094,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 429,
+      "ID": "COND_SQ095_04_04",
+      "qid": 20094,
+      "bitMin": 4,
+      "bitMax": 4
+    },
+    {
+      "$id": 430,
+      "ID": "COND_SQ096_01_01",
+      "qid": 20095,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 431,
+      "ID": "COND_SQ096_02_02",
+      "qid": 20095,
+      "bitMin": 2,
+      "bitMax": 2
+    },
+    {
+      "$id": 432,
+      "ID": "COND_SQ096_03_03",
+      "qid": 20095,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 433,
+      "ID": "COND_SQ096_04_04",
+      "qid": 20095,
+      "bitMin": 4,
+      "bitMax": 4
+    },
+    {
+      "$id": 434,
+      "ID": "COND_SQ096_01_03_Kizuna",
+      "qid": 20095,
+      "bitMin": 1,
+      "bitMax": 3
+    },
+    {
+      "$id": 435,
+      "ID": "COND_SQ096_02_03_Kizuna",
+      "qid": 20095,
+      "bitMin": 2,
+      "bitMax": 3
+    },
+    {
+      "$id": 436,
+      "ID": "COND_SQ096_03_03_Kizuna",
+      "qid": 20095,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 437,
+      "ID": "COND_SQ097_01_01",
+      "qid": 20096,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 438,
+      "ID": "COND_SQ097_02_02",
+      "qid": 20096,
+      "bitMin": 2,
+      "bitMax": 2
+    },
+    {
+      "$id": 439,
+      "ID": "COND_SQ097_03_03",
+      "qid": 20096,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 440,
+      "ID": "COND_SQ097_04_04",
+      "qid": 20096,
+      "bitMin": 4,
+      "bitMax": 4
+    },
+    {
+      "$id": 441,
+      "ID": "COND_SQ098_01_01",
+      "qid": 20097,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 442,
+      "ID": "COND_SQ098_02_02",
+      "qid": 20097,
+      "bitMin": 2,
+      "bitMax": 2
+    },
+    {
+      "$id": 443,
+      "ID": "COND_SQ098_03_03",
+      "qid": 20097,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 444,
+      "ID": "COND_SQ098_04_04",
+      "qid": 20097,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 445,
+      "ID": "COND_SQ098_01_02",
+      "qid": 20097,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 446,
+      "ID": "COND_SQ098_01_02_kizuna",
+      "qid": 20097,
+      "bitMin": 1,
+      "bitMax": 2
+    },
+    {
+      "$id": 447,
+      "ID": "COND_SQ099_01_01",
+      "qid": 20098,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 448,
+      "ID": "COND_SQ099_02_02",
+      "qid": 20098,
+      "bitMin": 2,
+      "bitMax": 2
+    },
+    {
+      "$id": 449,
+      "ID": "COND_SQ099_03_03",
+      "qid": 20098,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 450,
+      "ID": "COND_SQ099_04_04",
+      "qid": 20098,
+      "bitMin": 4,
+      "bitMax": 4
+    },
+    {
+      "$id": 451,
+      "ID": "COND_SQ100_01_01",
+      "qid": 20099,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 452,
+      "ID": "COND_SQ100_02_02",
+      "qid": 20099,
+      "bitMin": 2,
+      "bitMax": 2
+    },
+    {
+      "$id": 453,
+      "ID": "COND_SQ100_03_03",
+      "qid": 20099,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 454,
+      "ID": "COND_SQ100_04_04",
+      "qid": 20099,
+      "bitMin": 4,
+      "bitMax": 4
+    },
+    {
+      "$id": 455,
+      "ID": "COND_SQ101_01_01",
+      "qid": 20100,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 456,
+      "ID": "COND_SQ101_02_02",
+      "qid": 20100,
+      "bitMin": 2,
+      "bitMax": 2
+    },
+    {
+      "$id": 457,
+      "ID": "COND_SQ101_03_03",
+      "qid": 20100,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 458,
+      "ID": "COND_SQ101_04_04",
+      "qid": 20100,
+      "bitMin": 4,
+      "bitMax": 4
+    },
+    {
+      "$id": 459,
+      "ID": "COND_SQ102_01_01",
+      "qid": 20101,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 460,
+      "ID": "COND_SQ102_02_02",
+      "qid": 20101,
+      "bitMin": 2,
+      "bitMax": 2
+    },
+    {
+      "$id": 461,
+      "ID": "COND_SQ102_03_03",
+      "qid": 20101,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 462,
+      "ID": "COND_SQ102_04_04",
+      "qid": 20101,
+      "bitMin": 4,
+      "bitMax": 4
+    },
+    {
+      "$id": 463,
+      "ID": "COND_SQ102_01_15",
+      "qid": 20101,
+      "bitMin": 1,
+      "bitMax": 15
+    },
+    {
+      "$id": 464,
+      "ID": "COND_SQ103_01_01",
+      "qid": 20102,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 465,
+      "ID": "COND_SQ103_02_02",
+      "qid": 20102,
+      "bitMin": 2,
+      "bitMax": 2
+    },
+    {
+      "$id": 466,
+      "ID": "COND_SQ103_03_03",
+      "qid": 20102,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 467,
+      "ID": "COND_SQ103_04_04",
+      "qid": 20102,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 468,
+      "ID": "COND_SQ104_01_01",
+      "qid": 20103,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 469,
+      "ID": "COND_SQ104_02_02",
+      "qid": 20103,
+      "bitMin": 2,
+      "bitMax": 2
+    },
+    {
+      "$id": 470,
+      "ID": "COND_SQ104_03_03",
+      "qid": 20103,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 471,
+      "ID": "COND_SQ104_04_04",
+      "qid": 20103,
+      "bitMin": 4,
+      "bitMax": 4
+    },
+    {
+      "$id": 472,
+      "ID": "COND_SQ105_01_01",
+      "qid": 20104,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 473,
+      "ID": "COND_SQ105_02_02",
+      "qid": 20104,
+      "bitMin": 2,
+      "bitMax": 2
+    },
+    {
+      "$id": 474,
+      "ID": "COND_SQ105_03_03",
+      "qid": 20104,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 475,
+      "ID": "COND_SQ105_04_04",
+      "qid": 20104,
+      "bitMin": 4,
+      "bitMax": 4
+    },
+    {
+      "$id": 476,
+      "ID": "COND_SQ106_01_01",
+      "qid": 20105,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 477,
+      "ID": "COND_SQ106_02_02",
+      "qid": 20105,
+      "bitMin": 2,
+      "bitMax": 2
+    },
+    {
+      "$id": 478,
+      "ID": "COND_SQ106_03_03",
+      "qid": 20105,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 479,
+      "ID": "COND_SQ106_04_04",
+      "qid": 20105,
+      "bitMin": 4,
+      "bitMax": 4
+    },
+    {
+      "$id": 480,
+      "ID": "COND_SQ106_01_03_Kizuna",
+      "qid": 20105,
+      "bitMin": 1,
+      "bitMax": 3
+    },
+    {
+      "$id": 481,
+      "ID": "COND_SQ106_02_03_Kizuna",
+      "qid": 20105,
+      "bitMin": 2,
+      "bitMax": 3
+    },
+    {
+      "$id": 482,
+      "ID": "COND_SQ106_03_03_Kizuna",
+      "qid": 20105,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 483,
+      "ID": "COND_SQ107_01_01",
+      "qid": 20106,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 484,
+      "ID": "COND_SQ107_02_02",
+      "qid": 20106,
+      "bitMin": 2,
+      "bitMax": 2
+    },
+    {
+      "$id": 485,
+      "ID": "COND_SQ107_03_03",
+      "qid": 20106,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 486,
+      "ID": "COND_SQ107_04_04",
+      "qid": 20106,
+      "bitMin": 4,
+      "bitMax": 4
+    },
+    {
+      "$id": 487,
+      "ID": "COND_SQ108_01_01",
+      "qid": 20107,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 488,
+      "ID": "COND_SQ108_02_02",
+      "qid": 20107,
+      "bitMin": 2,
+      "bitMax": 2
+    },
+    {
+      "$id": 489,
+      "ID": "COND_SQ108_03_03",
+      "qid": 20107,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 490,
+      "ID": "COND_SQ108_04_04",
+      "qid": 20107,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 491,
+      "ID": "COND_SQ109_01_01",
+      "qid": 20108,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 492,
+      "ID": "COND_SQ109_02_02",
+      "qid": 20108,
+      "bitMin": 2,
+      "bitMax": 2
+    },
+    {
+      "$id": 493,
+      "ID": "COND_SQ109_03_03",
+      "qid": 20108,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 494,
+      "ID": "COND_SQ109_04_04",
+      "qid": 20108,
+      "bitMin": 4,
+      "bitMax": 4
+    },
+    {
+      "$id": 495,
+      "ID": "COND_SQ110_01_01",
+      "qid": 20109,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 496,
+      "ID": "COND_SQ110_02_02",
+      "qid": 20109,
+      "bitMin": 2,
+      "bitMax": 2
+    },
+    {
+      "$id": 497,
+      "ID": "COND_SQ110_03_03",
+      "qid": 20109,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 498,
+      "ID": "COND_SQ110_04_04",
+      "qid": 20109,
+      "bitMin": 4,
+      "bitMax": 4
+    },
+    {
+      "$id": 499,
+      "ID": "COND_SQ111_01_01",
+      "qid": 20110,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 500,
+      "ID": "COND_SQ111_02_02",
+      "qid": 20110,
+      "bitMin": 2,
+      "bitMax": 2
+    },
+    {
+      "$id": 501,
+      "ID": "COND_SQ111_03_03",
+      "qid": 20110,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 502,
+      "ID": "COND_SQ111_04_04",
+      "qid": 20110,
+      "bitMin": 4,
+      "bitMax": 4
+    },
+    {
+      "$id": 503,
+      "ID": "COND_SQ112_01_01",
+      "qid": 20111,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 504,
+      "ID": "COND_SQ112_02_02",
+      "qid": 20111,
+      "bitMin": 2,
+      "bitMax": 2
+    },
+    {
+      "$id": 505,
+      "ID": "COND_SQ112_03_03",
+      "qid": 20111,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 506,
+      "ID": "COND_SQ112_04_04",
+      "qid": 20111,
+      "bitMin": 4,
+      "bitMax": 4
+    },
+    {
+      "$id": 507,
+      "ID": "COND_SQ112_01_02",
+      "qid": 20111,
+      "bitMin": 1,
+      "bitMax": 2
+    },
+    {
+      "$id": 508,
+      "ID": "COND_SQ112_02_02_kizuna",
+      "qid": 20111,
+      "bitMin": 2,
+      "bitMax": 2
+    },
+    {
+      "$id": 509,
+      "ID": "COND_SQ113_01_01",
+      "qid": 20112,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 510,
+      "ID": "COND_SQ113_02_02",
+      "qid": 20112,
+      "bitMin": 2,
+      "bitMax": 2
+    },
+    {
+      "$id": 511,
+      "ID": "COND_SQ113_03_03",
+      "qid": 20112,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 512,
+      "ID": "COND_SQ113_04_04",
+      "qid": 20112,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 513,
+      "ID": "COND_SQ114_01_01",
+      "qid": 20113,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 514,
+      "ID": "COND_SQ114_02_02",
+      "qid": 20113,
+      "bitMin": 2,
+      "bitMax": 2
+    },
+    {
+      "$id": 515,
+      "ID": "COND_SQ114_03_03",
+      "qid": 20113,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 516,
+      "ID": "COND_SQ114_04_04",
+      "qid": 20113,
+      "bitMin": 4,
+      "bitMax": 4
+    },
+    {
+      "$id": 517,
+      "ID": "COND_SQ114_02_03_SUB",
+      "qid": 20113,
+      "bitMin": 2,
+      "bitMax": 3
+    },
+    {
+      "$id": 518,
+      "ID": "COND_SQ114_01_03_Kizuna",
+      "qid": 20113,
+      "bitMin": 1,
+      "bitMax": 3
+    },
+    {
+      "$id": 519,
+      "ID": "COND_SQ114_02_03_Kizuna",
+      "qid": 20113,
+      "bitMin": 2,
+      "bitMax": 3
+    },
+    {
+      "$id": 520,
+      "ID": "COND_SQ114_03_03_Kizuna",
+      "qid": 20113,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 521,
+      "ID": "COND_SQ115_01_01",
+      "qid": 20114,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 522,
+      "ID": "COND_SQ115_02_02",
+      "qid": 20114,
+      "bitMin": 2,
+      "bitMax": 2
+    },
+    {
+      "$id": 523,
+      "ID": "COND_SQ115_03_03",
+      "qid": 20114,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 524,
+      "ID": "COND_SQ115_04_04",
+      "qid": 20114,
+      "bitMin": 4,
+      "bitMax": 4
+    },
+    {
+      "$id": 525,
+      "ID": "COND_SQ115_01_03_kizuna",
+      "qid": 20114,
+      "bitMin": 1,
+      "bitMax": 3
+    },
+    {
+      "$id": 526,
+      "ID": "COND_SQ116_01_01",
+      "qid": 20115,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 527,
+      "ID": "COND_SQ116_02_02",
+      "qid": 20115,
+      "bitMin": 2,
+      "bitMax": 2
+    },
+    {
+      "$id": 528,
+      "ID": "COND_SQ116_03_03",
+      "qid": 20115,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 529,
+      "ID": "COND_SQ116_04_04",
+      "qid": 20115,
+      "bitMin": 4,
+      "bitMax": 4
+    },
+    {
+      "$id": 530,
+      "ID": "COND_SQ116_01_04_Kizuna",
+      "qid": 20115,
+      "bitMin": 1,
+      "bitMax": 4
+    },
+    {
+      "$id": 531,
+      "ID": "COND_SQ116_02_04_Kizuna",
+      "qid": 20115,
+      "bitMin": 2,
+      "bitMax": 4
+    },
+    {
+      "$id": 532,
+      "ID": "COND_SQ116_03_04_Kizuna",
+      "qid": 20115,
+      "bitMin": 3,
+      "bitMax": 4
+    },
+    {
+      "$id": 533,
+      "ID": "COND_SQ116_04_04_Kizuna",
+      "qid": 20115,
+      "bitMin": 4,
+      "bitMax": 4
+    },
+    {
+      "$id": 534,
+      "ID": "COND_SQ117_01_01",
+      "qid": 20116,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 535,
+      "ID": "COND_SQ117_02_02",
+      "qid": 20116,
+      "bitMin": 2,
+      "bitMax": 2
+    },
+    {
+      "$id": 536,
+      "ID": "COND_SQ117_03_03",
+      "qid": 20116,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 537,
+      "ID": "COND_SQ117_04_04",
+      "qid": 20116,
+      "bitMin": 4,
+      "bitMax": 4
+    },
+    {
+      "$id": 538,
+      "ID": "COND_SQ118_01_01",
+      "qid": 20117,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 539,
+      "ID": "COND_SQ118_02_02",
+      "qid": 20117,
+      "bitMin": 2,
+      "bitMax": 2
+    },
+    {
+      "$id": 540,
+      "ID": "COND_SQ118_03_03",
+      "qid": 20117,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 541,
+      "ID": "COND_SQ118_04_04",
+      "qid": 20117,
+      "bitMin": 4,
+      "bitMax": 4
+    },
+    {
+      "$id": 542,
+      "ID": "COND_SQ118_03_04_kizuna",
+      "qid": 20117,
+      "bitMin": 3,
+      "bitMax": 4
+    },
+    {
+      "$id": 543,
+      "ID": "COND_SQ119_01_01",
+      "qid": 20118,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 544,
+      "ID": "COND_SQ119_02_02",
+      "qid": 20118,
+      "bitMin": 2,
+      "bitMax": 2
+    },
+    {
+      "$id": 545,
+      "ID": "COND_SQ119_03_03",
+      "qid": 20118,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 546,
+      "ID": "COND_SQ119_04_04",
+      "qid": 20118,
+      "bitMin": 4,
+      "bitMax": 4
+    },
+    {
+      "$id": 547,
+      "ID": "COND_SQ120_01_01",
+      "qid": 20119,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 548,
+      "ID": "COND_SQ120_02_02",
+      "qid": 20119,
+      "bitMin": 2,
+      "bitMax": 2
+    },
+    {
+      "$id": 549,
+      "ID": "COND_SQ120_03_03",
+      "qid": 20119,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 550,
+      "ID": "COND_SQ120_04_04",
+      "qid": 20119,
+      "bitMin": 4,
+      "bitMax": 4
+    },
+    {
+      "$id": 551,
+      "ID": "COND_SQ120_02_03_SUB",
+      "qid": 20119,
+      "bitMin": 2,
+      "bitMax": 3
+    },
+    {
+      "$id": 552,
+      "ID": "COND_SQ121_01_01",
+      "qid": 20120,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 553,
+      "ID": "COND_SQ121_02_02",
+      "qid": 20120,
+      "bitMin": 2,
+      "bitMax": 2
+    },
+    {
+      "$id": 554,
+      "ID": "COND_SQ121_03_03",
+      "qid": 20120,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 555,
+      "ID": "COND_SQ121_04_04",
+      "qid": 20120,
+      "bitMin": 4,
+      "bitMax": 4
+    },
+    {
+      "$id": 556,
+      "ID": "COND_SQ122_01_01",
+      "qid": 20121,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 557,
+      "ID": "COND_SQ122_02_02",
+      "qid": 20121,
+      "bitMin": 2,
+      "bitMax": 2
+    },
+    {
+      "$id": 558,
+      "ID": "COND_SQ122_03_03",
+      "qid": 20121,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 559,
+      "ID": "COND_SQ122_04_04",
+      "qid": 20121,
+      "bitMin": 4,
+      "bitMax": 4
+    },
+    {
+      "$id": 560,
+      "ID": "COND_SQ122_02_04_SUB",
+      "qid": 20121,
+      "bitMin": 2,
+      "bitMax": 3
+    },
+    {
+      "$id": 561,
+      "ID": "COND_SQ123_01_01",
+      "qid": 20122,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 562,
+      "ID": "COND_SQ123_02_02",
+      "qid": 20122,
+      "bitMin": 2,
+      "bitMax": 2
+    },
+    {
+      "$id": 563,
+      "ID": "COND_SQ123_03_03",
+      "qid": 20122,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 564,
+      "ID": "COND_SQ123_04_04",
+      "qid": 20122,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 565,
+      "ID": "COND_SQ124_01_01",
+      "qid": 20123,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 566,
+      "ID": "COND_SQ124_02_02",
+      "qid": 20123,
+      "bitMin": 2,
+      "bitMax": 2
+    },
+    {
+      "$id": 567,
+      "ID": "COND_SQ124_03_03",
+      "qid": 20123,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 568,
+      "ID": "COND_SQ124_04_04",
+      "qid": 20123,
+      "bitMin": 4,
+      "bitMax": 4
+    },
+    {
+      "$id": 569,
+      "ID": "COND_SQ125_01_01",
+      "qid": 20124,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 570,
+      "ID": "COND_SQ125_02_02",
+      "qid": 20124,
+      "bitMin": 2,
+      "bitMax": 2
+    },
+    {
+      "$id": 571,
+      "ID": "COND_SQ125_03_03",
+      "qid": 20124,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 572,
+      "ID": "COND_SQ125_04_04",
+      "qid": 20124,
+      "bitMin": 4,
+      "bitMax": 4
+    },
+    {
+      "$id": 573,
+      "ID": "COND_SQ126_01_01",
+      "qid": 20125,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 574,
+      "ID": "COND_SQ126_02_02",
+      "qid": 20125,
+      "bitMin": 2,
+      "bitMax": 2
+    },
+    {
+      "$id": 575,
+      "ID": "COND_SQ126_03_03",
+      "qid": 20125,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 576,
+      "ID": "COND_SQ126_04_04",
+      "qid": 20125,
+      "bitMin": 4,
+      "bitMax": 4
+    },
+    {
+      "$id": 577,
+      "ID": "COND_SQ127_01_01",
+      "qid": 20126,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 578,
+      "ID": "COND_SQ127_02_02",
+      "qid": 20126,
+      "bitMin": 2,
+      "bitMax": 2
+    },
+    {
+      "$id": 579,
+      "ID": "COND_SQ127_03_03",
+      "qid": 20126,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 580,
+      "ID": "COND_SQ127_04_04",
+      "qid": 20126,
+      "bitMin": 4,
+      "bitMax": 4
+    },
+    {
+      "$id": 581,
+      "ID": "COND_SQ128_01_01",
+      "qid": 20127,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 582,
+      "ID": "COND_SQ128_02_02",
+      "qid": 20127,
+      "bitMin": 2,
+      "bitMax": 2
+    },
+    {
+      "$id": 583,
+      "ID": "COND_SQ128_03_03",
+      "qid": 20127,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 584,
+      "ID": "COND_SQ128_04_04",
+      "qid": 20127,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 585,
+      "ID": "COND_SQ128_02_03_SUB",
+      "qid": 20127,
+      "bitMin": 2,
+      "bitMax": 3
+    },
+    {
+      "$id": 586,
+      "ID": "COND_SQ129_01_01",
+      "qid": 20128,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 587,
+      "ID": "COND_SQ129_02_02",
+      "qid": 20128,
+      "bitMin": 2,
+      "bitMax": 2
+    },
+    {
+      "$id": 588,
+      "ID": "COND_SQ129_03_03",
+      "qid": 20128,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 589,
+      "ID": "COND_SQ129_04_04",
+      "qid": 20128,
+      "bitMin": 4,
+      "bitMax": 4
+    },
+    {
+      "$id": 590,
+      "ID": "COND_SQ129_02_03_SUB",
+      "qid": 20128,
+      "bitMin": 2,
+      "bitMax": 3
+    },
+    {
+      "$id": 591,
+      "ID": "COND_SQ130_01_01",
+      "qid": 20129,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 592,
+      "ID": "COND_SQ130_02_02",
+      "qid": 20129,
+      "bitMin": 2,
+      "bitMax": 2
+    },
+    {
+      "$id": 593,
+      "ID": "COND_SQ130_03_03",
+      "qid": 20129,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 594,
+      "ID": "COND_SQ130_04_04",
+      "qid": 20129,
+      "bitMin": 4,
+      "bitMax": 4
+    },
+    {
+      "$id": 595,
+      "ID": "COND_SQ130_01_04_kizuna",
+      "qid": 20129,
+      "bitMin": 1,
+      "bitMax": 4
+    },
+    {
+      "$id": 596,
+      "ID": "COND_SQ131_01_01",
+      "qid": 20130,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 597,
+      "ID": "COND_SQ131_02_02",
+      "qid": 20130,
+      "bitMin": 2,
+      "bitMax": 2
+    },
+    {
+      "$id": 598,
+      "ID": "COND_SQ131_03_03",
+      "qid": 20130,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 599,
+      "ID": "COND_SQ131_04_04",
+      "qid": 20130,
+      "bitMin": 4,
+      "bitMax": 4
+    },
+    {
+      "$id": 600,
+      "ID": "COND_SQ131_02_03_SUB",
+      "qid": 20130,
+      "bitMin": 2,
+      "bitMax": 3
+    },
+    {
+      "$id": 601,
+      "ID": "COND_SQ132_01_01",
+      "qid": 20131,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 602,
+      "ID": "COND_SQ132_02_02",
+      "qid": 20131,
+      "bitMin": 2,
+      "bitMax": 2
+    },
+    {
+      "$id": 603,
+      "ID": "COND_SQ132_03_03",
+      "qid": 20131,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 604,
+      "ID": "COND_SQ132_04_04",
+      "qid": 20131,
+      "bitMin": 4,
+      "bitMax": 4
+    },
+    {
+      "$id": 605,
+      "ID": "COND_SQ133_01_01",
+      "qid": 20132,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 606,
+      "ID": "COND_SQ133_02_02",
+      "qid": 20132,
+      "bitMin": 2,
+      "bitMax": 2
+    },
+    {
+      "$id": 607,
+      "ID": "COND_SQ133_03_03",
+      "qid": 20132,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 608,
+      "ID": "COND_SQ133_04_04",
+      "qid": 20132,
+      "bitMin": 4,
+      "bitMax": 4
+    },
+    {
+      "$id": 609,
+      "ID": "COND_SQ133_05_05",
+      "qid": 20132,
+      "bitMin": 5,
+      "bitMax": 5
+    },
+    {
+      "$id": 610,
+      "ID": "COND_SQ133_06_06",
+      "qid": 20132,
+      "bitMin": 6,
+      "bitMax": 6
+    },
+    {
+      "$id": 611,
+      "ID": "COND_SQ133_07_07",
+      "qid": 20132,
+      "bitMin": 7,
+      "bitMax": 7
+    },
+    {
+      "$id": 612,
+      "ID": "COND_SQ133_02_07_SUB",
+      "qid": 20132,
+      "bitMin": 2,
+      "bitMax": 7
+    },
+    {
+      "$id": 613,
+      "ID": "COND_SQ133_02_07_kizuna",
+      "qid": 20132,
+      "bitMin": 2,
+      "bitMax": 7
+    },
+    {
+      "$id": 614,
+      "ID": "COND_SQ133_04_07_kizuna",
+      "qid": 20132,
+      "bitMin": 4,
+      "bitMax": 7
+    },
+    {
+      "$id": 615,
+      "ID": "COND_SQ133_06_07_kizuna",
+      "qid": 20132,
+      "bitMin": 6,
+      "bitMax": 7
+    },
+    {
+      "$id": 616,
+      "ID": "COND_SQ133_01_07_Kizuna",
+      "qid": 20132,
+      "bitMin": 1,
+      "bitMax": 7
+    },
+    {
+      "$id": 617,
+      "ID": "COND_SQ133_03_07_Kizuna",
+      "qid": 20132,
+      "bitMin": 3,
+      "bitMax": 7
+    },
+    {
+      "$id": 618,
+      "ID": "COND_SQ133_05_07_Kizuna",
+      "qid": 20132,
+      "bitMin": 5,
+      "bitMax": 7
+    },
+    {
+      "$id": 619,
+      "ID": "COND_SQ133_07_07_Kizuna",
+      "qid": 20132,
+      "bitMin": 7,
+      "bitMax": 7
+    },
+    {
+      "$id": 620,
+      "ID": "COND_SQ134_01_01",
+      "qid": 20133,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 621,
+      "ID": "COND_SQ134_02_02",
+      "qid": 20133,
+      "bitMin": 2,
+      "bitMax": 2
+    },
+    {
+      "$id": 622,
+      "ID": "COND_SQ134_03_03",
+      "qid": 20133,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 623,
+      "ID": "COND_SQ134_04_04",
+      "qid": 20133,
+      "bitMin": 4,
+      "bitMax": 4
+    },
+    {
+      "$id": 624,
+      "ID": "COND_SQ135_01_01",
+      "qid": 20134,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 625,
+      "ID": "COND_SQ135_02_02",
+      "qid": 20134,
+      "bitMin": 2,
+      "bitMax": 2
+    },
+    {
+      "$id": 626,
+      "ID": "COND_SQ135_03_03",
+      "qid": 20134,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 627,
+      "ID": "COND_SQ135_04_04",
+      "qid": 20134,
+      "bitMin": 4,
+      "bitMax": 4
+    },
+    {
+      "$id": 628,
+      "ID": "COND_SQ135_02_02_SUB",
+      "qid": 20134,
+      "bitMin": 2,
+      "bitMax": 2
+    },
+    {
+      "$id": 629,
+      "ID": "COND_SQ136_01_01",
+      "qid": 20135,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 630,
+      "ID": "COND_SQ136_02_02",
+      "qid": 20135,
+      "bitMin": 2,
+      "bitMax": 2
+    },
+    {
+      "$id": 631,
+      "ID": "COND_SQ136_03_03",
+      "qid": 20135,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 632,
+      "ID": "COND_SQ136_04_04",
+      "qid": 20135,
+      "bitMin": 4,
+      "bitMax": 4
+    },
+    {
+      "$id": 633,
+      "ID": "COND_SQ136_02_03_kizuna",
+      "qid": 20135,
+      "bitMin": 2,
+      "bitMax": 3
+    },
+    {
+      "$id": 634,
+      "ID": "COND_SQ137_01_01",
+      "qid": 20136,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 635,
+      "ID": "COND_SQ137_02_02",
+      "qid": 20136,
+      "bitMin": 2,
+      "bitMax": 2
+    },
+    {
+      "$id": 636,
+      "ID": "COND_SQ137_03_03",
+      "qid": 20136,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 637,
+      "ID": "COND_SQ137_04_04",
+      "qid": 20136,
+      "bitMin": 4,
+      "bitMax": 4
+    },
+    {
+      "$id": 638,
+      "ID": "COND_SQ138_01_01",
+      "qid": 20216,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 639,
+      "ID": "COND_SQ138_02_02",
+      "qid": 20216,
+      "bitMin": 2,
+      "bitMax": 2
+    },
+    {
+      "$id": 640,
+      "ID": "COND_SQ138_03_03",
+      "qid": 20216,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 641,
+      "ID": "COND_SQ138_04_04",
+      "qid": 20216,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 642,
+      "ID": "COND_SQ139_01_01",
+      "qid": 20220,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 643,
+      "ID": "COND_SQ139_02_02",
+      "qid": 20220,
+      "bitMin": 2,
+      "bitMax": 2
+    },
+    {
+      "$id": 644,
+      "ID": "COND_SQ139_03_03",
+      "qid": 20220,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 645,
+      "ID": "COND_SQ139_04_04",
+      "qid": 20220,
+      "bitMin": 4,
+      "bitMax": 4
+    },
+    {
+      "$id": 646,
+      "ID": "COND_SQ140_01_01",
+      "qid": 20139,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 647,
+      "ID": "COND_SQ140_02_02",
+      "qid": 20139,
+      "bitMin": 2,
+      "bitMax": 2
+    },
+    {
+      "$id": 648,
+      "ID": "COND_SQ140_03_03",
+      "qid": 20139,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 649,
+      "ID": "COND_SQ140_04_04",
+      "qid": 20139,
+      "bitMin": 4,
+      "bitMax": 4
+    },
+    {
+      "$id": 650,
+      "ID": "COND_SQ141_01_01",
+      "qid": 20140,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 651,
+      "ID": "COND_SQ141_02_02",
+      "qid": 20140,
+      "bitMin": 2,
+      "bitMax": 2
+    },
+    {
+      "$id": 652,
+      "ID": "COND_SQ141_03_03",
+      "qid": 20140,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 653,
+      "ID": "COND_SQ141_04_04",
+      "qid": 20140,
+      "bitMin": 4,
+      "bitMax": 4
+    },
+    {
+      "$id": 654,
+      "ID": "COND_SQ142_01_01",
+      "qid": 20219,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 655,
+      "ID": "COND_SQ142_02_02",
+      "qid": 20219,
+      "bitMin": 2,
+      "bitMax": 2
+    },
+    {
+      "$id": 656,
+      "ID": "COND_SQ142_03_03",
+      "qid": 20219,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 657,
+      "ID": "COND_SQ142_04_04",
+      "qid": 20219,
+      "bitMin": 4,
+      "bitMax": 4
+    },
+    {
+      "$id": 658,
+      "ID": "COND_SQ143_01_01",
+      "qid": 20223,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 659,
+      "ID": "COND_SQ143_02_02",
+      "qid": 20223,
+      "bitMin": 2,
+      "bitMax": 2
+    },
+    {
+      "$id": 660,
+      "ID": "COND_SQ143_03_03",
+      "qid": 20223,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 661,
+      "ID": "COND_SQ143_04_04",
+      "qid": 20223,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 662,
+      "ID": "COND_SQ144_01_01",
+      "qid": 20218,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 663,
+      "ID": "COND_SQ144_02_02",
+      "qid": 20218,
+      "bitMin": 2,
+      "bitMax": 2
+    },
+    {
+      "$id": 664,
+      "ID": "COND_SQ144_03_03",
+      "qid": 20218,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 665,
+      "ID": "COND_SQ144_04_04",
+      "qid": 20218,
+      "bitMin": 4,
+      "bitMax": 4
+    },
+    {
+      "$id": 666,
+      "ID": "COND_SQ145_01_01",
+      "qid": 20221,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 667,
+      "ID": "COND_SQ145_02_02",
+      "qid": 20221,
+      "bitMin": 2,
+      "bitMax": 2
+    },
+    {
+      "$id": 668,
+      "ID": "COND_SQ145_03_03",
+      "qid": 20221,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 669,
+      "ID": "COND_SQ145_04_04",
+      "qid": 20221,
+      "bitMin": 4,
+      "bitMax": 4
+    },
+    {
+      "$id": 670,
+      "ID": "COND_SQ146_01_01",
+      "qid": 20145,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 671,
+      "ID": "COND_SQ146_02_02",
+      "qid": 20145,
+      "bitMin": 2,
+      "bitMax": 2
+    },
+    {
+      "$id": 672,
+      "ID": "COND_SQ146_03_03",
+      "qid": 20145,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 673,
+      "ID": "COND_SQ146_04_04",
+      "qid": 20145,
+      "bitMin": 4,
+      "bitMax": 4
+    },
+    {
+      "$id": 674,
+      "ID": "COND_SQ146_02_03",
+      "qid": 20145,
+      "bitMin": 2,
+      "bitMax": 2
+    },
+    {
+      "$id": 675,
+      "ID": "COND_SQ146_02_03_SUB",
+      "qid": 20145,
+      "bitMin": 2,
+      "bitMax": 3
+    },
+    {
+      "$id": 676,
+      "ID": "COND_SQ147_01_01",
+      "qid": 20224,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 677,
+      "ID": "COND_SQ147_02_02",
+      "qid": 20224,
+      "bitMin": 2,
+      "bitMax": 2
+    },
+    {
+      "$id": 678,
+      "ID": "COND_SQ147_03_03",
+      "qid": 20224,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 679,
+      "ID": "COND_SQ147_04_04",
+      "qid": 20224,
+      "bitMin": 4,
+      "bitMax": 4
+    },
+    {
+      "$id": 680,
+      "ID": "COND_SQ148_01_01",
+      "qid": 20147,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 681,
+      "ID": "COND_SQ148_02_02",
+      "qid": 20147,
+      "bitMin": 2,
+      "bitMax": 2
+    },
+    {
+      "$id": 682,
+      "ID": "COND_SQ148_03_03",
+      "qid": 20147,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 683,
+      "ID": "COND_SQ148_04_04",
+      "qid": 20147,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 684,
+      "ID": "COND_SQ149_01_01",
+      "qid": 20148,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 685,
+      "ID": "COND_SQ149_02_02",
+      "qid": 20148,
+      "bitMin": 2,
+      "bitMax": 2
+    },
+    {
+      "$id": 686,
+      "ID": "COND_SQ149_03_03",
+      "qid": 20148,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 687,
+      "ID": "COND_SQ149_04_04",
+      "qid": 20148,
+      "bitMin": 4,
+      "bitMax": 4
+    },
+    {
+      "$id": 688,
+      "ID": "COND_SQ150_01_01",
+      "qid": 20149,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 689,
+      "ID": "COND_SQ150_02_02",
+      "qid": 20149,
+      "bitMin": 2,
+      "bitMax": 2
+    },
+    {
+      "$id": 690,
+      "ID": "COND_SQ150_03_03",
+      "qid": 20149,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 691,
+      "ID": "COND_SQ150_04_04",
+      "qid": 20149,
+      "bitMin": 4,
+      "bitMax": 4
+    },
+    {
+      "$id": 692,
+      "ID": "COND_SQ151_01_01",
+      "qid": 20225,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 693,
+      "ID": "COND_SQ151_02_02",
+      "qid": 20225,
+      "bitMin": 2,
+      "bitMax": 2
+    },
+    {
+      "$id": 694,
+      "ID": "COND_SQ151_03_03",
+      "qid": 20225,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 695,
+      "ID": "COND_SQ151_04_04",
+      "qid": 20225,
+      "bitMin": 4,
+      "bitMax": 4
+    },
+    {
+      "$id": 696,
+      "ID": "COND_SQ152_01_01",
+      "qid": 20222,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 697,
+      "ID": "COND_SQ152_02_02",
+      "qid": 20222,
+      "bitMin": 2,
+      "bitMax": 2
+    },
+    {
+      "$id": 698,
+      "ID": "COND_SQ152_03_03",
+      "qid": 20222,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 699,
+      "ID": "COND_SQ152_04_04",
+      "qid": 20222,
+      "bitMin": 4,
+      "bitMax": 4
+    },
+    {
+      "$id": 700,
+      "ID": "COND_SQ152_03_04_kizuna",
+      "qid": 20222,
+      "bitMin": 3,
+      "bitMax": 4
+    },
+    {
+      "$id": 701,
+      "ID": "COND_SQ153_01_01",
+      "qid": 20217,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 702,
+      "ID": "COND_SQ153_02_02",
+      "qid": 20217,
+      "bitMin": 2,
+      "bitMax": 2
+    },
+    {
+      "$id": 703,
+      "ID": "COND_SQ153_03_03",
+      "qid": 20217,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 704,
+      "ID": "COND_SQ153_04_04",
+      "qid": 20217,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 705,
+      "ID": "COND_SQ154_01_01",
+      "qid": 20230,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 706,
+      "ID": "COND_SQ154_02_02",
+      "qid": 20230,
+      "bitMin": 2,
+      "bitMax": 2
+    },
+    {
+      "$id": 707,
+      "ID": "COND_SQ154_03_03",
+      "qid": 20230,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 708,
+      "ID": "COND_SQ154_04_04",
+      "qid": 20230,
+      "bitMin": 4,
+      "bitMax": 4
+    },
+    {
+      "$id": 709,
+      "ID": "COND_SQ155_01_01",
+      "qid": 20154,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 710,
+      "ID": "COND_SQ155_02_02",
+      "qid": 20154,
+      "bitMin": 2,
+      "bitMax": 2
+    },
+    {
+      "$id": 711,
+      "ID": "COND_SQ155_03_03",
+      "qid": 20154,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 712,
+      "ID": "COND_SQ155_04_04",
+      "qid": 20154,
+      "bitMin": 4,
+      "bitMax": 4
+    },
+    {
+      "$id": 713,
+      "ID": "COND_SQ156_01_01",
+      "qid": 20232,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 714,
+      "ID": "COND_SQ156_02_02",
+      "qid": 20232,
+      "bitMin": 2,
+      "bitMax": 2
+    },
+    {
+      "$id": 715,
+      "ID": "COND_SQ156_03_03",
+      "qid": 20232,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 716,
+      "ID": "COND_SQ156_04_04",
+      "qid": 20232,
+      "bitMin": 4,
+      "bitMax": 4
+    },
+    {
+      "$id": 717,
+      "ID": "COND_SQ157_01_01",
+      "qid": 20156,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 718,
+      "ID": "COND_SQ157_02_02",
+      "qid": 20156,
+      "bitMin": 2,
+      "bitMax": 2
+    },
+    {
+      "$id": 719,
+      "ID": "COND_SQ157_03_03",
+      "qid": 20156,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 720,
+      "ID": "COND_SQ157_04_04",
+      "qid": 20156,
+      "bitMin": 4,
+      "bitMax": 4
+    },
+    {
+      "$id": 721,
+      "ID": "COND_SQ158_01_01",
+      "qid": 20157,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 722,
+      "ID": "COND_SQ158_02_02",
+      "qid": 20157,
+      "bitMin": 2,
+      "bitMax": 2
+    },
+    {
+      "$id": 723,
+      "ID": "COND_SQ158_03_03",
+      "qid": 20157,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 724,
+      "ID": "COND_SQ158_04_04",
+      "qid": 20157,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 725,
+      "ID": "COND_SQ159_01_01",
+      "qid": 20158,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 726,
+      "ID": "COND_SQ159_02_02",
+      "qid": 20158,
+      "bitMin": 2,
+      "bitMax": 2
+    },
+    {
+      "$id": 727,
+      "ID": "COND_SQ159_03_03",
+      "qid": 20158,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 728,
+      "ID": "COND_SQ159_04_04",
+      "qid": 20158,
+      "bitMin": 4,
+      "bitMax": 4
+    },
+    {
+      "$id": 729,
+      "ID": "COND_SQ160_01_01",
+      "qid": 20159,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 730,
+      "ID": "COND_SQ160_02_02",
+      "qid": 20159,
+      "bitMin": 2,
+      "bitMax": 2
+    },
+    {
+      "$id": 731,
+      "ID": "COND_SQ160_03_03",
+      "qid": 20159,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 732,
+      "ID": "COND_SQ160_04_04",
+      "qid": 20159,
+      "bitMin": 4,
+      "bitMax": 4
+    },
+    {
+      "$id": 733,
+      "ID": "COND_SQ161_01_01",
+      "qid": 20160,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 734,
+      "ID": "COND_SQ161_02_02",
+      "qid": 20160,
+      "bitMin": 2,
+      "bitMax": 2
+    },
+    {
+      "$id": 735,
+      "ID": "COND_SQ161_03_03",
+      "qid": 20160,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 736,
+      "ID": "COND_SQ161_04_04",
+      "qid": 20160,
+      "bitMin": 4,
+      "bitMax": 4
+    },
+    {
+      "$id": 737,
+      "ID": "COND_SQ161_01_03_Kizuna",
+      "qid": 20160,
+      "bitMin": 1,
+      "bitMax": 3
+    },
+    {
+      "$id": 738,
+      "ID": "COND_SQ161_02_03_Kizuna",
+      "qid": 20160,
+      "bitMin": 2,
+      "bitMax": 3
+    },
+    {
+      "$id": 739,
+      "ID": "COND_SQ161_03_03_Kizuna",
+      "qid": 20160,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 740,
+      "ID": "COND_SQ162_01_01",
+      "qid": 20161,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 741,
+      "ID": "COND_SQ162_02_02",
+      "qid": 20161,
+      "bitMin": 2,
+      "bitMax": 2
+    },
+    {
+      "$id": 742,
+      "ID": "COND_SQ162_03_03",
+      "qid": 20161,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 743,
+      "ID": "COND_SQ162_04_04",
+      "qid": 20161,
+      "bitMin": 4,
+      "bitMax": 4
+    },
+    {
+      "$id": 744,
+      "ID": "COND_SQ162_01_03_Kizuna",
+      "qid": 20161,
+      "bitMin": 1,
+      "bitMax": 3
+    },
+    {
+      "$id": 745,
+      "ID": "COND_SQ162_02_03_Kizuna",
+      "qid": 20161,
+      "bitMin": 2,
+      "bitMax": 3
+    },
+    {
+      "$id": 746,
+      "ID": "COND_SQ162_03_03_Kizuna",
+      "qid": 20161,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 747,
+      "ID": "COND_SQ163_01_01",
+      "qid": 20162,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 748,
+      "ID": "COND_SQ163_02_02",
+      "qid": 20162,
+      "bitMin": 2,
+      "bitMax": 2
+    },
+    {
+      "$id": 749,
+      "ID": "COND_SQ163_03_03",
+      "qid": 20162,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 750,
+      "ID": "COND_SQ163_04_04",
+      "qid": 20162,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 751,
+      "ID": "COND_SQ164_01_01",
+      "qid": 20163,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 752,
+      "ID": "COND_SQ164_02_02",
+      "qid": 20163,
+      "bitMin": 2,
+      "bitMax": 2
+    },
+    {
+      "$id": 753,
+      "ID": "COND_SQ164_03_03",
+      "qid": 20163,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 754,
+      "ID": "COND_SQ164_04_04",
+      "qid": 20163,
+      "bitMin": 4,
+      "bitMax": 4
+    },
+    {
+      "$id": 755,
+      "ID": "COND_SQ165_01_01",
+      "qid": 20164,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 756,
+      "ID": "COND_SQ165_02_02",
+      "qid": 20164,
+      "bitMin": 2,
+      "bitMax": 2
+    },
+    {
+      "$id": 757,
+      "ID": "COND_SQ165_03_03",
+      "qid": 20164,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 758,
+      "ID": "COND_SQ165_04_04",
+      "qid": 20164,
+      "bitMin": 4,
+      "bitMax": 4
+    },
+    {
+      "$id": 759,
+      "ID": "COND_SQ165_04_04_kizuna",
+      "qid": 20164,
+      "bitMin": 4,
+      "bitMax": 4
+    },
+    {
+      "$id": 760,
+      "ID": "COND_SQ166_01_01",
+      "qid": 20165,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 761,
+      "ID": "COND_SQ166_02_02",
+      "qid": 20165,
+      "bitMin": 2,
+      "bitMax": 2
+    },
+    {
+      "$id": 762,
+      "ID": "COND_SQ166_03_03",
+      "qid": 20165,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 763,
+      "ID": "COND_SQ166_04_04",
+      "qid": 20165,
+      "bitMin": 4,
+      "bitMax": 4
+    },
+    {
+      "$id": 764,
+      "ID": "COND_SQ167_01_01",
+      "qid": 20166,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 765,
+      "ID": "COND_SQ167_02_02",
+      "qid": 20166,
+      "bitMin": 2,
+      "bitMax": 2
+    },
+    {
+      "$id": 766,
+      "ID": "COND_SQ167_03_03",
+      "qid": 20166,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 767,
+      "ID": "COND_SQ167_04_04",
+      "qid": 20166,
+      "bitMin": 4,
+      "bitMax": 4
+    },
+    {
+      "$id": 768,
+      "ID": "COND_SQ168_01_01",
+      "qid": 20167,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 769,
+      "ID": "COND_SQ168_02_02",
+      "qid": 20167,
+      "bitMin": 2,
+      "bitMax": 2
+    },
+    {
+      "$id": 770,
+      "ID": "COND_SQ168_03_03",
+      "qid": 20167,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 771,
+      "ID": "COND_SQ168_04_04",
+      "qid": 20167,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 772,
+      "ID": "COND_SQ168_02_03_kizuna",
+      "qid": 20167,
+      "bitMin": 2,
+      "bitMax": 3
+    },
+    {
+      "$id": 773,
+      "ID": "COND_SQ169_01_01",
+      "qid": 20168,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 774,
+      "ID": "COND_SQ169_02_02",
+      "qid": 20168,
+      "bitMin": 2,
+      "bitMax": 2
+    },
+    {
+      "$id": 775,
+      "ID": "COND_SQ169_03_03",
+      "qid": 20168,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 776,
+      "ID": "COND_SQ169_04_04",
+      "qid": 20168,
+      "bitMin": 4,
+      "bitMax": 4
+    },
+    {
+      "$id": 777,
+      "ID": "COND_SQ169_02_02_SUB",
+      "qid": 20168,
+      "bitMin": 2,
+      "bitMax": 2
+    },
+    {
+      "$id": 778,
+      "ID": "COND_SQ170_01_01",
+      "qid": 20169,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 779,
+      "ID": "COND_SQ170_02_02",
+      "qid": 20169,
+      "bitMin": 2,
+      "bitMax": 2
+    },
+    {
+      "$id": 780,
+      "ID": "COND_SQ170_03_03",
+      "qid": 20169,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 781,
+      "ID": "COND_SQ170_04_04",
+      "qid": 20169,
+      "bitMin": 4,
+      "bitMax": 4
+    },
+    {
+      "$id": 782,
+      "ID": "COND_SQ171_01_01",
+      "qid": 20170,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 783,
+      "ID": "COND_SQ171_02_02",
+      "qid": 20170,
+      "bitMin": 2,
+      "bitMax": 2
+    },
+    {
+      "$id": 784,
+      "ID": "COND_SQ171_03_03",
+      "qid": 20170,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 785,
+      "ID": "COND_SQ171_04_04",
+      "qid": 20170,
+      "bitMin": 4,
+      "bitMax": 4
+    },
+    {
+      "$id": 786,
+      "ID": "COND_SQ171_01_02",
+      "qid": 20170,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 787,
+      "ID": "COND_SQ172_01_01",
+      "qid": 20171,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 788,
+      "ID": "COND_SQ172_02_02",
+      "qid": 20171,
+      "bitMin": 2,
+      "bitMax": 2
+    },
+    {
+      "$id": 789,
+      "ID": "COND_SQ172_03_03",
+      "qid": 20171,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 790,
+      "ID": "COND_SQ172_04_04",
+      "qid": 20171,
+      "bitMin": 4,
+      "bitMax": 4
+    },
+    {
+      "$id": 791,
+      "ID": "COND_SQ173_01_01",
+      "qid": 20172,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 792,
+      "ID": "COND_SQ173_02_02",
+      "qid": 20172,
+      "bitMin": 2,
+      "bitMax": 2
+    },
+    {
+      "$id": 793,
+      "ID": "COND_SQ173_03_03",
+      "qid": 20172,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 794,
+      "ID": "COND_SQ173_04_04",
+      "qid": 20172,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 795,
+      "ID": "COND_SQ174_01_01",
+      "qid": 20173,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 796,
+      "ID": "COND_SQ174_02_02",
+      "qid": 20173,
+      "bitMin": 2,
+      "bitMax": 2
+    },
+    {
+      "$id": 797,
+      "ID": "COND_SQ174_03_03",
+      "qid": 20173,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 798,
+      "ID": "COND_SQ174_04_04",
+      "qid": 20173,
+      "bitMin": 4,
+      "bitMax": 4
+    },
+    {
+      "$id": 799,
+      "ID": "COND_SQ175_01_01",
+      "qid": 20174,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 800,
+      "ID": "COND_SQ175_02_02",
+      "qid": 20174,
+      "bitMin": 2,
+      "bitMax": 2
+    },
+    {
+      "$id": 801,
+      "ID": "COND_SQ175_03_03",
+      "qid": 20174,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 802,
+      "ID": "COND_SQ175_04_04",
+      "qid": 20174,
+      "bitMin": 4,
+      "bitMax": 4
+    },
+    {
+      "$id": 803,
+      "ID": "COND_SQ175_02_02_SUB",
+      "qid": 20174,
+      "bitMin": 2,
+      "bitMax": 2
+    },
+    {
+      "$id": 804,
+      "ID": "COND_SQ175_01_02_Kizuna",
+      "qid": 20174,
+      "bitMin": 1,
+      "bitMax": 2
+    },
+    {
+      "$id": 805,
+      "ID": "COND_SQ175_02_02_Kizuna",
+      "qid": 20174,
+      "bitMin": 2,
+      "bitMax": 2
+    },
+    {
+      "$id": 806,
+      "ID": "COND_SQ176_01_01",
+      "qid": 20175,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 807,
+      "ID": "COND_SQ176_02_02",
+      "qid": 20175,
+      "bitMin": 2,
+      "bitMax": 2
+    },
+    {
+      "$id": 808,
+      "ID": "COND_SQ176_03_03",
+      "qid": 20175,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 809,
+      "ID": "COND_SQ176_04_04",
+      "qid": 20175,
+      "bitMin": 4,
+      "bitMax": 4
+    },
+    {
+      "$id": 810,
+      "ID": "COND_SQ176_01_03_Kizuna",
+      "qid": 20175,
+      "bitMin": 1,
+      "bitMax": 3
+    },
+    {
+      "$id": 811,
+      "ID": "COND_SQ176_02_03_Kizuna",
+      "qid": 20175,
+      "bitMin": 2,
+      "bitMax": 3
+    },
+    {
+      "$id": 812,
+      "ID": "COND_SQ176_03_03_Kizuna",
+      "qid": 20175,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 813,
+      "ID": "COND_SQ177_01_01",
+      "qid": 20176,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 814,
+      "ID": "COND_SQ177_02_02",
+      "qid": 20176,
+      "bitMin": 2,
+      "bitMax": 2
+    },
+    {
+      "$id": 815,
+      "ID": "COND_SQ177_03_03",
+      "qid": 20176,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 816,
+      "ID": "COND_SQ177_04_04",
+      "qid": 20176,
+      "bitMin": 4,
+      "bitMax": 4
+    },
+    {
+      "$id": 817,
+      "ID": "COND_SQ178_01_01",
+      "qid": 20177,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 818,
+      "ID": "COND_SQ178_02_02",
+      "qid": 20177,
+      "bitMin": 2,
+      "bitMax": 2
+    },
+    {
+      "$id": 819,
+      "ID": "COND_SQ178_03_03",
+      "qid": 20177,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 820,
+      "ID": "COND_SQ178_04_04",
+      "qid": 20177,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 821,
+      "ID": "COND_SQ179_01_01",
+      "qid": 20178,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 822,
+      "ID": "COND_SQ179_02_02",
+      "qid": 20178,
+      "bitMin": 2,
+      "bitMax": 2
+    },
+    {
+      "$id": 823,
+      "ID": "COND_SQ179_03_03",
+      "qid": 20178,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 824,
+      "ID": "COND_SQ179_04_04",
+      "qid": 20178,
+      "bitMin": 4,
+      "bitMax": 4
+    },
+    {
+      "$id": 825,
+      "ID": "COND_SQ179_02_03_kizuna",
+      "qid": 20178,
+      "bitMin": 2,
+      "bitMax": 3
+    },
+    {
+      "$id": 826,
+      "ID": "COND_SQ179_01_03_kizuna",
+      "qid": 20178,
+      "bitMin": 1,
+      "bitMax": 3
+    },
+    {
+      "$id": 827,
+      "ID": "COND_SQ180_01_01",
+      "qid": 20179,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 828,
+      "ID": "COND_SQ180_02_02",
+      "qid": 20179,
+      "bitMin": 2,
+      "bitMax": 2
+    },
+    {
+      "$id": 829,
+      "ID": "COND_SQ180_03_03",
+      "qid": 20179,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 830,
+      "ID": "COND_SQ180_04_04",
+      "qid": 20179,
+      "bitMin": 4,
+      "bitMax": 4
+    },
+    {
+      "$id": 831,
+      "ID": "COND_SQ181_01_01",
+      "qid": 20180,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 832,
+      "ID": "COND_SQ181_02_02",
+      "qid": 20180,
+      "bitMin": 2,
+      "bitMax": 2
+    },
+    {
+      "$id": 833,
+      "ID": "COND_SQ181_03_03",
+      "qid": 20180,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 834,
+      "ID": "COND_SQ181_04_04",
+      "qid": 20180,
+      "bitMin": 4,
+      "bitMax": 4
+    },
+    {
+      "$id": 835,
+      "ID": "COND_SQ181_02_03_SUB",
+      "qid": 20180,
+      "bitMin": 2,
+      "bitMax": 3
+    },
+    {
+      "$id": 836,
+      "ID": "COND_SQ182_01_01",
+      "qid": 20181,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 837,
+      "ID": "COND_SQ182_02_02",
+      "qid": 20181,
+      "bitMin": 2,
+      "bitMax": 2
+    },
+    {
+      "$id": 838,
+      "ID": "COND_SQ182_03_03",
+      "qid": 20181,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 839,
+      "ID": "COND_SQ182_04_04",
+      "qid": 20181,
+      "bitMin": 4,
+      "bitMax": 4
+    },
+    {
+      "$id": 840,
+      "ID": "COND_SQ182_02_02_SUB",
+      "qid": 20181,
+      "bitMin": 2,
+      "bitMax": 2
+    },
+    {
+      "$id": 841,
+      "ID": "COND_SQ183_01_01",
+      "qid": 20182,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 842,
+      "ID": "COND_SQ183_02_02",
+      "qid": 20182,
+      "bitMin": 2,
+      "bitMax": 2
+    },
+    {
+      "$id": 843,
+      "ID": "COND_SQ183_03_03",
+      "qid": 20182,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 844,
+      "ID": "COND_SQ183_04_04",
+      "qid": 20182,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 845,
+      "ID": "COND_SQ183_01_01_Kizuna",
+      "qid": 20182,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 846,
+      "ID": "COND_SQ184_01_01",
+      "qid": 20183,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 847,
+      "ID": "COND_SQ184_02_02",
+      "qid": 20183,
+      "bitMin": 2,
+      "bitMax": 2
+    },
+    {
+      "$id": 848,
+      "ID": "COND_SQ184_03_03",
+      "qid": 20183,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 849,
+      "ID": "COND_SQ184_04_04",
+      "qid": 20183,
+      "bitMin": 4,
+      "bitMax": 4
+    },
+    {
+      "$id": 850,
+      "ID": "COND_SQ184_01_01_Kizuna",
+      "qid": 20183,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 851,
+      "ID": "COND_SQ185_01_01",
+      "qid": 20184,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 852,
+      "ID": "COND_SQ185_02_02",
+      "qid": 20184,
+      "bitMin": 2,
+      "bitMax": 2
+    },
+    {
+      "$id": 853,
+      "ID": "COND_SQ185_03_03",
+      "qid": 20184,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 854,
+      "ID": "COND_SQ185_04_04",
+      "qid": 20184,
+      "bitMin": 4,
+      "bitMax": 4
+    },
+    {
+      "$id": 855,
+      "ID": "COND_SQ186_01_01",
+      "qid": 20185,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 856,
+      "ID": "COND_SQ186_02_02",
+      "qid": 20185,
+      "bitMin": 2,
+      "bitMax": 2
+    },
+    {
+      "$id": 857,
+      "ID": "COND_SQ186_03_03",
+      "qid": 20185,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 858,
+      "ID": "COND_SQ186_04_04",
+      "qid": 20185,
+      "bitMin": 4,
+      "bitMax": 4
+    },
+    {
+      "$id": 859,
+      "ID": "COND_SQ187_01_01",
+      "qid": 20229,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 860,
+      "ID": "COND_SQ187_02_02",
+      "qid": 20229,
+      "bitMin": 2,
+      "bitMax": 2
+    },
+    {
+      "$id": 861,
+      "ID": "COND_SQ187_03_03",
+      "qid": 20229,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 862,
+      "ID": "COND_SQ187_04_04",
+      "qid": 20229,
+      "bitMin": 4,
+      "bitMax": 4
+    },
+    {
+      "$id": 863,
+      "ID": "COND_SQ188_01_01",
+      "qid": 20226,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 864,
+      "ID": "COND_SQ188_02_02",
+      "qid": 20226,
+      "bitMin": 2,
+      "bitMax": 2
+    },
+    {
+      "$id": 865,
+      "ID": "COND_SQ188_03_03",
+      "qid": 20226,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 866,
+      "ID": "COND_SQ188_04_04",
+      "qid": 20226,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 867,
+      "ID": "COND_SQ189_01_01",
+      "qid": 20188,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 868,
+      "ID": "COND_SQ189_02_02",
+      "qid": 20188,
+      "bitMin": 2,
+      "bitMax": 2
+    },
+    {
+      "$id": 869,
+      "ID": "COND_SQ189_03_03",
+      "qid": 20188,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 870,
+      "ID": "COND_SQ189_04_04",
+      "qid": 20188,
+      "bitMin": 4,
+      "bitMax": 4
+    },
+    {
+      "$id": 871,
+      "ID": "COND_SQ190_01_01",
+      "qid": 20189,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 872,
+      "ID": "COND_SQ190_02_02",
+      "qid": 20189,
+      "bitMin": 2,
+      "bitMax": 2
+    },
+    {
+      "$id": 873,
+      "ID": "COND_SQ190_03_03",
+      "qid": 20189,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 874,
+      "ID": "COND_SQ190_04_04",
+      "qid": 20189,
+      "bitMin": 4,
+      "bitMax": 4
+    },
+    {
+      "$id": 875,
+      "ID": "COND_SQ191_01_01",
+      "qid": 20227,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 876,
+      "ID": "COND_SQ191_02_02",
+      "qid": 20227,
+      "bitMin": 2,
+      "bitMax": 2
+    },
+    {
+      "$id": 877,
+      "ID": "COND_SQ191_03_03",
+      "qid": 20227,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 878,
+      "ID": "COND_SQ191_04_04",
+      "qid": 20227,
+      "bitMin": 4,
+      "bitMax": 4
+    },
+    {
+      "$id": 879,
+      "ID": "COND_SQ192_01_01",
+      "qid": 20233,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 880,
+      "ID": "COND_SQ192_02_02",
+      "qid": 20233,
+      "bitMin": 2,
+      "bitMax": 2
+    },
+    {
+      "$id": 881,
+      "ID": "COND_SQ192_03_03",
+      "qid": 20233,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 882,
+      "ID": "COND_SQ192_04_04",
+      "qid": 20233,
+      "bitMin": 4,
+      "bitMax": 4
+    },
+    {
+      "$id": 883,
+      "ID": "COND_SQ193_01_01",
+      "qid": 20192,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 884,
+      "ID": "COND_SQ193_02_02",
+      "qid": 20192,
+      "bitMin": 2,
+      "bitMax": 2
+    },
+    {
+      "$id": 885,
+      "ID": "COND_SQ193_03_03",
+      "qid": 20192,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 886,
+      "ID": "COND_SQ193_04_04",
+      "qid": 20192,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 887,
+      "ID": "COND_SQ194_01_01",
+      "qid": 20193,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 888,
+      "ID": "COND_SQ194_02_02",
+      "qid": 20193,
+      "bitMin": 2,
+      "bitMax": 2
+    },
+    {
+      "$id": 889,
+      "ID": "COND_SQ194_03_03",
+      "qid": 20193,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 890,
+      "ID": "COND_SQ194_04_04",
+      "qid": 20193,
+      "bitMin": 4,
+      "bitMax": 4
+    },
+    {
+      "$id": 891,
+      "ID": "COND_SQ195_01_01",
+      "qid": 20194,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 892,
+      "ID": "COND_SQ195_02_02",
+      "qid": 20194,
+      "bitMin": 2,
+      "bitMax": 2
+    },
+    {
+      "$id": 893,
+      "ID": "COND_SQ195_03_03",
+      "qid": 20194,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 894,
+      "ID": "COND_SQ195_04_04",
+      "qid": 20194,
+      "bitMin": 4,
+      "bitMax": 4
+    },
+    {
+      "$id": 895,
+      "ID": "COND_SQ196_01_01",
+      "qid": 20228,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 896,
+      "ID": "COND_SQ196_02_02",
+      "qid": 20228,
+      "bitMin": 2,
+      "bitMax": 2
+    },
+    {
+      "$id": 897,
+      "ID": "COND_SQ196_03_03",
+      "qid": 20228,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 898,
+      "ID": "COND_SQ196_04_04",
+      "qid": 20228,
+      "bitMin": 4,
+      "bitMax": 4
+    },
+    {
+      "$id": 899,
+      "ID": "COND_SQ197_01_01",
+      "qid": 20196,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 900,
+      "ID": "COND_SQ197_02_02",
+      "qid": 20196,
+      "bitMin": 2,
+      "bitMax": 2
+    },
+    {
+      "$id": 901,
+      "ID": "COND_SQ197_03_03",
+      "qid": 20196,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 902,
+      "ID": "COND_SQ197_04_04",
+      "qid": 20196,
+      "bitMin": 4,
+      "bitMax": 4
+    },
+    {
+      "$id": 903,
+      "ID": "COND_SQ198_01_01",
+      "qid": 20197,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 904,
+      "ID": "COND_SQ198_02_02",
+      "qid": 20197,
+      "bitMin": 2,
+      "bitMax": 2
+    },
+    {
+      "$id": 905,
+      "ID": "COND_SQ198_03_03",
+      "qid": 20197,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 906,
+      "ID": "COND_SQ198_04_04",
+      "qid": 20197,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 907,
+      "ID": "COND_SQ199_01_01",
+      "qid": 20198,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 908,
+      "ID": "COND_SQ199_02_02",
+      "qid": 20198,
+      "bitMin": 2,
+      "bitMax": 2
+    },
+    {
+      "$id": 909,
+      "ID": "COND_SQ199_03_03",
+      "qid": 20198,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 910,
+      "ID": "COND_SQ199_04_04",
+      "qid": 20198,
+      "bitMin": 4,
+      "bitMax": 4
+    },
+    {
+      "$id": 911,
+      "ID": "COND_SQ200_01_01",
+      "qid": 20231,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 912,
+      "ID": "COND_SQ200_02_02",
+      "qid": 20231,
+      "bitMin": 2,
+      "bitMax": 2
+    },
+    {
+      "$id": 913,
+      "ID": "COND_SQ200_03_03",
+      "qid": 20231,
+      "bitMin": 3,
+      "bitMax": 3
+    },
+    {
+      "$id": 914,
+      "ID": "COND_SQ200_04_04",
+      "qid": 20231,
+      "bitMin": 4,
+      "bitMax": 4
+    },
+    {
+      "$id": 915,
+      "ID": "COND_WE001_001_01_01",
+      "qid": 20200,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 916,
+      "ID": "COND_WE001_002_01_01",
+      "qid": 20201,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 917,
+      "ID": "COND_WE002_01_01",
+      "qid": 20203,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 918,
+      "ID": "COND_FR001_01_01",
+      "qid": 20205,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 919,
+      "ID": "COND_TA001_01_01",
+      "qid": 20206,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 920,
+      "ID": "COND_TA002_01_01",
+      "qid": 20207,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 921,
+      "ID": "COND_TA003_01_01",
+      "qid": 20208,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 922,
+      "ID": "COND_TA004_01_01",
+      "qid": 20209,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 923,
+      "ID": "COND_TA005_01_01",
+      "qid": 20210,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 924,
+      "ID": "COND_TA006_01_01",
+      "qid": 20213,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 925,
+      "ID": "COND_TA007_01_01",
+      "qid": 20212,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 926,
+      "ID": "COND_TA008_01_01",
+      "qid": 20211,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 927,
+      "ID": "COND_TA009_01_01",
+      "qid": 20214,
+      "bitMin": 1,
+      "bitMax": 1
+    },
+    {
+      "$id": 928,
+      "ID": "COND_TA010_01_01",
+      "qid": 20215,
+      "bitMin": 1,
+      "bitMax": 1
+    }
+  ]
+}

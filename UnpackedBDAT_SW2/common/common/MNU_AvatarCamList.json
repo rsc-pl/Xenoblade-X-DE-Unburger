@@ -1,0 +1,228 @@
+{
+  "schema": [
+    {
+      "name": "ID",
+      "type": 9
+    },
+    {
+      "name": "LengthMin",
+      "type": 2
+    },
+    {
+      "name": "LengthMax",
+      "type": 2
+    },
+    {
+      "name": "LengthDef",
+      "type": 2
+    },
+    {
+      "name": "EaseFrm",
+      "type": 1
+    },
+    {
+      "name": "TransSpd",
+      "type": 2
+    },
+    {
+      "name": "Rot",
+      "type": 5
+    },
+    {
+      "name": "Fov",
+      "type": 2
+    },
+    {
+      "name": "NearClip",
+      "type": 2
+    },
+    {
+      "name": "FarClip",
+      "type": 2
+    },
+    {
+      "name": "DofPixel",
+      "type": 2
+    },
+    {
+      "name": "DofStrength",
+      "type": 2
+    },
+    {
+      "name": "Height",
+      "type": 2
+    },
+    {
+      "name": "Side",
+      "type": 5
+    },
+    {
+      "name": "Distance",
+      "type": 2
+    }
+  ],
+  "rows": [
+    {
+      "$id": 0,
+      "ID": "AVT_CAM_LONG",
+      "LengthMin": 300,
+      "LengthMax": 600,
+      "LengthDef": 450,
+      "EaseFrm": 30,
+      "TransSpd": 10,
+      "Rot": -20,
+      "Fov": 30,
+      "NearClip": 4,
+      "FarClip": 400,
+      "DofPixel": 17,
+      "DofStrength": 15,
+      "Height": 100,
+      "Side": -50,
+      "Distance": 450
+    },
+    {
+      "$id": 1,
+      "ID": "AVT_CAM_UP",
+      "LengthMin": 100,
+      "LengthMax": 300,
+      "LengthDef": 120,
+      "EaseFrm": 30,
+      "TransSpd": 10,
+      "Rot": -20,
+      "Fov": 22,
+      "NearClip": 3,
+      "FarClip": 400,
+      "DofPixel": 50,
+      "DofStrength": 9,
+      "Height": 100,
+      "Side": -50,
+      "Distance": 120
+    },
+    {
+      "$id": 2,
+      "ID": "AVT_CAM_MODEL_VIEW",
+      "LengthMin": 100,
+      "LengthMax": 400,
+      "LengthDef": 350,
+      "EaseFrm": 30,
+      "TransSpd": 10,
+      "Rot": -20,
+      "Fov": 30,
+      "NearClip": 3,
+      "FarClip": 400,
+      "DofPixel": 8,
+      "DofStrength": 15,
+      "Height": 100,
+      "Side": -50,
+      "Distance": 350
+    },
+    {
+      "$id": 3,
+      "ID": "AVT_CAM_EYE",
+      "LengthMin": 100,
+      "LengthMax": 300,
+      "LengthDef": 120,
+      "EaseFrm": 30,
+      "TransSpd": 10,
+      "Rot": -20,
+      "Fov": 22,
+      "NearClip": 3,
+      "FarClip": 400,
+      "DofPixel": 50,
+      "DofStrength": 9,
+      "Height": 150,
+      "Side": -50,
+      "Distance": 120
+    },
+    {
+      "$id": 4,
+      "ID": "AVT_STS_CAM_CENTER",
+      "LengthMin": 0,
+      "LengthMax": 0,
+      "LengthDef": 0,
+      "EaseFrm": 0,
+      "TransSpd": 0,
+      "Rot": 40,
+      "Fov": 0,
+      "NearClip": 0,
+      "FarClip": 0,
+      "DofPixel": 17,
+      "DofStrength": 15,
+      "Height": 100,
+      "Side": 0,
+      "Distance": 260
+    },
+    {
+      "$id": 5,
+      "ID": "AVT_STS_CAM_UP",
+      "LengthMin": 0,
+      "LengthMax": 0,
+      "LengthDef": 0,
+      "EaseFrm": 0,
+      "TransSpd": 10,
+      "Rot": 50,
+      "Fov": 22,
+      "NearClip": 3,
+      "FarClip": 400,
+      "DofPixel": 50,
+      "DofStrength": 9,
+      "Height": 155,
+      "Side": -30,
+      "Distance": 90
+    },
+    {
+      "$id": 6,
+      "ID": "AVT_STS_CAM_MODEL_VIEW",
+      "LengthMin": 0,
+      "LengthMax": 0,
+      "LengthDef": 0,
+      "EaseFrm": 0,
+      "TransSpd": 10,
+      "Rot": 40,
+      "Fov": 30,
+      "NearClip": 3,
+      "FarClip": 400,
+      "DofPixel": 17,
+      "DofStrength": 15,
+      "Height": 100,
+      "Side": -50,
+      "Distance": 260
+    },
+    {
+      "$id": 7,
+      "ID": "AVT_STS_CAM_EYE",
+      "LengthMin": 0,
+      "LengthMax": 0,
+      "LengthDef": 0,
+      "EaseFrm": 0,
+      "TransSpd": 10,
+      "Rot": 20,
+      "Fov": 22,
+      "NearClip": 3,
+      "FarClip": 400,
+      "DofPixel": 40,
+      "DofStrength": 2,
+      "Height": 165,
+      "Side": -18,
+      "Distance": 45
+    },
+    {
+      "$id": 8,
+      "ID": "AVT_STS_CAM_BASE_RIGHT",
+      "LengthMin": 0,
+      "LengthMax": 0,
+      "LengthDef": 0,
+      "EaseFrm": 0,
+      "TransSpd": 0,
+      "Rot": 40,
+      "Fov": 0,
+      "NearClip": 0,
+      "FarClip": 0,
+      "DofPixel": 17,
+      "DofStrength": 15,
+      "Height": 100,
+      "Side": -100,
+      "Distance": 260
+    }
+  ]
+}

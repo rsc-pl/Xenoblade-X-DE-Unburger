@@ -1,0 +1,4458 @@
+{
+  "schema": [
+    {
+      "name": "ID",
+      "type": 9
+    },
+    {
+      "name": "ref_item_bdat",
+      "type": 2
+    },
+    {
+      "name": "item_id",
+      "type": 2
+    },
+    {
+      "name": "count",
+      "type": 1
+    },
+    {
+      "name": "deduct",
+      "type": 1
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "ID": "COLLECT_001",
+      "ref_item_bdat": 27,
+      "item_id": 121,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 2,
+      "ID": "COLLECT_002",
+      "ref_item_bdat": 27,
+      "item_id": 31,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 3,
+      "ID": "COLLECT_003",
+      "ref_item_bdat": 27,
+      "item_id": 34,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 4,
+      "ID": "COLLECT_004",
+      "ref_item_bdat": 27,
+      "item_id": 7,
+      "count": 3,
+      "deduct": 0
+    },
+    {
+      "$id": 5,
+      "ID": "COLLECT_005",
+      "ref_item_bdat": 27,
+      "item_id": 3,
+      "count": 3,
+      "deduct": 0
+    },
+    {
+      "$id": 6,
+      "ID": "COLLECT_006",
+      "ref_item_bdat": 27,
+      "item_id": 1,
+      "count": 3,
+      "deduct": 0
+    },
+    {
+      "$id": 7,
+      "ID": "COLLECT_007",
+      "ref_item_bdat": 27,
+      "item_id": 4,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 8,
+      "ID": "COLLECT_008",
+      "ref_item_bdat": 27,
+      "item_id": 8,
+      "count": 2,
+      "deduct": 0
+    },
+    {
+      "$id": 9,
+      "ID": "COLLECT_0101_01",
+      "ref_item_bdat": 27,
+      "item_id": 181,
+      "count": 2,
+      "deduct": 0
+    },
+    {
+      "$id": 10,
+      "ID": "COLLECT_0105_02",
+      "ref_item_bdat": 29,
+      "item_id": 1,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 11,
+      "ID": "COLLECT_0104_01",
+      "ref_item_bdat": 27,
+      "item_id": 182,
+      "count": 3,
+      "deduct": 0
+    },
+    {
+      "$id": 12,
+      "ID": "COLLECT_0104_02",
+      "ref_item_bdat": 27,
+      "item_id": 183,
+      "count": 2,
+      "deduct": 0
+    },
+    {
+      "$id": 13,
+      "ID": "COLLECT_0106_01",
+      "ref_item_bdat": 26,
+      "item_id": 0,
+      "count": 5,
+      "deduct": 1
+    },
+    {
+      "$id": 14,
+      "ID": "COLLECT_0107_01",
+      "ref_item_bdat": 27,
+      "item_id": 121,
+      "count": 3,
+      "deduct": 1
+    },
+    {
+      "$id": 15,
+      "ID": "COLLECT_0111_01",
+      "ref_item_bdat": 29,
+      "item_id": 221,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 16,
+      "ID": "COLLECT_0112_01",
+      "ref_item_bdat": 27,
+      "item_id": 68,
+      "count": 3,
+      "deduct": 0
+    },
+    {
+      "$id": 17,
+      "ID": "COLLECT_0112_02",
+      "ref_item_bdat": 29,
+      "item_id": 116,
+      "count": 6,
+      "deduct": 0
+    },
+    {
+      "$id": 18,
+      "ID": "COLLECT_0113_01_01",
+      "ref_item_bdat": 26,
+      "item_id": 289,
+      "count": 4,
+      "deduct": 0
+    },
+    {
+      "$id": 19,
+      "ID": "COLLECT_0113_01_02",
+      "ref_item_bdat": 27,
+      "item_id": 165,
+      "count": 2,
+      "deduct": 0
+    },
+    {
+      "$id": 20,
+      "ID": "COLLECT_0114_01_01",
+      "ref_item_bdat": 26,
+      "item_id": 705,
+      "count": 2,
+      "deduct": 0
+    },
+    {
+      "$id": 21,
+      "ID": "COLLECT_0114_01_02",
+      "ref_item_bdat": 26,
+      "item_id": 515,
+      "count": 2,
+      "deduct": 0
+    },
+    {
+      "$id": 22,
+      "ID": "COLLECT_0114_01_03",
+      "ref_item_bdat": 27,
+      "item_id": 222,
+      "count": 2,
+      "deduct": 0
+    },
+    {
+      "$id": 23,
+      "ID": "COLLECT_0115_01",
+      "ref_item_bdat": 7,
+      "item_id": 287,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 24,
+      "ID": "COLLECT_0115_02",
+      "ref_item_bdat": 2,
+      "item_id": 11,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 25,
+      "ID": "COLLECT_0120_01",
+      "ref_item_bdat": 29,
+      "item_id": 115,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 26,
+      "ID": "COLLECT_0122_01_01",
+      "ref_item_bdat": 26,
+      "item_id": 396,
+      "count": 2,
+      "deduct": 0
+    },
+    {
+      "$id": 27,
+      "ID": "COLLECT_0122_01_02",
+      "ref_item_bdat": 27,
+      "item_id": 257,
+      "count": 5,
+      "deduct": 0
+    },
+    {
+      "$id": 28,
+      "ID": "COLLECT_0131_01",
+      "ref_item_bdat": 29,
+      "item_id": 32,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 29,
+      "ID": "COLLECT_0131_02",
+      "ref_item_bdat": 29,
+      "item_id": 33,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 30,
+      "ID": "COLLECT_0134_01",
+      "ref_item_bdat": 25,
+      "item_id": 7,
+      "count": 3,
+      "deduct": 1
+    },
+    {
+      "$id": 31,
+      "ID": "COLLECT_0134_02",
+      "ref_item_bdat": 25,
+      "item_id": 6,
+      "count": 2,
+      "deduct": 1
+    },
+    {
+      "$id": 32,
+      "ID": "COLLECT_0150_01",
+      "ref_item_bdat": 29,
+      "item_id": 213,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 33,
+      "ID": "COLLECT_0150_02",
+      "ref_item_bdat": 29,
+      "item_id": 51,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 34,
+      "ID": "COLLECT_0151_01",
+      "ref_item_bdat": 29,
+      "item_id": 10,
+      "count": 48,
+      "deduct": 0
+    },
+    {
+      "$id": 35,
+      "ID": "COLLECT_0152_01",
+      "ref_item_bdat": 25,
+      "item_id": 11,
+      "count": 5,
+      "deduct": 0
+    },
+    {
+      "$id": 36,
+      "ID": "COLLECT_0152_02",
+      "ref_item_bdat": 27,
+      "item_id": 249,
+      "count": 5,
+      "deduct": 0
+    },
+    {
+      "$id": 37,
+      "ID": "COLLECT_0152_TRANS",
+      "ref_item_bdat": 29,
+      "item_id": 203,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 38,
+      "ID": "COLLECT_0156_01_01",
+      "ref_item_bdat": 26,
+      "item_id": 304,
+      "count": 5,
+      "deduct": 1
+    },
+    {
+      "$id": 39,
+      "ID": "COLLECT_0156_01_02",
+      "ref_item_bdat": 27,
+      "item_id": 278,
+      "count": 5,
+      "deduct": 1
+    },
+    {
+      "$id": 40,
+      "ID": "COLLECT_0156_01_03",
+      "ref_item_bdat": 27,
+      "item_id": 163,
+      "count": 3,
+      "deduct": 1
+    },
+    {
+      "$id": 41,
+      "ID": "COLLECT_0157_01",
+      "ref_item_bdat": 29,
+      "item_id": 174,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 42,
+      "ID": "COLLECT_0164_01",
+      "ref_item_bdat": 29,
+      "item_id": 173,
+      "count": 1,
+      "deduct": 1
+    },
+    {
+      "$id": 43,
+      "ID": "COLLECT_0166_01",
+      "ref_item_bdat": 25,
+      "item_id": 2,
+      "count": 5,
+      "deduct": 1
+    },
+    {
+      "$id": 44,
+      "ID": "COLLECT_0167_01",
+      "ref_item_bdat": 27,
+      "item_id": 189,
+      "count": 8,
+      "deduct": 1
+    },
+    {
+      "$id": 45,
+      "ID": "COLLECT_0168_01",
+      "ref_item_bdat": 29,
+      "item_id": 180,
+      "count": 1,
+      "deduct": 1
+    },
+    {
+      "$id": 46,
+      "ID": "COLLECT_0171_01",
+      "ref_item_bdat": 27,
+      "item_id": 132,
+      "count": 7,
+      "deduct": 1
+    },
+    {
+      "$id": 47,
+      "ID": "COLLECT_0172_01",
+      "ref_item_bdat": 29,
+      "item_id": 207,
+      "count": 1,
+      "deduct": 1
+    },
+    {
+      "$id": 48,
+      "ID": "COLLECT_0174_01",
+      "ref_item_bdat": 25,
+      "item_id": 2,
+      "count": 10,
+      "deduct": 1
+    },
+    {
+      "$id": 49,
+      "ID": "COLLECT_0174_02",
+      "ref_item_bdat": 25,
+      "item_id": 1,
+      "count": 10,
+      "deduct": 1
+    },
+    {
+      "$id": 50,
+      "ID": "COLLECT_0176_01",
+      "ref_item_bdat": 29,
+      "item_id": 208,
+      "count": 1,
+      "deduct": 1
+    },
+    {
+      "$id": 51,
+      "ID": "COLLECT_0180_01",
+      "ref_item_bdat": 29,
+      "item_id": 209,
+      "count": 1,
+      "deduct": 1
+    },
+    {
+      "$id": 52,
+      "ID": "COLLECT_0186_01",
+      "ref_item_bdat": 25,
+      "item_id": 1,
+      "count": 5,
+      "deduct": 0
+    },
+    {
+      "$id": 53,
+      "ID": "COLLECT_0187_01",
+      "ref_item_bdat": 25,
+      "item_id": 2,
+      "count": 15,
+      "deduct": 0
+    },
+    {
+      "$id": 54,
+      "ID": "COLLECT_0188_01_01",
+      "ref_item_bdat": 25,
+      "item_id": 2,
+      "count": 30,
+      "deduct": 0
+    },
+    {
+      "$id": 55,
+      "ID": "COLLECT_0188_01_02",
+      "ref_item_bdat": 25,
+      "item_id": 1,
+      "count": 10,
+      "deduct": 0
+    },
+    {
+      "$id": 56,
+      "ID": "COLLECT_0189_01_01",
+      "ref_item_bdat": 25,
+      "item_id": 2,
+      "count": 50,
+      "deduct": 0
+    },
+    {
+      "$id": 57,
+      "ID": "COLLECT_0189_01_02",
+      "ref_item_bdat": 25,
+      "item_id": 1,
+      "count": 20,
+      "deduct": 0
+    },
+    {
+      "$id": 58,
+      "ID": "COLLECT_0191_01",
+      "ref_item_bdat": 25,
+      "item_id": 1,
+      "count": 10,
+      "deduct": 0
+    },
+    {
+      "$id": 59,
+      "ID": "COLLECT_0251_01",
+      "ref_item_bdat": 29,
+      "item_id": 121,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 60,
+      "ID": "COLLECT_0252_01_01",
+      "ref_item_bdat": 66,
+      "item_id": 51,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 61,
+      "ID": "COLLECT_0252_01_02",
+      "ref_item_bdat": 66,
+      "item_id": 23,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 62,
+      "ID": "COLLECT_0252_01_03",
+      "ref_item_bdat": 66,
+      "item_id": 24,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 63,
+      "ID": "COLLECT_0253_01",
+      "ref_item_bdat": 27,
+      "item_id": 158,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 64,
+      "ID": "COLLECT_0253_02_01",
+      "ref_item_bdat": 29,
+      "item_id": 205,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 65,
+      "ID": "COLLECT_0253_02_02",
+      "ref_item_bdat": 29,
+      "item_id": 206,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 66,
+      "ID": "COLLECT_0253_02_03",
+      "ref_item_bdat": 29,
+      "item_id": 122,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 67,
+      "ID": "COLLECT_0253_03",
+      "ref_item_bdat": 29,
+      "item_id": 175,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 68,
+      "ID": "COLLECT_0255_01_01",
+      "ref_item_bdat": 26,
+      "item_id": 277,
+      "count": 5,
+      "deduct": 0
+    },
+    {
+      "$id": 69,
+      "ID": "COLLECT_0255_01_02",
+      "ref_item_bdat": 26,
+      "item_id": 397,
+      "count": 3,
+      "deduct": 0
+    },
+    {
+      "$id": 70,
+      "ID": "COLLECT_0255_02_01",
+      "ref_item_bdat": 26,
+      "item_id": 668,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 71,
+      "ID": "COLLECT_0255_02_02",
+      "ref_item_bdat": 29,
+      "item_id": 2,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 72,
+      "ID": "COLLECT_0256_01",
+      "ref_item_bdat": 29,
+      "item_id": 3,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 73,
+      "ID": "COLLECT_0256_02",
+      "ref_item_bdat": 26,
+      "item_id": 675,
+      "count": 2,
+      "deduct": 0
+    },
+    {
+      "$id": 74,
+      "ID": "COLLECT_0256_03",
+      "ref_item_bdat": 26,
+      "item_id": 409,
+      "count": 2,
+      "deduct": 0
+    },
+    {
+      "$id": 75,
+      "ID": "COLLECT_0257_01",
+      "ref_item_bdat": 26,
+      "item_id": 300,
+      "count": 5,
+      "deduct": 0
+    },
+    {
+      "$id": 76,
+      "ID": "COLLECT_0257_02_01",
+      "ref_item_bdat": 27,
+      "item_id": 32,
+      "count": 5,
+      "deduct": 0
+    },
+    {
+      "$id": 77,
+      "ID": "COLLECT_0257_02_02",
+      "ref_item_bdat": 27,
+      "item_id": 61,
+      "count": 3,
+      "deduct": 0
+    },
+    {
+      "$id": 78,
+      "ID": "COLLECT_0258_01",
+      "ref_item_bdat": 27,
+      "item_id": 122,
+      "count": 2,
+      "deduct": 0
+    },
+    {
+      "$id": 79,
+      "ID": "COLLECT_0258_02",
+      "ref_item_bdat": 29,
+      "item_id": 52,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 80,
+      "ID": "COLLECT_0260_01",
+      "ref_item_bdat": 7,
+      "item_id": 23,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 81,
+      "ID": "COLLECT_0260_02",
+      "ref_item_bdat": 6,
+      "item_id": 24,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 82,
+      "ID": "COLLECT_0269_01_01",
+      "ref_item_bdat": 29,
+      "item_id": 176,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 83,
+      "ID": "COLLECT_0269_01_02",
+      "ref_item_bdat": 29,
+      "item_id": 177,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 84,
+      "ID": "COLLECT_0269_01_03",
+      "ref_item_bdat": 29,
+      "item_id": 178,
+      "count": 3,
+      "deduct": 0
+    },
+    {
+      "$id": 85,
+      "ID": "COLLECT_0270_01",
+      "ref_item_bdat": 66,
+      "item_id": 22,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 86,
+      "ID": "COLLECT_0304_01",
+      "ref_item_bdat": 27,
+      "item_id": 76,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 87,
+      "ID": "COLLECT_0305_01",
+      "ref_item_bdat": 26,
+      "item_id": 524,
+      "count": 3,
+      "deduct": 1
+    },
+    {
+      "$id": 88,
+      "ID": "COLLECT_0307_01",
+      "ref_item_bdat": 29,
+      "item_id": 125,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 89,
+      "ID": "COLLECT_0306_01",
+      "ref_item_bdat": 26,
+      "item_id": 518,
+      "count": 4,
+      "deduct": 0
+    },
+    {
+      "$id": 90,
+      "ID": "COLLECT_0306_02",
+      "ref_item_bdat": 26,
+      "item_id": 378,
+      "count": 3,
+      "deduct": 0
+    },
+    {
+      "$id": 91,
+      "ID": "COLLECT_0311_01",
+      "ref_item_bdat": 29,
+      "item_id": 4,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 92,
+      "ID": "COLLECT_0311_02_01",
+      "ref_item_bdat": 27,
+      "item_id": 56,
+      "count": 4,
+      "deduct": 0
+    },
+    {
+      "$id": 93,
+      "ID": "COLLECT_0311_02_02",
+      "ref_item_bdat": 26,
+      "item_id": 621,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 94,
+      "ID": "COLLECT_0312_01",
+      "ref_item_bdat": 26,
+      "item_id": 489,
+      "count": 3,
+      "deduct": 0
+    },
+    {
+      "$id": 95,
+      "ID": "COLLECT_0312_02",
+      "ref_item_bdat": 29,
+      "item_id": 65,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 96,
+      "ID": "COLLECT_0351_01",
+      "ref_item_bdat": 27,
+      "item_id": 150,
+      "count": 5,
+      "deduct": 0
+    },
+    {
+      "$id": 97,
+      "ID": "COLLECT_0351_02",
+      "ref_item_bdat": 27,
+      "item_id": 57,
+      "count": 3,
+      "deduct": 0
+    },
+    {
+      "$id": 98,
+      "ID": "COLLECT_0401_01_01",
+      "ref_item_bdat": 26,
+      "item_id": 561,
+      "count": 6,
+      "deduct": 0
+    },
+    {
+      "$id": 99,
+      "ID": "COLLECT_0401_01_02",
+      "ref_item_bdat": 26,
+      "item_id": 434,
+      "count": 6,
+      "deduct": 0
+    },
+    {
+      "$id": 100,
+      "ID": "COLLECT_0402_01",
+      "ref_item_bdat": 27,
+      "item_id": 31,
+      "count": 6,
+      "deduct": 1
+    },
+    {
+      "$id": 101,
+      "ID": "COLLECT_0402_02",
+      "ref_item_bdat": 26,
+      "item_id": 0,
+      "count": 3,
+      "deduct": 1
+    },
+    {
+      "$id": 102,
+      "ID": "COLLECT_0402_03",
+      "ref_item_bdat": 26,
+      "item_id": 0,
+      "count": 1,
+      "deduct": 1
+    },
+    {
+      "$id": 103,
+      "ID": "COLLECT_0405_01_01",
+      "ref_item_bdat": 26,
+      "item_id": 299,
+      "count": 5,
+      "deduct": 0
+    },
+    {
+      "$id": 104,
+      "ID": "COLLECT_0405_01_02",
+      "ref_item_bdat": 26,
+      "item_id": 492,
+      "count": 2,
+      "deduct": 0
+    },
+    {
+      "$id": 105,
+      "ID": "COLLECT_0405_01_03",
+      "ref_item_bdat": 27,
+      "item_id": 33,
+      "count": 3,
+      "deduct": 0
+    },
+    {
+      "$id": 106,
+      "ID": "COLLECT_0405_02",
+      "ref_item_bdat": 29,
+      "item_id": 6,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 107,
+      "ID": "COLLECT_0405_03",
+      "ref_item_bdat": 29,
+      "item_id": 5,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 108,
+      "ID": "COLLECT_0407_01_01",
+      "ref_item_bdat": 27,
+      "item_id": 123,
+      "count": 6,
+      "deduct": 0
+    },
+    {
+      "$id": 109,
+      "ID": "COLLECT_0407_01_02",
+      "ref_item_bdat": 27,
+      "item_id": 160,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 110,
+      "ID": "COLLECT_0407_01_03",
+      "ref_item_bdat": 27,
+      "item_id": 38,
+      "count": 2,
+      "deduct": 0
+    },
+    {
+      "$id": 111,
+      "ID": "COLLECT_0407_02_01",
+      "ref_item_bdat": 26,
+      "item_id": 377,
+      "count": 2,
+      "deduct": 0
+    },
+    {
+      "$id": 112,
+      "ID": "COLLECT_0407_02_02",
+      "ref_item_bdat": 26,
+      "item_id": 374,
+      "count": 2,
+      "deduct": 0
+    },
+    {
+      "$id": 113,
+      "ID": "COLLECT_0408_01",
+      "ref_item_bdat": 29,
+      "item_id": 7,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 114,
+      "ID": "COLLECT_0408_01_01",
+      "ref_item_bdat": 27,
+      "item_id": 14,
+      "count": 5,
+      "deduct": 0
+    },
+    {
+      "$id": 115,
+      "ID": "COLLECT_0408_01_02",
+      "ref_item_bdat": 27,
+      "item_id": 131,
+      "count": 3,
+      "deduct": 0
+    },
+    {
+      "$id": 116,
+      "ID": "COLLECT_0410_01_01",
+      "ref_item_bdat": 7,
+      "item_id": 26,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 117,
+      "ID": "COLLECT_0410_01_02",
+      "ref_item_bdat": 7,
+      "item_id": 29,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 118,
+      "ID": "COLLECT_0410_01_03",
+      "ref_item_bdat": 7,
+      "item_id": 810,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 119,
+      "ID": "COLLECT_0419_01_01",
+      "ref_item_bdat": 27,
+      "item_id": 107,
+      "count": 6,
+      "deduct": 0
+    },
+    {
+      "$id": 120,
+      "ID": "COLLECT_0419_01_02",
+      "ref_item_bdat": 27,
+      "item_id": 80,
+      "count": 4,
+      "deduct": 0
+    },
+    {
+      "$id": 121,
+      "ID": "COLLECT_0419_01_03",
+      "ref_item_bdat": 29,
+      "item_id": 72,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 122,
+      "ID": "COLLECT_0421_01_01",
+      "ref_item_bdat": 27,
+      "item_id": 180,
+      "count": 6,
+      "deduct": 0
+    },
+    {
+      "$id": 123,
+      "ID": "COLLECT_0421_01_02",
+      "ref_item_bdat": 27,
+      "item_id": 194,
+      "count": 3,
+      "deduct": 0
+    },
+    {
+      "$id": 124,
+      "ID": "COLLECT_0421_01_03",
+      "ref_item_bdat": 27,
+      "item_id": 190,
+      "count": 5,
+      "deduct": 0
+    },
+    {
+      "$id": 125,
+      "ID": "COLLECT_0421_02_01",
+      "ref_item_bdat": 27,
+      "item_id": 201,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 126,
+      "ID": "COLLECT_0421_02_02",
+      "ref_item_bdat": 27,
+      "item_id": 188,
+      "count": 8,
+      "deduct": 0
+    },
+    {
+      "$id": 127,
+      "ID": "COLLECT_0421_02_03",
+      "ref_item_bdat": 27,
+      "item_id": 207,
+      "count": 2,
+      "deduct": 0
+    },
+    {
+      "$id": 128,
+      "ID": "COLLECT_0421_02_04",
+      "ref_item_bdat": 27,
+      "item_id": 147,
+      "count": 10,
+      "deduct": 0
+    },
+    {
+      "$id": 129,
+      "ID": "COLLECT_0421_03",
+      "ref_item_bdat": 29,
+      "item_id": 95,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 130,
+      "ID": "COLLECT_0413_01",
+      "ref_item_bdat": 29,
+      "item_id": 21,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 131,
+      "ID": "COLLECT_0413_02",
+      "ref_item_bdat": 29,
+      "item_id": 14,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 132,
+      "ID": "COLLECT_0413_03",
+      "ref_item_bdat": 29,
+      "item_id": 15,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 133,
+      "ID": "COLLECT_0413_04",
+      "ref_item_bdat": 29,
+      "item_id": 16,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 134,
+      "ID": "COLLECT_0413_05",
+      "ref_item_bdat": 29,
+      "item_id": 11,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 135,
+      "ID": "COLLECT_0413_06",
+      "ref_item_bdat": 29,
+      "item_id": 12,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 136,
+      "ID": "COLLECT_0413_07",
+      "ref_item_bdat": 27,
+      "item_id": 120,
+      "count": 2,
+      "deduct": 0
+    },
+    {
+      "$id": 137,
+      "ID": "COLLECT_0413_08",
+      "ref_item_bdat": 27,
+      "item_id": 87,
+      "count": 5,
+      "deduct": 0
+    },
+    {
+      "$id": 138,
+      "ID": "COLLECT_0413_09",
+      "ref_item_bdat": 29,
+      "item_id": 20,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 139,
+      "ID": "COLLECT_0413_10",
+      "ref_item_bdat": 29,
+      "item_id": 17,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 140,
+      "ID": "COLLECT_0413_10_02",
+      "ref_item_bdat": 27,
+      "item_id": 92,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 141,
+      "ID": "COLLECT_0413_11",
+      "ref_item_bdat": 26,
+      "item_id": 507,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 142,
+      "ID": "COLLECT_0413_12",
+      "ref_item_bdat": 29,
+      "item_id": 18,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 143,
+      "ID": "COLLECT_0413_13",
+      "ref_item_bdat": 29,
+      "item_id": 13,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 144,
+      "ID": "COLLECT_0413_14",
+      "ref_item_bdat": 29,
+      "item_id": 19,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 145,
+      "ID": "COLLECT_0510_01",
+      "ref_item_bdat": 26,
+      "item_id": 657,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 146,
+      "ID": "COLLECT_0510_02_01",
+      "ref_item_bdat": 25,
+      "item_id": 12,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 147,
+      "ID": "COLLECT_0510_02_02",
+      "ref_item_bdat": 27,
+      "item_id": 178,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 148,
+      "ID": "COLLECT_0510_03",
+      "ref_item_bdat": 29,
+      "item_id": 216,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 149,
+      "ID": "COLLECT_0551_01",
+      "ref_item_bdat": 66,
+      "item_id": 52,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 150,
+      "ID": "COLLECT_0553_01",
+      "ref_item_bdat": 27,
+      "item_id": 149,
+      "count": 3,
+      "deduct": 0
+    },
+    {
+      "$id": 151,
+      "ID": "COLLECT_0553_02",
+      "ref_item_bdat": 27,
+      "item_id": 3,
+      "count": 4,
+      "deduct": 0
+    },
+    {
+      "$id": 152,
+      "ID": "COLLECT_0554_01",
+      "ref_item_bdat": 29,
+      "item_id": 138,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 153,
+      "ID": "COLLECT_0558_01_01",
+      "ref_item_bdat": 27,
+      "item_id": 6,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 154,
+      "ID": "COLLECT_0558_01_02",
+      "ref_item_bdat": 27,
+      "item_id": 209,
+      "count": 3,
+      "deduct": 0
+    },
+    {
+      "$id": 155,
+      "ID": "COLLECT_0558_01_03",
+      "ref_item_bdat": 27,
+      "item_id": 268,
+      "count": 2,
+      "deduct": 0
+    },
+    {
+      "$id": 156,
+      "ID": "COLLECT_0560_01",
+      "ref_item_bdat": 6,
+      "item_id": 25,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 157,
+      "ID": "COLLECT_0605_01_01",
+      "ref_item_bdat": 25,
+      "item_id": 5,
+      "count": 3,
+      "deduct": 0
+    },
+    {
+      "$id": 158,
+      "ID": "COLLECT_0605_01_02",
+      "ref_item_bdat": 27,
+      "item_id": 172,
+      "count": 10,
+      "deduct": 0
+    },
+    {
+      "$id": 159,
+      "ID": "COLLECT_0608_01",
+      "ref_item_bdat": 26,
+      "item_id": 280,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 160,
+      "ID": "COLLECT_0608_02_01",
+      "ref_item_bdat": 27,
+      "item_id": 54,
+      "count": 2,
+      "deduct": 0
+    },
+    {
+      "$id": 161,
+      "ID": "COLLECT_0608_02_02",
+      "ref_item_bdat": 25,
+      "item_id": 14,
+      "count": 5,
+      "deduct": 0
+    },
+    {
+      "$id": 162,
+      "ID": "COLLECT_0609_01",
+      "ref_item_bdat": 29,
+      "item_id": 8,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 163,
+      "ID": "COLLECT_0609_02",
+      "ref_item_bdat": 29,
+      "item_id": 8,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 164,
+      "ID": "COLLECT_0652_01_01",
+      "ref_item_bdat": 27,
+      "item_id": 248,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 165,
+      "ID": "COLLECT_0652_01_02",
+      "ref_item_bdat": 26,
+      "item_id": 381,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 166,
+      "ID": "COLLECT_0701_01",
+      "ref_item_bdat": 29,
+      "item_id": 143,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 167,
+      "ID": "COLLECT_0701_02",
+      "ref_item_bdat": 26,
+      "item_id": 458,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 168,
+      "ID": "COLLECT_0702_01",
+      "ref_item_bdat": 27,
+      "item_id": 73,
+      "count": 5,
+      "deduct": 0
+    },
+    {
+      "$id": 169,
+      "ID": "COLLECT_0702_02_01",
+      "ref_item_bdat": 27,
+      "item_id": 231,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 170,
+      "ID": "COLLECT_0702_02_02",
+      "ref_item_bdat": 27,
+      "item_id": 217,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 171,
+      "ID": "COLLECT_0702_02_03",
+      "ref_item_bdat": 27,
+      "item_id": 225,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 172,
+      "ID": "COLLECT_0919_01",
+      "ref_item_bdat": 6,
+      "item_id": 15,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 173,
+      "ID": "COLLECT_0920_01",
+      "ref_item_bdat": 6,
+      "item_id": 17,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 174,
+      "ID": "COLLECT_0951_01",
+      "ref_item_bdat": 29,
+      "item_id": 101,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 175,
+      "ID": "COLLECT_0961_01",
+      "ref_item_bdat": 29,
+      "item_id": 109,
+      "count": 8,
+      "deduct": 0
+    },
+    {
+      "$id": 176,
+      "ID": "COLLECT_0965_01",
+      "ref_item_bdat": 29,
+      "item_id": 204,
+      "count": 1,
+      "deduct": 1
+    },
+    {
+      "$id": 177,
+      "ID": "COLLECT_0966_01",
+      "ref_item_bdat": 27,
+      "item_id": 93,
+      "count": 8,
+      "deduct": 1
+    },
+    {
+      "$id": 178,
+      "ID": "COLLECT_0966_02",
+      "ref_item_bdat": 27,
+      "item_id": 15,
+      "count": 3,
+      "deduct": 1
+    },
+    {
+      "$id": 179,
+      "ID": "COLLECT_0966_03",
+      "ref_item_bdat": 27,
+      "item_id": 119,
+      "count": 6,
+      "deduct": 1
+    },
+    {
+      "$id": 180,
+      "ID": "COLLECT_0967_01",
+      "ref_item_bdat": 27,
+      "item_id": 59,
+      "count": 3,
+      "deduct": 1
+    },
+    {
+      "$id": 181,
+      "ID": "BLANK",
+      "ref_item_bdat": 0,
+      "item_id": 0,
+      "count": 0,
+      "deduct": 0
+    },
+    {
+      "$id": 182,
+      "ID": "COLLECT_0969_01",
+      "ref_item_bdat": 29,
+      "item_id": 110,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 183,
+      "ID": "COLLECT_0801_01",
+      "ref_item_bdat": 29,
+      "item_id": 146,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 184,
+      "ID": "COLLECT_0801_00_01",
+      "ref_item_bdat": 66,
+      "item_id": 62,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 185,
+      "ID": "COLLECT_0801_00_02",
+      "ref_item_bdat": 66,
+      "item_id": 63,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 186,
+      "ID": "COLLECT_0801_00_03",
+      "ref_item_bdat": 66,
+      "item_id": 64,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 187,
+      "ID": "COLLECT_0853_01",
+      "ref_item_bdat": 29,
+      "item_id": 167,
+      "count": 5,
+      "deduct": 0
+    },
+    {
+      "$id": 188,
+      "ID": "COLLECT_0854_01",
+      "ref_item_bdat": 27,
+      "item_id": 59,
+      "count": 3,
+      "deduct": 1
+    },
+    {
+      "$id": 189,
+      "ID": "COLLECT_0855_01_01",
+      "ref_item_bdat": 6,
+      "item_id": 1587,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 190,
+      "ID": "COLLECT_0855_01_02",
+      "ref_item_bdat": 6,
+      "item_id": 1588,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 191,
+      "ID": "COLLECT_0855_01_03",
+      "ref_item_bdat": 6,
+      "item_id": 1589,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 192,
+      "ID": "COLLECT_0855_02_01",
+      "ref_item_bdat": 29,
+      "item_id": 104,
+      "count": 1,
+      "deduct": 1
+    },
+    {
+      "$id": 193,
+      "ID": "COLLECT_0855_02_02",
+      "ref_item_bdat": 29,
+      "item_id": 105,
+      "count": 1,
+      "deduct": 1
+    },
+    {
+      "$id": 194,
+      "ID": "COLLECT_0855_02_03",
+      "ref_item_bdat": 29,
+      "item_id": 106,
+      "count": 1,
+      "deduct": 1
+    },
+    {
+      "$id": 195,
+      "ID": "COLLECT_0859_01",
+      "ref_item_bdat": 25,
+      "item_id": 4,
+      "count": 3,
+      "deduct": 1
+    },
+    {
+      "$id": 196,
+      "ID": "COLLECT_0860_01",
+      "ref_item_bdat": 29,
+      "item_id": 108,
+      "count": 3,
+      "deduct": 0
+    },
+    {
+      "$id": 197,
+      "ID": "COLLECT_0861_01_01",
+      "ref_item_bdat": 66,
+      "item_id": 29,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 198,
+      "ID": "COLLECT_0861_01_02",
+      "ref_item_bdat": 66,
+      "item_id": 30,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 199,
+      "ID": "COLLECT_0861_01_03",
+      "ref_item_bdat": 66,
+      "item_id": 31,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 200,
+      "ID": "COLLECT_0861_02",
+      "ref_item_bdat": 66,
+      "item_id": 4,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 201,
+      "ID": "COLLECT_0860_02_01",
+      "ref_item_bdat": 25,
+      "item_id": 3,
+      "count": 5,
+      "deduct": 0
+    },
+    {
+      "$id": 202,
+      "ID": "COLLECT_0860_02_02",
+      "ref_item_bdat": 26,
+      "item_id": 337,
+      "count": 2,
+      "deduct": 0
+    },
+    {
+      "$id": 203,
+      "ID": "COLLECT_0860_02_03",
+      "ref_item_bdat": 27,
+      "item_id": 193,
+      "count": 4,
+      "deduct": 0
+    },
+    {
+      "$id": 204,
+      "ID": "COLLECT_0861_01",
+      "ref_item_bdat": 29,
+      "item_id": 90,
+      "count": 1,
+      "deduct": 1
+    },
+    {
+      "$id": 205,
+      "ID": "COLLECT_0863_01_01",
+      "ref_item_bdat": 26,
+      "item_id": 687,
+      "count": 3,
+      "deduct": 1
+    },
+    {
+      "$id": 206,
+      "ID": "COLLECT_0863_01_02",
+      "ref_item_bdat": 26,
+      "item_id": 388,
+      "count": 1,
+      "deduct": 1
+    },
+    {
+      "$id": 207,
+      "ID": "COLLECT_0864_01_01",
+      "ref_item_bdat": 29,
+      "item_id": 96,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 208,
+      "ID": "COLLECT_0865_01_01",
+      "ref_item_bdat": 29,
+      "item_id": 97,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 209,
+      "ID": "COLLECT_0865_01_02",
+      "ref_item_bdat": 29,
+      "item_id": 98,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 210,
+      "ID": "COLLECT_0866_01",
+      "ref_item_bdat": 29,
+      "item_id": 90,
+      "count": 3,
+      "deduct": 1
+    },
+    {
+      "$id": 211,
+      "ID": "COLLECT_0866_02",
+      "ref_item_bdat": 29,
+      "item_id": 107,
+      "count": 1,
+      "deduct": 1
+    },
+    {
+      "$id": 212,
+      "ID": "COLLECT_0869_01",
+      "ref_item_bdat": 29,
+      "item_id": 155,
+      "count": 4,
+      "deduct": 1
+    },
+    {
+      "$id": 213,
+      "ID": "COLLECT_0871_01",
+      "ref_item_bdat": 29,
+      "item_id": 99,
+      "count": 3,
+      "deduct": 0
+    },
+    {
+      "$id": 214,
+      "ID": "COLLECT_0871_02",
+      "ref_item_bdat": 29,
+      "item_id": 99,
+      "count": 4,
+      "deduct": 0
+    },
+    {
+      "$id": 215,
+      "ID": "COLLECT_0871_03",
+      "ref_item_bdat": 29,
+      "item_id": 99,
+      "count": 5,
+      "deduct": 0
+    },
+    {
+      "$id": 216,
+      "ID": "COLLECT_0874_01",
+      "ref_item_bdat": 26,
+      "item_id": 480,
+      "count": 1,
+      "deduct": 1
+    },
+    {
+      "$id": 217,
+      "ID": "COLLECT_0875_01",
+      "ref_item_bdat": 26,
+      "item_id": 421,
+      "count": 3,
+      "deduct": 0
+    },
+    {
+      "$id": 218,
+      "ID": "COLLECT_0875_02",
+      "ref_item_bdat": 25,
+      "item_id": 10,
+      "count": 3,
+      "deduct": 0
+    },
+    {
+      "$id": 219,
+      "ID": "COLLECT_0875_03",
+      "ref_item_bdat": 25,
+      "item_id": 10,
+      "count": 3,
+      "deduct": 0
+    },
+    {
+      "$id": 220,
+      "ID": "COLLECT_0876_01",
+      "ref_item_bdat": 29,
+      "item_id": 212,
+      "count": 5,
+      "deduct": 1
+    },
+    {
+      "$id": 221,
+      "ID": "COLLECT_0901_01",
+      "ref_item_bdat": 29,
+      "item_id": 114,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 222,
+      "ID": "COLLECT_0902_01_01",
+      "ref_item_bdat": 66,
+      "item_id": 78,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 223,
+      "ID": "COLLECT_0902_01_02",
+      "ref_item_bdat": 66,
+      "item_id": 79,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 224,
+      "ID": "COLLECT_0902_02",
+      "ref_item_bdat": 29,
+      "item_id": 164,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 225,
+      "ID": "COLLECT_0904_01",
+      "ref_item_bdat": 27,
+      "item_id": 67,
+      "count": 5,
+      "deduct": 0
+    },
+    {
+      "$id": 226,
+      "ID": "COLLECT_0912_01",
+      "ref_item_bdat": 29,
+      "item_id": 224,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 227,
+      "ID": "COLLECT_0914_01_01",
+      "ref_item_bdat": 29,
+      "item_id": 225,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 228,
+      "ID": "COLLECT_0914_01_02",
+      "ref_item_bdat": 29,
+      "item_id": 226,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 229,
+      "ID": "COLLECT_0914_01_03",
+      "ref_item_bdat": 29,
+      "item_id": 227,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 230,
+      "ID": "COLLECT_0917_01",
+      "ref_item_bdat": 66,
+      "item_id": 86,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 231,
+      "ID": "COLLECT_0918_01_01",
+      "ref_item_bdat": 66,
+      "item_id": 35,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 232,
+      "ID": "COLLECT_0918_01_02",
+      "ref_item_bdat": 66,
+      "item_id": 36,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 233,
+      "ID": "COLLECT_0918_01_03",
+      "ref_item_bdat": 66,
+      "item_id": 37,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 234,
+      "ID": "COLLECT_0920_01_01",
+      "ref_item_bdat": 26,
+      "item_id": 414,
+      "count": 5,
+      "deduct": 0
+    },
+    {
+      "$id": 235,
+      "ID": "COLLECT_0920_01_02",
+      "ref_item_bdat": 27,
+      "item_id": 262,
+      "count": 6,
+      "deduct": 0
+    },
+    {
+      "$id": 236,
+      "ID": "COLLECT_0922_01",
+      "ref_item_bdat": 0,
+      "item_id": 0,
+      "count": 0,
+      "deduct": 1
+    },
+    {
+      "$id": 237,
+      "ID": "COLLECT_0924_01_01",
+      "ref_item_bdat": 66,
+      "item_id": 75,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 238,
+      "ID": "COLLECT_0924_01_02",
+      "ref_item_bdat": 66,
+      "item_id": 76,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 239,
+      "ID": "COLLECT_0924_01_03",
+      "ref_item_bdat": 66,
+      "item_id": 77,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 240,
+      "ID": "COLLECT_0923_01",
+      "ref_item_bdat": 66,
+      "item_id": 98,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 241,
+      "ID": "COLLECT_0925_01",
+      "ref_item_bdat": 26,
+      "item_id": 336,
+      "count": 1,
+      "deduct": 1
+    },
+    {
+      "$id": 242,
+      "ID": "COLLECT_0925_02",
+      "ref_item_bdat": 26,
+      "item_id": 692,
+      "count": 1,
+      "deduct": 1
+    },
+    {
+      "$id": 243,
+      "ID": "COLLECT_0926_01",
+      "ref_item_bdat": 26,
+      "item_id": 604,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 244,
+      "ID": "COLLECT_0926_02",
+      "ref_item_bdat": 29,
+      "item_id": 168,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 245,
+      "ID": "COLLECT_0926_03",
+      "ref_item_bdat": 25,
+      "item_id": 15,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 246,
+      "ID": "COLLECT_1004_01",
+      "ref_item_bdat": 27,
+      "item_id": 86,
+      "count": 3,
+      "deduct": 1
+    },
+    {
+      "$id": 247,
+      "ID": "COLLECT_1010_01_01",
+      "ref_item_bdat": 27,
+      "item_id": 279,
+      "count": 10,
+      "deduct": 1
+    },
+    {
+      "$id": 248,
+      "ID": "COLLECT_1010_01_02",
+      "ref_item_bdat": 27,
+      "item_id": 156,
+      "count": 10,
+      "deduct": 1
+    },
+    {
+      "$id": 249,
+      "ID": "COLLECT_1011_01_01",
+      "ref_item_bdat": 25,
+      "item_id": 9,
+      "count": 2,
+      "deduct": 1
+    },
+    {
+      "$id": 250,
+      "ID": "COLLECT_1011_01_02",
+      "ref_item_bdat": 27,
+      "item_id": 111,
+      "count": 5,
+      "deduct": 1
+    },
+    {
+      "$id": 251,
+      "ID": "COLLECT_1012_01_01",
+      "ref_item_bdat": 26,
+      "item_id": 334,
+      "count": 3,
+      "deduct": 1
+    },
+    {
+      "$id": 252,
+      "ID": "COLLECT_1012_01_02",
+      "ref_item_bdat": 27,
+      "item_id": 145,
+      "count": 4,
+      "deduct": 1
+    },
+    {
+      "$id": 253,
+      "ID": "COLLECT_0160_01",
+      "ref_item_bdat": 29,
+      "item_id": 202,
+      "count": 1,
+      "deduct": 1
+    },
+    {
+      "$id": 254,
+      "ID": "COLLECT_0194_01",
+      "ref_item_bdat": 25,
+      "item_id": 1,
+      "count": 50,
+      "deduct": 0
+    },
+    {
+      "$id": 255,
+      "ID": "COLLECT_0194_02",
+      "ref_item_bdat": 29,
+      "item_id": 214,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 256,
+      "ID": "COLLECT_CLC_N_001",
+      "ref_item_bdat": 27,
+      "item_id": 1,
+      "count": 8,
+      "deduct": 1
+    },
+    {
+      "$id": 257,
+      "ID": "COLLECT_CLC_N_002",
+      "ref_item_bdat": 27,
+      "item_id": 29,
+      "count": 4,
+      "deduct": 1
+    },
+    {
+      "$id": 258,
+      "ID": "COLLECT_CLC_N_003",
+      "ref_item_bdat": 27,
+      "item_id": 272,
+      "count": 1,
+      "deduct": 1
+    },
+    {
+      "$id": 259,
+      "ID": "COLLECT_FN_N_001",
+      "ref_item_bdat": 25,
+      "item_id": 3,
+      "count": 1,
+      "deduct": 1
+    },
+    {
+      "$id": 260,
+      "ID": "COLLECT_FN_N_002",
+      "ref_item_bdat": 25,
+      "item_id": 4,
+      "count": 2,
+      "deduct": 1
+    },
+    {
+      "$id": 261,
+      "ID": "COLLECT_CLC_B_001",
+      "ref_item_bdat": 27,
+      "item_id": 144,
+      "count": 8,
+      "deduct": 1
+    },
+    {
+      "$id": 262,
+      "ID": "COLLECT_CLC_B_002",
+      "ref_item_bdat": 27,
+      "item_id": 178,
+      "count": 2,
+      "deduct": 1
+    },
+    {
+      "$id": 263,
+      "ID": "COLLECT_CLC_B_003",
+      "ref_item_bdat": 27,
+      "item_id": 25,
+      "count": 5,
+      "deduct": 1
+    },
+    {
+      "$id": 264,
+      "ID": "COLLECT_CLC_B_004",
+      "ref_item_bdat": 27,
+      "item_id": 207,
+      "count": 3,
+      "deduct": 1
+    },
+    {
+      "$id": 265,
+      "ID": "COLLECT_0999_01",
+      "ref_item_bdat": 29,
+      "item_id": 155,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 266,
+      "ID": "COLLECT_S_002",
+      "ref_item_bdat": 27,
+      "item_id": 28,
+      "count": 4,
+      "deduct": 1
+    },
+    {
+      "$id": 267,
+      "ID": "COLLECT_S_005",
+      "ref_item_bdat": 27,
+      "item_id": 152,
+      "count": 4,
+      "deduct": 1
+    },
+    {
+      "$id": 268,
+      "ID": "COLLECT_S_006",
+      "ref_item_bdat": 27,
+      "item_id": 241,
+      "count": 5,
+      "deduct": 1
+    },
+    {
+      "$id": 269,
+      "ID": "COLLECT_S_009",
+      "ref_item_bdat": 29,
+      "item_id": 186,
+      "count": 1,
+      "deduct": 1
+    },
+    {
+      "$id": 270,
+      "ID": "COLLECT_S_010",
+      "ref_item_bdat": 27,
+      "item_id": 210,
+      "count": 3,
+      "deduct": 1
+    },
+    {
+      "$id": 271,
+      "ID": "COLLECT_S_012",
+      "ref_item_bdat": 26,
+      "item_id": 665,
+      "count": 1,
+      "deduct": 1
+    },
+    {
+      "$id": 272,
+      "ID": "COLLECT_S_013",
+      "ref_item_bdat": 27,
+      "item_id": 215,
+      "count": 3,
+      "deduct": 1
+    },
+    {
+      "$id": 273,
+      "ID": "COLLECT_S_014",
+      "ref_item_bdat": 26,
+      "item_id": 535,
+      "count": 2,
+      "deduct": 1
+    },
+    {
+      "$id": 274,
+      "ID": "COLLECT_S_018",
+      "ref_item_bdat": 26,
+      "item_id": 493,
+      "count": 2,
+      "deduct": 1
+    },
+    {
+      "$id": 275,
+      "ID": "COLLECT_S_019",
+      "ref_item_bdat": 26,
+      "item_id": 493,
+      "count": 10,
+      "deduct": 1
+    },
+    {
+      "$id": 276,
+      "ID": "COLLECT_S_022",
+      "ref_item_bdat": 26,
+      "item_id": 359,
+      "count": 2,
+      "deduct": 1
+    },
+    {
+      "$id": 277,
+      "ID": "COLLECT_S_024",
+      "ref_item_bdat": 27,
+      "item_id": 197,
+      "count": 5,
+      "deduct": 1
+    },
+    {
+      "$id": 278,
+      "ID": "COLLECT_S_026",
+      "ref_item_bdat": 26,
+      "item_id": 416,
+      "count": 3,
+      "deduct": 1
+    },
+    {
+      "$id": 279,
+      "ID": "COLLECT_S_028",
+      "ref_item_bdat": 27,
+      "item_id": 25,
+      "count": 5,
+      "deduct": 1
+    },
+    {
+      "$id": 280,
+      "ID": "COLLECT_S_029",
+      "ref_item_bdat": 27,
+      "item_id": 204,
+      "count": 3,
+      "deduct": 1
+    },
+    {
+      "$id": 281,
+      "ID": "COLLECT_S_030",
+      "ref_item_bdat": 27,
+      "item_id": 175,
+      "count": 3,
+      "deduct": 1
+    },
+    {
+      "$id": 282,
+      "ID": "COLLECT_S_032",
+      "ref_item_bdat": 27,
+      "item_id": 91,
+      "count": 3,
+      "deduct": 1
+    },
+    {
+      "$id": 283,
+      "ID": "COLLECT_S_033",
+      "ref_item_bdat": 26,
+      "item_id": 701,
+      "count": 1,
+      "deduct": 1
+    },
+    {
+      "$id": 284,
+      "ID": "COLLECT_S_035",
+      "ref_item_bdat": 27,
+      "item_id": 1,
+      "count": 8,
+      "deduct": 1
+    },
+    {
+      "$id": 285,
+      "ID": "COLLECT_S_036",
+      "ref_item_bdat": 27,
+      "item_id": 153,
+      "count": 2,
+      "deduct": 1
+    },
+    {
+      "$id": 286,
+      "ID": "COLLECT_S_039",
+      "ref_item_bdat": 29,
+      "item_id": 187,
+      "count": 1,
+      "deduct": 1
+    },
+    {
+      "$id": 287,
+      "ID": "COLLECT_S_040",
+      "ref_item_bdat": 26,
+      "item_id": 444,
+      "count": 1,
+      "deduct": 1
+    },
+    {
+      "$id": 288,
+      "ID": "COLLECT_S_042",
+      "ref_item_bdat": 26,
+      "item_id": 725,
+      "count": 1,
+      "deduct": 1
+    },
+    {
+      "$id": 289,
+      "ID": "COLLECT_S_043",
+      "ref_item_bdat": 27,
+      "item_id": 191,
+      "count": 6,
+      "deduct": 1
+    },
+    {
+      "$id": 290,
+      "ID": "COLLECT_S_048",
+      "ref_item_bdat": 27,
+      "item_id": 221,
+      "count": 8,
+      "deduct": 1
+    },
+    {
+      "$id": 291,
+      "ID": "COLLECT_S_049",
+      "ref_item_bdat": 26,
+      "item_id": 488,
+      "count": 1,
+      "deduct": 1
+    },
+    {
+      "$id": 292,
+      "ID": "COLLECT_S_052",
+      "ref_item_bdat": 26,
+      "item_id": 565,
+      "count": 2,
+      "deduct": 1
+    },
+    {
+      "$id": 293,
+      "ID": "COLLECT_S_053",
+      "ref_item_bdat": 27,
+      "item_id": 288,
+      "count": 5,
+      "deduct": 1
+    },
+    {
+      "$id": 294,
+      "ID": "COLLECT_S_054",
+      "ref_item_bdat": 27,
+      "item_id": 140,
+      "count": 3,
+      "deduct": 1
+    },
+    {
+      "$id": 295,
+      "ID": "COLLECT_S_055",
+      "ref_item_bdat": 27,
+      "item_id": 198,
+      "count": 4,
+      "deduct": 1
+    },
+    {
+      "$id": 296,
+      "ID": "COLLECT_S_058",
+      "ref_item_bdat": 26,
+      "item_id": 435,
+      "count": 2,
+      "deduct": 1
+    },
+    {
+      "$id": 297,
+      "ID": "COLLECT_S_059",
+      "ref_item_bdat": 27,
+      "item_id": 144,
+      "count": 4,
+      "deduct": 1
+    },
+    {
+      "$id": 298,
+      "ID": "COLLECT_S_062",
+      "ref_item_bdat": 27,
+      "item_id": 65,
+      "count": 6,
+      "deduct": 1
+    },
+    {
+      "$id": 299,
+      "ID": "COLLECT_S_065",
+      "ref_item_bdat": 26,
+      "item_id": 292,
+      "count": 5,
+      "deduct": 1
+    },
+    {
+      "$id": 300,
+      "ID": "COLLECT_S_066",
+      "ref_item_bdat": 27,
+      "item_id": 154,
+      "count": 2,
+      "deduct": 1
+    },
+    {
+      "$id": 301,
+      "ID": "COLLECT_S_068",
+      "ref_item_bdat": 27,
+      "item_id": 34,
+      "count": 7,
+      "deduct": 1
+    },
+    {
+      "$id": 302,
+      "ID": "COLLECT_S_069",
+      "ref_item_bdat": 27,
+      "item_id": 36,
+      "count": 12,
+      "deduct": 1
+    },
+    {
+      "$id": 303,
+      "ID": "COLLECT_S_070",
+      "ref_item_bdat": 26,
+      "item_id": 358,
+      "count": 5,
+      "deduct": 1
+    },
+    {
+      "$id": 304,
+      "ID": "COLLECT_S_072",
+      "ref_item_bdat": 26,
+      "item_id": 456,
+      "count": 2,
+      "deduct": 1
+    },
+    {
+      "$id": 305,
+      "ID": "COLLECT_S_073",
+      "ref_item_bdat": 27,
+      "item_id": 246,
+      "count": 4,
+      "deduct": 1
+    },
+    {
+      "$id": 306,
+      "ID": "COLLECT_S_077",
+      "ref_item_bdat": 27,
+      "item_id": 16,
+      "count": 3,
+      "deduct": 1
+    },
+    {
+      "$id": 307,
+      "ID": "COLLECT_S_078",
+      "ref_item_bdat": 29,
+      "item_id": 188,
+      "count": 1,
+      "deduct": 1
+    },
+    {
+      "$id": 308,
+      "ID": "COLLECT_S_079",
+      "ref_item_bdat": 26,
+      "item_id": 513,
+      "count": 2,
+      "deduct": 1
+    },
+    {
+      "$id": 309,
+      "ID": "COLLECT_S_082",
+      "ref_item_bdat": 26,
+      "item_id": 375,
+      "count": 3,
+      "deduct": 1
+    },
+    {
+      "$id": 310,
+      "ID": "COLLECT_S_083",
+      "ref_item_bdat": 27,
+      "item_id": 101,
+      "count": 8,
+      "deduct": 1
+    },
+    {
+      "$id": 311,
+      "ID": "COLLECT_S_084",
+      "ref_item_bdat": 27,
+      "item_id": 21,
+      "count": 4,
+      "deduct": 1
+    },
+    {
+      "$id": 312,
+      "ID": "COLLECT_S_089",
+      "ref_item_bdat": 27,
+      "item_id": 208,
+      "count": 4,
+      "deduct": 1
+    },
+    {
+      "$id": 313,
+      "ID": "COLLECT_S_090",
+      "ref_item_bdat": 27,
+      "item_id": 236,
+      "count": 5,
+      "deduct": 1
+    },
+    {
+      "$id": 314,
+      "ID": "COLLECT_S_092",
+      "ref_item_bdat": 27,
+      "item_id": 9,
+      "count": 5,
+      "deduct": 1
+    },
+    {
+      "$id": 315,
+      "ID": "COLLECT_S_093",
+      "ref_item_bdat": 27,
+      "item_id": 88,
+      "count": 11,
+      "deduct": 1
+    },
+    {
+      "$id": 316,
+      "ID": "COLLECT_S_094",
+      "ref_item_bdat": 27,
+      "item_id": 271,
+      "count": 6,
+      "deduct": 1
+    },
+    {
+      "$id": 317,
+      "ID": "COLLECT_S_100",
+      "ref_item_bdat": 26,
+      "item_id": 526,
+      "count": 2,
+      "deduct": 1
+    },
+    {
+      "$id": 318,
+      "ID": "COLLECT_S_101",
+      "ref_item_bdat": 27,
+      "item_id": 192,
+      "count": 4,
+      "deduct": 1
+    },
+    {
+      "$id": 319,
+      "ID": "COLLECT_S_102",
+      "ref_item_bdat": 26,
+      "item_id": 673,
+      "count": 3,
+      "deduct": 1
+    },
+    {
+      "$id": 320,
+      "ID": "COLLECT_S_103",
+      "ref_item_bdat": 26,
+      "item_id": 558,
+      "count": 3,
+      "deduct": 1
+    },
+    {
+      "$id": 321,
+      "ID": "COLLECT_S_106",
+      "ref_item_bdat": 26,
+      "item_id": 521,
+      "count": 3,
+      "deduct": 1
+    },
+    {
+      "$id": 322,
+      "ID": "COLLECT_S_108",
+      "ref_item_bdat": 27,
+      "item_id": 218,
+      "count": 10,
+      "deduct": 1
+    },
+    {
+      "$id": 323,
+      "ID": "COLLECT_S_109",
+      "ref_item_bdat": 27,
+      "item_id": 136,
+      "count": 4,
+      "deduct": 1
+    },
+    {
+      "$id": 324,
+      "ID": "COLLECT_S_113",
+      "ref_item_bdat": 26,
+      "item_id": 452,
+      "count": 2,
+      "deduct": 1
+    },
+    {
+      "$id": 325,
+      "ID": "COLLECT_S_114",
+      "ref_item_bdat": 27,
+      "item_id": 171,
+      "count": 4,
+      "deduct": 1
+    },
+    {
+      "$id": 326,
+      "ID": "COLLECT_S_115",
+      "ref_item_bdat": 29,
+      "item_id": 189,
+      "count": 1,
+      "deduct": 1
+    },
+    {
+      "$id": 327,
+      "ID": "COLLECT_S_117",
+      "ref_item_bdat": 26,
+      "item_id": 596,
+      "count": 3,
+      "deduct": 1
+    },
+    {
+      "$id": 328,
+      "ID": "COLLECT_S_118",
+      "ref_item_bdat": 27,
+      "item_id": 27,
+      "count": 2,
+      "deduct": 1
+    },
+    {
+      "$id": 329,
+      "ID": "COLLECT_S_120",
+      "ref_item_bdat": 27,
+      "item_id": 296,
+      "count": 7,
+      "deduct": 1
+    },
+    {
+      "$id": 330,
+      "ID": "COLLECT_S_122",
+      "ref_item_bdat": 27,
+      "item_id": 13,
+      "count": 10,
+      "deduct": 1
+    },
+    {
+      "$id": 331,
+      "ID": "COLLECT_S_123",
+      "ref_item_bdat": 27,
+      "item_id": 240,
+      "count": 7,
+      "deduct": 1
+    },
+    {
+      "$id": 332,
+      "ID": "COLLECT_S_124",
+      "ref_item_bdat": 27,
+      "item_id": 185,
+      "count": 6,
+      "deduct": 1
+    },
+    {
+      "$id": 333,
+      "ID": "COLLECT_S_127",
+      "ref_item_bdat": 27,
+      "item_id": 116,
+      "count": 10,
+      "deduct": 1
+    },
+    {
+      "$id": 334,
+      "ID": "COLLECT_S_130",
+      "ref_item_bdat": 26,
+      "item_id": 683,
+      "count": 3,
+      "deduct": 1
+    },
+    {
+      "$id": 335,
+      "ID": "COLLECT_S_131",
+      "ref_item_bdat": 27,
+      "item_id": 214,
+      "count": 7,
+      "deduct": 1
+    },
+    {
+      "$id": 336,
+      "ID": "COLLECT_S_133",
+      "ref_item_bdat": 26,
+      "item_id": 508,
+      "count": 3,
+      "deduct": 1
+    },
+    {
+      "$id": 337,
+      "ID": "COLLECT_S_134",
+      "ref_item_bdat": 29,
+      "item_id": 190,
+      "count": 1,
+      "deduct": 1
+    },
+    {
+      "$id": 338,
+      "ID": "COLLECT_S_136",
+      "ref_item_bdat": 26,
+      "item_id": 411,
+      "count": 2,
+      "deduct": 1
+    },
+    {
+      "$id": 339,
+      "ID": "COLLECT_S_138",
+      "ref_item_bdat": 27,
+      "item_id": 102,
+      "count": 12,
+      "deduct": 1
+    },
+    {
+      "$id": 340,
+      "ID": "COLLECT_S_140",
+      "ref_item_bdat": 26,
+      "item_id": 722,
+      "count": 2,
+      "deduct": 1
+    },
+    {
+      "$id": 341,
+      "ID": "COLLECT_S_142",
+      "ref_item_bdat": 26,
+      "item_id": 406,
+      "count": 3,
+      "deduct": 1
+    },
+    {
+      "$id": 342,
+      "ID": "COLLECT_S_143",
+      "ref_item_bdat": 27,
+      "item_id": 170,
+      "count": 5,
+      "deduct": 1
+    },
+    {
+      "$id": 343,
+      "ID": "COLLECT_S_148",
+      "ref_item_bdat": 26,
+      "item_id": 527,
+      "count": 3,
+      "deduct": 1
+    },
+    {
+      "$id": 344,
+      "ID": "COLLECT_S_149",
+      "ref_item_bdat": 27,
+      "item_id": 53,
+      "count": 3,
+      "deduct": 1
+    },
+    {
+      "$id": 345,
+      "ID": "COLLECT_S_150",
+      "ref_item_bdat": 29,
+      "item_id": 191,
+      "count": 1,
+      "deduct": 1
+    },
+    {
+      "$id": 346,
+      "ID": "COLLECT_S_152",
+      "ref_item_bdat": 27,
+      "item_id": 72,
+      "count": 7,
+      "deduct": 1
+    },
+    {
+      "$id": 347,
+      "ID": "COLLECT_S_153",
+      "ref_item_bdat": 27,
+      "item_id": 242,
+      "count": 4,
+      "deduct": 1
+    },
+    {
+      "$id": 348,
+      "ID": "COLLECT_S_155",
+      "ref_item_bdat": 26,
+      "item_id": 361,
+      "count": 10,
+      "deduct": 1
+    },
+    {
+      "$id": 349,
+      "ID": "COLLECT_S_156",
+      "ref_item_bdat": 27,
+      "item_id": 244,
+      "count": 3,
+      "deduct": 1
+    },
+    {
+      "$id": 350,
+      "ID": "COLLECT_S_159",
+      "ref_item_bdat": 27,
+      "item_id": 155,
+      "count": 10,
+      "deduct": 1
+    },
+    {
+      "$id": 351,
+      "ID": "COLLECT_S_161",
+      "ref_item_bdat": 26,
+      "item_id": 700,
+      "count": 2,
+      "deduct": 1
+    },
+    {
+      "$id": 352,
+      "ID": "COLLECT_S_164",
+      "ref_item_bdat": 29,
+      "item_id": 192,
+      "count": 1,
+      "deduct": 1
+    },
+    {
+      "$id": 353,
+      "ID": "COLLECT_S_166",
+      "ref_item_bdat": 26,
+      "item_id": 680,
+      "count": 3,
+      "deduct": 1
+    },
+    {
+      "$id": 354,
+      "ID": "COLLECT_S_167",
+      "ref_item_bdat": 27,
+      "item_id": 283,
+      "count": 8,
+      "deduct": 1
+    },
+    {
+      "$id": 355,
+      "ID": "COLLECT_S_170",
+      "ref_item_bdat": 27,
+      "item_id": 290,
+      "count": 5,
+      "deduct": 1
+    },
+    {
+      "$id": 356,
+      "ID": "COLLECT_S_173",
+      "ref_item_bdat": 26,
+      "item_id": 396,
+      "count": 2,
+      "deduct": 1
+    },
+    {
+      "$id": 357,
+      "ID": "COLLECT_S_174",
+      "ref_item_bdat": 27,
+      "item_id": 255,
+      "count": 11,
+      "deduct": 1
+    },
+    {
+      "$id": 358,
+      "ID": "COLLECT_S_176",
+      "ref_item_bdat": 26,
+      "item_id": 667,
+      "count": 2,
+      "deduct": 1
+    },
+    {
+      "$id": 359,
+      "ID": "COLLECT_S_177",
+      "ref_item_bdat": 27,
+      "item_id": 238,
+      "count": 6,
+      "deduct": 1
+    },
+    {
+      "$id": 360,
+      "ID": "COLLECT_S_180",
+      "ref_item_bdat": 29,
+      "item_id": 193,
+      "count": 1,
+      "deduct": 1
+    },
+    {
+      "$id": 361,
+      "ID": "COLLECT_S_182",
+      "ref_item_bdat": 27,
+      "item_id": 46,
+      "count": 13,
+      "deduct": 1
+    },
+    {
+      "$id": 362,
+      "ID": "COLLECT_S_183",
+      "ref_item_bdat": 26,
+      "item_id": 531,
+      "count": 2,
+      "deduct": 1
+    },
+    {
+      "$id": 363,
+      "ID": "COLLECT_S_184",
+      "ref_item_bdat": 27,
+      "item_id": 270,
+      "count": 9,
+      "deduct": 1
+    },
+    {
+      "$id": 364,
+      "ID": "COLLECT_S_187",
+      "ref_item_bdat": 27,
+      "item_id": 186,
+      "count": 11,
+      "deduct": 1
+    },
+    {
+      "$id": 365,
+      "ID": "COLLECT_S_190",
+      "ref_item_bdat": 26,
+      "item_id": 502,
+      "count": 2,
+      "deduct": 1
+    },
+    {
+      "$id": 366,
+      "ID": "COLLECT_S_191",
+      "ref_item_bdat": 27,
+      "item_id": 216,
+      "count": 7,
+      "deduct": 1
+    },
+    {
+      "$id": 367,
+      "ID": "COLLECT_S_193",
+      "ref_item_bdat": 27,
+      "item_id": 254,
+      "count": 6,
+      "deduct": 1
+    },
+    {
+      "$id": 368,
+      "ID": "COLLECT_S_194",
+      "ref_item_bdat": 29,
+      "item_id": 194,
+      "count": 1,
+      "deduct": 1
+    },
+    {
+      "$id": 369,
+      "ID": "COLLECT_S_196",
+      "ref_item_bdat": 26,
+      "item_id": 545,
+      "count": 2,
+      "deduct": 1
+    },
+    {
+      "$id": 370,
+      "ID": "COLLECT_S_199",
+      "ref_item_bdat": 27,
+      "item_id": 49,
+      "count": 7,
+      "deduct": 1
+    },
+    {
+      "$id": 371,
+      "ID": "COLLECT_S_200",
+      "ref_item_bdat": 29,
+      "item_id": 195,
+      "count": 1,
+      "deduct": 1
+    },
+    {
+      "$id": 372,
+      "ID": "COLLECT_S_202",
+      "ref_item_bdat": 26,
+      "item_id": 660,
+      "count": 2,
+      "deduct": 1
+    },
+    {
+      "$id": 373,
+      "ID": "COLLECT_S_205",
+      "ref_item_bdat": 26,
+      "item_id": 393,
+      "count": 2,
+      "deduct": 1
+    },
+    {
+      "$id": 374,
+      "ID": "COLLECT_S_208",
+      "ref_item_bdat": 27,
+      "item_id": 267,
+      "count": 3,
+      "deduct": 1
+    },
+    {
+      "$id": 375,
+      "ID": "COLLECT_S_209",
+      "ref_item_bdat": 27,
+      "item_id": 176,
+      "count": 9,
+      "deduct": 1
+    },
+    {
+      "$id": 376,
+      "ID": "COLLECT_S_212",
+      "ref_item_bdat": 27,
+      "item_id": 78,
+      "count": 17,
+      "deduct": 1
+    },
+    {
+      "$id": 377,
+      "ID": "COLLECT_S_215",
+      "ref_item_bdat": 26,
+      "item_id": 704,
+      "count": 3,
+      "deduct": 1
+    },
+    {
+      "$id": 378,
+      "ID": "COLLECT_S_216",
+      "ref_item_bdat": 27,
+      "item_id": 58,
+      "count": 10,
+      "deduct": 1
+    },
+    {
+      "$id": 379,
+      "ID": "COLLECT_S_218",
+      "ref_item_bdat": 26,
+      "item_id": 574,
+      "count": 3,
+      "deduct": 1
+    },
+    {
+      "$id": 380,
+      "ID": "COLLECT_S_220",
+      "ref_item_bdat": 29,
+      "item_id": 196,
+      "count": 1,
+      "deduct": 1
+    },
+    {
+      "$id": 381,
+      "ID": "COLLECT_S_221",
+      "ref_item_bdat": 27,
+      "item_id": 159,
+      "count": 8,
+      "deduct": 1
+    },
+    {
+      "$id": 382,
+      "ID": "COLLECT_S_225",
+      "ref_item_bdat": 26,
+      "item_id": 670,
+      "count": 1,
+      "deduct": 1
+    },
+    {
+      "$id": 383,
+      "ID": "COLLECT_S_227",
+      "ref_item_bdat": 27,
+      "item_id": 18,
+      "count": 3,
+      "deduct": 1
+    },
+    {
+      "$id": 384,
+      "ID": "COLLECT_S_228",
+      "ref_item_bdat": 27,
+      "item_id": 195,
+      "count": 5,
+      "deduct": 1
+    },
+    {
+      "$id": 385,
+      "ID": "COLLECT_S_229",
+      "ref_item_bdat": 27,
+      "item_id": 259,
+      "count": 6,
+      "deduct": 1
+    },
+    {
+      "$id": 386,
+      "ID": "COLLECT_S_231",
+      "ref_item_bdat": 26,
+      "item_id": 548,
+      "count": 2,
+      "deduct": 1
+    },
+    {
+      "$id": 387,
+      "ID": "COLLECT_S_233",
+      "ref_item_bdat": 27,
+      "item_id": 230,
+      "count": 11,
+      "deduct": 1
+    },
+    {
+      "$id": 388,
+      "ID": "COLLECT_S_236",
+      "ref_item_bdat": 26,
+      "item_id": 410,
+      "count": 3,
+      "deduct": 1
+    },
+    {
+      "$id": 389,
+      "ID": "COLLECT_S_237",
+      "ref_item_bdat": 27,
+      "item_id": 206,
+      "count": 12,
+      "deduct": 1
+    },
+    {
+      "$id": 390,
+      "ID": "COLLECT_S_240",
+      "ref_item_bdat": 29,
+      "item_id": 197,
+      "count": 1,
+      "deduct": 1
+    },
+    {
+      "$id": 391,
+      "ID": "COLLECT_S_242",
+      "ref_item_bdat": 27,
+      "item_id": 24,
+      "count": 15,
+      "deduct": 1
+    },
+    {
+      "$id": 392,
+      "ID": "COLLECT_S_243",
+      "ref_item_bdat": 26,
+      "item_id": 506,
+      "count": 3,
+      "deduct": 1
+    },
+    {
+      "$id": 393,
+      "ID": "COLLECT_S_245",
+      "ref_item_bdat": 29,
+      "item_id": 198,
+      "count": 1,
+      "deduct": 1
+    },
+    {
+      "$id": 394,
+      "ID": "COLLECT_S_247",
+      "ref_item_bdat": 27,
+      "item_id": 62,
+      "count": 5,
+      "deduct": 1
+    },
+    {
+      "$id": 395,
+      "ID": "COLLECT_S_249",
+      "ref_item_bdat": 26,
+      "item_id": 618,
+      "count": 1,
+      "deduct": 1
+    },
+    {
+      "$id": 396,
+      "ID": "COLLECT_S_251",
+      "ref_item_bdat": 27,
+      "item_id": 40,
+      "count": 5,
+      "deduct": 1
+    },
+    {
+      "$id": 397,
+      "ID": "COLLECT_S_252",
+      "ref_item_bdat": 29,
+      "item_id": 199,
+      "count": 1,
+      "deduct": 1
+    },
+    {
+      "$id": 398,
+      "ID": "COLLECT_S_255",
+      "ref_item_bdat": 26,
+      "item_id": 729,
+      "count": 1,
+      "deduct": 1
+    },
+    {
+      "$id": 399,
+      "ID": "COLLECT_S_256",
+      "ref_item_bdat": 27,
+      "item_id": 223,
+      "count": 6,
+      "deduct": 1
+    },
+    {
+      "$id": 400,
+      "ID": "COLLECT_S_257",
+      "ref_item_bdat": 27,
+      "item_id": 196,
+      "count": 4,
+      "deduct": 1
+    },
+    {
+      "$id": 401,
+      "ID": "COLLECT_S_260",
+      "ref_item_bdat": 26,
+      "item_id": 741,
+      "count": 1,
+      "deduct": 1
+    },
+    {
+      "$id": 402,
+      "ID": "COLLECT_S_262",
+      "ref_item_bdat": 27,
+      "item_id": 50,
+      "count": 5,
+      "deduct": 1
+    },
+    {
+      "$id": 403,
+      "ID": "COLLECT_S_265",
+      "ref_item_bdat": 27,
+      "item_id": 55,
+      "count": 4,
+      "deduct": 1
+    },
+    {
+      "$id": 404,
+      "ID": "COLLECT_S_266",
+      "ref_item_bdat": 26,
+      "item_id": 577,
+      "count": 1,
+      "deduct": 1
+    },
+    {
+      "$id": 405,
+      "ID": "COLLECT_S_268",
+      "ref_item_bdat": 26,
+      "item_id": 404,
+      "count": 1,
+      "deduct": 1
+    },
+    {
+      "$id": 406,
+      "ID": "COLLECT_S_269",
+      "ref_item_bdat": 27,
+      "item_id": 179,
+      "count": 6,
+      "deduct": 1
+    },
+    {
+      "$id": 407,
+      "ID": "COLLECT_S_272",
+      "ref_item_bdat": 27,
+      "item_id": 84,
+      "count": 7,
+      "deduct": 1
+    },
+    {
+      "$id": 408,
+      "ID": "COLLECT_S_273",
+      "ref_item_bdat": 26,
+      "item_id": 447,
+      "count": 5,
+      "deduct": 1
+    },
+    {
+      "$id": 409,
+      "ID": "COLLECT_S_275",
+      "ref_item_bdat": 27,
+      "item_id": 118,
+      "count": 24,
+      "deduct": 1
+    },
+    {
+      "$id": 410,
+      "ID": "COLLECT_S_279",
+      "ref_item_bdat": 26,
+      "item_id": 382,
+      "count": 1,
+      "deduct": 1
+    },
+    {
+      "$id": 411,
+      "ID": "COLLECT_S_281",
+      "ref_item_bdat": 27,
+      "item_id": 275,
+      "count": 3,
+      "deduct": 1
+    },
+    {
+      "$id": 412,
+      "ID": "COLLECT_S_282",
+      "ref_item_bdat": 27,
+      "item_id": 161,
+      "count": 10,
+      "deduct": 1
+    },
+    {
+      "$id": 413,
+      "ID": "COLLECT_S_286",
+      "ref_item_bdat": 27,
+      "item_id": 17,
+      "count": 4,
+      "deduct": 1
+    },
+    {
+      "$id": 414,
+      "ID": "COLLECT_S_287",
+      "ref_item_bdat": 27,
+      "item_id": 224,
+      "count": 9,
+      "deduct": 1
+    },
+    {
+      "$id": 415,
+      "ID": "COLLECT_S_288",
+      "ref_item_bdat": 26,
+      "item_id": 611,
+      "count": 1,
+      "deduct": 1
+    },
+    {
+      "$id": 416,
+      "ID": "COLLECT_S_291",
+      "ref_item_bdat": 26,
+      "item_id": 629,
+      "count": 1,
+      "deduct": 1
+    },
+    {
+      "$id": 417,
+      "ID": "COLLECT_S_292",
+      "ref_item_bdat": 27,
+      "item_id": 261,
+      "count": 8,
+      "deduct": 1
+    },
+    {
+      "$id": 418,
+      "ID": "COLLECT_S_293",
+      "ref_item_bdat": 27,
+      "item_id": 286,
+      "count": 19,
+      "deduct": 1
+    },
+    {
+      "$id": 419,
+      "ID": "COLLECT_S_297",
+      "ref_item_bdat": 26,
+      "item_id": 699,
+      "count": 1,
+      "deduct": 1
+    },
+    {
+      "$id": 420,
+      "ID": "COLLECT_S_298",
+      "ref_item_bdat": 27,
+      "item_id": 293,
+      "count": 12,
+      "deduct": 1
+    },
+    {
+      "$id": 421,
+      "ID": "COLLECT_S_300",
+      "ref_item_bdat": 29,
+      "item_id": 201,
+      "count": 1,
+      "deduct": 1
+    },
+    {
+      "$id": 422,
+      "ID": "COLLECT_S_333_01",
+      "ref_item_bdat": 29,
+      "item_id": 23,
+      "count": 10,
+      "deduct": 0
+    },
+    {
+      "$id": 423,
+      "ID": "COLLECT_S_333_02",
+      "ref_item_bdat": 29,
+      "item_id": 172,
+      "count": 1,
+      "deduct": 1
+    },
+    {
+      "$id": 424,
+      "ID": "COLLECT_0271_01_01",
+      "ref_item_bdat": 27,
+      "item_id": 11,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 425,
+      "ID": "COLLECT_0271_01_02",
+      "ref_item_bdat": 26,
+      "item_id": 319,
+      "count": 5,
+      "deduct": 0
+    },
+    {
+      "$id": 426,
+      "ID": "COLLECT_0271_01_03",
+      "ref_item_bdat": 29,
+      "item_id": 220,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 427,
+      "ID": "COLLECT_0124_01",
+      "ref_item_bdat": 27,
+      "item_id": 181,
+      "count": 2,
+      "deduct": 0
+    },
+    {
+      "$id": 428,
+      "ID": "COLLECT_0124_02",
+      "ref_item_bdat": 27,
+      "item_id": 276,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 429,
+      "ID": "COLLECT_0110_01",
+      "ref_item_bdat": 29,
+      "item_id": 170,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 430,
+      "ID": "COLLECT_0561_01",
+      "ref_item_bdat": 29,
+      "item_id": 84,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 431,
+      "ID": "COLLECT_0144_01",
+      "ref_item_bdat": 29,
+      "item_id": 94,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 432,
+      "ID": "COLLECT_0854_02",
+      "ref_item_bdat": 66,
+      "item_id": 42,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 433,
+      "ID": "COLLECT_0876_02",
+      "ref_item_bdat": 29,
+      "item_id": 100,
+      "count": 5,
+      "deduct": 1
+    },
+    {
+      "$id": 434,
+      "ID": "COLLECT_0117_01",
+      "ref_item_bdat": 29,
+      "item_id": 117,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 435,
+      "ID": "COLLECT_0603_01",
+      "ref_item_bdat": 26,
+      "item_id": 339,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 436,
+      "ID": "COLLECT_0603_02",
+      "ref_item_bdat": 26,
+      "item_id": 573,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 437,
+      "ID": "COLLECT_0412_01",
+      "ref_item_bdat": 27,
+      "item_id": 44,
+      "count": 14,
+      "deduct": 0
+    },
+    {
+      "$id": 438,
+      "ID": "COLLECT_0416_01",
+      "ref_item_bdat": 29,
+      "item_id": 153,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 439,
+      "ID": "COLLECT_0869_02",
+      "ref_item_bdat": 66,
+      "item_id": 21,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 440,
+      "ID": "COLLECT_0502_01",
+      "ref_item_bdat": 29,
+      "item_id": 171,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 441,
+      "ID": "COLLECT_0958_01",
+      "ref_item_bdat": 29,
+      "item_id": 169,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 442,
+      "ID": "COLLECT_0409_01",
+      "ref_item_bdat": 29,
+      "item_id": 215,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 443,
+      "ID": "COLLECT_0505_01_01",
+      "ref_item_bdat": 7,
+      "item_id": 32,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 444,
+      "ID": "COLLECT_0505_01_02",
+      "ref_item_bdat": 7,
+      "item_id": 33,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 445,
+      "ID": "COLLECT_0505_01_03",
+      "ref_item_bdat": 7,
+      "item_id": 34,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 446,
+      "ID": "COLLECT_0505_04_01",
+      "ref_item_bdat": 66,
+      "item_id": 25,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 447,
+      "ID": "COLLECT_0505_04_02",
+      "ref_item_bdat": 66,
+      "item_id": 26,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 448,
+      "ID": "COLLECT_0505_04_03",
+      "ref_item_bdat": 66,
+      "item_id": 27,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 449,
+      "ID": "COLLECT_0505_06_01",
+      "ref_item_bdat": 27,
+      "item_id": 2,
+      "count": 10,
+      "deduct": 0
+    },
+    {
+      "$id": 450,
+      "ID": "COLLECT_0505_06_02",
+      "ref_item_bdat": 27,
+      "item_id": 5,
+      "count": 4,
+      "deduct": 0
+    },
+    {
+      "$id": 451,
+      "ID": "COLLECT_0505_06_03",
+      "ref_item_bdat": 26,
+      "item_id": 702,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 452,
+      "ID": "COLLECT_0978_01_01",
+      "ref_item_bdat": 66,
+      "item_id": 67,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 453,
+      "ID": "COLLECT_0509_01_01",
+      "ref_item_bdat": 7,
+      "item_id": 550,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 454,
+      "ID": "COLLECT_0509_01_02",
+      "ref_item_bdat": 7,
+      "item_id": 551,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 455,
+      "ID": "COLLECT_0509_01_03",
+      "ref_item_bdat": 7,
+      "item_id": 552,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 456,
+      "ID": "COLLECT_0509_04_01",
+      "ref_item_bdat": 26,
+      "item_id": 413,
+      "count": 2,
+      "deduct": 0
+    },
+    {
+      "$id": 457,
+      "ID": "COLLECT_0509_04_02",
+      "ref_item_bdat": 26,
+      "item_id": 415,
+      "count": 3,
+      "deduct": 0
+    },
+    {
+      "$id": 458,
+      "ID": "COLLECT_0509_04_03",
+      "ref_item_bdat": 26,
+      "item_id": 588,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 459,
+      "ID": "COLLECT_0977_01",
+      "ref_item_bdat": 29,
+      "item_id": 228,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 460,
+      "ID": "COLLECT_0978_02",
+      "ref_item_bdat": 29,
+      "item_id": 229,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 461,
+      "ID": "COLLECT_0978_01_02",
+      "ref_item_bdat": 66,
+      "item_id": 66,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 462,
+      "ID": "COLLECT_0978_01_03",
+      "ref_item_bdat": 66,
+      "item_id": 67,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 463,
+      "ID": "COLLECT_0916_01",
+      "ref_item_bdat": 29,
+      "item_id": 165,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 464,
+      "ID": "COLLECT_0514_01",
+      "ref_item_bdat": 29,
+      "item_id": 135,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 465,
+      "ID": "COLLECT_0513_01",
+      "ref_item_bdat": 29,
+      "item_id": 170,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 466,
+      "ID": "COLLECT_0602_01",
+      "ref_item_bdat": 29,
+      "item_id": 217,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 467,
+      "ID": "COLLECT_0603_03",
+      "ref_item_bdat": 29,
+      "item_id": 219,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 468,
+      "ID": "COLLECT_0603_04",
+      "ref_item_bdat": 29,
+      "item_id": 87,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 469,
+      "ID": "COLLECT_0606_01",
+      "ref_item_bdat": 29,
+      "item_id": 83,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 470,
+      "ID": "COLLECT_0606_02",
+      "ref_item_bdat": 26,
+      "item_id": 610,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 471,
+      "ID": "COLLECT_0610_01",
+      "ref_item_bdat": 29,
+      "item_id": 140,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 472,
+      "ID": "COLLECT_0610_02",
+      "ref_item_bdat": 29,
+      "item_id": 141,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 473,
+      "ID": "COLLECT_0271_02_01",
+      "ref_item_bdat": 66,
+      "item_id": 11,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 474,
+      "ID": "COLLECT_0271_02_02",
+      "ref_item_bdat": 66,
+      "item_id": 12,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 475,
+      "ID": "COLLECT_0271_02_03",
+      "ref_item_bdat": 66,
+      "item_id": 13,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 476,
+      "ID": "COLLECT_0140_01_01",
+      "ref_item_bdat": 66,
+      "item_id": 46,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 477,
+      "ID": "COLLECT_0140_01_02",
+      "ref_item_bdat": 66,
+      "item_id": 47,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 478,
+      "ID": "COLLECT_0140_01_03",
+      "ref_item_bdat": 66,
+      "item_id": 48,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 479,
+      "ID": "COLLECT_0151_02",
+      "ref_item_bdat": 29,
+      "item_id": 10,
+      "count": 49,
+      "deduct": 0
+    },
+    {
+      "$id": 480,
+      "ID": "COLLECT_0151_03",
+      "ref_item_bdat": 29,
+      "item_id": 10,
+      "count": 97,
+      "deduct": 0
+    },
+    {
+      "$id": 481,
+      "ID": "COLLECT_0151_04",
+      "ref_item_bdat": 29,
+      "item_id": 10,
+      "count": 98,
+      "deduct": 0
+    },
+    {
+      "$id": 482,
+      "ID": "COLLECT_0354_01",
+      "ref_item_bdat": 29,
+      "item_id": 126,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 483,
+      "ID": "COLLECT_0555_01",
+      "ref_item_bdat": 29,
+      "item_id": 82,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 484,
+      "ID": "COLLECT_0564_01_01",
+      "ref_item_bdat": 25,
+      "item_id": 13,
+      "count": 4,
+      "deduct": 0
+    },
+    {
+      "$id": 485,
+      "ID": "COLLECT_0564_01_02",
+      "ref_item_bdat": 27,
+      "item_id": 250,
+      "count": 5,
+      "deduct": 0
+    },
+    {
+      "$id": 486,
+      "ID": "COLLECT_0601_01",
+      "ref_item_bdat": 29,
+      "item_id": 69,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 487,
+      "ID": "COLLECT_0601_02",
+      "ref_item_bdat": 29,
+      "item_id": 70,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 488,
+      "ID": "COLLECT_0601_03",
+      "ref_item_bdat": 29,
+      "item_id": 211,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 489,
+      "ID": "COLLECT_0651_01",
+      "ref_item_bdat": 29,
+      "item_id": 74,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 490,
+      "ID": "COLLECT_0653_01",
+      "ref_item_bdat": 27,
+      "item_id": 143,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 491,
+      "ID": "COLLECT_0653_02",
+      "ref_item_bdat": 27,
+      "item_id": 85,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 492,
+      "ID": "COLLECT_0653_03",
+      "ref_item_bdat": 27,
+      "item_id": 277,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 493,
+      "ID": "COLLECT_0655_01",
+      "ref_item_bdat": 27,
+      "item_id": 110,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 494,
+      "ID": "COLLECT_0655_02",
+      "ref_item_bdat": 27,
+      "item_id": 63,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 495,
+      "ID": "COLLECT_0655_03",
+      "ref_item_bdat": 27,
+      "item_id": 213,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 496,
+      "ID": "COLLECT_0703_01",
+      "ref_item_bdat": 29,
+      "item_id": 145,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 497,
+      "ID": "COLLECT_0804_01",
+      "ref_item_bdat": 66,
+      "item_id": 526,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 498,
+      "ID": "COLLECT_0414_01",
+      "ref_item_bdat": 29,
+      "item_id": 55,
+      "count": 4,
+      "deduct": 0
+    },
+    {
+      "$id": 499,
+      "ID": "COLLECT_0418_01_01",
+      "ref_item_bdat": 25,
+      "item_id": 8,
+      "count": 3,
+      "deduct": 0
+    },
+    {
+      "$id": 500,
+      "ID": "COLLECT_0418_01_02",
+      "ref_item_bdat": 27,
+      "item_id": 177,
+      "count": 4,
+      "deduct": 0
+    },
+    {
+      "$id": 501,
+      "ID": "COLLECT_0418_01_03",
+      "ref_item_bdat": 27,
+      "item_id": 82,
+      "count": 6,
+      "deduct": 0
+    },
+    {
+      "$id": 502,
+      "ID": "COLLECT_0418_02_01",
+      "ref_item_bdat": 27,
+      "item_id": 47,
+      "count": 5,
+      "deduct": 0
+    },
+    {
+      "$id": 503,
+      "ID": "COLLECT_0418_02_02",
+      "ref_item_bdat": 26,
+      "item_id": 534,
+      "count": 3,
+      "deduct": 0
+    },
+    {
+      "$id": 504,
+      "ID": "COLLECT_0418_02_03",
+      "ref_item_bdat": 25,
+      "item_id": 56,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 505,
+      "ID": "COLLECT_1016_01",
+      "ref_item_bdat": 7,
+      "item_id": 287,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 506,
+      "ID": "COLLECT_1016_02",
+      "ref_item_bdat": 7,
+      "item_id": 288,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 507,
+      "ID": "COLLECT_1016_03",
+      "ref_item_bdat": 7,
+      "item_id": 289,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 508,
+      "ID": "COLLECT_1017_01",
+      "ref_item_bdat": 2,
+      "item_id": 246,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 509,
+      "ID": "COLLECT_1017_02",
+      "ref_item_bdat": 2,
+      "item_id": 251,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 510,
+      "ID": "COLLECT_1017_03",
+      "ref_item_bdat": 2,
+      "item_id": 256,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 511,
+      "ID": "COLLECT_0551_02",
+      "ref_item_bdat": 66,
+      "item_id": 53,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 512,
+      "ID": "COLLECT_0311_03",
+      "ref_item_bdat": 66,
+      "item_id": 1,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 513,
+      "ID": "COLLECT_0102_01_01",
+      "ref_item_bdat": 27,
+      "item_id": 269,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 514,
+      "ID": "COLLECT_0102_01_02",
+      "ref_item_bdat": 27,
+      "item_id": 184,
+      "count": 4,
+      "deduct": 0
+    },
+    {
+      "$id": 515,
+      "ID": "COLLECT_2006_01_01",
+      "ref_item_bdat": 29,
+      "item_id": 218,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 516,
+      "ID": "COLLECT_2007_01_01",
+      "ref_item_bdat": 26,
+      "item_id": 443,
+      "count": 10,
+      "deduct": 1
+    },
+    {
+      "$id": 517,
+      "ID": "COLLECT_2008_01_01",
+      "ref_item_bdat": 27,
+      "item_id": 299,
+      "count": 6,
+      "deduct": 1
+    },
+    {
+      "$id": 518,
+      "ID": "COLLECT_2009_01_01",
+      "ref_item_bdat": 27,
+      "item_id": 22,
+      "count": 4,
+      "deduct": 1
+    },
+    {
+      "$id": 519,
+      "ID": "COLLECT_2009_01_02",
+      "ref_item_bdat": 26,
+      "item_id": 543,
+      "count": 10,
+      "deduct": 1
+    },
+    {
+      "$id": 520,
+      "ID": "COLLECT_0503_1",
+      "ref_item_bdat": 29,
+      "item_id": 61,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 521,
+      "ID": "COLLECT_0503_2",
+      "ref_item_bdat": 29,
+      "item_id": 62,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 522,
+      "ID": "COLLECT_0411_1",
+      "ref_item_bdat": 29,
+      "item_id": 68,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 523,
+      "ID": "COLLECT_1018_01",
+      "ref_item_bdat": 7,
+      "item_id": 26,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 524,
+      "ID": "COLLECT_1018_02",
+      "ref_item_bdat": 7,
+      "item_id": 27,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 525,
+      "ID": "COLLECT_1018_03",
+      "ref_item_bdat": 7,
+      "item_id": 28,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 526,
+      "ID": "COLLECT_1019_01",
+      "ref_item_bdat": 6,
+      "item_id": 1590,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 527,
+      "ID": "COLLECT_1019_02",
+      "ref_item_bdat": 6,
+      "item_id": 1591,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 528,
+      "ID": "COLLECT_1019_03",
+      "ref_item_bdat": 6,
+      "item_id": 1592,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 529,
+      "ID": "COLLECT_1020_01",
+      "ref_item_bdat": 7,
+      "item_id": 810,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 530,
+      "ID": "COLLECT_1020_02",
+      "ref_item_bdat": 7,
+      "item_id": 811,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 531,
+      "ID": "COLLECT_1020_03",
+      "ref_item_bdat": 7,
+      "item_id": 812,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 532,
+      "ID": "COLLECT_0116_01_01",
+      "ref_item_bdat": 26,
+      "item_id": 705,
+      "count": 2,
+      "deduct": 0
+    },
+    {
+      "$id": 533,
+      "ID": "COLLECT_0116_01_02",
+      "ref_item_bdat": 27,
+      "item_id": 222,
+      "count": 2,
+      "deduct": 0
+    },
+    {
+      "$id": 534,
+      "ID": "COLLECT_0116_01_03",
+      "ref_item_bdat": 26,
+      "item_id": 515,
+      "count": 2,
+      "deduct": 0
+    },
+    {
+      "$id": 535,
+      "ID": "COLLECT_0866_03",
+      "ref_item_bdat": 29,
+      "item_id": 90,
+      "count": 1,
+      "deduct": 1
+    },
+    {
+      "$id": 536,
+      "ID": "COLLECT_0866_04",
+      "ref_item_bdat": 29,
+      "item_id": 90,
+      "count": 1,
+      "deduct": 1
+    },
+    {
+      "$id": 537,
+      "ID": "COLLECT_0422_01",
+      "ref_item_bdat": 29,
+      "item_id": 57,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 538,
+      "ID": "COLLECT_0868_01",
+      "ref_item_bdat": 66,
+      "item_id": 54,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 539,
+      "ID": "COLLECT_0868_02",
+      "ref_item_bdat": 66,
+      "item_id": 55,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 540,
+      "ID": "COLLECT_0151_05",
+      "ref_item_bdat": 29,
+      "item_id": 10,
+      "count": 99,
+      "deduct": 0
+    },
+    {
+      "$id": 541,
+      "ID": "COLLECT_0874_02",
+      "ref_item_bdat": 66,
+      "item_id": 9,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 542,
+      "ID": "COLLECT_0251_02",
+      "ref_item_bdat": 66,
+      "item_id": 18,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 543,
+      "ID": "COLLECT_0917_02",
+      "ref_item_bdat": 66,
+      "item_id": 87,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 544,
+      "ID": "COLLECT_0191_02",
+      "ref_item_bdat": 29,
+      "item_id": 210,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 545,
+      "ID": "COLLECT_0868_03",
+      "ref_item_bdat": 66,
+      "item_id": 19,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 546,
+      "ID": "COLLECT_M35_01_01",
+      "ref_item_bdat": 29,
+      "item_id": 231,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 547,
+      "ID": "COLLECT_M35_01_02",
+      "ref_item_bdat": 29,
+      "item_id": 232,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 548,
+      "ID": "COLLECT_M35_01_03",
+      "ref_item_bdat": 29,
+      "item_id": 233,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 549,
+      "ID": "COLLECT_1932_02_01",
+      "ref_item_bdat": 29,
+      "item_id": 235,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 550,
+      "ID": "COLLECT_1932_02_02",
+      "ref_item_bdat": 29,
+      "item_id": 236,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 551,
+      "ID": "COLLECT_1932_02_03",
+      "ref_item_bdat": 29,
+      "item_id": 237,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 552,
+      "ID": "COLLECT_1932_04_01",
+      "ref_item_bdat": 29,
+      "item_id": 238,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 553,
+      "ID": "COLLECT_1927_03_01",
+      "ref_item_bdat": 29,
+      "item_id": 239,
+      "count": 1,
+      "deduct": 0
+    },
+    {
+      "$id": 554,
+      "ID": "COLLECT_1927_03_02",
+      "ref_item_bdat": 29,
+      "item_id": 240,
+      "count": 2,
+      "deduct": 0
+    }
+  ]
+}

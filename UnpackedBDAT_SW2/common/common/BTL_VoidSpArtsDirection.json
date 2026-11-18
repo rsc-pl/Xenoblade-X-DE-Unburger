@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "ID",
+      "type": 9
+    },
+    {
+      "name": "Frame",
+      "type": 2
+    },
+    {
+      "name": "Param1",
+      "type": 2
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "ID": "BTL_VoidSpArtsDirection_01",
+      "Frame": 225,
+      "Param1": 105
+    },
+    {
+      "$id": 2,
+      "ID": "BTL_VoidSpArtsDirection_02",
+      "Frame": 405,
+      "Param1": 105
+    },
+    {
+      "$id": 3,
+      "ID": "BTL_VoidSpArtsDirection_03",
+      "Frame": 570,
+      "Param1": 589
+    },
+    {
+      "$id": 4,
+      "ID": "BTL_VoidSpArtsDirection_04",
+      "Frame": 720,
+      "Param1": 0
+    },
+    {
+      "$id": 5,
+      "ID": "BTL_VoidSpArtsDirection_TargetOFF",
+      "Frame": 148,
+      "Param1": 0
+    },
+    {
+      "$id": 6,
+      "ID": "BTL_VoidSpArtsDirection_AiOFF",
+      "Frame": 148,
+      "Param1": 0
+    }
+  ]
+}

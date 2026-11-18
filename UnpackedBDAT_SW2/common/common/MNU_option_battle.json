@@ -1,0 +1,156 @@
+{
+  "schema": [
+    {
+      "name": "ID",
+      "type": 9
+    },
+    {
+      "name": "name",
+      "type": 13
+    },
+    {
+      "name": "help",
+      "type": 13
+    },
+    {
+      "name": "hidden_condition",
+      "type": 2
+    },
+    {
+      "name": "grayout_condition",
+      "type": 2
+    },
+    {
+      "name": "control_type",
+      "type": 1
+    },
+    {
+      "name": "select_num",
+      "type": 1
+    },
+    {
+      "name": "default_value",
+      "type": 1
+    },
+    {
+      "name": "select_name1",
+      "type": 13
+    },
+    {
+      "name": "select_name2",
+      "type": 13
+    },
+    {
+      "name": "select_name3",
+      "type": 13
+    },
+    {
+      "name": "select_name4",
+      "type": 13
+    },
+    {
+      "name": "select_name5",
+      "type": 13
+    },
+    {
+      "name": "sort_no",
+      "type": 1
+    },
+    {
+      "name": "save_type",
+      "type": 1
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "ID": "OPTION_BATTLE_SOUL_VOICE_DISP",
+      "name": 40,
+      "help": 142,
+      "hidden_condition": 0,
+      "grayout_condition": 0,
+      "control_type": 3,
+      "select_num": 2,
+      "default_value": 1,
+      "select_name1": 205,
+      "select_name2": 206,
+      "select_name3": 0,
+      "select_name4": 0,
+      "select_name5": 0,
+      "sort_no": 1,
+      "save_type": 1
+    },
+    {
+      "$id": 2,
+      "ID": "OPTION_BATTLE_ARTS_INFO_DISP",
+      "name": 41,
+      "help": 143,
+      "hidden_condition": 0,
+      "grayout_condition": 0,
+      "control_type": 3,
+      "select_num": 2,
+      "default_value": 1,
+      "select_name1": 205,
+      "select_name2": 206,
+      "select_name3": 0,
+      "select_name4": 0,
+      "select_name5": 0,
+      "sort_no": 2,
+      "save_type": 1
+    },
+    {
+      "$id": 3,
+      "ID": "OPTION_BATTLE_ENEMY_STATUS_DISP",
+      "name": 42,
+      "help": 144,
+      "hidden_condition": 0,
+      "grayout_condition": 0,
+      "control_type": 3,
+      "select_num": 2,
+      "default_value": 1,
+      "select_name1": 205,
+      "select_name2": 206,
+      "select_name3": 0,
+      "select_name4": 0,
+      "select_name5": 0,
+      "sort_no": 3,
+      "save_type": 1
+    },
+    {
+      "$id": 4,
+      "ID": "OPTION_BATTLE_TARGET_MODE",
+      "name": 43,
+      "help": 145,
+      "hidden_condition": 0,
+      "grayout_condition": 0,
+      "control_type": 1,
+      "select_num": 2,
+      "default_value": 0,
+      "select_name1": 237,
+      "select_name2": 238,
+      "select_name3": 0,
+      "select_name4": 0,
+      "select_name5": 0,
+      "sort_no": 4,
+      "save_type": 1
+    },
+    {
+      "$id": 5,
+      "ID": "OPTION_BATTLE_REMEMBER_COMMANDS",
+      "name": 4,
+      "help": 106,
+      "hidden_condition": 0,
+      "grayout_condition": 0,
+      "control_type": 3,
+      "select_num": 2,
+      "default_value": 0,
+      "select_name1": 205,
+      "select_name2": 206,
+      "select_name3": 0,
+      "select_name4": 0,
+      "select_name5": 0,
+      "sort_no": 5,
+      "save_type": 1
+    }
+  ]
+}

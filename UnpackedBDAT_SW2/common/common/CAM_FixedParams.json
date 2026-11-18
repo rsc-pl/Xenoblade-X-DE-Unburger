@@ -1,0 +1,150 @@
+{
+  "schema": [
+    {
+      "name": "ID",
+      "type": 9
+    },
+    {
+      "name": "UpAngleLimit",
+      "type": 1
+    },
+    {
+      "name": "DownAngleLimit",
+      "type": 1
+    },
+    {
+      "name": "ZoomInLimit",
+      "type": 2
+    },
+    {
+      "name": "ZoomOutLimit",
+      "type": 2
+    },
+    {
+      "name": "Fov",
+      "type": 1
+    },
+    {
+      "name": "DampHor",
+      "type": 1
+    },
+    {
+      "name": "DampVer",
+      "type": 1
+    },
+    {
+      "name": "LandingHeight",
+      "type": 5
+    },
+    {
+      "name": "LandingFrame",
+      "type": 1
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "ID": "CAM_FIXED_PRM_PC",
+      "UpAngleLimit": 50,
+      "DownAngleLimit": 50,
+      "ZoomInLimit": 100,
+      "ZoomOutLimit": 2800,
+      "Fov": 40,
+      "DampHor": 50,
+      "DampVer": 15,
+      "LandingHeight": 0,
+      "LandingFrame": 0
+    },
+    {
+      "$id": 2,
+      "ID": "CAM_FIXED_PRM_DOLL",
+      "UpAngleLimit": 50,
+      "DownAngleLimit": 50,
+      "ZoomInLimit": 500,
+      "ZoomOutLimit": 6000,
+      "Fov": 40,
+      "DampHor": 50,
+      "DampVer": 15,
+      "LandingHeight": 0,
+      "LandingFrame": 0
+    },
+    {
+      "$id": 3,
+      "ID": "CAM_FIXED_PRM_VEHICLE",
+      "UpAngleLimit": 50,
+      "DownAngleLimit": 50,
+      "ZoomInLimit": 500,
+      "ZoomOutLimit": 3500,
+      "Fov": 40,
+      "DampHor": 50,
+      "DampVer": 15,
+      "LandingHeight": 0,
+      "LandingFrame": 0
+    },
+    {
+      "$id": 4,
+      "ID": "CAM_FIXED_PRM_COCKPIT",
+      "UpAngleLimit": 50,
+      "DownAngleLimit": 50,
+      "ZoomInLimit": 130,
+      "ZoomOutLimit": 550,
+      "Fov": 30,
+      "DampHor": 50,
+      "DampVer": 15,
+      "LandingHeight": 0,
+      "LandingFrame": 0
+    },
+    {
+      "$id": 5,
+      "ID": "CAM_FIXED_PRM_ENEMY",
+      "UpAngleLimit": 50,
+      "DownAngleLimit": 50,
+      "ZoomInLimit": 100,
+      "ZoomOutLimit": 65535,
+      "Fov": 40,
+      "DampHor": 50,
+      "DampVer": 15,
+      "LandingHeight": 0,
+      "LandingFrame": 0
+    },
+    {
+      "$id": 6,
+      "ID": "CAM_FIXED_PRM_ROOM_PC",
+      "UpAngleLimit": 50,
+      "DownAngleLimit": 50,
+      "ZoomInLimit": 100,
+      "ZoomOutLimit": 2800,
+      "Fov": 40,
+      "DampHor": 50,
+      "DampVer": 15,
+      "LandingHeight": 0,
+      "LandingFrame": 0
+    },
+    {
+      "$id": 7,
+      "ID": "CAM_FIXED_PRM_ROOM_DOLL",
+      "UpAngleLimit": 50,
+      "DownAngleLimit": 50,
+      "ZoomInLimit": 500,
+      "ZoomOutLimit": 3500,
+      "Fov": 40,
+      "DampHor": 50,
+      "DampVer": 15,
+      "LandingHeight": 0,
+      "LandingFrame": 0
+    },
+    {
+      "$id": 8,
+      "ID": "CAM_FIXED_PRM_ROOM_WATER",
+      "UpAngleLimit": 50,
+      "DownAngleLimit": 50,
+      "ZoomInLimit": 100,
+      "ZoomOutLimit": 2800,
+      "Fov": 40,
+      "DampHor": 50,
+      "DampVer": 15,
+      "LandingHeight": 0,
+      "LandingFrame": 0
+    }
+  ]
+}

@@ -1,0 +1,199 @@
+{
+  "schema": [
+    {
+      "name": "ID",
+      "type": 9
+    },
+    {
+      "name": "DMG_LVDIFF_MIN",
+      "type": 4
+    },
+    {
+      "name": "DMG_LVDIFF_MAX",
+      "type": 4
+    },
+    {
+      "name": "DMG_LVDIFF_RATIO",
+      "type": 5
+    },
+    {
+      "name": "DMG_LVDIFF_RATIO_DL",
+      "type": 5
+    },
+    {
+      "name": "DMG_LVDIFF_MIN_LOW",
+      "type": 4
+    },
+    {
+      "name": "DMG_LVDIFF_MAX_LOW",
+      "type": 4
+    },
+    {
+      "name": "DMG_LVDIFF_RATIO_LOW",
+      "type": 5
+    },
+    {
+      "name": "DMG_LVDIFF_RATIO_LOW_DL",
+      "type": 5
+    },
+    {
+      "name": "DMG_PT_DL_GRD_RATIO",
+      "type": 5
+    },
+    {
+      "name": "LinkDelay",
+      "type": 1
+    },
+    {
+      "name": "NearWpnPartsRatio",
+      "type": 4
+    },
+    {
+      "name": "CmpBounsNM",
+      "type": 1
+    },
+    {
+      "name": "ArtsDistanceMin",
+      "type": 1
+    },
+    {
+      "name": "ArtsRadiusMin",
+      "type": 1
+    },
+    {
+      "name": "ArtsLengthMin",
+      "type": 1
+    },
+    {
+      "name": "FightDistanceMin",
+      "type": 1
+    },
+    {
+      "name": "EasyCnt",
+      "type": 1
+    },
+    {
+      "name": "KizunaPoint",
+      "type": 1
+    },
+    {
+      "name": "HomingRev",
+      "type": 2
+    },
+    {
+      "name": "CheckRideFuel",
+      "type": 1
+    },
+    {
+      "name": "GearEndSlowRatio",
+      "type": 1
+    },
+    {
+      "name": "GearEndSlowFrame",
+      "type": 1
+    },
+    {
+      "name": "DollLostLv",
+      "type": 1
+    },
+    {
+      "name": "DollLostRaito",
+      "type": 1
+    },
+    {
+      "name": "DollLostFrame",
+      "type": 1
+    },
+    {
+      "name": "HDSBlurLife",
+      "type": 1
+    },
+    {
+      "name": "CockpitCool",
+      "type": 2
+    },
+    {
+      "name": "CockpitRatio",
+      "type": 1
+    },
+    {
+      "name": "CockpitHDSRatio",
+      "type": 1
+    },
+    {
+      "name": "CockpitDelay",
+      "type": 1
+    },
+    {
+      "name": "PcFld_HomingRev",
+      "type": 2
+    },
+    {
+      "name": "PcBtl_HomingRev",
+      "type": 2
+    },
+    {
+      "name": "DlFld_HomingRev",
+      "type": 2
+    },
+    {
+      "name": "DlBtl_HomingRev",
+      "type": 2
+    },
+    {
+      "name": "Exp_SizeRev_S",
+      "type": 4
+    },
+    {
+      "name": "Exp_SizeRev_M",
+      "type": 4
+    },
+    {
+      "name": "BaseEva",
+      "type": 5
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "ID": "System",
+      "DMG_LVDIFF_MIN": 1,
+      "DMG_LVDIFF_MAX": 99,
+      "DMG_LVDIFF_RATIO": 12,
+      "DMG_LVDIFF_RATIO_DL": 12,
+      "DMG_LVDIFF_MIN_LOW": 0,
+      "DMG_LVDIFF_MAX_LOW": 0,
+      "DMG_LVDIFF_RATIO_LOW": 0,
+      "DMG_LVDIFF_RATIO_LOW_DL": 0,
+      "DMG_PT_DL_GRD_RATIO": 20,
+      "LinkDelay": 10,
+      "NearWpnPartsRatio": 50,
+      "CmpBounsNM": 3,
+      "ArtsDistanceMin": 4,
+      "ArtsRadiusMin": 4,
+      "ArtsLengthMin": 4,
+      "FightDistanceMin": 4,
+      "EasyCnt": 3,
+      "KizunaPoint": 10,
+      "HomingRev": 100,
+      "CheckRideFuel": 0,
+      "GearEndSlowRatio": 1,
+      "GearEndSlowFrame": 60,
+      "DollLostLv": 2,
+      "DollLostRaito": 50,
+      "DollLostFrame": 30,
+      "HDSBlurLife": 30,
+      "CockpitCool": 30,
+      "CockpitRatio": 10,
+      "CockpitHDSRatio": 20,
+      "CockpitDelay": 90,
+      "PcFld_HomingRev": 50,
+      "PcBtl_HomingRev": 70,
+      "DlFld_HomingRev": 60,
+      "DlBtl_HomingRev": 100,
+      "Exp_SizeRev_S": -25,
+      "Exp_SizeRev_M": -25,
+      "BaseEva": 0
+    }
+  ]
+}

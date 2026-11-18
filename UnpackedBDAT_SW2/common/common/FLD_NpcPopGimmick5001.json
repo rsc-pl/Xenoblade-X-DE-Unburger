@@ -1,0 +1,254 @@
+{
+  "schema": [
+    {
+      "name": "ID",
+      "type": 9
+    },
+    {
+      "name": "name",
+      "type": 7
+    },
+    {
+      "name": "call_uid",
+      "type": 2
+    },
+    {
+      "name": "start_mot1",
+      "type": 2
+    },
+    {
+      "name": "npc_turn1",
+      "type": 1
+    },
+    {
+      "name": "mount1",
+      "type": 2
+    },
+    {
+      "name": "CONDITION1",
+      "type": 2
+    },
+    {
+      "name": "start_mot2",
+      "type": 2
+    },
+    {
+      "name": "npc_turn2",
+      "type": 1
+    },
+    {
+      "name": "mount2",
+      "type": 2
+    },
+    {
+      "name": "CONDITION2",
+      "type": 2
+    },
+    {
+      "name": "start_mot3",
+      "type": 2
+    },
+    {
+      "name": "npc_turn3",
+      "type": 1
+    },
+    {
+      "name": "mount3",
+      "type": 2
+    },
+    {
+      "name": "CONDITION3",
+      "type": 2
+    },
+    {
+      "name": "start_mot4",
+      "type": 2
+    },
+    {
+      "name": "npc_turn4",
+      "type": 1
+    },
+    {
+      "name": "mount4",
+      "type": 2
+    },
+    {
+      "name": "CONDITION4",
+      "type": 2
+    },
+    {
+      "name": "gene_dist_xz",
+      "type": 2
+    },
+    {
+      "name": "gene_dist_y",
+      "type": 2
+    },
+    {
+      "name": "del_dist_xz",
+      "type": 2
+    },
+    {
+      "name": "del_dist_y",
+      "type": 2
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "ID": "uni0956_00",
+      "name": "uni0956_00",
+      "call_uid": 454,
+      "start_mot1": 4,
+      "npc_turn1": 1,
+      "mount1": 0,
+      "CONDITION1": 5485,
+      "start_mot2": 0,
+      "npc_turn2": 0,
+      "mount2": 0,
+      "CONDITION2": 0,
+      "start_mot3": 0,
+      "npc_turn3": 1,
+      "mount3": 0,
+      "CONDITION3": 0,
+      "start_mot4": 0,
+      "npc_turn4": 1,
+      "mount4": 0,
+      "CONDITION4": 0,
+      "gene_dist_xz": 250,
+      "gene_dist_y": 100,
+      "del_dist_xz": 260,
+      "del_dist_y": 110
+    },
+    {
+      "$id": 2,
+      "ID": "uni0957_00",
+      "name": "uni0957_00",
+      "call_uid": 455,
+      "start_mot1": 7,
+      "npc_turn1": 1,
+      "mount1": 0,
+      "CONDITION1": 5486,
+      "start_mot2": 0,
+      "npc_turn2": 0,
+      "mount2": 0,
+      "CONDITION2": 0,
+      "start_mot3": 0,
+      "npc_turn3": 1,
+      "mount3": 0,
+      "CONDITION3": 0,
+      "start_mot4": 0,
+      "npc_turn4": 1,
+      "mount4": 0,
+      "CONDITION4": 0,
+      "gene_dist_xz": 250,
+      "gene_dist_y": 100,
+      "del_dist_xz": 260,
+      "del_dist_y": 110
+    },
+    {
+      "$id": 3,
+      "ID": "uni0958_00",
+      "name": "uni0958_00",
+      "call_uid": 456,
+      "start_mot1": 8,
+      "npc_turn1": 1,
+      "mount1": 0,
+      "CONDITION1": 5487,
+      "start_mot2": 0,
+      "npc_turn2": 0,
+      "mount2": 0,
+      "CONDITION2": 0,
+      "start_mot3": 0,
+      "npc_turn3": 1,
+      "mount3": 0,
+      "CONDITION3": 0,
+      "start_mot4": 0,
+      "npc_turn4": 1,
+      "mount4": 0,
+      "CONDITION4": 0,
+      "gene_dist_xz": 250,
+      "gene_dist_y": 100,
+      "del_dist_xz": 260,
+      "del_dist_y": 110
+    },
+    {
+      "$id": 4,
+      "ID": "uni0959_00",
+      "name": "uni0959_00",
+      "call_uid": 457,
+      "start_mot1": 3,
+      "npc_turn1": 1,
+      "mount1": 0,
+      "CONDITION1": 5482,
+      "start_mot2": 0,
+      "npc_turn2": 0,
+      "mount2": 0,
+      "CONDITION2": 0,
+      "start_mot3": 0,
+      "npc_turn3": 1,
+      "mount3": 0,
+      "CONDITION3": 0,
+      "start_mot4": 0,
+      "npc_turn4": 1,
+      "mount4": 0,
+      "CONDITION4": 0,
+      "gene_dist_xz": 250,
+      "gene_dist_y": 100,
+      "del_dist_xz": 260,
+      "del_dist_y": 110
+    },
+    {
+      "$id": 5,
+      "ID": "uni0960_00",
+      "name": "uni0960_00",
+      "call_uid": 458,
+      "start_mot1": 4,
+      "npc_turn1": 1,
+      "mount1": 0,
+      "CONDITION1": 5483,
+      "start_mot2": 0,
+      "npc_turn2": 0,
+      "mount2": 0,
+      "CONDITION2": 0,
+      "start_mot3": 0,
+      "npc_turn3": 1,
+      "mount3": 0,
+      "CONDITION3": 0,
+      "start_mot4": 0,
+      "npc_turn4": 1,
+      "mount4": 0,
+      "CONDITION4": 0,
+      "gene_dist_xz": 250,
+      "gene_dist_y": 100,
+      "del_dist_xz": 260,
+      "del_dist_y": 110
+    },
+    {
+      "$id": 6,
+      "ID": "uni0961_00",
+      "name": "uni0961_00",
+      "call_uid": 459,
+      "start_mot1": 8,
+      "npc_turn1": 1,
+      "mount1": 0,
+      "CONDITION1": 5484,
+      "start_mot2": 0,
+      "npc_turn2": 0,
+      "mount2": 0,
+      "CONDITION2": 0,
+      "start_mot3": 0,
+      "npc_turn3": 1,
+      "mount3": 0,
+      "CONDITION3": 0,
+      "start_mot4": 0,
+      "npc_turn4": 1,
+      "mount4": 0,
+      "CONDITION4": 0,
+      "gene_dist_xz": 250,
+      "gene_dist_y": 100,
+      "del_dist_xz": 260,
+      "del_dist_y": 110
+    }
+  ]
+}

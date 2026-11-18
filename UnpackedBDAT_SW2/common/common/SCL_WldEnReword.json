@@ -1,0 +1,120 @@
+{
+  "schema": [
+    {
+      "name": "ID",
+      "type": 9
+    },
+    {
+      "name": "TargetEnemy",
+      "type": 2
+    },
+    {
+      "name": "LP",
+      "type": 2
+    },
+    {
+      "name": "ItemType",
+      "type": 1
+    },
+    {
+      "name": "ItemID",
+      "type": 2
+    },
+    {
+      "name": "ItemNum",
+      "type": 1
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "ID": "WE01_Rewd001",
+      "TargetEnemy": 1697,
+      "LP": 0,
+      "ItemType": 26,
+      "ItemID": 391,
+      "ItemNum": 3
+    },
+    {
+      "$id": 2,
+      "ID": "WE01_Rewd002",
+      "TargetEnemy": 1697,
+      "LP": 10,
+      "ItemType": 26,
+      "ItemID": 391,
+      "ItemNum": 9
+    },
+    {
+      "$id": 3,
+      "ID": "WE01_Rewd003",
+      "TargetEnemy": 1697,
+      "LP": 30,
+      "ItemType": 26,
+      "ItemID": 391,
+      "ItemNum": 18
+    },
+    {
+      "$id": 4,
+      "ID": "WE01_Rewd004",
+      "TargetEnemy": 1697,
+      "LP": 60,
+      "ItemType": 26,
+      "ItemID": 391,
+      "ItemNum": 27
+    },
+    {
+      "$id": 5,
+      "ID": "WE01_Rewd005",
+      "TargetEnemy": 1697,
+      "LP": 100,
+      "ItemType": 26,
+      "ItemID": 391,
+      "ItemNum": 36
+    },
+    {
+      "$id": 6,
+      "ID": "FR01_Rewd001",
+      "TargetEnemy": 1699,
+      "LP": 0,
+      "ItemType": 26,
+      "ItemID": 390,
+      "ItemNum": 3
+    },
+    {
+      "$id": 7,
+      "ID": "FR01_Rewd002",
+      "TargetEnemy": 1699,
+      "LP": 10,
+      "ItemType": 26,
+      "ItemID": 390,
+      "ItemNum": 9
+    },
+    {
+      "$id": 8,
+      "ID": "FR01_Rewd003",
+      "TargetEnemy": 1699,
+      "LP": 30,
+      "ItemType": 26,
+      "ItemID": 390,
+      "ItemNum": 18
+    },
+    {
+      "$id": 9,
+      "ID": "FR01_Rewd004",
+      "TargetEnemy": 1699,
+      "LP": 60,
+      "ItemType": 26,
+      "ItemID": 390,
+      "ItemNum": 27
+    },
+    {
+      "$id": 10,
+      "ID": "FR01_Rewd005",
+      "TargetEnemy": 1699,
+      "LP": 100,
+      "ItemType": 26,
+      "ItemID": 390,
+      "ItemNum": 36
+    }
+  ]
+}

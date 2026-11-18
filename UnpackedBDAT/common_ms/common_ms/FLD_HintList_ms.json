@@ -42,7 +42,7 @@
       "$id": 5,
       "label": "HINT_CONTENT_004",
       "style": 174,
-      "name": "[ST:icon p1=r ]+[ST:icon p1=crsu ]: Launch Aerial Cam"
+      "name": "[ST:icon p1=r ]+[ST:icon p1=crsu ]: Launch Hopper Camera"
     },
     {
       "$id": 6,
@@ -114,7 +114,7 @@
       "$id": 17,
       "label": "HINT_CONTENT_016",
       "style": 174,
-      "name": "[ST:icon p1=r ]+[ST:icon p1=y ]/[ST:icon p1=a ]: Select Target Appendage"
+      "name": "[ST:icon p1=r ]+[ST:icon p1=y ]/[ST:icon p1=a ]: Select Target Part"
     },
     {
       "$id": 18,
@@ -126,7 +126,7 @@
       "$id": 19,
       "label": "HINT_CONTENT_018",
       "style": 174,
-      "name": "Succeeding in a Soul Challenge\nprompt will restore HP for the team\nand increase morale by one level."
+      "name": "Succeeding in a Soul Challenge\nprompt will restore HP for the team\nand raise the Soul Stage by one."
     },
     {
       "$id": 20,
@@ -156,7 +156,7 @@
       "$id": 24,
       "label": "HINT_CONTENT_023",
       "style": 174,
-      "name": "When an enemy is under the effects of\nthe Stagger status, use an Art with the\nTopple effect for a high chance to send\nthem sprawling to the ground, giving\nyou a chance to deal major damage."
+      "name": "When an enemy is under the effects of\nthe Break status, use an Art with the\nTopple effect for a high chance to send\nthem sprawling to the ground, giving\nyou a chance to deal major damage."
     },
     {
       "$id": 25,
@@ -186,7 +186,7 @@
       "$id": 29,
       "label": "HINT_CONTENT_028",
       "style": 174,
-      "name": "During Heat Wave weather: ranged\naccuracy and melee attack will be\nreduced, while thermal attack will be\nincreased."
+      "name": "During Heat Wave weather: ranged\naccuracy and melee attack will be\nreduced, while heat attack will be\nincreased."
     },
     {
       "$id": 30,
@@ -210,19 +210,19 @@
       "$id": 33,
       "label": "HINT_CONTENT_032",
       "style": 174,
-      "name": "During Rising Energy Mist weather:\npotential will be reduced, while ether\nattack will be increased and Doll fuel\nwill regenerate steadily."
+      "name": "During Rising Particles weather:\npotential will be reduced, while ether\nattack will be increased and Doll fuel\nwill regenerate steadily."
     },
     {
       "$id": 34,
       "label": "HINT_CONTENT_033",
       "style": 174,
-      "name": "During Energy Mist weather: potential\nwill be reduced, while ether attack\nwill be increased and Doll fuel will\nregenerate steadily."
+      "name": "During Suspended Particles weather: potential\nwill be reduced, while ether attack\nwill be increased and Doll fuel will\nregenerate steadily."
     },
     {
       "$id": 35,
       "label": "HINT_CONTENT_034",
       "style": 174,
-      "name": "During Brimstone Rain weather: you'll\ntake constant damage, ranged\naccuracy and melee attack will be\nreduced, while thermal attack will be\nincreased."
+      "name": "During Fire Rain weather: you'll\ntake constant damage, ranged\naccuracy and melee attack will be\nreduced, while heat attack will be\nincreased."
     },
     {
       "$id": 36,
@@ -234,13 +234,13 @@
       "$id": 37,
       "label": "HINT_CONTENT_036",
       "style": 174,
-      "name": "During Crimson Aurora weather:\ncritical chance, potential, ether attack,\nand gravity attack will be increased."
+      "name": "During Scarlet Aurora weather:\ncritical chance, potential, ether attack,\nand gravity attack will be increased."
     },
     {
       "$id": 38,
       "label": "HINT_CONTENT_037",
       "style": 174,
-      "name": "During Spore weather: melee attack,\nranged attack, and potential will be\nreduced."
+      "name": "When the weather is Spores: melee attack,\nranged attack, and potential will be\nreduced."
     },
     {
       "$id": 39,
@@ -288,13 +288,13 @@
       "$id": 46,
       "label": "HINT_CONTENT_045",
       "style": 174,
-      "name": "Install a data probe at a FrontierNet\nprobe site to reveal segment recon\ninformation about adjacent segments\nand unlock the site for fast travel."
+      "name": "Install a data probe at a FrontierNET\nprobe site to reveal segment recon\ninformation about adjacent segments\nand unlock the site for skip travel."
     },
     {
       "$id": 47,
       "label": "HINT_CONTENT_046",
       "style": 174,
-      "name": "If you destroy an enemy's appendage,\nyou will stop them from using Arts that\nwere dependent on that appendage.\nSome materials can only be obtained\nby destroying appendages."
+      "name": "If you destroy an enemy's part,\nyou will stop them from using Arts that\nwere dependent on that part.\nSome materials can only be obtained\nby destroying parts."
     },
     {
       "$id": 48,
@@ -306,13 +306,13 @@
       "$id": 49,
       "label": "HINT_CONTENT_048",
       "style": 174,
-      "name": "You can access FrontierNet from one\nof the consoles on the New White Whale's\nbridge."
+      "name": "You can access FrontierNET from the BLADE\nHome Console on the New White Whale's bridge."
     },
     {
       "$id": 50,
       "label": "HINT_CONTENT_049",
       "style": 174,
-      "name": "Install data probes at FrontierNet\nprobe sites and complete segment\nrecon to raise the survey rate."
+      "name": "Install data probes at FrontierNET\nprobe sites and complete segment\nrecon to raise the survey rate."
     },
     {
       "$id": 51,
@@ -324,13 +324,13 @@
       "$id": 52,
       "label": "HINT_CONTENT_051",
       "style": 174,
-      "name": "Speaking to characters with\na question mark above their heads\nwill trigger a normal mission."
+      "name": "Speaking to characters with\na question mark above their heads\nwill trigger a normal quest."
     },
     {
       "$id": 53,
       "label": "HINT_CONTENT_052",
       "style": 174,
-      "name": "You can accept basic missions by\ninteracting with the Quest Board\nboard."
+      "name": "You can accept simple quests by\ninteracting with the Quest Board\nboard."
     },
     {
       "$id": 54,
@@ -342,7 +342,7 @@
       "$id": 55,
       "label": "HINT_CONTENT_054",
       "style": 174,
-      "name": "You can fast travel to your Doll's\nlocation by going to Main Menu >\nParty > Return to Doll."
+      "name": "You can skip travel to your Doll's\nlocation by going to Main Menu >\nParty > Return to Doll."
     },
     {
       "$id": 56,
@@ -354,13 +354,13 @@
       "$id": 57,
       "label": "HINT_CONTENT_056",
       "style": 174,
-      "name": "Your bonding with your teammates will\ngradually grow as you fight battles and\ncomplete missions together."
+      "name": "Your bonding with your teammates will\ngradually grow as you fight battles and\ncomplete quests together."
     },
     {
       "$id": 58,
       "label": "HINT_CONTENT_057",
       "style": 174,
-      "name": "Collecting FrontierNet revenue is\na way of earning money, miranium,\nand rare resources."
+      "name": "Collecting FrontierNET revenue is\na way of earning money, miranium,\nand rare resources."
     },
     {
       "$id": 59,
@@ -372,13 +372,13 @@
       "$id": 60,
       "label": "HINT_CONTENT_059",
       "style": 174,
-      "name": "Squad tasks grant a small number\nof material tickets every time you\ncomplete one. Complete all tasks to\nreceive a lot more of them as a bonus."
+      "name": "Squad Missions grant a small number\nof material tickets every time you\ncomplete one. Complete all tasks to\nreceive a lot more of them as a bonus."
     },
     {
       "$id": 61,
       "label": "HINT_CONTENT_060",
       "style": 174,
-      "name": "You can trade material tickets for\nenemy materials by going to\nMain Menu > Online > Rewards >\nMaterial Market."
+      "name": "You can trade material tickets for\nenemy materials by going to\nMain Menu > Online > Rewards >\nMaterial Exchange."
     },
     {
       "$id": 62,
@@ -390,7 +390,7 @@
       "$id": 63,
       "label": "HINT_CONTENT_062",
       "style": 174,
-      "name": "To battle Global Nemeses,\nuse the Network Console in\nthe BLADE Home."
+      "name": "To battle World Enemies,\nuse the Network Console in\nthe BLADE Home."
     },
     {
       "$id": 64,
@@ -402,7 +402,7 @@
       "$id": 65,
       "label": "HINT_CONTENT_064",
       "style": 174,
-      "name": "When using Overclock, Arts can reach\na state beyond secondary cooldown\ncalled tertiary cooldown, even further\nincreasing their effects."
+      "name": "When using Overclock, Arts can reach\na state beyond double cooldown\ncalled triple cooldown, even further\nincreasing their effects."
     },
     {
       "$id": 66,
@@ -414,7 +414,7 @@
       "$id": 67,
       "label": "HINT_CONTENT_066",
       "style": 174,
-      "name": "Arts using the weapon you currently\nhave out will continue to charge even\nafter they're usable until they reach\nsecondary cooldown, increasing their\neffects."
+      "name": "Arts using the weapon you currently\nhave out will continue to charge even\nafter they're usable until they reach\ndouble cooldown, increasing their\neffects."
     },
     {
       "$id": 68,
@@ -426,7 +426,7 @@
       "$id": 69,
       "label": "HINT_CONTENT_068",
       "style": 174,
-      "name": "If you ever need to check your\nsurroundings, you can press [ST:icon p1=r ]+[ST:icon p1=crsu ]\nto deploy the Aerial Cam."
+      "name": "If you ever need to check your\nsurroundings, you can press [ST:icon p1=r ]+[ST:icon p1=crsu ]\nto deploy the Hopper Camera."
     },
     {
       "$id": 70,
@@ -450,7 +450,7 @@
       "$id": 73,
       "label": "HINT_CONTENT_072",
       "style": 174,
-      "name": "When you use Arts while driving a Doll,\nthere's a chance for Cockpit Time to\ntrigger. When it does, all Arts will be\nfully recharged, and you'll be granted\ntemporary invincibility."
+      "name": "When you use Arts while driving a Doll,\nthere's a chance for Cockpit Mode to\ntrigger. When it does, all Arts will be\nfully recharged, and you'll be granted\ntemporary invincibility."
     },
     {
       "$id": 74,
@@ -480,19 +480,19 @@
       "$id": 78,
       "label": "HINT_CONTENT_077",
       "style": 174,
-      "name": "Press [ST:icon p1=zl ]+[ST:icon p1=zr ] to grapple a staggered\nenemy and bind them using your Doll.\nAll attacks against a bound enemy will\nhit, and it will take increased damage."
+      "name": "Press [ST:icon p1=zl ]+[ST:icon p1=zr ] to use Catch on an enemy\naffected by Break while piloting a Doll.\nAll attacks against a held enemy will hit\nand deal increased damage."
     },
     {
       "$id": 79,
       "label": "HINT_CONTENT_078",
       "style": 174,
-      "name": "If one of your Doll's weapons\n(appendages) is destroyed, you will\nlose access to attacks using that\nweapon. Destroyed appendages will\nbe automatically repaired once the\nbattle concludes."
+      "name": "If one of your Doll's weapon parts\nis destroyed, Arts using that weapon\nwill become unavailable. Destroyed parts\nare automatically repaired after battle."
     },
     {
       "$id": 80,
       "label": "HINT_CONTENT_079",
       "style": 174,
-      "name": "Attacking certain enemy appendages\ncan deal more or less damage than\nnormal. Target appendages using\n[ST:icon p1=r ]+[ST:icon p1=y ] or [ST:icon p1=a ]."
+      "name": "Attacking certain enemy parts\ncan deal more or less damage than\nnormal. Target parts using\n[ST:icon p1=r ]+[ST:icon p1=y ] or [ST:icon p1=a ]."
     }
   ]
 }

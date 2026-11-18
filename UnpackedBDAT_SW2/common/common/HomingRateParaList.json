@@ -1,0 +1,50 @@
+{
+  "schema": [
+    {
+      "name": "ID",
+      "type": 9
+    },
+    {
+      "name": "RateStart",
+      "type": 4
+    },
+    {
+      "name": "RateEnd",
+      "type": 4
+    },
+    {
+      "name": "ChangeStart",
+      "type": 2
+    },
+    {
+      "name": "ChangeEnd",
+      "type": 2
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "ID": "HMGRT_TEST",
+      "RateStart": -5,
+      "RateEnd": 100,
+      "ChangeStart": 30,
+      "ChangeEnd": 120
+    },
+    {
+      "$id": 2,
+      "ID": "HMGRT_CRUCKER",
+      "RateStart": 12,
+      "RateEnd": 100,
+      "ChangeStart": 0,
+      "ChangeEnd": 50
+    },
+    {
+      "$id": 3,
+      "ID": "HMG_ARTS_EN730201A_01",
+      "RateStart": 12,
+      "RateEnd": 100,
+      "ChangeStart": 0,
+      "ChangeEnd": 50
+    }
+  ]
+}

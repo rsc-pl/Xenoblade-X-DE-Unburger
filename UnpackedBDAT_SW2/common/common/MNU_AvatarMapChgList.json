@@ -1,0 +1,49 @@
+{
+  "schema": [
+    {
+      "name": "ID",
+      "type": 9
+    },
+    {
+      "name": "FadeFrm",
+      "type": 1
+    },
+    {
+      "name": "StartEffectDelay",
+      "type": 1
+    },
+    {
+      "name": "TimeChangeRate",
+      "type": 1
+    },
+    {
+      "name": "DayHour",
+      "type": 1
+    },
+    {
+      "name": "DayTime",
+      "type": 1
+    },
+    {
+      "name": "NightHour",
+      "type": 1
+    },
+    {
+      "name": "NightTime",
+      "type": 1
+    }
+  ],
+  "rows": [
+    {
+      "$id": 0,
+      "ID": "MAP_CHG_PARAM",
+      "FadeFrm": 30,
+      "StartEffectDelay": 0,
+      "TimeChangeRate": 60,
+      "DayHour": 17,
+      "DayTime": 0,
+      "NightHour": 20,
+      "NightTime": 0
+    }
+  ]
+}

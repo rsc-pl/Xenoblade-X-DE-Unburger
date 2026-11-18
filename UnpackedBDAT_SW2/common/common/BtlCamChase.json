@@ -1,0 +1,184 @@
+{
+  "schema": [
+    {
+      "name": "ID",
+      "type": 9
+    },
+    {
+      "name": "LookDis",
+      "type": 2
+    },
+    {
+      "name": "CamDis",
+      "type": 2
+    },
+    {
+      "name": "Height",
+      "type": 2
+    },
+    {
+      "name": "Angle1",
+      "type": 4
+    },
+    {
+      "name": "Angle2",
+      "type": 4
+    },
+    {
+      "name": "Angle3",
+      "type": 4
+    },
+    {
+      "name": "Angle4",
+      "type": 4
+    },
+    {
+      "name": "Angle5",
+      "type": 4
+    },
+    {
+      "name": "UpAngleLimit",
+      "type": 1
+    },
+    {
+      "name": "DownAngleLimit",
+      "type": 1
+    },
+    {
+      "name": "ZoomInLimit",
+      "type": 2
+    },
+    {
+      "name": "ZoomOutLimit",
+      "type": 2
+    },
+    {
+      "name": "ZoomSpeed",
+      "type": 1
+    },
+    {
+      "name": "ZoomDefault",
+      "type": 5
+    },
+    {
+      "name": "Fov",
+      "type": 1
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "ID": "BCD_PC01",
+      "LookDis": 600,
+      "CamDis": 880,
+      "Height": 140,
+      "Angle1": -16,
+      "Angle2": -8,
+      "Angle3": 5,
+      "Angle4": 8,
+      "Angle5": 16,
+      "UpAngleLimit": 50,
+      "DownAngleLimit": 50,
+      "ZoomInLimit": 350,
+      "ZoomOutLimit": 350,
+      "ZoomSpeed": 20,
+      "ZoomDefault": 0,
+      "Fov": 40
+    },
+    {
+      "$id": 2,
+      "ID": "BCD_PC02",
+      "LookDis": 600,
+      "CamDis": 880,
+      "Height": 140,
+      "Angle1": -16,
+      "Angle2": -8,
+      "Angle3": 5,
+      "Angle4": 8,
+      "Angle5": 16,
+      "UpAngleLimit": 50,
+      "DownAngleLimit": 50,
+      "ZoomInLimit": 350,
+      "ZoomOutLimit": 350,
+      "ZoomSpeed": 20,
+      "ZoomDefault": 0,
+      "Fov": 40
+    },
+    {
+      "$id": 3,
+      "ID": "BCD_DL01",
+      "LookDis": 1700,
+      "CamDis": 2800,
+      "Height": 860,
+      "Angle1": 20,
+      "Angle2": 20,
+      "Angle3": 20,
+      "Angle4": 20,
+      "Angle5": 20,
+      "UpAngleLimit": 50,
+      "DownAngleLimit": 50,
+      "ZoomInLimit": 1500,
+      "ZoomOutLimit": 1500,
+      "ZoomSpeed": 40,
+      "ZoomDefault": 0,
+      "Fov": 40
+    },
+    {
+      "$id": 4,
+      "ID": "BCD_DL_Cockpit",
+      "LookDis": 500,
+      "CamDis": 150,
+      "Height": 120,
+      "Angle1": -20,
+      "Angle2": -10,
+      "Angle3": 5,
+      "Angle4": 10,
+      "Angle5": 20,
+      "UpAngleLimit": 50,
+      "DownAngleLimit": 50,
+      "ZoomInLimit": 10,
+      "ZoomOutLimit": 10,
+      "ZoomSpeed": 20,
+      "ZoomDefault": 0,
+      "Fov": 40
+    },
+    {
+      "$id": 5,
+      "ID": "BCD_DL_Drive",
+      "LookDis": 1700,
+      "CamDis": 2800,
+      "Height": 860,
+      "Angle1": 20,
+      "Angle2": 20,
+      "Angle3": 20,
+      "Angle4": 20,
+      "Angle5": 20,
+      "UpAngleLimit": 50,
+      "DownAngleLimit": 50,
+      "ZoomInLimit": 1500,
+      "ZoomOutLimit": 1500,
+      "ZoomSpeed": 40,
+      "ZoomDefault": 0,
+      "Fov": 40
+    },
+    {
+      "$id": 6,
+      "ID": "BCD_EN01",
+      "LookDis": 1700,
+      "CamDis": 1600,
+      "Height": 140,
+      "Angle1": -16,
+      "Angle2": -8,
+      "Angle3": 5,
+      "Angle4": 8,
+      "Angle5": 16,
+      "UpAngleLimit": 50,
+      "DownAngleLimit": 50,
+      "ZoomInLimit": 1500,
+      "ZoomOutLimit": 65535,
+      "ZoomSpeed": 100,
+      "ZoomDefault": 0,
+      "Fov": 40
+    }
+  ]
+}

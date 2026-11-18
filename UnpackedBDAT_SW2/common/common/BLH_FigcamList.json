@@ -1,0 +1,57 @@
+{
+  "schema": [
+    {
+      "name": "ID",
+      "type": 9
+    },
+    {
+      "name": "CamID_0",
+      "type": 1
+    },
+    {
+      "name": "CamID_1",
+      "type": 1
+    },
+    {
+      "name": "CamID_2",
+      "type": 1
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "ID": "FIGCAM_01",
+      "CamID_0": 15,
+      "CamID_1": 15,
+      "CamID_2": 15
+    },
+    {
+      "$id": 2,
+      "ID": "FIGCAM_02",
+      "CamID_0": 18,
+      "CamID_1": 18,
+      "CamID_2": 18
+    },
+    {
+      "$id": 3,
+      "ID": "FIGCAM_03",
+      "CamID_0": 21,
+      "CamID_1": 21,
+      "CamID_2": 21
+    },
+    {
+      "$id": 4,
+      "ID": "FIGCAM_04",
+      "CamID_0": 24,
+      "CamID_1": 24,
+      "CamID_2": 24
+    },
+    {
+      "$id": 5,
+      "ID": "FIGCAM_05",
+      "CamID_0": 27,
+      "CamID_1": 27,
+      "CamID_2": 27
+    }
+  ]
+}

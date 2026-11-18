@@ -1,0 +1,74 @@
+{
+  "schema": [
+    {
+      "name": "ID",
+      "type": 9
+    },
+    {
+      "name": "Heal",
+      "type": 2
+    },
+    {
+      "name": "Tp",
+      "type": 2
+    },
+    {
+      "name": "Raise",
+      "type": 2
+    },
+    {
+      "name": "Time",
+      "type": 2
+    },
+    {
+      "name": "HealCoef",
+      "type": 2
+    },
+    {
+      "name": "Difficulty",
+      "type": 1
+    }
+  ],
+  "rows": [
+    {
+      "$id": 0,
+      "ID": "SoulLink_Lv00",
+      "Heal": 10,
+      "Tp": 100,
+      "Raise": 0,
+      "Time": 0,
+      "HealCoef": 500,
+      "Difficulty": 1
+    },
+    {
+      "$id": 1,
+      "ID": "SoulLink_Lv01",
+      "Heal": 10,
+      "Tp": 200,
+      "Raise": 10,
+      "Time": 50,
+      "HealCoef": 500,
+      "Difficulty": 2
+    },
+    {
+      "$id": 2,
+      "ID": "SoulLink_Lv02",
+      "Heal": 10,
+      "Tp": 300,
+      "Raise": 15,
+      "Time": 40,
+      "HealCoef": 500,
+      "Difficulty": 3
+    },
+    {
+      "$id": 3,
+      "ID": "SoulLink_Lv03",
+      "Heal": 10,
+      "Tp": 500,
+      "Raise": 25,
+      "Time": 30,
+      "HealCoef": 500,
+      "Difficulty": 4
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "schema": [
+    {
+      "name": "ID",
+      "type": 9
+    },
+    {
+      "name": "TotalDP",
+      "type": 2
+    },
+    {
+      "name": "zone1501DP",
+      "type": 2
+    },
+    {
+      "name": "zone1701DP",
+      "type": 2
+    },
+    {
+      "name": "zone1601DP",
+      "type": 2
+    },
+    {
+      "name": "zone2201DP",
+      "type": 2
+    },
+    {
+      "name": "zone2001DP",
+      "type": 2
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "ID": "COND_PROBE_0001",
+      "TotalDP": 0,
+      "zone1501DP": 0,
+      "zone1701DP": 0,
+      "zone1601DP": 0,
+      "zone2201DP": 0,
+      "zone2001DP": 0
+    },
+    {
+      "$id": 2,
+      "ID": "COND_PROBE_0002",
+      "TotalDP": 1000,
+      "zone1501DP": 1000,
+      "zone1701DP": 1000,
+      "zone1601DP": 1000,
+      "zone2201DP": 1000,
+      "zone2001DP": 1000
+    },
+    {
+      "$id": 3,
+      "ID": "COND_PROBE_0003",
+      "TotalDP": 2000,
+      "zone1501DP": 2000,
+      "zone1701DP": 2000,
+      "zone1601DP": 2000,
+      "zone2201DP": 2000,
+      "zone2001DP": 2000
+    },
+    {
+      "$id": 4,
+      "ID": "COND_PROBE_0004",
+      "TotalDP": 0,
+      "zone1501DP": 0,
+      "zone1701DP": 0,
+      "zone1601DP": 0,
+      "zone2201DP": 0,
+      "zone2001DP": 0
+    },
+    {
+      "$id": 5,
+      "ID": "COND_PROBE_M04",
+      "TotalDP": 0,
+      "zone1501DP": 0,
+      "zone1701DP": 0,
+      "zone1601DP": 3,
+      "zone2201DP": 0,
+      "zone2001DP": 0
+    },
+    {
+      "$id": 6,
+      "ID": "COND_PROBE_M05",
+      "TotalDP": 0,
+      "zone1501DP": 0,
+      "zone1701DP": 3,
+      "zone1601DP": 0,
+      "zone2201DP": 0,
+      "zone2001DP": 0
+    },
+    {
+      "$id": 7,
+      "ID": "COND_PROBE_M06",
+      "TotalDP": 0,
+      "zone1501DP": 0,
+      "zone1701DP": 0,
+      "zone1601DP": 5,
+      "zone2201DP": 0,
+      "zone2001DP": 0
+    },
+    {
+      "$id": 8,
+      "ID": "COND_PROBE_M07",
+      "TotalDP": 0,
+      "zone1501DP": 0,
+      "zone1701DP": 6,
+      "zone1601DP": 0,
+      "zone2201DP": 0,
+      "zone2001DP": 0
+    },
+    {
+      "$id": 9,
+      "ID": "COND_PROBE_M08",
+      "TotalDP": 0,
+      "zone1501DP": 7,
+      "zone1701DP": 0,
+      "zone1601DP": 0,
+      "zone2201DP": 0,
+      "zone2001DP": 0
+    },
+    {
+      "$id": 10,
+      "ID": "COND_PROBE_M10",
+      "TotalDP": 0,
+      "zone1501DP": 0,
+      "zone1701DP": 0,
+      "zone1601DP": 0,
+      "zone2201DP": 5,
+      "zone2001DP": 0
+    },
+    {
+      "$id": 11,
+      "ID": "COND_PROBE_M11",
+      "TotalDP": 0,
+      "zone1501DP": 0,
+      "zone1701DP": 0,
+      "zone1601DP": 0,
+      "zone2201DP": 0,
+      "zone2001DP": 5
+    },
+    {
+      "$id": 12,
+      "ID": "COND_PROBE_MTEST",
+      "TotalDP": 0,
+      "zone1501DP": 1,
+      "zone1701DP": 0,
+      "zone1601DP": 0,
+      "zone2201DP": 0,
+      "zone2001DP": 0
+    }
+  ]
+}

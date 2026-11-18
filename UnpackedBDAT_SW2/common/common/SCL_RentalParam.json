@@ -1,0 +1,74 @@
+{
+  "schema": [
+    {
+      "name": "ID",
+      "type": 9
+    },
+    {
+      "name": "MaxExp",
+      "type": 3
+    },
+    {
+      "name": "MinExp",
+      "type": 2
+    },
+    {
+      "name": "RentalArg_A",
+      "type": 1
+    },
+    {
+      "name": "RentalArg_B",
+      "type": 1
+    },
+    {
+      "name": "RentalArg_C",
+      "type": 1
+    },
+    {
+      "name": "RentalArg_D",
+      "type": 1
+    },
+    {
+      "name": "RentalArg_E",
+      "type": 1
+    },
+    {
+      "name": "Rare5Ratio",
+      "type": 2
+    },
+    {
+      "name": "Rare4Ratio",
+      "type": 1
+    },
+    {
+      "name": "Rare3Ratio",
+      "type": 1
+    },
+    {
+      "name": "Rare2Ratio",
+      "type": 1
+    },
+    {
+      "name": "RareRscHitRatio",
+      "type": 1
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "ID": "RentalParam001",
+      "MaxExp": 50000,
+      "MinExp": 50,
+      "RentalArg_A": 3,
+      "RentalArg_B": 5,
+      "RentalArg_C": 10,
+      "RentalArg_D": 90,
+      "RentalArg_E": 1,
+      "Rare5Ratio": 1,
+      "Rare4Ratio": 2,
+      "Rare3Ratio": 15,
+      "Rare2Ratio": 35,
+      "RareRscHitRatio": 10
+    }
+  ]
+}

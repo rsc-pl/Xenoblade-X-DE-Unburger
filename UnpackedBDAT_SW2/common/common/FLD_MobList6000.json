@@ -1,0 +1,204 @@
+{
+  "schema": [
+    {
+      "name": "ID",
+      "type": 9
+    },
+    {
+      "name": "name",
+      "type": 7
+    },
+    {
+      "name": "popNum_min",
+      "type": 1
+    },
+    {
+      "name": "popNum_max",
+      "type": 1
+    },
+    {
+      "name": "popItvl_min",
+      "type": 1
+    },
+    {
+      "name": "popItvl_max",
+      "type": 1
+    },
+    {
+      "name": "res_group",
+      "type": 2
+    },
+    {
+      "name": "algo_type",
+      "type": 1
+    },
+    {
+      "name": "gene_dist",
+      "type": 2
+    },
+    {
+      "name": "del_dist",
+      "type": 2
+    },
+    {
+      "name": "del_dist_pc",
+      "type": 2
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "ID": "MC_6000_01",
+      "name": "MC_6000_01",
+      "popNum_min": 1,
+      "popNum_max": 1,
+      "popItvl_min": 0,
+      "popItvl_max": 0,
+      "res_group": 2,
+      "algo_type": 1,
+      "gene_dist": 50,
+      "del_dist": 30,
+      "del_dist_pc": 0
+    },
+    {
+      "$id": 2,
+      "ID": "MC_6000_02",
+      "name": "MC_6000_02",
+      "popNum_min": 1,
+      "popNum_max": 1,
+      "popItvl_min": 0,
+      "popItvl_max": 0,
+      "res_group": 1,
+      "algo_type": 1,
+      "gene_dist": 50,
+      "del_dist": 30,
+      "del_dist_pc": 0
+    },
+    {
+      "$id": 3,
+      "ID": "MC_6000_03",
+      "name": "MC_6000_03",
+      "popNum_min": 1,
+      "popNum_max": 1,
+      "popItvl_min": 0,
+      "popItvl_max": 0,
+      "res_group": 3,
+      "algo_type": 1,
+      "gene_dist": 50,
+      "del_dist": 30,
+      "del_dist_pc": 0
+    },
+    {
+      "$id": 4,
+      "ID": "MC_6000_04",
+      "name": "MC_6000_04",
+      "popNum_min": 1,
+      "popNum_max": 1,
+      "popItvl_min": 0,
+      "popItvl_max": 0,
+      "res_group": 4,
+      "algo_type": 1,
+      "gene_dist": 50,
+      "del_dist": 30,
+      "del_dist_pc": 0
+    },
+    {
+      "$id": 5,
+      "ID": "MC_6000_05",
+      "name": "MC_6000_05",
+      "popNum_min": 1,
+      "popNum_max": 1,
+      "popItvl_min": 0,
+      "popItvl_max": 0,
+      "res_group": 6,
+      "algo_type": 1,
+      "gene_dist": 50,
+      "del_dist": 30,
+      "del_dist_pc": 0
+    },
+    {
+      "$id": 6,
+      "ID": "MC_6000_06",
+      "name": "MC_6000_06",
+      "popNum_min": 1,
+      "popNum_max": 1,
+      "popItvl_min": 0,
+      "popItvl_max": 0,
+      "res_group": 7,
+      "algo_type": 1,
+      "gene_dist": 50,
+      "del_dist": 30,
+      "del_dist_pc": 0
+    },
+    {
+      "$id": 7,
+      "ID": "MC_6000_07",
+      "name": "MC_6000_07",
+      "popNum_min": 1,
+      "popNum_max": 1,
+      "popItvl_min": 0,
+      "popItvl_max": 0,
+      "res_group": 8,
+      "algo_type": 1,
+      "gene_dist": 50,
+      "del_dist": 30,
+      "del_dist_pc": 0
+    },
+    {
+      "$id": 8,
+      "ID": "MC_6000_08",
+      "name": "MC_6000_08",
+      "popNum_min": 1,
+      "popNum_max": 1,
+      "popItvl_min": 0,
+      "popItvl_max": 0,
+      "res_group": 9,
+      "algo_type": 1,
+      "gene_dist": 50,
+      "del_dist": 30,
+      "del_dist_pc": 0
+    },
+    {
+      "$id": 9,
+      "ID": "MC_6000_09",
+      "name": "MC_6000_09",
+      "popNum_min": 1,
+      "popNum_max": 1,
+      "popItvl_min": 0,
+      "popItvl_max": 0,
+      "res_group": 10,
+      "algo_type": 1,
+      "gene_dist": 50,
+      "del_dist": 30,
+      "del_dist_pc": 0
+    },
+    {
+      "$id": 10,
+      "ID": "MC_6000_10",
+      "name": "MC_6000_10",
+      "popNum_min": 1,
+      "popNum_max": 1,
+      "popItvl_min": 0,
+      "popItvl_max": 0,
+      "res_group": 11,
+      "algo_type": 1,
+      "gene_dist": 50,
+      "del_dist": 30,
+      "del_dist_pc": 0
+    },
+    {
+      "$id": 11,
+      "ID": "MC_6000_11",
+      "name": "MC_6000_11",
+      "popNum_min": 1,
+      "popNum_max": 1,
+      "popItvl_min": 0,
+      "popItvl_max": 0,
+      "res_group": 5,
+      "algo_type": 1,
+      "gene_dist": 50,
+      "del_dist": 30,
+      "del_dist_pc": 0
+    }
+  ]
+}

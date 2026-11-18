@@ -1,0 +1,98 @@
+{
+  "schema": [
+    {
+      "name": "ID",
+      "type": 9
+    },
+    {
+      "name": "Name",
+      "type": 7
+    },
+    {
+      "name": "Value",
+      "type": 3
+    },
+    {
+      "name": "MinValue",
+      "type": 3
+    },
+    {
+      "name": "MaxValue",
+      "type": 3
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "ID": "OnlineParam_035",
+      "Name": "UN_PntArg01",
+      "Value": 100,
+      "MinValue": 1,
+      "MaxValue": 10000
+    },
+    {
+      "$id": 2,
+      "ID": "OnlineParam_036",
+      "Name": "UN_PntArg02",
+      "Value": 100,
+      "MinValue": 1,
+      "MaxValue": 10000
+    },
+    {
+      "$id": 3,
+      "ID": "OnlineParam_037",
+      "Name": "UN_PntArg03",
+      "Value": 100,
+      "MinValue": 1,
+      "MaxValue": 10000
+    },
+    {
+      "$id": 4,
+      "ID": "OnlineParam_038",
+      "Name": "UN_PntArg04",
+      "Value": 100,
+      "MinValue": 1,
+      "MaxValue": 10000
+    },
+    {
+      "$id": 5,
+      "ID": "OnlineParam_039",
+      "Name": "UN_PntArg05",
+      "Value": 100,
+      "MinValue": 1,
+      "MaxValue": 10000
+    },
+    {
+      "$id": 6,
+      "ID": "OnlineParam_040",
+      "Name": "UN_PntArg06",
+      "Value": 100,
+      "MinValue": 1,
+      "MaxValue": 10000
+    },
+    {
+      "$id": 7,
+      "ID": "OnlineParam_041",
+      "Name": "UN_PntArg07",
+      "Value": 100,
+      "MinValue": 1,
+      "MaxValue": 10000
+    },
+    {
+      "$id": 8,
+      "ID": "OnlineParam_042",
+      "Name": "UN_PntArg08",
+      "Value": 100,
+      "MinValue": 1,
+      "MaxValue": 10000
+    },
+    {
+      "$id": 9,
+      "ID": "OnlineParam_058",
+      "Name": "UN_NrmArg",
+      "Value": 100,
+      "MinValue": 0,
+      "MaxValue": 100
+    }
+  ]
+}

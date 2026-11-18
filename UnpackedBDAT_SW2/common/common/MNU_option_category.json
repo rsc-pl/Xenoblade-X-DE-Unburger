@@ -1,0 +1,120 @@
+{
+  "schema": [
+    {
+      "name": "ID",
+      "type": 9
+    },
+    {
+      "name": "sheet",
+      "type": 9
+    },
+    {
+      "name": "name",
+      "type": 13
+    },
+    {
+      "name": "sort",
+      "type": 1
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "ID": "OPTION_CATEGORY_GAME",
+      "sheet": "MNU_option_game",
+      "name": 5306,
+      "sort": 1
+    },
+    {
+      "$id": 2,
+      "ID": "OPTION_CATEGORY_EVENT",
+      "sheet": "MNU_option_event",
+      "name": 5307,
+      "sort": 2
+    },
+    {
+      "$id": 3,
+      "ID": "OPTION_CATEGORY_CAMERA",
+      "sheet": "MNU_option_camera",
+      "name": 5308,
+      "sort": 3
+    },
+    {
+      "$id": 4,
+      "ID": "OPTION_CATEGORY_GRAPHIC",
+      "sheet": "MNU_option_graphic",
+      "name": 5309,
+      "sort": 4
+    },
+    {
+      "$id": 5,
+      "ID": "OPTION_CATEGORY_FIELD",
+      "sheet": "MNU_option_field",
+      "name": 5310,
+      "sort": 5
+    },
+    {
+      "$id": 6,
+      "ID": "OPTION_CATEGORY_BATTLE",
+      "sheet": "MNU_option_battle",
+      "name": 5311,
+      "sort": 6
+    },
+    {
+      "$id": 7,
+      "ID": "OPTION_CATEGORY_STATUS",
+      "sheet": "MNU_option_status",
+      "name": 5319,
+      "sort": 7
+    },
+    {
+      "$id": 8,
+      "ID": "OPTION_CATEGORY_SIGN",
+      "sheet": "MNU_option_sign",
+      "name": 5320,
+      "sort": 8
+    },
+    {
+      "$id": 9,
+      "ID": "OPTION_CATEGORY_TELOP",
+      "sheet": "MNU_option_telop",
+      "name": 5321,
+      "sort": 9
+    },
+    {
+      "$id": 10,
+      "ID": "OPTION_CATEGORY_SOCIAL",
+      "sheet": "MNU_option_social",
+      "name": 5312,
+      "sort": 10
+    },
+    {
+      "$id": 11,
+      "ID": "OPTION_CATEGORY_NOTIFY",
+      "sheet": "MNU_option_notify",
+      "name": 5313,
+      "sort": 11
+    },
+    {
+      "$id": 12,
+      "ID": "OPTION_CATEGORY_ONLINE",
+      "sheet": "MNU_option_online",
+      "name": 5314,
+      "sort": 12
+    },
+    {
+      "$id": 13,
+      "ID": "OPTION_CATEGORY_SOUND",
+      "sheet": "MNU_option_sound",
+      "name": 5315,
+      "sort": 13
+    },
+    {
+      "$id": 14,
+      "ID": "OPTION_CATEGORY_VOICE",
+      "sheet": "MNU_option_voice",
+      "name": 5316,
+      "sort": 14
+    }
+  ]
+}

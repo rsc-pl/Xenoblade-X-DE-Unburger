@@ -48,7 +48,7 @@
       "$id": 6,
       "label": "CTRL_enter_cancel_list_filter",
       "style": 45,
-      "name": "[ST:icon p1=a ] Set Navigation [ST:icon p1=b ] Cancel [ST:icon p1=x ] Enemy Index [ST:icon p1=y ] Filter"
+      "name": "[ST:icon p1=a ] Set Navigation [ST:icon p1=b ] Cancel [ST:icon p1=x ] Enemy Encyclopedia [ST:icon p1=y ] Filter"
     },
     {
       "$id": 7,
@@ -396,7 +396,7 @@
       "$id": 64,
       "label": "CTRL_cancel_list_filter",
       "style": 45,
-      "name": "[ST:icon p1=b ] Cancel [ST:icon p1=x ] Enemy Index [ST:icon p1=y ] Filter"
+      "name": "[ST:icon p1=b ] Cancel [ST:icon p1=x ] Enemy Encyclopedia [ST:icon p1=y ] Filter"
     },
     {
       "$id": 65,
@@ -456,7 +456,7 @@
       "$id": 74,
       "label": "HUD_ChangeSquad",
       "style": 45,
-      "name": "[ST:icon p1=l ] Squad Task Details"
+      "name": "[ST:icon p1=l ] Mission Details"
     },
     {
       "$id": 75,
@@ -486,7 +486,7 @@
       "$id": 79,
       "label": "HUD_HopperCam",
       "style": 45,
-      "name": "[ST:icon p1=crsu ] Aerial Cam"
+      "name": "[ST:icon p1=crsu ] Hopper Camera"
     },
     {
       "$id": 80,
@@ -522,7 +522,7 @@
       "$id": 85,
       "label": "HUD_LockParts",
       "style": 45,
-      "name": "[ST:icon p1=anarp ] Toggle Appendage Lock"
+      "name": "[ST:icon p1=anarp ] Toggle Part Lock"
     },
     {
       "$id": 86,
@@ -654,31 +654,31 @@
       "$id": 107,
       "label": "CTRL_enter_cancel_list",
       "style": 45,
-      "name": "[ST:icon p1=a ] Confirm [ST:icon p1=b ] Cancel [ST:icon p1=x ] Enemy Index"
+      "name": "[ST:icon p1=a ] Confirm [ST:icon p1=b ] Cancel [ST:icon p1=x ] Enemy Encyclopedia"
     },
     {
       "$id": 108,
       "label": "CTRL_enter2_cancel_list_filter",
       "style": 45,
-      "name": "[ST:icon p1=a ] Confirm [ST:icon p1=b ] Cancel [ST:icon p1=x ] Enemy Index [ST:icon p1=y ] Filter"
+      "name": "[ST:icon p1=a ] Confirm [ST:icon p1=b ] Cancel [ST:icon p1=x ] Enemy Encyclopedia [ST:icon p1=y ] Filter"
     },
     {
       "$id": 109,
       "label": "CTRL_return_list_filter",
       "style": 45,
-      "name": "[ST:icon p1=b ] Return [ST:icon p1=x ] Enemy Index [ST:icon p1=y ] Filter"
+      "name": "[ST:icon p1=b ] Return [ST:icon p1=x ] Enemy Encyclopedia [ST:icon p1=y ] Filter"
     },
     {
       "$id": 110,
       "label": "CTRL_enter_cancel_list_camrot",
       "style": 45,
-      "name": "[ST:icon p1=a ] Confirm [ST:icon p1=b ] Cancel [ST:icon p1=x ] Enemy Index [ST:icon p1=anar ] Rotate"
+      "name": "[ST:icon p1=a ] Confirm [ST:icon p1=b ] Cancel [ST:icon p1=x ] Enemy Encyclopedia [ST:icon p1=anar ] Rotate"
     },
     {
       "$id": 111,
       "label": "CTRL_enter_cancel_list_filter_camrot",
       "style": 45,
-      "name": "[ST:icon p1=a ] Confirm [ST:icon p1=b ] Cancel [ST:icon p1=x ] Enemy Index [ST:icon p1=y ] Filter [ST:icon p1=anar ] Rotate"
+      "name": "[ST:icon p1=a ] Confirm [ST:icon p1=b ] Cancel [ST:icon p1=x ] Enemy Encyclopedia [ST:icon p1=y ] Filter [ST:icon p1=anar ] Rotate"
     },
     {
       "$id": 112,

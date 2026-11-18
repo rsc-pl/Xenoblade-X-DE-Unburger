@@ -1,0 +1,84 @@
+{
+  "schema": [
+    {
+      "name": "ID",
+      "type": 9
+    },
+    {
+      "name": "HpMaxLv1",
+      "type": 3
+    },
+    {
+      "name": "DexFightLv1",
+      "type": 2
+    },
+    {
+      "name": "DexShootLv1",
+      "type": 2
+    },
+    {
+      "name": "DodgeLv1",
+      "type": 2
+    },
+    {
+      "name": "PowFightLv1",
+      "type": 2
+    },
+    {
+      "name": "PowShootLv1",
+      "type": 2
+    },
+    {
+      "name": "PowMindLv1",
+      "type": 2
+    },
+    {
+      "name": "HpMaxLv99",
+      "type": 3
+    },
+    {
+      "name": "DexFightLv99",
+      "type": 2
+    },
+    {
+      "name": "DexShootLv99",
+      "type": 2
+    },
+    {
+      "name": "DodgeLv99",
+      "type": 2
+    },
+    {
+      "name": "PowFightLv99",
+      "type": 2
+    },
+    {
+      "name": "PowShootLv99",
+      "type": 2
+    },
+    {
+      "name": "PowMindLv99",
+      "type": 2
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "ID": "PC01",
+      "HpMaxLv1": 250,
+      "DexFightLv1": 104,
+      "DexShootLv1": 106,
+      "DodgeLv1": 10,
+      "PowFightLv1": 18,
+      "PowShootLv1": 14,
+      "PowMindLv1": 10,
+      "HpMaxLv99": 10000,
+      "DexFightLv99": 370,
+      "DexShootLv99": 360,
+      "DodgeLv99": 180,
+      "PowFightLv99": 120,
+      "PowShootLv99": 80,
+      "PowMindLv99": 100
+    }
+  ]
+}

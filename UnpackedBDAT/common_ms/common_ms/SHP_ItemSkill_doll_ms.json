@@ -96,7 +96,7 @@
       "$id": 14,
       "label": "SHP_ITM_SKL_DL_HPMAX01_P_name",
       "style": 18,
-      "name": "SpecUp.HP-MAX"
+      "name": "SpecUp.HPMAX"
     },
     {
       "$id": 15,
@@ -108,49 +108,49 @@
       "$id": 16,
       "label": "SHP_ITM_SKL_DL_F_DEX01_P_name",
       "style": 18,
-      "name": "SpecUp.M-ACC"
+      "name": "SpecUp.F-DEX"
     },
     {
       "$id": 17,
       "label": "SHP_ITM_SKL_DL_S_DEX01_P_name",
       "style": 18,
-      "name": "SpecUp.R-ACC"
+      "name": "SpecUp.S-DEX"
     },
     {
       "$id": 18,
       "label": "SHP_ITM_SKL_DL_EVA01_P_name",
       "style": 18,
-      "name": "SpecUp.EVA"
+      "name": "SpecUp.Eva"
     },
     {
       "$id": 19,
       "label": "SHP_ITM_SKL_DL_F_POW01_P_name",
       "style": 18,
-      "name": "SpecUp.M-ATK"
+      "name": "SpecUp.F-POW"
     },
     {
       "$id": 20,
       "label": "SHP_ITM_SKL_DL_S_POW01_P_name",
       "style": 18,
-      "name": "SpecUp.R-ATK"
+      "name": "SpecUp.S-POW"
     },
     {
       "$id": 21,
       "label": "SHP_ITM_SKL_DL_M_POW01_P_name",
       "style": 18,
-      "name": "SpecUp.PTL"
+      "name": "SpecUp.M-POW"
     },
     {
       "$id": 22,
       "label": "SHP_ITM_SKL_DL_PARTSHP01_P_name",
       "style": 18,
-      "name": "SpecUp.APP-HP"
+      "name": "SpecUp.PARTS-HP"
     },
     {
       "$id": 23,
       "label": "SHP_ITM_SKL_DL_HPMAX01_R_name",
       "style": 18,
-      "name": "Boost.HP-MAX"
+      "name": "Boost.HPMAX"
     },
     {
       "$id": 24,
@@ -162,37 +162,37 @@
       "$id": 25,
       "label": "SHP_ITM_SKL_DL_F_DEX01_R_name",
       "style": 18,
-      "name": "Boost.M-ACC"
+      "name": "Boost.F-DEX"
     },
     {
       "$id": 26,
       "label": "SHP_ITM_SKL_DL_S_DEX01_R_name",
       "style": 18,
-      "name": "Boost.R-ACC"
+      "name": "Boost.S-DEX"
     },
     {
       "$id": 27,
       "label": "SHP_ITM_SKL_DL_EVA01_R_name",
       "style": 18,
-      "name": "Boost.EVA"
+      "name": "Boost.Eva-R"
     },
     {
       "$id": 28,
       "label": "SHP_ITM_SKL_DL_F_ROW01_R_name",
       "style": 18,
-      "name": "Boost.M-ATK"
+      "name": "Boost.F-POW"
     },
     {
       "$id": 29,
       "label": "SHP_ITM_SKL_DL_S_ROW01_R_name",
       "style": 18,
-      "name": "Boost.R-ATK"
+      "name": "Boost.S-POW"
     },
     {
       "$id": 30,
       "label": "SHP_ITM_SKL_DL_M_ROW01_R_name",
       "style": 18,
-      "name": "Boost.PTL"
+      "name": "Boost.M-POW"
     },
     {
       "$id": 31,
@@ -204,37 +204,37 @@
       "$id": 32,
       "label": "SHP_ITM_SKL_DL_ANTI_PH01_P_name",
       "style": 18,
-      "name": "SpecUp.PHYS-RES"
+      "name": "SpecUp.DEF-PHYSICS"
     },
     {
       "$id": 33,
       "label": "SHP_ITM_SKL_DL_ANTI_BM01_P_name",
       "style": 18,
-      "name": "SpecUp.BEAM-RES"
+      "name": "SpecUp.DEF-BEAM"
     },
     {
       "$id": 34,
       "label": "SHP_ITM_SKL_DL_ANTI_TH01_P_name",
       "style": 18,
-      "name": "SpecUp.ELEC-RES"
+      "name": "SpecUp.DEF-VOLT"
     },
     {
       "$id": 35,
       "label": "SHP_ITM_SKL_DL_ANTI_FR01_P_name",
       "style": 18,
-      "name": "SpecUp.THERM-RES"
+      "name": "SpecUp.DEF-HEAT"
     },
     {
       "$id": 36,
       "label": "SHP_ITM_SKL_DL_ANTI_ET01_P_name",
       "style": 18,
-      "name": "SpecUp.ETHER-RES"
+      "name": "SpecUp.DEF-ETHER"
     },
     {
       "$id": 37,
       "label": "SHP_ITM_SKL_DL_ANTI_GR01_P_name",
       "style": 18,
-      "name": "SpecUp.GRAV-RES"
+      "name": "SpecUp.DEF-GRAVITY"
     },
     {
       "$id": 38,
@@ -258,31 +258,31 @@
       "$id": 41,
       "label": "SHP_ITM_SKL_DL_FUEL_CATCH_UP01_name",
       "style": 18,
-      "name": "SpecUp.FUEL-BIND"
+      "name": "SpecUp.FUEL-CATCH"
     },
     {
       "$id": 42,
       "label": "SHP_ITM_SKL_DL_FUEL_GEAR_UP01_name",
       "style": 18,
-      "name": "SpecUp.FUEL-OD"
+      "name": "SpecUp.FUEL-GEAR"
     },
     {
       "$id": 43,
       "label": "SHP_ITM_SKL_DL_CTM_POW01_name",
       "style": 18,
-      "name": "Custom.WP-ATK"
+      "name": "Custom.WP-POW"
     },
     {
       "$id": 44,
       "label": "SHP_ITM_SKL_DL_CTM_BAL01_name",
       "style": 18,
-      "name": "Custom.WP-STABLE"
+      "name": "Custom.WP-BALANCE"
     },
     {
       "$id": 45,
       "label": "SHP_ITM_SKL_DL_CTM_BRK01_name",
       "style": 18,
-      "name": "Custom.WP-DESTABLE"
+      "name": "Custom.WP-BREAKER"
     },
     {
       "$id": 46,
@@ -300,13 +300,13 @@
       "$id": 48,
       "label": "SHP_ITM_SKL_DL_CTM_F_TP00_name",
       "style": 18,
-      "name": "Custom.WP-M-GP"
+      "name": "Custom.WP-F-GP"
     },
     {
       "$id": 49,
       "label": "SHP_ITM_SKL_DL_CTM_S_TP00_name",
       "style": 18,
-      "name": "Custom.WP-R-GP "
+      "name": "Custom.WP-S-GP"
     },
     {
       "$id": 50,
@@ -318,7 +318,7 @@
       "$id": 51,
       "label": "SHP_ITM_SKL_DL_CTM_RNG01_name",
       "style": 18,
-      "name": "Custom.WP-R-RANGE"
+      "name": "Custom.WP-S-RANGE"
     },
     {
       "$id": 52,
@@ -330,7 +330,7 @@
       "$id": 53,
       "label": "SHP_ITM_SKL_DL_REG_BREAK01_name",
       "style": 18,
-      "name": "Resist.STAGGER"
+      "name": "Resist.BREAK"
     },
     {
       "$id": 54,
@@ -342,7 +342,7 @@
       "$id": 55,
       "label": "SHP_ITM_SKL_DL_REG_DOWN01_name",
       "style": 18,
-      "name": "Resist.TOPPLE"
+      "name": "Resist.DOWN"
     },
     {
       "$id": 56,
@@ -354,13 +354,13 @@
       "$id": 57,
       "label": "SHP_ITM_SKL_DL_REG_BLOW01_name",
       "style": 18,
-      "name": "Resist.LAUNCH"
+      "name": "Resist.BLOW"
     },
     {
       "$id": 58,
       "label": "SHP_ITM_SKL_DL_REG_STAN01_name",
       "style": 18,
-      "name": "Resist.STUN"
+      "name": "Resist.STAN"
     },
     {
       "$id": 59,
@@ -390,67 +390,67 @@
       "$id": 63,
       "label": "SHP_ITM_SKL_DL_REG_BLACK01_name",
       "style": 18,
-      "name": "Resist.BLACKOUT"
+      "name": "Resist.BLACKSIGHT"
     },
     {
       "$id": 64,
       "label": "SHP_ITM_SKL_DL_REG_POWDN01_name",
       "style": 18,
-      "name": "Resist.FATIGUE"
+      "name": "Resist.POWERDOWN"
     },
     {
       "$id": 65,
       "label": "SHP_ITM_SKL_DL_REG_ASLOW01_name",
       "style": 18,
-      "name": "Resist.SLOW-ARTS"
+      "name": "Resist.ARTSSLOW"
     },
     {
       "$id": 66,
       "label": "SHP_ITM_SKL_DL_REG_PH_DN01_name",
       "style": 18,
-      "name": "Resist.PHYS-DOWN"
+      "name": "Resist.ANTI-PHY"
     },
     {
       "$id": 67,
       "label": "SHP_ITM_SKL_DL_REG_BM_DN01_name",
       "style": 18,
-      "name": "Resist.BEAM-DOWN"
+      "name": "Resist.ANTI-BEAM"
     },
     {
       "$id": 68,
       "label": "SHP_ITM_SKL_DL_REG_FR_DN01_name",
       "style": 18,
-      "name": "Resist.THERM-DOWN"
+      "name": "Resist.ANTI-HEAT"
     },
     {
       "$id": 69,
       "label": "SHP_ITM_SKL_DL_REG_TH_DN01_name",
       "style": 18,
-      "name": "Resist.ELEC-DOWN"
+      "name": "Resist.ANTI-VOLT"
     },
     {
       "$id": 70,
       "label": "SHP_ITM_SKL_DL_REG_ET_DN01_name",
       "style": 18,
-      "name": "Resist.ETHER-DOWN"
+      "name": "Resist.ANTI-ETHER"
     },
     {
       "$id": 71,
       "label": "SHP_ITM_SKL_DL_REG_GR_DN01_name",
       "style": 18,
-      "name": "Resist.GRAV-DOWN"
+      "name": "Resist.ANTI-GRAVITY"
     },
     {
       "$id": 72,
       "label": "SHP_ITM_SKL_DL_REG_CTBOM01_name",
       "style": 18,
-      "name": "Resist.TIME-BOMB"
+      "name": "Resist.COUNTBOM"
     },
     {
       "$id": 73,
       "label": "SHP_ITM_SKL_DL_REG_DEBDN01_name",
       "style": 18,
-      "name": "Resist.DEBUFF-DOWN"
+      "name": "Resist.ANTI-DEBUFF"
     },
     {
       "$id": 74,
@@ -462,13 +462,13 @@
       "$id": 75,
       "label": "SHP_ITM_SKL_DL_REG_FR_DOT01_name",
       "style": 18,
-      "name": "Resist.BLAZE"
+      "name": "Resist.FLAME"
     },
     {
       "$id": 76,
       "label": "SHP_ITM_SKL_DL_REG_TH_DOT01_name",
       "style": 18,
-      "name": "Resist.SHOCK"
+      "name": "Resist.VOLT"
     },
     {
       "$id": 77,
@@ -480,49 +480,49 @@
       "$id": 78,
       "label": "SHP_ITM_SKL_DL_CRTC_R_ALL01_name",
       "style": 18,
-      "name": "CriticalUp"
+      "name": "CriticalUp."
     },
     {
       "$id": 79,
       "label": "SHP_ITM_SKL_DL_CRTC_R_BEAST01_name",
       "style": 18,
-      "name": "CritUp.THEROID"
+      "name": "CriticalUp.BEAST"
     },
     {
       "$id": 80,
       "label": "SHP_ITM_SKL_DL_CRTC_R_INSECT01_name",
       "style": 18,
-      "name": "CritUp.INSECTOID"
+      "name": "CriticalUp.INSECT"
     },
     {
       "$id": 81,
       "label": "SHP_ITM_SKL_DL_CRTC_R_MEGAFLY01_name",
       "style": 18,
-      "name": "CritUp.PISCINOID"
+      "name": "CriticalUp.MEGAFLY"
     },
     {
       "$id": 82,
       "label": "SHP_ITM_SKL_DL_CRTC_R_ALIEN01_name",
       "style": 18,
-      "name": "CritUp.HUMANOID"
+      "name": "CriticalUp.ALIEN"
     },
     {
       "$id": 83,
       "label": "SHP_ITM_SKL_DL_CRTC_R_MACHINE01_name",
       "style": 18,
-      "name": "CritUp.MECHANOID"
+      "name": "CriticalUp.MACHINE"
     },
     {
       "$id": 84,
       "label": "SHP_ITM_SKL_DL_CRTC_R_KIMERA01_name",
       "style": 18,
-      "name": "CritUp.CHIMEROID"
+      "name": "CriticalUp.CHIMERA"
     },
     {
       "$id": 85,
       "label": "SHP_ITM_SKL_DL_CRTC_R_TERESIA01_name",
       "style": 18,
-      "name": "CritUp.ULTRAFAUNA"
+      "name": "CriticalUp.ULTIMATE"
     },
     {
       "$id": 86,
@@ -534,205 +534,205 @@
       "$id": 87,
       "label": "SHP_ITM_SKL_DL_KILL_BEAST01_name",
       "style": 18,
-      "name": "Slayer.THEROID"
+      "name": "KillerDmg.BEAST"
     },
     {
       "$id": 88,
       "label": "SHP_ITM_SKL_DL_KILL_INSECT01_name",
       "style": 18,
-      "name": "Slayer.INSECTOID"
+      "name": "KillerDmg.INSECT"
     },
     {
       "$id": 89,
       "label": "SHP_ITM_SKL_DL_KILL_MEGAFLY01_name",
       "style": 18,
-      "name": "Slayer.PISCINOID"
+      "name": "KillerDmg.MEGAFLY"
     },
     {
       "$id": 90,
       "label": "SHP_ITM_SKL_DL_KILL_ALIEN01_name",
       "style": 18,
-      "name": "Slayer.HUMANOID"
+      "name": "KillerDmg.ALIEN"
     },
     {
       "$id": 91,
       "label": "SHP_ITM_SKL_DL_KILL_MACHINE01_name",
       "style": 18,
-      "name": "Slayer.MECHANOID"
+      "name": "KillerDmg.MACHINE"
     },
     {
       "$id": 92,
       "label": "SHP_ITM_SKL_DL_KILL_KIMERA01_name",
       "style": 18,
-      "name": "Slayer.CHIMEROID"
+      "name": "KillerDmg.CHIMERA"
     },
     {
       "$id": 93,
       "label": "SHP_ITM_SKL_DL_KILL_TERESIA01_name",
       "style": 18,
-      "name": "Slayer.ULTRAFAUNA"
+      "name": "KillerDmg.ULTIMATE"
     },
     {
       "$id": 94,
       "label": "SHP_ITM_SKL_DL_ATK_PH01_name",
       "style": 18,
-      "name": "AttributeDmg.PHYS"
+      "name": "ElementDmg.PHYSICS"
     },
     {
       "$id": 95,
       "label": "SHP_ITM_SKL_DL_ATK_BM01_name",
       "style": 18,
-      "name": "AttributeDmg.BEAM"
+      "name": "ElementDmg.BEAM"
     },
     {
       "$id": 96,
       "label": "SHP_ITM_SKL_DL_ATK_ET01_name",
       "style": 18,
-      "name": "AttributeDmg.ETHER"
+      "name": "ElementDmg.ETHER"
     },
     {
       "$id": 97,
       "label": "SHP_ITM_SKL_DL_ATK_FR01_name",
       "style": 18,
-      "name": "AttributeDmg.THERM"
+      "name": "ElementDmg.HEAT"
     },
     {
       "$id": 98,
       "label": "SHP_ITM_SKL_DL_ATK_TH01_name",
       "style": 18,
-      "name": "AttributeDmg.ELEC"
+      "name": "ElementDmg.VOLT"
     },
     {
       "$id": 99,
       "label": "SHP_ITM_SKL_DL_ATK_GR01_name",
       "style": 18,
-      "name": "AttributeDmg.GRAV"
+      "name": "ElementDmg.GRAVITY"
     },
     {
       "$id": 100,
       "label": "SHP_ITM_SKL_DL_ATK_FRONT01_name",
       "style": 18,
-      "name": "PositionDmg.FRONT"
+      "name": "PosDmg.FRONT"
     },
     {
       "$id": 101,
       "label": "SHP_ITM_SKL_DL_ATK_SIDE01_name",
       "style": 18,
-      "name": "PositionDmg.SIDE"
+      "name": "PosDmg.SIDE"
     },
     {
       "$id": 102,
       "label": "SHP_ITM_SKL_DL_ATK_BACK01_name",
       "style": 18,
-      "name": "PositionDmg.BACK"
+      "name": "PosDmg.BACK"
     },
     {
       "$id": 103,
       "label": "SHP_ITM_SKL_DL_ATK_HIGH01_name",
       "style": 18,
-      "name": "PositionDmg.ABOVE"
+      "name": "PosDmg.HIGH"
     },
     {
       "$id": 104,
       "label": "SHP_ITM_SKL_DL_F_AT_BLACK01_name",
       "style": 18,
-      "name": "M-Auto.BLACKOUT"
+      "name": "F-AT.BLACKSIGHT"
     },
     {
       "$id": 105,
       "label": "SHP_ITM_SKL_DL_F_AT_POWDN01_name",
       "style": 18,
-      "name": "M-Auto.FATIGUE"
+      "name": "F-AT.POWERDOWN"
     },
     {
       "$id": 106,
       "label": "SHP_ITM_SKL_DL_F_AT_PH_DN01_name",
       "style": 18,
-      "name": "M-Auto.PHYS-DOWN"
+      "name": "F-AT.PHY-DOWN"
     },
     {
       "$id": 107,
       "label": "SHP_ITM_SKL_DL_F_AT_BM_DN01_name",
       "style": 18,
-      "name": "M-Auto.BEAM-DOWN"
+      "name": "F-AT.BEAM-DOWN"
     },
     {
       "$id": 108,
       "label": "SHP_ITM_SKL_DL_F_AT_ET_DN01_name",
       "style": 18,
-      "name": "M-Auto.ETHER-DOWN"
+      "name": "F-AT.ETHER-DOWN"
     },
     {
       "$id": 109,
       "label": "SHP_ITM_SKL_DL_F_AT_FR_DN01_name",
       "style": 18,
-      "name": "M-Auto.THERM-DOWN"
+      "name": "F-AT.HEAT-DOWN"
     },
     {
       "$id": 110,
       "label": "SHP_ITM_SKL_DL_F_AT_TH_DN01_name",
       "style": 18,
-      "name": "M-Auto.ELEC-DOWN"
+      "name": "F-AT.VOLT-DOWN"
     },
     {
       "$id": 111,
       "label": "SHP_ITM_SKL_DL_F_AT_GR_DN01_name",
       "style": 18,
-      "name": "M-Auto.GRAV-DOWN"
+      "name": "F-AT.GRAVITY-DOWN"
     },
     {
       "$id": 112,
       "label": "SHP_ITM_SKL_DL_F_AT_FR_DOT01_name",
       "style": 18,
-      "name": "M-Auto.BLAZE"
+      "name": "F-AT.DOT-HEAT"
     },
     {
       "$id": 113,
       "label": "SHP_ITM_SKL_DL_F_AT_TH_DOT01_name",
       "style": 18,
-      "name": "M-Auto.SHOCK"
+      "name": "F-AT.DOT-VOLT"
     },
     {
       "$id": 114,
       "label": "SHP_ITM_SKL_DL_F_AT_HP_HEAL01_name",
       "style": 18,
-      "name": "M-Auto.HP-RECOV"
+      "name": "F-AT.HEAL-HP"
     },
     {
       "$id": 115,
       "label": "SHP_ITM_SKL_DL_CT_TP01_name",
       "style": 18,
-      "name": "Damage.GP-GAIN"
+      "name": "Damage.GP"
     },
     {
       "$id": 116,
       "label": "SHP_ITM_SKL_DL_PARTS_SHD01_name",
       "style": 18,
-      "name": "Damage.APPEND"
+      "name": "Damage.PARTS"
     },
     {
       "$id": 117,
       "label": "SHP_ITM_SKL_DL_JAMMING01_name",
       "style": 18,
-      "name": "Jamming"
+      "name": "Jamming."
     },
     {
       "$id": 118,
       "label": "SHP_ITM_SKL_DL_LOST_ATTACK01_name",
       "style": 18,
-      "name": "AppendLost.ATK-UP"
+      "name": "PartsLost.ATTACKUP"
     },
     {
       "$id": 119,
       "label": "SHP_ITM_SKL_DL_LOST_SPEED01_name",
       "style": 18,
-      "name": "AppendLost.EVA-UP"
+      "name": "PartsLost.EVAUP"
     },
     {
       "$id": 120,
       "label": "SHP_ITM_SKL_DL_LOST_REVENGE01_name",
       "style": 18,
-      "name": "AppendLost.GP"
+      "name": "PartsLost.GP"
     },
     {
       "$id": 121,
@@ -774,61 +774,61 @@
       "$id": 127,
       "label": "SHP_ITM_SKL_DL_REF_DMG_UP01_name",
       "style": 18,
-      "name": "Reflect.DAMAGE-UP"
+      "name": "Reflection.DAMAGEUP"
     },
     {
       "$id": 128,
       "label": "SHP_ITM_SKL_DL_REF_ATK_PH01_name",
       "style": 18,
-      "name": "Reflect.NEG-PHYS"
+      "name": "Reflection.N-PHYSICS"
     },
     {
       "$id": 129,
       "label": "SHP_ITM_SKL_DL_REF_ATK_BM01_name",
       "style": 18,
-      "name": "Reflect.NEG-BEAM"
+      "name": "Reflection.N-BEAM"
     },
     {
       "$id": 130,
       "label": "SHP_ITM_SKL_DL_REF_ATK_ET01_name",
       "style": 18,
-      "name": "Reflect.NEG-ETHER"
+      "name": "Reflection.N-ETHER"
     },
     {
       "$id": 131,
       "label": "SHP_ITM_SKL_DL_REF_ATK_FR01_name",
       "style": 18,
-      "name": "Reflect.NEG-THERM"
+      "name": "Reflection.N-HEAT"
     },
     {
       "$id": 132,
       "label": "SHP_ITM_SKL_DL_REF_ATK_TH01_name",
       "style": 18,
-      "name": "Reflect.NEG-ELEC"
+      "name": "Reflection.N-VOLT"
     },
     {
       "$id": 133,
       "label": "SHP_ITM_SKL_DL_REF_ATK_GR01_name",
       "style": 18,
-      "name": "Reflect.NEG-GRAV"
+      "name": "Reflection.N-GRAVITY"
     },
     {
       "$id": 134,
       "label": "SHP_ITM_SKL_DL_GEAR_ST_HP01_name",
       "style": 18,
-      "name": "Overclock.FRAME-HP"
+      "name": "O.C.GEAR FRAMEHP"
     },
     {
       "$id": 135,
       "label": "SHP_ITM_SKL_DL_GEAR_ST_PHP01_name",
       "style": 18,
-      "name": "Overclock.APPEND-HP"
+      "name": "O.C.GEAR PARTSHP"
     },
     {
       "$id": 136,
       "label": "SHP_ITM_SKL_DL_GEAR_ST_CNT01_name",
       "style": 18,
-      "name": "Overclock.EXTEND"
+      "name": "O.C.GEAR CONTINUE"
     },
     {
       "$id": 137,
@@ -864,25 +864,25 @@
       "$id": 142,
       "label": "SHP_ITM_SKL_DL_TIME_EX_BALCK01_name",
       "style": 18,
-      "name": "TimeEx.BLACKOUT"
+      "name": "TimeEx.BLACKSIGHT"
     },
     {
       "$id": 143,
       "label": "SHP_ITM_SKL_DL_TIME_EX_POWDN01_name",
       "style": 18,
-      "name": "TimeEx.FATIGUE"
+      "name": "TimeEx.POWERDOWN"
     },
     {
       "$id": 144,
       "label": "SHP_ITM_SKL_DL_TIME_EX_SLOW01_name",
       "style": 18,
-      "name": "TimeEx.SLOW-ARTS"
+      "name": "TimeEx.ARTSSLOW"
     },
     {
       "$id": 145,
       "label": "SHP_ITM_SKL_DL_TIME_EX_RSTDN01_name",
       "style": 18,
-      "name": "TimeEx.DEBUFF-DOWN"
+      "name": "TimeEx.DEBUFFDOWN"
     },
     {
       "$id": 146,
@@ -894,49 +894,49 @@
       "$id": 147,
       "label": "SHP_ITM_SKL_DL_TIME_EX_FRDOT01_name",
       "style": 18,
-      "name": "TimeEx.BLAZE"
+      "name": "TimeEx.DOT-HEAT"
     },
     {
       "$id": 148,
       "label": "SHP_ITM_SKL_DL_TIME_EX_THDOT01_name",
       "style": 18,
-      "name": "TimeEx.SHOCK"
+      "name": "TimeEx.DOT-VOLT"
     },
     {
       "$id": 149,
       "label": "SHP_ITM_SKL_DL_TIME_EX_PHDN01_name",
       "style": 18,
-      "name": "TimeEx.PHYS-DOWN"
+      "name": "TimeEx.ANTI-PHY"
     },
     {
       "$id": 150,
       "label": "SHP_ITM_SKL_DL_TIME_EX_BMDN01_name",
       "style": 18,
-      "name": "TimeEx.BEAM-DOWN"
+      "name": "TimeEx.ANTI-BEAM"
     },
     {
       "$id": 151,
       "label": "SHP_ITM_SKL_DL_TIME_EX_ETDN01_name",
       "style": 18,
-      "name": "TimeEx.ETHER-DOWN"
+      "name": "TimeEx.ANTI-ETHER"
     },
     {
       "$id": 152,
       "label": "SHP_ITM_SKL_DL_TIME_EX_FRDN01_name",
       "style": 18,
-      "name": "TimeEx.THERM-DOWN"
+      "name": "TimeEx.ANTI-HEAT"
     },
     {
       "$id": 153,
       "label": "SHP_ITM_SKL_DL_TIME_EX_THDN01_name",
       "style": 18,
-      "name": "TimeEx.ELEC-DOWN"
+      "name": "TimeEx.ANTI-VOLT"
     },
     {
       "$id": 154,
       "label": "SHP_ITM_SKL_DL_TIME_EX_GRDN01_name",
       "style": 18,
-      "name": "TimeEx.GRAV-DOWN"
+      "name": "TimeEx.ANTI-GRAVITY"
     },
     {
       "$id": 155,
@@ -948,7 +948,7 @@
       "$id": 156,
       "label": "SHP_ITM_SKL_DL_FST_ARTS01_name",
       "style": 18,
-      "name": "Draw.OPENING-DMG"
+      "name": "Start.ARTS-ATTACK"
     },
     {
       "$id": 157,
@@ -1014,25 +1014,25 @@
       "$id": 167,
       "label": "SHP_ITM_SKL_DL_STEALTH_EYE01_name",
       "style": 18,
-      "name": "Cloak.SIGHT"
+      "name": "Stealth.EYE"
     },
     {
       "$id": 168,
       "label": "SHP_ITM_SKL_DL_STEALTH_ROUND01_name",
       "style": 18,
-      "name": "Cloak.SOUND"
+      "name": "Stealth.BODY"
     },
     {
       "$id": 169,
       "label": "SHP_ITM_SKL_DL_PARTS_TP01_name",
       "style": 18,
-      "name": "Crush.GP"
+      "name": "Crash.GP"
     },
     {
       "$id": 170,
       "label": "SHP_ITM_SKL_DL_PARTS_DMG01_name",
       "style": 18,
-      "name": "Crush.APPEND"
+      "name": "Crash.PARTS"
     },
     {
       "$id": 171,
@@ -1050,31 +1050,31 @@
       "$id": 173,
       "label": "SHP_ITM_SKL_DL_CAR_DEF_PARTS01_name",
       "style": 18,
-      "name": "Vehicle.APPEND-DEF"
+      "name": "Vehicle.DEF-PARTS"
     },
     {
       "$id": 174,
       "label": "SHP_ITM_SKL_DL_CAR_DEF_FRAME01_name",
       "style": 18,
-      "name": "Vehicle.FRAME-DEF"
+      "name": "Vehicle.DEF-FRAME"
     },
     {
       "$id": 175,
       "label": "SHP_ITM_SKL_DL_CAR_DEF_DEBUFF01_name",
       "style": 18,
-      "name": "Vehicle.DEBUFF-RES"
+      "name": "Vehicle.DEF-DEBUFF"
     },
     {
       "$id": 176,
       "label": "SHP_ITM_SKL_DL_NIGHT_DEX01_name",
       "style": 18,
-      "name": "Night.MR-ACC"
+      "name": "Night.FS-DEXUP"
     },
     {
       "$id": 177,
       "label": "SHP_ITM_SKL_DL_WEATHER_FOG00_name",
       "style": 18,
-      "name": "Weather.FOG-RES"
+      "name": "Weather.DEF-FOG"
     },
     {
       "$id": 178,
@@ -1092,7 +1092,7 @@
       "$id": 180,
       "label": "SHP_ITM_SKL_DL_WEATHER_HRAIN00_name",
       "style": 18,
-      "name": "Weather.HEAVY-RAIN-RES"
+      "name": "Weather.DEF-HARDRAIN"
     },
     {
       "$id": 181,
@@ -1104,7 +1104,7 @@
       "$id": 182,
       "label": "SHP_ITM_SKL_DL_WEATHER_SAND00_name",
       "style": 18,
-      "name": "Weather.S-STORM-RES"
+      "name": "Weather.DEF-SANDSTORM"
     },
     {
       "$id": 183,
@@ -1116,19 +1116,19 @@
       "$id": 184,
       "label": "SHP_ITM_SKL_DL_WEATHER_ERECT00_name",
       "style": 18,
-      "name": "Weather.EM-STORM-RES"
+      "name": "Weather.DEF-ELECTROSTORM"
     },
     {
       "$id": 185,
       "label": "SHP_ITM_SKL_DL_WEATHER_PAR_A00_name",
       "style": 18,
-      "name": "Weather.E-MIST-RES"
+      "name": "Weather.DEF-LIGHTFOG"
     },
     {
       "$id": 186,
       "label": "SHP_ITM_SKL_DL_WEATHER_PAR_B00_name",
       "style": 18,
-      "name": "Weather.RISING-E-MIST-RES"
+      "name": "Weather.DEF-LIGHTSTORM"
     },
     {
       "$id": 187,
@@ -1152,7 +1152,7 @@
       "$id": 190,
       "label": "SHP_ITM_SKL_DL_WEATHER_HOUSI00_name",
       "style": 18,
-      "name": "Weather.SPORE-RES"
+      "name": "Weather.DEF-SPORE"
     },
     {
       "$id": 191,
@@ -1164,7 +1164,7 @@
       "$id": 192,
       "label": "SHP_ITM_SKL_DL_WEATHER_DMG01_name",
       "style": 18,
-      "name": "Weather.DAMAGE-RES"
+      "name": "Weather.DEF-DAMAGE"
     },
     {
       "$id": 193,
@@ -1212,7 +1212,7 @@
       "$id": 200,
       "label": "ITM_SKL_DL_PARTSHP01_P_OUTLINE",
       "style": 153,
-      "name": "Boosts maximum HP for the appendage\nthis is equipped to."
+      "name": "Boosts maximum HP for the part\nthis is equipped to."
     },
     {
       "$id": 201,
@@ -1278,7 +1278,7 @@
       "$id": 211,
       "label": "ITM_SKL_DL_ANTI_FR01_P_OUTLINE",
       "style": 153,
-      "name": "Boosts Doll thermal resistance."
+      "name": "Boosts Doll heat resistance."
     },
     {
       "$id": 212,
@@ -1314,7 +1314,7 @@
       "$id": 217,
       "label": "ITM_SKL_DL_FUEL_CATCH_UP01_OUTLINE",
       "style": 153,
-      "name": "Boosts fuel recovered every second\nwhen your Doll is binding an enemy."
+      "name": "Boosts fuel recovered every second when\nyour Doll is holding an enemy with catch."
     },
     {
       "$id": 218,
@@ -1374,7 +1374,7 @@
       "$id": 227,
       "label": "ITM_SKL_DL_REG_BREAK01_OUTLINE",
       "style": 153,
-      "name": "Boosts Doll resistance to Stagger."
+      "name": "Boosts Doll resistance to Break."
     },
     {
       "$id": 228,
@@ -1434,19 +1434,19 @@
       "$id": 237,
       "label": "ITM_SKL_DL_REG_BLACK01_OUTLINE",
       "style": 153,
-      "name": "Boosts Doll resistance to Blackout."
+      "name": "Boosts Doll resistance to Black Sight."
     },
     {
       "$id": 238,
       "label": "ITM_SKL_DL_REG_POWDN01_OUTLINE",
       "style": 153,
-      "name": "Boosts Doll resistance to Fatigue."
+      "name": "Boosts Doll resistance to Power Down."
     },
     {
       "$id": 239,
       "label": "ITM_SKL_DL_REG_ASLOW01_OUTLINE",
       "style": 153,
-      "name": "Boosts Doll resistance to Slow Arts."
+      "name": "Boosts Doll resistance to Arts Slow."
     },
     {
       "$id": 240,
@@ -1488,7 +1488,7 @@
       "$id": 246,
       "label": "ITM_SKL_DL_REG_CTBOM01_OUTLINE",
       "style": 153,
-      "name": "Boosts Doll resistance to Time Bomb."
+      "name": "Boosts Doll resistance to Count Bomb."
     },
     {
       "$id": 247,
@@ -1524,43 +1524,43 @@
       "$id": 252,
       "label": "ITM_SKL_DL_CRTC_R_BEAST01_OUTLINE",
       "style": 153,
-      "name": "Boosts Doll critical chance against\ntheroid enemies."
+      "name": "Boosts Doll critical chance against\nBeast-type enemies."
     },
     {
       "$id": 253,
       "label": "ITM_SKL_DL_CRTC_R_INSECT01_OUTLINE",
       "style": 153,
-      "name": "Boosts Doll critical chance against\ninsectoid enemies."
+      "name": "Boosts Doll critical chance against\nInsect-type enemies."
     },
     {
       "$id": 254,
       "label": "ITM_SKL_DL_CRTC_R_MEGAFLY01_OUTLINE",
       "style": 153,
-      "name": "Boosts Doll critical chance against\npiscinoid enemies."
+      "name": "Boosts Doll critical chance against\nMega Fly-type enemies."
     },
     {
       "$id": 255,
       "label": "ITM_SKL_DL_CRTC_R_ALIEN01_OUTLINE",
       "style": 153,
-      "name": "Boosts Doll critical chance against\nhumanoid enemies."
+      "name": "Boosts Doll critical chance against\nAlien-type enemies."
     },
     {
       "$id": 256,
       "label": "ITM_SKL_DL_CRTC_R_MACHINE01_OUTLINE",
       "style": 153,
-      "name": "Boosts Doll critical chance against\nmechanoid enemies."
+      "name": "Boosts Doll critical chance against\nMachine-type enemies."
     },
     {
       "$id": 257,
       "label": "ITM_SKL_DL_CRTC_R_KIMERA01_OUTLINE",
       "style": 153,
-      "name": "Boosts Doll critical chance against\nchimeroid enemies."
+      "name": "Boosts Doll critical chance against\nchimera enemies."
     },
     {
       "$id": 258,
       "label": "ITM_SKL_DL_CRTC_R_TERESIA01_OUTLINE",
       "style": 153,
-      "name": "Boosts Doll critical chance against\nultrafauna enemies."
+      "name": "Boosts Doll critical chance against\nUltimate-type enemies."
     },
     {
       "$id": 259,
@@ -1572,43 +1572,43 @@
       "$id": 260,
       "label": "ITM_SKL_DL_KILL_BEAST01_OUTLINE",
       "style": 153,
-      "name": "Boosts Doll damage to theroid enemies\nby a percentage."
+      "name": "Boosts Doll damage to Beast-type enemies\nby a percentage."
     },
     {
       "$id": 261,
       "label": "ITM_SKL_DL_KILL_INSECT01_OUTLINE",
       "style": 153,
-      "name": "Boosts Doll damage to insectoid enemies\nby a percentage."
+      "name": "Boosts Doll damage to Insect-type enemies\nby a percentage."
     },
     {
       "$id": 262,
       "label": "ITM_SKL_DL_KILL_MEGAFLY01_OUTLINE",
       "style": 153,
-      "name": "Boosts Doll damage to piscinoid enemies\nby a percentage."
+      "name": "Boosts Doll damage to Mega Fly-type enemies\nby a percentage."
     },
     {
       "$id": 263,
       "label": "ITM_SKL_DL_KILL_ALIEN01_OUTLINE",
       "style": 153,
-      "name": "Boosts Doll damage to humanoid enemies\nby a percentage."
+      "name": "Boosts Doll damage to Alien-type enemies\nby a percentage."
     },
     {
       "$id": 264,
       "label": "ITM_SKL_DL_KILL_MACHINE01_OUTLINE",
       "style": 153,
-      "name": "Boosts Doll damage to mechanoid\nenemies by a percentage."
+      "name": "Boosts Doll damage to Machine-type\nenemies by a percentage."
     },
     {
       "$id": 265,
       "label": "ITM_SKL_DL_KILL_KIMERA01_OUTLINE",
       "style": 153,
-      "name": "Boosts Doll damage to chimeroid enemies\nby a percentage."
+      "name": "Boosts Doll damage to chimera enemies\nby a percentage."
     },
     {
       "$id": 266,
       "label": "ITM_SKL_DL_KILL_TERESIA01_OUTLINE",
       "style": 153,
-      "name": "Boosts Doll damage to ultrafauna enemies\nby a percentage."
+      "name": "Boosts Doll damage to Ultimate-type enemies\nby a percentage."
     },
     {
       "$id": 267,
@@ -1632,7 +1632,7 @@
       "$id": 270,
       "label": "ITM_SKL_DL_ATK_FR01_OUTLINE",
       "style": 153,
-      "name": "Boosts Doll thermal damage by a percentage."
+      "name": "Boosts Doll heat damage by a percentage."
     },
     {
       "$id": 271,
@@ -1674,13 +1674,13 @@
       "$id": 277,
       "label": "ITM_SKL_DL_F_AT_BLACK01_OUTLINE",
       "style": 153,
-      "name": "Grants a chance of inflicting Blackout\nwhen melee auto-attacking with your Doll."
+      "name": "Grants a chance of inflicting Black Sight\nwhen melee auto-attacking with your Doll."
     },
     {
       "$id": 278,
       "label": "ITM_SKL_DL_F_AT_POWDN01_OUTLINE",
       "style": 153,
-      "name": "Grants a chance of inflicting Fatigue\nwhen melee auto-attacking with your Doll."
+      "name": "Grants a chance of inflicting Power Down\nwhen melee auto-attacking with your Doll."
     },
     {
       "$id": 279,
@@ -1746,7 +1746,7 @@
       "$id": 289,
       "label": "ITM_SKL_DL_PARTS_SHD01_OUTLINE",
       "style": 153,
-      "name": "Grants a chance of reducing appendage\ndamage by a percentage when your Doll\ntakes a hit."
+      "name": "Grants a chance of reducing part\ndamage by a percentage when your Doll\ntakes a hit."
     },
     {
       "$id": 290,
@@ -1758,19 +1758,19 @@
       "$id": 291,
       "label": "ITM_SKL_DL_LOST_ATTACK01_OUTLINE",
       "style": 153,
-      "name": "Boosts damage by a percentage for each\nDoll appendage lost."
+      "name": "Boosts damage by a percentage for each\nDoll part lost."
     },
     {
       "$id": 292,
       "label": "ITM_SKL_DL_LOST_SPEED01_OUTLINE",
       "style": 153,
-      "name": "Boosts evasion by a percentage for each\nDoll appendage lost."
+      "name": "Boosts evasion by a percentage for each\nDoll part lost."
     },
     {
       "$id": 293,
       "label": "ITM_SKL_DL_LOST_REVENGE01_OUTLINE",
       "style": 153,
-      "name": "Prevents GP loss and boosts GP\nwhen an appendage is destroyed."
+      "name": "Prevents GP loss and boosts GP\nwhen a part is destroyed."
     },
     {
       "$id": 294,
@@ -1800,7 +1800,7 @@
       "$id": 298,
       "label": "ITM_SKL_DL_REF_ATK_FR01_OUTLINE",
       "style": 153,
-      "name": "Grants a chance of negating enemy\nreflection of Doll thermal attacks."
+      "name": "Grants a chance of negating enemy\nreflection of Doll heat attacks."
     },
     {
       "$id": 299,
@@ -1824,7 +1824,7 @@
       "$id": 302,
       "label": "ITM_SKL_DL_GEAR_ST_PHP01_OUTLINE",
       "style": 153,
-      "name": "Recovers a percentage of HP to all appendages\nwhen activating Overclock."
+      "name": "Recovers a percentage of HP to all parts\nwhen activating Overclock."
     },
     {
       "$id": 303,
@@ -1860,19 +1860,19 @@
       "$id": 308,
       "label": "ITM_SKL_DL_TIME_EX_BALCK01_OUTLINE",
       "style": 153,
-      "name": "Extends Blackout effects inflicted by your Arts."
+      "name": "Extends Black Sight effects inflicted by your Arts."
     },
     {
       "$id": 309,
       "label": "ITM_SKL_DL_TIME_EX_POWDN01_OUTLINE",
       "style": 153,
-      "name": "Extends Fatigue effects inflicted by your Arts."
+      "name": "Extends Power Down effects inflicted by your Arts."
     },
     {
       "$id": 310,
       "label": "ITM_SKL_DL_TIME_EX_SLOW01_OUTLINE",
       "style": 153,
-      "name": "Extends Slow Arts effects inflicted by your Arts."
+      "name": "Extends Arts Slow effects inflicted by your Arts."
     },
     {
       "$id": 311,
@@ -1950,13 +1950,13 @@
       "$id": 323,
       "label": "ITM_SKL_DL_PARTS_TP01_OUTLINE",
       "style": 153,
-      "name": "Boosts GP when destroying an\nenemy appendage with your Doll."
+      "name": "Boosts GP when destroying an\nenemy part with your Doll."
     },
     {
       "$id": 324,
       "label": "ITM_SKL_DL_PARTS_DMG01_OUTLINE",
       "style": 153,
-      "name": "Boosts Doll ranged appendage damage\nby a percentage."
+      "name": "Boosts Doll ranged part damage\nby a percentage."
     },
     {
       "$id": 325,
@@ -1968,7 +1968,7 @@
       "$id": 326,
       "label": "ITM_SKL_DL_CAR_DEF_PARTS01_OUTLINE",
       "style": 153,
-      "name": "Reduces appendage damage by a percentage\nwhen in Doll vehicle mode."
+      "name": "Reduces part damage by a percentage\nwhen in Doll vehicle mode."
     },
     {
       "$id": 327,
@@ -1992,7 +1992,7 @@
       "$id": 330,
       "label": "ITM_SKL_DL_WEATHER_FOG00_OUTLINE",
       "style": 153,
-      "name": "Grants immunity to the effects of\nfog when in your Doll."
+      "name": "Grants immunity to the effects of\ndense fog when in your Doll."
     },
     {
       "$id": 331,
@@ -2016,19 +2016,19 @@
       "$id": 334,
       "label": "ITM_SKL_DL_WEATHER_PAR_A00_OUTLINE",
       "style": 153,
-      "name": "Grants immunity to the effects of\nenergy mist when in your Doll."
+      "name": "Grants immunity to the effects of\nsuspended particles when in your Doll."
     },
     {
       "$id": 335,
       "label": "ITM_SKL_DL_WEATHER_PAR_B00_OUTLINE",
       "style": 153,
-      "name": "Grants immunity to the effects of\nrising energy mist when in your Doll."
+      "name": "Grants immunity to the effects of\nrising particles when in your Doll."
     },
     {
       "$id": 336,
       "label": "ITM_SKL_DL_WEATHER_HOUSI00_OUTLINE",
       "style": 153,
-      "name": "Grants immunity to the effects of\nspore clouds when in your Doll."
+      "name": "Grants immunity to the effects of\nspores when in your Doll."
     },
     {
       "$id": 337,

@@ -1,0 +1,43 @@
+{
+  "schema": [
+    {
+      "name": "ID",
+      "type": 9
+    },
+    {
+      "name": "wtr_id",
+      "type": 1
+    },
+    {
+      "name": "time_min",
+      "type": 2
+    },
+    {
+      "name": "time_max",
+      "type": 2
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "ID": "WTRSET8000_HRAIN",
+      "wtr_id": 7,
+      "time_min": 240,
+      "time_max": 300
+    },
+    {
+      "$id": 2,
+      "ID": "WTRSET8000_HRAIN2",
+      "wtr_id": 20,
+      "time_min": 240,
+      "time_max": 300
+    },
+    {
+      "$id": 3,
+      "ID": "WTRSET8000_CLOUD",
+      "wtr_id": 3,
+      "time_min": 240,
+      "time_max": 300
+    }
+  ]
+}

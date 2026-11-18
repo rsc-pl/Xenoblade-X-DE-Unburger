@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "ID",
+      "type": 9
+    },
+    {
+      "name": "resource",
+      "type": 7
+    },
+    {
+      "name": "id",
+      "type": 2
+    }
+  ],
+  "rows": [
+    {
+      "$id": 0,
+      "ID": "DOLL_0000",
+      "resource": "oj210103",
+      "id": 0
+    },
+    {
+      "$id": 1,
+      "ID": "DOLL_0001",
+      "resource": "oj210104",
+      "id": 11
+    }
+  ]
+}

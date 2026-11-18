@@ -1,0 +1,124 @@
+{
+  "schema": [
+    {
+      "name": "ID",
+      "type": 9
+    },
+    {
+      "name": "location_id",
+      "type": 3
+    },
+    {
+      "name": "pos_x",
+      "type": 8
+    },
+    {
+      "name": "pos_y",
+      "type": 8
+    },
+    {
+      "name": "pos_z",
+      "type": 8
+    },
+    {
+      "name": "offset_x",
+      "type": 8
+    },
+    {
+      "name": "offset_y",
+      "type": 8
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "ID": "MAP_AREA_INFO_LD_0001",
+      "location_id": 452,
+      "pos_x": 706.8400268554688,
+      "pos_y": 466.5799865722656,
+      "pos_z": -122.16999816894531,
+      "offset_x": 0.0,
+      "offset_y": 0.0
+    },
+    {
+      "$id": 2,
+      "ID": "MAP_AREA_INFO_LD_0002",
+      "location_id": 459,
+      "pos_x": -4.0,
+      "pos_y": 455.0,
+      "pos_z": 4.0,
+      "offset_x": 0.0,
+      "offset_y": -35.0
+    },
+    {
+      "$id": 3,
+      "ID": "MAP_AREA_INFO_LD_0003",
+      "location_id": 460,
+      "pos_x": -49.09000015258789,
+      "pos_y": -207.97000122070312,
+      "pos_z": 23.979999542236328,
+      "offset_x": 30.0,
+      "offset_y": 65.0
+    },
+    {
+      "$id": 4,
+      "ID": "MAP_AREA_INFO_LD_0004",
+      "location_id": 461,
+      "pos_x": 112.80999755859375,
+      "pos_y": 317.75,
+      "pos_z": -977.6799926757812,
+      "offset_x": 0.0,
+      "offset_y": -24.0
+    },
+    {
+      "$id": 5,
+      "ID": "MAP_AREA_INFO_LD_0005",
+      "location_id": 462,
+      "pos_x": -847.1400146484375,
+      "pos_y": -279.45001220703125,
+      "pos_z": -82.06999969482422,
+      "offset_x": 0.0,
+      "offset_y": 0.0
+    },
+    {
+      "$id": 6,
+      "ID": "MAP_AREA_INFO_LD_0006",
+      "location_id": 463,
+      "pos_x": 874.280029296875,
+      "pos_y": 280.7900085449219,
+      "pos_z": 676.030029296875,
+      "offset_x": 0.0,
+      "offset_y": 15.0
+    },
+    {
+      "$id": 7,
+      "ID": "MAP_AREA_INFO_LD_0007",
+      "location_id": 464,
+      "pos_x": 901.8499755859375,
+      "pos_y": -1.3600000143051147,
+      "pos_z": -554.8599853515625,
+      "offset_x": 0.0,
+      "offset_y": 0.0
+    },
+    {
+      "$id": 8,
+      "ID": "MAP_AREA_INFO_LD_0008",
+      "location_id": 465,
+      "pos_x": -557.3900146484375,
+      "pos_y": -35.84000015258789,
+      "pos_z": -831.780029296875,
+      "offset_x": 20.0,
+      "offset_y": 0.0
+    },
+    {
+      "$id": 9,
+      "ID": "MAP_AREA_INFO_LD_0009",
+      "location_id": 466,
+      "pos_x": -998.6599731445312,
+      "pos_y": 313.19000244140625,
+      "pos_z": 576.5999755859375,
+      "offset_x": 0.0,
+      "offset_y": 8.0
+    }
+  ]
+}

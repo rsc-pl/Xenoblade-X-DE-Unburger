@@ -1,0 +1,288 @@
+{
+  "schema": [
+    {
+      "name": "ID",
+      "type": 9
+    },
+    {
+      "name": "pos_x",
+      "type": 4
+    },
+    {
+      "name": "pos_y",
+      "type": 4
+    },
+    {
+      "name": "flg_open",
+      "type": 2
+    },
+    {
+      "name": "seg_type",
+      "type": 1
+    },
+    {
+      "name": "seg_id",
+      "type": 2
+    },
+    {
+      "name": "fieldLoc_id",
+      "type": 2
+    },
+    {
+      "name": "val_lv",
+      "type": 1
+    },
+    {
+      "name": "val_lv2",
+      "type": 1
+    },
+    {
+      "name": "border_bit_flag",
+      "type": 1
+    },
+    {
+      "name": "active_flag",
+      "type": 2
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "ID": "SEG_5000_C001",
+      "pos_x": 11,
+      "pos_y": 5,
+      "flg_open": 32506,
+      "seg_type": 3,
+      "seg_id": 1,
+      "fieldLoc_id": 0,
+      "val_lv": 0,
+      "val_lv2": 0,
+      "border_bit_flag": 0,
+      "active_flag": 41025
+    },
+    {
+      "$id": 2,
+      "ID": "SEG_5000_N001",
+      "pos_x": 6,
+      "pos_y": 5,
+      "flg_open": 32507,
+      "seg_type": 2,
+      "seg_id": 573,
+      "fieldLoc_id": 0,
+      "val_lv": 0,
+      "val_lv2": 0,
+      "border_bit_flag": 0,
+      "active_flag": 41026
+    },
+    {
+      "$id": 3,
+      "ID": "SEG_5000_N002",
+      "pos_x": 6,
+      "pos_y": 6,
+      "flg_open": 32508,
+      "seg_type": 2,
+      "seg_id": 574,
+      "fieldLoc_id": 0,
+      "val_lv": 0,
+      "val_lv2": 0,
+      "border_bit_flag": 0,
+      "active_flag": 41027
+    },
+    {
+      "$id": 4,
+      "ID": "SEG_5000_N003",
+      "pos_x": 7,
+      "pos_y": 4,
+      "flg_open": 32509,
+      "seg_type": 2,
+      "seg_id": 575,
+      "fieldLoc_id": 0,
+      "val_lv": 0,
+      "val_lv2": 0,
+      "border_bit_flag": 0,
+      "active_flag": 41028
+    },
+    {
+      "$id": 5,
+      "ID": "SEG_5000_N004",
+      "pos_x": 7,
+      "pos_y": 5,
+      "flg_open": 32510,
+      "seg_type": 2,
+      "seg_id": 576,
+      "fieldLoc_id": 0,
+      "val_lv": 0,
+      "val_lv2": 0,
+      "border_bit_flag": 0,
+      "active_flag": 41029
+    },
+    {
+      "$id": 6,
+      "ID": "SEG_5000_N005",
+      "pos_x": 7,
+      "pos_y": 6,
+      "flg_open": 32511,
+      "seg_type": 2,
+      "seg_id": 577,
+      "fieldLoc_id": 0,
+      "val_lv": 0,
+      "val_lv2": 0,
+      "border_bit_flag": 0,
+      "active_flag": 41030
+    },
+    {
+      "$id": 7,
+      "ID": "SEG_5000_N006",
+      "pos_x": 8,
+      "pos_y": 5,
+      "flg_open": 32512,
+      "seg_type": 2,
+      "seg_id": 578,
+      "fieldLoc_id": 1,
+      "val_lv": 0,
+      "val_lv2": 0,
+      "border_bit_flag": 0,
+      "active_flag": 41031
+    },
+    {
+      "$id": 8,
+      "ID": "SEG_5000_N007",
+      "pos_x": 8,
+      "pos_y": 6,
+      "flg_open": 32513,
+      "seg_type": 2,
+      "seg_id": 579,
+      "fieldLoc_id": 0,
+      "val_lv": 0,
+      "val_lv2": 0,
+      "border_bit_flag": 0,
+      "active_flag": 41032
+    },
+    {
+      "$id": 9,
+      "ID": "SEG_5000_N008",
+      "pos_x": 9,
+      "pos_y": 4,
+      "flg_open": 32514,
+      "seg_type": 2,
+      "seg_id": 580,
+      "fieldLoc_id": 0,
+      "val_lv": 0,
+      "val_lv2": 0,
+      "border_bit_flag": 0,
+      "active_flag": 41033
+    },
+    {
+      "$id": 10,
+      "ID": "SEG_5000_N009",
+      "pos_x": 9,
+      "pos_y": 5,
+      "flg_open": 32515,
+      "seg_type": 2,
+      "seg_id": 581,
+      "fieldLoc_id": 0,
+      "val_lv": 0,
+      "val_lv2": 0,
+      "border_bit_flag": 0,
+      "active_flag": 41034
+    },
+    {
+      "$id": 11,
+      "ID": "SEG_5000_N010",
+      "pos_x": 9,
+      "pos_y": 6,
+      "flg_open": 32516,
+      "seg_type": 2,
+      "seg_id": 582,
+      "fieldLoc_id": 0,
+      "val_lv": 0,
+      "val_lv2": 0,
+      "border_bit_flag": 0,
+      "active_flag": 41035
+    },
+    {
+      "$id": 12,
+      "ID": "SEG_5000_N011",
+      "pos_x": 10,
+      "pos_y": 5,
+      "flg_open": 32517,
+      "seg_type": 2,
+      "seg_id": 583,
+      "fieldLoc_id": 0,
+      "val_lv": 0,
+      "val_lv2": 0,
+      "border_bit_flag": 0,
+      "active_flag": 41036
+    },
+    {
+      "$id": 13,
+      "ID": "SEG_5000_N012",
+      "pos_x": 10,
+      "pos_y": 6,
+      "flg_open": 32518,
+      "seg_type": 2,
+      "seg_id": 584,
+      "fieldLoc_id": 0,
+      "val_lv": 0,
+      "val_lv2": 0,
+      "border_bit_flag": 0,
+      "active_flag": 41037
+    },
+    {
+      "$id": 14,
+      "ID": "SEG_5000_N013",
+      "pos_x": 11,
+      "pos_y": 4,
+      "flg_open": 32519,
+      "seg_type": 2,
+      "seg_id": 585,
+      "fieldLoc_id": 0,
+      "val_lv": 0,
+      "val_lv2": 0,
+      "border_bit_flag": 0,
+      "active_flag": 41038
+    },
+    {
+      "$id": 15,
+      "ID": "SEG_5000_N014",
+      "pos_x": 11,
+      "pos_y": 6,
+      "flg_open": 32520,
+      "seg_type": 2,
+      "seg_id": 586,
+      "fieldLoc_id": 0,
+      "val_lv": 0,
+      "val_lv2": 0,
+      "border_bit_flag": 0,
+      "active_flag": 41039
+    },
+    {
+      "$id": 16,
+      "ID": "SEG_5000_N015",
+      "pos_x": 12,
+      "pos_y": 5,
+      "flg_open": 32521,
+      "seg_type": 2,
+      "seg_id": 587,
+      "fieldLoc_id": 0,
+      "val_lv": 0,
+      "val_lv2": 0,
+      "border_bit_flag": 0,
+      "active_flag": 41040
+    },
+    {
+      "$id": 17,
+      "ID": "SEG_5000_N016",
+      "pos_x": 12,
+      "pos_y": 6,
+      "flg_open": 32522,
+      "seg_type": 2,
+      "seg_id": 588,
+      "fieldLoc_id": 0,
+      "val_lv": 0,
+      "val_lv2": 0,
+      "border_bit_flag": 0,
+      "active_flag": 41041
+    }
+  ]
+}

@@ -1,0 +1,618 @@
+{
+  "schema": [
+    {
+      "name": "ID",
+      "type": 9
+    },
+    {
+      "name": "texID",
+      "type": 2
+    },
+    {
+      "name": "MSlabel",
+      "type": 2
+    }
+  ],
+  "rows": [
+    {
+      "$id": 0,
+      "ID": "FONT_BTN_CRS",
+      "texID": 2469,
+      "MSlabel": 0
+    },
+    {
+      "$id": 1,
+      "ID": "FONT_BTN_POW",
+      "texID": 2470,
+      "MSlabel": 0
+    },
+    {
+      "$id": 2,
+      "ID": "FONT_BTN_HOM",
+      "texID": 2471,
+      "MSlabel": 0
+    },
+    {
+      "$id": 3,
+      "ID": "FONT_BTN_MNS",
+      "texID": 2472,
+      "MSlabel": 0
+    },
+    {
+      "$id": 4,
+      "ID": "FONT_BTN_PLS",
+      "texID": 2473,
+      "MSlabel": 0
+    },
+    {
+      "$id": 5,
+      "ID": "FONT_BTN_X",
+      "texID": 2474,
+      "MSlabel": 0
+    },
+    {
+      "$id": 6,
+      "ID": "FONT_BTN_Y",
+      "texID": 2475,
+      "MSlabel": 0
+    },
+    {
+      "$id": 7,
+      "ID": "FONT_BTN_A",
+      "texID": 2476,
+      "MSlabel": 0
+    },
+    {
+      "$id": 8,
+      "ID": "FONT_BTN_B",
+      "texID": 2477,
+      "MSlabel": 0
+    },
+    {
+      "$id": 9,
+      "ID": "FONT_BTN_ANALP",
+      "texID": 2478,
+      "MSlabel": 0
+    },
+    {
+      "$id": 10,
+      "ID": "FONT_BTN_ANARP",
+      "texID": 2479,
+      "MSlabel": 0
+    },
+    {
+      "$id": 11,
+      "ID": "FONT_BTN_ANAL",
+      "texID": 2480,
+      "MSlabel": 0
+    },
+    {
+      "$id": 12,
+      "ID": "FONT_BTN_ANAR",
+      "texID": 2481,
+      "MSlabel": 0
+    },
+    {
+      "$id": 13,
+      "ID": "FONT_BTN_L",
+      "texID": 2482,
+      "MSlabel": 0
+    },
+    {
+      "$id": 14,
+      "ID": "FONT_BTN_R",
+      "texID": 2483,
+      "MSlabel": 0
+    },
+    {
+      "$id": 15,
+      "ID": "FONT_BTN_ZL",
+      "texID": 2484,
+      "MSlabel": 0
+    },
+    {
+      "$id": 16,
+      "ID": "FONT_BTN_ZR",
+      "texID": 2485,
+      "MSlabel": 0
+    },
+    {
+      "$id": 17,
+      "ID": "FONT_BTN_L_PRO",
+      "texID": 2486,
+      "MSlabel": 0
+    },
+    {
+      "$id": 18,
+      "ID": "FONT_BTN_R_PRO",
+      "texID": 2487,
+      "MSlabel": 0
+    },
+    {
+      "$id": 19,
+      "ID": "FONT_BTN_ZL_PRO",
+      "texID": 2488,
+      "MSlabel": 0
+    },
+    {
+      "$id": 20,
+      "ID": "FONT_BTN_ZR_PRO",
+      "texID": 2489,
+      "MSlabel": 0
+    },
+    {
+      "$id": 21,
+      "ID": "FONT_BTN_TTOD",
+      "texID": 2490,
+      "MSlabel": 0
+    },
+    {
+      "$id": 22,
+      "ID": "FONT_BTN_DTOT",
+      "texID": 2491,
+      "MSlabel": 0
+    },
+    {
+      "$id": 23,
+      "ID": "FONT_BTN_TD",
+      "texID": 2492,
+      "MSlabel": 0
+    },
+    {
+      "$id": 24,
+      "ID": "FONT_BTN_CRSU",
+      "texID": 2493,
+      "MSlabel": 0
+    },
+    {
+      "$id": 25,
+      "ID": "FONT_BTN_CRSD",
+      "texID": 2494,
+      "MSlabel": 0
+    },
+    {
+      "$id": 26,
+      "ID": "FONT_BTN_CRSL",
+      "texID": 2495,
+      "MSlabel": 0
+    },
+    {
+      "$id": 27,
+      "ID": "FONT_BTN_CRSR",
+      "texID": 2496,
+      "MSlabel": 0
+    },
+    {
+      "$id": 28,
+      "ID": "FONT_BTN_CRSUD",
+      "texID": 2497,
+      "MSlabel": 0
+    },
+    {
+      "$id": 29,
+      "ID": "FONT_BTN_CRSLR",
+      "texID": 2498,
+      "MSlabel": 0
+    },
+    {
+      "$id": 30,
+      "ID": "FONT_BTN_DUMMY01",
+      "texID": 2499,
+      "MSlabel": 0
+    },
+    {
+      "$id": 31,
+      "ID": "FONT_BTN_DUMMY02",
+      "texID": 2500,
+      "MSlabel": 0
+    },
+    {
+      "$id": 32,
+      "ID": "FONT_MARUC",
+      "texID": 2501,
+      "MSlabel": 0
+    },
+    {
+      "$id": 33,
+      "ID": "FONT_EMANUAL",
+      "texID": 2502,
+      "MSlabel": 0
+    },
+    {
+      "$id": 34,
+      "ID": "FONT_EMANUAL_GRAYOUT",
+      "texID": 2503,
+      "MSlabel": 0
+    },
+    {
+      "$id": 35,
+      "ID": "FONT_BTN_DUMMY06",
+      "texID": 2504,
+      "MSlabel": 0
+    },
+    {
+      "$id": 36,
+      "ID": "FONT_BTN_DUMMY07",
+      "texID": 2505,
+      "MSlabel": 0
+    },
+    {
+      "$id": 37,
+      "ID": "FONT_BTN_DUMMY08",
+      "texID": 2506,
+      "MSlabel": 0
+    },
+    {
+      "$id": 38,
+      "ID": "FONT_BTN_DUMMY09",
+      "texID": 2507,
+      "MSlabel": 0
+    },
+    {
+      "$id": 39,
+      "ID": "FONT_BTN_DUMMY10",
+      "texID": 2508,
+      "MSlabel": 0
+    },
+    {
+      "$id": 40,
+      "ID": "FONT_BTN_DUMMY11",
+      "texID": 2509,
+      "MSlabel": 0
+    },
+    {
+      "$id": 41,
+      "ID": "FONT_BTN_DUMMY12",
+      "texID": 2510,
+      "MSlabel": 0
+    },
+    {
+      "$id": 42,
+      "ID": "FONT_BTN_DUMMY13",
+      "texID": 2511,
+      "MSlabel": 0
+    },
+    {
+      "$id": 43,
+      "ID": "FONT_BTN_DUMMY14",
+      "texID": 2512,
+      "MSlabel": 0
+    },
+    {
+      "$id": 44,
+      "ID": "FONT_BTN_DUMMY15",
+      "texID": 2513,
+      "MSlabel": 0
+    },
+    {
+      "$id": 45,
+      "ID": "FONT_BTN_DUMMY16",
+      "texID": 2514,
+      "MSlabel": 0
+    },
+    {
+      "$id": 46,
+      "ID": "FONT_BTN_DUMMY17",
+      "texID": 2515,
+      "MSlabel": 0
+    },
+    {
+      "$id": 47,
+      "ID": "FONT_BTN_DUMMY18",
+      "texID": 2516,
+      "MSlabel": 0
+    },
+    {
+      "$id": 48,
+      "ID": "FONT_DEBUFF_BREAK",
+      "texID": 2517,
+      "MSlabel": 0
+    },
+    {
+      "$id": 49,
+      "ID": "FONT_DEBUFF_HIRUMI",
+      "texID": 2518,
+      "MSlabel": 0
+    },
+    {
+      "$id": 50,
+      "ID": "FONT_DEBUFF_DOWN",
+      "texID": 2519,
+      "MSlabel": 0
+    },
+    {
+      "$id": 51,
+      "ID": "FONT_DEBUFF_BLOWN",
+      "texID": 2520,
+      "MSlabel": 0
+    },
+    {
+      "$id": 52,
+      "ID": "FONT_DEBUFF_MID_5",
+      "texID": 2521,
+      "MSlabel": 0
+    },
+    {
+      "$id": 53,
+      "ID": "FONT_DEBUFF_KINOCKBACK",
+      "texID": 2522,
+      "MSlabel": 0
+    },
+    {
+      "$id": 54,
+      "ID": "FONT_DEBUFF_STAN",
+      "texID": 2523,
+      "MSlabel": 0
+    },
+    {
+      "$id": 55,
+      "ID": "FONT_DEBUFF_MID_8",
+      "texID": 2524,
+      "MSlabel": 0
+    },
+    {
+      "$id": 56,
+      "ID": "FONT_DEBUFF_PROVOKE",
+      "texID": 2525,
+      "MSlabel": 0
+    },
+    {
+      "$id": 57,
+      "ID": "FONT_DEBUFF_CONTROL",
+      "texID": 2526,
+      "MSlabel": 0
+    },
+    {
+      "$id": 58,
+      "ID": "FONT_DEBUFF_MID_11",
+      "texID": 2527,
+      "MSlabel": 0
+    },
+    {
+      "$id": 59,
+      "ID": "FONT_DEBUFF_VIRUS",
+      "texID": 2528,
+      "MSlabel": 0
+    },
+    {
+      "$id": 60,
+      "ID": "FONT_DEBUFF_BLACK",
+      "texID": 2529,
+      "MSlabel": 0
+    },
+    {
+      "$id": 61,
+      "ID": "FONT_DEBUFF_POWER_DOWN",
+      "texID": 2530,
+      "MSlabel": 0
+    },
+    {
+      "$id": 62,
+      "ID": "FONT_DEBUFF_SLOW",
+      "texID": 2531,
+      "MSlabel": 0
+    },
+    {
+      "$id": 63,
+      "ID": "FONT_DEBUFF_MID_16",
+      "texID": 2532,
+      "MSlabel": 0
+    },
+    {
+      "$id": 64,
+      "ID": "FONT_DEBUFF_PHY_DOWN",
+      "texID": 2533,
+      "MSlabel": 0
+    },
+    {
+      "$id": 65,
+      "ID": "FONT_DEBUFF_BEAM_DOWN",
+      "texID": 2534,
+      "MSlabel": 0
+    },
+    {
+      "$id": 66,
+      "ID": "FONT_DEBUFF_RETHER_DOWN",
+      "texID": 2535,
+      "MSlabel": 0
+    },
+    {
+      "$id": 67,
+      "ID": "FONT_DEBUFF_FIRE_DOWN",
+      "texID": 2536,
+      "MSlabel": 0
+    },
+    {
+      "$id": 68,
+      "ID": "FONT_DEBUFF_THUN_DOWN",
+      "texID": 2537,
+      "MSlabel": 0
+    },
+    {
+      "$id": 69,
+      "ID": "FONT_DEBUFF_GRAV_DOWN",
+      "texID": 2538,
+      "MSlabel": 0
+    },
+    {
+      "$id": 70,
+      "ID": "FONT_DEBUFF_BOM",
+      "texID": 2539,
+      "MSlabel": 0
+    },
+    {
+      "$id": 71,
+      "ID": "FONT_DEBUFF_MID_24",
+      "texID": 2540,
+      "MSlabel": 0
+    },
+    {
+      "$id": 72,
+      "ID": "FONT_DEBUFF_DEDEBUFF_DOWN",
+      "texID": 2541,
+      "MSlabel": 0
+    },
+    {
+      "$id": 73,
+      "ID": "FONT_DEBUFF_HEAL_DOWN",
+      "texID": 2542,
+      "MSlabel": 0
+    },
+    {
+      "$id": 74,
+      "ID": "FONT_DEBUFF_DOT_FIRE",
+      "texID": 2543,
+      "MSlabel": 0
+    },
+    {
+      "$id": 75,
+      "ID": "FONT_DEBUFF_DOT_THUN",
+      "texID": 2544,
+      "MSlabel": 0
+    },
+    {
+      "$id": 76,
+      "ID": "FONT_DEBUFF_DM_MAX_DOWN",
+      "texID": 2545,
+      "MSlabel": 0
+    },
+    {
+      "$id": 77,
+      "ID": "FONT_DEBUFF_MID_30",
+      "texID": 2546,
+      "MSlabel": 0
+    },
+    {
+      "$id": 78,
+      "ID": "FONT_DEBUFF_SLEEP",
+      "texID": 2547,
+      "MSlabel": 0
+    },
+    {
+      "$id": 79,
+      "ID": "FONT_DEBUFF_MID_32",
+      "texID": 2548,
+      "MSlabel": 0
+    },
+    {
+      "$id": 80,
+      "ID": "FONT_BUFF_FIGHT_DEX_UP",
+      "texID": 2549,
+      "MSlabel": 0
+    },
+    {
+      "$id": 81,
+      "ID": "FONT_BUFF_SHOOT_DEX_UP",
+      "texID": 2550,
+      "MSlabel": 0
+    },
+    {
+      "$id": 82,
+      "ID": "FONT_BUFF_EVA_UP",
+      "texID": 2551,
+      "MSlabel": 0
+    },
+    {
+      "$id": 83,
+      "ID": "FONT_BUFF_FIGHT_POW_UP",
+      "texID": 2552,
+      "MSlabel": 0
+    },
+    {
+      "$id": 84,
+      "ID": "FONT_BUFF_SHOOT_POW_UP",
+      "texID": 2553,
+      "MSlabel": 0
+    },
+    {
+      "$id": 85,
+      "ID": "FONT_BUFF_MIND_POW_UP",
+      "texID": 2554,
+      "MSlabel": 0
+    },
+    {
+      "$id": 86,
+      "ID": "FONT_BUFF_ANTI_PHY_UP",
+      "texID": 2555,
+      "MSlabel": 0
+    },
+    {
+      "$id": 87,
+      "ID": "FONT_BUFF_ANTY_BEAM",
+      "texID": 2556,
+      "MSlabel": 0
+    },
+    {
+      "$id": 88,
+      "ID": "FONT_BUFF_ANTI_DARK",
+      "texID": 2557,
+      "MSlabel": 0
+    },
+    {
+      "$id": 89,
+      "ID": "FONT_BUFF_ANTI_FIRE",
+      "texID": 2558,
+      "MSlabel": 0
+    },
+    {
+      "$id": 90,
+      "ID": "FONT_BUFF_ANTI_THUN",
+      "texID": 2559,
+      "MSlabel": 0
+    },
+    {
+      "$id": 91,
+      "ID": "FONT_BUFF_ANTI_GRAV",
+      "texID": 2560,
+      "MSlabel": 0
+    },
+    {
+      "$id": 92,
+      "ID": "FONT_BUFF_ARMOR",
+      "texID": 2561,
+      "MSlabel": 0
+    },
+    {
+      "$id": 93,
+      "ID": "FONT_BUFF_BULLET",
+      "texID": 2562,
+      "MSlabel": 0
+    },
+    {
+      "$id": 94,
+      "ID": "FONT_BUFF_VISION",
+      "texID": 2563,
+      "MSlabel": 0
+    },
+    {
+      "$id": 95,
+      "ID": "FONT_BUFF_CRTC_STAGE",
+      "texID": 2564,
+      "MSlabel": 0
+    },
+    {
+      "$id": 96,
+      "ID": "FONT_BUFF_BUFF_STOP",
+      "texID": 2565,
+      "MSlabel": 0
+    },
+    {
+      "$id": 97,
+      "ID": "FONT_BUFF_CATCH",
+      "texID": 2566,
+      "MSlabel": 0
+    },
+    {
+      "$id": 98,
+      "ID": "FONT_BUFF_ENEMY_DEF",
+      "texID": 2567,
+      "MSlabel": 0
+    },
+    {
+      "$id": 99,
+      "ID": "FONT_BUFF_RAGE",
+      "texID": 2568,
+      "MSlabel": 0
+    }
+  ]
+}

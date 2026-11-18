@@ -1,0 +1,162 @@
+{
+  "schema": [
+    {
+      "name": "ID",
+      "type": 9
+    },
+    {
+      "name": "name",
+      "type": 7
+    },
+    {
+      "name": "popNum_min",
+      "type": 1
+    },
+    {
+      "name": "popNum_max",
+      "type": 1
+    },
+    {
+      "name": "popItvl_min",
+      "type": 1
+    },
+    {
+      "name": "popItvl_max",
+      "type": 1
+    },
+    {
+      "name": "res_group",
+      "type": 2
+    },
+    {
+      "name": "algo_type",
+      "type": 1
+    },
+    {
+      "name": "gene_dist",
+      "type": 2
+    },
+    {
+      "name": "del_dist",
+      "type": 2
+    },
+    {
+      "name": "del_dist_pc",
+      "type": 2
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "ID": "MOB_B001",
+      "name": "MOB_BA_001",
+      "popNum_min": 1,
+      "popNum_max": 1,
+      "popItvl_min": 0,
+      "popItvl_max": 0,
+      "res_group": 1,
+      "algo_type": 1,
+      "gene_dist": 30,
+      "del_dist": 2,
+      "del_dist_pc": 30
+    },
+    {
+      "$id": 2,
+      "ID": "MOB_B002",
+      "name": "MOB_BA_002",
+      "popNum_min": 1,
+      "popNum_max": 1,
+      "popItvl_min": 0,
+      "popItvl_max": 0,
+      "res_group": 2,
+      "algo_type": 1,
+      "gene_dist": 30,
+      "del_dist": 2,
+      "del_dist_pc": 30
+    },
+    {
+      "$id": 3,
+      "ID": "MOB_B003",
+      "name": "MOB_BA_003",
+      "popNum_min": 1,
+      "popNum_max": 1,
+      "popItvl_min": 0,
+      "popItvl_max": 0,
+      "res_group": 3,
+      "algo_type": 1,
+      "gene_dist": 30,
+      "del_dist": 2,
+      "del_dist_pc": 30
+    },
+    {
+      "$id": 4,
+      "ID": "MOB_B004",
+      "name": "MOB_BA_004",
+      "popNum_min": 1,
+      "popNum_max": 1,
+      "popItvl_min": 0,
+      "popItvl_max": 0,
+      "res_group": 4,
+      "algo_type": 1,
+      "gene_dist": 30,
+      "del_dist": 2,
+      "del_dist_pc": 30
+    },
+    {
+      "$id": 5,
+      "ID": "MOB_B101",
+      "name": "MOB_BA_101",
+      "popNum_min": 1,
+      "popNum_max": 1,
+      "popItvl_min": 0,
+      "popItvl_max": 0,
+      "res_group": 5,
+      "algo_type": 1,
+      "gene_dist": 30,
+      "del_dist": 2,
+      "del_dist_pc": 30
+    },
+    {
+      "$id": 6,
+      "ID": "MOB_B102",
+      "name": "MOB_BA_102",
+      "popNum_min": 1,
+      "popNum_max": 1,
+      "popItvl_min": 0,
+      "popItvl_max": 0,
+      "res_group": 6,
+      "algo_type": 1,
+      "gene_dist": 30,
+      "del_dist": 2,
+      "del_dist_pc": 30
+    },
+    {
+      "$id": 7,
+      "ID": "MOB_B103",
+      "name": "MOB_BA_103",
+      "popNum_min": 1,
+      "popNum_max": 1,
+      "popItvl_min": 0,
+      "popItvl_max": 0,
+      "res_group": 7,
+      "algo_type": 1,
+      "gene_dist": 30,
+      "del_dist": 2,
+      "del_dist_pc": 30
+    },
+    {
+      "$id": 8,
+      "ID": "MOB_B104",
+      "name": "MOB_BA_104",
+      "popNum_min": 1,
+      "popNum_max": 1,
+      "popItvl_min": 0,
+      "popItvl_max": 0,
+      "res_group": 8,
+      "algo_type": 1,
+      "gene_dist": 30,
+      "del_dist": 2,
+      "del_dist_pc": 30
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs12060100_MSG0001",
+      "style": 0,
+      "name": "Once we go inside, there will be no\nroom to turn back. Are you ready?[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs12060100_JNK0010",
+      "style": 4,
+      "name": "Affirm"
+    },
+    {
+      "$id": 3,
+      "label": "xs12060100_SEL0011",
+      "style": 3,
+      "name": "Nod with resolve."
+    },
+    {
+      "$id": 4,
+      "label": "xs12060100_JNK0020",
+      "style": 4,
+      "name": "Deny"
+    },
+    {
+      "$id": 5,
+      "label": "xs12060100_SEL0021",
+      "style": 3,
+      "name": "Say you still have things left undone."
+    },
+    {
+      "$id": 6,
+      "label": "xs12060100_MSG0002",
+      "style": 0,
+      "name": "Let's prepare thoroughly.[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "xs12060100_MSG0003",
+      "style": 0,
+      "name": "Are you really sure?[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "xs12060100_SEL0031",
+      "style": 3,
+      "name": "Show your resolve with a strong nod."
+    },
+    {
+      "$id": 9,
+      "label": "xs12060100_SEL0041",
+      "style": 3,
+      "name": "Remember things left undone."
+    }
+  ]
+}

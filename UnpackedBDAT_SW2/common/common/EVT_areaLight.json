@@ -1,0 +1,300 @@
+{
+  "schema": [
+    {
+      "name": "ID",
+      "type": 9
+    },
+    {
+      "name": "area",
+      "type": 5
+    },
+    {
+      "name": "env_id",
+      "type": 5
+    },
+    {
+      "name": "blh_lgt_id",
+      "type": 5
+    },
+    {
+      "name": "effect",
+      "type": 7
+    },
+    {
+      "name": "sound",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 0,
+      "ID": "EVENT_AREA_LIGHT_000",
+      "area": 0,
+      "env_id": 0,
+      "blh_lgt_id": -1,
+      "effect": "cmn_200_000",
+      "sound": ""
+    },
+    {
+      "$id": 1,
+      "ID": "EVENT_AREA_LIGHT_001",
+      "area": 0,
+      "env_id": 10,
+      "blh_lgt_id": -1,
+      "effect": "cmn_200_010",
+      "sound": ""
+    },
+    {
+      "$id": 2,
+      "ID": "EVENT_AREA_LIGHT_002",
+      "area": 0,
+      "env_id": 30,
+      "blh_lgt_id": -1,
+      "effect": "cmn_200_030",
+      "sound": ""
+    },
+    {
+      "$id": 3,
+      "ID": "EVENT_AREA_LIGHT_003",
+      "area": 0,
+      "env_id": 40,
+      "blh_lgt_id": -1,
+      "effect": "cmn_200_040",
+      "sound": ""
+    },
+    {
+      "$id": 4,
+      "ID": "EVENT_AREA_LIGHT_004",
+      "area": 0,
+      "env_id": 41,
+      "blh_lgt_id": -1,
+      "effect": "cmn_200_041",
+      "sound": ""
+    },
+    {
+      "$id": 5,
+      "ID": "EVENT_AREA_LIGHT_005",
+      "area": 0,
+      "env_id": 42,
+      "blh_lgt_id": -1,
+      "effect": "cmn_200_042",
+      "sound": ""
+    },
+    {
+      "$id": 6,
+      "ID": "EVENT_AREA_LIGHT_006",
+      "area": 0,
+      "env_id": 50,
+      "blh_lgt_id": -1,
+      "effect": "cmn_200_050",
+      "sound": ""
+    },
+    {
+      "$id": 7,
+      "ID": "EVENT_AREA_LIGHT_007",
+      "area": 0,
+      "env_id": 60,
+      "blh_lgt_id": -1,
+      "effect": "cmn_200_060",
+      "sound": ""
+    },
+    {
+      "$id": 8,
+      "ID": "EVENT_AREA_LIGHT_008",
+      "area": 0,
+      "env_id": 80,
+      "blh_lgt_id": -1,
+      "effect": "cmn_200_080",
+      "sound": ""
+    },
+    {
+      "$id": 9,
+      "ID": "EVENT_AREA_LIGHT_009",
+      "area": 0,
+      "env_id": 110,
+      "blh_lgt_id": -1,
+      "effect": "cmn_200_110",
+      "sound": ""
+    },
+    {
+      "$id": 10,
+      "ID": "EVENT_AREA_LIGHT_010",
+      "area": 0,
+      "env_id": 200,
+      "blh_lgt_id": -1,
+      "effect": "cmn_200_200",
+      "sound": ""
+    },
+    {
+      "$id": 11,
+      "ID": "EVENT_AREA_LIGHT_011",
+      "area": 0,
+      "env_id": 201,
+      "blh_lgt_id": -1,
+      "effect": "cmn_200_201",
+      "sound": ""
+    },
+    {
+      "$id": 12,
+      "ID": "EVENT_AREA_LIGHT_012",
+      "area": 0,
+      "env_id": 202,
+      "blh_lgt_id": -1,
+      "effect": "cmn_200_202",
+      "sound": ""
+    },
+    {
+      "$id": 13,
+      "ID": "EVENT_AREA_LIGHT_026",
+      "area": 0,
+      "env_id": 203,
+      "blh_lgt_id": -1,
+      "effect": "cmn_200_203",
+      "sound": ""
+    },
+    {
+      "$id": 14,
+      "ID": "EVENT_AREA_LIGHT_027",
+      "area": 0,
+      "env_id": 204,
+      "blh_lgt_id": -1,
+      "effect": "cmn_200_204",
+      "sound": ""
+    },
+    {
+      "$id": 15,
+      "ID": "EVENT_AREA_LIGHT_013",
+      "area": 0,
+      "env_id": 400,
+      "blh_lgt_id": -1,
+      "effect": "cmn_200_400",
+      "sound": ""
+    },
+    {
+      "$id": 16,
+      "ID": "EVENT_AREA_LIGHT_014",
+      "area": 0,
+      "env_id": 401,
+      "blh_lgt_id": -1,
+      "effect": "cmn_200_401",
+      "sound": ""
+    },
+    {
+      "$id": 17,
+      "ID": "EVENT_AREA_LIGHT_028",
+      "area": 0,
+      "env_id": 402,
+      "blh_lgt_id": -1,
+      "effect": "cmn_200_401",
+      "sound": ""
+    },
+    {
+      "$id": 18,
+      "ID": "EVENT_AREA_LIGHT_015",
+      "area": 0,
+      "env_id": 500,
+      "blh_lgt_id": -1,
+      "effect": "cmn_200_500",
+      "sound": ""
+    },
+    {
+      "$id": 19,
+      "ID": "EVENT_AREA_LIGHT_016",
+      "area": 0,
+      "env_id": 501,
+      "blh_lgt_id": -1,
+      "effect": "cmn_200_501",
+      "sound": ""
+    },
+    {
+      "$id": 20,
+      "ID": "EVENT_AREA_LIGHT_029",
+      "area": 0,
+      "env_id": 502,
+      "blh_lgt_id": -1,
+      "effect": "cmn_200_501",
+      "sound": ""
+    },
+    {
+      "$id": 21,
+      "ID": "EVENT_AREA_LIGHT_017",
+      "area": 0,
+      "env_id": 900,
+      "blh_lgt_id": -1,
+      "effect": "cmn_200_900",
+      "sound": ""
+    },
+    {
+      "$id": 22,
+      "ID": "EVENT_AREA_LIGHT_018",
+      "area": 2,
+      "env_id": -1,
+      "blh_lgt_id": -1,
+      "effect": "cmn_200_910",
+      "sound": ""
+    },
+    {
+      "$id": 23,
+      "ID": "EVENT_AREA_LIGHT_019",
+      "area": 3,
+      "env_id": -1,
+      "blh_lgt_id": -1,
+      "effect": "cmn_200_920",
+      "sound": "ma2001"
+    },
+    {
+      "$id": 24,
+      "ID": "EVENT_AREA_LIGHT_020",
+      "area": 4,
+      "env_id": -1,
+      "blh_lgt_id": -1,
+      "effect": "cmn_200_930",
+      "sound": "ma2101"
+    },
+    {
+      "$id": 25,
+      "ID": "EVENT_AREA_LIGHT_021",
+      "area": 5,
+      "env_id": -1,
+      "blh_lgt_id": -1,
+      "effect": "cmn_200_940",
+      "sound": "ma2201"
+    },
+    {
+      "$id": 26,
+      "ID": "EVENT_AREA_LIGHT_022",
+      "area": 6,
+      "env_id": -1,
+      "blh_lgt_id": -1,
+      "effect": "cmn_200_950",
+      "sound": "ma2301"
+    },
+    {
+      "$id": 27,
+      "ID": "EVENT_AREA_LIGHT_023",
+      "area": 1,
+      "env_id": -1,
+      "blh_lgt_id": 1,
+      "effect": "cmn_200_961",
+      "sound": ""
+    },
+    {
+      "$id": 28,
+      "ID": "EVENT_AREA_LIGHT_024",
+      "area": 1,
+      "env_id": -1,
+      "blh_lgt_id": 2,
+      "effect": "cmn_200_962",
+      "sound": ""
+    },
+    {
+      "$id": 29,
+      "ID": "EVENT_AREA_LIGHT_025",
+      "area": 1,
+      "env_id": -1,
+      "blh_lgt_id": 3,
+      "effect": "cmn_200_963",
+      "sound": ""
+    }
+  ]
+}

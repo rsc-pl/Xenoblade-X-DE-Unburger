@@ -1,0 +1,606 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev035101_MSG0001",
+      "style": 1,
+      "name": "Ohh! Even though you're an Earthling,\nyou look pretty strong... Could you\nendure his training with that?[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev035101_MSG0002",
+      "style": 1,
+      "name": "...Say, I'm looking for a strong one.\nAre you stronger than any beast?[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev035101_JNK0010",
+      "style": 4,
+      "name": "Strong"
+    },
+    {
+      "$id": 4,
+      "label": "qev035101_SEL0011",
+      "style": 3,
+      "name": "Answer confidently that you are strong."
+    },
+    {
+      "$id": 5,
+      "label": "qev035101_JNK0020",
+      "style": 4,
+      "name": "Weak"
+    },
+    {
+      "$id": 6,
+      "label": "qev035101_SEL0021",
+      "style": 3,
+      "name": "Shake your head unreliably."
+    },
+    {
+      "$id": 7,
+      "label": "qev035101_MSG0003",
+      "style": 1,
+      "name": "Just as I thought! I could\ntell at a glance that you're\na warrior with sharp fangs![ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev035101_MSG0004",
+      "style": 1,
+      "name": "I see... Then I have no business\nwith you. Only a true strong\none is fit for this job.[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev035101_MSG0005",
+      "style": 1,
+      "name": "His strength is not ordinary... A\ncoward who calls themselves weak might\nend up losing their life, after all.[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev035101_MSG0006",
+      "style": 1,
+      "name": "You should be fit to be Odsent's\nopponent! Say, would you do combat\ntraining against the Zuusu I tamed?[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev035101_JNK0030",
+      "style": 4,
+      "name": "Interest"
+    },
+    {
+      "$id": 12,
+      "label": "qev035101_SEL0031",
+      "style": 3,
+      "name": "Ask for more details about Odsent."
+    },
+    {
+      "$id": 13,
+      "label": "qev035101_JNK0040",
+      "style": 4,
+      "name": "Doubt"
+    },
+    {
+      "$id": 14,
+      "label": "qev035101_SEL0041",
+      "style": 3,
+      "name": "Ask what it means to tame a native creature."
+    },
+    {
+      "$id": 15,
+      "label": "qev035101_MSG0007",
+      "style": 1,
+      "name": "First, you must know your enemy... is\nit? As expected of a top-tier warrior![ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev035101_MSG0008",
+      "style": 1,
+      "name": "Ever since I came to Mira, I've been\ntrying to tame the ferocious Zuusu\nthat wandered into this area, da![ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev035101_MSG0009",
+      "style": 1,
+      "name": "Taming it was no simple task...\nbut recently, I finally succeeded\nin making it my servant.[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev035101_MSG0010",
+      "style": 1,
+      "name": "That strongest servant's name is\nOdsent! He's the ultimate beast\nwho will make my dream come true![ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev035101_MSG0011",
+      "style": 1,
+      "name": "I want you to conduct combat training in a\nreal-battle format in order to enhance the\ncombat abilities of my strongest servant, Odsent.[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev035101_MSG0012",
+      "style": 1,
+      "name": "...Hm? Have you never fought\nagainst a Bias who tamed beasts?[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev035101_MSG0013",
+      "style": 1,
+      "name": "Hehe, then you were lucky! The Tree Clan\nexcels at taming beasts as our own\nweapons and beating down our enemies.[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev035101_MSG0014",
+      "style": 1,
+      "name": "Beasts tamed by the Bias are strengthened\nthrough daily training, and their combat\nabilities are dramatically raised, you see.[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev035101_MSG0015",
+      "style": 1,
+      "name": "If you were to end up fighting one, even\na warrior like you wouldn't win easily.[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev035101_MSG0016",
+      "style": 1,
+      "name": "Hmm... So, you see. The one I\nwant you to fight this time,\nOdsent, is also my servant.[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev035101_MSG0017",
+      "style": 1,
+      "name": "I want you to train him in a\nreal-battle format and draw out the\nhidden combat abilities within him.[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev035101_MSG0018",
+      "style": 1,
+      "name": "In order to make my dream come true, I\nneed to make Odsent stronger and stronger!\nSay... Won't you do it for me?[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev035101_MSG0019",
+      "style": 1,
+      "name": "Oh! That's a huge help! Then, a place\nthat's easy to fight in... Right. I'll\nsend Odsent to the cape of Janpath Lake.[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev035101_MSG0020",
+      "style": 1,
+      "name": "I want you to show Odsent\nyour true power there.[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev035101_MSG0021",
+      "style": 1,
+      "name": "If possible, I want him to experience combat right\non the edge of life and death, so feel free to fight\nas you normally would without holding back.[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev035101_MSG0022",
+      "style": 1,
+      "name": "Also, I don't think it'll happen,\nbut if he ends up running away,\nlet me know immediately.[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev035101_MSG0023",
+      "style": 1,
+      "name": "...I'm counting on you, then.\nWith your power, make Odsent\ninto a fully-fledged servant![ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev035101_MSG0024",
+      "style": 1,
+      "name": "Now that it's decided, I'll immediately\nsend Odsent to the cape of Janpath\nLake in the Primordial Wilderness![ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev035101_MSG0025",
+      "style": 1,
+      "name": "...Hehe! He's no ordinary beast.\nIf you let your guard down,\nyou'll die, so be careful![ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev035101_MSG0026",
+      "style": 1,
+      "name": "Ohh! You came back alive! How was it?\nMy Odsent was strong, wasn't he?[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev035101_JNK0050",
+      "style": 4,
+      "name": "Affirmation"
+    },
+    {
+      "$id": 36,
+      "label": "qev035101_SEL0051",
+      "style": 3,
+      "name": "Honestly express that he was strong."
+    },
+    {
+      "$id": 37,
+      "label": "qev035101_JNK0060",
+      "style": 4,
+      "name": "Denial"
+    },
+    {
+      "$id": 38,
+      "label": "qev035101_SEL0061",
+      "style": 3,
+      "name": "Confidently say it wasn't a big deal."
+    },
+    {
+      "$id": 39,
+      "label": "qev035101_MSG0027",
+      "style": 1,
+      "name": "Isn't that right, isn't that right! Since\ncoming to Mira, he's the beast I carefully\nselected and made into my servant, after all![ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "qev035101_MSG0028",
+      "style": 1,
+      "name": "...Wait! What did you say!? But Odsent\nran away towards the mountains!?[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "qev035101_MSG0029",
+      "style": 1,
+      "name": "I suppose he still lacked the training\nto face a strong opponent like you...[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "qev035101_MSG0030",
+      "style": 1,
+      "name": "But someday, I'll train him more and he'll gain\nstrength that even surpasses yours! What kind\nof opponent should I prepare for him next...[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "qev035101_MSG0031",
+      "style": 1,
+      "name": "...Wait! What did you say!? Odsent\njust ran away towards the mountains!?[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "qev035101_MSG0032",
+      "style": 1,
+      "name": "...No way... Even though I ordered him to\nabsolutely not run away and fight... Does\nthis mean my training wasn't perfect...?[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "qev035101_MSG0033",
+      "style": 1,
+      "name": "Guh... This has turned\ninto a bad situation...[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "qev035101_MSG0034",
+      "style": 1,
+      "name": "...I'm sorry... I have\na favor to ask you.[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "qev035101_MSG0035",
+      "style": 1,
+      "name": "At this rate, the suggestion\nplaced on Odsent might break,\nand he might return to the wild.[ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "qev035101_MSG0036",
+      "style": 1,
+      "name": "If that happens, he might randomly\nattack BLADEs or aliens who went\nto the northern mountains...[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "qev035101_MSG0037",
+      "style": 1,
+      "name": "Please... Could you quickly fetch some\nWhite Iron Sand and a Noranlily for me?[ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "qev035101_MSG0038",
+      "style": 1,
+      "name": "I'll use those to make him my\nservant once again. This time, I\nabsolutely won't let him get away.[ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "qev035101_MSG0039",
+      "style": 1,
+      "name": "We Bias use incense to\nmake beasts obey us.[ST:wait ]"
+    },
+    {
+      "$id": 52,
+      "label": "qev035101_MSG0040",
+      "style": 1,
+      "name": "With White Iron Sand and a\nNoranlily, I can make a powerful\none. Please... get them quickly.[ST:wait ]"
+    },
+    {
+      "$id": 53,
+      "label": "qev035101_MSG0041",
+      "style": 1,
+      "name": "Guh... Hey, did you get the things I\nasked for? Every second counts...[ST:wait ]"
+    },
+    {
+      "$id": 54,
+      "label": "qev035101_MSG0042",
+      "style": 1,
+      "name": "Ohh! That's exactly it! With this, I\ncan make a powerful training incense![ST:wait ]"
+    },
+    {
+      "$id": 55,
+      "label": "qev035101_MSG0043",
+      "style": 1,
+      "name": "Alright... Then next, I\nhave to find Odsent.[ST:wait ]"
+    },
+    {
+      "$id": 56,
+      "label": "qev035101_MSG0074",
+      "style": 1,
+      "name": "If he's gone wild, he must definitely\nbe in some cave somewhere...[ST:wait ]"
+    },
+    {
+      "$id": 57,
+      "label": "qev035101_MSG0044",
+      "style": 1,
+      "name": "...Sorry to drag you into this, but could you\nalso search the caves near the northern mountains?\nI can't possibly check them all by myself.[ST:wait ]"
+    },
+    {
+      "$id": 58,
+      "label": "qev035101_MSG0045",
+      "style": 1,
+      "name": "It's for the dream I've held since\nI was young... Please! Help me!![ST:wait ]"
+    },
+    {
+      "$id": 59,
+      "label": "qev035101_JNK0070",
+      "style": 4,
+      "name": "Question"
+    },
+    {
+      "$id": 60,
+      "label": "qev035101_SEL0071",
+      "style": 3,
+      "name": "Ask what Zarch's dream is."
+    },
+    {
+      "$id": 61,
+      "label": "qev035101_JNK0080",
+      "style": 4,
+      "name": "Affirmation"
+    },
+    {
+      "$id": 62,
+      "label": "qev035101_SEL0081",
+      "style": 3,
+      "name": "Promise to help."
+    },
+    {
+      "$id": 63,
+      "label": "qev035101_MSG0046",
+      "style": 1,
+      "name": "I'll tell you once we catch Odsent. It's\nsomething that can't be realized without him.\nThere's no point in talking about it now.[ST:wait ]"
+    },
+    {
+      "$id": 64,
+      "label": "qev035101_MSG0047",
+      "style": 1,
+      "name": "The only thing I can say is that the\nname Odsent means \"to carve open the\nfuture\" in the old Bias language.[ST:wait ]"
+    },
+    {
+      "$id": 65,
+      "label": "qev035101_MSG0048",
+      "style": 1,
+      "name": "He's absolutely necessary for\nme to move forward! Please,\nfind him no matter what![ST:wait ]"
+    },
+    {
+      "$id": 66,
+      "label": "qev035101_MSG0049",
+      "style": 1,
+      "name": "Thank you... I'm truly glad I met you.[ST:wait ]"
+    },
+    {
+      "$id": 67,
+      "label": "qev035101_MSG0050",
+      "style": 1,
+      "name": "Odsent... The strongest servant bearing\na name meaning \"to carve open the\nfuture\" in the old Bias language...[ST:wait ]"
+    },
+    {
+      "$id": 68,
+      "label": "qev035101_MSG0051",
+      "style": 1,
+      "name": "Please, find him without fail! He's\nabsolutely necessary for me to\nrealize my dream and move forward![ST:wait ]"
+    },
+    {
+      "$id": 69,
+      "label": "qev035101_MSG0052",
+      "style": 1,
+      "name": "Dammit! What is the meaning of this!\nTo think my dream would be hindered\nby the chieftain I respect...![ST:wait ]"
+    },
+    {
+      "$id": 70,
+      "label": "qev035101_JNK0090",
+      "style": 4,
+      "name": "Question"
+    },
+    {
+      "$id": 71,
+      "label": "qev035101_SEL0091",
+      "style": 3,
+      "name": "Ask what happened to Zarch."
+    },
+    {
+      "$id": 72,
+      "label": "qev035101_JNK0100",
+      "style": 4,
+      "name": "Relief"
+    },
+    {
+      "$id": 73,
+      "label": "qev035101_SEL0101",
+      "style": 3,
+      "name": "Express joy that unnecessary revenge has not yet taken place."
+    },
+    {
+      "$id": 74,
+      "label": "qev035101_MSG0053",
+      "style": 1,
+      "name": "It's you... Will you\nlisten to me, my friend.[ST:wait ]"
+    },
+    {
+      "$id": 75,
+      "label": "qev035101_MSG0054",
+      "style": 1,
+      "name": "Truth is, our chieftain, Sevvy Bergazas, told us\nthat while we are in NLA, any unnecessary attacks\non the Cavern Clan are strictly forbidden...[ST:wait ]"
+    },
+    {
+      "$id": 76,
+      "label": "qev035101_MSG0055",
+      "style": 1,
+      "name": "Guh... Every last one of them\nis a pacifist! What happened to\nthe pride of the Tree Clan![ST:wait ]"
+    },
+    {
+      "$id": 77,
+      "label": "qev035101_MSG0056",
+      "style": 1,
+      "name": "Our chieftain, Sevvy Bergazas, seems to\nshare the same thoughts as you and has no\nintention of fighting the Cavern Clan.[ST:wait ]"
+    },
+    {
+      "$id": 78,
+      "label": "qev035101_MSG0057",
+      "style": 1,
+      "name": "...To think we must overlook the\nbastards who oppressed us, even\nwhile possessing such power...![ST:wait ]"
+    },
+    {
+      "$id": 79,
+      "label": "qev035101_MSG0058",
+      "style": 1,
+      "name": "At this rate, I feel so sorry for my\nmother who was killed by the Cavern\nClan when we became their prisoners...[ST:wait ]"
+    },
+    {
+      "$id": 80,
+      "label": "qev035101_MSG0059",
+      "style": 1,
+      "name": "…………[ST:wait ]"
+    },
+    {
+      "$id": 81,
+      "label": "qev035101_MSG0060",
+      "style": 1,
+      "name": "No... I'm sorry. First, I must\nthank you... We Bias always return\nboth grudges and debts in full.[ST:wait ]"
+    },
+    {
+      "$id": 82,
+      "label": "qev035101_MSG0061",
+      "style": 1,
+      "name": "Thanks to you, Odsent remains. But...\nthe chieftain's orders are absolute.[ST:wait ]"
+    },
+    {
+      "$id": 83,
+      "label": "qev035101_MSG0062",
+      "style": 1,
+      "name": "...If we ever leave this NLA someday,\nI'll massacre them all at that time...[ST:wait ]"
+    },
+    {
+      "$id": 84,
+      "label": "qev035101_MSG0063",
+      "style": 1,
+      "name": "I see... So you defeated Odsent...[ST:wait ]"
+    },
+    {
+      "$id": 85,
+      "label": "qev035101_MSG0064",
+      "style": 1,
+      "name": "Hmph... Do as you please. My dream has\nalready shattered! By your hands![ST:wait ]"
+    },
+    {
+      "$id": 86,
+      "label": "qev035101_MSG0065",
+      "style": 1,
+      "name": "There's no meaning in living like this anymore!\nIf you want to kill me, then kill me! Just like\nthose Cavern bastards killed my mother![ST:wait ]"
+    },
+    {
+      "$id": 87,
+      "label": "qev035101_JNK0110",
+      "style": 4,
+      "name": "Affirmation"
+    },
+    {
+      "$id": 88,
+      "label": "qev035101_SEL0111",
+      "style": 3,
+      "name": "Overflow with bloodlust."
+    },
+    {
+      "$id": 89,
+      "label": "qev035101_JNK0120",
+      "style": 4,
+      "name": "Denial"
+    },
+    {
+      "$id": 90,
+      "label": "qev035101_SEL0121",
+      "style": 3,
+      "name": "Explain that you aren't taking the side of the Cavern Clan."
+    },
+    {
+      "$id": 91,
+      "label": "qev035101_MSG0066",
+      "style": 1,
+      "name": "...Are you really going to do it?[ST:wait ]"
+    },
+    {
+      "$id": 92,
+      "label": "qev035101_MSG0067",
+      "style": 1,
+      "name": "…………[ST:wait ]"
+    },
+    {
+      "$id": 93,
+      "label": "qev035101_MSG0068",
+      "style": 1,
+      "name": "No... Actually, wait... I\nstill don't want to die yet.[ST:wait ]"
+    },
+    {
+      "$id": 94,
+      "label": "qev035101_MSG0069",
+      "style": 1,
+      "name": "I'll give you this, so... forgive me. No\nmatter how miserable it is, if I don't\nkeep living, my dream won't come true...[ST:wait ]"
+    },
+    {
+      "$id": 95,
+      "label": "qev035101_MSG0070",
+      "style": 1,
+      "name": "Hmph... Such pretty words\nwon't reach my ears...[ST:wait ]"
+    },
+    {
+      "$id": 96,
+      "label": "qev035101_MSG0071",
+      "style": 1,
+      "name": "...However, I will thank\nyou for finding Odsent.[ST:wait ]"
+    },
+    {
+      "$id": 97,
+      "label": "qev035101_MSG0072",
+      "style": 1,
+      "name": "We return grudges in full, but we also\nreturn debts properly. Take this...[ST:wait ]"
+    },
+    {
+      "$id": 98,
+      "label": "qev035101_MSG0073",
+      "style": 1,
+      "name": "Disappear to somewhere else.\nAnd at the very least... don't\nget in my way anymore.[ST:wait ]"
+    }
+  ]
+}

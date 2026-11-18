@@ -1,0 +1,98 @@
+{
+  "schema": [
+    {
+      "name": "ID",
+      "type": 9
+    },
+    {
+      "name": "name",
+      "type": 7
+    },
+    {
+      "name": "mdl",
+      "type": 7
+    },
+    {
+      "name": "mot",
+      "type": 7
+    },
+    {
+      "name": "mca",
+      "type": 7
+    },
+    {
+      "name": "startActionName",
+      "type": 7
+    },
+    {
+      "name": "acb",
+      "type": 7
+    },
+    {
+      "name": "clipEvt",
+      "type": 7
+    },
+    {
+      "name": "is_play_ve_se",
+      "type": 1
+    },
+    {
+      "name": "se_env_id",
+      "type": 2
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "ID": "VEHICLE_001",
+      "name": "JEEP_BAT_IDLE",
+      "mdl": "oj/oj400501",
+      "mot": "oj400501",
+      "mca": "oj4005",
+      "startActionName": "AC_Idle",
+      "acb": "oj/oj400101",
+      "clipEvt": "oj400501",
+      "is_play_ve_se": 0,
+      "se_env_id": 15
+    },
+    {
+      "$id": 2,
+      "ID": "VEHICLE_002",
+      "name": "JEEP_NOMAL_IDLE",
+      "mdl": "oj/oj400503",
+      "mot": "oj400501",
+      "mca": "oj4005",
+      "startActionName": "AC_Idle",
+      "acb": "oj/oj400101",
+      "clipEvt": "oj400501",
+      "is_play_ve_se": 0,
+      "se_env_id": 15
+    },
+    {
+      "$id": 3,
+      "ID": "VEHICLE_003",
+      "name": "ARMOR_IDLE",
+      "mdl": "oj/oj400601",
+      "mot": "oj400501",
+      "mca": "oj4005",
+      "startActionName": "AC_Idle",
+      "acb": "oj/oj400101",
+      "clipEvt": "oj400501",
+      "is_play_ve_se": 0,
+      "se_env_id": 15
+    },
+    {
+      "$id": 4,
+      "ID": "VEHICLE_004",
+      "name": "TRAILER_IDLE",
+      "mdl": "oj/oj400702",
+      "mot": "oj400701",
+      "mca": "oj4007",
+      "startActionName": "AC_Idle",
+      "acb": "oj/oj400101",
+      "clipEvt": "oj400702",
+      "is_play_ve_se": 0,
+      "se_env_id": 15
+    }
+  ]
+}

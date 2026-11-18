@@ -1,0 +1,516 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev085401_MSG0001",
+      "style": 0,
+      "name": "Hey, if it isn't Mythos.[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev085401_MSG0002",
+      "style": 0,
+      "name": "Ah, Gwin-senpai! And the\nmembers of Elma's team too![ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev085401_MSG0003",
+      "style": 0,
+      "name": "Nice to meet you. I'm Lin\nLee Kuu of Elma's team![ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev085401_MSG0004",
+      "style": 0,
+      "name": "Tatsu is Tatsu mo![ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev085401_MSG0005",
+      "style": 0,
+      "name": "I'm Mythos, affiliated with Companion.[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev085401_MSG0006",
+      "style": 0,
+      "name": "Gwin-senpai. Why are you with Elma's team?[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev085401_MSG0007",
+      "style": 0,
+      "name": "Ah. I'm helping them with\na mission right now.[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev085401_MSG0008",
+      "style": 0,
+      "name": "Being a member of Iriina's team is already\namazing, but you're even supporting Elma's team![ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev085401_MSG0009",
+      "style": 0,
+      "name": "Yes. Both Iriina and I rely on him.[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev085401_MSG0010",
+      "style": 0,
+      "name": "E-eh?![ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev085401_MSG0011",
+      "style": 0,
+      "name": "That's so nice. If I could become\nan elite BLADE member like that...[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev085401_MSG0012",
+      "style": 0,
+      "name": "I probably wouldn't have to worry\nabout trivial failures, right?[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev085401_MSG0013",
+      "style": 0,
+      "name": "Hey, what's wrong? This isn't like you.[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev085401_MSG0014",
+      "style": 0,
+      "name": "Your energy was your only\nredeeming feature, wasn't it?[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev085401_MSG0015",
+      "style": 0,
+      "name": "Gwin-san. Saying it's his \"only\"\nredeeming feature is terrible![ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev085401_MSG0016",
+      "style": 0,
+      "name": "Did something happen? If we'll\ndo, we can help you out.[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev085401_MSG0017",
+      "style": 0,
+      "name": "No way! I couldn't possibly\nask elites like you all—[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev085401_MSG0018",
+      "style": 0,
+      "name": "I'll solve it myself, so it's fine.[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev085401_MSG0019",
+      "style": 0,
+      "name": "Mythos-san is pushing himself too hard mo.[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev085401_MSG0020",
+      "style": 0,
+      "name": "Eh, why?[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev085401_MSG0021",
+      "style": 0,
+      "name": "Tatsu can tell mo.[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev085401_MSG0022",
+      "style": 0,
+      "name": "Those eyes are the eyes of someone worrying\nabout what to have for breakfast tomorrow mo![ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev085401_MSG0023",
+      "style": 0,
+      "name": "Well, it's not exactly that light of a worry—[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev085401_JNK0010",
+      "style": 4,
+      "name": "Leave"
+    },
+    {
+      "$id": 25,
+      "label": "qev085401_SEL0011",
+      "style": 3,
+      "name": "Leave without forcing him."
+    },
+    {
+      "$id": 26,
+      "label": "qev085401_JNK0020",
+      "style": 4,
+      "name": "Forceful"
+    },
+    {
+      "$id": 27,
+      "label": "qev085401_SEL0021",
+      "style": 3,
+      "name": "Press him to just talk about it."
+    },
+    {
+      "$id": 28,
+      "label": "qev085401_MSG0024",
+      "style": 0,
+      "name": "Wait, are we just going to leave him be?[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev085401_MSG0025",
+      "style": 0,
+      "name": "If he himself doesn't want to\ntalk, there's nothing we can do.[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev085401_MSG0026",
+      "style": 0,
+      "name": "But—[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev085401_MSG0026_2",
+      "style": 0,
+      "name": "Mythos-san, are you really okay with that?[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev085401_MSG0027",
+      "style": 0,
+      "name": ""
+    },
+    {
+      "$id": 33,
+      "label": "qev085401_MSG0028",
+      "style": 0,
+      "name": "That's right.[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev085401_MSG0029",
+      "style": 0,
+      "name": "Then please just talk to yourself.\nWe'll pretend we're not listening![ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev085401_MSG0030",
+      "style": 0,
+      "name": "Well— that's a bit—[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev085401_MSG0031",
+      "style": 0,
+      "name": "Mythos, elites or whatever, that\nhas nothing to do with it.[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev085401_MSG0032",
+      "style": 0,
+      "name": "We're fellow BLADE comrades. Just tell us.[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev085401_MSG0033",
+      "style": 0,
+      "name": "Senpai—[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "qev085401_MSG0034",
+      "style": 0,
+      "name": "Everyone—[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "qev085401_MSG0035",
+      "style": 0,
+      "name": "Understood. Please lend me your strength.\nCould you take a look at this?[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "qev085401_MSG0036",
+      "style": 0,
+      "name": "Wow, how cute! I love cats ♪[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "qev085401_MSG0037",
+      "style": 0,
+      "name": "Is it called a cat mo? Is it\nLin-san's favorite food mo?[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "qev085401_MSG0038",
+      "style": 0,
+      "name": "I would never eat a cat![ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "qev085401_MSG0039",
+      "style": 0,
+      "name": "What I wanted to ask is—[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "qev085401_MSG0040",
+      "style": 0,
+      "name": "Her name is Aisha, and I want\nyou to help me search for her![ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "qev085401_MSG0041",
+      "style": 0,
+      "name": "Eh, Aisha-chan has gone missing?[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "qev085401_MSG0042",
+      "style": 0,
+      "name": "I'm truly sorry to bother you\nwith such a trivial matter, but—[ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "qev085401_MSG0043",
+      "style": 0,
+      "name": "She hasn't come back since\nthe day before yesterday.[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "qev085401_MSG0044",
+      "style": 0,
+      "name": "I understand you're worried, but does this\ncat have anything to do with your mission?[ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "qev085401_MSG0045",
+      "style": 0,
+      "name": "It's part of your Companion duties, isn't it? This cat\nis a test subject for environmental research, right?[ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "qev085401_MSG0046",
+      "style": 0,
+      "name": "Yes.[ST:wait ]"
+    },
+    {
+      "$id": 52,
+      "label": "qev085401_MSG0047",
+      "style": 0,
+      "name": "I'm investigating whether Earth-native\norganisms can adapt to this planet, Mira.[ST:wait ]"
+    },
+    {
+      "$id": 53,
+      "label": "qev085401_MSG0048",
+      "style": 0,
+      "name": "What, that's a splendid mission, isn't it.[ST:wait ]"
+    },
+    {
+      "$id": 54,
+      "label": "qev085401_MSG0049",
+      "style": 0,
+      "name": "But compared to everyone who searches for\nLife Points or fights against aliens—[ST:wait ]"
+    },
+    {
+      "$id": 55,
+      "label": "qev085401_JNK0030",
+      "style": 4,
+      "name": "Scold"
+    },
+    {
+      "$id": 56,
+      "label": "qev085401_SEL0031",
+      "style": 3,
+      "name": "Yell at him to have some pride."
+    },
+    {
+      "$id": 57,
+      "label": "qev085401_JNK0040",
+      "style": 4,
+      "name": "Advise"
+    },
+    {
+      "$id": 58,
+      "label": "qev085401_SEL0041",
+      "style": 3,
+      "name": "Speak about the roles each person has."
+    },
+    {
+      "$id": 59,
+      "label": "qev085401_MSG0050",
+      "style": 0,
+      "name": "That's right. Our missions are\ncertainly dangerous, but...[ST:wait ]"
+    },
+    {
+      "$id": 60,
+      "label": "qev085401_MSG0051",
+      "style": 0,
+      "name": "Just because it's dangerous doesn't\nmean it's greater or more important.[ST:wait ]"
+    },
+    {
+      "$id": 61,
+      "label": "qev085401_MSG0052",
+      "style": 0,
+      "name": "Gwin is right. Everything is an activity\nfor Earth's humanity to take root on Mira.[ST:wait ]"
+    },
+    {
+      "$id": 62,
+      "label": "qev085401_MSG0053",
+      "style": 0,
+      "name": "There is no need to feel inferior\nabout your own mission.[ST:wait ]"
+    },
+    {
+      "$id": 63,
+      "label": "qev085401_MSG0054",
+      "style": 0,
+      "name": "Exactly. It's the right\nperson for the right job![ST:wait ]"
+    },
+    {
+      "$id": 64,
+      "label": "qev085401_MSG0055",
+      "style": 0,
+      "name": "Lin is right. You possess excellent\ninvestigative abilities that we lack.[ST:wait ]"
+    },
+    {
+      "$id": 65,
+      "label": "qev085401_MSG0056",
+      "style": 0,
+      "name": "It's fine for everyone to utilize their own\nqualities in their respective missions.[ST:wait ]"
+    },
+    {
+      "$id": 66,
+      "label": "qev085401_MSG0057",
+      "style": 0,
+      "name": "Ah, thank you so much![ST:wait ]"
+    },
+    {
+      "$id": 67,
+      "label": "qev085401_MSG0058",
+      "style": 0,
+      "name": "Well then, let's start searching\nfor Aisha-chan right away.[ST:wait ]"
+    },
+    {
+      "$id": 68,
+      "label": "qev085401_MSG0059",
+      "style": 0,
+      "name": "Yes, but searching through all of NLA with just\na name seems like it will be backbreaking work.[ST:wait ]"
+    },
+    {
+      "$id": 69,
+      "label": "qev085401_MSG0060",
+      "style": 0,
+      "name": "Are there any places this cat frequents?[ST:wait ]"
+    },
+    {
+      "$id": 70,
+      "label": "qev085401_MSG0061",
+      "style": 0,
+      "name": "Let me see.[ST:wait ]"
+    },
+    {
+      "$id": 71,
+      "label": "qev085401_MSG0062",
+      "style": 0,
+      "name": "I've already searched the parks and such that\nshe would likely go to, so what's left is—[ST:wait ]"
+    },
+    {
+      "$id": 72,
+      "label": "qev085401_MSG0063",
+      "style": 0,
+      "name": "Right.[ST:wait ]"
+    },
+    {
+      "$id": 73,
+      "label": "qev085401_MSG0064",
+      "style": 0,
+      "name": "Do you have anything with her scent on it?\nLet's have Tatsu sniff it and search for her.[ST:wait ]"
+    },
+    {
+      "$id": 74,
+      "label": "qev085401_MSG0065",
+      "style": 0,
+      "name": "Lin-san! Tatsu is not a police dog mo![ST:wait ]"
+    },
+    {
+      "$id": 75,
+      "label": "qev085401_MSG0066",
+      "style": 0,
+      "name": "So you know what a dog is—[ST:wait ]"
+    },
+    {
+      "$id": 76,
+      "label": "qev085401_MSG0067",
+      "style": 0,
+      "name": "I don't know if this is a clue, but—[ST:wait ]"
+    },
+    {
+      "$id": 77,
+      "label": "qev085401_MSG0068",
+      "style": 0,
+      "name": "Sometimes she comes home with something\nlike lubricating oil on her body.[ST:wait ]"
+    },
+    {
+      "$id": 78,
+      "label": "qev085401_MSG0069",
+      "style": 0,
+      "name": "Washing it off is a real pain.[ST:wait ]"
+    },
+    {
+      "$id": 79,
+      "label": "qev085401_MSG0070",
+      "style": 0,
+      "name": "Lubricating oil, huh—[ST:wait ]"
+    },
+    {
+      "$id": 80,
+      "label": "qev085401_MSG0071",
+      "style": 0,
+      "name": "Places likely to use lubricating oil are the Industrial\nArea or the lower levels of the BLADE Area.[ST:wait ]"
+    },
+    {
+      "$id": 81,
+      "label": "qev085401_MSG0072",
+      "style": 0,
+      "name": "Let's search the lower\nlevels of the BLADE Area.[ST:wait ]"
+    },
+    {
+      "$id": 82,
+      "label": "qev085401_MSG0073",
+      "style": 0,
+      "name": "I'll leave the Industrial Area to you, Mythos-san. If we\nget any information, we'll head to the Industrial Area.[ST:wait ]"
+    },
+    {
+      "$id": 83,
+      "label": "qev085401_MSG0074",
+      "style": 0,
+      "name": "Yes, understood. I'm sorry for the trouble,\neveryone, but please take care of it.[ST:wait ]"
+    }
+  ]
+}

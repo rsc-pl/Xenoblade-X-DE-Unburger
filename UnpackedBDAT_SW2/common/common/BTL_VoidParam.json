@@ -1,0 +1,74 @@
+{
+  "schema": [
+    {
+      "name": "ID",
+      "type": 9
+    },
+    {
+      "name": "pos_X",
+      "type": 5
+    },
+    {
+      "name": "pos_Y",
+      "type": 5
+    },
+    {
+      "name": "pos_Z",
+      "type": 5
+    },
+    {
+      "name": "tgt_X",
+      "type": 5
+    },
+    {
+      "name": "tgt_Y",
+      "type": 5
+    },
+    {
+      "name": "tgt_Z",
+      "type": 5
+    },
+    {
+      "name": "rot_X",
+      "type": 5
+    },
+    {
+      "name": "rot_Y",
+      "type": 5
+    },
+    {
+      "name": "rot_Z",
+      "type": 5
+    },
+    {
+      "name": "Range",
+      "type": 2
+    },
+    {
+      "name": "UIOffsetY",
+      "type": 5
+    },
+    {
+      "name": "HitOffsetY",
+      "type": 5
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "ID": "BTL_VoidParam_01",
+      "pos_X": 0,
+      "pos_Y": 890,
+      "pos_Z": -180,
+      "tgt_X": 0,
+      "tgt_Y": 940,
+      "tgt_Z": -240,
+      "rot_X": 40,
+      "rot_Y": 0,
+      "rot_Z": 0,
+      "Range": 145,
+      "UIOffsetY": 33,
+      "HitOffsetY": 33
+    }
+  ]
+}

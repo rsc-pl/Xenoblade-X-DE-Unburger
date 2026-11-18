@@ -1,0 +1,57 @@
+{
+  "schema": [
+    {
+      "name": "ID",
+      "type": 9
+    },
+    {
+      "name": "XShakeMin",
+      "type": 5
+    },
+    {
+      "name": "XShakeMax",
+      "type": 5
+    },
+    {
+      "name": "YShakeMin",
+      "type": 5
+    },
+    {
+      "name": "YShakeMax",
+      "type": 5
+    },
+    {
+      "name": "ShakeFrame",
+      "type": 2
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "ID": "CAM_SHAKE_001",
+      "XShakeMin": -20,
+      "XShakeMax": 20,
+      "YShakeMin": 0,
+      "YShakeMax": 20,
+      "ShakeFrame": 30
+    },
+    {
+      "$id": 2,
+      "ID": "CAM_LANDING_M",
+      "XShakeMin": 0,
+      "XShakeMax": 0,
+      "YShakeMin": 0,
+      "YShakeMax": 25,
+      "ShakeFrame": 5
+    },
+    {
+      "$id": 3,
+      "ID": "CAM_LANDING_L",
+      "XShakeMin": 0,
+      "XShakeMax": 0,
+      "YShakeMin": -4,
+      "YShakeMax": 4,
+      "ShakeFrame": 10
+    }
+  ]
+}

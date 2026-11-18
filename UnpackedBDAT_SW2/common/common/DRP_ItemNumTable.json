@@ -1,0 +1,43 @@
+{
+  "schema": [
+    {
+      "name": "ID",
+      "type": 9
+    },
+    {
+      "name": "Lot_3",
+      "type": 1
+    },
+    {
+      "name": "Lot_2",
+      "type": 1
+    },
+    {
+      "name": "Lot_1",
+      "type": 1
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "ID": "DRP_ITM_N_TBL_GOLD",
+      "Lot_3": 1,
+      "Lot_2": 5,
+      "Lot_1": 100
+    },
+    {
+      "$id": 2,
+      "ID": "DRP_ITM_N_TBL_SILVER",
+      "Lot_3": 5,
+      "Lot_2": 10,
+      "Lot_1": 100
+    },
+    {
+      "$id": 3,
+      "ID": "DRP_ITM_N_TBL_BRONZE",
+      "Lot_3": 0,
+      "Lot_2": 20,
+      "Lot_1": 100
+    }
+  ]
+}

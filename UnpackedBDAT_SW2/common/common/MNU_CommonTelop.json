@@ -1,0 +1,5490 @@
+{
+  "schema": [
+    {
+      "name": "ID",
+      "type": 9
+    },
+    {
+      "name": "Text",
+      "type": 2
+    },
+    {
+      "name": "DispPos",
+      "type": 1
+    },
+    {
+      "name": "DispWide",
+      "type": 2
+    },
+    {
+      "name": "DispTime",
+      "type": 2
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "ID": "err_ranking_list",
+      "Text": 3,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 60
+    },
+    {
+      "$id": 2,
+      "ID": "err_ranking_my",
+      "Text": 4,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 70
+    },
+    {
+      "$id": 3,
+      "ID": "err_ChrSel_RentalChara",
+      "Text": 5,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 60
+    },
+    {
+      "$id": 4,
+      "ID": "err_ChrSel_RentalDoll",
+      "Text": 6,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 60
+    },
+    {
+      "$id": 5,
+      "ID": "err_MoneyShortage",
+      "Text": 7,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 60
+    },
+    {
+      "$id": 6,
+      "ID": "err_ItemBoxFull",
+      "Text": 8,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 60
+    },
+    {
+      "$id": 7,
+      "ID": "err_DollGarageFull",
+      "Text": 9,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 60
+    },
+    {
+      "$id": 8,
+      "ID": "err_MatShortage",
+      "Text": 10,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 60
+    },
+    {
+      "$id": 9,
+      "ID": "err_SlotLimit",
+      "Text": 11,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 60
+    },
+    {
+      "$id": 10,
+      "ID": "err_AfixLimit",
+      "Text": 12,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 60
+    },
+    {
+      "$id": 11,
+      "ID": "err_EquNot_LvShortage",
+      "Text": 13,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 60
+    },
+    {
+      "$id": 12,
+      "ID": "err_NoLicense",
+      "Text": 14,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 60
+    },
+    {
+      "$id": 13,
+      "ID": "err_InQuest",
+      "Text": 15,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 50
+    },
+    {
+      "$id": 14,
+      "ID": "enemy_we_teresia_001",
+      "Text": 20,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 150
+    },
+    {
+      "$id": 15,
+      "ID": "enemy_we_teresia_002",
+      "Text": 17,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 150
+    },
+    {
+      "$id": 16,
+      "ID": "enemy_we_teresia_003",
+      "Text": 18,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 150
+    },
+    {
+      "$id": 17,
+      "ID": "enemy_we_teresia_004",
+      "Text": 19,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 150
+    },
+    {
+      "$id": 18,
+      "ID": "enemy_we_teresia_005",
+      "Text": 20,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 150
+    },
+    {
+      "$id": 19,
+      "ID": "enemy_we_teresia_006",
+      "Text": 21,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 150
+    },
+    {
+      "$id": 20,
+      "ID": "enemy_we_teresia_007",
+      "Text": 22,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 150
+    },
+    {
+      "$id": 21,
+      "ID": "enemy_we_teresia_008",
+      "Text": 23,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 150
+    },
+    {
+      "$id": 22,
+      "ID": "enemy_we_teresia_009",
+      "Text": 24,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 150
+    },
+    {
+      "$id": 23,
+      "ID": "enemy_we_anti_001",
+      "Text": 25,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 150
+    },
+    {
+      "$id": 24,
+      "ID": "enemy_we_anti_002",
+      "Text": 26,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 150
+    },
+    {
+      "$id": 25,
+      "ID": "enemy_we_anti_003",
+      "Text": 0,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 150
+    },
+    {
+      "$id": 26,
+      "ID": "enemy_we_anti_004",
+      "Text": 28,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 150
+    },
+    {
+      "$id": 27,
+      "ID": "EN_SITUATION_MES_M04_001",
+      "Text": 29,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 150
+    },
+    {
+      "$id": 28,
+      "ID": "EN_SITUATION_MES_M06_001",
+      "Text": 30,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 150
+    },
+    {
+      "$id": 29,
+      "ID": "EN_SITUATION_MES_M09_001",
+      "Text": 31,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 150
+    },
+    {
+      "$id": 30,
+      "ID": "EN_SITUATION_MES_M12_001",
+      "Text": 32,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 150
+    },
+    {
+      "$id": 31,
+      "ID": "EN_SITUATION_MES_M12_002",
+      "Text": 33,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 150
+    },
+    {
+      "$id": 32,
+      "ID": "EN_SITUATION_MES_M12_011",
+      "Text": 34,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 150
+    },
+    {
+      "$id": 33,
+      "ID": "err_ready_blterminal",
+      "Text": 35,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 60
+    },
+    {
+      "$id": 34,
+      "ID": "err_ready_sqdterminal",
+      "Text": 36,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 60
+    },
+    {
+      "$id": 35,
+      "ID": "err_MultiBHCustom",
+      "Text": 37,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 60
+    },
+    {
+      "$id": 36,
+      "ID": "err_notready_nladoor",
+      "Text": 38,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 60
+    },
+    {
+      "$id": 37,
+      "ID": "err_ready_nladoor",
+      "Text": 39,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 60
+    },
+    {
+      "$id": 38,
+      "ID": "err_LvUpMax",
+      "Text": 40,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 60
+    },
+    {
+      "$id": 39,
+      "ID": "err_NotLearning",
+      "Text": 41,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 60
+    },
+    {
+      "$id": 40,
+      "ID": "err_BPShortage",
+      "Text": 42,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 60
+    },
+    {
+      "$id": 41,
+      "ID": "err_SLV_TicketShortage",
+      "Text": 43,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 60
+    },
+    {
+      "$id": 42,
+      "ID": "err_DollTransfer",
+      "Text": 44,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 60
+    },
+    {
+      "$id": 43,
+      "ID": "err_DollGarage_QSave",
+      "Text": 45,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 70
+    },
+    {
+      "$id": 44,
+      "ID": "err_DollGarage_QLoad",
+      "Text": 46,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 60
+    },
+    {
+      "$id": 45,
+      "ID": "err_DollGarage_Undo",
+      "Text": 47,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 60
+    },
+    {
+      "$id": 46,
+      "ID": "err_DollGarage_NotSale",
+      "Text": 48,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 70
+    },
+    {
+      "$id": 47,
+      "ID": "err_MainMenu_MenuAccess",
+      "Text": 49,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 60
+    },
+    {
+      "$id": 48,
+      "ID": "EN_SITUATION_MES_EC01_001",
+      "Text": 50,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 150
+    },
+    {
+      "$id": 49,
+      "ID": "EN_SITUATION_MES_EC01_002",
+      "Text": 51,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 150
+    },
+    {
+      "$id": 50,
+      "ID": "EN_SITUATION_MES_EC01_003",
+      "Text": 52,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 150
+    },
+    {
+      "$id": 51,
+      "ID": "EN_SITUATION_MES_EC01_004",
+      "Text": 53,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 150
+    },
+    {
+      "$id": 52,
+      "ID": "Err_Shop_Accese",
+      "Text": 55,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 60
+    },
+    {
+      "$id": 53,
+      "ID": "Telop_Save_Successful",
+      "Text": 56,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 50
+    },
+    {
+      "$id": 54,
+      "ID": "Telop_Save_Failed",
+      "Text": 57,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 60
+    },
+    {
+      "$id": 55,
+      "ID": "err_EquNot_TypeMismatch",
+      "Text": 58,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 60
+    },
+    {
+      "$id": 56,
+      "ID": "SQ_telop_020_001",
+      "Text": 59,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 150
+    },
+    {
+      "$id": 57,
+      "ID": "SQ_telop_001_002",
+      "Text": 60,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 150
+    },
+    {
+      "$id": 58,
+      "ID": "SQ_telop_001_003",
+      "Text": 61,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 150
+    },
+    {
+      "$id": 59,
+      "ID": "SQ_telop_002_001",
+      "Text": 62,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 150
+    },
+    {
+      "$id": 60,
+      "ID": "SQ_telop_003_001",
+      "Text": 63,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 150
+    },
+    {
+      "$id": 61,
+      "ID": "SQ_telop_003_002",
+      "Text": 64,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 150
+    },
+    {
+      "$id": 62,
+      "ID": "SQ_telop_004_001",
+      "Text": 65,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 150
+    },
+    {
+      "$id": 63,
+      "ID": "SQ_telop_007_001",
+      "Text": 66,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 150
+    },
+    {
+      "$id": 64,
+      "ID": "SQ_telop_007_002",
+      "Text": 67,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 150
+    },
+    {
+      "$id": 65,
+      "ID": "SQ_telop_010_001",
+      "Text": 68,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 150
+    },
+    {
+      "$id": 66,
+      "ID": "SQ_telop_014_001",
+      "Text": 69,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 150
+    },
+    {
+      "$id": 67,
+      "ID": "SQ_telop_014_002",
+      "Text": 70,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 150
+    },
+    {
+      "$id": 68,
+      "ID": "SQ_telop_014_003",
+      "Text": 71,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 150
+    },
+    {
+      "$id": 69,
+      "ID": "SQ_telop_015_001",
+      "Text": 72,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 150
+    },
+    {
+      "$id": 70,
+      "ID": "SQ_telop_015_002",
+      "Text": 73,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 150
+    },
+    {
+      "$id": 71,
+      "ID": "SQ_telop_015_003",
+      "Text": 74,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 150
+    },
+    {
+      "$id": 72,
+      "ID": "SQ_telop_018_001",
+      "Text": 75,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 150
+    },
+    {
+      "$id": 73,
+      "ID": "SQ_telop_019_001",
+      "Text": 76,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 150
+    },
+    {
+      "$id": 74,
+      "ID": "SQ_telop_019_002",
+      "Text": 77,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 150
+    },
+    {
+      "$id": 75,
+      "ID": "SQ_telop_021_001",
+      "Text": 78,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 150
+    },
+    {
+      "$id": 76,
+      "ID": "SQ_telop_021_002",
+      "Text": 79,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 150
+    },
+    {
+      "$id": 77,
+      "ID": "SQ_telop_022_001",
+      "Text": 80,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 150
+    },
+    {
+      "$id": 78,
+      "ID": "SQ_telop_022_002",
+      "Text": 81,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 150
+    },
+    {
+      "$id": 79,
+      "ID": "SQ_telop_023_002",
+      "Text": 82,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 150
+    },
+    {
+      "$id": 80,
+      "ID": "SQ_telop_025_001",
+      "Text": 83,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 150
+    },
+    {
+      "$id": 81,
+      "ID": "SQ_telop_025_002",
+      "Text": 84,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 150
+    },
+    {
+      "$id": 82,
+      "ID": "SQ_telop_026_001",
+      "Text": 85,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 150
+    },
+    {
+      "$id": 83,
+      "ID": "SQ_telop_026_002",
+      "Text": 86,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 150
+    },
+    {
+      "$id": 84,
+      "ID": "SQ_telop_027_001",
+      "Text": 87,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 150
+    },
+    {
+      "$id": 85,
+      "ID": "SQ_telop_029_001",
+      "Text": 88,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 150
+    },
+    {
+      "$id": 86,
+      "ID": "SQ_telop_029_002",
+      "Text": 89,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 150
+    },
+    {
+      "$id": 87,
+      "ID": "SQ_telop_029_003",
+      "Text": 90,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 150
+    },
+    {
+      "$id": 88,
+      "ID": "SQ_telop_029_004",
+      "Text": 91,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 150
+    },
+    {
+      "$id": 89,
+      "ID": "SQ_telop_029_005",
+      "Text": 92,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 150
+    },
+    {
+      "$id": 90,
+      "ID": "SQ_telop_029_006",
+      "Text": 93,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 150
+    },
+    {
+      "$id": 91,
+      "ID": "SQ_telop_029_007",
+      "Text": 94,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 150
+    },
+    {
+      "$id": 92,
+      "ID": "SQ_telop_029_008",
+      "Text": 95,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 150
+    },
+    {
+      "$id": 93,
+      "ID": "SQ_telop_029_009",
+      "Text": 96,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 150
+    },
+    {
+      "$id": 94,
+      "ID": "SQ_telop_029_010",
+      "Text": 97,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 150
+    },
+    {
+      "$id": 95,
+      "ID": "SQ_telop_029_011",
+      "Text": 98,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 150
+    },
+    {
+      "$id": 96,
+      "ID": "SQ_telop_029_012",
+      "Text": 99,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 150
+    },
+    {
+      "$id": 97,
+      "ID": "SQ_telop_029_013",
+      "Text": 100,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 150
+    },
+    {
+      "$id": 98,
+      "ID": "SQ_telop_006_001",
+      "Text": 0,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 150
+    },
+    {
+      "$id": 99,
+      "ID": "SQ_telop_029_015",
+      "Text": 102,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 150
+    },
+    {
+      "$id": 100,
+      "ID": "SQ_telop_029_016",
+      "Text": 103,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 150
+    },
+    {
+      "$id": 101,
+      "ID": "SQ_telop_029_017",
+      "Text": 104,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 150
+    },
+    {
+      "$id": 102,
+      "ID": "SQ_telop_029_018",
+      "Text": 105,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 150
+    },
+    {
+      "$id": 103,
+      "ID": "SQ_telop_029_019",
+      "Text": 106,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 150
+    },
+    {
+      "$id": 104,
+      "ID": "SQ_telop_029_020",
+      "Text": 107,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 150
+    },
+    {
+      "$id": 105,
+      "ID": "SQ_telop_029_021",
+      "Text": 108,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 150
+    },
+    {
+      "$id": 106,
+      "ID": "SQ_telop_029_022",
+      "Text": 109,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 150
+    },
+    {
+      "$id": 107,
+      "ID": "Telop_DollClr_Back",
+      "Text": 110,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 50
+    },
+    {
+      "$id": 108,
+      "ID": "EN_SITUATION_MES_EC03_001",
+      "Text": 201,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 150
+    },
+    {
+      "$id": 109,
+      "ID": "MultiTelop_partyleave",
+      "Text": 202,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 50
+    },
+    {
+      "$id": 110,
+      "ID": "MultiTelop_HostMove",
+      "Text": 203,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 111,
+      "ID": "MultiTelop_Lefted",
+      "Text": 204,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 135
+    },
+    {
+      "$id": 112,
+      "ID": "MultiTelop_QuestSuccess",
+      "Text": 205,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 105
+    },
+    {
+      "$id": 113,
+      "ID": "MultiTelop_TimeUp",
+      "Text": 206,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 135
+    },
+    {
+      "$id": 114,
+      "ID": "MultiTelop_Failure",
+      "Text": 207,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 105
+    },
+    {
+      "$id": 115,
+      "ID": "MultiTelop_MainMenu",
+      "Text": 603,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 60
+    },
+    {
+      "$id": 116,
+      "ID": "MultiTelop_BladeQuestTimeOver",
+      "Text": 209,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 117,
+      "ID": "MultiTelop_Respawn5",
+      "Text": 210,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 118,
+      "ID": "MultiTelop_Respawn4",
+      "Text": 211,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 119,
+      "ID": "MultiTelop_Respawn3",
+      "Text": 212,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 120,
+      "ID": "MultiTelop_Respawn2",
+      "Text": 213,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 121,
+      "ID": "MultiTelop_Respawn1",
+      "Text": 214,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 122,
+      "ID": "kizuna_telop_001",
+      "Text": 111,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 123,
+      "ID": "kizuna_telop_002",
+      "Text": 112,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 124,
+      "ID": "kizuna_telop_003",
+      "Text": 113,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 125,
+      "ID": "kizuna_telop_004",
+      "Text": 114,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 126,
+      "ID": "kizuna_telop_005",
+      "Text": 115,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 127,
+      "ID": "kizuna_telop_006",
+      "Text": 116,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 128,
+      "ID": "kizuna_telop_007",
+      "Text": 117,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 129,
+      "ID": "kizuna_telop_008",
+      "Text": 118,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 130,
+      "ID": "kizuna_telop_009",
+      "Text": 119,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 131,
+      "ID": "kizuna_telop_010",
+      "Text": 120,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 132,
+      "ID": "kizuna_telop_011",
+      "Text": 121,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 133,
+      "ID": "kizuna_telop_012",
+      "Text": 122,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 134,
+      "ID": "kizuna_telop_013",
+      "Text": 123,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 135,
+      "ID": "kizuna_telop_014",
+      "Text": 124,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 136,
+      "ID": "kizuna_telop_015",
+      "Text": 125,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 137,
+      "ID": "kizuna_telop_016",
+      "Text": 126,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 138,
+      "ID": "kizuna_telop_017",
+      "Text": 127,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 139,
+      "ID": "kizuna_telop_018",
+      "Text": 128,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 140,
+      "ID": "kizuna_telop_019",
+      "Text": 129,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 141,
+      "ID": "kizuna_telop_020",
+      "Text": 130,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 142,
+      "ID": "kizuna_telop_021",
+      "Text": 131,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 143,
+      "ID": "kizuna_telop_022",
+      "Text": 132,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 144,
+      "ID": "kizuna_telop_023",
+      "Text": 133,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 145,
+      "ID": "kizuna_telop_024",
+      "Text": 134,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 146,
+      "ID": "kizuna_telop_025",
+      "Text": 135,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 147,
+      "ID": "kizuna_telop_026",
+      "Text": 136,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 148,
+      "ID": "kizuna_telop_027",
+      "Text": 137,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 149,
+      "ID": "kizuna_telop_028",
+      "Text": 138,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 150,
+      "ID": "kizuna_telop_029",
+      "Text": 139,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 151,
+      "ID": "kizuna_telop_030",
+      "Text": 140,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 152,
+      "ID": "kizuna_telop_031",
+      "Text": 141,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 153,
+      "ID": "kizuna_telop_032",
+      "Text": 142,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 154,
+      "ID": "kizuna_telop_033",
+      "Text": 143,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 155,
+      "ID": "kizuna_telop_034",
+      "Text": 144,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 156,
+      "ID": "kizuna_telop_035",
+      "Text": 145,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 157,
+      "ID": "kizuna_telop_036",
+      "Text": 146,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 158,
+      "ID": "kizuna_telop_037",
+      "Text": 147,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 159,
+      "ID": "kizuna_telop_038",
+      "Text": 148,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 160,
+      "ID": "kizuna_telop_039",
+      "Text": 149,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 161,
+      "ID": "kizuna_telop_040",
+      "Text": 150,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 162,
+      "ID": "kizuna_telop_041",
+      "Text": 151,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 163,
+      "ID": "kizuna_telop_042",
+      "Text": 152,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 164,
+      "ID": "kizuna_telop_043",
+      "Text": 153,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 165,
+      "ID": "kizuna_telop_044",
+      "Text": 154,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 166,
+      "ID": "kizuna_telop_045",
+      "Text": 155,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 167,
+      "ID": "kizuna_telop_046",
+      "Text": 156,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 168,
+      "ID": "kizuna_telop_047",
+      "Text": 157,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 169,
+      "ID": "kizuna_telop_048",
+      "Text": 158,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 170,
+      "ID": "kizuna_telop_049",
+      "Text": 159,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 171,
+      "ID": "kizuna_telop_050",
+      "Text": 160,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 172,
+      "ID": "kizuna_telop_051",
+      "Text": 161,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 173,
+      "ID": "kizuna_telop_052",
+      "Text": 162,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 174,
+      "ID": "kizuna_telop_053",
+      "Text": 163,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 175,
+      "ID": "kizuna_telop_054",
+      "Text": 164,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 176,
+      "ID": "kizuna_telop_055",
+      "Text": 165,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 177,
+      "ID": "kizuna_telop_056",
+      "Text": 166,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 178,
+      "ID": "kizuna_telop_057",
+      "Text": 167,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 179,
+      "ID": "kizuna_telop_058",
+      "Text": 168,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 180,
+      "ID": "kizuna_telop_059",
+      "Text": 169,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 181,
+      "ID": "kizuna_telop_060",
+      "Text": 170,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 182,
+      "ID": "kizuna_telop_061",
+      "Text": 171,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 183,
+      "ID": "kizuna_telop_062",
+      "Text": 172,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 184,
+      "ID": "kizuna_telop_063",
+      "Text": 173,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 185,
+      "ID": "kizuna_telop_064",
+      "Text": 174,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 186,
+      "ID": "kizuna_telop_065",
+      "Text": 175,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 187,
+      "ID": "kizuna_telop_066",
+      "Text": 176,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 188,
+      "ID": "kizuna_telop_067",
+      "Text": 177,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 189,
+      "ID": "kizuna_telop_068",
+      "Text": 178,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 190,
+      "ID": "kizuna_telop_069",
+      "Text": 179,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 191,
+      "ID": "kizuna_telop_070",
+      "Text": 180,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 192,
+      "ID": "kizuna_telop_071",
+      "Text": 181,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 193,
+      "ID": "kizuna_telop_072",
+      "Text": 182,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 194,
+      "ID": "kizuna_telop_073",
+      "Text": 183,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 195,
+      "ID": "kizuna_telop_074",
+      "Text": 184,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 196,
+      "ID": "kizuna_telop_075",
+      "Text": 185,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 197,
+      "ID": "kizuna_telop_076",
+      "Text": 186,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 198,
+      "ID": "kizuna_telop_077",
+      "Text": 187,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 199,
+      "ID": "kizuna_telop_078",
+      "Text": 188,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 200,
+      "ID": "kizuna_telop_079",
+      "Text": 189,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 201,
+      "ID": "kizuna_telop_080",
+      "Text": 190,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 202,
+      "ID": "kizuna_telop_081",
+      "Text": 191,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 203,
+      "ID": "kizuna_telop_082",
+      "Text": 192,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 204,
+      "ID": "kizuna_telop_083",
+      "Text": 193,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 205,
+      "ID": "kizuna_telop_084",
+      "Text": 194,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 206,
+      "ID": "kizuna_telop_085",
+      "Text": 195,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 207,
+      "ID": "kizuna_telop_086",
+      "Text": 196,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 208,
+      "ID": "kizuna_telop_087",
+      "Text": 197,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 209,
+      "ID": "kizuna_telop_088",
+      "Text": 198,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 210,
+      "ID": "kizuna_telop_089",
+      "Text": 199,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 211,
+      "ID": "kizuna_telop_090",
+      "Text": 200,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 212,
+      "ID": "Qtelop_0603_001",
+      "Text": 215,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 213,
+      "ID": "Qtelop_0871_001",
+      "Text": 216,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 214,
+      "ID": "Qtelop_0871_002",
+      "Text": 217,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 215,
+      "ID": "Qtelop_0871_003",
+      "Text": 218,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 216,
+      "ID": "Qtelop_0871_004",
+      "Text": 219,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 217,
+      "ID": "Qtelop_0871_005",
+      "Text": 220,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 218,
+      "ID": "Qtelop_0853_001",
+      "Text": 221,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 219,
+      "ID": "Qtelop_0853_002",
+      "Text": 222,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 220,
+      "ID": "Qtelop_0853_003",
+      "Text": 223,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 221,
+      "ID": "Qtelop_0853_004",
+      "Text": 224,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 222,
+      "ID": "Qtelop_0853_005",
+      "Text": 225,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 223,
+      "ID": "Qtelop_0606_005",
+      "Text": 226,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 224,
+      "ID": "Qtelop_0610_005",
+      "Text": 227,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 225,
+      "ID": "Qtelop_0269_001",
+      "Text": 228,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 226,
+      "ID": "Qtelop_0269_002",
+      "Text": 229,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 227,
+      "ID": "Qtelop_0269_003",
+      "Text": 230,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 75
+    },
+    {
+      "$id": 228,
+      "ID": "Qtelop_0269_004",
+      "Text": 231,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 229,
+      "ID": "Qtelop_0269_005",
+      "Text": 232,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 230,
+      "ID": "Qtelop_0269_006",
+      "Text": 233,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 231,
+      "ID": "Qtelop_0801_001",
+      "Text": 234,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 232,
+      "ID": "Qtelop_0801_002",
+      "Text": 235,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 233,
+      "ID": "Qtelop_0801_003",
+      "Text": 236,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 234,
+      "ID": "Qtelop_0801_004",
+      "Text": 237,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 235,
+      "ID": "Qtelop_0914_001",
+      "Text": 238,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 236,
+      "ID": "Qtelop_0914_002",
+      "Text": 239,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 237,
+      "ID": "Qtelop_0914_003",
+      "Text": 240,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 238,
+      "ID": "Qtelop_0978_003",
+      "Text": 241,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 239,
+      "ID": "City_telop_001_001",
+      "Text": 242,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 240,
+      "ID": "City_telop_001_002",
+      "Text": 243,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 241,
+      "ID": "City_telop_001_003",
+      "Text": 244,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 242,
+      "ID": "City_telop_001_004",
+      "Text": 245,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 243,
+      "ID": "EN_SITUATION_MES_SP01_001",
+      "Text": 247,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 150
+    },
+    {
+      "$id": 244,
+      "ID": "EN_SITUATION_MES_SP02_001",
+      "Text": 248,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 150
+    },
+    {
+      "$id": 245,
+      "ID": "err_NGWord",
+      "Text": 249,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 70
+    },
+    {
+      "$id": 246,
+      "ID": "EN_SITUATION_MES_SP03_001",
+      "Text": 250,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 150
+    },
+    {
+      "$id": 247,
+      "ID": "EN_SITUATION_MES_SP04_001",
+      "Text": 251,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 150
+    },
+    {
+      "$id": 248,
+      "ID": "EN_SITUATION_MES_SP04_002",
+      "Text": 252,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 150
+    },
+    {
+      "$id": 249,
+      "ID": "EN_SITUATION_MES_SP04_003",
+      "Text": 253,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 150
+    },
+    {
+      "$id": 250,
+      "ID": "EN_SITUATION_MES_SP04_004",
+      "Text": 254,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 150
+    },
+    {
+      "$id": 251,
+      "ID": "EN_SITUATION_MES_SP04_005",
+      "Text": 255,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 150
+    },
+    {
+      "$id": 252,
+      "ID": "EN_SITUATION_MES_SP04_006",
+      "Text": 256,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 150
+    },
+    {
+      "$id": 253,
+      "ID": "EN_SITUATION_MES_SP05_001",
+      "Text": 257,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 150
+    },
+    {
+      "$id": 254,
+      "ID": "MultiQuestOrder_WEresultERR",
+      "Text": 258,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 255,
+      "ID": "SQ_tasktelop_029_001",
+      "Text": 259,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 256,
+      "ID": "SQ_tasktelop_029_002",
+      "Text": 260,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 257,
+      "ID": "SQ_tasktelop_032_001",
+      "Text": 261,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 75
+    },
+    {
+      "$id": 258,
+      "ID": "SQ_tasktelop_032_002",
+      "Text": 262,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 75
+    },
+    {
+      "$id": 259,
+      "ID": "SQ_tasktelop_040_001",
+      "Text": 263,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 75
+    },
+    {
+      "$id": 260,
+      "ID": "SQ_tasktelop_040_002",
+      "Text": 264,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 75
+    },
+    {
+      "$id": 261,
+      "ID": "SQ_tasktelop_045_001",
+      "Text": 265,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 75
+    },
+    {
+      "$id": 262,
+      "ID": "SQ_tasktelop_045_002",
+      "Text": 266,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 75
+    },
+    {
+      "$id": 263,
+      "ID": "SQ_tasktelop_052_001",
+      "Text": 267,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 75
+    },
+    {
+      "$id": 264,
+      "ID": "SQ_tasktelop_052_002",
+      "Text": 268,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 75
+    },
+    {
+      "$id": 265,
+      "ID": "SQ_tasktelop_054_001",
+      "Text": 269,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 75
+    },
+    {
+      "$id": 266,
+      "ID": "SQ_tasktelop_054_002",
+      "Text": 270,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 75
+    },
+    {
+      "$id": 267,
+      "ID": "SQ_tasktelop_074_001",
+      "Text": 271,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 75
+    },
+    {
+      "$id": 268,
+      "ID": "SQ_tasktelop_074_002",
+      "Text": 272,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 75
+    },
+    {
+      "$id": 269,
+      "ID": "SQ_tasktelop_080_001",
+      "Text": 273,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 75
+    },
+    {
+      "$id": 270,
+      "ID": "SQ_tasktelop_080_002",
+      "Text": 274,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 75
+    },
+    {
+      "$id": 271,
+      "ID": "SQ_tasktelop_087_001",
+      "Text": 275,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 75
+    },
+    {
+      "$id": 272,
+      "ID": "SQ_tasktelop_087_002",
+      "Text": 276,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 75
+    },
+    {
+      "$id": 273,
+      "ID": "SQ_tasktelop_091_001",
+      "Text": 277,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 75
+    },
+    {
+      "$id": 274,
+      "ID": "SQ_tasktelop_091_002",
+      "Text": 278,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 75
+    },
+    {
+      "$id": 275,
+      "ID": "SQ_tasktelop_093_001",
+      "Text": 279,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 75
+    },
+    {
+      "$id": 276,
+      "ID": "SQ_tasktelop_093_002",
+      "Text": 280,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 75
+    },
+    {
+      "$id": 277,
+      "ID": "SQ_tasktelop_101_001",
+      "Text": 281,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 75
+    },
+    {
+      "$id": 278,
+      "ID": "SQ_tasktelop_101_002",
+      "Text": 282,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 75
+    },
+    {
+      "$id": 279,
+      "ID": "SQ_tasktelop_102_001",
+      "Text": 283,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 75
+    },
+    {
+      "$id": 280,
+      "ID": "SQ_tasktelop_102_002",
+      "Text": 284,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 75
+    },
+    {
+      "$id": 281,
+      "ID": "SQ_tasktelop_114_001",
+      "Text": 285,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 75
+    },
+    {
+      "$id": 282,
+      "ID": "SQ_tasktelop_114_002",
+      "Text": 286,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 75
+    },
+    {
+      "$id": 283,
+      "ID": "SQ_tasktelop_120_001",
+      "Text": 287,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 75
+    },
+    {
+      "$id": 284,
+      "ID": "SQ_tasktelop_120_002",
+      "Text": 288,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 75
+    },
+    {
+      "$id": 285,
+      "ID": "SQ_tasktelop_122_001",
+      "Text": 289,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 75
+    },
+    {
+      "$id": 286,
+      "ID": "SQ_tasktelop_122_002",
+      "Text": 290,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 75
+    },
+    {
+      "$id": 287,
+      "ID": "SQ_tasktelop_128_001",
+      "Text": 291,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 75
+    },
+    {
+      "$id": 288,
+      "ID": "SQ_tasktelop_128_002",
+      "Text": 292,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 75
+    },
+    {
+      "$id": 289,
+      "ID": "SQ_tasktelop_129_001",
+      "Text": 293,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 75
+    },
+    {
+      "$id": 290,
+      "ID": "SQ_tasktelop_129_002",
+      "Text": 294,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 75
+    },
+    {
+      "$id": 291,
+      "ID": "SQ_tasktelop_131_001",
+      "Text": 295,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 75
+    },
+    {
+      "$id": 292,
+      "ID": "SQ_tasktelop_131_002",
+      "Text": 296,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 75
+    },
+    {
+      "$id": 293,
+      "ID": "SQ_tasktelop_133_001",
+      "Text": 297,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 75
+    },
+    {
+      "$id": 294,
+      "ID": "SQ_tasktelop_133_002",
+      "Text": 298,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 75
+    },
+    {
+      "$id": 295,
+      "ID": "SQ_tasktelop_135_001",
+      "Text": 299,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 75
+    },
+    {
+      "$id": 296,
+      "ID": "SQ_tasktelop_135_002",
+      "Text": 300,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 75
+    },
+    {
+      "$id": 297,
+      "ID": "SQ_tasktelop_140_001",
+      "Text": 301,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 298,
+      "ID": "SQ_tasktelop_140_002",
+      "Text": 302,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 299,
+      "ID": "SQ_tasktelop_144_001",
+      "Text": 303,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 300,
+      "ID": "SQ_tasktelop_144_002",
+      "Text": 304,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 301,
+      "ID": "SQ_tasktelop_146_001",
+      "Text": 305,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 302,
+      "ID": "SQ_tasktelop_146_002",
+      "Text": 306,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 303,
+      "ID": "SQ_tasktelop_151_001",
+      "Text": 307,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 304,
+      "ID": "SQ_tasktelop_151_002",
+      "Text": 308,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 305,
+      "ID": "SQ_tasktelop_160_001",
+      "Text": 309,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 75
+    },
+    {
+      "$id": 306,
+      "ID": "SQ_tasktelop_160_002",
+      "Text": 310,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 75
+    },
+    {
+      "$id": 307,
+      "ID": "SQ_tasktelop_167_001",
+      "Text": 311,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 75
+    },
+    {
+      "$id": 308,
+      "ID": "SQ_tasktelop_167_002",
+      "Text": 312,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 75
+    },
+    {
+      "$id": 309,
+      "ID": "SQ_tasktelop_169_001",
+      "Text": 313,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 75
+    },
+    {
+      "$id": 310,
+      "ID": "SQ_tasktelop_169_002",
+      "Text": 314,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 75
+    },
+    {
+      "$id": 311,
+      "ID": "SQ_tasktelop_175_001",
+      "Text": 315,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 75
+    },
+    {
+      "$id": 312,
+      "ID": "SQ_tasktelop_175_002",
+      "Text": 316,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 75
+    },
+    {
+      "$id": 313,
+      "ID": "SQ_tasktelop_179_001",
+      "Text": 317,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 75
+    },
+    {
+      "$id": 314,
+      "ID": "SQ_tasktelop_179_002",
+      "Text": 318,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 75
+    },
+    {
+      "$id": 315,
+      "ID": "SQ_tasktelop_181_001",
+      "Text": 319,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 75
+    },
+    {
+      "$id": 316,
+      "ID": "SQ_tasktelop_181_002",
+      "Text": 320,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 75
+    },
+    {
+      "$id": 317,
+      "ID": "SQ_tasktelop_182_001",
+      "Text": 321,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 75
+    },
+    {
+      "$id": 318,
+      "ID": "SQ_tasktelop_182_002",
+      "Text": 322,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 75
+    },
+    {
+      "$id": 319,
+      "ID": "SQ_tasktelop_191_001",
+      "Text": 323,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 320,
+      "ID": "SQ_tasktelop_191_002",
+      "Text": 324,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 321,
+      "ID": "SQ_tasktelop_196_001",
+      "Text": 325,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 322,
+      "ID": "SQ_tasktelop_196_002",
+      "Text": 326,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 323,
+      "ID": "SquadQuestProgress069",
+      "Text": 327,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 324,
+      "ID": "SquadQuestProgress070",
+      "Text": 328,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 325,
+      "ID": "SquadQuestProgress071",
+      "Text": 329,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 326,
+      "ID": "SquadQuestProgress072",
+      "Text": 330,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 327,
+      "ID": "SquadQuestProgress073",
+      "Text": 331,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 328,
+      "ID": "SquadQuestProgress074",
+      "Text": 332,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 329,
+      "ID": "SquadQuestProgress075",
+      "Text": 333,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 330,
+      "ID": "SquadQuestProgress076",
+      "Text": 334,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 331,
+      "ID": "SquadQuestProgress077",
+      "Text": 335,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 332,
+      "ID": "SquadQuestProgress078",
+      "Text": 336,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 333,
+      "ID": "SquadQuestProgress079",
+      "Text": 337,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 334,
+      "ID": "SquadQuestProgress080",
+      "Text": 338,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 335,
+      "ID": "SquadQuestProgress081",
+      "Text": 339,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 336,
+      "ID": "SquadQuestProgress082",
+      "Text": 340,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 337,
+      "ID": "SquadQuestProgress083",
+      "Text": 341,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 338,
+      "ID": "SquadQuestProgress084",
+      "Text": 342,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 339,
+      "ID": "SquadQuestProgress085",
+      "Text": 343,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 340,
+      "ID": "SquadQuestProgress086",
+      "Text": 344,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 341,
+      "ID": "SquadQuestProgress087",
+      "Text": 345,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 342,
+      "ID": "SquadQuestProgress088",
+      "Text": 346,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 343,
+      "ID": "SquadQuestProgress089",
+      "Text": 347,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 344,
+      "ID": "SquadQuestProgress090",
+      "Text": 348,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 345,
+      "ID": "SquadQuestProgress091",
+      "Text": 349,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 346,
+      "ID": "SquadQuestProgress092",
+      "Text": 350,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 347,
+      "ID": "SquadQuestProgress093",
+      "Text": 351,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 348,
+      "ID": "SquadQuestProgress094",
+      "Text": 352,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 349,
+      "ID": "SquadQuestProgress095",
+      "Text": 353,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 350,
+      "ID": "SquadQuestProgress096",
+      "Text": 354,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 351,
+      "ID": "SquadQuestProgress097",
+      "Text": 355,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 352,
+      "ID": "SquadQuestProgress098",
+      "Text": 356,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 353,
+      "ID": "SquadQuestProgress099",
+      "Text": 357,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 354,
+      "ID": "SquadQuestProgress100",
+      "Text": 358,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 355,
+      "ID": "EN_SITUATION_MES_SP05_002",
+      "Text": 359,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 150
+    },
+    {
+      "$id": 356,
+      "ID": "Telop_Shop_Buy",
+      "Text": 360,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 50
+    },
+    {
+      "$id": 357,
+      "ID": "err_MiraniumShortage",
+      "Text": 361,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 60
+    },
+    {
+      "$id": 358,
+      "ID": "Telop_BLH_Change",
+      "Text": 362,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 50
+    },
+    {
+      "$id": 359,
+      "ID": "err_ArmsComp_Lock",
+      "Text": 363,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 70
+    },
+    {
+      "$id": 360,
+      "ID": "Telop_ArmsComp_Create",
+      "Text": 364,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 50
+    },
+    {
+      "$id": 361,
+      "ID": "err_NoAfix",
+      "Text": 365,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 50
+    },
+    {
+      "$id": 362,
+      "ID": "Qtelop_0865_001",
+      "Text": 246,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 363,
+      "ID": "unionsupport_00",
+      "Text": 366,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 364,
+      "ID": "unionsupport_01",
+      "Text": 367,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 365,
+      "ID": "unionsupport_02",
+      "Text": 368,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 366,
+      "ID": "unionsupport_03",
+      "Text": 369,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 367,
+      "ID": "unionsupport_04",
+      "Text": 370,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 368,
+      "ID": "unionsupport_05",
+      "Text": 371,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 369,
+      "ID": "unionsupport_06",
+      "Text": 372,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 370,
+      "ID": "unionsupport_07",
+      "Text": 373,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 371,
+      "ID": "unionsupport_08",
+      "Text": 374,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 372,
+      "ID": "SquadSelect_joinerr",
+      "Text": 375,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 50
+    },
+    {
+      "$id": 373,
+      "ID": "MultiQuestResult_saving",
+      "Text": 376,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 50
+    },
+    {
+      "$id": 374,
+      "ID": "MultiQuestResult_saved",
+      "Text": 377,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 50
+    },
+    {
+      "$id": 375,
+      "ID": "MultiQuestOrder_miseisan",
+      "Text": 378,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 376,
+      "ID": "MultiQuestOrder_ordererr",
+      "Text": 379,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 50
+    },
+    {
+      "$id": 377,
+      "ID": "MultiQuestOrder_levelerr",
+      "Text": 380,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 60
+    },
+    {
+      "$id": 378,
+      "ID": "MultiQuestOrder_we_miseisan",
+      "Text": 381,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 379,
+      "ID": "MultiQuestOrder_yukierr",
+      "Text": 382,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 50
+    },
+    {
+      "$id": 380,
+      "ID": "MultiQuestOrder_we_deaderr",
+      "Text": 383,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 381,
+      "ID": "MultiQuestOrder_lm_miseisan",
+      "Text": 384,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 382,
+      "ID": "MultiQuestOrder_lm_deaderr",
+      "Text": 385,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 383,
+      "ID": "MultiQuestOrder_joinerr",
+      "Text": 386,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 60
+    },
+    {
+      "$id": 384,
+      "ID": "MultiQuestOrder_join_noneparty",
+      "Text": 387,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 50
+    },
+    {
+      "$id": 385,
+      "ID": "MultiQuestOrder_join_levelerr",
+      "Text": 388,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 60
+    },
+    {
+      "$id": 386,
+      "ID": "MultiQuestOrder_use_short",
+      "Text": 389,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 60
+    },
+    {
+      "$id": 387,
+      "ID": "MultiQuestOrder_use_full",
+      "Text": 390,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 60
+    },
+    {
+      "$id": 388,
+      "ID": "MultiQuestOrder_use_ticketfull",
+      "Text": 391,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 60
+    },
+    {
+      "$id": 389,
+      "ID": "MultiQuestinvi_miseisan",
+      "Text": 392,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 390,
+      "ID": "Memberlist_favorite",
+      "Text": 393,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 391,
+      "ID": "Memberlist_alreadyfavo",
+      "Text": 394,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 70
+    },
+    {
+      "$id": 392,
+      "ID": "Memberlist_favo_limiterr",
+      "Text": 395,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 70
+    },
+    {
+      "$id": 393,
+      "ID": "Memberlist_favo_release",
+      "Text": 396,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 394,
+      "ID": "Memberlist_favo_friendreq",
+      "Text": 397,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 395,
+      "ID": "Memberlist_alreadyfriend",
+      "Text": 398,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 70
+    },
+    {
+      "$id": 396,
+      "ID": "Memberlist_fri_limiterr",
+      "Text": 399,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 70
+    },
+    {
+      "$id": 397,
+      "ID": "Memberlist_alreadyblack",
+      "Text": 400,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 70
+    },
+    {
+      "$id": 398,
+      "ID": "Memberlist_bla_limiterr",
+      "Text": 401,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 70
+    },
+    {
+      "$id": 399,
+      "ID": "Memberlist_fri_order",
+      "Text": 402,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 70
+    },
+    {
+      "$id": 400,
+      "ID": "Offline_err",
+      "Text": 403,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 60
+    },
+    {
+      "$id": 401,
+      "ID": "err_MenberChangeExit",
+      "Text": 404,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 70
+    },
+    {
+      "$id": 402,
+      "ID": "err_MenberChangeNoLeader",
+      "Text": 405,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 50
+    },
+    {
+      "$id": 403,
+      "ID": "err_MenberChangeNgMenber",
+      "Text": 406,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 70
+    },
+    {
+      "$id": 404,
+      "ID": "err_MenberChangeRentalLeaderIn",
+      "Text": 407,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 60
+    },
+    {
+      "$id": 405,
+      "ID": "err_MenberChangeNgMenberOut",
+      "Text": 408,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 60
+    },
+    {
+      "$id": 406,
+      "ID": "err_MenberChangeNoSpace",
+      "Text": 409,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 60
+    },
+    {
+      "$id": 407,
+      "ID": "err_MenberChangeMaxOver",
+      "Text": 410,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 60
+    },
+    {
+      "$id": 408,
+      "ID": "LevelSynchTelop",
+      "Text": 411,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 409,
+      "ID": "TreasureDeal",
+      "Text": 412,
+      "DispPos": 1,
+      "DispWide": 0,
+      "DispTime": 70
+    },
+    {
+      "$id": 410,
+      "ID": "err_BLPlayerQuestnotJoined",
+      "Text": 413,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 411,
+      "ID": "err_BLPlayerSquadnotJoined",
+      "Text": 414,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 412,
+      "ID": "err_UGCShut",
+      "Text": 415,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 413,
+      "ID": "err_EquFrNotChange",
+      "Text": 416,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 60
+    },
+    {
+      "$id": 414,
+      "ID": "err_SimpleQuestMax",
+      "Text": 417,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 60
+    },
+    {
+      "$id": 415,
+      "ID": "err_BtlNotUseInner",
+      "Text": 418,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 70
+    },
+    {
+      "$id": 416,
+      "ID": "err_BtlNotUseDoll",
+      "Text": 419,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 70
+    },
+    {
+      "$id": 417,
+      "ID": "err_EquNot_DlLvShortage",
+      "Text": 420,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 60
+    },
+    {
+      "$id": 418,
+      "ID": "err_EquNot_DlGenLvShortage",
+      "Text": 421,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 70
+    },
+    {
+      "$id": 419,
+      "ID": "err_EquNot_DlArmLvShortage",
+      "Text": 422,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 60
+    },
+    {
+      "$id": 420,
+      "ID": "CellUpdate_Gen",
+      "Text": 423,
+      "DispPos": 3,
+      "DispWide": 0,
+      "DispTime": 50
+    },
+    {
+      "$id": 421,
+      "ID": "CellUpdate_Clear",
+      "Text": 424,
+      "DispPos": 3,
+      "DispWide": 0,
+      "DispTime": 50
+    },
+    {
+      "$id": 422,
+      "ID": "SocialInfo_WE_Reward",
+      "Text": 425,
+      "DispPos": 1,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 423,
+      "ID": "SocialInfo_FR_Reward",
+      "Text": 426,
+      "DispPos": 1,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 424,
+      "ID": "err_Item_NotSale",
+      "Text": 428,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 60
+    },
+    {
+      "$id": 425,
+      "ID": "SocialInfo_Rental_Reward",
+      "Text": 429,
+      "DispPos": 1,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 426,
+      "ID": "err_ComFailure",
+      "Text": 430,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 60
+    },
+    {
+      "$id": 427,
+      "ID": "err_AvataMake_Top_Mismatch",
+      "Text": 431,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 60
+    },
+    {
+      "$id": 428,
+      "ID": "err_AvataMake_Load_Mismatch",
+      "Text": 432,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 60
+    },
+    {
+      "$id": 429,
+      "ID": "err_AvataMake_Load_NoData",
+      "Text": 433,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 60
+    },
+    {
+      "$id": 430,
+      "ID": "err_DollTransfer_LvShortage",
+      "Text": 434,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 60
+    },
+    {
+      "$id": 431,
+      "ID": "MultiTelop_Respawn0",
+      "Text": 435,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 432,
+      "ID": "Telop_DollInsurance",
+      "Text": 436,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 433,
+      "ID": "err_SellEqu_ItemBoxFull",
+      "Text": 437,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 60
+    },
+    {
+      "$id": 434,
+      "ID": "MemberList_MineErr",
+      "Text": 438,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 60
+    },
+    {
+      "$id": 435,
+      "ID": "err_EquNot_GenMismatch_MaleToFemale",
+      "Text": 439,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 60
+    },
+    {
+      "$id": 436,
+      "ID": "err_EquNot_GenMismatch_FemaleToMale",
+      "Text": 440,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 60
+    },
+    {
+      "$id": 437,
+      "ID": "Telop_AddCMPoint",
+      "Text": 441,
+      "DispPos": 3,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 438,
+      "ID": "Telop_AddPTMember",
+      "Text": 442,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 70
+    },
+    {
+      "$id": 439,
+      "ID": "err_Equ_NoSlot",
+      "Text": 443,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 60
+    },
+    {
+      "$id": 440,
+      "ID": "err_Equ_NoWear",
+      "Text": 444,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 60
+    },
+    {
+      "$id": 441,
+      "ID": "err_ChageOfflineMode",
+      "Text": 445,
+      "DispPos": 1,
+      "DispWide": 1,
+      "DispTime": 90
+    },
+    {
+      "$id": 442,
+      "ID": "Telop_SetFig",
+      "Text": 446,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 70
+    },
+    {
+      "$id": 443,
+      "ID": "Telop_RelFig",
+      "Text": 447,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 70
+    },
+    {
+      "$id": 444,
+      "ID": "Telop_SystemData_Save",
+      "Text": 448,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 70
+    },
+    {
+      "$id": 445,
+      "ID": "Err_ScoutConsole_Accese",
+      "Text": 449,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 60
+    },
+    {
+      "$id": 446,
+      "ID": "MultiQuestOrder_alreadyclear",
+      "Text": 450,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 60
+    },
+    {
+      "$id": 447,
+      "ID": "err_BLH_ClientAccese",
+      "Text": 451,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 70
+    },
+    {
+      "$id": 448,
+      "ID": "Memberlist_fri_failure",
+      "Text": 452,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 70
+    },
+    {
+      "$id": 449,
+      "ID": "Memberlist_favo_failure",
+      "Text": 453,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 70
+    },
+    {
+      "$id": 450,
+      "ID": "Memberlist_favo_re_failure",
+      "Text": 454,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 70
+    },
+    {
+      "$id": 451,
+      "ID": "Memberlist_bla_success",
+      "Text": 455,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 452,
+      "ID": "Memberlist_bla_failure",
+      "Text": 456,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 70
+    },
+    {
+      "$id": 453,
+      "ID": "Err_NotJoin",
+      "Text": 457,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 70
+    },
+    {
+      "$id": 454,
+      "ID": "Err_PartyBreak",
+      "Text": 458,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 455,
+      "ID": "Err_PartyLeave",
+      "Text": 459,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 456,
+      "ID": "Err_NotStart",
+      "Text": 460,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 457,
+      "ID": "err_NoDollFrame",
+      "Text": 461,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 60
+    },
+    {
+      "$id": 458,
+      "ID": "err_RentalNoScout",
+      "Text": 462,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 60
+    },
+    {
+      "$id": 459,
+      "ID": "err_RentalNoReward",
+      "Text": 463,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 60
+    },
+    {
+      "$id": 460,
+      "ID": "Memberlist_fri_bla",
+      "Text": 464,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 70
+    },
+    {
+      "$id": 461,
+      "ID": "Memberlist_favo_bla",
+      "Text": 465,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 70
+    },
+    {
+      "$id": 462,
+      "ID": "Memberlist_bla_fri",
+      "Text": 466,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 70
+    },
+    {
+      "$id": 463,
+      "ID": "Memberlist_bla_frireq",
+      "Text": 467,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 70
+    },
+    {
+      "$id": 464,
+      "ID": "CellUpdate_Gen_Zone1001",
+      "Text": 468,
+      "DispPos": 3,
+      "DispWide": 0,
+      "DispTime": 70
+    },
+    {
+      "$id": 465,
+      "ID": "CellUpdate_Gen_Zone1101",
+      "Text": 469,
+      "DispPos": 3,
+      "DispWide": 0,
+      "DispTime": 70
+    },
+    {
+      "$id": 466,
+      "ID": "CellUpdate_Gen_Zone1201",
+      "Text": 470,
+      "DispPos": 3,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 467,
+      "ID": "CellUpdate_Gen_Zone1301",
+      "Text": 471,
+      "DispPos": 3,
+      "DispWide": 0,
+      "DispTime": 70
+    },
+    {
+      "$id": 468,
+      "ID": "CellUpdate_Gen_Zone1401",
+      "Text": 472,
+      "DispPos": 3,
+      "DispWide": 0,
+      "DispTime": 70
+    },
+    {
+      "$id": 469,
+      "ID": "CellUpdate_Gen_Zone1501",
+      "Text": 473,
+      "DispPos": 3,
+      "DispWide": 0,
+      "DispTime": 70
+    },
+    {
+      "$id": 470,
+      "ID": "CellUpdate_Gen_Zone1601",
+      "Text": 474,
+      "DispPos": 3,
+      "DispWide": 0,
+      "DispTime": 70
+    },
+    {
+      "$id": 471,
+      "ID": "CellUpdate_Gen_Zone1701",
+      "Text": 475,
+      "DispPos": 3,
+      "DispWide": 0,
+      "DispTime": 70
+    },
+    {
+      "$id": 472,
+      "ID": "CellUpdate_Gen_Zone2001",
+      "Text": 476,
+      "DispPos": 3,
+      "DispWide": 0,
+      "DispTime": 70
+    },
+    {
+      "$id": 473,
+      "ID": "CellUpdate_Gen_Zone2201",
+      "Text": 477,
+      "DispPos": 3,
+      "DispWide": 0,
+      "DispTime": 70
+    },
+    {
+      "$id": 474,
+      "ID": "CellUpdate_Gen_Zone5000",
+      "Text": 478,
+      "DispPos": 3,
+      "DispWide": 0,
+      "DispTime": 70
+    },
+    {
+      "$id": 475,
+      "ID": "err_DollFuelMax",
+      "Text": 479,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 60
+    },
+    {
+      "$id": 476,
+      "ID": "Telop_DollReFuel",
+      "Text": 480,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 50
+    },
+    {
+      "$id": 477,
+      "ID": "SquadSelect_fullerr",
+      "Text": 481,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 60
+    },
+    {
+      "$id": 478,
+      "ID": "SquadSelect_sameerr",
+      "Text": 482,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 479,
+      "ID": "ScoutCounter_set",
+      "Text": 483,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 50
+    },
+    {
+      "$id": 480,
+      "ID": "ScoutCounter_err01",
+      "Text": 484,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 60
+    },
+    {
+      "$id": 481,
+      "ID": "CommonErr",
+      "Text": 485,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 60
+    },
+    {
+      "$id": 482,
+      "ID": "SocialInfo_Rental_Gage1",
+      "Text": 486,
+      "DispPos": 1,
+      "DispWide": 0,
+      "DispTime": 70
+    },
+    {
+      "$id": 483,
+      "ID": "SocialInfo_UnionSalary",
+      "Text": 487,
+      "DispPos": 1,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 484,
+      "ID": "ScoutCounter_delete",
+      "Text": 488,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 50
+    },
+    {
+      "$id": 485,
+      "ID": "ScoutCounter_err02",
+      "Text": 489,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 60
+    },
+    {
+      "$id": 486,
+      "ID": "MultiQuestOrder_we_escapeerr",
+      "Text": 490,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 70
+    },
+    {
+      "$id": 487,
+      "ID": "MultiQuestOrder_lm_escapeerr",
+      "Text": 491,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 70
+    },
+    {
+      "$id": 488,
+      "ID": "MultiQuestOrder_partyfullerr",
+      "Text": 492,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 60
+    },
+    {
+      "$id": 489,
+      "ID": "MultiQuestOrder_partynonerr",
+      "Text": 493,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 60
+    },
+    {
+      "$id": 490,
+      "ID": "ScoutCounter_err03",
+      "Text": 494,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 60
+    },
+    {
+      "$id": 491,
+      "ID": "CmnErr_SquadNone",
+      "Text": 495,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 60
+    },
+    {
+      "$id": 492,
+      "ID": "MultiQuestOrder_WEerr01",
+      "Text": 496,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 493,
+      "ID": "MultiQuestOrder_WEerr02",
+      "Text": 497,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 494,
+      "ID": "MultiQuestOrder_WEerr03",
+      "Text": 498,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 60
+    },
+    {
+      "$id": 495,
+      "ID": "MultiQuestOrder_WEerr04",
+      "Text": 499,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 496,
+      "ID": "err_DropResult_NotSale",
+      "Text": 500,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 60
+    },
+    {
+      "$id": 497,
+      "ID": "SquadSelect_HostDroperr",
+      "Text": 501,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 498,
+      "ID": "MultiQuestOrder_UnionSalary_noselect",
+      "Text": 502,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 60
+    },
+    {
+      "$id": 499,
+      "ID": "MultiQuestOrder_UnionSalary_already",
+      "Text": 503,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 70
+    },
+    {
+      "$id": 500,
+      "ID": "MultiQuestOrder_UnionSelect_now",
+      "Text": 504,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 50
+    },
+    {
+      "$id": 501,
+      "ID": "EN_SITUATION_MES_M08_001",
+      "Text": 505,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 75
+    },
+    {
+      "$id": 502,
+      "ID": "EN_SITUATION_MES_M09_002",
+      "Text": 506,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 75
+    },
+    {
+      "$id": 503,
+      "ID": "SocialInfo_Rental_Reward_err",
+      "Text": 507,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 60
+    },
+    {
+      "$id": 504,
+      "ID": "BladeReport_Failure",
+      "Text": 508,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 60
+    },
+    {
+      "$id": 505,
+      "ID": "CmnErr_Console_Access",
+      "Text": 509,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 60
+    },
+    {
+      "$id": 506,
+      "ID": "Memberlist_fri_now",
+      "Text": 510,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 507,
+      "ID": "MultiQuestOrder_BQ_end",
+      "Text": 511,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 508,
+      "ID": "EN_SITUATION_MES_EC01_005",
+      "Text": 54,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 150
+    },
+    {
+      "$id": 509,
+      "ID": "SQ_telop_008_001",
+      "Text": 512,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 150
+    },
+    {
+      "$id": 510,
+      "ID": "SQ_telop_005_001",
+      "Text": 513,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 150
+    },
+    {
+      "$id": 511,
+      "ID": "SocialInfo_WE_NoReward",
+      "Text": 514,
+      "DispPos": 1,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 512,
+      "ID": "SocialInfo_FR_NoReward",
+      "Text": 515,
+      "DispPos": 1,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 513,
+      "ID": "GuideErr_Telop",
+      "Text": 516,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 60
+    },
+    {
+      "$id": 514,
+      "ID": "Telop_SegCompReward",
+      "Text": 517,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 70
+    },
+    {
+      "$id": 515,
+      "ID": "Memberlist_timeout",
+      "Text": 518,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 516,
+      "ID": "AvatarMake_err",
+      "Text": 519,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 517,
+      "ID": "test_center20",
+      "Text": 1,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 150
+    },
+    {
+      "$id": 518,
+      "ID": "test_top20",
+      "Text": 1,
+      "DispPos": 1,
+      "DispWide": 0,
+      "DispTime": 70
+    },
+    {
+      "$id": 519,
+      "ID": "test_center30",
+      "Text": 2,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 150
+    },
+    {
+      "$id": 520,
+      "ID": "test_top30",
+      "Text": 2,
+      "DispPos": 1,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 521,
+      "ID": "test_center_noclose",
+      "Text": 1,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 0
+    },
+    {
+      "$id": 522,
+      "ID": "test_top_noclose",
+      "Text": 1,
+      "DispPos": 1,
+      "DispWide": 0,
+      "DispTime": 70
+    },
+    {
+      "$id": 523,
+      "ID": "test_CellUpdate",
+      "Text": 427,
+      "DispPos": 3,
+      "DispWide": 0,
+      "DispTime": 50
+    },
+    {
+      "$id": 524,
+      "ID": "STS_TLP_SystemAnnounceError02",
+      "Text": 521,
+      "DispPos": 3,
+      "DispWide": 0,
+      "DispTime": 60
+    },
+    {
+      "$id": 525,
+      "ID": "STS_TLP_SystemAnnounceError03",
+      "Text": 522,
+      "DispPos": 3,
+      "DispWide": 0,
+      "DispTime": 60
+    },
+    {
+      "$id": 526,
+      "ID": "STS_TLP_SystemAnnounceError04",
+      "Text": 523,
+      "DispPos": 3,
+      "DispWide": 0,
+      "DispTime": 60
+    },
+    {
+      "$id": 527,
+      "ID": "menu_program_PopUp_center01",
+      "Text": 524,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 50
+    },
+    {
+      "$id": 528,
+      "ID": "menu_program_PopUp_center02",
+      "Text": 525,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 529,
+      "ID": "menu_program_PopUp_center03",
+      "Text": 526,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 50
+    },
+    {
+      "$id": 530,
+      "ID": "menu_program_PopUp_Error01",
+      "Text": 527,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 60
+    },
+    {
+      "$id": 531,
+      "ID": "menu_program_Telop_Center02",
+      "Text": 528,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 50
+    },
+    {
+      "$id": 532,
+      "ID": "menu_program_Telop_Center03",
+      "Text": 529,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 70
+    },
+    {
+      "$id": 533,
+      "ID": "menu_program_Telop_Center04",
+      "Text": 530,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 60
+    },
+    {
+      "$id": 534,
+      "ID": "menu_program_Telop_Center05",
+      "Text": 531,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 535,
+      "ID": "menu_program_Telop_Center06",
+      "Text": 532,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 50
+    },
+    {
+      "$id": 536,
+      "ID": "menu_program_Telop_Center07",
+      "Text": 533,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 60
+    },
+    {
+      "$id": 537,
+      "ID": "menu_program_Telop_Center08",
+      "Text": 534,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 50
+    },
+    {
+      "$id": 538,
+      "ID": "menu_program_Telop_Center09",
+      "Text": 535,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 60
+    },
+    {
+      "$id": 539,
+      "ID": "menu_program_Telop_high01",
+      "Text": 536,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 60
+    },
+    {
+      "$id": 540,
+      "ID": "menu_program_Telop_Center10",
+      "Text": 537,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 60
+    },
+    {
+      "$id": 541,
+      "ID": "menu_program_Telop_Center11",
+      "Text": 538,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 542,
+      "ID": "menu_program_PopUp_Error05",
+      "Text": 539,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 60
+    },
+    {
+      "$id": 543,
+      "ID": "menu_program_PopUp_Error06",
+      "Text": 540,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 60
+    },
+    {
+      "$id": 544,
+      "ID": "menu_program_Telop_Center12",
+      "Text": 541,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 45
+    },
+    {
+      "$id": 545,
+      "ID": "menu_program_Telop_Center13",
+      "Text": 542,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 70
+    },
+    {
+      "$id": 546,
+      "ID": "menu_program_Telop_Center14",
+      "Text": 543,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 70
+    },
+    {
+      "$id": 547,
+      "ID": "menu_program_PopUp_Error07",
+      "Text": 544,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 60
+    },
+    {
+      "$id": 548,
+      "ID": "menu_program_PopUp_Error08",
+      "Text": 545,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 60
+    },
+    {
+      "$id": 549,
+      "ID": "menu_program_PopUp_Error09",
+      "Text": 546,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 60
+    },
+    {
+      "$id": 550,
+      "ID": "menu_program_Telop_Center15",
+      "Text": 547,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 70
+    },
+    {
+      "$id": 551,
+      "ID": "menu_program_Telop_Center16",
+      "Text": 548,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 60
+    },
+    {
+      "$id": 552,
+      "ID": "menu_program_Telop_Center17",
+      "Text": 549,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 50
+    },
+    {
+      "$id": 553,
+      "ID": "menu_program_Telop_Center18",
+      "Text": 550,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 554,
+      "ID": "menu_program_Telop_Center19",
+      "Text": 551,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 70
+    },
+    {
+      "$id": 555,
+      "ID": "menu_program_Telop_Center20",
+      "Text": 552,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 70
+    },
+    {
+      "$id": 556,
+      "ID": "menu_program_PopUp_Error10",
+      "Text": 553,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 60
+    },
+    {
+      "$id": 557,
+      "ID": "menu_program_PopUp_Error11",
+      "Text": 554,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 60
+    },
+    {
+      "$id": 558,
+      "ID": "menu_program_Telop_Center21",
+      "Text": 555,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 50
+    },
+    {
+      "$id": 559,
+      "ID": "menu_program_Telop_Center22",
+      "Text": 556,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 560,
+      "ID": "menu_program_Telop_Center23",
+      "Text": 557,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 50
+    },
+    {
+      "$id": 561,
+      "ID": "menu_program_Telop_Center24",
+      "Text": 558,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 562,
+      "ID": "menu_program_PopUp_Error12",
+      "Text": 559,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 60
+    },
+    {
+      "$id": 563,
+      "ID": "menu_program_PopUp_Error13",
+      "Text": 560,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 60
+    },
+    {
+      "$id": 564,
+      "ID": "menu_program_PopUp_Center25",
+      "Text": 561,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 60
+    },
+    {
+      "$id": 565,
+      "ID": "menu_program_PopUp_Center26",
+      "Text": 562,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 120
+    },
+    {
+      "$id": 566,
+      "ID": "menu_program_Telop_Center27",
+      "Text": 563,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 70
+    },
+    {
+      "$id": 567,
+      "ID": "menu_program_Telop_Center28",
+      "Text": 564,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 568,
+      "ID": "menu_program_Telop_Center29",
+      "Text": 565,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 70
+    },
+    {
+      "$id": 569,
+      "ID": "menu_program_Telop_Center30",
+      "Text": 566,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 570,
+      "ID": "menu_program_Telop_Center31",
+      "Text": 567,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 70
+    },
+    {
+      "$id": 571,
+      "ID": "menu_program_Telop_Center32",
+      "Text": 568,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 572,
+      "ID": "menu_program_Telop_Center33",
+      "Text": 569,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 70
+    },
+    {
+      "$id": 573,
+      "ID": "menu_program_Telop_Center34",
+      "Text": 570,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 50
+    },
+    {
+      "$id": 574,
+      "ID": "menu_program_PopUp_Error14",
+      "Text": 571,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 60
+    },
+    {
+      "$id": 575,
+      "ID": "menu_program_Telop_Center35",
+      "Text": 572,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 70
+    },
+    {
+      "$id": 576,
+      "ID": "menu_program_Telop_Center36",
+      "Text": 573,
+      "DispPos": 3,
+      "DispWide": 0,
+      "DispTime": 70
+    },
+    {
+      "$id": 577,
+      "ID": "menu_program_PopUp_Error15",
+      "Text": 574,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 60
+    },
+    {
+      "$id": 578,
+      "ID": "menu_program_PopUp_Error16",
+      "Text": 575,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 60
+    },
+    {
+      "$id": 579,
+      "ID": "menu_program_Telop_Center38",
+      "Text": 585,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 50
+    },
+    {
+      "$id": 580,
+      "ID": "menu_program_PopUp_Error17",
+      "Text": 586,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 60
+    },
+    {
+      "$id": 581,
+      "ID": "menu_program_PopUp_Error18",
+      "Text": 587,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 60
+    },
+    {
+      "$id": 582,
+      "ID": "enemy_boss_01",
+      "Text": 577,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 150
+    },
+    {
+      "$id": 583,
+      "ID": "enemy_boss_02",
+      "Text": 578,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 150
+    },
+    {
+      "$id": 584,
+      "ID": "enemy_boss_03",
+      "Text": 579,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 150
+    },
+    {
+      "$id": 585,
+      "ID": "enemy_boss_04",
+      "Text": 580,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 150
+    },
+    {
+      "$id": 586,
+      "ID": "enemy_boss_05",
+      "Text": 581,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 150
+    },
+    {
+      "$id": 587,
+      "ID": "enemy_boss_06",
+      "Text": 582,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 150
+    },
+    {
+      "$id": 588,
+      "ID": "enemy_boss_07",
+      "Text": 583,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 150
+    },
+    {
+      "$id": 589,
+      "ID": "enemy_boss_08",
+      "Text": 584,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 150
+    },
+    {
+      "$id": 590,
+      "ID": "skip_travel_error_1",
+      "Text": 615,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 60
+    },
+    {
+      "$id": 591,
+      "ID": "skip_travel_error_2",
+      "Text": 616,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 60
+    },
+    {
+      "$id": 592,
+      "ID": "menu_program_PopUp_Error19",
+      "Text": 590,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 60
+    },
+    {
+      "$id": 593,
+      "ID": "menu_program_PopUp_Erro20",
+      "Text": 591,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 60
+    },
+    {
+      "$id": 594,
+      "ID": "menu_program_Telop_Center39",
+      "Text": 592,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 595,
+      "ID": "menu_program_Telop_Center40",
+      "Text": 593,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 70
+    },
+    {
+      "$id": 596,
+      "ID": "menu_program_Telop_Center41",
+      "Text": 594,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 597,
+      "ID": "menu_program_Telop_Center43",
+      "Text": 595,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 598,
+      "ID": "menu_program_Telop_Center44",
+      "Text": 596,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 70
+    },
+    {
+      "$id": 599,
+      "ID": "menu_program_Telop_Center45",
+      "Text": 597,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 50
+    },
+    {
+      "$id": 600,
+      "ID": "menu_program_Telop_Center46",
+      "Text": 598,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 60
+    },
+    {
+      "$id": 601,
+      "ID": "menu_program_Telop_Center47",
+      "Text": 599,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 602,
+      "ID": "menu_program_Telop_Center48",
+      "Text": 600,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 60
+    },
+    {
+      "$id": 603,
+      "ID": "menu_program_Telop_Center49",
+      "Text": 601,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 60
+    },
+    {
+      "$id": 604,
+      "ID": "menu_program_Telop_Center50",
+      "Text": 602,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 60
+    },
+    {
+      "$id": 605,
+      "ID": "menu_program_Telop_Center52",
+      "Text": 604,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 50
+    },
+    {
+      "$id": 606,
+      "ID": "err_EquNot_GaJiarg",
+      "Text": 605,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 60
+    },
+    {
+      "$id": 607,
+      "ID": "menu_program_Telop_Center53",
+      "Text": 606,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 45
+    },
+    {
+      "$id": 608,
+      "ID": "enemy_boss_01_01",
+      "Text": 607,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 150
+    },
+    {
+      "$id": 609,
+      "ID": "enemy_boss_01_02",
+      "Text": 608,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 150
+    },
+    {
+      "$id": 610,
+      "ID": "enemy_boss_01_03",
+      "Text": 609,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 150
+    },
+    {
+      "$id": 611,
+      "ID": "enemy_boss_01_04",
+      "Text": 610,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 150
+    },
+    {
+      "$id": 612,
+      "ID": "enemy_boss_01_05",
+      "Text": 611,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 150
+    },
+    {
+      "$id": 613,
+      "ID": "enemy_boss_01_06",
+      "Text": 612,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 150
+    },
+    {
+      "$id": 614,
+      "ID": "enemy_boss_09",
+      "Text": 613,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 150
+    },
+    {
+      "$id": 615,
+      "ID": "enemy_boss_10",
+      "Text": 614,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 150
+    },
+    {
+      "$id": 616,
+      "ID": "menu_program_Telop_Center54",
+      "Text": 617,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 60
+    },
+    {
+      "$id": 617,
+      "ID": "menu_program_Telop_Center55",
+      "Text": 618,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 60
+    },
+    {
+      "$id": 618,
+      "ID": "menu_program_PopUp_Error22",
+      "Text": 619,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 60
+    },
+    {
+      "$id": 619,
+      "ID": "menu_program_PopUp_Error23",
+      "Text": 620,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 60
+    },
+    {
+      "$id": 620,
+      "ID": "menu_program_Telop_Center56",
+      "Text": 621,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 50
+    },
+    {
+      "$id": 621,
+      "ID": "menu_program_Telop_Center57",
+      "Text": 622,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 50
+    },
+    {
+      "$id": 622,
+      "ID": "menu_program_Telop_Center58",
+      "Text": 623,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 60
+    },
+    {
+      "$id": 623,
+      "ID": "menu_program_Telop_Center59",
+      "Text": 624,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 50
+    },
+    {
+      "$id": 624,
+      "ID": "menu_program_PopUp_General01",
+      "Text": 520,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 50
+    },
+    {
+      "$id": 625,
+      "ID": "Telop_Center60",
+      "Text": 625,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 70
+    },
+    {
+      "$id": 626,
+      "ID": "PopUp_Error24",
+      "Text": 626,
+      "DispPos": 3,
+      "DispWide": 0,
+      "DispTime": 60
+    },
+    {
+      "$id": 627,
+      "ID": "PopUp_Error25",
+      "Text": 627,
+      "DispPos": 3,
+      "DispWide": 0,
+      "DispTime": 60
+    },
+    {
+      "$id": 628,
+      "ID": "Telop_Center61",
+      "Text": 628,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 50
+    },
+    {
+      "$id": 629,
+      "ID": "Telop_Center62",
+      "Text": 629,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 70
+    },
+    {
+      "$id": 630,
+      "ID": "PopUp_Error26",
+      "Text": 630,
+      "DispPos": 3,
+      "DispWide": 0,
+      "DispTime": 60
+    },
+    {
+      "$id": 631,
+      "ID": "PopUp_Error27",
+      "Text": 631,
+      "DispPos": 3,
+      "DispWide": 0,
+      "DispTime": 60
+    },
+    {
+      "$id": 632,
+      "ID": "PopUp_Error28",
+      "Text": 632,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 60
+    },
+    {
+      "$id": 633,
+      "ID": "Telop_Center63",
+      "Text": 633,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 50
+    },
+    {
+      "$id": 634,
+      "ID": "PopUp_Error29",
+      "Text": 634,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 60
+    },
+    {
+      "$id": 635,
+      "ID": "PopUp_Error30",
+      "Text": 635,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 60
+    },
+    {
+      "$id": 636,
+      "ID": "Telop_Center64",
+      "Text": 636,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 60
+    },
+    {
+      "$id": 637,
+      "ID": "PopUp_Error31",
+      "Text": 637,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 60
+    },
+    {
+      "$id": 638,
+      "ID": "PopUp_Error32",
+      "Text": 638,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 60
+    },
+    {
+      "$id": 639,
+      "ID": "Telop_Center65",
+      "Text": 639,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 640,
+      "ID": "PopUp_Error33",
+      "Text": 640,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 60
+    },
+    {
+      "$id": 641,
+      "ID": "Telop_Center66",
+      "Text": 641,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 60
+    },
+    {
+      "$id": 642,
+      "ID": "Telop_Center67",
+      "Text": 642,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 643,
+      "ID": "Telop_Center68",
+      "Text": 643,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 60
+    },
+    {
+      "$id": 644,
+      "ID": "Telop_Center69",
+      "Text": 644,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 50
+    },
+    {
+      "$id": 645,
+      "ID": "Telop_Center70",
+      "Text": 645,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 50
+    },
+    {
+      "$id": 646,
+      "ID": "Telop_Center71",
+      "Text": 646,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 70
+    },
+    {
+      "$id": 647,
+      "ID": "PopUp_Error34",
+      "Text": 647,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 60
+    },
+    {
+      "$id": 648,
+      "ID": "Telop_Center72",
+      "Text": 648,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 649,
+      "ID": "Telop_Center73",
+      "Text": 649,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 50
+    },
+    {
+      "$id": 650,
+      "ID": "Telop_Center74",
+      "Text": 650,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 45
+    },
+    {
+      "$id": 651,
+      "ID": "Telop_Center75",
+      "Text": 651,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 60
+    },
+    {
+      "$id": 652,
+      "ID": "Telop_Center76",
+      "Text": 652,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 653,
+      "ID": "Telop_Center77",
+      "Text": 653,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 654,
+      "ID": "Telop_Center78",
+      "Text": 654,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 655,
+      "ID": "Telop_Center79",
+      "Text": 655,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 60
+    },
+    {
+      "$id": 656,
+      "ID": "Telop_Center80",
+      "Text": 656,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 60
+    },
+    {
+      "$id": 657,
+      "ID": "Telop_Center81",
+      "Text": 657,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 60
+    },
+    {
+      "$id": 658,
+      "ID": "Telop_Center82",
+      "Text": 658,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 50
+    },
+    {
+      "$id": 659,
+      "ID": "Telop_Center83",
+      "Text": 659,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 50
+    },
+    {
+      "$id": 660,
+      "ID": "PopUp_Error35",
+      "Text": 660,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 60
+    },
+    {
+      "$id": 661,
+      "ID": "Telop_Center84",
+      "Text": 661,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 60
+    },
+    {
+      "$id": 662,
+      "ID": "PopUp_Error36",
+      "Text": 662,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 60
+    },
+    {
+      "$id": 663,
+      "ID": "Telop_Center85",
+      "Text": 663,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 60
+    },
+    {
+      "$id": 664,
+      "ID": "Telop_Center86",
+      "Text": 664,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 50
+    },
+    {
+      "$id": 665,
+      "ID": "Telop_Center87",
+      "Text": 665,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 50
+    },
+    {
+      "$id": 666,
+      "ID": "Telop_Center88",
+      "Text": 666,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 50
+    },
+    {
+      "$id": 667,
+      "ID": "Telop_Center89",
+      "Text": 667,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 50
+    },
+    {
+      "$id": 668,
+      "ID": "PopUp_Error37",
+      "Text": 668,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 70
+    },
+    {
+      "$id": 669,
+      "ID": "Telop_Center90",
+      "Text": 669,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 670,
+      "ID": "PopUp_Error38",
+      "Text": 670,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 60
+    },
+    {
+      "$id": 671,
+      "ID": "PopUp_Error39",
+      "Text": 671,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 60
+    },
+    {
+      "$id": 672,
+      "ID": "enemy_boss_11",
+      "Text": 672,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 150
+    },
+    {
+      "$id": 673,
+      "ID": "enemy_boss_12",
+      "Text": 673,
+      "DispPos": 0,
+      "DispWide": 0,
+      "DispTime": 300
+    },
+    {
+      "$id": 674,
+      "ID": "PopUp_Error40",
+      "Text": 674,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 70
+    },
+    {
+      "$id": 675,
+      "ID": "Telop_Center91",
+      "Text": 675,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 676,
+      "ID": "PopUp_Error41",
+      "Text": 676,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 90
+    },
+    {
+      "$id": 677,
+      "ID": "PopUp_Error42",
+      "Text": 677,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 60
+    },
+    {
+      "$id": 678,
+      "ID": "PopUp_Error43",
+      "Text": 678,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 60
+    },
+    {
+      "$id": 679,
+      "ID": "PopUp_Error44",
+      "Text": 679,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 60
+    },
+    {
+      "$id": 680,
+      "ID": "Telop_Center92",
+      "Text": 680,
+      "DispPos": 3,
+      "DispWide": 0,
+      "DispTime": 80
+    },
+    {
+      "$id": 681,
+      "ID": "Telop_Center93",
+      "Text": 681,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 80
+    },
+    {
+      "$id": 682,
+      "ID": "PopUp_Error45",
+      "Text": 682,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 70
+    },
+    {
+      "$id": 683,
+      "ID": "PopUp_Error46",
+      "Text": 683,
+      "DispPos": 2,
+      "DispWide": 0,
+      "DispTime": 90
+    }
+  ]
+}

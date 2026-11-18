@@ -1,0 +1,384 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev021501_JNK0010",
+      "style": 4,
+      "name": "Inquire[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev021501_SEL0011",
+      "style": 3,
+      "name": "Ask Tracy about her work as a Companion.[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev021501_JNK0020",
+      "style": 1,
+      "name": "Discuss[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev021501_SEL0021",
+      "style": 3,
+      "name": "Ask Tracy if she's heard any interesting rumors.[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev021501_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 6,
+      "label": "tev021501_SEL0031",
+      "style": 3,
+      "name": "Ask Tracy about the Ma-non ship.[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "tev021501_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 8,
+      "label": "tev021501_SEL0041",
+      "style": 1,
+      "name": "Ask Tracy about recent developments.[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "tev021501_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 10,
+      "label": "tev021501_SEL0051",
+      "style": 1,
+      "name": "Ask Tracy about the enemy attack.[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev021501_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 12,
+      "label": "tev021501_SEL0041",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 13,
+      "label": "tev021501_MSG0001",
+      "style": 1,
+      "name": "We investigate crimes and resolve\nconflicts within the city walls.[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "tev021501_MSG0002",
+      "style": 1,
+      "name": "The obvious analogy is that we're NLA's police force.\nIt's a very different job from the other Unions,\nwhose duties have them traveling throughout Mira.[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "tev021501_MSG0003",
+      "style": 1,
+      "name": "So unlike those Unions, our members\nare more likely to have been police\nofficers or detectives than military.[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "tev021501_MSG0004",
+      "style": 1,
+      "name": "I was recruited into the Companion for my\nexperience as a detective in Los Angeles![ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "tev021501_MSG0005",
+      "style": 1,
+      "name": "I know what you're thinking—she must be a lot more\ncapable than she looks. And you're right! With my\ndetective's instincts, there's no crime I can't solve.[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "tev021501_MSG0006",
+      "style": 1,
+      "name": "So you'd best keep your own nose clean,\n[ST:gender p1=pal p2=missy ]. If you try anything suspicious, I'll\nfigure it out in no time flat![ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "tev021501_MSG0009",
+      "style": 1,
+      "name": "The Industrial Area is home to\nthe integrated production plant, a\nvital piece of NLA infrastructure.[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "tev021501_MSG0010",
+      "style": 1,
+      "name": "I spoke to a researcher there who was\nbemoaning the insufficient amount of\nMiran flora samples they've received.[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "tev021501_MSG0011",
+      "style": 1,
+      "name": "As it's my duty to patrol the city,\nthere was nothing I could do to help.[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "tev021501_MSG0012",
+      "style": 1,
+      "name": "But if you have spare time on\nyour hands, maybe you could\nassist with sample collecting.[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "tev021501_MSG0021",
+      "style": 1,
+      "name": "Residential Area residents complain\ntoo. They say it's scary having\nthat ship floating above the city.[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "tev021501_MSG0022",
+      "style": 1,
+      "name": "That was a decision handed down by HQ, so\nthere's nothing we can do about it. But I\ncan appreciate why they'd be concerned.[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "tev021501_MSG0023",
+      "style": 1,
+      "name": "There's also been talk recently of\nhaving a Ma-non join the Companion.[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "tev021501_MSG0024",
+      "style": 1,
+      "name": "What does this mean for the\nfuture of NLA? I hope things\ndon't get too weird around here.[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "tev021501_MSG0027",
+      "style": 1,
+      "name": "Between the Ma-non and Nopon,\nit's quite the menagerie of xenos\nwe have living with us now.[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "tev021501_MSG0028",
+      "style": 1,
+      "name": "Unfortunately, none of them seem to\nhave much understanding of Earth law.[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "tev021501_MSG0029",
+      "style": 1,
+      "name": "Does the prospect of xenoforms\nbringing their own rules and\ncommitting criminal acts disturb you?[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "tev021501_MSG0030",
+      "style": 1,
+      "name": "[ST:wide ]—Hehe, but don't worry! With Tracy-san's\ndetective instincts, I'll arrest\nthose people one after another![ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "tev021501_MSG0031",
+      "style": 1,
+      "name": "I will protect NLA. I'm the\nonly woman for the job![ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "tev021501_MSG0039",
+      "style": 1,
+      "name": "The attack has my detective's instincts\nbuzzing. Could there have been a collaboration\nwith local xenoforms behind the scenes?[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "tev021501_MSG0040",
+      "style": 1,
+      "name": "Think about it—how could the enemy\nhave known the exact location of\nthe machine they wanted to steal?[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "tev021501_MSG0041",
+      "style": 1,
+      "name": "Even within BLADE, only a\nlimited number of people had\naccess to that information.[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "tev021501_MSG0042",
+      "style": 1,
+      "name": "So let's suppose, for example, that the Ma-non\nwho were \"helping\" us research the machine\npassed that bit of information to the Growth.[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "tev021501_MSG0043",
+      "style": 1,
+      "name": "Does that not sound like a possible\nscenario? Or even...a plausible one?[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "tev021501_MSG0044",
+      "style": 1,
+      "name": "Officially, our friendship treaty with the Ma-non prevents\nme from acting on these suspicions. But what's to stop\nme from pursuing an investigation off the books...?[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "tev021501_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 39,
+      "label": "tev021501_SEL0051",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 40,
+      "label": "tev021501_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 41,
+      "label": "tev021501_SEL0061",
+      "style": 3,
+      "name": "Ask Tracy about recent developments.[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "tev021501_MSG0045",
+      "style": 1,
+      "name": "At long last, a legitimate\nthreat has come to our city![ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "tev021501_MSG0046",
+      "style": 1,
+      "name": "Look at those helmets! Those strange staff...thingies!\nIf we were back on Earth, any cop worth his badge\nwould have them under arrest in a country minute.[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "tev021501_MSG0047",
+      "style": 1,
+      "name": "Nevertheless, Director General\nMaurice has introduced them\nas our newest friends.[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "tev021501_MSG0048",
+      "style": 1,
+      "name": "But as a part of the thin blue line that\nseparates NLA from chaos, I do not\nacknowledge these \"Zaruboggan\" as friends.[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "tev021501_MSG0049",
+      "style": 1,
+      "name": "I know that they're up to something\nnefarious... And I intend to prove it![ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "tev021501_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 48,
+      "label": "tev021501_SEL0071",
+      "style": 3,
+      "name": "Ask Tracy for her thoughts on friendship treaties with xenoforms.[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "tev021501_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 50,
+      "label": "tev021501_SEL0081",
+      "style": 3,
+      "name": "Ask Tracy about recent developments.[ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "tev021501_MSG0050",
+      "style": 1,
+      "name": "After the destruction of Earth,\nnot everyone had the most positive\nimpression of alien races.[ST:wait ]"
+    },
+    {
+      "$id": 52,
+      "label": "tev021501_MSG0051",
+      "style": 1,
+      "name": "So when they first came to the\ncity, many in NLA were understandably\napprehensive about it.[ST:wait ]"
+    },
+    {
+      "$id": 53,
+      "label": "tev021501_MSG0052",
+      "style": 1,
+      "name": "But after they worked hand in hand with\nus to defeat the Growth, things changed.[ST:wait ]"
+    },
+    {
+      "$id": 54,
+      "label": "tev021501_MSG0053",
+      "style": 1,
+      "name": "Now it seems that virtually\neveryone in NLA accepts them\nas true friends of humanity.[ST:wait ]"
+    },
+    {
+      "$id": 55,
+      "label": "tev021501_MSG0054",
+      "style": 1,
+      "name": "And thanks to the help of that\nbighearted Shiraton, I was able to\nclear up my own misunderstanding.[ST:wait ]"
+    },
+    {
+      "$id": 56,
+      "label": "tev021501_MSG0055",
+      "style": 1,
+      "name": "Now that I've had a chance to open a\nproper dialogue, I'm proud of our\nchoice to forge pacts of friendship.[ST:wait ]"
+    },
+    {
+      "$id": 57,
+      "label": "tev021501_MSG0058",
+      "style": 1,
+      "name": "Some people may still be prejudiced\nagainst the Zaruboggan, but Tracy-san\nhere won't let them get away with it![ST:wait ]"
+    },
+    {
+      "$id": 58,
+      "label": "tev021501_MSG0059",
+      "style": 1,
+      "name": "Sure, they may walk around the\ncity with strange helmets and\nthose little staff dealies...[ST:wait ]"
+    },
+    {
+      "$id": 59,
+      "label": "tev021501_MSG0060",
+      "style": 1,
+      "name": "But to discriminate like that based on\nappearances is shamefully small-minded![ST:wait ]"
+    },
+    {
+      "$id": 60,
+      "label": "tev021501_MSG0061",
+      "style": 1,
+      "name": "...Hmm? You're saying I used\nto be that way myself?[ST:wait ]"
+    },
+    {
+      "$id": 61,
+      "label": "tev021501_MSG0062",
+      "style": 1,
+      "name": "Can you puh-LEASE put the past behind you already?\nYou won't be able to move forward in life if\nyou're constantly looking over your shoulder![ST:wait ]"
+    }
+  ]
+}

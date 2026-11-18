@@ -48,7 +48,7 @@
       "$id": 6,
       "label": "MNU_Sort006",
       "style": 20,
-      "name": "Appendage HP"
+      "name": "Part HP"
     },
     {
       "$id": 7,
@@ -156,13 +156,13 @@
       "$id": 24,
       "label": "MNU_Sort203",
       "style": 20,
-      "name": "Ascending EXP"
+      "name": "Inner EXP (Low to High)"
     },
     {
       "$id": 25,
       "label": "MNU_Sort204",
       "style": 20,
-      "name": "Descending EXP"
+      "name": "Inner EXP (High to Low)"
     },
     {
       "$id": 26,
@@ -192,7 +192,7 @@
       "$id": 30,
       "label": "MNU_Sort301",
       "style": 20,
-      "name": "Armor"
+      "name": "Inner Armor Category"
     },
     {
       "$id": 31,
@@ -210,19 +210,19 @@
       "$id": 33,
       "label": "MNU_Sort304",
       "style": 20,
-      "name": "Category"
+      "name": "Species"
     },
     {
       "$id": 34,
       "label": "MNU_Sort305",
       "style": 20,
-      "name": "Subcategory"
+      "name": "Genus"
     },
     {
       "$id": 35,
       "label": "MNU_Sort306",
       "style": 20,
-      "name": "Weapons"
+      "name": "Inner Weapon Category"
     },
     {
       "$id": 36,
@@ -234,7 +234,7 @@
       "$id": 37,
       "label": "MNU_Sort308",
       "style": 20,
-      "name": "Shop Lineup"
+      "name": "Shop List"
     }
   ]
 }

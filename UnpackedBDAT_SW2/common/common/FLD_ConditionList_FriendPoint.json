@@ -1,0 +1,1772 @@
+{
+  "schema": [
+    {
+      "name": "ID",
+      "type": 9
+    },
+    {
+      "name": "FriendID",
+      "type": 2
+    },
+    {
+      "name": "FriendPoint",
+      "type": 2
+    },
+    {
+      "name": "FriendPointMAX",
+      "type": 2
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "ID": "COND_FRIEND_NONE",
+      "FriendID": 0,
+      "FriendPoint": 0,
+      "FriendPointMAX": 0
+    },
+    {
+      "$id": 2,
+      "ID": "COND_FRIEND_NA_FP_OV0",
+      "FriendID": 1,
+      "FriendPoint": 0,
+      "FriendPointMAX": 9
+    },
+    {
+      "$id": 3,
+      "ID": "COND_FRIEND_NA_FP_OV1",
+      "FriendID": 1,
+      "FriendPoint": 10,
+      "FriendPointMAX": 50
+    },
+    {
+      "$id": 4,
+      "ID": "COND_FRIEND_NA_FP_OV2",
+      "FriendID": 1,
+      "FriendPoint": 20,
+      "FriendPointMAX": 50
+    },
+    {
+      "$id": 5,
+      "ID": "COND_FRIEND_NA_FP_OV3",
+      "FriendID": 1,
+      "FriendPoint": 30,
+      "FriendPointMAX": 50
+    },
+    {
+      "$id": 6,
+      "ID": "COND_FRIEND_NA_FP_OV4",
+      "FriendID": 1,
+      "FriendPoint": 40,
+      "FriendPointMAX": 50
+    },
+    {
+      "$id": 7,
+      "ID": "COND_FRIEND_NA_FP_OV5",
+      "FriendID": 1,
+      "FriendPoint": 50,
+      "FriendPointMAX": 50
+    },
+    {
+      "$id": 8,
+      "ID": "COND_FRIEND_NA_FP_UN2",
+      "FriendID": 1,
+      "FriendPoint": 10,
+      "FriendPointMAX": 19
+    },
+    {
+      "$id": 9,
+      "ID": "COND_FRIEND_NA_FP_UN3",
+      "FriendID": 1,
+      "FriendPoint": 20,
+      "FriendPointMAX": 29
+    },
+    {
+      "$id": 10,
+      "ID": "COND_FRIEND_NA_FP_UN4",
+      "FriendID": 1,
+      "FriendPoint": 30,
+      "FriendPointMAX": 39
+    },
+    {
+      "$id": 11,
+      "ID": "COND_FRIEND_NA_FP_UN5",
+      "FriendID": 1,
+      "FriendPoint": 40,
+      "FriendPointMAX": 49
+    },
+    {
+      "$id": 12,
+      "ID": "COND_FRIEND_LU_FP_OV0",
+      "FriendID": 2,
+      "FriendPoint": 0,
+      "FriendPointMAX": 9
+    },
+    {
+      "$id": 13,
+      "ID": "COND_FRIEND_LU_FP_OV1",
+      "FriendID": 2,
+      "FriendPoint": 10,
+      "FriendPointMAX": 50
+    },
+    {
+      "$id": 14,
+      "ID": "COND_FRIEND_LU_FP_OV2",
+      "FriendID": 2,
+      "FriendPoint": 20,
+      "FriendPointMAX": 50
+    },
+    {
+      "$id": 15,
+      "ID": "COND_FRIEND_LU_FP_OV3",
+      "FriendID": 2,
+      "FriendPoint": 30,
+      "FriendPointMAX": 50
+    },
+    {
+      "$id": 16,
+      "ID": "COND_FRIEND_LU_FP_OV4",
+      "FriendID": 2,
+      "FriendPoint": 40,
+      "FriendPointMAX": 50
+    },
+    {
+      "$id": 17,
+      "ID": "COND_FRIEND_LU_FP_OV5",
+      "FriendID": 2,
+      "FriendPoint": 50,
+      "FriendPointMAX": 50
+    },
+    {
+      "$id": 18,
+      "ID": "COND_FRIEND_LU_FP_UN2",
+      "FriendID": 2,
+      "FriendPoint": 10,
+      "FriendPointMAX": 19
+    },
+    {
+      "$id": 19,
+      "ID": "COND_FRIEND_LU_FP_UN3",
+      "FriendID": 2,
+      "FriendPoint": 20,
+      "FriendPointMAX": 29
+    },
+    {
+      "$id": 20,
+      "ID": "COND_FRIEND_LU_FP_UN4",
+      "FriendID": 2,
+      "FriendPoint": 30,
+      "FriendPointMAX": 39
+    },
+    {
+      "$id": 21,
+      "ID": "COND_FRIEND_LU_FP_UN5",
+      "FriendID": 2,
+      "FriendPoint": 40,
+      "FriendPointMAX": 49
+    },
+    {
+      "$id": 22,
+      "ID": "COND_FRIEND_RA_FP_OV0",
+      "FriendID": 3,
+      "FriendPoint": 0,
+      "FriendPointMAX": 9
+    },
+    {
+      "$id": 23,
+      "ID": "COND_FRIEND_RA_FP_OV1",
+      "FriendID": 3,
+      "FriendPoint": 10,
+      "FriendPointMAX": 50
+    },
+    {
+      "$id": 24,
+      "ID": "COND_FRIEND_RA_FP_OV2",
+      "FriendID": 3,
+      "FriendPoint": 20,
+      "FriendPointMAX": 50
+    },
+    {
+      "$id": 25,
+      "ID": "COND_FRIEND_RA_FP_OV3",
+      "FriendID": 3,
+      "FriendPoint": 30,
+      "FriendPointMAX": 50
+    },
+    {
+      "$id": 26,
+      "ID": "COND_FRIEND_RA_FP_OV4",
+      "FriendID": 3,
+      "FriendPoint": 40,
+      "FriendPointMAX": 50
+    },
+    {
+      "$id": 27,
+      "ID": "COND_FRIEND_RA_FP_OV5",
+      "FriendID": 3,
+      "FriendPoint": 50,
+      "FriendPointMAX": 50
+    },
+    {
+      "$id": 28,
+      "ID": "COND_FRIEND_RA_FP_UN2",
+      "FriendID": 3,
+      "FriendPoint": 10,
+      "FriendPointMAX": 19
+    },
+    {
+      "$id": 29,
+      "ID": "COND_FRIEND_RA_FP_UN3",
+      "FriendID": 3,
+      "FriendPoint": 20,
+      "FriendPointMAX": 29
+    },
+    {
+      "$id": 30,
+      "ID": "COND_FRIEND_RA_FP_UN4",
+      "FriendID": 3,
+      "FriendPoint": 30,
+      "FriendPointMAX": 39
+    },
+    {
+      "$id": 31,
+      "ID": "COND_FRIEND_RA_FP_UN5",
+      "FriendID": 3,
+      "FriendPoint": 40,
+      "FriendPointMAX": 49
+    },
+    {
+      "$id": 32,
+      "ID": "COND_FRIEND_HB_FP_OV0",
+      "FriendID": 4,
+      "FriendPoint": 0,
+      "FriendPointMAX": 9
+    },
+    {
+      "$id": 33,
+      "ID": "COND_FRIEND_HB_FP_OV1",
+      "FriendID": 4,
+      "FriendPoint": 10,
+      "FriendPointMAX": 50
+    },
+    {
+      "$id": 34,
+      "ID": "COND_FRIEND_HB_FP_OV2",
+      "FriendID": 4,
+      "FriendPoint": 20,
+      "FriendPointMAX": 50
+    },
+    {
+      "$id": 35,
+      "ID": "COND_FRIEND_HB_FP_OV3",
+      "FriendID": 4,
+      "FriendPoint": 30,
+      "FriendPointMAX": 50
+    },
+    {
+      "$id": 36,
+      "ID": "COND_FRIEND_HB_FP_OV4",
+      "FriendID": 4,
+      "FriendPoint": 40,
+      "FriendPointMAX": 50
+    },
+    {
+      "$id": 37,
+      "ID": "COND_FRIEND_HB_FP_OV5",
+      "FriendID": 4,
+      "FriendPoint": 50,
+      "FriendPointMAX": 50
+    },
+    {
+      "$id": 38,
+      "ID": "COND_FRIEND_HB_FP_UN2",
+      "FriendID": 4,
+      "FriendPoint": 10,
+      "FriendPointMAX": 19
+    },
+    {
+      "$id": 39,
+      "ID": "COND_FRIEND_HB_FP_UN3",
+      "FriendID": 4,
+      "FriendPoint": 20,
+      "FriendPointMAX": 29
+    },
+    {
+      "$id": 40,
+      "ID": "COND_FRIEND_HB_FP_UN4",
+      "FriendID": 4,
+      "FriendPoint": 30,
+      "FriendPointMAX": 39
+    },
+    {
+      "$id": 41,
+      "ID": "COND_FRIEND_HB_FP_UN5",
+      "FriendID": 4,
+      "FriendPoint": 40,
+      "FriendPointMAX": 49
+    },
+    {
+      "$id": 42,
+      "ID": "COND_FRIEND_GU_FP_OV0",
+      "FriendID": 5,
+      "FriendPoint": 0,
+      "FriendPointMAX": 9
+    },
+    {
+      "$id": 43,
+      "ID": "COND_FRIEND_GU_FP_OV1",
+      "FriendID": 5,
+      "FriendPoint": 10,
+      "FriendPointMAX": 50
+    },
+    {
+      "$id": 44,
+      "ID": "COND_FRIEND_GU_FP_OV2",
+      "FriendID": 5,
+      "FriendPoint": 20,
+      "FriendPointMAX": 50
+    },
+    {
+      "$id": 45,
+      "ID": "COND_FRIEND_GU_FP_OV3",
+      "FriendID": 5,
+      "FriendPoint": 30,
+      "FriendPointMAX": 50
+    },
+    {
+      "$id": 46,
+      "ID": "COND_FRIEND_GU_FP_OV4",
+      "FriendID": 5,
+      "FriendPoint": 40,
+      "FriendPointMAX": 50
+    },
+    {
+      "$id": 47,
+      "ID": "COND_FRIEND_GU_FP_OV5",
+      "FriendID": 5,
+      "FriendPoint": 50,
+      "FriendPointMAX": 50
+    },
+    {
+      "$id": 48,
+      "ID": "COND_FRIEND_GU_FP_UN2",
+      "FriendID": 5,
+      "FriendPoint": 10,
+      "FriendPointMAX": 19
+    },
+    {
+      "$id": 49,
+      "ID": "COND_FRIEND_GU_FP_UN3",
+      "FriendID": 5,
+      "FriendPoint": 20,
+      "FriendPointMAX": 29
+    },
+    {
+      "$id": 50,
+      "ID": "COND_FRIEND_GU_FP_UN4",
+      "FriendID": 5,
+      "FriendPoint": 30,
+      "FriendPointMAX": 39
+    },
+    {
+      "$id": 51,
+      "ID": "COND_FRIEND_GU_FP_UN5",
+      "FriendID": 5,
+      "FriendPoint": 40,
+      "FriendPointMAX": 49
+    },
+    {
+      "$id": 52,
+      "ID": "COND_FRIEND_FU_FP_OV0",
+      "FriendID": 6,
+      "FriendPoint": 0,
+      "FriendPointMAX": 9
+    },
+    {
+      "$id": 53,
+      "ID": "COND_FRIEND_FU_FP_OV1",
+      "FriendID": 6,
+      "FriendPoint": 10,
+      "FriendPointMAX": 50
+    },
+    {
+      "$id": 54,
+      "ID": "COND_FRIEND_FU_FP_OV2",
+      "FriendID": 6,
+      "FriendPoint": 20,
+      "FriendPointMAX": 50
+    },
+    {
+      "$id": 55,
+      "ID": "COND_FRIEND_FU_FP_OV3",
+      "FriendID": 6,
+      "FriendPoint": 30,
+      "FriendPointMAX": 50
+    },
+    {
+      "$id": 56,
+      "ID": "COND_FRIEND_FU_FP_OV4",
+      "FriendID": 6,
+      "FriendPoint": 40,
+      "FriendPointMAX": 50
+    },
+    {
+      "$id": 57,
+      "ID": "COND_FRIEND_FU_FP_OV5",
+      "FriendID": 6,
+      "FriendPoint": 50,
+      "FriendPointMAX": 50
+    },
+    {
+      "$id": 58,
+      "ID": "COND_FRIEND_FU_FP_UN2",
+      "FriendID": 6,
+      "FriendPoint": 10,
+      "FriendPointMAX": 19
+    },
+    {
+      "$id": 59,
+      "ID": "COND_FRIEND_FU_FP_UN3",
+      "FriendID": 6,
+      "FriendPoint": 20,
+      "FriendPointMAX": 29
+    },
+    {
+      "$id": 60,
+      "ID": "COND_FRIEND_FU_FP_UN4",
+      "FriendID": 6,
+      "FriendPoint": 30,
+      "FriendPointMAX": 39
+    },
+    {
+      "$id": 61,
+      "ID": "COND_FRIEND_FU_FP_UN5",
+      "FriendID": 6,
+      "FriendPoint": 40,
+      "FriendPointMAX": 49
+    },
+    {
+      "$id": 62,
+      "ID": "COND_FRIEND_DA_FP_OV0",
+      "FriendID": 7,
+      "FriendPoint": 0,
+      "FriendPointMAX": 9
+    },
+    {
+      "$id": 63,
+      "ID": "COND_FRIEND_DA_FP_OV1",
+      "FriendID": 7,
+      "FriendPoint": 10,
+      "FriendPointMAX": 50
+    },
+    {
+      "$id": 64,
+      "ID": "COND_FRIEND_DA_FP_OV2",
+      "FriendID": 7,
+      "FriendPoint": 20,
+      "FriendPointMAX": 50
+    },
+    {
+      "$id": 65,
+      "ID": "COND_FRIEND_DA_FP_OV3",
+      "FriendID": 7,
+      "FriendPoint": 30,
+      "FriendPointMAX": 50
+    },
+    {
+      "$id": 66,
+      "ID": "COND_FRIEND_DA_FP_OV4",
+      "FriendID": 7,
+      "FriendPoint": 40,
+      "FriendPointMAX": 50
+    },
+    {
+      "$id": 67,
+      "ID": "COND_FRIEND_DA_FP_OV5",
+      "FriendID": 7,
+      "FriendPoint": 50,
+      "FriendPointMAX": 50
+    },
+    {
+      "$id": 68,
+      "ID": "COND_FRIEND_DA_FP_UN2",
+      "FriendID": 7,
+      "FriendPoint": 10,
+      "FriendPointMAX": 19
+    },
+    {
+      "$id": 69,
+      "ID": "COND_FRIEND_DA_FP_UN3",
+      "FriendID": 7,
+      "FriendPoint": 20,
+      "FriendPointMAX": 29
+    },
+    {
+      "$id": 70,
+      "ID": "COND_FRIEND_DA_FP_UN4",
+      "FriendID": 7,
+      "FriendPoint": 30,
+      "FriendPointMAX": 39
+    },
+    {
+      "$id": 71,
+      "ID": "COND_FRIEND_DA_FP_UN5",
+      "FriendID": 7,
+      "FriendPoint": 40,
+      "FriendPointMAX": 49
+    },
+    {
+      "$id": 72,
+      "ID": "COND_FRIEND_IE_FP_OV0",
+      "FriendID": 8,
+      "FriendPoint": 0,
+      "FriendPointMAX": 9
+    },
+    {
+      "$id": 73,
+      "ID": "COND_FRIEND_IE_FP_OV1",
+      "FriendID": 8,
+      "FriendPoint": 10,
+      "FriendPointMAX": 50
+    },
+    {
+      "$id": 74,
+      "ID": "COND_FRIEND_IE_FP_OV2",
+      "FriendID": 8,
+      "FriendPoint": 20,
+      "FriendPointMAX": 50
+    },
+    {
+      "$id": 75,
+      "ID": "COND_FRIEND_IE_FP_OV3",
+      "FriendID": 8,
+      "FriendPoint": 30,
+      "FriendPointMAX": 50
+    },
+    {
+      "$id": 76,
+      "ID": "COND_FRIEND_IE_FP_OV4",
+      "FriendID": 8,
+      "FriendPoint": 40,
+      "FriendPointMAX": 50
+    },
+    {
+      "$id": 77,
+      "ID": "COND_FRIEND_IE_FP_OV5",
+      "FriendID": 8,
+      "FriendPoint": 50,
+      "FriendPointMAX": 50
+    },
+    {
+      "$id": 78,
+      "ID": "COND_FRIEND_IE_FP_UN2",
+      "FriendID": 8,
+      "FriendPoint": 10,
+      "FriendPointMAX": 19
+    },
+    {
+      "$id": 79,
+      "ID": "COND_FRIEND_IE_FP_UN3",
+      "FriendID": 8,
+      "FriendPoint": 20,
+      "FriendPointMAX": 29
+    },
+    {
+      "$id": 80,
+      "ID": "COND_FRIEND_IE_FP_UN4",
+      "FriendID": 8,
+      "FriendPoint": 30,
+      "FriendPointMAX": 39
+    },
+    {
+      "$id": 81,
+      "ID": "COND_FRIEND_IE_FP_UN5",
+      "FriendID": 8,
+      "FriendPoint": 40,
+      "FriendPointMAX": 49
+    },
+    {
+      "$id": 82,
+      "ID": "COND_FRIEND_BO_FP_OV0",
+      "FriendID": 9,
+      "FriendPoint": 0,
+      "FriendPointMAX": 9
+    },
+    {
+      "$id": 83,
+      "ID": "COND_FRIEND_BO_FP_OV1",
+      "FriendID": 9,
+      "FriendPoint": 10,
+      "FriendPointMAX": 50
+    },
+    {
+      "$id": 84,
+      "ID": "COND_FRIEND_BO_FP_OV2",
+      "FriendID": 9,
+      "FriendPoint": 20,
+      "FriendPointMAX": 50
+    },
+    {
+      "$id": 85,
+      "ID": "COND_FRIEND_BO_FP_OV3",
+      "FriendID": 9,
+      "FriendPoint": 30,
+      "FriendPointMAX": 50
+    },
+    {
+      "$id": 86,
+      "ID": "COND_FRIEND_BO_FP_OV4",
+      "FriendID": 9,
+      "FriendPoint": 40,
+      "FriendPointMAX": 50
+    },
+    {
+      "$id": 87,
+      "ID": "COND_FRIEND_BO_FP_OV5",
+      "FriendID": 9,
+      "FriendPoint": 50,
+      "FriendPointMAX": 50
+    },
+    {
+      "$id": 88,
+      "ID": "COND_FRIEND_BO_FP_UN2",
+      "FriendID": 9,
+      "FriendPoint": 10,
+      "FriendPointMAX": 19
+    },
+    {
+      "$id": 89,
+      "ID": "COND_FRIEND_BO_FP_UN3",
+      "FriendID": 9,
+      "FriendPoint": 20,
+      "FriendPointMAX": 29
+    },
+    {
+      "$id": 90,
+      "ID": "COND_FRIEND_BO_FP_UN4",
+      "FriendID": 9,
+      "FriendPoint": 30,
+      "FriendPointMAX": 39
+    },
+    {
+      "$id": 91,
+      "ID": "COND_FRIEND_BO_FP_UN5",
+      "FriendID": 9,
+      "FriendPoint": 40,
+      "FriendPointMAX": 49
+    },
+    {
+      "$id": 92,
+      "ID": "COND_FRIEND_FO_FP_OV0",
+      "FriendID": 10,
+      "FriendPoint": 0,
+      "FriendPointMAX": 9
+    },
+    {
+      "$id": 93,
+      "ID": "COND_FRIEND_FO_FP_OV1",
+      "FriendID": 10,
+      "FriendPoint": 10,
+      "FriendPointMAX": 50
+    },
+    {
+      "$id": 94,
+      "ID": "COND_FRIEND_FO_FP_OV2",
+      "FriendID": 10,
+      "FriendPoint": 20,
+      "FriendPointMAX": 50
+    },
+    {
+      "$id": 95,
+      "ID": "COND_FRIEND_FO_FP_OV3",
+      "FriendID": 10,
+      "FriendPoint": 30,
+      "FriendPointMAX": 50
+    },
+    {
+      "$id": 96,
+      "ID": "COND_FRIEND_FO_FP_OV4",
+      "FriendID": 10,
+      "FriendPoint": 40,
+      "FriendPointMAX": 50
+    },
+    {
+      "$id": 97,
+      "ID": "COND_FRIEND_FO_FP_OV5",
+      "FriendID": 10,
+      "FriendPoint": 50,
+      "FriendPointMAX": 50
+    },
+    {
+      "$id": 98,
+      "ID": "COND_FRIEND_FO_FP_UN2",
+      "FriendID": 10,
+      "FriendPoint": 10,
+      "FriendPointMAX": 19
+    },
+    {
+      "$id": 99,
+      "ID": "COND_FRIEND_FO_FP_UN3",
+      "FriendID": 10,
+      "FriendPoint": 20,
+      "FriendPointMAX": 29
+    },
+    {
+      "$id": 100,
+      "ID": "COND_FRIEND_FO_FP_UN4",
+      "FriendID": 10,
+      "FriendPoint": 30,
+      "FriendPointMAX": 39
+    },
+    {
+      "$id": 101,
+      "ID": "COND_FRIEND_FO_FP_UN5",
+      "FriendID": 10,
+      "FriendPoint": 40,
+      "FriendPointMAX": 49
+    },
+    {
+      "$id": 102,
+      "ID": "COND_FRIEND_ER_FP_OV0",
+      "FriendID": 11,
+      "FriendPoint": 0,
+      "FriendPointMAX": 9
+    },
+    {
+      "$id": 103,
+      "ID": "COND_FRIEND_ER_FP_OV1",
+      "FriendID": 11,
+      "FriendPoint": 10,
+      "FriendPointMAX": 50
+    },
+    {
+      "$id": 104,
+      "ID": "COND_FRIEND_ER_FP_OV2",
+      "FriendID": 11,
+      "FriendPoint": 20,
+      "FriendPointMAX": 50
+    },
+    {
+      "$id": 105,
+      "ID": "COND_FRIEND_ER_FP_OV3",
+      "FriendID": 11,
+      "FriendPoint": 30,
+      "FriendPointMAX": 50
+    },
+    {
+      "$id": 106,
+      "ID": "COND_FRIEND_ER_FP_OV4",
+      "FriendID": 11,
+      "FriendPoint": 40,
+      "FriendPointMAX": 50
+    },
+    {
+      "$id": 107,
+      "ID": "COND_FRIEND_ER_FP_OV5",
+      "FriendID": 11,
+      "FriendPoint": 50,
+      "FriendPointMAX": 50
+    },
+    {
+      "$id": 108,
+      "ID": "COND_FRIEND_ER_FP_UN2",
+      "FriendID": 11,
+      "FriendPoint": 10,
+      "FriendPointMAX": 19
+    },
+    {
+      "$id": 109,
+      "ID": "COND_FRIEND_ER_FP_UN3",
+      "FriendID": 11,
+      "FriendPoint": 20,
+      "FriendPointMAX": 29
+    },
+    {
+      "$id": 110,
+      "ID": "COND_FRIEND_ER_FP_UN4",
+      "FriendID": 11,
+      "FriendPoint": 30,
+      "FriendPointMAX": 39
+    },
+    {
+      "$id": 111,
+      "ID": "COND_FRIEND_ER_FP_UN5",
+      "FriendID": 11,
+      "FriendPoint": 40,
+      "FriendPointMAX": 49
+    },
+    {
+      "$id": 112,
+      "ID": "COND_FRIEND_RI_FP_OV0",
+      "FriendID": 12,
+      "FriendPoint": 0,
+      "FriendPointMAX": 9
+    },
+    {
+      "$id": 113,
+      "ID": "COND_FRIEND_RI_FP_OV1",
+      "FriendID": 12,
+      "FriendPoint": 10,
+      "FriendPointMAX": 50
+    },
+    {
+      "$id": 114,
+      "ID": "COND_FRIEND_RI_FP_OV2",
+      "FriendID": 12,
+      "FriendPoint": 20,
+      "FriendPointMAX": 50
+    },
+    {
+      "$id": 115,
+      "ID": "COND_FRIEND_RI_FP_OV3",
+      "FriendID": 12,
+      "FriendPoint": 30,
+      "FriendPointMAX": 50
+    },
+    {
+      "$id": 116,
+      "ID": "COND_FRIEND_RI_FP_OV4",
+      "FriendID": 12,
+      "FriendPoint": 40,
+      "FriendPointMAX": 50
+    },
+    {
+      "$id": 117,
+      "ID": "COND_FRIEND_RI_FP_OV5",
+      "FriendID": 12,
+      "FriendPoint": 50,
+      "FriendPointMAX": 50
+    },
+    {
+      "$id": 118,
+      "ID": "COND_FRIEND_RI_FP_UN2",
+      "FriendID": 12,
+      "FriendPoint": 10,
+      "FriendPointMAX": 19
+    },
+    {
+      "$id": 119,
+      "ID": "COND_FRIEND_RI_FP_UN3",
+      "FriendID": 12,
+      "FriendPoint": 20,
+      "FriendPointMAX": 29
+    },
+    {
+      "$id": 120,
+      "ID": "COND_FRIEND_RI_FP_UN4",
+      "FriendID": 12,
+      "FriendPoint": 30,
+      "FriendPointMAX": 39
+    },
+    {
+      "$id": 121,
+      "ID": "COND_FRIEND_RI_FP_UN5",
+      "FriendID": 12,
+      "FriendPoint": 40,
+      "FriendPointMAX": 49
+    },
+    {
+      "$id": 122,
+      "ID": "COND_FRIEND_SE_FP_OV0",
+      "FriendID": 13,
+      "FriendPoint": 0,
+      "FriendPointMAX": 9
+    },
+    {
+      "$id": 123,
+      "ID": "COND_FRIEND_SE_FP_OV1",
+      "FriendID": 13,
+      "FriendPoint": 10,
+      "FriendPointMAX": 50
+    },
+    {
+      "$id": 124,
+      "ID": "COND_FRIEND_SE_FP_OV2",
+      "FriendID": 13,
+      "FriendPoint": 20,
+      "FriendPointMAX": 50
+    },
+    {
+      "$id": 125,
+      "ID": "COND_FRIEND_SE_FP_OV3",
+      "FriendID": 13,
+      "FriendPoint": 30,
+      "FriendPointMAX": 50
+    },
+    {
+      "$id": 126,
+      "ID": "COND_FRIEND_SE_FP_OV4",
+      "FriendID": 13,
+      "FriendPoint": 40,
+      "FriendPointMAX": 50
+    },
+    {
+      "$id": 127,
+      "ID": "COND_FRIEND_SE_FP_OV5",
+      "FriendID": 13,
+      "FriendPoint": 50,
+      "FriendPointMAX": 50
+    },
+    {
+      "$id": 128,
+      "ID": "COND_FRIEND_SE_FP_UN2",
+      "FriendID": 13,
+      "FriendPoint": 10,
+      "FriendPointMAX": 19
+    },
+    {
+      "$id": 129,
+      "ID": "COND_FRIEND_SE_FP_UN3",
+      "FriendID": 13,
+      "FriendPoint": 20,
+      "FriendPointMAX": 29
+    },
+    {
+      "$id": 130,
+      "ID": "COND_FRIEND_SE_FP_UN4",
+      "FriendID": 13,
+      "FriendPoint": 30,
+      "FriendPointMAX": 39
+    },
+    {
+      "$id": 131,
+      "ID": "COND_FRIEND_SE_FP_UN5",
+      "FriendID": 13,
+      "FriendPoint": 40,
+      "FriendPointMAX": 49
+    },
+    {
+      "$id": 132,
+      "ID": "COND_FRIEND_IR_FP_OV0",
+      "FriendID": 14,
+      "FriendPoint": 0,
+      "FriendPointMAX": 9
+    },
+    {
+      "$id": 133,
+      "ID": "COND_FRIEND_IR_FP_OV1",
+      "FriendID": 14,
+      "FriendPoint": 10,
+      "FriendPointMAX": 50
+    },
+    {
+      "$id": 134,
+      "ID": "COND_FRIEND_IR_FP_OV2",
+      "FriendID": 14,
+      "FriendPoint": 20,
+      "FriendPointMAX": 50
+    },
+    {
+      "$id": 135,
+      "ID": "COND_FRIEND_IR_FP_OV3",
+      "FriendID": 14,
+      "FriendPoint": 30,
+      "FriendPointMAX": 50
+    },
+    {
+      "$id": 136,
+      "ID": "COND_FRIEND_IR_FP_OV4",
+      "FriendID": 14,
+      "FriendPoint": 40,
+      "FriendPointMAX": 50
+    },
+    {
+      "$id": 137,
+      "ID": "COND_FRIEND_IR_FP_OV5",
+      "FriendID": 14,
+      "FriendPoint": 50,
+      "FriendPointMAX": 50
+    },
+    {
+      "$id": 138,
+      "ID": "COND_FRIEND_IR_FP_UN2",
+      "FriendID": 14,
+      "FriendPoint": 10,
+      "FriendPointMAX": 19
+    },
+    {
+      "$id": 139,
+      "ID": "COND_FRIEND_IR_FP_UN3",
+      "FriendID": 14,
+      "FriendPoint": 20,
+      "FriendPointMAX": 29
+    },
+    {
+      "$id": 140,
+      "ID": "COND_FRIEND_IR_FP_UN4",
+      "FriendID": 14,
+      "FriendPoint": 30,
+      "FriendPointMAX": 39
+    },
+    {
+      "$id": 141,
+      "ID": "COND_FRIEND_IR_FP_UN5",
+      "FriendID": 14,
+      "FriendPoint": 40,
+      "FriendPointMAX": 49
+    },
+    {
+      "$id": 142,
+      "ID": "COND_FRIEND_MA_FP_OV0",
+      "FriendID": 15,
+      "FriendPoint": 0,
+      "FriendPointMAX": 9
+    },
+    {
+      "$id": 143,
+      "ID": "COND_FRIEND_MA_FP_OV1",
+      "FriendID": 15,
+      "FriendPoint": 10,
+      "FriendPointMAX": 50
+    },
+    {
+      "$id": 144,
+      "ID": "COND_FRIEND_MA_FP_OV2",
+      "FriendID": 15,
+      "FriendPoint": 20,
+      "FriendPointMAX": 50
+    },
+    {
+      "$id": 145,
+      "ID": "COND_FRIEND_MA_FP_OV3",
+      "FriendID": 15,
+      "FriendPoint": 30,
+      "FriendPointMAX": 50
+    },
+    {
+      "$id": 146,
+      "ID": "COND_FRIEND_MA_FP_OV4",
+      "FriendID": 15,
+      "FriendPoint": 40,
+      "FriendPointMAX": 50
+    },
+    {
+      "$id": 147,
+      "ID": "COND_FRIEND_MA_FP_OV5",
+      "FriendID": 15,
+      "FriendPoint": 50,
+      "FriendPointMAX": 50
+    },
+    {
+      "$id": 148,
+      "ID": "COND_FRIEND_MA_FP_UN2",
+      "FriendID": 15,
+      "FriendPoint": 10,
+      "FriendPointMAX": 19
+    },
+    {
+      "$id": 149,
+      "ID": "COND_FRIEND_MA_FP_UN3",
+      "FriendID": 15,
+      "FriendPoint": 20,
+      "FriendPointMAX": 29
+    },
+    {
+      "$id": 150,
+      "ID": "COND_FRIEND_MA_FP_UN4",
+      "FriendID": 15,
+      "FriendPoint": 30,
+      "FriendPointMAX": 39
+    },
+    {
+      "$id": 151,
+      "ID": "COND_FRIEND_MA_FP_UN5",
+      "FriendID": 15,
+      "FriendPoint": 40,
+      "FriendPointMAX": 49
+    },
+    {
+      "$id": 152,
+      "ID": "COND_FRIEND_AK_FP_OV0",
+      "FriendID": 16,
+      "FriendPoint": 0,
+      "FriendPointMAX": 9
+    },
+    {
+      "$id": 153,
+      "ID": "COND_FRIEND_AK_FP_OV1",
+      "FriendID": 16,
+      "FriendPoint": 10,
+      "FriendPointMAX": 50
+    },
+    {
+      "$id": 154,
+      "ID": "COND_FRIEND_AK_FP_OV2",
+      "FriendID": 16,
+      "FriendPoint": 20,
+      "FriendPointMAX": 50
+    },
+    {
+      "$id": 155,
+      "ID": "COND_FRIEND_AK_FP_OV3",
+      "FriendID": 16,
+      "FriendPoint": 30,
+      "FriendPointMAX": 50
+    },
+    {
+      "$id": 156,
+      "ID": "COND_FRIEND_AK_FP_OV4",
+      "FriendID": 16,
+      "FriendPoint": 40,
+      "FriendPointMAX": 50
+    },
+    {
+      "$id": 157,
+      "ID": "COND_FRIEND_AK_FP_OV5",
+      "FriendID": 16,
+      "FriendPoint": 50,
+      "FriendPointMAX": 50
+    },
+    {
+      "$id": 158,
+      "ID": "COND_FRIEND_AK_FP_UN2",
+      "FriendID": 16,
+      "FriendPoint": 10,
+      "FriendPointMAX": 19
+    },
+    {
+      "$id": 159,
+      "ID": "COND_FRIEND_AK_FP_UN3",
+      "FriendID": 16,
+      "FriendPoint": 20,
+      "FriendPointMAX": 29
+    },
+    {
+      "$id": 160,
+      "ID": "COND_FRIEND_AK_FP_UN4",
+      "FriendID": 16,
+      "FriendPoint": 30,
+      "FriendPointMAX": 39
+    },
+    {
+      "$id": 161,
+      "ID": "COND_FRIEND_AK_FP_UN5",
+      "FriendID": 16,
+      "FriendPoint": 40,
+      "FriendPointMAX": 49
+    },
+    {
+      "$id": 162,
+      "ID": "COND_FRIEND_HI_FP_OV0",
+      "FriendID": 17,
+      "FriendPoint": 0,
+      "FriendPointMAX": 9
+    },
+    {
+      "$id": 163,
+      "ID": "COND_FRIEND_HI_FP_OV1",
+      "FriendID": 17,
+      "FriendPoint": 10,
+      "FriendPointMAX": 50
+    },
+    {
+      "$id": 164,
+      "ID": "COND_FRIEND_HI_FP_OV2",
+      "FriendID": 17,
+      "FriendPoint": 20,
+      "FriendPointMAX": 50
+    },
+    {
+      "$id": 165,
+      "ID": "COND_FRIEND_HI_FP_OV3",
+      "FriendID": 17,
+      "FriendPoint": 30,
+      "FriendPointMAX": 50
+    },
+    {
+      "$id": 166,
+      "ID": "COND_FRIEND_HI_FP_OV4",
+      "FriendID": 17,
+      "FriendPoint": 40,
+      "FriendPointMAX": 50
+    },
+    {
+      "$id": 167,
+      "ID": "COND_FRIEND_HI_FP_OV5",
+      "FriendID": 17,
+      "FriendPoint": 50,
+      "FriendPointMAX": 50
+    },
+    {
+      "$id": 168,
+      "ID": "COND_FRIEND_HI_FP_UN2",
+      "FriendID": 17,
+      "FriendPoint": 10,
+      "FriendPointMAX": 19
+    },
+    {
+      "$id": 169,
+      "ID": "COND_FRIEND_HI_FP_UN3",
+      "FriendID": 17,
+      "FriendPoint": 20,
+      "FriendPointMAX": 29
+    },
+    {
+      "$id": 170,
+      "ID": "COND_FRIEND_HI_FP_UN4",
+      "FriendID": 17,
+      "FriendPoint": 30,
+      "FriendPointMAX": 39
+    },
+    {
+      "$id": 171,
+      "ID": "COND_FRIEND_HI_FP_UN5",
+      "FriendID": 17,
+      "FriendPoint": 40,
+      "FriendPointMAX": 49
+    },
+    {
+      "$id": 172,
+      "ID": "COND_FRIEND_MI_FP_OV0",
+      "FriendID": 18,
+      "FriendPoint": 0,
+      "FriendPointMAX": 9
+    },
+    {
+      "$id": 173,
+      "ID": "COND_FRIEND_MI_FP_OV1",
+      "FriendID": 18,
+      "FriendPoint": 10,
+      "FriendPointMAX": 50
+    },
+    {
+      "$id": 174,
+      "ID": "COND_FRIEND_MI_FP_OV2",
+      "FriendID": 18,
+      "FriendPoint": 20,
+      "FriendPointMAX": 50
+    },
+    {
+      "$id": 175,
+      "ID": "COND_FRIEND_MI_FP_OV3",
+      "FriendID": 18,
+      "FriendPoint": 30,
+      "FriendPointMAX": 50
+    },
+    {
+      "$id": 176,
+      "ID": "COND_FRIEND_MI_FP_OV4",
+      "FriendID": 18,
+      "FriendPoint": 40,
+      "FriendPointMAX": 50
+    },
+    {
+      "$id": 177,
+      "ID": "COND_FRIEND_MI_FP_OV5",
+      "FriendID": 18,
+      "FriendPoint": 50,
+      "FriendPointMAX": 50
+    },
+    {
+      "$id": 178,
+      "ID": "COND_FRIEND_MI_FP_UN2",
+      "FriendID": 18,
+      "FriendPoint": 10,
+      "FriendPointMAX": 19
+    },
+    {
+      "$id": 179,
+      "ID": "COND_FRIEND_MI_FP_UN3",
+      "FriendID": 18,
+      "FriendPoint": 20,
+      "FriendPointMAX": 29
+    },
+    {
+      "$id": 180,
+      "ID": "COND_FRIEND_MI_FP_UN4",
+      "FriendID": 18,
+      "FriendPoint": 30,
+      "FriendPointMAX": 39
+    },
+    {
+      "$id": 181,
+      "ID": "COND_FRIEND_MI_FP_UN5",
+      "FriendID": 18,
+      "FriendPoint": 40,
+      "FriendPointMAX": 49
+    },
+    {
+      "$id": 182,
+      "ID": "COND_FRIEND_GU_FP_UN3_MI",
+      "FriendID": 5,
+      "FriendPoint": 0,
+      "FriendPointMAX": 29
+    },
+    {
+      "$id": 183,
+      "ID": "",
+      "FriendID": 0,
+      "FriendPoint": 0,
+      "FriendPointMAX": 0
+    },
+    {
+      "$id": 184,
+      "ID": "",
+      "FriendID": 0,
+      "FriendPoint": 0,
+      "FriendPointMAX": 0
+    },
+    {
+      "$id": 185,
+      "ID": "",
+      "FriendID": 0,
+      "FriendPoint": 0,
+      "FriendPointMAX": 0
+    },
+    {
+      "$id": 186,
+      "ID": "",
+      "FriendID": 0,
+      "FriendPoint": 0,
+      "FriendPointMAX": 0
+    },
+    {
+      "$id": 187,
+      "ID": "",
+      "FriendID": 0,
+      "FriendPoint": 0,
+      "FriendPointMAX": 0
+    },
+    {
+      "$id": 188,
+      "ID": "",
+      "FriendID": 0,
+      "FriendPoint": 0,
+      "FriendPointMAX": 0
+    },
+    {
+      "$id": 189,
+      "ID": "",
+      "FriendID": 0,
+      "FriendPoint": 0,
+      "FriendPointMAX": 0
+    },
+    {
+      "$id": 190,
+      "ID": "",
+      "FriendID": 0,
+      "FriendPoint": 0,
+      "FriendPointMAX": 0
+    },
+    {
+      "$id": 191,
+      "ID": "",
+      "FriendID": 0,
+      "FriendPoint": 0,
+      "FriendPointMAX": 0
+    },
+    {
+      "$id": 192,
+      "ID": "",
+      "FriendID": 0,
+      "FriendPoint": 0,
+      "FriendPointMAX": 0
+    },
+    {
+      "$id": 193,
+      "ID": "",
+      "FriendID": 0,
+      "FriendPoint": 0,
+      "FriendPointMAX": 0
+    },
+    {
+      "$id": 194,
+      "ID": "",
+      "FriendID": 0,
+      "FriendPoint": 0,
+      "FriendPointMAX": 0
+    },
+    {
+      "$id": 195,
+      "ID": "",
+      "FriendID": 0,
+      "FriendPoint": 0,
+      "FriendPointMAX": 0
+    },
+    {
+      "$id": 196,
+      "ID": "",
+      "FriendID": 0,
+      "FriendPoint": 0,
+      "FriendPointMAX": 0
+    },
+    {
+      "$id": 197,
+      "ID": "",
+      "FriendID": 0,
+      "FriendPoint": 0,
+      "FriendPointMAX": 0
+    },
+    {
+      "$id": 198,
+      "ID": "",
+      "FriendID": 0,
+      "FriendPoint": 0,
+      "FriendPointMAX": 0
+    },
+    {
+      "$id": 199,
+      "ID": "",
+      "FriendID": 0,
+      "FriendPoint": 0,
+      "FriendPointMAX": 0
+    },
+    {
+      "$id": 200,
+      "ID": "",
+      "FriendID": 0,
+      "FriendPoint": 0,
+      "FriendPointMAX": 0
+    },
+    {
+      "$id": 201,
+      "ID": "COND_FRIEND_AL_FP_OV0",
+      "FriendID": 19,
+      "FriendPoint": 0,
+      "FriendPointMAX": 9
+    },
+    {
+      "$id": 202,
+      "ID": "COND_FRIEND_AL_FP_OV1",
+      "FriendID": 19,
+      "FriendPoint": 10,
+      "FriendPointMAX": 50
+    },
+    {
+      "$id": 203,
+      "ID": "COND_FRIEND_AL_FP_OV2",
+      "FriendID": 19,
+      "FriendPoint": 20,
+      "FriendPointMAX": 50
+    },
+    {
+      "$id": 204,
+      "ID": "COND_FRIEND_AL_FP_OV3",
+      "FriendID": 19,
+      "FriendPoint": 30,
+      "FriendPointMAX": 50
+    },
+    {
+      "$id": 205,
+      "ID": "COND_FRIEND_AL_FP_OV4",
+      "FriendID": 19,
+      "FriendPoint": 40,
+      "FriendPointMAX": 50
+    },
+    {
+      "$id": 206,
+      "ID": "COND_FRIEND_AL_FP_OV5",
+      "FriendID": 19,
+      "FriendPoint": 50,
+      "FriendPointMAX": 50
+    },
+    {
+      "$id": 207,
+      "ID": "COND_FRIEND_AL_FP_UN2",
+      "FriendID": 19,
+      "FriendPoint": 10,
+      "FriendPointMAX": 19
+    },
+    {
+      "$id": 208,
+      "ID": "COND_FRIEND_AL_FP_UN3",
+      "FriendID": 19,
+      "FriendPoint": 20,
+      "FriendPointMAX": 29
+    },
+    {
+      "$id": 209,
+      "ID": "COND_FRIEND_AL_FP_UN4",
+      "FriendID": 19,
+      "FriendPoint": 30,
+      "FriendPointMAX": 39
+    },
+    {
+      "$id": 210,
+      "ID": "COND_FRIEND_AL_FP_UN5",
+      "FriendID": 19,
+      "FriendPoint": 40,
+      "FriendPointMAX": 49
+    },
+    {
+      "$id": 211,
+      "ID": "",
+      "FriendID": 0,
+      "FriendPoint": 0,
+      "FriendPointMAX": 0
+    },
+    {
+      "$id": 212,
+      "ID": "",
+      "FriendID": 0,
+      "FriendPoint": 0,
+      "FriendPointMAX": 0
+    },
+    {
+      "$id": 213,
+      "ID": "",
+      "FriendID": 0,
+      "FriendPoint": 0,
+      "FriendPointMAX": 0
+    },
+    {
+      "$id": 214,
+      "ID": "",
+      "FriendID": 0,
+      "FriendPoint": 0,
+      "FriendPointMAX": 0
+    },
+    {
+      "$id": 215,
+      "ID": "",
+      "FriendID": 0,
+      "FriendPoint": 0,
+      "FriendPointMAX": 0
+    },
+    {
+      "$id": 216,
+      "ID": "",
+      "FriendID": 0,
+      "FriendPoint": 0,
+      "FriendPointMAX": 0
+    },
+    {
+      "$id": 217,
+      "ID": "",
+      "FriendID": 0,
+      "FriendPoint": 0,
+      "FriendPointMAX": 0
+    },
+    {
+      "$id": 218,
+      "ID": "",
+      "FriendID": 0,
+      "FriendPoint": 0,
+      "FriendPointMAX": 0
+    },
+    {
+      "$id": 219,
+      "ID": "",
+      "FriendID": 0,
+      "FriendPoint": 0,
+      "FriendPointMAX": 0
+    },
+    {
+      "$id": 220,
+      "ID": "",
+      "FriendID": 0,
+      "FriendPoint": 0,
+      "FriendPointMAX": 0
+    },
+    {
+      "$id": 221,
+      "ID": "COND_FRIEND_LI_FP_OV0",
+      "FriendID": 21,
+      "FriendPoint": 0,
+      "FriendPointMAX": 9
+    },
+    {
+      "$id": 222,
+      "ID": "COND_FRIEND_LI_FP_OV1",
+      "FriendID": 21,
+      "FriendPoint": 10,
+      "FriendPointMAX": 50
+    },
+    {
+      "$id": 223,
+      "ID": "COND_FRIEND_LI_FP_OV2",
+      "FriendID": 21,
+      "FriendPoint": 20,
+      "FriendPointMAX": 50
+    },
+    {
+      "$id": 224,
+      "ID": "COND_FRIEND_LI_FP_OV3",
+      "FriendID": 21,
+      "FriendPoint": 30,
+      "FriendPointMAX": 50
+    },
+    {
+      "$id": 225,
+      "ID": "COND_FRIEND_LI_FP_OV4",
+      "FriendID": 21,
+      "FriendPoint": 40,
+      "FriendPointMAX": 50
+    },
+    {
+      "$id": 226,
+      "ID": "COND_FRIEND_LI_FP_OV5",
+      "FriendID": 21,
+      "FriendPoint": 50,
+      "FriendPointMAX": 50
+    },
+    {
+      "$id": 227,
+      "ID": "COND_FRIEND_LI_FP_UN2",
+      "FriendID": 21,
+      "FriendPoint": 10,
+      "FriendPointMAX": 19
+    },
+    {
+      "$id": 228,
+      "ID": "COND_FRIEND_LI_FP_UN3",
+      "FriendID": 21,
+      "FriendPoint": 20,
+      "FriendPointMAX": 29
+    },
+    {
+      "$id": 229,
+      "ID": "COND_FRIEND_LI_FP_UN4",
+      "FriendID": 21,
+      "FriendPoint": 30,
+      "FriendPointMAX": 39
+    },
+    {
+      "$id": 230,
+      "ID": "COND_FRIEND_LI_FP_UN5",
+      "FriendID": 21,
+      "FriendPoint": 40,
+      "FriendPointMAX": 49
+    },
+    {
+      "$id": 231,
+      "ID": "COND_FRIEND_NI_FP_OV0",
+      "FriendID": 20,
+      "FriendPoint": 0,
+      "FriendPointMAX": 9
+    },
+    {
+      "$id": 232,
+      "ID": "COND_FRIEND_NI_FP_OV1",
+      "FriendID": 20,
+      "FriendPoint": 10,
+      "FriendPointMAX": 50
+    },
+    {
+      "$id": 233,
+      "ID": "COND_FRIEND_NI_FP_OV2",
+      "FriendID": 20,
+      "FriendPoint": 20,
+      "FriendPointMAX": 50
+    },
+    {
+      "$id": 234,
+      "ID": "COND_FRIEND_NI_FP_OV3",
+      "FriendID": 20,
+      "FriendPoint": 30,
+      "FriendPointMAX": 50
+    },
+    {
+      "$id": 235,
+      "ID": "COND_FRIEND_NI_FP_OV4",
+      "FriendID": 20,
+      "FriendPoint": 40,
+      "FriendPointMAX": 50
+    },
+    {
+      "$id": 236,
+      "ID": "COND_FRIEND_NI_FP_OV5",
+      "FriendID": 20,
+      "FriendPoint": 50,
+      "FriendPointMAX": 50
+    },
+    {
+      "$id": 237,
+      "ID": "COND_FRIEND_NI_FP_UN2",
+      "FriendID": 20,
+      "FriendPoint": 10,
+      "FriendPointMAX": 19
+    },
+    {
+      "$id": 238,
+      "ID": "COND_FRIEND_NI_FP_UN3",
+      "FriendID": 20,
+      "FriendPoint": 20,
+      "FriendPointMAX": 29
+    },
+    {
+      "$id": 239,
+      "ID": "COND_FRIEND_NI_FP_UN4",
+      "FriendID": 20,
+      "FriendPoint": 30,
+      "FriendPointMAX": 39
+    },
+    {
+      "$id": 240,
+      "ID": "COND_FRIEND_NI_FP_UN5",
+      "FriendID": 20,
+      "FriendPoint": 40,
+      "FriendPointMAX": 49
+    },
+    {
+      "$id": 241,
+      "ID": "COND_FRIEND_GA_FP_OV0",
+      "FriendID": 22,
+      "FriendPoint": 0,
+      "FriendPointMAX": 9
+    },
+    {
+      "$id": 242,
+      "ID": "COND_FRIEND_GA_FP_OV1",
+      "FriendID": 22,
+      "FriendPoint": 10,
+      "FriendPointMAX": 50
+    },
+    {
+      "$id": 243,
+      "ID": "COND_FRIEND_GA_FP_OV2",
+      "FriendID": 22,
+      "FriendPoint": 20,
+      "FriendPointMAX": 50
+    },
+    {
+      "$id": 244,
+      "ID": "COND_FRIEND_GA_FP_OV3",
+      "FriendID": 22,
+      "FriendPoint": 30,
+      "FriendPointMAX": 50
+    },
+    {
+      "$id": 245,
+      "ID": "COND_FRIEND_GA_FP_OV4",
+      "FriendID": 22,
+      "FriendPoint": 40,
+      "FriendPointMAX": 50
+    },
+    {
+      "$id": 246,
+      "ID": "COND_FRIEND_GA_FP_OV5",
+      "FriendID": 22,
+      "FriendPoint": 50,
+      "FriendPointMAX": 50
+    },
+    {
+      "$id": 247,
+      "ID": "COND_FRIEND_GA_FP_UN2",
+      "FriendID": 22,
+      "FriendPoint": 10,
+      "FriendPointMAX": 19
+    },
+    {
+      "$id": 248,
+      "ID": "COND_FRIEND_GA_FP_UN3",
+      "FriendID": 22,
+      "FriendPoint": 20,
+      "FriendPointMAX": 29
+    },
+    {
+      "$id": 249,
+      "ID": "COND_FRIEND_GA_FP_UN4",
+      "FriendID": 22,
+      "FriendPoint": 30,
+      "FriendPointMAX": 39
+    },
+    {
+      "$id": 250,
+      "ID": "COND_FRIEND_GA_FP_UN5",
+      "FriendID": 22,
+      "FriendPoint": 40,
+      "FriendPointMAX": 49
+    }
+  ]
+}

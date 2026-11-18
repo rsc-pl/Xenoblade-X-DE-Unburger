@@ -1,0 +1,39 @@
+{
+  "schema": [
+    {
+      "name": "ID",
+      "type": 9
+    },
+    {
+      "name": "formIdOfGoToCombatTraining",
+      "type": 2
+    },
+    {
+      "name": "formIdOfRestartBattle",
+      "type": 2
+    },
+    {
+      "name": "formIdOfReturnToBladeHome",
+      "type": 2
+    },
+    {
+      "name": "gameCondIdOfReturnToLastDungeon",
+      "type": 2
+    },
+    {
+      "name": "formIdOfReturnToLastDungeon",
+      "type": 2
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "ID": "COMBAT_TRAINING",
+      "formIdOfGoToCombatTraining": 1206,
+      "formIdOfRestartBattle": 1207,
+      "formIdOfReturnToBladeHome": 1208,
+      "gameCondIdOfReturnToLastDungeon": 8862,
+      "formIdOfReturnToLastDungeon": 1349
+    }
+  ]
+}

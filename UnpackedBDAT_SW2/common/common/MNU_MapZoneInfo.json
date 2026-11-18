@@ -1,0 +1,293 @@
+{
+  "schema": [
+    {
+      "name": "ID",
+      "type": 9
+    },
+    {
+      "name": "zone_id",
+      "type": 3
+    },
+    {
+      "name": "def_pos_x",
+      "type": 8
+    },
+    {
+      "name": "def_pos_z",
+      "type": 8
+    },
+    {
+      "name": "seg_base_pos_x",
+      "type": 8
+    },
+    {
+      "name": "seg_base_pos_z",
+      "type": 8
+    },
+    {
+      "name": "seg_line_color",
+      "type": 1
+    },
+    {
+      "name": "disp_zone_name",
+      "type": 1
+    },
+    {
+      "name": "name_pos_x",
+      "type": 8
+    },
+    {
+      "name": "name_pos_z",
+      "type": 8
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "ID": "MAP_ZONE_INFO_0001",
+      "zone_id": 1,
+      "def_pos_x": -1977.0,
+      "def_pos_z": 7431.0,
+      "seg_base_pos_x": 0.0,
+      "seg_base_pos_z": 0.0,
+      "seg_line_color": 0,
+      "disp_zone_name": 0,
+      "name_pos_x": 0.0,
+      "name_pos_z": 0.0
+    },
+    {
+      "$id": 2,
+      "ID": "MAP_ZONE_INFO_0002",
+      "zone_id": 2,
+      "def_pos_x": -2320.0,
+      "def_pos_z": 5727.0,
+      "seg_base_pos_x": -5225.0,
+      "seg_base_pos_z": 3078.0,
+      "seg_line_color": 1,
+      "disp_zone_name": 1,
+      "name_pos_x": -1950.0,
+      "name_pos_z": 5727.0
+    },
+    {
+      "$id": 3,
+      "ID": "MAP_ZONE_INFO_0003",
+      "zone_id": 3,
+      "def_pos_x": -1933.0,
+      "def_pos_z": 7105.0,
+      "seg_base_pos_x": -2148.0,
+      "seg_base_pos_z": 6582.0,
+      "seg_line_color": 1,
+      "disp_zone_name": 1,
+      "name_pos_x": -1933.0,
+      "name_pos_z": 7105.0
+    },
+    {
+      "$id": 4,
+      "ID": "MAP_ZONE_INFO_0004",
+      "zone_id": 4,
+      "def_pos_x": -6218.0,
+      "def_pos_z": 1278.0,
+      "seg_base_pos_x": -9225.0,
+      "seg_base_pos_z": -5770.0,
+      "seg_line_color": 2,
+      "disp_zone_name": 1,
+      "name_pos_x": -6218.0,
+      "name_pos_z": 1278.0
+    },
+    {
+      "$id": 5,
+      "ID": "MAP_ZONE_INFO_0005",
+      "zone_id": 5,
+      "def_pos_x": 4860.0,
+      "def_pos_z": 6005.0,
+      "seg_base_pos_x": 1925.0,
+      "seg_base_pos_z": 3157.0,
+      "seg_line_color": 3,
+      "disp_zone_name": 1,
+      "name_pos_x": 4900.0,
+      "name_pos_z": 5970.0
+    },
+    {
+      "$id": 6,
+      "ID": "MAP_ZONE_INFO_0006",
+      "zone_id": 6,
+      "def_pos_x": 4619.0,
+      "def_pos_z": -5737.0,
+      "seg_base_pos_x": 1710.0,
+      "seg_base_pos_z": -8290.0,
+      "seg_line_color": 4,
+      "disp_zone_name": 1,
+      "name_pos_x": 4619.0,
+      "name_pos_z": -5737.0
+    },
+    {
+      "$id": 7,
+      "ID": "MAP_ZONE_INFO_0007",
+      "zone_id": 7,
+      "def_pos_x": 1684.0,
+      "def_pos_z": -2250.0,
+      "seg_base_pos_x": -626.0999755859375,
+      "seg_base_pos_z": -4600.0,
+      "seg_line_color": 5,
+      "disp_zone_name": 1,
+      "name_pos_x": 1684.0,
+      "name_pos_z": -2250.0
+    },
+    {
+      "$id": 8,
+      "ID": "MAP_ZONE_INFO_0008",
+      "zone_id": 8,
+      "def_pos_x": -6843.0,
+      "def_pos_z": -40.0,
+      "seg_base_pos_x": -9225.0,
+      "seg_base_pos_z": -5770.0,
+      "seg_line_color": 0,
+      "disp_zone_name": 0,
+      "name_pos_x": 0.0,
+      "name_pos_z": 0.0
+    },
+    {
+      "$id": 9,
+      "ID": "MAP_ZONE_INFO_0009",
+      "zone_id": 9,
+      "def_pos_x": -2320.0,
+      "def_pos_z": 5727.0,
+      "seg_base_pos_x": -5190.0,
+      "seg_base_pos_z": 3078.0,
+      "seg_line_color": 0,
+      "disp_zone_name": 0,
+      "name_pos_x": 0.0,
+      "name_pos_z": 0.0
+    },
+    {
+      "$id": 10,
+      "ID": "MAP_ZONE_INFO_0010",
+      "zone_id": 10,
+      "def_pos_x": 0.0,
+      "def_pos_z": 0.0,
+      "seg_base_pos_x": -48.0,
+      "seg_base_pos_z": -38.0,
+      "seg_line_color": 0,
+      "disp_zone_name": 0,
+      "name_pos_x": 0.0,
+      "name_pos_z": 0.0
+    },
+    {
+      "$id": 11,
+      "ID": "MAP_ZONE_INFO_0011",
+      "zone_id": 11,
+      "def_pos_x": 4619.0,
+      "def_pos_z": -5737.0,
+      "seg_base_pos_x": 1697.0,
+      "seg_base_pos_z": -8359.0,
+      "seg_line_color": 0,
+      "disp_zone_name": 0,
+      "name_pos_x": 0.0,
+      "name_pos_z": 0.0
+    },
+    {
+      "$id": 12,
+      "ID": "MAP_ZONE_INFO_0012",
+      "zone_id": 12,
+      "def_pos_x": 1684.0,
+      "def_pos_z": -1935.0,
+      "seg_base_pos_x": -626.0,
+      "seg_base_pos_z": -4600.0,
+      "seg_line_color": 0,
+      "disp_zone_name": 0,
+      "name_pos_x": 0.0,
+      "name_pos_z": 0.0
+    },
+    {
+      "$id": 13,
+      "ID": "MAP_ZONE_INFO_0013",
+      "zone_id": 13,
+      "def_pos_x": -2307.0,
+      "def_pos_z": 7273.0,
+      "seg_base_pos_x": -2895.0,
+      "seg_base_pos_z": 6567.0,
+      "seg_line_color": 2,
+      "disp_zone_name": 1,
+      "name_pos_x": -2307.0,
+      "name_pos_z": 7230.0
+    },
+    {
+      "$id": 14,
+      "ID": "MAP_ZONE_INFO_0014",
+      "zone_id": 14,
+      "def_pos_x": -2245.0,
+      "def_pos_z": 7800.0,
+      "seg_base_pos_x": -2822.0,
+      "seg_base_pos_z": 7291.0,
+      "seg_line_color": 3,
+      "disp_zone_name": 1,
+      "name_pos_x": -2245.0,
+      "name_pos_z": 7800.0
+    },
+    {
+      "$id": 15,
+      "ID": "MAP_ZONE_INFO_0015",
+      "zone_id": 15,
+      "def_pos_x": -1783.0,
+      "def_pos_z": 7785.0,
+      "seg_base_pos_x": -2092.0,
+      "seg_base_pos_z": 7522.0,
+      "seg_line_color": 4,
+      "disp_zone_name": 1,
+      "name_pos_x": -1783.0,
+      "name_pos_z": 7790.0
+    },
+    {
+      "$id": 16,
+      "ID": "MAP_ZONE_INFO_0016",
+      "zone_id": 16,
+      "def_pos_x": -1500.0,
+      "def_pos_z": 7496.0,
+      "seg_base_pos_x": -1903.0,
+      "seg_base_pos_z": 6697.0,
+      "seg_line_color": 5,
+      "disp_zone_name": 1,
+      "name_pos_x": -1525.0,
+      "name_pos_z": 7496.0
+    },
+    {
+      "$id": 17,
+      "ID": "MAP_ZONE_INFO_0017",
+      "zone_id": 17,
+      "def_pos_x": 0.0,
+      "def_pos_z": 0.0,
+      "seg_base_pos_x": 0.0,
+      "seg_base_pos_z": 0.0,
+      "seg_line_color": 0,
+      "disp_zone_name": 0,
+      "name_pos_x": 0.0,
+      "name_pos_z": 0.0
+    },
+    {
+      "$id": 18,
+      "ID": "MAP_ZONE_INFO_0018",
+      "zone_id": 18,
+      "def_pos_x": 0.0,
+      "def_pos_z": 0.0,
+      "seg_base_pos_x": 0.0,
+      "seg_base_pos_z": 0.0,
+      "seg_line_color": 0,
+      "disp_zone_name": 0,
+      "name_pos_x": 0.0,
+      "name_pos_z": 0.0
+    },
+    {
+      "$id": 19,
+      "ID": "MAP_ZONE_INFO_0019",
+      "zone_id": 19,
+      "def_pos_x": -2320.0,
+      "def_pos_z": 5727.0,
+      "seg_base_pos_x": -5190.0,
+      "seg_base_pos_z": 3078.0,
+      "seg_line_color": 0,
+      "disp_zone_name": 0,
+      "name_pos_x": 0.0,
+      "name_pos_z": 0.0
+    }
+  ]
+}

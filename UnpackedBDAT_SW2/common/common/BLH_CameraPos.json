@@ -1,0 +1,456 @@
+{
+  "schema": [
+    {
+      "name": "ID",
+      "type": 9
+    },
+    {
+      "name": "POS_X",
+      "type": 5
+    },
+    {
+      "name": "POS_Y",
+      "type": 5
+    },
+    {
+      "name": "POS_Z",
+      "type": 5
+    },
+    {
+      "name": "TAR_X",
+      "type": 5
+    },
+    {
+      "name": "TAR_Y",
+      "type": 5
+    },
+    {
+      "name": "TAR_Z",
+      "type": 5
+    },
+    {
+      "name": "FOV",
+      "type": 5
+    }
+  ],
+  "rows": [
+    {
+      "$id": 0,
+      "ID": "BLD_CAMERA_POS01",
+      "POS_X": -425,
+      "POS_Y": 185,
+      "POS_Z": -276,
+      "TAR_X": -1302,
+      "TAR_Y": 139,
+      "TAR_Z": 352,
+      "FOV": 40
+    },
+    {
+      "$id": 1,
+      "ID": "BLD_CAMERA_POS02",
+      "POS_X": 2150,
+      "POS_Y": 395,
+      "POS_Z": 858,
+      "TAR_X": 1218,
+      "TAR_Y": 428,
+      "TAR_Z": 313,
+      "FOV": 40
+    },
+    {
+      "$id": 2,
+      "ID": "BLD_CAMERA_POS03",
+      "POS_X": 11,
+      "POS_Y": 245,
+      "POS_Z": 1927,
+      "TAR_X": -20,
+      "TAR_Y": 352,
+      "TAR_Z": 853,
+      "FOV": 40
+    },
+    {
+      "$id": 3,
+      "ID": "BLD_CAMERA_POS04",
+      "POS_X": -708,
+      "POS_Y": 527,
+      "POS_Z": -767,
+      "TAR_X": -1406,
+      "TAR_Y": 549,
+      "TAR_Z": -1590,
+      "FOV": 40
+    },
+    {
+      "$id": 4,
+      "ID": "BLD_CAMERA_POS05",
+      "POS_X": -4116,
+      "POS_Y": 347,
+      "POS_Z": -770,
+      "TAR_X": -3166,
+      "TAR_Y": 508,
+      "TAR_Z": -1258,
+      "FOV": 40
+    },
+    {
+      "$id": 5,
+      "ID": "BLD_CAMERA_POS06",
+      "POS_X": -432,
+      "POS_Y": 377,
+      "POS_Z": -1740,
+      "TAR_X": -1248,
+      "TAR_Y": 436,
+      "TAR_Z": -1034,
+      "FOV": 40
+    },
+    {
+      "$id": 6,
+      "ID": "BLD_CAMERA_POS07",
+      "POS_X": 1874,
+      "POS_Y": 170,
+      "POS_Z": 2229,
+      "TAR_X": 2813,
+      "TAR_Y": 153,
+      "TAR_Z": 1695,
+      "FOV": 40
+    },
+    {
+      "$id": 7,
+      "ID": "BLD_CAMERA_POS08",
+      "POS_X": 3635,
+      "POS_Y": -130,
+      "POS_Z": 2486,
+      "TAR_X": 3627,
+      "TAR_Y": 103,
+      "TAR_Z": 1432,
+      "FOV": 40
+    },
+    {
+      "$id": 8,
+      "ID": "BLD_CAMERA_POS09",
+      "POS_X": 6553,
+      "POS_Y": 545,
+      "POS_Z": 1288,
+      "TAR_X": 5597,
+      "TAR_Y": 354,
+      "TAR_Z": 1753,
+      "FOV": 40
+    },
+    {
+      "$id": 9,
+      "ID": "BLD_CAMERA_POS10",
+      "POS_X": -3151,
+      "POS_Y": 524,
+      "POS_Z": -1103,
+      "TAR_X": -2308,
+      "TAR_Y": 169,
+      "TAR_Z": -2202,
+      "FOV": 40
+    },
+    {
+      "$id": 10,
+      "ID": "BLD_CAMERA_POS11",
+      "POS_X": -3151,
+      "POS_Y": 524,
+      "POS_Z": -1103,
+      "TAR_X": -2308,
+      "TAR_Y": 169,
+      "TAR_Z": -2202,
+      "FOV": 40
+    },
+    {
+      "$id": 11,
+      "ID": "BLD_CAMERA_POS12",
+      "POS_X": -3151,
+      "POS_Y": 524,
+      "POS_Z": -1103,
+      "TAR_X": -2308,
+      "TAR_Y": 169,
+      "TAR_Z": -2202,
+      "FOV": 40
+    },
+    {
+      "$id": 12,
+      "ID": "BLD_CAMERA_POS13",
+      "POS_X": -3151,
+      "POS_Y": 524,
+      "POS_Z": -1103,
+      "TAR_X": -2308,
+      "TAR_Y": 169,
+      "TAR_Z": -2202,
+      "FOV": 40
+    },
+    {
+      "$id": 13,
+      "ID": "BLD_CAMERA_POS14",
+      "POS_X": -3151,
+      "POS_Y": 524,
+      "POS_Z": -1103,
+      "TAR_X": -2308,
+      "TAR_Y": 169,
+      "TAR_Z": -2202,
+      "FOV": 40
+    },
+    {
+      "$id": 14,
+      "ID": "BLD_CAMERA_POS15",
+      "POS_X": -3151,
+      "POS_Y": 524,
+      "POS_Z": -1103,
+      "TAR_X": -2308,
+      "TAR_Y": 169,
+      "TAR_Z": -2202,
+      "FOV": 40
+    },
+    {
+      "$id": 15,
+      "ID": "BLD_CAMERA_POS21",
+      "POS_X": -1038,
+      "POS_Y": 397,
+      "POS_Z": -879,
+      "TAR_X": -1175,
+      "TAR_Y": 421,
+      "TAR_Z": -2016,
+      "FOV": 40
+    },
+    {
+      "$id": 16,
+      "ID": "BLD_CAMERA_POS22",
+      "POS_X": -1039,
+      "POS_Y": 412,
+      "POS_Z": -842,
+      "TAR_X": -1038,
+      "TAR_Y": 391,
+      "TAR_Z": -1988,
+      "FOV": 40
+    },
+    {
+      "$id": 17,
+      "ID": "BLD_CAMERA_POS23",
+      "POS_X": -1138,
+      "POS_Y": 412,
+      "POS_Z": -842,
+      "TAR_X": -1138,
+      "TAR_Y": 391,
+      "TAR_Z": -1988,
+      "FOV": 40
+    },
+    {
+      "$id": 18,
+      "ID": "BLD_CAMERA_POS24",
+      "POS_X": -1618,
+      "POS_Y": 397,
+      "POS_Z": -879,
+      "TAR_X": -1755,
+      "TAR_Y": 421,
+      "TAR_Z": -2016,
+      "FOV": 40
+    },
+    {
+      "$id": 19,
+      "ID": "BLD_CAMERA_POS25",
+      "POS_X": -1618,
+      "POS_Y": 412,
+      "POS_Z": -842,
+      "TAR_X": -1618,
+      "TAR_Y": 391,
+      "TAR_Z": -1971,
+      "FOV": 40
+    },
+    {
+      "$id": 20,
+      "ID": "BLD_CAMERA_POS26",
+      "POS_X": -1718,
+      "POS_Y": 412,
+      "POS_Z": -842,
+      "TAR_X": -1718,
+      "TAR_Y": 391,
+      "TAR_Z": -1971,
+      "FOV": 40
+    },
+    {
+      "$id": 21,
+      "ID": "BLD_CAMERA_POS27",
+      "POS_X": -2197,
+      "POS_Y": 397,
+      "POS_Z": -879,
+      "TAR_X": -2334,
+      "TAR_Y": 421,
+      "TAR_Z": -2016,
+      "FOV": 40
+    },
+    {
+      "$id": 22,
+      "ID": "BLD_CAMERA_POS28",
+      "POS_X": -2197,
+      "POS_Y": 412,
+      "POS_Z": -842,
+      "TAR_X": -2197,
+      "TAR_Y": 391,
+      "TAR_Z": -1955,
+      "FOV": 40
+    },
+    {
+      "$id": 23,
+      "ID": "BLD_CAMERA_POS29",
+      "POS_X": -2297,
+      "POS_Y": 412,
+      "POS_Z": -842,
+      "TAR_X": -2297,
+      "TAR_Y": 391,
+      "TAR_Z": -1955,
+      "FOV": 40
+    },
+    {
+      "$id": 24,
+      "ID": "BLD_CAMERA_POS30",
+      "POS_X": -2786,
+      "POS_Y": 397,
+      "POS_Z": -879,
+      "TAR_X": -2923,
+      "TAR_Y": 421,
+      "TAR_Z": -2016,
+      "FOV": 40
+    },
+    {
+      "$id": 25,
+      "ID": "BLD_CAMERA_POS31",
+      "POS_X": -2786,
+      "POS_Y": 412,
+      "POS_Z": -842,
+      "TAR_X": -2786,
+      "TAR_Y": 391,
+      "TAR_Z": -1938,
+      "FOV": 40
+    },
+    {
+      "$id": 26,
+      "ID": "BLD_CAMERA_POS32",
+      "POS_X": -2886,
+      "POS_Y": 412,
+      "POS_Z": -842,
+      "TAR_X": -2886,
+      "TAR_Y": 391,
+      "TAR_Z": -1938,
+      "FOV": 40
+    },
+    {
+      "$id": 27,
+      "ID": "BLD_CAMERA_POS33",
+      "POS_X": -3370,
+      "POS_Y": 397,
+      "POS_Z": -879,
+      "TAR_X": -3507,
+      "TAR_Y": 421,
+      "TAR_Z": -2016,
+      "FOV": 40
+    },
+    {
+      "$id": 28,
+      "ID": "BLD_CAMERA_POS34",
+      "POS_X": -3370,
+      "POS_Y": 412,
+      "POS_Z": -842,
+      "TAR_X": -3370,
+      "TAR_Y": 391,
+      "TAR_Z": -1921,
+      "FOV": 40
+    },
+    {
+      "$id": 29,
+      "ID": "BLD_CAMERA_POS35",
+      "POS_X": -3470,
+      "POS_Y": 412,
+      "POS_Z": -842,
+      "TAR_X": -3470,
+      "TAR_Y": 391,
+      "TAR_Z": -1921,
+      "FOV": 40
+    },
+    {
+      "$id": 30,
+      "ID": "BLD_CAMERA_POS41",
+      "POS_X": -2910,
+      "POS_Y": 440,
+      "POS_Z": -977,
+      "TAR_X": -3989,
+      "TAR_Y": 467,
+      "TAR_Z": -1019,
+      "FOV": 40
+    },
+    {
+      "$id": 31,
+      "ID": "BLD_CAMERA_POS42",
+      "POS_X": -111,
+      "POS_Y": 470,
+      "POS_Z": 353,
+      "TAR_X": -114,
+      "TAR_Y": 470,
+      "TAR_Z": -727,
+      "FOV": 40
+    },
+    {
+      "$id": 32,
+      "ID": "BLD_CAMERA_POS43",
+      "POS_X": 5504,
+      "POS_Y": -190,
+      "POS_Z": 2218,
+      "TAR_X": 6523,
+      "TAR_Y": 41,
+      "TAR_Z": 1946,
+      "FOV": 40
+    },
+    {
+      "$id": 33,
+      "ID": "BLD_CAMERA_POS51",
+      "POS_X": 730,
+      "POS_Y": 350,
+      "POS_Z": -376,
+      "TAR_X": -268,
+      "TAR_Y": 298,
+      "TAR_Z": 35,
+      "FOV": 40
+    },
+    {
+      "$id": 34,
+      "ID": "BLD_CAMERA_POS52",
+      "POS_X": 610,
+      "POS_Y": 380,
+      "POS_Z": -268,
+      "TAR_X": 1419,
+      "TAR_Y": 355,
+      "TAR_Z": 447,
+      "FOV": 40
+    },
+    {
+      "$id": 35,
+      "ID": "BLD_CAMERA_POS53",
+      "POS_X": -421,
+      "POS_Y": 335,
+      "POS_Z": -732,
+      "TAR_X": -1366,
+      "TAR_Y": 406,
+      "TAR_Z": -1249,
+      "FOV": 40
+    },
+    {
+      "$id": 36,
+      "ID": "BLD_CAMERA_POS54",
+      "POS_X": 2300,
+      "POS_Y": 410,
+      "POS_Z": 1970,
+      "TAR_X": 3220,
+      "TAR_Y": 275,
+      "TAR_Z": 1421,
+      "FOV": 40
+    },
+    {
+      "$id": 37,
+      "ID": "BLD_CAMERA_POS55",
+      "POS_X": 3596,
+      "POS_Y": 65,
+      "POS_Z": 2185,
+      "TAR_X": 2605,
+      "TAR_Y": 127,
+      "TAR_Z": 1761,
+      "FOV": 40
+    }
+  ]
+}

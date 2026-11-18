@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "xs33900100_MSG0010",
+      "style": 0,
+      "name": "\"Threat from hostile actions detected...\"[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "xs33900100_MSG0020",
+      "style": 0,
+      "name": "\"Executing lockdown mode for defense...\"[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "xs33900100_MSG0030",
+      "style": 0,
+      "name": "This is[ST:wide ]— It looks like some\nkind of error has occurred.[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "xs33900100_MSG0040",
+      "style": 0,
+      "name": "Could it be broken?[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "xs33900100_MSG0050",
+      "style": 0,
+      "name": "Let's check the area. We might\nbe able to pinpoint the cause.[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "xs33900100_MSG0060",
+      "style": 0,
+      "name": "Understood.[ST:wait ]"
+    }
+  ]
+}

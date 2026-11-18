@@ -1,0 +1,138 @@
+{
+  "schema": [
+    {
+      "name": "ID",
+      "type": 9
+    },
+    {
+      "name": "Scenario",
+      "type": 2
+    },
+    {
+      "name": "Quest",
+      "type": 2
+    },
+    {
+      "name": "Lv",
+      "type": 1
+    },
+    {
+      "name": "name",
+      "type": 1
+    },
+    {
+      "name": "CEO",
+      "type": 1
+    },
+    {
+      "name": "Caption1",
+      "type": 1
+    },
+    {
+      "name": "Caption2",
+      "type": 1
+    },
+    {
+      "name": "UI",
+      "type": 2
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "ID": "SAKURABA",
+      "Scenario": 0,
+      "Quest": 0,
+      "Lv": 5,
+      "name": 1,
+      "CEO": 1,
+      "Caption1": 11,
+      "Caption2": 21,
+      "UI": 2114
+    },
+    {
+      "$id": 2,
+      "ID": "GRANADA",
+      "Scenario": 0,
+      "Quest": 0,
+      "Lv": 5,
+      "name": 2,
+      "CEO": 2,
+      "Caption1": 12,
+      "Caption2": 22,
+      "UI": 2115
+    },
+    {
+      "$id": 3,
+      "ID": "MEREDITH",
+      "Scenario": 0,
+      "Quest": 0,
+      "Lv": 5,
+      "name": 4,
+      "CEO": 3,
+      "Caption1": 13,
+      "Caption2": 23,
+      "UI": 2116
+    },
+    {
+      "$id": 4,
+      "ID": "MORGUE",
+      "Scenario": 0,
+      "Quest": 0,
+      "Lv": 5,
+      "name": 3,
+      "CEO": 4,
+      "Caption1": 14,
+      "Caption2": 24,
+      "UI": 2117
+    },
+    {
+      "$id": 5,
+      "ID": "LARS",
+      "Scenario": 0,
+      "Quest": 0,
+      "Lv": 5,
+      "name": 5,
+      "CEO": 5,
+      "Caption1": 15,
+      "Caption2": 25,
+      "UI": 2121
+    },
+    {
+      "$id": 6,
+      "ID": "ORFEU",
+      "Scenario": 0,
+      "Quest": 0,
+      "Lv": 5,
+      "name": 6,
+      "CEO": 6,
+      "Caption1": 16,
+      "Caption2": 26,
+      "UI": 2120
+    },
+    {
+      "$id": 7,
+      "ID": "NOPON",
+      "Scenario": 0,
+      "Quest": 0,
+      "Lv": 5,
+      "name": 7,
+      "CEO": 7,
+      "Caption1": 17,
+      "Caption2": 27,
+      "UI": 2118
+    },
+    {
+      "$id": 8,
+      "ID": "DOCTORB",
+      "Scenario": 0,
+      "Quest": 0,
+      "Lv": 5,
+      "name": 8,
+      "CEO": 8,
+      "Caption1": 18,
+      "Caption2": 28,
+      "UI": 2119
+    }
+  ]
+}

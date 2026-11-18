@@ -1,0 +1,260 @@
+{
+  "schema": [
+    {
+      "name": "ID",
+      "type": 9
+    },
+    {
+      "name": "BasePointNormall",
+      "type": 2
+    },
+    {
+      "name": "UNI_NONE",
+      "type": 1
+    },
+    {
+      "name": "UNI_PATHFINDER",
+      "type": 1
+    },
+    {
+      "name": "UNI_INTERCEPTOR",
+      "type": 1
+    },
+    {
+      "name": "UNI_AVALANCHE",
+      "type": 1
+    },
+    {
+      "name": "UNI_TESTAMENT",
+      "type": 1
+    },
+    {
+      "name": "UNI_COLLEPEDIAN",
+      "type": 1
+    },
+    {
+      "name": "UNI_LANDBANK",
+      "type": 1
+    },
+    {
+      "name": "UNI_ARMS",
+      "type": 1
+    },
+    {
+      "name": "UNI_COMPANION",
+      "type": 1
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "ID": "SCL_UP_ENEMY",
+      "BasePointNormall": 5,
+      "UNI_NONE": 0,
+      "UNI_PATHFINDER": 2,
+      "UNI_INTERCEPTOR": 5,
+      "UNI_AVALANCHE": 3,
+      "UNI_TESTAMENT": 1,
+      "UNI_COLLEPEDIAN": 2,
+      "UNI_LANDBANK": 1,
+      "UNI_ARMS": 3,
+      "UNI_COMPANION": 3
+    },
+    {
+      "$id": 2,
+      "ID": "SCL_UP_NAMED",
+      "BasePointNormall": 30,
+      "UNI_NONE": 0,
+      "UNI_PATHFINDER": 1,
+      "UNI_INTERCEPTOR": 3,
+      "UNI_AVALANCHE": 5,
+      "UNI_TESTAMENT": 1,
+      "UNI_COLLEPEDIAN": 3,
+      "UNI_LANDBANK": 1,
+      "UNI_ARMS": 2,
+      "UNI_COMPANION": 2
+    },
+    {
+      "$id": 3,
+      "ID": "SCL_UP_QUEST",
+      "BasePointNormall": 20,
+      "UNI_NONE": 0,
+      "UNI_PATHFINDER": 3,
+      "UNI_INTERCEPTOR": 4,
+      "UNI_AVALANCHE": 3,
+      "UNI_TESTAMENT": 2,
+      "UNI_COLLEPEDIAN": 2,
+      "UNI_LANDBANK": 2,
+      "UNI_ARMS": 1,
+      "UNI_COMPANION": 5
+    },
+    {
+      "$id": 4,
+      "ID": "SCL_UP_COLLECTITEM",
+      "BasePointNormall": 1,
+      "UNI_NONE": 0,
+      "UNI_PATHFINDER": 1,
+      "UNI_INTERCEPTOR": 1,
+      "UNI_AVALANCHE": 1,
+      "UNI_TESTAMENT": 1,
+      "UNI_COLLEPEDIAN": 5,
+      "UNI_LANDBANK": 3,
+      "UNI_ARMS": 1,
+      "UNI_COMPANION": 1
+    },
+    {
+      "$id": 5,
+      "ID": "SCL_UP_DISCOVER",
+      "BasePointNormall": 10,
+      "UNI_NONE": 0,
+      "UNI_PATHFINDER": 3,
+      "UNI_INTERCEPTOR": 1,
+      "UNI_AVALANCHE": 1,
+      "UNI_TESTAMENT": 3,
+      "UNI_COLLEPEDIAN": 3,
+      "UNI_LANDBANK": 4,
+      "UNI_ARMS": 1,
+      "UNI_COMPANION": 1
+    },
+    {
+      "$id": 6,
+      "ID": "SCL_UP_DATAPROBE",
+      "BasePointNormall": 10,
+      "UNI_NONE": 0,
+      "UNI_PATHFINDER": 5,
+      "UNI_INTERCEPTOR": 1,
+      "UNI_AVALANCHE": 1,
+      "UNI_TESTAMENT": 4,
+      "UNI_COLLEPEDIAN": 2,
+      "UNI_LANDBANK": 3,
+      "UNI_ARMS": 3,
+      "UNI_COMPANION": 1
+    },
+    {
+      "$id": 7,
+      "ID": "SCL_UP_TREASUREBOX",
+      "BasePointNormall": 10,
+      "UNI_NONE": 0,
+      "UNI_PATHFINDER": 3,
+      "UNI_INTERCEPTOR": 1,
+      "UNI_AVALANCHE": 1,
+      "UNI_TESTAMENT": 5,
+      "UNI_COLLEPEDIAN": 1,
+      "UNI_LANDBANK": 1,
+      "UNI_ARMS": 2,
+      "UNI_COMPANION": 2
+    },
+    {
+      "$id": 8,
+      "ID": "SCL_UP_RENTALGAUGE",
+      "BasePointNormall": 10,
+      "UNI_NONE": 0,
+      "UNI_PATHFINDER": 1,
+      "UNI_INTERCEPTOR": 2,
+      "UNI_AVALANCHE": 3,
+      "UNI_TESTAMENT": 3,
+      "UNI_COLLEPEDIAN": 1,
+      "UNI_LANDBANK": 1,
+      "UNI_ARMS": 1,
+      "UNI_COMPANION": 4
+    },
+    {
+      "$id": 9,
+      "ID": "SCL_UP_CHAT",
+      "BasePointNormall": 5,
+      "UNI_NONE": 0,
+      "UNI_PATHFINDER": 1,
+      "UNI_INTERCEPTOR": 1,
+      "UNI_AVALANCHE": 1,
+      "UNI_TESTAMENT": 1,
+      "UNI_COLLEPEDIAN": 1,
+      "UNI_LANDBANK": 1,
+      "UNI_ARMS": 1,
+      "UNI_COMPANION": 2
+    },
+    {
+      "$id": 10,
+      "ID": "SCL_UP_DEAL",
+      "BasePointNormall": 50,
+      "UNI_NONE": 0,
+      "UNI_PATHFINDER": 1,
+      "UNI_INTERCEPTOR": 1,
+      "UNI_AVALANCHE": 2,
+      "UNI_TESTAMENT": 1,
+      "UNI_COLLEPEDIAN": 1,
+      "UNI_LANDBANK": 1,
+      "UNI_ARMS": 1,
+      "UNI_COMPANION": 2
+    },
+    {
+      "$id": 11,
+      "ID": "SCL_UP_DYING_MSG",
+      "BasePointNormall": 25,
+      "UNI_NONE": 0,
+      "UNI_PATHFINDER": 1,
+      "UNI_INTERCEPTOR": 1,
+      "UNI_AVALANCHE": 1,
+      "UNI_TESTAMENT": 1,
+      "UNI_COLLEPEDIAN": 1,
+      "UNI_LANDBANK": 1,
+      "UNI_ARMS": 1,
+      "UNI_COMPANION": 1
+    },
+    {
+      "$id": 12,
+      "ID": "SCL_UP_ACHIEVEMENT",
+      "BasePointNormall": 1,
+      "UNI_NONE": 0,
+      "UNI_PATHFINDER": 3,
+      "UNI_INTERCEPTOR": 2,
+      "UNI_AVALANCHE": 2,
+      "UNI_TESTAMENT": 3,
+      "UNI_COLLEPEDIAN": 3,
+      "UNI_LANDBANK": 2,
+      "UNI_ARMS": 3,
+      "UNI_COMPANION": 2
+    },
+    {
+      "$id": 13,
+      "ID": "SCL_UP_ARMS_LVUP",
+      "BasePointNormall": 5,
+      "UNI_NONE": 0,
+      "UNI_PATHFINDER": 2,
+      "UNI_INTERCEPTOR": 2,
+      "UNI_AVALANCHE": 2,
+      "UNI_TESTAMENT": 2,
+      "UNI_COLLEPEDIAN": 1,
+      "UNI_LANDBANK": 3,
+      "UNI_ARMS": 5,
+      "UNI_COMPANION": 1
+    },
+    {
+      "$id": 14,
+      "ID": "SCL_UP_CM",
+      "BasePointNormall": 2,
+      "UNI_NONE": 0,
+      "UNI_PATHFINDER": 2,
+      "UNI_INTERCEPTOR": 3,
+      "UNI_AVALANCHE": 2,
+      "UNI_TESTAMENT": 2,
+      "UNI_COLLEPEDIAN": 1,
+      "UNI_LANDBANK": 3,
+      "UNI_ARMS": 4,
+      "UNI_COMPANION": 1
+    },
+    {
+      "$id": 15,
+      "ID": "SCL_UP_RARERSC",
+      "BasePointNormall": 30,
+      "UNI_NONE": 0,
+      "UNI_PATHFINDER": 1,
+      "UNI_INTERCEPTOR": 1,
+      "UNI_AVALANCHE": 1,
+      "UNI_TESTAMENT": 1,
+      "UNI_COLLEPEDIAN": 2,
+      "UNI_LANDBANK": 5,
+      "UNI_ARMS": 1,
+      "UNI_COMPANION": 1
+    }
+  ]
+}

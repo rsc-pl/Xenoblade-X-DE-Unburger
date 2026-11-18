@@ -1,0 +1,57 @@
+{
+  "schema": [
+    {
+      "name": "ID",
+      "type": 9
+    },
+    {
+      "name": "type",
+      "type": 1
+    },
+    {
+      "name": "fld_Open",
+      "type": 1
+    },
+    {
+      "name": "fld_Clear",
+      "type": 1
+    },
+    {
+      "name": "nla_Open",
+      "type": 1
+    },
+    {
+      "name": "nla_Clear",
+      "type": 1
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "ID": "SEG_TYPE_DATA_PROBE",
+      "type": 1,
+      "fld_Open": 0,
+      "fld_Clear": 1,
+      "nla_Open": 0,
+      "nla_Clear": 0
+    },
+    {
+      "$id": 2,
+      "ID": "SEG_TYPE_NORMAL",
+      "type": 2,
+      "fld_Open": 1,
+      "fld_Clear": 4,
+      "nla_Open": 0,
+      "nla_Clear": 1
+    },
+    {
+      "$id": 3,
+      "ID": "SEG_TYPE_BLADE_HOME",
+      "type": 3,
+      "fld_Open": 0,
+      "fld_Clear": 0,
+      "nla_Open": 0,
+      "nla_Clear": 1
+    }
+  ]
+}

@@ -1,0 +1,216 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev000191_MSG0001",
+      "style": 1,
+      "name": "Ah, [ST:playername ]. Your timing is,\nas always, impeccable.[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev000191_MSG0002",
+      "style": 1,
+      "name": "Since I can't seem to find\nVandham anywhere, might I ask\nfor your counsel instead?[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev000191_MSG0003",
+      "style": 1,
+      "name": "I've just received an emergency\nrequest from a team of Pathfinder.[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev000191_MSG0004",
+      "style": 1,
+      "name": "They've been deployed to an extremely\ndangerous area—one where we've\nlost multiple teams already.[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev000191_MSG0005",
+      "style": 1,
+      "name": "At long last, this team succeeded in reaching their\ndestination. But the data probe they needed to\ncomplete their mission was destroyed in battle.[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "tev000191_MSG0006",
+      "style": 1,
+      "name": "Only highly skilled operatives could deliver supplies safely...\nWe must send the Avalanche or the Interceptor.[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "tev000191_MSG0007",
+      "style": 1,
+      "name": "But even they aren't guaranteed to make it,\nand could be wiped out entirely.[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "tev000191_MSG0008",
+      "style": 1,
+      "name": "So perhaps the better choice is to\norder the Pathfinder to retreat, then\nbegin planning a return mission.[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "tev000191_MSG0009",
+      "style": 1,
+      "name": "With the experience gained from this first trip—plus\nan escort of Avalanche and Interceptor—there's a good\nchance they could reach the destination again.[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "tev000191_MSG0010",
+      "style": 1,
+      "name": "So what would you choose? Attempt an\nimmediate delivery of replacement supplies,\nor abort the mission and try again later?[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev000191_JNK0010",
+      "style": 4,
+      "name": "Deliver Immediately"
+    },
+    {
+      "$id": 12,
+      "label": "tev000191_SEL0011",
+      "style": 3,
+      "name": "Say it's worth the risk to complete the mission."
+    },
+    {
+      "$id": 13,
+      "label": "tev000191_JNK0020",
+      "style": 4,
+      "name": "Abort the Mission"
+    },
+    {
+      "$id": 14,
+      "label": "tev000191_SEL0021",
+      "style": 3,
+      "name": "Suggest Nagi order a retreat and plan a new mission."
+    },
+    {
+      "$id": 15,
+      "label": "tev000191_JNK0030",
+      "style": 4,
+      "name": "Propose Plan C"
+    },
+    {
+      "$id": 16,
+      "label": "tev000191_SEL0031",
+      "style": 3,
+      "name": "Offer to deliver the supplies yourself."
+    },
+    {
+      "$id": 17,
+      "label": "tev000191_MSG0011",
+      "style": 1,
+      "name": "So you're saying that squandering\nthis opportunity could prove\nto be the greater danger?[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "tev000191_MSG0012",
+      "style": 1,
+      "name": "Hmm. We'd be risking many lives, but that may be\nthe sort of risk we have to take if we hope to\naccomplish anything on this dangerous world...[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "tev000191_MSG0013",
+      "style": 1,
+      "name": "And after all that you've\naccomplished as a BLADE, I\ndon't take your opinion lightly.[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "tev000191_MSG0014",
+      "style": 1,
+      "name": "It's settled then—we'll send the\nAvalanche. If your gambit succeeds,\nthe benefits to NLA will be considerable.[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "tev000191_MSG0015",
+      "style": 1,
+      "name": "Now I must head back to BLADE HQ\nand work out the particulars of\nthe mission. Good day to you.[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "tev000191_MSG0016",
+      "style": 1,
+      "name": "Indeed. Our bodies may be Blue Bloods,\nbut they're still too precious an\nasset to risk without good reason.[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "tev000191_MSG0017",
+      "style": 1,
+      "name": "It would be reckless to risk the\nlives of so many BLADE operatives\non this single mission.[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "tev000191_MSG0018",
+      "style": 1,
+      "name": "As a wise man once said, \"For he that fights and\nruns away, may turn and fight another day.\" Let's\njust hope the second time is the charm.[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "tev000191_MSG0019",
+      "style": 1,
+      "name": "I will order the Pathfinder\nto retreat immediately.[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "tev000191_MSG0020",
+      "style": 1,
+      "name": "Thank you. After all that you've\naccomplished as a BLADE, I don't\ntake your opinion lightly.[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "tev000191_MSG0021",
+      "style": 1,
+      "name": "Now I must head back to BLADE HQ\nand work out the particulars of\nthe new mission. Good day to you.[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "tev000191_MSG0022",
+      "style": 1,
+      "name": "I like the way you think. If\nI had my druthers, I'd go out\nthere with you myself.[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "tev000191_MSG0023",
+      "style": 1,
+      "name": "But I'm afraid this time,\nit's not an option.[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "tev000191_MSG0024",
+      "style": 1,
+      "name": "Vandham has put his foot down.\nHe actually insists that\nneither one of us can go.[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "tev000191_MSG0025",
+      "style": 1,
+      "name": "BLADE is a large organization,\nand Elma's team is hardly the\nonly skilled one at our disposal.[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "tev000191_MSG0026",
+      "style": 1,
+      "name": "Apparently, Vandham thinks I need to utilize\nsome of these other teams in order to promote\ngroup harmony and effectiveness.[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "tev000191_MSG0027",
+      "style": 1,
+      "name": "This won't be the last time this kind of problem arises,\nand we'll need a better plan in the future. But for\nnow, we need to choose one of these two strategies.[ST:wait ]"
+    }
+  ]
+}

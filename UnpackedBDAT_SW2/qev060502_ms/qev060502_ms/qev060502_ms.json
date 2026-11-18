@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev060502_MSG0001",
+      "style": 1,
+      "name": "Oh... [ST:playername ]? What are you doing\nin a place like this?[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev060502_MSG0002",
+      "style": 1,
+      "name": "Arsenican and I just finished\nrevoltanting a large amount of\nVoltant for the first time in a while.[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev060502_MSG0003",
+      "style": 1,
+      "name": "Heheh, we must thank Golbogga for bestowing\nthis good fortune upon us... indeed.[ST:wait ]"
+    }
+  ]
+}

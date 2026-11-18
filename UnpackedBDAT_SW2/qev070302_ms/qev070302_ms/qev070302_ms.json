@@ -1,0 +1,90 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev070302_MSG0001",
+      "style": 1,
+      "name": "...How did it go? Did you find\nsomeone looking like Doc?[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev070302_MSG0002",
+      "style": 1,
+      "name": "...Eh? Only the Mirarian\nwas left behind?[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev070302_MSG0008",
+      "style": 1,
+      "name": "Doc... Where is he wandering\naround in a dangerous place like\nthe White Woods...[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev070302_MSG0003",
+      "style": 1,
+      "name": "...Hey, there's a green panel inside the\nMirarian. Could you push it for me?[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev070302_JNK0010",
+      "style": 4,
+      "name": "Affirm"
+    },
+    {
+      "$id": 6,
+      "label": "qev070302_SEL0011",
+      "style": 3,
+      "name": "Obediently press the button."
+    },
+    {
+      "$id": 7,
+      "label": "qev070302_JNK0020",
+      "style": 4,
+      "name": "Deny"
+    },
+    {
+      "$id": 8,
+      "label": "qev070302_SEL0021",
+      "style": 3,
+      "name": "Do not press the button because it is suspicious."
+    },
+    {
+      "$id": 9,
+      "label": "qev070302_MSG0004",
+      "style": 1,
+      "name": "What? A rebellious phase? Are you\nfeeling the urge to rebel against\nwhatever you can? Just push it...[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev070302_MSG0005",
+      "style": 1,
+      "name": "...See? When you do that, Doc's current\nlocation popped right up, didn't it?[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev070302_MSG0006",
+      "style": 1,
+      "name": "He might be caught up in\nsome incident like before.[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev070302_MSG0007",
+      "style": 1,
+      "name": "Please hurry to that location. I'm counting\non you, absolutely bring Doc back![ST:wait ]"
+    }
+  ]
+}

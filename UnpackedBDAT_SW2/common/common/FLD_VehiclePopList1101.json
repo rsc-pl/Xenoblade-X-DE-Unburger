@@ -1,0 +1,449 @@
+{
+  "schema": [
+    {
+      "name": "ID",
+      "type": 9
+    },
+    {
+      "name": "name",
+      "type": 7
+    },
+    {
+      "name": "mdl",
+      "type": 7
+    },
+    {
+      "name": "mot",
+      "type": 7
+    },
+    {
+      "name": "mca",
+      "type": 7
+    },
+    {
+      "name": "startActionName",
+      "type": 7
+    },
+    {
+      "name": "acb",
+      "type": 7
+    },
+    {
+      "name": "clipEvt",
+      "type": 7
+    },
+    {
+      "name": "is_play_ve_se",
+      "type": 1
+    },
+    {
+      "name": "se_env_id",
+      "type": 2
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "ID": "VEHICLE_101",
+      "name": "SEDAN_11_001",
+      "mdl": "oj/oj400101",
+      "mot": "oj400101",
+      "mca": "oj4001",
+      "startActionName": "AC_R11",
+      "acb": "oj/oj400101",
+      "clipEvt": "oj400101",
+      "is_play_ve_se": 1,
+      "se_env_id": 15
+    },
+    {
+      "$id": 2,
+      "ID": "VEHICLE_102",
+      "name": "SEDAN_11_002",
+      "mdl": "oj/oj400101",
+      "mot": "oj400101",
+      "mca": "oj4001",
+      "startActionName": "AC_R11_25",
+      "acb": "oj/oj400101",
+      "clipEvt": "oj400101",
+      "is_play_ve_se": 1,
+      "se_env_id": 15
+    },
+    {
+      "$id": 3,
+      "ID": "VEHICLE_103",
+      "name": "SEDAN_11_003",
+      "mdl": "oj/oj400101",
+      "mot": "oj400101",
+      "mca": "oj4001",
+      "startActionName": "AC_R11_50",
+      "acb": "oj/oj400101",
+      "clipEvt": "oj400101",
+      "is_play_ve_se": 1,
+      "se_env_id": 15
+    },
+    {
+      "$id": 4,
+      "ID": "VEHICLE_104",
+      "name": "SEDAN_11_004",
+      "mdl": "oj/oj400101",
+      "mot": "oj400101",
+      "mca": "oj4001",
+      "startActionName": "AC_R11_75",
+      "acb": "oj/oj400101",
+      "clipEvt": "oj400101",
+      "is_play_ve_se": 1,
+      "se_env_id": 15
+    },
+    {
+      "$id": 5,
+      "ID": "VEHICLE_105",
+      "name": "SEDAN_12_001",
+      "mdl": "oj/oj400101",
+      "mot": "oj400101",
+      "mca": "oj4001",
+      "startActionName": "AC_R12",
+      "acb": "oj/oj400101",
+      "clipEvt": "oj400101",
+      "is_play_ve_se": 1,
+      "se_env_id": 15
+    },
+    {
+      "$id": 6,
+      "ID": "VEHICLE_106",
+      "name": "SEDAN_12_002",
+      "mdl": "oj/oj400101",
+      "mot": "oj400101",
+      "mca": "oj4001",
+      "startActionName": "AC_R12_25",
+      "acb": "oj/oj400101",
+      "clipEvt": "oj400101",
+      "is_play_ve_se": 1,
+      "se_env_id": 15
+    },
+    {
+      "$id": 7,
+      "ID": "VEHICLE_107",
+      "name": "SEDAN_12_003",
+      "mdl": "oj/oj400101",
+      "mot": "oj400101",
+      "mca": "oj4001",
+      "startActionName": "AC_R12_50",
+      "acb": "oj/oj400101",
+      "clipEvt": "oj400101",
+      "is_play_ve_se": 1,
+      "se_env_id": 15
+    },
+    {
+      "$id": 8,
+      "ID": "VEHICLE_108",
+      "name": "SEDAN_12_004",
+      "mdl": "oj/oj400101",
+      "mot": "oj400101",
+      "mca": "oj4001",
+      "startActionName": "AC_R12_75",
+      "acb": "oj/oj400101",
+      "clipEvt": "oj400101",
+      "is_play_ve_se": 1,
+      "se_env_id": 15
+    },
+    {
+      "$id": 9,
+      "ID": "VEHICLE_109",
+      "name": "SEDAN_13_001",
+      "mdl": "oj/oj400101",
+      "mot": "oj400101",
+      "mca": "oj4001",
+      "startActionName": "AC_R13",
+      "acb": "oj/oj400101",
+      "clipEvt": "oj400101",
+      "is_play_ve_se": 1,
+      "se_env_id": 15
+    },
+    {
+      "$id": 10,
+      "ID": "VEHICLE_110",
+      "name": "SEDAN_13_002",
+      "mdl": "oj/oj400101",
+      "mot": "oj400101",
+      "mca": "oj4001",
+      "startActionName": "AC_R13_25",
+      "acb": "oj/oj400101",
+      "clipEvt": "oj400101",
+      "is_play_ve_se": 1,
+      "se_env_id": 15
+    },
+    {
+      "$id": 11,
+      "ID": "VEHICLE_111",
+      "name": "SEDAN_13_003",
+      "mdl": "oj/oj400101",
+      "mot": "oj400101",
+      "mca": "oj4001",
+      "startActionName": "AC_R13_50",
+      "acb": "oj/oj400101",
+      "clipEvt": "oj400101",
+      "is_play_ve_se": 1,
+      "se_env_id": 15
+    },
+    {
+      "$id": 12,
+      "ID": "VEHICLE_112",
+      "name": "SEDAN_13_004",
+      "mdl": "oj/oj400101",
+      "mot": "oj400101",
+      "mca": "oj4001",
+      "startActionName": "AC_R13_75",
+      "acb": "oj/oj400101",
+      "clipEvt": "oj400101",
+      "is_play_ve_se": 1,
+      "se_env_id": 15
+    },
+    {
+      "$id": 13,
+      "ID": "VEHICLE_201",
+      "name": "MINI_12_001",
+      "mdl": "oj/oj400201",
+      "mot": "oj400201",
+      "mca": "oj4002",
+      "startActionName": "AC_R12",
+      "acb": "oj/oj400201",
+      "clipEvt": "oj400201",
+      "is_play_ve_se": 1,
+      "se_env_id": 15
+    },
+    {
+      "$id": 14,
+      "ID": "VEHICLE_202",
+      "name": "MINI_12_002",
+      "mdl": "oj/oj400201",
+      "mot": "oj400201",
+      "mca": "oj4002",
+      "startActionName": "AC_R12_25",
+      "acb": "oj/oj400201",
+      "clipEvt": "oj400201",
+      "is_play_ve_se": 1,
+      "se_env_id": 15
+    },
+    {
+      "$id": 15,
+      "ID": "VEHICLE_203",
+      "name": "MINI_12_003",
+      "mdl": "oj/oj400201",
+      "mot": "oj400201",
+      "mca": "oj4002",
+      "startActionName": "AC_R12_50",
+      "acb": "oj/oj400201",
+      "clipEvt": "oj400201",
+      "is_play_ve_se": 1,
+      "se_env_id": 15
+    },
+    {
+      "$id": 16,
+      "ID": "VEHICLE_204",
+      "name": "MINI_12_004",
+      "mdl": "oj/oj400201",
+      "mot": "oj400201",
+      "mca": "oj4002",
+      "startActionName": "AC_R12_75",
+      "acb": "oj/oj400201",
+      "clipEvt": "oj400201",
+      "is_play_ve_se": 1,
+      "se_env_id": 15
+    },
+    {
+      "$id": 17,
+      "ID": "VEHICLE_205",
+      "name": "MINI_14_001",
+      "mdl": "oj/oj400201",
+      "mot": "oj400201",
+      "mca": "oj4002",
+      "startActionName": "AC_R14",
+      "acb": "oj/oj400201",
+      "clipEvt": "oj400201",
+      "is_play_ve_se": 1,
+      "se_env_id": 15
+    },
+    {
+      "$id": 18,
+      "ID": "VEHICLE_206",
+      "name": "MINI_14_002",
+      "mdl": "oj/oj400201",
+      "mot": "oj400201",
+      "mca": "oj4002",
+      "startActionName": "AC_R14_25",
+      "acb": "oj/oj400201",
+      "clipEvt": "oj400201",
+      "is_play_ve_se": 1,
+      "se_env_id": 15
+    },
+    {
+      "$id": 19,
+      "ID": "VEHICLE_207",
+      "name": "MINI_14_003",
+      "mdl": "oj/oj400201",
+      "mot": "oj400201",
+      "mca": "oj4002",
+      "startActionName": "AC_R14_50",
+      "acb": "oj/oj400201",
+      "clipEvt": "oj400201",
+      "is_play_ve_se": 1,
+      "se_env_id": 15
+    },
+    {
+      "$id": 20,
+      "ID": "VEHICLE_208",
+      "name": "MINI_14_004",
+      "mdl": "oj/oj400201",
+      "mot": "oj400201",
+      "mca": "oj4002",
+      "startActionName": "AC_R14_75",
+      "acb": "oj/oj400201",
+      "clipEvt": "oj400201",
+      "is_play_ve_se": 1,
+      "se_env_id": 15
+    },
+    {
+      "$id": 21,
+      "ID": "VEHICLE_401",
+      "name": "HIGHER_14_001",
+      "mdl": "oj/oj400401",
+      "mot": "oj400401",
+      "mca": "oj4004",
+      "startActionName": "AC_R14",
+      "acb": "oj/oj400106",
+      "clipEvt": "oj400401",
+      "is_play_ve_se": 1,
+      "se_env_id": 15
+    },
+    {
+      "$id": 22,
+      "ID": "VEHICLE_402",
+      "name": "HIGHER_14_002",
+      "mdl": "oj/oj400401",
+      "mot": "oj400401",
+      "mca": "oj4004",
+      "startActionName": "AC_R14_25",
+      "acb": "oj/oj400106",
+      "clipEvt": "oj400401",
+      "is_play_ve_se": 1,
+      "se_env_id": 15
+    },
+    {
+      "$id": 23,
+      "ID": "VEHICLE_403",
+      "name": "HIGHER_14_003",
+      "mdl": "oj/oj400401",
+      "mot": "oj400401",
+      "mca": "oj4004",
+      "startActionName": "AC_R14_50",
+      "acb": "oj/oj400106",
+      "clipEvt": "oj400401",
+      "is_play_ve_se": 1,
+      "se_env_id": 15
+    },
+    {
+      "$id": 24,
+      "ID": "VEHICLE_404",
+      "name": "HIGHER_14_004",
+      "mdl": "oj/oj400401",
+      "mot": "oj400401",
+      "mca": "oj4004",
+      "startActionName": "AC_R14_75",
+      "acb": "oj/oj400106",
+      "clipEvt": "oj400401",
+      "is_play_ve_se": 1,
+      "se_env_id": 15
+    },
+    {
+      "$id": 25,
+      "ID": "VEHICLE_501",
+      "name": "JEEP_11_001",
+      "mdl": "oj/oj400503",
+      "mot": "oj400501",
+      "mca": "oj4005",
+      "startActionName": "AC_R11",
+      "acb": "oj/oj400501",
+      "clipEvt": "oj400501",
+      "is_play_ve_se": 1,
+      "se_env_id": 15
+    },
+    {
+      "$id": 26,
+      "ID": "VEHICLE_502",
+      "name": "JEEP_11_002",
+      "mdl": "oj/oj400503",
+      "mot": "oj400501",
+      "mca": "oj4005",
+      "startActionName": "AC_R11_25",
+      "acb": "oj/oj400501",
+      "clipEvt": "oj400501",
+      "is_play_ve_se": 1,
+      "se_env_id": 15
+    },
+    {
+      "$id": 27,
+      "ID": "VEHICLE_503",
+      "name": "JEEP_11_003",
+      "mdl": "oj/oj400503",
+      "mot": "oj400501",
+      "mca": "oj4005",
+      "startActionName": "AC_R11_50",
+      "acb": "oj/oj400501",
+      "clipEvt": "oj400501",
+      "is_play_ve_se": 1,
+      "se_env_id": 15
+    },
+    {
+      "$id": 28,
+      "ID": "VEHICLE_504",
+      "name": "JEEP_11_004",
+      "mdl": "oj/oj400503",
+      "mot": "oj400501",
+      "mca": "oj4005",
+      "startActionName": "AC_R11_75",
+      "acb": "oj/oj400501",
+      "clipEvt": "oj400501",
+      "is_play_ve_se": 1,
+      "se_env_id": 15
+    },
+    {
+      "$id": 29,
+      "ID": "VTOL_001",
+      "name": "VTOL_951_001",
+      "mdl": "oj/oj340501",
+      "mot": "oj340501",
+      "mca": "oj3405",
+      "startActionName": "AC_R951",
+      "acb": "oj/oj340501",
+      "clipEvt": "oj340501",
+      "is_play_ve_se": 1,
+      "se_env_id": 21
+    },
+    {
+      "$id": 30,
+      "ID": "VTOL_002",
+      "name": "VTOL_11_001",
+      "mdl": "oj/oj340501",
+      "mot": "oj340501",
+      "mca": "oj3405",
+      "startActionName": "AC_R11",
+      "acb": "oj/oj340501",
+      "clipEvt": "oj340501",
+      "is_play_ve_se": 1,
+      "se_env_id": 21
+    },
+    {
+      "$id": 31,
+      "ID": "VTOL_003",
+      "name": "VTOL_12_001",
+      "mdl": "oj/oj340501",
+      "mot": "oj340501",
+      "mca": "oj3405",
+      "startActionName": "AC_R12",
+      "acb": "oj/oj340501",
+      "clipEvt": "oj340501",
+      "is_play_ve_se": 1,
+      "se_env_id": 21
+    }
+  ]
+}

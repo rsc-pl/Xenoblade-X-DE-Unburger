@@ -1,0 +1,222 @@
+{
+  "schema": [
+    {
+      "name": "ID",
+      "type": 9
+    },
+    {
+      "name": "Name",
+      "type": 2
+    },
+    {
+      "name": "Caption",
+      "type": 2
+    },
+    {
+      "name": "Rare",
+      "type": 1
+    },
+    {
+      "name": "UI2",
+      "type": 2
+    },
+    {
+      "name": "Price",
+      "type": 2
+    },
+    {
+      "name": "ItemInfo(NoSell)",
+      "type": 1
+    },
+    {
+      "name": "order",
+      "type": 1
+    },
+    {
+      "name": "Lottery",
+      "type": 1
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "ID": "ITM_RRR013",
+      "Name": 13,
+      "Caption": 28,
+      "Rare": 1,
+      "UI2": 2088,
+      "Price": 100,
+      "ItemInfo(NoSell)": 0,
+      "order": 15,
+      "Lottery": 30
+    },
+    {
+      "$id": 2,
+      "ID": "ITM_RRR012",
+      "Name": 12,
+      "Caption": 27,
+      "Rare": 1,
+      "UI2": 2088,
+      "Price": 100,
+      "ItemInfo(NoSell)": 0,
+      "order": 14,
+      "Lottery": 28
+    },
+    {
+      "$id": 3,
+      "ID": "ITM_RRR004",
+      "Name": 4,
+      "Caption": 19,
+      "Rare": 1,
+      "UI2": 2088,
+      "Price": 100,
+      "ItemInfo(NoSell)": 0,
+      "order": 13,
+      "Lottery": 26
+    },
+    {
+      "$id": 4,
+      "ID": "ITM_RRR003",
+      "Name": 3,
+      "Caption": 18,
+      "Rare": 1,
+      "UI2": 2088,
+      "Price": 100,
+      "ItemInfo(NoSell)": 0,
+      "order": 12,
+      "Lottery": 24
+    },
+    {
+      "$id": 5,
+      "ID": "ITM_RRR005",
+      "Name": 5,
+      "Caption": 20,
+      "Rare": 1,
+      "UI2": 2088,
+      "Price": 100,
+      "ItemInfo(NoSell)": 0,
+      "order": 11,
+      "Lottery": 22
+    },
+    {
+      "$id": 6,
+      "ID": "ITM_RRR002",
+      "Name": 2,
+      "Caption": 17,
+      "Rare": 2,
+      "UI2": 2089,
+      "Price": 500,
+      "ItemInfo(NoSell)": 0,
+      "order": 10,
+      "Lottery": 20
+    },
+    {
+      "$id": 7,
+      "ID": "ITM_RRR001",
+      "Name": 1,
+      "Caption": 16,
+      "Rare": 2,
+      "UI2": 2089,
+      "Price": 200,
+      "ItemInfo(NoSell)": 0,
+      "order": 9,
+      "Lottery": 18
+    },
+    {
+      "$id": 8,
+      "ID": "ITM_RRR010",
+      "Name": 10,
+      "Caption": 25,
+      "Rare": 2,
+      "UI2": 2089,
+      "Price": 200,
+      "ItemInfo(NoSell)": 0,
+      "order": 8,
+      "Lottery": 16
+    },
+    {
+      "$id": 9,
+      "ID": "ITM_RRR009",
+      "Name": 9,
+      "Caption": 24,
+      "Rare": 2,
+      "UI2": 2089,
+      "Price": 750,
+      "ItemInfo(NoSell)": 0,
+      "order": 7,
+      "Lottery": 14
+    },
+    {
+      "$id": 10,
+      "ID": "ITM_RRR007",
+      "Name": 7,
+      "Caption": 22,
+      "Rare": 3,
+      "UI2": 2090,
+      "Price": 1500,
+      "ItemInfo(NoSell)": 0,
+      "order": 6,
+      "Lottery": 12
+    },
+    {
+      "$id": 11,
+      "ID": "ITM_RRR011",
+      "Name": 11,
+      "Caption": 26,
+      "Rare": 3,
+      "UI2": 2090,
+      "Price": 1750,
+      "ItemInfo(NoSell)": 0,
+      "order": 5,
+      "Lottery": 10
+    },
+    {
+      "$id": 12,
+      "ID": "ITM_RRR015",
+      "Name": 15,
+      "Caption": 30,
+      "Rare": 4,
+      "UI2": 2091,
+      "Price": 2000,
+      "ItemInfo(NoSell)": 0,
+      "order": 4,
+      "Lottery": 8
+    },
+    {
+      "$id": 13,
+      "ID": "ITM_RRR006",
+      "Name": 6,
+      "Caption": 21,
+      "Rare": 4,
+      "UI2": 2091,
+      "Price": 2250,
+      "ItemInfo(NoSell)": 0,
+      "order": 3,
+      "Lottery": 6
+    },
+    {
+      "$id": 14,
+      "ID": "ITM_RRR014",
+      "Name": 14,
+      "Caption": 29,
+      "Rare": 5,
+      "UI2": 2092,
+      "Price": 2500,
+      "ItemInfo(NoSell)": 0,
+      "order": 2,
+      "Lottery": 4
+    },
+    {
+      "$id": 15,
+      "ID": "ITM_RRR008",
+      "Name": 8,
+      "Caption": 23,
+      "Rare": 5,
+      "UI2": 2092,
+      "Price": 3000,
+      "ItemInfo(NoSell)": 0,
+      "order": 1,
+      "Lottery": 2
+    }
+  ]
+}

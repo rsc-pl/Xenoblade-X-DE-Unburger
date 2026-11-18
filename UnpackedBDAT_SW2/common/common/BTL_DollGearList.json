@@ -1,0 +1,254 @@
+{
+  "schema": [
+    {
+      "name": "ID",
+      "type": 9
+    },
+    {
+      "name": "MaxPoint",
+      "type": 2
+    },
+    {
+      "name": "ExecPoint",
+      "type": 2
+    },
+    {
+      "name": "EffNo",
+      "type": 1
+    },
+    {
+      "name": "UINo",
+      "type": 1
+    },
+    {
+      "name": "job01",
+      "type": 1
+    },
+    {
+      "name": "val01",
+      "type": 2
+    },
+    {
+      "name": "job02",
+      "type": 1
+    },
+    {
+      "name": "val02",
+      "type": 2
+    },
+    {
+      "name": "job03",
+      "type": 1
+    },
+    {
+      "name": "val03",
+      "type": 2
+    },
+    {
+      "name": "job04",
+      "type": 1
+    },
+    {
+      "name": "val04",
+      "type": 2
+    },
+    {
+      "name": "job05",
+      "type": 1
+    },
+    {
+      "name": "val05",
+      "type": 2
+    },
+    {
+      "name": "job06",
+      "type": 1
+    },
+    {
+      "name": "val06",
+      "type": 2
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "ID": "DG_01",
+      "MaxPoint": 3000,
+      "ExecPoint": 3000,
+      "EffNo": 1,
+      "UINo": 1,
+      "job01": 3,
+      "val01": 0,
+      "job02": 5,
+      "val02": 150,
+      "job03": 6,
+      "val03": 50,
+      "job04": 4,
+      "val04": 100,
+      "job05": 0,
+      "val05": 0,
+      "job06": 0,
+      "val06": 0
+    },
+    {
+      "$id": 2,
+      "ID": "DG_02",
+      "MaxPoint": 6000,
+      "ExecPoint": 3000,
+      "EffNo": 2,
+      "UINo": 2,
+      "job01": 3,
+      "val01": 0,
+      "job02": 8,
+      "val02": 20,
+      "job03": 9,
+      "val03": 50,
+      "job04": 10,
+      "val04": 50,
+      "job05": 20,
+      "val05": 0,
+      "job06": 0,
+      "val06": 0
+    },
+    {
+      "$id": 3,
+      "ID": "DG_03",
+      "MaxPoint": 3000,
+      "ExecPoint": 3000,
+      "EffNo": 3,
+      "UINo": 3,
+      "job01": 3,
+      "val01": 0,
+      "job02": 11,
+      "val02": 100,
+      "job03": 9,
+      "val03": 40,
+      "job04": 12,
+      "val04": 200,
+      "job05": 0,
+      "val05": 0,
+      "job06": 0,
+      "val06": 0
+    },
+    {
+      "$id": 4,
+      "ID": "DG_04",
+      "MaxPoint": 3000,
+      "ExecPoint": 3000,
+      "EffNo": 4,
+      "UINo": 4,
+      "job01": 3,
+      "val01": 0,
+      "job02": 19,
+      "val02": 100,
+      "job03": 13,
+      "val03": 200,
+      "job04": 10,
+      "val04": 30,
+      "job05": 0,
+      "val05": 0,
+      "job06": 0,
+      "val06": 0
+    },
+    {
+      "$id": 5,
+      "ID": "DG_05",
+      "MaxPoint": 3000,
+      "ExecPoint": 3000,
+      "EffNo": 5,
+      "UINo": 5,
+      "job01": 3,
+      "val01": 0,
+      "job02": 24,
+      "val02": 50,
+      "job03": 21,
+      "val03": 50,
+      "job04": 9,
+      "val04": 30,
+      "job05": 0,
+      "val05": 0,
+      "job06": 0,
+      "val06": 0
+    },
+    {
+      "$id": 6,
+      "ID": "DG_06",
+      "MaxPoint": 3000,
+      "ExecPoint": 3000,
+      "EffNo": 6,
+      "UINo": 6,
+      "job01": 3,
+      "val01": 0,
+      "job02": 22,
+      "val02": 2,
+      "job03": 23,
+      "val03": 200,
+      "job04": 11,
+      "val04": 100,
+      "job05": 0,
+      "val05": 0,
+      "job06": 0,
+      "val06": 0
+    },
+    {
+      "$id": 7,
+      "ID": "DG_07",
+      "MaxPoint": 6000,
+      "ExecPoint": 3000,
+      "EffNo": 7,
+      "UINo": 7,
+      "job01": 3,
+      "val01": 0,
+      "job02": 9,
+      "val02": 40,
+      "job03": 19,
+      "val03": 100,
+      "job04": 15,
+      "val04": 200,
+      "job05": 0,
+      "val05": 0,
+      "job06": 0,
+      "val06": 0
+    },
+    {
+      "$id": 8,
+      "ID": "DG_08",
+      "MaxPoint": 3000,
+      "ExecPoint": 3000,
+      "EffNo": 8,
+      "UINo": 8,
+      "job01": 3,
+      "val01": 0,
+      "job02": 24,
+      "val02": 150,
+      "job03": 5,
+      "val03": 200,
+      "job04": 25,
+      "val04": 50,
+      "job05": 0,
+      "val05": 0,
+      "job06": 0,
+      "val06": 0
+    },
+    {
+      "$id": 9,
+      "ID": "DG_09",
+      "MaxPoint": 3000,
+      "ExecPoint": 3000,
+      "EffNo": 9,
+      "UINo": 9,
+      "job01": 3,
+      "val01": 0,
+      "job02": 5,
+      "val02": 200,
+      "job03": 4,
+      "val03": 200,
+      "job04": 24,
+      "val04": 200,
+      "job05": 9,
+      "val05": 50,
+      "job06": 0,
+      "val06": 0
+    }
+  ]
+}

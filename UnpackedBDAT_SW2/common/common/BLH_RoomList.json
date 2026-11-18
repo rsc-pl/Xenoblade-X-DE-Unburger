@@ -1,0 +1,197 @@
+{
+  "schema": [
+    {
+      "name": "ID",
+      "type": 9
+    },
+    {
+      "name": "NAME",
+      "type": 2
+    },
+    {
+      "name": "Parts0",
+      "type": 1
+    },
+    {
+      "name": "Parts0NAME",
+      "type": 1
+    },
+    {
+      "name": "Parts0DefClr",
+      "type": 1
+    },
+    {
+      "name": "Parts1",
+      "type": 1
+    },
+    {
+      "name": "Parts1NAME",
+      "type": 1
+    },
+    {
+      "name": "Parts1DefClr",
+      "type": 1
+    },
+    {
+      "name": "Parts2",
+      "type": 1
+    },
+    {
+      "name": "Parts2NAME",
+      "type": 1
+    },
+    {
+      "name": "Parts2DefClr",
+      "type": 1
+    },
+    {
+      "name": "Parts2LockFlag",
+      "type": 1
+    },
+    {
+      "name": "Parts2Dummy",
+      "type": 1
+    },
+    {
+      "name": "Parts3",
+      "type": 1
+    },
+    {
+      "name": "Parts3NAME",
+      "type": 1
+    },
+    {
+      "name": "Parts3DefClr",
+      "type": 1
+    },
+    {
+      "name": "Parts3LockFlag",
+      "type": 1
+    },
+    {
+      "name": "Parts3Dummy",
+      "type": 1
+    },
+    {
+      "name": "Parts4",
+      "type": 1
+    },
+    {
+      "name": "Parts4NAME",
+      "type": 1
+    },
+    {
+      "name": "Parts4DefClr",
+      "type": 1
+    },
+    {
+      "name": "Parts4LockFlag",
+      "type": 1
+    },
+    {
+      "name": "Parts4Dummy",
+      "type": 1
+    },
+    {
+      "name": "CamID_0",
+      "type": 1
+    },
+    {
+      "name": "CamID_1",
+      "type": 1
+    },
+    {
+      "name": "CamID_2",
+      "type": 1
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "ID": "ROOM_01",
+      "NAME": 1,
+      "Parts0": 1,
+      "Parts0NAME": 6,
+      "Parts0DefClr": 1,
+      "Parts1": 2,
+      "Parts1NAME": 7,
+      "Parts1DefClr": 3,
+      "Parts2": 3,
+      "Parts2NAME": 8,
+      "Parts2DefClr": 3,
+      "Parts2LockFlag": 0,
+      "Parts2Dummy": 4,
+      "Parts3": 4,
+      "Parts3NAME": 9,
+      "Parts3DefClr": 3,
+      "Parts3LockFlag": 0,
+      "Parts3Dummy": 3,
+      "Parts4": 5,
+      "Parts4NAME": 10,
+      "Parts4DefClr": 1,
+      "Parts4LockFlag": 0,
+      "Parts4Dummy": 3,
+      "CamID_0": 2,
+      "CamID_1": 1,
+      "CamID_2": 0
+    },
+    {
+      "$id": 2,
+      "ID": "ROOM_02",
+      "NAME": 2,
+      "Parts0": 11,
+      "Parts0NAME": 11,
+      "Parts0DefClr": 3,
+      "Parts1": 12,
+      "Parts1NAME": 12,
+      "Parts1DefClr": 3,
+      "Parts2": 13,
+      "Parts2NAME": 13,
+      "Parts2DefClr": 3,
+      "Parts2LockFlag": 0,
+      "Parts2Dummy": 14,
+      "Parts3": 14,
+      "Parts3NAME": 14,
+      "Parts3DefClr": 3,
+      "Parts3LockFlag": 0,
+      "Parts3Dummy": 13,
+      "Parts4": 15,
+      "Parts4NAME": 15,
+      "Parts4DefClr": 3,
+      "Parts4LockFlag": 0,
+      "Parts4Dummy": 13,
+      "CamID_0": 7,
+      "CamID_1": 6,
+      "CamID_2": 8
+    },
+    {
+      "$id": 3,
+      "ID": "ROOM_03",
+      "NAME": 3,
+      "Parts0": 6,
+      "Parts0NAME": 16,
+      "Parts0DefClr": 3,
+      "Parts1": 7,
+      "Parts1NAME": 17,
+      "Parts1DefClr": 3,
+      "Parts2": 8,
+      "Parts2NAME": 18,
+      "Parts2DefClr": 3,
+      "Parts2LockFlag": 0,
+      "Parts2Dummy": 9,
+      "Parts3": 9,
+      "Parts3NAME": 19,
+      "Parts3DefClr": 3,
+      "Parts3LockFlag": 0,
+      "Parts3Dummy": 8,
+      "Parts4": 10,
+      "Parts4NAME": 20,
+      "Parts4DefClr": 3,
+      "Parts4LockFlag": 0,
+      "Parts4Dummy": 8,
+      "CamID_0": 3,
+      "CamID_1": 4,
+      "CamID_2": 5
+    }
+  ]
+}

@@ -1,0 +1,134 @@
+{
+  "schema": [
+    {
+      "name": "ID",
+      "type": 9
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 0,
+      "ID": "FIGURE_RES_NPC",
+      "name": "/chr/np/np"
+    },
+    {
+      "$id": 1,
+      "ID": "FIGURE_RES_ENE",
+      "name": "/chr/"
+    },
+    {
+      "$id": 2,
+      "ID": "FIGURE_RES_OBJ",
+      "name": "/chr/oj/oj"
+    },
+    {
+      "$id": 3,
+      "ID": "FIGURE_RES_PCWPN",
+      "name": "/chr/ws/ws"
+    },
+    {
+      "$id": 4,
+      "ID": "FIGURE_RES_DLWPN",
+      "name": "/chr/wd/wd"
+    },
+    {
+      "$id": 5,
+      "ID": "FIGURE_RES_PC",
+      "name": "/chr/pc/pc"
+    },
+    {
+      "$id": 6,
+      "ID": "FIGURE_RES_FACE",
+      "name": "/chr/fc/fc"
+    },
+    {
+      "$id": 7,
+      "ID": "FIGURE_RES_DOLL",
+      "name": "/chr/dl/dl"
+    },
+    {
+      "$id": 8,
+      "ID": "FIGURE_RES_MOT_NPC",
+      "name": "/hkc/np/np"
+    },
+    {
+      "$id": 9,
+      "ID": "FIGURE_RES_MOT_ENE",
+      "name": "/hkc/en/"
+    },
+    {
+      "$id": 10,
+      "ID": "FIGURE_RES_MOT_OBJ",
+      "name": "/hkc/oj/oj"
+    },
+    {
+      "$id": 11,
+      "ID": "FIGURE_RES_MOT_PCWPN",
+      "name": "/hkc/ws/ws"
+    },
+    {
+      "$id": 12,
+      "ID": "FIGURE_RES_MOT_DLWPN",
+      "name": "/hkc/wd/wd"
+    },
+    {
+      "$id": 13,
+      "ID": "FIGURE_RES_MOT_PC",
+      "name": "/hkc/pc/pc"
+    },
+    {
+      "$id": 14,
+      "ID": "FIGURE_RES_MOT_FACE",
+      "name": "/hkc/pc/pc"
+    },
+    {
+      "$id": 15,
+      "ID": "FIGURE_RES_MOT_DOLL",
+      "name": "/hkc/dl/dl"
+    },
+    {
+      "$id": 16,
+      "ID": "FIGURE_RES_BASE_MOT",
+      "name": "/hkc/pc/pc010000"
+    },
+    {
+      "$id": 17,
+      "ID": "FIGURE_RES_FACE_MAN",
+      "name": "/chr/fc/fc181000"
+    },
+    {
+      "$id": 18,
+      "ID": "FIGURE_RES_FACE_WOMAN",
+      "name": "/chr/fc/fc281000"
+    },
+    {
+      "$id": 19,
+      "ID": "FIGURE_RES_EFFECTNAME",
+      "name": "ma_10_001.efb"
+    },
+    {
+      "$id": 20,
+      "ID": "FIGURE_RES_PARTS_ENE",
+      "name": "/chr/en/"
+    },
+    {
+      "$id": 21,
+      "ID": "FIGURE_RES_SE_NAME",
+      "name": "cmn_216_003"
+    },
+    {
+      "$id": 22,
+      "ID": "FIGURE_RES_MOT_ENEWPN",
+      "name": "/hkc/"
+    },
+    {
+      "$id": 23,
+      "ID": "FIGURE_RES_MOT_SELECT",
+      "name": "/hkc/oj/oj"
+    }
+  ]
+}

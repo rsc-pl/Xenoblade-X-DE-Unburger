@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "ID",
+      "type": 9
+    },
+    {
+      "name": "Fov",
+      "type": 1
+    },
+    {
+      "name": "Height",
+      "type": 1
+    },
+    {
+      "name": "AddStartPos",
+      "type": 5
+    },
+    {
+      "name": "UpAngleLimit",
+      "type": 1
+    },
+    {
+      "name": "DownAngleLimit",
+      "type": 1
+    },
+    {
+      "name": "MoveSpeed",
+      "type": 2
+    },
+    {
+      "name": "RotSpeed",
+      "type": 1
+    },
+    {
+      "name": "CtrlFrame",
+      "type": 2
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "ID": "CAM_HOPPER",
+      "Fov": 40,
+      "Height": 100,
+      "AddStartPos": 300,
+      "UpAngleLimit": 0,
+      "DownAngleLimit": 85,
+      "MoveSpeed": 400,
+      "RotSpeed": 15,
+      "CtrlFrame": 9000
+    }
+  ]
+}

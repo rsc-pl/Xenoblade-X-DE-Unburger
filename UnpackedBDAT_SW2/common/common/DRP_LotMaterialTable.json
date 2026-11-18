@@ -1,0 +1,246 @@
+{
+  "schema": [
+    {
+      "name": "ID",
+      "type": 9
+    },
+    {
+      "name": "LotLvGroup1",
+      "type": 4
+    },
+    {
+      "name": "LotLvGroup2",
+      "type": 4
+    },
+    {
+      "name": "LotLvGroup3",
+      "type": 4
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "ID": "DRP_LOT_MATERIAL_MAIN_COMMON",
+      "LotLvGroup1": 100,
+      "LotLvGroup2": 75,
+      "LotLvGroup3": 25
+    },
+    {
+      "$id": 2,
+      "ID": "DRP_LOT_MATERIAL_MAIN_RARE",
+      "LotLvGroup1": 25,
+      "LotLvGroup2": 50,
+      "LotLvGroup3": 100
+    },
+    {
+      "$id": 3,
+      "ID": "DRP_LOT_MATERIAL_MAIN_UNIQUE",
+      "LotLvGroup1": 5,
+      "LotLvGroup2": 10,
+      "LotLvGroup3": 20
+    },
+    {
+      "$id": 4,
+      "ID": "DRP_LOT_MATERIAL_MAIN_PRIME",
+      "LotLvGroup1": 5,
+      "LotLvGroup2": 25,
+      "LotLvGroup3": 50
+    },
+    {
+      "$id": 5,
+      "ID": "DRP_LOT_MATERIAL_MAIN_GALLAXY",
+      "LotLvGroup1": 1,
+      "LotLvGroup2": 20,
+      "LotLvGroup3": 20
+    },
+    {
+      "$id": 6,
+      "ID": "DRP_LOT_MATERIAL_PARTS_COMMON",
+      "LotLvGroup1": -50,
+      "LotLvGroup2": -50,
+      "LotLvGroup3": -50
+    },
+    {
+      "$id": 7,
+      "ID": "DRP_LOT_MATERIAL_PARTS_RARE",
+      "LotLvGroup1": -50,
+      "LotLvGroup2": -50,
+      "LotLvGroup3": -50
+    },
+    {
+      "$id": 8,
+      "ID": "DRP_LOT_MATERIAL_PARTS_UNIQUE",
+      "LotLvGroup1": 100,
+      "LotLvGroup2": 100,
+      "LotLvGroup3": 100
+    },
+    {
+      "$id": 9,
+      "ID": "DRP_LOT_MATERIAL_PARTS_PRIME",
+      "LotLvGroup1": 30,
+      "LotLvGroup2": 50,
+      "LotLvGroup3": 75
+    },
+    {
+      "$id": 10,
+      "ID": "DRP_LOT_MATERIAL_PARTS_GALLAXY",
+      "LotLvGroup1": 1,
+      "LotLvGroup2": 20,
+      "LotLvGroup3": 20
+    },
+    {
+      "$id": 11,
+      "ID": "DRP_LOT_MATERIAL_NOTHING",
+      "LotLvGroup1": 0,
+      "LotLvGroup2": 0,
+      "LotLvGroup3": 0
+    },
+    {
+      "$id": 12,
+      "ID": "DRP_LOT_MATERIAL_BOSS_COMMON",
+      "LotLvGroup1": 100,
+      "LotLvGroup2": 100,
+      "LotLvGroup3": 100
+    },
+    {
+      "$id": 13,
+      "ID": "DRP_LOT_MATERIAL_BOSS_RARE",
+      "LotLvGroup1": 50,
+      "LotLvGroup2": 50,
+      "LotLvGroup3": 50
+    },
+    {
+      "$id": 14,
+      "ID": "DRP_LOT_MATERIAL_BOSS_UNIQUE",
+      "LotLvGroup1": 20,
+      "LotLvGroup2": 20,
+      "LotLvGroup3": 20
+    },
+    {
+      "$id": 15,
+      "ID": "DRP_LOT_MATERIAL_MAIN_COMMON_L",
+      "LotLvGroup1": 100,
+      "LotLvGroup2": 100,
+      "LotLvGroup3": 75
+    },
+    {
+      "$id": 16,
+      "ID": "DRP_LOT_MATERIAL_MAIN_RARE_L",
+      "LotLvGroup1": 25,
+      "LotLvGroup2": 25,
+      "LotLvGroup3": 50
+    },
+    {
+      "$id": 17,
+      "ID": "DRP_LOT_MATERIAL_MAIN_UNIQUE_L",
+      "LotLvGroup1": 5,
+      "LotLvGroup2": 5,
+      "LotLvGroup3": 10
+    },
+    {
+      "$id": 18,
+      "ID": "DRP_LOT_MATERIAL_MAIN_PRIME_L",
+      "LotLvGroup1": 5,
+      "LotLvGroup2": 5,
+      "LotLvGroup3": 25
+    },
+    {
+      "$id": 19,
+      "ID": "DRP_LOT_MATERIAL_MAIN_GALLAXY_L",
+      "LotLvGroup1": 0,
+      "LotLvGroup2": 0,
+      "LotLvGroup3": 0
+    },
+    {
+      "$id": 20,
+      "ID": "DRP_LOT_MATERIAL_PARTS_COMMON_L",
+      "LotLvGroup1": -50,
+      "LotLvGroup2": -50,
+      "LotLvGroup3": -50
+    },
+    {
+      "$id": 21,
+      "ID": "DRP_LOT_MATERIAL_PARTS_RARE_L",
+      "LotLvGroup1": -50,
+      "LotLvGroup2": -50,
+      "LotLvGroup3": -50
+    },
+    {
+      "$id": 22,
+      "ID": "DRP_LOT_MATERIAL_PARTS_UNIQUE_L",
+      "LotLvGroup1": 100,
+      "LotLvGroup2": 100,
+      "LotLvGroup3": 100
+    },
+    {
+      "$id": 23,
+      "ID": "DRP_LOT_MATERIAL_PARTS_PRIME_L",
+      "LotLvGroup1": 50,
+      "LotLvGroup2": 75,
+      "LotLvGroup3": 100
+    },
+    {
+      "$id": 24,
+      "ID": "DRP_LOT_MATERIAL_PARTS_GALLAXY_L",
+      "LotLvGroup1": 0,
+      "LotLvGroup2": 0,
+      "LotLvGroup3": 0
+    },
+    {
+      "$id": 25,
+      "ID": "DRP_LOT_MATERIAL_MAIN_GALLAXY02",
+      "LotLvGroup1": 5,
+      "LotLvGroup2": 5,
+      "LotLvGroup3": 5
+    },
+    {
+      "$id": 26,
+      "ID": "DRP_LOT_MATERIAL_MAIN_RARE_EX",
+      "LotLvGroup1": 50,
+      "LotLvGroup2": 50,
+      "LotLvGroup3": 100
+    },
+    {
+      "$id": 27,
+      "ID": "DRP_LOT_MATERIAL_MAIN_RARE_L_EX",
+      "LotLvGroup1": 25,
+      "LotLvGroup2": 50,
+      "LotLvGroup3": 50
+    },
+    {
+      "$id": 28,
+      "ID": "DRP_LOT_MATERIAL_STS_WE",
+      "LotLvGroup1": 100,
+      "LotLvGroup2": 100,
+      "LotLvGroup3": 100
+    },
+    {
+      "$id": 29,
+      "ID": "DRP_LOT_MATERIAL_PARTS_PRIME_EX",
+      "LotLvGroup1": 100,
+      "LotLvGroup2": 100,
+      "LotLvGroup3": 100
+    },
+    {
+      "$id": 30,
+      "ID": "DRP_LOT_MATERIAL_MAIN_PRIME_EX",
+      "LotLvGroup1": 30,
+      "LotLvGroup2": 40,
+      "LotLvGroup3": 50
+    },
+    {
+      "$id": 31,
+      "ID": "DRP_LOT_MATERIAL_MAIN_UNIQUE_EX",
+      "LotLvGroup1": 30,
+      "LotLvGroup2": 30,
+      "LotLvGroup3": 30
+    },
+    {
+      "$id": 32,
+      "ID": "DRP_LOT_MATERIAL_MAIN_UNIQUE_L_EX",
+      "LotLvGroup1": 20,
+      "LotLvGroup2": 20,
+      "LotLvGroup3": 20
+    }
+  ]
+}

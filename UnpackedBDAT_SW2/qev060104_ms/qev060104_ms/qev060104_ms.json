@@ -1,0 +1,132 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev060104_MSG0001",
+      "style": 1,
+      "name": "...Did you come to pick up this fuel\ncell in place of the Zaruboggan?[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev060104_MSG0002",
+      "style": 1,
+      "name": "You're a lifesaver. I bought this\nmysterious alien machine from a BLADE\nat a bargain price, but you see...[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev060104_MSG0003",
+      "style": 1,
+      "name": "The fuel cell used in it is... incredibly\ndangerous. If mishandled even slightly,\nit could contaminate this entire area.[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev060104_MSG0004",
+      "style": 1,
+      "name": "I was really at a loss as\nto what to do with it.[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev060104_MSG0005",
+      "style": 1,
+      "name": "Here, take it. Please be\ncareful handling it.[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev060104_MSG0007",
+      "style": 1,
+      "name": "...By the way, do you happen to\nknow a BLADE named Roselle?[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev060104_MSG0008",
+      "style": 1,
+      "name": "She was asking me all sorts\nof probing questions about\nShiraton and the Zaruboggan.[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev060104_MSG0009",
+      "style": 1,
+      "name": "At the end, she handed me her business card\nand said, \"If you ever have any troublesome\ngoods that need processing, contact me...\"[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev060104_JNK0010",
+      "style": 4,
+      "name": "Question"
+    },
+    {
+      "$id": 10,
+      "label": "qev060104_SEL0011",
+      "style": 3,
+      "name": "Ask for more details about that conversation."
+    },
+    {
+      "$id": 11,
+      "label": "qev060104_JNK0020",
+      "style": 4,
+      "name": "Doubt"
+    },
+    {
+      "$id": 12,
+      "label": "qev060104_SEL0021",
+      "style": 3,
+      "name": "Ask if he plans to rely on that woman instead of Shiraton from now on."
+    },
+    {
+      "$id": 13,
+      "label": "qev060104_MSG0010",
+      "style": 1,
+      "name": "Like how many people the Zaruboggan are\ncollecting these sorts of things from...[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev060104_MSG0011",
+      "style": 1,
+      "name": "And also, she was very eager to hear\nabout how they go about processing it...[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev060104_MSG0012",
+      "style": 1,
+      "name": "...Well, she was an incredibly\nsuspicious person, so I didn't\ntell her a single thing I knew![ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev060104_MSG0013",
+      "style": 1,
+      "name": "No way! Not when there's someone\nlike Shiraton who's happy to take\nit off my hands for free.[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev060104_MSG0014",
+      "style": 1,
+      "name": "I would never rely on such\na suspicious person.[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev060104_MSG0015",
+      "style": 1,
+      "name": "If you see Shiraton later, could you\npass on a message telling him to\nwatch out for that Roselle woman?[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev060104_MSG0016",
+      "style": 1,
+      "name": "I don't know who she is or what\nshe's after... But I got a\nreally bad feeling about her.[ST:wait ]"
+    }
+  ]
+}

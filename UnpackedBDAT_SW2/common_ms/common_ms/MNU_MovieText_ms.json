@@ -1,0 +1,36 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "MOVIE_TEXT_NINTENDO",
+      "style": 218,
+      "name": "Nintendo"
+    },
+    {
+      "$id": 2,
+      "label": "MOVIE_TEXT_MONOLITHSOFT",
+      "style": 218,
+      "name": "MONOLITHSOFT"
+    },
+    {
+      "$id": 3,
+      "label": "MOVIE_TEXT_XENOBLADEX",
+      "style": 218,
+      "name": "Xenoblade Chronicles X\n      Definitive Edition"
+    }
+  ]
+}

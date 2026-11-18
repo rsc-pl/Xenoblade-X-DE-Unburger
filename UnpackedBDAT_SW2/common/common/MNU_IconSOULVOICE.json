@@ -1,0 +1,60 @@
+{
+  "schema": [
+    {
+      "name": "ID",
+      "type": 9
+    },
+    {
+      "name": "texID",
+      "type": 2
+    },
+    {
+      "name": "MSlabel",
+      "type": 2
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "ID": "SOULVOICE_COMBAT_FIGHT",
+      "texID": 2352,
+      "MSlabel": 0
+    },
+    {
+      "$id": 2,
+      "ID": "SOULVOICE_COMBAT_SHOOT",
+      "texID": 2353,
+      "MSlabel": 0
+    },
+    {
+      "$id": 3,
+      "ID": "SOULVOICE_DEBUFF",
+      "texID": 2354,
+      "MSlabel": 0
+    },
+    {
+      "$id": 4,
+      "ID": "SOULVOICE_HEAL",
+      "texID": 2355,
+      "MSlabel": 0
+    },
+    {
+      "$id": 5,
+      "ID": "SOULVOICE_BUFF",
+      "texID": 2356,
+      "MSlabel": 0
+    },
+    {
+      "$id": 6,
+      "ID": "SOULVOICE_AURA",
+      "texID": 2357,
+      "MSlabel": 0
+    },
+    {
+      "$id": 7,
+      "ID": "SOULVOICE_GEAR",
+      "texID": 2358,
+      "MSlabel": 0
+    }
+  ]
+}

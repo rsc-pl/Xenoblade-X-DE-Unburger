@@ -1,0 +1,1314 @@
+{
+  "schema": [
+    {
+      "name": "ID",
+      "type": 9
+    },
+    {
+      "name": "TargetType",
+      "type": 1
+    },
+    {
+      "name": "GroupId",
+      "type": 1
+    },
+    {
+      "name": "TargetId",
+      "type": 2
+    },
+    {
+      "name": "Count",
+      "type": 1
+    },
+    {
+      "name": "TicketMine",
+      "type": 2
+    },
+    {
+      "name": "CountStartId",
+      "type": 2
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "ID": "SCL_COLLECT_001",
+      "TargetType": 0,
+      "GroupId": 0,
+      "TargetId": 29,
+      "Count": 1,
+      "TicketMine": 1,
+      "CountStartId": 1
+    },
+    {
+      "$id": 2,
+      "ID": "SCL_COLLECT_002",
+      "TargetType": 1,
+      "GroupId": 7,
+      "TargetId": 0,
+      "Count": 2,
+      "TicketMine": 1,
+      "CountStartId": 1
+    },
+    {
+      "$id": 3,
+      "ID": "SCL_COLLECT_003",
+      "TargetType": 1,
+      "GroupId": 1,
+      "TargetId": 0,
+      "Count": 50,
+      "TicketMine": 1,
+      "CountStartId": 1
+    },
+    {
+      "$id": 4,
+      "ID": "BQ01_TGT1_CLCT",
+      "TargetType": 0,
+      "GroupId": 0,
+      "TargetId": 0,
+      "Count": 0,
+      "TicketMine": 0,
+      "CountStartId": 0
+    },
+    {
+      "$id": 5,
+      "ID": "BQ01_TGT2_CLCT",
+      "TargetType": 0,
+      "GroupId": 0,
+      "TargetId": 0,
+      "Count": 0,
+      "TicketMine": 0,
+      "CountStartId": 0
+    },
+    {
+      "$id": 6,
+      "ID": "BQ01_TGT3_CLCT",
+      "TargetType": 0,
+      "GroupId": 2,
+      "TargetId": 37,
+      "Count": 4,
+      "TicketMine": 6,
+      "CountStartId": 38
+    },
+    {
+      "$id": 7,
+      "ID": "BQ01_TGT4_CLCT",
+      "TargetType": 0,
+      "GroupId": 0,
+      "TargetId": 0,
+      "Count": 0,
+      "TicketMine": 0,
+      "CountStartId": 0
+    },
+    {
+      "$id": 8,
+      "ID": "BQ01_TGT5_CLCT",
+      "TargetType": 0,
+      "GroupId": 0,
+      "TargetId": 0,
+      "Count": 0,
+      "TicketMine": 0,
+      "CountStartId": 0
+    },
+    {
+      "$id": 9,
+      "ID": "BQ02_TGT1_CLCT",
+      "TargetType": 0,
+      "GroupId": 0,
+      "TargetId": 0,
+      "Count": 0,
+      "TicketMine": 0,
+      "CountStartId": 0
+    },
+    {
+      "$id": 10,
+      "ID": "BQ02_TGT2_CLCT",
+      "TargetType": 0,
+      "GroupId": 0,
+      "TargetId": 0,
+      "Count": 0,
+      "TicketMine": 0,
+      "CountStartId": 0
+    },
+    {
+      "$id": 11,
+      "ID": "BQ02_TGT3_CLCT",
+      "TargetType": 0,
+      "GroupId": 0,
+      "TargetId": 0,
+      "Count": 0,
+      "TicketMine": 0,
+      "CountStartId": 0
+    },
+    {
+      "$id": 12,
+      "ID": "BQ02_TGT4_CLCT",
+      "TargetType": 0,
+      "GroupId": 0,
+      "TargetId": 0,
+      "Count": 0,
+      "TicketMine": 0,
+      "CountStartId": 0
+    },
+    {
+      "$id": 13,
+      "ID": "BQ02_TGT5_CLCT",
+      "TargetType": 0,
+      "GroupId": 0,
+      "TargetId": 0,
+      "Count": 0,
+      "TicketMine": 0,
+      "CountStartId": 0
+    },
+    {
+      "$id": 14,
+      "ID": "BQ03_TGT1_CLCT",
+      "TargetType": 1,
+      "GroupId": 4,
+      "TargetId": 0,
+      "Count": 5,
+      "TicketMine": 5,
+      "CountStartId": 30
+    },
+    {
+      "$id": 15,
+      "ID": "BQ03_TGT2_CLCT",
+      "TargetType": 0,
+      "GroupId": 0,
+      "TargetId": 0,
+      "Count": 0,
+      "TicketMine": 0,
+      "CountStartId": 0
+    },
+    {
+      "$id": 16,
+      "ID": "BQ03_TGT3_CLCT",
+      "TargetType": 0,
+      "GroupId": 0,
+      "TargetId": 0,
+      "Count": 0,
+      "TicketMine": 0,
+      "CountStartId": 0
+    },
+    {
+      "$id": 17,
+      "ID": "BQ03_TGT4_CLCT",
+      "TargetType": 0,
+      "GroupId": 0,
+      "TargetId": 0,
+      "Count": 0,
+      "TicketMine": 0,
+      "CountStartId": 0
+    },
+    {
+      "$id": 18,
+      "ID": "BQ03_TGT5_CLCT",
+      "TargetType": 0,
+      "GroupId": 0,
+      "TargetId": 0,
+      "Count": 0,
+      "TicketMine": 0,
+      "CountStartId": 0
+    },
+    {
+      "$id": 19,
+      "ID": "BQ04_TGT1_CLCT",
+      "TargetType": 0,
+      "GroupId": 0,
+      "TargetId": 0,
+      "Count": 0,
+      "TicketMine": 0,
+      "CountStartId": 0
+    },
+    {
+      "$id": 20,
+      "ID": "BQ04_TGT2_CLCT",
+      "TargetType": 0,
+      "GroupId": 0,
+      "TargetId": 0,
+      "Count": 0,
+      "TicketMine": 0,
+      "CountStartId": 0
+    },
+    {
+      "$id": 21,
+      "ID": "BQ04_TGT3_CLCT",
+      "TargetType": 0,
+      "GroupId": 0,
+      "TargetId": 0,
+      "Count": 0,
+      "TicketMine": 0,
+      "CountStartId": 0
+    },
+    {
+      "$id": 22,
+      "ID": "BQ04_TGT4_CLCT",
+      "TargetType": 0,
+      "GroupId": 0,
+      "TargetId": 0,
+      "Count": 0,
+      "TicketMine": 0,
+      "CountStartId": 0
+    },
+    {
+      "$id": 23,
+      "ID": "BQ04_TGT5_CLCT",
+      "TargetType": 0,
+      "GroupId": 0,
+      "TargetId": 0,
+      "Count": 0,
+      "TicketMine": 0,
+      "CountStartId": 0
+    },
+    {
+      "$id": 24,
+      "ID": "BQ05_TGT1_CLCT",
+      "TargetType": 0,
+      "GroupId": 0,
+      "TargetId": 0,
+      "Count": 0,
+      "TicketMine": 0,
+      "CountStartId": 0
+    },
+    {
+      "$id": 25,
+      "ID": "BQ05_TGT2_CLCT",
+      "TargetType": 0,
+      "GroupId": 0,
+      "TargetId": 0,
+      "Count": 0,
+      "TicketMine": 0,
+      "CountStartId": 0
+    },
+    {
+      "$id": 26,
+      "ID": "BQ05_TGT3_CLCT",
+      "TargetType": 0,
+      "GroupId": 0,
+      "TargetId": 0,
+      "Count": 0,
+      "TicketMine": 0,
+      "CountStartId": 0
+    },
+    {
+      "$id": 27,
+      "ID": "BQ05_TGT4_CLCT",
+      "TargetType": 0,
+      "GroupId": 0,
+      "TargetId": 0,
+      "Count": 0,
+      "TicketMine": 0,
+      "CountStartId": 0
+    },
+    {
+      "$id": 28,
+      "ID": "BQ05_TGT5_CLCT",
+      "TargetType": 0,
+      "GroupId": 0,
+      "TargetId": 0,
+      "Count": 0,
+      "TicketMine": 0,
+      "CountStartId": 0
+    },
+    {
+      "$id": 29,
+      "ID": "BQ06_TGT1_CLCT",
+      "TargetType": 0,
+      "GroupId": 0,
+      "TargetId": 0,
+      "Count": 0,
+      "TicketMine": 0,
+      "CountStartId": 0
+    },
+    {
+      "$id": 30,
+      "ID": "BQ06_TGT2_CLCT",
+      "TargetType": 0,
+      "GroupId": 0,
+      "TargetId": 0,
+      "Count": 0,
+      "TicketMine": 0,
+      "CountStartId": 0
+    },
+    {
+      "$id": 31,
+      "ID": "BQ06_TGT3_CLCT",
+      "TargetType": 0,
+      "GroupId": 0,
+      "TargetId": 0,
+      "Count": 0,
+      "TicketMine": 0,
+      "CountStartId": 0
+    },
+    {
+      "$id": 32,
+      "ID": "BQ06_TGT4_CLCT",
+      "TargetType": 0,
+      "GroupId": 0,
+      "TargetId": 0,
+      "Count": 0,
+      "TicketMine": 0,
+      "CountStartId": 0
+    },
+    {
+      "$id": 33,
+      "ID": "BQ06_TGT5_CLCT",
+      "TargetType": 0,
+      "GroupId": 1,
+      "TargetId": 23,
+      "Count": 6,
+      "TicketMine": 12,
+      "CountStartId": 37
+    },
+    {
+      "$id": 34,
+      "ID": "BQ07_TGT1_CLCT",
+      "TargetType": 0,
+      "GroupId": 0,
+      "TargetId": 0,
+      "Count": 0,
+      "TicketMine": 0,
+      "CountStartId": 0
+    },
+    {
+      "$id": 35,
+      "ID": "BQ07_TGT2_CLCT",
+      "TargetType": 0,
+      "GroupId": 0,
+      "TargetId": 0,
+      "Count": 0,
+      "TicketMine": 0,
+      "CountStartId": 0
+    },
+    {
+      "$id": 36,
+      "ID": "BQ07_TGT3_CLCT",
+      "TargetType": 0,
+      "GroupId": 0,
+      "TargetId": 0,
+      "Count": 0,
+      "TicketMine": 0,
+      "CountStartId": 0
+    },
+    {
+      "$id": 37,
+      "ID": "BQ07_TGT4_CLCT",
+      "TargetType": 0,
+      "GroupId": 0,
+      "TargetId": 0,
+      "Count": 0,
+      "TicketMine": 0,
+      "CountStartId": 0
+    },
+    {
+      "$id": 38,
+      "ID": "BQ07_TGT5_CLCT",
+      "TargetType": 0,
+      "GroupId": 0,
+      "TargetId": 0,
+      "Count": 0,
+      "TicketMine": 0,
+      "CountStartId": 0
+    },
+    {
+      "$id": 39,
+      "ID": "BQ08_TGT1_CLCT",
+      "TargetType": 0,
+      "GroupId": 0,
+      "TargetId": 0,
+      "Count": 0,
+      "TicketMine": 0,
+      "CountStartId": 0
+    },
+    {
+      "$id": 40,
+      "ID": "BQ08_TGT2_CLCT",
+      "TargetType": 0,
+      "GroupId": 0,
+      "TargetId": 0,
+      "Count": 0,
+      "TicketMine": 0,
+      "CountStartId": 0
+    },
+    {
+      "$id": 41,
+      "ID": "BQ08_TGT3_CLCT",
+      "TargetType": 0,
+      "GroupId": 0,
+      "TargetId": 0,
+      "Count": 0,
+      "TicketMine": 0,
+      "CountStartId": 0
+    },
+    {
+      "$id": 42,
+      "ID": "BQ08_TGT4_CLCT",
+      "TargetType": 0,
+      "GroupId": 0,
+      "TargetId": 0,
+      "Count": 0,
+      "TicketMine": 0,
+      "CountStartId": 0
+    },
+    {
+      "$id": 43,
+      "ID": "BQ08_TGT5_CLCT",
+      "TargetType": 0,
+      "GroupId": 0,
+      "TargetId": 0,
+      "Count": 0,
+      "TicketMine": 0,
+      "CountStartId": 0
+    },
+    {
+      "$id": 44,
+      "ID": "BQ09_TGT1_CLCT",
+      "TargetType": 0,
+      "GroupId": 0,
+      "TargetId": 0,
+      "Count": 0,
+      "TicketMine": 0,
+      "CountStartId": 0
+    },
+    {
+      "$id": 45,
+      "ID": "BQ09_TGT2_CLCT",
+      "TargetType": 0,
+      "GroupId": 5,
+      "TargetId": 147,
+      "Count": 8,
+      "TicketMine": 9,
+      "CountStartId": 41
+    },
+    {
+      "$id": 46,
+      "ID": "BQ09_TGT3_CLCT",
+      "TargetType": 0,
+      "GroupId": 0,
+      "TargetId": 0,
+      "Count": 0,
+      "TicketMine": 0,
+      "CountStartId": 0
+    },
+    {
+      "$id": 47,
+      "ID": "BQ09_TGT4_CLCT",
+      "TargetType": 0,
+      "GroupId": 0,
+      "TargetId": 0,
+      "Count": 0,
+      "TicketMine": 0,
+      "CountStartId": 0
+    },
+    {
+      "$id": 48,
+      "ID": "BQ09_TGT5_CLCT",
+      "TargetType": 0,
+      "GroupId": 0,
+      "TargetId": 0,
+      "Count": 0,
+      "TicketMine": 0,
+      "CountStartId": 0
+    },
+    {
+      "$id": 49,
+      "ID": "BQ10_TGT1_CLCT",
+      "TargetType": 0,
+      "GroupId": 0,
+      "TargetId": 0,
+      "Count": 0,
+      "TicketMine": 0,
+      "CountStartId": 0
+    },
+    {
+      "$id": 50,
+      "ID": "BQ10_TGT2_CLCT",
+      "TargetType": 0,
+      "GroupId": 0,
+      "TargetId": 0,
+      "Count": 0,
+      "TicketMine": 0,
+      "CountStartId": 0
+    },
+    {
+      "$id": 51,
+      "ID": "BQ10_TGT3_CLCT",
+      "TargetType": 0,
+      "GroupId": 0,
+      "TargetId": 0,
+      "Count": 0,
+      "TicketMine": 0,
+      "CountStartId": 0
+    },
+    {
+      "$id": 52,
+      "ID": "BQ10_TGT4_CLCT",
+      "TargetType": 0,
+      "GroupId": 0,
+      "TargetId": 0,
+      "Count": 0,
+      "TicketMine": 0,
+      "CountStartId": 0
+    },
+    {
+      "$id": 53,
+      "ID": "BQ10_TGT5_CLCT",
+      "TargetType": 0,
+      "GroupId": 0,
+      "TargetId": 0,
+      "Count": 0,
+      "TicketMine": 0,
+      "CountStartId": 0
+    },
+    {
+      "$id": 54,
+      "ID": "BQ11_TGT1_CLCT",
+      "TargetType": 0,
+      "GroupId": 0,
+      "TargetId": 0,
+      "Count": 0,
+      "TicketMine": 0,
+      "CountStartId": 0
+    },
+    {
+      "$id": 55,
+      "ID": "BQ11_TGT2_CLCT",
+      "TargetType": 0,
+      "GroupId": 0,
+      "TargetId": 0,
+      "Count": 0,
+      "TicketMine": 0,
+      "CountStartId": 0
+    },
+    {
+      "$id": 56,
+      "ID": "BQ11_TGT3_CLCT",
+      "TargetType": 0,
+      "GroupId": 0,
+      "TargetId": 0,
+      "Count": 0,
+      "TicketMine": 0,
+      "CountStartId": 0
+    },
+    {
+      "$id": 57,
+      "ID": "BQ11_TGT4_CLCT",
+      "TargetType": 0,
+      "GroupId": 0,
+      "TargetId": 0,
+      "Count": 0,
+      "TicketMine": 0,
+      "CountStartId": 0
+    },
+    {
+      "$id": 58,
+      "ID": "BQ11_TGT5_CLCT",
+      "TargetType": 0,
+      "GroupId": 0,
+      "TargetId": 0,
+      "Count": 0,
+      "TicketMine": 0,
+      "CountStartId": 0
+    },
+    {
+      "$id": 59,
+      "ID": "BQ12_TGT1_CLCT",
+      "TargetType": 0,
+      "GroupId": 0,
+      "TargetId": 0,
+      "Count": 0,
+      "TicketMine": 0,
+      "CountStartId": 0
+    },
+    {
+      "$id": 60,
+      "ID": "BQ12_TGT2_CLCT",
+      "TargetType": 0,
+      "GroupId": 0,
+      "TargetId": 0,
+      "Count": 0,
+      "TicketMine": 0,
+      "CountStartId": 0
+    },
+    {
+      "$id": 61,
+      "ID": "BQ12_TGT3_CLCT",
+      "TargetType": 0,
+      "GroupId": 0,
+      "TargetId": 0,
+      "Count": 0,
+      "TicketMine": 0,
+      "CountStartId": 0
+    },
+    {
+      "$id": 62,
+      "ID": "BQ12_TGT4_CLCT",
+      "TargetType": 0,
+      "GroupId": 0,
+      "TargetId": 0,
+      "Count": 0,
+      "TicketMine": 0,
+      "CountStartId": 0
+    },
+    {
+      "$id": 63,
+      "ID": "BQ12_TGT5_CLCT",
+      "TargetType": 0,
+      "GroupId": 0,
+      "TargetId": 0,
+      "Count": 0,
+      "TicketMine": 0,
+      "CountStartId": 0
+    },
+    {
+      "$id": 64,
+      "ID": "BQ13_TGT1_CLCT",
+      "TargetType": 0,
+      "GroupId": 0,
+      "TargetId": 0,
+      "Count": 0,
+      "TicketMine": 0,
+      "CountStartId": 0
+    },
+    {
+      "$id": 65,
+      "ID": "BQ13_TGT2_CLCT",
+      "TargetType": 0,
+      "GroupId": 0,
+      "TargetId": 0,
+      "Count": 0,
+      "TicketMine": 0,
+      "CountStartId": 0
+    },
+    {
+      "$id": 66,
+      "ID": "BQ13_TGT3_CLCT",
+      "TargetType": 0,
+      "GroupId": 0,
+      "TargetId": 0,
+      "Count": 0,
+      "TicketMine": 0,
+      "CountStartId": 0
+    },
+    {
+      "$id": 67,
+      "ID": "BQ13_TGT4_CLCT",
+      "TargetType": 0,
+      "GroupId": 9,
+      "TargetId": 259,
+      "Count": 3,
+      "TicketMine": 9,
+      "CountStartId": 45
+    },
+    {
+      "$id": 68,
+      "ID": "BQ13_TGT5_CLCT",
+      "TargetType": 0,
+      "GroupId": 0,
+      "TargetId": 0,
+      "Count": 0,
+      "TicketMine": 0,
+      "CountStartId": 0
+    },
+    {
+      "$id": 69,
+      "ID": "BQ14_TGT1_CLCT",
+      "TargetType": 0,
+      "GroupId": 0,
+      "TargetId": 0,
+      "Count": 0,
+      "TicketMine": 0,
+      "CountStartId": 0
+    },
+    {
+      "$id": 70,
+      "ID": "BQ14_TGT2_CLCT",
+      "TargetType": 0,
+      "GroupId": 0,
+      "TargetId": 0,
+      "Count": 0,
+      "TicketMine": 0,
+      "CountStartId": 0
+    },
+    {
+      "$id": 71,
+      "ID": "BQ14_TGT3_CLCT",
+      "TargetType": 0,
+      "GroupId": 0,
+      "TargetId": 0,
+      "Count": 0,
+      "TicketMine": 0,
+      "CountStartId": 0
+    },
+    {
+      "$id": 72,
+      "ID": "BQ14_TGT4_CLCT",
+      "TargetType": 0,
+      "GroupId": 4,
+      "TargetId": 109,
+      "Count": 2,
+      "TicketMine": 12,
+      "CountStartId": 40
+    },
+    {
+      "$id": 73,
+      "ID": "BQ14_TGT5_CLCT",
+      "TargetType": 0,
+      "GroupId": 0,
+      "TargetId": 0,
+      "Count": 0,
+      "TicketMine": 0,
+      "CountStartId": 0
+    },
+    {
+      "$id": 74,
+      "ID": "BQ15_TGT1_CLCT",
+      "TargetType": 0,
+      "GroupId": 0,
+      "TargetId": 0,
+      "Count": 0,
+      "TicketMine": 0,
+      "CountStartId": 0
+    },
+    {
+      "$id": 75,
+      "ID": "BQ15_TGT2_CLCT",
+      "TargetType": 0,
+      "GroupId": 0,
+      "TargetId": 0,
+      "Count": 0,
+      "TicketMine": 0,
+      "CountStartId": 0
+    },
+    {
+      "$id": 76,
+      "ID": "BQ15_TGT3_CLCT",
+      "TargetType": 0,
+      "GroupId": 0,
+      "TargetId": 0,
+      "Count": 0,
+      "TicketMine": 0,
+      "CountStartId": 0
+    },
+    {
+      "$id": 77,
+      "ID": "BQ15_TGT4_CLCT",
+      "TargetType": 0,
+      "GroupId": 0,
+      "TargetId": 0,
+      "Count": 0,
+      "TicketMine": 0,
+      "CountStartId": 0
+    },
+    {
+      "$id": 78,
+      "ID": "BQ15_TGT5_CLCT",
+      "TargetType": 0,
+      "GroupId": 0,
+      "TargetId": 0,
+      "Count": 0,
+      "TicketMine": 0,
+      "CountStartId": 0
+    },
+    {
+      "$id": 79,
+      "ID": "BQ16_TGT1_CLCT",
+      "TargetType": 1,
+      "GroupId": 3,
+      "TargetId": 0,
+      "Count": 4,
+      "TicketMine": 5,
+      "CountStartId": 29
+    },
+    {
+      "$id": 80,
+      "ID": "BQ16_TGT2_CLCT",
+      "TargetType": 1,
+      "GroupId": 1,
+      "TargetId": 0,
+      "Count": 5,
+      "TicketMine": 5,
+      "CountStartId": 27
+    },
+    {
+      "$id": 81,
+      "ID": "BQ16_TGT3_CLCT",
+      "TargetType": 1,
+      "GroupId": 2,
+      "TargetId": 0,
+      "Count": 6,
+      "TicketMine": 5,
+      "CountStartId": 28
+    },
+    {
+      "$id": 82,
+      "ID": "BQ16_TGT4_CLCT",
+      "TargetType": 0,
+      "GroupId": 3,
+      "TargetId": 83,
+      "Count": 7,
+      "TicketMine": 9,
+      "CountStartId": 39
+    },
+    {
+      "$id": 83,
+      "ID": "BQ16_TGT5_CLCT",
+      "TargetType": 0,
+      "GroupId": 9,
+      "TargetId": 247,
+      "Count": 8,
+      "TicketMine": 12,
+      "CountStartId": 45
+    },
+    {
+      "$id": 84,
+      "ID": "BQ17_TGT1_CLCT",
+      "TargetType": 0,
+      "GroupId": 0,
+      "TargetId": 0,
+      "Count": 0,
+      "TicketMine": 0,
+      "CountStartId": 0
+    },
+    {
+      "$id": 85,
+      "ID": "BQ17_TGT2_CLCT",
+      "TargetType": 0,
+      "GroupId": 0,
+      "TargetId": 0,
+      "Count": 0,
+      "TicketMine": 0,
+      "CountStartId": 0
+    },
+    {
+      "$id": 86,
+      "ID": "BQ17_TGT3_CLCT",
+      "TargetType": 0,
+      "GroupId": 5,
+      "TargetId": 130,
+      "Count": 8,
+      "TicketMine": 0,
+      "CountStartId": 41
+    },
+    {
+      "$id": 87,
+      "ID": "BQ17_TGT4_CLCT",
+      "TargetType": 0,
+      "GroupId": 0,
+      "TargetId": 0,
+      "Count": 0,
+      "TicketMine": 0,
+      "CountStartId": 0
+    },
+    {
+      "$id": 88,
+      "ID": "BQ17_TGT5_CLCT",
+      "TargetType": 0,
+      "GroupId": 0,
+      "TargetId": 0,
+      "Count": 0,
+      "TicketMine": 0,
+      "CountStartId": 0
+    },
+    {
+      "$id": 89,
+      "ID": "BQ18_TGT1_CLCT",
+      "TargetType": 1,
+      "GroupId": 5,
+      "TargetId": 0,
+      "Count": 6,
+      "TicketMine": 0,
+      "CountStartId": 31
+    },
+    {
+      "$id": 90,
+      "ID": "BQ18_TGT2_CLCT",
+      "TargetType": 0,
+      "GroupId": 0,
+      "TargetId": 0,
+      "Count": 0,
+      "TicketMine": 0,
+      "CountStartId": 0
+    },
+    {
+      "$id": 91,
+      "ID": "BQ18_TGT3_CLCT",
+      "TargetType": 0,
+      "GroupId": 0,
+      "TargetId": 0,
+      "Count": 0,
+      "TicketMine": 0,
+      "CountStartId": 0
+    },
+    {
+      "$id": 92,
+      "ID": "BQ18_TGT4_CLCT",
+      "TargetType": 0,
+      "GroupId": 0,
+      "TargetId": 0,
+      "Count": 0,
+      "TicketMine": 0,
+      "CountStartId": 0
+    },
+    {
+      "$id": 93,
+      "ID": "BQ18_TGT5_CLCT",
+      "TargetType": 0,
+      "GroupId": 0,
+      "TargetId": 0,
+      "Count": 0,
+      "TicketMine": 0,
+      "CountStartId": 0
+    },
+    {
+      "$id": 94,
+      "ID": "BQ19_TGT1_CLCT",
+      "TargetType": 0,
+      "GroupId": 0,
+      "TargetId": 0,
+      "Count": 0,
+      "TicketMine": 0,
+      "CountStartId": 0
+    },
+    {
+      "$id": 95,
+      "ID": "BQ19_TGT2_CLCT",
+      "TargetType": 0,
+      "GroupId": 0,
+      "TargetId": 0,
+      "Count": 0,
+      "TicketMine": 0,
+      "CountStartId": 0
+    },
+    {
+      "$id": 96,
+      "ID": "BQ19_TGT3_CLCT",
+      "TargetType": 0,
+      "GroupId": 0,
+      "TargetId": 0,
+      "Count": 0,
+      "TicketMine": 0,
+      "CountStartId": 0
+    },
+    {
+      "$id": 97,
+      "ID": "BQ19_TGT4_CLCT",
+      "TargetType": 0,
+      "GroupId": 0,
+      "TargetId": 0,
+      "Count": 0,
+      "TicketMine": 0,
+      "CountStartId": 0
+    },
+    {
+      "$id": 98,
+      "ID": "BQ19_TGT5_CLCT",
+      "TargetType": 0,
+      "GroupId": 0,
+      "TargetId": 0,
+      "Count": 0,
+      "TicketMine": 0,
+      "CountStartId": 0
+    },
+    {
+      "$id": 99,
+      "ID": "BQ20_TGT1_CLCT",
+      "TargetType": 0,
+      "GroupId": 0,
+      "TargetId": 0,
+      "Count": 0,
+      "TicketMine": 0,
+      "CountStartId": 0
+    },
+    {
+      "$id": 100,
+      "ID": "BQ20_TGT2_CLCT",
+      "TargetType": 0,
+      "GroupId": 1,
+      "TargetId": 26,
+      "Count": 6,
+      "TicketMine": 9,
+      "CountStartId": 37
+    },
+    {
+      "$id": 101,
+      "ID": "BQ20_TGT3_CLCT",
+      "TargetType": 0,
+      "GroupId": 0,
+      "TargetId": 0,
+      "Count": 0,
+      "TicketMine": 0,
+      "CountStartId": 0
+    },
+    {
+      "$id": 102,
+      "ID": "BQ20_TGT4_CLCT",
+      "TargetType": 0,
+      "GroupId": 0,
+      "TargetId": 0,
+      "Count": 0,
+      "TicketMine": 0,
+      "CountStartId": 0
+    },
+    {
+      "$id": 103,
+      "ID": "BQ20_TGT5_CLCT",
+      "TargetType": 0,
+      "GroupId": 0,
+      "TargetId": 0,
+      "Count": 0,
+      "TicketMine": 0,
+      "CountStartId": 0
+    },
+    {
+      "$id": 104,
+      "ID": "BQ21_TGT1_CLCT",
+      "TargetType": 0,
+      "GroupId": 0,
+      "TargetId": 0,
+      "Count": 0,
+      "TicketMine": 0,
+      "CountStartId": 0
+    },
+    {
+      "$id": 105,
+      "ID": "BQ21_TGT2_CLCT",
+      "TargetType": 0,
+      "GroupId": 0,
+      "TargetId": 0,
+      "Count": 0,
+      "TicketMine": 0,
+      "CountStartId": 0
+    },
+    {
+      "$id": 106,
+      "ID": "BQ21_TGT3_CLCT",
+      "TargetType": 0,
+      "GroupId": 0,
+      "TargetId": 0,
+      "Count": 0,
+      "TicketMine": 0,
+      "CountStartId": 0
+    },
+    {
+      "$id": 107,
+      "ID": "BQ21_TGT4_CLCT",
+      "TargetType": 0,
+      "GroupId": 0,
+      "TargetId": 0,
+      "Count": 0,
+      "TicketMine": 0,
+      "CountStartId": 0
+    },
+    {
+      "$id": 108,
+      "ID": "BQ21_TGT5_CLCT",
+      "TargetType": 0,
+      "GroupId": 0,
+      "TargetId": 0,
+      "Count": 0,
+      "TicketMine": 0,
+      "CountStartId": 0
+    },
+    {
+      "$id": 109,
+      "ID": "BQ22_TGT1_CLCT",
+      "TargetType": 0,
+      "GroupId": 0,
+      "TargetId": 0,
+      "Count": 0,
+      "TicketMine": 0,
+      "CountStartId": 0
+    },
+    {
+      "$id": 110,
+      "ID": "BQ22_TGT2_CLCT",
+      "TargetType": 0,
+      "GroupId": 0,
+      "TargetId": 0,
+      "Count": 0,
+      "TicketMine": 0,
+      "CountStartId": 0
+    },
+    {
+      "$id": 111,
+      "ID": "BQ22_TGT3_CLCT",
+      "TargetType": 0,
+      "GroupId": 0,
+      "TargetId": 0,
+      "Count": 0,
+      "TicketMine": 0,
+      "CountStartId": 0
+    },
+    {
+      "$id": 112,
+      "ID": "BQ22_TGT4_CLCT",
+      "TargetType": 0,
+      "GroupId": 0,
+      "TargetId": 0,
+      "Count": 0,
+      "TicketMine": 0,
+      "CountStartId": 0
+    },
+    {
+      "$id": 113,
+      "ID": "BQ22_TGT5_CLCT",
+      "TargetType": 0,
+      "GroupId": 0,
+      "TargetId": 0,
+      "Count": 0,
+      "TicketMine": 0,
+      "CountStartId": 0
+    },
+    {
+      "$id": 114,
+      "ID": "BQ23_TGT1_CLCT",
+      "TargetType": 0,
+      "GroupId": 0,
+      "TargetId": 0,
+      "Count": 0,
+      "TicketMine": 0,
+      "CountStartId": 0
+    },
+    {
+      "$id": 115,
+      "ID": "BQ23_TGT2_CLCT",
+      "TargetType": 0,
+      "GroupId": 0,
+      "TargetId": 0,
+      "Count": 0,
+      "TicketMine": 0,
+      "CountStartId": 0
+    },
+    {
+      "$id": 116,
+      "ID": "BQ23_TGT3_CLCT",
+      "TargetType": 0,
+      "GroupId": 0,
+      "TargetId": 0,
+      "Count": 0,
+      "TicketMine": 0,
+      "CountStartId": 0
+    },
+    {
+      "$id": 117,
+      "ID": "BQ23_TGT4_CLCT",
+      "TargetType": 0,
+      "GroupId": 0,
+      "TargetId": 0,
+      "Count": 0,
+      "TicketMine": 0,
+      "CountStartId": 0
+    },
+    {
+      "$id": 118,
+      "ID": "BQ23_TGT5_CLCT",
+      "TargetType": 0,
+      "GroupId": 3,
+      "TargetId": 75,
+      "Count": 5,
+      "TicketMine": 12,
+      "CountStartId": 39
+    },
+    {
+      "$id": 119,
+      "ID": "BQ24_TGT1_CLCT",
+      "TargetType": 0,
+      "GroupId": 0,
+      "TargetId": 0,
+      "Count": 0,
+      "TicketMine": 0,
+      "CountStartId": 0
+    },
+    {
+      "$id": 120,
+      "ID": "BQ24_TGT2_CLCT",
+      "TargetType": 0,
+      "GroupId": 0,
+      "TargetId": 0,
+      "Count": 0,
+      "TicketMine": 0,
+      "CountStartId": 0
+    },
+    {
+      "$id": 121,
+      "ID": "BQ24_TGT3_CLCT",
+      "TargetType": 0,
+      "GroupId": 0,
+      "TargetId": 0,
+      "Count": 0,
+      "TicketMine": 0,
+      "CountStartId": 0
+    },
+    {
+      "$id": 122,
+      "ID": "BQ24_TGT4_CLCT",
+      "TargetType": 0,
+      "GroupId": 0,
+      "TargetId": 0,
+      "Count": 0,
+      "TicketMine": 0,
+      "CountStartId": 0
+    },
+    {
+      "$id": 123,
+      "ID": "BQ24_TGT5_CLCT",
+      "TargetType": 0,
+      "GroupId": 0,
+      "TargetId": 0,
+      "Count": 0,
+      "TicketMine": 0,
+      "CountStartId": 0
+    },
+    {
+      "$id": 124,
+      "ID": "BQ25_TGT1_CLCT",
+      "TargetType": 0,
+      "GroupId": 0,
+      "TargetId": 0,
+      "Count": 0,
+      "TicketMine": 0,
+      "CountStartId": 0
+    },
+    {
+      "$id": 125,
+      "ID": "BQ25_TGT2_CLCT",
+      "TargetType": 0,
+      "GroupId": 0,
+      "TargetId": 0,
+      "Count": 0,
+      "TicketMine": 0,
+      "CountStartId": 0
+    },
+    {
+      "$id": 126,
+      "ID": "BQ25_TGT3_CLCT",
+      "TargetType": 0,
+      "GroupId": 0,
+      "TargetId": 0,
+      "Count": 0,
+      "TicketMine": 0,
+      "CountStartId": 0
+    },
+    {
+      "$id": 127,
+      "ID": "BQ25_TGT4_CLCT",
+      "TargetType": 0,
+      "GroupId": 0,
+      "TargetId": 0,
+      "Count": 0,
+      "TicketMine": 0,
+      "CountStartId": 0
+    },
+    {
+      "$id": 128,
+      "ID": "BQ25_TGT5_CLCT",
+      "TargetType": 0,
+      "GroupId": 0,
+      "TargetId": 0,
+      "Count": 0,
+      "TicketMine": 0,
+      "CountStartId": 0
+    }
+  ]
+}

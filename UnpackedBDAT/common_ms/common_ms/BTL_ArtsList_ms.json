@@ -24,7 +24,7 @@
       "$id": 2,
       "label": "ARTS_ASSAULT_ARTS_1_Name",
       "style": 14,
-      "name": "Decoy Round"
+      "name": "Decoy Shot"
     },
     {
       "$id": 3,
@@ -54,7 +54,7 @@
       "$id": 7,
       "label": "ARTS_ASSAULT_ARTS_6_Name",
       "style": 14,
-      "name": "Non-Medic"
+      "name": "No Medic"
     },
     {
       "$id": 8,
@@ -288,7 +288,7 @@
       "$id": 46,
       "label": "ARTS_GATLING_ARTS_6_Name",
       "style": 14,
-      "name": "Cooldown "
+      "name": "Cool Down"
     },
     {
       "$id": 47,
@@ -492,13 +492,13 @@
       "$id": 80,
       "label": "ARTS_SWORD_ARTS_9_Name",
       "style": 14,
-      "name": "Ultraslash"
+      "name": "Ultra Slash"
     },
     {
       "$id": 81,
       "label": "ARTS_SWORD_ARTS_10_Name",
       "style": 14,
-      "name": "Sakura Dance"
+      "name": "Cherry Blossom Dance"
     },
     {
       "$id": 82,
@@ -540,7 +540,7 @@
       "$id": 88,
       "label": "ARTS_JAVELIN_ARTS_5_Name",
       "style": 14,
-      "name": "Speedster"
+      "name": "Speed Star"
     },
     {
       "$id": 89,
@@ -642,7 +642,7 @@
       "$id": 105,
       "label": "ARTS_DOUBLEBLADE_ARTS_11_Name",
       "style": 14,
-      "name": "Shadowstrike"
+      "name": "Shadow Strike"
     },
     {
       "$id": 106,
@@ -702,7 +702,7 @@
       "$id": 115,
       "label": "ARTS_HUGESHIELD_ARTS_7_Name",
       "style": 14,
-      "name": "Raging Bash"
+      "name": "Line the Bash"
     },
     {
       "$id": 116,
@@ -870,7 +870,7 @@
       "$id": 143,
       "label": "ARTS_BEAMSABER_ARTS_4_Name",
       "style": 14,
-      "name": "Meteor Dance"
+      "name": "Meteor Rondo"
     },
     {
       "$id": 144,
@@ -906,7 +906,7 @@
       "$id": 149,
       "label": "ARTS_BEAMSABER_ARTS_10_Name",
       "style": 14,
-      "name": "Meteor Sakura"
+      "name": "Meteor Cherry Blossom"
     },
     {
       "$id": 150,
@@ -960,7 +960,7 @@
       "$id": 158,
       "label": "ARTS_ASSAULT_ARTS_1_Caption",
       "style": 71,
-      "name": "Inflicts Taunt + WITH MORALE: boosts TP"
+      "name": "Inflicts Taunt + SOUL STAGE 1+: boosts TP"
     },
     {
       "$id": 159,
@@ -972,13 +972,13 @@
       "$id": 160,
       "label": "ARTS_ASSAULT_ARTS_3_Caption",
       "style": 71,
-      "name": "(TP) Deals thermal damage + Inflicts Blaze +\nVS. TOPPLED TARGETS: boosts damage"
+      "name": "(TP) Deals heat damage + Inflicts Blaze +\nVS. TOPPLED TARGETS: boosts damage"
     },
     {
       "$id": 161,
       "label": "ARTS_ASSAULT_ARTS_4_Caption",
       "style": 71,
-      "name": "Deals bolt damage + Inflicts Blackout"
+      "name": "Deals bolt damage + Inflicts Black Sight"
     },
     {
       "$id": 162,
@@ -996,13 +996,13 @@
       "$id": 164,
       "label": "ARTS_ASSAULT_ARTS_7_Caption",
       "style": 71,
-      "name": "Deals weapon damage + Inflicts Topple on\nmechanoids"
+      "name": "Deals weapon damage + Inflicts Topple on\nmachines"
     },
     {
       "$id": 165,
       "label": "ARTS_ASSAULT_ARTS_8_Caption",
       "style": 71,
-      "name": "Grants Supercharge + Grants total evasion\nduring execution"
+      "name": "Grants Bullet Charge + Grants total evasion\nduring execution"
     },
     {
       "$id": 166,
@@ -1014,13 +1014,13 @@
       "$id": 167,
       "label": "ARTS_ASSAULT_ARTS_10_Caption",
       "style": 71,
-      "name": "(TP) Boosts ranged attack + Boosts critical\nchance + Reduces secondary cooldown"
+      "name": "(TP) Boosts ranged attack + Boosts critical\nchance + Reduces double cooldown"
     },
     {
       "$id": 168,
       "label": "ARTS_ASSAULT_ARTS_11_Caption",
       "style": 71,
-      "name": "Deals thermal damage + Inflicts Blaze + VS.\nTOPPLED TARGETS: boosts damage"
+      "name": "Deals heat damage + Inflicts Blaze + VS.\nTOPPLED TARGETS: boosts damage"
     },
     {
       "$id": 169,
@@ -1044,13 +1044,13 @@
       "$id": 172,
       "label": "ARTS_ASSAULT_ARTS_15_Caption",
       "style": 71,
-      "name": "Deals thermal damage + Inflicts Blaze +\nBoosts damage in melee combos"
+      "name": "Deals heat damage + Inflicts Blaze +\nBoosts damage in melee combos"
     },
     {
       "$id": 173,
       "label": "ARTS_ASSAULT_ARTS_16_Caption",
       "style": 71,
-      "name": "Deals thermal damage"
+      "name": "Deals heat damage"
     },
     {
       "$id": 174,
@@ -1068,13 +1068,13 @@
       "$id": 176,
       "label": "ARTS_SNIPER_ARTS_1_Caption",
       "style": 71,
-      "name": "Deals weapon damage + Inflicts Topple on\nhumanoids"
+      "name": "Deals weapon damage + Inflicts Topple on\naliens"
     },
     {
       "$id": 177,
       "label": "ARTS_SNIPER_ARTS_2_Caption",
       "style": 71,
-      "name": "Deals weapon damage + Boosts appendage\ndamage"
+      "name": "Deals weapon damage + Boosts part\ndamage"
     },
     {
       "$id": 178,
@@ -1164,13 +1164,13 @@
       "$id": 192,
       "label": "ARTS_DOUBLEHAND_ARTS_7_Caption",
       "style": 71,
-      "name": "Grants Decoy + Grants total evasion during\nexecution"
+      "name": "Grants Fake Body + Grants total evasion\nduring execution"
     },
     {
       "$id": 193,
       "label": "ARTS_DOUBLEHAND_ARTS_8_Caption",
       "style": 71,
-      "name": "(TP) Grants Decoy + Grants total evasion\nduring execution"
+      "name": "(TP) Grants Fake Body + Grants total\nevasion during execution"
     },
     {
       "$id": 194,
@@ -1194,7 +1194,7 @@
       "$id": 197,
       "label": "ARTS_GATLING_ARTS_1_Caption",
       "style": 71,
-      "name": "Deals weapon damage + Inflicts Flinch on\nhumanoids"
+      "name": "Deals weapon damage + Inflicts Flinch on\naliens"
     },
     {
       "$id": 198,
@@ -1206,13 +1206,13 @@
       "$id": 199,
       "label": "ARTS_GATLING_ARTS_3_Caption",
       "style": 71,
-      "name": "(TP) Deals thermal damage + VS. TOPPLED\nTARGETS: boosts damage"
+      "name": "(TP) Deals heat damage + VS. TOPPLED\nTARGETS: boosts damage"
     },
     {
       "$id": 200,
       "label": "ARTS_GATLING_ARTS_4_Caption",
       "style": 71,
-      "name": "Deals thermal damage + Inflicts Heat Res\nDown"
+      "name": "Deals heat damage + Inflicts Heat Res\nDown"
     },
     {
       "$id": 201,
@@ -1230,7 +1230,7 @@
       "$id": 203,
       "label": "ARTS_GATLING_ARTS_7_Caption",
       "style": 71,
-      "name": "Deals thermal damage"
+      "name": "Deals heat damage"
     },
     {
       "$id": 204,
@@ -1266,7 +1266,7 @@
       "$id": 209,
       "label": "ARTS_BEAMCANNON_ARTS_3_Caption",
       "style": 71,
-      "name": "Deals weapon damage + Inflicts Blackout"
+      "name": "Deals weapon damage + Inflicts Black Sight"
     },
     {
       "$id": 210,
@@ -1296,7 +1296,7 @@
       "$id": 214,
       "label": "ARTS_BEAMCANNON_ARTS_8_Caption",
       "style": 71,
-      "name": "(TP) Boosts ranged attack + Boosts potential +\nBoosts appendage damage"
+      "name": "(TP) Boosts ranged attack + Boosts potential +\nBoosts part damage"
     },
     {
       "$id": 215,
@@ -1410,13 +1410,13 @@
       "$id": 233,
       "label": "ARTS_SWORD_ARTS_6_Caption",
       "style": 71,
-      "name": "Deals thermal damage + Inflicts Heat Res\nDown"
+      "name": "Deals heat damage + Inflicts Heat Res\nDown"
     },
     {
       "$id": 234,
       "label": "ARTS_SWORD_ARTS_7_Caption",
       "style": 71,
-      "name": "(TP) Deals thermal damage + Boosts damage\nin melee combos"
+      "name": "(TP) Deals heat damage + Boosts damage\nin melee combos"
     },
     {
       "$id": 235,
@@ -1434,13 +1434,13 @@
       "$id": 237,
       "label": "ARTS_SWORD_ARTS_10_Caption",
       "style": 71,
-      "name": "(TP) Deals weapon damage + Inflicts Stagger\n+ Nullifies target's attribute resistances"
+      "name": "(TP) Deals weapon damage + Inflicts Break\n+ Nullifies target's attribute resistances"
     },
     {
       "$id": 238,
       "label": "ARTS_SWORD_ARTS_11_Caption",
       "style": 71,
-      "name": "Deals weapon damage + WITH MORALE:\nboosts TP"
+      "name": "Deals weapon damage + SOUL STAGE 1+:\nboosts TP"
     },
     {
       "$id": 239,
@@ -1458,7 +1458,7 @@
       "$id": 241,
       "label": "ARTS_JAVELIN_ARTS_2_Caption",
       "style": 71,
-      "name": "Grants Supercharge"
+      "name": "Grants Bullet Charge"
     },
     {
       "$id": 242,
@@ -1470,7 +1470,7 @@
       "$id": 243,
       "label": "ARTS_JAVELIN_ARTS_4_Caption",
       "style": 71,
-      "name": "Deals weapon damage + Inflicts Fatigue +\nHigher HP = higher damage"
+      "name": "Deals weapon damage + Inflicts Power Down +\nHigher HP = higher damage"
     },
     {
       "$id": 244,
@@ -1494,7 +1494,7 @@
       "$id": 247,
       "label": "ARTS_JAVELIN_ARTS_8_Caption",
       "style": 71,
-      "name": "Deals weapon damage + Inflicts Stagger in\nmelee combos"
+      "name": "Deals weapon damage + Inflicts Break in\nmelee combos"
     },
     {
       "$id": 248,
@@ -1506,7 +1506,7 @@
       "$id": 249,
       "label": "ARTS_JAVELIN_ARTS_10_Caption",
       "style": 71,
-      "name": "(TP) Deals weapon damage + AFTER LOSING\nSKELL: boosts damage"
+      "name": "(TP) Deals weapon damage + AFTER LOSING\nOWN DOLL: boosts damage"
     },
     {
       "$id": 250,
@@ -1530,7 +1530,7 @@
       "$id": 253,
       "label": "ARTS_DOUBLEBLADE_ARTS_3_Caption",
       "style": 71,
-      "name": "Deals weapon damage + Inflicts Fatigue +\nFROM THE SIDE: boosts damage"
+      "name": "Deals weapon damage + Inflicts Power Down +\nFROM THE SIDE: boosts damage"
     },
     {
       "$id": 254,
@@ -1578,7 +1578,7 @@
       "$id": 261,
       "label": "ARTS_DOUBLEBLADE_ARTS_11_Caption",
       "style": 71,
-      "name": "Deals weapon damage + Inflicts Stagger +\nFROM BEHIND: boosts damage"
+      "name": "Deals weapon damage + Inflicts Break +\nFROM BEHIND: boosts damage"
     },
     {
       "$id": 262,
@@ -1614,7 +1614,7 @@
       "$id": 267,
       "label": "ARTS_HUGESHIELD_ARTS_3_Caption",
       "style": 71,
-      "name": "Inflicts Taunt + WITH MORALE: boosts TP"
+      "name": "Inflicts Taunt + SOUL STAGE 1+: boosts TP"
     },
     {
       "$id": 268,
@@ -1638,19 +1638,19 @@
       "$id": 271,
       "label": "ARTS_HUGESHIELD_ARTS_7_Caption",
       "style": 71,
-      "name": "Deals weapon damage + Inflicts Slow Arts"
+      "name": "Deals weapon damage + Inflicts Arts Slow"
     },
     {
       "$id": 272,
       "label": "ARTS_HUGESHIELD_ARTS_8_Caption",
       "style": 71,
-      "name": "Deals thermal damage + Inflicts Blaze"
+      "name": "Deals heat damage + Inflicts Blaze"
     },
     {
       "$id": 273,
       "label": "ARTS_HUGESHIELD_ARTS_9_Caption",
       "style": 71,
-      "name": "Grants Barrier"
+      "name": "Grants Damage Armor"
     },
     {
       "$id": 274,
@@ -1668,7 +1668,7 @@
       "$id": 276,
       "label": "ARTS_HUGESHIELD_ARTS_12_Caption",
       "style": 71,
-      "name": "Deals weapon damage + Boosts appendage\ndamage"
+      "name": "Deals weapon damage + Boosts part\ndamage"
     },
     {
       "$id": 277,
@@ -1692,7 +1692,7 @@
       "$id": 280,
       "label": "ARTS_KNIFE_ARTS_2_Caption",
       "style": 71,
-      "name": "Grants Barrier"
+      "name": "Grants Damage Armor"
     },
     {
       "$id": 281,
@@ -1776,7 +1776,7 @@
       "$id": 294,
       "label": "ARTS_KNIFE_ARTS_16_Caption",
       "style": 71,
-      "name": "(TP) Reduces secondary cooldown + Reduces\nauto-attack intervals"
+      "name": "(TP) Reduces double cooldown + Reduces\nauto-attack intervals"
     },
     {
       "$id": 295,
@@ -1830,13 +1830,13 @@
       "$id": 303,
       "label": "ARTS_BEAMSABER_ARTS_8_Caption",
       "style": 71,
-      "name": "(TP) Restores HP + WHEN IN SKELL: restores\nappendage HP"
+      "name": "(TP) Restores HP + WHEN IN A DOLL: restores\npart HP"
     },
     {
       "$id": 304,
       "label": "ARTS_BEAMSABER_ARTS_9_Caption",
       "style": 71,
-      "name": "(TP) Grants Supercharge upon taking\ndamage + Enables counter spike damage"
+      "name": "(TP) Grants Bullet Charge upon taking\ndamage + Enables counter spike damage"
     },
     {
       "$id": 305,
@@ -1866,7 +1866,7 @@
       "$id": 309,
       "label": "ARTS_MULTIGUN_ARTS1_Caption",
       "style": 71,
-      "name": "(TP) Reduces secondary cooldown + Reduces\nauto-attack intervals + Boosts potential"
+      "name": "(TP) Reduces double cooldown + Reduces\nauto-attack intervals + Boosts potential"
     },
     {
       "$id": 310,
@@ -1896,25 +1896,25 @@
       "$id": 314,
       "label": "ARTS_TARGET_EN_SPHERE_Range",
       "style": 18,
-      "name": "Nearby Enemies"
+      "name": "Enemies Around Self"
     },
     {
       "$id": 315,
       "label": "ARTS_TARGET_EN_SPHERE2_Range",
       "style": 18,
-      "name": "Enemy Vicinity"
+      "name": "Enemies Around Target"
     },
     {
       "$id": 316,
       "label": "ARTS_TARGET_EN_LINE_Range",
       "style": 18,
-      "name": "Enemies Ahead"
+      "name": "Enemies in Frontal Line"
     },
     {
       "$id": 317,
       "label": "ARTS_TARGET_EN_SOMEONE_Range",
       "style": 18,
-      "name": "Enemies Ahead"
+      "name": "Enemies in Frontal Line"
     },
     {
       "$id": 318,
@@ -1932,7 +1932,7 @@
       "$id": 320,
       "label": "ARTS_TARGET_PC_ALL_Range",
       "style": 18,
-      "name": "Nearby Allies"
+      "name": "Allies Around Self"
     },
     {
       "$id": 321,
@@ -1986,7 +1986,7 @@
       "$id": 329,
       "label": "ARTS_BEAMSABER_ARTS_14_Name",
       "style": 14,
-      "name": "World Splitter"
+      "name": "Heaven and Earth Splitter"
     },
     {
       "$id": 330,
@@ -2010,7 +2010,7 @@
       "$id": 333,
       "label": "ARTS_BEAMCANNON_ARTS_11_Caption",
       "style": 71,
-      "name": "Deals weapon damage + Spreads status\ndebuffs"
+      "name": "Deals weapon damage + spreads debuff effects\nother than reactions."
     },
     {
       "$id": 334,
@@ -2046,25 +2046,25 @@
       "$id": 339,
       "label": "ARTS_TARGET_EN_SPHERE_Range_01",
       "style": 16,
-      "name": "Nearby Enemies"
+      "name": "Enemies Around Self"
     },
     {
       "$id": 340,
       "label": "ARTS_TARGET_EN_SPHERE2_Range_01",
       "style": 16,
-      "name": "Enemy Vicinity"
+      "name": "Enemies Around Target"
     },
     {
       "$id": 341,
       "label": "ARTS_TARGET_EN_LINE_Range_01",
       "style": 16,
-      "name": "Enemies Ahead"
+      "name": "Enemies in Frontal Line"
     },
     {
       "$id": 342,
       "label": "ARTS_TARGET_EN_SOMEONE_Range_01",
       "style": 16,
-      "name": "Enemies Ahead"
+      "name": "Enemies in Frontal Line"
     },
     {
       "$id": 343,
@@ -2082,7 +2082,7 @@
       "$id": 345,
       "label": "ARTS_TARGET_PC_ALL_Range_01",
       "style": 16,
-      "name": "Nearby Allies"
+      "name": "Allies Around Self"
     },
     {
       "$id": 346,

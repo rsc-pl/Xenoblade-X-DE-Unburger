@@ -1,0 +1,84 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev078202_MSG0001",
+      "style": 1,
+      "name": "Listen to this, [ST:playername ]! *fsssh* I have\nsuccessfully disgorged a new Zaruboggan![ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev078202_MSG0002",
+      "style": 1,
+      "name": "This never could have happened\nif you hadn't rescued me in\nNightglow Forest. *fsssh*[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev078202_JNK0010",
+      "style": 4,
+      "name": "Congratulate[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev078202_SEL0011",
+      "style": 3,
+      "name": "Tell Arsenican that you're happy for him.[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev078202_JNK0020",
+      "style": 4,
+      "name": "Inquire[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "tev078202_SEL0021",
+      "style": 3,
+      "name": "Ask Arsenican what exactly it means to \"disgorge\" a child.[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "tev078202_MSG0005",
+      "style": 1,
+      "name": "Thank you kindly! I knew you were a good\nperson, through and through. *fsssh*[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "tev078202_MSG0006",
+      "style": 1,
+      "name": "If you wouldn't mind, I'd love for you to speak\nwith Orleron. I think it would be a valuable\nexperience for him to meet a [ST:gender p1=man p2=woman ]of your caliber. *fsssh*[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "tev078202_MSG0009",
+      "style": 1,
+      "name": "We are all the children of\nGolbogga. *fsssh* What I did\nwas merely disgorge a new life.[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "tev078202_MSG0010",
+      "style": 1,
+      "name": "If you are interested in the life I disgorged,\nhis name is Orleron. *fsssh* It would please\nme to have you speak with him.[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev078202_MSG0011",
+      "style": 1,
+      "name": "That should make it clear what exactly he is.\n*fsssh* And I also think it would be valuable\nfor him to meet a person such as yourself.[ST:wait ]"
+    }
+  ]
+}

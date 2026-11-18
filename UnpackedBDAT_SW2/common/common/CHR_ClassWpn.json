@@ -1,0 +1,79 @@
+{
+  "schema": [
+    {
+      "name": "ID",
+      "type": 9
+    },
+    {
+      "name": "ClassGroup",
+      "type": 2
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "ID": "ClassWpn_Assault",
+      "ClassGroup": 15
+    },
+    {
+      "$id": 2,
+      "ID": "ClassWpn_Sniper",
+      "ClassGroup": 1536
+    },
+    {
+      "$id": 3,
+      "ID": "ClassWpn_DuelGun",
+      "ClassGroup": 448
+    },
+    {
+      "$id": 4,
+      "ID": "ClassWpn_GatlingGun",
+      "ClassGroup": 48
+    },
+    {
+      "$id": 5,
+      "ID": "ClassWpn_BeamGun",
+      "ClassGroup": 49152
+    },
+    {
+      "$id": 6,
+      "ID": "ClassWpn_PhycoGun",
+      "ClassGroup": 49152
+    },
+    {
+      "$id": 7,
+      "ID": "ClassWpn_Sword",
+      "ClassGroup": 14
+    },
+    {
+      "$id": 8,
+      "ID": "ClassWpn_Javelin",
+      "ClassGroup": 1536
+    },
+    {
+      "$id": 9,
+      "ID": "ClassWpn_DuelBlade",
+      "ClassGroup": 448
+    },
+    {
+      "$id": 10,
+      "ID": "ClassWpn_Shield",
+      "ClassGroup": 48
+    },
+    {
+      "$id": 11,
+      "ID": "ClassWpn_Knife",
+      "ClassGroup": 49153
+    },
+    {
+      "$id": 12,
+      "ID": "ClassWpn_BeamSaber",
+      "ClassGroup": 49152
+    },
+    {
+      "$id": 13,
+      "ID": "ClassWpn_MultiGun",
+      "ClassGroup": 65535
+    }
+  ]
+}

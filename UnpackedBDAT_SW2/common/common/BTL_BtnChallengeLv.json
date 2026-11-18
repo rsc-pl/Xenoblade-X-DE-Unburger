@@ -1,0 +1,106 @@
+{
+  "schema": [
+    {
+      "name": "ID",
+      "type": 9
+    },
+    {
+      "name": "justFrame1",
+      "type": 1
+    },
+    {
+      "name": "justFrame2",
+      "type": 1
+    },
+    {
+      "name": "Name",
+      "type": 1
+    },
+    {
+      "name": "Interval",
+      "type": 1
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "ID": "CHALLENGE_LV1",
+      "justFrame1": 15,
+      "justFrame2": 20,
+      "Name": 30,
+      "Interval": 0
+    },
+    {
+      "$id": 2,
+      "ID": "CHALLENGE_LV2",
+      "justFrame1": 12,
+      "justFrame2": 16,
+      "Name": 26,
+      "Interval": 0
+    },
+    {
+      "$id": 3,
+      "ID": "CHALLENGE_LV3",
+      "justFrame1": 9,
+      "justFrame2": 12,
+      "Name": 22,
+      "Interval": 0
+    },
+    {
+      "$id": 4,
+      "ID": "CHALLENGE_LV4",
+      "justFrame1": 7,
+      "justFrame2": 10,
+      "Name": 18,
+      "Interval": 0
+    },
+    {
+      "$id": 5,
+      "ID": "VOID_CATCH_LV1",
+      "justFrame1": 15,
+      "justFrame2": 20,
+      "Name": 30,
+      "Interval": 60
+    },
+    {
+      "$id": 6,
+      "ID": "VOID_CATCH_LV2",
+      "justFrame1": 12,
+      "justFrame2": 16,
+      "Name": 24,
+      "Interval": 60
+    },
+    {
+      "$id": 7,
+      "ID": "VOID_CATCH_LV3",
+      "justFrame1": 9,
+      "justFrame2": 12,
+      "Name": 18,
+      "Interval": 60
+    },
+    {
+      "$id": 8,
+      "ID": "VOID_CATCH_LV4",
+      "justFrame1": 9,
+      "justFrame2": 12,
+      "Name": 18,
+      "Interval": 60
+    },
+    {
+      "$id": 9,
+      "ID": "VOID_CATCH_LV5",
+      "justFrame1": 9,
+      "justFrame2": 12,
+      "Name": 18,
+      "Interval": 60
+    },
+    {
+      "$id": 10,
+      "ID": "VOID_CATCH_LV6",
+      "justFrame1": 9,
+      "justFrame2": 12,
+      "Name": 18,
+      "Interval": 60
+    }
+  ]
+}

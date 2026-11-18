@@ -1,0 +1,474 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev075201_MSG0001",
+      "style": 1,
+      "name": "You're the strong warrior from before!\nHehe! I had a feeling we'd meet somewhere,\nbut to actually run into you like this![ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev075201_MSG0002",
+      "style": 1,
+      "name": "Now then... Shall we have a match!?[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev075201_JNK0010",
+      "style": 4,
+      "name": "Affirm"
+    },
+    {
+      "$id": 4,
+      "label": "qev075201_SEL0011",
+      "style": 3,
+      "name": "Adopt a battle stance, showing you accept the challenge."
+    },
+    {
+      "$id": 5,
+      "label": "qev075201_JNK0020",
+      "style": 4,
+      "name": "Deny"
+    },
+    {
+      "$id": 6,
+      "label": "qev075201_SEL0021",
+      "style": 3,
+      "name": "Decline, stating that fighting in the city is prohibited."
+    },
+    {
+      "$id": 7,
+      "label": "qev075201_MSG0003",
+      "style": 1,
+      "name": "Ready to go so suddenly!?\nHahaha! You're the best![ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev075201_MSG0004",
+      "style": 1,
+      "name": "...But you know, the last time I fought in\nthe city, the Earthlings got really mad at\nme, talking about public order and rules![ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev075201_MSG0005",
+      "style": 1,
+      "name": "So... how about we have our\nmatch in the Nightglow Forest?[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev075201_MSG0006",
+      "style": 1,
+      "name": "...That's right, the last time I fought in\nthe city, the Earthlings got really mad at\nme, talking about public order and rules.[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev075201_MSG0007",
+      "style": 1,
+      "name": "Man, thanks for stopping me!\nI had completely forgotten.[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev075201_MSG0008",
+      "style": 1,
+      "name": "Hmm... Right then. How about we have\nour match in the Nightglow Forest?[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev075201_MSG0009",
+      "style": 1,
+      "name": "Over there, I can perfectly demonstrate\nthe Hundred Demon Warriors' guerrilla tactics![ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev075201_MSG0010",
+      "style": 1,
+      "name": "Hehe! It won't go like last time! So,\nwhat do you say! Will you do it!?[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev075201_MSG0011",
+      "style": 1,
+      "name": "I knew you'd accept.\n...It's a strange thing.[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev075201_MSG0012",
+      "style": 1,
+      "name": "Even though we've only fought once, I feel\nlike you're a comrade-in-arms whom I've\nshared the battlefield with many times.[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev075201_JNK0030",
+      "style": 4,
+      "name": "Affirm"
+    },
+    {
+      "$id": 18,
+      "label": "qev075201_SEL0031",
+      "style": 3,
+      "name": "Empathize with what Zang is saying."
+    },
+    {
+      "$id": 19,
+      "label": "qev075201_JNK0040",
+      "style": 4,
+      "name": "Deny"
+    },
+    {
+      "$id": 20,
+      "label": "qev075201_SEL0041",
+      "style": 3,
+      "name": "State that you don't particularly feel that way."
+    },
+    {
+      "$id": 21,
+      "label": "qev075201_MSG0013",
+      "style": 1,
+      "name": "My master often used to say that if I wanted to\ngrow strong, I should make a rival who is both an\nunrivaled best friend and my greatest enemy...[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev075201_MSG0014",
+      "style": 1,
+      "name": "...He must have been talking\nabout someone exactly like you.[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev075201_MSG0015",
+      "style": 1,
+      "name": "Are you saying you won't show openings to an upcoming\nopponent? I'm not very good at that sort of thing, but\nmy master did tell me to close my heart before an enemy.[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev075201_MSG0016",
+      "style": 1,
+      "name": "Just as I thought, it seems I\nhave a lot to learn from you![ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev075201_MSG0017",
+      "style": 1,
+      "name": "Well then, I'll head to the forest first! When\nyou're ready, come to the single-log bridge in the\nNightglow Forest— around the Elephant's Trunk![ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev075201_MSG0018",
+      "style": 1,
+      "name": "...Not bad! You actually found\nme blended into the forest![ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev075201_MSG0019",
+      "style": 1,
+      "name": "Well, if surprise attacks don't work, I'll\njust have to clash with you head-on![ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev075201_MSG0020",
+      "style": 1,
+      "name": "Tch! You found me here\ntoo! You're a tough one.[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev075201_MSG0021",
+      "style": 1,
+      "name": "You really... keep things entertaining!\nLet's keep going at it, more and more![ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev075201_MSG0022",
+      "style": 1,
+      "name": "I've fully realized that cheap\ntricks won't work on you.[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev075201_MSG0023",
+      "style": 1,
+      "name": "From here on out, it's not\nguerrilla warfare. It's a\nduel between noble warriors![ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev075201_MSG0024",
+      "style": 1,
+      "name": "Here I go! My name is Gi Zang, the last\nsurvivor of the Hundred Demon Warriors! Now, I\ndraw the sword entrusted to me by my ma[ST:wide ] Ouch![ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev075201_JNK0050",
+      "style": 4,
+      "name": "Advise"
+    },
+    {
+      "$id": 34,
+      "label": "qev075201_SEL0051",
+      "style": 3,
+      "name": "Point out that he bit his tongue and urge him to try again."
+    },
+    {
+      "$id": 35,
+      "label": "qev075201_JNK0060",
+      "style": 4,
+      "name": "Silence"
+    },
+    {
+      "$id": 36,
+      "label": "qev075201_SEL0061",
+      "style": 3,
+      "name": "Start the fight as if nothing happened."
+    },
+    {
+      "$id": 37,
+      "label": "qev075201_MSG0025",
+      "style": 1,
+      "name": "Agh! I won't just take this lying\ndown! My name is the last survivor\nof the Hundred Demon War[ST:wide ] ...Ouch![ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev075201_MSG0026",
+      "style": 1,
+      "name": "...Ow, ow, ow, ow...[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "qev075201_MSG0027",
+      "style": 1,
+      "name": "Tch, Grandpa told me warriors should\nstate their names when fighting a duel,\nso I practiced this a lot, but...[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "qev075201_MSG0028",
+      "style": 1,
+      "name": "I'm just no good at saying difficult\nthings! Anyway, let's have a proper match![ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "qev075201_MSG0029",
+      "style": 1,
+      "name": "...Ow, ow, ow, ow...[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "qev075201_MSG0030",
+      "style": 1,
+      "name": "Tch, Grandpa told me warriors should\nstate their names when fighting a duel,\nso I practiced this a lot, but...[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "qev075201_MSG0031",
+      "style": 1,
+      "name": "Well... It helps that you\ndidn't bring it up much! Anyway,\nlet's have a proper match![ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "qev075201_MSG0032",
+      "style": 1,
+      "name": "Ow, ow, ow... This is my loss. You've\ngotten even stronger since the first\ntime we met, haven't you...[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "qev075201_MSG0033",
+      "style": 1,
+      "name": "Compared to that, I'm still nowhere near\nenough. Grandpa would scold me at this\nrate. I have to get much, much stronger...[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "qev075201_JNK0070",
+      "style": 4,
+      "name": "Interest"
+    },
+    {
+      "$id": 47,
+      "label": "qev075201_SEL0071",
+      "style": 3,
+      "name": "Ask for details about Zang's grandfather."
+    },
+    {
+      "$id": 48,
+      "label": "qev075201_JNK0080",
+      "style": 4,
+      "name": "Query"
+    },
+    {
+      "$id": 49,
+      "label": "qev075201_SEL0081",
+      "style": 3,
+      "name": "Ask the reason why Zang tries to become strong."
+    },
+    {
+      "$id": 50,
+      "label": "qev075201_MSG0034",
+      "style": 1,
+      "name": "He was a hero of the Hundred Demon Warriors who\nnever took a single step back even when\nfighting alone against hundreds of Growth![ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "qev075201_MSG0035",
+      "style": 1,
+      "name": "He took me in when I was a war orphan\nand raised me as his successor.[ST:wait ]"
+    },
+    {
+      "$id": 52,
+      "label": "qev075201_MSG0036",
+      "style": 1,
+      "name": "...He was an incredibly strict grandpa. If I\nslacked off on my training even a little, he'd\nsuddenly kick me into a waterfall basin.[ST:wait ]"
+    },
+    {
+      "$id": 53,
+      "label": "qev075201_MSG0037",
+      "style": 1,
+      "name": "But, on the days I trained hard, he\nwould make warm Itara Mushroom Stew\nand tell me tales of his past heroics.[ST:wait ]"
+    },
+    {
+      "$id": 54,
+      "label": "qev075201_MSG0038",
+      "style": 1,
+      "name": "Makes me remember it. It was\ndelicious... that stew...[ST:wait ]"
+    },
+    {
+      "$id": 55,
+      "label": "qev075201_MSG0039",
+      "style": 1,
+      "name": "Well... I can't drink\nit anymore, though.[ST:wait ]"
+    },
+    {
+      "$id": 56,
+      "label": "qev075201_JNK0090",
+      "style": 4,
+      "name": "Query[ST:wait ]"
+    },
+    {
+      "$id": 57,
+      "label": "qev075201_SEL0091",
+      "style": 3,
+      "name": "Ask for details on why he can't drink his grandfather's stew.[ST:wait ]"
+    },
+    {
+      "$id": 58,
+      "label": "qev075201_JNK0100",
+      "style": 4,
+      "name": "Change Topic[ST:wait ]"
+    },
+    {
+      "$id": 59,
+      "label": "qev075201_SEL0101",
+      "style": 3,
+      "name": "Consider Gi Zang's sadness and change the topic by asking what his hometown was like.[ST:wait ]"
+    },
+    {
+      "$id": 60,
+      "label": "qev075201_MSG0040",
+      "style": 1,
+      "name": "...My comrades from the Hundred\nDemon Warriors are no longer in this world.[ST:wait ]"
+    },
+    {
+      "$id": 61,
+      "label": "qev075201_MSG0041",
+      "style": 1,
+      "name": "Our power exists solely for our homeland... Following\nthat conviction, even after the Lars surrendered,\nthey resisted the Growth to the bitter end...[ST:wait ]"
+    },
+    {
+      "$id": 62,
+      "label": "qev075201_MSG0042",
+      "style": 1,
+      "name": "Our forest was burned, our homes were\nburned, our families were burned...\nEveryone was killed, leaving only me behind.[ST:wait ]"
+    },
+    {
+      "$id": 63,
+      "label": "qev075201_MSG0043",
+      "style": 1,
+      "name": "...At that time, Grandpa's entire body was pierced\nby gunfire and he died. Leaving me with his last\nwords to save the Lars with this sword.[ST:wait ]"
+    },
+    {
+      "$id": 64,
+      "label": "qev075201_MSG0044",
+      "style": 1,
+      "name": "But... I... couldn't die. Stopped by\nGa Derg-sama, I survived... And ended up\ndoing exactly what the Growth ordered.[ST:wait ]"
+    },
+    {
+      "$id": 65,
+      "label": "qev075201_MSG0045",
+      "style": 1,
+      "name": "...I've had enough of that\nhumiliation. This time for sure,\nI will absolutely avenge my comrades.[ST:wait ]"
+    },
+    {
+      "$id": 66,
+      "label": "qev075201_MSG0046",
+      "style": 1,
+      "name": "I will become strong. I'll acquire\nstrength so that no one can trample\non me, and I will properly live on![ST:wait ]"
+    },
+    {
+      "$id": 67,
+      "label": "qev075201_MSG0047",
+      "style": 1,
+      "name": "Hehe! To completely slaughter the bastards\nwho killed the Hundred Demon Warriors![ST:wait ]"
+    },
+    {
+      "$id": 68,
+      "label": "qev075201_MSG0048",
+      "style": 1,
+      "name": "...Even after the Lars surrendered,\neveryone in the hidden village resisted\nthe Growth to the bitter end...[ST:wait ]"
+    },
+    {
+      "$id": 69,
+      "label": "qev075201_MSG0049",
+      "style": 1,
+      "name": "Our forest was burned, our homes were\nburned, our families were burned...\nEveryone was killed, leaving only me behind.[ST:wait ]"
+    },
+    {
+      "$id": 70,
+      "label": "qev075201_MSG0050",
+      "style": 1,
+      "name": "Grandpa's entire body was pierced by gunfire\nand he died too, leaving his last words\nto save the country with this sword.[ST:wait ]"
+    },
+    {
+      "$id": 71,
+      "label": "qev075201_MSG0051",
+      "style": 1,
+      "name": "But, pathetically, I couldn't die. Stopped\nby Ga Derg-sama, I survived... And ended up\ndoing exactly what the Growth ordered.[ST:wait ]"
+    },
+    {
+      "$id": 72,
+      "label": "qev075201_MSG0052",
+      "style": 1,
+      "name": "...I've had enough of that\nhumiliation. This time for sure,\nI will absolutely avenge my comrades.[ST:wait ]"
+    },
+    {
+      "$id": 73,
+      "label": "qev075201_MSG0053",
+      "style": 1,
+      "name": "I will become strong. I'll acquire\nstrength so that no one can trample\non me, and I will properly live on![ST:wait ]"
+    },
+    {
+      "$id": 74,
+      "label": "qev075201_MSG0054",
+      "style": 1,
+      "name": "...Alright! Anyway, please fight me\nagain! Here, this is a token of\ngratitude for joining me in the forest![ST:wait ]"
+    },
+    {
+      "$id": 75,
+      "label": "qev075201_MSG0055",
+      "style": 1,
+      "name": "Also, thanks for listening to me\ntalk about various things. How\nshould I say it, it made me happy.[ST:wait ]"
+    },
+    {
+      "$id": 76,
+      "label": "qev075201_MSG0056",
+      "style": 1,
+      "name": "Hehe... Well, see you later![ST:wait ]"
+    }
+  ]
+}

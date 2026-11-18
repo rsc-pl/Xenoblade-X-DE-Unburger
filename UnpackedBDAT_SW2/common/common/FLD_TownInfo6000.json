@@ -1,0 +1,134 @@
+{
+  "schema": [
+    {
+      "name": "ID",
+      "type": 9
+    },
+    {
+      "name": "posX",
+      "type": 8
+    },
+    {
+      "name": "posY",
+      "type": 8
+    },
+    {
+      "name": "posZ",
+      "type": 8
+    },
+    {
+      "name": "react",
+      "type": 8
+    },
+    {
+      "name": "avail",
+      "type": 1
+    },
+    {
+      "name": "preinfoID",
+      "type": 2
+    },
+    {
+      "name": "radius",
+      "type": 8
+    },
+    {
+      "name": "info",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 2
+    },
+    {
+      "name": "msg1",
+      "type": 2
+    },
+    {
+      "name": "voice1",
+      "type": 7
+    },
+    {
+      "name": "cond1",
+      "type": 2
+    },
+    {
+      "name": "msg2",
+      "type": 2
+    },
+    {
+      "name": "voice2",
+      "type": 7
+    },
+    {
+      "name": "cond2",
+      "type": 2
+    },
+    {
+      "name": "msg3",
+      "type": 2
+    },
+    {
+      "name": "voice3",
+      "type": 7
+    },
+    {
+      "name": "cond3",
+      "type": 2
+    },
+    {
+      "name": "msg4",
+      "type": 2
+    },
+    {
+      "name": "voice4",
+      "type": 7
+    },
+    {
+      "name": "cond4",
+      "type": 2
+    },
+    {
+      "name": "msg5",
+      "type": 2
+    },
+    {
+      "name": "voice5",
+      "type": 7
+    },
+    {
+      "name": "cond5",
+      "type": 2
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "ID": "TI_6000_901",
+      "posX": 2.240000009536743,
+      "posY": 144.69000244140625,
+      "posZ": 1583.68994140625,
+      "react": 37.0,
+      "avail": 0,
+      "preinfoID": 0,
+      "radius": 7.0,
+      "info": 0,
+      "name": 12,
+      "msg1": 2514,
+      "voice1": "mb1117_03",
+      "cond1": 6632,
+      "msg2": 0,
+      "voice2": "",
+      "cond2": 0,
+      "msg3": 0,
+      "voice3": "",
+      "cond3": 0,
+      "msg4": 0,
+      "voice4": "",
+      "cond4": 0,
+      "msg5": 0,
+      "voice5": "",
+      "cond5": 0
+    }
+  ]
+}

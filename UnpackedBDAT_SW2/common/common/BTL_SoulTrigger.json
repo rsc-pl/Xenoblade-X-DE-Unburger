@@ -1,0 +1,346 @@
+{
+  "schema": [
+    {
+      "name": "ID",
+      "type": 9
+    },
+    {
+      "name": "Name",
+      "type": 2
+    },
+    {
+      "name": "Caption",
+      "type": 2
+    },
+    {
+      "name": "Priority",
+      "type": 1
+    },
+    {
+      "name": "ExecB",
+      "type": 1
+    },
+    {
+      "name": "Voice1",
+      "type": 2
+    },
+    {
+      "name": "Voice2",
+      "type": 2
+    },
+    {
+      "name": "Voice3",
+      "type": 2
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "ID": "SoulTrigger_Combat_Fight",
+      "Name": 1,
+      "Caption": 29,
+      "Priority": 2,
+      "ExecB": 1,
+      "Voice1": 1,
+      "Voice2": 2,
+      "Voice3": 3
+    },
+    {
+      "$id": 2,
+      "ID": "SoulTrigger_Combat_Shoot",
+      "Name": 2,
+      "Caption": 30,
+      "Priority": 2,
+      "ExecB": 1,
+      "Voice1": 4,
+      "Voice2": 5,
+      "Voice3": 6
+    },
+    {
+      "$id": 3,
+      "ID": "SoulTrigger_Combat_Arts",
+      "Name": 3,
+      "Caption": 31,
+      "Priority": 1,
+      "ExecB": 1,
+      "Voice1": 7,
+      "Voice2": 8,
+      "Voice3": 9
+    },
+    {
+      "$id": 4,
+      "ID": "SoulTrigger_Hp50",
+      "Name": 4,
+      "Caption": 32,
+      "Priority": 15,
+      "ExecB": 1,
+      "Voice1": 10,
+      "Voice2": 11,
+      "Voice3": 12
+    },
+    {
+      "$id": 5,
+      "ID": "SoulTrigger_Hp15",
+      "Name": 5,
+      "Caption": 33,
+      "Priority": 14,
+      "ExecB": 1,
+      "Voice1": 13,
+      "Voice2": 14,
+      "Voice3": 15
+    },
+    {
+      "$id": 6,
+      "ID": "SoulTrigger_Dead",
+      "Name": 6,
+      "Caption": 34,
+      "Priority": 3,
+      "ExecB": 1,
+      "Voice1": 16,
+      "Voice2": 17,
+      "Voice3": 18
+    },
+    {
+      "$id": 7,
+      "ID": "SoulTrigger_Critical",
+      "Name": 7,
+      "Caption": 35,
+      "Priority": 17,
+      "ExecB": 1,
+      "Voice1": 19,
+      "Voice2": 20,
+      "Voice3": 21
+    },
+    {
+      "$id": 8,
+      "ID": "SoulTrigger_PartsBreak",
+      "Name": 8,
+      "Caption": 36,
+      "Priority": 8,
+      "ExecB": 1,
+      "Voice1": 22,
+      "Voice2": 23,
+      "Voice3": 24
+    },
+    {
+      "$id": 9,
+      "ID": "SoulTrigger_Big_Attack",
+      "Name": 9,
+      "Caption": 37,
+      "Priority": 10,
+      "ExecB": 1,
+      "Voice1": 25,
+      "Voice2": 26,
+      "Voice3": 27
+    },
+    {
+      "$id": 10,
+      "ID": "SoulTrigger_Special_Arts",
+      "Name": 10,
+      "Caption": 38,
+      "Priority": 16,
+      "ExecB": 1,
+      "Voice1": 28,
+      "Voice2": 29,
+      "Voice3": 30
+    },
+    {
+      "$id": 11,
+      "ID": "SoulTrigger_Oural_Arts",
+      "Name": 11,
+      "Caption": 39,
+      "Priority": 13,
+      "ExecB": 1,
+      "Voice1": 31,
+      "Voice2": 32,
+      "Voice3": 33
+    },
+    {
+      "$id": 12,
+      "ID": "SoulTrigger_Gear",
+      "Name": 12,
+      "Caption": 40,
+      "Priority": 4,
+      "ExecB": 1,
+      "Voice1": 34,
+      "Voice2": 35,
+      "Voice3": 36
+    },
+    {
+      "$id": 13,
+      "ID": "SoulTrigger_EnemyFinal",
+      "Name": 13,
+      "Caption": 41,
+      "Priority": 5,
+      "ExecB": 1,
+      "Voice1": 37,
+      "Voice2": 38,
+      "Voice3": 39
+    },
+    {
+      "$id": 14,
+      "ID": "SoulTrigger_Avoid_3",
+      "Name": 14,
+      "Caption": 42,
+      "Priority": 6,
+      "ExecB": 1,
+      "Voice1": 40,
+      "Voice2": 41,
+      "Voice3": 42
+    },
+    {
+      "$id": 15,
+      "ID": "SoulTrigger_Critical_3",
+      "Name": 15,
+      "Caption": 43,
+      "Priority": 6,
+      "ExecB": 1,
+      "Voice1": 43,
+      "Voice2": 44,
+      "Voice3": 45
+    },
+    {
+      "$id": 16,
+      "ID": "SoulTrigger_Weather",
+      "Name": 16,
+      "Caption": 44,
+      "Priority": 7,
+      "ExecB": 1,
+      "Voice1": 46,
+      "Voice2": 47,
+      "Voice3": 48
+    },
+    {
+      "$id": 17,
+      "ID": "SoulTrigger_Runner",
+      "Name": 17,
+      "Caption": 45,
+      "Priority": 7,
+      "ExecB": 1,
+      "Voice1": 49,
+      "Voice2": 50,
+      "Voice3": 51
+    },
+    {
+      "$id": 18,
+      "ID": "SoulTrigger_BackUp_Man",
+      "Name": 18,
+      "Caption": 46,
+      "Priority": 18,
+      "ExecB": 1,
+      "Voice1": 52,
+      "Voice2": 53,
+      "Voice3": 54
+    },
+    {
+      "$id": 19,
+      "ID": "SoulTrigger_BackUp_Lady",
+      "Name": 19,
+      "Caption": 47,
+      "Priority": 1,
+      "ExecB": 1,
+      "Voice1": 55,
+      "Voice2": 56,
+      "Voice3": 57
+    },
+    {
+      "$id": 20,
+      "ID": "SoulTrigger_Risky_Attack",
+      "Name": 20,
+      "Caption": 48,
+      "Priority": 9,
+      "ExecB": 1,
+      "Voice1": 58,
+      "Voice2": 59,
+      "Voice3": 60
+    },
+    {
+      "$id": 21,
+      "ID": "SoulTrigger_HighPos_Attack",
+      "Name": 21,
+      "Caption": 49,
+      "Priority": 11,
+      "ExecB": 1,
+      "Voice1": 61,
+      "Voice2": 62,
+      "Voice3": 63
+    },
+    {
+      "$id": 22,
+      "ID": "SoulTrigger_FallDown",
+      "Name": 22,
+      "Caption": 50,
+      "Priority": 8,
+      "ExecB": 1,
+      "Voice1": 64,
+      "Voice2": 65,
+      "Voice3": 66
+    },
+    {
+      "$id": 23,
+      "ID": "SoulTrigger_Stan",
+      "Name": 23,
+      "Caption": 51,
+      "Priority": 10,
+      "ExecB": 1,
+      "Voice1": 67,
+      "Voice2": 68,
+      "Voice3": 69
+    },
+    {
+      "$id": 24,
+      "ID": "SoulTrigger_Sleep",
+      "Name": 24,
+      "Caption": 52,
+      "Priority": 10,
+      "ExecB": 1,
+      "Voice1": 70,
+      "Voice2": 71,
+      "Voice3": 72
+    },
+    {
+      "$id": 25,
+      "ID": "SoulTrigger_Catch",
+      "Name": 25,
+      "Caption": 53,
+      "Priority": 8,
+      "ExecB": 0,
+      "Voice1": 73,
+      "Voice2": 74,
+      "Voice3": 75
+    },
+    {
+      "$id": 26,
+      "ID": "SoulTrigger_Doll_PartsBreak",
+      "Name": 26,
+      "Caption": 54,
+      "Priority": 12,
+      "ExecB": 1,
+      "Voice1": 76,
+      "Voice2": 77,
+      "Voice3": 78
+    },
+    {
+      "$id": 27,
+      "ID": "SoulTrigger_Doll_Scrap",
+      "Name": 27,
+      "Caption": 55,
+      "Priority": 3,
+      "ExecB": 0,
+      "Voice1": 79,
+      "Voice2": 80,
+      "Voice3": 81
+    },
+    {
+      "$id": 28,
+      "ID": "SoulTrigger_Doll_Fuel",
+      "Name": 28,
+      "Caption": 56,
+      "Priority": 13,
+      "ExecB": 1,
+      "Voice1": 82,
+      "Voice2": 83,
+      "Voice3": 84
+    }
+  ]
+}

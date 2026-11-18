@@ -1,0 +1,98 @@
+{
+  "schema": [
+    {
+      "name": "ID",
+      "type": 9
+    },
+    {
+      "name": "name",
+      "type": 7
+    },
+    {
+      "name": "mdl",
+      "type": 7
+    },
+    {
+      "name": "mot",
+      "type": 7
+    },
+    {
+      "name": "mca",
+      "type": 7
+    },
+    {
+      "name": "startActionName",
+      "type": 7
+    },
+    {
+      "name": "acb",
+      "type": 7
+    },
+    {
+      "name": "clipEvt",
+      "type": 7
+    },
+    {
+      "name": "is_play_ve_se",
+      "type": 1
+    },
+    {
+      "name": "se_env_id",
+      "type": 2
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "ID": "VEHICLE_501",
+      "name": "JEEP_41_001",
+      "mdl": "oj/oj400503",
+      "mot": "oj400501",
+      "mca": "oj4005",
+      "startActionName": "AC_R41",
+      "acb": "oj/oj400501",
+      "clipEvt": "oj400501",
+      "is_play_ve_se": 1,
+      "se_env_id": 15
+    },
+    {
+      "$id": 2,
+      "ID": "VEHICLE_502",
+      "name": "JEEP_41_002",
+      "mdl": "oj/oj400503",
+      "mot": "oj400501",
+      "mca": "oj4005",
+      "startActionName": "AC_R41_50",
+      "acb": "oj/oj400501",
+      "clipEvt": "oj400501",
+      "is_play_ve_se": 1,
+      "se_env_id": 15
+    },
+    {
+      "$id": 3,
+      "ID": "VEHICLE_503",
+      "name": "JEEP_42_001",
+      "mdl": "oj/oj400503",
+      "mot": "oj400501",
+      "mca": "oj4005",
+      "startActionName": "AC_R42",
+      "acb": "oj/oj400501",
+      "clipEvt": "oj400501",
+      "is_play_ve_se": 1,
+      "se_env_id": 15
+    },
+    {
+      "$id": 4,
+      "ID": "VEHICLE_504",
+      "name": "JEEP_42_002",
+      "mdl": "oj/oj400503",
+      "mot": "oj400501",
+      "mca": "oj4005",
+      "startActionName": "AC_R42_50",
+      "acb": "oj/oj400501",
+      "clipEvt": "oj400501",
+      "is_play_ve_se": 1,
+      "se_env_id": 15
+    }
+  ]
+}

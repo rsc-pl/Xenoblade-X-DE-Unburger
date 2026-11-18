@@ -1,0 +1,336 @@
+{
+  "schema": [
+    {
+      "name": "ID",
+      "type": 9
+    },
+    {
+      "name": "left",
+      "type": 5
+    },
+    {
+      "name": "top",
+      "type": 5
+    },
+    {
+      "name": "width",
+      "type": 2
+    },
+    {
+      "name": "height",
+      "type": 2
+    },
+    {
+      "name": "size",
+      "type": 2
+    },
+    {
+      "name": "worldSize",
+      "type": 2
+    },
+    {
+      "name": "maxScale",
+      "type": 2
+    },
+    {
+      "name": "midScale",
+      "type": 2
+    },
+    {
+      "name": "minScale",
+      "type": 2
+    },
+    {
+      "name": "startX",
+      "type": 5
+    },
+    {
+      "name": "startY",
+      "type": 5
+    },
+    {
+      "name": "move_top",
+      "type": 2
+    },
+    {
+      "name": "move_left",
+      "type": 2
+    },
+    {
+      "name": "move_bottom",
+      "type": 2
+    },
+    {
+      "name": "move_right",
+      "type": 2
+    }
+  ],
+  "rows": [
+    {
+      "$id": 0,
+      "ID": "SEGMENT_MAP_00",
+      "left": -160,
+      "top": -160,
+      "width": 320,
+      "height": 320,
+      "size": 320,
+      "worldSize": 20000,
+      "maxScale": 10000,
+      "midScale": 10000,
+      "minScale": 10000,
+      "startX": 0,
+      "startY": 0,
+      "move_top": 0,
+      "move_left": 0,
+      "move_bottom": 0,
+      "move_right": 0
+    },
+    {
+      "$id": 1,
+      "ID": "SEGMENT_MAP_01",
+      "left": -4259,
+      "top": 9274,
+      "width": 1468,
+      "height": 1756,
+      "size": 28422,
+      "worldSize": 20000,
+      "maxScale": 15000,
+      "midScale": 10000,
+      "minScale": 2400,
+      "startX": -160,
+      "startY": -178,
+      "move_top": 2,
+      "move_left": 2,
+      "move_bottom": 14,
+      "move_right": 3
+    },
+    {
+      "$id": 2,
+      "ID": "SEGMENT_MAP_02",
+      "left": -3203,
+      "top": 9274,
+      "width": 1308,
+      "height": 1308,
+      "size": 28422,
+      "worldSize": 20000,
+      "maxScale": 15000,
+      "midScale": 10000,
+      "minScale": 3280,
+      "startX": 151,
+      "startY": 90,
+      "move_top": 2,
+      "move_left": 13,
+      "move_bottom": 15,
+      "move_right": 16
+    },
+    {
+      "$id": 3,
+      "ID": "SEGMENT_MAP_03",
+      "left": -4179,
+      "top": 10266,
+      "width": 1772,
+      "height": 1692,
+      "size": 28422,
+      "worldSize": 20000,
+      "maxScale": 15000,
+      "midScale": 10000,
+      "minScale": 2500,
+      "startX": 33,
+      "startY": 82,
+      "move_top": 13,
+      "move_left": 2,
+      "move_bottom": 2,
+      "move_right": 15
+    },
+    {
+      "$id": 4,
+      "ID": "SEGMENT_MAP_04",
+      "left": -3155,
+      "top": 10602,
+      "width": 1084,
+      "height": 1388,
+      "size": 28422,
+      "worldSize": 20000,
+      "maxScale": 15000,
+      "midScale": 10000,
+      "minScale": 3080,
+      "startX": -6,
+      "startY": -245,
+      "move_top": 3,
+      "move_left": 14,
+      "move_bottom": 2,
+      "move_right": 16
+    },
+    {
+      "$id": 5,
+      "ID": "SEGMENT_MAP_05",
+      "left": -2835,
+      "top": 9466,
+      "width": 1564,
+      "height": 2396,
+      "size": 28422,
+      "worldSize": 20000,
+      "maxScale": 15000,
+      "midScale": 10000,
+      "minScale": 1750,
+      "startX": 83,
+      "startY": -76,
+      "move_top": 2,
+      "move_left": 3,
+      "move_bottom": 15,
+      "move_right": 10
+    },
+    {
+      "$id": 6,
+      "ID": "SEGMENT_MAP_06",
+      "left": -956,
+      "top": 393,
+      "width": 1392,
+      "height": 1076,
+      "size": 3076,
+      "worldSize": 20000,
+      "maxScale": 15000,
+      "midScale": 10000,
+      "minScale": 4000,
+      "startX": 40,
+      "startY": 40,
+      "move_top": 7,
+      "move_left": 4,
+      "move_bottom": 3,
+      "move_right": 5
+    },
+    {
+      "$id": 7,
+      "ID": "SEGMENT_MAP_07",
+      "left": -1556,
+      "top": -961,
+      "width": 1064,
+      "height": 1952,
+      "size": 3076,
+      "worldSize": 20000,
+      "maxScale": 15000,
+      "midScale": 10000,
+      "minScale": 4000,
+      "startX": 0,
+      "startY": 70,
+      "move_top": 0,
+      "move_left": 0,
+      "move_bottom": 2,
+      "move_right": 7
+    },
+    {
+      "$id": 8,
+      "ID": "SEGMENT_MAP_08",
+      "left": 122,
+      "top": 408,
+      "width": 1236,
+      "height": 1092,
+      "size": 3076,
+      "worldSize": 20000,
+      "maxScale": 15000,
+      "midScale": 10000,
+      "minScale": 4000,
+      "startX": 12,
+      "startY": -20,
+      "move_top": 7,
+      "move_left": 2,
+      "move_bottom": 0,
+      "move_right": 0
+    },
+    {
+      "$id": 9,
+      "ID": "SEGMENT_MAP_09",
+      "left": 106,
+      "top": -1361,
+      "width": 1220,
+      "height": 984,
+      "size": 3076,
+      "worldSize": 20000,
+      "maxScale": 15000,
+      "midScale": 10000,
+      "minScale": 4450,
+      "startX": -10,
+      "startY": 0,
+      "move_top": 0,
+      "move_left": 7,
+      "move_bottom": 7,
+      "move_right": 0
+    },
+    {
+      "$id": 10,
+      "ID": "SEGMENT_MAP_10",
+      "left": -280,
+      "top": -823,
+      "width": 1112,
+      "height": 1140,
+      "size": 3076,
+      "worldSize": 20000,
+      "maxScale": 15000,
+      "midScale": 10000,
+      "minScale": 4000,
+      "startX": 0,
+      "startY": 0,
+      "move_top": 6,
+      "move_left": 4,
+      "move_bottom": 2,
+      "move_right": 6
+    },
+    {
+      "$id": 11,
+      "ID": "SEGMENT_MAP_11",
+      "left": -4179,
+      "top": 10266,
+      "width": 1772,
+      "height": 1692,
+      "size": 28422,
+      "worldSize": 20000,
+      "maxScale": 15000,
+      "midScale": 10000,
+      "minScale": 2500,
+      "startX": 33,
+      "startY": 82,
+      "move_top": 13,
+      "move_left": 2,
+      "move_bottom": 2,
+      "move_right": 15
+    },
+    {
+      "$id": 12,
+      "ID": "SEGMENT_MAP_12",
+      "left": -604,
+      "top": -586,
+      "width": 1768,
+      "height": 984,
+      "size": 1348,
+      "worldSize": 130,
+      "maxScale": 15000,
+      "midScale": 10000,
+      "minScale": 3500,
+      "startX": 269,
+      "startY": 116,
+      "move_top": 16,
+      "move_left": 16,
+      "move_bottom": 16,
+      "move_right": 16
+    },
+    {
+      "$id": 13,
+      "ID": "SEGMENT_MAP_13",
+      "left": -293,
+      "top": 659,
+      "width": 188,
+      "height": 188,
+      "size": 2020,
+      "worldSize": 20000,
+      "maxScale": 10000,
+      "midScale": 10000,
+      "minScale": 10000,
+      "startX": 0,
+      "startY": 0,
+      "move_top": 0,
+      "move_left": 0,
+      "move_bottom": 0,
+      "move_right": 0
+    }
+  ]
+}

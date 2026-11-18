@@ -1,0 +1,48 @@
+{
+  "schema": [
+    {
+      "name": "ID",
+      "type": 9
+    },
+    {
+      "name": "texID",
+      "type": 2
+    },
+    {
+      "name": "MSlabel",
+      "type": 2
+    }
+  ],
+  "rows": [
+    {
+      "$id": 0,
+      "ID": "TYPE_SQUAD",
+      "texID": 2333,
+      "MSlabel": 0
+    },
+    {
+      "$id": 1,
+      "ID": "TYPE_TIMEATTACK",
+      "texID": 2334,
+      "MSlabel": 0
+    },
+    {
+      "$id": 2,
+      "ID": "TYPE_WORLD_ENEMY",
+      "texID": 2335,
+      "MSlabel": 0
+    },
+    {
+      "$id": 3,
+      "ID": "TYPE_FRONTIER_BOSS",
+      "texID": 2336,
+      "MSlabel": 0
+    },
+    {
+      "$id": 4,
+      "ID": "TYPE_DLC",
+      "texID": 2337,
+      "MSlabel": 0
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "schema": [
+    {
+      "name": "ID",
+      "type": 9
+    },
+    {
+      "name": "S_FLG",
+      "type": 2
+    },
+    {
+      "name": "percent_num",
+      "type": 2
+    },
+    {
+      "name": "play_time",
+      "type": 2
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "ID": "WTtimer001",
+      "S_FLG": 1,
+      "percent_num": 60,
+      "play_time": 0
+    },
+    {
+      "$id": 2,
+      "ID": "WTtimer002",
+      "S_FLG": 2001,
+      "percent_num": 59,
+      "play_time": 60
+    },
+    {
+      "$id": 3,
+      "ID": "WTtimer003",
+      "S_FLG": 3001,
+      "percent_num": 58,
+      "play_time": 240
+    },
+    {
+      "$id": 4,
+      "ID": "WTtimer004",
+      "S_FLG": 4001,
+      "percent_num": 55,
+      "play_time": 360
+    },
+    {
+      "$id": 5,
+      "ID": "WTtimer005",
+      "S_FLG": 5001,
+      "percent_num": 48,
+      "play_time": 360
+    },
+    {
+      "$id": 6,
+      "ID": "WTtimer006",
+      "S_FLG": 6002,
+      "percent_num": 41,
+      "play_time": 400
+    },
+    {
+      "$id": 7,
+      "ID": "WTtimer007",
+      "S_FLG": 7001,
+      "percent_num": 34,
+      "play_time": 600
+    },
+    {
+      "$id": 8,
+      "ID": "WTtimer008",
+      "S_FLG": 8001,
+      "percent_num": 27,
+      "play_time": 300
+    },
+    {
+      "$id": 9,
+      "ID": "WTtimer009",
+      "S_FLG": 9001,
+      "percent_num": 20,
+      "play_time": 420
+    },
+    {
+      "$id": 10,
+      "ID": "WTtimer010",
+      "S_FLG": 10001,
+      "percent_num": 14,
+      "play_time": 300
+    },
+    {
+      "$id": 11,
+      "ID": "WTtimer011",
+      "S_FLG": 11001,
+      "percent_num": 9,
+      "play_time": 480
+    },
+    {
+      "$id": 12,
+      "ID": "WTtimer012",
+      "S_FLG": 12001,
+      "percent_num": 5,
+      "play_time": 240
+    },
+    {
+      "$id": 13,
+      "ID": "WTtimer013",
+      "S_FLG": 12023,
+      "percent_num": 0,
+      "play_time": 0
+    }
+  ]
+}

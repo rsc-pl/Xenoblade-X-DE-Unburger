@@ -1,0 +1,480 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev056503_MSG0001",
+      "style": 1,
+      "name": "Help! The Guard Machines have gone\nberserk, and the Biahno Water\nPurification Plant is in danger![ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev056503_JNK0010",
+      "style": 4,
+      "name": "Question[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev056503_SEL0011",
+      "style": 3,
+      "name": "Ask for details about what is happening.[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev056503_JNK0020",
+      "style": 4,
+      "name": "Worry[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev056503_SEL0021",
+      "style": 3,
+      "name": "Ask if Rosie is safe.[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev056503_MSG0002",
+      "style": 1,
+      "name": "The Guard Machines went berserk\nand started firing at me![ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev056503_MSG0003",
+      "style": 1,
+      "name": "I tried to force a shutdown, but...[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev056503_MSG0004",
+      "style": 1,
+      "name": "Now the Biahno Water Purification\nPlant's operating equipment has\ngone into thermal runaway![ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev056503_MSG0005",
+      "style": 1,
+      "name": "I'm sure it's because the Guard Machines\nhave been shooting randomly, but I can't\nstop them, so I'm completely helpless.[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev056503_MSG0006",
+      "style": 1,
+      "name": "It became more than I could handle\nalone, so I thought I had to\nevacuate and call for backup...[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev056503_MSG0007",
+      "style": 1,
+      "name": "Thanks. It's just a\nscratch, so I'm fine.[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev056503_MSG0008",
+      "style": 1,
+      "name": "The Guard Machines went berserk\nand started firing at me![ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev056503_MSG0009",
+      "style": 1,
+      "name": "I tried to force a\nshutdown somehow, but...[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev056503_MSG0010",
+      "style": 1,
+      "name": "Now the Biahno Water Purification\nPlant's operating equipment has\ngone into thermal runaway![ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev056503_MSG0011",
+      "style": 1,
+      "name": "I'm sure it's because the Guard Machines\nhave been shooting randomly, but I can't\nstop them, so I'm completely helpless.[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev056503_MSG0012",
+      "style": 1,
+      "name": "It became more than I could handle\nalone, so I thought I had to\nevacuate and call for backup...[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev056503_MSG0013",
+      "style": 1,
+      "name": "For a Guard Machine to attack\nEarthlings or this facility\nis normally impossible...![ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev056503_MSG0014",
+      "style": 1,
+      "name": "We equipped the Guard Machines\nwith a function to self-destruct\nif they attack an ally.[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev056503_MSG0015",
+      "style": 1,
+      "name": "I cannot believe this is\na mere malfunction...[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev056503_MSG0016",
+      "style": 1,
+      "name": "Does that mean someone set this up?[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev056503_MSG0017",
+      "style": 1,
+      "name": "We won't know for certain\nuntil we investigate.[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev056503_MSG0018",
+      "style": 1,
+      "name": "In any case, what we do know\nright now is that this is a major\ncrisis for the Orphe as well.[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev056503_MSG0019",
+      "style": 1,
+      "name": "If the Biahno Water Purification Plant\nis destroyed, we won't be able to\nmass-produce Senirapa Water either![ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev056503_MSG0020",
+      "style": 1,
+      "name": "Right. If we leave this situation as it\nis, there's no telling what will happen.[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev056503_MSG0021",
+      "style": 1,
+      "name": "Requesting backup from BLADE will take\ntime... I can count on you, right?[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev056503_JNK0030",
+      "style": 4,
+      "name": "Affirm[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev056503_SEL0031",
+      "style": 3,
+      "name": "Nod firmly.[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev056503_JNK0040",
+      "style": 4,
+      "name": "Deny[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev056503_SEL0041",
+      "style": 3,
+      "name": "Shake your head and shrug.[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev056503_MSG0022",
+      "style": 1,
+      "name": "I knew I could.[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev056503_MSG0023",
+      "style": 1,
+      "name": "We have to do this, so please!\nNeither Tan'osarag nor I can fight,\nso you're the only one left.[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev056503_MSG0024",
+      "style": 1,
+      "name": "Please destroy all the Guard Machines.\nAs long as a forced shutdown is impossible,\nthat is the only way to stop them.[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev056503_MSG0025",
+      "style": 1,
+      "name": "The Biahno Water Purification Plant's\noperating equipment can be controlled\nby a switch in the control room.[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev056503_MSG0026",
+      "style": 1,
+      "name": "If you cut the power, the thermal\nrunaway should settle down.\nPlease handle that as well.[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev056503_MSG0027",
+      "style": 1,
+      "name": "We will definitely uncover the cause\nlater. Therefore, for now, please focus\nsolely on stopping their rampage.[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev056503_MSG0028",
+      "style": 1,
+      "name": "I am counting on you.[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev056503_MSG0029",
+      "style": 1,
+      "name": "Turn off the operating equipment switch to stop\nthe thermal runaway at the Biahno Water Purification\nPlant! And please destroy the Guard Machines![ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev056503_MSG0030",
+      "style": 1,
+      "name": "Thank you! Thanks to you, the Biahno\nWater Purification Plant is safe.[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "qev056503_MSG0031",
+      "style": 1,
+      "name": "I inspected the broken Guard Machines,\nand I have found the cause.[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "qev056503_MSG0032",
+      "style": 1,
+      "name": "It was the work of a traitor.[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "qev056503_MSG0033",
+      "style": 1,
+      "name": "A traitor? Is there an enemy\nspy among us Earthlings?[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "qev056503_MSG0034",
+      "style": 1,
+      "name": "No... It was one of ours.[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "qev056503_MSG0035",
+      "style": 1,
+      "name": "I thought the Orpheans had their\nthoughts and consciousness unified\nby that Ovah thing, didn't they?[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "qev056503_MSG0036",
+      "style": 1,
+      "name": "There was an exception...[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "qev056503_MSG0037",
+      "style": 1,
+      "name": "One of the first Orpheans brought to\nMira by Growth... His name is Rancrod.[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "qev056503_MSG0038",
+      "style": 1,
+      "name": "According to the memories inherited from\nSun'osarag, Rancrod was an Orphean whose\nOvah's power was quite diluted.[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "qev056503_MSG0039",
+      "style": 1,
+      "name": "Even though the five Orpheans judged it would\nbe more advantageous to side with the Earthlings...\nRancrod alone remained with Growth.[ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "qev056503_MSG0040",
+      "style": 1,
+      "name": "Someone like that... But why\ndid he target this facility?[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "qev056503_MSG0041",
+      "style": 1,
+      "name": "That is likely because we\nbuilt the Guard Machines.[ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "qev056503_MSG0042",
+      "style": 1,
+      "name": "Because they are built with Orphean\ntechnology, it is a technology\nRancrod is very familiar with.[ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "qev056503_MSG0043",
+      "style": 1,
+      "name": "It's far easier to hack than\nhijacking Earthling or Ma-non tech.[ST:wait ]"
+    },
+    {
+      "$id": 52,
+      "label": "qev056503_MSG0044",
+      "style": 1,
+      "name": "I hadn't deduced that he would go beyond\nmerely providing technology to Growth\nand launch a direct attack on us.[ST:wait ]"
+    },
+    {
+      "$id": 53,
+      "label": "qev056503_MSG0045",
+      "style": 1,
+      "name": "What a troublesome enemy...[ST:wait ]"
+    },
+    {
+      "$id": 54,
+      "label": "qev056503_MSG0046",
+      "style": 1,
+      "name": "But you know, no matter what\nhappens, I won't quit this job![ST:wait ]"
+    },
+    {
+      "$id": 55,
+      "label": "qev056503_MSG0047",
+      "style": 1,
+      "name": "For the sake of the friends who died\nhere, I can't just give up on the\nBiahno Water Purification Plant.[ST:wait ]"
+    },
+    {
+      "$id": 56,
+      "label": "qev056503_MSG0048",
+      "style": 1,
+      "name": "Tan'osarag, build a Guard Machine that\nwon't lose to that Rancrod guy's hacking![ST:wait ]"
+    },
+    {
+      "$id": 57,
+      "label": "qev056503_MSG0049",
+      "style": 1,
+      "name": "...You aren't going to\nblame me for my failing?[ST:wait ]"
+    },
+    {
+      "$id": 58,
+      "label": "qev056503_MSG0050",
+      "style": 1,
+      "name": "You guys are lending your strength for us\nEarthlings. I should be thanking you. Blaming\nyou would be missing the point, wouldn't it?[ST:wait ]"
+    },
+    {
+      "$id": 59,
+      "label": "qev056503_JNK0050",
+      "style": 4,
+      "name": "Affirm[ST:wait ]"
+    },
+    {
+      "$id": 60,
+      "label": "qev056503_SEL0051",
+      "style": 3,
+      "name": "Look forward to an even better Guard Machine.[ST:wait ]"
+    },
+    {
+      "$id": 61,
+      "label": "qev056503_JNK0060",
+      "style": 4,
+      "name": "Encourage[ST:wait ]"
+    },
+    {
+      "$id": 62,
+      "label": "qev056503_SEL0061",
+      "style": 3,
+      "name": "Say that if you meet Rancrod, you will absolutely defeat him.[ST:wait ]"
+    },
+    {
+      "$id": 63,
+      "label": "qev056503_JNK0070",
+      "style": 4,
+      "name": "Deny[ST:wait ]"
+    },
+    {
+      "$id": 64,
+      "label": "qev056503_SEL0071",
+      "style": 3,
+      "name": "Say you wished he had told you about the danger sooner.[ST:wait ]"
+    },
+    {
+      "$id": 65,
+      "label": "qev056503_MSG0051",
+      "style": 1,
+      "name": "I thank you. And I promise to build\nan even superior Guard Machine.[ST:wait ]"
+    },
+    {
+      "$id": 66,
+      "label": "qev056503_MSG0052",
+      "style": 1,
+      "name": "Yeah, I'm counting on it.[ST:wait ]"
+    },
+    {
+      "$id": 67,
+      "label": "qev056503_MSG0053",
+      "style": 1,
+      "name": "Thank you too. I'm truly\ngrateful to both of you.[ST:wait ]"
+    },
+    {
+      "$id": 68,
+      "label": "qev056503_MSG0055",
+      "style": 1,
+      "name": "You're right. If we cut off the root\nof the evil, no problems will occur.[ST:wait ]"
+    },
+    {
+      "$id": 69,
+      "label": "qev056503_MSG0056",
+      "style": 1,
+      "name": "If you ever happen to meet Rancrod,\ngive him a beating for me too.[ST:wait ]"
+    },
+    {
+      "$id": 70,
+      "label": "qev056503_MSG0057",
+      "style": 1,
+      "name": "For me as well, please.[ST:wait ]"
+    },
+    {
+      "$id": 71,
+      "label": "qev056503_MSG0058",
+      "style": 1,
+      "name": "Everyone's counting on you, huh.[ST:wait ]"
+    },
+    {
+      "$id": 72,
+      "label": "qev056503_MSG0059",
+      "style": 1,
+      "name": "Well then, I'm going to start the\nrecovery work. Thank you both for today.[ST:wait ]"
+    },
+    {
+      "$id": 73,
+      "label": "qev056503_MSG0060",
+      "style": 1,
+      "name": "I am sorry... Without sensing the will of\nthe Ovah, it was difficult to deduce.[ST:wait ]"
+    },
+    {
+      "$id": 74,
+      "label": "qev056503_MSG0061",
+      "style": 1,
+      "name": "However, next time, I promise to\nbuild a superior Guard Machine that\nwon't lose to Rancrod's attacks.[ST:wait ]"
+    },
+    {
+      "$id": 75,
+      "label": "qev056503_MSG0062",
+      "style": 1,
+      "name": "Yeah, I'm counting on it.[ST:wait ]"
+    },
+    {
+      "$id": 76,
+      "label": "qev056503_MSG0063",
+      "style": 1,
+      "name": "Thank you too. I'm truly\ngrateful to both of you.[ST:wait ]"
+    },
+    {
+      "$id": 77,
+      "label": "qev056503_MSG0064",
+      "style": 1,
+      "name": "I look forward to working\nwith you from here on out.[ST:wait ]"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "schema": [
+    {
+      "name": "ID",
+      "type": 9
+    },
+    {
+      "name": "Effect",
+      "type": 2
+    },
+    {
+      "name": "SoulRatio",
+      "type": 1
+    },
+    {
+      "name": "Tp",
+      "type": 1
+    },
+    {
+      "name": "Damage",
+      "type": 1
+    },
+    {
+      "name": "GearArmor",
+      "type": 1
+    },
+    {
+      "name": "Text",
+      "type": 2
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "ID": "GearChain_Single",
+      "Effect": 511,
+      "SoulRatio": 0,
+      "Tp": 0,
+      "Damage": 0,
+      "GearArmor": 0,
+      "Text": 0
+    },
+    {
+      "$id": 2,
+      "ID": "GearChain_Double",
+      "Effect": 512,
+      "SoulRatio": 50,
+      "Tp": 0,
+      "Damage": 0,
+      "GearArmor": 0,
+      "Text": 20
+    },
+    {
+      "$id": 3,
+      "ID": "GearChain_Triple",
+      "Effect": 513,
+      "SoulRatio": 50,
+      "Tp": 50,
+      "Damage": 0,
+      "GearArmor": 0,
+      "Text": 21
+    },
+    {
+      "$id": 4,
+      "ID": "GearChain_Quadruple",
+      "Effect": 514,
+      "SoulRatio": 50,
+      "Tp": 50,
+      "Damage": 50,
+      "GearArmor": 1,
+      "Text": 22
+    }
+  ]
+}

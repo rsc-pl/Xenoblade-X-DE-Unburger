@@ -1,0 +1,568 @@
+{
+  "schema": [
+    {
+      "name": "ID",
+      "type": 9
+    },
+    {
+      "name": "level",
+      "type": 1
+    },
+    {
+      "name": "count",
+      "type": 1
+    },
+    {
+      "name": "countMax",
+      "type": 1
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "ID": "COND_PARTY_0001",
+      "level": 1,
+      "count": 1,
+      "countMax": 4
+    },
+    {
+      "$id": 2,
+      "ID": "COND_PARTY_0002",
+      "level": 10,
+      "count": 2,
+      "countMax": 4
+    },
+    {
+      "$id": 3,
+      "ID": "COND_PARTY_0003",
+      "level": 20,
+      "count": 3,
+      "countMax": 4
+    },
+    {
+      "$id": 4,
+      "ID": "COND_PARTY_0004",
+      "level": 30,
+      "count": 1,
+      "countMax": 3
+    },
+    {
+      "$id": 5,
+      "ID": "COND_PARTY_1T3",
+      "level": 1,
+      "count": 1,
+      "countMax": 4
+    },
+    {
+      "$id": 6,
+      "ID": "COND_PARTY_1T4",
+      "level": 1,
+      "count": 1,
+      "countMax": 4
+    },
+    {
+      "$id": 7,
+      "ID": "COND_PARTY_Q860",
+      "level": 1,
+      "count": 1,
+      "countMax": 2
+    },
+    {
+      "$id": 8,
+      "ID": "PARTY_851",
+      "level": 33,
+      "count": 1,
+      "countMax": 4
+    },
+    {
+      "$id": 9,
+      "ID": "PARTY_852",
+      "level": 15,
+      "count": 1,
+      "countMax": 4
+    },
+    {
+      "$id": 10,
+      "ID": "PARTY_853",
+      "level": 50,
+      "count": 1,
+      "countMax": 4
+    },
+    {
+      "$id": 11,
+      "ID": "PARTY_854",
+      "level": 20,
+      "count": 1,
+      "countMax": 4
+    },
+    {
+      "$id": 12,
+      "ID": "PARTY_855",
+      "level": 41,
+      "count": 1,
+      "countMax": 4
+    },
+    {
+      "$id": 13,
+      "ID": "PARTY_856",
+      "level": 20,
+      "count": 1,
+      "countMax": 4
+    },
+    {
+      "$id": 14,
+      "ID": "PARTY_857",
+      "level": 30,
+      "count": 1,
+      "countMax": 4
+    },
+    {
+      "$id": 15,
+      "ID": "PARTY_858",
+      "level": 19,
+      "count": 1,
+      "countMax": 4
+    },
+    {
+      "$id": 16,
+      "ID": "PARTY_859",
+      "level": 24,
+      "count": 1,
+      "countMax": 4
+    },
+    {
+      "$id": 17,
+      "ID": "PARTY_860",
+      "level": 13,
+      "count": 1,
+      "countMax": 4
+    },
+    {
+      "$id": 18,
+      "ID": "PARTY_861",
+      "level": 52,
+      "count": 1,
+      "countMax": 4
+    },
+    {
+      "$id": 19,
+      "ID": "PARTY_862",
+      "level": 38,
+      "count": 1,
+      "countMax": 4
+    },
+    {
+      "$id": 20,
+      "ID": "PARTY_863",
+      "level": 49,
+      "count": 1,
+      "countMax": 4
+    },
+    {
+      "$id": 21,
+      "ID": "PARTY_864",
+      "level": 15,
+      "count": 1,
+      "countMax": 4
+    },
+    {
+      "$id": 22,
+      "ID": "PARTY_865",
+      "level": 22,
+      "count": 1,
+      "countMax": 4
+    },
+    {
+      "$id": 23,
+      "ID": "PARTY_866",
+      "level": 12,
+      "count": 1,
+      "countMax": 4
+    },
+    {
+      "$id": 24,
+      "ID": "PARTY_867",
+      "level": 58,
+      "count": 1,
+      "countMax": 4
+    },
+    {
+      "$id": 25,
+      "ID": "PARTY_868",
+      "level": 44,
+      "count": 1,
+      "countMax": 4
+    },
+    {
+      "$id": 26,
+      "ID": "PARTY_869",
+      "level": 46,
+      "count": 1,
+      "countMax": 4
+    },
+    {
+      "$id": 27,
+      "ID": "PARTY_870",
+      "level": 28,
+      "count": 1,
+      "countMax": 4
+    },
+    {
+      "$id": 28,
+      "ID": "PARTY_871",
+      "level": 34,
+      "count": 1,
+      "countMax": 4
+    },
+    {
+      "$id": 29,
+      "ID": "PARTY_872",
+      "level": 32,
+      "count": 1,
+      "countMax": 3
+    },
+    {
+      "$id": 30,
+      "ID": "PARTY_873",
+      "level": 41,
+      "count": 1,
+      "countMax": 4
+    },
+    {
+      "$id": 31,
+      "ID": "PARTY_874",
+      "level": 16,
+      "count": 1,
+      "countMax": 4
+    },
+    {
+      "$id": 32,
+      "ID": "PARTY_875",
+      "level": 47,
+      "count": 1,
+      "countMax": 4
+    },
+    {
+      "$id": 33,
+      "ID": "PARTY_876",
+      "level": 42,
+      "count": 1,
+      "countMax": 4
+    },
+    {
+      "$id": 34,
+      "ID": "PARTY_877",
+      "level": 51,
+      "count": 1,
+      "countMax": 4
+    },
+    {
+      "$id": 35,
+      "ID": "PARTY_878",
+      "level": 14,
+      "count": 1,
+      "countMax": 4
+    },
+    {
+      "$id": 36,
+      "ID": "PARTY_879",
+      "level": 28,
+      "count": 1,
+      "countMax": 4
+    },
+    {
+      "$id": 37,
+      "ID": "PARTY_880",
+      "level": 50,
+      "count": 1,
+      "countMax": 4
+    },
+    {
+      "$id": 38,
+      "ID": "PARTY_881",
+      "level": 20,
+      "count": 1,
+      "countMax": 4
+    },
+    {
+      "$id": 39,
+      "ID": "PARTY_882",
+      "level": 30,
+      "count": 1,
+      "countMax": 4
+    },
+    {
+      "$id": 40,
+      "ID": "PARTY_883",
+      "level": 37,
+      "count": 1,
+      "countMax": 4
+    },
+    {
+      "$id": 41,
+      "ID": "PARTY_884",
+      "level": 12,
+      "count": 1,
+      "countMax": 4
+    },
+    {
+      "$id": 42,
+      "ID": "PARTY_885",
+      "level": 32,
+      "count": 1,
+      "countMax": 4
+    },
+    {
+      "$id": 43,
+      "ID": "PARTY_886",
+      "level": 37,
+      "count": 1,
+      "countMax": 4
+    },
+    {
+      "$id": 44,
+      "ID": "PARTY_887",
+      "level": 19,
+      "count": 1,
+      "countMax": 4
+    },
+    {
+      "$id": 45,
+      "ID": "PARTY_888",
+      "level": 33,
+      "count": 1,
+      "countMax": 4
+    },
+    {
+      "$id": 46,
+      "ID": "PARTY_889",
+      "level": 46,
+      "count": 1,
+      "countMax": 4
+    },
+    {
+      "$id": 47,
+      "ID": "PARTY_890",
+      "level": 13,
+      "count": 1,
+      "countMax": 4
+    },
+    {
+      "$id": 48,
+      "ID": "PARTY_891",
+      "level": 30,
+      "count": 1,
+      "countMax": 4
+    },
+    {
+      "$id": 49,
+      "ID": "PARTY_892",
+      "level": 0,
+      "count": 1,
+      "countMax": 4
+    },
+    {
+      "$id": 50,
+      "ID": "PARTY_893",
+      "level": 22,
+      "count": 1,
+      "countMax": 4
+    },
+    {
+      "$id": 51,
+      "ID": "PARTY_894",
+      "level": 39,
+      "count": 1,
+      "countMax": 4
+    },
+    {
+      "$id": 52,
+      "ID": "PARTY_895",
+      "level": 53,
+      "count": 1,
+      "countMax": 4
+    },
+    {
+      "$id": 53,
+      "ID": "PARTY_896",
+      "level": 17,
+      "count": 1,
+      "countMax": 4
+    },
+    {
+      "$id": 54,
+      "ID": "PARTY_897",
+      "level": 36,
+      "count": 1,
+      "countMax": 4
+    },
+    {
+      "$id": 55,
+      "ID": "PARTY_898",
+      "level": 50,
+      "count": 1,
+      "countMax": 4
+    },
+    {
+      "$id": 56,
+      "ID": "PARTY_899",
+      "level": 21,
+      "count": 1,
+      "countMax": 4
+    },
+    {
+      "$id": 57,
+      "ID": "PARTY_900",
+      "level": 24,
+      "count": 1,
+      "countMax": 4
+    },
+    {
+      "$id": 58,
+      "ID": "PARTY_901",
+      "level": 44,
+      "count": 1,
+      "countMax": 4
+    },
+    {
+      "$id": 59,
+      "ID": "PARTY_902",
+      "level": 33,
+      "count": 1,
+      "countMax": 1
+    },
+    {
+      "$id": 60,
+      "ID": "PARTY_903",
+      "level": 53,
+      "count": 1,
+      "countMax": 4
+    },
+    {
+      "$id": 61,
+      "ID": "COND_PARTY_M06",
+      "level": 1,
+      "count": 1,
+      "countMax": 3
+    },
+    {
+      "$id": 62,
+      "ID": "",
+      "level": 0,
+      "count": 0,
+      "countMax": 0
+    },
+    {
+      "$id": 63,
+      "ID": "",
+      "level": 0,
+      "count": 0,
+      "countMax": 0
+    },
+    {
+      "$id": 64,
+      "ID": "",
+      "level": 0,
+      "count": 0,
+      "countMax": 0
+    },
+    {
+      "$id": 65,
+      "ID": "PARTY_M33",
+      "level": 55,
+      "count": 1,
+      "countMax": 4
+    },
+    {
+      "$id": 66,
+      "ID": "",
+      "level": 0,
+      "count": 0,
+      "countMax": 0
+    },
+    {
+      "$id": 67,
+      "ID": "",
+      "level": 0,
+      "count": 0,
+      "countMax": 0
+    },
+    {
+      "$id": 68,
+      "ID": "",
+      "level": 0,
+      "count": 0,
+      "countMax": 0
+    },
+    {
+      "$id": 69,
+      "ID": "",
+      "level": 0,
+      "count": 0,
+      "countMax": 0
+    },
+    {
+      "$id": 70,
+      "ID": "PARTY_931",
+      "level": 51,
+      "count": 1,
+      "countMax": 4
+    },
+    {
+      "$id": 71,
+      "ID": "PARTY_932",
+      "level": 55,
+      "count": 1,
+      "countMax": 4
+    },
+    {
+      "$id": 72,
+      "ID": "",
+      "level": 0,
+      "count": 0,
+      "countMax": 0
+    },
+    {
+      "$id": 73,
+      "ID": "",
+      "level": 0,
+      "count": 0,
+      "countMax": 0
+    },
+    {
+      "$id": 74,
+      "ID": "",
+      "level": 0,
+      "count": 0,
+      "countMax": 0
+    },
+    {
+      "$id": 75,
+      "ID": "PARTY_927",
+      "level": 24,
+      "count": 1,
+      "countMax": 4
+    },
+    {
+      "$id": 76,
+      "ID": "PARTY_928",
+      "level": 36,
+      "count": 1,
+      "countMax": 4
+    },
+    {
+      "$id": 77,
+      "ID": "PARTY_929",
+      "level": 21,
+      "count": 1,
+      "countMax": 4
+    },
+    {
+      "$id": 78,
+      "ID": "PARTY_930",
+      "level": 48,
+      "count": 1,
+      "countMax": 4
+    }
+  ]
+}

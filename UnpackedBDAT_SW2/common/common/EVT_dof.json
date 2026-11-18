@@ -1,0 +1,332 @@
+{
+  "schema": [
+    {
+      "name": "ID",
+      "type": 9
+    },
+    {
+      "name": "name",
+      "type": 7
+    },
+    {
+      "name": "dist",
+      "type": 5
+    },
+    {
+      "name": "range",
+      "type": 5
+    },
+    {
+      "name": "pixel",
+      "type": 8
+    },
+    {
+      "name": "lens",
+      "type": 8
+    },
+    {
+      "name": "strength",
+      "type": 8
+    },
+    {
+      "name": "blend",
+      "type": 8
+    },
+    {
+      "name": "pixelLv",
+      "type": 5
+    },
+    {
+      "name": "foMin",
+      "type": 8
+    }
+  ],
+  "rows": [
+    {
+      "$id": 0,
+      "ID": "DOF_0000",
+      "name": "DEFAULT",
+      "dist": 0,
+      "range": 400,
+      "pixel": 0.10000000149011612,
+      "lens": 0.0,
+      "strength": 1.0,
+      "blend": 0.800000011920929,
+      "pixelLv": 1,
+      "foMin": 6.0
+    },
+    {
+      "$id": 1,
+      "ID": "DOF_0001",
+      "name": "SOFT",
+      "dist": 0,
+      "range": 0,
+      "pixel": 0.10000000149011612,
+      "lens": 0.0,
+      "strength": 1.0,
+      "blend": 0.6000000238418579,
+      "pixelLv": 1,
+      "foMin": 6.0
+    },
+    {
+      "$id": 2,
+      "ID": "DOF_0002",
+      "name": "HARD",
+      "dist": 0,
+      "range": 0,
+      "pixel": 2.0,
+      "lens": 0.0,
+      "strength": 1.0,
+      "blend": 1.0,
+      "pixelLv": 1,
+      "foMin": 6.0
+    },
+    {
+      "$id": 3,
+      "ID": "DOF_0003",
+      "name": "DEFAULT_N",
+      "dist": 0,
+      "range": 0,
+      "pixel": 0.10000000149011612,
+      "lens": 0.0,
+      "strength": 1.0,
+      "blend": 0.800000011920929,
+      "pixelLv": 1,
+      "foMin": 3.0
+    },
+    {
+      "$id": 4,
+      "ID": "DOF_0004",
+      "name": "SOFT_N",
+      "dist": 0,
+      "range": 0,
+      "pixel": 0.10000000149011612,
+      "lens": 0.0,
+      "strength": 1.0,
+      "blend": 0.6000000238418579,
+      "pixelLv": 1,
+      "foMin": 3.0
+    },
+    {
+      "$id": 5,
+      "ID": "DOF_0005",
+      "name": "HARD_N",
+      "dist": 0,
+      "range": 0,
+      "pixel": 2.0,
+      "lens": 0.0,
+      "strength": 1.0,
+      "blend": 1.0,
+      "pixelLv": 1,
+      "foMin": 3.0
+    },
+    {
+      "$id": 6,
+      "ID": "DOF_0006",
+      "name": "DEFAULT_F",
+      "dist": 0,
+      "range": 0,
+      "pixel": 0.10000000149011612,
+      "lens": 0.0,
+      "strength": 1.0,
+      "blend": 0.4000000059604645,
+      "pixelLv": 1,
+      "foMin": 20.0
+    },
+    {
+      "$id": 7,
+      "ID": "DOF_0007",
+      "name": "",
+      "dist": 0,
+      "range": 0,
+      "pixel": 0.0,
+      "lens": 0.0,
+      "strength": 0.0,
+      "blend": 0.0,
+      "pixelLv": 0,
+      "foMin": 0.0
+    },
+    {
+      "$id": 8,
+      "ID": "DOF_0008",
+      "name": "【L】DEFAULT",
+      "dist": 0,
+      "range": 0,
+      "pixel": 0.10000000149011612,
+      "lens": 0.0,
+      "strength": 1.0,
+      "blend": 0.800000011920929,
+      "pixelLv": 1,
+      "foMin": 6.0
+    },
+    {
+      "$id": 9,
+      "ID": "DOF_0009",
+      "name": "【L】SOFT",
+      "dist": 0,
+      "range": 0,
+      "pixel": 0.10000000149011612,
+      "lens": 0.0,
+      "strength": 1.0,
+      "blend": 0.6000000238418579,
+      "pixelLv": 1,
+      "foMin": 6.0
+    },
+    {
+      "$id": 10,
+      "ID": "DOF_0010",
+      "name": "【L】HARD",
+      "dist": 0,
+      "range": 0,
+      "pixel": 2.0,
+      "lens": 0.0,
+      "strength": 1.0,
+      "blend": 1.0,
+      "pixelLv": 1,
+      "foMin": 6.0
+    },
+    {
+      "$id": 11,
+      "ID": "DOF_0011",
+      "name": "",
+      "dist": 0,
+      "range": 0,
+      "pixel": 0.0,
+      "lens": 0.0,
+      "strength": 0.0,
+      "blend": 0.0,
+      "pixelLv": 0,
+      "foMin": 0.0
+    },
+    {
+      "$id": 12,
+      "ID": "DOF_0012",
+      "name": "【BH】1",
+      "dist": 0,
+      "range": 0,
+      "pixel": 0.10000000149011612,
+      "lens": 0.0,
+      "strength": 1.0,
+      "blend": 1.0,
+      "pixelLv": 1,
+      "foMin": 2.0
+    },
+    {
+      "$id": 13,
+      "ID": "DOF_0013",
+      "name": "【BH】0.9",
+      "dist": 0,
+      "range": 0,
+      "pixel": 0.10000000149011612,
+      "lens": 0.0,
+      "strength": 1.0,
+      "blend": 0.8999999761581421,
+      "pixelLv": 1,
+      "foMin": 2.0
+    },
+    {
+      "$id": 14,
+      "ID": "DOF_0014",
+      "name": "【BH】0.8",
+      "dist": 0,
+      "range": 0,
+      "pixel": 0.10000000149011612,
+      "lens": 0.0,
+      "strength": 1.0,
+      "blend": 0.800000011920929,
+      "pixelLv": 1,
+      "foMin": 2.0
+    },
+    {
+      "$id": 15,
+      "ID": "DOF_0015",
+      "name": "【BH】0.7",
+      "dist": 0,
+      "range": 0,
+      "pixel": 0.10000000149011612,
+      "lens": 0.0,
+      "strength": 1.0,
+      "blend": 0.699999988079071,
+      "pixelLv": 1,
+      "foMin": 2.0
+    },
+    {
+      "$id": 16,
+      "ID": "DOF_0016",
+      "name": "【BH】0.6",
+      "dist": 0,
+      "range": 0,
+      "pixel": 0.10000000149011612,
+      "lens": 0.0,
+      "strength": 1.0,
+      "blend": 0.6000000238418579,
+      "pixelLv": 1,
+      "foMin": 2.0
+    },
+    {
+      "$id": 17,
+      "ID": "DOF_0017",
+      "name": "【BH】0.5",
+      "dist": 0,
+      "range": 0,
+      "pixel": 0.10000000149011612,
+      "lens": 0.0,
+      "strength": 1.0,
+      "blend": 0.5,
+      "pixelLv": 1,
+      "foMin": 2.0
+    },
+    {
+      "$id": 18,
+      "ID": "DOF_0018",
+      "name": "【BH】0.4",
+      "dist": 0,
+      "range": 0,
+      "pixel": 0.10000000149011612,
+      "lens": 0.0,
+      "strength": 1.0,
+      "blend": 0.4000000059604645,
+      "pixelLv": 1,
+      "foMin": 2.0
+    },
+    {
+      "$id": 19,
+      "ID": "DOF_0019",
+      "name": "【BH】0.3",
+      "dist": 0,
+      "range": 0,
+      "pixel": 0.10000000149011612,
+      "lens": 0.0,
+      "strength": 1.0,
+      "blend": 0.30000001192092896,
+      "pixelLv": 1,
+      "foMin": 2.0
+    },
+    {
+      "$id": 20,
+      "ID": "DOF_0020",
+      "name": "【BH】0.2",
+      "dist": 0,
+      "range": 0,
+      "pixel": 0.10000000149011612,
+      "lens": 0.0,
+      "strength": 1.0,
+      "blend": 0.20000000298023224,
+      "pixelLv": 1,
+      "foMin": 2.0
+    },
+    {
+      "$id": 21,
+      "ID": "DOF_0021",
+      "name": "【BH】0.1",
+      "dist": 0,
+      "range": 0,
+      "pixel": 0.10000000149011612,
+      "lens": 0.0,
+      "strength": 1.0,
+      "blend": 0.10000000149011612,
+      "pixelLv": 1,
+      "foMin": 2.0
+    }
+  ]
+}

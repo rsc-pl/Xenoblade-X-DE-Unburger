@@ -1,0 +1,490 @@
+{
+  "schema": [
+    {
+      "name": "ID",
+      "type": 9
+    },
+    {
+      "name": "Name",
+      "type": 7
+    },
+    {
+      "name": "Value",
+      "type": 3
+    },
+    {
+      "name": "MinValue",
+      "type": 3
+    },
+    {
+      "name": "MaxValue",
+      "type": 3
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "ID": "OnlineParam_001",
+      "Name": "RW_MaxExp",
+      "Value": 10,
+      "MinValue": 10,
+      "MaxValue": 9999
+    },
+    {
+      "$id": 2,
+      "ID": "OnlineParam_002",
+      "Name": "RT_RentArgA",
+      "Value": 3,
+      "MinValue": 1,
+      "MaxValue": 100
+    },
+    {
+      "$id": 3,
+      "ID": "OnlineParam_003",
+      "Name": "RT_RentArgB",
+      "Value": 5,
+      "MinValue": 1,
+      "MaxValue": 300
+    },
+    {
+      "$id": 4,
+      "ID": "OnlineParam_004",
+      "Name": "RT_RentArgC",
+      "Value": 10,
+      "MinValue": 1,
+      "MaxValue": 100
+    },
+    {
+      "$id": 5,
+      "ID": "OnlineParam_005",
+      "Name": "RT_RentArgD",
+      "Value": 90,
+      "MinValue": 1,
+      "MaxValue": 100
+    },
+    {
+      "$id": 6,
+      "ID": "OnlineParam_006",
+      "Name": "RT_RentArgE",
+      "Value": 1,
+      "MinValue": 1,
+      "MaxValue": 100
+    },
+    {
+      "$id": 7,
+      "ID": "OnlineParam_007",
+      "Name": "UG_FeverMin",
+      "Value": 1,
+      "MinValue": 1,
+      "MaxValue": 100000
+    },
+    {
+      "$id": 8,
+      "ID": "OnlineParam_008",
+      "Name": "FR_LPDmgArg",
+      "Value": 29,
+      "MinValue": 11,
+      "MaxValue": 100000000
+    },
+    {
+      "$id": 9,
+      "ID": "OnlineParam_009",
+      "Name": "FR_FPAddArg",
+      "Value": 120,
+      "MinValue": 1,
+      "MaxValue": 2000000
+    },
+    {
+      "$id": 10,
+      "ID": "OnlineParam_010",
+      "Name": "FR_Period",
+      "Value": 7,
+      "MinValue": 1,
+      "MaxValue": 30
+    },
+    {
+      "$id": 11,
+      "ID": "OnlineParam_011",
+      "Name": "FR_DieTMSec",
+      "Value": 345600,
+      "MinValue": 1800,
+      "MaxValue": 1728000
+    },
+    {
+      "$id": 12,
+      "ID": "OnlineParam_012",
+      "Name": "SN_RentTime",
+      "Value": 30,
+      "MinValue": 1,
+      "MaxValue": 480
+    },
+    {
+      "$id": 13,
+      "ID": "OnlineParam_013",
+      "Name": "BR_GoodRate",
+      "Value": 34,
+      "MinValue": 1,
+      "MaxValue": 100
+    },
+    {
+      "$id": 14,
+      "ID": "OnlineParam_014",
+      "Name": "BR_GoodMax",
+      "Value": 2,
+      "MinValue": 1,
+      "MaxValue": 31
+    },
+    {
+      "$id": 15,
+      "ID": "OnlineParam_015",
+      "Name": "BR_GoodHeal",
+      "Value": 30,
+      "MinValue": 1,
+      "MaxValue": 1440
+    },
+    {
+      "$id": 16,
+      "ID": "OnlineParam_016",
+      "Name": "UN_Change",
+      "Value": 100000,
+      "MinValue": 1,
+      "MaxValue": 1000000
+    },
+    {
+      "$id": 17,
+      "ID": "OnlineParam_017",
+      "Name": "UG_FeverUp",
+      "Value": 100,
+      "MinValue": 1,
+      "MaxValue": 100
+    },
+    {
+      "$id": 18,
+      "ID": "OnlineParam_018",
+      "Name": "NM_Crown1",
+      "Value": 100,
+      "MinValue": 1,
+      "MaxValue": 999998
+    },
+    {
+      "$id": 19,
+      "ID": "OnlineParam_019",
+      "Name": "NM_Crown2",
+      "Value": 20000,
+      "MinValue": 2,
+      "MaxValue": 999999
+    },
+    {
+      "$id": 20,
+      "ID": "OnlineParam_020",
+      "Name": "NM_Crown3",
+      "Value": 50000,
+      "MinValue": 3,
+      "MaxValue": 1000000
+    },
+    {
+      "$id": 21,
+      "ID": "OnlineParam_021",
+      "Name": "US_Interval",
+      "Value": 5,
+      "MinValue": 1,
+      "MaxValue": 60
+    },
+    {
+      "$id": 22,
+      "ID": "OnlineParam_022",
+      "Name": "BQ_LotCond0",
+      "Value": 80,
+      "MinValue": 0,
+      "MaxValue": 100
+    },
+    {
+      "$id": 23,
+      "ID": "OnlineParam_023",
+      "Name": "BQ_LotCond1",
+      "Value": 50,
+      "MinValue": 0,
+      "MaxValue": 100
+    },
+    {
+      "$id": 24,
+      "ID": "OnlineParam_024",
+      "Name": "BQ_LotCond2",
+      "Value": 0,
+      "MinValue": 0,
+      "MaxValue": 0
+    },
+    {
+      "$id": 25,
+      "ID": "OnlineParam_025",
+      "Name": "BQ_LotCond3",
+      "Value": 10,
+      "MinValue": 0,
+      "MaxValue": 100
+    },
+    {
+      "$id": 26,
+      "ID": "OnlineParam_026",
+      "Name": "BQ_LotCond4",
+      "Value": 20,
+      "MinValue": 0,
+      "MaxValue": 100
+    },
+    {
+      "$id": 27,
+      "ID": "OnlineParam_027",
+      "Name": "BQ_LotCond5",
+      "Value": 100,
+      "MinValue": 100,
+      "MaxValue": 100
+    },
+    {
+      "$id": 28,
+      "ID": "OnlineParam_028",
+      "Name": "SN_BaseLv",
+      "Value": 60,
+      "MinValue": 60,
+      "MaxValue": 99
+    },
+    {
+      "$id": 29,
+      "ID": "OnlineParam_029",
+      "Name": "SN_FldLvMax",
+      "Value": 60,
+      "MinValue": 1,
+      "MaxValue": 198
+    },
+    {
+      "$id": 30,
+      "ID": "OnlineParam_030",
+      "Name": "SN_FldLvMin",
+      "Value": 1,
+      "MinValue": 1,
+      "MaxValue": 99
+    },
+    {
+      "$id": 31,
+      "ID": "OnlineParam_031",
+      "Name": "SN_FndLvMax",
+      "Value": 60,
+      "MinValue": 1,
+      "MaxValue": 198
+    },
+    {
+      "$id": 32,
+      "ID": "OnlineParam_032",
+      "Name": "SN_FndLvMin",
+      "Value": 1,
+      "MinValue": 1,
+      "MaxValue": 99
+    },
+    {
+      "$id": 33,
+      "ID": "OnlineParam_033",
+      "Name": "SN_BhmLvMax",
+      "Value": 60,
+      "MinValue": 1,
+      "MaxValue": 198
+    },
+    {
+      "$id": 34,
+      "ID": "OnlineParam_034",
+      "Name": "SN_BhmLvMin",
+      "Value": 1,
+      "MinValue": 1,
+      "MaxValue": 99
+    },
+    {
+      "$id": 35,
+      "ID": "OnlineParam_035",
+      "Name": "UN_PntArg01",
+      "Value": 100,
+      "MinValue": 1,
+      "MaxValue": 10000
+    },
+    {
+      "$id": 36,
+      "ID": "OnlineParam_036",
+      "Name": "UN_PntArg02",
+      "Value": 100,
+      "MinValue": 1,
+      "MaxValue": 10000
+    },
+    {
+      "$id": 37,
+      "ID": "OnlineParam_037",
+      "Name": "UN_PntArg03",
+      "Value": 100,
+      "MinValue": 1,
+      "MaxValue": 10000
+    },
+    {
+      "$id": 38,
+      "ID": "OnlineParam_038",
+      "Name": "UN_PntArg04",
+      "Value": 100,
+      "MinValue": 1,
+      "MaxValue": 10000
+    },
+    {
+      "$id": 39,
+      "ID": "OnlineParam_039",
+      "Name": "UN_PntArg05",
+      "Value": 100,
+      "MinValue": 1,
+      "MaxValue": 10000
+    },
+    {
+      "$id": 40,
+      "ID": "OnlineParam_040",
+      "Name": "UN_PntArg06",
+      "Value": 100,
+      "MinValue": 1,
+      "MaxValue": 10000
+    },
+    {
+      "$id": 41,
+      "ID": "OnlineParam_041",
+      "Name": "UN_PntArg07",
+      "Value": 100,
+      "MinValue": 1,
+      "MaxValue": 10000
+    },
+    {
+      "$id": 42,
+      "ID": "OnlineParam_042",
+      "Name": "UN_PntArg08",
+      "Value": 100,
+      "MinValue": 1,
+      "MaxValue": 10000
+    },
+    {
+      "$id": 43,
+      "ID": "OnlineParam_043",
+      "Name": "UN_BasePt01",
+      "Value": 5,
+      "MinValue": 1,
+      "MaxValue": 100
+    },
+    {
+      "$id": 44,
+      "ID": "OnlineParam_044",
+      "Name": "UN_BasePt02",
+      "Value": 30,
+      "MinValue": 1,
+      "MaxValue": 100
+    },
+    {
+      "$id": 45,
+      "ID": "OnlineParam_045",
+      "Name": "UN_BasePt03",
+      "Value": 20,
+      "MinValue": 1,
+      "MaxValue": 100
+    },
+    {
+      "$id": 46,
+      "ID": "OnlineParam_046",
+      "Name": "UN_BasePt04",
+      "Value": 1,
+      "MinValue": 1,
+      "MaxValue": 100
+    },
+    {
+      "$id": 47,
+      "ID": "OnlineParam_047",
+      "Name": "UN_BasePt05",
+      "Value": 10,
+      "MinValue": 1,
+      "MaxValue": 100
+    },
+    {
+      "$id": 48,
+      "ID": "OnlineParam_048",
+      "Name": "UN_BasePt06",
+      "Value": 10,
+      "MinValue": 1,
+      "MaxValue": 100
+    },
+    {
+      "$id": 49,
+      "ID": "OnlineParam_049",
+      "Name": "UN_BasePt07",
+      "Value": 10,
+      "MinValue": 1,
+      "MaxValue": 100
+    },
+    {
+      "$id": 50,
+      "ID": "OnlineParam_050",
+      "Name": "UN_BasePt08",
+      "Value": 10,
+      "MinValue": 1,
+      "MaxValue": 100
+    },
+    {
+      "$id": 51,
+      "ID": "OnlineParam_051",
+      "Name": "UN_BasePt09",
+      "Value": 5,
+      "MinValue": 1,
+      "MaxValue": 100
+    },
+    {
+      "$id": 52,
+      "ID": "OnlineParam_052",
+      "Name": "UN_BasePt10",
+      "Value": 50,
+      "MinValue": 1,
+      "MaxValue": 100
+    },
+    {
+      "$id": 53,
+      "ID": "OnlineParam_053",
+      "Name": "UN_BasePt11",
+      "Value": 25,
+      "MinValue": 1,
+      "MaxValue": 100
+    },
+    {
+      "$id": 54,
+      "ID": "OnlineParam_054",
+      "Name": "UN_BasePt12",
+      "Value": 1,
+      "MinValue": 1,
+      "MaxValue": 100
+    },
+    {
+      "$id": 55,
+      "ID": "OnlineParam_055",
+      "Name": "UN_BasePt13",
+      "Value": 5,
+      "MinValue": 1,
+      "MaxValue": 100
+    },
+    {
+      "$id": 56,
+      "ID": "OnlineParam_056",
+      "Name": "UN_BasePt14",
+      "Value": 2,
+      "MinValue": 1,
+      "MaxValue": 100
+    },
+    {
+      "$id": 57,
+      "ID": "OnlineParam_057",
+      "Name": "UN_BasePt15",
+      "Value": 30,
+      "MinValue": 1,
+      "MaxValue": 100
+    },
+    {
+      "$id": 58,
+      "ID": "OnlineParam_058",
+      "Name": "UN_NrmArg",
+      "Value": 100,
+      "MinValue": 0,
+      "MaxValue": 100
+    }
+  ]
+}

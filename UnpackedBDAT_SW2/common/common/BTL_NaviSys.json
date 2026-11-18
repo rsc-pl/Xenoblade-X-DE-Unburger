@@ -1,0 +1,29 @@
+{
+  "schema": [
+    {
+      "name": "ID",
+      "type": 9
+    },
+    {
+      "name": "UnlockFlag",
+      "type": 2
+    },
+    {
+      "name": "InnerSeId",
+      "type": 1
+    },
+    {
+      "name": "DollSeId",
+      "type": 1
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "ID": "NaviMgrInit",
+      "UnlockFlag": 32708,
+      "InnerSeId": 1,
+      "DollSeId": 2
+    }
+  ]
+}

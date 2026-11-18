@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "ID",
+      "type": 9
+    },
+    {
+      "name": "texID",
+      "type": 2
+    },
+    {
+      "name": "MSlabel",
+      "type": 2
+    }
+  ],
+  "rows": [
+    {
+      "$id": 0,
+      "ID": "QUEST_MISSION",
+      "texID": 2329,
+      "MSlabel": 0
+    },
+    {
+      "$id": 1,
+      "ID": "QUEST_NORMAL",
+      "texID": 2330,
+      "MSlabel": 0
+    },
+    {
+      "$id": 2,
+      "ID": "QUEST_KIZUNA",
+      "texID": 2331,
+      "MSlabel": 0
+    },
+    {
+      "$id": 3,
+      "ID": "QUEST_SIMPLE",
+      "texID": 2332,
+      "MSlabel": 0
+    }
+  ]
+}

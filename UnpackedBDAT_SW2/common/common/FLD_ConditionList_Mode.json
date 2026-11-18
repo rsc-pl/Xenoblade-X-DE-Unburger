@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "ID",
+      "type": 9
+    },
+    {
+      "name": "mode",
+      "type": 1
+    },
+    {
+      "name": "ride",
+      "type": 1
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "ID": "COND_MODE_0001",
+      "mode": 0,
+      "ride": 0
+    },
+    {
+      "$id": 2,
+      "ID": "COND_MODE_0002",
+      "mode": 0,
+      "ride": 1
+    },
+    {
+      "$id": 3,
+      "ID": "COND_MODE_0003",
+      "mode": 1,
+      "ride": 0
+    },
+    {
+      "$id": 4,
+      "ID": "COND_MODE_0004",
+      "mode": 1,
+      "ride": 1
+    }
+  ]
+}

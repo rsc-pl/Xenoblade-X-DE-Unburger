@@ -1,0 +1,2256 @@
+{
+  "schema": [
+    {
+      "name": "ID",
+      "type": 9
+    },
+    {
+      "name": "StatsID",
+      "type": 2
+    },
+    {
+      "name": "UseAchive",
+      "type": 1
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "ID": "STATS_FLG_ID001",
+      "StatsID": 0,
+      "UseAchive": 1
+    },
+    {
+      "$id": 2,
+      "ID": "STATS_FLG_ID002",
+      "StatsID": 1,
+      "UseAchive": 1
+    },
+    {
+      "$id": 3,
+      "ID": "STATS_FLG_ID003",
+      "StatsID": 2,
+      "UseAchive": 1
+    },
+    {
+      "$id": 4,
+      "ID": "STATS_FLG_ID004",
+      "StatsID": 3,
+      "UseAchive": 1
+    },
+    {
+      "$id": 5,
+      "ID": "STATS_FLG_ID005",
+      "StatsID": 4,
+      "UseAchive": 1
+    },
+    {
+      "$id": 6,
+      "ID": "STATS_FLG_ID006",
+      "StatsID": 5,
+      "UseAchive": 0
+    },
+    {
+      "$id": 7,
+      "ID": "STATS_FLG_ID007",
+      "StatsID": 6,
+      "UseAchive": 0
+    },
+    {
+      "$id": 8,
+      "ID": "STATS_FLG_ID008",
+      "StatsID": 7,
+      "UseAchive": 0
+    },
+    {
+      "$id": 9,
+      "ID": "STATS_FLG_ID009",
+      "StatsID": 8,
+      "UseAchive": 0
+    },
+    {
+      "$id": 10,
+      "ID": "STATS_FLG_ID010",
+      "StatsID": 9,
+      "UseAchive": 0
+    },
+    {
+      "$id": 11,
+      "ID": "STATS_FLG_ID011",
+      "StatsID": 10,
+      "UseAchive": 1
+    },
+    {
+      "$id": 12,
+      "ID": "STATS_FLG_ID012",
+      "StatsID": 11,
+      "UseAchive": 1
+    },
+    {
+      "$id": 13,
+      "ID": "STATS_FLG_ID013",
+      "StatsID": 12,
+      "UseAchive": 1
+    },
+    {
+      "$id": 14,
+      "ID": "STATS_FLG_ID014",
+      "StatsID": 13,
+      "UseAchive": 1
+    },
+    {
+      "$id": 15,
+      "ID": "STATS_FLG_ID015",
+      "StatsID": 14,
+      "UseAchive": 1
+    },
+    {
+      "$id": 16,
+      "ID": "STATS_FLG_ID016",
+      "StatsID": 15,
+      "UseAchive": 0
+    },
+    {
+      "$id": 17,
+      "ID": "STATS_FLG_ID017",
+      "StatsID": 16,
+      "UseAchive": 0
+    },
+    {
+      "$id": 18,
+      "ID": "STATS_FLG_ID018",
+      "StatsID": 17,
+      "UseAchive": 0
+    },
+    {
+      "$id": 19,
+      "ID": "STATS_FLG_ID019",
+      "StatsID": 18,
+      "UseAchive": 0
+    },
+    {
+      "$id": 20,
+      "ID": "STATS_FLG_ID020",
+      "StatsID": 19,
+      "UseAchive": 0
+    },
+    {
+      "$id": 21,
+      "ID": "STATS_FLG_ID021",
+      "StatsID": 20,
+      "UseAchive": 1
+    },
+    {
+      "$id": 22,
+      "ID": "STATS_FLG_ID022",
+      "StatsID": 21,
+      "UseAchive": 1
+    },
+    {
+      "$id": 23,
+      "ID": "STATS_FLG_ID023",
+      "StatsID": 22,
+      "UseAchive": 1
+    },
+    {
+      "$id": 24,
+      "ID": "STATS_FLG_ID024",
+      "StatsID": 23,
+      "UseAchive": 1
+    },
+    {
+      "$id": 25,
+      "ID": "STATS_FLG_ID025",
+      "StatsID": 24,
+      "UseAchive": 0
+    },
+    {
+      "$id": 26,
+      "ID": "STATS_FLG_ID026",
+      "StatsID": 25,
+      "UseAchive": 0
+    },
+    {
+      "$id": 27,
+      "ID": "STATS_FLG_ID027",
+      "StatsID": 26,
+      "UseAchive": 0
+    },
+    {
+      "$id": 28,
+      "ID": "STATS_FLG_ID028",
+      "StatsID": 27,
+      "UseAchive": 0
+    },
+    {
+      "$id": 29,
+      "ID": "STATS_FLG_ID029",
+      "StatsID": 28,
+      "UseAchive": 0
+    },
+    {
+      "$id": 30,
+      "ID": "STATS_FLG_ID030",
+      "StatsID": 29,
+      "UseAchive": 0
+    },
+    {
+      "$id": 31,
+      "ID": "STATS_FLG_ID031",
+      "StatsID": 30,
+      "UseAchive": 1
+    },
+    {
+      "$id": 32,
+      "ID": "STATS_FLG_ID032",
+      "StatsID": 31,
+      "UseAchive": 1
+    },
+    {
+      "$id": 33,
+      "ID": "STATS_FLG_ID033",
+      "StatsID": 32,
+      "UseAchive": 1
+    },
+    {
+      "$id": 34,
+      "ID": "STATS_FLG_ID034",
+      "StatsID": 33,
+      "UseAchive": 1
+    },
+    {
+      "$id": 35,
+      "ID": "STATS_FLG_ID035",
+      "StatsID": 34,
+      "UseAchive": 0
+    },
+    {
+      "$id": 36,
+      "ID": "STATS_FLG_ID036",
+      "StatsID": 35,
+      "UseAchive": 0
+    },
+    {
+      "$id": 37,
+      "ID": "STATS_FLG_ID037",
+      "StatsID": 36,
+      "UseAchive": 0
+    },
+    {
+      "$id": 38,
+      "ID": "STATS_FLG_ID038",
+      "StatsID": 37,
+      "UseAchive": 0
+    },
+    {
+      "$id": 39,
+      "ID": "STATS_FLG_ID039",
+      "StatsID": 38,
+      "UseAchive": 0
+    },
+    {
+      "$id": 40,
+      "ID": "STATS_FLG_ID040",
+      "StatsID": 39,
+      "UseAchive": 0
+    },
+    {
+      "$id": 41,
+      "ID": "STATS_FLG_ID041",
+      "StatsID": 40,
+      "UseAchive": 1
+    },
+    {
+      "$id": 42,
+      "ID": "STATS_FLG_ID042",
+      "StatsID": 41,
+      "UseAchive": 1
+    },
+    {
+      "$id": 43,
+      "ID": "STATS_FLG_ID043",
+      "StatsID": 42,
+      "UseAchive": 1
+    },
+    {
+      "$id": 44,
+      "ID": "STATS_FLG_ID044",
+      "StatsID": 43,
+      "UseAchive": 1
+    },
+    {
+      "$id": 45,
+      "ID": "STATS_FLG_ID045",
+      "StatsID": 44,
+      "UseAchive": 0
+    },
+    {
+      "$id": 46,
+      "ID": "STATS_FLG_ID046",
+      "StatsID": 45,
+      "UseAchive": 0
+    },
+    {
+      "$id": 47,
+      "ID": "STATS_FLG_ID047",
+      "StatsID": 46,
+      "UseAchive": 0
+    },
+    {
+      "$id": 48,
+      "ID": "STATS_FLG_ID048",
+      "StatsID": 47,
+      "UseAchive": 0
+    },
+    {
+      "$id": 49,
+      "ID": "STATS_FLG_ID049",
+      "StatsID": 48,
+      "UseAchive": 0
+    },
+    {
+      "$id": 50,
+      "ID": "STATS_FLG_ID050",
+      "StatsID": 49,
+      "UseAchive": 0
+    },
+    {
+      "$id": 51,
+      "ID": "STATS_FLG_ID051",
+      "StatsID": 50,
+      "UseAchive": 1
+    },
+    {
+      "$id": 52,
+      "ID": "STATS_FLG_ID052",
+      "StatsID": 51,
+      "UseAchive": 1
+    },
+    {
+      "$id": 53,
+      "ID": "STATS_FLG_ID053",
+      "StatsID": 52,
+      "UseAchive": 1
+    },
+    {
+      "$id": 54,
+      "ID": "STATS_FLG_ID054",
+      "StatsID": 53,
+      "UseAchive": 1
+    },
+    {
+      "$id": 55,
+      "ID": "STATS_FLG_ID055",
+      "StatsID": 54,
+      "UseAchive": 1
+    },
+    {
+      "$id": 56,
+      "ID": "STATS_FLG_ID056",
+      "StatsID": 55,
+      "UseAchive": 0
+    },
+    {
+      "$id": 57,
+      "ID": "STATS_FLG_ID057",
+      "StatsID": 56,
+      "UseAchive": 0
+    },
+    {
+      "$id": 58,
+      "ID": "STATS_FLG_ID058",
+      "StatsID": 57,
+      "UseAchive": 0
+    },
+    {
+      "$id": 59,
+      "ID": "STATS_FLG_ID059",
+      "StatsID": 58,
+      "UseAchive": 0
+    },
+    {
+      "$id": 60,
+      "ID": "STATS_FLG_ID060",
+      "StatsID": 59,
+      "UseAchive": 0
+    },
+    {
+      "$id": 61,
+      "ID": "STATS_FLG_ID061",
+      "StatsID": 60,
+      "UseAchive": 1
+    },
+    {
+      "$id": 62,
+      "ID": "STATS_FLG_ID062",
+      "StatsID": 61,
+      "UseAchive": 1
+    },
+    {
+      "$id": 63,
+      "ID": "STATS_FLG_ID063",
+      "StatsID": 62,
+      "UseAchive": 1
+    },
+    {
+      "$id": 64,
+      "ID": "STATS_FLG_ID064",
+      "StatsID": 63,
+      "UseAchive": 1
+    },
+    {
+      "$id": 65,
+      "ID": "STATS_FLG_ID065",
+      "StatsID": 64,
+      "UseAchive": 0
+    },
+    {
+      "$id": 66,
+      "ID": "STATS_FLG_ID066",
+      "StatsID": 65,
+      "UseAchive": 0
+    },
+    {
+      "$id": 67,
+      "ID": "STATS_FLG_ID067",
+      "StatsID": 66,
+      "UseAchive": 0
+    },
+    {
+      "$id": 68,
+      "ID": "STATS_FLG_ID068",
+      "StatsID": 67,
+      "UseAchive": 0
+    },
+    {
+      "$id": 69,
+      "ID": "STATS_FLG_ID069",
+      "StatsID": 68,
+      "UseAchive": 0
+    },
+    {
+      "$id": 70,
+      "ID": "STATS_FLG_ID070",
+      "StatsID": 69,
+      "UseAchive": 0
+    },
+    {
+      "$id": 71,
+      "ID": "STATS_FLG_ID071",
+      "StatsID": 70,
+      "UseAchive": 1
+    },
+    {
+      "$id": 72,
+      "ID": "STATS_FLG_ID072",
+      "StatsID": 71,
+      "UseAchive": 1
+    },
+    {
+      "$id": 73,
+      "ID": "STATS_FLG_ID073",
+      "StatsID": 72,
+      "UseAchive": 1
+    },
+    {
+      "$id": 74,
+      "ID": "STATS_FLG_ID074",
+      "StatsID": 73,
+      "UseAchive": 1
+    },
+    {
+      "$id": 75,
+      "ID": "STATS_FLG_ID075",
+      "StatsID": 74,
+      "UseAchive": 0
+    },
+    {
+      "$id": 76,
+      "ID": "STATS_FLG_ID076",
+      "StatsID": 75,
+      "UseAchive": 0
+    },
+    {
+      "$id": 77,
+      "ID": "STATS_FLG_ID077",
+      "StatsID": 76,
+      "UseAchive": 0
+    },
+    {
+      "$id": 78,
+      "ID": "STATS_FLG_ID078",
+      "StatsID": 77,
+      "UseAchive": 0
+    },
+    {
+      "$id": 79,
+      "ID": "STATS_FLG_ID079",
+      "StatsID": 78,
+      "UseAchive": 0
+    },
+    {
+      "$id": 80,
+      "ID": "STATS_FLG_ID080",
+      "StatsID": 79,
+      "UseAchive": 0
+    },
+    {
+      "$id": 81,
+      "ID": "STATS_FLG_ID081",
+      "StatsID": 80,
+      "UseAchive": 1
+    },
+    {
+      "$id": 82,
+      "ID": "STATS_FLG_ID082",
+      "StatsID": 81,
+      "UseAchive": 1
+    },
+    {
+      "$id": 83,
+      "ID": "STATS_FLG_ID083",
+      "StatsID": 82,
+      "UseAchive": 1
+    },
+    {
+      "$id": 84,
+      "ID": "STATS_FLG_ID084",
+      "StatsID": 83,
+      "UseAchive": 0
+    },
+    {
+      "$id": 85,
+      "ID": "STATS_FLG_ID085",
+      "StatsID": 84,
+      "UseAchive": 0
+    },
+    {
+      "$id": 86,
+      "ID": "STATS_FLG_ID086",
+      "StatsID": 85,
+      "UseAchive": 0
+    },
+    {
+      "$id": 87,
+      "ID": "STATS_FLG_ID087",
+      "StatsID": 86,
+      "UseAchive": 0
+    },
+    {
+      "$id": 88,
+      "ID": "STATS_FLG_ID088",
+      "StatsID": 87,
+      "UseAchive": 0
+    },
+    {
+      "$id": 89,
+      "ID": "STATS_FLG_ID089",
+      "StatsID": 88,
+      "UseAchive": 0
+    },
+    {
+      "$id": 90,
+      "ID": "STATS_FLG_ID090",
+      "StatsID": 89,
+      "UseAchive": 0
+    },
+    {
+      "$id": 91,
+      "ID": "STATS_FLG_ID091",
+      "StatsID": 90,
+      "UseAchive": 1
+    },
+    {
+      "$id": 92,
+      "ID": "STATS_FLG_ID092",
+      "StatsID": 91,
+      "UseAchive": 1
+    },
+    {
+      "$id": 93,
+      "ID": "STATS_FLG_ID093",
+      "StatsID": 92,
+      "UseAchive": 1
+    },
+    {
+      "$id": 94,
+      "ID": "STATS_FLG_ID094",
+      "StatsID": 93,
+      "UseAchive": 1
+    },
+    {
+      "$id": 95,
+      "ID": "STATS_FLG_ID095",
+      "StatsID": 94,
+      "UseAchive": 0
+    },
+    {
+      "$id": 96,
+      "ID": "STATS_FLG_ID096",
+      "StatsID": 95,
+      "UseAchive": 0
+    },
+    {
+      "$id": 97,
+      "ID": "STATS_FLG_ID097",
+      "StatsID": 96,
+      "UseAchive": 0
+    },
+    {
+      "$id": 98,
+      "ID": "STATS_FLG_ID098",
+      "StatsID": 97,
+      "UseAchive": 0
+    },
+    {
+      "$id": 99,
+      "ID": "STATS_FLG_ID099",
+      "StatsID": 98,
+      "UseAchive": 0
+    },
+    {
+      "$id": 100,
+      "ID": "STATS_FLG_ID100",
+      "StatsID": 99,
+      "UseAchive": 0
+    },
+    {
+      "$id": 101,
+      "ID": "STATS_FLG_ID101",
+      "StatsID": 100,
+      "UseAchive": 1
+    },
+    {
+      "$id": 102,
+      "ID": "STATS_FLG_ID102",
+      "StatsID": 101,
+      "UseAchive": 1
+    },
+    {
+      "$id": 103,
+      "ID": "STATS_FLG_ID103",
+      "StatsID": 102,
+      "UseAchive": 1
+    },
+    {
+      "$id": 104,
+      "ID": "STATS_FLG_ID104",
+      "StatsID": 103,
+      "UseAchive": 0
+    },
+    {
+      "$id": 105,
+      "ID": "STATS_FLG_ID105",
+      "StatsID": 104,
+      "UseAchive": 0
+    },
+    {
+      "$id": 106,
+      "ID": "STATS_FLG_ID106",
+      "StatsID": 105,
+      "UseAchive": 0
+    },
+    {
+      "$id": 107,
+      "ID": "STATS_FLG_ID107",
+      "StatsID": 106,
+      "UseAchive": 0
+    },
+    {
+      "$id": 108,
+      "ID": "STATS_FLG_ID108",
+      "StatsID": 107,
+      "UseAchive": 0
+    },
+    {
+      "$id": 109,
+      "ID": "STATS_FLG_ID109",
+      "StatsID": 108,
+      "UseAchive": 0
+    },
+    {
+      "$id": 110,
+      "ID": "STATS_FLG_ID110",
+      "StatsID": 109,
+      "UseAchive": 0
+    },
+    {
+      "$id": 111,
+      "ID": "STATS_FLG_ID111",
+      "StatsID": 110,
+      "UseAchive": 1
+    },
+    {
+      "$id": 112,
+      "ID": "STATS_FLG_ID112",
+      "StatsID": 111,
+      "UseAchive": 1
+    },
+    {
+      "$id": 113,
+      "ID": "STATS_FLG_ID113",
+      "StatsID": 112,
+      "UseAchive": 1
+    },
+    {
+      "$id": 114,
+      "ID": "STATS_FLG_ID114",
+      "StatsID": 113,
+      "UseAchive": 1
+    },
+    {
+      "$id": 115,
+      "ID": "STATS_FLG_ID115",
+      "StatsID": 114,
+      "UseAchive": 0
+    },
+    {
+      "$id": 116,
+      "ID": "STATS_FLG_ID116",
+      "StatsID": 115,
+      "UseAchive": 0
+    },
+    {
+      "$id": 117,
+      "ID": "STATS_FLG_ID117",
+      "StatsID": 116,
+      "UseAchive": 0
+    },
+    {
+      "$id": 118,
+      "ID": "STATS_FLG_ID118",
+      "StatsID": 117,
+      "UseAchive": 0
+    },
+    {
+      "$id": 119,
+      "ID": "STATS_FLG_ID119",
+      "StatsID": 118,
+      "UseAchive": 0
+    },
+    {
+      "$id": 120,
+      "ID": "STATS_FLG_ID120",
+      "StatsID": 119,
+      "UseAchive": 0
+    },
+    {
+      "$id": 121,
+      "ID": "STATS_FLG_ID121",
+      "StatsID": 120,
+      "UseAchive": 1
+    },
+    {
+      "$id": 122,
+      "ID": "STATS_FLG_ID122",
+      "StatsID": 121,
+      "UseAchive": 1
+    },
+    {
+      "$id": 123,
+      "ID": "STATS_FLG_ID123",
+      "StatsID": 122,
+      "UseAchive": 1
+    },
+    {
+      "$id": 124,
+      "ID": "STATS_FLG_ID124",
+      "StatsID": 123,
+      "UseAchive": 1
+    },
+    {
+      "$id": 125,
+      "ID": "STATS_FLG_ID125",
+      "StatsID": 124,
+      "UseAchive": 1
+    },
+    {
+      "$id": 126,
+      "ID": "STATS_FLG_ID126",
+      "StatsID": 125,
+      "UseAchive": 0
+    },
+    {
+      "$id": 127,
+      "ID": "STATS_FLG_ID127",
+      "StatsID": 126,
+      "UseAchive": 0
+    },
+    {
+      "$id": 128,
+      "ID": "STATS_FLG_ID128",
+      "StatsID": 127,
+      "UseAchive": 0
+    },
+    {
+      "$id": 129,
+      "ID": "STATS_FLG_ID129",
+      "StatsID": 128,
+      "UseAchive": 0
+    },
+    {
+      "$id": 130,
+      "ID": "STATS_FLG_ID130",
+      "StatsID": 129,
+      "UseAchive": 0
+    },
+    {
+      "$id": 131,
+      "ID": "STATS_FLG_ID131",
+      "StatsID": 130,
+      "UseAchive": 1
+    },
+    {
+      "$id": 132,
+      "ID": "STATS_FLG_ID132",
+      "StatsID": 131,
+      "UseAchive": 1
+    },
+    {
+      "$id": 133,
+      "ID": "STATS_FLG_ID133",
+      "StatsID": 132,
+      "UseAchive": 1
+    },
+    {
+      "$id": 134,
+      "ID": "STATS_FLG_ID134",
+      "StatsID": 133,
+      "UseAchive": 1
+    },
+    {
+      "$id": 135,
+      "ID": "STATS_FLG_ID135",
+      "StatsID": 134,
+      "UseAchive": 1
+    },
+    {
+      "$id": 136,
+      "ID": "STATS_FLG_ID136",
+      "StatsID": 135,
+      "UseAchive": 1
+    },
+    {
+      "$id": 137,
+      "ID": "STATS_FLG_ID137",
+      "StatsID": 136,
+      "UseAchive": 1
+    },
+    {
+      "$id": 138,
+      "ID": "STATS_FLG_ID138",
+      "StatsID": 137,
+      "UseAchive": 1
+    },
+    {
+      "$id": 139,
+      "ID": "STATS_FLG_ID139",
+      "StatsID": 138,
+      "UseAchive": 1
+    },
+    {
+      "$id": 140,
+      "ID": "STATS_FLG_ID140",
+      "StatsID": 139,
+      "UseAchive": 1
+    },
+    {
+      "$id": 141,
+      "ID": "STATS_FLG_ID141",
+      "StatsID": 140,
+      "UseAchive": 1
+    },
+    {
+      "$id": 142,
+      "ID": "STATS_FLG_ID142",
+      "StatsID": 141,
+      "UseAchive": 1
+    },
+    {
+      "$id": 143,
+      "ID": "STATS_FLG_ID143",
+      "StatsID": 142,
+      "UseAchive": 1
+    },
+    {
+      "$id": 144,
+      "ID": "STATS_FLG_ID144",
+      "StatsID": 143,
+      "UseAchive": 1
+    },
+    {
+      "$id": 145,
+      "ID": "STATS_FLG_ID145",
+      "StatsID": 144,
+      "UseAchive": 1
+    },
+    {
+      "$id": 146,
+      "ID": "STATS_FLG_ID146",
+      "StatsID": 145,
+      "UseAchive": 1
+    },
+    {
+      "$id": 147,
+      "ID": "STATS_FLG_ID147",
+      "StatsID": 146,
+      "UseAchive": 1
+    },
+    {
+      "$id": 148,
+      "ID": "STATS_FLG_ID148",
+      "StatsID": 147,
+      "UseAchive": 1
+    },
+    {
+      "$id": 149,
+      "ID": "STATS_FLG_ID149",
+      "StatsID": 148,
+      "UseAchive": 1
+    },
+    {
+      "$id": 150,
+      "ID": "STATS_FLG_ID150",
+      "StatsID": 149,
+      "UseAchive": 1
+    },
+    {
+      "$id": 151,
+      "ID": "STATS_FLG_ID151",
+      "StatsID": 150,
+      "UseAchive": 1
+    },
+    {
+      "$id": 152,
+      "ID": "STATS_FLG_ID152",
+      "StatsID": 151,
+      "UseAchive": 1
+    },
+    {
+      "$id": 153,
+      "ID": "STATS_FLG_ID153",
+      "StatsID": 152,
+      "UseAchive": 1
+    },
+    {
+      "$id": 154,
+      "ID": "STATS_FLG_ID154",
+      "StatsID": 153,
+      "UseAchive": 1
+    },
+    {
+      "$id": 155,
+      "ID": "STATS_FLG_ID155",
+      "StatsID": 154,
+      "UseAchive": 1
+    },
+    {
+      "$id": 156,
+      "ID": "STATS_FLG_ID156",
+      "StatsID": 155,
+      "UseAchive": 1
+    },
+    {
+      "$id": 157,
+      "ID": "STATS_FLG_ID157",
+      "StatsID": 156,
+      "UseAchive": 1
+    },
+    {
+      "$id": 158,
+      "ID": "STATS_FLG_ID158",
+      "StatsID": 157,
+      "UseAchive": 1
+    },
+    {
+      "$id": 159,
+      "ID": "STATS_FLG_ID159",
+      "StatsID": 158,
+      "UseAchive": 1
+    },
+    {
+      "$id": 160,
+      "ID": "STATS_FLG_ID160",
+      "StatsID": 159,
+      "UseAchive": 1
+    },
+    {
+      "$id": 161,
+      "ID": "STATS_FLG_ID161",
+      "StatsID": 160,
+      "UseAchive": 1
+    },
+    {
+      "$id": 162,
+      "ID": "STATS_FLG_ID162",
+      "StatsID": 161,
+      "UseAchive": 1
+    },
+    {
+      "$id": 163,
+      "ID": "STATS_FLG_ID163",
+      "StatsID": 163,
+      "UseAchive": 1
+    },
+    {
+      "$id": 164,
+      "ID": "STATS_FLG_ID164",
+      "StatsID": 173,
+      "UseAchive": 1
+    },
+    {
+      "$id": 165,
+      "ID": "STATS_FLG_ID165",
+      "StatsID": 166,
+      "UseAchive": 1
+    },
+    {
+      "$id": 166,
+      "ID": "STATS_FLG_ID166",
+      "StatsID": 164,
+      "UseAchive": 1
+    },
+    {
+      "$id": 167,
+      "ID": "STATS_FLG_ID167",
+      "StatsID": 168,
+      "UseAchive": 1
+    },
+    {
+      "$id": 168,
+      "ID": "STATS_FLG_ID168",
+      "StatsID": 162,
+      "UseAchive": 1
+    },
+    {
+      "$id": 169,
+      "ID": "STATS_FLG_ID169",
+      "StatsID": 172,
+      "UseAchive": 1
+    },
+    {
+      "$id": 170,
+      "ID": "STATS_FLG_ID170",
+      "StatsID": 169,
+      "UseAchive": 0
+    },
+    {
+      "$id": 171,
+      "ID": "STATS_FLG_ID171",
+      "StatsID": 170,
+      "UseAchive": 0
+    },
+    {
+      "$id": 172,
+      "ID": "STATS_FLG_ID172",
+      "StatsID": 165,
+      "UseAchive": 1
+    },
+    {
+      "$id": 173,
+      "ID": "STATS_FLG_ID173",
+      "StatsID": 167,
+      "UseAchive": 1
+    },
+    {
+      "$id": 174,
+      "ID": "STATS_FLG_ID174",
+      "StatsID": 171,
+      "UseAchive": 1
+    },
+    {
+      "$id": 175,
+      "ID": "STATS_FLG_ID175",
+      "StatsID": 174,
+      "UseAchive": 1
+    },
+    {
+      "$id": 176,
+      "ID": "STATS_FLG_ID176",
+      "StatsID": 175,
+      "UseAchive": 1
+    },
+    {
+      "$id": 177,
+      "ID": "STATS_FLG_ID177",
+      "StatsID": 176,
+      "UseAchive": 1
+    },
+    {
+      "$id": 178,
+      "ID": "STATS_FLG_ID178",
+      "StatsID": 177,
+      "UseAchive": 1
+    },
+    {
+      "$id": 179,
+      "ID": "STATS_FLG_ID179",
+      "StatsID": 188,
+      "UseAchive": 1
+    },
+    {
+      "$id": 180,
+      "ID": "STATS_FLG_ID180",
+      "StatsID": 189,
+      "UseAchive": 1
+    },
+    {
+      "$id": 181,
+      "ID": "STATS_FLG_ID181",
+      "StatsID": 179,
+      "UseAchive": 1
+    },
+    {
+      "$id": 182,
+      "ID": "STATS_FLG_ID182",
+      "StatsID": 191,
+      "UseAchive": 1
+    },
+    {
+      "$id": 183,
+      "ID": "STATS_FLG_ID183",
+      "StatsID": 182,
+      "UseAchive": 1
+    },
+    {
+      "$id": 184,
+      "ID": "STATS_FLG_ID184",
+      "StatsID": 180,
+      "UseAchive": 0
+    },
+    {
+      "$id": 185,
+      "ID": "STATS_FLG_ID185",
+      "StatsID": 184,
+      "UseAchive": 1
+    },
+    {
+      "$id": 186,
+      "ID": "STATS_FLG_ID186",
+      "StatsID": 178,
+      "UseAchive": 1
+    },
+    {
+      "$id": 187,
+      "ID": "STATS_FLG_ID187",
+      "StatsID": 190,
+      "UseAchive": 1
+    },
+    {
+      "$id": 188,
+      "ID": "STATS_FLG_ID188",
+      "StatsID": 185,
+      "UseAchive": 1
+    },
+    {
+      "$id": 189,
+      "ID": "STATS_FLG_ID189",
+      "StatsID": 186,
+      "UseAchive": 1
+    },
+    {
+      "$id": 190,
+      "ID": "STATS_FLG_ID190",
+      "StatsID": 181,
+      "UseAchive": 1
+    },
+    {
+      "$id": 191,
+      "ID": "STATS_FLG_ID191",
+      "StatsID": 183,
+      "UseAchive": 1
+    },
+    {
+      "$id": 192,
+      "ID": "STATS_FLG_ID192",
+      "StatsID": 187,
+      "UseAchive": 1
+    },
+    {
+      "$id": 193,
+      "ID": "STATS_FLG_ID193",
+      "StatsID": 192,
+      "UseAchive": 1
+    },
+    {
+      "$id": 194,
+      "ID": "STATS_FLG_ID194",
+      "StatsID": 193,
+      "UseAchive": 1
+    },
+    {
+      "$id": 195,
+      "ID": "STATS_FLG_ID195",
+      "StatsID": 194,
+      "UseAchive": 1
+    },
+    {
+      "$id": 196,
+      "ID": "STATS_FLG_ID196",
+      "StatsID": 195,
+      "UseAchive": 1
+    },
+    {
+      "$id": 197,
+      "ID": "STATS_FLG_ID197",
+      "StatsID": 196,
+      "UseAchive": 1
+    },
+    {
+      "$id": 198,
+      "ID": "STATS_FLG_ID198",
+      "StatsID": 197,
+      "UseAchive": 1
+    },
+    {
+      "$id": 199,
+      "ID": "STATS_FLG_ID199",
+      "StatsID": 198,
+      "UseAchive": 0
+    },
+    {
+      "$id": 200,
+      "ID": "STATS_FLG_ID200",
+      "StatsID": 199,
+      "UseAchive": 0
+    },
+    {
+      "$id": 201,
+      "ID": "STATS_FLG_ID201",
+      "StatsID": 200,
+      "UseAchive": 0
+    },
+    {
+      "$id": 202,
+      "ID": "STATS_FLG_ID202",
+      "StatsID": 201,
+      "UseAchive": 0
+    },
+    {
+      "$id": 203,
+      "ID": "STATS_FLG_ID203",
+      "StatsID": 202,
+      "UseAchive": 0
+    },
+    {
+      "$id": 204,
+      "ID": "STATS_FLG_ID204",
+      "StatsID": 203,
+      "UseAchive": 0
+    },
+    {
+      "$id": 205,
+      "ID": "STATS_FLG_ID205",
+      "StatsID": 204,
+      "UseAchive": 0
+    },
+    {
+      "$id": 206,
+      "ID": "STATS_FLG_ID206",
+      "StatsID": 205,
+      "UseAchive": 0
+    },
+    {
+      "$id": 207,
+      "ID": "STATS_FLG_ID207",
+      "StatsID": 206,
+      "UseAchive": 0
+    },
+    {
+      "$id": 208,
+      "ID": "STATS_FLG_ID208",
+      "StatsID": 207,
+      "UseAchive": 0
+    },
+    {
+      "$id": 209,
+      "ID": "STATS_FLG_ID209",
+      "StatsID": 208,
+      "UseAchive": 0
+    },
+    {
+      "$id": 210,
+      "ID": "STATS_FLG_ID210",
+      "StatsID": 209,
+      "UseAchive": 0
+    },
+    {
+      "$id": 211,
+      "ID": "STATS_FLG_ID211",
+      "StatsID": 210,
+      "UseAchive": 0
+    },
+    {
+      "$id": 212,
+      "ID": "STATS_FLG_ID212",
+      "StatsID": 211,
+      "UseAchive": 0
+    },
+    {
+      "$id": 213,
+      "ID": "STATS_FLG_ID213",
+      "StatsID": 212,
+      "UseAchive": 0
+    },
+    {
+      "$id": 214,
+      "ID": "STATS_FLG_ID214",
+      "StatsID": 213,
+      "UseAchive": 0
+    },
+    {
+      "$id": 215,
+      "ID": "STATS_FLG_ID215",
+      "StatsID": 214,
+      "UseAchive": 0
+    },
+    {
+      "$id": 216,
+      "ID": "STATS_FLG_ID216",
+      "StatsID": 215,
+      "UseAchive": 0
+    },
+    {
+      "$id": 217,
+      "ID": "STATS_FLG_ID217",
+      "StatsID": 216,
+      "UseAchive": 0
+    },
+    {
+      "$id": 218,
+      "ID": "STATS_FLG_ID218",
+      "StatsID": 217,
+      "UseAchive": 0
+    },
+    {
+      "$id": 219,
+      "ID": "STATS_FLG_ID219",
+      "StatsID": 218,
+      "UseAchive": 1
+    },
+    {
+      "$id": 220,
+      "ID": "STATS_FLG_ID220",
+      "StatsID": 229,
+      "UseAchive": 1
+    },
+    {
+      "$id": 221,
+      "ID": "STATS_FLG_ID221",
+      "StatsID": 230,
+      "UseAchive": 1
+    },
+    {
+      "$id": 222,
+      "ID": "STATS_FLG_ID222",
+      "StatsID": 220,
+      "UseAchive": 1
+    },
+    {
+      "$id": 223,
+      "ID": "STATS_FLG_ID223",
+      "StatsID": 232,
+      "UseAchive": 1
+    },
+    {
+      "$id": 224,
+      "ID": "STATS_FLG_ID224",
+      "StatsID": 223,
+      "UseAchive": 1
+    },
+    {
+      "$id": 225,
+      "ID": "STATS_FLG_ID225",
+      "StatsID": 221,
+      "UseAchive": 0
+    },
+    {
+      "$id": 226,
+      "ID": "STATS_FLG_ID226",
+      "StatsID": 225,
+      "UseAchive": 1
+    },
+    {
+      "$id": 227,
+      "ID": "STATS_FLG_ID227",
+      "StatsID": 219,
+      "UseAchive": 1
+    },
+    {
+      "$id": 228,
+      "ID": "STATS_FLG_ID228",
+      "StatsID": 231,
+      "UseAchive": 1
+    },
+    {
+      "$id": 229,
+      "ID": "STATS_FLG_ID229",
+      "StatsID": 226,
+      "UseAchive": 0
+    },
+    {
+      "$id": 230,
+      "ID": "STATS_FLG_ID230",
+      "StatsID": 227,
+      "UseAchive": 0
+    },
+    {
+      "$id": 231,
+      "ID": "STATS_FLG_ID231",
+      "StatsID": 222,
+      "UseAchive": 0
+    },
+    {
+      "$id": 232,
+      "ID": "STATS_FLG_ID232",
+      "StatsID": 224,
+      "UseAchive": 1
+    },
+    {
+      "$id": 233,
+      "ID": "STATS_FLG_ID233",
+      "StatsID": 228,
+      "UseAchive": 1
+    },
+    {
+      "$id": 234,
+      "ID": "STATS_FLG_ID234",
+      "StatsID": 233,
+      "UseAchive": 1
+    },
+    {
+      "$id": 235,
+      "ID": "STATS_FLG_ID235",
+      "StatsID": 234,
+      "UseAchive": 0
+    },
+    {
+      "$id": 236,
+      "ID": "STATS_FLG_ID236",
+      "StatsID": 235,
+      "UseAchive": 1
+    },
+    {
+      "$id": 237,
+      "ID": "STATS_FLG_ID237",
+      "StatsID": 236,
+      "UseAchive": 1
+    },
+    {
+      "$id": 238,
+      "ID": "STATS_FLG_ID238",
+      "StatsID": 241,
+      "UseAchive": 1
+    },
+    {
+      "$id": 239,
+      "ID": "STATS_FLG_ID239",
+      "StatsID": 242,
+      "UseAchive": 1
+    },
+    {
+      "$id": 240,
+      "ID": "STATS_FLG_ID240",
+      "StatsID": 243,
+      "UseAchive": 1
+    },
+    {
+      "$id": 241,
+      "ID": "STATS_FLG_ID241",
+      "StatsID": 244,
+      "UseAchive": 1
+    },
+    {
+      "$id": 242,
+      "ID": "STATS_FLG_ID242",
+      "StatsID": 245,
+      "UseAchive": 1
+    },
+    {
+      "$id": 243,
+      "ID": "STATS_FLG_ID243",
+      "StatsID": 246,
+      "UseAchive": 1
+    },
+    {
+      "$id": 244,
+      "ID": "STATS_FLG_ID244",
+      "StatsID": 247,
+      "UseAchive": 1
+    },
+    {
+      "$id": 245,
+      "ID": "STATS_FLG_ID245",
+      "StatsID": 248,
+      "UseAchive": 1
+    },
+    {
+      "$id": 246,
+      "ID": "STATS_FLG_ID246",
+      "StatsID": 249,
+      "UseAchive": 1
+    },
+    {
+      "$id": 247,
+      "ID": "STATS_FLG_ID247",
+      "StatsID": 250,
+      "UseAchive": 1
+    },
+    {
+      "$id": 248,
+      "ID": "STATS_FLG_ID248",
+      "StatsID": 251,
+      "UseAchive": 1
+    },
+    {
+      "$id": 249,
+      "ID": "STATS_FLG_ID249",
+      "StatsID": 252,
+      "UseAchive": 1
+    },
+    {
+      "$id": 250,
+      "ID": "STATS_FLG_ID250",
+      "StatsID": 253,
+      "UseAchive": 1
+    },
+    {
+      "$id": 251,
+      "ID": "STATS_FLG_ID251",
+      "StatsID": 254,
+      "UseAchive": 1
+    },
+    {
+      "$id": 252,
+      "ID": "STATS_FLG_ID252",
+      "StatsID": 255,
+      "UseAchive": 1
+    },
+    {
+      "$id": 253,
+      "ID": "STATS_FLG_ID253",
+      "StatsID": 256,
+      "UseAchive": 1
+    },
+    {
+      "$id": 254,
+      "ID": "STATS_FLG_ID257",
+      "StatsID": 260,
+      "UseAchive": 1
+    },
+    {
+      "$id": 255,
+      "ID": "STATS_FLG_ID258",
+      "StatsID": 261,
+      "UseAchive": 1
+    },
+    {
+      "$id": 256,
+      "ID": "STATS_FLG_ID259",
+      "StatsID": 262,
+      "UseAchive": 1
+    },
+    {
+      "$id": 257,
+      "ID": "STATS_FLG_ID260",
+      "StatsID": 263,
+      "UseAchive": 1
+    },
+    {
+      "$id": 258,
+      "ID": "STATS_FLG_ID261",
+      "StatsID": 264,
+      "UseAchive": 1
+    },
+    {
+      "$id": 259,
+      "ID": "STATS_FLG_ID262",
+      "StatsID": 265,
+      "UseAchive": 1
+    },
+    {
+      "$id": 260,
+      "ID": "STATS_FLG_ID263",
+      "StatsID": 266,
+      "UseAchive": 1
+    },
+    {
+      "$id": 261,
+      "ID": "STATS_FLG_ID264",
+      "StatsID": 267,
+      "UseAchive": 1
+    },
+    {
+      "$id": 262,
+      "ID": "STATS_FLG_ID265",
+      "StatsID": 268,
+      "UseAchive": 1
+    },
+    {
+      "$id": 263,
+      "ID": "STATS_FLG_ID266",
+      "StatsID": 269,
+      "UseAchive": 1
+    },
+    {
+      "$id": 264,
+      "ID": "STATS_FLG_ID267",
+      "StatsID": 270,
+      "UseAchive": 1
+    },
+    {
+      "$id": 265,
+      "ID": "STATS_FLG_ID268",
+      "StatsID": 271,
+      "UseAchive": 1
+    },
+    {
+      "$id": 266,
+      "ID": "STATS_FLG_ID269",
+      "StatsID": 272,
+      "UseAchive": 1
+    },
+    {
+      "$id": 267,
+      "ID": "STATS_FLG_ID270",
+      "StatsID": 273,
+      "UseAchive": 1
+    },
+    {
+      "$id": 268,
+      "ID": "STATS_FLG_ID271",
+      "StatsID": 274,
+      "UseAchive": 1
+    },
+    {
+      "$id": 269,
+      "ID": "STATS_FLG_ID272",
+      "StatsID": 275,
+      "UseAchive": 1
+    },
+    {
+      "$id": 270,
+      "ID": "STATS_FLG_ID273",
+      "StatsID": 276,
+      "UseAchive": 0
+    },
+    {
+      "$id": 271,
+      "ID": "STATS_FLG_ID274",
+      "StatsID": 277,
+      "UseAchive": 0
+    },
+    {
+      "$id": 272,
+      "ID": "STATS_FLG_ID300",
+      "StatsID": 303,
+      "UseAchive": 1
+    },
+    {
+      "$id": 273,
+      "ID": "STATS_FLG_ID301",
+      "StatsID": 304,
+      "UseAchive": 1
+    },
+    {
+      "$id": 274,
+      "ID": "STATS_FLG_ID302",
+      "StatsID": 305,
+      "UseAchive": 1
+    },
+    {
+      "$id": 275,
+      "ID": "STATS_FLG_ID303",
+      "StatsID": 306,
+      "UseAchive": 1
+    },
+    {
+      "$id": 276,
+      "ID": "STATS_FLG_ID304",
+      "StatsID": 307,
+      "UseAchive": 1
+    },
+    {
+      "$id": 277,
+      "ID": "STATS_FLG_ID305",
+      "StatsID": 308,
+      "UseAchive": 1
+    },
+    {
+      "$id": 278,
+      "ID": "STATS_FLG_ID306",
+      "StatsID": 309,
+      "UseAchive": 1
+    },
+    {
+      "$id": 279,
+      "ID": "STATS_FLG_ID307",
+      "StatsID": 310,
+      "UseAchive": 1
+    },
+    {
+      "$id": 280,
+      "ID": "STATS_FLG_ID308",
+      "StatsID": 311,
+      "UseAchive": 1
+    },
+    {
+      "$id": 281,
+      "ID": "STATS_FLG_ID309",
+      "StatsID": 312,
+      "UseAchive": 1
+    },
+    {
+      "$id": 282,
+      "ID": "STATS_FLG_ID310",
+      "StatsID": 313,
+      "UseAchive": 1
+    },
+    {
+      "$id": 283,
+      "ID": "STATS_FLG_ID311",
+      "StatsID": 314,
+      "UseAchive": 1
+    },
+    {
+      "$id": 284,
+      "ID": "STATS_FLG_ID312",
+      "StatsID": 315,
+      "UseAchive": 1
+    },
+    {
+      "$id": 285,
+      "ID": "STATS_FLG_ID313",
+      "StatsID": 316,
+      "UseAchive": 1
+    },
+    {
+      "$id": 286,
+      "ID": "STATS_FLG_ID314",
+      "StatsID": 317,
+      "UseAchive": 1
+    },
+    {
+      "$id": 287,
+      "ID": "STATS_FLG_ID315",
+      "StatsID": 318,
+      "UseAchive": 1
+    },
+    {
+      "$id": 288,
+      "ID": "STATS_FLG_ID316",
+      "StatsID": 319,
+      "UseAchive": 1
+    },
+    {
+      "$id": 289,
+      "ID": "STATS_FLG_ID317",
+      "StatsID": 320,
+      "UseAchive": 1
+    },
+    {
+      "$id": 290,
+      "ID": "STATS_FLG_ID318",
+      "StatsID": 321,
+      "UseAchive": 1
+    },
+    {
+      "$id": 291,
+      "ID": "STATS_FLG_ID319",
+      "StatsID": 322,
+      "UseAchive": 1
+    },
+    {
+      "$id": 292,
+      "ID": "STATS_FLG_ID320",
+      "StatsID": 323,
+      "UseAchive": 1
+    },
+    {
+      "$id": 293,
+      "ID": "STATS_FLG_ID321",
+      "StatsID": 324,
+      "UseAchive": 1
+    },
+    {
+      "$id": 294,
+      "ID": "STATS_FLG_ID322",
+      "StatsID": 325,
+      "UseAchive": 1
+    },
+    {
+      "$id": 295,
+      "ID": "STATS_FLG_ID323",
+      "StatsID": 326,
+      "UseAchive": 1
+    },
+    {
+      "$id": 296,
+      "ID": "STATS_FLG_ID324",
+      "StatsID": 327,
+      "UseAchive": 1
+    },
+    {
+      "$id": 297,
+      "ID": "STATS_FLG_ID325",
+      "StatsID": 328,
+      "UseAchive": 1
+    },
+    {
+      "$id": 298,
+      "ID": "STATS_FLG_ID326",
+      "StatsID": 329,
+      "UseAchive": 1
+    },
+    {
+      "$id": 299,
+      "ID": "STATS_FLG_ID327",
+      "StatsID": 330,
+      "UseAchive": 1
+    },
+    {
+      "$id": 300,
+      "ID": "STATS_FLG_ID328",
+      "StatsID": 331,
+      "UseAchive": 1
+    },
+    {
+      "$id": 301,
+      "ID": "STATS_FLG_ID329",
+      "StatsID": 332,
+      "UseAchive": 1
+    },
+    {
+      "$id": 302,
+      "ID": "STATS_FLG_ID330",
+      "StatsID": 333,
+      "UseAchive": 1
+    },
+    {
+      "$id": 303,
+      "ID": "STATS_FLG_ID331",
+      "StatsID": 334,
+      "UseAchive": 1
+    },
+    {
+      "$id": 304,
+      "ID": "STATS_FLG_ID332",
+      "StatsID": 335,
+      "UseAchive": 1
+    },
+    {
+      "$id": 305,
+      "ID": "STATS_FLG_ID333",
+      "StatsID": 336,
+      "UseAchive": 1
+    },
+    {
+      "$id": 306,
+      "ID": "STATS_FLG_ID334",
+      "StatsID": 337,
+      "UseAchive": 1
+    },
+    {
+      "$id": 307,
+      "ID": "STATS_FLG_ID335",
+      "StatsID": 338,
+      "UseAchive": 1
+    },
+    {
+      "$id": 308,
+      "ID": "STATS_FLG_ID336",
+      "StatsID": 339,
+      "UseAchive": 1
+    },
+    {
+      "$id": 309,
+      "ID": "STATS_FLG_ID337",
+      "StatsID": 340,
+      "UseAchive": 1
+    },
+    {
+      "$id": 310,
+      "ID": "STATS_FLG_ID338",
+      "StatsID": 341,
+      "UseAchive": 1
+    },
+    {
+      "$id": 311,
+      "ID": "STATS_FLG_ID339",
+      "StatsID": 342,
+      "UseAchive": 1
+    },
+    {
+      "$id": 312,
+      "ID": "STATS_FLG_ID340",
+      "StatsID": 343,
+      "UseAchive": 1
+    },
+    {
+      "$id": 313,
+      "ID": "STATS_FLG_ID341",
+      "StatsID": 344,
+      "UseAchive": 1
+    },
+    {
+      "$id": 314,
+      "ID": "STATS_FLG_ID342",
+      "StatsID": 345,
+      "UseAchive": 1
+    },
+    {
+      "$id": 315,
+      "ID": "STATS_FLG_ID343",
+      "StatsID": 346,
+      "UseAchive": 1
+    },
+    {
+      "$id": 316,
+      "ID": "STATS_FLG_ID344",
+      "StatsID": 347,
+      "UseAchive": 1
+    },
+    {
+      "$id": 317,
+      "ID": "STATS_FLG_ID345",
+      "StatsID": 348,
+      "UseAchive": 1
+    },
+    {
+      "$id": 318,
+      "ID": "STATS_FLG_ID346",
+      "StatsID": 349,
+      "UseAchive": 1
+    },
+    {
+      "$id": 319,
+      "ID": "STATS_FLG_ID356",
+      "StatsID": 359,
+      "UseAchive": 1
+    },
+    {
+      "$id": 320,
+      "ID": "STATS_FLG_ID357",
+      "StatsID": 360,
+      "UseAchive": 1
+    },
+    {
+      "$id": 321,
+      "ID": "STATS_FLG_ID358",
+      "StatsID": 361,
+      "UseAchive": 1
+    },
+    {
+      "$id": 322,
+      "ID": "STATS_FLG_ID359",
+      "StatsID": 362,
+      "UseAchive": 1
+    },
+    {
+      "$id": 323,
+      "ID": "STATS_FLG_ID360",
+      "StatsID": 363,
+      "UseAchive": 1
+    },
+    {
+      "$id": 324,
+      "ID": "STATS_FLG_ID361",
+      "StatsID": 364,
+      "UseAchive": 1
+    },
+    {
+      "$id": 325,
+      "ID": "STATS_FLG_ID362",
+      "StatsID": 365,
+      "UseAchive": 1
+    },
+    {
+      "$id": 326,
+      "ID": "STATS_FLG_ID363",
+      "StatsID": 366,
+      "UseAchive": 0
+    },
+    {
+      "$id": 327,
+      "ID": "STATS_FLG_ID364",
+      "StatsID": 367,
+      "UseAchive": 0
+    },
+    {
+      "$id": 328,
+      "ID": "STATS_FLG_ID365",
+      "StatsID": 368,
+      "UseAchive": 0
+    },
+    {
+      "$id": 329,
+      "ID": "STATS_FLG_ID366",
+      "StatsID": 369,
+      "UseAchive": 1
+    },
+    {
+      "$id": 330,
+      "ID": "STATS_FLG_ID367",
+      "StatsID": 370,
+      "UseAchive": 1
+    },
+    {
+      "$id": 331,
+      "ID": "STATS_FLG_ID368",
+      "StatsID": 371,
+      "UseAchive": 1
+    },
+    {
+      "$id": 332,
+      "ID": "STATS_FLG_ID369",
+      "StatsID": 372,
+      "UseAchive": 1
+    },
+    {
+      "$id": 333,
+      "ID": "STATS_FLG_ID370",
+      "StatsID": 373,
+      "UseAchive": 1
+    },
+    {
+      "$id": 334,
+      "ID": "STATS_FLG_ID371",
+      "StatsID": 374,
+      "UseAchive": 1
+    },
+    {
+      "$id": 335,
+      "ID": "STATS_FLG_ID372",
+      "StatsID": 375,
+      "UseAchive": 1
+    },
+    {
+      "$id": 336,
+      "ID": "STATS_FLG_ID373",
+      "StatsID": 376,
+      "UseAchive": 1
+    },
+    {
+      "$id": 337,
+      "ID": "STATS_FLG_ID374",
+      "StatsID": 377,
+      "UseAchive": 1
+    },
+    {
+      "$id": 338,
+      "ID": "STATS_FLG_ID375",
+      "StatsID": 378,
+      "UseAchive": 0
+    },
+    {
+      "$id": 339,
+      "ID": "STATS_FLG_ID376",
+      "StatsID": 379,
+      "UseAchive": 1
+    },
+    {
+      "$id": 340,
+      "ID": "STATS_FLG_ID377",
+      "StatsID": 380,
+      "UseAchive": 1
+    },
+    {
+      "$id": 341,
+      "ID": "STATS_FLG_ID378",
+      "StatsID": 381,
+      "UseAchive": 1
+    },
+    {
+      "$id": 342,
+      "ID": "STATS_FLG_ID379",
+      "StatsID": 382,
+      "UseAchive": 1
+    },
+    {
+      "$id": 343,
+      "ID": "STATS_FLG_ID380",
+      "StatsID": 383,
+      "UseAchive": 1
+    },
+    {
+      "$id": 344,
+      "ID": "STATS_FLG_ID381",
+      "StatsID": 384,
+      "UseAchive": 1
+    },
+    {
+      "$id": 345,
+      "ID": "STATS_FLG_ID382",
+      "StatsID": 385,
+      "UseAchive": 0
+    },
+    {
+      "$id": 346,
+      "ID": "STATS_FLG_ID383",
+      "StatsID": 386,
+      "UseAchive": 0
+    },
+    {
+      "$id": 347,
+      "ID": "STATS_FLG_ID384",
+      "StatsID": 387,
+      "UseAchive": 0
+    },
+    {
+      "$id": 348,
+      "ID": "STATS_FLG_ID385",
+      "StatsID": 388,
+      "UseAchive": 0
+    },
+    {
+      "$id": 349,
+      "ID": "STATS_FLG_ID386",
+      "StatsID": 165,
+      "UseAchive": 1
+    },
+    {
+      "$id": 350,
+      "ID": "STATS_FLG_ID387",
+      "StatsID": 170,
+      "UseAchive": 1
+    },
+    {
+      "$id": 351,
+      "ID": "STATS_FLG_ID388",
+      "StatsID": 169,
+      "UseAchive": 1
+    },
+    {
+      "$id": 352,
+      "ID": "STATS_FLG_ID389",
+      "StatsID": 175,
+      "UseAchive": 1
+    },
+    {
+      "$id": 353,
+      "ID": "STATS_FLG_ID390",
+      "StatsID": 389,
+      "UseAchive": 1
+    },
+    {
+      "$id": 354,
+      "ID": "STATS_FLG_ID391",
+      "StatsID": 390,
+      "UseAchive": 1
+    },
+    {
+      "$id": 355,
+      "ID": "STATS_FLG_ID392",
+      "StatsID": 391,
+      "UseAchive": 1
+    },
+    {
+      "$id": 356,
+      "ID": "STATS_FLG_ID393",
+      "StatsID": 392,
+      "UseAchive": 1
+    },
+    {
+      "$id": 357,
+      "ID": "STATS_FLG_ID394",
+      "StatsID": 181,
+      "UseAchive": 1
+    },
+    {
+      "$id": 358,
+      "ID": "STATS_FLG_ID395",
+      "StatsID": 186,
+      "UseAchive": 1
+    },
+    {
+      "$id": 359,
+      "ID": "STATS_FLG_ID396",
+      "StatsID": 185,
+      "UseAchive": 1
+    },
+    {
+      "$id": 360,
+      "ID": "STATS_FLG_ID397",
+      "StatsID": 193,
+      "UseAchive": 1
+    },
+    {
+      "$id": 361,
+      "ID": "STATS_FLG_ID398",
+      "StatsID": 393,
+      "UseAchive": 1
+    },
+    {
+      "$id": 362,
+      "ID": "STATS_FLG_ID399",
+      "StatsID": 394,
+      "UseAchive": 1
+    },
+    {
+      "$id": 363,
+      "ID": "STATS_FLG_ID400",
+      "StatsID": 395,
+      "UseAchive": 1
+    },
+    {
+      "$id": 364,
+      "ID": "STATS_FLG_ID401",
+      "StatsID": 396,
+      "UseAchive": 1
+    },
+    {
+      "$id": 365,
+      "ID": "STATS_FLG_ID402",
+      "StatsID": 222,
+      "UseAchive": 1
+    },
+    {
+      "$id": 366,
+      "ID": "STATS_FLG_ID403",
+      "StatsID": 227,
+      "UseAchive": 1
+    },
+    {
+      "$id": 367,
+      "ID": "STATS_FLG_ID404",
+      "StatsID": 226,
+      "UseAchive": 1
+    },
+    {
+      "$id": 368,
+      "ID": "STATS_FLG_ID405",
+      "StatsID": 234,
+      "UseAchive": 1
+    },
+    {
+      "$id": 369,
+      "ID": "STATS_FLG_ID406",
+      "StatsID": 238,
+      "UseAchive": 1
+    },
+    {
+      "$id": 370,
+      "ID": "STATS_FLG_ID407",
+      "StatsID": 239,
+      "UseAchive": 1
+    },
+    {
+      "$id": 371,
+      "ID": "STATS_FLG_ID408",
+      "StatsID": 240,
+      "UseAchive": 1
+    },
+    {
+      "$id": 372,
+      "ID": "STATS_FLG_ID409",
+      "StatsID": 237,
+      "UseAchive": 1
+    },
+    {
+      "$id": 373,
+      "ID": "STATS_FLG_ID410",
+      "StatsID": 397,
+      "UseAchive": 1
+    }
+  ]
+}

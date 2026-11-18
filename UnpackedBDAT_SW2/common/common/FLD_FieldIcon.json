@@ -1,0 +1,82 @@
+{
+  "schema": [
+    {
+      "name": "ID",
+      "type": 9
+    },
+    {
+      "name": "nearInner",
+      "type": 2
+    },
+    {
+      "name": "nearDoll",
+      "type": 2
+    },
+    {
+      "name": "far",
+      "type": 2
+    },
+    {
+      "name": "skip",
+      "type": 2
+    }
+  ],
+  "rows": [
+    {
+      "$id": 0,
+      "ID": "FIELD_ICON_FNET",
+      "nearInner": 0,
+      "nearDoll": 0,
+      "far": 500,
+      "skip": 0
+    },
+    {
+      "$id": 1,
+      "ID": "FIELD_ICON_TBOX",
+      "nearInner": 15,
+      "nearDoll": 40,
+      "far": 200,
+      "skip": 20
+    },
+    {
+      "$id": 2,
+      "ID": "FIELD_ICON_KACTION",
+      "nearInner": 15,
+      "nearDoll": 40,
+      "far": 200,
+      "skip": 20
+    },
+    {
+      "$id": 3,
+      "ID": "FIELD_ICON_TALK",
+      "nearInner": 0,
+      "nearDoll": 0,
+      "far": 200,
+      "skip": 0
+    },
+    {
+      "$id": 4,
+      "ID": "FIELD_ICON_NPC",
+      "nearInner": 0,
+      "nearDoll": 0,
+      "far": 200,
+      "skip": 0
+    },
+    {
+      "$id": 5,
+      "ID": "FIELD_ICON_PCNPC",
+      "nearInner": 0,
+      "nearDoll": 0,
+      "far": 200,
+      "skip": 0
+    },
+    {
+      "$id": 6,
+      "ID": "FIELD_ICON_INFO",
+      "nearInner": 10,
+      "nearDoll": 10,
+      "far": 20,
+      "skip": 0
+    }
+  ]
+}

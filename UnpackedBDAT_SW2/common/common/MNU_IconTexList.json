@@ -1,0 +1,384 @@
+{
+  "schema": [
+    {
+      "name": "ID",
+      "type": 9
+    },
+    {
+      "name": "tex",
+      "type": 7
+    },
+    {
+      "name": "res",
+      "type": 7
+    },
+    {
+      "name": "sizex",
+      "type": 2
+    },
+    {
+      "name": "sizey",
+      "type": 2
+    },
+    {
+      "name": "start",
+      "type": 2
+    },
+    {
+      "name": "end",
+      "type": 2
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "ID": "TEX_AUTOATK_PC",
+      "tex": "common_bc1_02",
+      "res": "",
+      "sizex": 6,
+      "sizey": 7,
+      "start": 1,
+      "end": 13
+    },
+    {
+      "$id": 2,
+      "ID": "TEX_AUTOATK_DL",
+      "tex": "common_bc1_02",
+      "res": "",
+      "sizex": 6,
+      "sizey": 7,
+      "start": 14,
+      "end": 42
+    },
+    {
+      "$id": 3,
+      "ID": "TEX_DEBUFF",
+      "tex": "common_bc1_04",
+      "res": "",
+      "sizex": 8,
+      "sizey": 12,
+      "start": 1,
+      "end": 32
+    },
+    {
+      "$id": 4,
+      "ID": "TEX_BUFF",
+      "tex": "common_bc1_04",
+      "res": "",
+      "sizex": 8,
+      "sizey": 12,
+      "start": 33,
+      "end": 64
+    },
+    {
+      "$id": 5,
+      "ID": "TEX_WEATHER_BUFF",
+      "tex": "common_bc1_04",
+      "res": "",
+      "sizex": 8,
+      "sizey": 12,
+      "start": 65,
+      "end": 88
+    },
+    {
+      "$id": 6,
+      "ID": "TEX_ZONE_BUFF",
+      "tex": "common_bc1_04",
+      "res": "",
+      "sizex": 8,
+      "sizey": 12,
+      "start": 89,
+      "end": 96
+    },
+    {
+      "$id": 7,
+      "ID": "TEX_GUEST",
+      "tex": "common_bc1_06",
+      "res": "",
+      "sizex": 10,
+      "sizey": 3,
+      "start": 1,
+      "end": 30
+    },
+    {
+      "$id": 8,
+      "ID": "TEX_BUTTON",
+      "tex": "common_bc3_02",
+      "res": "",
+      "sizex": 8,
+      "sizey": 18,
+      "start": 1,
+      "end": 48
+    },
+    {
+      "$id": 9,
+      "ID": "TEX_TXTDEBUFF",
+      "tex": "common_bc3_02",
+      "res": "",
+      "sizex": 8,
+      "sizey": 18,
+      "start": 49,
+      "end": 80
+    },
+    {
+      "$id": 10,
+      "ID": "TEX_TXTBUFF",
+      "tex": "common_bc3_02",
+      "res": "",
+      "sizex": 8,
+      "sizey": 18,
+      "start": 81,
+      "end": 111
+    },
+    {
+      "$id": 11,
+      "ID": "TEX_COMPANY",
+      "tex": "common_bc3_03",
+      "res": "",
+      "sizex": 10,
+      "sizey": 5,
+      "start": 1,
+      "end": 10
+    },
+    {
+      "$id": 12,
+      "ID": "TEX_UNION",
+      "tex": "common_bc3_03",
+      "res": "",
+      "sizex": 10,
+      "sizey": 5,
+      "start": 11,
+      "end": 20
+    },
+    {
+      "$id": 13,
+      "ID": "TEX_ARROW",
+      "tex": "common_bc3_03",
+      "res": "",
+      "sizex": 10,
+      "sizey": 5,
+      "start": 21,
+      "end": 26
+    },
+    {
+      "$id": 14,
+      "ID": "TEX_SOULVOICE",
+      "tex": "common_bc3_03",
+      "res": "",
+      "sizex": 10,
+      "sizey": 5,
+      "start": 27,
+      "end": 33
+    },
+    {
+      "$id": 15,
+      "ID": "TEX_WEATHER",
+      "tex": "common_bc3_04",
+      "res": "",
+      "sizex": 8,
+      "sizey": 4,
+      "start": 1,
+      "end": 32
+    },
+    {
+      "$id": 16,
+      "ID": "TEX_QUEST",
+      "tex": "common_bc3_05",
+      "res": "",
+      "sizex": 10,
+      "sizey": 5,
+      "start": 1,
+      "end": 4
+    },
+    {
+      "$id": 17,
+      "ID": "TEX_MULTIQUEST",
+      "tex": "common_bc3_05",
+      "res": "",
+      "sizex": 10,
+      "sizey": 5,
+      "start": 5,
+      "end": 10
+    },
+    {
+      "$id": 18,
+      "ID": "TEX_ATR",
+      "tex": "common_bc3_05",
+      "res": "",
+      "sizex": 10,
+      "sizey": 5,
+      "start": 11,
+      "end": 20
+    },
+    {
+      "$id": 19,
+      "ID": "TEX_SLOT",
+      "tex": "common_bc3_05",
+      "res": "",
+      "sizex": 10,
+      "sizey": 5,
+      "start": 21,
+      "end": 22
+    },
+    {
+      "$id": 20,
+      "ID": "TEX_KSKILL",
+      "tex": "common_bc3_05",
+      "res": "",
+      "sizex": 10,
+      "sizey": 5,
+      "start": 25,
+      "end": 27
+    },
+    {
+      "$id": 21,
+      "ID": "TEX_ACHIEVE",
+      "tex": "common_bc3_05",
+      "res": "",
+      "sizex": 10,
+      "sizey": 5,
+      "start": 28,
+      "end": 30
+    },
+    {
+      "$id": 22,
+      "ID": "TEX_DOLL",
+      "tex": "common_bc3_05",
+      "res": "",
+      "sizex": 10,
+      "sizey": 5,
+      "start": 33,
+      "end": 35
+    },
+    {
+      "$id": 23,
+      "ID": "TEX_DRBONUS",
+      "tex": "common_bc3_05",
+      "res": "",
+      "sizex": 10,
+      "sizey": 5,
+      "start": 41,
+      "end": 44
+    },
+    {
+      "$id": 24,
+      "ID": "TEX_NUMBER",
+      "tex": "common_bc3_07",
+      "res": "",
+      "sizex": 6,
+      "sizey": 2,
+      "start": 1,
+      "end": 12
+    },
+    {
+      "$id": 25,
+      "ID": "TEX_PCARTS",
+      "tex": "common_bc3_08",
+      "res": "",
+      "sizex": 12,
+      "sizey": 12,
+      "start": 1,
+      "end": 144
+    },
+    {
+      "$id": 26,
+      "ID": "TEX_DLARTS",
+      "tex": "common_bc3_09",
+      "res": "",
+      "sizex": 10,
+      "sizey": 10,
+      "start": 1,
+      "end": 100
+    },
+    {
+      "$id": 27,
+      "ID": "TEX_ITEMCAT",
+      "tex": "common_bc3_10",
+      "res": "",
+      "sizex": 10,
+      "sizey": 18,
+      "start": 1,
+      "end": 170
+    },
+    {
+      "$id": 28,
+      "ID": "TEX_NUM_ROME",
+      "tex": "common_bc3_11",
+      "res": "",
+      "sizex": 5,
+      "sizey": 2,
+      "start": 1,
+      "end": 10
+    },
+    {
+      "$id": 29,
+      "ID": "TEX_CLASS",
+      "tex": "classIcon_00",
+      "res": "",
+      "sizex": 9,
+      "sizey": 2,
+      "start": 1,
+      "end": 17
+    },
+    {
+      "$id": 30,
+      "ID": "TEX_NPCFACE",
+      "tex": "face_npc_00",
+      "res": "",
+      "sizex": 20,
+      "sizey": 21,
+      "start": 1,
+      "end": 420
+    },
+    {
+      "$id": 31,
+      "ID": "TEX_COLLECTION",
+      "tex": "priv_collepedia_collectionicon_00",
+      "res": "common_collepedia_02",
+      "sizex": 18,
+      "sizey": 18,
+      "start": 1,
+      "end": 324
+    },
+    {
+      "$id": 32,
+      "ID": "TEX_SKILL",
+      "tex": "skill_Icon_00",
+      "res": "",
+      "sizex": 10,
+      "sizey": 10,
+      "start": 1,
+      "end": 100
+    },
+    {
+      "$id": 33,
+      "ID": "TEX_SQUAD",
+      "tex": "priv_squad_mission_categoryicon_00",
+      "res": "hud_squad_mission_01",
+      "sizex": 8,
+      "sizey": 6,
+      "start": 1,
+      "end": 41
+    },
+    {
+      "$id": 34,
+      "ID": "TEX_MYUNION",
+      "tex": "priv_union_icon_00",
+      "res": "hud_union_support_00",
+      "sizex": 8,
+      "sizey": 2,
+      "start": 1,
+      "end": 16
+    },
+    {
+      "$id": 35,
+      "ID": "TEX_UNIONSUP",
+      "tex": "priv_union_icon_01",
+      "res": "hud_union_support_00",
+      "sizex": 8,
+      "sizey": 1,
+      "start": 1,
+      "end": 8
+    }
+  ]
+}

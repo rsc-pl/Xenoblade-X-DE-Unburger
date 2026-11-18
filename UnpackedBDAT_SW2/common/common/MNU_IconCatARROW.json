@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "ID",
+      "type": 9
+    },
+    {
+      "name": "texID",
+      "type": 2
+    },
+    {
+      "name": "MSlabel",
+      "type": 2
+    }
+  ],
+  "rows": [
+    {
+      "$id": 0,
+      "ID": "ARROW_RIGHT",
+      "texID": 2346,
+      "MSlabel": 0
+    },
+    {
+      "$id": 1,
+      "ID": "ARROW_DOWN",
+      "texID": 2347,
+      "MSlabel": 0
+    },
+    {
+      "$id": 2,
+      "ID": "ARROW_DUMMY1",
+      "texID": 2348,
+      "MSlabel": 0
+    },
+    {
+      "$id": 3,
+      "ID": "ARROW_DUMMY2",
+      "texID": 2349,
+      "MSlabel": 0
+    },
+    {
+      "$id": 4,
+      "ID": "ARROW_DUMMY3",
+      "texID": 2350,
+      "MSlabel": 0
+    },
+    {
+      "$id": 5,
+      "ID": "ARROW_DUMMY4",
+      "texID": 2351,
+      "MSlabel": 0
+    }
+  ]
+}

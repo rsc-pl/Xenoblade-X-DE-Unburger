@@ -1,0 +1,64 @@
+{
+  "schema": [
+    {
+      "name": "ID",
+      "type": 9
+    },
+    {
+      "name": "Type",
+      "type": 1
+    },
+    {
+      "name": "RstDebuffHalfRev2",
+      "type": 3
+    },
+    {
+      "name": "RstDebuffFullRev2",
+      "type": 3
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "ID": "EN_DEBUFF_ALL_RESIST",
+      "Type": 0,
+      "RstDebuffHalfRev2": 4294967295,
+      "RstDebuffFullRev2": 0
+    },
+    {
+      "$id": 2,
+      "ID": "EN_DEBUFF_ALL_INVALID",
+      "Type": 0,
+      "RstDebuffHalfRev2": 0,
+      "RstDebuffFullRev2": 4294967295
+    },
+    {
+      "$id": 3,
+      "ID": "EN_DEBUFF_ALL_VALID",
+      "Type": 1,
+      "RstDebuffHalfRev2": 0,
+      "RstDebuffFullRev2": 0
+    },
+    {
+      "$id": 4,
+      "ID": "EN_DEBUFF_CON_INVALID",
+      "Type": 0,
+      "RstDebuffHalfRev2": 0,
+      "RstDebuffFullRev2": 524288
+    },
+    {
+      "$id": 5,
+      "ID": "RES_EN012601_M05",
+      "Type": 0,
+      "RstDebuffHalfRev2": 0,
+      "RstDebuffFullRev2": 536870912
+    },
+    {
+      "$id": 6,
+      "ID": "RES_EN060301_Q858_A",
+      "Type": 0,
+      "RstDebuffHalfRev2": 0,
+      "RstDebuffFullRev2": 411172864
+    }
+  ]
+}

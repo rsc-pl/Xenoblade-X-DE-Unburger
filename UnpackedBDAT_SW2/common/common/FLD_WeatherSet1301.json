@@ -1,0 +1,85 @@
+{
+  "schema": [
+    {
+      "name": "ID",
+      "type": 9
+    },
+    {
+      "name": "wtr_id",
+      "type": 1
+    },
+    {
+      "name": "time_min",
+      "type": 2
+    },
+    {
+      "name": "time_max",
+      "type": 2
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "ID": "WTRSET1301_FINE",
+      "wtr_id": 1,
+      "time_min": 240,
+      "time_max": 300
+    },
+    {
+      "$id": 2,
+      "ID": "WTRSET1301_RAIN",
+      "wtr_id": 5,
+      "time_min": 240,
+      "time_max": 300
+    },
+    {
+      "$id": 3,
+      "ID": "WTRSET1301_TND",
+      "wtr_id": 6,
+      "time_min": 240,
+      "time_max": 300
+    },
+    {
+      "$id": 4,
+      "ID": "WTRSET1301_HRAIN",
+      "wtr_id": 7,
+      "time_min": 240,
+      "time_max": 300
+    },
+    {
+      "$id": 5,
+      "ID": "WTRSET1301_TDR",
+      "wtr_id": 10,
+      "time_min": 240,
+      "time_max": 300
+    },
+    {
+      "$id": 6,
+      "ID": "WTRSET1301_ARR",
+      "wtr_id": 16,
+      "time_min": 120,
+      "time_max": 240
+    },
+    {
+      "$id": 7,
+      "ID": "WTRSET1301_MSTM",
+      "wtr_id": 18,
+      "time_min": 120,
+      "time_max": 240
+    },
+    {
+      "$id": 8,
+      "ID": "WTRSET1301_RNBW",
+      "wtr_id": 19,
+      "time_min": 120,
+      "time_max": 240
+    },
+    {
+      "$id": 9,
+      "ID": "WTRSET1301_SP02",
+      "wtr_id": 22,
+      "time_min": 240,
+      "time_max": 300
+    }
+  ]
+}

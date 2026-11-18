@@ -1,0 +1,274 @@
+{
+  "schema": [
+    {
+      "name": "ID",
+      "type": 9
+    },
+    {
+      "name": "slotMax",
+      "type": 1
+    },
+    {
+      "name": "itemCat",
+      "type": 1
+    },
+    {
+      "name": "itemInfo",
+      "type": 1
+    },
+    {
+      "name": "money",
+      "type": 3
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "ID": "SHP_SLOT_IW_ASSAULT",
+      "slotMax": 3,
+      "itemCat": 1,
+      "itemInfo": 1,
+      "money": 500
+    },
+    {
+      "$id": 2,
+      "ID": "SHP_SLOT_IW_SNIPER",
+      "slotMax": 3,
+      "itemCat": 1,
+      "itemInfo": 2,
+      "money": 500
+    },
+    {
+      "$id": 3,
+      "ID": "SHP_SLOT_IW_DUALGUN",
+      "slotMax": 3,
+      "itemCat": 1,
+      "itemInfo": 3,
+      "money": 500
+    },
+    {
+      "$id": 4,
+      "ID": "SHP_SLOT_IW_GATLINGGUN",
+      "slotMax": 3,
+      "itemCat": 1,
+      "itemInfo": 4,
+      "money": 500
+    },
+    {
+      "$id": 5,
+      "ID": "SHP_SLOT_IW_BEAMGUN",
+      "slotMax": 3,
+      "itemCat": 1,
+      "itemInfo": 5,
+      "money": 500
+    },
+    {
+      "$id": 6,
+      "ID": "SHP_SLOT_IW_PSYCHO",
+      "slotMax": 3,
+      "itemCat": 1,
+      "itemInfo": 6,
+      "money": 500
+    },
+    {
+      "$id": 7,
+      "ID": "SHP_SLOT_IW_LONGSWORD",
+      "slotMax": 3,
+      "itemCat": 1,
+      "itemInfo": 7,
+      "money": 500
+    },
+    {
+      "$id": 8,
+      "ID": "SHP_SLOT_IW_JAVELIN",
+      "slotMax": 3,
+      "itemCat": 1,
+      "itemInfo": 8,
+      "money": 500
+    },
+    {
+      "$id": 9,
+      "ID": "SHP_SLOT_IW_DUALBLADE",
+      "slotMax": 3,
+      "itemCat": 1,
+      "itemInfo": 9,
+      "money": 500
+    },
+    {
+      "$id": 10,
+      "ID": "SHP_SLOT_IW_SHIELD",
+      "slotMax": 3,
+      "itemCat": 1,
+      "itemInfo": 10,
+      "money": 500
+    },
+    {
+      "$id": 11,
+      "ID": "SHP_SLOT_IW_KNIFE",
+      "slotMax": 3,
+      "itemCat": 1,
+      "itemInfo": 11,
+      "money": 500
+    },
+    {
+      "$id": 12,
+      "ID": "SHP_SLOT_IW_BEAMSAVIOR",
+      "slotMax": 3,
+      "itemCat": 1,
+      "itemInfo": 12,
+      "money": 500
+    },
+    {
+      "$id": 13,
+      "ID": "SHP_SLOT_IW_MULTIGUN",
+      "slotMax": 3,
+      "itemCat": 1,
+      "itemInfo": 13,
+      "money": 500
+    },
+    {
+      "$id": 14,
+      "ID": "SHP_SLOT_IS_HEAD",
+      "slotMax": 1,
+      "itemCat": 2,
+      "itemInfo": 1,
+      "money": 500
+    },
+    {
+      "$id": 15,
+      "ID": "SHP_SLOT_IS_BODY",
+      "slotMax": 1,
+      "itemCat": 2,
+      "itemInfo": 2,
+      "money": 500
+    },
+    {
+      "$id": 16,
+      "ID": "SHP_SLOT_IS_ARMR",
+      "slotMax": 1,
+      "itemCat": 2,
+      "itemInfo": 3,
+      "money": 500
+    },
+    {
+      "$id": 17,
+      "ID": "SHP_SLOT_IS_ARML",
+      "slotMax": 1,
+      "itemCat": 2,
+      "itemInfo": 4,
+      "money": 500
+    },
+    {
+      "$id": 18,
+      "ID": "SHP_SLOT_IS_LEG",
+      "slotMax": 1,
+      "itemCat": 2,
+      "itemInfo": 5,
+      "money": 500
+    },
+    {
+      "$id": 19,
+      "ID": "SHP_SLOT_DW_WAIST",
+      "slotMax": 3,
+      "itemCat": 3,
+      "itemInfo": 1,
+      "money": 800
+    },
+    {
+      "$id": 20,
+      "ID": "SHP_SLOT_DW_SHOULDER",
+      "slotMax": 3,
+      "itemCat": 3,
+      "itemInfo": 2,
+      "money": 800
+    },
+    {
+      "$id": 21,
+      "ID": "SHP_SLOT_DW_SHOULDER2",
+      "slotMax": 3,
+      "itemCat": 3,
+      "itemInfo": 3,
+      "money": 800
+    },
+    {
+      "$id": 22,
+      "ID": "SHP_SLOT_DW_BACK",
+      "slotMax": 3,
+      "itemCat": 3,
+      "itemInfo": 4,
+      "money": 800
+    },
+    {
+      "$id": 23,
+      "ID": "SHP_SLOT_DW_BACK2",
+      "slotMax": 3,
+      "itemCat": 3,
+      "itemInfo": 5,
+      "money": 800
+    },
+    {
+      "$id": 24,
+      "ID": "SHP_SLOT_DW_ARM",
+      "slotMax": 3,
+      "itemCat": 3,
+      "itemInfo": 6,
+      "money": 800
+    },
+    {
+      "$id": 25,
+      "ID": "SHP_SLOT_DW_KNEE",
+      "slotMax": 3,
+      "itemCat": 3,
+      "itemInfo": 7,
+      "money": 800
+    },
+    {
+      "$id": 26,
+      "ID": "SHP_SLOT_DW_SUPER",
+      "slotMax": 3,
+      "itemCat": 3,
+      "itemInfo": 8,
+      "money": 800
+    },
+    {
+      "$id": 27,
+      "ID": "SHP_SLOT_DA_HEAD",
+      "slotMax": 1,
+      "itemCat": 4,
+      "itemInfo": 1,
+      "money": 800
+    },
+    {
+      "$id": 28,
+      "ID": "SHP_SLOT_DA_BODY",
+      "slotMax": 1,
+      "itemCat": 4,
+      "itemInfo": 2,
+      "money": 800
+    },
+    {
+      "$id": 29,
+      "ID": "SHP_SLOT_DA_ARMR",
+      "slotMax": 1,
+      "itemCat": 4,
+      "itemInfo": 3,
+      "money": 800
+    },
+    {
+      "$id": 30,
+      "ID": "SHP_SLOT_DA_ARML",
+      "slotMax": 1,
+      "itemCat": 4,
+      "itemInfo": 4,
+      "money": 800
+    },
+    {
+      "$id": 31,
+      "ID": "SHP_SLOT_DA_LEG",
+      "slotMax": 1,
+      "itemCat": 4,
+      "itemInfo": 5,
+      "money": 800
+    }
+  ]
+}

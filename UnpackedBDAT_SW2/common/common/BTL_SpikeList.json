@@ -1,0 +1,494 @@
+{
+  "schema": [
+    {
+      "name": "ID",
+      "type": 9
+    },
+    {
+      "name": "Range",
+      "type": 2
+    },
+    {
+      "name": "Cycle",
+      "type": 2
+    },
+    {
+      "name": "Attr",
+      "type": 1
+    },
+    {
+      "name": "DmgRate",
+      "type": 2
+    },
+    {
+      "name": "BuffID",
+      "type": 2
+    },
+    {
+      "name": "BuffLv",
+      "type": 1
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "ID": "SPIKE_010",
+      "Range": 400,
+      "Cycle": 60,
+      "Attr": 2,
+      "DmgRate": 10,
+      "BuffID": 0,
+      "BuffLv": 0
+    },
+    {
+      "$id": 2,
+      "ID": "SPIKE_011",
+      "Range": 200,
+      "Cycle": 60,
+      "Attr": 6,
+      "DmgRate": 15,
+      "BuffID": 17,
+      "BuffLv": 1
+    },
+    {
+      "$id": 3,
+      "ID": "SPIKE_012",
+      "Range": 5,
+      "Cycle": 60,
+      "Attr": 5,
+      "DmgRate": 30,
+      "BuffID": 0,
+      "BuffLv": 0
+    },
+    {
+      "$id": 4,
+      "ID": "SPIKE_013",
+      "Range": 30,
+      "Cycle": 60,
+      "Attr": 5,
+      "DmgRate": 20,
+      "BuffID": 0,
+      "BuffLv": 0
+    },
+    {
+      "$id": 5,
+      "ID": "SPIKE_014",
+      "Range": 200,
+      "Cycle": 60,
+      "Attr": 3,
+      "DmgRate": 20,
+      "BuffID": 20,
+      "BuffLv": 1
+    },
+    {
+      "$id": 6,
+      "ID": "SPIKE_015",
+      "Range": 5,
+      "Cycle": 0,
+      "Attr": 2,
+      "DmgRate": 15,
+      "BuffID": 0,
+      "BuffLv": 1
+    },
+    {
+      "$id": 7,
+      "ID": "SPIKE_016",
+      "Range": 10,
+      "Cycle": 30,
+      "Attr": 4,
+      "DmgRate": 100,
+      "BuffID": 21,
+      "BuffLv": 1
+    },
+    {
+      "$id": 8,
+      "ID": "SPIKE_017",
+      "Range": 10,
+      "Cycle": 45,
+      "Attr": 3,
+      "DmgRate": 15,
+      "BuffID": 20,
+      "BuffLv": 2
+    },
+    {
+      "$id": 9,
+      "ID": "SPIKE_018",
+      "Range": 10,
+      "Cycle": 0,
+      "Attr": 3,
+      "DmgRate": 15,
+      "BuffID": 20,
+      "BuffLv": 2
+    },
+    {
+      "$id": 10,
+      "ID": "SPIKE_019",
+      "Range": 5,
+      "Cycle": 30,
+      "Attr": 3,
+      "DmgRate": 10,
+      "BuffID": 0,
+      "BuffLv": 1
+    },
+    {
+      "$id": 11,
+      "ID": "SPIKE_020",
+      "Range": 100,
+      "Cycle": 60,
+      "Attr": 3,
+      "DmgRate": 10,
+      "BuffID": 0,
+      "BuffLv": 1
+    },
+    {
+      "$id": 12,
+      "ID": "SPIKE_021",
+      "Range": 25,
+      "Cycle": 0,
+      "Attr": 3,
+      "DmgRate": 10,
+      "BuffID": 17,
+      "BuffLv": 1
+    },
+    {
+      "$id": 13,
+      "ID": "SPIKE_022",
+      "Range": 250,
+      "Cycle": 60,
+      "Attr": 6,
+      "DmgRate": 50,
+      "BuffID": 0,
+      "BuffLv": 1
+    },
+    {
+      "$id": 14,
+      "ID": "SPIKE_023",
+      "Range": 250,
+      "Cycle": 0,
+      "Attr": 6,
+      "DmgRate": 50,
+      "BuffID": 26,
+      "BuffLv": 2
+    },
+    {
+      "$id": 15,
+      "ID": "SPIKE_024",
+      "Range": 500,
+      "Cycle": 0,
+      "Attr": 5,
+      "DmgRate": 10,
+      "BuffID": 0,
+      "BuffLv": 0
+    },
+    {
+      "$id": 16,
+      "ID": "SPIKE_025",
+      "Range": 250,
+      "Cycle": 60,
+      "Attr": 3,
+      "DmgRate": 50,
+      "BuffID": 0,
+      "BuffLv": 1
+    },
+    {
+      "$id": 17,
+      "ID": "SPIKE_026",
+      "Range": 250,
+      "Cycle": 0,
+      "Attr": 3,
+      "DmgRate": 50,
+      "BuffID": 17,
+      "BuffLv": 1
+    },
+    {
+      "$id": 18,
+      "ID": "SPIKE_027",
+      "Range": 250,
+      "Cycle": 0,
+      "Attr": 2,
+      "DmgRate": 10,
+      "BuffID": 19,
+      "BuffLv": 1
+    },
+    {
+      "$id": 19,
+      "ID": "SPIKE_028",
+      "Range": 200,
+      "Cycle": 60,
+      "Attr": 2,
+      "DmgRate": 25,
+      "BuffID": 0,
+      "BuffLv": 0
+    },
+    {
+      "$id": 20,
+      "ID": "SPIKE_029",
+      "Range": 10,
+      "Cycle": 0,
+      "Attr": 1,
+      "DmgRate": 15,
+      "BuffID": 17,
+      "BuffLv": 1
+    },
+    {
+      "$id": 21,
+      "ID": "SPIKE_030",
+      "Range": 30,
+      "Cycle": 60,
+      "Attr": 3,
+      "DmgRate": 100,
+      "BuffID": 0,
+      "BuffLv": 0
+    },
+    {
+      "$id": 22,
+      "ID": "SPIKE_031",
+      "Range": 20,
+      "Cycle": 0,
+      "Attr": 3,
+      "DmgRate": 10,
+      "BuffID": 0,
+      "BuffLv": 0
+    },
+    {
+      "$id": 23,
+      "ID": "SPIKE_032",
+      "Range": 10,
+      "Cycle": 0,
+      "Attr": 1,
+      "DmgRate": 25,
+      "BuffID": 0,
+      "BuffLv": 0
+    },
+    {
+      "$id": 24,
+      "ID": "SPIKE_033",
+      "Range": 250,
+      "Cycle": 30,
+      "Attr": 3,
+      "DmgRate": 500,
+      "BuffID": 20,
+      "BuffLv": 5
+    },
+    {
+      "$id": 25,
+      "ID": "SPIKE_034",
+      "Range": 250,
+      "Cycle": 0,
+      "Attr": 1,
+      "DmgRate": 500,
+      "BuffID": 18,
+      "BuffLv": 5
+    },
+    {
+      "$id": 26,
+      "ID": "SPIKE_035",
+      "Range": 30,
+      "Cycle": 60,
+      "Attr": 5,
+      "DmgRate": 50,
+      "BuffID": 15,
+      "BuffLv": 0
+    },
+    {
+      "$id": 27,
+      "ID": "SPIKE_036",
+      "Range": 30,
+      "Cycle": 60,
+      "Attr": 4,
+      "DmgRate": 100,
+      "BuffID": 21,
+      "BuffLv": 1
+    },
+    {
+      "$id": 28,
+      "ID": "SPIKE_PC_ARTS_IRON_01",
+      "Range": 15,
+      "Cycle": 45,
+      "Attr": 4,
+      "DmgRate": 500,
+      "BuffID": 0,
+      "BuffLv": 0
+    },
+    {
+      "$id": 29,
+      "ID": "SPIKE_PC_ARTS_IRON_02",
+      "Range": 15,
+      "Cycle": 45,
+      "Attr": 4,
+      "DmgRate": 600,
+      "BuffID": 0,
+      "BuffLv": 0
+    },
+    {
+      "$id": 30,
+      "ID": "SPIKE_PC_ARTS_IRON_03",
+      "Range": 15,
+      "Cycle": 45,
+      "Attr": 4,
+      "DmgRate": 700,
+      "BuffID": 0,
+      "BuffLv": 0
+    },
+    {
+      "$id": 31,
+      "ID": "SPIKE_PC_ARTS_IRON_04",
+      "Range": 15,
+      "Cycle": 45,
+      "Attr": 4,
+      "DmgRate": 800,
+      "BuffID": 0,
+      "BuffLv": 0
+    },
+    {
+      "$id": 32,
+      "ID": "SPIKE_PC_ARTS_IRON_05",
+      "Range": 15,
+      "Cycle": 45,
+      "Attr": 4,
+      "DmgRate": 900,
+      "BuffID": 0,
+      "BuffLv": 0
+    },
+    {
+      "$id": 33,
+      "ID": "SPIKE_PC_ARTS_IRON_06",
+      "Range": 15,
+      "Cycle": 45,
+      "Attr": 4,
+      "DmgRate": 1100,
+      "BuffID": 0,
+      "BuffLv": 0
+    },
+    {
+      "$id": 34,
+      "ID": "SPIKE_PC_ARTS_ASTERO_01",
+      "Range": 1000,
+      "Cycle": 0,
+      "Attr": 3,
+      "DmgRate": 1000,
+      "BuffID": 0,
+      "BuffLv": 0
+    },
+    {
+      "$id": 35,
+      "ID": "SPIKE_PC_ARTS_ASTERO_02",
+      "Range": 1000,
+      "Cycle": 0,
+      "Attr": 3,
+      "DmgRate": 1200,
+      "BuffID": 0,
+      "BuffLv": 0
+    },
+    {
+      "$id": 36,
+      "ID": "SPIKE_PC_ARTS_ASTERO_03",
+      "Range": 1000,
+      "Cycle": 0,
+      "Attr": 3,
+      "DmgRate": 1400,
+      "BuffID": 0,
+      "BuffLv": 0
+    },
+    {
+      "$id": 37,
+      "ID": "SPIKE_PC_ARTS_ASTERO_04",
+      "Range": 1000,
+      "Cycle": 0,
+      "Attr": 3,
+      "DmgRate": 1600,
+      "BuffID": 0,
+      "BuffLv": 0
+    },
+    {
+      "$id": 38,
+      "ID": "SPIKE_PC_ARTS_ASTERO_05",
+      "Range": 1000,
+      "Cycle": 0,
+      "Attr": 3,
+      "DmgRate": 1800,
+      "BuffID": 0,
+      "BuffLv": 0
+    },
+    {
+      "$id": 39,
+      "ID": "SPIKE_PC_ARTS_ASTERO_06",
+      "Range": 1000,
+      "Cycle": 0,
+      "Attr": 3,
+      "DmgRate": 2200,
+      "BuffID": 0,
+      "BuffLv": 0
+    },
+    {
+      "$id": 40,
+      "ID": "SPIKE_CRUSEIDER_SK5_01",
+      "Range": 0,
+      "Cycle": 0,
+      "Attr": 5,
+      "DmgRate": 100,
+      "BuffID": 0,
+      "BuffLv": 0
+    },
+    {
+      "$id": 41,
+      "ID": "SPIKE_CRUSEIDER_SK5_02",
+      "Range": 0,
+      "Cycle": 0,
+      "Attr": 5,
+      "DmgRate": 125,
+      "BuffID": 0,
+      "BuffLv": 0
+    },
+    {
+      "$id": 42,
+      "ID": "SPIKE_CRUSEIDER_SK5_03",
+      "Range": 0,
+      "Cycle": 0,
+      "Attr": 5,
+      "DmgRate": 150,
+      "BuffID": 0,
+      "BuffLv": 0
+    },
+    {
+      "$id": 43,
+      "ID": "SPIKE_CRUSEIDER_SK5_04",
+      "Range": 0,
+      "Cycle": 0,
+      "Attr": 5,
+      "DmgRate": 175,
+      "BuffID": 0,
+      "BuffLv": 0
+    },
+    {
+      "$id": 44,
+      "ID": "SPIKE_CRUSEIDER_SK5_05",
+      "Range": 0,
+      "Cycle": 0,
+      "Attr": 5,
+      "DmgRate": 200,
+      "BuffID": 0,
+      "BuffLv": 0
+    },
+    {
+      "$id": 45,
+      "ID": "SPIKE_EN_730101A_NM",
+      "Range": 50,
+      "Cycle": 75,
+      "Attr": 6,
+      "DmgRate": 9,
+      "BuffID": 0,
+      "BuffLv": 1
+    },
+    {
+      "$id": 46,
+      "ID": "SPIKE_EN_712501_Z_N00",
+      "Range": 100,
+      "Cycle": 30,
+      "Attr": 5,
+      "DmgRate": 5,
+      "BuffID": 0,
+      "BuffLv": 1
+    }
+  ]
+}

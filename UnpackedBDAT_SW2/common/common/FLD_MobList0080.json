@@ -1,0 +1,148 @@
+{
+  "schema": [
+    {
+      "name": "ID",
+      "type": 9
+    },
+    {
+      "name": "name",
+      "type": 7
+    },
+    {
+      "name": "popNum_min",
+      "type": 1
+    },
+    {
+      "name": "popNum_max",
+      "type": 1
+    },
+    {
+      "name": "popItvl_min",
+      "type": 1
+    },
+    {
+      "name": "popItvl_max",
+      "type": 1
+    },
+    {
+      "name": "res_group",
+      "type": 2
+    },
+    {
+      "name": "algo_type",
+      "type": 1
+    },
+    {
+      "name": "gene_dist",
+      "type": 2
+    },
+    {
+      "name": "del_dist",
+      "type": 2
+    },
+    {
+      "name": "del_dist_pc",
+      "type": 2
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "ID": "MOB_001",
+      "name": "MOB_001",
+      "popNum_min": 1,
+      "popNum_max": 1,
+      "popItvl_min": 0,
+      "popItvl_max": 0,
+      "res_group": 1,
+      "algo_type": 1,
+      "gene_dist": 25,
+      "del_dist": 2,
+      "del_dist_pc": 25
+    },
+    {
+      "$id": 2,
+      "ID": "MOB_002",
+      "name": "MOB_002",
+      "popNum_min": 1,
+      "popNum_max": 1,
+      "popItvl_min": 0,
+      "popItvl_max": 0,
+      "res_group": 2,
+      "algo_type": 1,
+      "gene_dist": 25,
+      "del_dist": 2,
+      "del_dist_pc": 25
+    },
+    {
+      "$id": 3,
+      "ID": "MOB_003",
+      "name": "MOB_003",
+      "popNum_min": 1,
+      "popNum_max": 1,
+      "popItvl_min": 0,
+      "popItvl_max": 0,
+      "res_group": 3,
+      "algo_type": 1,
+      "gene_dist": 25,
+      "del_dist": 2,
+      "del_dist_pc": 25
+    },
+    {
+      "$id": 4,
+      "ID": "MOB_004",
+      "name": "MOB_004",
+      "popNum_min": 1,
+      "popNum_max": 1,
+      "popItvl_min": 0,
+      "popItvl_max": 0,
+      "res_group": 4,
+      "algo_type": 1,
+      "gene_dist": 25,
+      "del_dist": 2,
+      "del_dist_pc": 25
+    },
+    {
+      "$id": 5,
+      "ID": "MOB_005",
+      "name": "MOB_005",
+      "popNum_min": 1,
+      "popNum_max": 1,
+      "popItvl_min": 0,
+      "popItvl_max": 0,
+      "res_group": 5,
+      "algo_type": 1,
+      "gene_dist": 25,
+      "del_dist": 2,
+      "del_dist_pc": 25
+    },
+    {
+      "$id": 6,
+      "ID": "MOB_006",
+      "name": "MOB_006",
+      "popNum_min": 1,
+      "popNum_max": 1,
+      "popItvl_min": 0,
+      "popItvl_max": 0,
+      "res_group": 6,
+      "algo_type": 1,
+      "gene_dist": 25,
+      "del_dist": 2,
+      "del_dist_pc": 25
+    },
+    {
+      "$id": 7,
+      "ID": "MOB_007",
+      "name": "MOB_007",
+      "popNum_min": 1,
+      "popNum_max": 1,
+      "popItvl_min": 0,
+      "popItvl_max": 0,
+      "res_group": 7,
+      "algo_type": 1,
+      "gene_dist": 25,
+      "del_dist": 2,
+      "del_dist_pc": 25
+    }
+  ]
+}

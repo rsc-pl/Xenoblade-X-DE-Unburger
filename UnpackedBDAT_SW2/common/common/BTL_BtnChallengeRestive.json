@@ -1,0 +1,50 @@
+{
+  "schema": [
+    {
+      "name": "ID",
+      "type": 9
+    },
+    {
+      "name": "cycle",
+      "type": 1
+    },
+    {
+      "name": "level",
+      "type": 1
+    },
+    {
+      "name": "dm",
+      "type": 1
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "ID": "SIZE_M",
+      "cycle": 60,
+      "level": 1,
+      "dm": 100
+    },
+    {
+      "$id": 2,
+      "ID": "SIZE_L",
+      "cycle": 50,
+      "level": 2,
+      "dm": 150
+    },
+    {
+      "$id": 3,
+      "ID": "SIZE_LL",
+      "cycle": 40,
+      "level": 3,
+      "dm": 200
+    },
+    {
+      "$id": 4,
+      "ID": "SIZE_LLL",
+      "cycle": 30,
+      "level": 4,
+      "dm": 250
+    }
+  ]
+}

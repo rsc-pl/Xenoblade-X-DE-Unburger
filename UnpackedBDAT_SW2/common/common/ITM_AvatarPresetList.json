@@ -1,0 +1,346 @@
+{
+  "schema": [
+    {
+      "name": "ID",
+      "type": 9
+    },
+    {
+      "name": "Name",
+      "type": 1
+    },
+    {
+      "name": "Caption",
+      "type": 1
+    },
+    {
+      "name": "Sex",
+      "type": 1
+    },
+    {
+      "name": "DEFPCID",
+      "type": 2
+    },
+    {
+      "name": "SelectID",
+      "type": 2
+    },
+    {
+      "name": "ThumbName",
+      "type": 7
+    },
+    {
+      "name": "DefSet",
+      "type": 1
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "ID": "ITM_AVR_PRESET_M_001",
+      "Name": 1,
+      "Caption": 1,
+      "Sex": 1,
+      "DEFPCID": 109,
+      "SelectID": 4361,
+      "ThumbName": "male_t001",
+      "DefSet": 1
+    },
+    {
+      "$id": 2,
+      "ID": "ITM_AVR_PRESET_M_008",
+      "Name": 1,
+      "Caption": 1,
+      "Sex": 1,
+      "DEFPCID": 116,
+      "SelectID": 4361,
+      "ThumbName": "male_t002",
+      "DefSet": 1
+    },
+    {
+      "$id": 3,
+      "ID": "ITM_AVR_PRESET_M_002",
+      "Name": 1,
+      "Caption": 1,
+      "Sex": 1,
+      "DEFPCID": 110,
+      "SelectID": 4362,
+      "ThumbName": "male_t003",
+      "DefSet": 1
+    },
+    {
+      "$id": 4,
+      "ID": "ITM_AVR_PRESET_M_009",
+      "Name": 1,
+      "Caption": 1,
+      "Sex": 1,
+      "DEFPCID": 117,
+      "SelectID": 4362,
+      "ThumbName": "male_t004",
+      "DefSet": 1
+    },
+    {
+      "$id": 5,
+      "ID": "ITM_AVR_PRESET_M_003",
+      "Name": 1,
+      "Caption": 1,
+      "Sex": 1,
+      "DEFPCID": 111,
+      "SelectID": 4363,
+      "ThumbName": "male_t005",
+      "DefSet": 1
+    },
+    {
+      "$id": 6,
+      "ID": "ITM_AVR_PRESET_M_010",
+      "Name": 1,
+      "Caption": 1,
+      "Sex": 1,
+      "DEFPCID": 118,
+      "SelectID": 4363,
+      "ThumbName": "male_t006",
+      "DefSet": 1
+    },
+    {
+      "$id": 7,
+      "ID": "ITM_AVR_PRESET_M_004",
+      "Name": 1,
+      "Caption": 1,
+      "Sex": 1,
+      "DEFPCID": 112,
+      "SelectID": 4364,
+      "ThumbName": "male_t007",
+      "DefSet": 1
+    },
+    {
+      "$id": 8,
+      "ID": "ITM_AVR_PRESET_M_011",
+      "Name": 1,
+      "Caption": 1,
+      "Sex": 1,
+      "DEFPCID": 119,
+      "SelectID": 4364,
+      "ThumbName": "male_t008",
+      "DefSet": 1
+    },
+    {
+      "$id": 9,
+      "ID": "ITM_AVR_PRESET_M_005",
+      "Name": 1,
+      "Caption": 1,
+      "Sex": 1,
+      "DEFPCID": 113,
+      "SelectID": 4365,
+      "ThumbName": "male_t009",
+      "DefSet": 1
+    },
+    {
+      "$id": 10,
+      "ID": "ITM_AVR_PRESET_M_012",
+      "Name": 1,
+      "Caption": 1,
+      "Sex": 1,
+      "DEFPCID": 120,
+      "SelectID": 4365,
+      "ThumbName": "male_t010",
+      "DefSet": 1
+    },
+    {
+      "$id": 11,
+      "ID": "ITM_AVR_PRESET_M_006",
+      "Name": 1,
+      "Caption": 1,
+      "Sex": 1,
+      "DEFPCID": 115,
+      "SelectID": 4366,
+      "ThumbName": "male_t011",
+      "DefSet": 1
+    },
+    {
+      "$id": 12,
+      "ID": "ITM_AVR_PRESET_M_013",
+      "Name": 1,
+      "Caption": 1,
+      "Sex": 1,
+      "DEFPCID": 122,
+      "SelectID": 4366,
+      "ThumbName": "male_t012",
+      "DefSet": 1
+    },
+    {
+      "$id": 13,
+      "ID": "ITM_AVR_PRESET_M_007",
+      "Name": 1,
+      "Caption": 1,
+      "Sex": 1,
+      "DEFPCID": 114,
+      "SelectID": 4367,
+      "ThumbName": "male_t013",
+      "DefSet": 1
+    },
+    {
+      "$id": 14,
+      "ID": "ITM_AVR_PRESET_M_014",
+      "Name": 1,
+      "Caption": 1,
+      "Sex": 1,
+      "DEFPCID": 121,
+      "SelectID": 4367,
+      "ThumbName": "male_t014",
+      "DefSet": 1
+    },
+    {
+      "$id": 15,
+      "ID": "ITM_AVR_PRESET_F_001",
+      "Name": 1,
+      "Caption": 1,
+      "Sex": 2,
+      "DEFPCID": 123,
+      "SelectID": 4368,
+      "ThumbName": "female_t001",
+      "DefSet": 1
+    },
+    {
+      "$id": 16,
+      "ID": "ITM_AVR_PRESET_F_008",
+      "Name": 1,
+      "Caption": 1,
+      "Sex": 2,
+      "DEFPCID": 130,
+      "SelectID": 4368,
+      "ThumbName": "female_t002",
+      "DefSet": 1
+    },
+    {
+      "$id": 17,
+      "ID": "ITM_AVR_PRESET_F_002",
+      "Name": 1,
+      "Caption": 1,
+      "Sex": 2,
+      "DEFPCID": 124,
+      "SelectID": 4369,
+      "ThumbName": "female_t003",
+      "DefSet": 1
+    },
+    {
+      "$id": 18,
+      "ID": "ITM_AVR_PRESET_F_009",
+      "Name": 1,
+      "Caption": 1,
+      "Sex": 2,
+      "DEFPCID": 131,
+      "SelectID": 4369,
+      "ThumbName": "female_t004",
+      "DefSet": 1
+    },
+    {
+      "$id": 19,
+      "ID": "ITM_AVR_PRESET_F_003",
+      "Name": 1,
+      "Caption": 1,
+      "Sex": 2,
+      "DEFPCID": 125,
+      "SelectID": 4370,
+      "ThumbName": "female_t005",
+      "DefSet": 1
+    },
+    {
+      "$id": 20,
+      "ID": "ITM_AVR_PRESET_F_010",
+      "Name": 1,
+      "Caption": 1,
+      "Sex": 2,
+      "DEFPCID": 132,
+      "SelectID": 4370,
+      "ThumbName": "female_t006",
+      "DefSet": 1
+    },
+    {
+      "$id": 21,
+      "ID": "ITM_AVR_PRESET_F_004",
+      "Name": 1,
+      "Caption": 1,
+      "Sex": 2,
+      "DEFPCID": 126,
+      "SelectID": 4371,
+      "ThumbName": "female_t007",
+      "DefSet": 1
+    },
+    {
+      "$id": 22,
+      "ID": "ITM_AVR_PRESET_F_011",
+      "Name": 1,
+      "Caption": 1,
+      "Sex": 2,
+      "DEFPCID": 133,
+      "SelectID": 4371,
+      "ThumbName": "female_t008",
+      "DefSet": 1
+    },
+    {
+      "$id": 23,
+      "ID": "ITM_AVR_PRESET_F_005",
+      "Name": 1,
+      "Caption": 1,
+      "Sex": 2,
+      "DEFPCID": 127,
+      "SelectID": 4372,
+      "ThumbName": "female_t009",
+      "DefSet": 1
+    },
+    {
+      "$id": 24,
+      "ID": "ITM_AVR_PRESET_F_012",
+      "Name": 1,
+      "Caption": 1,
+      "Sex": 2,
+      "DEFPCID": 134,
+      "SelectID": 4372,
+      "ThumbName": "female_t010",
+      "DefSet": 1
+    },
+    {
+      "$id": 25,
+      "ID": "ITM_AVR_PRESET_F_006",
+      "Name": 1,
+      "Caption": 1,
+      "Sex": 2,
+      "DEFPCID": 128,
+      "SelectID": 4373,
+      "ThumbName": "female_t011",
+      "DefSet": 1
+    },
+    {
+      "$id": 26,
+      "ID": "ITM_AVR_PRESET_F_013",
+      "Name": 1,
+      "Caption": 1,
+      "Sex": 2,
+      "DEFPCID": 135,
+      "SelectID": 4373,
+      "ThumbName": "female_t012",
+      "DefSet": 1
+    },
+    {
+      "$id": 27,
+      "ID": "ITM_AVR_PRESET_F_007",
+      "Name": 1,
+      "Caption": 1,
+      "Sex": 2,
+      "DEFPCID": 129,
+      "SelectID": 4374,
+      "ThumbName": "female_t013",
+      "DefSet": 1
+    },
+    {
+      "$id": 28,
+      "ID": "ITM_AVR_PRESET_F_014",
+      "Name": 1,
+      "Caption": 1,
+      "Sex": 2,
+      "DEFPCID": 136,
+      "SelectID": 4374,
+      "ThumbName": "female_t014",
+      "DefSet": 1
+    }
+  ]
+}

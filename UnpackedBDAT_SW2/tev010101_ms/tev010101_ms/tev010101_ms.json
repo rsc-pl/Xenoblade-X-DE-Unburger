@@ -1,0 +1,258 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev010101_JNK0010",
+      "style": 4,
+      "name": "Inquire[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev010101_SEL0041",
+      "style": 3,
+      "name": "Ask Adelbert about Union Street.[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev010101_JNK0020",
+      "style": 4,
+      "name": "Discuss[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev010101_SEL0021",
+      "style": 3,
+      "name": "Find out what Adelbert is upset about.[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev010101_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 6,
+      "label": "tev010101_SEL0011",
+      "style": 3,
+      "name": "Ask Adelbert about the Avalanche."
+    },
+    {
+      "$id": 7,
+      "label": "tev010101_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 8,
+      "label": "tev010101_SEL0021",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 9,
+      "label": "tev010101_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 10,
+      "label": "tev010101_SEL0031",
+      "style": 3,
+      "name": "Ask Adelbert about Overeds."
+    },
+    {
+      "$id": 11,
+      "label": "tev010101_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 12,
+      "label": "tev010101_SEL0021",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 13,
+      "label": "tev010101_JNK0010",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 14,
+      "label": "tev010101_SEL0051",
+      "style": 3,
+      "name": "Ask Adelbert about your bonding with your comrades."
+    },
+    {
+      "$id": 15,
+      "label": "tev010101_JNK0020",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 16,
+      "label": "tev010101_SEL0021",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 17,
+      "label": "tev010101_MSG0001",
+      "style": 1,
+      "name": "It's not just our Avalanche base. The Pathfinder\nis next door, and the Companion diagonally opposite.[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "tev010101_MSG0002",
+      "style": 1,
+      "name": "Union Street is where\nall these Unions have their bases.[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "tev010101_MSG0003",
+      "style": 1,
+      "name": "You just arrived here, right? Then I\ntake it you haven't chosen a Union yet.[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "tev010101_MSG0004",
+      "style": 1,
+      "name": "You'll see logos like this one on the\nwalls and floors of each Union's base.[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "tev010101_MSG0005",
+      "style": 1,
+      "name": "When you decide on a Union, look for the building\nwith its logo. A Union base is like a BLADE's second\nhome—a place where you and your friends can gather.[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "tev010101_MSG0010",
+      "style": 1,
+      "name": "After we landed here, a young\nwhelp by the name of Dirk was\nassigned to our team.[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "tev010101_MSG0011",
+      "style": 1,
+      "name": "Kid's so green, he smells\nlike fresh-cut grass.[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "tev010101_MSG0012",
+      "style": 1,
+      "name": "Avalanche work is dangerous even\nat the best of times, and I worry\nthe kid won't be able to hack it.[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "tev010101_MSG0013",
+      "style": 1,
+      "name": "Apparently he was some sort of expert marksman in\ncollege, but we're not shooting hay bales here. I\ndon't know how he'll perform in a real fight.[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "tev010101_MSG0014",
+      "style": 1,
+      "name": "Still, as team leader, I have to take\nresponsibility for keeping him safe.[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "tev010101_MSG0020",
+      "style": 1,
+      "name": "As Avalanche, our job is to\nexterminate the especially dangerous\nindigens that roam this world.[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "tev010101_MSG0021",
+      "style": 1,
+      "name": "Some of 'em are so tough, it\nwould take a full squad of BLADEs\njust to make it a fair fight.[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "tev010101_MSG0022",
+      "style": 1,
+      "name": "Most of the Coalition's veteran\nfighters were assigned to this Union.[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "tev010101_MSG0023",
+      "style": 1,
+      "name": "On my own team, I'm lucky to serve with\nFine and Grette—two career soldiers that\nmay well have been born wearing camo.[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "tev010101_MSG0024",
+      "style": 1,
+      "name": "They both have mouths that would make a sailor\nblush, but there's no one you'd rather have watching\nyour back when you're bringing down a monster.[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "tev010101_MSG0030",
+      "style": 1,
+      "name": "Oh, I got some stories. There's a mutant crogos that\nlives just north of Rust Lake in Nightglow Forest,\nfor one. It's an unimaginably vicious piece of work.[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "tev010101_MSG0031",
+      "style": 1,
+      "name": "We pumped that thing full of enough\nlead to supply a pencil factory,\nand it STILL wouldn't go down![ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "tev010101_MSG0032",
+      "style": 1,
+      "name": "Eventually it went berserk—got even\nstronger than before. Turned into a\nflurry of death and destruction.[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "tev010101_MSG0033",
+      "style": 1,
+      "name": "I wouldn't be here talking to you today if it\nweren't for Fine and Grette—two buddies I've\nbeen serving with since my Coalition days.[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "tev010101_MSG0034",
+      "style": 1,
+      "name": "Overeds are in a whole different league from normal\nindigens. If you're thinking of challenging one, you\nbetter make damn sure you know what you're doing.[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "tev010101_MSG0040",
+      "style": 1,
+      "name": "Since we arrived, I've racked up lots of combat ops\nwith Fine and Grette—two allies I trust with my life.\nThe more we fight, the stronger our bonding becomes.[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "tev010101_MSG0041",
+      "style": 1,
+      "name": "As a result, we're an order of magnitude\nstronger whenever we fight together.[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "tev010101_MSG0042",
+      "style": 1,
+      "name": "Bonding is the strongest weapon you\nhave, and more powerful than any piece\nof gear you can buy— including a Doll.[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "tev010101_MSG0043",
+      "style": 1,
+      "name": "When you're fighting alongside Elma and the\nother trusted comrades on your team, it's\na weapon you all must forge together.[ST:wait ]"
+    }
+  ]
+}

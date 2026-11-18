@@ -1,0 +1,168 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev060102_MSG0001",
+      "style": 1,
+      "name": "Shiraton-kun is late... I want him to\nprocess this as soon as possible.[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev060102_JNK0010",
+      "style": 4,
+      "name": "Inform"
+    },
+    {
+      "$id": 3,
+      "label": "qev060102_SEL0011",
+      "style": 3,
+      "name": "Say that you came to pick it up instead of Shiraton."
+    },
+    {
+      "$id": 4,
+      "label": "qev060102_JNK0020",
+      "style": 4,
+      "name": "Question"
+    },
+    {
+      "$id": 5,
+      "label": "qev060102_SEL0021",
+      "style": 3,
+      "name": "Ask what on earth he's planning to hand over."
+    },
+    {
+      "$id": 6,
+      "label": "qev060102_MSG0002",
+      "style": 1,
+      "name": "Well, it's obviously a highly toxic\nresearch sample, isn't it...[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev060102_MSG0003",
+      "style": 1,
+      "name": "...Whoa!! Who in the world are you?[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev060102_MSG0004",
+      "style": 1,
+      "name": "...What, Shiraton-kun asked\nyou to collect the Voltant?[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev060102_MSG0005",
+      "style": 1,
+      "name": "I see, I see! That's a huge help! The\ncold storage facility is overflowing\nwith dangerously analyzed samples.[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev060102_MSG0006",
+      "style": 1,
+      "name": "I've been wanting to process them quickly.\nHere, take this capsule with you.[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev060102_MSG0007",
+      "style": 1,
+      "name": "...But can they really purify such\nhazardous materials in an instant?[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev060102_MSG0008",
+      "style": 1,
+      "name": "Even the Ma-non with their\nhyper-technology can't pull\noff something like that...[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev060102_JNK0030",
+      "style": 4,
+      "name": "Confirm"
+    },
+    {
+      "$id": 14,
+      "label": "qev060102_SEL0031",
+      "style": 3,
+      "name": "Vouch for them, saying they will be perfectly fine."
+    },
+    {
+      "$id": 15,
+      "label": "qev060102_JNK0040",
+      "style": 4,
+      "name": "Doubt"
+    },
+    {
+      "$id": 16,
+      "label": "qev060102_SEL0041",
+      "style": 3,
+      "name": "Mumble your words, saying you can't be entirely sure."
+    },
+    {
+      "$id": 17,
+      "label": "qev060102_MSG0009",
+      "style": 1,
+      "name": "Do they really possess such an\nincredible ability...? I'd like\nto see that for myself.[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev060102_MSG0010",
+      "style": 1,
+      "name": "I see... Then I definitely need\nto see it with my own eyes and\nconfirm if there are any issues...[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev060102_MSG0011",
+      "style": 1,
+      "name": "Alright, once I finish up my work here, I'll\npay Shiraton-kun a direct visit and see this\n\"revoltant\" process with my own eyes.[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev060102_MSG0012",
+      "style": 1,
+      "name": "He is currently... by ROSE・MOSS,\nright? I'll go pay him a visit later.[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev060102_MSG0013",
+      "style": 1,
+      "name": "I primarily research Mira's pathogens\nand highly toxic substances.[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev060102_MSG0014",
+      "style": 1,
+      "name": "Because of that, once my research\nconcludes, I inevitably accumulate\na lot of hazardous materials[ST:wide ]—[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev060102_MSG0015",
+      "style": 1,
+      "name": "What they call Voltant. I've\nbeen stockpiling it, and it\nwas becoming quite a problem.[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev060102_MSG0016",
+      "style": 1,
+      "name": "If their abilities are genuine, it might\neven be useful for my research...[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev060102_MSG0017",
+      "style": 1,
+      "name": "I'll drop by ROSE・MOSS later and\nask Shiraton-kun for a demonstration\nof that purification ability.[ST:wait ]"
+    }
+  ]
+}

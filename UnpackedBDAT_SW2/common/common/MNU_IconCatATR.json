@@ -1,0 +1,72 @@
+{
+  "schema": [
+    {
+      "name": "ID",
+      "type": 9
+    },
+    {
+      "name": "texID",
+      "type": 2
+    },
+    {
+      "name": "MSlabel",
+      "type": 2
+    }
+  ],
+  "rows": [
+    {
+      "$id": 0,
+      "ID": "ATR_NONE",
+      "texID": 0,
+      "MSlabel": 0
+    },
+    {
+      "$id": 1,
+      "ID": "ATR_PHYSICAL",
+      "texID": 879,
+      "MSlabel": 1186
+    },
+    {
+      "$id": 2,
+      "ID": "ATR_BEAM",
+      "texID": 880,
+      "MSlabel": 1187
+    },
+    {
+      "$id": 3,
+      "ID": "ATR_DM",
+      "texID": 881,
+      "MSlabel": 1188
+    },
+    {
+      "$id": 4,
+      "ID": "ATR_FIRE",
+      "texID": 882,
+      "MSlabel": 1189
+    },
+    {
+      "$id": 5,
+      "ID": "ATR_VOLT",
+      "texID": 883,
+      "MSlabel": 1190
+    },
+    {
+      "$id": 6,
+      "ID": "ATR_GRAVITY",
+      "texID": 884,
+      "MSlabel": 1191
+    },
+    {
+      "$id": 7,
+      "ID": "ATR_ANTI",
+      "texID": 0,
+      "MSlabel": 0
+    },
+    {
+      "$id": 8,
+      "ID": "ATR_WPN",
+      "texID": 0,
+      "MSlabel": 0
+    }
+  ]
+}

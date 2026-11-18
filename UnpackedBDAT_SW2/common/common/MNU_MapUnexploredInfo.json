@@ -1,0 +1,284 @@
+{
+  "schema": [
+    {
+      "name": "ID",
+      "type": 9
+    },
+    {
+      "name": "location_id",
+      "type": 3
+    },
+    {
+      "name": "pos_x",
+      "type": 8
+    },
+    {
+      "name": "pos_y",
+      "type": 8
+    },
+    {
+      "name": "pos_z",
+      "type": 8
+    },
+    {
+      "name": "offset_x",
+      "type": 8
+    },
+    {
+      "name": "offset_y",
+      "type": 8
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "ID": "MAP_UNEXPLORED_INFO_0001",
+      "location_id": 34,
+      "pos_x": -4619.68994140625,
+      "pos_y": 88.45999908447266,
+      "pos_z": 3988.7900390625,
+      "offset_x": 0.0,
+      "offset_y": 0.0
+    },
+    {
+      "$id": 2,
+      "ID": "MAP_UNEXPLORED_INFO_0002",
+      "location_id": 41,
+      "pos_x": -3622.280029296875,
+      "pos_y": -76.44999694824219,
+      "pos_z": 5103.02001953125,
+      "offset_x": 0.0,
+      "offset_y": 0.0
+    },
+    {
+      "$id": 3,
+      "ID": "MAP_UNEXPLORED_INFO_0003",
+      "location_id": 57,
+      "pos_x": -4978.81005859375,
+      "pos_y": 304.3900146484375,
+      "pos_z": 4739.9501953125,
+      "offset_x": 0.0,
+      "offset_y": 0.0
+    },
+    {
+      "$id": 4,
+      "ID": "MAP_UNEXPLORED_INFO_0004",
+      "location_id": 81,
+      "pos_x": -749.4199829101562,
+      "pos_y": -55.75,
+      "pos_z": 5860.2900390625,
+      "offset_x": 0.0,
+      "offset_y": 0.0
+    },
+    {
+      "$id": 5,
+      "ID": "MAP_UNEXPLORED_INFO_0005",
+      "location_id": 112,
+      "pos_x": -5397.83984375,
+      "pos_y": 19.40999984741211,
+      "pos_z": 3941.320068359375,
+      "offset_x": 0.0,
+      "offset_y": 0.0
+    },
+    {
+      "$id": 6,
+      "ID": "MAP_UNEXPLORED_INFO_0006",
+      "location_id": 126,
+      "pos_x": -5720.419921875,
+      "pos_y": -58.0099983215332,
+      "pos_z": 2652.7099609375,
+      "offset_x": 0.0,
+      "offset_y": 0.0
+    },
+    {
+      "$id": 7,
+      "ID": "MAP_UNEXPLORED_INFO_0007",
+      "location_id": 147,
+      "pos_x": -6204.83984375,
+      "pos_y": 222.94000244140625,
+      "pos_z": -1159.760009765625,
+      "offset_x": 0.0,
+      "offset_y": 0.0
+    },
+    {
+      "$id": 8,
+      "ID": "MAP_UNEXPLORED_INFO_0008",
+      "location_id": 153,
+      "pos_x": -5639.33984375,
+      "pos_y": 59.36000061035156,
+      "pos_z": 4762.58984375,
+      "offset_x": 0.0,
+      "offset_y": 0.0
+    },
+    {
+      "$id": 9,
+      "ID": "MAP_UNEXPLORED_INFO_0009",
+      "location_id": 162,
+      "pos_x": -7073.89990234375,
+      "pos_y": 820.6199951171875,
+      "pos_z": -3260.6298828125,
+      "offset_x": 0.0,
+      "offset_y": 0.0
+    },
+    {
+      "$id": 10,
+      "ID": "MAP_UNEXPLORED_INFO_0010",
+      "location_id": 168,
+      "pos_x": -5227.259765625,
+      "pos_y": -79.51000213623047,
+      "pos_z": -132.4600067138672,
+      "offset_x": 0.0,
+      "offset_y": 0.0
+    },
+    {
+      "$id": 11,
+      "ID": "MAP_UNEXPLORED_INFO_0011",
+      "location_id": 205,
+      "pos_x": 5787.89990234375,
+      "pos_y": -71.30999755859375,
+      "pos_z": 7556.58984375,
+      "offset_x": 0.0,
+      "offset_y": 0.0
+    },
+    {
+      "$id": 12,
+      "ID": "MAP_UNEXPLORED_INFO_0012",
+      "location_id": 210,
+      "pos_x": 6457.8798828125,
+      "pos_y": 470.760009765625,
+      "pos_z": 6144.2001953125,
+      "offset_x": 0.0,
+      "offset_y": 0.0
+    },
+    {
+      "$id": 13,
+      "ID": "MAP_UNEXPLORED_INFO_0013",
+      "location_id": 211,
+      "pos_x": 4327.60009765625,
+      "pos_y": 233.30999755859375,
+      "pos_z": 6637.580078125,
+      "offset_x": 0.0,
+      "offset_y": 0.0
+    },
+    {
+      "$id": 14,
+      "ID": "MAP_UNEXPLORED_INFO_0014",
+      "location_id": 233,
+      "pos_x": 6577.68994140625,
+      "pos_y": -49.68000030517578,
+      "pos_z": 8258.599609375,
+      "offset_x": 0.0,
+      "offset_y": 0.0
+    },
+    {
+      "$id": 15,
+      "ID": "MAP_UNEXPLORED_INFO_0015",
+      "location_id": 235,
+      "pos_x": 4905.419921875,
+      "pos_y": 38.25,
+      "pos_z": 7435.08984375,
+      "offset_x": 0.0,
+      "offset_y": 0.0
+    },
+    {
+      "$id": 16,
+      "ID": "MAP_UNEXPLORED_INFO_0016",
+      "location_id": 303,
+      "pos_x": 2437.889892578125,
+      "pos_y": 90.55999755859375,
+      "pos_z": 530.219970703125,
+      "offset_x": 0.0,
+      "offset_y": 0.0
+    },
+    {
+      "$id": 17,
+      "ID": "MAP_UNEXPLORED_INFO_0017",
+      "location_id": 305,
+      "pos_x": 3688.409912109375,
+      "pos_y": 461.44000244140625,
+      "pos_z": -1823.18994140625,
+      "offset_x": 0.0,
+      "offset_y": 0.0
+    },
+    {
+      "$id": 18,
+      "ID": "MAP_UNEXPLORED_INFO_0018",
+      "location_id": 309,
+      "pos_x": 129.83999633789062,
+      "pos_y": 237.17999267578125,
+      "pos_z": -2533.110107421875,
+      "offset_x": 0.0,
+      "offset_y": 0.0
+    },
+    {
+      "$id": 19,
+      "ID": "MAP_UNEXPLORED_INFO_0019",
+      "location_id": 312,
+      "pos_x": 1116.9100341796875,
+      "pos_y": 115.66000366210938,
+      "pos_z": -1782.449951171875,
+      "offset_x": 0.0,
+      "offset_y": 0.0
+    },
+    {
+      "$id": 20,
+      "ID": "MAP_UNEXPLORED_INFO_0020",
+      "location_id": 313,
+      "pos_x": 2375.25,
+      "pos_y": 777.0,
+      "pos_z": -289.3699951171875,
+      "offset_x": 0.0,
+      "offset_y": 0.0
+    },
+    {
+      "$id": 21,
+      "ID": "MAP_UNEXPLORED_INFO_0021",
+      "location_id": 336,
+      "pos_x": 2833.919921875,
+      "pos_y": 4.340000152587891,
+      "pos_z": -5798.14990234375,
+      "offset_x": 0.0,
+      "offset_y": 0.0
+    },
+    {
+      "$id": 22,
+      "ID": "MAP_UNEXPLORED_INFO_0022",
+      "location_id": 341,
+      "pos_x": 4139.41015625,
+      "pos_y": -2.490000009536743,
+      "pos_z": -6768.02978515625,
+      "offset_x": 0.0,
+      "offset_y": 0.0
+    },
+    {
+      "$id": 23,
+      "ID": "MAP_UNEXPLORED_INFO_0023",
+      "location_id": 347,
+      "pos_x": 4193.35009765625,
+      "pos_y": 70.94999694824219,
+      "pos_z": -4362.759765625,
+      "offset_x": 0.0,
+      "offset_y": 0.0
+    },
+    {
+      "$id": 24,
+      "ID": "MAP_UNEXPLORED_INFO_0024",
+      "location_id": 356,
+      "pos_x": 6265.8798828125,
+      "pos_y": 79.08999633789062,
+      "pos_z": -5076.240234375,
+      "offset_x": 0.0,
+      "offset_y": 0.0
+    },
+    {
+      "$id": 25,
+      "ID": "MAP_UNEXPLORED_INFO_0025",
+      "location_id": 358,
+      "pos_x": 6048.18017578125,
+      "pos_y": 932.739990234375,
+      "pos_z": -6409.06982421875,
+      "offset_x": 0.0,
+      "offset_y": 0.0
+    }
+  ]
+}

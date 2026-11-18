@@ -1,0 +1,906 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "tev025301_JNK0010",
+      "style": 4,
+      "name": "Inquire[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "tev025301_SEL0011",
+      "style": 3,
+      "name": "Ask Eleonora about this place.[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "tev025301_JNK0020",
+      "style": 4,
+      "name": "Discuss[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "tev025301_SEL0021",
+      "style": 3,
+      "name": "Ask Eleonora about recent developments.[ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "tev025301_JNK0010",
+      "style": 4,
+      "name": ""
+    },
+    {
+      "$id": 6,
+      "label": "tev025301_SEL0031",
+      "style": 3,
+      "name": "Ask Eleonora about Quest Board.[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "tev025301_JNK0020",
+      "style": 4,
+      "name": ""
+    },
+    {
+      "$id": 8,
+      "label": "tev025301_SEL0041",
+      "style": 3,
+      "name": "Ask Eleonora if anything is troubling her.[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "tev025301_JNK0010",
+      "style": 4,
+      "name": ""
+    },
+    {
+      "$id": 10,
+      "label": "tev025301_SEL0051",
+      "style": 3,
+      "name": "Ask Eleonora about BLADE missions.[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "tev025301_JNK0020",
+      "style": 4,
+      "name": ""
+    },
+    {
+      "$id": 12,
+      "label": "tev025301_SEL0041",
+      "style": 3,
+      "name": ""
+    },
+    {
+      "$id": 13,
+      "label": "tev025301_JNK0010",
+      "style": 4,
+      "name": ""
+    },
+    {
+      "$id": 14,
+      "label": "tev025301_SEL0061",
+      "style": 3,
+      "name": "Ask Eleonora about BLADE missions.[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "tev025301_JNK0020",
+      "style": 4,
+      "name": ""
+    },
+    {
+      "$id": 16,
+      "label": "tev025301_SEL0191",
+      "style": 3,
+      "name": "Ask Eleonora if she's heard any interesting rumors.[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "tev025301_JNK0010",
+      "style": 4,
+      "name": ""
+    },
+    {
+      "$id": 18,
+      "label": "tev025301_SEL0071",
+      "style": 3,
+      "name": "Ask Eleonora about BLADE missions.[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "tev025301_JNK0020",
+      "style": 4,
+      "name": ""
+    },
+    {
+      "$id": 20,
+      "label": "tev025301_SEL0191",
+      "style": 3,
+      "name": ""
+    },
+    {
+      "$id": 21,
+      "label": "tev025301_JNK0010",
+      "style": 4,
+      "name": ""
+    },
+    {
+      "$id": 22,
+      "label": "tev025301_SEL0081",
+      "style": 3,
+      "name": "Ask Eleonora about Lu.[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "tev025301_JNK0020",
+      "style": 4,
+      "name": ""
+    },
+    {
+      "$id": 24,
+      "label": "tev025301_SEL0191",
+      "style": 3,
+      "name": ""
+    },
+    {
+      "$id": 25,
+      "label": "tev025301_JNK0010",
+      "style": 4,
+      "name": ""
+    },
+    {
+      "$id": 26,
+      "label": "tev025301_SEL0091",
+      "style": 3,
+      "name": "Ask Eleonora about the Ma-non ship.[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "tev025301_JNK0020",
+      "style": 4,
+      "name": ""
+    },
+    {
+      "$id": 28,
+      "label": "tev025301_SEL0191",
+      "style": 3,
+      "name": ""
+    },
+    {
+      "$id": 29,
+      "label": "tev025301_JNK0010",
+      "style": 4,
+      "name": ""
+    },
+    {
+      "$id": 30,
+      "label": "tev025301_SEL0101",
+      "style": 3,
+      "name": "Ask Eleonora about the Doll found in Nightglow Forest.[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "tev025301_JNK0020",
+      "style": 4,
+      "name": ""
+    },
+    {
+      "$id": 32,
+      "label": "tev025301_SEL0191",
+      "style": 3,
+      "name": ""
+    },
+    {
+      "$id": 33,
+      "label": "tev025301_JNK0010",
+      "style": 4,
+      "name": ""
+    },
+    {
+      "$id": 34,
+      "label": "tev025301_SEL0111",
+      "style": 3,
+      "name": "Ask Eleonora about the Growth.[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "tev025301_JNK0020",
+      "style": 4,
+      "name": ""
+    },
+    {
+      "$id": 36,
+      "label": "tev025301_SEL0191",
+      "style": 3,
+      "name": ""
+    },
+    {
+      "$id": 37,
+      "label": "tev025301_JNK0010",
+      "style": 4,
+      "name": ""
+    },
+    {
+      "$id": 38,
+      "label": "tev025301_SEL0121",
+      "style": 3,
+      "name": "Ask Eleonora about the casualties suffered in the Growth attack.[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "tev025301_JNK0020",
+      "style": 4,
+      "name": ""
+    },
+    {
+      "$id": 40,
+      "label": "tev025301_SEL0191",
+      "style": 3,
+      "name": ""
+    },
+    {
+      "$id": 41,
+      "label": "tev025301_JNK0010",
+      "style": 4,
+      "name": ""
+    },
+    {
+      "$id": 42,
+      "label": "tev025301_SEL0131",
+      "style": 3,
+      "name": "Ask Eleonora about the Larsians.[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "tev025301_JNK0020",
+      "style": 4,
+      "name": ""
+    },
+    {
+      "$id": 44,
+      "label": "tev025301_SEL0191",
+      "style": 3,
+      "name": ""
+    },
+    {
+      "$id": 45,
+      "label": "tev025301_JNK0010",
+      "style": 4,
+      "name": ""
+    },
+    {
+      "$id": 46,
+      "label": "tev025301_SEL0141",
+      "style": 3,
+      "name": "Ask Eleonora about the number on BLADE Tower.[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "tev025301_JNK0020",
+      "style": 4,
+      "name": ""
+    },
+    {
+      "$id": 48,
+      "label": "tev025301_SEL0191",
+      "style": 3,
+      "name": ""
+    },
+    {
+      "$id": 49,
+      "label": "tev025301_JNK0010",
+      "style": 4,
+      "name": ""
+    },
+    {
+      "$id": 50,
+      "label": "tev025301_SEL0151",
+      "style": 3,
+      "name": "Ask Eleonora about the Central Life.[ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "tev025301_JNK0020",
+      "style": 4,
+      "name": ""
+    },
+    {
+      "$id": 52,
+      "label": "tev025301_SEL0191",
+      "style": 3,
+      "name": ""
+    },
+    {
+      "$id": 53,
+      "label": "tev025301_JNK0010",
+      "style": 4,
+      "name": ""
+    },
+    {
+      "$id": 54,
+      "label": "tev025301_SEL0161",
+      "style": 3,
+      "name": "Ask Eleonora about the Central Life.[ST:wait ]"
+    },
+    {
+      "$id": 55,
+      "label": "tev025301_JNK0020",
+      "style": 4,
+      "name": ""
+    },
+    {
+      "$id": 56,
+      "label": "tev025301_SEL0191",
+      "style": 3,
+      "name": ""
+    },
+    {
+      "$id": 57,
+      "label": "tev025301_JNK0010",
+      "style": 4,
+      "name": ""
+    },
+    {
+      "$id": 58,
+      "label": "tev025301_SEL0171",
+      "style": 3,
+      "name": "Ask Eleonora about the Central Life.[ST:wait ]"
+    },
+    {
+      "$id": 59,
+      "label": "tev025301_JNK0020",
+      "style": 4,
+      "name": ""
+    },
+    {
+      "$id": 60,
+      "label": "tev025301_SEL0191",
+      "style": 3,
+      "name": ""
+    },
+    {
+      "$id": 61,
+      "label": "tev025301_JNK0010",
+      "style": 4,
+      "name": ""
+    },
+    {
+      "$id": 62,
+      "label": "tev025301_SEL0181",
+      "style": 3,
+      "name": "Ask Eleonora about the duties of BLADE.[ST:wait ]"
+    },
+    {
+      "$id": 63,
+      "label": "tev025301_JNK0020",
+      "style": 4,
+      "name": ""
+    },
+    {
+      "$id": 64,
+      "label": "tev025301_SEL0191",
+      "style": 3,
+      "name": ""
+    },
+    {
+      "$id": 65,
+      "label": "tev025301_MSG0001",
+      "style": 1,
+      "name": "This is Quest Board. As a\nBLADE, you can... Hmm?[ST:wait ]"
+    },
+    {
+      "$id": 66,
+      "label": "tev025301_MSG0002",
+      "style": 1,
+      "name": "Oh! I see that you haven't\nyet registered as a BLADE, [ST:playername ].[ST:wait ]"
+    },
+    {
+      "$id": 67,
+      "label": "tev025301_MSG0003",
+      "style": 1,
+      "name": "Well, if you do register and\njoin a Union, you'll be able\nto accept missions right here.[ST:wait ]"
+    },
+    {
+      "$id": 68,
+      "label": "tev025301_MSG0004",
+      "style": 1,
+      "name": "I understand that you haven't yet\ndecided what role you wish to play\nhere in NLA, and that's fine.[ST:wait ]"
+    },
+    {
+      "$id": 69,
+      "label": "tev025301_MSG0005",
+      "style": 1,
+      "name": "But I believe you would\nmake a splendid BLADE.[ST:wait ]"
+    },
+    {
+      "$id": 70,
+      "label": "tev025301_MSG0006",
+      "style": 1,
+      "name": "Trust me, I've seen off countless\nBLADEs standing right here. I\nknow talent when I see it.[ST:wait ]"
+    },
+    {
+      "$id": 71,
+      "label": "tev025301_MSG0008",
+      "style": 1,
+      "name": "My name is Eleonora, and I\nserve as BLADE's receptionist.[ST:wait ]"
+    },
+    {
+      "$id": 72,
+      "label": "tev025301_MSG0009",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 73,
+      "label": "tev025301_MSG0010",
+      "style": 1,
+      "name": "If you have any questions about your\nassignments, feel free to ask me anything.[ST:wait ]"
+    },
+    {
+      "$id": 74,
+      "label": "tev025301_MSG0011",
+      "style": 1,
+      "name": "If there is anything that I can do to\nhelp, I hope you'll let me be of service.[ST:wait ]"
+    },
+    {
+      "$id": 75,
+      "label": "tev025301_MSG0012",
+      "style": 1,
+      "name": "Now go do your best, [ST:playername ]! I\nexpect great things from you.[ST:wait ]"
+    },
+    {
+      "$id": 76,
+      "label": "tev025301_MSG0020",
+      "style": 1,
+      "name": "BLADEs must join a Union before\nthey're able to use Quest Board.[ST:wait ]"
+    },
+    {
+      "$id": 77,
+      "label": "tev025301_MSG0021",
+      "style": 1,
+      "name": "Once you have completed your data\nprobe installation mission, you\nshould be ready to select a Union.[ST:wait ]"
+    },
+    {
+      "$id": 78,
+      "label": "tev025301_MSG0022",
+      "style": 1,
+      "name": "At that point, please come speak to\nme again. I'm sure I will have\nsomething that strikes your fancy.[ST:wait ]"
+    },
+    {
+      "$id": 79,
+      "label": "tev025301_MSG0027",
+      "style": 1,
+      "name": "Are you worried about me? Oh,\nthank you. I'm touched by the\nconcern, but I'm fine. Really.[ST:wait ]"
+    },
+    {
+      "$id": 80,
+      "label": "tev025301_MSG0028",
+      "style": 1,
+      "name": "Maybe it would be better if you posed\nthat same question to the people of NLA.[ST:wait ]"
+    },
+    {
+      "$id": 81,
+      "label": "tev025301_MSG0029",
+      "style": 1,
+      "name": "I am sure there are many who are troubled by\nsomething, but don't consider it significant\nenough to make a formal request of BLADE.[ST:wait ]"
+    },
+    {
+      "$id": 82,
+      "label": "tev025301_MSG0039",
+      "style": 1,
+      "name": "Your training just ended, but\nyou're already being sent out to\ntrack down Nelson's missing team?[ST:wait ]"
+    },
+    {
+      "$id": 83,
+      "label": "tev025301_MSG0040",
+      "style": 1,
+      "name": "Commander Vandham must have\ntaken quite a shine to you![ST:wait ]"
+    },
+    {
+      "$id": 84,
+      "label": "tev025301_MSG0041",
+      "style": 1,
+      "name": "That man asks a great deal of his BLADEs,\nbut he only makes such requests to the\nones he believes are up to the task.[ST:wait ]"
+    },
+    {
+      "$id": 85,
+      "label": "tev025301_MSG0042",
+      "style": 1,
+      "name": "Nelson's team was in the southeast part of\nPrimordial Wilderness when we lost contact with\nthem. I wish you the best of luck with your search.[ST:wait ]"
+    },
+    {
+      "$id": 86,
+      "label": "tev025301_MSG0043",
+      "style": 1,
+      "name": "Oh, but I should mention one thing—if you're willing\nto pursue multiple missions at the same time, take\na look at Quest Board before heading out.[ST:wait ]"
+    },
+    {
+      "$id": 87,
+      "label": "tev025301_MSG0058",
+      "style": 1,
+      "name": "Welcome back, [ST:playername ]. I hope your\nsearch was successful.[ST:wait ]"
+    },
+    {
+      "$id": 88,
+      "label": "tev025301_MSG0059",
+      "style": 1,
+      "name": "If you're ready to report, please\nspeak to Vandham-san in the BLADE Home.[ST:wait ]"
+    },
+    {
+      "$id": 89,
+      "label": "tev025301_MSG0060",
+      "style": 1,
+      "name": "I know he was eager to assess your\nperformance on this task personally.[ST:wait ]"
+    },
+    {
+      "$id": 90,
+      "label": "tev025301_MSG0077",
+      "style": 1,
+      "name": "Welcome back, [ST:playername ]. Have you become\naccustomed to BLADE work?[ST:wait ]"
+    },
+    {
+      "$id": 91,
+      "label": "tev025301_MSG0078",
+      "style": 1,
+      "name": "If you've gained confidence in your abilities, perhaps\nthis would be a good time to challenge yourself by paying\na visit to Nightglow Forest far northwest of NLA?[ST:wait ]"
+    },
+    {
+      "$id": 92,
+      "label": "tev025301_MSG0079",
+      "style": 1,
+      "name": "We've yet to make any significant\nprogress installing data\nprobes in that region.[ST:wait ]"
+    },
+    {
+      "$id": 93,
+      "label": "tev025301_MSG0080",
+      "style": 1,
+      "name": "And expanding FrontierNET may allow us to\nwitness some significant development.[ST:wait ]"
+    },
+    {
+      "$id": 94,
+      "label": "tev025301_MSG0081",
+      "style": 1,
+      "name": "But of course, if you don't believe you're ready for\nthat yet, you can continue to acclimate yourself to\nBLADE work by pursuing jobs from Quest Board.[ST:wait ]"
+    },
+    {
+      "$id": 95,
+      "label": "tev025301_MSG0086",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 96,
+      "label": "tev025301_MSG0087",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 97,
+      "label": "tev025301_MSG0088",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 98,
+      "label": "tev025301_MSG0089",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 99,
+      "label": "tev025301_MSG0090",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 100,
+      "label": "tev025301_MSG0091",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 101,
+      "label": "tev025301_MSG0092",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 102,
+      "label": "tev025301_MSG0093",
+      "style": 1,
+      "name": ""
+    },
+    {
+      "$id": 103,
+      "label": "tev025301_MSG0098",
+      "style": 1,
+      "name": "Our newest immigrant, Lu-san, can\nbe found down Shopping District.[ST:wait ]"
+    },
+    {
+      "$id": 104,
+      "label": "tev025301_MSG0099",
+      "style": 1,
+      "name": "It's quite heartening to have a\nMiran native fighting by our side![ST:wait ]"
+    },
+    {
+      "$id": 105,
+      "label": "tev025301_MSG0100",
+      "style": 1,
+      "name": "...By the way, I wonder if he has any\nother friends?[ST:wait ]"
+    },
+    {
+      "$id": 106,
+      "label": "tev025301_MSG0101",
+      "style": 1,
+      "name": "...What's that? He's the only one of his kind?\nWell then, I hope he'll be able to make plenty\nof friends for himself here in NLA![ST:wait ]"
+    },
+    {
+      "$id": 107,
+      "label": "tev025301_MSG0106",
+      "style": 1,
+      "name": "Have you visited the Ma-non ship yet?[ST:wait ]"
+    },
+    {
+      "$id": 108,
+      "label": "tev025301_MSG0107",
+      "style": 1,
+      "name": "There's a warp device directly\nin front of BLADE HQ that can\ntake you straight to it.[ST:wait ]"
+    },
+    {
+      "$id": 109,
+      "label": "tev025301_MSG0108",
+      "style": 1,
+      "name": "I couldn't begin to tell you how the\nwarp device works, though our mechanics\nare investigating the matter.[ST:wait ]"
+    },
+    {
+      "$id": 110,
+      "label": "tev025301_MSG0109",
+      "style": 1,
+      "name": "But apparently all they've been able to\nascertain is that it has no harmful effects\non our Blue Bloods. ...Or so they claim.[ST:wait ]"
+    },
+    {
+      "$id": 111,
+      "label": "tev025301_MSG0110",
+      "style": 1,
+      "name": "Still, I can't help but wonder what would happen\nif another lifeform was there at the instant you\nwarped. Wouldn't you end up being fused together?[ST:wait ]"
+    },
+    {
+      "$id": 112,
+      "label": "tev025301_MSG0115",
+      "style": 1,
+      "name": "The recovered machine is reportedly\nbeing examined in the isolation\nhangar below the BLADE Area.[ST:wait ]"
+    },
+    {
+      "$id": 113,
+      "label": "tev025301_MSG0116",
+      "style": 1,
+      "name": "It isn't yet clear why it had been\nabandoned where it was found.[ST:wait ]"
+    },
+    {
+      "$id": 114,
+      "label": "tev025301_MSG0117",
+      "style": 1,
+      "name": "But hopefully a careful\nexamination will provide some\nclues to our enemy's objective.[ST:wait ]"
+    },
+    {
+      "$id": 115,
+      "label": "tev025301_MSG0118",
+      "style": 1,
+      "name": "I do hope their analysis\nis completed soon.[ST:wait ]"
+    },
+    {
+      "$id": 116,
+      "label": "tev025301_MSG0125",
+      "style": 1,
+      "name": "I heard what happened to the\nLifepoint Archive in Valley\nof Oblivion. What a tragedy![ST:wait ]"
+    },
+    {
+      "$id": 117,
+      "label": "tev025301_MSG0126",
+      "style": 1,
+      "name": "I wonder what priceless data was stored in\nthat unit...? Ah, forgive me. I hope you don't\ntake that as criticism of your performance.[ST:wait ]"
+    },
+    {
+      "$id": 118,
+      "label": "tev025301_MSG0127",
+      "style": 1,
+      "name": "The loss of the archive brings up the\nquestion of how much this \"Growth\"\norganization knows about us humans.[ST:wait ]"
+    },
+    {
+      "$id": 119,
+      "label": "tev025301_MSG0128",
+      "style": 1,
+      "name": "I don't like being at war with an\nenemy who we know nothing about, yet\nwho knows a great deal about us.[ST:wait ]"
+    },
+    {
+      "$id": 120,
+      "label": "tev025301_MSG0135",
+      "style": 1,
+      "name": "The BLADEs we lost have been taken to\nthe B.B. Maintenance Center.[ST:wait ]"
+    },
+    {
+      "$id": 121,
+      "label": "tev025301_MSG0136",
+      "style": 1,
+      "name": "Commander Vandham has directed the\ncenter to revive them if possible,\nbut the chances seem slim.[ST:wait ]"
+    },
+    {
+      "$id": 122,
+      "label": "tev025301_MSG0137",
+      "style": 1,
+      "name": "If only we'd been able to make a\nsuccessful landing... And if only\nwe hadn't lost the White Whale.[ST:wait ]"
+    },
+    {
+      "$id": 123,
+      "label": "tev025301_MSG0138",
+      "style": 1,
+      "name": "But there is no point in regretting\nthe past. We must focus on what\nwe might yet achieve.[ST:wait ]"
+    },
+    {
+      "$id": 124,
+      "label": "tev025301_MSG0139",
+      "style": 1,
+      "name": "Finding the Central Life is our only\nhope now. Please do not fail us, [ST:playername ]![ST:wait ]"
+    },
+    {
+      "$id": 125,
+      "label": "tev025301_MSG0145",
+      "style": 1,
+      "name": "I feel as though I've seen the leader\nof the Larsians before somewhere...[ST:wait ]"
+    },
+    {
+      "$id": 126,
+      "label": "tev025301_MSG0146",
+      "style": 1,
+      "name": "Oh! Wasn't he the one who stole that\nDoll from the restricted hangar?![ST:wait ]"
+    },
+    {
+      "$id": 127,
+      "label": "tev025301_MSG0147",
+      "style": 1,
+      "name": "I remember watching the security camera footage\nwith Commander Vandham and arguing over whether\nthe thief looked more like a cat or a dog.[ST:wait ]"
+    },
+    {
+      "$id": 128,
+      "label": "tev025301_MSG0148",
+      "style": 1,
+      "name": "Ah, forgive me. That's...hardly\nrelevant to anything. I wish you\nthe best of luck on your missions![ST:wait ]"
+    },
+    {
+      "$id": 129,
+      "label": "tev025301_MSG0153",
+      "style": 1,
+      "name": "The Central Life is coming perilously\nclose to running out of operating time.[ST:wait ]"
+    },
+    {
+      "$id": 130,
+      "label": "tev025301_MSG0154",
+      "style": 1,
+      "name": "I feel useless just sitting here, but\nI'm no warrior, and I'd be a liability\nwere I to join in the fight.[ST:wait ]"
+    },
+    {
+      "$id": 131,
+      "label": "tev025301_MSG0155",
+      "style": 1,
+      "name": "I can only put my faith\nin BLADE. In you, [ST:playername ].[ST:wait ]"
+    },
+    {
+      "$id": 132,
+      "label": "tev025301_MSG0156",
+      "style": 1,
+      "name": "Please, you have to find the Central\nLife before the countdown hits zero![ST:wait ]"
+    },
+    {
+      "$id": 133,
+      "label": "tev025301_MSG0161",
+      "style": 1,
+      "name": "We're analyzing the location\nof the Central Life.[ST:wait ]"
+    },
+    {
+      "$id": 134,
+      "label": "tev025301_MSG0162",
+      "style": 1,
+      "name": "It will take some time, so perhaps\nyou'd like to pursue another\nassignment from Quest Board?[ST:wait ]"
+    },
+    {
+      "$id": 135,
+      "label": "tev025301_MSG0163",
+      "style": 1,
+      "name": "Ah, that's right! I've heard\nfrom Commander Vandham that the\nDoll flight tests have begun.[ST:wait ]"
+    },
+    {
+      "$id": 136,
+      "label": "tev025301_MSG0164",
+      "style": 1,
+      "name": "He headed for the Arms Test Facility\nwith a big grin on his face.\nWhy not go there yourself?[ST:wait ]"
+    },
+    {
+      "$id": 137,
+      "label": "tev025301_MSG0170",
+      "style": 1,
+      "name": "I understand that the analysis of the\nCentral Life location is nearly complete.[ST:wait ]"
+    },
+    {
+      "$id": 138,
+      "label": "tev025301_MSG0171",
+      "style": 1,
+      "name": "Director General Maurice was making\npreparations for a public\naddress a short while ago.[ST:wait ]"
+    },
+    {
+      "$id": 139,
+      "label": "tev025301_MSG0172",
+      "style": 1,
+      "name": "I assume that a new mission will\nbe available shortly. For now, you\nshould hurry back to the BLADE Home![ST:wait ]"
+    },
+    {
+      "$id": 140,
+      "label": "tev025301_MSG0177",
+      "style": 1,
+      "name": "A Doll capable of flight is essential\nto reach the coordinates of the Central Life.[ST:wait ]"
+    },
+    {
+      "$id": 141,
+      "label": "tev025301_MSG0178",
+      "style": 1,
+      "name": "Perhaps you've noticed other areas\nthat could only be reached by air?[ST:wait ]"
+    },
+    {
+      "$id": 142,
+      "label": "tev025301_MSG0179",
+      "style": 1,
+      "name": "You should still have plenty of time to explore Mira\nafter securing the Central Life,\nso please prioritize the mission for now.[ST:wait ]"
+    },
+    {
+      "$id": 143,
+      "label": "tev025301_MSG0180",
+      "style": 1,
+      "name": "Not that I'm in any position\nto stop you, of course...[ST:wait ]"
+    },
+    {
+      "$id": 144,
+      "label": "tev025301_MSG0185",
+      "style": 1,
+      "name": "Welcome back, [ST:playername ]![ST:wait ]"
+    },
+    {
+      "$id": 145,
+      "label": "tev025301_MSG0186",
+      "style": 1,
+      "name": "I know that mission was a long and\ngrueling one, but it's all over\nnow. You've done excellent work.[ST:wait ]"
+    },
+    {
+      "$id": 146,
+      "label": "tev025301_MSG0187",
+      "style": 1,
+      "name": "Surely you're not saying there's\nnothing left to do and lounging\nwith pets at the BLADE Home?[ST:wait ]"
+    },
+    {
+      "$id": 147,
+      "label": "tev025301_MSG0188",
+      "style": 1,
+      "name": "There are still a great many\nmissions that await you both\nhere in NLA, and in Mira beyond.[ST:wait ]"
+    },
+    {
+      "$id": 148,
+      "label": "tev025301_MSG0189",
+      "style": 1,
+      "name": "We may not be in our Blue Bloods for long, so\nthis is the time to challenge all of the difficult\nmissions you wouldn't dare attempt otherwise.[ST:wait ]"
+    }
+  ]
+}

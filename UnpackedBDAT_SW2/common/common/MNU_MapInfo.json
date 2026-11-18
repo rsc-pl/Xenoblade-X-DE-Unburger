@@ -1,0 +1,189 @@
+{
+  "schema": [
+    {
+      "name": "ID",
+      "type": 9
+    },
+    {
+      "name": "level_name",
+      "type": 7
+    },
+    {
+      "name": "condition",
+      "type": 2
+    },
+    {
+      "name": "level_name2",
+      "type": 7
+    },
+    {
+      "name": "condition2",
+      "type": 2
+    },
+    {
+      "name": "level_name3",
+      "type": 7
+    },
+    {
+      "name": "condition3",
+      "type": 2
+    },
+    {
+      "name": "level_name4",
+      "type": 7
+    },
+    {
+      "name": "condition4",
+      "type": 2
+    },
+    {
+      "name": "condition5",
+      "type": 2
+    },
+    {
+      "name": "lv2_size",
+      "type": 2
+    },
+    {
+      "name": "lv3_size",
+      "type": 2
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "ID": "MAP_FIELD",
+      "level_name": "map01",
+      "condition": 0,
+      "level_name2": "map01_ex01",
+      "condition2": 30,
+      "level_name3": "map01_ex03",
+      "condition3": 8963,
+      "level_name4": "map01_ex02",
+      "condition4": 8396,
+      "condition5": 0,
+      "lv2_size": 0,
+      "lv3_size": 0
+    },
+    {
+      "$id": 2,
+      "ID": "MAP_NLA",
+      "level_name": "map02",
+      "condition": 0,
+      "level_name2": "map02_ex01",
+      "condition2": 30,
+      "level_name3": "map02_ex02",
+      "condition3": 8396,
+      "level_name4": "",
+      "condition4": 0,
+      "condition5": 0,
+      "lv2_size": 0,
+      "lv3_size": 0
+    },
+    {
+      "$id": 3,
+      "ID": "MAP_BLADE_HOME",
+      "level_name": "map03",
+      "condition": 0,
+      "level_name2": "",
+      "condition2": 0,
+      "level_name3": "",
+      "condition3": 0,
+      "level_name4": "",
+      "condition4": 0,
+      "condition5": 0,
+      "lv2_size": 0,
+      "lv3_size": 0
+    },
+    {
+      "$id": 4,
+      "ID": "MINIMAP_FIELD",
+      "level_name": "minimap01",
+      "condition": 0,
+      "level_name2": "minimap01_ex01",
+      "condition2": 30,
+      "level_name3": "",
+      "condition3": 0,
+      "level_name4": "",
+      "condition4": 0,
+      "condition5": 0,
+      "lv2_size": 0,
+      "lv3_size": 0
+    },
+    {
+      "$id": 5,
+      "ID": "MINIMAP_BLADE_HOME",
+      "level_name": "minimap03",
+      "condition": 0,
+      "level_name2": "",
+      "condition2": 0,
+      "level_name3": "",
+      "condition3": 0,
+      "level_name4": "",
+      "condition4": 0,
+      "condition5": 0,
+      "lv2_size": 0,
+      "lv3_size": 0
+    },
+    {
+      "$id": 6,
+      "ID": "MINIMAP_FIELD_2",
+      "level_name": "minimap04",
+      "condition": 0,
+      "level_name2": "",
+      "condition2": 0,
+      "level_name3": "",
+      "condition3": 0,
+      "level_name4": "",
+      "condition4": 0,
+      "condition5": 0,
+      "lv2_size": 0,
+      "lv3_size": 0
+    },
+    {
+      "$id": 7,
+      "ID": "MINIMAP_FIELD_3",
+      "level_name": "minimap05",
+      "condition": 0,
+      "level_name2": "",
+      "condition2": 0,
+      "level_name3": "",
+      "condition3": 0,
+      "level_name4": "",
+      "condition4": 0,
+      "condition5": 0,
+      "lv2_size": 0,
+      "lv3_size": 0
+    },
+    {
+      "$id": 8,
+      "ID": "MINIMAP_LIFEPOINT",
+      "level_name": "minimap06",
+      "condition": 0,
+      "level_name2": "",
+      "condition2": 0,
+      "level_name3": "",
+      "condition3": 0,
+      "level_name4": "",
+      "condition4": 0,
+      "condition5": 0,
+      "lv2_size": 0,
+      "lv3_size": 0
+    },
+    {
+      "$id": 9,
+      "ID": "MAP_LAST_DUNGEON",
+      "level_name": "map04",
+      "condition": 0,
+      "level_name2": "",
+      "condition2": 0,
+      "level_name3": "",
+      "condition3": 0,
+      "level_name4": "",
+      "condition4": 0,
+      "condition5": 0,
+      "lv2_size": 0,
+      "lv3_size": 0
+    }
+  ]
+}

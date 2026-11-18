@@ -1,0 +1,5322 @@
+{
+  "schema": [
+    {
+      "name": "ID",
+      "type": 9
+    },
+    {
+      "name": "Name",
+      "type": 2
+    },
+    {
+      "name": "Caption",
+      "type": 2
+    },
+    {
+      "name": "zone",
+      "type": 1
+    },
+    {
+      "name": "category",
+      "type": 1
+    },
+    {
+      "name": "Skill",
+      "type": 1
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "ID": "ITM_INFO_001",
+      "Name": 1,
+      "Caption": 526,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 2,
+      "ID": "ITM_INFO_002",
+      "Name": 2,
+      "Caption": 527,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 3,
+      "ID": "ITM_INFO_003",
+      "Name": 3,
+      "Caption": 528,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 4,
+      "ID": "ITM_INFO_004",
+      "Name": 4,
+      "Caption": 529,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 5,
+      "ID": "ITM_INFO_005",
+      "Name": 5,
+      "Caption": 530,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 6,
+      "ID": "ITM_INFO_006",
+      "Name": 6,
+      "Caption": 531,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 7,
+      "ID": "ITM_INFO_007",
+      "Name": 7,
+      "Caption": 532,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 8,
+      "ID": "ITM_INFO_008",
+      "Name": 8,
+      "Caption": 533,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 9,
+      "ID": "ITM_INFO_009",
+      "Name": 9,
+      "Caption": 534,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 10,
+      "ID": "ITM_INFO_010",
+      "Name": 10,
+      "Caption": 535,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 11,
+      "ID": "ITM_INFO_011",
+      "Name": 11,
+      "Caption": 536,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 12,
+      "ID": "ITM_INFO_012",
+      "Name": 12,
+      "Caption": 537,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 13,
+      "ID": "ITM_INFO_013",
+      "Name": 13,
+      "Caption": 538,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 14,
+      "ID": "ITM_INFO_014",
+      "Name": 14,
+      "Caption": 539,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 15,
+      "ID": "ITM_INFO_015",
+      "Name": 15,
+      "Caption": 540,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 16,
+      "ID": "ITM_INFO_016",
+      "Name": 16,
+      "Caption": 541,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 17,
+      "ID": "ITM_INFO_017",
+      "Name": 17,
+      "Caption": 542,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 18,
+      "ID": "ITM_INFO_018",
+      "Name": 18,
+      "Caption": 543,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 19,
+      "ID": "ITM_INFO_019",
+      "Name": 19,
+      "Caption": 544,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 20,
+      "ID": "ITM_INFO_020",
+      "Name": 20,
+      "Caption": 545,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 21,
+      "ID": "ITM_INFO_021",
+      "Name": 21,
+      "Caption": 546,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 22,
+      "ID": "ITM_INFO_022",
+      "Name": 22,
+      "Caption": 547,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 23,
+      "ID": "ITM_INFO_023",
+      "Name": 23,
+      "Caption": 548,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 24,
+      "ID": "ITM_INFO_024",
+      "Name": 24,
+      "Caption": 549,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 25,
+      "ID": "ITM_INFO_025",
+      "Name": 25,
+      "Caption": 550,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 26,
+      "ID": "ITM_INFO_026",
+      "Name": 26,
+      "Caption": 551,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 27,
+      "ID": "ITM_INFO_027",
+      "Name": 27,
+      "Caption": 552,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 28,
+      "ID": "ITM_INFO_028",
+      "Name": 28,
+      "Caption": 553,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 29,
+      "ID": "ITM_INFO_029",
+      "Name": 29,
+      "Caption": 554,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 30,
+      "ID": "ITM_INFO_030",
+      "Name": 30,
+      "Caption": 555,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 31,
+      "ID": "ITM_INFO_031",
+      "Name": 31,
+      "Caption": 556,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 32,
+      "ID": "ITM_INFO_032",
+      "Name": 32,
+      "Caption": 557,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 33,
+      "ID": "ITM_INFO_033",
+      "Name": 33,
+      "Caption": 558,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 34,
+      "ID": "ITM_INFO_034",
+      "Name": 34,
+      "Caption": 559,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 35,
+      "ID": "ITM_INFO_035",
+      "Name": 35,
+      "Caption": 560,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 36,
+      "ID": "ITM_INFO_036",
+      "Name": 36,
+      "Caption": 561,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 37,
+      "ID": "ITM_INFO_037",
+      "Name": 37,
+      "Caption": 562,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 38,
+      "ID": "ITM_INFO_038",
+      "Name": 38,
+      "Caption": 563,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 39,
+      "ID": "ITM_INFO_039",
+      "Name": 39,
+      "Caption": 564,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 40,
+      "ID": "ITM_INFO_040",
+      "Name": 40,
+      "Caption": 565,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 41,
+      "ID": "ITM_INFO_041",
+      "Name": 330,
+      "Caption": 855,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 42,
+      "ID": "ITM_INFO_042",
+      "Name": 42,
+      "Caption": 567,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 43,
+      "ID": "ITM_INFO_043",
+      "Name": 43,
+      "Caption": 568,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 44,
+      "ID": "ITM_INFO_044",
+      "Name": 44,
+      "Caption": 569,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 45,
+      "ID": "ITM_INFO_045",
+      "Name": 45,
+      "Caption": 570,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 46,
+      "ID": "ITM_INFO_046",
+      "Name": 46,
+      "Caption": 571,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 47,
+      "ID": "ITM_INFO_047",
+      "Name": 47,
+      "Caption": 572,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 48,
+      "ID": "ITM_INFO_048",
+      "Name": 48,
+      "Caption": 573,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 49,
+      "ID": "ITM_INFO_049",
+      "Name": 49,
+      "Caption": 574,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 50,
+      "ID": "ITM_INFO_050",
+      "Name": 50,
+      "Caption": 575,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 51,
+      "ID": "ITM_INFO_051",
+      "Name": 51,
+      "Caption": 576,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 52,
+      "ID": "ITM_INFO_052",
+      "Name": 52,
+      "Caption": 577,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 53,
+      "ID": "ITM_INFO_053",
+      "Name": 53,
+      "Caption": 578,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 54,
+      "ID": "ITM_INFO_054",
+      "Name": 54,
+      "Caption": 579,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 55,
+      "ID": "ITM_INFO_055",
+      "Name": 55,
+      "Caption": 580,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 56,
+      "ID": "ITM_INFO_056",
+      "Name": 56,
+      "Caption": 581,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 57,
+      "ID": "ITM_INFO_057",
+      "Name": 57,
+      "Caption": 582,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 58,
+      "ID": "ITM_INFO_058",
+      "Name": 58,
+      "Caption": 583,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 59,
+      "ID": "ITM_INFO_059",
+      "Name": 59,
+      "Caption": 584,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 60,
+      "ID": "ITM_INFO_060",
+      "Name": 60,
+      "Caption": 585,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 61,
+      "ID": "ITM_INFO_061",
+      "Name": 61,
+      "Caption": 586,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 62,
+      "ID": "ITM_INFO_062",
+      "Name": 62,
+      "Caption": 587,
+      "zone": 7,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 63,
+      "ID": "ITM_INFO_063",
+      "Name": 63,
+      "Caption": 588,
+      "zone": 7,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 64,
+      "ID": "ITM_INFO_064",
+      "Name": 64,
+      "Caption": 589,
+      "zone": 7,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 65,
+      "ID": "ITM_INFO_065",
+      "Name": 65,
+      "Caption": 590,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 66,
+      "ID": "ITM_INFO_066",
+      "Name": 66,
+      "Caption": 591,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 67,
+      "ID": "ITM_INFO_067",
+      "Name": 67,
+      "Caption": 592,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 68,
+      "ID": "ITM_INFO_068",
+      "Name": 68,
+      "Caption": 593,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 69,
+      "ID": "ITM_INFO_069",
+      "Name": 69,
+      "Caption": 594,
+      "zone": 7,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 70,
+      "ID": "ITM_INFO_070",
+      "Name": 70,
+      "Caption": 595,
+      "zone": 7,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 71,
+      "ID": "ITM_INFO_071",
+      "Name": 71,
+      "Caption": 596,
+      "zone": 7,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 72,
+      "ID": "ITM_INFO_072",
+      "Name": 72,
+      "Caption": 597,
+      "zone": 7,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 73,
+      "ID": "ITM_INFO_073",
+      "Name": 73,
+      "Caption": 598,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 74,
+      "ID": "ITM_INFO_074",
+      "Name": 74,
+      "Caption": 599,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 75,
+      "ID": "ITM_INFO_075",
+      "Name": 75,
+      "Caption": 600,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 76,
+      "ID": "ITM_INFO_076",
+      "Name": 76,
+      "Caption": 601,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 77,
+      "ID": "ITM_INFO_077",
+      "Name": 77,
+      "Caption": 602,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 78,
+      "ID": "ITM_INFO_078",
+      "Name": 78,
+      "Caption": 603,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 79,
+      "ID": "ITM_INFO_079",
+      "Name": 79,
+      "Caption": 604,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 80,
+      "ID": "ITM_INFO_080",
+      "Name": 80,
+      "Caption": 605,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 81,
+      "ID": "ITM_INFO_081",
+      "Name": 81,
+      "Caption": 606,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 82,
+      "ID": "ITM_INFO_082",
+      "Name": 82,
+      "Caption": 607,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 83,
+      "ID": "ITM_INFO_083",
+      "Name": 83,
+      "Caption": 608,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 84,
+      "ID": "ITM_INFO_084",
+      "Name": 84,
+      "Caption": 609,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 85,
+      "ID": "ITM_INFO_085",
+      "Name": 85,
+      "Caption": 610,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 86,
+      "ID": "ITM_INFO_086",
+      "Name": 86,
+      "Caption": 611,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 87,
+      "ID": "ITM_INFO_087",
+      "Name": 87,
+      "Caption": 612,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 88,
+      "ID": "ITM_INFO_088",
+      "Name": 88,
+      "Caption": 613,
+      "zone": 7,
+      "category": 1,
+      "Skill": 0
+    },
+    {
+      "$id": 89,
+      "ID": "ITM_INFO_089",
+      "Name": 89,
+      "Caption": 614,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 90,
+      "ID": "ITM_INFO_090",
+      "Name": 90,
+      "Caption": 615,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 91,
+      "ID": "ITM_INFO_091",
+      "Name": 91,
+      "Caption": 616,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 92,
+      "ID": "ITM_INFO_092",
+      "Name": 92,
+      "Caption": 617,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 93,
+      "ID": "ITM_INFO_093",
+      "Name": 93,
+      "Caption": 618,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 94,
+      "ID": "ITM_INFO_094",
+      "Name": 94,
+      "Caption": 619,
+      "zone": 3,
+      "category": 5,
+      "Skill": 0
+    },
+    {
+      "$id": 95,
+      "ID": "ITM_INFO_095",
+      "Name": 95,
+      "Caption": 620,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 96,
+      "ID": "ITM_INFO_096",
+      "Name": 96,
+      "Caption": 621,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 97,
+      "ID": "ITM_INFO_097",
+      "Name": 97,
+      "Caption": 622,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 98,
+      "ID": "ITM_INFO_098",
+      "Name": 98,
+      "Caption": 623,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 99,
+      "ID": "ITM_INFO_099",
+      "Name": 99,
+      "Caption": 624,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 100,
+      "ID": "ITM_INFO_100",
+      "Name": 100,
+      "Caption": 625,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 101,
+      "ID": "ITM_INFO_101",
+      "Name": 101,
+      "Caption": 626,
+      "zone": 2,
+      "category": 2,
+      "Skill": 0
+    },
+    {
+      "$id": 102,
+      "ID": "ITM_INFO_102",
+      "Name": 102,
+      "Caption": 627,
+      "zone": 2,
+      "category": 2,
+      "Skill": 0
+    },
+    {
+      "$id": 103,
+      "ID": "ITM_INFO_103",
+      "Name": 103,
+      "Caption": 628,
+      "zone": 2,
+      "category": 1,
+      "Skill": 0
+    },
+    {
+      "$id": 104,
+      "ID": "ITM_INFO_104",
+      "Name": 104,
+      "Caption": 629,
+      "zone": 2,
+      "category": 1,
+      "Skill": 0
+    },
+    {
+      "$id": 105,
+      "ID": "ITM_INFO_105",
+      "Name": 105,
+      "Caption": 630,
+      "zone": 2,
+      "category": 1,
+      "Skill": 0
+    },
+    {
+      "$id": 106,
+      "ID": "ITM_INFO_106",
+      "Name": 106,
+      "Caption": 631,
+      "zone": 2,
+      "category": 2,
+      "Skill": 0
+    },
+    {
+      "$id": 107,
+      "ID": "ITM_INFO_107",
+      "Name": 107,
+      "Caption": 632,
+      "zone": 2,
+      "category": 2,
+      "Skill": 0
+    },
+    {
+      "$id": 108,
+      "ID": "ITM_INFO_108",
+      "Name": 108,
+      "Caption": 633,
+      "zone": 2,
+      "category": 1,
+      "Skill": 0
+    },
+    {
+      "$id": 109,
+      "ID": "ITM_INFO_109",
+      "Name": 109,
+      "Caption": 634,
+      "zone": 2,
+      "category": 2,
+      "Skill": 0
+    },
+    {
+      "$id": 110,
+      "ID": "ITM_INFO_110",
+      "Name": 110,
+      "Caption": 635,
+      "zone": 2,
+      "category": 2,
+      "Skill": 0
+    },
+    {
+      "$id": 111,
+      "ID": "ITM_INFO_111",
+      "Name": 111,
+      "Caption": 636,
+      "zone": 2,
+      "category": 1,
+      "Skill": 0
+    },
+    {
+      "$id": 112,
+      "ID": "ITM_INFO_112",
+      "Name": 112,
+      "Caption": 637,
+      "zone": 2,
+      "category": 1,
+      "Skill": 0
+    },
+    {
+      "$id": 113,
+      "ID": "ITM_INFO_113",
+      "Name": 113,
+      "Caption": 638,
+      "zone": 2,
+      "category": 1,
+      "Skill": 0
+    },
+    {
+      "$id": 114,
+      "ID": "ITM_INFO_114",
+      "Name": 114,
+      "Caption": 639,
+      "zone": 2,
+      "category": 1,
+      "Skill": 0
+    },
+    {
+      "$id": 115,
+      "ID": "ITM_INFO_115",
+      "Name": 115,
+      "Caption": 640,
+      "zone": 2,
+      "category": 1,
+      "Skill": 0
+    },
+    {
+      "$id": 116,
+      "ID": "ITM_INFO_116",
+      "Name": 116,
+      "Caption": 641,
+      "zone": 2,
+      "category": 2,
+      "Skill": 0
+    },
+    {
+      "$id": 117,
+      "ID": "ITM_INFO_117",
+      "Name": 117,
+      "Caption": 642,
+      "zone": 2,
+      "category": 1,
+      "Skill": 0
+    },
+    {
+      "$id": 118,
+      "ID": "ITM_INFO_118",
+      "Name": 118,
+      "Caption": 643,
+      "zone": 2,
+      "category": 1,
+      "Skill": 0
+    },
+    {
+      "$id": 119,
+      "ID": "ITM_INFO_119",
+      "Name": 119,
+      "Caption": 644,
+      "zone": 2,
+      "category": 2,
+      "Skill": 0
+    },
+    {
+      "$id": 120,
+      "ID": "ITM_INFO_120",
+      "Name": 120,
+      "Caption": 645,
+      "zone": 2,
+      "category": 1,
+      "Skill": 0
+    },
+    {
+      "$id": 121,
+      "ID": "ITM_INFO_121",
+      "Name": 121,
+      "Caption": 646,
+      "zone": 2,
+      "category": 1,
+      "Skill": 0
+    },
+    {
+      "$id": 122,
+      "ID": "ITM_INFO_122",
+      "Name": 122,
+      "Caption": 647,
+      "zone": 2,
+      "category": 2,
+      "Skill": 0
+    },
+    {
+      "$id": 123,
+      "ID": "ITM_INFO_123",
+      "Name": 123,
+      "Caption": 648,
+      "zone": 2,
+      "category": 2,
+      "Skill": 0
+    },
+    {
+      "$id": 124,
+      "ID": "ITM_INFO_124",
+      "Name": 124,
+      "Caption": 649,
+      "zone": 2,
+      "category": 2,
+      "Skill": 0
+    },
+    {
+      "$id": 125,
+      "ID": "ITM_INFO_125",
+      "Name": 125,
+      "Caption": 650,
+      "zone": 2,
+      "category": 2,
+      "Skill": 0
+    },
+    {
+      "$id": 126,
+      "ID": "ITM_INFO_126",
+      "Name": 126,
+      "Caption": 651,
+      "zone": 2,
+      "category": 1,
+      "Skill": 0
+    },
+    {
+      "$id": 127,
+      "ID": "ITM_INFO_127",
+      "Name": 127,
+      "Caption": 652,
+      "zone": 2,
+      "category": 2,
+      "Skill": 0
+    },
+    {
+      "$id": 128,
+      "ID": "ITM_INFO_128",
+      "Name": 128,
+      "Caption": 653,
+      "zone": 2,
+      "category": 2,
+      "Skill": 0
+    },
+    {
+      "$id": 129,
+      "ID": "ITM_INFO_129",
+      "Name": 129,
+      "Caption": 654,
+      "zone": 2,
+      "category": 2,
+      "Skill": 0
+    },
+    {
+      "$id": 130,
+      "ID": "ITM_INFO_130",
+      "Name": 130,
+      "Caption": 655,
+      "zone": 2,
+      "category": 2,
+      "Skill": 0
+    },
+    {
+      "$id": 131,
+      "ID": "ITM_INFO_131",
+      "Name": 131,
+      "Caption": 656,
+      "zone": 2,
+      "category": 2,
+      "Skill": 0
+    },
+    {
+      "$id": 132,
+      "ID": "ITM_INFO_132",
+      "Name": 132,
+      "Caption": 657,
+      "zone": 2,
+      "category": 2,
+      "Skill": 0
+    },
+    {
+      "$id": 133,
+      "ID": "ITM_INFO_133",
+      "Name": 133,
+      "Caption": 658,
+      "zone": 2,
+      "category": 2,
+      "Skill": 0
+    },
+    {
+      "$id": 134,
+      "ID": "ITM_INFO_134",
+      "Name": 134,
+      "Caption": 659,
+      "zone": 2,
+      "category": 2,
+      "Skill": 0
+    },
+    {
+      "$id": 135,
+      "ID": "ITM_INFO_135",
+      "Name": 135,
+      "Caption": 660,
+      "zone": 2,
+      "category": 1,
+      "Skill": 0
+    },
+    {
+      "$id": 136,
+      "ID": "ITM_INFO_136",
+      "Name": 136,
+      "Caption": 661,
+      "zone": 2,
+      "category": 1,
+      "Skill": 0
+    },
+    {
+      "$id": 137,
+      "ID": "ITM_INFO_137",
+      "Name": 137,
+      "Caption": 662,
+      "zone": 2,
+      "category": 2,
+      "Skill": 0
+    },
+    {
+      "$id": 138,
+      "ID": "ITM_INFO_138",
+      "Name": 138,
+      "Caption": 663,
+      "zone": 2,
+      "category": 1,
+      "Skill": 0
+    },
+    {
+      "$id": 139,
+      "ID": "ITM_INFO_139",
+      "Name": 139,
+      "Caption": 664,
+      "zone": 2,
+      "category": 1,
+      "Skill": 0
+    },
+    {
+      "$id": 140,
+      "ID": "ITM_INFO_140",
+      "Name": 140,
+      "Caption": 665,
+      "zone": 2,
+      "category": 1,
+      "Skill": 0
+    },
+    {
+      "$id": 141,
+      "ID": "ITM_INFO_141",
+      "Name": 141,
+      "Caption": 666,
+      "zone": 2,
+      "category": 2,
+      "Skill": 0
+    },
+    {
+      "$id": 142,
+      "ID": "ITM_INFO_142",
+      "Name": 142,
+      "Caption": 667,
+      "zone": 2,
+      "category": 1,
+      "Skill": 0
+    },
+    {
+      "$id": 143,
+      "ID": "ITM_INFO_143",
+      "Name": 143,
+      "Caption": 668,
+      "zone": 2,
+      "category": 1,
+      "Skill": 0
+    },
+    {
+      "$id": 144,
+      "ID": "ITM_INFO_144",
+      "Name": 144,
+      "Caption": 669,
+      "zone": 4,
+      "category": 1,
+      "Skill": 0
+    },
+    {
+      "$id": 145,
+      "ID": "ITM_INFO_145",
+      "Name": 145,
+      "Caption": 670,
+      "zone": 7,
+      "category": 1,
+      "Skill": 0
+    },
+    {
+      "$id": 146,
+      "ID": "ITM_INFO_146",
+      "Name": 146,
+      "Caption": 671,
+      "zone": 7,
+      "category": 1,
+      "Skill": 0
+    },
+    {
+      "$id": 147,
+      "ID": "ITM_INFO_147",
+      "Name": 0,
+      "Caption": 0,
+      "zone": 2,
+      "category": 1,
+      "Skill": 0
+    },
+    {
+      "$id": 148,
+      "ID": "ITM_INFO_148",
+      "Name": 0,
+      "Caption": 0,
+      "zone": 2,
+      "category": 1,
+      "Skill": 0
+    },
+    {
+      "$id": 149,
+      "ID": "ITM_INFO_149",
+      "Name": 0,
+      "Caption": 0,
+      "zone": 2,
+      "category": 1,
+      "Skill": 0
+    },
+    {
+      "$id": 150,
+      "ID": "ITM_INFO_150",
+      "Name": 150,
+      "Caption": 675,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 151,
+      "ID": "ITM_INFO_151",
+      "Name": 151,
+      "Caption": 676,
+      "zone": 4,
+      "category": 2,
+      "Skill": 0
+    },
+    {
+      "$id": 152,
+      "ID": "ITM_INFO_152",
+      "Name": 152,
+      "Caption": 677,
+      "zone": 4,
+      "category": 2,
+      "Skill": 0
+    },
+    {
+      "$id": 153,
+      "ID": "ITM_INFO_153",
+      "Name": 153,
+      "Caption": 678,
+      "zone": 4,
+      "category": 1,
+      "Skill": 0
+    },
+    {
+      "$id": 154,
+      "ID": "ITM_INFO_154",
+      "Name": 154,
+      "Caption": 679,
+      "zone": 4,
+      "category": 2,
+      "Skill": 0
+    },
+    {
+      "$id": 155,
+      "ID": "ITM_INFO_155",
+      "Name": 155,
+      "Caption": 680,
+      "zone": 4,
+      "category": 2,
+      "Skill": 0
+    },
+    {
+      "$id": 156,
+      "ID": "ITM_INFO_156",
+      "Name": 156,
+      "Caption": 681,
+      "zone": 4,
+      "category": 2,
+      "Skill": 0
+    },
+    {
+      "$id": 157,
+      "ID": "ITM_INFO_157",
+      "Name": 157,
+      "Caption": 682,
+      "zone": 4,
+      "category": 2,
+      "Skill": 0
+    },
+    {
+      "$id": 158,
+      "ID": "ITM_INFO_158",
+      "Name": 158,
+      "Caption": 683,
+      "zone": 4,
+      "category": 2,
+      "Skill": 0
+    },
+    {
+      "$id": 159,
+      "ID": "ITM_INFO_159",
+      "Name": 159,
+      "Caption": 684,
+      "zone": 4,
+      "category": 2,
+      "Skill": 0
+    },
+    {
+      "$id": 160,
+      "ID": "ITM_INFO_160",
+      "Name": 160,
+      "Caption": 685,
+      "zone": 4,
+      "category": 1,
+      "Skill": 0
+    },
+    {
+      "$id": 161,
+      "ID": "ITM_INFO_161",
+      "Name": 161,
+      "Caption": 686,
+      "zone": 4,
+      "category": 2,
+      "Skill": 0
+    },
+    {
+      "$id": 162,
+      "ID": "ITM_INFO_162",
+      "Name": 162,
+      "Caption": 687,
+      "zone": 4,
+      "category": 1,
+      "Skill": 0
+    },
+    {
+      "$id": 163,
+      "ID": "ITM_INFO_163",
+      "Name": 163,
+      "Caption": 688,
+      "zone": 4,
+      "category": 1,
+      "Skill": 0
+    },
+    {
+      "$id": 164,
+      "ID": "ITM_INFO_164",
+      "Name": 164,
+      "Caption": 689,
+      "zone": 4,
+      "category": 1,
+      "Skill": 0
+    },
+    {
+      "$id": 165,
+      "ID": "ITM_INFO_165",
+      "Name": 165,
+      "Caption": 690,
+      "zone": 4,
+      "category": 1,
+      "Skill": 0
+    },
+    {
+      "$id": 166,
+      "ID": "ITM_INFO_166",
+      "Name": 166,
+      "Caption": 691,
+      "zone": 4,
+      "category": 1,
+      "Skill": 0
+    },
+    {
+      "$id": 167,
+      "ID": "ITM_INFO_167",
+      "Name": 167,
+      "Caption": 692,
+      "zone": 4,
+      "category": 2,
+      "Skill": 0
+    },
+    {
+      "$id": 168,
+      "ID": "ITM_INFO_168",
+      "Name": 168,
+      "Caption": 693,
+      "zone": 4,
+      "category": 1,
+      "Skill": 0
+    },
+    {
+      "$id": 169,
+      "ID": "ITM_INFO_169",
+      "Name": 169,
+      "Caption": 694,
+      "zone": 4,
+      "category": 2,
+      "Skill": 0
+    },
+    {
+      "$id": 170,
+      "ID": "ITM_INFO_170",
+      "Name": 170,
+      "Caption": 695,
+      "zone": 4,
+      "category": 1,
+      "Skill": 0
+    },
+    {
+      "$id": 171,
+      "ID": "ITM_INFO_171",
+      "Name": 171,
+      "Caption": 696,
+      "zone": 4,
+      "category": 2,
+      "Skill": 0
+    },
+    {
+      "$id": 172,
+      "ID": "ITM_INFO_172",
+      "Name": 172,
+      "Caption": 697,
+      "zone": 4,
+      "category": 2,
+      "Skill": 0
+    },
+    {
+      "$id": 173,
+      "ID": "ITM_INFO_173",
+      "Name": 173,
+      "Caption": 698,
+      "zone": 4,
+      "category": 1,
+      "Skill": 0
+    },
+    {
+      "$id": 174,
+      "ID": "ITM_INFO_174",
+      "Name": 174,
+      "Caption": 699,
+      "zone": 4,
+      "category": 2,
+      "Skill": 0
+    },
+    {
+      "$id": 175,
+      "ID": "ITM_INFO_175",
+      "Name": 175,
+      "Caption": 700,
+      "zone": 4,
+      "category": 1,
+      "Skill": 0
+    },
+    {
+      "$id": 176,
+      "ID": "ITM_INFO_176",
+      "Name": 176,
+      "Caption": 701,
+      "zone": 4,
+      "category": 2,
+      "Skill": 0
+    },
+    {
+      "$id": 177,
+      "ID": "ITM_INFO_177",
+      "Name": 177,
+      "Caption": 702,
+      "zone": 4,
+      "category": 1,
+      "Skill": 0
+    },
+    {
+      "$id": 178,
+      "ID": "ITM_INFO_178",
+      "Name": 178,
+      "Caption": 703,
+      "zone": 4,
+      "category": 2,
+      "Skill": 0
+    },
+    {
+      "$id": 179,
+      "ID": "ITM_INFO_179",
+      "Name": 179,
+      "Caption": 704,
+      "zone": 4,
+      "category": 1,
+      "Skill": 0
+    },
+    {
+      "$id": 180,
+      "ID": "ITM_INFO_180",
+      "Name": 0,
+      "Caption": 0,
+      "zone": 4,
+      "category": 1,
+      "Skill": 0
+    },
+    {
+      "$id": 181,
+      "ID": "ITM_INFO_181",
+      "Name": 0,
+      "Caption": 0,
+      "zone": 4,
+      "category": 1,
+      "Skill": 0
+    },
+    {
+      "$id": 182,
+      "ID": "ITM_INFO_182",
+      "Name": 0,
+      "Caption": 0,
+      "zone": 4,
+      "category": 1,
+      "Skill": 0
+    },
+    {
+      "$id": 183,
+      "ID": "ITM_INFO_183",
+      "Name": 0,
+      "Caption": 0,
+      "zone": 4,
+      "category": 1,
+      "Skill": 0
+    },
+    {
+      "$id": 184,
+      "ID": "ITM_INFO_184",
+      "Name": 0,
+      "Caption": 0,
+      "zone": 4,
+      "category": 1,
+      "Skill": 0
+    },
+    {
+      "$id": 185,
+      "ID": "ITM_INFO_185",
+      "Name": 0,
+      "Caption": 0,
+      "zone": 4,
+      "category": 1,
+      "Skill": 0
+    },
+    {
+      "$id": 186,
+      "ID": "ITM_INFO_186",
+      "Name": 0,
+      "Caption": 0,
+      "zone": 4,
+      "category": 1,
+      "Skill": 0
+    },
+    {
+      "$id": 187,
+      "ID": "ITM_INFO_187",
+      "Name": 0,
+      "Caption": 0,
+      "zone": 4,
+      "category": 1,
+      "Skill": 0
+    },
+    {
+      "$id": 188,
+      "ID": "ITM_INFO_188",
+      "Name": 0,
+      "Caption": 0,
+      "zone": 4,
+      "category": 1,
+      "Skill": 0
+    },
+    {
+      "$id": 189,
+      "ID": "ITM_INFO_189",
+      "Name": 0,
+      "Caption": 0,
+      "zone": 4,
+      "category": 1,
+      "Skill": 0
+    },
+    {
+      "$id": 190,
+      "ID": "ITM_INFO_190",
+      "Name": 0,
+      "Caption": 0,
+      "zone": 4,
+      "category": 1,
+      "Skill": 0
+    },
+    {
+      "$id": 191,
+      "ID": "ITM_INFO_191",
+      "Name": 0,
+      "Caption": 0,
+      "zone": 4,
+      "category": 1,
+      "Skill": 0
+    },
+    {
+      "$id": 192,
+      "ID": "ITM_INFO_192",
+      "Name": 0,
+      "Caption": 0,
+      "zone": 4,
+      "category": 1,
+      "Skill": 0
+    },
+    {
+      "$id": 193,
+      "ID": "ITM_INFO_193",
+      "Name": 0,
+      "Caption": 0,
+      "zone": 4,
+      "category": 1,
+      "Skill": 0
+    },
+    {
+      "$id": 194,
+      "ID": "ITM_INFO_194",
+      "Name": 0,
+      "Caption": 0,
+      "zone": 4,
+      "category": 1,
+      "Skill": 0
+    },
+    {
+      "$id": 195,
+      "ID": "ITM_INFO_195",
+      "Name": 0,
+      "Caption": 0,
+      "zone": 4,
+      "category": 1,
+      "Skill": 0
+    },
+    {
+      "$id": 196,
+      "ID": "ITM_INFO_196",
+      "Name": 0,
+      "Caption": 0,
+      "zone": 4,
+      "category": 1,
+      "Skill": 0
+    },
+    {
+      "$id": 197,
+      "ID": "ITM_INFO_197",
+      "Name": 0,
+      "Caption": 0,
+      "zone": 4,
+      "category": 1,
+      "Skill": 0
+    },
+    {
+      "$id": 198,
+      "ID": "ITM_INFO_198",
+      "Name": 0,
+      "Caption": 0,
+      "zone": 4,
+      "category": 1,
+      "Skill": 0
+    },
+    {
+      "$id": 199,
+      "ID": "ITM_INFO_199",
+      "Name": 0,
+      "Caption": 0,
+      "zone": 4,
+      "category": 1,
+      "Skill": 0
+    },
+    {
+      "$id": 200,
+      "ID": "ITM_INFO_200",
+      "Name": 0,
+      "Caption": 0,
+      "zone": 4,
+      "category": 1,
+      "Skill": 0
+    },
+    {
+      "$id": 201,
+      "ID": "ITM_INFO_201",
+      "Name": 180,
+      "Caption": 705,
+      "zone": 5,
+      "category": 1,
+      "Skill": 0
+    },
+    {
+      "$id": 202,
+      "ID": "ITM_INFO_202",
+      "Name": 181,
+      "Caption": 706,
+      "zone": 5,
+      "category": 1,
+      "Skill": 0
+    },
+    {
+      "$id": 203,
+      "ID": "ITM_INFO_203",
+      "Name": 182,
+      "Caption": 707,
+      "zone": 5,
+      "category": 2,
+      "Skill": 0
+    },
+    {
+      "$id": 204,
+      "ID": "ITM_INFO_204",
+      "Name": 183,
+      "Caption": 708,
+      "zone": 5,
+      "category": 1,
+      "Skill": 0
+    },
+    {
+      "$id": 205,
+      "ID": "ITM_INFO_205",
+      "Name": 184,
+      "Caption": 709,
+      "zone": 5,
+      "category": 2,
+      "Skill": 0
+    },
+    {
+      "$id": 206,
+      "ID": "ITM_INFO_206",
+      "Name": 185,
+      "Caption": 710,
+      "zone": 5,
+      "category": 1,
+      "Skill": 0
+    },
+    {
+      "$id": 207,
+      "ID": "ITM_INFO_207",
+      "Name": 186,
+      "Caption": 711,
+      "zone": 5,
+      "category": 1,
+      "Skill": 0
+    },
+    {
+      "$id": 208,
+      "ID": "ITM_INFO_208",
+      "Name": 187,
+      "Caption": 712,
+      "zone": 5,
+      "category": 2,
+      "Skill": 0
+    },
+    {
+      "$id": 209,
+      "ID": "ITM_INFO_209",
+      "Name": 188,
+      "Caption": 713,
+      "zone": 5,
+      "category": 1,
+      "Skill": 0
+    },
+    {
+      "$id": 210,
+      "ID": "ITM_INFO_210",
+      "Name": 189,
+      "Caption": 714,
+      "zone": 5,
+      "category": 2,
+      "Skill": 0
+    },
+    {
+      "$id": 211,
+      "ID": "ITM_INFO_211",
+      "Name": 190,
+      "Caption": 715,
+      "zone": 5,
+      "category": 1,
+      "Skill": 0
+    },
+    {
+      "$id": 212,
+      "ID": "ITM_INFO_212",
+      "Name": 191,
+      "Caption": 716,
+      "zone": 5,
+      "category": 2,
+      "Skill": 0
+    },
+    {
+      "$id": 213,
+      "ID": "ITM_INFO_213",
+      "Name": 192,
+      "Caption": 717,
+      "zone": 5,
+      "category": 2,
+      "Skill": 0
+    },
+    {
+      "$id": 214,
+      "ID": "ITM_INFO_214",
+      "Name": 193,
+      "Caption": 718,
+      "zone": 5,
+      "category": 2,
+      "Skill": 0
+    },
+    {
+      "$id": 215,
+      "ID": "ITM_INFO_215",
+      "Name": 194,
+      "Caption": 719,
+      "zone": 5,
+      "category": 1,
+      "Skill": 0
+    },
+    {
+      "$id": 216,
+      "ID": "ITM_INFO_216",
+      "Name": 195,
+      "Caption": 720,
+      "zone": 5,
+      "category": 1,
+      "Skill": 0
+    },
+    {
+      "$id": 217,
+      "ID": "ITM_INFO_217",
+      "Name": 196,
+      "Caption": 721,
+      "zone": 5,
+      "category": 1,
+      "Skill": 0
+    },
+    {
+      "$id": 218,
+      "ID": "ITM_INFO_218",
+      "Name": 197,
+      "Caption": 722,
+      "zone": 5,
+      "category": 2,
+      "Skill": 0
+    },
+    {
+      "$id": 219,
+      "ID": "ITM_INFO_219",
+      "Name": 198,
+      "Caption": 723,
+      "zone": 5,
+      "category": 1,
+      "Skill": 0
+    },
+    {
+      "$id": 220,
+      "ID": "ITM_INFO_220",
+      "Name": 199,
+      "Caption": 724,
+      "zone": 5,
+      "category": 2,
+      "Skill": 0
+    },
+    {
+      "$id": 221,
+      "ID": "ITM_INFO_221",
+      "Name": 200,
+      "Caption": 725,
+      "zone": 5,
+      "category": 1,
+      "Skill": 0
+    },
+    {
+      "$id": 222,
+      "ID": "ITM_INFO_222",
+      "Name": 201,
+      "Caption": 726,
+      "zone": 5,
+      "category": 2,
+      "Skill": 0
+    },
+    {
+      "$id": 223,
+      "ID": "ITM_INFO_223",
+      "Name": 202,
+      "Caption": 727,
+      "zone": 5,
+      "category": 2,
+      "Skill": 0
+    },
+    {
+      "$id": 224,
+      "ID": "ITM_INFO_224",
+      "Name": 203,
+      "Caption": 728,
+      "zone": 5,
+      "category": 1,
+      "Skill": 0
+    },
+    {
+      "$id": 225,
+      "ID": "ITM_INFO_225",
+      "Name": 204,
+      "Caption": 729,
+      "zone": 5,
+      "category": 2,
+      "Skill": 0
+    },
+    {
+      "$id": 226,
+      "ID": "ITM_INFO_226",
+      "Name": 205,
+      "Caption": 730,
+      "zone": 5,
+      "category": 1,
+      "Skill": 0
+    },
+    {
+      "$id": 227,
+      "ID": "ITM_INFO_227",
+      "Name": 206,
+      "Caption": 731,
+      "zone": 5,
+      "category": 1,
+      "Skill": 0
+    },
+    {
+      "$id": 228,
+      "ID": "ITM_INFO_228",
+      "Name": 207,
+      "Caption": 732,
+      "zone": 5,
+      "category": 2,
+      "Skill": 0
+    },
+    {
+      "$id": 229,
+      "ID": "ITM_INFO_229",
+      "Name": 208,
+      "Caption": 733,
+      "zone": 5,
+      "category": 2,
+      "Skill": 0
+    },
+    {
+      "$id": 230,
+      "ID": "ITM_INFO_230",
+      "Name": 209,
+      "Caption": 734,
+      "zone": 5,
+      "category": 1,
+      "Skill": 0
+    },
+    {
+      "$id": 231,
+      "ID": "ITM_INFO_231",
+      "Name": 210,
+      "Caption": 735,
+      "zone": 5,
+      "category": 2,
+      "Skill": 0
+    },
+    {
+      "$id": 232,
+      "ID": "ITM_INFO_232",
+      "Name": 211,
+      "Caption": 736,
+      "zone": 5,
+      "category": 2,
+      "Skill": 0
+    },
+    {
+      "$id": 233,
+      "ID": "ITM_INFO_233",
+      "Name": 212,
+      "Caption": 737,
+      "zone": 5,
+      "category": 2,
+      "Skill": 0
+    },
+    {
+      "$id": 234,
+      "ID": "ITM_INFO_234",
+      "Name": 213,
+      "Caption": 738,
+      "zone": 5,
+      "category": 1,
+      "Skill": 0
+    },
+    {
+      "$id": 235,
+      "ID": "ITM_INFO_235",
+      "Name": 214,
+      "Caption": 739,
+      "zone": 5,
+      "category": 1,
+      "Skill": 0
+    },
+    {
+      "$id": 236,
+      "ID": "ITM_INFO_236",
+      "Name": 215,
+      "Caption": 740,
+      "zone": 5,
+      "category": 1,
+      "Skill": 0
+    },
+    {
+      "$id": 237,
+      "ID": "ITM_INFO_237",
+      "Name": 216,
+      "Caption": 741,
+      "zone": 5,
+      "category": 2,
+      "Skill": 0
+    },
+    {
+      "$id": 238,
+      "ID": "ITM_INFO_238",
+      "Name": 217,
+      "Caption": 742,
+      "zone": 5,
+      "category": 2,
+      "Skill": 0
+    },
+    {
+      "$id": 239,
+      "ID": "ITM_INFO_239",
+      "Name": 218,
+      "Caption": 743,
+      "zone": 5,
+      "category": 1,
+      "Skill": 0
+    },
+    {
+      "$id": 240,
+      "ID": "ITM_INFO_240",
+      "Name": 219,
+      "Caption": 744,
+      "zone": 5,
+      "category": 1,
+      "Skill": 0
+    },
+    {
+      "$id": 241,
+      "ID": "ITM_INFO_241",
+      "Name": 220,
+      "Caption": 745,
+      "zone": 5,
+      "category": 2,
+      "Skill": 0
+    },
+    {
+      "$id": 242,
+      "ID": "ITM_INFO_242",
+      "Name": 221,
+      "Caption": 746,
+      "zone": 5,
+      "category": 1,
+      "Skill": 0
+    },
+    {
+      "$id": 243,
+      "ID": "ITM_INFO_243",
+      "Name": 222,
+      "Caption": 747,
+      "zone": 5,
+      "category": 1,
+      "Skill": 0
+    },
+    {
+      "$id": 244,
+      "ID": "ITM_INFO_244",
+      "Name": 223,
+      "Caption": 748,
+      "zone": 5,
+      "category": 2,
+      "Skill": 0
+    },
+    {
+      "$id": 245,
+      "ID": "ITM_INFO_245",
+      "Name": 224,
+      "Caption": 749,
+      "zone": 5,
+      "category": 1,
+      "Skill": 0
+    },
+    {
+      "$id": 246,
+      "ID": "ITM_INFO_246",
+      "Name": 225,
+      "Caption": 750,
+      "zone": 5,
+      "category": 2,
+      "Skill": 0
+    },
+    {
+      "$id": 247,
+      "ID": "ITM_INFO_247",
+      "Name": 226,
+      "Caption": 751,
+      "zone": 5,
+      "category": 1,
+      "Skill": 0
+    },
+    {
+      "$id": 248,
+      "ID": "ITM_INFO_248",
+      "Name": 227,
+      "Caption": 752,
+      "zone": 5,
+      "category": 2,
+      "Skill": 0
+    },
+    {
+      "$id": 249,
+      "ID": "ITM_INFO_249",
+      "Name": 228,
+      "Caption": 753,
+      "zone": 5,
+      "category": 1,
+      "Skill": 0
+    },
+    {
+      "$id": 250,
+      "ID": "ITM_INFO_250",
+      "Name": 229,
+      "Caption": 754,
+      "zone": 5,
+      "category": 2,
+      "Skill": 0
+    },
+    {
+      "$id": 251,
+      "ID": "ITM_INFO_251",
+      "Name": 230,
+      "Caption": 755,
+      "zone": 7,
+      "category": 1,
+      "Skill": 0
+    },
+    {
+      "$id": 252,
+      "ID": "ITM_INFO_252",
+      "Name": 231,
+      "Caption": 756,
+      "zone": 7,
+      "category": 1,
+      "Skill": 0
+    },
+    {
+      "$id": 253,
+      "ID": "ITM_INFO_253",
+      "Name": 232,
+      "Caption": 757,
+      "zone": 7,
+      "category": 1,
+      "Skill": 0
+    },
+    {
+      "$id": 254,
+      "ID": "ITM_INFO_254",
+      "Name": 233,
+      "Caption": 758,
+      "zone": 7,
+      "category": 2,
+      "Skill": 0
+    },
+    {
+      "$id": 255,
+      "ID": "ITM_INFO_255",
+      "Name": 234,
+      "Caption": 759,
+      "zone": 7,
+      "category": 2,
+      "Skill": 0
+    },
+    {
+      "$id": 256,
+      "ID": "ITM_INFO_256",
+      "Name": 235,
+      "Caption": 760,
+      "zone": 7,
+      "category": 1,
+      "Skill": 0
+    },
+    {
+      "$id": 257,
+      "ID": "ITM_INFO_257",
+      "Name": 236,
+      "Caption": 761,
+      "zone": 7,
+      "category": 2,
+      "Skill": 0
+    },
+    {
+      "$id": 258,
+      "ID": "ITM_INFO_258",
+      "Name": 237,
+      "Caption": 762,
+      "zone": 7,
+      "category": 1,
+      "Skill": 0
+    },
+    {
+      "$id": 259,
+      "ID": "ITM_INFO_259",
+      "Name": 238,
+      "Caption": 763,
+      "zone": 7,
+      "category": 2,
+      "Skill": 0
+    },
+    {
+      "$id": 260,
+      "ID": "ITM_INFO_260",
+      "Name": 239,
+      "Caption": 764,
+      "zone": 7,
+      "category": 1,
+      "Skill": 0
+    },
+    {
+      "$id": 261,
+      "ID": "ITM_INFO_261",
+      "Name": 240,
+      "Caption": 765,
+      "zone": 7,
+      "category": 1,
+      "Skill": 0
+    },
+    {
+      "$id": 262,
+      "ID": "ITM_INFO_262",
+      "Name": 241,
+      "Caption": 766,
+      "zone": 7,
+      "category": 1,
+      "Skill": 0
+    },
+    {
+      "$id": 263,
+      "ID": "ITM_INFO_263",
+      "Name": 242,
+      "Caption": 767,
+      "zone": 7,
+      "category": 2,
+      "Skill": 0
+    },
+    {
+      "$id": 264,
+      "ID": "ITM_INFO_264",
+      "Name": 243,
+      "Caption": 768,
+      "zone": 7,
+      "category": 1,
+      "Skill": 0
+    },
+    {
+      "$id": 265,
+      "ID": "ITM_INFO_265",
+      "Name": 244,
+      "Caption": 769,
+      "zone": 7,
+      "category": 1,
+      "Skill": 0
+    },
+    {
+      "$id": 266,
+      "ID": "ITM_INFO_266",
+      "Name": 245,
+      "Caption": 770,
+      "zone": 7,
+      "category": 2,
+      "Skill": 0
+    },
+    {
+      "$id": 267,
+      "ID": "ITM_INFO_267",
+      "Name": 246,
+      "Caption": 771,
+      "zone": 7,
+      "category": 1,
+      "Skill": 0
+    },
+    {
+      "$id": 268,
+      "ID": "ITM_INFO_268",
+      "Name": 247,
+      "Caption": 772,
+      "zone": 7,
+      "category": 1,
+      "Skill": 0
+    },
+    {
+      "$id": 269,
+      "ID": "ITM_INFO_269",
+      "Name": 248,
+      "Caption": 773,
+      "zone": 7,
+      "category": 1,
+      "Skill": 0
+    },
+    {
+      "$id": 270,
+      "ID": "ITM_INFO_270",
+      "Name": 249,
+      "Caption": 774,
+      "zone": 7,
+      "category": 2,
+      "Skill": 0
+    },
+    {
+      "$id": 271,
+      "ID": "ITM_INFO_271",
+      "Name": 250,
+      "Caption": 775,
+      "zone": 7,
+      "category": 1,
+      "Skill": 0
+    },
+    {
+      "$id": 272,
+      "ID": "ITM_INFO_272",
+      "Name": 251,
+      "Caption": 776,
+      "zone": 7,
+      "category": 1,
+      "Skill": 0
+    },
+    {
+      "$id": 273,
+      "ID": "ITM_INFO_273",
+      "Name": 252,
+      "Caption": 777,
+      "zone": 7,
+      "category": 1,
+      "Skill": 0
+    },
+    {
+      "$id": 274,
+      "ID": "ITM_INFO_274",
+      "Name": 253,
+      "Caption": 778,
+      "zone": 7,
+      "category": 1,
+      "Skill": 0
+    },
+    {
+      "$id": 275,
+      "ID": "ITM_INFO_275",
+      "Name": 254,
+      "Caption": 779,
+      "zone": 7,
+      "category": 2,
+      "Skill": 0
+    },
+    {
+      "$id": 276,
+      "ID": "ITM_INFO_276",
+      "Name": 255,
+      "Caption": 780,
+      "zone": 7,
+      "category": 2,
+      "Skill": 0
+    },
+    {
+      "$id": 277,
+      "ID": "ITM_INFO_277",
+      "Name": 256,
+      "Caption": 781,
+      "zone": 7,
+      "category": 2,
+      "Skill": 0
+    },
+    {
+      "$id": 278,
+      "ID": "ITM_INFO_278",
+      "Name": 257,
+      "Caption": 782,
+      "zone": 7,
+      "category": 2,
+      "Skill": 0
+    },
+    {
+      "$id": 279,
+      "ID": "ITM_INFO_279",
+      "Name": 258,
+      "Caption": 783,
+      "zone": 7,
+      "category": 1,
+      "Skill": 0
+    },
+    {
+      "$id": 280,
+      "ID": "ITM_INFO_280",
+      "Name": 259,
+      "Caption": 784,
+      "zone": 7,
+      "category": 2,
+      "Skill": 0
+    },
+    {
+      "$id": 281,
+      "ID": "ITM_INFO_281",
+      "Name": 260,
+      "Caption": 785,
+      "zone": 7,
+      "category": 2,
+      "Skill": 0
+    },
+    {
+      "$id": 282,
+      "ID": "ITM_INFO_282",
+      "Name": 261,
+      "Caption": 786,
+      "zone": 7,
+      "category": 1,
+      "Skill": 0
+    },
+    {
+      "$id": 283,
+      "ID": "ITM_INFO_283",
+      "Name": 262,
+      "Caption": 787,
+      "zone": 7,
+      "category": 2,
+      "Skill": 0
+    },
+    {
+      "$id": 284,
+      "ID": "ITM_INFO_284",
+      "Name": 263,
+      "Caption": 788,
+      "zone": 7,
+      "category": 1,
+      "Skill": 0
+    },
+    {
+      "$id": 285,
+      "ID": "ITM_INFO_285",
+      "Name": 264,
+      "Caption": 789,
+      "zone": 7,
+      "category": 1,
+      "Skill": 0
+    },
+    {
+      "$id": 286,
+      "ID": "ITM_INFO_286",
+      "Name": 265,
+      "Caption": 790,
+      "zone": 7,
+      "category": 1,
+      "Skill": 0
+    },
+    {
+      "$id": 287,
+      "ID": "ITM_INFO_287",
+      "Name": 266,
+      "Caption": 791,
+      "zone": 7,
+      "category": 1,
+      "Skill": 0
+    },
+    {
+      "$id": 288,
+      "ID": "ITM_INFO_288",
+      "Name": 267,
+      "Caption": 792,
+      "zone": 7,
+      "category": 2,
+      "Skill": 0
+    },
+    {
+      "$id": 289,
+      "ID": "ITM_INFO_289",
+      "Name": 268,
+      "Caption": 793,
+      "zone": 7,
+      "category": 2,
+      "Skill": 0
+    },
+    {
+      "$id": 290,
+      "ID": "ITM_INFO_290",
+      "Name": 269,
+      "Caption": 794,
+      "zone": 7,
+      "category": 1,
+      "Skill": 0
+    },
+    {
+      "$id": 291,
+      "ID": "ITM_INFO_291",
+      "Name": 270,
+      "Caption": 795,
+      "zone": 7,
+      "category": 2,
+      "Skill": 0
+    },
+    {
+      "$id": 292,
+      "ID": "ITM_INFO_292",
+      "Name": 271,
+      "Caption": 796,
+      "zone": 7,
+      "category": 2,
+      "Skill": 0
+    },
+    {
+      "$id": 293,
+      "ID": "ITM_INFO_293",
+      "Name": 272,
+      "Caption": 797,
+      "zone": 7,
+      "category": 1,
+      "Skill": 0
+    },
+    {
+      "$id": 294,
+      "ID": "ITM_INFO_294",
+      "Name": 273,
+      "Caption": 798,
+      "zone": 7,
+      "category": 1,
+      "Skill": 0
+    },
+    {
+      "$id": 295,
+      "ID": "ITM_INFO_295",
+      "Name": 274,
+      "Caption": 799,
+      "zone": 7,
+      "category": 1,
+      "Skill": 0
+    },
+    {
+      "$id": 296,
+      "ID": "ITM_INFO_296",
+      "Name": 275,
+      "Caption": 800,
+      "zone": 7,
+      "category": 2,
+      "Skill": 0
+    },
+    {
+      "$id": 297,
+      "ID": "ITM_INFO_297",
+      "Name": 276,
+      "Caption": 801,
+      "zone": 7,
+      "category": 1,
+      "Skill": 0
+    },
+    {
+      "$id": 298,
+      "ID": "ITM_INFO_298",
+      "Name": 277,
+      "Caption": 802,
+      "zone": 7,
+      "category": 1,
+      "Skill": 0
+    },
+    {
+      "$id": 299,
+      "ID": "ITM_INFO_299",
+      "Name": 278,
+      "Caption": 803,
+      "zone": 7,
+      "category": 2,
+      "Skill": 0
+    },
+    {
+      "$id": 300,
+      "ID": "ITM_INFO_300",
+      "Name": 279,
+      "Caption": 804,
+      "zone": 7,
+      "category": 2,
+      "Skill": 0
+    },
+    {
+      "$id": 301,
+      "ID": "ITM_INFO_301",
+      "Name": 280,
+      "Caption": 805,
+      "zone": 6,
+      "category": 2,
+      "Skill": 0
+    },
+    {
+      "$id": 302,
+      "ID": "ITM_INFO_302",
+      "Name": 281,
+      "Caption": 806,
+      "zone": 6,
+      "category": 1,
+      "Skill": 0
+    },
+    {
+      "$id": 303,
+      "ID": "ITM_INFO_303",
+      "Name": 282,
+      "Caption": 807,
+      "zone": 6,
+      "category": 1,
+      "Skill": 0
+    },
+    {
+      "$id": 304,
+      "ID": "ITM_INFO_304",
+      "Name": 283,
+      "Caption": 808,
+      "zone": 6,
+      "category": 2,
+      "Skill": 0
+    },
+    {
+      "$id": 305,
+      "ID": "ITM_INFO_305",
+      "Name": 284,
+      "Caption": 809,
+      "zone": 6,
+      "category": 1,
+      "Skill": 0
+    },
+    {
+      "$id": 306,
+      "ID": "ITM_INFO_306",
+      "Name": 285,
+      "Caption": 810,
+      "zone": 6,
+      "category": 2,
+      "Skill": 0
+    },
+    {
+      "$id": 307,
+      "ID": "ITM_INFO_307",
+      "Name": 286,
+      "Caption": 811,
+      "zone": 6,
+      "category": 1,
+      "Skill": 0
+    },
+    {
+      "$id": 308,
+      "ID": "ITM_INFO_308",
+      "Name": 287,
+      "Caption": 812,
+      "zone": 6,
+      "category": 2,
+      "Skill": 0
+    },
+    {
+      "$id": 309,
+      "ID": "ITM_INFO_309",
+      "Name": 288,
+      "Caption": 813,
+      "zone": 6,
+      "category": 1,
+      "Skill": 0
+    },
+    {
+      "$id": 310,
+      "ID": "ITM_INFO_310",
+      "Name": 289,
+      "Caption": 814,
+      "zone": 6,
+      "category": 2,
+      "Skill": 0
+    },
+    {
+      "$id": 311,
+      "ID": "ITM_INFO_311",
+      "Name": 290,
+      "Caption": 815,
+      "zone": 6,
+      "category": 1,
+      "Skill": 0
+    },
+    {
+      "$id": 312,
+      "ID": "ITM_INFO_312",
+      "Name": 291,
+      "Caption": 816,
+      "zone": 6,
+      "category": 2,
+      "Skill": 0
+    },
+    {
+      "$id": 313,
+      "ID": "ITM_INFO_313",
+      "Name": 292,
+      "Caption": 817,
+      "zone": 6,
+      "category": 1,
+      "Skill": 0
+    },
+    {
+      "$id": 314,
+      "ID": "ITM_INFO_314",
+      "Name": 293,
+      "Caption": 818,
+      "zone": 6,
+      "category": 1,
+      "Skill": 0
+    },
+    {
+      "$id": 315,
+      "ID": "ITM_INFO_315",
+      "Name": 294,
+      "Caption": 819,
+      "zone": 6,
+      "category": 1,
+      "Skill": 0
+    },
+    {
+      "$id": 316,
+      "ID": "ITM_INFO_316",
+      "Name": 295,
+      "Caption": 820,
+      "zone": 6,
+      "category": 1,
+      "Skill": 0
+    },
+    {
+      "$id": 317,
+      "ID": "ITM_INFO_317",
+      "Name": 296,
+      "Caption": 821,
+      "zone": 6,
+      "category": 1,
+      "Skill": 0
+    },
+    {
+      "$id": 318,
+      "ID": "ITM_INFO_318",
+      "Name": 297,
+      "Caption": 822,
+      "zone": 6,
+      "category": 1,
+      "Skill": 0
+    },
+    {
+      "$id": 319,
+      "ID": "ITM_INFO_319",
+      "Name": 298,
+      "Caption": 823,
+      "zone": 6,
+      "category": 2,
+      "Skill": 0
+    },
+    {
+      "$id": 320,
+      "ID": "ITM_INFO_320",
+      "Name": 299,
+      "Caption": 824,
+      "zone": 6,
+      "category": 1,
+      "Skill": 0
+    },
+    {
+      "$id": 321,
+      "ID": "ITM_INFO_321",
+      "Name": 300,
+      "Caption": 825,
+      "zone": 6,
+      "category": 1,
+      "Skill": 0
+    },
+    {
+      "$id": 322,
+      "ID": "ITM_INFO_322",
+      "Name": 301,
+      "Caption": 826,
+      "zone": 6,
+      "category": 2,
+      "Skill": 0
+    },
+    {
+      "$id": 323,
+      "ID": "ITM_INFO_323",
+      "Name": 302,
+      "Caption": 827,
+      "zone": 6,
+      "category": 2,
+      "Skill": 0
+    },
+    {
+      "$id": 324,
+      "ID": "ITM_INFO_324",
+      "Name": 303,
+      "Caption": 828,
+      "zone": 6,
+      "category": 2,
+      "Skill": 0
+    },
+    {
+      "$id": 325,
+      "ID": "ITM_INFO_325",
+      "Name": 304,
+      "Caption": 829,
+      "zone": 6,
+      "category": 1,
+      "Skill": 0
+    },
+    {
+      "$id": 326,
+      "ID": "ITM_INFO_326",
+      "Name": 305,
+      "Caption": 830,
+      "zone": 6,
+      "category": 2,
+      "Skill": 0
+    },
+    {
+      "$id": 327,
+      "ID": "ITM_INFO_327",
+      "Name": 306,
+      "Caption": 831,
+      "zone": 6,
+      "category": 1,
+      "Skill": 0
+    },
+    {
+      "$id": 328,
+      "ID": "ITM_INFO_328",
+      "Name": 307,
+      "Caption": 832,
+      "zone": 6,
+      "category": 1,
+      "Skill": 0
+    },
+    {
+      "$id": 329,
+      "ID": "ITM_INFO_329",
+      "Name": 308,
+      "Caption": 833,
+      "zone": 6,
+      "category": 1,
+      "Skill": 0
+    },
+    {
+      "$id": 330,
+      "ID": "ITM_INFO_330",
+      "Name": 309,
+      "Caption": 834,
+      "zone": 6,
+      "category": 2,
+      "Skill": 0
+    },
+    {
+      "$id": 331,
+      "ID": "ITM_INFO_331",
+      "Name": 310,
+      "Caption": 835,
+      "zone": 6,
+      "category": 1,
+      "Skill": 0
+    },
+    {
+      "$id": 332,
+      "ID": "ITM_INFO_332",
+      "Name": 311,
+      "Caption": 836,
+      "zone": 6,
+      "category": 2,
+      "Skill": 0
+    },
+    {
+      "$id": 333,
+      "ID": "ITM_INFO_333",
+      "Name": 312,
+      "Caption": 837,
+      "zone": 6,
+      "category": 2,
+      "Skill": 0
+    },
+    {
+      "$id": 334,
+      "ID": "ITM_INFO_334",
+      "Name": 313,
+      "Caption": 838,
+      "zone": 6,
+      "category": 1,
+      "Skill": 0
+    },
+    {
+      "$id": 335,
+      "ID": "ITM_INFO_335",
+      "Name": 314,
+      "Caption": 839,
+      "zone": 6,
+      "category": 1,
+      "Skill": 0
+    },
+    {
+      "$id": 336,
+      "ID": "ITM_INFO_336",
+      "Name": 315,
+      "Caption": 840,
+      "zone": 6,
+      "category": 1,
+      "Skill": 0
+    },
+    {
+      "$id": 337,
+      "ID": "ITM_INFO_337",
+      "Name": 316,
+      "Caption": 841,
+      "zone": 6,
+      "category": 1,
+      "Skill": 0
+    },
+    {
+      "$id": 338,
+      "ID": "ITM_INFO_338",
+      "Name": 317,
+      "Caption": 842,
+      "zone": 5,
+      "category": 1,
+      "Skill": 0
+    },
+    {
+      "$id": 339,
+      "ID": "ITM_INFO_339",
+      "Name": 318,
+      "Caption": 843,
+      "zone": 3,
+      "category": 1,
+      "Skill": 0
+    },
+    {
+      "$id": 340,
+      "ID": "ITM_INFO_340",
+      "Name": 319,
+      "Caption": 844,
+      "zone": 6,
+      "category": 1,
+      "Skill": 0
+    },
+    {
+      "$id": 341,
+      "ID": "ITM_INFO_341",
+      "Name": 320,
+      "Caption": 845,
+      "zone": 6,
+      "category": 1,
+      "Skill": 0
+    },
+    {
+      "$id": 342,
+      "ID": "ITM_INFO_342",
+      "Name": 321,
+      "Caption": 846,
+      "zone": 6,
+      "category": 1,
+      "Skill": 0
+    },
+    {
+      "$id": 343,
+      "ID": "ITM_INFO_343",
+      "Name": 0,
+      "Caption": 0,
+      "zone": 6,
+      "category": 1,
+      "Skill": 0
+    },
+    {
+      "$id": 344,
+      "ID": "ITM_INFO_344",
+      "Name": 0,
+      "Caption": 0,
+      "zone": 6,
+      "category": 1,
+      "Skill": 0
+    },
+    {
+      "$id": 345,
+      "ID": "ITM_INFO_345",
+      "Name": 0,
+      "Caption": 0,
+      "zone": 6,
+      "category": 1,
+      "Skill": 0
+    },
+    {
+      "$id": 346,
+      "ID": "ITM_INFO_346",
+      "Name": 0,
+      "Caption": 0,
+      "zone": 6,
+      "category": 1,
+      "Skill": 0
+    },
+    {
+      "$id": 347,
+      "ID": "ITM_INFO_347",
+      "Name": 0,
+      "Caption": 0,
+      "zone": 6,
+      "category": 1,
+      "Skill": 0
+    },
+    {
+      "$id": 348,
+      "ID": "ITM_INFO_348",
+      "Name": 0,
+      "Caption": 0,
+      "zone": 6,
+      "category": 1,
+      "Skill": 0
+    },
+    {
+      "$id": 349,
+      "ID": "ITM_INFO_349",
+      "Name": 0,
+      "Caption": 0,
+      "zone": 6,
+      "category": 1,
+      "Skill": 0
+    },
+    {
+      "$id": 350,
+      "ID": "ITM_INFO_350",
+      "Name": 0,
+      "Caption": 0,
+      "zone": 6,
+      "category": 1,
+      "Skill": 0
+    },
+    {
+      "$id": 351,
+      "ID": "ITM_INFO_351",
+      "Name": 330,
+      "Caption": 855,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 352,
+      "ID": "ITM_INFO_352",
+      "Name": 331,
+      "Caption": 856,
+      "zone": 3,
+      "category": 5,
+      "Skill": 0
+    },
+    {
+      "$id": 353,
+      "ID": "ITM_INFO_353",
+      "Name": 332,
+      "Caption": 857,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 354,
+      "ID": "ITM_INFO_354",
+      "Name": 333,
+      "Caption": 858,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 355,
+      "ID": "ITM_INFO_355",
+      "Name": 334,
+      "Caption": 859,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 356,
+      "ID": "ITM_INFO_356",
+      "Name": 335,
+      "Caption": 860,
+      "zone": 3,
+      "category": 5,
+      "Skill": 0
+    },
+    {
+      "$id": 357,
+      "ID": "ITM_INFO_357",
+      "Name": 336,
+      "Caption": 861,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 358,
+      "ID": "ITM_INFO_358",
+      "Name": 337,
+      "Caption": 862,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 359,
+      "ID": "ITM_INFO_359",
+      "Name": 338,
+      "Caption": 863,
+      "zone": 3,
+      "category": 5,
+      "Skill": 0
+    },
+    {
+      "$id": 360,
+      "ID": "ITM_INFO_360",
+      "Name": 339,
+      "Caption": 864,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 361,
+      "ID": "ITM_INFO_361",
+      "Name": 340,
+      "Caption": 865,
+      "zone": 3,
+      "category": 5,
+      "Skill": 0
+    },
+    {
+      "$id": 362,
+      "ID": "ITM_INFO_362",
+      "Name": 341,
+      "Caption": 866,
+      "zone": 3,
+      "category": 5,
+      "Skill": 0
+    },
+    {
+      "$id": 363,
+      "ID": "ITM_INFO_363",
+      "Name": 342,
+      "Caption": 867,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 364,
+      "ID": "ITM_INFO_364",
+      "Name": 343,
+      "Caption": 868,
+      "zone": 3,
+      "category": 5,
+      "Skill": 0
+    },
+    {
+      "$id": 365,
+      "ID": "ITM_INFO_365",
+      "Name": 344,
+      "Caption": 869,
+      "zone": 3,
+      "category": 5,
+      "Skill": 0
+    },
+    {
+      "$id": 366,
+      "ID": "ITM_INFO_366",
+      "Name": 345,
+      "Caption": 870,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 367,
+      "ID": "ITM_INFO_367",
+      "Name": 346,
+      "Caption": 871,
+      "zone": 3,
+      "category": 5,
+      "Skill": 0
+    },
+    {
+      "$id": 368,
+      "ID": "ITM_INFO_368",
+      "Name": 347,
+      "Caption": 872,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 369,
+      "ID": "ITM_INFO_369",
+      "Name": 348,
+      "Caption": 873,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 370,
+      "ID": "ITM_INFO_370",
+      "Name": 349,
+      "Caption": 874,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 371,
+      "ID": "ITM_INFO_371",
+      "Name": 350,
+      "Caption": 875,
+      "zone": 3,
+      "category": 1,
+      "Skill": 0
+    },
+    {
+      "$id": 372,
+      "ID": "ITM_INFO_372",
+      "Name": 351,
+      "Caption": 876,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 373,
+      "ID": "ITM_INFO_373",
+      "Name": 352,
+      "Caption": 877,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 374,
+      "ID": "ITM_INFO_374",
+      "Name": 353,
+      "Caption": 878,
+      "zone": 3,
+      "category": 5,
+      "Skill": 0
+    },
+    {
+      "$id": 375,
+      "ID": "ITM_INFO_375",
+      "Name": 354,
+      "Caption": 879,
+      "zone": 3,
+      "category": 5,
+      "Skill": 0
+    },
+    {
+      "$id": 376,
+      "ID": "ITM_INFO_376",
+      "Name": 355,
+      "Caption": 880,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 377,
+      "ID": "ITM_INFO_377",
+      "Name": 356,
+      "Caption": 881,
+      "zone": 3,
+      "category": 5,
+      "Skill": 0
+    },
+    {
+      "$id": 378,
+      "ID": "ITM_INFO_378",
+      "Name": 357,
+      "Caption": 882,
+      "zone": 3,
+      "category": 5,
+      "Skill": 0
+    },
+    {
+      "$id": 379,
+      "ID": "ITM_INFO_379",
+      "Name": 358,
+      "Caption": 883,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 380,
+      "ID": "ITM_INFO_380",
+      "Name": 359,
+      "Caption": 884,
+      "zone": 3,
+      "category": 5,
+      "Skill": 0
+    },
+    {
+      "$id": 381,
+      "ID": "ITM_INFO_381",
+      "Name": 360,
+      "Caption": 885,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 382,
+      "ID": "ITM_INFO_382",
+      "Name": 361,
+      "Caption": 886,
+      "zone": 3,
+      "category": 5,
+      "Skill": 0
+    },
+    {
+      "$id": 383,
+      "ID": "ITM_INFO_383",
+      "Name": 362,
+      "Caption": 887,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 384,
+      "ID": "ITM_INFO_384",
+      "Name": 363,
+      "Caption": 888,
+      "zone": 3,
+      "category": 5,
+      "Skill": 0
+    },
+    {
+      "$id": 385,
+      "ID": "ITM_INFO_385",
+      "Name": 364,
+      "Caption": 889,
+      "zone": 3,
+      "category": 1,
+      "Skill": 0
+    },
+    {
+      "$id": 386,
+      "ID": "ITM_INFO_386",
+      "Name": 365,
+      "Caption": 890,
+      "zone": 3,
+      "category": 5,
+      "Skill": 0
+    },
+    {
+      "$id": 387,
+      "ID": "ITM_INFO_387",
+      "Name": 366,
+      "Caption": 891,
+      "zone": 3,
+      "category": 5,
+      "Skill": 0
+    },
+    {
+      "$id": 388,
+      "ID": "ITM_INFO_388",
+      "Name": 367,
+      "Caption": 892,
+      "zone": 3,
+      "category": 5,
+      "Skill": 0
+    },
+    {
+      "$id": 389,
+      "ID": "ITM_INFO_389",
+      "Name": 368,
+      "Caption": 893,
+      "zone": 3,
+      "category": 5,
+      "Skill": 0
+    },
+    {
+      "$id": 390,
+      "ID": "ITM_INFO_390",
+      "Name": 369,
+      "Caption": 894,
+      "zone": 3,
+      "category": 5,
+      "Skill": 0
+    },
+    {
+      "$id": 391,
+      "ID": "ITM_INFO_391",
+      "Name": 370,
+      "Caption": 895,
+      "zone": 3,
+      "category": 1,
+      "Skill": 0
+    },
+    {
+      "$id": 392,
+      "ID": "ITM_INFO_392",
+      "Name": 371,
+      "Caption": 896,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 393,
+      "ID": "ITM_INFO_393",
+      "Name": 372,
+      "Caption": 897,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 394,
+      "ID": "ITM_INFO_394",
+      "Name": 373,
+      "Caption": 898,
+      "zone": 3,
+      "category": 5,
+      "Skill": 0
+    },
+    {
+      "$id": 395,
+      "ID": "ITM_INFO_395",
+      "Name": 374,
+      "Caption": 899,
+      "zone": 3,
+      "category": 1,
+      "Skill": 0
+    },
+    {
+      "$id": 396,
+      "ID": "ITM_INFO_396",
+      "Name": 375,
+      "Caption": 900,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 397,
+      "ID": "ITM_INFO_397",
+      "Name": 376,
+      "Caption": 901,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 398,
+      "ID": "ITM_INFO_398",
+      "Name": 377,
+      "Caption": 902,
+      "zone": 3,
+      "category": 5,
+      "Skill": 0
+    },
+    {
+      "$id": 399,
+      "ID": "ITM_INFO_399",
+      "Name": 378,
+      "Caption": 903,
+      "zone": 3,
+      "category": 5,
+      "Skill": 0
+    },
+    {
+      "$id": 400,
+      "ID": "ITM_INFO_400",
+      "Name": 379,
+      "Caption": 904,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 401,
+      "ID": "ITM_INFO_401",
+      "Name": 380,
+      "Caption": 905,
+      "zone": 3,
+      "category": 5,
+      "Skill": 0
+    },
+    {
+      "$id": 402,
+      "ID": "ITM_INFO_402",
+      "Name": 381,
+      "Caption": 906,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 403,
+      "ID": "ITM_INFO_403",
+      "Name": 382,
+      "Caption": 907,
+      "zone": 3,
+      "category": 5,
+      "Skill": 0
+    },
+    {
+      "$id": 404,
+      "ID": "ITM_INFO_404",
+      "Name": 383,
+      "Caption": 908,
+      "zone": 3,
+      "category": 5,
+      "Skill": 0
+    },
+    {
+      "$id": 405,
+      "ID": "ITM_INFO_405",
+      "Name": 384,
+      "Caption": 909,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 406,
+      "ID": "ITM_INFO_406",
+      "Name": 385,
+      "Caption": 910,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 407,
+      "ID": "ITM_INFO_407",
+      "Name": 386,
+      "Caption": 911,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 408,
+      "ID": "ITM_INFO_408",
+      "Name": 387,
+      "Caption": 912,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 409,
+      "ID": "ITM_INFO_409",
+      "Name": 388,
+      "Caption": 913,
+      "zone": 3,
+      "category": 5,
+      "Skill": 0
+    },
+    {
+      "$id": 410,
+      "ID": "ITM_INFO_410",
+      "Name": 389,
+      "Caption": 914,
+      "zone": 3,
+      "category": 5,
+      "Skill": 0
+    },
+    {
+      "$id": 411,
+      "ID": "ITM_INFO_411",
+      "Name": 390,
+      "Caption": 915,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 412,
+      "ID": "ITM_INFO_412",
+      "Name": 391,
+      "Caption": 916,
+      "zone": 3,
+      "category": 1,
+      "Skill": 0
+    },
+    {
+      "$id": 413,
+      "ID": "ITM_INFO_413",
+      "Name": 392,
+      "Caption": 917,
+      "zone": 3,
+      "category": 5,
+      "Skill": 0
+    },
+    {
+      "$id": 414,
+      "ID": "ITM_INFO_414",
+      "Name": 393,
+      "Caption": 918,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 415,
+      "ID": "ITM_INFO_415",
+      "Name": 394,
+      "Caption": 919,
+      "zone": 3,
+      "category": 5,
+      "Skill": 0
+    },
+    {
+      "$id": 416,
+      "ID": "ITM_INFO_416",
+      "Name": 395,
+      "Caption": 920,
+      "zone": 3,
+      "category": 5,
+      "Skill": 0
+    },
+    {
+      "$id": 417,
+      "ID": "ITM_INFO_417",
+      "Name": 396,
+      "Caption": 921,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 418,
+      "ID": "ITM_INFO_418",
+      "Name": 397,
+      "Caption": 922,
+      "zone": 3,
+      "category": 5,
+      "Skill": 0
+    },
+    {
+      "$id": 419,
+      "ID": "ITM_INFO_419",
+      "Name": 398,
+      "Caption": 923,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 420,
+      "ID": "ITM_INFO_420",
+      "Name": 399,
+      "Caption": 924,
+      "zone": 3,
+      "category": 5,
+      "Skill": 0
+    },
+    {
+      "$id": 421,
+      "ID": "ITM_INFO_421",
+      "Name": 400,
+      "Caption": 925,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 422,
+      "ID": "ITM_INFO_422",
+      "Name": 401,
+      "Caption": 926,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 423,
+      "ID": "ITM_INFO_423",
+      "Name": 402,
+      "Caption": 927,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 424,
+      "ID": "ITM_INFO_424",
+      "Name": 403,
+      "Caption": 928,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 425,
+      "ID": "ITM_INFO_425",
+      "Name": 404,
+      "Caption": 929,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 426,
+      "ID": "ITM_INFO_426",
+      "Name": 405,
+      "Caption": 930,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 427,
+      "ID": "ITM_INFO_427",
+      "Name": 406,
+      "Caption": 931,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 428,
+      "ID": "ITM_INFO_428",
+      "Name": 407,
+      "Caption": 932,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 429,
+      "ID": "ITM_INFO_429",
+      "Name": 408,
+      "Caption": 933,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 430,
+      "ID": "ITM_INFO_430",
+      "Name": 409,
+      "Caption": 934,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 431,
+      "ID": "ITM_INFO_431",
+      "Name": 410,
+      "Caption": 935,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 432,
+      "ID": "ITM_INFO_432",
+      "Name": 411,
+      "Caption": 936,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 433,
+      "ID": "ITM_INFO_433",
+      "Name": 412,
+      "Caption": 937,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 434,
+      "ID": "ITM_INFO_434",
+      "Name": 413,
+      "Caption": 938,
+      "zone": 3,
+      "category": 1,
+      "Skill": 0
+    },
+    {
+      "$id": 435,
+      "ID": "ITM_INFO_435",
+      "Name": 414,
+      "Caption": 939,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 436,
+      "ID": "ITM_INFO_436",
+      "Name": 415,
+      "Caption": 940,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 437,
+      "ID": "ITM_INFO_437",
+      "Name": 416,
+      "Caption": 941,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 438,
+      "ID": "ITM_INFO_438",
+      "Name": 417,
+      "Caption": 942,
+      "zone": 3,
+      "category": 5,
+      "Skill": 0
+    },
+    {
+      "$id": 439,
+      "ID": "ITM_INFO_439",
+      "Name": 418,
+      "Caption": 943,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 440,
+      "ID": "ITM_INFO_440",
+      "Name": 419,
+      "Caption": 944,
+      "zone": 3,
+      "category": 5,
+      "Skill": 0
+    },
+    {
+      "$id": 441,
+      "ID": "ITM_INFO_441",
+      "Name": 420,
+      "Caption": 945,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 442,
+      "ID": "ITM_INFO_442",
+      "Name": 421,
+      "Caption": 946,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 443,
+      "ID": "ITM_INFO_443",
+      "Name": 422,
+      "Caption": 947,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 444,
+      "ID": "ITM_INFO_444",
+      "Name": 423,
+      "Caption": 948,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 445,
+      "ID": "ITM_INFO_445",
+      "Name": 424,
+      "Caption": 949,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 446,
+      "ID": "ITM_INFO_446",
+      "Name": 425,
+      "Caption": 950,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 447,
+      "ID": "ITM_INFO_447",
+      "Name": 426,
+      "Caption": 951,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 448,
+      "ID": "ITM_INFO_448",
+      "Name": 427,
+      "Caption": 952,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 449,
+      "ID": "ITM_INFO_449",
+      "Name": 1051,
+      "Caption": 1051,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 450,
+      "ID": "ITM_INFO_450",
+      "Name": 1051,
+      "Caption": 1051,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 451,
+      "ID": "ITM_INFO_451",
+      "Name": 428,
+      "Caption": 953,
+      "zone": 3,
+      "category": 1,
+      "Skill": 1
+    },
+    {
+      "$id": 452,
+      "ID": "ITM_INFO_452",
+      "Name": 429,
+      "Caption": 954,
+      "zone": 3,
+      "category": 1,
+      "Skill": 1
+    },
+    {
+      "$id": 453,
+      "ID": "ITM_INFO_453",
+      "Name": 430,
+      "Caption": 955,
+      "zone": 3,
+      "category": 1,
+      "Skill": 1
+    },
+    {
+      "$id": 454,
+      "ID": "ITM_INFO_454",
+      "Name": 431,
+      "Caption": 956,
+      "zone": 3,
+      "category": 1,
+      "Skill": 1
+    },
+    {
+      "$id": 455,
+      "ID": "ITM_INFO_455",
+      "Name": 432,
+      "Caption": 957,
+      "zone": 3,
+      "category": 1,
+      "Skill": 2
+    },
+    {
+      "$id": 456,
+      "ID": "ITM_INFO_456",
+      "Name": 433,
+      "Caption": 958,
+      "zone": 3,
+      "category": 1,
+      "Skill": 2
+    },
+    {
+      "$id": 457,
+      "ID": "ITM_INFO_457",
+      "Name": 434,
+      "Caption": 959,
+      "zone": 3,
+      "category": 1,
+      "Skill": 2
+    },
+    {
+      "$id": 458,
+      "ID": "ITM_INFO_458",
+      "Name": 435,
+      "Caption": 960,
+      "zone": 3,
+      "category": 1,
+      "Skill": 2
+    },
+    {
+      "$id": 459,
+      "ID": "ITM_INFO_459",
+      "Name": 436,
+      "Caption": 961,
+      "zone": 3,
+      "category": 1,
+      "Skill": 3
+    },
+    {
+      "$id": 460,
+      "ID": "ITM_INFO_460",
+      "Name": 437,
+      "Caption": 962,
+      "zone": 3,
+      "category": 1,
+      "Skill": 3
+    },
+    {
+      "$id": 461,
+      "ID": "ITM_INFO_461",
+      "Name": 438,
+      "Caption": 963,
+      "zone": 3,
+      "category": 1,
+      "Skill": 3
+    },
+    {
+      "$id": 462,
+      "ID": "ITM_INFO_462",
+      "Name": 439,
+      "Caption": 964,
+      "zone": 3,
+      "category": 1,
+      "Skill": 3
+    },
+    {
+      "$id": 463,
+      "ID": "ITM_INFO_463",
+      "Name": 440,
+      "Caption": 965,
+      "zone": 5,
+      "category": 2,
+      "Skill": 0
+    },
+    {
+      "$id": 464,
+      "ID": "ITM_INFO_464",
+      "Name": 441,
+      "Caption": 966,
+      "zone": 5,
+      "category": 2,
+      "Skill": 0
+    },
+    {
+      "$id": 465,
+      "ID": "ITM_INFO_465",
+      "Name": 442,
+      "Caption": 967,
+      "zone": 5,
+      "category": 1,
+      "Skill": 0
+    },
+    {
+      "$id": 466,
+      "ID": "ITM_INFO_466",
+      "Name": 1051,
+      "Caption": 1051,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 467,
+      "ID": "ITM_INFO_467",
+      "Name": 1051,
+      "Caption": 1051,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 468,
+      "ID": "ITM_INFO_468",
+      "Name": 1051,
+      "Caption": 1051,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 469,
+      "ID": "ITM_INFO_469",
+      "Name": 1051,
+      "Caption": 1051,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 470,
+      "ID": "ITM_INFO_470",
+      "Name": 1051,
+      "Caption": 1051,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 471,
+      "ID": "ITM_INFO_471",
+      "Name": 1051,
+      "Caption": 1051,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 472,
+      "ID": "ITM_INFO_472",
+      "Name": 1051,
+      "Caption": 1051,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 473,
+      "ID": "ITM_INFO_473",
+      "Name": 1051,
+      "Caption": 1051,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 474,
+      "ID": "ITM_INFO_474",
+      "Name": 1051,
+      "Caption": 1051,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 475,
+      "ID": "ITM_INFO_475",
+      "Name": 1051,
+      "Caption": 1051,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 476,
+      "ID": "ITM_INFO_476",
+      "Name": 1051,
+      "Caption": 1051,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 477,
+      "ID": "ITM_INFO_477",
+      "Name": 1051,
+      "Caption": 1051,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 478,
+      "ID": "ITM_INFO_478",
+      "Name": 1051,
+      "Caption": 1051,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 479,
+      "ID": "ITM_INFO_479",
+      "Name": 1051,
+      "Caption": 1051,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 480,
+      "ID": "ITM_INFO_480",
+      "Name": 1051,
+      "Caption": 1051,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 481,
+      "ID": "ITM_INFO_481",
+      "Name": 1051,
+      "Caption": 1051,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 482,
+      "ID": "ITM_INFO_482",
+      "Name": 1051,
+      "Caption": 1051,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 483,
+      "ID": "ITM_INFO_483",
+      "Name": 1051,
+      "Caption": 1051,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 484,
+      "ID": "ITM_INFO_484",
+      "Name": 1051,
+      "Caption": 1051,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 485,
+      "ID": "ITM_INFO_485",
+      "Name": 1051,
+      "Caption": 1051,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 486,
+      "ID": "ITM_INFO_486",
+      "Name": 1051,
+      "Caption": 1051,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 487,
+      "ID": "ITM_INFO_487",
+      "Name": 1051,
+      "Caption": 1051,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 488,
+      "ID": "ITM_INFO_488",
+      "Name": 1051,
+      "Caption": 1051,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 489,
+      "ID": "ITM_INFO_489",
+      "Name": 1051,
+      "Caption": 1051,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 490,
+      "ID": "ITM_INFO_490",
+      "Name": 1051,
+      "Caption": 1051,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 491,
+      "ID": "ITM_INFO_491",
+      "Name": 1051,
+      "Caption": 1051,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 492,
+      "ID": "ITM_INFO_492",
+      "Name": 1051,
+      "Caption": 1051,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 493,
+      "ID": "ITM_INFO_493",
+      "Name": 1051,
+      "Caption": 1051,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 494,
+      "ID": "ITM_INFO_494",
+      "Name": 1051,
+      "Caption": 1051,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 495,
+      "ID": "ITM_INFO_495",
+      "Name": 1051,
+      "Caption": 1051,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 496,
+      "ID": "ITM_INFO_496",
+      "Name": 1051,
+      "Caption": 1051,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 497,
+      "ID": "ITM_INFO_497",
+      "Name": 1051,
+      "Caption": 1051,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 498,
+      "ID": "ITM_INFO_498",
+      "Name": 1051,
+      "Caption": 1051,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 499,
+      "ID": "ITM_INFO_499",
+      "Name": 1051,
+      "Caption": 1051,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 500,
+      "ID": "ITM_INFO_500",
+      "Name": 1051,
+      "Caption": 1051,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 501,
+      "ID": "ITM_INFO_501",
+      "Name": 443,
+      "Caption": 968,
+      "zone": 3,
+      "category": 5,
+      "Skill": 0
+    },
+    {
+      "$id": 502,
+      "ID": "ITM_INFO_502",
+      "Name": 444,
+      "Caption": 969,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 503,
+      "ID": "ITM_INFO_503",
+      "Name": 445,
+      "Caption": 970,
+      "zone": 3,
+      "category": 5,
+      "Skill": 0
+    },
+    {
+      "$id": 504,
+      "ID": "ITM_INFO_504",
+      "Name": 446,
+      "Caption": 971,
+      "zone": 3,
+      "category": 5,
+      "Skill": 0
+    },
+    {
+      "$id": 505,
+      "ID": "ITM_INFO_505",
+      "Name": 447,
+      "Caption": 972,
+      "zone": 3,
+      "category": 5,
+      "Skill": 0
+    },
+    {
+      "$id": 506,
+      "ID": "ITM_INFO_506",
+      "Name": 448,
+      "Caption": 973,
+      "zone": 3,
+      "category": 5,
+      "Skill": 0
+    },
+    {
+      "$id": 507,
+      "ID": "ITM_INFO_507",
+      "Name": 449,
+      "Caption": 974,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 508,
+      "ID": "ITM_INFO_508",
+      "Name": 450,
+      "Caption": 975,
+      "zone": 3,
+      "category": 5,
+      "Skill": 0
+    },
+    {
+      "$id": 509,
+      "ID": "ITM_INFO_509",
+      "Name": 451,
+      "Caption": 976,
+      "zone": 3,
+      "category": 5,
+      "Skill": 0
+    },
+    {
+      "$id": 510,
+      "ID": "ITM_INFO_510",
+      "Name": 452,
+      "Caption": 977,
+      "zone": 3,
+      "category": 5,
+      "Skill": 0
+    },
+    {
+      "$id": 511,
+      "ID": "ITM_INFO_511",
+      "Name": 453,
+      "Caption": 978,
+      "zone": 3,
+      "category": 5,
+      "Skill": 0
+    },
+    {
+      "$id": 512,
+      "ID": "ITM_INFO_512",
+      "Name": 454,
+      "Caption": 979,
+      "zone": 3,
+      "category": 5,
+      "Skill": 0
+    },
+    {
+      "$id": 513,
+      "ID": "ITM_INFO_513",
+      "Name": 455,
+      "Caption": 980,
+      "zone": 3,
+      "category": 5,
+      "Skill": 0
+    },
+    {
+      "$id": 514,
+      "ID": "ITM_INFO_514",
+      "Name": 456,
+      "Caption": 981,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 515,
+      "ID": "ITM_INFO_515",
+      "Name": 457,
+      "Caption": 982,
+      "zone": 3,
+      "category": 5,
+      "Skill": 0
+    },
+    {
+      "$id": 516,
+      "ID": "ITM_INFO_516",
+      "Name": 458,
+      "Caption": 983,
+      "zone": 3,
+      "category": 5,
+      "Skill": 0
+    },
+    {
+      "$id": 517,
+      "ID": "ITM_INFO_517",
+      "Name": 459,
+      "Caption": 984,
+      "zone": 3,
+      "category": 5,
+      "Skill": 0
+    },
+    {
+      "$id": 518,
+      "ID": "ITM_INFO_518",
+      "Name": 460,
+      "Caption": 985,
+      "zone": 3,
+      "category": 5,
+      "Skill": 0
+    },
+    {
+      "$id": 519,
+      "ID": "ITM_INFO_519",
+      "Name": 461,
+      "Caption": 986,
+      "zone": 3,
+      "category": 5,
+      "Skill": 0
+    },
+    {
+      "$id": 520,
+      "ID": "ITM_INFO_520",
+      "Name": 462,
+      "Caption": 987,
+      "zone": 3,
+      "category": 5,
+      "Skill": 0
+    },
+    {
+      "$id": 521,
+      "ID": "ITM_INFO_521",
+      "Name": 463,
+      "Caption": 988,
+      "zone": 3,
+      "category": 5,
+      "Skill": 0
+    },
+    {
+      "$id": 522,
+      "ID": "ITM_INFO_522",
+      "Name": 464,
+      "Caption": 989,
+      "zone": 3,
+      "category": 5,
+      "Skill": 0
+    },
+    {
+      "$id": 523,
+      "ID": "ITM_INFO_523",
+      "Name": 465,
+      "Caption": 990,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 524,
+      "ID": "ITM_INFO_524",
+      "Name": 466,
+      "Caption": 991,
+      "zone": 3,
+      "category": 5,
+      "Skill": 0
+    },
+    {
+      "$id": 525,
+      "ID": "ITM_INFO_525",
+      "Name": 467,
+      "Caption": 992,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 526,
+      "ID": "ITM_INFO_526",
+      "Name": 468,
+      "Caption": 993,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 527,
+      "ID": "ITM_INFO_527",
+      "Name": 469,
+      "Caption": 994,
+      "zone": 3,
+      "category": 5,
+      "Skill": 0
+    },
+    {
+      "$id": 528,
+      "ID": "ITM_INFO_528",
+      "Name": 470,
+      "Caption": 995,
+      "zone": 3,
+      "category": 5,
+      "Skill": 0
+    },
+    {
+      "$id": 529,
+      "ID": "ITM_INFO_529",
+      "Name": 471,
+      "Caption": 996,
+      "zone": 3,
+      "category": 5,
+      "Skill": 0
+    },
+    {
+      "$id": 530,
+      "ID": "ITM_INFO_530",
+      "Name": 472,
+      "Caption": 997,
+      "zone": 3,
+      "category": 5,
+      "Skill": 0
+    },
+    {
+      "$id": 531,
+      "ID": "ITM_INFO_531",
+      "Name": 473,
+      "Caption": 998,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 532,
+      "ID": "ITM_INFO_532",
+      "Name": 474,
+      "Caption": 999,
+      "zone": 3,
+      "category": 5,
+      "Skill": 0
+    },
+    {
+      "$id": 533,
+      "ID": "ITM_INFO_533",
+      "Name": 475,
+      "Caption": 1000,
+      "zone": 3,
+      "category": 5,
+      "Skill": 0
+    },
+    {
+      "$id": 534,
+      "ID": "ITM_INFO_534",
+      "Name": 476,
+      "Caption": 1001,
+      "zone": 3,
+      "category": 5,
+      "Skill": 0
+    },
+    {
+      "$id": 535,
+      "ID": "ITM_INFO_535",
+      "Name": 477,
+      "Caption": 1002,
+      "zone": 3,
+      "category": 5,
+      "Skill": 0
+    },
+    {
+      "$id": 536,
+      "ID": "ITM_INFO_536",
+      "Name": 478,
+      "Caption": 1003,
+      "zone": 3,
+      "category": 5,
+      "Skill": 0
+    },
+    {
+      "$id": 537,
+      "ID": "ITM_INFO_537",
+      "Name": 479,
+      "Caption": 1004,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 538,
+      "ID": "ITM_INFO_538",
+      "Name": 480,
+      "Caption": 1005,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 539,
+      "ID": "ITM_INFO_539",
+      "Name": 481,
+      "Caption": 1006,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 540,
+      "ID": "ITM_INFO_540",
+      "Name": 482,
+      "Caption": 1007,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 541,
+      "ID": "ITM_INFO_541",
+      "Name": 483,
+      "Caption": 1008,
+      "zone": 3,
+      "category": 5,
+      "Skill": 0
+    },
+    {
+      "$id": 542,
+      "ID": "ITM_INFO_542",
+      "Name": 484,
+      "Caption": 1009,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 543,
+      "ID": "ITM_INFO_543",
+      "Name": 485,
+      "Caption": 1010,
+      "zone": 3,
+      "category": 5,
+      "Skill": 0
+    },
+    {
+      "$id": 544,
+      "ID": "ITM_INFO_544",
+      "Name": 486,
+      "Caption": 1011,
+      "zone": 3,
+      "category": 1,
+      "Skill": 0
+    },
+    {
+      "$id": 545,
+      "ID": "ITM_INFO_545",
+      "Name": 487,
+      "Caption": 1012,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 546,
+      "ID": "ITM_INFO_546",
+      "Name": 488,
+      "Caption": 1013,
+      "zone": 3,
+      "category": 5,
+      "Skill": 0
+    },
+    {
+      "$id": 547,
+      "ID": "ITM_INFO_547",
+      "Name": 489,
+      "Caption": 1014,
+      "zone": 3,
+      "category": 1,
+      "Skill": 0
+    },
+    {
+      "$id": 548,
+      "ID": "ITM_INFO_548",
+      "Name": 490,
+      "Caption": 1015,
+      "zone": 3,
+      "category": 5,
+      "Skill": 0
+    },
+    {
+      "$id": 549,
+      "ID": "ITM_INFO_549",
+      "Name": 491,
+      "Caption": 1016,
+      "zone": 3,
+      "category": 5,
+      "Skill": 0
+    },
+    {
+      "$id": 550,
+      "ID": "ITM_INFO_550",
+      "Name": 492,
+      "Caption": 1017,
+      "zone": 3,
+      "category": 5,
+      "Skill": 0
+    },
+    {
+      "$id": 551,
+      "ID": "ITM_INFO_551",
+      "Name": 493,
+      "Caption": 1018,
+      "zone": 3,
+      "category": 1,
+      "Skill": 0
+    },
+    {
+      "$id": 552,
+      "ID": "ITM_INFO_552",
+      "Name": 494,
+      "Caption": 1019,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 553,
+      "ID": "ITM_INFO_553",
+      "Name": 495,
+      "Caption": 1020,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 554,
+      "ID": "ITM_INFO_554",
+      "Name": 496,
+      "Caption": 1021,
+      "zone": 3,
+      "category": 5,
+      "Skill": 0
+    },
+    {
+      "$id": 555,
+      "ID": "ITM_INFO_555",
+      "Name": 497,
+      "Caption": 1022,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 556,
+      "ID": "ITM_INFO_556",
+      "Name": 498,
+      "Caption": 1023,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 557,
+      "ID": "ITM_INFO_557",
+      "Name": 499,
+      "Caption": 1024,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 558,
+      "ID": "ITM_INFO_558",
+      "Name": 500,
+      "Caption": 1025,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 559,
+      "ID": "ITM_INFO_559",
+      "Name": 501,
+      "Caption": 1026,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 560,
+      "ID": "ITM_INFO_560",
+      "Name": 502,
+      "Caption": 1027,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 561,
+      "ID": "ITM_INFO_561",
+      "Name": 503,
+      "Caption": 1028,
+      "zone": 3,
+      "category": 5,
+      "Skill": 0
+    },
+    {
+      "$id": 562,
+      "ID": "ITM_INFO_562",
+      "Name": 504,
+      "Caption": 1029,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 563,
+      "ID": "ITM_INFO_563",
+      "Name": 505,
+      "Caption": 1030,
+      "zone": 3,
+      "category": 5,
+      "Skill": 0
+    },
+    {
+      "$id": 564,
+      "ID": "ITM_INFO_564",
+      "Name": 506,
+      "Caption": 1031,
+      "zone": 3,
+      "category": 5,
+      "Skill": 0
+    },
+    {
+      "$id": 565,
+      "ID": "ITM_INFO_565",
+      "Name": 507,
+      "Caption": 1032,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 566,
+      "ID": "ITM_INFO_566",
+      "Name": 508,
+      "Caption": 1033,
+      "zone": 3,
+      "category": 1,
+      "Skill": 0
+    },
+    {
+      "$id": 567,
+      "ID": "ITM_INFO_567",
+      "Name": 509,
+      "Caption": 1034,
+      "zone": 3,
+      "category": 5,
+      "Skill": 0
+    },
+    {
+      "$id": 568,
+      "ID": "ITM_INFO_568",
+      "Name": 510,
+      "Caption": 1035,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 569,
+      "ID": "ITM_INFO_569",
+      "Name": 511,
+      "Caption": 1036,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 570,
+      "ID": "ITM_INFO_570",
+      "Name": 512,
+      "Caption": 1037,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 571,
+      "ID": "ITM_INFO_571",
+      "Name": 513,
+      "Caption": 1038,
+      "zone": 3,
+      "category": 5,
+      "Skill": 0
+    },
+    {
+      "$id": 572,
+      "ID": "ITM_INFO_572",
+      "Name": 514,
+      "Caption": 1039,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 573,
+      "ID": "ITM_INFO_573",
+      "Name": 515,
+      "Caption": 1040,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 574,
+      "ID": "ITM_INFO_574",
+      "Name": 516,
+      "Caption": 1041,
+      "zone": 3,
+      "category": 5,
+      "Skill": 0
+    },
+    {
+      "$id": 575,
+      "ID": "ITM_INFO_575",
+      "Name": 517,
+      "Caption": 1042,
+      "zone": 3,
+      "category": 5,
+      "Skill": 0
+    },
+    {
+      "$id": 576,
+      "ID": "ITM_INFO_576",
+      "Name": 518,
+      "Caption": 1043,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 577,
+      "ID": "ITM_INFO_577",
+      "Name": 519,
+      "Caption": 1044,
+      "zone": 3,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 578,
+      "ID": "ITM_INFO_578",
+      "Name": 520,
+      "Caption": 1045,
+      "zone": 3,
+      "category": 5,
+      "Skill": 0
+    },
+    {
+      "$id": 579,
+      "ID": "ITM_INFO_579",
+      "Name": 521,
+      "Caption": 1046,
+      "zone": 3,
+      "category": 5,
+      "Skill": 0
+    },
+    {
+      "$id": 580,
+      "ID": "ITM_INFO_580",
+      "Name": 522,
+      "Caption": 1047,
+      "zone": 3,
+      "category": 5,
+      "Skill": 0
+    },
+    {
+      "$id": 581,
+      "ID": "ITM_INFO_581",
+      "Name": 523,
+      "Caption": 1048,
+      "zone": 3,
+      "category": 5,
+      "Skill": 0
+    },
+    {
+      "$id": 582,
+      "ID": "ITM_INFO_582",
+      "Name": 524,
+      "Caption": 1049,
+      "zone": 7,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 583,
+      "ID": "ITM_INFO_583",
+      "Name": 525,
+      "Caption": 1050,
+      "zone": 6,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 584,
+      "ID": "ITM_INFO_900",
+      "Name": 1057,
+      "Caption": 1052,
+      "zone": 5,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 585,
+      "ID": "ITM_INFO_901",
+      "Name": 1058,
+      "Caption": 1053,
+      "zone": 5,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 586,
+      "ID": "ITM_INFO_902",
+      "Name": 1059,
+      "Caption": 1054,
+      "zone": 6,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 587,
+      "ID": "ITM_INFO_903",
+      "Name": 1060,
+      "Caption": 1056,
+      "zone": 6,
+      "category": 3,
+      "Skill": 0
+    },
+    {
+      "$id": 588,
+      "ID": "ITM_INFO_904",
+      "Name": 1061,
+      "Caption": 1055,
+      "zone": 6,
+      "category": 3,
+      "Skill": 0
+    }
+  ]
+}

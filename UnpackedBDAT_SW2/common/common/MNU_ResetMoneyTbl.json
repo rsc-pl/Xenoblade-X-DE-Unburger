@@ -1,0 +1,722 @@
+{
+  "schema": [
+    {
+      "name": "ID",
+      "type": 9
+    },
+    {
+      "name": "Level",
+      "type": 2
+    },
+    {
+      "name": "Base",
+      "type": 2
+    },
+    {
+      "name": "Money",
+      "type": 3
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "ID": "RESET_MONEY_01",
+      "Level": 1,
+      "Base": 100,
+      "Money": 100
+    },
+    {
+      "$id": 2,
+      "ID": "RESET_MONEY_02",
+      "Level": 2,
+      "Base": 100,
+      "Money": 200
+    },
+    {
+      "$id": 3,
+      "ID": "RESET_MONEY_03",
+      "Level": 3,
+      "Base": 100,
+      "Money": 300
+    },
+    {
+      "$id": 4,
+      "ID": "RESET_MONEY_04",
+      "Level": 4,
+      "Base": 100,
+      "Money": 400
+    },
+    {
+      "$id": 5,
+      "ID": "RESET_MONEY_05",
+      "Level": 5,
+      "Base": 100,
+      "Money": 500
+    },
+    {
+      "$id": 6,
+      "ID": "RESET_MONEY_06",
+      "Level": 6,
+      "Base": 100,
+      "Money": 600
+    },
+    {
+      "$id": 7,
+      "ID": "RESET_MONEY_07",
+      "Level": 7,
+      "Base": 100,
+      "Money": 700
+    },
+    {
+      "$id": 8,
+      "ID": "RESET_MONEY_08",
+      "Level": 8,
+      "Base": 100,
+      "Money": 800
+    },
+    {
+      "$id": 9,
+      "ID": "RESET_MONEY_09",
+      "Level": 9,
+      "Base": 100,
+      "Money": 900
+    },
+    {
+      "$id": 10,
+      "ID": "RESET_MONEY_10",
+      "Level": 10,
+      "Base": 150,
+      "Money": 1800
+    },
+    {
+      "$id": 11,
+      "ID": "RESET_MONEY_11",
+      "Level": 11,
+      "Base": 150,
+      "Money": 1980
+    },
+    {
+      "$id": 12,
+      "ID": "RESET_MONEY_12",
+      "Level": 12,
+      "Base": 150,
+      "Money": 2160
+    },
+    {
+      "$id": 13,
+      "ID": "RESET_MONEY_13",
+      "Level": 13,
+      "Base": 150,
+      "Money": 2340
+    },
+    {
+      "$id": 14,
+      "ID": "RESET_MONEY_14",
+      "Level": 14,
+      "Base": 150,
+      "Money": 2520
+    },
+    {
+      "$id": 15,
+      "ID": "RESET_MONEY_15",
+      "Level": 15,
+      "Base": 150,
+      "Money": 2700
+    },
+    {
+      "$id": 16,
+      "ID": "RESET_MONEY_16",
+      "Level": 16,
+      "Base": 150,
+      "Money": 2880
+    },
+    {
+      "$id": 17,
+      "ID": "RESET_MONEY_17",
+      "Level": 17,
+      "Base": 150,
+      "Money": 3060
+    },
+    {
+      "$id": 18,
+      "ID": "RESET_MONEY_18",
+      "Level": 18,
+      "Base": 150,
+      "Money": 3240
+    },
+    {
+      "$id": 19,
+      "ID": "RESET_MONEY_19",
+      "Level": 19,
+      "Base": 150,
+      "Money": 3420
+    },
+    {
+      "$id": 20,
+      "ID": "RESET_MONEY_20",
+      "Level": 20,
+      "Base": 200,
+      "Money": 6000
+    },
+    {
+      "$id": 21,
+      "ID": "RESET_MONEY_21",
+      "Level": 21,
+      "Base": 200,
+      "Money": 6300
+    },
+    {
+      "$id": 22,
+      "ID": "RESET_MONEY_22",
+      "Level": 22,
+      "Base": 200,
+      "Money": 6600
+    },
+    {
+      "$id": 23,
+      "ID": "RESET_MONEY_23",
+      "Level": 23,
+      "Base": 200,
+      "Money": 6900
+    },
+    {
+      "$id": 24,
+      "ID": "RESET_MONEY_24",
+      "Level": 24,
+      "Base": 200,
+      "Money": 7200
+    },
+    {
+      "$id": 25,
+      "ID": "RESET_MONEY_25",
+      "Level": 25,
+      "Base": 200,
+      "Money": 7500
+    },
+    {
+      "$id": 26,
+      "ID": "RESET_MONEY_26",
+      "Level": 26,
+      "Base": 200,
+      "Money": 7800
+    },
+    {
+      "$id": 27,
+      "ID": "RESET_MONEY_27",
+      "Level": 27,
+      "Base": 200,
+      "Money": 8100
+    },
+    {
+      "$id": 28,
+      "ID": "RESET_MONEY_28",
+      "Level": 28,
+      "Base": 200,
+      "Money": 8400
+    },
+    {
+      "$id": 29,
+      "ID": "RESET_MONEY_29",
+      "Level": 29,
+      "Base": 200,
+      "Money": 8700
+    },
+    {
+      "$id": 30,
+      "ID": "RESET_MONEY_30",
+      "Level": 30,
+      "Base": 250,
+      "Money": 13500
+    },
+    {
+      "$id": 31,
+      "ID": "RESET_MONEY_31",
+      "Level": 31,
+      "Base": 250,
+      "Money": 13950
+    },
+    {
+      "$id": 32,
+      "ID": "RESET_MONEY_32",
+      "Level": 32,
+      "Base": 250,
+      "Money": 14400
+    },
+    {
+      "$id": 33,
+      "ID": "RESET_MONEY_33",
+      "Level": 33,
+      "Base": 250,
+      "Money": 14850
+    },
+    {
+      "$id": 34,
+      "ID": "RESET_MONEY_34",
+      "Level": 34,
+      "Base": 250,
+      "Money": 15300
+    },
+    {
+      "$id": 35,
+      "ID": "RESET_MONEY_35",
+      "Level": 35,
+      "Base": 250,
+      "Money": 15750
+    },
+    {
+      "$id": 36,
+      "ID": "RESET_MONEY_36",
+      "Level": 36,
+      "Base": 250,
+      "Money": 16200
+    },
+    {
+      "$id": 37,
+      "ID": "RESET_MONEY_37",
+      "Level": 37,
+      "Base": 250,
+      "Money": 16650
+    },
+    {
+      "$id": 38,
+      "ID": "RESET_MONEY_38",
+      "Level": 38,
+      "Base": 250,
+      "Money": 17100
+    },
+    {
+      "$id": 39,
+      "ID": "RESET_MONEY_39",
+      "Level": 39,
+      "Base": 250,
+      "Money": 17550
+    },
+    {
+      "$id": 40,
+      "ID": "RESET_MONEY_40",
+      "Level": 40,
+      "Base": 300,
+      "Money": 24000
+    },
+    {
+      "$id": 41,
+      "ID": "RESET_MONEY_41",
+      "Level": 41,
+      "Base": 300,
+      "Money": 24600
+    },
+    {
+      "$id": 42,
+      "ID": "RESET_MONEY_42",
+      "Level": 42,
+      "Base": 300,
+      "Money": 25200
+    },
+    {
+      "$id": 43,
+      "ID": "RESET_MONEY_43",
+      "Level": 43,
+      "Base": 300,
+      "Money": 25800
+    },
+    {
+      "$id": 44,
+      "ID": "RESET_MONEY_44",
+      "Level": 44,
+      "Base": 300,
+      "Money": 26400
+    },
+    {
+      "$id": 45,
+      "ID": "RESET_MONEY_45",
+      "Level": 45,
+      "Base": 300,
+      "Money": 27000
+    },
+    {
+      "$id": 46,
+      "ID": "RESET_MONEY_46",
+      "Level": 46,
+      "Base": 300,
+      "Money": 27600
+    },
+    {
+      "$id": 47,
+      "ID": "RESET_MONEY_47",
+      "Level": 47,
+      "Base": 300,
+      "Money": 28200
+    },
+    {
+      "$id": 48,
+      "ID": "RESET_MONEY_48",
+      "Level": 48,
+      "Base": 300,
+      "Money": 28800
+    },
+    {
+      "$id": 49,
+      "ID": "RESET_MONEY_49",
+      "Level": 49,
+      "Base": 300,
+      "Money": 29400
+    },
+    {
+      "$id": 50,
+      "ID": "RESET_MONEY_50",
+      "Level": 50,
+      "Base": 350,
+      "Money": 38500
+    },
+    {
+      "$id": 51,
+      "ID": "RESET_MONEY_51",
+      "Level": 51,
+      "Base": 350,
+      "Money": 39270
+    },
+    {
+      "$id": 52,
+      "ID": "RESET_MONEY_52",
+      "Level": 52,
+      "Base": 350,
+      "Money": 40040
+    },
+    {
+      "$id": 53,
+      "ID": "RESET_MONEY_53",
+      "Level": 53,
+      "Base": 350,
+      "Money": 40810
+    },
+    {
+      "$id": 54,
+      "ID": "RESET_MONEY_54",
+      "Level": 54,
+      "Base": 350,
+      "Money": 41580
+    },
+    {
+      "$id": 55,
+      "ID": "RESET_MONEY_55",
+      "Level": 55,
+      "Base": 350,
+      "Money": 42350
+    },
+    {
+      "$id": 56,
+      "ID": "RESET_MONEY_56",
+      "Level": 56,
+      "Base": 350,
+      "Money": 43120
+    },
+    {
+      "$id": 57,
+      "ID": "RESET_MONEY_57",
+      "Level": 57,
+      "Base": 350,
+      "Money": 43890
+    },
+    {
+      "$id": 58,
+      "ID": "RESET_MONEY_58",
+      "Level": 58,
+      "Base": 350,
+      "Money": 44660
+    },
+    {
+      "$id": 59,
+      "ID": "RESET_MONEY_59",
+      "Level": 59,
+      "Base": 350,
+      "Money": 45430
+    },
+    {
+      "$id": 60,
+      "ID": "RESET_MONEY_60",
+      "Level": 60,
+      "Base": 400,
+      "Money": 57600
+    },
+    {
+      "$id": 61,
+      "ID": "RESET_MONEY_61",
+      "Level": 61,
+      "Base": 400,
+      "Money": 58560
+    },
+    {
+      "$id": 62,
+      "ID": "RESET_MONEY_62",
+      "Level": 62,
+      "Base": 400,
+      "Money": 59520
+    },
+    {
+      "$id": 63,
+      "ID": "RESET_MONEY_63",
+      "Level": 63,
+      "Base": 400,
+      "Money": 60480
+    },
+    {
+      "$id": 64,
+      "ID": "RESET_MONEY_64",
+      "Level": 64,
+      "Base": 400,
+      "Money": 61440
+    },
+    {
+      "$id": 65,
+      "ID": "RESET_MONEY_65",
+      "Level": 65,
+      "Base": 400,
+      "Money": 62400
+    },
+    {
+      "$id": 66,
+      "ID": "RESET_MONEY_66",
+      "Level": 66,
+      "Base": 400,
+      "Money": 63360
+    },
+    {
+      "$id": 67,
+      "ID": "RESET_MONEY_67",
+      "Level": 67,
+      "Base": 400,
+      "Money": 64320
+    },
+    {
+      "$id": 68,
+      "ID": "RESET_MONEY_68",
+      "Level": 68,
+      "Base": 400,
+      "Money": 65280
+    },
+    {
+      "$id": 69,
+      "ID": "RESET_MONEY_69",
+      "Level": 69,
+      "Base": 400,
+      "Money": 66240
+    },
+    {
+      "$id": 70,
+      "ID": "RESET_MONEY_70",
+      "Level": 70,
+      "Base": 500,
+      "Money": 105000
+    },
+    {
+      "$id": 71,
+      "ID": "RESET_MONEY_71",
+      "Level": 71,
+      "Base": 500,
+      "Money": 106500
+    },
+    {
+      "$id": 72,
+      "ID": "RESET_MONEY_72",
+      "Level": 72,
+      "Base": 500,
+      "Money": 108000
+    },
+    {
+      "$id": 73,
+      "ID": "RESET_MONEY_73",
+      "Level": 73,
+      "Base": 500,
+      "Money": 109500
+    },
+    {
+      "$id": 74,
+      "ID": "RESET_MONEY_74",
+      "Level": 74,
+      "Base": 500,
+      "Money": 111000
+    },
+    {
+      "$id": 75,
+      "ID": "RESET_MONEY_75",
+      "Level": 75,
+      "Base": 500,
+      "Money": 112500
+    },
+    {
+      "$id": 76,
+      "ID": "RESET_MONEY_76",
+      "Level": 76,
+      "Base": 500,
+      "Money": 114000
+    },
+    {
+      "$id": 77,
+      "ID": "RESET_MONEY_77",
+      "Level": 77,
+      "Base": 500,
+      "Money": 115500
+    },
+    {
+      "$id": 78,
+      "ID": "RESET_MONEY_78",
+      "Level": 78,
+      "Base": 500,
+      "Money": 117000
+    },
+    {
+      "$id": 79,
+      "ID": "RESET_MONEY_79",
+      "Level": 79,
+      "Base": 500,
+      "Money": 118500
+    },
+    {
+      "$id": 80,
+      "ID": "RESET_MONEY_80",
+      "Level": 80,
+      "Base": 600,
+      "Money": 153600
+    },
+    {
+      "$id": 81,
+      "ID": "RESET_MONEY_81",
+      "Level": 81,
+      "Base": 600,
+      "Money": 155520
+    },
+    {
+      "$id": 82,
+      "ID": "RESET_MONEY_82",
+      "Level": 82,
+      "Base": 600,
+      "Money": 157440
+    },
+    {
+      "$id": 83,
+      "ID": "RESET_MONEY_83",
+      "Level": 83,
+      "Base": 600,
+      "Money": 159360
+    },
+    {
+      "$id": 84,
+      "ID": "RESET_MONEY_84",
+      "Level": 84,
+      "Base": 600,
+      "Money": 161280
+    },
+    {
+      "$id": 85,
+      "ID": "RESET_MONEY_85",
+      "Level": 85,
+      "Base": 600,
+      "Money": 163200
+    },
+    {
+      "$id": 86,
+      "ID": "RESET_MONEY_86",
+      "Level": 86,
+      "Base": 600,
+      "Money": 165120
+    },
+    {
+      "$id": 87,
+      "ID": "RESET_MONEY_87",
+      "Level": 87,
+      "Base": 600,
+      "Money": 167040
+    },
+    {
+      "$id": 88,
+      "ID": "RESET_MONEY_88",
+      "Level": 88,
+      "Base": 600,
+      "Money": 168960
+    },
+    {
+      "$id": 89,
+      "ID": "RESET_MONEY_89",
+      "Level": 89,
+      "Base": 600,
+      "Money": 170880
+    },
+    {
+      "$id": 90,
+      "ID": "RESET_MONEY_90",
+      "Level": 90,
+      "Base": 700,
+      "Money": 214200
+    },
+    {
+      "$id": 91,
+      "ID": "RESET_MONEY_91",
+      "Level": 91,
+      "Base": 700,
+      "Money": 216580
+    },
+    {
+      "$id": 92,
+      "ID": "RESET_MONEY_92",
+      "Level": 92,
+      "Base": 700,
+      "Money": 218960
+    },
+    {
+      "$id": 93,
+      "ID": "RESET_MONEY_93",
+      "Level": 93,
+      "Base": 700,
+      "Money": 221340
+    },
+    {
+      "$id": 94,
+      "ID": "RESET_MONEY_94",
+      "Level": 94,
+      "Base": 700,
+      "Money": 223720
+    },
+    {
+      "$id": 95,
+      "ID": "RESET_MONEY_95",
+      "Level": 95,
+      "Base": 700,
+      "Money": 226100
+    },
+    {
+      "$id": 96,
+      "ID": "RESET_MONEY_96",
+      "Level": 96,
+      "Base": 700,
+      "Money": 228480
+    },
+    {
+      "$id": 97,
+      "ID": "RESET_MONEY_97",
+      "Level": 97,
+      "Base": 700,
+      "Money": 230860
+    },
+    {
+      "$id": 98,
+      "ID": "RESET_MONEY_98",
+      "Level": 98,
+      "Base": 700,
+      "Money": 233240
+    },
+    {
+      "$id": 99,
+      "ID": "RESET_MONEY_99",
+      "Level": 99,
+      "Base": 700,
+      "Money": 235620
+    },
+    {
+      "$id": 100,
+      "ID": "RESET_MONEY_100",
+      "Level": 100,
+      "Base": 800,
+      "Money": 280000
+    }
+  ]
+}

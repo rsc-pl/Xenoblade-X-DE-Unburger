@@ -1,0 +1,29 @@
+{
+  "schema": [
+    {
+      "name": "ID",
+      "type": 9
+    },
+    {
+      "name": "type",
+      "type": 5
+    },
+    {
+      "name": "item",
+      "type": 5
+    },
+    {
+      "name": "bit4",
+      "type": 5
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "ID": "ITEMLIST_0001",
+      "type": 68,
+      "item": 16,
+      "bit4": 0
+    }
+  ]
+}

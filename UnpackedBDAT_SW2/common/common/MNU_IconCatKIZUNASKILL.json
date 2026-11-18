@@ -1,0 +1,42 @@
+{
+  "schema": [
+    {
+      "name": "ID",
+      "type": 9
+    },
+    {
+      "name": "texID",
+      "type": 2
+    },
+    {
+      "name": "MSlabel",
+      "type": 2
+    }
+  ],
+  "rows": [
+    {
+      "$id": 0,
+      "ID": "SKILL_NONE",
+      "texID": 0,
+      "MSlabel": 0
+    },
+    {
+      "$id": 1,
+      "ID": "SKILL_MECH",
+      "texID": 2343,
+      "MSlabel": 0
+    },
+    {
+      "$id": 2,
+      "ID": "SKILL_BIO",
+      "texID": 2344,
+      "MSlabel": 0
+    },
+    {
+      "$id": 3,
+      "ID": "SKILL_SEARCH",
+      "texID": 2345,
+      "MSlabel": 0
+    }
+  ]
+}

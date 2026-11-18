@@ -1,0 +1,192 @@
+{
+  "schema": [
+    {
+      "name": "ID",
+      "type": 9
+    },
+    {
+      "name": "name",
+      "type": 13
+    },
+    {
+      "name": "help",
+      "type": 13
+    },
+    {
+      "name": "hidden_condition",
+      "type": 2
+    },
+    {
+      "name": "grayout_condition",
+      "type": 2
+    },
+    {
+      "name": "control_type",
+      "type": 1
+    },
+    {
+      "name": "select_num",
+      "type": 1
+    },
+    {
+      "name": "default_value",
+      "type": 1
+    },
+    {
+      "name": "select_name1",
+      "type": 13
+    },
+    {
+      "name": "select_name2",
+      "type": 13
+    },
+    {
+      "name": "select_name3",
+      "type": 13
+    },
+    {
+      "name": "select_name4",
+      "type": 13
+    },
+    {
+      "name": "select_name5",
+      "type": 13
+    },
+    {
+      "name": "sort_no",
+      "type": 1
+    },
+    {
+      "name": "save_type",
+      "type": 1
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "ID": "OPTION_TELOP_STORY_QUEST",
+      "name": 53,
+      "help": 155,
+      "hidden_condition": 0,
+      "grayout_condition": 0,
+      "control_type": 3,
+      "select_num": 2,
+      "default_value": 1,
+      "select_name1": 205,
+      "select_name2": 206,
+      "select_name3": 0,
+      "select_name4": 0,
+      "select_name5": 0,
+      "sort_no": 1,
+      "save_type": 1
+    },
+    {
+      "$id": 2,
+      "ID": "OPTION_TELOP_KIZUNA_QUEST",
+      "name": 54,
+      "help": 156,
+      "hidden_condition": 0,
+      "grayout_condition": 0,
+      "control_type": 3,
+      "select_num": 2,
+      "default_value": 1,
+      "select_name1": 205,
+      "select_name2": 206,
+      "select_name3": 0,
+      "select_name4": 0,
+      "select_name5": 0,
+      "sort_no": 2,
+      "save_type": 1
+    },
+    {
+      "$id": 3,
+      "ID": "OPTION_TELOP_NORMAL_QUEST",
+      "name": 55,
+      "help": 157,
+      "hidden_condition": 0,
+      "grayout_condition": 0,
+      "control_type": 3,
+      "select_num": 2,
+      "default_value": 1,
+      "select_name1": 205,
+      "select_name2": 206,
+      "select_name3": 0,
+      "select_name4": 0,
+      "select_name5": 0,
+      "sort_no": 3,
+      "save_type": 1
+    },
+    {
+      "$id": 4,
+      "ID": "OPTION_TELOP_SIMPLE_QUEST",
+      "name": 56,
+      "help": 158,
+      "hidden_condition": 0,
+      "grayout_condition": 0,
+      "control_type": 3,
+      "select_num": 2,
+      "default_value": 1,
+      "select_name1": 205,
+      "select_name2": 206,
+      "select_name3": 0,
+      "select_name4": 0,
+      "select_name5": 0,
+      "sort_no": 4,
+      "save_type": 1
+    },
+    {
+      "$id": 5,
+      "ID": "OPTION_TELOP_SEG_TOPIC",
+      "name": 57,
+      "help": 159,
+      "hidden_condition": 0,
+      "grayout_condition": 0,
+      "control_type": 3,
+      "select_num": 2,
+      "default_value": 1,
+      "select_name1": 205,
+      "select_name2": 206,
+      "select_name3": 0,
+      "select_name4": 0,
+      "select_name5": 0,
+      "sort_no": 5,
+      "save_type": 1
+    },
+    {
+      "$id": 6,
+      "ID": "OPTION_TELOP_MAT_SEARCH",
+      "name": 58,
+      "help": 160,
+      "hidden_condition": 0,
+      "grayout_condition": 0,
+      "control_type": 3,
+      "select_num": 2,
+      "default_value": 1,
+      "select_name1": 205,
+      "select_name2": 206,
+      "select_name3": 0,
+      "select_name4": 0,
+      "select_name5": 0,
+      "sort_no": 6,
+      "save_type": 1
+    },
+    {
+      "$id": 7,
+      "ID": "OPTION_TELOP_SQUAD_MISSION",
+      "name": 59,
+      "help": 161,
+      "hidden_condition": 0,
+      "grayout_condition": 0,
+      "control_type": 3,
+      "select_num": 2,
+      "default_value": 0,
+      "select_name1": 205,
+      "select_name2": 206,
+      "select_name3": 0,
+      "select_name4": 0,
+      "select_name5": 0,
+      "sort_no": 7,
+      "save_type": 1
+    }
+  ]
+}

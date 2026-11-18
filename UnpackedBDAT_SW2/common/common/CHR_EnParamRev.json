@@ -1,0 +1,544 @@
+{
+  "schema": [
+    {
+      "name": "ID",
+      "type": 9
+    },
+    {
+      "name": "HpMaxRev2",
+      "type": 3
+    },
+    {
+      "name": "PowFightRev2",
+      "type": 2
+    },
+    {
+      "name": "PowShootRev2",
+      "type": 2
+    },
+    {
+      "name": "PowMindRev2",
+      "type": 2
+    },
+    {
+      "name": "DodgeRev2",
+      "type": 2
+    },
+    {
+      "name": "DexFightRev2",
+      "type": 2
+    },
+    {
+      "name": "DexShootRev2",
+      "type": 2
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "ID": "EN_SIZE_S_TO_M",
+      "HpMaxRev2": 1176,
+      "PowFightRev2": 1100,
+      "PowShootRev2": 1100,
+      "PowMindRev2": 1100,
+      "DodgeRev2": 1000,
+      "DexFightRev2": 1000,
+      "DexShootRev2": 1000
+    },
+    {
+      "$id": 2,
+      "ID": "EN_SIZE_S_TO_L",
+      "HpMaxRev2": 1470,
+      "PowFightRev2": 1500,
+      "PowShootRev2": 1500,
+      "PowMindRev2": 1500,
+      "DodgeRev2": 1000,
+      "DexFightRev2": 1000,
+      "DexShootRev2": 1000
+    },
+    {
+      "$id": 3,
+      "ID": "EN_SIZE_S_TO_LL",
+      "HpMaxRev2": 7058,
+      "PowFightRev2": 2000,
+      "PowShootRev2": 2000,
+      "PowMindRev2": 2000,
+      "DodgeRev2": 1000,
+      "DexFightRev2": 1000,
+      "DexShootRev2": 1000
+    },
+    {
+      "$id": 4,
+      "ID": "EN_SIZE_S_TO_LLL",
+      "HpMaxRev2": 11764,
+      "PowFightRev2": 3000,
+      "PowShootRev2": 3000,
+      "PowMindRev2": 3000,
+      "DodgeRev2": 1000,
+      "DexFightRev2": 1000,
+      "DexShootRev2": 1000
+    },
+    {
+      "$id": 5,
+      "ID": "EN_SIZE_M_TO_S",
+      "HpMaxRev2": 850,
+      "PowFightRev2": 1000,
+      "PowShootRev2": 1000,
+      "PowMindRev2": 1000,
+      "DodgeRev2": 1000,
+      "DexFightRev2": 1000,
+      "DexShootRev2": 1000
+    },
+    {
+      "$id": 6,
+      "ID": "EN_SIZE_M_TO_L",
+      "HpMaxRev2": 1250,
+      "PowFightRev2": 1363,
+      "PowShootRev2": 1363,
+      "PowMindRev2": 1363,
+      "DodgeRev2": 1000,
+      "DexFightRev2": 1000,
+      "DexShootRev2": 1000
+    },
+    {
+      "$id": 7,
+      "ID": "EN_SIZE_M_TO_LL",
+      "HpMaxRev2": 6000,
+      "PowFightRev2": 1818,
+      "PowShootRev2": 1818,
+      "PowMindRev2": 1818,
+      "DodgeRev2": 1000,
+      "DexFightRev2": 1000,
+      "DexShootRev2": 1000
+    },
+    {
+      "$id": 8,
+      "ID": "COND_GAME_8584",
+      "HpMaxRev2": 10000,
+      "PowFightRev2": 2727,
+      "PowShootRev2": 2727,
+      "PowMindRev2": 2727,
+      "DodgeRev2": 1000,
+      "DexFightRev2": 1000,
+      "DexShootRev2": 1000
+    },
+    {
+      "$id": 9,
+      "ID": "EN_SIZE_L_TO_S",
+      "HpMaxRev2": 680,
+      "PowFightRev2": 666,
+      "PowShootRev2": 666,
+      "PowMindRev2": 666,
+      "DodgeRev2": 1000,
+      "DexFightRev2": 1000,
+      "DexShootRev2": 1000
+    },
+    {
+      "$id": 10,
+      "ID": "EN_SIZE_L_TO_M",
+      "HpMaxRev2": 800,
+      "PowFightRev2": 733,
+      "PowShootRev2": 733,
+      "PowMindRev2": 733,
+      "DodgeRev2": 1000,
+      "DexFightRev2": 1000,
+      "DexShootRev2": 1000
+    },
+    {
+      "$id": 11,
+      "ID": "EN_SIZE_L_TO_LL",
+      "HpMaxRev2": 4800,
+      "PowFightRev2": 1333,
+      "PowShootRev2": 1333,
+      "PowMindRev2": 1333,
+      "DodgeRev2": 1000,
+      "DexFightRev2": 1000,
+      "DexShootRev2": 1000
+    },
+    {
+      "$id": 12,
+      "ID": "EN_SIZE_L_TO_LLL",
+      "HpMaxRev2": 8000,
+      "PowFightRev2": 2000,
+      "PowShootRev2": 2000,
+      "PowMindRev2": 2000,
+      "DodgeRev2": 1000,
+      "DexFightRev2": 1000,
+      "DexShootRev2": 1000
+    },
+    {
+      "$id": 13,
+      "ID": "EN_SIZE_LL_TO_S",
+      "HpMaxRev2": 141,
+      "PowFightRev2": 500,
+      "PowShootRev2": 500,
+      "PowMindRev2": 500,
+      "DodgeRev2": 1000,
+      "DexFightRev2": 1000,
+      "DexShootRev2": 1000
+    },
+    {
+      "$id": 14,
+      "ID": "EN_SIZE_LL_TO_M",
+      "HpMaxRev2": 166,
+      "PowFightRev2": 550,
+      "PowShootRev2": 550,
+      "PowMindRev2": 550,
+      "DodgeRev2": 1000,
+      "DexFightRev2": 1000,
+      "DexShootRev2": 1000
+    },
+    {
+      "$id": 15,
+      "ID": "EN_SIZE_LL_TO_L",
+      "HpMaxRev2": 208,
+      "PowFightRev2": 750,
+      "PowShootRev2": 750,
+      "PowMindRev2": 750,
+      "DodgeRev2": 1000,
+      "DexFightRev2": 1000,
+      "DexShootRev2": 1000
+    },
+    {
+      "$id": 16,
+      "ID": "EN_SIZE_LL_TO_LLL",
+      "HpMaxRev2": 1666,
+      "PowFightRev2": 1500,
+      "PowShootRev2": 1500,
+      "PowMindRev2": 1500,
+      "DodgeRev2": 1000,
+      "DexFightRev2": 1000,
+      "DexShootRev2": 1000
+    },
+    {
+      "$id": 17,
+      "ID": "EN_SIZE_LLL_TO_S",
+      "HpMaxRev2": 85,
+      "PowFightRev2": 333,
+      "PowShootRev2": 333,
+      "PowMindRev2": 333,
+      "DodgeRev2": 1000,
+      "DexFightRev2": 1000,
+      "DexShootRev2": 1000
+    },
+    {
+      "$id": 18,
+      "ID": "EN_SIZE_LLL_TO_M",
+      "HpMaxRev2": 100,
+      "PowFightRev2": 366,
+      "PowShootRev2": 366,
+      "PowMindRev2": 366,
+      "DodgeRev2": 1000,
+      "DexFightRev2": 1000,
+      "DexShootRev2": 1000
+    },
+    {
+      "$id": 19,
+      "ID": "EN_SIZE_LLL_TO_L",
+      "HpMaxRev2": 125,
+      "PowFightRev2": 500,
+      "PowShootRev2": 500,
+      "PowMindRev2": 500,
+      "DodgeRev2": 1000,
+      "DexFightRev2": 1000,
+      "DexShootRev2": 1000
+    },
+    {
+      "$id": 20,
+      "ID": "EN_SIZE_LLL_TO_LL",
+      "HpMaxRev2": 600,
+      "PowFightRev2": 666,
+      "PowShootRev2": 666,
+      "PowMindRev2": 666,
+      "DodgeRev2": 1000,
+      "DexFightRev2": 1000,
+      "DexShootRev2": 1000
+    },
+    {
+      "$id": 21,
+      "ID": "REV_EN060201_M00",
+      "HpMaxRev2": 400,
+      "PowFightRev2": 800,
+      "PowShootRev2": 800,
+      "PowMindRev2": 800,
+      "DodgeRev2": 800,
+      "DexFightRev2": 800,
+      "DexShootRev2": 800
+    },
+    {
+      "$id": 22,
+      "ID": "REV_EN040201_M02",
+      "HpMaxRev2": 166,
+      "PowFightRev2": 550,
+      "PowShootRev2": 550,
+      "PowMindRev2": 550,
+      "DodgeRev2": 1000,
+      "DexFightRev2": 1000,
+      "DexShootRev2": 1000
+    },
+    {
+      "$id": 23,
+      "ID": "REV_EN020901_M03",
+      "HpMaxRev2": 500,
+      "PowFightRev2": 1000,
+      "PowShootRev2": 1000,
+      "PowMindRev2": 1000,
+      "DodgeRev2": 1000,
+      "DexFightRev2": 1000,
+      "DexShootRev2": 1000
+    },
+    {
+      "$id": 24,
+      "ID": "REV_EN020301_M04",
+      "HpMaxRev2": 800,
+      "PowFightRev2": 800,
+      "PowShootRev2": 800,
+      "PowMindRev2": 800,
+      "DodgeRev2": 800,
+      "DexFightRev2": 800,
+      "DexShootRev2": 800
+    },
+    {
+      "$id": 25,
+      "ID": "REV_EN011501_M05",
+      "HpMaxRev2": 750,
+      "PowFightRev2": 900,
+      "PowShootRev2": 900,
+      "PowMindRev2": 900,
+      "DodgeRev2": 1000,
+      "DexFightRev2": 1000,
+      "DexShootRev2": 1000
+    },
+    {
+      "$id": 26,
+      "ID": "REV_EN060202_M06",
+      "HpMaxRev2": 1000,
+      "PowFightRev2": 1000,
+      "PowShootRev2": 1000,
+      "PowMindRev2": 1000,
+      "DodgeRev2": 1000,
+      "DexFightRev2": 1000,
+      "DexShootRev2": 1000
+    },
+    {
+      "$id": 27,
+      "ID": "REV_EN060202_M06_S",
+      "HpMaxRev2": 500,
+      "PowFightRev2": 800,
+      "PowShootRev2": 800,
+      "PowMindRev2": 800,
+      "DodgeRev2": 800,
+      "DexFightRev2": 800,
+      "DexShootRev2": 800
+    },
+    {
+      "$id": 28,
+      "ID": "REV_EN050304_M06_S",
+      "HpMaxRev2": 500,
+      "PowFightRev2": 800,
+      "PowShootRev2": 800,
+      "PowMindRev2": 800,
+      "DodgeRev2": 800,
+      "DexFightRev2": 800,
+      "DexShootRev2": 800
+    },
+    {
+      "$id": 29,
+      "ID": "REV_EN011501_M07_B",
+      "HpMaxRev2": 1000,
+      "PowFightRev2": 1000,
+      "PowShootRev2": 1000,
+      "PowMindRev2": 1000,
+      "DodgeRev2": 1000,
+      "DexFightRev2": 1000,
+      "DexShootRev2": 1000
+    },
+    {
+      "$id": 30,
+      "ID": "REV_EN011502_M07_B",
+      "HpMaxRev2": 1000,
+      "PowFightRev2": 1000,
+      "PowShootRev2": 1000,
+      "PowMindRev2": 1000,
+      "DodgeRev2": 1000,
+      "DexFightRev2": 1000,
+      "DexShootRev2": 1000
+    },
+    {
+      "$id": 31,
+      "ID": "REV_EN011501_M07_A",
+      "HpMaxRev2": 1000,
+      "PowFightRev2": 1000,
+      "PowShootRev2": 1000,
+      "PowMindRev2": 1000,
+      "DodgeRev2": 1000,
+      "DexFightRev2": 1000,
+      "DexShootRev2": 1000
+    },
+    {
+      "$id": 32,
+      "ID": "REV_EN011502_M07_A",
+      "HpMaxRev2": 1000,
+      "PowFightRev2": 1000,
+      "PowShootRev2": 1000,
+      "PowMindRev2": 1000,
+      "DodgeRev2": 1000,
+      "DexFightRev2": 1000,
+      "DexShootRev2": 1000
+    },
+    {
+      "$id": 33,
+      "ID": "REV_EN011504_M07_A",
+      "HpMaxRev2": 1000,
+      "PowFightRev2": 1000,
+      "PowShootRev2": 1000,
+      "PowMindRev2": 1000,
+      "DodgeRev2": 1000,
+      "DexFightRev2": 1000,
+      "DexShootRev2": 1000
+    },
+    {
+      "$id": 34,
+      "ID": "REV_EN021201_M09_A",
+      "HpMaxRev2": 500,
+      "PowFightRev2": 750,
+      "PowShootRev2": 750,
+      "PowMindRev2": 750,
+      "DodgeRev2": 800,
+      "DexFightRev2": 800,
+      "DexShootRev2": 800
+    },
+    {
+      "$id": 35,
+      "ID": "REV_EN021301_M09_A",
+      "HpMaxRev2": 500,
+      "PowFightRev2": 750,
+      "PowShootRev2": 750,
+      "PowMindRev2": 750,
+      "DodgeRev2": 800,
+      "DexFightRev2": 800,
+      "DexShootRev2": 800
+    },
+    {
+      "$id": 36,
+      "ID": "REV_EN011602_M09_A",
+      "HpMaxRev2": 800,
+      "PowFightRev2": 850,
+      "PowShootRev2": 850,
+      "PowMindRev2": 850,
+      "DodgeRev2": 1000,
+      "DexFightRev2": 1000,
+      "DexShootRev2": 1000
+    },
+    {
+      "$id": 37,
+      "ID": "REV_EN012702_M10_A",
+      "HpMaxRev2": 500,
+      "PowFightRev2": 800,
+      "PowShootRev2": 800,
+      "PowMindRev2": 800,
+      "DodgeRev2": 1000,
+      "DexFightRev2": 1000,
+      "DexShootRev2": 1000
+    },
+    {
+      "$id": 38,
+      "ID": "REV_EN011501_M10_A",
+      "HpMaxRev2": 500,
+      "PowFightRev2": 800,
+      "PowShootRev2": 800,
+      "PowMindRev2": 800,
+      "DodgeRev2": 1000,
+      "DexFightRev2": 1000,
+      "DexShootRev2": 1000
+    },
+    {
+      "$id": 39,
+      "ID": "REV_EN011101_M10_A",
+      "HpMaxRev2": 500,
+      "PowFightRev2": 800,
+      "PowShootRev2": 800,
+      "PowMindRev2": 800,
+      "DodgeRev2": 1000,
+      "DexFightRev2": 1000,
+      "DexShootRev2": 1000
+    },
+    {
+      "$id": 40,
+      "ID": "REV_EN012702_M10_B",
+      "HpMaxRev2": 500,
+      "PowFightRev2": 800,
+      "PowShootRev2": 800,
+      "PowMindRev2": 800,
+      "DodgeRev2": 1000,
+      "DexFightRev2": 1000,
+      "DexShootRev2": 1000
+    },
+    {
+      "$id": 41,
+      "ID": "REV_EN011502_M10_A",
+      "HpMaxRev2": 500,
+      "PowFightRev2": 800,
+      "PowShootRev2": 800,
+      "PowMindRev2": 800,
+      "DodgeRev2": 1000,
+      "DexFightRev2": 1000,
+      "DexShootRev2": 1000
+    },
+    {
+      "$id": 42,
+      "ID": "REV_EN011102_M10_A",
+      "HpMaxRev2": 500,
+      "PowFightRev2": 800,
+      "PowShootRev2": 800,
+      "PowMindRev2": 800,
+      "DodgeRev2": 1000,
+      "DexFightRev2": 1000,
+      "DexShootRev2": 1000
+    },
+    {
+      "$id": 43,
+      "ID": "REV_EN012702_M10_C",
+      "HpMaxRev2": 200,
+      "PowFightRev2": 1000,
+      "PowShootRev2": 1000,
+      "PowMindRev2": 1000,
+      "DodgeRev2": 1000,
+      "DexFightRev2": 1000,
+      "DexShootRev2": 1000
+    },
+    {
+      "$id": 44,
+      "ID": "REV_EN061201_M12_A",
+      "HpMaxRev2": 400,
+      "PowFightRev2": 850,
+      "PowShootRev2": 850,
+      "PowMindRev2": 850,
+      "DodgeRev2": 900,
+      "DexFightRev2": 1200,
+      "DexShootRev2": 1200
+    },
+    {
+      "$id": 45,
+      "ID": "REV_EN070901_Q",
+      "HpMaxRev2": 180,
+      "PowFightRev2": 180,
+      "PowShootRev2": 180,
+      "PowMindRev2": 180,
+      "DodgeRev2": 180,
+      "DexFightRev2": 750,
+      "DexShootRev2": 750
+    },
+    {
+      "$id": 46,
+      "ID": "REV_EVENT_DUMMY",
+      "HpMaxRev2": 1000,
+      "PowFightRev2": 1000,
+      "PowShootRev2": 1000,
+      "PowMindRev2": 1000,
+      "DodgeRev2": 65535,
+      "DexFightRev2": 1000,
+      "DexShootRev2": 1000
+    }
+  ]
+}

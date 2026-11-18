@@ -1,0 +1,736 @@
+{
+  "schema": [
+    {
+      "name": "ID",
+      "type": 9
+    },
+    {
+      "name": "Name",
+      "type": 1
+    },
+    {
+      "name": "Caption",
+      "type": 1
+    },
+    {
+      "name": "UI",
+      "type": 2
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "ID": "GENUS_EN010201",
+      "Name": 1,
+      "Caption": 101,
+      "UI": 642
+    },
+    {
+      "$id": 2,
+      "ID": "GENUS_EN010301",
+      "Name": 2,
+      "Caption": 102,
+      "UI": 643
+    },
+    {
+      "$id": 3,
+      "ID": "GENUS_EN010501",
+      "Name": 4,
+      "Caption": 104,
+      "UI": 644
+    },
+    {
+      "$id": 4,
+      "ID": "GENUS_EN010601",
+      "Name": 5,
+      "Caption": 105,
+      "UI": 645
+    },
+    {
+      "$id": 5,
+      "ID": "GENUS_EN010701",
+      "Name": 6,
+      "Caption": 106,
+      "UI": 646
+    },
+    {
+      "$id": 6,
+      "ID": "GENUS_EN010801",
+      "Name": 7,
+      "Caption": 107,
+      "UI": 647
+    },
+    {
+      "$id": 7,
+      "ID": "GENUS_EN010901",
+      "Name": 8,
+      "Caption": 108,
+      "UI": 648
+    },
+    {
+      "$id": 8,
+      "ID": "GENUS_EN011001",
+      "Name": 9,
+      "Caption": 109,
+      "UI": 649
+    },
+    {
+      "$id": 9,
+      "ID": "GENUS_EN011101",
+      "Name": 10,
+      "Caption": 110,
+      "UI": 650
+    },
+    {
+      "$id": 10,
+      "ID": "GENUS_EN011201",
+      "Name": 11,
+      "Caption": 111,
+      "UI": 651
+    },
+    {
+      "$id": 11,
+      "ID": "GENUS_EN011302",
+      "Name": 12,
+      "Caption": 112,
+      "UI": 652
+    },
+    {
+      "$id": 12,
+      "ID": "GENUS_EN011501",
+      "Name": 13,
+      "Caption": 113,
+      "UI": 653
+    },
+    {
+      "$id": 13,
+      "ID": "GENUS_EN011601",
+      "Name": 14,
+      "Caption": 114,
+      "UI": 654
+    },
+    {
+      "$id": 14,
+      "ID": "GENUS_EN011801",
+      "Name": 15,
+      "Caption": 115,
+      "UI": 655
+    },
+    {
+      "$id": 15,
+      "ID": "GENUS_EN011901",
+      "Name": 16,
+      "Caption": 116,
+      "UI": 655
+    },
+    {
+      "$id": 16,
+      "ID": "GENUS_EN012001",
+      "Name": 17,
+      "Caption": 117,
+      "UI": 655
+    },
+    {
+      "$id": 17,
+      "ID": "GENUS_EN012501",
+      "Name": 18,
+      "Caption": 118,
+      "UI": 656
+    },
+    {
+      "$id": 18,
+      "ID": "GENUS_EN012601",
+      "Name": 19,
+      "Caption": 119,
+      "UI": 657
+    },
+    {
+      "$id": 19,
+      "ID": "GENUS_EN012701",
+      "Name": 20,
+      "Caption": 120,
+      "UI": 658
+    },
+    {
+      "$id": 20,
+      "ID": "GENUS_EN013001",
+      "Name": 21,
+      "Caption": 121,
+      "UI": 659
+    },
+    {
+      "$id": 21,
+      "ID": "GENUS_EN013101",
+      "Name": 22,
+      "Caption": 122,
+      "UI": 660
+    },
+    {
+      "$id": 22,
+      "ID": "GENUS_EN020301",
+      "Name": 23,
+      "Caption": 123,
+      "UI": 661
+    },
+    {
+      "$id": 23,
+      "ID": "GENUS_EN020401",
+      "Name": 24,
+      "Caption": 124,
+      "UI": 662
+    },
+    {
+      "$id": 24,
+      "ID": "GENUS_EN020601",
+      "Name": 25,
+      "Caption": 125,
+      "UI": 663
+    },
+    {
+      "$id": 25,
+      "ID": "GENUS_EN020602",
+      "Name": 26,
+      "Caption": 126,
+      "UI": 664
+    },
+    {
+      "$id": 26,
+      "ID": "GENUS_EN020701",
+      "Name": 27,
+      "Caption": 127,
+      "UI": 665
+    },
+    {
+      "$id": 27,
+      "ID": "GENUS_EN020901",
+      "Name": 28,
+      "Caption": 128,
+      "UI": 666
+    },
+    {
+      "$id": 28,
+      "ID": "GENUS_EN020902",
+      "Name": 29,
+      "Caption": 129,
+      "UI": 666
+    },
+    {
+      "$id": 29,
+      "ID": "GENUS_EN021101",
+      "Name": 30,
+      "Caption": 130,
+      "UI": 667
+    },
+    {
+      "$id": 30,
+      "ID": "GENUS_EN021201",
+      "Name": 31,
+      "Caption": 131,
+      "UI": 668
+    },
+    {
+      "$id": 31,
+      "ID": "GENUS_EN025001",
+      "Name": 32,
+      "Caption": 132,
+      "UI": 669
+    },
+    {
+      "$id": 32,
+      "ID": "GENUS_EN040101",
+      "Name": 33,
+      "Caption": 133,
+      "UI": 670
+    },
+    {
+      "$id": 33,
+      "ID": "GENUS_EN040102",
+      "Name": 34,
+      "Caption": 134,
+      "UI": 671
+    },
+    {
+      "$id": 34,
+      "ID": "GENUS_EN040106",
+      "Name": 35,
+      "Caption": 135,
+      "UI": 672
+    },
+    {
+      "$id": 35,
+      "ID": "GENUS_EN040201",
+      "Name": 36,
+      "Caption": 136,
+      "UI": 673
+    },
+    {
+      "$id": 36,
+      "ID": "GENUS_EN040202",
+      "Name": 37,
+      "Caption": 137,
+      "UI": 674
+    },
+    {
+      "$id": 37,
+      "ID": "GENUS_EN040401",
+      "Name": 38,
+      "Caption": 138,
+      "UI": 675
+    },
+    {
+      "$id": 38,
+      "ID": "GENUS_EN040402",
+      "Name": 39,
+      "Caption": 139,
+      "UI": 676
+    },
+    {
+      "$id": 39,
+      "ID": "GENUS_EN040501",
+      "Name": 40,
+      "Caption": 140,
+      "UI": 677
+    },
+    {
+      "$id": 40,
+      "ID": "GENUS_EN040503",
+      "Name": 41,
+      "Caption": 141,
+      "UI": 678
+    },
+    {
+      "$id": 41,
+      "ID": "GENUS_EN040601",
+      "Name": 42,
+      "Caption": 142,
+      "UI": 679
+    },
+    {
+      "$id": 42,
+      "ID": "GENUS_EN040701",
+      "Name": 43,
+      "Caption": 143,
+      "UI": 680
+    },
+    {
+      "$id": 43,
+      "ID": "GENUS_EN040702",
+      "Name": 44,
+      "Caption": 144,
+      "UI": 681
+    },
+    {
+      "$id": 44,
+      "ID": "GENUS_EN040703",
+      "Name": 45,
+      "Caption": 145,
+      "UI": 682
+    },
+    {
+      "$id": 45,
+      "ID": "GENUS_EN040901",
+      "Name": 46,
+      "Caption": 146,
+      "UI": 683
+    },
+    {
+      "$id": 46,
+      "ID": "GENUS_EN041001",
+      "Name": 47,
+      "Caption": 147,
+      "UI": 684
+    },
+    {
+      "$id": 47,
+      "ID": "GENUS_EN041101",
+      "Name": 48,
+      "Caption": 148,
+      "UI": 684
+    },
+    {
+      "$id": 48,
+      "ID": "GENUS_EN041102",
+      "Name": 49,
+      "Caption": 149,
+      "UI": 684
+    },
+    {
+      "$id": 49,
+      "ID": "GENUS_EN050201",
+      "Name": 50,
+      "Caption": 150,
+      "UI": 685
+    },
+    {
+      "$id": 50,
+      "ID": "GENUS_EN050202",
+      "Name": 51,
+      "Caption": 151,
+      "UI": 686
+    },
+    {
+      "$id": 51,
+      "ID": "GENUS_EN050301",
+      "Name": 52,
+      "Caption": 152,
+      "UI": 687
+    },
+    {
+      "$id": 52,
+      "ID": "GENUS_EN050302",
+      "Name": 53,
+      "Caption": 153,
+      "UI": 688
+    },
+    {
+      "$id": 53,
+      "ID": "GENUS_EN050401",
+      "Name": 54,
+      "Caption": 154,
+      "UI": 689
+    },
+    {
+      "$id": 54,
+      "ID": "GENUS_EN050402",
+      "Name": 55,
+      "Caption": 155,
+      "UI": 690
+    },
+    {
+      "$id": 55,
+      "ID": "GENUS_EN050501",
+      "Name": 56,
+      "Caption": 156,
+      "UI": 691
+    },
+    {
+      "$id": 56,
+      "ID": "GENUS_EN050502",
+      "Name": 57,
+      "Caption": 157,
+      "UI": 692
+    },
+    {
+      "$id": 57,
+      "ID": "GENUS_EN060201",
+      "Name": 58,
+      "Caption": 158,
+      "UI": 693
+    },
+    {
+      "$id": 58,
+      "ID": "GENUS_EN060202",
+      "Name": 59,
+      "Caption": 159,
+      "UI": 694
+    },
+    {
+      "$id": 59,
+      "ID": "GENUS_EN060301",
+      "Name": 60,
+      "Caption": 160,
+      "UI": 695
+    },
+    {
+      "$id": 60,
+      "ID": "GENUS_EN060302",
+      "Name": 61,
+      "Caption": 161,
+      "UI": 696
+    },
+    {
+      "$id": 61,
+      "ID": "GENUS_EN060401",
+      "Name": 62,
+      "Caption": 162,
+      "UI": 697
+    },
+    {
+      "$id": 62,
+      "ID": "GENUS_EN060402",
+      "Name": 63,
+      "Caption": 163,
+      "UI": 698
+    },
+    {
+      "$id": 63,
+      "ID": "GENUS_EN060501",
+      "Name": 64,
+      "Caption": 164,
+      "UI": 699
+    },
+    {
+      "$id": 64,
+      "ID": "GENUS_EN060502",
+      "Name": 65,
+      "Caption": 165,
+      "UI": 700
+    },
+    {
+      "$id": 65,
+      "ID": "GENUS_EN060601",
+      "Name": 66,
+      "Caption": 166,
+      "UI": 701
+    },
+    {
+      "$id": 66,
+      "ID": "GENUS_EN060602",
+      "Name": 67,
+      "Caption": 167,
+      "UI": 702
+    },
+    {
+      "$id": 67,
+      "ID": "GENUS_EN060701",
+      "Name": 68,
+      "Caption": 168,
+      "UI": 703
+    },
+    {
+      "$id": 68,
+      "ID": "GENUS_EN060706",
+      "Name": 69,
+      "Caption": 169,
+      "UI": 703
+    },
+    {
+      "$id": 69,
+      "ID": "GENUS_EN060801",
+      "Name": 70,
+      "Caption": 170,
+      "UI": 704
+    },
+    {
+      "$id": 70,
+      "ID": "GENUS_EN060802",
+      "Name": 71,
+      "Caption": 171,
+      "UI": 705
+    },
+    {
+      "$id": 71,
+      "ID": "GENUS_EN060901",
+      "Name": 72,
+      "Caption": 172,
+      "UI": 706
+    },
+    {
+      "$id": 72,
+      "ID": "GENUS_EN060902",
+      "Name": 73,
+      "Caption": 173,
+      "UI": 707
+    },
+    {
+      "$id": 73,
+      "ID": "GENUS_EN060905",
+      "Name": 74,
+      "Caption": 174,
+      "UI": 708
+    },
+    {
+      "$id": 74,
+      "ID": "GENUS_EN061001",
+      "Name": 75,
+      "Caption": 175,
+      "UI": 709
+    },
+    {
+      "$id": 75,
+      "ID": "GENUS_EN061101",
+      "Name": 76,
+      "Caption": 176,
+      "UI": 710
+    },
+    {
+      "$id": 76,
+      "ID": "GENUS_EN061301",
+      "Name": 77,
+      "Caption": 177,
+      "UI": 710
+    },
+    {
+      "$id": 77,
+      "ID": "GENUS_EN061302",
+      "Name": 78,
+      "Caption": 178,
+      "UI": 710
+    },
+    {
+      "$id": 78,
+      "ID": "GENUS_EN070201",
+      "Name": 79,
+      "Caption": 179,
+      "UI": 711
+    },
+    {
+      "$id": 79,
+      "ID": "GENUS_EN070202",
+      "Name": 80,
+      "Caption": 180,
+      "UI": 712
+    },
+    {
+      "$id": 80,
+      "ID": "GENUS_EN070301",
+      "Name": 81,
+      "Caption": 181,
+      "UI": 713
+    },
+    {
+      "$id": 81,
+      "ID": "GENUS_EN070302",
+      "Name": 82,
+      "Caption": 182,
+      "UI": 714
+    },
+    {
+      "$id": 82,
+      "ID": "GENUS_EN070401",
+      "Name": 83,
+      "Caption": 183,
+      "UI": 715
+    },
+    {
+      "$id": 83,
+      "ID": "GENUS_EN070501",
+      "Name": 84,
+      "Caption": 184,
+      "UI": 716
+    },
+    {
+      "$id": 84,
+      "ID": "GENUS_EN070502",
+      "Name": 85,
+      "Caption": 185,
+      "UI": 717
+    },
+    {
+      "$id": 85,
+      "ID": "GENUS_EN070601",
+      "Name": 86,
+      "Caption": 186,
+      "UI": 718
+    },
+    {
+      "$id": 86,
+      "ID": "GENUS_EN070602",
+      "Name": 87,
+      "Caption": 187,
+      "UI": 719
+    },
+    {
+      "$id": 87,
+      "ID": "GENUS_EN070701",
+      "Name": 88,
+      "Caption": 188,
+      "UI": 720
+    },
+    {
+      "$id": 88,
+      "ID": "GENUS_EN070801",
+      "Name": 89,
+      "Caption": 189,
+      "UI": 721
+    },
+    {
+      "$id": 89,
+      "ID": "GENUS_EN070901",
+      "Name": 90,
+      "Caption": 190,
+      "UI": 722
+    },
+    {
+      "$id": 90,
+      "ID": "GENUS_EN071001",
+      "Name": 91,
+      "Caption": 191,
+      "UI": 722
+    },
+    {
+      "$id": 91,
+      "ID": "GENUS_EN071002",
+      "Name": 92,
+      "Caption": 192,
+      "UI": 722
+    },
+    {
+      "$id": 92,
+      "ID": "GENUS_EN090101",
+      "Name": 93,
+      "Caption": 193,
+      "UI": 723
+    },
+    {
+      "$id": 93,
+      "ID": "GENUS_EN090102",
+      "Name": 94,
+      "Caption": 194,
+      "UI": 724
+    },
+    {
+      "$id": 94,
+      "ID": "GENUS_EN090201",
+      "Name": 95,
+      "Caption": 195,
+      "UI": 725
+    },
+    {
+      "$id": 95,
+      "ID": "GENUS_EN090202",
+      "Name": 96,
+      "Caption": 196,
+      "UI": 726
+    },
+    {
+      "$id": 96,
+      "ID": "GENUS_EN090401",
+      "Name": 97,
+      "Caption": 197,
+      "UI": 727
+    },
+    {
+      "$id": 97,
+      "ID": "GENUS_EN090501",
+      "Name": 98,
+      "Caption": 198,
+      "UI": 727
+    },
+    {
+      "$id": 98,
+      "ID": "GENUS_EN090502",
+      "Name": 99,
+      "Caption": 199,
+      "UI": 727
+    },
+    {
+      "$id": 99,
+      "ID": "GENUS_EN099901",
+      "Name": 100,
+      "Caption": 200,
+      "UI": 728
+    },
+    {
+      "$id": 100,
+      "ID": "GENUS_EN730101",
+      "Name": 201,
+      "Caption": 203,
+      "UI": 0
+    },
+    {
+      "$id": 101,
+      "ID": "GENUS_EN780101",
+      "Name": 202,
+      "Caption": 204,
+      "UI": 0
+    },
+    {
+      "$id": 102,
+      "ID": "GENUS_EN719100",
+      "Name": 205,
+      "Caption": 206,
+      "UI": 0
+    }
+  ]
+}

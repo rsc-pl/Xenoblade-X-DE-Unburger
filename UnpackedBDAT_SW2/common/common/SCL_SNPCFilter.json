@@ -1,0 +1,284 @@
+{
+  "schema": [
+    {
+      "name": "ID",
+      "type": 9
+    },
+    {
+      "name": "Pattern",
+      "type": 1
+    },
+    {
+      "name": "Filter",
+      "type": 1
+    },
+    {
+      "name": "MinLV",
+      "type": 4
+    },
+    {
+      "name": "MaxLV",
+      "type": 4
+    },
+    {
+      "name": "GetNum",
+      "type": 1
+    },
+    {
+      "name": "UseNum",
+      "type": 1
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "ID": "SNPC_FILTER_01",
+      "Pattern": 1,
+      "Filter": 1,
+      "MinLV": 4,
+      "MaxLV": 15,
+      "GetNum": 10,
+      "UseNum": 0
+    },
+    {
+      "$id": 2,
+      "ID": "SNPC_FILTER_02",
+      "Pattern": 1,
+      "Filter": 2,
+      "MinLV": 1,
+      "MaxLV": 3,
+      "GetNum": 20,
+      "UseNum": 5
+    },
+    {
+      "$id": 3,
+      "ID": "SNPC_FILTER_03",
+      "Pattern": 1,
+      "Filter": 3,
+      "MinLV": 0,
+      "MaxLV": 0,
+      "GetNum": 50,
+      "UseNum": 20
+    },
+    {
+      "$id": 4,
+      "ID": "SNPC_FILTER_04",
+      "Pattern": 1,
+      "Filter": 4,
+      "MinLV": -5,
+      "MaxLV": -1,
+      "GetNum": 20,
+      "UseNum": 15
+    },
+    {
+      "$id": 5,
+      "ID": "SNPC_FILTER_05",
+      "Pattern": 1,
+      "Filter": 5,
+      "MinLV": -60,
+      "MaxLV": -6,
+      "GetNum": 30,
+      "UseNum": 10
+    },
+    {
+      "$id": 6,
+      "ID": "SNPC_FILTER_06",
+      "Pattern": 2,
+      "Filter": 1,
+      "MinLV": 4,
+      "MaxLV": 15,
+      "GetNum": 10,
+      "UseNum": 0
+    },
+    {
+      "$id": 7,
+      "ID": "SNPC_FILTER_07",
+      "Pattern": 2,
+      "Filter": 2,
+      "MinLV": 1,
+      "MaxLV": 3,
+      "GetNum": 20,
+      "UseNum": 5
+    },
+    {
+      "$id": 8,
+      "ID": "SNPC_FILTER_08",
+      "Pattern": 2,
+      "Filter": 3,
+      "MinLV": 0,
+      "MaxLV": 0,
+      "GetNum": 50,
+      "UseNum": 20
+    },
+    {
+      "$id": 9,
+      "ID": "SNPC_FILTER_09",
+      "Pattern": 2,
+      "Filter": 4,
+      "MinLV": -5,
+      "MaxLV": -1,
+      "GetNum": 20,
+      "UseNum": 15
+    },
+    {
+      "$id": 10,
+      "ID": "SNPC_FILTER_10",
+      "Pattern": 2,
+      "Filter": 5,
+      "MinLV": -60,
+      "MaxLV": -6,
+      "GetNum": 30,
+      "UseNum": 10
+    },
+    {
+      "$id": 11,
+      "ID": "SNPC_FILTER_11",
+      "Pattern": 3,
+      "Filter": 1,
+      "MinLV": 4,
+      "MaxLV": 15,
+      "GetNum": 10,
+      "UseNum": 0
+    },
+    {
+      "$id": 12,
+      "ID": "SNPC_FILTER_12",
+      "Pattern": 3,
+      "Filter": 2,
+      "MinLV": 1,
+      "MaxLV": 3,
+      "GetNum": 20,
+      "UseNum": 5
+    },
+    {
+      "$id": 13,
+      "ID": "SNPC_FILTER_13",
+      "Pattern": 3,
+      "Filter": 3,
+      "MinLV": 0,
+      "MaxLV": 0,
+      "GetNum": 50,
+      "UseNum": 20
+    },
+    {
+      "$id": 14,
+      "ID": "SNPC_FILTER_14",
+      "Pattern": 3,
+      "Filter": 4,
+      "MinLV": -5,
+      "MaxLV": -1,
+      "GetNum": 20,
+      "UseNum": 15
+    },
+    {
+      "$id": 15,
+      "ID": "SNPC_FILTER_15",
+      "Pattern": 3,
+      "Filter": 5,
+      "MinLV": -60,
+      "MaxLV": -6,
+      "GetNum": 30,
+      "UseNum": 10
+    },
+    {
+      "$id": 16,
+      "ID": "SNPC_FILTER_16",
+      "Pattern": 4,
+      "Filter": 1,
+      "MinLV": 4,
+      "MaxLV": 15,
+      "GetNum": 10,
+      "UseNum": 0
+    },
+    {
+      "$id": 17,
+      "ID": "SNPC_FILTER_17",
+      "Pattern": 4,
+      "Filter": 2,
+      "MinLV": 1,
+      "MaxLV": 3,
+      "GetNum": 20,
+      "UseNum": 5
+    },
+    {
+      "$id": 18,
+      "ID": "SNPC_FILTER_18",
+      "Pattern": 4,
+      "Filter": 3,
+      "MinLV": 0,
+      "MaxLV": 0,
+      "GetNum": 50,
+      "UseNum": 20
+    },
+    {
+      "$id": 19,
+      "ID": "SNPC_FILTER_19",
+      "Pattern": 4,
+      "Filter": 4,
+      "MinLV": -5,
+      "MaxLV": -1,
+      "GetNum": 20,
+      "UseNum": 15
+    },
+    {
+      "$id": 20,
+      "ID": "SNPC_FILTER_20",
+      "Pattern": 4,
+      "Filter": 5,
+      "MinLV": -60,
+      "MaxLV": -6,
+      "GetNum": 30,
+      "UseNum": 10
+    },
+    {
+      "$id": 21,
+      "ID": "SNPC_FILTER_21",
+      "Pattern": 5,
+      "Filter": 1,
+      "MinLV": 4,
+      "MaxLV": 15,
+      "GetNum": 10,
+      "UseNum": 0
+    },
+    {
+      "$id": 22,
+      "ID": "SNPC_FILTER_22",
+      "Pattern": 5,
+      "Filter": 2,
+      "MinLV": 1,
+      "MaxLV": 3,
+      "GetNum": 20,
+      "UseNum": 5
+    },
+    {
+      "$id": 23,
+      "ID": "SNPC_FILTER_23",
+      "Pattern": 5,
+      "Filter": 3,
+      "MinLV": 0,
+      "MaxLV": 0,
+      "GetNum": 50,
+      "UseNum": 20
+    },
+    {
+      "$id": 24,
+      "ID": "SNPC_FILTER_24",
+      "Pattern": 5,
+      "Filter": 4,
+      "MinLV": -5,
+      "MaxLV": -1,
+      "GetNum": 20,
+      "UseNum": 15
+    },
+    {
+      "$id": 25,
+      "ID": "SNPC_FILTER_25",
+      "Pattern": 5,
+      "Filter": 5,
+      "MinLV": -60,
+      "MaxLV": -6,
+      "GetNum": 30,
+      "UseNum": 10
+    }
+  ]
+}

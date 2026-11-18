@@ -1,0 +1,127 @@
+{
+  "schema": [
+    {
+      "name": "ID",
+      "type": 9
+    },
+    {
+      "name": "material_id",
+      "type": 6
+    },
+    {
+      "name": "damage_interval",
+      "type": 2
+    },
+    {
+      "name": "damage",
+      "type": 2
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "ID": "SLIP_DAMAGE_REGENE",
+      "material_id": -1,
+      "damage_interval": 1,
+      "damage": 10
+    },
+    {
+      "$id": 2,
+      "ID": "TEST_001",
+      "material_id": 99121201,
+      "damage_interval": 1,
+      "damage": 5
+    },
+    {
+      "$id": 3,
+      "ID": "TEST_002",
+      "material_id": 99121301,
+      "damage_interval": 2,
+      "damage": 10
+    },
+    {
+      "$id": 4,
+      "ID": "TEST_003",
+      "material_id": 99121501,
+      "damage_interval": 4,
+      "damage": 20
+    },
+    {
+      "$id": 5,
+      "ID": "SLIP_DAMAGE_001",
+      "material_id": 41501,
+      "damage_interval": 1,
+      "damage": 15
+    },
+    {
+      "$id": 6,
+      "ID": "SLIP_DAMAGE_002",
+      "material_id": 41501,
+      "damage_interval": 1,
+      "damage": 15
+    },
+    {
+      "$id": 7,
+      "ID": "SLIP_DAMAGE_003",
+      "material_id": 4021501,
+      "damage_interval": 1,
+      "damage": 15
+    },
+    {
+      "$id": 8,
+      "ID": "SLIP_DAMAGE_004",
+      "material_id": 21501,
+      "damage_interval": 1,
+      "damage": 15
+    },
+    {
+      "$id": 9,
+      "ID": "SLIP_DAMAGE_005",
+      "material_id": 2061201,
+      "damage_interval": 1,
+      "damage": 600
+    },
+    {
+      "$id": 10,
+      "ID": "SLIP_DAMAGE_006",
+      "material_id": 2051201,
+      "damage_interval": 1,
+      "damage": 600
+    },
+    {
+      "$id": 11,
+      "ID": "SLIP_DAMAGE_007",
+      "material_id": 8041201,
+      "damage_interval": 1,
+      "damage": 600
+    },
+    {
+      "$id": 12,
+      "ID": "SLIP_DAMAGE_008",
+      "material_id": 61201,
+      "damage_interval": 1,
+      "damage": 600
+    },
+    {
+      "$id": 13,
+      "ID": "SLIP_DAMAGE_009",
+      "material_id": 61202,
+      "damage_interval": 1,
+      "damage": 1200
+    },
+    {
+      "$id": 14,
+      "ID": "SLIP_DAMAGE_010",
+      "material_id": 6041201,
+      "damage_interval": 1,
+      "damage": 600
+    },
+    {
+      "$id": 15,
+      "ID": "SLIP_DAMAGE_011",
+      "material_id": 4021502,
+      "damage_interval": 1,
+      "damage": 75
+    }
+  ]
+}

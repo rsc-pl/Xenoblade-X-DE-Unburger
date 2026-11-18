@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "ID",
+      "type": 9
+    }
+  ],
+  "rows": [
+    {
+      "$id": 0,
+      "ID": "MNU_RES_TYPE_INVALID"
+    },
+    {
+      "$id": 1,
+      "ID": "MNU_RES_TYPE_LAYER_IMAGE"
+    },
+    {
+      "$id": 2,
+      "ID": "MNU_RES_TYPE_LAYER_FONT"
+    },
+    {
+      "$id": 3,
+      "ID": "MNU_RES_TYPE_LAYER_STYLE"
+    },
+    {
+      "$id": 4,
+      "ID": "MNU_RES_TYPE_UI_PARTICLE"
+    },
+    {
+      "$id": 5,
+      "ID": "MNU_RES_TYPE_MS_PROJ"
+    },
+    {
+      "$id": 6,
+      "ID": "MNU_RES_TYPE_MODEL"
+    },
+    {
+      "$id": 7,
+      "ID": "MNU_RES_TYPE_BDAT"
+    },
+    {
+      "$id": 8,
+      "ID": "MNU_RES_TYPE_UI_IDMAP"
+    },
+    {
+      "$id": 9,
+      "ID": "MNU_RES_TYPE_UI_STREAM"
+    },
+    {
+      "$id": 10,
+      "ID": "MNU_RES_TYPE_UNKNOWN"
+    }
+  ]
+}

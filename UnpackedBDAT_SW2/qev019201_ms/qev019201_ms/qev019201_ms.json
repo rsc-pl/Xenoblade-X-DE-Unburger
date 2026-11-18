@@ -1,0 +1,420 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev019201_MSG0001",
+      "style": 1,
+      "name": "Geez, where the hell is that\nbastard wandering around...[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev019201_MSG0002",
+      "style": 1,
+      "name": "Hm? That face... Are you [ST:playername ]?![ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev019201_JNK0010",
+      "style": 4,
+      "name": "Affirmative"
+    },
+    {
+      "$id": 4,
+      "label": "qev019201_SEL0011",
+      "style": 3,
+      "name": "Look back boldly and nod."
+    },
+    {
+      "$id": 5,
+      "label": "qev019201_JNK0020",
+      "style": 4,
+      "name": "Negative"
+    },
+    {
+      "$id": 6,
+      "label": "qev019201_SEL0021",
+      "style": 3,
+      "name": "Say you aren't, as he seems suspicious."
+    },
+    {
+      "$id": 7,
+      "label": "qev019201_MSG0003",
+      "style": 1,
+      "name": "I finally found you, you thieving bastard!\nI got one thing I wanna say to you![ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev019201_MSG0004",
+      "style": 1,
+      "name": "Tobias-sama himself came all the\nway out here for your sake![ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev019201_MSG0005",
+      "style": 1,
+      "name": "Is that so... Well, if you\nsee 'em, tell 'em this.[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev019201_MSG0006",
+      "style": 1,
+      "name": "Tell them Tobias-sama is waiting\nin front of the BLADE Home to put\na stop to their thieving ways.[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev019201_MSG0007",
+      "style": 1,
+      "name": "Heh, if they stroll up casually,\nI'll smash 'em with the hammer\nof justice the moment we meet![ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev019201_MSG0008",
+      "style": 1,
+      "name": "You've been planting Data Probes all\nover the place lately and acting\nlike you're all that, haven't ya?[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev019201_MSG0009",
+      "style": 1,
+      "name": "Remove every single one of them right\nnow! Everything on Mira, understand?[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev019201_MSG0010",
+      "style": 1,
+      "name": "I'm taking massive losses because\nof you! Hey! You'll face a world\nof hurt if you defy me.[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev019201_JNK0030",
+      "style": 4,
+      "name": "Defiance"
+    },
+    {
+      "$id": 16,
+      "label": "qev019201_SEL0031",
+      "style": 3,
+      "name": "Retort to try it if he thinks he can."
+    },
+    {
+      "$id": 17,
+      "label": "qev019201_JNK0040",
+      "style": 4,
+      "name": "Calm"
+    },
+    {
+      "$id": 18,
+      "label": "qev019201_SEL0041",
+      "style": 3,
+      "name": "Calmly ask for the reason."
+    },
+    {
+      "$id": 19,
+      "label": "qev019201_MSG0011",
+      "style": 1,
+      "name": "You're pretty damn defiant, ain't ya? Do\nyou even understand what you've done?[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev019201_MSG0012",
+      "style": 1,
+      "name": "Hah, are you saying you've been\ntrampling on someone else's turf\nwithout knowing anything?[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev019201_MSG0013",
+      "style": 1,
+      "name": "Because of the Data Probes you've been\nplanting, the number of customers accessing\n*my* Data Probes is decreasing![ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev019201_MSG0014",
+      "style": 1,
+      "name": "Do you get it? Because of that, my cash\nis steadily disappearing day after day![ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev019201_MSG0015",
+      "style": 1,
+      "name": "...Huh? Lifepoint?! Who gives a crap about\nthat! Right now we're talking about cash,\nwhich is more important than life![ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev019201_MSG0016",
+      "style": 1,
+      "name": "Understand? Get lost! All the\ncash in this city is mine![ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev019201_MSG0017",
+      "style": 1,
+      "name": "Those who want to know about the\noutside can just keep accessing my\nResearch Data Probes like always!![ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev019201_JNK0050",
+      "style": 4,
+      "name": "Counter"
+    },
+    {
+      "$id": 27,
+      "label": "qev019201_SEL0051",
+      "style": 3,
+      "name": "Vigorously argue against his unreasonable opinion."
+    },
+    {
+      "$id": 28,
+      "label": "qev019201_JNK0060",
+      "style": 4,
+      "name": "Ignore"
+    },
+    {
+      "$id": 29,
+      "label": "qev019201_SEL0061",
+      "style": 3,
+      "name": "Ignore his unreasonable opinion and brush it off."
+    },
+    {
+      "$id": 30,
+      "label": "qev019201_MSG0018",
+      "style": 1,
+      "name": "Rules? Duty? Eat shit! Cash,\ncash, cash! This world is all\nabout cash, you piece of shit![ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev019201_MSG0019",
+      "style": 1,
+      "name": "Spouting that worthless drivel,\nyou just ain't gonna listen to\nme no matter what, huh.[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev019201_MSG0020",
+      "style": 1,
+      "name": "...What? What's with those defiant\neyes? You just ain't gonna listen\nto me no matter what, huh.[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev019201_MSG0021",
+      "style": 1,
+      "name": "Then listen up, you stubborn fool!\nLet's have a match and decide who\nthe boss is in this industry, eh?[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev019201_MSG0022",
+      "style": 1,
+      "name": "...Nah, I ain't saying we should\nhave a shootout. Doing that would\njust make us lose cash.[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev019201_MSG0023",
+      "style": 1,
+      "name": "A fair and square competition to see who\ncan earn an income of 70000G or more\nusing FrontierNET first. How about it?[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev019201_MSG0024",
+      "style": 1,
+      "name": "And the loser obeys the winner.\nNot a bad deal, right?[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev019201_MSG0025",
+      "style": 1,
+      "name": "Alright, we have a deal! Hehe, you're\nan idiot for accepting such a match.[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev019201_MSG0026",
+      "style": 1,
+      "name": "Who do you take Tobias-sama for? I'm\na genius Pathfinder who earns sums\nordinary BLADEs can't imagine![ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "qev019201_MSG0027",
+      "style": 1,
+      "name": "There's no way I'm losing to the likes\nof you! I'll operate FrontierNET at full\ncapacity and rake it all in at once![ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "qev019201_MSG0028",
+      "style": 1,
+      "name": "Good, good! Hehe, the cash just\nkeeps rolling in one after another![ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "qev019201_MSG0029",
+      "style": 1,
+      "name": "Just by showing the scenery\noutside to the people in NLA, I\ncan get massive amounts of cash![ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "qev019201_MSG0030",
+      "style": 1,
+      "name": "There's no way I'm letting anyone snatch\naway a business this damn delicious![ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "qev019201_MSG0031",
+      "style": 1,
+      "name": "I'll hit an income of 70000G in no time\nand erase your annoying Data Probes![ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "qev019201_MSG0032",
+      "style": 1,
+      "name": "You thieving bastard! My income\nis almost at 70000G, you know?[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "qev019201_MSG0033",
+      "style": 1,
+      "name": "How about you? Hey! Did you realize you\nlost and come to grovel on the ground?![ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "qev019201_JNK0070",
+      "style": 4,
+      "name": "Calm"
+    },
+    {
+      "$id": 47,
+      "label": "qev019201_SEL0071",
+      "style": 3,
+      "name": "Matter-of-factly state that you have won."
+    },
+    {
+      "$id": 48,
+      "label": "qev019201_JNK0080",
+      "style": 4,
+      "name": "Ridicule"
+    },
+    {
+      "$id": 49,
+      "label": "qev019201_SEL0081",
+      "style": 3,
+      "name": "Announce your victory while laughing loudly."
+    },
+    {
+      "$id": 50,
+      "label": "qev019201_MSG0034",
+      "style": 1,
+      "name": "You're awfully calm. Have\nyou given up already?[ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "qev019201_MSG0035",
+      "style": 1,
+      "name": "What are you laughing at...\nhave you gone crazy?[ST:wait ]"
+    },
+    {
+      "$id": 52,
+      "label": "qev019201_MSG0036",
+      "style": 1,
+      "name": "Eh... What...? You've already\nreached it... you say...?[ST:wait ]"
+    },
+    {
+      "$id": 53,
+      "label": "qev019201_MSG0037",
+      "style": 1,
+      "name": "Don't lie! I'll expose\nthat lie right now...[ST:wait ]"
+    },
+    {
+      "$id": 54,
+      "label": "qev019201_MSG0038",
+      "style": 1,
+      "name": "...Guh... It's the truth...[ST:wait ]"
+    },
+    {
+      "$id": 55,
+      "label": "qev019201_MSG0039",
+      "style": 1,
+      "name": "How did you earn this much?!\nThis is a scam! Impossible!![ST:wait ]"
+    },
+    {
+      "$id": 56,
+      "label": "qev019201_JNK0090",
+      "style": 4,
+      "name": "Steady"
+    },
+    {
+      "$id": 57,
+      "label": "qev019201_SEL0091",
+      "style": 3,
+      "name": "Say it's the result of steadily installing Data Probes."
+    },
+    {
+      "$id": 58,
+      "label": "qev019201_JNK0100",
+      "style": 4,
+      "name": "Secret"
+    },
+    {
+      "$id": 59,
+      "label": "qev019201_SEL0101",
+      "style": 3,
+      "name": "Hint at numerous techniques but refuse to tell."
+    },
+    {
+      "$id": 60,
+      "label": "qev019201_MSG0040",
+      "style": 1,
+      "name": "I did it for the cash too! I went\nall around Mira installing Research\nData Probes, and yet...[ST:wait ]"
+    },
+    {
+      "$id": 61,
+      "label": "qev019201_MSG0041",
+      "style": 1,
+      "name": "Damn! There's a FrontierNET technique\nTobias-sama doesn't know about?![ST:wait ]"
+    },
+    {
+      "$id": 62,
+      "label": "qev019201_MSG0042",
+      "style": 1,
+      "name": "Even though I've been researching\nthis stuff since way back when...[ST:wait ]"
+    },
+    {
+      "$id": 63,
+      "label": "qev019201_MSG0043",
+      "style": 1,
+      "name": "Why?! Where exactly did you surpass me?![ST:wait ]"
+    },
+    {
+      "$id": 64,
+      "label": "qev019201_MSG0044",
+      "style": 1,
+      "name": "Was it that \"feelings for\nFrontierNET\" crap that\nhypocrite Kirsty was spouting?![ST:wait ]"
+    },
+    {
+      "$id": 65,
+      "label": "qev019201_MSG0045",
+      "style": 1,
+      "name": "...I won't accept it! I will\nnever accept this! I definitely\nwon't let it end like this![ST:wait ]"
+    },
+    {
+      "$id": 66,
+      "label": "qev019201_MSG0046",
+      "style": 1,
+      "name": "Someday, I'll snatch away every\nsingle customer accessing your\nResearch Data Probes![ST:wait ]"
+    },
+    {
+      "$id": 67,
+      "label": "qev019201_MSG0047",
+      "style": 1,
+      "name": "Until then, be satisfied with those\nmeager earnings. Aaargh, shit! I\nabsolutely refuse to accept this!![ST:wait ]"
+    }
+  ]
+}

@@ -1,0 +1,276 @@
+{
+  "schema": [
+    {
+      "name": "ID",
+      "type": 9
+    },
+    {
+      "name": "timeRangeBits",
+      "type": 1
+    },
+    {
+      "name": "wtrTypeBits",
+      "type": 3
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "ID": "COND_ENV_TIME_M2D",
+      "timeRangeBits": 6,
+      "wtrTypeBits": 268435455
+    },
+    {
+      "$id": 2,
+      "ID": "COND_ENV_TIME_EM2EV",
+      "timeRangeBits": 15,
+      "wtrTypeBits": 268435455
+    },
+    {
+      "$id": 3,
+      "ID": "COND_ENV_TIME_N2MN",
+      "timeRangeBits": 48,
+      "wtrTypeBits": 268435455
+    },
+    {
+      "$id": 4,
+      "ID": "COND_ENV_TIME_M_OR_D",
+      "timeRangeBits": 6,
+      "wtrTypeBits": 268435455
+    },
+    {
+      "$id": 5,
+      "ID": "COND_ENV_TIME_EM_OR_EV",
+      "timeRangeBits": 9,
+      "wtrTypeBits": 268435455
+    },
+    {
+      "$id": 6,
+      "ID": "COND_ENV_TIME_N_OR_MN",
+      "timeRangeBits": 48,
+      "wtrTypeBits": 268435455
+    },
+    {
+      "$id": 7,
+      "ID": "COND_ENV_TIME_EM",
+      "timeRangeBits": 1,
+      "wtrTypeBits": 268435455
+    },
+    {
+      "$id": 8,
+      "ID": "COND_ENV_TIME_M",
+      "timeRangeBits": 2,
+      "wtrTypeBits": 268435455
+    },
+    {
+      "$id": 9,
+      "ID": "COND_ENV_TIME_D",
+      "timeRangeBits": 4,
+      "wtrTypeBits": 268435455
+    },
+    {
+      "$id": 10,
+      "ID": "COND_ENV_TIME_EV",
+      "timeRangeBits": 8,
+      "wtrTypeBits": 268435455
+    },
+    {
+      "$id": 11,
+      "ID": "COND_ENV_TIME_N",
+      "timeRangeBits": 16,
+      "wtrTypeBits": 268435455
+    },
+    {
+      "$id": 12,
+      "ID": "COND_ENV_TIME_MN",
+      "timeRangeBits": 32,
+      "wtrTypeBits": 268435455
+    },
+    {
+      "$id": 13,
+      "ID": "COND_ENV_TIME_ALL",
+      "timeRangeBits": 255,
+      "wtrTypeBits": 268435455
+    },
+    {
+      "$id": 14,
+      "ID": "COND_ENV_TIME_D2MN",
+      "timeRangeBits": 61,
+      "wtrTypeBits": 268435455
+    },
+    {
+      "$id": 15,
+      "ID": "COND_ENV_DAY_FINE",
+      "timeRangeBits": 15,
+      "wtrTypeBits": 425989
+    },
+    {
+      "$id": 16,
+      "ID": "COND_ENV_NIGHT_FINE",
+      "timeRangeBits": 48,
+      "wtrTypeBits": 425989
+    },
+    {
+      "$id": 17,
+      "ID": "COND_ENV_ALL_FINE",
+      "timeRangeBits": 255,
+      "wtrTypeBits": 425989
+    },
+    {
+      "$id": 18,
+      "ID": "COND_ENV_TIME_MDEVNMN",
+      "timeRangeBits": 62,
+      "wtrTypeBits": 268435455
+    },
+    {
+      "$id": 19,
+      "ID": "COND_ENV_TIME_EMMDEVN",
+      "timeRangeBits": 31,
+      "wtrTypeBits": 268435455
+    },
+    {
+      "$id": 20,
+      "ID": "COND_ENV_TIME_EMMDNMN",
+      "timeRangeBits": 55,
+      "wtrTypeBits": 268435455
+    },
+    {
+      "$id": 21,
+      "ID": "COND_ENV_TIME_EMMN",
+      "timeRangeBits": 33,
+      "wtrTypeBits": 268435455
+    },
+    {
+      "$id": 22,
+      "ID": "COND_ENV_TIME_EVN",
+      "timeRangeBits": 24,
+      "wtrTypeBits": 268435455
+    },
+    {
+      "$id": 23,
+      "ID": "COND_ENV_TIME_DEV",
+      "timeRangeBits": 12,
+      "wtrTypeBits": 268435455
+    },
+    {
+      "$id": 24,
+      "ID": "COND_ENV_TIME_EMM",
+      "timeRangeBits": 3,
+      "wtrTypeBits": 268435455
+    },
+    {
+      "$id": 25,
+      "ID": "COND_ENV_EVENING_FINE",
+      "timeRangeBits": 8,
+      "wtrTypeBits": 425989
+    },
+    {
+      "$id": 26,
+      "ID": "COND_ENV_ALL_RAIN",
+      "timeRangeBits": 255,
+      "wtrTypeBits": 16
+    },
+    {
+      "$id": 27,
+      "ID": "COND_ENV_TIME_NMNEM",
+      "timeRangeBits": 35,
+      "wtrTypeBits": 268435455
+    },
+    {
+      "$id": 28,
+      "ID": "COND_ENV_TIME_NOT_D",
+      "timeRangeBits": 59,
+      "wtrTypeBits": 268435455
+    },
+    {
+      "$id": 29,
+      "ID": "COND_ENV_TIME_NOT_N",
+      "timeRangeBits": 47,
+      "wtrTypeBits": 268435455
+    },
+    {
+      "$id": 30,
+      "ID": "COND_ENV_ALL_FOG",
+      "timeRangeBits": 255,
+      "wtrTypeBits": 8
+    },
+    {
+      "$id": 31,
+      "ID": "COND_ENV_ALL_HEAVY_RAIN",
+      "timeRangeBits": 255,
+      "wtrTypeBits": 64
+    },
+    {
+      "$id": 32,
+      "ID": "COND_ENV_HEAT_WAVE",
+      "timeRangeBits": 255,
+      "wtrTypeBits": 128
+    },
+    {
+      "$id": 33,
+      "ID": "COND_ENV_ALL_SANDSTORM",
+      "timeRangeBits": 255,
+      "wtrTypeBits": 256
+    },
+    {
+      "$id": 34,
+      "ID": "COND_ENV_ALL_THUNDER_RAIN",
+      "timeRangeBits": 255,
+      "wtrTypeBits": 512
+    },
+    {
+      "$id": 35,
+      "ID": "COND_ENV_ALL_ELECTRO_STORM",
+      "timeRangeBits": 255,
+      "wtrTypeBits": 1024
+    },
+    {
+      "$id": 36,
+      "ID": "COND_ENV_ALL_LIGHT_PARTICLES_A",
+      "timeRangeBits": 255,
+      "wtrTypeBits": 2048
+    },
+    {
+      "$id": 37,
+      "ID": "COND_ENV_ALL_LIGHT_PARTICLES_B",
+      "timeRangeBits": 255,
+      "wtrTypeBits": 4096
+    },
+    {
+      "$id": 38,
+      "ID": "COND_ENV_ALL_FIRE_RAIN",
+      "timeRangeBits": 255,
+      "wtrTypeBits": 8192
+    },
+    {
+      "$id": 39,
+      "ID": "COND_ENV_ALL_AURORA",
+      "timeRangeBits": 255,
+      "wtrTypeBits": 32768
+    },
+    {
+      "$id": 40,
+      "ID": "COND_ENV_ALL_RED_AURORA",
+      "timeRangeBits": 255,
+      "wtrTypeBits": 65536
+    },
+    {
+      "$id": 41,
+      "ID": "COND_ENV_ALL_SPORE",
+      "timeRangeBits": 255,
+      "wtrTypeBits": 16384
+    },
+    {
+      "$id": 42,
+      "ID": "COND_ENV_ALL_METEOR_STREAM",
+      "timeRangeBits": 255,
+      "wtrTypeBits": 131072
+    },
+    {
+      "$id": 43,
+      "ID": "COND_ENV_ALL_RAINBOW",
+      "timeRangeBits": 255,
+      "wtrTypeBits": 262144
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "schema": [
+    {
+      "name": "ID",
+      "type": 9
+    },
+    {
+      "name": "PowerMin",
+      "type": 2
+    },
+    {
+      "name": "PowerMax",
+      "type": 2
+    },
+    {
+      "name": "RotMin",
+      "type": 5
+    },
+    {
+      "name": "RotMax",
+      "type": 5
+    },
+    {
+      "name": "EffScale",
+      "type": 1
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "ID": "PARTS_BREAK_S",
+      "PowerMin": 400,
+      "PowerMax": 1200,
+      "RotMin": 200,
+      "RotMax": 700,
+      "EffScale": 20
+    },
+    {
+      "$id": 2,
+      "ID": "PARTS_BREAK_M",
+      "PowerMin": 350,
+      "PowerMax": 1000,
+      "RotMin": 100,
+      "RotMax": 700,
+      "EffScale": 30
+    },
+    {
+      "$id": 3,
+      "ID": "PARTS_BREAK_L",
+      "PowerMin": 300,
+      "PowerMax": 1800,
+      "RotMin": 50,
+      "RotMax": 300,
+      "EffScale": 45
+    },
+    {
+      "$id": 4,
+      "ID": "PARTS_BREAK_LL",
+      "PowerMin": 300,
+      "PowerMax": 1600,
+      "RotMin": 50,
+      "RotMax": 150,
+      "EffScale": 60
+    },
+    {
+      "$id": 5,
+      "ID": "PARTS_BREAK_LLL",
+      "PowerMin": 300,
+      "PowerMax": 1600,
+      "RotMin": 0,
+      "RotMax": 50,
+      "EffScale": 120
+    }
+  ]
+}

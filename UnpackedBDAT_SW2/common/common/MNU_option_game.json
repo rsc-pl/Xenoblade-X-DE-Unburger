@@ -1,0 +1,210 @@
+{
+  "schema": [
+    {
+      "name": "ID",
+      "type": 9
+    },
+    {
+      "name": "name",
+      "type": 13
+    },
+    {
+      "name": "help",
+      "type": 13
+    },
+    {
+      "name": "hidden_condition",
+      "type": 2
+    },
+    {
+      "name": "grayout_condition",
+      "type": 2
+    },
+    {
+      "name": "control_type",
+      "type": 1
+    },
+    {
+      "name": "select_num",
+      "type": 1
+    },
+    {
+      "name": "default_value",
+      "type": 1
+    },
+    {
+      "name": "select_name1",
+      "type": 13
+    },
+    {
+      "name": "select_name2",
+      "type": 13
+    },
+    {
+      "name": "select_name3",
+      "type": 13
+    },
+    {
+      "name": "select_name4",
+      "type": 13
+    },
+    {
+      "name": "select_name5",
+      "type": 13
+    },
+    {
+      "name": "sort_no",
+      "type": 1
+    },
+    {
+      "name": "save_type",
+      "type": 1
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "ID": "OPTION_GAME_REMEMBER_CURSOR",
+      "name": 1,
+      "help": 103,
+      "hidden_condition": 0,
+      "grayout_condition": 0,
+      "control_type": 3,
+      "select_num": 2,
+      "default_value": 1,
+      "select_name1": 205,
+      "select_name2": 206,
+      "select_name3": 0,
+      "select_name4": 0,
+      "select_name5": 0,
+      "sort_no": 1,
+      "save_type": 1
+    },
+    {
+      "$id": 2,
+      "ID": "OPTION_GAME_VIBRATION",
+      "name": 2,
+      "help": 104,
+      "hidden_condition": 0,
+      "grayout_condition": 0,
+      "control_type": 3,
+      "select_num": 2,
+      "default_value": 1,
+      "select_name1": 205,
+      "select_name2": 206,
+      "select_name3": 0,
+      "select_name4": 0,
+      "select_name5": 0,
+      "sort_no": 2,
+      "save_type": 1
+    },
+    {
+      "$id": 3,
+      "ID": "OPTION_GAME_MENU_GUIDE",
+      "name": 102,
+      "help": 204,
+      "hidden_condition": 0,
+      "grayout_condition": 0,
+      "control_type": 3,
+      "select_num": 2,
+      "default_value": 1,
+      "select_name1": 205,
+      "select_name2": 206,
+      "select_name3": 0,
+      "select_name4": 0,
+      "select_name5": 0,
+      "sort_no": 3,
+      "save_type": 1
+    },
+    {
+      "$id": 4,
+      "ID": "OPTION_GAME_AUTO_QUEST_ACCEPT",
+      "name": 267,
+      "help": 268,
+      "hidden_condition": 0,
+      "grayout_condition": 0,
+      "control_type": 3,
+      "select_num": 2,
+      "default_value": 1,
+      "select_name1": 205,
+      "select_name2": 206,
+      "select_name3": 0,
+      "select_name4": 0,
+      "select_name5": 0,
+      "sort_no": 4,
+      "save_type": 1
+    },
+    {
+      "$id": 5,
+      "ID": "OPTION_GAME_AUTO_QUEST_NAVI",
+      "name": 3,
+      "help": 105,
+      "hidden_condition": 0,
+      "grayout_condition": 0,
+      "control_type": 3,
+      "select_num": 2,
+      "default_value": 0,
+      "select_name1": 205,
+      "select_name2": 206,
+      "select_name3": 0,
+      "select_name4": 0,
+      "select_name5": 0,
+      "sort_no": 5,
+      "save_type": 1
+    },
+    {
+      "$id": 6,
+      "ID": "OPTION_GAME_NAVI_BALL",
+      "name": 5,
+      "help": 107,
+      "hidden_condition": 8416,
+      "grayout_condition": 0,
+      "control_type": 1,
+      "select_num": 2,
+      "default_value": 1,
+      "select_name1": 207,
+      "select_name2": 208,
+      "select_name3": 0,
+      "select_name4": 0,
+      "select_name5": 0,
+      "sort_no": 6,
+      "save_type": 1
+    },
+    {
+      "$id": 7,
+      "ID": "OPTION_GAME_FPJUMP",
+      "name": 6,
+      "help": 108,
+      "hidden_condition": 0,
+      "grayout_condition": 0,
+      "control_type": 1,
+      "select_num": 2,
+      "default_value": 0,
+      "select_name1": 209,
+      "select_name2": 210,
+      "select_name3": 0,
+      "select_name4": 0,
+      "select_name5": 0,
+      "sort_no": 7,
+      "save_type": 1
+    },
+    {
+      "$id": 8,
+      "ID": "OPTION_GAME_CRUISE_MODE",
+      "name": 7,
+      "help": 109,
+      "hidden_condition": 0,
+      "grayout_condition": 0,
+      "control_type": 1,
+      "select_num": 2,
+      "default_value": 0,
+      "select_name1": 211,
+      "select_name2": 212,
+      "select_name3": 0,
+      "select_name4": 0,
+      "select_name5": 0,
+      "sort_no": 8,
+      "save_type": 1
+    }
+  ]
+}

@@ -24,7 +24,7 @@
       "$id": 2,
       "label": "SoulArts_P0102_name",
       "style": 31,
-      "name": "Inflict Stagger I"
+      "name": "Inflict Break I"
     },
     {
       "$id": 3,
@@ -42,13 +42,13 @@
       "$id": 5,
       "label": "SoulArts_P0202_name",
       "style": 31,
-      "name": "+1 tier to Buff Arts"
+      "name": "+1 tier to Buff Arts on success"
     },
     {
       "$id": 6,
       "label": "SoulArts_P0203_name",
       "style": 31,
-      "name": "+1 tier to Debuff Arts / Bypass debuff resistances"
+      "name": "+1 tier to Debuff Arts on success / Bypass debuff resistance"
     },
     {
       "$id": 7,
@@ -78,7 +78,7 @@
       "$id": 11,
       "label": "SoulArts_P0402_name",
       "style": 31,
-      "name": "+1 tier to Buff Arts"
+      "name": "+1 tier to Buff Arts on success"
     },
     {
       "$id": 12,
@@ -138,7 +138,7 @@
       "$id": 21,
       "label": "SoulArts_P0703_name",
       "style": 31,
-      "name": "+1 tier to Debuff Arts / Bypass debuff resistances"
+      "name": "+1 tier to Debuff Arts on success / Bypass debuff resistance"
     },
     {
       "$id": 22,
@@ -156,7 +156,7 @@
       "$id": 24,
       "label": "SoulArts_P0803_name",
       "style": 31,
-      "name": "+2 tiers to Debuff Arts / Bypass debuff resistances"
+      "name": "+2 tiers to Debuff Arts on success / Bypass debuff resistance"
     },
     {
       "$id": 25,
@@ -168,7 +168,7 @@
       "$id": 26,
       "label": "SoulArts_P0902_name",
       "style": 31,
-      "name": "+1 tier to Buff Arts / Gain Invincibility I"
+      "name": "+1 tier to Buff Arts on success / Gain Invincibility I"
     },
     {
       "$id": 27,
@@ -192,7 +192,7 @@
       "$id": 30,
       "label": "SoulArts_P1003_name",
       "style": 31,
-      "name": "+1 tier to Debuff Arts / Bypass debuff resistances"
+      "name": "+1 tier to Debuff Arts on success / Bypass debuff resistance"
     },
     {
       "$id": 31,
@@ -210,7 +210,7 @@
       "$id": 33,
       "label": "SoulArts_P1103_name",
       "style": 31,
-      "name": "+250 TP to target (50% chance of +500 TP)"
+      "name": "+250 TP to target / 50% chance of another +250 TP"
     },
     {
       "$id": 34,
@@ -228,7 +228,7 @@
       "$id": 36,
       "label": "SoulArts_P1203_name",
       "style": 31,
-      "name": "+1 tier to auras / Reduce cooldown by 50%"
+      "name": "+1 tier to Aura on success / Reduce cooldown by 50%"
     },
     {
       "$id": 37,
@@ -252,7 +252,7 @@
       "$id": 40,
       "label": "SoulArts_C0201_name",
       "style": 31,
-      "name": "Gain Decoy III"
+      "name": "Gain Fake Body III"
     },
     {
       "$id": 41,
@@ -300,13 +300,13 @@
       "$id": 48,
       "label": "SoulArts_C0403_name",
       "style": 31,
-      "name": "+3 tiers to Debuff Arts / Bypass debuff resistances"
+      "name": "+3 tiers to Debuff Arts on success / Bypass debuff resistance"
     },
     {
       "$id": 49,
       "label": "SoulArts_C0501_name",
       "style": 31,
-      "name": "Gain Terrain Immunity III"
+      "name": "Gain Terrain Damage Immunity III"
     },
     {
       "$id": 50,
@@ -324,7 +324,7 @@
       "$id": 52,
       "label": "SoulArts_C0601_name",
       "style": 31,
-      "name": "Inflict Fatigue I"
+      "name": "Inflict Power Down I"
     },
     {
       "$id": 53,
@@ -336,7 +336,7 @@
       "$id": 54,
       "label": "SoulArts_C0603_name",
       "style": 31,
-      "name": "Gain Supercharge II"
+      "name": "Gain Bullet Charge II"
     },
     {
       "$id": 55,
@@ -408,7 +408,7 @@
       "$id": 66,
       "label": "SoulArts_C1003_name",
       "style": 31,
-      "name": "+2 tiers to Debuff Arts / Bypass debuff resistances"
+      "name": "+2 tiers to Debuff Arts on success / Bypass debuff resistance"
     },
     {
       "$id": 67,
@@ -426,7 +426,7 @@
       "$id": 69,
       "label": "SoulArts_C1103_name",
       "style": 31,
-      "name": "+1 tier to Debuff Arts / Bypass debuff resistances"
+      "name": "+1 tier to Debuff Arts on success / Bypass debuff resistance"
     },
     {
       "$id": 70,
@@ -462,25 +462,25 @@
       "$id": 75,
       "label": "SoulArts_C1303_name",
       "style": 31,
-      "name": "+1 second to Bind duration per hit"
+      "name": "+1 second to Catch duration per hit"
     },
     {
       "$id": 76,
       "label": "SoulArts_C1401_name",
       "style": 31,
-      "name": "Restore 30% appendage HP"
+      "name": "Restore 30% HP to all Doll parts"
     },
     {
       "$id": 77,
       "label": "SoulArts_C1402_name",
       "style": 31,
-      "name": "+400% appendage damage"
+      "name": "+400% part damage"
     },
     {
       "$id": 78,
       "label": "SoulArts_C1403_name",
       "style": 31,
-      "name": "+200% appendage damage"
+      "name": "+200% part damage"
     },
     {
       "$id": 79,
@@ -498,7 +498,7 @@
       "$id": 81,
       "label": "SoulArts_C1503_name",
       "style": 31,
-      "name": "Restore 50% appendage HP / Full Art cooldown"
+      "name": "Restore 50% HP to all Doll parts / Finish all Art cooldowns"
     },
     {
       "$id": 82,
@@ -516,7 +516,7 @@
       "$id": 84,
       "label": "SoulArts_C1603_name",
       "style": 31,
-      "name": "Restore 10% fuel / Restore 10% appendage HP"
+      "name": "Restore 10% fuel / Restore 10% HP to all Doll parts"
     }
   ]
 }

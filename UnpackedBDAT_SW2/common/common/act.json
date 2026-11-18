@@ -1,0 +1,1422 @@
+{
+  "schema": [
+    {
+      "name": "ID",
+      "type": 9
+    },
+    {
+      "name": "name",
+      "type": 11
+    },
+    {
+      "name": "script",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "ID": "TEST_001",
+      "name": "実験001",
+      "script": "test_act_01"
+    },
+    {
+      "$id": 2,
+      "ID": "TEST_002",
+      "name": "実験002",
+      "script": "test_act_02"
+    },
+    {
+      "$id": 3,
+      "ID": "ACT_EN040201_01",
+      "name": "Atk1 DMビーム小",
+      "script": "act_en040201_01_dmbeams"
+    },
+    {
+      "$id": 4,
+      "ID": "ACT_EN040201_02",
+      "name": "Atk2 DMビーム大",
+      "script": "act_en040201_02_dmbeaml"
+    },
+    {
+      "$id": 5,
+      "ID": "ACT_EN040201_03",
+      "name": "Atk3 踏み潰し",
+      "script": "act_en040201_03_stamp"
+    },
+    {
+      "$id": 6,
+      "ID": "ACT_EN040201_04",
+      "name": "Atk4 遠吠え",
+      "script": "act_en040201_04_howl"
+    },
+    {
+      "$id": 7,
+      "ID": "ACT_EN040201_05",
+      "name": "Atk5 ボムニードル",
+      "script": "act_en040201_05_bombneedle"
+    },
+    {
+      "$id": 8,
+      "ID": "ACT_EN040101_01",
+      "name": "Atk1 引っ掻き右",
+      "script": "act_en040101_01_clawr"
+    },
+    {
+      "$id": 9,
+      "ID": "ACT_EN040101_02",
+      "name": "Atk2 引っ掻き左",
+      "script": "act_en040101_02_clawl"
+    },
+    {
+      "$id": 10,
+      "ID": "ACT_EN040101_03",
+      "name": "Atk3 酸攻撃",
+      "script": "act_en040101_03_acid"
+    },
+    {
+      "$id": 11,
+      "ID": "ACT_EN040101_04",
+      "name": "Atk4 組みつき",
+      "script": "act_en040101_04_grapple"
+    },
+    {
+      "$id": 12,
+      "ID": "ACT_EN040601_01",
+      "name": "Atk1 ジャンプ引っ掻き",
+      "script": "act_en040601_01_jump"
+    },
+    {
+      "$id": 13,
+      "ID": "ACT_EN040601_02",
+      "name": "Atk2 鳴く",
+      "script": "act_en040601_02_howl"
+    },
+    {
+      "$id": 14,
+      "ID": "ACT_EN040601_03",
+      "name": "Atk3 ひっかき",
+      "script": "act_en040601_03_claw"
+    },
+    {
+      "$id": 15,
+      "ID": "ACT_EN040601_10",
+      "name": "待機",
+      "script": "act_en040601_10_wait"
+    },
+    {
+      "$id": 16,
+      "ID": "ACT_EN040601_11",
+      "name": "エリア移動",
+      "script": "act_en040601_11_move"
+    },
+    {
+      "$id": 17,
+      "ID": "ACT_EN060501_01",
+      "name": "怒りのメガトンパンチ",
+      "script": "act_en060501_01"
+    },
+    {
+      "$id": 18,
+      "ID": "ACT_EN060501_02",
+      "name": "冷静のコングガトリング",
+      "script": "act_en060501_02"
+    },
+    {
+      "$id": 19,
+      "ID": "ACT_EN060501_03",
+      "name": "咆哮",
+      "script": "act_en060501_03"
+    },
+    {
+      "$id": 20,
+      "ID": "ACT_EN060501_04",
+      "name": "パンチ",
+      "script": "act_en060501_04"
+    },
+    {
+      "$id": 21,
+      "ID": "ACT_EN060501_05",
+      "name": "惑わしのテイルアタック",
+      "script": "act_en060501_05"
+    },
+    {
+      "$id": 22,
+      "ID": "ACT_EN060501_06",
+      "name": "岩石投げ",
+      "script": "act_en060501_06"
+    },
+    {
+      "$id": 23,
+      "ID": "ACT_EN060501_07",
+      "name": "ジャミングガス",
+      "script": "act_en060501_07"
+    },
+    {
+      "$id": 24,
+      "ID": "ACT_EN010601_A_ATK01",
+      "name": "怒髪天光線／炎蛇の筒／火炎虫／鬼下駄／膝隠し",
+      "script": "act_en010601_a_atk01"
+    },
+    {
+      "$id": 25,
+      "ID": "ACT_EN010601_A_ATK02",
+      "name": "焔三連／歪み三連",
+      "script": "act_en010601_a_atk02"
+    },
+    {
+      "$id": 26,
+      "ID": "ACT_EN010601_A_ATK03",
+      "name": "蜘蛛の糸／犍陀多の糸",
+      "script": "act_en010601_a_atk03"
+    },
+    {
+      "$id": 27,
+      "ID": "ACT_EN010601_A_ATK04",
+      "name": "不撓不屈",
+      "script": "act_en010601_a_atk04"
+    },
+    {
+      "$id": 28,
+      "ID": "ACT_EN010601_A_ATK05",
+      "name": "天砕き",
+      "script": "act_en010601_a_atk05"
+    },
+    {
+      "$id": 29,
+      "ID": "ACT_EN010601_A_ATK06",
+      "name": "毒霧の海",
+      "script": "act_en010601_a_atk06"
+    },
+    {
+      "$id": 30,
+      "ID": "ACT_EN010601_A_ATK07",
+      "name": "焔走り／歪み走り",
+      "script": "act_en010601_a_atk07"
+    },
+    {
+      "$id": 31,
+      "ID": "ACT_EN010601_B_ATK01",
+      "name": "火炎虫・飛行／乱れ光線／歪み波動",
+      "script": "act_en010601_b_atk01"
+    },
+    {
+      "$id": 32,
+      "ID": "ACT_EN010601_WAIT",
+      "name": "待ち（アイドリング）",
+      "script": "act_en010601_wait"
+    },
+    {
+      "$id": 33,
+      "ID": "ACT_EN010601_CHANGEMODE",
+      "name": "形態モード・チェンジ",
+      "script": "act_en010601_changemode"
+    },
+    {
+      "$id": 34,
+      "ID": "ACT_EN010601_CHANGEWEAPON",
+      "name": "武器チェンジ",
+      "script": "act_en010601_changeweapon"
+    },
+    {
+      "$id": 35,
+      "ID": "ACT_EN010601_ANGRY",
+      "name": "怒り",
+      "script": "act_en010601_angry"
+    },
+    {
+      "$id": 36,
+      "ID": "ACT_EN010601_ATKINMOVE",
+      "name": "移動中攻撃",
+      "script": "act_en010601_atkinmove"
+    },
+    {
+      "$id": 37,
+      "ID": "ACT_EN010601_WAITIDLE",
+      "name": "アイドル待ち",
+      "script": "act_en010601_waitidle"
+    },
+    {
+      "$id": 38,
+      "ID": "ACT_EN010601_MOVE",
+      "name": "移動（通常）",
+      "script": "act_en010601_move"
+    },
+    {
+      "$id": 39,
+      "ID": "ACT_EN010601_MOVETURN",
+      "name": "移動（ターン）",
+      "script": "act_en010601_moveturn"
+    },
+    {
+      "$id": 40,
+      "ID": "ACT_EN010601_MOVESATELLITE",
+      "name": "移動（サテライト）",
+      "script": "act_en010601_movesatellite"
+    },
+    {
+      "$id": 41,
+      "ID": "COM_WAIT",
+      "name": "汎用待機",
+      "script": "com_wait"
+    },
+    {
+      "$id": 42,
+      "ID": "COM_ATK",
+      "name": "汎用攻撃",
+      "script": "com_atk"
+    },
+    {
+      "$id": 43,
+      "ID": "COM_MOVE_RAND",
+      "name": "汎用ランダム移動",
+      "script": "com_move_rand"
+    },
+    {
+      "$id": 44,
+      "ID": "COM_MOVE_CIRCLE",
+      "name": "汎用空中移動",
+      "script": "com_move_circle"
+    },
+    {
+      "$id": 45,
+      "ID": "COM_MOVE_ROUTE",
+      "name": "汎用ルート移動",
+      "script": "com_move_route"
+    },
+    {
+      "$id": 46,
+      "ID": "ACT_EN070501_A_ATK01",
+      "name": "攻撃01",
+      "script": "act_en070501_a_atk01"
+    },
+    {
+      "$id": 47,
+      "ID": "ROUTE_PATROL",
+      "name": "哨戒移動",
+      "script": "route_patrol"
+    },
+    {
+      "$id": 48,
+      "ID": "ACT_EN070501_A_ATK02",
+      "name": "攻撃02",
+      "script": "act_en070501_a_atk02"
+    },
+    {
+      "$id": 49,
+      "ID": "ACT_EN070501_A_ATK03",
+      "name": "攻撃03",
+      "script": "act_en070501_a_atk03"
+    },
+    {
+      "$id": 50,
+      "ID": "ACT_EN070501_A_ATK04",
+      "name": "攻撃04",
+      "script": "act_en070501_a_atk04"
+    },
+    {
+      "$id": 51,
+      "ID": "COM_ANGRY",
+      "name": "汎用怒り",
+      "script": "com_angry"
+    },
+    {
+      "$id": 52,
+      "ID": "ACT_EN070501_MOVE",
+      "name": "移動",
+      "script": "act_en070501_move"
+    },
+    {
+      "$id": 53,
+      "ID": "ACT_EN010601_MOUNTWEAPON",
+      "name": "武器マウント",
+      "script": "act_en010601_mountweapon"
+    },
+    {
+      "$id": 54,
+      "ID": "ACT_IN000",
+      "name": "インナー戦闘開始",
+      "script": "act_in000"
+    },
+    {
+      "$id": 55,
+      "ID": "ACT_IN001",
+      "name": "インナーサテライト",
+      "script": "act_in001"
+    },
+    {
+      "$id": 56,
+      "ID": "ACT_IN900",
+      "name": "インナー戦闘終了",
+      "script": "act_in900"
+    },
+    {
+      "$id": 57,
+      "ID": "ACT_IN100",
+      "name": "インナーアーツ",
+      "script": "act_in100"
+    },
+    {
+      "$id": 58,
+      "ID": "ACT_IN200",
+      "name": "インナー武器切り替え",
+      "script": "act_in200"
+    },
+    {
+      "$id": 59,
+      "ID": "COM_MOVE_SATELLITE",
+      "name": "汎用サテライト移動",
+      "script": "com_move_satellite"
+    },
+    {
+      "$id": 60,
+      "ID": "COM_TURN_WAIT",
+      "name": "ターゲットを向いて待機（待機になったら追従しない）",
+      "script": "com_turn_wait"
+    },
+    {
+      "$id": 61,
+      "ID": "ACT_IN201",
+      "name": "インナー戦闘不能回復",
+      "script": "act_in201"
+    },
+    {
+      "$id": 62,
+      "ID": "ACT_EN070801_A_ATK01",
+      "name": "攻撃Ａ01",
+      "script": "act_en070801_a_atk01"
+    },
+    {
+      "$id": 63,
+      "ID": "ACT_EN070801_B_ATK01",
+      "name": "攻撃Ｂ01",
+      "script": "act_en070801_b_atk01"
+    },
+    {
+      "$id": 64,
+      "ID": "ACT_EN070801_CHANGEMODE",
+      "name": "形態モード・チェンジ",
+      "script": "act_en070801_changemode"
+    },
+    {
+      "$id": 65,
+      "ID": "ACT_EN070801_MOVERISEDESCEND",
+      "name": "移動（上昇／下降）",
+      "script": "act_en070801_moverisedescend"
+    },
+    {
+      "$id": 66,
+      "ID": "ACT_EN013001_ATK01",
+      "name": "マスクレーザー",
+      "script": "act_en013001_atk01"
+    },
+    {
+      "$id": 67,
+      "ID": "ACT_EN013001_ATK02",
+      "name": "回転キック",
+      "script": "act_en013001_atk02"
+    },
+    {
+      "$id": 68,
+      "ID": "ACT_EN013001_ATK03",
+      "name": "相棒召還",
+      "script": "act_en013001_atk03"
+    },
+    {
+      "$id": 69,
+      "ID": "ACT_EN013001_ATK04",
+      "name": "森羅万象",
+      "script": "act_en013001_atk04"
+    },
+    {
+      "$id": 70,
+      "ID": "ACT_EN013001_ATK05",
+      "name": "白き閃光",
+      "script": "act_en013001_atk05"
+    },
+    {
+      "$id": 71,
+      "ID": "ACT_EN013001_ATK06",
+      "name": "言霊",
+      "script": "act_en013001_atk06"
+    },
+    {
+      "$id": 72,
+      "ID": "ACT_EN013001_ATK07",
+      "name": "再生ナノマシン",
+      "script": "act_en013001_atk07"
+    },
+    {
+      "$id": 73,
+      "ID": "ACT_EN013001_ATK08",
+      "name": "部位シールド",
+      "script": "act_en013001_atk08"
+    },
+    {
+      "$id": 74,
+      "ID": "ACT_EN013001_ATK09",
+      "name": "超絶強化",
+      "script": "act_en013001_atk09"
+    },
+    {
+      "$id": 75,
+      "ID": "ACT_EN013001_ATK10",
+      "name": "黒き閃光",
+      "script": "act_en013001_atk10"
+    },
+    {
+      "$id": 76,
+      "ID": "ACT_EN013001_ATK11",
+      "name": "ソニックラム",
+      "script": "act_en013001_atk11"
+    },
+    {
+      "$id": 77,
+      "ID": "ACT_EN013001_ATK12",
+      "name": "重力波動",
+      "script": "act_en013001_atk12"
+    },
+    {
+      "$id": 78,
+      "ID": "ACT_EN013001_ATK13",
+      "name": "ロッドコンボ",
+      "script": "act_en013001_atk13"
+    },
+    {
+      "$id": 79,
+      "ID": "ACT_EN013001_ATK14",
+      "name": "妨害粒子散布",
+      "script": "act_en013001_atk14"
+    },
+    {
+      "$id": 80,
+      "ID": "ACT_EN013001_ATK15",
+      "name": "DM吸収",
+      "script": "act_en013001_atk15"
+    },
+    {
+      "$id": 81,
+      "ID": "ACT_EN013001_WAIT",
+      "name": "待機処理",
+      "script": "act_en013001_wait"
+    },
+    {
+      "$id": 82,
+      "ID": "ACT_EN013001_DEAD_PARTNER",
+      "name": "相方死亡時の処理",
+      "script": "act_en013001_dead_partner"
+    },
+    {
+      "$id": 83,
+      "ID": "ACT_EN013001_ANGRY",
+      "name": "怒り",
+      "script": "act_en013001_angry"
+    },
+    {
+      "$id": 84,
+      "ID": "ACT_IN010",
+      "name": "インナー追従",
+      "script": "act_in010"
+    },
+    {
+      "$id": 85,
+      "ID": "ACT_EN010301_A_ATK01",
+      "name": "攻撃Ａ01",
+      "script": "act_en010301_a_atk01"
+    },
+    {
+      "$id": 86,
+      "ID": "ACT_EN010301_A_ATK02",
+      "name": "攻撃Ａ02",
+      "script": "act_en010301_a_atk02"
+    },
+    {
+      "$id": 87,
+      "ID": "ACT_EN010301_A_ATK03",
+      "name": "攻撃Ａ03",
+      "script": "act_en010301_a_atk03"
+    },
+    {
+      "$id": 88,
+      "ID": "ACT_EN010301_A_ATK04",
+      "name": "攻撃Ａ04",
+      "script": "act_en010301_a_atk04"
+    },
+    {
+      "$id": 89,
+      "ID": "ACT_EN010301_B_ATK01",
+      "name": "攻撃Ｂ01",
+      "script": "act_en010301_b_atk01"
+    },
+    {
+      "$id": 90,
+      "ID": "ACT_EN010301_B_ATK02",
+      "name": "攻撃Ｂ02",
+      "script": "act_en010301_b_atk02"
+    },
+    {
+      "$id": 91,
+      "ID": "ACT_EN010301_B_ATK03",
+      "name": "攻撃Ｂ03",
+      "script": "act_en010301_b_atk03"
+    },
+    {
+      "$id": 92,
+      "ID": "ACT_EN010301_CHANGEMODE",
+      "name": "形態モード・チェンジ",
+      "script": "act_en010301_changemode"
+    },
+    {
+      "$id": 93,
+      "ID": "ACT_EN010701_A_ATK01",
+      "name": "主砲砲撃",
+      "script": "act_en010701_a_atk01"
+    },
+    {
+      "$id": 94,
+      "ID": "ACT_EN010701_A_ATK02",
+      "name": "リングレーザー",
+      "script": "act_en010701_a_atk02"
+    },
+    {
+      "$id": 95,
+      "ID": "ACT_EN010701_A_ATK03",
+      "name": "転移砲",
+      "script": "act_en010701_a_atk03"
+    },
+    {
+      "$id": 96,
+      "ID": "ACT_EN010701_A_ATK04",
+      "name": "トライデント",
+      "script": "act_en010701_a_atk04"
+    },
+    {
+      "$id": 97,
+      "ID": "ACT_EN010701_A_ATK05",
+      "name": "ハンドミサイル",
+      "script": "act_en010701_a_atk05"
+    },
+    {
+      "$id": 98,
+      "ID": "ACT_EN010701_A_ATK06",
+      "name": "サウザンドミサイル",
+      "script": "act_en010701_a_atk06"
+    },
+    {
+      "$id": 99,
+      "ID": "ACT_EN010701_A_ATK07",
+      "name": "放電",
+      "script": "act_en010701_a_atk07"
+    },
+    {
+      "$id": 100,
+      "ID": "ACT_EN010701_A_ATK08",
+      "name": "フィールドジェネレーター",
+      "script": "act_en010701_a_atk08"
+    },
+    {
+      "$id": 101,
+      "ID": "ACT_EN010701_A_ATK09",
+      "name": "自己強化",
+      "script": "act_en010701_a_atk09"
+    },
+    {
+      "$id": 102,
+      "ID": "ACT_EN010701_A_ATK10",
+      "name": "艦載機呼び出し",
+      "script": "act_en010701_a_atk10"
+    },
+    {
+      "$id": 103,
+      "ID": "ACT_EN010701_A_ATK11",
+      "name": "左前膝レーザー",
+      "script": "act_en010701_a_atk11"
+    },
+    {
+      "$id": 104,
+      "ID": "ACT_EN010701_A_ATK12",
+      "name": "右前膝レーザー",
+      "script": "act_en010701_a_atk12"
+    },
+    {
+      "$id": 105,
+      "ID": "ACT_EN010701_A_ATK13",
+      "name": "左後膝レーザー",
+      "script": "act_en010701_a_atk13"
+    },
+    {
+      "$id": 106,
+      "ID": "ACT_EN010701_A_ATK14",
+      "name": "右後膝レーザー",
+      "script": "act_en010701_a_atk14"
+    },
+    {
+      "$id": 107,
+      "ID": "ACT_EN010701_A_ATK15",
+      "name": "真後膝レーザー",
+      "script": "act_en010701_a_atk15"
+    },
+    {
+      "$id": 108,
+      "ID": "ACT_EN010701_A_ATK16",
+      "name": "移動攻撃①",
+      "script": "act_en010701_a_atk16"
+    },
+    {
+      "$id": 109,
+      "ID": "ACT_EN010701_A_ATK17",
+      "name": "移動攻撃②",
+      "script": "act_en010701_a_atk17"
+    },
+    {
+      "$id": 110,
+      "ID": "ACT_EN010701_A_ATK18",
+      "name": "移動攻撃③　橋壊し",
+      "script": "act_en010701_a_atk18"
+    },
+    {
+      "$id": 111,
+      "ID": "ACT_EN010701_A_ATK19",
+      "name": "主砲砲撃2",
+      "script": "act_en010701_a_atk19"
+    },
+    {
+      "$id": 112,
+      "ID": "ACT_EN010701_B_ATK01",
+      "name": "主砲砲弾",
+      "script": "act_en010701_b_atk01"
+    },
+    {
+      "$id": 113,
+      "ID": "ACT_EN010701_B_ATK02",
+      "name": "リングレーザー",
+      "script": "act_en010701_b_atk02"
+    },
+    {
+      "$id": 114,
+      "ID": "ACT_EN010701_B_ATK03",
+      "name": "トライデント放電",
+      "script": "act_en010701_b_atk03"
+    },
+    {
+      "$id": 115,
+      "ID": "ACT_EN010701_B_ATK04",
+      "name": "サウザンドミサイル",
+      "script": "act_en010701_b_atk04"
+    },
+    {
+      "$id": 116,
+      "ID": "ACT_EN010701_B_ATK05",
+      "name": "ハイパージャマー",
+      "script": "act_en010701_b_atk05"
+    },
+    {
+      "$id": 117,
+      "ID": "ACT_EN010701_B_ATK06",
+      "name": "左前膝レーザー",
+      "script": "act_en010701_b_atk06"
+    },
+    {
+      "$id": 118,
+      "ID": "ACT_EN010701_B_ATK07",
+      "name": "右前膝レーザー",
+      "script": "act_en010701_b_atk07"
+    },
+    {
+      "$id": 119,
+      "ID": "ACT_EN010701_B_ATK08",
+      "name": "左後膝レーザー",
+      "script": "act_en010701_b_atk08"
+    },
+    {
+      "$id": 120,
+      "ID": "ACT_EN010701_B_ATK09",
+      "name": "右後膝レーザー",
+      "script": "act_en010701_b_atk09"
+    },
+    {
+      "$id": 121,
+      "ID": "ACT_EN010701_B_ATK10",
+      "name": "真後膝レーザー",
+      "script": "act_en010701_b_atk10"
+    },
+    {
+      "$id": 122,
+      "ID": "ACT_EN010701_B_ATK11",
+      "name": "艦載機呼び出し",
+      "script": "act_en010701_b_atk11"
+    },
+    {
+      "$id": 123,
+      "ID": "ACT_EN010701_WAIT",
+      "name": "待機処理",
+      "script": "act_en010701_wait"
+    },
+    {
+      "$id": 124,
+      "ID": "ACT_EN010701_ROUTE",
+      "name": "ルート移動",
+      "script": "act_en010701_route"
+    },
+    {
+      "$id": 125,
+      "ID": "ACT_EN010701_TURN",
+      "name": "旋回",
+      "script": "act_en010701_turn"
+    },
+    {
+      "$id": 126,
+      "ID": "ACT_EN070901_ATK01",
+      "name": "エーテルブレイカー",
+      "script": "act_en070901_atk01"
+    },
+    {
+      "$id": 127,
+      "ID": "ACT_EN070901_ATK02",
+      "name": "ビッグバン",
+      "script": "act_en070901_atk02"
+    },
+    {
+      "$id": 128,
+      "ID": "ACT_EN070901_ATK03",
+      "name": "エーテルストーム",
+      "script": "act_en070901_atk03"
+    },
+    {
+      "$id": 129,
+      "ID": "ACT_EN070901_ATK04",
+      "name": "コレダーX",
+      "script": "act_en070901_atk04"
+    },
+    {
+      "$id": 130,
+      "ID": "ACT_EN070901_ATK05",
+      "name": "スリープマインド",
+      "script": "act_en070901_atk05"
+    },
+    {
+      "$id": 131,
+      "ID": "ACT_EN070901_ATK06",
+      "name": "拡散エーテル砲",
+      "script": "act_en070901_atk06"
+    },
+    {
+      "$id": 132,
+      "ID": "ACT_EN070901_ATK07",
+      "name": "エーテルバリア",
+      "script": "act_en070901_atk07"
+    },
+    {
+      "$id": 133,
+      "ID": "ACT_EN070901_ATK08",
+      "name": "攻性エーテル",
+      "script": "act_en070901_atk08"
+    },
+    {
+      "$id": 134,
+      "ID": "ACT_EN070901_ATK09",
+      "name": "DM吸収",
+      "script": "act_en070901_atk09"
+    },
+    {
+      "$id": 135,
+      "ID": "ACT_EN070901_ATK10",
+      "name": "ネゲントロピー",
+      "script": "act_en070901_atk10"
+    },
+    {
+      "$id": 136,
+      "ID": "ACT_EN070901_ATK11",
+      "name": "エーテル弾",
+      "script": "act_en070901_atk11"
+    },
+    {
+      "$id": 137,
+      "ID": "ACT_EN070901_ATK12",
+      "name": "反物質光線",
+      "script": "act_en070901_atk12"
+    },
+    {
+      "$id": 138,
+      "ID": "ACT_EN070901_ATK13",
+      "name": "反物質爆発",
+      "script": "act_en070901_atk13"
+    },
+    {
+      "$id": 139,
+      "ID": "ACT_EN070901_ATK14",
+      "name": "テイルアタック",
+      "script": "act_en070901_atk14"
+    },
+    {
+      "$id": 140,
+      "ID": "ACT_EN070901_ATK15",
+      "name": "コレダーX",
+      "script": "act_en070901_atk15"
+    },
+    {
+      "$id": 141,
+      "ID": "ACT_EN070901_ATK16",
+      "name": "テレシアロア",
+      "script": "act_en070901_atk16"
+    },
+    {
+      "$id": 142,
+      "ID": "ACT_EN070901_ATK17",
+      "name": "拡散エーテル砲",
+      "script": "act_en070901_atk17"
+    },
+    {
+      "$id": 143,
+      "ID": "ACT_EN070901_ATK18",
+      "name": "思考読み",
+      "script": "act_en070901_atk18"
+    },
+    {
+      "$id": 144,
+      "ID": "ACT_EN070901_ATK19",
+      "name": "テレシアゾーン",
+      "script": "act_en070901_atk19"
+    },
+    {
+      "$id": 145,
+      "ID": "ACT_EN070901_ATK20",
+      "name": "DM吸収",
+      "script": "act_en070901_atk20"
+    },
+    {
+      "$id": 146,
+      "ID": "ACT_EN070901_ATK21",
+      "name": "部位再生",
+      "script": "act_en070901_atk21"
+    },
+    {
+      "$id": 147,
+      "ID": "ACT_EN070901_ATK22",
+      "name": "ネゲントロピー",
+      "script": "act_en070901_atk22"
+    },
+    {
+      "$id": 148,
+      "ID": "ACT_EN070901_ATK23",
+      "name": "薙ぎ払い",
+      "script": "act_en070901_atk23"
+    },
+    {
+      "$id": 149,
+      "ID": "ACT_EN070901_ATK24",
+      "name": "エーテル弾",
+      "script": "act_en070901_atk24"
+    },
+    {
+      "$id": 150,
+      "ID": "ACT_EN070901_ATK25",
+      "name": "オールブレイカー",
+      "script": "act_en070901_atk25"
+    },
+    {
+      "$id": 151,
+      "ID": "ACT_EN070901_ATK26",
+      "name": "ビッグリップ",
+      "script": "act_en070901_atk26"
+    },
+    {
+      "$id": 152,
+      "ID": "ACT_EN070901_ATK27",
+      "name": "テレシアの怒り",
+      "script": "act_en070901_atk27"
+    },
+    {
+      "$id": 153,
+      "ID": "ACT_EN070901_WAIT",
+      "name": "待機処理",
+      "script": "act_en070901_wait"
+    },
+    {
+      "$id": 154,
+      "ID": "ACT_EN070901_ROUTE",
+      "name": "ルート移動",
+      "script": "act_en070901_route"
+    },
+    {
+      "$id": 155,
+      "ID": "ACT_EN070901_CHANGE_MODE",
+      "name": "モード切り替え",
+      "script": "act_en070901_change_mode"
+    },
+    {
+      "$id": 156,
+      "ID": "ACT_EN070901_ANGRY",
+      "name": "怒り",
+      "script": "act_en070901_angry"
+    },
+    {
+      "$id": 157,
+      "ID": "ACT_EN061101_ATK01",
+      "name": "太陽の中の太陽",
+      "script": "act_en061101_atk01"
+    },
+    {
+      "$id": 158,
+      "ID": "ACT_EN061101_ATK02",
+      "name": "世界の中心で叫ぶ獣",
+      "script": "act_en061101_atk02"
+    },
+    {
+      "$id": 159,
+      "ID": "ACT_EN061101_ATK03",
+      "name": "神の火",
+      "script": "act_en061101_atk03"
+    },
+    {
+      "$id": 160,
+      "ID": "ACT_EN061101_ATK04",
+      "name": "空間破壊",
+      "script": "act_en061101_atk04"
+    },
+    {
+      "$id": 161,
+      "ID": "ACT_EN061101_ATK05",
+      "name": "胸部粒子砲",
+      "script": "act_en061101_atk05"
+    },
+    {
+      "$id": 162,
+      "ID": "ACT_EN061101_ATK06",
+      "name": "六道拳",
+      "script": "act_en061101_atk06"
+    },
+    {
+      "$id": 163,
+      "ID": "ACT_EN061101_ATK07",
+      "name": "肉塊噴進弾",
+      "script": "act_en061101_atk07"
+    },
+    {
+      "$id": 164,
+      "ID": "ACT_EN061101_ATK08",
+      "name": "人形使い",
+      "script": "act_en061101_atk08"
+    },
+    {
+      "$id": 165,
+      "ID": "ACT_EN061101_ATK09",
+      "name": "DM吸収",
+      "script": "act_en061101_atk09"
+    },
+    {
+      "$id": 166,
+      "ID": "ACT_EN061101_ATK10",
+      "name": "獅子心",
+      "script": "act_en061101_atk10"
+    },
+    {
+      "$id": 167,
+      "ID": "ACT_EN061101_ATK11",
+      "name": "電気羊の夢",
+      "script": "act_en061101_atk11"
+    },
+    {
+      "$id": 168,
+      "ID": "ACT_EN061101_ATK12",
+      "name": "コレダー",
+      "script": "act_en061101_atk12"
+    },
+    {
+      "$id": 169,
+      "ID": "ACT_EN061101_ATK13",
+      "name": "さだめは死",
+      "script": "act_en061101_atk13"
+    },
+    {
+      "$id": 170,
+      "ID": "ACT_EN061101_ATK14",
+      "name": "悪魔の右手",
+      "script": "act_en061101_atk14"
+    },
+    {
+      "$id": 171,
+      "ID": "ACT_EN061101_ATK15",
+      "name": "キメラ召還",
+      "script": "act_en061101_atk15"
+    },
+    {
+      "$id": 172,
+      "ID": "ACT_EN061101_ATK16",
+      "name": "酸吐き出し",
+      "script": "act_en061101_atk16"
+    },
+    {
+      "$id": 173,
+      "ID": "ACT_EN061101_ATK17",
+      "name": "左パンチ",
+      "script": "act_en061101_atk17"
+    },
+    {
+      "$id": 174,
+      "ID": "ACT_EN061101_WAIT",
+      "name": "待機処理",
+      "script": "act_en061101_wait"
+    },
+    {
+      "$id": 175,
+      "ID": "COM_ATK_APPEND",
+      "name": "汎用攻撃（機能追加版）",
+      "script": "com_atk_append"
+    },
+    {
+      "$id": 176,
+      "ID": "COM_MOVE_FORMATION",
+      "name": "フォーメーション行動",
+      "script": "com_move_formation"
+    },
+    {
+      "$id": 177,
+      "ID": "COM_MOVE_RAND_FORMATION",
+      "name": "フォーメーション用ランダム移動",
+      "script": "com_move_rand_formation"
+    },
+    {
+      "$id": 178,
+      "ID": "ACT_DL_0100",
+      "name": "ドール　キャッチリクエスト",
+      "script": "act_dl_0100"
+    },
+    {
+      "$id": 179,
+      "ID": "ACT_DL_0110",
+      "name": "ドール　キャッチ用接近",
+      "script": "act_dl_0110"
+    },
+    {
+      "$id": 180,
+      "ID": "ACT_DL_0200",
+      "name": "ドール　ハイパーモード発動",
+      "script": "act_dl_0200"
+    },
+    {
+      "$id": 181,
+      "ID": "ACT_DL_0300",
+      "name": "ドール　汎用ターゲット接近",
+      "script": "act_dl_0300"
+    },
+    {
+      "$id": 182,
+      "ID": "ACT_DL_0310",
+      "name": "ドール　サテライト移動",
+      "script": "act_dl_0310"
+    },
+    {
+      "$id": 183,
+      "ID": "ACT_IN_0100",
+      "name": "インナー　汎用ターゲット接近",
+      "script": "act_in_0100"
+    },
+    {
+      "$id": 184,
+      "ID": "ACT_IN_0200",
+      "name": "インナー　ギアリクエスト",
+      "script": "act_in_0200"
+    },
+    {
+      "$id": 185,
+      "ID": "ACT_IN_0300",
+      "name": "インナー　ドール乗機（フィールド用）",
+      "script": "act_in_0300"
+    },
+    {
+      "$id": 186,
+      "ID": "COM_POWER_UP",
+      "name": "ステータス増減",
+      "script": "com_power_up"
+    },
+    {
+      "$id": 187,
+      "ID": "ACT_DL_0400",
+      "name": "ドール用　蘇生行動",
+      "script": "act_dl_0400"
+    },
+    {
+      "$id": 188,
+      "ID": "ACT_IN_0400",
+      "name": "インナー用　蘇生行動",
+      "script": "act_in_0400"
+    },
+    {
+      "$id": 189,
+      "ID": "ACT_DL_0500",
+      "name": "ドール用　ドール降機（フィールド用）",
+      "script": "act_dl_0500"
+    },
+    {
+      "$id": 190,
+      "ID": "ACT_DL_0510",
+      "name": "ドール用　ドール降機（バトル用）",
+      "script": "act_dl_0510"
+    },
+    {
+      "$id": 191,
+      "ID": "ACT_IN_0310",
+      "name": "インナー　ドール乗機（バトル用）",
+      "script": "act_in_0310"
+    },
+    {
+      "$id": 192,
+      "ID": "ACT_IN_0110",
+      "name": "インナー　サテライト移動",
+      "script": "act_in_0110"
+    },
+    {
+      "$id": 193,
+      "ID": "ACT_PCAI_0100",
+      "name": "ドール、インナー共通　待機",
+      "script": "act_pcai_0100"
+    },
+    {
+      "$id": 194,
+      "ID": "COM_IDLE",
+      "name": "汎用アイドリング",
+      "script": "com_idle"
+    },
+    {
+      "$id": 195,
+      "ID": "COM_APPROACH",
+      "name": "汎用接近",
+      "script": "com_approach"
+    },
+    {
+      "$id": 196,
+      "ID": "COM_HEAL_PARTS",
+      "name": "エネミーのパーツＨＰを全快",
+      "script": "com_heal_parts"
+    },
+    {
+      "$id": 197,
+      "ID": "ACT_EN070501_SQ003_ATK01",
+      "name": "SQ003 触手龍：触手回復",
+      "script": "act_en070501_sq003_atk01"
+    },
+    {
+      "$id": 198,
+      "ID": "ACT_EN070602_SQ003_ATK01",
+      "name": "SQ003 機雷風船クラゲ：自爆",
+      "script": "act_en070602_sq003_atk01"
+    },
+    {
+      "$id": 199,
+      "ID": "ACT_EN013001_SQ004_ATK01",
+      "name": "SQ004 ニールネール(白)：時間変更",
+      "script": "act_en013001_sq004_atk01"
+    },
+    {
+      "$id": 200,
+      "ID": "COM_OVER_HEAD",
+      "name": "汎用頭上移動",
+      "script": "com_over_head"
+    },
+    {
+      "$id": 201,
+      "ID": "COM_TURN_DEG",
+      "name": "汎用旋回(角度指定)",
+      "script": "com_turn_deg"
+    },
+    {
+      "$id": 202,
+      "ID": "ACT_EN012501_SQ014_APPROACH",
+      "name": "SQ014 サマールガードメカ大：接近行動",
+      "script": "act_en012501_sq014_approach"
+    },
+    {
+      "$id": 203,
+      "ID": "ACT_IN_0500",
+      "name": "インナー用　水中（泳ぎ）からの復帰",
+      "script": "act_in_0500"
+    },
+    {
+      "$id": 204,
+      "ID": "ACT_PCAI_0200",
+      "name": "インナー＆ドール　集合",
+      "script": "act_pcai_0200"
+    },
+    {
+      "$id": 205,
+      "ID": "ACT_EN041001_SQ010_ROUTE",
+      "name": "SQ010 サンドウォーム：指定ポイント移動",
+      "script": "act_en041001_sq010_route"
+    },
+    {
+      "$id": 206,
+      "ID": "COM_ATK_GIMMICK",
+      "name": "攻撃＋ギミック起動（橋破壊で使用）",
+      "script": "com_atk_gimmick"
+    },
+    {
+      "$id": 207,
+      "ID": "COM_ADD_STATUS",
+      "name": "汎用ステータス変更",
+      "script": "com_add_status"
+    },
+    {
+      "$id": 208,
+      "ID": "COM_ADD_RESIST",
+      "name": "汎用耐性変更",
+      "script": "com_add_resist"
+    },
+    {
+      "$id": 209,
+      "ID": "ACT_EN070901_WE_DESCENT",
+      "name": "WEテレシア：下降行動",
+      "script": "act_en070901_we_descent"
+    },
+    {
+      "$id": 210,
+      "ID": "COM_CHANGE_MODE",
+      "name": "形態モード武器モード・チェンジ",
+      "script": "com_change_mode"
+    },
+    {
+      "$id": 211,
+      "ID": "COM_MOUNT_WEAPON",
+      "name": "武器の納刀",
+      "script": "com_mount_weapon"
+    },
+    {
+      "$id": 212,
+      "ID": "COM_MOVE_DOWN",
+      "name": "汎用下降",
+      "script": "com_move_down"
+    },
+    {
+      "$id": 213,
+      "ID": "COM_ATK_PC",
+      "name": "ＰＣ用のコムアタック",
+      "script": "com_atk_pc"
+    },
+    {
+      "$id": 214,
+      "ID": "COM_ATK_REPAIR",
+      "name": "汎用パーツ回復アーツ",
+      "script": "com_atk_repair"
+    },
+    {
+      "$id": 215,
+      "ID": "COM_APPROACH_FLY",
+      "name": "汎用接近：空中版",
+      "script": "com_approach_fly"
+    },
+    {
+      "$id": 216,
+      "ID": "COM_MOVE_POINT",
+      "name": "汎用ポイント移動",
+      "script": "com_move_point"
+    },
+    {
+      "$id": 217,
+      "ID": "COM_TALK",
+      "name": "汎用トーク",
+      "script": "com_talk"
+    },
+    {
+      "$id": 218,
+      "ID": "COM_TURN_MOVE",
+      "name": "汎用旋回後接敵",
+      "script": "com_turn_move"
+    },
+    {
+      "$id": 219,
+      "ID": "COM_ATK_SUMMON",
+      "name": "汎用召喚アーツ",
+      "script": "com_atk_summon"
+    },
+    {
+      "$id": 220,
+      "ID": "ACT_GUEST_MOVE",
+      "name": "タツ用移動",
+      "script": "act_guest_move"
+    },
+    {
+      "$id": 221,
+      "ID": "COM_STEALTH",
+      "name": "ステルスモード切替",
+      "script": "com_stealth"
+    },
+    {
+      "$id": 222,
+      "ID": "COM_ATK_TALK",
+      "name": "汎用トークアーツ",
+      "script": "com_atk_talk"
+    },
+    {
+      "$id": 223,
+      "ID": "ACT_EN010601_M09_IDLE",
+      "name": "ヴァサラ専用ＡＣＴ",
+      "script": "act_en010601_m09_idle"
+    },
+    {
+      "$id": 224,
+      "ID": "ACT_EN020901_EC_IDLE",
+      "name": "バイアス最強の男「ダダン」専用ＡＣＴ",
+      "script": "act_en020901_ec_idle"
+    },
+    {
+      "$id": 225,
+      "ID": "ACT_IN_0112",
+      "name": "インナーワープ",
+      "script": "act_in_0112"
+    },
+    {
+      "$id": 226,
+      "ID": "COM_TALK_CHANGE_MODE",
+      "name": "汎用トークモードチェンジ",
+      "script": "com_talk_change_mode"
+    },
+    {
+      "$id": 227,
+      "ID": "COM_ATK_WEATHER",
+      "name": "汎用アーツ天候変更",
+      "script": "com_atk_weather"
+    },
+    {
+      "$id": 228,
+      "ID": "COM_MOVE_ROUTE_POINT",
+      "name": "汎用ルートポイント移動",
+      "script": "com_move_route_point"
+    },
+    {
+      "$id": 229,
+      "ID": "COM_TELOP",
+      "name": "汎用テロップ",
+      "script": "com_telop"
+    },
+    {
+      "$id": 230,
+      "ID": "COM_ATK_TELOP",
+      "name": "汎用テロップアーツ",
+      "script": "com_atk_telop"
+    },
+    {
+      "$id": 231,
+      "ID": "COM_ANGRY_TELOP",
+      "name": "汎用テロップ怒り",
+      "script": "com_angry_telop"
+    },
+    {
+      "$id": 232,
+      "ID": "COM_TELOP_ALLPLAYERS",
+      "name": "汎用テロップ (マルチクエスト用)",
+      "script": "com_telop_allplayers"
+    },
+    {
+      "$id": 233,
+      "ID": "COM_ATK_TELOP_ALLPLAYERS",
+      "name": "汎用テロップアーツ (マルチクエスト用)",
+      "script": "com_atk_telop_allplayers"
+    },
+    {
+      "$id": 234,
+      "ID": "COM_ANGRY_TELOP_ALLPLAYERS",
+      "name": "汎用テロップ怒り (マルチクエスト用)",
+      "script": "com_angry_telop_allplayers"
+    }
+  ]
+}

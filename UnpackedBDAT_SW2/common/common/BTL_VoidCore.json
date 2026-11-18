@@ -1,0 +1,104 @@
+{
+  "schema": [
+    {
+      "name": "ID",
+      "type": 9
+    },
+    {
+      "name": "Delay",
+      "type": 1
+    },
+    {
+      "name": "Reaction",
+      "type": 2
+    },
+    {
+      "name": "Lv",
+      "type": 1
+    },
+    {
+      "name": "RataDamage",
+      "type": 1
+    },
+    {
+      "name": "Effect",
+      "type": 7
+    },
+    {
+      "name": "EFP",
+      "type": 7
+    },
+    {
+      "name": "SE",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "ID": "CORE_ATTACK_01",
+      "Delay": 20,
+      "Reaction": 5,
+      "Lv": 2,
+      "RataDamage": 6,
+      "Effect": "en_780101_cmn32",
+      "EFP": "EFP_ATK_003",
+      "SE": "en780101_A_BTL_114"
+    },
+    {
+      "$id": 2,
+      "ID": "CORE_ATTACK_02",
+      "Delay": 20,
+      "Reaction": 5,
+      "Lv": 3,
+      "RataDamage": 8,
+      "Effect": "en_780101_cmn32",
+      "EFP": "EFP_ATK_003",
+      "SE": "en780101_A_BTL_114"
+    },
+    {
+      "$id": 3,
+      "ID": "CORE_ATTACK_03",
+      "Delay": 20,
+      "Reaction": 5,
+      "Lv": 4,
+      "RataDamage": 10,
+      "Effect": "en_780101_cmn32",
+      "EFP": "EFP_ATK_003",
+      "SE": "en780101_A_BTL_114"
+    },
+    {
+      "$id": 4,
+      "ID": "CORE_ATTACK_04",
+      "Delay": 20,
+      "Reaction": 5,
+      "Lv": 5,
+      "RataDamage": 17,
+      "Effect": "en_780101_cmn33",
+      "EFP": "EFP_ATK_003",
+      "SE": "en780101_A_BTL_115"
+    },
+    {
+      "$id": 5,
+      "ID": "CORE_ATTACK_05",
+      "Delay": 20,
+      "Reaction": 5,
+      "Lv": 6,
+      "RataDamage": 24,
+      "Effect": "en_780101_cmn33",
+      "EFP": "EFP_ATK_003",
+      "SE": "en780101_A_BTL_115"
+    },
+    {
+      "$id": 6,
+      "ID": "CORE_ATTACK_06",
+      "Delay": 20,
+      "Reaction": 0,
+      "Lv": 0,
+      "RataDamage": 0,
+      "Effect": "",
+      "EFP": "",
+      "SE": ""
+    }
+  ]
+}

@@ -1,0 +1,183 @@
+{
+  "schema": [
+    {
+      "name": "ID",
+      "type": 9
+    },
+    {
+      "name": "Resource",
+      "type": 7
+    },
+    {
+      "name": "PathMot",
+      "type": 7
+    },
+    {
+      "name": "Action",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "ID": "NPCITEN_TEST1",
+      "Resource": "ws/ws141201r",
+      "PathMot": "ws/ws141201r",
+      "Action": "ni0001"
+    },
+    {
+      "$id": 2,
+      "ID": "NPCITEN_TEST2",
+      "Resource": "ws/ws015501r",
+      "PathMot": "oj/oj999999",
+      "Action": "ni9999"
+    },
+    {
+      "$id": 3,
+      "ID": "NPCITEN_PDA",
+      "Resource": "oj/oj510004",
+      "PathMot": "oj/oj999999",
+      "Action": "ni9999"
+    },
+    {
+      "$id": 4,
+      "ID": "NPCITEN_N_PDA",
+      "Resource": "oj/oj840007",
+      "PathMot": "oj/oj999999",
+      "Action": "ni9999"
+    },
+    {
+      "$id": 5,
+      "ID": "NPCITEN_BOTTLE",
+      "Resource": "oj/oj510005",
+      "PathMot": "oj/oj999999",
+      "Action": "ni9999"
+    },
+    {
+      "$id": 6,
+      "ID": "NPCITEN_WA",
+      "Resource": "oj/oj510030",
+      "PathMot": "oj/oj999999",
+      "Action": "ni9999"
+    },
+    {
+      "$id": 7,
+      "ID": "NPCITEN_HOTDOG",
+      "Resource": "oj/oj510035",
+      "PathMot": "oj/oj999999",
+      "Action": "ni9999"
+    },
+    {
+      "$id": 8,
+      "ID": "NPCITEN_CARD",
+      "Resource": "oj/oj510038",
+      "PathMot": "oj/oj999999",
+      "Action": "ni9999"
+    },
+    {
+      "$id": 9,
+      "ID": "NPCITEM_SPOON",
+      "Resource": "oj/oj250004",
+      "PathMot": "oj/oj999999",
+      "Action": "ni9999"
+    },
+    {
+      "$id": 10,
+      "ID": "NPCITEM_BIN",
+      "Resource": "oj/oj510037",
+      "PathMot": "oj/oj999999",
+      "Action": "ni9999"
+    },
+    {
+      "$id": 11,
+      "ID": "NPCITEM_TORCH",
+      "Resource": "oj/oj510031",
+      "PathMot": "oj/oj999999",
+      "Action": "ni9999"
+    },
+    {
+      "$id": 12,
+      "ID": "NPCITEM_BOX",
+      "Resource": "oj/oj510032",
+      "PathMot": "oj/oj999999",
+      "Action": "ni9999"
+    },
+    {
+      "$id": 13,
+      "ID": "NPCITEM_LAASWA",
+      "Resource": "ws/ws025201r",
+      "PathMot": "oj/oj999999",
+      "Action": "ni9999"
+    },
+    {
+      "$id": 14,
+      "ID": "NPCITEM_HANDCUFFS",
+      "Resource": "oj/oj840022",
+      "PathMot": "oj/oj999999",
+      "Action": "ni9999"
+    },
+    {
+      "$id": 15,
+      "ID": "NPCITEM_GLASSES",
+      "Resource": "oj/oj020009",
+      "PathMot": "oj/oj999999",
+      "Action": "ni9999"
+    },
+    {
+      "$id": 16,
+      "ID": "NPCITEM_LAASMWPN",
+      "Resource": "ws/ws016601r",
+      "PathMot": "oj/oj999999",
+      "Action": "ni9999"
+    },
+    {
+      "$id": 17,
+      "ID": "NPCITEM_BOOK",
+      "Resource": "oj/oj510039",
+      "PathMot": "oj/oj999999",
+      "Action": "ni9999"
+    },
+    {
+      "$id": 18,
+      "ID": "NPCITEM_SCOTCH",
+      "Resource": "oj/oj510040",
+      "PathMot": "oj/oj999999",
+      "Action": "ni9999"
+    },
+    {
+      "$id": 19,
+      "ID": "NPCITEM_GATLING",
+      "Resource": "ws/ws015801r",
+      "PathMot": "oj/oj999999",
+      "Action": "ni9999"
+    },
+    {
+      "$id": 20,
+      "ID": "NPCITEM_MACHINE",
+      "Resource": "ws/ws111106r",
+      "PathMot": "oj/oj999999",
+      "Action": "ni9999"
+    },
+    {
+      "$id": 21,
+      "ID": "NPCITEM_RAOLANCE",
+      "Resource": "ws/ws224201r",
+      "PathMot": "oj/oj999999",
+      "Action": "ni9999"
+    },
+    {
+      "$id": 22,
+      "ID": "NPCITEM_PC_IDLE_WPN",
+      "Resource": "ws/ws132101r",
+      "PathMot": "ws/ws132101r",
+      "Action": "ni9999"
+    },
+    {
+      "$id": 23,
+      "ID": "NPCITEN_NI_PDA",
+      "Resource": "oj/oj847006",
+      "PathMot": "oj/oj999999",
+      "Action": "ni9999"
+    }
+  ]
+}

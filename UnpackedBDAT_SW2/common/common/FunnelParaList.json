@@ -1,0 +1,90 @@
+{
+  "schema": [
+    {
+      "name": "ID",
+      "type": 9
+    },
+    {
+      "name": "FireNum",
+      "type": 1
+    },
+    {
+      "name": "FireInterval",
+      "type": 1
+    },
+    {
+      "name": "AtkNum",
+      "type": 1
+    },
+    {
+      "name": "AtkWait",
+      "type": 1
+    },
+    {
+      "name": "SubRate",
+      "type": 1
+    },
+    {
+      "name": "MoveFrame",
+      "type": 1
+    },
+    {
+      "name": "FirstMoveFrame",
+      "type": 1
+    },
+    {
+      "name": "EndMoveFrame",
+      "type": 1
+    },
+    {
+      "name": "RangeMin",
+      "type": 2
+    },
+    {
+      "name": "RangeMax",
+      "type": 2
+    },
+    {
+      "name": "AngleMin",
+      "type": 1
+    },
+    {
+      "name": "AngleMax",
+      "type": 1
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "ID": "FUNNEL_001",
+      "FireNum": 1,
+      "FireInterval": 3,
+      "AtkNum": 7,
+      "AtkWait": 30,
+      "SubRate": 60,
+      "MoveFrame": 12,
+      "FirstMoveFrame": 20,
+      "EndMoveFrame": 4,
+      "RangeMin": 20,
+      "RangeMax": 20,
+      "AngleMin": 90,
+      "AngleMax": 90
+    },
+    {
+      "$id": 2,
+      "ID": "FUNNEL_002",
+      "FireNum": 4,
+      "FireInterval": 3,
+      "AtkNum": 7,
+      "AtkWait": 30,
+      "SubRate": 60,
+      "MoveFrame": 12,
+      "FirstMoveFrame": 20,
+      "EndMoveFrame": 4,
+      "RangeMin": 20,
+      "RangeMax": 20,
+      "AngleMin": 90,
+      "AngleMax": 90
+    }
+  ]
+}

@@ -1,0 +1,348 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev030101_MSG0001",
+      "style": 1,
+      "name": "You are... the brave BLADE who saved\nus! You have come at a good time, zo! [ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev030101_MSG0037",
+      "style": 1,
+      "name": "I wish to borrow your\nstrength once more, da! [ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev030101_MSG0002",
+      "style": 1,
+      "name": "Many of our kin were saved by you,\nbut three members of the Tree Clan\nstill remain captive to them. [ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev030101_MSG0003",
+      "style": 1,
+      "name": "We must head to their fortress to rescue\nthem as soon as possible, but... [ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev030101_MSG0004",
+      "style": 1,
+      "name": "To be honest, right now we lack\nthe strength to clash head-on\nwith the Cavern Clan... [ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev030101_MSG0005",
+      "style": 1,
+      "name": "If we do not borrow the hands of\nEarthlings... We cannot save even\na single life of our kin, da. [ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev030101_JNK0010",
+      "style": 4,
+      "name": "Encourage[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev030101_SEL0011",
+      "style": 3,
+      "name": "Encourage Sevvy, saying they will eventually regain the strength to fight the Cavern Clan.[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev030101_JNK0020",
+      "style": 4,
+      "name": "Reprimand[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev030101_SEL0021",
+      "style": 3,
+      "name": "Agree to help this time, but tell him they cannot rely on you forever.[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev030101_MSG0006",
+      "style": 1,
+      "name": "...You are kind, Earthling. Yes,\nonce our kin return, we will never\nlose to the likes of them! [ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev030101_MSG0007",
+      "style": 1,
+      "name": "...It is exactly as you say, Earthling.\nBut to do that, we must recover our kin\nand increase our fighting strength, da. [ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev030101_MSG0008",
+      "style": 1,
+      "name": "...Good. It seems I can safely entrust\nthis job to you. Now, I will tell you the\nnames of those I want you to find, zo. [ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev030101_MSG0009",
+      "style": 1,
+      "name": "The first is Oll Valdileo. He was seen\nbeing taken to the Milligan Supply Base\nin the Valley of Oblivion, zo. [ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev030101_MSG0010",
+      "style": 1,
+      "name": "The second is Rada Valdileo. He is Oll's\nyounger brother, and like his brother, it\nseems he is confined in their fortress, da. [ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev030101_MSG0011",
+      "style": 1,
+      "name": "The third is Uzoma Vassago.\n...He is my son. [ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev030101_MSG0012",
+      "style": 1,
+      "name": "When we fled from them, he acted as the\nrearguard and helped everyone escape...\nAnd then he was captured by them, da. [ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev030101_MSG0013",
+      "style": 1,
+      "name": "I hear he's being held in that infamous\nMesa Fortress. You have to rescue him!\nPlease, I'm begging you![ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev030101_MSG0014",
+      "style": 1,
+      "name": "You wish to hear the locations of the captives?\nYou may ask as much as you like, zo. Whose\ninformation do you wish to hear, da? [ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev030101_JNK0030",
+      "style": 4,
+      "name": "Oll Valdileo[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev030101_SEL0031",
+      "style": 3,
+      "name": "Say you wish to hear about Oll Valdileo's whereabouts.[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev030101_JNK0040",
+      "style": 4,
+      "name": "Rada Valdileo[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev030101_SEL0041",
+      "style": 3,
+      "name": "Say you wish to hear about Rada Valdileo's whereabouts.[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev030101_JNK0050",
+      "style": 4,
+      "name": "Uzoma Vassago[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev030101_SEL0051",
+      "style": 3,
+      "name": "Say you wish to hear about Uzoma Vassago's whereabouts.[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev030101_MSG0015",
+      "style": 1,
+      "name": "Oll Valdileo was seen being taken to the\nMilligan Supply Base, zo. Please save him\nalong with his younger brother, Rada. [ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev030101_MSG0016",
+      "style": 1,
+      "name": "I hear Rada Valdileo is confined\nin the Milligan Supply Base, da. [ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev030101_MSG0017",
+      "style": 1,
+      "name": "He is unusually timid for a Bias,\nso I am certain he is terrified\nbeing separated from everyone, zo. [ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev030101_MSG0018",
+      "style": 1,
+      "name": "I hear Uzoma's being held at Mesa\nFortress in the Valley of Oblivion...[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev030101_MSG0019",
+      "style": 1,
+      "name": "I am sorry to cause you trouble\nfor the sake of my son, but...\nPlease... rescue him safely. [ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev030101_MSG0020",
+      "style": 1,
+      "name": "Everyone has returned safely, zo.\nIt is all thanks to you, da! [ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev030101_MSG0021",
+      "style": 1,
+      "name": "...Thank you. First, as the chieftain\nof the Tree Clan, allow me to bestow\nthis treasure upon the brave one. [ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev030101_MSG0022",
+      "style": 1,
+      "name": "I hear that not a single one of them\nyielded to the threats of the Cavern\nClan. I am extremely proud, zo. [ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev030101_MSG0023",
+      "style": 1,
+      "name": "No matter how much those who have\ndegraded themselves into Growth's\nlackeys try to trample us underfoot... [ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev030101_MSG0024",
+      "style": 1,
+      "name": "They can never break our souls, which reside\ntogether with the Great Tree and the beasts, da!\nHa ha! That is what it means to be true Bias! [ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev030101_MSG0025",
+      "style": 1,
+      "name": "Yes, [ST:playername ]... I feel something close\nto us in you as well, zo! [ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev030101_JNK0060",
+      "style": 4,
+      "name": "Affirm[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev030101_SEL0061",
+      "style": 3,
+      "name": "Empathize with the Tree Clan's way of life.[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "qev030101_JNK0070",
+      "style": 4,
+      "name": "Deny[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "qev030101_SEL0071",
+      "style": 3,
+      "name": "Answer frankly that such a way of life is hard to understand.[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "qev030101_MSG0026",
+      "style": 1,
+      "name": "Right, right! You are already like\nfamily to us, da. If anything happens,\nwe will always come to your aid, zo! [ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "qev030101_MSG0027",
+      "style": 1,
+      "name": "Nnngh... Is this the chasm between species!\nBut I like you. If anything happens, we\nwill always come to your aid, zo! [ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "qev030101_MSG0028",
+      "style": 1,
+      "name": "Now only Uzoma is left! [ST:playername ], keep this\nmomentum up and save my son as well! [ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "qev030101_MSG0029",
+      "style": 1,
+      "name": "...Hmm? What is the matter? Did\nsomething happen to Uzoma? [ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "qev030101_JNK0080",
+      "style": 4,
+      "name": "Deny[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "qev030101_SEL0081",
+      "style": 3,
+      "name": "Mumble that nothing in particular happened.[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "qev030101_JNK0090",
+      "style": 4,
+      "name": "Affirm[ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "qev030101_SEL0091",
+      "style": 3,
+      "name": "Inform him that Uzoma has died.[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "qev030101_MSG0030",
+      "style": 1,
+      "name": "Is that so? Then hurry and go save Uzoma!\nI leave it to you, zo! O brave one! [ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "qev030101_MSG0031",
+      "style": 1,
+      "name": "...What!? Uzoma was killed\nby the Cavern Clan!? [ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "qev030101_MSG0032",
+      "style": 1,
+      "name": "...I see. He did not yield to them, and\ndisappeared into the belly of a beast\nat the end, just like a true Bias... [ST:wait ]"
+    },
+    {
+      "$id": 52,
+      "label": "qev030101_MSG0033",
+      "style": 1,
+      "name": "............ [ST:wait ]"
+    },
+    {
+      "$id": 53,
+      "label": "qev030101_MSG0034",
+      "style": 1,
+      "name": "We have no time to be sorrowful... zo.\nTo ensure Uzoma's death was not in\nvain, we must become even stronger. [ST:wait ]"
+    },
+    {
+      "$id": 54,
+      "label": "qev030101_MSG0035",
+      "style": 1,
+      "name": "And one day, we will kill those Cavern Clan\nbastards, leaving not a single one alive, da. We\nwon't let even their women and children live, zo. [ST:wait ]"
+    },
+    {
+      "$id": 55,
+      "label": "qev030101_MSG0036",
+      "style": 1,
+      "name": "This is a token of gratitude... You have\nhelped us greatly. Please lend us your\nstrength again if anything happens. [ST:wait ]"
+    }
+  ]
+}

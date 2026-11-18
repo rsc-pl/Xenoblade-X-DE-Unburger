@@ -1,0 +1,696 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev061002_MSG0017",
+      "style": 1,
+      "name": "Ah... urgh... ...I can't...\nput any strength into it...[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev061002_MSG0018",
+      "style": 1,
+      "name": ".........[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev061002_MSG0019",
+      "style": 1,
+      "name": "There's a very strong wave of Voltant\nnearby... What in the world... is this...[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev061002_MSG0020",
+      "style": 1,
+      "name": "Ohh... My entire body is filling with\nVoltant!! This is a genuine Zirtodiamond!![ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev061002_MSG0120",
+      "style": 1,
+      "name": "Uwah! Aaaaaaaaaaaah!![ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev061002_MSG0021",
+      "style": 1,
+      "name": "Uuugh... Aah... ...Phew.........[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev061002_MSG0022",
+      "style": 1,
+      "name": "...Huh... You're the hallucination I saw\nearlier... Hey... Could it be that you\nwere the one who brought this to me?[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev061002_JNK0030",
+      "style": 4,
+      "name": "Demand[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev061002_SEL0031",
+      "style": 3,
+      "name": "Tell him to hand over the relic of Golbogga.[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev061002_JNK0040",
+      "style": 4,
+      "name": "Worry[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev061002_SEL0041",
+      "style": 3,
+      "name": "Express concern over whether his body is okay.[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev061001_JNK0030",
+      "style": 4,
+      "name": ""
+    },
+    {
+      "$id": 13,
+      "label": "qev061002_MSG0023",
+      "style": 1,
+      "name": "So you were not an illusion after\nall... ...Well then, I made a\npromise, so it cannot be helped.[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev061002_MSG0024",
+      "style": 1,
+      "name": "This disk is the relic of Golbogga. Please\ntake it. You have the right to do so.[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev061001_JNK0040",
+      "style": 4,
+      "name": ""
+    },
+    {
+      "$id": 16,
+      "label": "qev061002_MSG0025",
+      "style": 1,
+      "name": "Thanks to you, Voltant has\nspread to every corner of my\nbody. This is all thanks to you.[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev061002_MSG0026",
+      "style": 1,
+      "name": "Hm... Now then, allow me to fulfill\nthe promise I made at that time.[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev061002_MSG0027",
+      "style": 1,
+      "name": "This disk is the relic of\nGolbogga. Please take it.[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev061002_MSG0028",
+      "style": 1,
+      "name": "...But it is a strange tale. Why would\nan Earthling want something like this?[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev061002_MSG0029",
+      "style": 1,
+      "name": "...What!? You were asked to\ncome here by that Feloran!![ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev061002_MSG0030",
+      "style": 1,
+      "name": "Kuh... If I had known that, I wouldn't\nhave handed it over so easily...[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev061002_MSG0031",
+      "style": 1,
+      "name": "It is not too late! If you hand it\nover to a Golbogga fanatic like him,\nhe will only spread dubious rumors.[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev061002_MSG0032",
+      "style": 1,
+      "name": "Return it to me immediately! If\nyou do, I will prove to you that\nGolbogga does not exist![ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev061002_JNK0050",
+      "style": 4,
+      "name": "Refuse[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev061002_SEL0051",
+      "style": 3,
+      "name": "Firmly refuse.[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev061002_JNK0060",
+      "style": 4,
+      "name": "Question[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev061002_SEL0061",
+      "style": 3,
+      "name": "Ask the reason why he hates Feloran.[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev061001_JNK0050",
+      "style": 4,
+      "name": ""
+    },
+    {
+      "$id": 29,
+      "label": "qev061002_MSG0033",
+      "style": 1,
+      "name": "So you are also a fool who blindly believes\nin the existence of a Golbogga you have never\nseen, just like the other Zaruboggans...[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev061002_MSG0034",
+      "style": 1,
+      "name": "...Then take it! However, all that\nis inside is proof that Golbogga\nnever existed in the first place.[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev061001_JNK0060",
+      "style": 4,
+      "name": ""
+    },
+    {
+      "$id": 32,
+      "label": "qev061002_MSG0035",
+      "style": 1,
+      "name": "Because he is a liar who insists\nthat something as non-existent\nas Golbogga actually exists![ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev061002_MSG0036",
+      "style": 1,
+      "name": "...I proposed the theory that Zaruboggans are\nthe result of microorganisms drifting in Voltant\nevolving into our current form, but...[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev061002_MSG0037",
+      "style": 1,
+      "name": "The thesis I submitted was buried\nin darkness by those who believe\nin the existence of Golbogga...[ST:wait ]"
+    },
+    {
+      "$id": 35,
+      "label": "qev061002_MSG0038",
+      "style": 1,
+      "name": "To avenge myself on them, I stole\nGolbogga Disc from the cathedral\nback on Planet Bedun.[ST:wait ]"
+    },
+    {
+      "$id": 36,
+      "label": "qev061002_MSG0039",
+      "style": 1,
+      "name": "...That's it! Could you help\nme unlock this Golbogga Disc?[ST:wait ]"
+    },
+    {
+      "$id": 37,
+      "label": "qev061002_MSG0040",
+      "style": 1,
+      "name": "Let us expose that\nFeloran's lies together![ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev061002_JNK0070",
+      "style": 4,
+      "name": "Refuse[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "qev061002_SEL0071",
+      "style": 3,
+      "name": "Firmly refuse.[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "qev061002_JNK0080",
+      "style": 4,
+      "name": "Accept[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "qev061002_SEL0081",
+      "style": 3,
+      "name": "Take Toluera up on his offer.[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "qev061001_JNK0070",
+      "style": 4,
+      "name": ""
+    },
+    {
+      "$id": 43,
+      "label": "qev061002_MSG0041",
+      "style": 1,
+      "name": "So you are also a fool who blindly believes\nin the existence of a Golbogga you have never\nseen, just like the other Zaruboggans...[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "qev061002_MSG0042",
+      "style": 1,
+      "name": "...Then take it! But all that is\ninside is proof that Golbogga never\nexisted in the first place.[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "qev061001_JNK0080",
+      "style": 4,
+      "name": ""
+    },
+    {
+      "$id": 46,
+      "label": "qev061002_MSG0043",
+      "style": 1,
+      "name": "I am very glad... The Zaruboggans have always\ntreated me as an enemy, you see... You are\nthe very first ally I have ever made.[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "qev061002_MSG0044",
+      "style": 1,
+      "name": "...Now then, please find a Zaruboggan\nnamed Kiliran by any means necessary.[ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "qev061002_MSG0045",
+      "style": 1,
+      "name": "If it is him, he should be able to undo\nthe strict lock placed on this disk.[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "qev061002_MSG0046",
+      "style": 1,
+      "name": "Hehe... Once that is done, it\nwill become perfectly clear\nthat Golbogga never existed![ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "qev061002_MSG0050",
+      "style": 1,
+      "name": "Oh, comrade! How did it go? Were you\nable to unlock the Golbogga Disc?[ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "qev061002_MSG0051",
+      "style": 1,
+      "name": "Splendid! It seems it can\nbe fully viewed now![ST:wait ]"
+    },
+    {
+      "$id": 52,
+      "label": "qev061002_MSG0052",
+      "style": 1,
+      "name": "Hehe... Now then, shall we tear\noff their mask of deception![ST:wait ]"
+    },
+    {
+      "$id": 53,
+      "label": "qev061002_MSG0053",
+      "style": 1,
+      "name": "The Golboggas who have deceived us\nZaruboggans for thousands of years...\nNo, those swindler religious scholars![ST:wait ]"
+    },
+    {
+      "$id": 54,
+      "label": "qev061002_MSG0054",
+      "style": 1,
+      "name": "I, Toluera, the foremost biologist\namong the Zaruboggans, shall\nuncover the truth right now![ST:wait ]"
+    },
+    {
+      "$id": 55,
+      "label": "qev061002_MSG0055",
+      "style": 1,
+      "name": "Fuhahahaha!! Haha! Ha... ha...?[ST:wait ]"
+    },
+    {
+      "$id": 56,
+      "label": "qev061002_MSG0056",
+      "style": 1,
+      "name": ".........[ST:wait ]"
+    },
+    {
+      "$id": 57,
+      "label": "qev061002_MSG0057",
+      "style": 1,
+      "name": "...What is this... This is absurd! ...I\nabsolutely refuse to accept this!![ST:wait ]"
+    },
+    {
+      "$id": 58,
+      "label": "qev061002_MSG0058",
+      "style": 1,
+      "name": "My research showed that Zaruboggans\nevolved from microorganisms drifting\nin Voltant... Aaah...!![ST:wait ]"
+    },
+    {
+      "$id": 59,
+      "label": "qev061002_MSG0059",
+      "style": 1,
+      "name": "A-And why does Golbogga\nlook like this...[ST:wait ]"
+    },
+    {
+      "$id": 60,
+      "label": "qev061002_JNK0090",
+      "style": 4,
+      "name": "Interest[ST:wait ]"
+    },
+    {
+      "$id": 61,
+      "label": "qev061002_SEL0091",
+      "style": 3,
+      "name": "Ask him in detail what he refuses to accept.[ST:wait ]"
+    },
+    {
+      "$id": 62,
+      "label": "qev061002_JNK0100",
+      "style": 4,
+      "name": "Question[ST:wait ]"
+    },
+    {
+      "$id": 63,
+      "label": "qev061002_SEL0101",
+      "style": 3,
+      "name": "Ask about Golbogga's appearance.[ST:wait ]"
+    },
+    {
+      "$id": 64,
+      "label": "qev061001_JNK0090",
+      "style": 4,
+      "name": ""
+    },
+    {
+      "$id": 65,
+      "label": "qev061002_MSG0060",
+      "style": 1,
+      "name": "If this fraudulent disk is true... Ugh...\nIt would mean Golbogga actually existed\nduring the previous civilization.[ST:wait ]"
+    },
+    {
+      "$id": 66,
+      "label": "qev061002_MSG0061",
+      "style": 1,
+      "name": "It says that before they completely covered\nPlanet Bedun with Voltant, they created us to\nbe the organisms that would live in the next era.[ST:wait ]"
+    },
+    {
+      "$id": 67,
+      "label": "qev061002_MSG0062",
+      "style": 1,
+      "name": "Gugh... Then does that mean all\nthe research I have done up\nuntil now was pointless...?[ST:wait ]"
+    },
+    {
+      "$id": 68,
+      "label": "qev061002_MSG0063",
+      "style": 1,
+      "name": "That cannot be! That\nsimply cannot be true!![ST:wait ]"
+    },
+    {
+      "$id": 69,
+      "label": "qev061002_MSG0064",
+      "style": 1,
+      "name": "Furthermore... The form of these Golboggas\nlooks exactly like you Earthlings![ST:wait ]"
+    },
+    {
+      "$id": 70,
+      "label": "qev061001_JNK0100",
+      "style": 4,
+      "name": ""
+    },
+    {
+      "$id": 71,
+      "label": "qev061002_MSG0065",
+      "style": 1,
+      "name": "Golbogga does not exist...\nThey must not exist! The form\nshown here is also a fake![ST:wait ]"
+    },
+    {
+      "$id": 72,
+      "label": "qev061002_MSG0066",
+      "style": 1,
+      "name": "If it isn't, all of my research would be\npointless... And it would mean Feloran's\ndelusions were correct, would it not...[ST:wait ]"
+    },
+    {
+      "$id": 73,
+      "label": "qev061002_MSG0067",
+      "style": 1,
+      "name": "That cannot be! That\nsimply cannot be true!![ST:wait ]"
+    },
+    {
+      "$id": 74,
+      "label": "qev061002_MSG0068",
+      "style": 1,
+      "name": "Moreover, why does Golbogga's\nform... Why does it look\nexactly like you Earthlings![ST:wait ]"
+    },
+    {
+      "$id": 75,
+      "label": "qev061002_MSG0069",
+      "style": 1,
+      "name": "Aah! You are... the enemy! You\nare mocking me by taking on\nthe same form as Golbogga![ST:wait ]"
+    },
+    {
+      "$id": 76,
+      "label": "qev061002_MSG0070",
+      "style": 1,
+      "name": "I'll give you this, so go away\nsomewhere! Aah... I am not\nwrong... I am not wrong...[ST:wait ]"
+    },
+    {
+      "$id": 77,
+      "label": "qev061002_MSG0071",
+      "style": 1,
+      "name": "...Are you Earthlings also planning to drench\nthis planet in Voltant just like the Golboggas,\nand give birth to twisted lives like ours?[ST:wait ]"
+    },
+    {
+      "$id": 78,
+      "label": "qev061002_MSG0072",
+      "style": 1,
+      "name": "Aah... Who do you think you are! Trampling on\nand denying the evolution of organisms, do\nyou think you have become gods yourselves![ST:wait ]"
+    },
+    {
+      "$id": 79,
+      "label": "qev061002_JNK0110",
+      "style": 4,
+      "name": "Affirm[ST:wait ]"
+    },
+    {
+      "$id": 80,
+      "label": "qev061002_SEL0111",
+      "style": 3,
+      "name": "Declare that you have the right to do so.[ST:wait ]"
+    },
+    {
+      "$id": 81,
+      "label": "qev061002_JNK0120",
+      "style": 4,
+      "name": "Deny[ST:wait ]"
+    },
+    {
+      "$id": 82,
+      "label": "qev061002_SEL0121",
+      "style": 3,
+      "name": "Say that Earthlings are not such arrogant beings."
+    },
+    {
+      "$id": 83,
+      "label": "qev061001_JNK0110",
+      "style": 4,
+      "name": ""
+    },
+    {
+      "$id": 84,
+      "label": "qev061002_MSG0073",
+      "style": 1,
+      "name": "What an arrogant wretch! Kuh... To\nthink someone like you will also leak\nVoltant all over this planet...[ST:wait ]"
+    },
+    {
+      "$id": 85,
+      "label": "qev061002_MSG0074",
+      "style": 1,
+      "name": "And give birth to a second generation\nof us... To empty lives that deviate\nfrom the cycle of biological organisms![ST:wait ]"
+    },
+    {
+      "$id": 86,
+      "label": "qev061001_JNK0120",
+      "style": 4,
+      "name": ""
+    },
+    {
+      "$id": 87,
+      "label": "qev061002_MSG0075",
+      "style": 1,
+      "name": "Everyone just tries to deceive me like\nthat! I am sure this disk is also a lie!\nThere is no such thing... as a creator...[ST:wait ]"
+    },
+    {
+      "$id": 88,
+      "label": "qev061002_MSG0076",
+      "style": 1,
+      "name": "Uugh... May all the Voltant\ndisappear from this world, and\nmay the Zaruboggans perish!![ST:wait ]"
+    },
+    {
+      "$id": 89,
+      "label": "qev061002_MSG0077",
+      "style": 1,
+      "name": "Uwaaaaaaaaaaaaaaaaah! I... I...![ST:wait ]"
+    },
+    {
+      "$id": 90,
+      "label": "qev061002_MSG0001",
+      "style": 1,
+      "name": "A... Aah... So I have finally\nstarted seeing hallucinations...[ST:wait ]"
+    },
+    {
+      "$id": 91,
+      "label": "qev061002_MSG0002",
+      "style": 1,
+      "name": "But why is the hallucination\nappearing at a time like this an\nEarthling? How very strange...[ST:wait ]"
+    },
+    {
+      "$id": 92,
+      "label": "qev061002_JNK0010",
+      "style": 4,
+      "name": "Explain"
+    },
+    {
+      "$id": 93,
+      "label": "qev061002_SEL0011",
+      "style": 3,
+      "name": "Explain that you are not a hallucination."
+    },
+    {
+      "$id": 94,
+      "label": "qev061002_JNK0020",
+      "style": 4,
+      "name": "Question"
+    },
+    {
+      "$id": 95,
+      "label": "qev061002_SEL0021",
+      "style": 3,
+      "name": "Confirm the situation Toluera is currently in."
+    },
+    {
+      "$id": 96,
+      "label": "qev061002_MSG0003",
+      "style": 1,
+      "name": "The hallucination is explaining its own\nexistence... And it is quite logical at\nthat. This is... rather interesting...[ST:wait ]"
+    },
+    {
+      "$id": 97,
+      "label": "qev061002_MSG0004",
+      "style": 1,
+      "name": "The hallucination has asked me a\nquestion... Haha... This is quite amusing.[ST:wait ]"
+    },
+    {
+      "$id": 98,
+      "label": "qev061002_MSG0005",
+      "style": 1,
+      "name": "I have not undergone Revoltant\nfor a very long time now.[ST:wait ]"
+    },
+    {
+      "$id": 99,
+      "label": "qev061002_MSG0006",
+      "style": 1,
+      "name": "As for the Voltant that was in\nthis hideout... I have already\nused it all up for Revoltant...[ST:wait ]"
+    },
+    {
+      "$id": 100,
+      "label": "qev061002_MSG0007",
+      "style": 1,
+      "name": "Good grief... I have answered you, so act like a\nproper hallucination and disappear. I am... already\nfinding it troublesome to even keep my eyes open...[ST:wait ]"
+    },
+    {
+      "$id": 101,
+      "label": "qev061002_MSG0008",
+      "style": 1,
+      "name": "...Eh? You are saying you\nare not a hallucination?[ST:wait ]"
+    },
+    {
+      "$id": 102,
+      "label": "qev061002_MSG0009",
+      "style": 1,
+      "name": "Haha! I don't believe you. Unlike my\nbrethren who blindly believe in the\nexistence of unproven beings, I am different.[ST:wait ]"
+    },
+    {
+      "$id": 103,
+      "label": "qev061002_MSG0010",
+      "style": 1,
+      "name": "Well, if you have no intention of disappearing\njust yet, I shall keep you company to the bitter\nend. For what purpose have you appeared?[ST:wait ]"
+    },
+    {
+      "$id": 104,
+      "label": "qev061002_MSG0011",
+      "style": 1,
+      "name": "...What? You want me to hand over\nthe relic of Golbogga? This is quite\nthe impudent hallucination...[ST:wait ]"
+    },
+    {
+      "$id": 105,
+      "label": "qev061002_MSG0012",
+      "style": 1,
+      "name": "However... If you bring me a Zirtodiamond\nthat possesses a massive amount of Voltant,\nI wouldn't mind letting you take it.[ST:wait ]"
+    },
+    {
+      "$id": 106,
+      "label": "qev061002_MSG0013",
+      "style": 1,
+      "name": "I went through the trouble of stealing it from\nthe cathedral in order to prove Golbogga's\nnon-existence, but... I don't care anymore...[ST:wait ]"
+    },
+    {
+      "$id": 107,
+      "label": "qev061002_MSG0014",
+      "style": 1,
+      "name": "If I cannot undergo Revoltant like\nthis, I will simply fade away without\nfulfilling such a dream anyway...[ST:wait ]"
+    },
+    {
+      "$id": 108,
+      "label": "qev061002_MSG0015",
+      "style": 1,
+      "name": "Aah... My body is parched\ndry... It feels as though I\nwill disappear at any moment...[ST:wait ]"
+    },
+    {
+      "$id": 109,
+      "label": "qev061002_MSG0016",
+      "style": 1,
+      "name": "I do not care if you are a hallucination\nor what... Please just let me undergo\nRevoltant with a Zirtodiamond quickly...[ST:wait ]"
+    },
+    {
+      "$id": 110,
+      "label": "qev061002_MSG0047",
+      "style": 1,
+      "name": "...I will continue my research\nhere, even if I am alone.[ST:wait ]"
+    },
+    {
+      "$id": 111,
+      "label": "qev061002_MSG0048",
+      "style": 1,
+      "name": "Hmph... Golbogga does not exist.\nSomeday, I will open the eyes\nof all the Zaruboggans...[ST:wait ]"
+    },
+    {
+      "$id": 112,
+      "label": "qev061002_MSG0049",
+      "style": 1,
+      "name": "Please find Kiliran no matter what it takes.\nI am not certain where exactly he is, but\nhe is definitely somewhere on this Mira.[ST:wait ]"
+    },
+    {
+      "$id": 113,
+      "label": "qev061002_MSG0078",
+      "style": 1,
+      "name": "Hehe... Let us prove the\nnon-existence of Golbogga together![ST:wait ]"
+    }
+  ]
+}

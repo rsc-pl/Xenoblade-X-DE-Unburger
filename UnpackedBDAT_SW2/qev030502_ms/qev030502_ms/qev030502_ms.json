@@ -1,0 +1,210 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev030502_MSG0001",
+      "style": 1,
+      "name": "Yes, yes, this is Aunt\nHelen, na. Is that... [ST:playername ]? [ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev030502_MSG0002",
+      "style": 1,
+      "name": "...I see, so you found Quega's body.\nIn that case, feed it to a beast... [ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev030502_MSG0003",
+      "style": 1,
+      "name": "Before you feed him... right. Isn't\nthere anything around there that\ncould serve as a keepsake? [ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev030502_MSG0004",
+      "style": 1,
+      "name": "If there's something that could make her\nfeel Quega close to her, even a little...\nwe could give it to Thea, right? [ST:wait ]"
+    },
+    {
+      "$id": 5,
+      "label": "qev030502_JNK0010",
+      "style": 4,
+      "name": "Examine[ST:wait ]"
+    },
+    {
+      "$id": 6,
+      "label": "qev030502_SEL0011",
+      "style": 3,
+      "name": "Search Quega's body to see if there is anything that could serve as a keepsake.[ST:wait ]"
+    },
+    {
+      "$id": 7,
+      "label": "qev030502_JNK0020",
+      "style": 4,
+      "name": "Look Around[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev030502_SEL0021",
+      "style": 3,
+      "name": "Look around the area to see if anything related to Quega has dropped.[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev030502_MSG0005",
+      "style": 1,
+      "name": "...Eh? You found a strange note?\nWhat on earth does it say, na? [ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev030502_MSG0006",
+      "style": 1,
+      "name": "\"I hid... a... for Thea... in the\ncave of the Dryland Cave Fortress...\nSomeone... give it to Thea...\" [ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev030502_MSG0007",
+      "style": 1,
+      "name": "...You said? What on earth was that\nguy Quega trying to give to Thea...? [ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev030502_MSG0008",
+      "style": 1,
+      "name": "Hmm... I'm curious, ne... Hey, I\nfeel bad giving you more work, but\ncould you go look for that too? [ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev030502_MSG0009",
+      "style": 1,
+      "name": "It might just turn out to be a\ngood gift to cheer Thea up. [ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev030502_JNK0030",
+      "style": 4,
+      "name": "Affirm[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev030502_SEL0031",
+      "style": 3,
+      "name": "Accept Helen's request.[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev030502_JNK0040",
+      "style": 4,
+      "name": "Refuse[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev030502_SEL0041",
+      "style": 3,
+      "name": "Refuse Helen's request.[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev030502_MSG0010",
+      "style": 1,
+      "name": "That's a BLADE for you, na!\nI'll leave it to you, then. [ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev030502_MSG0011",
+      "style": 1,
+      "name": "...Hmm, I couldn't quite\nhear what you said, na. [ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev030502_MSG0012",
+      "style": 1,
+      "name": "Please. I'm a fan of Thea's dancing, na.\nI want her to get better no matter what,\nand have her dance one more time. [ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev030502_MSG0013",
+      "style": 1,
+      "name": "...Na? Na? I'll leave it to you, then. [ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev030502_MSG0014",
+      "style": 1,
+      "name": "Ah... regarding the original job,\nyou're going to need bait to get an\nextraordinary beast to eat Quega. [ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev030502_MSG0015",
+      "style": 1,
+      "name": "So, I want you to get some Bone-in Thigh\nMeat that the native creatures around there\nlove, and set it down next to the body. [ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev030502_MSG0016",
+      "style": 1,
+      "name": "I'm sorry for asking so much of\nyou, na, but I know you can do\nit! I'm leaving it to you! [ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev030502_MSG0017",
+      "style": 1,
+      "name": "Hello! It's Aunt Helen, na! How\nis it, did you manage to get\nthe Bone-in Thigh Meat, na? [ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev030502_MSG0018",
+      "style": 1,
+      "name": "...Yes, yes, that's it. Now set it down\nby his body and lure out a beast, na. [ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev030502_MSG0019",
+      "style": 1,
+      "name": "Good! Now all you have to do is wait,\nna! Hide in the shadows and make sure\nyou watch Quega get eaten properly. [ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev030502_MSG0020",
+      "style": 1,
+      "name": "...Sorry to bother you again, na! I\ncontacted you because there was\nsomething I forgot to tell you, na. [ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev030502_MSG0021",
+      "style": 1,
+      "name": "Listen, na. The beasts around there all\nhave incredibly good hearing, na. [ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev030502_MSG0022",
+      "style": 1,
+      "name": "If you make even a little noise, they'll get\nangry and attack you, na! You have to stay\nperfectly still when the beast comes, na! [ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev030502_MSG0023",
+      "style": 1,
+      "name": "...Eh? You're busy right\nnow? Sorry about that, na. [ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev030502_MSG0024",
+      "style": 1,
+      "name": "Well, just do your best, na! Auntie\nis praying for your safety! [ST:wait ]"
+    }
+  ]
+}

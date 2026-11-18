@@ -54,7 +54,7 @@
       "$id": 7,
       "label": "FNT_BCN_TYPE_COPY_name",
       "style": 18,
-      "name": "Duplicator Probe"
+      "name": "Copy Probe"
     },
     {
       "$id": 8,
@@ -444,13 +444,13 @@
       "$id": 72,
       "label": "ITM_BCN_COPY_001_name",
       "style": 18,
-      "name": "Duplicator Probe"
+      "name": "Copy Probe"
     },
     {
       "$id": 73,
       "label": "ITM_BCN_BTL_001_name",
       "style": 18,
-      "name": "Fuel Recovery Probe"
+      "name": "Doll Fuel Recovery Probe"
     },
     {
       "$id": 74,
@@ -468,7 +468,7 @@
       "$id": 76,
       "label": "ITM_BCN_BTL_004_name",
       "style": 18,
-      "name": "EZ Debuff Probe"
+      "name": "Resist Down Probe"
     },
     {
       "$id": 77,
@@ -630,67 +630,67 @@
       "$id": 103,
       "label": "ITM_BCN_DEFAULT_cap",
       "style": 171,
-      "name": "The first data probe model to be installed\nat a FrontierNet probe site. Mines\nprecious resources in the same way as\na mining probe. Cannot be linked to\ncombo with other probes."
+      "name": "The first data probe model to be installed\nat a FrontierNET probe site. Mines\nrare resources in the same way as\na mining probe. Cannot be linked to\ncombo with other probes."
     },
     {
       "$id": 104,
       "label": "ITM_BCN_MINE_001_cap",
       "style": 171,
-      "name": "Mines precious resources and miranium.\nThe amount mined depends on both the\ngrade of the probe and the output of the\nFrontierNet probe site."
+      "name": "Mines rare resources and miranium.\nThe amount mined depends on both the\ngrade of the probe and the output of the\nFrontierNET probe site."
     },
     {
       "$id": 105,
       "label": "ITM_BCN_MINE_002_cap",
       "style": 171,
-      "name": "Mines precious resources and miranium.\nThe amount mined depends on both the\ngrade of the probe and the output of the\nFrontierNet probe site."
+      "name": "Mines rare resources and miranium.\nThe amount mined depends on both the\ngrade of the probe and the output of the\nFrontierNET probe site."
     },
     {
       "$id": 106,
       "label": "ITM_BCN_MINE_003_cap",
       "style": 171,
-      "name": "Mines precious resources and miranium.\nThe amount mined depends on both the\ngrade of the probe and the output of the\nFrontierNet probe site."
+      "name": "Mines rare resources and miranium.\nThe amount mined depends on both the\ngrade of the probe and the output of the\nFrontierNET probe site."
     },
     {
       "$id": 107,
       "label": "ITM_BCN_MINE_004_cap",
       "style": 171,
-      "name": "Mines precious resources and miranium.\nThe amount mined depends on both the\ngrade of the probe and the output of the\nFrontierNet probe site."
+      "name": "Mines rare resources and miranium.\nThe amount mined depends on both the\ngrade of the probe and the output of the\nFrontierNET probe site."
     },
     {
       "$id": 108,
       "label": "ITM_BCN_MINE_005_cap",
       "style": 171,
-      "name": "Mines precious resources and miranium.\nThe amount mined depends on both the\ngrade of the probe and the output of the\nFrontierNet probe site."
+      "name": "Mines rare resources and miranium.\nThe amount mined depends on both the\ngrade of the probe and the output of the\nFrontierNET probe site."
     },
     {
       "$id": 109,
       "label": "ITM_BCN_MINE_006_cap",
       "style": 171,
-      "name": "Mines precious resources and miranium.\nThe amount mined depends on both the\ngrade of the probe and the output of the\nFrontierNet probe site."
+      "name": "Mines rare resources and miranium.\nThe amount mined depends on both the\ngrade of the probe and the output of the\nFrontierNET probe site."
     },
     {
       "$id": 110,
       "label": "ITM_BCN_MINE_007_cap",
       "style": 171,
-      "name": "Mines precious resources and miranium.\nThe amount mined depends on both the\ngrade of the probe and the output of the\nFrontierNet probe site."
+      "name": "Mines rare resources and miranium.\nThe amount mined depends on both the\ngrade of the probe and the output of the\nFrontierNET probe site."
     },
     {
       "$id": 111,
       "label": "ITM_BCN_MINE_008_cap",
       "style": 171,
-      "name": "Mines precious resources and miranium.\nThe amount mined depends on both the\ngrade of the probe and the output of the\nFrontierNet probe site."
+      "name": "Mines rare resources and miranium.\nThe amount mined depends on both the\ngrade of the probe and the output of the\nFrontierNET probe site."
     },
     {
       "$id": 112,
       "label": "ITM_BCN_MINE_009_cap",
       "style": 171,
-      "name": "Mines precious resources and miranium.\nThe amount mined depends on both the\ngrade of the probe and the output of the\nFrontierNet probe site."
+      "name": "Mines rare resources and miranium.\nThe amount mined depends on both the\ngrade of the probe and the output of the\nFrontierNET probe site."
     },
     {
       "$id": 113,
       "label": "ITM_BCN_MINE_010_cap",
       "style": 171,
-      "name": "Mines precious resources and miranium.\nThe amount mined depends on both the\ngrade of the probe and the output of the\nFrontierNet probe site."
+      "name": "Mines rare resources and miranium.\nThe amount mined depends on both the\ngrade of the probe and the output of the\nFrontierNET probe site."
     },
     {
       "$id": 114,
@@ -816,37 +816,37 @@
       "$id": 134,
       "label": "ITM_BCN_TOUR_001_cap",
       "style": 171,
-      "name": "Generates revenue from FrontierNet sites\nand from locally discovered unexplored\nterritories and scenic viewpoints (also\nknown as sightseeing spots), which\nincrease income by 2,000 credits each."
+      "name": "Generates revenue from FrontierNET sites\nand from locally discovered secret\nareas and scenic views (also\nknown as sightseeing spots), which\nincrease income by 2,000 credits each."
     },
     {
       "$id": 135,
       "label": "ITM_BCN_TOUR_002_cap",
       "style": 171,
-      "name": "Generates revenue from FrontierNet sites\nand from locally discovered unexplored\nterritories and scenic viewpoints (also\nknown as sightseeing spots), which\nincrease income by 2,500 credits each."
+      "name": "Generates revenue from FrontierNET sites\nand from locally discovered secret\nareas and scenic views (also\nknown as sightseeing spots), which\nincrease income by 2,500 credits each."
     },
     {
       "$id": 136,
       "label": "ITM_BCN_TOUR_003_cap",
       "style": 171,
-      "name": "Generates revenue from FrontierNet sites\nand from locally discovered unexplored\nterritories and scenic viewpoints (also\nknown as sightseeing spots), which\nincrease income by 3,000 credits each."
+      "name": "Generates revenue from FrontierNET sites\nand from locally discovered secret\nareas and scenic views (also\nknown as sightseeing spots), which\nincrease income by 3,000 credits each."
     },
     {
       "$id": 137,
       "label": "ITM_BCN_TOUR_004_cap",
       "style": 171,
-      "name": "Generates revenue from FrontierNet sites\nand from locally discovered unexplored\nterritories and scenic viewpoints (also\nknown as sightseeing spots), which\nincrease income by 3,500 credits each."
+      "name": "Generates revenue from FrontierNET sites\nand from locally discovered secret\nareas and scenic views (also\nknown as sightseeing spots), which\nincrease income by 3,500 credits each."
     },
     {
       "$id": 138,
       "label": "ITM_BCN_TOUR_005_cap",
       "style": 171,
-      "name": "Generates revenue from FrontierNet sites\nand from locally discovered unexplored\nterritories and scenic viewpoints (also\nknown as sightseeing spots), which\nincrease income by 4,000 credits each."
+      "name": "Generates revenue from FrontierNET sites\nand from locally discovered secret\nareas and scenic views (also\nknown as sightseeing spots), which\nincrease income by 4,000 credits each."
     },
     {
       "$id": 139,
       "label": "ITM_BCN_TOUR_006_cap",
       "style": 171,
-      "name": "Generates revenue from FrontierNet sites\nand from locally discovered unexplored\nterritories and scenic viewpoints (also\nknown as sightseeing spots), which\nincrease income by 4,500 credits each."
+      "name": "Generates revenue from FrontierNET sites\nand from locally discovered secret\nareas and scenic views (also\nknown as sightseeing spots), which\nincrease income by 4,500 credits each."
     },
     {
       "$id": 140,
@@ -1014,7 +1014,7 @@
       "$id": 167,
       "label": "ITM_BCN_COPY_001_cap",
       "style": 171,
-      "name": "Copies the function of all adjacent data\nprobes (except other duplicator probes).\nCombos cannot form between duplicator\nprobes and copied probes."
+      "name": "Copies the function of all adjacent data\nprobes (except other copy probes).\nCombos cannot form between copy\nprobes and copied probes."
     },
     {
       "$id": 168,

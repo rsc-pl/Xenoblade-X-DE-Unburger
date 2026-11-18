@@ -1,0 +1,197 @@
+{
+  "schema": [
+    {
+      "name": "ID",
+      "type": 9
+    },
+    {
+      "name": "oName",
+      "type": 1
+    },
+    {
+      "name": "oLv",
+      "type": 1
+    },
+    {
+      "name": "oType",
+      "type": 1
+    },
+    {
+      "name": "oSyu",
+      "type": 1
+    },
+    {
+      "name": "oZoku",
+      "type": 1
+    },
+    {
+      "name": "oPlace",
+      "type": 1
+    },
+    {
+      "name": "oTime",
+      "type": 1
+    },
+    {
+      "name": "oExp",
+      "type": 1
+    },
+    {
+      "name": "oWeather",
+      "type": 1
+    },
+    {
+      "name": "oKill",
+      "type": 1
+    },
+    {
+      "name": "oPKill",
+      "type": 1
+    },
+    {
+      "name": "oCaption",
+      "type": 1
+    },
+    {
+      "name": "oUnion",
+      "type": 1
+    },
+    {
+      "name": "oMoney",
+      "type": 1
+    },
+    {
+      "name": "oKillall",
+      "type": 1
+    },
+    {
+      "name": "oPKillall",
+      "type": 1
+    },
+    {
+      "name": "oHp",
+      "type": 1
+    },
+    {
+      "name": "oKakuto",
+      "type": 1
+    },
+    {
+      "name": "oKMei",
+      "type": 1
+    },
+    {
+      "name": "oSyageki",
+      "type": 1
+    },
+    {
+      "name": "oSMei",
+      "type": 1
+    },
+    {
+      "name": "oSen",
+      "type": 1
+    },
+    {
+      "name": "oEva",
+      "type": 1
+    },
+    {
+      "name": "oResist",
+      "type": 1
+    },
+    {
+      "name": "oDebuff",
+      "type": 1
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "ID": "NORMAL",
+      "oName": 0,
+      "oLv": 0,
+      "oType": 1,
+      "oSyu": 0,
+      "oZoku": 0,
+      "oPlace": 0,
+      "oTime": 3,
+      "oExp": 1,
+      "oWeather": 3,
+      "oKill": 0,
+      "oPKill": 0,
+      "oCaption": 1,
+      "oUnion": 0,
+      "oMoney": 0,
+      "oKillall": 0,
+      "oPKillall": 0,
+      "oHp": 1,
+      "oKakuto": 2,
+      "oKMei": 2,
+      "oSyageki": 2,
+      "oSMei": 2,
+      "oSen": 2,
+      "oEva": 2,
+      "oResist": 2,
+      "oDebuff": 3
+    },
+    {
+      "$id": 2,
+      "ID": "BOSS",
+      "oName": 0,
+      "oLv": 0,
+      "oType": 1,
+      "oSyu": 0,
+      "oZoku": 0,
+      "oPlace": 0,
+      "oTime": 1,
+      "oExp": 1,
+      "oWeather": 1,
+      "oKill": 0,
+      "oPKill": 0,
+      "oCaption": 1,
+      "oUnion": 0,
+      "oMoney": 0,
+      "oKillall": 0,
+      "oPKillall": 0,
+      "oHp": 1,
+      "oKakuto": 1,
+      "oKMei": 1,
+      "oSyageki": 1,
+      "oSMei": 1,
+      "oSen": 1,
+      "oEva": 1,
+      "oResist": 1,
+      "oDebuff": 1
+    },
+    {
+      "$id": 3,
+      "ID": "NM",
+      "oName": 0,
+      "oLv": 0,
+      "oType": 1,
+      "oSyu": 0,
+      "oZoku": 0,
+      "oPlace": 0,
+      "oTime": 1,
+      "oExp": 1,
+      "oWeather": 1,
+      "oKill": 0,
+      "oPKill": 0,
+      "oCaption": 1,
+      "oUnion": 0,
+      "oMoney": 0,
+      "oKillall": 0,
+      "oPKillall": 0,
+      "oHp": 1,
+      "oKakuto": 1,
+      "oKMei": 1,
+      "oSyageki": 1,
+      "oSMei": 1,
+      "oSen": 1,
+      "oEva": 1,
+      "oResist": 1,
+      "oDebuff": 1
+    }
+  ]
+}

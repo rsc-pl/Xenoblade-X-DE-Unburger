@@ -1,0 +1,49 @@
+{
+  "schema": [
+    {
+      "name": "ID",
+      "type": 9
+    },
+    {
+      "name": "Ratio",
+      "type": 1
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "ID": "ATK_ATR_REV_PHYSICAL",
+      "Ratio": 100
+    },
+    {
+      "$id": 2,
+      "ID": "ATK_ATR_REV_BEAM",
+      "Ratio": 50
+    },
+    {
+      "$id": 3,
+      "ID": "ATK_ATR_REV_DM",
+      "Ratio": 25
+    },
+    {
+      "$id": 4,
+      "ID": "ATK_ATR_REV_FIRE",
+      "Ratio": 50
+    },
+    {
+      "$id": 5,
+      "ID": "ATK_ATR_REV_VOLT",
+      "Ratio": 50
+    },
+    {
+      "$id": 6,
+      "ID": "ATK_ATR_REV_GRAVITY",
+      "Ratio": 0
+    },
+    {
+      "$id": 7,
+      "ID": "ATK_ATR_REV_ANTI",
+      "Ratio": 0
+    }
+  ]
+}

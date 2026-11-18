@@ -1,0 +1,29 @@
+{
+  "schema": [
+    {
+      "name": "ID",
+      "type": 9
+    },
+    {
+      "name": "BaseTransferFee",
+      "type": 3
+    },
+    {
+      "name": "FeverMagnification",
+      "type": 1
+    },
+    {
+      "name": "S_FLG_MIN",
+      "type": 2
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "ID": "SCL_UG001",
+      "BaseTransferFee": 100000,
+      "FeverMagnification": 10,
+      "S_FLG_MIN": 0
+    }
+  ]
+}

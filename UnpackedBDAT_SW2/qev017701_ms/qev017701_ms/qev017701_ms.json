@@ -1,0 +1,420 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev017701_MSG0001",
+      "style": 1,
+      "name": "Thanks for coming, [ST:playername ]![ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev017701_MSG0002",
+      "style": 1,
+      "name": "I finally found it! The\nfinal data unit, FN097![ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev017701_MSG0003",
+      "style": 1,
+      "name": "The signal came from the Black Steel\nContinent. It's a dangerous place, but\nyou'll be fine, right?[ST:wait ]"
+    },
+    {
+      "$id": 4,
+      "label": "qev017701_JNK0010",
+      "style": 4,
+      "name": "Affirmative"
+    },
+    {
+      "$id": 5,
+      "label": "qev017701_SEL0011",
+      "style": 3,
+      "name": "State that you can go anytime."
+    },
+    {
+      "$id": 6,
+      "label": "qev017701_JNK0020",
+      "style": 4,
+      "name": "Anxiety"
+    },
+    {
+      "$id": 7,
+      "label": "qev017701_SEL0021",
+      "style": 3,
+      "name": "State that you are anxious given your current abilities."
+    },
+    {
+      "$id": 8,
+      "label": "qev017701_MSG0004",
+      "style": 1,
+      "name": "I've never seen a BLADE like you, not\neven among the elite Pathfinders.[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev017701_MSG0005",
+      "style": 1,
+      "name": "What are you talking about? You're\nunderestimating yourself way too much.[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev017701_MSG0006",
+      "style": 1,
+      "name": "Besides, you have the backup of the\nFrontierNET you've expanded so far.[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev017701_MSG0007",
+      "style": 1,
+      "name": "I guarantee it, you'll be able\nto fully accomplish your mission\neven on the Black Steel Continent.[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev017701_MSG0008",
+      "style": 1,
+      "name": "Please, in order to develop\nthis NLA into the wonderful\ncity my comrades desired...[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev017701_MSG0009",
+      "style": 1,
+      "name": "Gathering Miranium, and\ndefeating the Desert Knox\nrampaging on the Black Steel Continent.[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev017701_MSG0010",
+      "style": 1,
+      "name": "And the recovery of Data Unit FN097[ST:wide ]—[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev017701_MSG0011",
+      "style": 1,
+      "name": "Could I ask this of you? Please\nfind the final fragment entrusted\nto us by my comrades.[ST:wait ]"
+    },
+    {
+      "$id": 16,
+      "label": "qev017701_MSG0012",
+      "style": 1,
+      "name": "\"Next-Generation FrontierNET\"[ST:wide ]— I\nhave no idea what it actually is.[ST:wait ]"
+    },
+    {
+      "$id": 17,
+      "label": "qev017701_MSG0013",
+      "style": 1,
+      "name": "It was research conducted voluntarily\nwith barely any budget, so I doubt\nit's at a practical level.[ST:wait ]"
+    },
+    {
+      "$id": 18,
+      "label": "qev017701_MSG0014",
+      "style": 1,
+      "name": "But, the comrades who continued their research\nfor the future of humanity, forgetting to\neat and sleep aboard the White Whale...[ST:wait ]"
+    },
+    {
+      "$id": 19,
+      "label": "qev017701_MSG0015",
+      "style": 1,
+      "name": "I'm certain it's filled with\ntheir deepest feelings[ST:wide ]—[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev017701_MSG0016",
+      "style": 1,
+      "name": "I'm counting on you.\nMake sure you get it.[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev017701_JNK0030",
+      "style": 4,
+      "name": "Affirmative"
+    },
+    {
+      "$id": 22,
+      "label": "qev017701_SEL0031",
+      "style": 3,
+      "name": "Nod quietly."
+    },
+    {
+      "$id": 23,
+      "label": "qev017701_JNK0040",
+      "style": 4,
+      "name": "Negative"
+    },
+    {
+      "$id": 24,
+      "label": "qev017701_SEL0041",
+      "style": 3,
+      "name": "State that you won't go along with such a personal request."
+    },
+    {
+      "$id": 25,
+      "label": "qev017701_MSG0017",
+      "style": 1,
+      "name": "Because it's a personal matter,\nI was really scared to confide\nthis to you, but...[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev017701_MSG0018",
+      "style": 1,
+      "name": "I'm glad I told you. Please make absolutely\nsure to succeed in this mission.[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev017701_MSG0019",
+      "style": 1,
+      "name": "Thank you for the accurate observation.\nPerhaps I am getting too sentimental.[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev017701_MSG0020",
+      "style": 1,
+      "name": "...But please, make absolutely\nsure to succeed in this mission.[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev017701_MSG0021",
+      "style": 1,
+      "name": "We can never have enough Miranium\nto survive on this planet.[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev017701_MSG0022",
+      "style": 1,
+      "name": "Please, for the sake of humanity, and\nto reward the feelings of my comrades[ST:wide ]—[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev017701_MSG0023",
+      "style": 1,
+      "name": "Make absolutely sure to\nsucceed in this mission.[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev017701_MSG0024",
+      "style": 1,
+      "name": "Many people are eagerly awaiting\nthe Miranium you bring in.[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev017701_MSG0025",
+      "style": 1,
+      "name": "5500gm of Miranium[ST:wide ]— If you've\nobtained it like always, please\nhand it over quickly.[ST:wait ]"
+    },
+    {
+      "$id": 34,
+      "label": "qev017701_JNK0050",
+      "style": 4,
+      "name": "Hand over"
+    },
+    {
+      "$id": 35,
+      "label": "qev017701_SEL0051",
+      "style": 3,
+      "name": "Hand over 5500gm of Miranium."
+    },
+    {
+      "$id": 36,
+      "label": "qev017701_JNK0060",
+      "style": 4,
+      "name": "Do not hand over"
+    },
+    {
+      "$id": 37,
+      "label": "qev017701_SEL0061",
+      "style": 3,
+      "name": "Do not hand it over for now."
+    },
+    {
+      "$id": 38,
+      "label": "qev017701_MSG0026",
+      "style": 1,
+      "name": "You're the only one in all of NLA\nwho can obtain this much Miranium.\nReally, thank you as always...[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "qev017701_MSG0027",
+      "style": 1,
+      "name": "Thank you. I'll leave the missions\non the Black Steel Continent... to you.[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "qev017701_MSG0029",
+      "style": 1,
+      "name": "I understand, I trust your judgment.\nI'm sure there's a deep reason why you\ncan't hand it over right now, right?[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "qev017701_MSG0030",
+      "style": 1,
+      "name": "This is enough Miranium. I'm\ncounting on you for the missions\non the Black Steel Continent.[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "qev017701_MSG0031",
+      "style": 1,
+      "name": "Make sure you grasp the dreams\nentrusted by my comrades.[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "qev017701_MSG0032",
+      "style": 1,
+      "name": "Hehe, I know, mission accomplished[ST:wide ]—\nright? I have indeed received the\nfinal Data Unit as well.[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "qev017701_MSG0033",
+      "style": 1,
+      "name": "Let me say this not as an Operations\nManager, but as a single developer.[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "qev017701_MSG0034",
+      "style": 1,
+      "name": "Thank you. I am truly grateful to you.[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "qev017701_MSG0035",
+      "style": 1,
+      "name": "I shouldn't be the one to say\nthis, but FrontierNET is a\nhighly superior system.[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "qev017701_MSG0036",
+      "style": 1,
+      "name": "But without a user like you, it's\nmeaningless. Just a bunch of Data Probes.[ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "qev017701_MSG0037",
+      "style": 1,
+      "name": "Only because there was a BLADE\nlike you, did the system everyone\nbuilt together become complete.[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "qev017701_JNK0070",
+      "style": 4,
+      "name": "Conviction"
+    },
+    {
+      "$id": 50,
+      "label": "qev017701_SEL0071",
+      "style": 3,
+      "name": "Nod proudly, agreeing with Kirsty's words."
+    },
+    {
+      "$id": 51,
+      "label": "qev017701_JNK0080",
+      "style": 4,
+      "name": "Gratitude"
+    },
+    {
+      "$id": 52,
+      "label": "qev017701_SEL0081",
+      "style": 3,
+      "name": "Thank Kirsty and her team for creating such a convenient system."
+    },
+    {
+      "$id": 53,
+      "label": "qev017701_MSG0038",
+      "style": 1,
+      "name": "If everyone was here, we'd throw a party\nand introduce you to them, but...[ST:wait ]"
+    },
+    {
+      "$id": 54,
+      "label": "qev017701_MSG0039",
+      "style": 1,
+      "name": "If you say that, I'm sure\neveryone would be happy...[ST:wait ]"
+    },
+    {
+      "$id": 55,
+      "label": "qev017701_MSG0040",
+      "style": 1,
+      "name": "...Now, please accept your reward. Truly,\nthank you for everything up until now.[ST:wait ]"
+    },
+    {
+      "$id": 56,
+      "label": "qev017701_MSG0041",
+      "style": 1,
+      "name": "Alright... With this, all the\nData Units are gathered...[ST:wait ]"
+    },
+    {
+      "$id": 57,
+      "label": "qev017701_MSG0042",
+      "style": 1,
+      "name": "Since there's no one left who\nwas involved, and it's protected\nby complex encryption...[ST:wait ]"
+    },
+    {
+      "$id": 58,
+      "label": "qev017701_MSG0043",
+      "style": 1,
+      "name": "It doesn't look like I'll be able to peek\ninside easily, but... I'll do my best to\nsolve the homework everyone left.[ST:wait ]"
+    },
+    {
+      "$id": 59,
+      "label": "qev017701_MSG0044",
+      "style": 1,
+      "name": "In the meantime, please continue to\nuse FrontierNET just like before,\nand save as many people as you can.[ST:wait ]"
+    },
+    {
+      "$id": 60,
+      "label": "qev017701_JNK0090",
+      "style": 4,
+      "name": "Affirmative"
+    },
+    {
+      "$id": 61,
+      "label": "qev017701_SEL0091",
+      "style": 3,
+      "name": "Say that you will accept Kirsty's feelings."
+    },
+    {
+      "$id": 62,
+      "label": "qev017701_JNK0100",
+      "style": 4,
+      "name": "Negative"
+    },
+    {
+      "$id": 63,
+      "label": "qev017701_SEL0101",
+      "style": 3,
+      "name": "Declare that you will use it to satisfy your own desires."
+    },
+    {
+      "$id": 64,
+      "label": "qev017701_MSG0045",
+      "style": 1,
+      "name": "Thank you. Once I confirm the data\ninside, I'll report to you first, so\nplease come see me once in a while.[ST:wait ]"
+    },
+    {
+      "$id": 65,
+      "label": "qev017701_MSG0046",
+      "style": 1,
+      "name": "I'd like to hear all sorts of\nstories about how you're using\nFrontierNET in the future too.[ST:wait ]"
+    },
+    {
+      "$id": 66,
+      "label": "qev017701_MSG0047",
+      "style": 1,
+      "name": "How greedy... You sound\njust like Tobias.[ST:wait ]"
+    },
+    {
+      "$id": 67,
+      "label": "qev017701_MSG0048",
+      "style": 1,
+      "name": "I pray you don't end up like him.[ST:wait ]"
+    }
+  ]
+}

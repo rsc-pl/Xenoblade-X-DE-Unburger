@@ -18,7 +18,7 @@
       "$id": 1,
       "label": "DEBUF_STAGGER_Name",
       "style": 18,
-      "name": "Stagger"
+      "name": "Break"
     },
     {
       "$id": 2,
@@ -192,7 +192,7 @@
       "$id": 30,
       "label": "DEBUF_DAMAGE_HARD_Name",
       "style": 18,
-      "name": "Appendage Lost"
+      "name": "Part Destruction"
     },
     {
       "$id": 31,
@@ -216,7 +216,7 @@
       "$id": 34,
       "label": "DEBUF_STAGGER_PARTS_BREAK_Name",
       "style": 18,
-      "name": "Appendage Lost"
+      "name": "Part Destruction"
     },
     {
       "$id": 35,
@@ -294,7 +294,7 @@
       "$id": 47,
       "label": "BUF_DAMAGE_ARMOR_Name",
       "style": 18,
-      "name": "Damage Barrier"
+      "name": "Damage Armor"
     },
     {
       "$id": 48,
@@ -306,7 +306,7 @@
       "$id": 49,
       "label": "BUF_VISION_Name",
       "style": 18,
-      "name": "Decoy"
+      "name": "Fake Body"
     },
     {
       "$id": 50,
@@ -342,7 +342,7 @@
       "$id": 55,
       "label": "BUF_LAND_INVALID_Name",
       "style": 18,
-      "name": "Terrain Immunity"
+      "name": "Terrain Damage Immunity"
     },
     {
       "$id": 56,
@@ -366,7 +366,7 @@
       "$id": 59,
       "label": "AURA_BLACK_ROBE_Name",
       "style": 18,
-      "name": "Full Specs"
+      "name": "Full Spec"
     },
     {
       "$id": 60,
@@ -378,7 +378,7 @@
       "$id": 61,
       "label": "AURA_FRONT_LINE_Name",
       "style": 18,
-      "name": "Non-Medic"
+      "name": "No Medic"
     },
     {
       "$id": 62,
@@ -438,7 +438,7 @@
       "$id": 71,
       "label": "AURA_SPEED_STAR_Name",
       "style": 18,
-      "name": "Speedster"
+      "name": "Speed Star"
     },
     {
       "$id": 72,
@@ -684,37 +684,37 @@
       "$id": 112,
       "label": "BUF_CHANGE_PHYSICS_Name",
       "style": 18,
-      "name": "Elemental Shift (Physical)"
+      "name": "Attribute Shift (Physical)"
     },
     {
       "$id": 113,
       "label": "BUF_CHANGE_BEAM_Name",
       "style": 18,
-      "name": "Elemental Shift (Beam)"
+      "name": "Attribute Shift (Beam)"
     },
     {
       "$id": 114,
       "label": "BUF_CHANGE_DM_Name",
       "style": 18,
-      "name": "Elemental Shift (Ether)"
+      "name": "Attribute Shift (Ether)"
     },
     {
       "$id": 115,
       "label": "BUF_CHANGE_FIRE_Name",
       "style": 18,
-      "name": "Elemental Shift (Heat)"
+      "name": "Attribute Shift (Heat)"
     },
     {
       "$id": 116,
       "label": "BUF_CHANGE_VOLT_Name",
       "style": 18,
-      "name": "Elemental Shift (Bolt)"
+      "name": "Attribute Shift (Bolt)"
     },
     {
       "$id": 117,
       "label": "BUF_CHANGE_GRAVITY_Name",
       "style": 18,
-      "name": "Elemental Shift (Gravity)"
+      "name": "Attribute Shift (Gravity)"
     },
     {
       "$id": 118,

@@ -1,0 +1,202 @@
+{
+  "schema": [
+    {
+      "name": "ID",
+      "type": 9
+    },
+    {
+      "name": "MinDistance",
+      "type": 8
+    },
+    {
+      "name": "MaxDistance",
+      "type": 8
+    },
+    {
+      "name": "MinDistance2",
+      "type": 8
+    },
+    {
+      "name": "MaxDistance2",
+      "type": 8
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "ID": "SE_ENV_PC",
+      "MinDistance": 1.0,
+      "MaxDistance": 30.0,
+      "MinDistance2": 1.0,
+      "MaxDistance2": 50.0
+    },
+    {
+      "$id": 2,
+      "ID": "SE_ENV_DOLL",
+      "MinDistance": 5.0,
+      "MaxDistance": 75.0,
+      "MinDistance2": 5.0,
+      "MaxDistance2": 150.0
+    },
+    {
+      "$id": 3,
+      "ID": "SE_ENV_ENEMY_S",
+      "MinDistance": 3.0,
+      "MaxDistance": 30.0,
+      "MinDistance2": 3.0,
+      "MaxDistance2": 75.0
+    },
+    {
+      "$id": 4,
+      "ID": "SE_ENV_ENEMY_M",
+      "MinDistance": 5.0,
+      "MaxDistance": 50.0,
+      "MinDistance2": 5.0,
+      "MaxDistance2": 75.0
+    },
+    {
+      "$id": 5,
+      "ID": "SE_ENV_ENEMY_L",
+      "MinDistance": 10.0,
+      "MaxDistance": 75.0,
+      "MinDistance2": 10.0,
+      "MaxDistance2": 75.0
+    },
+    {
+      "$id": 6,
+      "ID": "SE_ENV_ENEMY_LL",
+      "MinDistance": 20.0,
+      "MaxDistance": 100.0,
+      "MinDistance2": 20.0,
+      "MaxDistance2": 200.0
+    },
+    {
+      "$id": 7,
+      "ID": "SE_ENV_ENEMY_LLL",
+      "MinDistance": 50.0,
+      "MaxDistance": 250.0,
+      "MinDistance2": 75.0,
+      "MaxDistance2": 500.0
+    },
+    {
+      "$id": 8,
+      "ID": "SE_ENV_ENEMY_AIGIS",
+      "MinDistance": 300.0,
+      "MaxDistance": 3300.0,
+      "MinDistance2": 300.0,
+      "MaxDistance2": 3300.0
+    },
+    {
+      "$id": 9,
+      "ID": "SE_ENV_NPC",
+      "MinDistance": 5.0,
+      "MaxDistance": 30.0,
+      "MinDistance2": 0.0,
+      "MaxDistance2": 0.0
+    },
+    {
+      "$id": 10,
+      "ID": "SE_ENV_GMK_DOOR",
+      "MinDistance": 5.0,
+      "MaxDistance": 15.0,
+      "MinDistance2": 0.0,
+      "MaxDistance2": 0.0
+    },
+    {
+      "$id": 11,
+      "ID": "SE_ENV_GMK_ELV",
+      "MinDistance": 5.0,
+      "MaxDistance": 20.0,
+      "MinDistance2": 0.0,
+      "MaxDistance2": 0.0
+    },
+    {
+      "$id": 12,
+      "ID": "SE_ENV_GMK_MAPOBJ",
+      "MinDistance": 5.0,
+      "MaxDistance": 30.0,
+      "MinDistance2": 0.0,
+      "MaxDistance2": 0.0
+    },
+    {
+      "$id": 13,
+      "ID": "SE_ENV_GMK_MAPOBJ_DOLL",
+      "MinDistance": 5.0,
+      "MaxDistance": 50.0,
+      "MinDistance2": 0.0,
+      "MaxDistance2": 0.0
+    },
+    {
+      "$id": 14,
+      "ID": "SE_ENV_GMK_TBOX",
+      "MinDistance": 5.0,
+      "MaxDistance": 15.0,
+      "MinDistance2": 0.0,
+      "MaxDistance2": 0.0
+    },
+    {
+      "$id": 15,
+      "ID": "SE_ENV_GMK_VEHICLE",
+      "MinDistance": 5.0,
+      "MaxDistance": 30.0,
+      "MinDistance2": 0.0,
+      "MaxDistance2": 0.0
+    },
+    {
+      "$id": 16,
+      "ID": "SE_ENV_GMK_WARP",
+      "MinDistance": 5.0,
+      "MaxDistance": 15.0,
+      "MinDistance2": 0.0,
+      "MaxDistance2": 0.0
+    },
+    {
+      "$id": 17,
+      "ID": "SE_ENV_GMK_WTR_CHANGER",
+      "MinDistance": 5.0,
+      "MaxDistance": 30.0,
+      "MinDistance2": 0.0,
+      "MaxDistance2": 0.0
+    },
+    {
+      "$id": 18,
+      "ID": "SE_ENV_GMK_SYMBOL_ENE",
+      "MinDistance": 5.0,
+      "MaxDistance": 30.0,
+      "MinDistance2": 0.0,
+      "MaxDistance2": 0.0
+    },
+    {
+      "$id": 19,
+      "ID": "SE_ENV_MOB",
+      "MinDistance": 5.0,
+      "MaxDistance": 15.0,
+      "MinDistance2": 0.0,
+      "MaxDistance2": 0.0
+    },
+    {
+      "$id": 20,
+      "ID": "SE_ENV_GMK_MAPOBJ_DOLL_WALK",
+      "MinDistance": 15.0,
+      "MaxDistance": 75.0,
+      "MinDistance2": 0.0,
+      "MaxDistance2": 0.0
+    },
+    {
+      "$id": 21,
+      "ID": "SE_ENV_GMK_VTOL",
+      "MinDistance": 20.0,
+      "MaxDistance": 80.0,
+      "MinDistance2": 0.0,
+      "MaxDistance2": 0.0
+    },
+    {
+      "$id": 22,
+      "ID": "SE_ENV_ENEMY_CoreVita",
+      "MinDistance": 200.0,
+      "MaxDistance": 1000.0,
+      "MinDistance2": 100.0,
+      "MaxDistance2": 1000.0
+    }
+  ]
+}

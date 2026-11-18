@@ -1,0 +1,1366 @@
+{
+  "schema": [
+    {
+      "name": "ID",
+      "type": 9
+    },
+    {
+      "name": "POS_X",
+      "type": 5
+    },
+    {
+      "name": "POS_Y",
+      "type": 5
+    },
+    {
+      "name": "POS_Z",
+      "type": 5
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "ID": "FIGURE_BASE01",
+      "POS_X": -1038,
+      "POS_Y": 253,
+      "POS_Z": -1711
+    },
+    {
+      "$id": 2,
+      "ID": "FIGURE_BASE02",
+      "POS_X": -1618,
+      "POS_Y": 253,
+      "POS_Z": -1711
+    },
+    {
+      "$id": 3,
+      "ID": "FIGURE_BASE03",
+      "POS_X": -2197,
+      "POS_Y": 253,
+      "POS_Z": -1711
+    },
+    {
+      "$id": 4,
+      "ID": "FIGURE_BASE04",
+      "POS_X": -2786,
+      "POS_Y": 253,
+      "POS_Z": -1711
+    },
+    {
+      "$id": 5,
+      "ID": "FIGURE_BASE05",
+      "POS_X": -3370,
+      "POS_Y": 253,
+      "POS_Z": -1711
+    },
+    {
+      "$id": 6,
+      "ID": "FIGURE_EXT_01",
+      "POS_X": 50,
+      "POS_Y": 50,
+      "POS_Z": 0
+    },
+    {
+      "$id": 7,
+      "ID": "FIGURE_EXT_02",
+      "POS_X": -50,
+      "POS_Y": 50,
+      "POS_Z": 0
+    },
+    {
+      "$id": 8,
+      "ID": "FIGURE_EXT_03",
+      "POS_X": 0,
+      "POS_Y": 0,
+      "POS_Z": 100
+    },
+    {
+      "$id": 9,
+      "ID": "FIGURE_EXT_04",
+      "POS_X": 0,
+      "POS_Y": 0,
+      "POS_Z": 100
+    },
+    {
+      "$id": 10,
+      "ID": "FIGURE_EXT_05",
+      "POS_X": 0,
+      "POS_Y": -50,
+      "POS_Z": 0
+    },
+    {
+      "$id": 11,
+      "ID": "FIGURE_EXT_06",
+      "POS_X": 0,
+      "POS_Y": 50,
+      "POS_Z": 0
+    },
+    {
+      "$id": 12,
+      "ID": "FIGURE_EXT_07",
+      "POS_X": 0,
+      "POS_Y": -50,
+      "POS_Z": 100
+    },
+    {
+      "$id": 13,
+      "ID": "FIGURE_EXT_08",
+      "POS_X": 0,
+      "POS_Y": 50,
+      "POS_Z": 100
+    },
+    {
+      "$id": 14,
+      "ID": "FIGURE_EXT_09",
+      "POS_X": 0,
+      "POS_Y": -50,
+      "POS_Z": 100
+    },
+    {
+      "$id": 15,
+      "ID": "FIGURE_EXT_10",
+      "POS_X": 0,
+      "POS_Y": 50,
+      "POS_Z": 100
+    },
+    {
+      "$id": 16,
+      "ID": "FIGURE_EXT_11",
+      "POS_X": 0,
+      "POS_Y": -25,
+      "POS_Z": 125
+    },
+    {
+      "$id": 17,
+      "ID": "FIGURE_EXT_12",
+      "POS_X": 0,
+      "POS_Y": 0,
+      "POS_Z": 125
+    },
+    {
+      "$id": 18,
+      "ID": "FIGURE_EXT_13",
+      "POS_X": 0,
+      "POS_Y": 50,
+      "POS_Z": 125
+    },
+    {
+      "$id": 19,
+      "ID": "FIGURE_EXT_14",
+      "POS_X": 0,
+      "POS_Y": 0,
+      "POS_Z": 0
+    },
+    {
+      "$id": 20,
+      "ID": "FIGURE_EXT_15",
+      "POS_X": 0,
+      "POS_Y": 0,
+      "POS_Z": 0
+    },
+    {
+      "$id": 21,
+      "ID": "FIGURE_EXT_16",
+      "POS_X": 0,
+      "POS_Y": 0,
+      "POS_Z": 0
+    },
+    {
+      "$id": 22,
+      "ID": "FIGPOS_EN010301",
+      "POS_X": -6,
+      "POS_Y": 10,
+      "POS_Z": 50
+    },
+    {
+      "$id": 23,
+      "ID": "FIGPOS_EN010501",
+      "POS_X": -15,
+      "POS_Y": 0,
+      "POS_Z": 20
+    },
+    {
+      "$id": 24,
+      "ID": "FIGPOS_EN010601",
+      "POS_X": 0,
+      "POS_Y": -48,
+      "POS_Z": 20
+    },
+    {
+      "$id": 25,
+      "ID": "FIGPOS_EN010901",
+      "POS_X": 15,
+      "POS_Y": 0,
+      "POS_Z": 0
+    },
+    {
+      "$id": 26,
+      "ID": "FIGPOS_EN011201",
+      "POS_X": 10,
+      "POS_Y": -14,
+      "POS_Z": -30
+    },
+    {
+      "$id": 27,
+      "ID": "FIGPOS_EN011302",
+      "POS_X": 0,
+      "POS_Y": -15,
+      "POS_Z": 0
+    },
+    {
+      "$id": 28,
+      "ID": "FIGPOS_EN011601",
+      "POS_X": 15,
+      "POS_Y": 0,
+      "POS_Z": -15
+    },
+    {
+      "$id": 29,
+      "ID": "FIGPOS_EN011602",
+      "POS_X": -10,
+      "POS_Y": 0,
+      "POS_Z": -10
+    },
+    {
+      "$id": 30,
+      "ID": "FIGPOS_EN011801",
+      "POS_X": -25,
+      "POS_Y": -15,
+      "POS_Z": 30
+    },
+    {
+      "$id": 31,
+      "ID": "FIGPOS_EN012501",
+      "POS_X": 0,
+      "POS_Y": -20,
+      "POS_Z": 0
+    },
+    {
+      "$id": 32,
+      "ID": "FIGPOS_EN013001",
+      "POS_X": 0,
+      "POS_Y": -14,
+      "POS_Z": 0
+    },
+    {
+      "$id": 33,
+      "ID": "FIGPOS_EN020301",
+      "POS_X": 0,
+      "POS_Y": 0,
+      "POS_Z": -10
+    },
+    {
+      "$id": 34,
+      "ID": "FIGPOS_EN020302",
+      "POS_X": -10,
+      "POS_Y": 0,
+      "POS_Z": -10
+    },
+    {
+      "$id": 35,
+      "ID": "FIGPOS_EN020501",
+      "POS_X": -10,
+      "POS_Y": 0,
+      "POS_Z": 0
+    },
+    {
+      "$id": 36,
+      "ID": "FIGPOS_EN021011",
+      "POS_X": -10,
+      "POS_Y": 0,
+      "POS_Z": 0
+    },
+    {
+      "$id": 37,
+      "ID": "FIGPOS_EN021301",
+      "POS_X": -45,
+      "POS_Y": 0,
+      "POS_Z": 0
+    },
+    {
+      "$id": 38,
+      "ID": "FIGPOS_EN025201",
+      "POS_X": 0,
+      "POS_Y": -10,
+      "POS_Z": -20
+    },
+    {
+      "$id": 39,
+      "ID": "FIGPOS_EN025401",
+      "POS_X": -5,
+      "POS_Y": 0,
+      "POS_Z": -5
+    },
+    {
+      "$id": 40,
+      "ID": "FIGPOS_EN040102",
+      "POS_X": 15,
+      "POS_Y": 0,
+      "POS_Z": -25
+    },
+    {
+      "$id": 41,
+      "ID": "FIGPOS_EN040106",
+      "POS_X": 0,
+      "POS_Y": 0,
+      "POS_Z": -50
+    },
+    {
+      "$id": 42,
+      "ID": "FIGPOS_EN040401",
+      "POS_X": -25,
+      "POS_Y": 0,
+      "POS_Z": -45
+    },
+    {
+      "$id": 43,
+      "ID": "FIGPOS_EN040402",
+      "POS_X": 10,
+      "POS_Y": 0,
+      "POS_Z": -35
+    },
+    {
+      "$id": 44,
+      "ID": "FIGPOS_EN040601",
+      "POS_X": 0,
+      "POS_Y": 0,
+      "POS_Z": 30
+    },
+    {
+      "$id": 45,
+      "ID": "FIGPOS_EN040703",
+      "POS_X": 0,
+      "POS_Y": -20,
+      "POS_Z": 0
+    },
+    {
+      "$id": 46,
+      "ID": "FIGPOS_EN041001",
+      "POS_X": 0,
+      "POS_Y": 13,
+      "POS_Z": 0
+    },
+    {
+      "$id": 47,
+      "ID": "FIGPOS_EN041101",
+      "POS_X": 20,
+      "POS_Y": 0,
+      "POS_Z": -28
+    },
+    {
+      "$id": 48,
+      "ID": "FIGPOS_EN041102",
+      "POS_X": 0,
+      "POS_Y": 0,
+      "POS_Z": -40
+    },
+    {
+      "$id": 49,
+      "ID": "FIGPOS_EN050301",
+      "POS_X": -30,
+      "POS_Y": 30,
+      "POS_Z": 0
+    },
+    {
+      "$id": 50,
+      "ID": "FIGPOS_EN050302",
+      "POS_X": 0,
+      "POS_Y": 30,
+      "POS_Z": 30
+    },
+    {
+      "$id": 51,
+      "ID": "FIGPOS_EN050401",
+      "POS_X": 25,
+      "POS_Y": 50,
+      "POS_Z": -80
+    },
+    {
+      "$id": 52,
+      "ID": "FIGPOS_EN050402",
+      "POS_X": 0,
+      "POS_Y": 0,
+      "POS_Z": -50
+    },
+    {
+      "$id": 53,
+      "ID": "FIGPOS_EN050501",
+      "POS_X": -50,
+      "POS_Y": 30,
+      "POS_Z": 50
+    },
+    {
+      "$id": 54,
+      "ID": "FIGPOS_EN050502",
+      "POS_X": 20,
+      "POS_Y": 40,
+      "POS_Z": 0
+    },
+    {
+      "$id": 55,
+      "ID": "FIGPOS_EN060401",
+      "POS_X": -100,
+      "POS_Y": 20,
+      "POS_Z": -90
+    },
+    {
+      "$id": 56,
+      "ID": "FIGPOS_EN060402",
+      "POS_X": -60,
+      "POS_Y": 0,
+      "POS_Z": 20
+    },
+    {
+      "$id": 57,
+      "ID": "FIGPOS_EN060501",
+      "POS_X": 0,
+      "POS_Y": 0,
+      "POS_Z": 40
+    },
+    {
+      "$id": 58,
+      "ID": "FIGPOS_EN060601",
+      "POS_X": -20,
+      "POS_Y": 0,
+      "POS_Z": 0
+    },
+    {
+      "$id": 59,
+      "ID": "FIGPOS_EN060701",
+      "POS_X": -20,
+      "POS_Y": 0,
+      "POS_Z": -20
+    },
+    {
+      "$id": 60,
+      "ID": "FIGPOS_EN060702",
+      "POS_X": -45,
+      "POS_Y": 0,
+      "POS_Z": -40
+    },
+    {
+      "$id": 61,
+      "ID": "FIGPOS_EN060703",
+      "POS_X": 30,
+      "POS_Y": 0,
+      "POS_Z": -25
+    },
+    {
+      "$id": 62,
+      "ID": "FIGPOS_EN060706",
+      "POS_X": -20,
+      "POS_Y": 0,
+      "POS_Z": -20
+    },
+    {
+      "$id": 63,
+      "ID": "FIGPOS_EN060801",
+      "POS_X": 10,
+      "POS_Y": 0,
+      "POS_Z": 0
+    },
+    {
+      "$id": 64,
+      "ID": "FIGPOS_EN060805",
+      "POS_X": -7,
+      "POS_Y": 0,
+      "POS_Z": 16
+    },
+    {
+      "$id": 65,
+      "ID": "FIGPOS_EN060901",
+      "POS_X": 15,
+      "POS_Y": 0,
+      "POS_Z": 0
+    },
+    {
+      "$id": 66,
+      "ID": "FIGPOS_EN060902",
+      "POS_X": 20,
+      "POS_Y": 0,
+      "POS_Z": -10
+    },
+    {
+      "$id": 67,
+      "ID": "FIGPOS_EN061001",
+      "POS_X": 10,
+      "POS_Y": 0,
+      "POS_Z": 0
+    },
+    {
+      "$id": 68,
+      "ID": "FIGPOS_EN061101",
+      "POS_X": -6,
+      "POS_Y": 0,
+      "POS_Z": 0
+    },
+    {
+      "$id": 69,
+      "ID": "FIGPOS_EN061201",
+      "POS_X": -32,
+      "POS_Y": 0,
+      "POS_Z": 26
+    },
+    {
+      "$id": 70,
+      "ID": "FIGPOS_EN061202",
+      "POS_X": -5,
+      "POS_Y": 0,
+      "POS_Z": 10
+    },
+    {
+      "$id": 71,
+      "ID": "FIGPOS_EN070201",
+      "POS_X": -10,
+      "POS_Y": 50,
+      "POS_Z": -50
+    },
+    {
+      "$id": 72,
+      "ID": "FIGPOS_EN070202",
+      "POS_X": 0,
+      "POS_Y": 30,
+      "POS_Z": -55
+    },
+    {
+      "$id": 73,
+      "ID": "FIGPOS_EN070301",
+      "POS_X": 0,
+      "POS_Y": 20,
+      "POS_Z": -30
+    },
+    {
+      "$id": 74,
+      "ID": "FIGPOS_EN070302",
+      "POS_X": -240,
+      "POS_Y": -270,
+      "POS_Z": 270
+    },
+    {
+      "$id": 75,
+      "ID": "FIGPOS_EN070401",
+      "POS_X": 30,
+      "POS_Y": 120,
+      "POS_Z": 60
+    },
+    {
+      "$id": 76,
+      "ID": "FIGPOS_EN070501",
+      "POS_X": 10,
+      "POS_Y": 35,
+      "POS_Z": 60
+    },
+    {
+      "$id": 77,
+      "ID": "FIGPOS_EN070601",
+      "POS_X": 0,
+      "POS_Y": 30,
+      "POS_Z": 0
+    },
+    {
+      "$id": 78,
+      "ID": "FIGPOS_EN070801",
+      "POS_X": 12,
+      "POS_Y": 0,
+      "POS_Z": -12
+    },
+    {
+      "$id": 79,
+      "ID": "FIGPOS_EN070802",
+      "POS_X": 3,
+      "POS_Y": -5,
+      "POS_Z": 18
+    },
+    {
+      "$id": 80,
+      "ID": "FIGPOS_EN070803",
+      "POS_X": 23,
+      "POS_Y": 0,
+      "POS_Z": 50
+    },
+    {
+      "$id": 81,
+      "ID": "FIGPOS_EN070901",
+      "POS_X": 0,
+      "POS_Y": -45,
+      "POS_Z": -15
+    },
+    {
+      "$id": 82,
+      "ID": "FIGPOS_EN070502",
+      "POS_X": 0,
+      "POS_Y": 90,
+      "POS_Z": -35
+    },
+    {
+      "$id": 83,
+      "ID": "FIGPOS_EN071001",
+      "POS_X": 0,
+      "POS_Y": -100,
+      "POS_Z": 0
+    },
+    {
+      "$id": 84,
+      "ID": "FIGPOS_EN071002",
+      "POS_X": 25,
+      "POS_Y": -60,
+      "POS_Z": -53
+    },
+    {
+      "$id": 85,
+      "ID": "FIGPOS_EN090101",
+      "POS_X": 30,
+      "POS_Y": 0,
+      "POS_Z": 25
+    },
+    {
+      "$id": 86,
+      "ID": "FIGPOS_EN090102",
+      "POS_X": -20,
+      "POS_Y": 0,
+      "POS_Z": -15
+    },
+    {
+      "$id": 87,
+      "ID": "FIGPOS_EN090201",
+      "POS_X": -25,
+      "POS_Y": 0,
+      "POS_Z": 0
+    },
+    {
+      "$id": 88,
+      "ID": "FIGPOS_EN090402",
+      "POS_X": -30,
+      "POS_Y": 0,
+      "POS_Z": -40
+    },
+    {
+      "$id": 89,
+      "ID": "FIGPOS_EN090501",
+      "POS_X": 20,
+      "POS_Y": 0,
+      "POS_Z": -32
+    },
+    {
+      "$id": 90,
+      "ID": "FIGPOS_EN090502",
+      "POS_X": -15,
+      "POS_Y": 0,
+      "POS_Z": -55
+    },
+    {
+      "$id": 91,
+      "ID": "FIGPOS_WS111001R",
+      "POS_X": 0,
+      "POS_Y": 130,
+      "POS_Z": 0
+    },
+    {
+      "$id": 92,
+      "ID": "FIGPOS_WS111101R",
+      "POS_X": 15,
+      "POS_Y": 160,
+      "POS_Z": 0
+    },
+    {
+      "$id": 93,
+      "ID": "FIGPOS_WS111201R",
+      "POS_X": 30,
+      "POS_Y": 140,
+      "POS_Z": 0
+    },
+    {
+      "$id": 94,
+      "ID": "FIGPOS_WS111301R",
+      "POS_X": 45,
+      "POS_Y": 150,
+      "POS_Z": 0
+    },
+    {
+      "$id": 95,
+      "ID": "FIGPOS_WS112101R",
+      "POS_X": 50,
+      "POS_Y": 150,
+      "POS_Z": 0
+    },
+    {
+      "$id": 96,
+      "ID": "FIGPOS_WS115101R",
+      "POS_X": 30,
+      "POS_Y": 155,
+      "POS_Z": 0
+    },
+    {
+      "$id": 97,
+      "ID": "FIGPOS_WS113101R",
+      "POS_X": -30,
+      "POS_Y": 200,
+      "POS_Z": 0
+    },
+    {
+      "$id": 98,
+      "ID": "FIGPOS_WS118101R",
+      "POS_X": 35,
+      "POS_Y": 150,
+      "POS_Z": 0
+    },
+    {
+      "$id": 99,
+      "ID": "FIGPOS_WS121101R",
+      "POS_X": -80,
+      "POS_Y": 160,
+      "POS_Z": 0
+    },
+    {
+      "$id": 100,
+      "ID": "FIGPOS_WS121201R",
+      "POS_X": -110,
+      "POS_Y": 160,
+      "POS_Z": 0
+    },
+    {
+      "$id": 101,
+      "ID": "FIGPOS_WS122101R",
+      "POS_X": -100,
+      "POS_Y": 175,
+      "POS_Z": 0
+    },
+    {
+      "$id": 102,
+      "ID": "FIGPOS_WS123101R",
+      "POS_X": -120,
+      "POS_Y": 165,
+      "POS_Z": 0
+    },
+    {
+      "$id": 103,
+      "ID": "FIGPOS_WS124101R",
+      "POS_X": -100,
+      "POS_Y": 185,
+      "POS_Z": 0
+    },
+    {
+      "$id": 104,
+      "ID": "FIGPOS_WS125101R",
+      "POS_X": -90,
+      "POS_Y": 160,
+      "POS_Z": 0
+    },
+    {
+      "$id": 105,
+      "ID": "FIGPOS_WS125201R",
+      "POS_X": -70,
+      "POS_Y": 160,
+      "POS_Z": 0
+    },
+    {
+      "$id": 106,
+      "ID": "FIGPOS_WS131101R",
+      "POS_X": -20,
+      "POS_Y": 130,
+      "POS_Z": 20
+    },
+    {
+      "$id": 107,
+      "ID": "FIGPOS_WS131101L",
+      "POS_X": -100,
+      "POS_Y": 200,
+      "POS_Z": -20
+    },
+    {
+      "$id": 108,
+      "ID": "FIGPOS_WS131201R",
+      "POS_X": -20,
+      "POS_Y": 140,
+      "POS_Z": 20
+    },
+    {
+      "$id": 109,
+      "ID": "FIGPOS_WS131201L",
+      "POS_X": -100,
+      "POS_Y": 210,
+      "POS_Z": -20
+    },
+    {
+      "$id": 110,
+      "ID": "FIGPOS_WS132101R",
+      "POS_X": 15,
+      "POS_Y": 150,
+      "POS_Z": 20
+    },
+    {
+      "$id": 111,
+      "ID": "FIGPOS_WS132101L",
+      "POS_X": -75,
+      "POS_Y": 220,
+      "POS_Z": -20
+    },
+    {
+      "$id": 112,
+      "ID": "FIGPOS_WS133101R",
+      "POS_X": 35,
+      "POS_Y": 135,
+      "POS_Z": 20
+    },
+    {
+      "$id": 113,
+      "ID": "FIGPOS_WS133101L",
+      "POS_X": -50,
+      "POS_Y": 205,
+      "POS_Z": -20
+    },
+    {
+      "$id": 114,
+      "ID": "FIGPOS_WS133201R",
+      "POS_X": 45,
+      "POS_Y": 140,
+      "POS_Z": 20
+    },
+    {
+      "$id": 115,
+      "ID": "FIGPOS_WS133201L",
+      "POS_X": -75,
+      "POS_Y": 210,
+      "POS_Z": 20
+    },
+    {
+      "$id": 116,
+      "ID": "FIGPOS_WS134101R",
+      "POS_X": -50,
+      "POS_Y": 140,
+      "POS_Z": 20
+    },
+    {
+      "$id": 117,
+      "ID": "FIGPOS_WS134101L",
+      "POS_X": -140,
+      "POS_Y": 220,
+      "POS_Z": -20
+    },
+    {
+      "$id": 118,
+      "ID": "FIGPOS_WS141101R",
+      "POS_X": 75,
+      "POS_Y": 210,
+      "POS_Z": -75
+    },
+    {
+      "$id": 119,
+      "ID": "FIGPOS_WS142101R",
+      "POS_X": 100,
+      "POS_Y": 205,
+      "POS_Z": -100
+    },
+    {
+      "$id": 120,
+      "ID": "FIGPOS_WS143101R",
+      "POS_X": 50,
+      "POS_Y": 175,
+      "POS_Z": -50
+    },
+    {
+      "$id": 121,
+      "ID": "FIGPOS_WS144101R",
+      "POS_X": 100,
+      "POS_Y": 185,
+      "POS_Z": -100
+    },
+    {
+      "$id": 122,
+      "ID": "FIGPOS_WS144201R",
+      "POS_X": 50,
+      "POS_Y": 200,
+      "POS_Z": -50
+    },
+    {
+      "$id": 123,
+      "ID": "FIGPOS_WS147101R",
+      "POS_X": 105,
+      "POS_Y": 210,
+      "POS_Z": -105
+    },
+    {
+      "$id": 124,
+      "ID": "FIGPOS_WS151101R",
+      "POS_X": -100,
+      "POS_Y": 220,
+      "POS_Z": -120
+    },
+    {
+      "$id": 125,
+      "ID": "FIGPOS_WS152101R",
+      "POS_X": -100,
+      "POS_Y": 200,
+      "POS_Z": -100
+    },
+    {
+      "$id": 126,
+      "ID": "FIGPOS_WS152201R",
+      "POS_X": -150,
+      "POS_Y": 200,
+      "POS_Z": -150
+    },
+    {
+      "$id": 127,
+      "ID": "FIGPOS_WS153101R",
+      "POS_X": -170,
+      "POS_Y": 190,
+      "POS_Z": -170
+    },
+    {
+      "$id": 128,
+      "ID": "FIGPOS_WS154101R",
+      "POS_X": -115,
+      "POS_Y": 170,
+      "POS_Z": -115
+    },
+    {
+      "$id": 129,
+      "ID": "FIGPOS_WS154201R",
+      "POS_X": -80,
+      "POS_Y": 170,
+      "POS_Z": -80
+    },
+    {
+      "$id": 130,
+      "ID": "FIGPOS_WS158101R",
+      "POS_X": -115,
+      "POS_Y": 200,
+      "POS_Z": -115
+    },
+    {
+      "$id": 131,
+      "ID": "FIGPOS_WS161101R",
+      "POS_X": -60,
+      "POS_Y": 170,
+      "POS_Z": -20
+    },
+    {
+      "$id": 132,
+      "ID": "FIGPOS_WS161101L",
+      "POS_X": 50,
+      "POS_Y": 220,
+      "POS_Z": -60
+    },
+    {
+      "$id": 133,
+      "ID": "FIGPOS_WS163101R",
+      "POS_X": -53,
+      "POS_Y": 185,
+      "POS_Z": -40
+    },
+    {
+      "$id": 134,
+      "ID": "FIGPOS_WS163101L",
+      "POS_X": 43,
+      "POS_Y": 235,
+      "POS_Z": -80
+    },
+    {
+      "$id": 135,
+      "ID": "FIGPOS_WS164101R",
+      "POS_X": -70,
+      "POS_Y": 190,
+      "POS_Z": 10
+    },
+    {
+      "$id": 136,
+      "ID": "FIGPOS_WS164101L",
+      "POS_X": 60,
+      "POS_Y": 240,
+      "POS_Z": -30
+    },
+    {
+      "$id": 137,
+      "ID": "FIGPOS_WS164201R",
+      "POS_X": -74,
+      "POS_Y": 165,
+      "POS_Z": 20
+    },
+    {
+      "$id": 138,
+      "ID": "FIGPOS_WS164201L",
+      "POS_X": 64,
+      "POS_Y": 215,
+      "POS_Z": -20
+    },
+    {
+      "$id": 139,
+      "ID": "FIGPOS_WS164301R",
+      "POS_X": -80,
+      "POS_Y": 150,
+      "POS_Z": 40
+    },
+    {
+      "$id": 140,
+      "ID": "FIGPOS_WS164301L",
+      "POS_X": 70,
+      "POS_Y": 200,
+      "POS_Z": 0
+    },
+    {
+      "$id": 141,
+      "ID": "FIGPOS_WS166101R",
+      "POS_X": -70,
+      "POS_Y": 160,
+      "POS_Z": 10
+    },
+    {
+      "$id": 142,
+      "ID": "FIGPOS_WS166101L",
+      "POS_X": 60,
+      "POS_Y": 210,
+      "POS_Z": -30
+    },
+    {
+      "$id": 143,
+      "ID": "FIGPOS_WS167101R",
+      "POS_X": -65,
+      "POS_Y": 160,
+      "POS_Z": -5
+    },
+    {
+      "$id": 144,
+      "ID": "FIGPOS_WS167101L",
+      "POS_X": 55,
+      "POS_Y": 210,
+      "POS_Z": -45
+    },
+    {
+      "$id": 145,
+      "ID": "FIGPOS_WS172101R",
+      "POS_X": -65,
+      "POS_Y": 205,
+      "POS_Z": -65
+    },
+    {
+      "$id": 146,
+      "ID": "FIGPOS_WS211101R",
+      "POS_X": 0,
+      "POS_Y": 110,
+      "POS_Z": 0
+    },
+    {
+      "$id": 147,
+      "ID": "FIGPOS_WS211201R",
+      "POS_X": -40,
+      "POS_Y": 100,
+      "POS_Z": 10
+    },
+    {
+      "$id": 148,
+      "ID": "FIGPOS_WS211251R",
+      "POS_X": 20,
+      "POS_Y": 150,
+      "POS_Z": -10
+    },
+    {
+      "$id": 149,
+      "ID": "FIGPOS_WS212201R",
+      "POS_X": -45,
+      "POS_Y": 120,
+      "POS_Z": 10
+    },
+    {
+      "$id": 150,
+      "ID": "FIGPOS_WS212251R",
+      "POS_X": 15,
+      "POS_Y": 130,
+      "POS_Z": -10
+    },
+    {
+      "$id": 151,
+      "ID": "FIGPOS_WS212101R",
+      "POS_X": -17,
+      "POS_Y": 130,
+      "POS_Z": 0
+    },
+    {
+      "$id": 152,
+      "ID": "FIGPOS_WS214101R",
+      "POS_X": 10,
+      "POS_Y": 110,
+      "POS_Z": 0
+    },
+    {
+      "$id": 153,
+      "ID": "FIGPOS_WS215101R",
+      "POS_X": -30,
+      "POS_Y": 120,
+      "POS_Z": 0
+    },
+    {
+      "$id": 154,
+      "ID": "FIGPOS_WS215151R",
+      "POS_X": 30,
+      "POS_Y": 150,
+      "POS_Z": 0
+    },
+    {
+      "$id": 155,
+      "ID": "FIGPOS_WS215201R",
+      "POS_X": -30,
+      "POS_Y": 100,
+      "POS_Z": 0
+    },
+    {
+      "$id": 156,
+      "ID": "FIGPOS_WS215251R",
+      "POS_X": 30,
+      "POS_Y": 130,
+      "POS_Z": 0
+    },
+    {
+      "$id": 157,
+      "ID": "FIGPOS_WS215301R",
+      "POS_X": -10,
+      "POS_Y": 110,
+      "POS_Z": 0
+    },
+    {
+      "$id": 158,
+      "ID": "FIGPOS_WS218101R",
+      "POS_X": 0,
+      "POS_Y": 125,
+      "POS_Z": 0
+    },
+    {
+      "$id": 159,
+      "ID": "FIGPOS_WS221101R",
+      "POS_X": 120,
+      "POS_Y": 80,
+      "POS_Z": 0
+    },
+    {
+      "$id": 160,
+      "ID": "FIGPOS_WS223101R",
+      "POS_X": 140,
+      "POS_Y": 60,
+      "POS_Z": 0
+    },
+    {
+      "$id": 161,
+      "ID": "FIGPOS_WS226101R",
+      "POS_X": 110,
+      "POS_Y": 90,
+      "POS_Z": 0
+    },
+    {
+      "$id": 162,
+      "ID": "FIGPOS_WS231101R",
+      "POS_X": 70,
+      "POS_Y": 140,
+      "POS_Z": 10
+    },
+    {
+      "$id": 163,
+      "ID": "FIGPOS_WS231101L",
+      "POS_X": -70,
+      "POS_Y": 160,
+      "POS_Z": -10
+    },
+    {
+      "$id": 164,
+      "ID": "FIGPOS_WS231201R",
+      "POS_X": 70,
+      "POS_Y": 170,
+      "POS_Z": 10
+    },
+    {
+      "$id": 165,
+      "ID": "FIGPOS_WS231201L",
+      "POS_X": -70,
+      "POS_Y": 190,
+      "POS_Z": -10
+    },
+    {
+      "$id": 166,
+      "ID": "FIGPOS_WS234101R",
+      "POS_X": 80,
+      "POS_Y": 130,
+      "POS_Z": 10
+    },
+    {
+      "$id": 167,
+      "ID": "FIGPOS_WS234101L",
+      "POS_X": -80,
+      "POS_Y": 150,
+      "POS_Z": -10
+    },
+    {
+      "$id": 168,
+      "ID": "FIGPOS_WS241101R",
+      "POS_X": 0,
+      "POS_Y": 190,
+      "POS_Z": 0
+    },
+    {
+      "$id": 169,
+      "ID": "FIGPOS_WS241201R",
+      "POS_X": 0,
+      "POS_Y": 200,
+      "POS_Z": 0
+    },
+    {
+      "$id": 170,
+      "ID": "FIGPOS_WS244201R",
+      "POS_X": 0,
+      "POS_Y": 270,
+      "POS_Z": 0
+    },
+    {
+      "$id": 171,
+      "ID": "FIGPOS_WS247101R",
+      "POS_X": 0,
+      "POS_Y": 170,
+      "POS_Z": 0
+    },
+    {
+      "$id": 172,
+      "ID": "FIGPOS_WS251101R",
+      "POS_X": 0,
+      "POS_Y": 230,
+      "POS_Z": 10
+    },
+    {
+      "$id": 173,
+      "ID": "FIGPOS_WS251151R",
+      "POS_X": -45,
+      "POS_Y": 190,
+      "POS_Z": -10
+    },
+    {
+      "$id": 174,
+      "ID": "FIGPOS_WS251201R",
+      "POS_X": 10,
+      "POS_Y": 225,
+      "POS_Z": 10
+    },
+    {
+      "$id": 175,
+      "ID": "FIGPOS_WS251301R",
+      "POS_X": -15,
+      "POS_Y": 240,
+      "POS_Z": 10
+    },
+    {
+      "$id": 176,
+      "ID": "FIGPOS_WS251351R",
+      "POS_X": -60,
+      "POS_Y": 195,
+      "POS_Z": -10
+    },
+    {
+      "$id": 177,
+      "ID": "FIGPOS_WS252101R",
+      "POS_X": -20,
+      "POS_Y": 242,
+      "POS_Z": 0
+    },
+    {
+      "$id": 178,
+      "ID": "FIGPOS_WS254101R",
+      "POS_X": -3,
+      "POS_Y": 194,
+      "POS_Z": 0
+    },
+    {
+      "$id": 179,
+      "ID": "FIGPOS_WS256101R",
+      "POS_X": -15,
+      "POS_Y": 200,
+      "POS_Z": 0
+    },
+    {
+      "$id": 180,
+      "ID": "FIGPOS_WS256151R",
+      "POS_X": 55,
+      "POS_Y": 240,
+      "POS_Z": 0
+    },
+    {
+      "$id": 181,
+      "ID": "FIGPOS_WS256201R",
+      "POS_X": -40,
+      "POS_Y": 240,
+      "POS_Z": 0
+    },
+    {
+      "$id": 182,
+      "ID": "FIGPOS_WS257101R",
+      "POS_X": -25,
+      "POS_Y": 226,
+      "POS_Z": 0
+    },
+    {
+      "$id": 183,
+      "ID": "FIGPOS_WS261101R",
+      "POS_X": -34,
+      "POS_Y": 115,
+      "POS_Z": 0
+    },
+    {
+      "$id": 184,
+      "ID": "FIGPOS_WS262101R",
+      "POS_X": -30,
+      "POS_Y": 110,
+      "POS_Z": 10
+    },
+    {
+      "$id": 185,
+      "ID": "FIGPOS_WS262151R",
+      "POS_X": -25,
+      "POS_Y": 200,
+      "POS_Z": -10
+    },
+    {
+      "$id": 186,
+      "ID": "FIGPOS_WS262201R",
+      "POS_X": -20,
+      "POS_Y": 110,
+      "POS_Z": 0
+    },
+    {
+      "$id": 187,
+      "ID": "FIGPOS_WS264101R",
+      "POS_X": -35,
+      "POS_Y": 110,
+      "POS_Z": 0
+    },
+    {
+      "$id": 188,
+      "ID": "FIGPOS_WS264201R",
+      "POS_X": -30,
+      "POS_Y": 110,
+      "POS_Z": 0
+    },
+    {
+      "$id": 189,
+      "ID": "FIGPOS_WS265101R",
+      "POS_X": -65,
+      "POS_Y": 75,
+      "POS_Z": 0
+    },
+    {
+      "$id": 190,
+      "ID": "FIGPOS_870001",
+      "POS_X": 0,
+      "POS_Y": 30,
+      "POS_Z": 0
+    },
+    {
+      "$id": 191,
+      "ID": "FIGPOS_870037",
+      "POS_X": -17,
+      "POS_Y": 20,
+      "POS_Z": -13
+    },
+    {
+      "$id": 192,
+      "ID": "FIGPOS_EN780101",
+      "POS_X": 0,
+      "POS_Y": 300,
+      "POS_Z": -220
+    }
+  ]
+}

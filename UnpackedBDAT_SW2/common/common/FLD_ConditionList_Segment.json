@@ -1,0 +1,914 @@
+{
+  "schema": [
+    {
+      "name": "ID",
+      "type": 9
+    },
+    {
+      "name": "zoneID1",
+      "type": 5
+    },
+    {
+      "name": "segMin1",
+      "type": 2
+    },
+    {
+      "name": "segMax1",
+      "type": 2
+    },
+    {
+      "name": "zoneID2",
+      "type": 5
+    },
+    {
+      "name": "segMin2",
+      "type": 2
+    },
+    {
+      "name": "segMax2",
+      "type": 2
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "ID": "COND_SEG_1501_UN_15",
+      "zoneID1": 2,
+      "segMin1": 0,
+      "segMax1": 1499,
+      "zoneID2": 0,
+      "segMin2": 0,
+      "segMax2": 0
+    },
+    {
+      "$id": 2,
+      "ID": "COND_SEG_1501_OV_10",
+      "zoneID1": 2,
+      "segMin1": 1000,
+      "segMax1": 10000,
+      "zoneID2": 0,
+      "segMin2": 0,
+      "segMax2": 0
+    },
+    {
+      "$id": 3,
+      "ID": "COND_SEG_1501_OV_15",
+      "zoneID1": 2,
+      "segMin1": 1500,
+      "segMax1": 10000,
+      "zoneID2": 0,
+      "segMin2": 0,
+      "segMax2": 0
+    },
+    {
+      "$id": 4,
+      "ID": "COND_SEG_1501_OV_30",
+      "zoneID1": 2,
+      "segMin1": 3000,
+      "segMax1": 10000,
+      "zoneID2": 0,
+      "segMin2": 0,
+      "segMax2": 0
+    },
+    {
+      "$id": 5,
+      "ID": "COND_SEG_1501_OV_50",
+      "zoneID1": 2,
+      "segMin1": 5000,
+      "segMax1": 10000,
+      "zoneID2": 0,
+      "segMin2": 0,
+      "segMax2": 0
+    },
+    {
+      "$id": 6,
+      "ID": "COND_SEG_1501_OV_90",
+      "zoneID1": 2,
+      "segMin1": 9000,
+      "segMax1": 10000,
+      "zoneID2": 0,
+      "segMin2": 0,
+      "segMax2": 0
+    },
+    {
+      "$id": 7,
+      "ID": "COND_SEG_1501_UN_90",
+      "zoneID1": 2,
+      "segMin1": 0,
+      "segMax1": 8999,
+      "zoneID2": 0,
+      "segMin2": 0,
+      "segMax2": 0
+    },
+    {
+      "$id": 8,
+      "ID": "COND_SEG_1601_UN_15",
+      "zoneID1": 4,
+      "segMin1": 0,
+      "segMax1": 1499,
+      "zoneID2": 0,
+      "segMin2": 0,
+      "segMax2": 0
+    },
+    {
+      "$id": 9,
+      "ID": "COND_SEG_1601_OV_15",
+      "zoneID1": 4,
+      "segMin1": 1500,
+      "segMax1": 10000,
+      "zoneID2": 0,
+      "segMin2": 0,
+      "segMax2": 0
+    },
+    {
+      "$id": 10,
+      "ID": "COND_SEG_1601_OV_20",
+      "zoneID1": 4,
+      "segMin1": 2000,
+      "segMax1": 10000,
+      "zoneID2": 0,
+      "segMin2": 0,
+      "segMax2": 0
+    },
+    {
+      "$id": 11,
+      "ID": "COND_SEG_1601_OV_85",
+      "zoneID1": 4,
+      "segMin1": 8500,
+      "segMax1": 10000,
+      "zoneID2": 0,
+      "segMin2": 0,
+      "segMax2": 0
+    },
+    {
+      "$id": 12,
+      "ID": "COND_SEG_1601_UN_30",
+      "zoneID1": 4,
+      "segMin1": 0,
+      "segMax1": 2999,
+      "zoneID2": 0,
+      "segMin2": 0,
+      "segMax2": 0
+    },
+    {
+      "$id": 13,
+      "ID": "COND_SEG_1601_OV_30",
+      "zoneID1": 4,
+      "segMin1": 3000,
+      "segMax1": 10000,
+      "zoneID2": 0,
+      "segMin2": 0,
+      "segMax2": 0
+    },
+    {
+      "$id": 14,
+      "ID": "COND_SEG_1601_UN_45",
+      "zoneID1": 4,
+      "segMin1": 0,
+      "segMax1": 3499,
+      "zoneID2": 0,
+      "segMin2": 0,
+      "segMax2": 0
+    },
+    {
+      "$id": 15,
+      "ID": "COND_SEG_1601_OV_45",
+      "zoneID1": 4,
+      "segMin1": 4500,
+      "segMax1": 10000,
+      "zoneID2": 0,
+      "segMin2": 0,
+      "segMax2": 0
+    },
+    {
+      "$id": 16,
+      "ID": "COND_SEG_1601_OV_40",
+      "zoneID1": 4,
+      "segMin1": 4000,
+      "segMax1": 10000,
+      "zoneID2": 0,
+      "segMin2": 0,
+      "segMax2": 0
+    },
+    {
+      "$id": 17,
+      "ID": "COND_SEG_1601_UN_80",
+      "zoneID1": 4,
+      "segMin1": 0,
+      "segMax1": 7999,
+      "zoneID2": 0,
+      "segMin2": 0,
+      "segMax2": 0
+    },
+    {
+      "$id": 18,
+      "ID": "COND_SEG_1601_OV_80",
+      "zoneID1": 4,
+      "segMin1": 8000,
+      "segMax1": 10000,
+      "zoneID2": 0,
+      "segMin2": 0,
+      "segMax2": 0
+    },
+    {
+      "$id": 19,
+      "ID": "COND_SEG_1601_UN_85",
+      "zoneID1": 4,
+      "segMin1": 0,
+      "segMax1": 8499,
+      "zoneID2": 0,
+      "segMin2": 0,
+      "segMax2": 0
+    },
+    {
+      "$id": 20,
+      "ID": "COND_SEG_1701_OV_20",
+      "zoneID1": 5,
+      "segMin1": 2000,
+      "segMax1": 10000,
+      "zoneID2": 0,
+      "segMin2": 0,
+      "segMax2": 0
+    },
+    {
+      "$id": 21,
+      "ID": "COND_SEG_1701_OV_30",
+      "zoneID1": 5,
+      "segMin1": 3000,
+      "segMax1": 10000,
+      "zoneID2": 0,
+      "segMin2": 0,
+      "segMax2": 0
+    },
+    {
+      "$id": 22,
+      "ID": "COND_SEG_1701_OV_40",
+      "zoneID1": 5,
+      "segMin1": 4000,
+      "segMax1": 10000,
+      "zoneID2": 0,
+      "segMin2": 0,
+      "segMax2": 0
+    },
+    {
+      "$id": 23,
+      "ID": "COND_SEG_1701_OV_50",
+      "zoneID1": 5,
+      "segMin1": 5000,
+      "segMax1": 10000,
+      "zoneID2": 0,
+      "segMin2": 0,
+      "segMax2": 0
+    },
+    {
+      "$id": 24,
+      "ID": "COND_SEG_1701_OV_60",
+      "zoneID1": 5,
+      "segMin1": 6000,
+      "segMax1": 10000,
+      "zoneID2": 0,
+      "segMin2": 0,
+      "segMax2": 0
+    },
+    {
+      "$id": 25,
+      "ID": "COND_SEG_1701_UN_50",
+      "zoneID1": 5,
+      "segMin1": 0,
+      "segMax1": 4999,
+      "zoneID2": 0,
+      "segMin2": 0,
+      "segMax2": 0
+    },
+    {
+      "$id": 26,
+      "ID": "COND_SEG_1701_UN_60",
+      "zoneID1": 5,
+      "segMin1": 0,
+      "segMax1": 5999,
+      "zoneID2": 0,
+      "segMin2": 0,
+      "segMax2": 0
+    },
+    {
+      "$id": 27,
+      "ID": "COND_SEG_1701_UN_70",
+      "zoneID1": 5,
+      "segMin1": 0,
+      "segMax1": 6999,
+      "zoneID2": 0,
+      "segMin2": 0,
+      "segMax2": 0
+    },
+    {
+      "$id": 28,
+      "ID": "COND_SEG_1701_OV_70",
+      "zoneID1": 5,
+      "segMin1": 7000,
+      "segMax1": 10000,
+      "zoneID2": 0,
+      "segMin2": 0,
+      "segMax2": 0
+    },
+    {
+      "$id": 29,
+      "ID": "COND_SEG_2001_UN_50",
+      "zoneID1": 6,
+      "segMin1": 0,
+      "segMax1": 4999,
+      "zoneID2": 0,
+      "segMin2": 0,
+      "segMax2": 0
+    },
+    {
+      "$id": 30,
+      "ID": "COND_SEG_2201_OV_40",
+      "zoneID1": 7,
+      "segMin1": 4000,
+      "segMax1": 10000,
+      "zoneID2": 0,
+      "segMin2": 0,
+      "segMax2": 0
+    },
+    {
+      "$id": 31,
+      "ID": "COND_SEG_2001_OV_30",
+      "zoneID1": 6,
+      "segMin1": 3000,
+      "segMax1": 10000,
+      "zoneID2": 0,
+      "segMin2": 0,
+      "segMax2": 0
+    },
+    {
+      "$id": 32,
+      "ID": "COND_SEG_2001_OV_50",
+      "zoneID1": 6,
+      "segMin1": 5000,
+      "segMax1": 10000,
+      "zoneID2": 0,
+      "segMin2": 0,
+      "segMax2": 0
+    },
+    {
+      "$id": 33,
+      "ID": "COND_SEG_2001_OV_80",
+      "zoneID1": 6,
+      "segMin1": 8000,
+      "segMax1": 10000,
+      "zoneID2": 0,
+      "segMin2": 0,
+      "segMax2": 0
+    },
+    {
+      "$id": 34,
+      "ID": "COND_SEG_TOTAL_OV_20",
+      "zoneID1": -1,
+      "segMin1": 2000,
+      "segMax1": 10000,
+      "zoneID2": 0,
+      "segMin2": 0,
+      "segMax2": 0
+    },
+    {
+      "$id": 35,
+      "ID": "COND_SEG_TOTAL_OV_40",
+      "zoneID1": -1,
+      "segMin1": 4000,
+      "segMax1": 10000,
+      "zoneID2": 0,
+      "segMin2": 0,
+      "segMax2": 0
+    },
+    {
+      "$id": 36,
+      "ID": "COND_SEG_TOTAL_OV_50",
+      "zoneID1": -1,
+      "segMin1": 5000,
+      "segMax1": 10000,
+      "zoneID2": 0,
+      "segMin2": 0,
+      "segMax2": 0
+    },
+    {
+      "$id": 37,
+      "ID": "COND_SEG_TOTAL_OV_60",
+      "zoneID1": -1,
+      "segMin1": 6000,
+      "segMax1": 10000,
+      "zoneID2": 0,
+      "segMin2": 0,
+      "segMax2": 0
+    },
+    {
+      "$id": 38,
+      "ID": "COND_SEG_TOTAL_OV_80",
+      "zoneID1": -1,
+      "segMin1": 8000,
+      "segMax1": 10000,
+      "zoneID2": 0,
+      "segMin2": 0,
+      "segMax2": 0
+    },
+    {
+      "$id": 39,
+      "ID": "COND_SEG_TOTAL_OV_85",
+      "zoneID1": -1,
+      "segMin1": 8500,
+      "segMax1": 10000,
+      "zoneID2": 0,
+      "segMin2": 0,
+      "segMax2": 0
+    },
+    {
+      "$id": 40,
+      "ID": "COND_SEG_TOTAL_UN_20",
+      "zoneID1": -1,
+      "segMin1": 0,
+      "segMax1": 1999,
+      "zoneID2": 0,
+      "segMin2": 0,
+      "segMax2": 0
+    },
+    {
+      "$id": 41,
+      "ID": "COND_SEG_TOTAL_UN_40",
+      "zoneID1": -1,
+      "segMin1": 0,
+      "segMax1": 3999,
+      "zoneID2": 0,
+      "segMin2": 0,
+      "segMax2": 0
+    },
+    {
+      "$id": 42,
+      "ID": "COND_SEG_TOTAL_UN_60",
+      "zoneID1": -1,
+      "segMin1": 0,
+      "segMax1": 5999,
+      "zoneID2": 0,
+      "segMin2": 0,
+      "segMax2": 0
+    },
+    {
+      "$id": 43,
+      "ID": "COND_SEG_TOTAL_UN_80",
+      "zoneID1": -1,
+      "segMin1": 0,
+      "segMax1": 7999,
+      "zoneID2": 0,
+      "segMin2": 0,
+      "segMax2": 0
+    },
+    {
+      "$id": 44,
+      "ID": "COND_SEG_TOTAL_UN_85",
+      "zoneID1": -1,
+      "segMin1": 0,
+      "segMax1": 8499,
+      "zoneID2": 0,
+      "segMin2": 0,
+      "segMax2": 0
+    },
+    {
+      "$id": 45,
+      "ID": "SEG_1501_OV_20",
+      "zoneID1": 2,
+      "segMin1": 2000,
+      "segMax1": 10000,
+      "zoneID2": 0,
+      "segMin2": 0,
+      "segMax2": 0
+    },
+    {
+      "$id": 46,
+      "ID": "SEG_1501_OV_40",
+      "zoneID1": 2,
+      "segMin1": 4000,
+      "segMax1": 10000,
+      "zoneID2": 0,
+      "segMin2": 0,
+      "segMax2": 0
+    },
+    {
+      "$id": 47,
+      "ID": "SEG_1501_OV_60",
+      "zoneID1": 2,
+      "segMin1": 6000,
+      "segMax1": 10000,
+      "zoneID2": 0,
+      "segMin2": 0,
+      "segMax2": 0
+    },
+    {
+      "$id": 48,
+      "ID": "SEG_1501_OV_80",
+      "zoneID1": 2,
+      "segMin1": 8000,
+      "segMax1": 10000,
+      "zoneID2": 0,
+      "segMin2": 0,
+      "segMax2": 0
+    },
+    {
+      "$id": 49,
+      "ID": "SEG_1501_OV_100",
+      "zoneID1": 2,
+      "segMin1": 10000,
+      "segMax1": 10000,
+      "zoneID2": 0,
+      "segMin2": 0,
+      "segMax2": 0
+    },
+    {
+      "$id": 50,
+      "ID": "SEG_1601_OV_20",
+      "zoneID1": 4,
+      "segMin1": 2000,
+      "segMax1": 10000,
+      "zoneID2": 0,
+      "segMin2": 0,
+      "segMax2": 0
+    },
+    {
+      "$id": 51,
+      "ID": "SEG_1601_OV_40",
+      "zoneID1": 4,
+      "segMin1": 4000,
+      "segMax1": 10000,
+      "zoneID2": 0,
+      "segMin2": 0,
+      "segMax2": 0
+    },
+    {
+      "$id": 52,
+      "ID": "SEG_1601_OV_60",
+      "zoneID1": 4,
+      "segMin1": 6000,
+      "segMax1": 10000,
+      "zoneID2": 0,
+      "segMin2": 0,
+      "segMax2": 0
+    },
+    {
+      "$id": 53,
+      "ID": "SEG_1601_OV_80",
+      "zoneID1": 4,
+      "segMin1": 8000,
+      "segMax1": 10000,
+      "zoneID2": 0,
+      "segMin2": 0,
+      "segMax2": 0
+    },
+    {
+      "$id": 54,
+      "ID": "SEG_1601_OV_100",
+      "zoneID1": 4,
+      "segMin1": 10000,
+      "segMax1": 10000,
+      "zoneID2": 0,
+      "segMin2": 0,
+      "segMax2": 0
+    },
+    {
+      "$id": 55,
+      "ID": "SEG_1701_OV_20",
+      "zoneID1": 5,
+      "segMin1": 2000,
+      "segMax1": 10000,
+      "zoneID2": 0,
+      "segMin2": 0,
+      "segMax2": 0
+    },
+    {
+      "$id": 56,
+      "ID": "SEG_1701_OV_40",
+      "zoneID1": 5,
+      "segMin1": 4000,
+      "segMax1": 10000,
+      "zoneID2": 0,
+      "segMin2": 0,
+      "segMax2": 0
+    },
+    {
+      "$id": 57,
+      "ID": "SEG_1701_OV_60",
+      "zoneID1": 5,
+      "segMin1": 6000,
+      "segMax1": 10000,
+      "zoneID2": 0,
+      "segMin2": 0,
+      "segMax2": 0
+    },
+    {
+      "$id": 58,
+      "ID": "SEG_1701_OV_80",
+      "zoneID1": 5,
+      "segMin1": 8000,
+      "segMax1": 10000,
+      "zoneID2": 0,
+      "segMin2": 0,
+      "segMax2": 0
+    },
+    {
+      "$id": 59,
+      "ID": "SEG_1701_OV_100",
+      "zoneID1": 5,
+      "segMin1": 10000,
+      "segMax1": 10000,
+      "zoneID2": 0,
+      "segMin2": 0,
+      "segMax2": 0
+    },
+    {
+      "$id": 60,
+      "ID": "SEG_2201_OV_20",
+      "zoneID1": 7,
+      "segMin1": 2000,
+      "segMax1": 10000,
+      "zoneID2": 0,
+      "segMin2": 0,
+      "segMax2": 0
+    },
+    {
+      "$id": 61,
+      "ID": "SEG_2201_OV_40",
+      "zoneID1": 7,
+      "segMin1": 4000,
+      "segMax1": 10000,
+      "zoneID2": 0,
+      "segMin2": 0,
+      "segMax2": 0
+    },
+    {
+      "$id": 62,
+      "ID": "SEG_2201_OV_60",
+      "zoneID1": 7,
+      "segMin1": 6000,
+      "segMax1": 10000,
+      "zoneID2": 0,
+      "segMin2": 0,
+      "segMax2": 0
+    },
+    {
+      "$id": 63,
+      "ID": "SEG_2201_OV_80",
+      "zoneID1": 7,
+      "segMin1": 8000,
+      "segMax1": 10000,
+      "zoneID2": 0,
+      "segMin2": 0,
+      "segMax2": 0
+    },
+    {
+      "$id": 64,
+      "ID": "SEG_2201_OV_100",
+      "zoneID1": 7,
+      "segMin1": 10000,
+      "segMax1": 10000,
+      "zoneID2": 0,
+      "segMin2": 0,
+      "segMax2": 0
+    },
+    {
+      "$id": 65,
+      "ID": "SEG_2001_OV_20",
+      "zoneID1": 6,
+      "segMin1": 2000,
+      "segMax1": 10000,
+      "zoneID2": 0,
+      "segMin2": 0,
+      "segMax2": 0
+    },
+    {
+      "$id": 66,
+      "ID": "SEG_2001_UN_20",
+      "zoneID1": 6,
+      "segMin1": 0,
+      "segMax1": 1999,
+      "zoneID2": 0,
+      "segMin2": 0,
+      "segMax2": 0
+    },
+    {
+      "$id": 67,
+      "ID": "SEG_2001_OV_40",
+      "zoneID1": 6,
+      "segMin1": 4000,
+      "segMax1": 10000,
+      "zoneID2": 0,
+      "segMin2": 0,
+      "segMax2": 0
+    },
+    {
+      "$id": 68,
+      "ID": "SEG_2001_OV_60",
+      "zoneID1": 6,
+      "segMin1": 6000,
+      "segMax1": 10000,
+      "zoneID2": 0,
+      "segMin2": 0,
+      "segMax2": 0
+    },
+    {
+      "$id": 69,
+      "ID": "SEG_2001_OV_80",
+      "zoneID1": 6,
+      "segMin1": 8000,
+      "segMax1": 10000,
+      "zoneID2": 0,
+      "segMin2": 0,
+      "segMax2": 0
+    },
+    {
+      "$id": 70,
+      "ID": "SEG_2001_OV_100",
+      "zoneID1": 6,
+      "segMin1": 10000,
+      "segMax1": 10000,
+      "zoneID2": 0,
+      "segMin2": 0,
+      "segMax2": 0
+    },
+    {
+      "$id": 71,
+      "ID": "SEG_ALL_OV_20",
+      "zoneID1": -1,
+      "segMin1": 2000,
+      "segMax1": 10000,
+      "zoneID2": 0,
+      "segMin2": 0,
+      "segMax2": 0
+    },
+    {
+      "$id": 72,
+      "ID": "SEG_ALL_OV_40",
+      "zoneID1": -1,
+      "segMin1": 4000,
+      "segMax1": 10000,
+      "zoneID2": 0,
+      "segMin2": 0,
+      "segMax2": 0
+    },
+    {
+      "$id": 73,
+      "ID": "SEG_ALL_OV_60",
+      "zoneID1": -1,
+      "segMin1": 6000,
+      "segMax1": 10000,
+      "zoneID2": 0,
+      "segMin2": 0,
+      "segMax2": 0
+    },
+    {
+      "$id": 74,
+      "ID": "SEG_ALL_OV_80",
+      "zoneID1": -1,
+      "segMin1": 8000,
+      "segMax1": 10000,
+      "zoneID2": 0,
+      "segMin2": 0,
+      "segMax2": 0
+    },
+    {
+      "$id": 75,
+      "ID": "SEG_ALL_OV_100",
+      "zoneID1": -1,
+      "segMin1": 10000,
+      "segMax1": 10000,
+      "zoneID2": 0,
+      "segMin2": 0,
+      "segMax2": 0
+    },
+    {
+      "$id": 76,
+      "ID": "SEG_M04",
+      "zoneID1": 2,
+      "segMin1": 1500,
+      "segMax1": 10000,
+      "zoneID2": 0,
+      "segMin2": 0,
+      "segMax2": 0
+    },
+    {
+      "$id": 77,
+      "ID": "SEG_M06",
+      "zoneID1": 4,
+      "segMin1": 2000,
+      "segMax1": 10000,
+      "zoneID2": 0,
+      "segMin2": 0,
+      "segMax2": 0
+    },
+    {
+      "$id": 78,
+      "ID": "SEG_M07",
+      "zoneID1": 5,
+      "segMin1": 2500,
+      "segMax1": 10000,
+      "zoneID2": 0,
+      "segMin2": 0,
+      "segMax2": 0
+    },
+    {
+      "$id": 79,
+      "ID": "SEG_M08",
+      "zoneID1": -1,
+      "segMin1": 1000,
+      "segMax1": 10000,
+      "zoneID2": 0,
+      "segMin2": 0,
+      "segMax2": 0
+    },
+    {
+      "$id": 80,
+      "ID": "SEG_M10",
+      "zoneID1": 7,
+      "segMin1": 1500,
+      "segMax1": 10000,
+      "zoneID2": 0,
+      "segMin2": 0,
+      "segMax2": 0
+    },
+    {
+      "$id": 81,
+      "ID": "SEG_M11",
+      "zoneID1": 6,
+      "segMin1": 1000,
+      "segMax1": 10000,
+      "zoneID2": 0,
+      "segMin2": 0,
+      "segMax2": 0
+    },
+    {
+      "$id": 82,
+      "ID": "COND_SEG_1501_UN_50",
+      "zoneID1": 2,
+      "segMin1": 0,
+      "segMax1": 4999,
+      "zoneID2": 0,
+      "segMin2": 0,
+      "segMax2": 0
+    },
+    {
+      "$id": 83,
+      "ID": "COND_SEG_1701_UN_40",
+      "zoneID1": 5,
+      "segMin1": 0,
+      "segMax1": 3999,
+      "zoneID2": 0,
+      "segMin2": 0,
+      "segMax2": 0
+    },
+    {
+      "$id": 84,
+      "ID": "SEG_ALL_OV_18",
+      "zoneID1": -1,
+      "segMin1": 1800,
+      "segMax1": 10000,
+      "zoneID2": 0,
+      "segMin2": 0,
+      "segMax2": 0
+    },
+    {
+      "$id": 85,
+      "ID": "SEG_1601_OV_25",
+      "zoneID1": 4,
+      "segMin1": 2500,
+      "segMax1": 10000,
+      "zoneID2": 0,
+      "segMin2": 0,
+      "segMax2": 0
+    },
+    {
+      "$id": 86,
+      "ID": "COND_SEG_2001_OV_65",
+      "zoneID1": 6,
+      "segMin1": 6500,
+      "segMax1": 10000,
+      "zoneID2": 0,
+      "segMin2": 0,
+      "segMax2": 0
+    },
+    {
+      "$id": 87,
+      "ID": "COND_SEG_qst0871_01",
+      "zoneID1": -1,
+      "segMin1": 1400,
+      "segMax1": 10000,
+      "zoneID2": 0,
+      "segMin2": 0,
+      "segMax2": 0
+    },
+    {
+      "$id": 88,
+      "ID": "COND_SEG_qst0871_02",
+      "zoneID1": -1,
+      "segMin1": 1500,
+      "segMax1": 10000,
+      "zoneID2": 0,
+      "segMin2": 0,
+      "segMax2": 0
+    }
+  ]
+}

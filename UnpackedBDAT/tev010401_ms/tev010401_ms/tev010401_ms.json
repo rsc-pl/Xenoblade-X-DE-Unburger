@@ -174,7 +174,7 @@
       "$id": 27,
       "label": "tev010401_SEL1031",
       "style": 3,
-      "name": "Ask Carl about his thoughts on your battle with the Zu Pharg."
+      "name": "Ask Carl about his thoughts on your battle with the Zu Hagg."
     },
     {
       "$id": 28,
@@ -198,7 +198,7 @@
       "$id": 31,
       "label": "tev010401_MSG0001",
       "style": 1,
-      "name": "That gate over there? The east one? Can\nyou believe how long it's been sealed?\nThis is really getting to be a hassle![ST:wait ]"
+      "name": "That gate over there[ST:wide ]—the East Gate. It's\nbeen closed far too long... It's\nseriously inconvenient.[ST:wait ]"
     },
     {
       "$id": 32,
@@ -294,7 +294,7 @@
       "$id": 47,
       "label": "tev010401_MSG0017",
       "style": 1,
-      "name": "Now he's sending me on a super-hard\nmission in some area we've barely\ngot any FrontierNet info about.[ST:wait ]"
+      "name": "Now he's sending me on a super-hard\nmission in some area we've barely\ngot any FrontierNET info about.[ST:wait ]"
     },
     {
       "$id": 48,
@@ -348,7 +348,7 @@
       "$id": 56,
       "label": "tev010401_MSG0026",
       "style": 1,
-      "name": "Ah, I shouldn't keep you. You\nhave a report to file. Hurry\nover to the Home[ST:gender p1=, man! p2=! ] Go go go![ST:wait ]"
+      "name": "Ah, I shouldn't keep you. You\nhave a report to file. Hurry\nover to the BLADE Home[ST:gender p1=, man! p2=! ] Go go go![ST:wait ]"
     },
     {
       "$id": 57,
@@ -366,13 +366,13 @@
       "$id": 59,
       "label": "tev010401_MSG0029",
       "style": 1,
-      "name": "If that's the case, you probably want to\ngo out through the west gate in the\nindustrial district. That'll be quicker.[ST:wait ]"
+      "name": "It's easier to leave by the West Gate in\nthe Industrial Area than by the East\nGate here.[ST:wait ]"
     },
     {
       "$id": 60,
       "label": "tev010401_MSG0030",
       "style": 1,
-      "name": "You can get to the industrial district in a\nblink of an eye if you take the transport in\nfront of BLADE Tower. It's a big time-saver.[ST:wait ]"
+      "name": "That transport in front of BLADE\nTower gets you to the Industrial\nArea in a flash. Really handy, huh?[ST:wait ]"
     },
     {
       "$id": 61,
@@ -576,13 +576,13 @@
       "$id": 94,
       "label": "tev010401_MSG0084",
       "style": 1,
-      "name": "Back when NLA was attacked, it was Lao who\nwas guarding the restricted hangar, right?\nAnd he just stopped fighting mid-invasion?[ST:wait ]"
+      "name": "Lao-san was guarding the restricted\nhangar when NLA was attacked, right?\nThen he abandoned his post...[ST:wait ]"
     },
     {
       "$id": 95,
       "label": "tev010401_MSG0085",
       "style": 1,
-      "name": "I guess that was intentional, huh? I\nmean, I've heard the rumors about him...[ST:wait ]"
+      "name": "Was that deliberate after all...? I\nmean, I've heard the rumors about\nLao-san...[ST:wait ]"
     },
     {
       "$id": 96,
@@ -594,7 +594,7 @@
       "$id": 97,
       "label": "tev010401_MSG0087",
       "style": 1,
-      "name": "Trevor told me that thinking about\nthings like that won't do me any good.[ST:wait ]"
+      "name": "Trevor-san told me that thinking about\nthings like that won't do me any good.[ST:wait ]"
     },
     {
       "$id": 98,
@@ -618,7 +618,7 @@
       "$id": 101,
       "label": "tev010401_MSG0091",
       "style": 1,
-      "name": "Once I get my gear together, I'm off to the\nLifepoint Core. I'll see you there, man! You're\ngoing to witness Carl fighting the good fight.[ST:wait ]"
+      "name": "Once I'm ready, I'm heading to the Central Life!\nI really hope you'll see me in action![ST:wait ]"
     },
     {
       "$id": 102,
@@ -636,7 +636,7 @@
       "$id": 104,
       "label": "tev010401_MSG0094",
       "style": 1,
-      "name": "Ah, that's fine. What's important\nis that the Lifepoint Core is safe\nand you made it back in one piece.[ST:wait ]"
+      "name": "Well, it's all right! You made it back safely,\nand the Central Life is safe too.[ST:wait ]"
     },
     {
       "$id": 105,
@@ -648,19 +648,19 @@
       "$id": 106,
       "label": "tev010401_MSG0096",
       "style": 1,
-      "name": "Hey, thanks a lot for your help\nwith that whole suid piglet thing.[ST:wait ]"
+      "name": "Hey, thanks a lot for your help\nwith that whole zuusu piglet thing.[ST:wait ]"
     },
     {
       "$id": 107,
       "label": "tev010401_MSG0097",
       "style": 1,
-      "name": "I heard that afterward, a way\nbigger suid came to the place\nwhere the piglets were.[ST:wait ]"
+      "name": "I heard some huge thing that looked\nlike a parent came to them afterward.[ST:wait ]"
     },
     {
       "$id": 108,
       "label": "tev010401_MSG0098",
       "style": 1,
-      "name": "You think that was maybe one of their\nparents? Like, those suids were just\nwaiting for their mama the whole time?[ST:wait ]"
+      "name": "You think that was maybe one of their\nparents? Like, those zuusus were just\nwaiting for their mama the whole time?[ST:wait ]"
     },
     {
       "$id": 109,

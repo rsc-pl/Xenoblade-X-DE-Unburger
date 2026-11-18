@@ -1,0 +1,255 @@
+{
+  "schema": [
+    {
+      "name": "ID",
+      "type": 9
+    },
+    {
+      "name": "wtr_name",
+      "type": 2
+    },
+    {
+      "name": "effect",
+      "type": 7
+    },
+    {
+      "name": "env_se",
+      "type": 7
+    },
+    {
+      "name": "wtr_type",
+      "type": 2
+    },
+    {
+      "name": "UI",
+      "type": 2
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "ID": "WTRASSET_FINE",
+      "wtr_name": 1,
+      "effect": "cf/sky/sky_fine",
+      "env_se": "",
+      "wtr_type": 1,
+      "UI": 2093
+    },
+    {
+      "$id": 2,
+      "ID": "WTRASSET_SSW",
+      "wtr_name": 2,
+      "effect": "cf/sky/sky_ssw",
+      "env_se": "cf/weather/sky_ssw",
+      "wtr_type": 2,
+      "UI": 2094
+    },
+    {
+      "$id": 3,
+      "ID": "WTRASSET_CLOUD",
+      "wtr_name": 3,
+      "effect": "cf/sky/sky_cloud",
+      "env_se": "cf/weather/sky_cloud",
+      "wtr_type": 3,
+      "UI": 2095
+    },
+    {
+      "$id": 4,
+      "ID": "WTRASSET_FOG",
+      "wtr_name": 4,
+      "effect": "cf/sky/sky_fog",
+      "env_se": "cf/weather/sky_fog",
+      "wtr_type": 4,
+      "UI": 2096
+    },
+    {
+      "$id": 5,
+      "ID": "WTRASSET_RAIN",
+      "wtr_name": 5,
+      "effect": "cf/sky/sky_rain",
+      "env_se": "cf/weather/sky_rain",
+      "wtr_type": 5,
+      "UI": 2097
+    },
+    {
+      "$id": 6,
+      "ID": "WTRASSET_TND",
+      "wtr_name": 6,
+      "effect": "cf/sky/sky_tnd",
+      "env_se": "",
+      "wtr_type": 6,
+      "UI": 2098
+    },
+    {
+      "$id": 7,
+      "ID": "WTRASSET_HRAIN",
+      "wtr_name": 7,
+      "effect": "cf/sky/sky_hrain",
+      "env_se": "cf/weather/sky_hrain",
+      "wtr_type": 7,
+      "UI": 2099
+    },
+    {
+      "$id": 8,
+      "ID": "WTRASSET_HWV",
+      "wtr_name": 8,
+      "effect": "cf/sky/sky_hwv",
+      "env_se": "cf/weather/sky_hwv",
+      "wtr_type": 8,
+      "UI": 2100
+    },
+    {
+      "$id": 9,
+      "ID": "WTRASSET_SSTM",
+      "wtr_name": 9,
+      "effect": "cf/sky/sky_sstm",
+      "env_se": "cf/weather/sky_sstm",
+      "wtr_type": 9,
+      "UI": 2101
+    },
+    {
+      "$id": 10,
+      "ID": "WTRASSET_TDR",
+      "wtr_name": 10,
+      "effect": "cf/sky/sky_tdr",
+      "env_se": "cf/weather/sky_tdr",
+      "wtr_type": 10,
+      "UI": 2102
+    },
+    {
+      "$id": 11,
+      "ID": "WTRASSET_ESTM",
+      "wtr_name": 11,
+      "effect": "cf/sky/sky_estm",
+      "env_se": "cf/weather/sky_estm",
+      "wtr_type": 11,
+      "UI": 2103
+    },
+    {
+      "$id": 12,
+      "ID": "WTRASSET_LPTA",
+      "wtr_name": 12,
+      "effect": "cf/sky/sky_lpta",
+      "env_se": "cf/weather/sky_lpta",
+      "wtr_type": 12,
+      "UI": 2104
+    },
+    {
+      "$id": 13,
+      "ID": "WTRASSET_LPTB",
+      "wtr_name": 13,
+      "effect": "cf/sky/sky_lptb",
+      "env_se": "cf/weather/sky_lptb",
+      "wtr_type": 13,
+      "UI": 2105
+    },
+    {
+      "$id": 14,
+      "ID": "WTRASSET_FRAIN",
+      "wtr_name": 14,
+      "effect": "cf/sky/sky_frain",
+      "env_se": "cf/weather/sky_frain",
+      "wtr_type": 14,
+      "UI": 2106
+    },
+    {
+      "$id": 15,
+      "ID": "WTRASSET_SPR",
+      "wtr_name": 15,
+      "effect": "cf/sky/sky_spr",
+      "env_se": "cf/weather/sky_spr",
+      "wtr_type": 15,
+      "UI": 2107
+    },
+    {
+      "$id": 16,
+      "ID": "WTRASSET_ARR",
+      "wtr_name": 16,
+      "effect": "cf/sky/sky_arr",
+      "env_se": "cf/weather/sky_arr",
+      "wtr_type": 16,
+      "UI": 2108
+    },
+    {
+      "$id": 17,
+      "ID": "WTRASSET_RARR",
+      "wtr_name": 17,
+      "effect": "cf/sky/sky_rarr",
+      "env_se": "cf/weather/sky_arr",
+      "wtr_type": 17,
+      "UI": 2109
+    },
+    {
+      "$id": 18,
+      "ID": "WTRASSET_MSTM",
+      "wtr_name": 18,
+      "effect": "cf/sky/sky_mstm",
+      "env_se": "cf/weather/sky_mstm",
+      "wtr_type": 18,
+      "UI": 2110
+    },
+    {
+      "$id": 19,
+      "ID": "WTRASSET_RNBW",
+      "wtr_name": 19,
+      "effect": "cf/sky/sky_rnbw",
+      "env_se": "",
+      "wtr_type": 19,
+      "UI": 2111
+    },
+    {
+      "$id": 20,
+      "ID": "WTRASSET_HRAIN2",
+      "wtr_name": 7,
+      "effect": "cf/sky/sky_raid",
+      "env_se": "cf/weather/sky_hrain",
+      "wtr_type": 7,
+      "UI": 2112
+    },
+    {
+      "$id": 21,
+      "ID": "WTRASSET_SP01",
+      "wtr_name": 7,
+      "effect": "cf/sky/sky_sp01",
+      "env_se": "cf/weather/sky_hrain",
+      "wtr_type": 5,
+      "UI": 2113
+    },
+    {
+      "$id": 22,
+      "ID": "WTRASSET_SP02",
+      "wtr_name": 3,
+      "effect": "cf/sky/sky_fine",
+      "env_se": "",
+      "wtr_type": 1,
+      "UI": 2095
+    },
+    {
+      "$id": 23,
+      "ID": "WTRASSET_SP03",
+      "wtr_name": 1,
+      "effect": "",
+      "env_se": "",
+      "wtr_type": 1,
+      "UI": 2093
+    },
+    {
+      "$id": 24,
+      "ID": "WTRASSET_SP04",
+      "wtr_name": 0,
+      "effect": "",
+      "env_se": "",
+      "wtr_type": 0,
+      "UI": 0
+    },
+    {
+      "$id": 25,
+      "ID": "WTRASSET_SP05",
+      "wtr_name": 0,
+      "effect": "",
+      "env_se": "",
+      "wtr_type": 0,
+      "UI": 0
+    }
+  ]
+}

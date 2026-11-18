@@ -1,0 +1,94 @@
+{
+  "schema": [
+    {
+      "name": "ID",
+      "type": 9
+    },
+    {
+      "name": "Armor(AL)",
+      "type": 1
+    },
+    {
+      "name": "Armor(AM)",
+      "type": 1
+    },
+    {
+      "name": "Armor(AH)",
+      "type": 1
+    },
+    {
+      "name": "Weapon(WS)",
+      "type": 1
+    },
+    {
+      "name": "Weapon(WM)",
+      "type": 1
+    },
+    {
+      "name": "Weapon(WB)",
+      "type": 1
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "ID": "DOLL_FRAME_L",
+      "Armor(AL)": 1,
+      "Armor(AM)": 0,
+      "Armor(AH)": 0,
+      "Weapon(WS)": 1,
+      "Weapon(WM)": 0,
+      "Weapon(WB)": 0
+    },
+    {
+      "$id": 2,
+      "ID": "DOLL_FRAME_M",
+      "Armor(AL)": 1,
+      "Armor(AM)": 1,
+      "Armor(AH)": 0,
+      "Weapon(WS)": 1,
+      "Weapon(WM)": 1,
+      "Weapon(WB)": 0
+    },
+    {
+      "$id": 3,
+      "ID": "DOLL_FRAME_H",
+      "Armor(AL)": 1,
+      "Armor(AM)": 1,
+      "Armor(AH)": 1,
+      "Weapon(WS)": 1,
+      "Weapon(WM)": 1,
+      "Weapon(WB)": 1
+    },
+    {
+      "$id": 4,
+      "ID": "DOLL_FRAME_L_SKY",
+      "Armor(AL)": 1,
+      "Armor(AM)": 0,
+      "Armor(AH)": 0,
+      "Weapon(WS)": 1,
+      "Weapon(WM)": 0,
+      "Weapon(WB)": 0
+    },
+    {
+      "$id": 5,
+      "ID": "DOLL_FRAME_M_SKY",
+      "Armor(AL)": 1,
+      "Armor(AM)": 0,
+      "Armor(AH)": 0,
+      "Weapon(WS)": 1,
+      "Weapon(WM)": 0,
+      "Weapon(WB)": 0
+    },
+    {
+      "$id": 6,
+      "ID": "DOLL_FRAME_H_SKY",
+      "Armor(AL)": 1,
+      "Armor(AM)": 1,
+      "Armor(AH)": 0,
+      "Weapon(WS)": 1,
+      "Weapon(WM)": 1,
+      "Weapon(WB)": 0
+    }
+  ]
+}

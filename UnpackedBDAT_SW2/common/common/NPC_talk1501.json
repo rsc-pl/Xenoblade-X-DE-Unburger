@@ -1,0 +1,734 @@
+{
+  "schema": [
+    {
+      "name": "ID",
+      "type": 9
+    },
+    {
+      "name": "uid",
+      "type": 6
+    },
+    {
+      "name": "script",
+      "type": 7
+    },
+    {
+      "name": "check",
+      "type": 5
+    },
+    {
+      "name": "id",
+      "type": 5
+    },
+    {
+      "name": "value1",
+      "type": 6
+    },
+    {
+      "name": "value2",
+      "type": 6
+    }
+  ],
+  "rows": [
+    {
+      "$id": 0,
+      "ID": "TALK_0003_001",
+      "uid": 3,
+      "script": "tev000301",
+      "check": 0,
+      "id": 0,
+      "value1": 0,
+      "value2": 0
+    },
+    {
+      "$id": 1,
+      "ID": "TALK_0006_001",
+      "uid": 6,
+      "script": "qev091504",
+      "check": 0,
+      "id": 0,
+      "value1": 0,
+      "value2": 0
+    },
+    {
+      "$id": 2,
+      "ID": "TALK_0010_001",
+      "uid": 10,
+      "script": "qev091103",
+      "check": 0,
+      "id": 0,
+      "value1": 0,
+      "value2": 0
+    },
+    {
+      "$id": 3,
+      "ID": "TALK_0118_001",
+      "uid": 76,
+      "script": "qev091502",
+      "check": 0,
+      "id": 0,
+      "value1": 0,
+      "value2": 0
+    },
+    {
+      "$id": 4,
+      "ID": "TALK_0142_001",
+      "uid": 99,
+      "script": "qev010501",
+      "check": 3,
+      "id": 112,
+      "value1": 0,
+      "value2": 1
+    },
+    {
+      "$id": 5,
+      "ID": "TALK_0143_001",
+      "uid": 100,
+      "script": "tev014301",
+      "check": 0,
+      "id": 0,
+      "value1": 0,
+      "value2": 0
+    },
+    {
+      "$id": 6,
+      "ID": "TALK_0143_002",
+      "uid": 0,
+      "script": "qev010502",
+      "check": 3,
+      "id": 112,
+      "value1": 1,
+      "value2": 1
+    },
+    {
+      "$id": 7,
+      "ID": "TALK_0143_003",
+      "uid": 0,
+      "script": "qev010301",
+      "check": 3,
+      "id": 104,
+      "value1": 0,
+      "value2": 1
+    },
+    {
+      "$id": 8,
+      "ID": "TALK_0143_004",
+      "uid": 0,
+      "script": "",
+      "check": 3,
+      "id": 112,
+      "value1": 2,
+      "value2": 3
+    },
+    {
+      "$id": 9,
+      "ID": "TALK_0230_001",
+      "uid": 177,
+      "script": "qev010503",
+      "check": 3,
+      "id": 112,
+      "value1": 0,
+      "value2": 1
+    },
+    {
+      "$id": 10,
+      "ID": "TALK_0138_001",
+      "uid": 95,
+      "script": "qev010902",
+      "check": 0,
+      "id": 0,
+      "value1": 0,
+      "value2": 0
+    },
+    {
+      "$id": 11,
+      "ID": "TALK_0104_001",
+      "uid": 63,
+      "script": "qev010901",
+      "check": 0,
+      "id": 0,
+      "value1": 0,
+      "value2": 0
+    },
+    {
+      "$id": 12,
+      "ID": "TALK_0208_001",
+      "uid": 157,
+      "script": "qev013401",
+      "check": 0,
+      "id": 0,
+      "value1": 0,
+      "value2": 0
+    },
+    {
+      "$id": 13,
+      "ID": "TALK_0352_001",
+      "uid": 244,
+      "script": "qev013403",
+      "check": 0,
+      "id": 0,
+      "value1": 0,
+      "value2": 0
+    },
+    {
+      "$id": 14,
+      "ID": "TALK_0124_001",
+      "uid": 81,
+      "script": "tev012402",
+      "check": 0,
+      "id": 0,
+      "value1": 0,
+      "value2": 0
+    },
+    {
+      "$id": 15,
+      "ID": "TALK_0124_002",
+      "uid": 0,
+      "script": "tev012401",
+      "check": 1,
+      "id": 3,
+      "value1": 0,
+      "value2": 0
+    },
+    {
+      "$id": 16,
+      "ID": "TALK_0854_001",
+      "uid": 124,
+      "script": "qev085407",
+      "check": 3,
+      "id": 1224,
+      "value1": 1,
+      "value2": 1
+    },
+    {
+      "$id": 17,
+      "ID": "TALK_0854_002",
+      "uid": 0,
+      "script": "qev085405",
+      "check": 3,
+      "id": 1225,
+      "value1": 1,
+      "value2": 1
+    },
+    {
+      "$id": 18,
+      "ID": "TALK_0161_001",
+      "uid": 118,
+      "script": "tev016101",
+      "check": 0,
+      "id": 0,
+      "value1": 0,
+      "value2": 0
+    },
+    {
+      "$id": 19,
+      "ID": "TALK_0201_001",
+      "uid": 150,
+      "script": "tev020101",
+      "check": 0,
+      "id": 0,
+      "value1": 0,
+      "value2": 0
+    },
+    {
+      "$id": 20,
+      "ID": "TALK_0201_002",
+      "uid": 0,
+      "script": "qev014406",
+      "check": 3,
+      "id": 250,
+      "value1": 1,
+      "value2": 1
+    },
+    {
+      "$id": 21,
+      "ID": "TALK_0145_001",
+      "uid": 102,
+      "script": "tev014501",
+      "check": 0,
+      "id": 0,
+      "value1": 0,
+      "value2": 0
+    },
+    {
+      "$id": 22,
+      "ID": "TALK_0145_002",
+      "uid": 0,
+      "script": "qev015202",
+      "check": 3,
+      "id": 288,
+      "value1": 1,
+      "value2": 1
+    },
+    {
+      "$id": 23,
+      "ID": "TALK_0165_001",
+      "uid": 122,
+      "script": "qev085302",
+      "check": 3,
+      "id": 1215,
+      "value1": 1,
+      "value2": 1
+    },
+    {
+      "$id": 24,
+      "ID": "TALK_0165_002",
+      "uid": 0,
+      "script": "qev085305",
+      "check": 3,
+      "id": 1219,
+      "value1": 1,
+      "value2": 1
+    },
+    {
+      "$id": 25,
+      "ID": "TALK_0166_001",
+      "uid": 123,
+      "script": "qev085303",
+      "check": 3,
+      "id": 1217,
+      "value1": 0,
+      "value2": 1
+    },
+    {
+      "$id": 26,
+      "ID": "TALK_0166_002",
+      "uid": 0,
+      "script": "qev085304",
+      "check": 3,
+      "id": 1218,
+      "value1": 1,
+      "value2": 1
+    },
+    {
+      "$id": 27,
+      "ID": "TALK_0914_001",
+      "uid": 445,
+      "script": "qev086002",
+      "check": 3,
+      "id": 1264,
+      "value1": 1,
+      "value2": 1
+    },
+    {
+      "$id": 28,
+      "ID": "TALK_0914_002",
+      "uid": 0,
+      "script": "qev086004",
+      "check": 3,
+      "id": 1265,
+      "value1": 1,
+      "value2": 1
+    },
+    {
+      "$id": 29,
+      "ID": "TALK_0914_003",
+      "uid": 0,
+      "script": "qev086004",
+      "check": 3,
+      "id": 1266,
+      "value1": 1,
+      "value2": 1
+    },
+    {
+      "$id": 30,
+      "ID": "TALK_0914_004",
+      "uid": 0,
+      "script": "qev086005",
+      "check": 3,
+      "id": 1267,
+      "value1": 1,
+      "value2": 1
+    },
+    {
+      "$id": 31,
+      "ID": "TALK_0914_005",
+      "uid": 0,
+      "script": "qev086005",
+      "check": 3,
+      "id": 1268,
+      "value1": 1,
+      "value2": 1
+    },
+    {
+      "$id": 32,
+      "ID": "TALK_0186_001",
+      "uid": 143,
+      "script": "qev015702",
+      "check": 3,
+      "id": 304,
+      "value1": 1,
+      "value2": 1
+    },
+    {
+      "$id": 33,
+      "ID": "TALK_0186_002",
+      "uid": 0,
+      "script": "qev015702",
+      "check": 3,
+      "id": 305,
+      "value1": 1,
+      "value2": 1
+    },
+    {
+      "$id": 34,
+      "ID": "TALK_0186_003",
+      "uid": 0,
+      "script": "qev015703",
+      "check": 3,
+      "id": 306,
+      "value1": 1,
+      "value2": 1
+    },
+    {
+      "$id": 35,
+      "ID": "TALK_0186_004",
+      "uid": 0,
+      "script": "qev015703",
+      "check": 3,
+      "id": 307,
+      "value1": 1,
+      "value2": 1
+    },
+    {
+      "$id": 36,
+      "ID": "TALK_0255_001",
+      "uid": 200,
+      "script": "qev092303",
+      "check": 3,
+      "id": 1552,
+      "value1": 1,
+      "value2": 1
+    },
+    {
+      "$id": 37,
+      "ID": "TALK_0232_001",
+      "uid": 179,
+      "script": "tev023201",
+      "check": 0,
+      "id": 0,
+      "value1": 0,
+      "value2": 0
+    },
+    {
+      "$id": 38,
+      "ID": "TALK_0232_002",
+      "uid": 0,
+      "script": "qev056501",
+      "check": 3,
+      "id": 911,
+      "value1": 0,
+      "value2": 1
+    },
+    {
+      "$id": 39,
+      "ID": "TALK_0232_003",
+      "uid": 0,
+      "script": "",
+      "check": 3,
+      "id": 906,
+      "value1": 2,
+      "value2": 3
+    },
+    {
+      "$id": 40,
+      "ID": "TALK_0232_004",
+      "uid": 0,
+      "script": "",
+      "check": 1,
+      "id": 34,
+      "value1": 0,
+      "value2": 0
+    },
+    {
+      "$id": 41,
+      "ID": "TALK_0232_005",
+      "uid": 0,
+      "script": "qev056503",
+      "check": 3,
+      "id": 914,
+      "value1": 1,
+      "value2": 1
+    },
+    {
+      "$id": 42,
+      "ID": "TALK_0232_006",
+      "uid": 0,
+      "script": "qev056503",
+      "check": 3,
+      "id": 915,
+      "value1": 1,
+      "value2": 1
+    },
+    {
+      "$id": 43,
+      "ID": "TALK_0179_001",
+      "uid": 136,
+      "script": "qev051302",
+      "check": 0,
+      "id": 0,
+      "value1": 0,
+      "value2": 0
+    },
+    {
+      "$id": 44,
+      "ID": "TALK_0190_001",
+      "uid": 147,
+      "script": "qev065402",
+      "check": 3,
+      "id": 1028,
+      "value1": 1,
+      "value2": 1
+    },
+    {
+      "$id": 45,
+      "ID": "TALK_0128_001",
+      "uid": 85,
+      "script": "qev013104",
+      "check": 3,
+      "id": 187,
+      "value1": 1,
+      "value2": 1
+    },
+    {
+      "$id": 46,
+      "ID": "TALK_0256_001",
+      "uid": 201,
+      "script": "qev092304",
+      "check": 0,
+      "id": 0,
+      "value1": 0,
+      "value2": 0
+    },
+    {
+      "$id": 47,
+      "ID": "TALK_0407_001",
+      "uid": 265,
+      "script": "qev030605",
+      "check": 0,
+      "id": 0,
+      "value1": 0,
+      "value2": 0
+    },
+    {
+      "$id": 48,
+      "ID": "TALK_4010_001",
+      "uid": 922,
+      "script": "qev030602",
+      "check": 0,
+      "id": 0,
+      "value1": 0,
+      "value2": 0
+    },
+    {
+      "$id": 49,
+      "ID": "TALK_0458_001",
+      "uid": 289,
+      "script": "qev030602",
+      "check": 0,
+      "id": 0,
+      "value1": 0,
+      "value2": 0
+    },
+    {
+      "$id": 50,
+      "ID": "TALK_0460_001",
+      "uid": 291,
+      "script": "qev031204",
+      "check": 0,
+      "id": 0,
+      "value1": 0,
+      "value2": 0
+    },
+    {
+      "$id": 51,
+      "ID": "TALK_0403_001",
+      "uid": 262,
+      "script": "qev031502",
+      "check": 0,
+      "id": 0,
+      "value1": 0,
+      "value2": 0
+    },
+    {
+      "$id": 52,
+      "ID": "TALK_0733_001",
+      "uid": 401,
+      "script": "tev073301",
+      "check": 0,
+      "id": 0,
+      "value1": 0,
+      "value2": 0
+    },
+    {
+      "$id": 53,
+      "ID": "TALK_0733_002",
+      "uid": 0,
+      "script": "qev056502",
+      "check": 3,
+      "id": 911,
+      "value1": 1,
+      "value2": 1
+    },
+    {
+      "$id": 54,
+      "ID": "TALK_0715_001",
+      "uid": 385,
+      "script": "qev055801",
+      "check": 3,
+      "id": 880,
+      "value1": 1,
+      "value2": 1
+    },
+    {
+      "$id": 55,
+      "ID": "TALK_0526_001",
+      "uid": 297,
+      "script": "qev095405",
+      "check": 3,
+      "id": 1133,
+      "value1": 1,
+      "value2": 1
+    },
+    {
+      "$id": 56,
+      "ID": "TALK_0526_002",
+      "uid": 0,
+      "script": "qev031503",
+      "check": 3,
+      "id": 575,
+      "value1": 1,
+      "value2": 1
+    },
+    {
+      "$id": 57,
+      "ID": "TALK_0660_001",
+      "uid": 362,
+      "script": "qev050603",
+      "check": 3,
+      "id": 785,
+      "value1": 1,
+      "value2": 1
+    },
+    {
+      "$id": 58,
+      "ID": "TALK_0689_001",
+      "uid": 379,
+      "script": "tev068901",
+      "check": 0,
+      "id": 0,
+      "value1": 0,
+      "value2": 0
+    },
+    {
+      "$id": 59,
+      "ID": "TALK_0689_002",
+      "uid": 0,
+      "script": "qev051305",
+      "check": 3,
+      "id": 820,
+      "value1": 1,
+      "value2": 1
+    },
+    {
+      "$id": 60,
+      "ID": "TALK_0684_001",
+      "uid": 374,
+      "script": "qev050904",
+      "check": 3,
+      "id": 804,
+      "value1": 1,
+      "value2": 1
+    },
+    {
+      "$id": 61,
+      "ID": "TALK_0684_002",
+      "uid": 0,
+      "script": "qev050905",
+      "check": 3,
+      "id": 806,
+      "value1": 1,
+      "value2": 1
+    },
+    {
+      "$id": 62,
+      "ID": "TALK_0684_003",
+      "uid": 0,
+      "script": "qev050906",
+      "check": 3,
+      "id": 807,
+      "value1": 1,
+      "value2": 1
+    },
+    {
+      "$id": 63,
+      "ID": "TALK_0684_004",
+      "uid": 0,
+      "script": "qev050907",
+      "check": 3,
+      "id": 809,
+      "value1": 1,
+      "value2": 1
+    },
+    {
+      "$id": 64,
+      "ID": "TALK_0668_001",
+      "uid": 370,
+      "script": "tev066801",
+      "check": 0,
+      "id": 0,
+      "value1": 0,
+      "value2": 0
+    },
+    {
+      "$id": 65,
+      "ID": "TALK_0651_001",
+      "uid": 353,
+      "script": "qev075502",
+      "check": 3,
+      "id": 1100,
+      "value1": 1,
+      "value2": 1
+    },
+    {
+      "$id": 66,
+      "ID": "TALK_0651_002",
+      "uid": 0,
+      "script": "qev075503",
+      "check": 3,
+      "id": 1101,
+      "value1": 1,
+      "value2": 1
+    },
+    {
+      "$id": 67,
+      "ID": "TALK_0651_003",
+      "uid": 0,
+      "script": "qev075502",
+      "check": 3,
+      "id": 1103,
+      "value1": 1,
+      "value2": 1
+    },
+    {
+      "$id": 68,
+      "ID": "TALK_0406_001",
+      "uid": 314,
+      "script": "qev040602",
+      "check": 3,
+      "id": 645,
+      "value1": 1,
+      "value2": 1
+    },
+    {
+      "$id": 69,
+      "ID": "TALK_5065_001",
+      "uid": 1008,
+      "script": "qev_s0009",
+      "check": 0,
+      "id": 0,
+      "value1": 0,
+      "value2": 0
+    }
+  ]
+}

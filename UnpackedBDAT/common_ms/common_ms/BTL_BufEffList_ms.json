@@ -252,7 +252,7 @@
       "$id": 40,
       "label": "DEBUF_EFF_GRADUALLY_DECREASES_cap",
       "style": 28,
-      "name": "Inflicts continual damage over time."
+      "name": "Takes HP damage over time."
     },
     {
       "$id": 41,
@@ -534,19 +534,19 @@
       "$id": 87,
       "label": "BUF_EFF_URGENT_HEAL_cap",
       "style": 28,
-      "name": "Auto-recovers HP upon incapacitation."
+      "name": "Automatically recovers HP at 0 HP."
     },
     {
       "$id": 88,
       "label": "BUF_EFF_FIGHT_WPN_HIT_HEAL_cap",
       "style": 28,
-      "name": "Recovers HP when landing melee attacks."
+      "name": "Recovers HP on melee weapon hits."
     },
     {
       "$id": 89,
       "label": "BUF_EFF_REGEN_cap",
       "style": 28,
-      "name": "Recovers continual HP over time."
+      "name": "Recovers HP over time."
     },
     {
       "$id": 90,
@@ -636,7 +636,7 @@
       "$id": 104,
       "label": "BUF_EFF_LOST_SEARCH_cap",
       "style": 28,
-      "name": "Prevents detection from enemies."
+      "name": "Prevents detection by enemies."
     },
     {
       "$id": 105,
@@ -654,7 +654,7 @@
       "$id": 107,
       "label": "BUF_EFF_REVENGE_ATTACK_cap",
       "style": 28,
-      "name": "Boosts auto-attack attack power upon taking damage."
+      "name": "Boosts auto-attack power upon taking damage."
     },
     {
       "$id": 108,
@@ -672,7 +672,7 @@
       "$id": 110,
       "label": "BUF_EFF_AUTO_POWERD_cap",
       "style": 28,
-      "name": "Boosts auto-attack attack power."
+      "name": "Boosts auto-attack power."
     },
     {
       "$id": 111,
@@ -690,13 +690,13 @@
       "$id": 113,
       "label": "BUF_EFF_STAR_CURE_ALL_cap",
       "style": 28,
-      "name": "Adds an area of effect to Astral Purge."
+      "name": "Adds an area of effect to Star Cure."
     },
     {
       "$id": 114,
       "label": "BUF_EFF_STAR_HEAL_ALL_cap",
       "style": 28,
-      "name": "Adds an area of effect to Astral Heal."
+      "name": "Adds an area of effect to Star Heal."
     },
     {
       "$id": 115,
@@ -708,7 +708,7 @@
       "$id": 116,
       "label": "BUF_EFF_REVENGE_CHARGE_cap",
       "style": 28,
-      "name": "Grants Supercharge upon taking damage."
+      "name": "Grants Bullet Charge upon taking damage."
     },
     {
       "$id": 117,
@@ -774,7 +774,7 @@
       "$id": 127,
       "label": "BUF_EFF_DB_RECAST_UP_cap",
       "style": 28,
-      "name": "Reduces secondary cooldown."
+      "name": "Accelerates double recast."
     },
     {
       "$id": 128,
@@ -786,7 +786,7 @@
       "$id": 129,
       "label": "BUF_EFF_PARTS_DMG_UP_cap",
       "style": 28,
-      "name": "Boosts damage dealt to appendages."
+      "name": "Boosts damage dealt to parts."
     },
     {
       "$id": 130,

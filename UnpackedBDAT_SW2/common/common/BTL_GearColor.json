@@ -1,0 +1,181 @@
+{
+  "schema": [
+    {
+      "name": "ID",
+      "type": 9
+    },
+    {
+      "name": "Connect(Red)",
+      "type": 1
+    },
+    {
+      "name": "Connect(Yellow)",
+      "type": 1
+    },
+    {
+      "name": "Connect(Purple)",
+      "type": 1
+    },
+    {
+      "name": "Connect(Green)",
+      "type": 1
+    },
+    {
+      "name": "Connect(Blue)",
+      "type": 1
+    },
+    {
+      "name": "Connect(Orange)",
+      "type": 1
+    },
+    {
+      "name": "Connect(White)",
+      "type": 1
+    },
+    {
+      "name": "Connect(Void)",
+      "type": 1
+    },
+    {
+      "name": "Damage",
+      "type": 1
+    },
+    {
+      "name": "Resist",
+      "type": 1
+    },
+    {
+      "name": "Life",
+      "type": 1
+    },
+    {
+      "name": "Tp",
+      "type": 1
+    },
+    {
+      "name": "Text",
+      "type": 2
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "ID": "GearColor_Red",
+      "Connect(Red)": 1,
+      "Connect(Yellow)": 0,
+      "Connect(Purple)": 1,
+      "Connect(Green)": 0,
+      "Connect(Blue)": 1,
+      "Connect(Orange)": 1,
+      "Connect(White)": 1,
+      "Connect(Void)": 1,
+      "Damage": 50,
+      "Resist": 100,
+      "Life": 0,
+      "Tp": 0,
+      "Text": 0
+    },
+    {
+      "$id": 2,
+      "ID": "GearColor_Yellow",
+      "Connect(Red)": 0,
+      "Connect(Yellow)": 1,
+      "Connect(Purple)": 1,
+      "Connect(Green)": 0,
+      "Connect(Blue)": 1,
+      "Connect(Orange)": 1,
+      "Connect(White)": 1,
+      "Connect(Void)": 1,
+      "Damage": 50,
+      "Resist": 100,
+      "Life": 0,
+      "Tp": 0,
+      "Text": 0
+    },
+    {
+      "$id": 3,
+      "ID": "GearColor_Purple",
+      "Connect(Red)": 1,
+      "Connect(Yellow)": 1,
+      "Connect(Purple)": 1,
+      "Connect(Green)": 1,
+      "Connect(Blue)": 1,
+      "Connect(Orange)": 1,
+      "Connect(White)": 1,
+      "Connect(Void)": 1,
+      "Damage": 50,
+      "Resist": 100,
+      "Life": 0,
+      "Tp": 10,
+      "Text": 13
+    },
+    {
+      "$id": 4,
+      "ID": "GearColor_Green",
+      "Connect(Red)": 1,
+      "Connect(Yellow)": 1,
+      "Connect(Purple)": 1,
+      "Connect(Green)": 1,
+      "Connect(Blue)": 1,
+      "Connect(Orange)": 1,
+      "Connect(White)": 1,
+      "Connect(Void)": 1,
+      "Damage": 0,
+      "Resist": 0,
+      "Life": 0,
+      "Tp": 0,
+      "Text": 0
+    },
+    {
+      "$id": 5,
+      "ID": "GearColor_Blue",
+      "Connect(Red)": 1,
+      "Connect(Yellow)": 1,
+      "Connect(Purple)": 1,
+      "Connect(Green)": 1,
+      "Connect(Blue)": 1,
+      "Connect(Orange)": 1,
+      "Connect(White)": 1,
+      "Connect(Void)": 1,
+      "Damage": 0,
+      "Resist": 0,
+      "Life": 50,
+      "Tp": 0,
+      "Text": 12
+    },
+    {
+      "$id": 6,
+      "ID": "GearColor_Orange",
+      "Connect(Red)": 1,
+      "Connect(Yellow)": 1,
+      "Connect(Purple)": 1,
+      "Connect(Green)": 1,
+      "Connect(Blue)": 1,
+      "Connect(Orange)": 1,
+      "Connect(White)": 1,
+      "Connect(Void)": 1,
+      "Damage": 0,
+      "Resist": 0,
+      "Life": 100,
+      "Tp": 0,
+      "Text": 12
+    },
+    {
+      "$id": 7,
+      "ID": "GearColor_White",
+      "Connect(Red)": 0,
+      "Connect(Yellow)": 0,
+      "Connect(Purple)": 1,
+      "Connect(Green)": 0,
+      "Connect(Blue)": 1,
+      "Connect(Orange)": 1,
+      "Connect(White)": 1,
+      "Connect(Void)": 1,
+      "Damage": 0,
+      "Resist": 0,
+      "Life": 0,
+      "Tp": 0,
+      "Text": 0
+    }
+  ]
+}

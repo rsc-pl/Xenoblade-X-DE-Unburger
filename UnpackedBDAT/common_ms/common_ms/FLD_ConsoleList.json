@@ -258,7 +258,7 @@
       "$id": 41,
       "label": "C_Name_00",
       "style": 0,
-      "name": "MS-MT"
+      "name": "AM-CZ"
     },
     {
       "$id": 42,
@@ -276,7 +276,7 @@
       "$id": 44,
       "label": "BLADE_DOOR_01",
       "style": 25,
-      "name": "Exit to the administrative district?[ST:wait ]"
+      "name": "Exit to the BLADE Area?[ST:wait ]"
     },
     {
       "$id": 45,
@@ -288,7 +288,7 @@
       "$id": 46,
       "label": "BLADE_DOOR_03",
       "style": 25,
-      "name": "Exit to the administrative district?[ST:wait ]"
+      "name": "Exit to the BLADE Area?[ST:wait ]"
     },
     {
       "$id": 47,
@@ -306,13 +306,13 @@
       "$id": 49,
       "label": "BLADE_DOOR_06",
       "style": 25,
-      "name": "Remain in the BLADE Home.[ST:wait ]"
+      "name": "Cancel travel to the BLADE Area.[ST:wait ]"
     },
     {
       "$id": 50,
       "label": "BLADE_DOOR_07",
       "style": 25,
-      "name": "Remain in the administrative district.[ST:wait ]"
+      "name": "Cancel travel to the BLADE Home.[ST:wait ]"
     },
     {
       "$id": 51,
@@ -324,13 +324,13 @@
       "$id": 52,
       "label": "BLADE_DOOR_09",
       "style": 16,
-      "name": "Defend the NLA Front Lines"
+      "name": "Deploy to Defend NLA"
     },
     {
       "$id": 53,
       "label": "BLADE_DOOR_10",
       "style": 16,
-      "name": "Remain in the BLADE Home"
+      "name": "Stand By at BLADE Home"
     },
     {
       "$id": 54,
@@ -342,13 +342,13 @@
       "$id": 55,
       "label": "BLADE_DOOR_12",
       "style": 16,
-      "name": "Return to the BLADE Home"
+      "name": "Return to BLADE Home"
     },
     {
       "$id": 56,
       "label": "BLADE_DOOR_13",
       "style": 16,
-      "name": "Continue the Fight"
+      "name": "Continue Eliminating Enemies"
     },
     {
       "$id": 57,
@@ -372,13 +372,13 @@
       "$id": 60,
       "label": "menu_program_PopUp_High06",
       "style": 113,
-      "name": "You used your archaeological field skill to\nanalyze the treasure.[ST:wait ]"
+      "name": "You used your Search field skill to\nanalyze the treasure.[ST:wait ]"
     },
     {
       "$id": 61,
       "label": "BLADE_DOOR_20",
       "style": 16,
-      "name": "Repel the Ghost Attack"
+      "name": "Deploy to Intercept the Ghosts"
     },
     {
       "$id": 62,
@@ -390,13 +390,13 @@
       "$id": 63,
       "label": "BLADE_DOOR_22",
       "style": 16,
-      "name": "Cast off"
+      "name": "Finish Deployment Preparations"
     },
     {
       "$id": 64,
       "label": "BLADE_DOOR_23",
       "style": 16,
-      "name": "Not yet"
+      "name": "Continue Deployment Preparations"
     },
     {
       "$id": 65,
@@ -414,7 +414,7 @@
       "$id": 67,
       "label": "BLADE_DOOR_26",
       "style": 16,
-      "name": "Hold off"
+      "name": "Do Not Activate"
     }
   ]
 }

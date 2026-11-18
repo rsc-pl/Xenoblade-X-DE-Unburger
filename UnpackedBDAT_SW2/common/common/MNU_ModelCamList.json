@@ -1,0 +1,71 @@
+{
+  "schema": [
+    {
+      "name": "ID",
+      "type": 9
+    },
+    {
+      "name": "distance",
+      "type": 5
+    },
+    {
+      "name": "lookHeight",
+      "type": 5
+    },
+    {
+      "name": "camHeight",
+      "type": 5
+    },
+    {
+      "name": "fov",
+      "type": 5
+    },
+    {
+      "name": "rotSpeed",
+      "type": 5
+    },
+    {
+      "name": "nearClip",
+      "type": 2
+    },
+    {
+      "name": "farClip",
+      "type": 2
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "ID": "MNU_CAM_INNER",
+      "distance": 45,
+      "lookHeight": 10,
+      "camHeight": 10,
+      "fov": 30,
+      "rotSpeed": 10,
+      "nearClip": 4,
+      "farClip": 400
+    },
+    {
+      "$id": 2,
+      "ID": "MNU_CAM_DOLL",
+      "distance": 200,
+      "lookHeight": 44,
+      "camHeight": 44,
+      "fov": 30,
+      "rotSpeed": 10,
+      "nearClip": 4,
+      "farClip": 400
+    },
+    {
+      "$id": 3,
+      "ID": "MNU_CAM_ENEMY",
+      "distance": 80,
+      "lookHeight": 0,
+      "camHeight": 0,
+      "fov": 30,
+      "rotSpeed": 10,
+      "nearClip": 4,
+      "farClip": 400
+    }
+  ]
+}

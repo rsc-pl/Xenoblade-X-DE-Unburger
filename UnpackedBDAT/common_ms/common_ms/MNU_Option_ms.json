@@ -30,7 +30,7 @@
       "$id": 3,
       "label": "Option_title003",
       "style": 32,
-      "name": "Auto-track Missions"
+      "name": "Auto-track Quests"
     },
     {
       "$id": 4,
@@ -48,7 +48,7 @@
       "$id": 6,
       "label": "Option_title006",
       "style": 32,
-      "name": "Flight Module Jump Controls"
+      "name": "Flight Pack Jump Controls"
     },
     {
       "$id": 7,
@@ -84,13 +84,13 @@
       "$id": 12,
       "label": "Option_title012",
       "style": 32,
-      "name": "Manual Camera Responsiveness"
+      "name": "Manual Camera Smoothing Speed"
     },
     {
       "$id": 13,
       "label": "Option_title013",
       "style": 32,
-      "name": "Auto-camera Reset Speed"
+      "name": "Rear Tracking Camera Smoothing Speed"
     },
     {
       "$id": 14,
@@ -114,7 +114,7 @@
       "$id": 17,
       "label": "Option_title017",
       "style": 32,
-      "name": "Vertical Camera Tilt Speed Modifier"
+      "name": "Vertical Rotation Smoothing Speed"
     },
     {
       "$id": 18,
@@ -126,7 +126,7 @@
       "$id": 19,
       "label": "Option_title019",
       "style": 32,
-      "name": "Automatic Angle Correction"
+      "name": "Automatic Slope Adjustment"
     },
     {
       "$id": 20,
@@ -192,7 +192,7 @@
       "$id": 30,
       "label": "Option_title030",
       "style": 32,
-      "name": "Show Headgear (Ground Gear)"
+      "name": "Show Headgear (Inner Armor)"
     },
     {
       "$id": 31,
@@ -210,13 +210,13 @@
       "$id": 33,
       "label": "Option_title033",
       "style": 32,
-      "name": "Fix Mini-map Orientation"
+      "name": "Fix Minimap to North"
     },
     {
       "$id": 34,
       "label": "Option_title034",
       "style": 32,
-      "name": "Party Status"
+      "name": "Always Show Player Status"
     },
     {
       "$id": 35,
@@ -252,7 +252,7 @@
       "$id": 40,
       "label": "Option_title040",
       "style": 32,
-      "name": "Soul Voice Prompts"
+      "name": "Show Soul Voice Lines"
     },
     {
       "$id": 41,
@@ -294,7 +294,7 @@
       "$id": 47,
       "label": "Option_title047",
       "style": 32,
-      "name": "Story Missions"
+      "name": "Story Quests"
     },
     {
       "$id": 48,
@@ -306,13 +306,13 @@
       "$id": 49,
       "label": "Option_title049",
       "style": 32,
-      "name": "Normal Missions"
+      "name": "Normal Quests"
     },
     {
       "$id": 50,
       "label": "Option_title050",
       "style": 32,
-      "name": "Basic Missions"
+      "name": "Simple Quests"
     },
     {
       "$id": 51,
@@ -324,13 +324,13 @@
       "$id": 52,
       "label": "Option_title052",
       "style": 32,
-      "name": "Squad Tasks"
+      "name": "Squad Missions"
     },
     {
       "$id": 53,
       "label": "Option_title053",
       "style": 32,
-      "name": "Story Missions"
+      "name": "Story Quests"
     },
     {
       "$id": 54,
@@ -342,13 +342,13 @@
       "$id": 55,
       "label": "Option_title055",
       "style": 32,
-      "name": "Normal Missions"
+      "name": "Normal Quests"
     },
     {
       "$id": 56,
       "label": "Option_title056",
       "style": 32,
-      "name": "Basic Missions"
+      "name": "Simple Quests"
     },
     {
       "$id": 57,
@@ -366,7 +366,7 @@
       "$id": 59,
       "label": "Option_title059",
       "style": 32,
-      "name": "Squad Tasks"
+      "name": "Squad Missions"
     },
     {
       "$id": 60,
@@ -384,13 +384,13 @@
       "$id": 62,
       "label": "Option_title062",
       "style": 32,
-      "name": "Own Achievements"
+      "name": "Own Play Awards"
     },
     {
       "$id": 63,
       "label": "Option_title063",
       "style": 32,
-      "name": "Other Player Achievements"
+      "name": "Other Players' Play Awards"
     },
     {
       "$id": 64,
@@ -408,7 +408,7 @@
       "$id": 66,
       "label": "Option_title066",
       "style": 32,
-      "name": "Global Nemesis Rewards"
+      "name": "World Enemy Rewards"
     },
     {
       "$id": 67,
@@ -432,13 +432,13 @@
       "$id": 70,
       "label": "Option_title070",
       "style": 32,
-      "name": "BLADE Releasing in Five Minutes"
+      "name": "BLADE Returning in 5 Minutes"
     },
     {
       "$id": 71,
       "label": "Option_title071",
       "style": 32,
-      "name": "BLADE Released"
+      "name": "BLADE Returned"
     },
     {
       "$id": 72,
@@ -450,13 +450,13 @@
       "$id": 73,
       "label": "Option_title073",
       "style": 32,
-      "name": "Squad Tasks Commenced"
+      "name": "Squad Missions Commenced"
     },
     {
       "$id": 74,
       "label": "Option_title074",
       "style": 32,
-      "name": "Squad Tasks Completed"
+      "name": "Squad Mission Objective Completed"
     },
     {
       "$id": 75,
@@ -498,25 +498,25 @@
       "$id": 81,
       "label": "Option_title081",
       "style": 32,
-      "name": "Yggralith Zero Active"
+      "name": "Yegiras, the Zero Emperor Active"
     },
     {
       "$id": 82,
       "label": "Option_title082",
       "style": 32,
-      "name": "Yggralith Zero Attempts Reset"
+      "name": "Yegiras, the Zero Emperor Attempts Reset"
     },
     {
       "$id": 83,
       "label": "Option_title083",
       "style": 32,
-      "name": "Yggralith Zero RP Reduced"
+      "name": "Yegiras, the Zero Emperor RP Reduced"
     },
     {
       "$id": 84,
       "label": "Option_title084",
       "style": 32,
-      "name": "Yggralith Zero Defeated"
+      "name": "Yegiras, the Zero Emperor Defeated"
     },
     {
       "$id": 85,
@@ -528,7 +528,7 @@
       "$id": 86,
       "label": "Option_title086",
       "style": 32,
-      "name": "Tips Added"
+      "name": "New Tip Added"
     },
     {
       "$id": 87,
@@ -552,19 +552,19 @@
       "$id": 90,
       "label": "Option_title090",
       "style": 32,
-      "name": "Preferred Play Style"
+      "name": "Preferred Play Mode"
     },
     {
       "$id": 91,
       "label": "Option_title091",
       "style": 32,
-      "name": "Online Visibility on Following Lists"
+      "name": "Online Status Visibility"
     },
     {
       "$id": 92,
       "label": "Option_title092",
       "style": 32,
-      "name": "Auto-register Avatar"
+      "name": "Auto-Upload My Avatar"
     },
     {
       "$id": 93,
@@ -618,7 +618,7 @@
       "$id": 101,
       "label": "Option_title101",
       "style": 32,
-      "name": "Hidden Mission Unlocked"
+      "name": "Hidden Online Mission Available"
     },
     {
       "$id": 102,
@@ -642,7 +642,7 @@
       "$id": 105,
       "label": "Option_Caption003",
       "style": 173,
-      "name": "Choose whether to automatically set new missions to tracked\nas they are accepted."
+      "name": "Choose whether to automatically set new quests to tracked\nas they are accepted."
     },
     {
       "$id": 106,
@@ -654,13 +654,13 @@
       "$id": 107,
       "label": "Option_Caption005",
       "style": 173,
-      "name": "Choose the way in which the Navigation Ball is launched.\nOnce: Disappears after a certain amount of time.\nLooping: Continuously guides you to your destination."
+      "name": "Choose how the Navigation Ball is launched.\nOne-Shot: Disappears after a fixed time.\nLoop: Continuously indicates your destination."
     },
     {
       "$id": 108,
       "label": "Option_Caption006",
       "style": 173,
-      "name": "Choose the behavior for jumping when the flight module is equipped.\n(Jump: Press [ST:icon p1=zr ] while grounded to jump, then\npress [ST:icon p1=zr ] while airborne to fly.\nFlight: Press [ST:icon p1=zr ] to fly.)"
+      "name": "Choose the behavior for jumping when the flight pack is equipped.\n(Jump: Press [ST:icon p1=zr ] while grounded to jump, then\npress [ST:icon p1=zr ] while airborne to fly.\nFlight: Press [ST:icon p1=zr ] to fly.)"
     },
     {
       "$id": 109,
@@ -702,7 +702,7 @@
       "$id": 115,
       "label": "Option_Caption013",
       "style": 173,
-      "name": "Adjust the speed at which the camera resets its position\nto the default auto-camera positioning."
+      "name": "Adjust the smoothing speed when the camera\ntransitions to the rear tracking camera."
     },
     {
       "$id": 116,
@@ -726,7 +726,7 @@
       "$id": 119,
       "label": "Option_Caption017",
       "style": 173,
-      "name": "More finely adjust the speed at which the manual camera tilts\nup and down."
+      "name": "Adjust the smoothing speed of vertical camera rotation."
     },
     {
       "$id": 120,
@@ -828,7 +828,7 @@
       "$id": 136,
       "label": "Option_Caption034",
       "style": 173,
-      "name": "Choose whether party members' statuses\nshould remain on screen at all times."
+      "name": "Choose whether the player character’s status\nshould always be displayed."
     },
     {
       "$id": 137,
@@ -906,7 +906,7 @@
       "$id": 149,
       "label": "Option_Caption047",
       "style": 173,
-      "name": "Choose whether to display story mission icons in the game field.\n(This will not affect icons on the map and mini-map.)"
+      "name": "Choose whether to display story quest icons in the game field.\n(This will not affect icons on the map and mini-map.)"
     },
     {
       "$id": 150,
@@ -918,13 +918,13 @@
       "$id": 151,
       "label": "Option_Caption049",
       "style": 173,
-      "name": "Choose whether to display normal mission icons in the game field.\n(This will not affect icons on the map and mini-map.)"
+      "name": "Choose whether to display normal quest icons in the game field.\n(This will not affect icons on the map and mini-map.)"
     },
     {
       "$id": 152,
       "label": "Option_Caption050",
       "style": 173,
-      "name": "Choose whether to display basic mission icons in the game field.\n(This will not affect icons on the map and mini-map.)"
+      "name": "Choose whether to display simple quest icons in the game field.\n(This will not affect icons on the map and mini-map.)"
     },
     {
       "$id": 153,
@@ -936,13 +936,13 @@
       "$id": 154,
       "label": "Option_Caption052",
       "style": 173,
-      "name": "Choose whether to display icons for squad tasks in the game field.\n(This will not affect icons on the map and mini-map.)"
+      "name": "Choose whether to display icons for squad missions in the game field.\n(This will not affect icons on the map and mini-map.)"
     },
     {
       "$id": 155,
       "label": "Option_Caption053",
       "style": 173,
-      "name": "Choose whether to display story mission updates."
+      "name": "Choose whether to display story quest updates."
     },
     {
       "$id": 156,
@@ -954,13 +954,13 @@
       "$id": 157,
       "label": "Option_Caption055",
       "style": 173,
-      "name": "Choose whether to display normal mission updates."
+      "name": "Choose whether to display normal quest updates."
     },
     {
       "$id": 158,
       "label": "Option_Caption056",
       "style": 173,
-      "name": "Choose whether to display basic mission updates."
+      "name": "Choose whether to display simple quest updates."
     },
     {
       "$id": 159,
@@ -978,157 +978,157 @@
       "$id": 161,
       "label": "Option_Caption059",
       "style": 173,
-      "name": "Choose whether to display squad task updates."
+      "name": "Choose whether to display squad mission updates."
     },
     {
       "$id": 162,
       "label": "Option_Caption060",
       "style": 173,
-      "name": "Choose whether to display all social notifications.\nManual: Toggle whether to display social notifications by category."
+      "name": "Choose whether to show all social information.\nSet Individually: Choose which social information to show."
     },
     {
       "$id": 163,
       "label": "Option_Caption061",
       "style": 173,
-      "name": "Choose whether to display social notifications for when\nplayers join or leave your squad."
+      "name": "Choose whether to display social information for when\nplayers join or leave your squad."
     },
     {
       "$id": 164,
       "label": "Option_Caption062",
       "style": 173,
-      "name": "Choose whether to display social notifications for when\nyou have unlocked achievements."
+      "name": "Choose whether to display social information for when\nyou have unlocked play awards."
     },
     {
       "$id": 165,
       "label": "Option_Caption063",
       "style": 173,
-      "name": "Choose whether to display social notifications for when\nother players have unlocked achievements."
+      "name": "Choose whether to display social information for when\nother players have unlocked play awards."
     },
     {
       "$id": 166,
       "label": "Option_Caption064",
       "style": 173,
-      "name": "Choose whether to display social notifications for when\nyou are able to claim Union rewards."
+      "name": "Choose whether to display social information for when\nyou are able to claim Union rewards."
     },
     {
       "$id": 167,
       "label": "Option_Caption065",
       "style": 173,
-      "name": "Choose whether to display social notifications for when\nyou are able to claim scout rewards."
+      "name": "Choose whether to display social information for when\nyou are able to claim scout rewards."
     },
     {
       "$id": 168,
       "label": "Option_Caption066",
       "style": 173,
-      "name": "Choose whether to display social notifications for when\nyou are able to claim Global Nemesis rewards."
+      "name": "Choose whether to display social information for when\nyou are able to claim World Enemy rewards."
     },
     {
       "$id": 169,
       "label": "Option_Caption067",
       "style": 173,
-      "name": "Choose whether to display social notifications for when\nBLADE operatives you have scouted gain a scout level."
+      "name": "Choose whether to display social information for when\nBLADE operatives you have scouted gain a scout level."
     },
     {
       "$id": 170,
       "label": "Option_Caption068",
       "style": 173,
-      "name": "Choose whether to display social notifications for when\nyour avatar has been scouted by other players."
+      "name": "Choose whether to display social information for when\nyour avatar has been scouted by other players."
     },
     {
       "$id": 171,
       "label": "Option_Caption069",
       "style": 173,
-      "name": "Choose whether to display social notifications for when\nyou scout other players' BLADE operatives."
+      "name": "Choose whether to display social information for when\nyou scout other players' BLADE operatives."
     },
     {
       "$id": 172,
       "label": "Option_Caption070",
       "style": 173,
-      "name": "Choose whether to display social notifications for when five minutes\nremain until other players' BLADE operatives return home."
+      "name": "Choose whether to display social information for when five minutes\nremain until other players' BLADE operatives return home."
     },
     {
       "$id": 173,
       "label": "Option_Caption071",
       "style": 173,
-      "name": "Choose whether to display social notifications for when\nother players' BLADE operatives have returned home."
+      "name": "Choose whether to display social information for when\nother players' BLADE operatives have returned home."
     },
     {
       "$id": 174,
       "label": "Option_Caption072",
       "style": 173,
-      "name": "Choose whether to display social notifications for when\nfriends have entered online mode."
+      "name": "Choose whether to display social information for when\nfriends have entered online mode."
     },
     {
       "$id": 175,
       "label": "Option_Caption073",
       "style": 173,
-      "name": "Choose whether to display social notifications for when\nsquad tasks have been commenced."
+      "name": "Choose whether to display social information for when\nsquad missions have been commenced."
     },
     {
       "$id": 176,
       "label": "Option_Caption074",
       "style": 173,
-      "name": "Choose whether to display social notifications for when\na squad task has been completed."
+      "name": "Choose whether to show social information\nwhen a squad mission objective is completed."
     },
     {
       "$id": 177,
       "label": "Option_Caption075",
       "style": 173,
-      "name": "Choose whether to display social notifications for when\nanother player has started recruiting for an online mission."
+      "name": "Choose whether to display social information for when\nanother player has started recruiting for an online mission."
     },
     {
       "$id": 178,
       "label": "Option_Caption076",
       "style": 173,
-      "name": "Choose whether to display social notifications for when\nnew online missions are available."
+      "name": "Choose whether to display social information for when\nnew online missions are available."
     },
     {
       "$id": 179,
       "label": "Option_Caption077",
       "style": 173,
-      "name": "Choose whether to display social notifications for when\nthe Global Nemesis Telethia Plume has spawned."
+      "name": "Choose whether to display social information for when\nthe World Enemy Telethia Plume has spawned."
     },
     {
       "$id": 180,
       "label": "Option_Caption078",
       "style": 173,
-      "name": "Choose whether to display social notifications for when\nthe number of times you can attempt to battle the\nGlobal Nemesis Telethia Plume has been reset."
+      "name": "Choose whether to display social information for when\nthe number of times you can attempt to battle the\nWorld Enemy Telethia Plume has been reset."
     },
     {
       "$id": 181,
       "label": "Option_Caption079",
       "style": 173,
-      "name": "Choose whether to display social notifications for when\nthe RP of the Global Nemesis Telethia Plume has\ndropped below a certain point."
+      "name": "Choose whether to display social information for when\nthe RP of the World Enemy Telethia Plume has\ndropped below a certain point."
     },
     {
       "$id": 182,
       "label": "Option_Caption080",
       "style": 173,
-      "name": "Choose whether to display social notifications for when\nthe Global Nemesis Telethia Plume has been defeated."
+      "name": "Choose whether to display social information for when\nthe World Enemy Telethia Plume has been defeated."
     },
     {
       "$id": 183,
       "label": "Option_Caption081",
       "style": 173,
-      "name": "Choose whether to display social notifications for when\nthe Global Nemesis Yggralith Zero has spawned."
+      "name": "Choose whether to display social information for when\nthe World Enemy Yegiras, the Zero Emperor has spawned."
     },
     {
       "$id": 184,
       "label": "Option_Caption082",
       "style": 173,
-      "name": "Choose whether to display social notifications for when\nthe number of times you can attempt to battle the\nGlobal Nemesis Yggralith Zero has been reset."
+      "name": "Choose whether to display social information for when\nthe number of times you can attempt to battle the\nWorld Enemy Yegiras, the Zero Emperor has been reset."
     },
     {
       "$id": 185,
       "label": "Option_Caption083",
       "style": 173,
-      "name": "Choose whether to display social notifications for when\nthe RP of the Global Nemesis Yggralith Zero has\ndropped below a certain point."
+      "name": "Choose whether to display social information for when\nthe RP of the World Enemy Yegiras, the Zero Emperor has\ndropped below a certain point."
     },
     {
       "$id": 186,
       "label": "Option_Caption084",
       "style": 173,
-      "name": "Choose whether to display social notifications for when\nthe Global Nemesis Yggralith Zero has been defeated."
+      "name": "Choose whether to display social information for when\nthe World Enemy Yegiras, the Zero Emperor has been defeated."
     },
     {
       "$id": 187,
@@ -1176,7 +1176,7 @@
       "$id": 194,
       "label": "Option_Caption092",
       "style": 173,
-      "name": "Choose whether to automatically register your current avatar\nfor the purposes of BLADE scouting."
+      "name": "Choose whether to automatically upload your avatar."
     },
     {
       "$id": 195,
@@ -1230,7 +1230,7 @@
       "$id": 203,
       "label": "Option_Caption101",
       "style": 173,
-      "name": "Choose whether to display social notifications for when\nhidden online missions have been unlocked."
+      "name": "Choose whether to show social information\nwhen a hidden online mission becomes available."
     },
     {
       "$id": 204,
@@ -1254,13 +1254,13 @@
       "$id": 207,
       "label": "Option_Setting101",
       "style": 14,
-      "name": "Once"
+      "name": "One-Shot"
     },
     {
       "$id": 208,
       "label": "Option_Setting102",
       "style": 14,
-      "name": "Looping"
+      "name": "Loop"
     },
     {
       "$id": 209,
@@ -1302,7 +1302,7 @@
       "$id": 215,
       "label": "Option_Setting109",
       "style": 14,
-      "name": "Average"
+      "name": "Normal"
     },
     {
       "$id": 216,
@@ -1320,61 +1320,61 @@
       "$id": 218,
       "label": "Option_Setting112",
       "style": 14,
-      "name": "Very Low"
+      "name": "Low"
     },
     {
       "$id": 219,
       "label": "Option_Setting113",
       "style": 14,
-      "name": "Low"
+      "name": "Slightly Low"
     },
     {
       "$id": 220,
       "label": "Option_Setting114",
       "style": 14,
-      "name": "High"
+      "name": "Slightly High"
     },
     {
       "$id": 221,
       "label": "Option_Setting115",
       "style": 14,
-      "name": "Very High"
+      "name": "High"
     },
     {
       "$id": 222,
       "label": "Option_Setting116",
       "style": 14,
-      "name": "Far Left"
+      "name": "Left"
     },
     {
       "$id": 223,
       "label": "Option_Setting117",
       "style": 14,
-      "name": "Left"
+      "name": "Slightly Left"
     },
     {
       "$id": 224,
       "label": "Option_Setting118",
       "style": 14,
-      "name": "Centered"
+      "name": "Behind"
     },
     {
       "$id": 225,
       "label": "Option_Setting119",
       "style": 14,
-      "name": "Right"
+      "name": "Slightly Right"
     },
     {
       "$id": 226,
       "label": "Option_Setting120",
       "style": 14,
-      "name": "Far Right"
+      "name": "Right"
     },
     {
       "$id": 227,
       "label": "Option_Setting121",
       "style": 14,
-      "name": "Locked Camera"
+      "name": "Dedicated Camera"
     },
     {
       "$id": 228,
@@ -1398,7 +1398,7 @@
       "$id": 231,
       "label": "Option_Setting125",
       "style": 14,
-      "name": "Blue Blood"
+      "name": "B.B."
     },
     {
       "$id": 232,
@@ -1446,7 +1446,7 @@
       "$id": 239,
       "label": "Option_Setting133",
       "style": 14,
-      "name": "Manual"
+      "name": "Set Individually"
     },
     {
       "$id": 240,
@@ -1512,7 +1512,7 @@
       "$id": 250,
       "label": "Option_Setting144",
       "style": 14,
-      "name": "Arranged (lyrics)"
+      "name": "Arranged (Vocals)"
     },
     {
       "$id": 251,
@@ -1608,19 +1608,19 @@
       "$id": 266,
       "label": "Option_Setting301",
       "style": 14,
-      "name": "Arranged (no lyrics)"
+      "name": "Arranged (No Vocals)"
     },
     {
       "$id": 267,
       "label": "Option_title103",
       "style": 32,
-      "name": "Skip Mission Acceptance Prompts"
+      "name": "Skip Quest Acceptance Prompts"
     },
     {
       "$id": 268,
       "label": "Option_Caption103",
       "style": 173,
-      "name": "Choose whether to skip over the usual prompt when accepting\nstory, bonding and normal missions.\n(When On: Normal missions will be accepted automatically. Story and\nBonding Quests can still be turned down on the mission overview window.)"
+      "name": "Choose whether to skip over the usual prompt when accepting\nstory, bonding and normal quests.\n(When On: Normal Quests will be accepted automatically. Story and\nBonding Quests can still be turned down on the quest overview window.)"
     }
   ]
 }

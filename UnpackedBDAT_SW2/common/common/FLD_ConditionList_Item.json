@@ -1,0 +1,466 @@
+{
+  "schema": [
+    {
+      "name": "ID",
+      "type": 9
+    },
+    {
+      "name": "itemType",
+      "type": 1
+    },
+    {
+      "name": "itemID",
+      "type": 2
+    },
+    {
+      "name": "itemNum_MIN",
+      "type": 1
+    },
+    {
+      "name": "itemNum_MAX",
+      "type": 1
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "ID": "COND_ITEM_INFO_041_ng",
+      "itemType": 66,
+      "itemID": 507,
+      "itemNum_MIN": 0,
+      "itemNum_MAX": 0
+    },
+    {
+      "$id": 2,
+      "ID": "COND_ITEM_INFO_041_ok",
+      "itemType": 66,
+      "itemID": 507,
+      "itemNum_MIN": 1,
+      "itemNum_MAX": 1
+    },
+    {
+      "$id": 3,
+      "ID": "COND_ITEM_Q0951_Nokey1",
+      "itemType": 29,
+      "itemID": 101,
+      "itemNum_MIN": 0,
+      "itemNum_MAX": 0
+    },
+    {
+      "$id": 4,
+      "ID": "COND_ITEM_Q0951_Nokey2",
+      "itemType": 29,
+      "itemID": 102,
+      "itemNum_MIN": 0,
+      "itemNum_MAX": 0
+    },
+    {
+      "$id": 5,
+      "ID": "COND_ITEM_0005",
+      "itemType": 29,
+      "itemID": 101,
+      "itemNum_MIN": 1,
+      "itemNum_MAX": 1
+    },
+    {
+      "$id": 6,
+      "ID": "COND_ITEM_0006",
+      "itemType": 29,
+      "itemID": 102,
+      "itemNum_MIN": 1,
+      "itemNum_MAX": 1
+    },
+    {
+      "$id": 7,
+      "ID": "COND_ITEM_Q0419_ng",
+      "itemType": 29,
+      "itemID": 72,
+      "itemNum_MIN": 0,
+      "itemNum_MAX": 0
+    },
+    {
+      "$id": 8,
+      "ID": "COND_ITEM_Q0419_ok",
+      "itemType": 29,
+      "itemID": 72,
+      "itemNum_MIN": 1,
+      "itemNum_MAX": 1
+    },
+    {
+      "$id": 9,
+      "ID": "COND_ITEM_Q0513_key1",
+      "itemType": 29,
+      "itemID": 170,
+      "itemNum_MIN": 1,
+      "itemNum_MAX": 1
+    },
+    {
+      "$id": 10,
+      "ID": "COND_ITEM_Q0513_key2",
+      "itemType": 29,
+      "itemID": 33,
+      "itemNum_MIN": 1,
+      "itemNum_MAX": 1
+    },
+    {
+      "$id": 11,
+      "ID": "COND_ITEM_Q0513_key3",
+      "itemType": 29,
+      "itemID": 34,
+      "itemNum_MIN": 1,
+      "itemNum_MAX": 1
+    },
+    {
+      "$id": 12,
+      "ID": "COND_ITEM_Q0513_key4",
+      "itemType": 29,
+      "itemID": 35,
+      "itemNum_MIN": 1,
+      "itemNum_MAX": 1
+    },
+    {
+      "$id": 13,
+      "ID": "COND_ITEM_Q0951_key",
+      "itemType": 29,
+      "itemID": 101,
+      "itemNum_MIN": 1,
+      "itemNum_MAX": 2
+    },
+    {
+      "$id": 14,
+      "ID": "COND_ITEM_Q0302_key",
+      "itemType": 29,
+      "itemID": 123,
+      "itemNum_MIN": 1,
+      "itemNum_MAX": 1
+    },
+    {
+      "$id": 15,
+      "ID": "COND_ITEM_Q0303_key",
+      "itemType": 29,
+      "itemID": 124,
+      "itemNum_MIN": 1,
+      "itemNum_MAX": 1
+    },
+    {
+      "$id": 16,
+      "ID": "COND_ITEM_Q0703_key",
+      "itemType": 29,
+      "itemID": 145,
+      "itemNum_MIN": 1,
+      "itemNum_MAX": 1
+    },
+    {
+      "$id": 17,
+      "ID": "COND_ITEM_Q0873_key",
+      "itemType": 29,
+      "itemID": 163,
+      "itemNum_MIN": 1,
+      "itemNum_MAX": 1
+    },
+    {
+      "$id": 18,
+      "ID": "COND_ITEM_Q0117_key",
+      "itemType": 29,
+      "itemID": 117,
+      "itemNum_MIN": 1,
+      "itemNum_MAX": 1
+    },
+    {
+      "$id": 19,
+      "ID": "COND_ITEM_Q0652_key",
+      "itemType": 66,
+      "itemID": 28,
+      "itemNum_MIN": 1,
+      "itemNum_MAX": 1
+    },
+    {
+      "$id": 20,
+      "ID": "COND_ITEM_INFO_029_ON",
+      "itemType": 66,
+      "itemID": 29,
+      "itemNum_MIN": 1,
+      "itemNum_MAX": 1
+    },
+    {
+      "$id": 21,
+      "ID": "COND_ITEM_INFO_030_ON",
+      "itemType": 66,
+      "itemID": 30,
+      "itemNum_MIN": 1,
+      "itemNum_MAX": 1
+    },
+    {
+      "$id": 22,
+      "ID": "COND_ITEM_INFO_029_OFF",
+      "itemType": 66,
+      "itemID": 29,
+      "itemNum_MIN": 0,
+      "itemNum_MAX": 0
+    },
+    {
+      "$id": 23,
+      "ID": "COND_ITEM_INFO_030_OFF",
+      "itemType": 66,
+      "itemID": 30,
+      "itemNum_MIN": 0,
+      "itemNum_MAX": 0
+    },
+    {
+      "$id": 24,
+      "ID": "COND_ITEM_INFO_087_ON",
+      "itemType": 66,
+      "itemID": 87,
+      "itemNum_MIN": 1,
+      "itemNum_MAX": 1
+    },
+    {
+      "$id": 25,
+      "ID": "COND_ITEM_INFO_009_ON",
+      "itemType": 66,
+      "itemID": 9,
+      "itemNum_MIN": 1,
+      "itemNum_MAX": 1
+    },
+    {
+      "$id": 26,
+      "ID": "COND_ITEM_Q0902_item1",
+      "itemType": 29,
+      "itemID": 183,
+      "itemNum_MIN": 1,
+      "itemNum_MAX": 1
+    },
+    {
+      "$id": 27,
+      "ID": "COND_ITEM_Q0902_item2",
+      "itemType": 29,
+      "itemID": 184,
+      "itemNum_MIN": 1,
+      "itemNum_MAX": 1
+    },
+    {
+      "$id": 28,
+      "ID": "COND_ITEM_Q0601_item1",
+      "itemType": 29,
+      "itemID": 70,
+      "itemNum_MIN": 0,
+      "itemNum_MAX": 0
+    },
+    {
+      "$id": 29,
+      "ID": "COND_ITEM_Q0652_key_b1",
+      "itemType": 29,
+      "itemID": 185,
+      "itemNum_MIN": 1,
+      "itemNum_MAX": 1
+    },
+    {
+      "$id": 30,
+      "ID": "COND_ITEM_Q0652_key_b2",
+      "itemType": 29,
+      "itemID": 222,
+      "itemNum_MIN": 1,
+      "itemNum_MAX": 1
+    },
+    {
+      "$id": 31,
+      "ID": "COND_ITEM_Q0652_key_b3",
+      "itemType": 29,
+      "itemID": 223,
+      "itemNum_MIN": 1,
+      "itemNum_MAX": 1
+    },
+    {
+      "$id": 32,
+      "ID": "COND_ITEM_Q0601_item2",
+      "itemType": 29,
+      "itemID": 211,
+      "itemNum_MIN": 0,
+      "itemNum_MAX": 0
+    },
+    {
+      "$id": 33,
+      "ID": "COND_ITEM_Q0652_key2_not",
+      "itemType": 29,
+      "itemID": 185,
+      "itemNum_MIN": 0,
+      "itemNum_MAX": 0
+    },
+    {
+      "$id": 34,
+      "ID": "COND_ITEM_INFO_Q413_ON",
+      "itemType": 66,
+      "itemID": 2,
+      "itemNum_MIN": 1,
+      "itemNum_MAX": 1
+    },
+    {
+      "$id": 35,
+      "ID": "COND_ITEM_INFO_550_ON",
+      "itemType": 66,
+      "itemID": 550,
+      "itemNum_MIN": 1,
+      "itemNum_MAX": 1
+    },
+    {
+      "$id": 36,
+      "ID": "COND_ITEM_INFO_528_ON",
+      "itemType": 66,
+      "itemID": 528,
+      "itemNum_MIN": 1,
+      "itemNum_MAX": 1
+    },
+    {
+      "$id": 37,
+      "ID": "COND_ITEM_Q0151_item1",
+      "itemType": 29,
+      "itemID": 10,
+      "itemNum_MIN": 48,
+      "itemNum_MAX": 48
+    },
+    {
+      "$id": 38,
+      "ID": "COND_ITEM_Q0151_item2",
+      "itemType": 29,
+      "itemID": 10,
+      "itemNum_MIN": 97,
+      "itemNum_MAX": 97
+    },
+    {
+      "$id": 39,
+      "ID": "COND_ITEM_Q0914_item1_off",
+      "itemType": 29,
+      "itemID": 225,
+      "itemNum_MIN": 0,
+      "itemNum_MAX": 0
+    },
+    {
+      "$id": 40,
+      "ID": "COND_ITEM_Q0914_item2_off",
+      "itemType": 29,
+      "itemID": 226,
+      "itemNum_MIN": 0,
+      "itemNum_MAX": 0
+    },
+    {
+      "$id": 41,
+      "ID": "COND_ITEM_Q0914_item3_off",
+      "itemType": 29,
+      "itemID": 227,
+      "itemNum_MIN": 0,
+      "itemNum_MAX": 0
+    },
+    {
+      "$id": 42,
+      "ID": "COND_ITEM_Q0253_item_hum",
+      "itemType": 29,
+      "itemID": 205,
+      "itemNum_MIN": 0,
+      "itemNum_MAX": 0
+    },
+    {
+      "$id": 43,
+      "ID": "COND_ITEM_Q0253_item_hot",
+      "itemType": 29,
+      "itemID": 206,
+      "itemNum_MIN": 0,
+      "itemNum_MAX": 0
+    },
+    {
+      "$id": 44,
+      "ID": "COND_ITEM_Q0253_item_piz",
+      "itemType": 29,
+      "itemID": 122,
+      "itemNum_MIN": 0,
+      "itemNum_MAX": 0
+    },
+    {
+      "$id": 45,
+      "ID": "COND_ITEM_INFO_566_OFF",
+      "itemType": 66,
+      "itemID": 566,
+      "itemNum_MIN": 0,
+      "itemNum_MAX": 0
+    },
+    {
+      "$id": 46,
+      "ID": "COND_ITEM_INFO_338_OFF",
+      "itemType": 66,
+      "itemID": 338,
+      "itemNum_MIN": 0,
+      "itemNum_MAX": 0
+    },
+    {
+      "$id": 47,
+      "ID": "COND_ITEM_INFO_339_OFF",
+      "itemType": 66,
+      "itemID": 339,
+      "itemNum_MIN": 0,
+      "itemNum_MAX": 0
+    },
+    {
+      "$id": 48,
+      "ID": "COND_ITEM_INFO_Q554_ON",
+      "itemType": 66,
+      "itemID": 73,
+      "itemNum_MIN": 1,
+      "itemNum_MAX": 1
+    },
+    {
+      "$id": 49,
+      "ID": "COND_ITEM_RSC_Q191_ON",
+      "itemType": 25,
+      "itemID": 1,
+      "itemNum_MIN": 10,
+      "itemNum_MAX": 99
+    },
+    {
+      "$id": 50,
+      "ID": "COND_ITEM_M13_key1",
+      "itemType": 29,
+      "itemID": 231,
+      "itemNum_MIN": 1,
+      "itemNum_MAX": 1
+    },
+    {
+      "$id": 51,
+      "ID": "COND_ITEM_M13_key2",
+      "itemType": 29,
+      "itemID": 232,
+      "itemNum_MIN": 1,
+      "itemNum_MAX": 1
+    },
+    {
+      "$id": 52,
+      "ID": "COND_ITEM_M13_key3",
+      "itemType": 29,
+      "itemID": 233,
+      "itemNum_MIN": 1,
+      "itemNum_MAX": 1
+    },
+    {
+      "$id": 53,
+      "ID": "COND_ITEM_M13_key1_not",
+      "itemType": 29,
+      "itemID": 231,
+      "itemNum_MIN": 0,
+      "itemNum_MAX": 0
+    },
+    {
+      "$id": 54,
+      "ID": "COND_ITEM_M13_key2_not",
+      "itemType": 29,
+      "itemID": 232,
+      "itemNum_MIN": 0,
+      "itemNum_MAX": 0
+    },
+    {
+      "$id": 55,
+      "ID": "COND_ITEM_M13_key3_not",
+      "itemType": 29,
+      "itemID": 233,
+      "itemNum_MIN": 0,
+      "itemNum_MAX": 0
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "schema": [
+    {
+      "name": "ID",
+      "type": 9
+    },
+    {
+      "name": "InnerLimitDist",
+      "type": 2
+    },
+    {
+      "name": "DollLimitDist",
+      "type": 2
+    },
+    {
+      "name": "DollOffsetX0",
+      "type": 8
+    },
+    {
+      "name": "DollOffsetZ0",
+      "type": 8
+    },
+    {
+      "name": "InnerOffsetX1",
+      "type": 8
+    },
+    {
+      "name": "InnerOffsetZ1",
+      "type": 8
+    },
+    {
+      "name": "DollOffsetX1",
+      "type": 8
+    },
+    {
+      "name": "DollOffsetZ1",
+      "type": 8
+    },
+    {
+      "name": "InnerOffsetX2",
+      "type": 8
+    },
+    {
+      "name": "InnerOffsetZ2",
+      "type": 8
+    },
+    {
+      "name": "DollOffsetX2",
+      "type": 8
+    },
+    {
+      "name": "DollOffsetZ2",
+      "type": 8
+    },
+    {
+      "name": "InnerOffsetX3",
+      "type": 8
+    },
+    {
+      "name": "InnerOffsetZ3",
+      "type": 8
+    },
+    {
+      "name": "DollOffsetX3",
+      "type": 8
+    },
+    {
+      "name": "DollOffsetZ3",
+      "type": 8
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "ID": "PT_MEMBER_1",
+      "InnerLimitDist": 50,
+      "DollLimitDist": 100,
+      "DollOffsetX0": 0.0,
+      "DollOffsetZ0": -7.0,
+      "InnerOffsetX1": 0.0,
+      "InnerOffsetZ1": 0.0,
+      "DollOffsetX1": 0.0,
+      "DollOffsetZ1": 0.0,
+      "InnerOffsetX2": 0.0,
+      "InnerOffsetZ2": 0.0,
+      "DollOffsetX2": 0.0,
+      "DollOffsetZ2": 0.0,
+      "InnerOffsetX3": 0.0,
+      "InnerOffsetZ3": 0.0,
+      "DollOffsetX3": 0.0,
+      "DollOffsetZ3": 0.0
+    },
+    {
+      "$id": 2,
+      "ID": "PT_MEMBER_2",
+      "InnerLimitDist": 50,
+      "DollLimitDist": 100,
+      "DollOffsetX0": 0.0,
+      "DollOffsetZ0": -7.0,
+      "InnerOffsetX1": 0.0,
+      "InnerOffsetZ1": -1.0,
+      "DollOffsetX1": 0.0,
+      "DollOffsetZ1": -10.0,
+      "InnerOffsetX2": 0.0,
+      "InnerOffsetZ2": 0.0,
+      "DollOffsetX2": 0.0,
+      "DollOffsetZ2": 0.0,
+      "InnerOffsetX3": 0.0,
+      "InnerOffsetZ3": 0.0,
+      "DollOffsetX3": 0.0,
+      "DollOffsetZ3": 0.0
+    },
+    {
+      "$id": 3,
+      "ID": "PT_MEMBER_3",
+      "InnerLimitDist": 50,
+      "DollLimitDist": 100,
+      "DollOffsetX0": 0.0,
+      "DollOffsetZ0": -7.0,
+      "InnerOffsetX1": -1.0,
+      "InnerOffsetZ1": -1.0,
+      "DollOffsetX1": -7.0,
+      "DollOffsetZ1": -10.0,
+      "InnerOffsetX2": 1.0,
+      "InnerOffsetZ2": -1.0,
+      "DollOffsetX2": 7.0,
+      "DollOffsetZ2": -10.0,
+      "InnerOffsetX3": 0.0,
+      "InnerOffsetZ3": 0.0,
+      "DollOffsetX3": 0.0,
+      "DollOffsetZ3": 0.0
+    },
+    {
+      "$id": 4,
+      "ID": "PT_MEMBER_4",
+      "InnerLimitDist": 50,
+      "DollLimitDist": 100,
+      "DollOffsetX0": 0.0,
+      "DollOffsetZ0": -7.0,
+      "InnerOffsetX1": -1.0,
+      "InnerOffsetZ1": -1.0,
+      "DollOffsetX1": -7.0,
+      "DollOffsetZ1": -10.0,
+      "InnerOffsetX2": 1.0,
+      "InnerOffsetZ2": -1.0,
+      "DollOffsetX2": 7.0,
+      "DollOffsetZ2": -10.0,
+      "InnerOffsetX3": 0.0,
+      "InnerOffsetZ3": -3.0,
+      "DollOffsetX3": 0.0,
+      "DollOffsetZ3": -16.0
+    }
+  ]
+}

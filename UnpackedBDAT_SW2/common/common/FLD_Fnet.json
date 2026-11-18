@@ -1,0 +1,78 @@
+{
+  "schema": [
+    {
+      "name": "ID",
+      "type": 9
+    },
+    {
+      "name": "VeinID",
+      "type": 2
+    },
+    {
+      "name": "BcnType",
+      "type": 1
+    },
+    {
+      "name": "BcnID",
+      "type": 2
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "ID": "FNET_M02_VEIN",
+      "VeinID": 15,
+      "BcnType": 0,
+      "BcnID": 0
+    },
+    {
+      "$id": 2,
+      "ID": "FNET_Q0962_VEIN",
+      "VeinID": 16,
+      "BcnType": 0,
+      "BcnID": 0
+    },
+    {
+      "$id": 3,
+      "ID": "FNET_Q0907_VEIN",
+      "VeinID": 11,
+      "BcnType": 0,
+      "BcnID": 0
+    },
+    {
+      "$id": 4,
+      "ID": "FNET_Q0160_01_VEIN",
+      "VeinID": 13,
+      "BcnType": 0,
+      "BcnID": 2
+    },
+    {
+      "$id": 5,
+      "ID": "FNET_Q0160_02_VEIN",
+      "VeinID": 11,
+      "BcnType": 0,
+      "BcnID": 2
+    },
+    {
+      "$id": 6,
+      "ID": "FNET_Q0160_03_VEIN",
+      "VeinID": 15,
+      "BcnType": 0,
+      "BcnID": 2
+    },
+    {
+      "$id": 7,
+      "ID": "FNET_Q0160_04_VEIN",
+      "VeinID": 16,
+      "BcnType": 3,
+      "BcnID": 0
+    },
+    {
+      "$id": 8,
+      "ID": "FNET_Q0925_VEIN",
+      "VeinID": 9,
+      "BcnType": 0,
+      "BcnID": 0
+    }
+  ]
+}

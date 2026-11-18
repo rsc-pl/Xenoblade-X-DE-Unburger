@@ -1,0 +1,30 @@
+{
+  "schema": [
+    {
+      "name": "ID",
+      "type": 9
+    },
+    {
+      "name": "resource",
+      "type": 7
+    },
+    {
+      "name": "id",
+      "type": 2
+    }
+  ],
+  "rows": [
+    {
+      "$id": 0,
+      "ID": "NPC_0000",
+      "resource": "oj210101",
+      "id": 21
+    },
+    {
+      "$id": 1,
+      "ID": "NPC_0001",
+      "resource": "oj210102",
+      "id": 21
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "schema": [
+    {
+      "name": "ID",
+      "type": 9
+    },
+    {
+      "name": "Speed",
+      "type": 2
+    },
+    {
+      "name": "Life",
+      "type": 2
+    },
+    {
+      "name": "Height",
+      "type": 2
+    },
+    {
+      "name": "Range",
+      "type": 2
+    },
+    {
+      "name": "Scale",
+      "type": 2
+    },
+    {
+      "name": "Search",
+      "type": 2
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "ID": "Inner",
+      "Speed": 83,
+      "Life": 40,
+      "Height": 100,
+      "Range": 500,
+      "Scale": 100,
+      "Search": 30
+    },
+    {
+      "$id": 2,
+      "ID": "Doll",
+      "Speed": 330,
+      "Life": 40,
+      "Height": 200,
+      "Range": 500,
+      "Scale": 400,
+      "Search": 30
+    }
+  ]
+}

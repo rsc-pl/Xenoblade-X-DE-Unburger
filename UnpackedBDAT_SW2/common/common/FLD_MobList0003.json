@@ -1,0 +1,358 @@
+{
+  "schema": [
+    {
+      "name": "ID",
+      "type": 9
+    },
+    {
+      "name": "name",
+      "type": 7
+    },
+    {
+      "name": "popNum_min",
+      "type": 1
+    },
+    {
+      "name": "popNum_max",
+      "type": 1
+    },
+    {
+      "name": "popItvl_min",
+      "type": 1
+    },
+    {
+      "name": "popItvl_max",
+      "type": 1
+    },
+    {
+      "name": "res_group",
+      "type": 2
+    },
+    {
+      "name": "algo_type",
+      "type": 1
+    },
+    {
+      "name": "gene_dist",
+      "type": 2
+    },
+    {
+      "name": "del_dist",
+      "type": 2
+    },
+    {
+      "name": "del_dist_pc",
+      "type": 2
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "ID": "MOB_LC001",
+      "name": "MOB_LCA_001",
+      "popNum_min": 1,
+      "popNum_max": 1,
+      "popItvl_min": 0,
+      "popItvl_max": 0,
+      "res_group": 1,
+      "algo_type": 1,
+      "gene_dist": 30,
+      "del_dist": 2,
+      "del_dist_pc": 30
+    },
+    {
+      "$id": 2,
+      "ID": "MOB_LC002",
+      "name": "MOB_LCA_002",
+      "popNum_min": 1,
+      "popNum_max": 1,
+      "popItvl_min": 0,
+      "popItvl_max": 0,
+      "res_group": 2,
+      "algo_type": 1,
+      "gene_dist": 30,
+      "del_dist": 2,
+      "del_dist_pc": 30
+    },
+    {
+      "$id": 3,
+      "ID": "MOB_LC003",
+      "name": "MOB_LCA_003",
+      "popNum_min": 1,
+      "popNum_max": 1,
+      "popItvl_min": 0,
+      "popItvl_max": 0,
+      "res_group": 3,
+      "algo_type": 1,
+      "gene_dist": 30,
+      "del_dist": 2,
+      "del_dist_pc": 30
+    },
+    {
+      "$id": 4,
+      "ID": "MOB_LC004",
+      "name": "MOB_LCA_004",
+      "popNum_min": 1,
+      "popNum_max": 1,
+      "popItvl_min": 0,
+      "popItvl_max": 0,
+      "res_group": 4,
+      "algo_type": 1,
+      "gene_dist": 30,
+      "del_dist": 2,
+      "del_dist_pc": 30
+    },
+    {
+      "$id": 5,
+      "ID": "MOB_LC005",
+      "name": "MOB_LCA_005",
+      "popNum_min": 1,
+      "popNum_max": 1,
+      "popItvl_min": 0,
+      "popItvl_max": 0,
+      "res_group": 5,
+      "algo_type": 1,
+      "gene_dist": 30,
+      "del_dist": 2,
+      "del_dist_pc": 30
+    },
+    {
+      "$id": 6,
+      "ID": "MOB_LC006",
+      "name": "MOB_LCA_006",
+      "popNum_min": 1,
+      "popNum_max": 1,
+      "popItvl_min": 0,
+      "popItvl_max": 0,
+      "res_group": 6,
+      "algo_type": 1,
+      "gene_dist": 30,
+      "del_dist": 2,
+      "del_dist_pc": 30
+    },
+    {
+      "$id": 7,
+      "ID": "MOB_LC007",
+      "name": "MOB_LCA_007",
+      "popNum_min": 1,
+      "popNum_max": 1,
+      "popItvl_min": 0,
+      "popItvl_max": 0,
+      "res_group": 7,
+      "algo_type": 1,
+      "gene_dist": 30,
+      "del_dist": 2,
+      "del_dist_pc": 30
+    },
+    {
+      "$id": 8,
+      "ID": "MOB_LC008",
+      "name": "MOB_LCA_008",
+      "popNum_min": 1,
+      "popNum_max": 1,
+      "popItvl_min": 0,
+      "popItvl_max": 0,
+      "res_group": 8,
+      "algo_type": 1,
+      "gene_dist": 30,
+      "del_dist": 2,
+      "del_dist_pc": 30
+    },
+    {
+      "$id": 9,
+      "ID": "MOB_LC009",
+      "name": "MOB_LCA_009",
+      "popNum_min": 1,
+      "popNum_max": 1,
+      "popItvl_min": 0,
+      "popItvl_max": 0,
+      "res_group": 9,
+      "algo_type": 1,
+      "gene_dist": 30,
+      "del_dist": 2,
+      "del_dist_pc": 30
+    },
+    {
+      "$id": 10,
+      "ID": "MOB_LC010",
+      "name": "MOB_LCA_010",
+      "popNum_min": 1,
+      "popNum_max": 1,
+      "popItvl_min": 0,
+      "popItvl_max": 0,
+      "res_group": 10,
+      "algo_type": 1,
+      "gene_dist": 30,
+      "del_dist": 2,
+      "del_dist_pc": 30
+    },
+    {
+      "$id": 11,
+      "ID": "MOB_LW001",
+      "name": "MOB_LWA_001",
+      "popNum_min": 1,
+      "popNum_max": 1,
+      "popItvl_min": 0,
+      "popItvl_max": 0,
+      "res_group": 13,
+      "algo_type": 1,
+      "gene_dist": 30,
+      "del_dist": 2,
+      "del_dist_pc": 30
+    },
+    {
+      "$id": 12,
+      "ID": "MOB_LW002",
+      "name": "MOB_LWA_002",
+      "popNum_min": 1,
+      "popNum_max": 1,
+      "popItvl_min": 0,
+      "popItvl_max": 0,
+      "res_group": 14,
+      "algo_type": 1,
+      "gene_dist": 30,
+      "del_dist": 2,
+      "del_dist_pc": 30
+    },
+    {
+      "$id": 13,
+      "ID": "MOB_LW003",
+      "name": "MOB_LWA_003",
+      "popNum_min": 1,
+      "popNum_max": 1,
+      "popItvl_min": 0,
+      "popItvl_max": 0,
+      "res_group": 15,
+      "algo_type": 1,
+      "gene_dist": 30,
+      "del_dist": 2,
+      "del_dist_pc": 30
+    },
+    {
+      "$id": 14,
+      "ID": "MOB_LW004",
+      "name": "MOB_LWA_004",
+      "popNum_min": 1,
+      "popNum_max": 1,
+      "popItvl_min": 0,
+      "popItvl_max": 0,
+      "res_group": 16,
+      "algo_type": 1,
+      "gene_dist": 30,
+      "del_dist": 2,
+      "del_dist_pc": 30
+    },
+    {
+      "$id": 15,
+      "ID": "MOB_LW005",
+      "name": "MOB_LWA_005",
+      "popNum_min": 1,
+      "popNum_max": 1,
+      "popItvl_min": 0,
+      "popItvl_max": 0,
+      "res_group": 17,
+      "algo_type": 1,
+      "gene_dist": 30,
+      "del_dist": 2,
+      "del_dist_pc": 30
+    },
+    {
+      "$id": 16,
+      "ID": "MOB_LW006",
+      "name": "MOB_LWA_006",
+      "popNum_min": 1,
+      "popNum_max": 1,
+      "popItvl_min": 0,
+      "popItvl_max": 0,
+      "res_group": 18,
+      "algo_type": 1,
+      "gene_dist": 30,
+      "del_dist": 2,
+      "del_dist_pc": 30
+    },
+    {
+      "$id": 17,
+      "ID": "MOB_LE001",
+      "name": "MOB_LEA_001",
+      "popNum_min": 1,
+      "popNum_max": 1,
+      "popItvl_min": 0,
+      "popItvl_max": 0,
+      "res_group": 21,
+      "algo_type": 1,
+      "gene_dist": 30,
+      "del_dist": 2,
+      "del_dist_pc": 30
+    },
+    {
+      "$id": 18,
+      "ID": "MOB_LE002",
+      "name": "MOB_LEA_002",
+      "popNum_min": 1,
+      "popNum_max": 1,
+      "popItvl_min": 0,
+      "popItvl_max": 0,
+      "res_group": 22,
+      "algo_type": 1,
+      "gene_dist": 30,
+      "del_dist": 2,
+      "del_dist_pc": 30
+    },
+    {
+      "$id": 19,
+      "ID": "MOB_LE003",
+      "name": "MOB_LEA_003",
+      "popNum_min": 1,
+      "popNum_max": 1,
+      "popItvl_min": 0,
+      "popItvl_max": 0,
+      "res_group": 23,
+      "algo_type": 1,
+      "gene_dist": 30,
+      "del_dist": 2,
+      "del_dist_pc": 30
+    },
+    {
+      "$id": 20,
+      "ID": "MOB_LE004",
+      "name": "MOB_LEA_004",
+      "popNum_min": 1,
+      "popNum_max": 1,
+      "popItvl_min": 0,
+      "popItvl_max": 0,
+      "res_group": 24,
+      "algo_type": 1,
+      "gene_dist": 30,
+      "del_dist": 2,
+      "del_dist_pc": 30
+    },
+    {
+      "$id": 21,
+      "ID": "MOB_LE005",
+      "name": "MOB_LEA_005",
+      "popNum_min": 1,
+      "popNum_max": 1,
+      "popItvl_min": 0,
+      "popItvl_max": 0,
+      "res_group": 25,
+      "algo_type": 1,
+      "gene_dist": 30,
+      "del_dist": 2,
+      "del_dist_pc": 30
+    },
+    {
+      "$id": 22,
+      "ID": "MOB_LE006",
+      "name": "MOB_LEA_006",
+      "popNum_min": 1,
+      "popNum_max": 1,
+      "popItvl_min": 0,
+      "popItvl_max": 0,
+      "res_group": 26,
+      "algo_type": 1,
+      "gene_dist": 30,
+      "del_dist": 2,
+      "del_dist_pc": 30
+    }
+  ]
+}

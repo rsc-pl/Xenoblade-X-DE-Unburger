@@ -138,7 +138,7 @@
       "$id": 21,
       "label": "menu_program_SystemLog01",
       "style": 13,
-      "name": "Mission Update:"
+      "name": "Quest Update:"
     },
     {
       "$id": 22,
@@ -156,7 +156,7 @@
       "$id": 24,
       "label": "menu_program_SystemLog04",
       "style": 14,
-      "name": "Experience Gained:"
+      "name": "Inner EXP:"
     },
     {
       "$id": 25,
@@ -192,7 +192,7 @@
       "$id": 30,
       "label": "menu_program_SystemLog10",
       "style": 17,
-      "name": "FrontierNet Revenue:"
+      "name": "FrontierNET Revenue:"
     },
     {
       "$id": 31,
@@ -252,13 +252,13 @@
       "$id": 40,
       "label": "menu_program_SystemLog20",
       "style": 24,
-      "name": "Material Tickets (Single Task Reward):"
+      "name": "Material Tickets (Individual Objective):"
     },
     {
       "$id": 41,
       "label": "menu_program_SystemLog21",
       "style": 24,
-      "name": "Material Tickets (All Tasks Reward):"
+      "name": "Material Tickets (All Objectives):"
     },
     {
       "$id": 42,
@@ -276,7 +276,7 @@
       "$id": 44,
       "label": "menu_program_SystemLog24",
       "style": 18,
-      "name": "Information Gathered:"
+      "name": "Information:"
     },
     {
       "$id": 45,
@@ -1194,13 +1194,13 @@
       "$id": 197,
       "label": "menu_program_CommonMenu33",
       "style": 16,
-      "name": "Weapons"
+      "name": "Inner Weapons"
     },
     {
       "$id": 198,
       "label": "menu_program_CommonMenu34",
       "style": 16,
-      "name": "Protective Wear"
+      "name": "Inner Armor"
     },
     {
       "$id": 199,
@@ -1374,13 +1374,13 @@
       "$id": 227,
       "label": "menu_program_Colepedia03",
       "style": 14,
-      "name": "Flora"
+      "name": "Plants"
     },
     {
       "$id": 228,
       "label": "menu_program_Colepedia04",
       "style": 14,
-      "name": "Fauna"
+      "name": "Small Animals"
     },
     {
       "$id": 229,
@@ -1392,13 +1392,13 @@
       "$id": 230,
       "label": "menu_program_Colepedia06",
       "style": 14,
-      "name": "Natural Artifacts"
+      "name": "Natural Objects"
     },
     {
       "$id": 231,
       "label": "menu_program_Colepedia07",
       "style": 14,
-      "name": "Wreckage"
+      "name": "Fallen Objects"
     },
     {
       "$id": 232,
@@ -1410,13 +1410,13 @@
       "$id": 233,
       "label": "menu_program_Colepedia09",
       "style": 14,
-      "name": "Xenotech"
+      "name": "Alien Civilization"
     },
     {
       "$id": 234,
       "label": "menu_program_Colepedia10",
       "style": 14,
-      "name": "Curios"
+      "name": "Mysteries"
     },
     {
       "$id": 235,
@@ -1596,13 +1596,13 @@
       "$id": 264,
       "label": "menu_program_SocialInformation03",
       "style": 23,
-      "name": "Achievement Unlocked!"
+      "name": "Award Earned!!"
     },
     {
       "$id": 265,
       "label": "menu_program_SocialInformation04",
       "style": 23,
-      "name": "Squad Member Achievement!"
+      "name": "A Member Earned an Award!"
     },
     {
       "$id": 266,
@@ -1620,31 +1620,31 @@
       "$id": 268,
       "label": "menu_program_SocialInformation07",
       "style": 23,
-      "name": "Global Nemesis Spotted"
+      "name": "World Enemy Appeared"
     },
     {
       "$id": 269,
       "label": "menu_program_SocialInformation08",
       "style": 23,
-      "name": "Global Nemesis RP Halved"
+      "name": "World Enemy RP Halved"
     },
     {
       "$id": 270,
       "label": "menu_program_SocialInformation09",
       "style": 23,
-      "name": "Global Nemesis Nearing Defeat"
+      "name": "World Enemy Near Death"
     },
     {
       "$id": 271,
       "label": "menu_program_SocialInformation10",
       "style": 23,
-      "name": "Global Nemesis Escaped"
+      "name": "World Enemy Escaped"
     },
     {
       "$id": 272,
       "label": "menu_program_SocialInformation11",
       "style": 23,
-      "name": "Global Nemesis Defeated"
+      "name": "World Enemy Defeated"
     },
     {
       "$id": 273,
@@ -1662,7 +1662,7 @@
       "$id": 275,
       "label": "menu_program_SocialInformation14",
       "style": 23,
-      "name": "Scout Merit Reward 1"
+      "name": "Scout Growth Reward 1"
     },
     {
       "$id": 276,
@@ -1680,7 +1680,7 @@
       "$id": 278,
       "label": "menu_program_SocialInformation17",
       "style": 23,
-      "name": "Scout Released"
+      "name": "Return Report"
     },
     {
       "$id": 279,
@@ -1722,49 +1722,49 @@
       "$id": 285,
       "label": "menu_program_SocialInformation24",
       "style": 23,
-      "name": "Global Nemesis Spotted"
+      "name": "World Enemy Appeared"
     },
     {
       "$id": 286,
       "label": "menu_program_SocialInformation25",
       "style": 23,
-      "name": "Global Nemesis RP Halved"
+      "name": "World Enemy RP Halved"
     },
     {
       "$id": 287,
       "label": "menu_program_SocialInformation26",
       "style": 23,
-      "name": "Global Nemesis Nearing Defeat"
+      "name": "World Enemy Near Death"
     },
     {
       "$id": 288,
       "label": "menu_program_SocialInformation27",
       "style": 23,
-      "name": "Global Nemesis Escaped"
+      "name": "World Enemy Escaped"
     },
     {
       "$id": 289,
       "label": "menu_program_SocialInformation28",
       "style": 23,
-      "name": "Global Nemesis Defeated"
+      "name": "World Enemy Defeated"
     },
     {
       "$id": 290,
       "label": "menu_program_SocialInformation29",
       "style": 23,
-      "name": "Global Nemesis Defeated"
+      "name": "World Enemy Defeated"
     },
     {
       "$id": 291,
       "label": "menu_program_SocialInformation30",
       "style": 23,
-      "name": "Scout Merit Reward 2"
+      "name": "Scout Growth Reward 2"
     },
     {
       "$id": 292,
       "label": "menu_program_SocialInformation31",
       "style": 23,
-      "name": "Scout Merit Reward 3"
+      "name": "Scout Growth Reward 3"
     },
     {
       "$id": 293,
@@ -2034,7 +2034,7 @@
       "$id": 337,
       "label": "menu_program_DropSystem16",
       "style": 12,
-      "name": "Manage Items"
+      "name": "Select Acquisition Method"
     },
     {
       "$id": 338,
@@ -2046,7 +2046,7 @@
       "$id": 339,
       "label": "menu_program_DropSystem18",
       "style": 13,
-      "name": "Choose Items"
+      "name": "Claim Individually"
     },
     {
       "$id": 340,
@@ -2058,7 +2058,7 @@
       "$id": 341,
       "label": "menu_program_DropSystem20",
       "style": 12,
-      "name": "Item List"
+      "name": "Opened Item List"
     },
     {
       "$id": 342,
@@ -2256,13 +2256,13 @@
       "$id": 374,
       "label": "menu_program_infobox_Quest22",
       "style": 13,
-      "name": "Story Mission"
+      "name": "Story Quest"
     },
     {
       "$id": 375,
       "label": "menu_program_infobox_Quest23",
       "style": 13,
-      "name": "Normal Mission"
+      "name": "Normal Quest"
     },
     {
       "$id": 376,
@@ -2274,19 +2274,19 @@
       "$id": 377,
       "label": "menu_program_infobox_Quest25",
       "style": 13,
-      "name": "Basic Mission"
+      "name": "Simple Quest"
     },
     {
       "$id": 378,
       "label": "menu_program_infobox_Quest26",
       "style": 13,
-      "name": "Online Mission"
+      "name": "Multi Quest"
     },
     {
       "$id": 379,
       "label": "menu_program_infobox_Quest27",
       "style": 152,
-      "name": "Accept this mission?"
+      "name": "Accept this quest?"
     },
     {
       "$id": 380,
@@ -2436,7 +2436,7 @@
       "$id": 404,
       "label": "menu_program_ClanHomeMenu02",
       "style": 152,
-      "name": "Abandon this mission?"
+      "name": "Abandon this quest?"
     },
     {
       "$id": 405,
@@ -2814,7 +2814,7 @@
       "$id": 467,
       "label": "menu_program_QuestList05",
       "style": 152,
-      "name": "Track this mission in your\nnavigation panel?"
+      "name": "Track this quest in your\nnavigation panel?"
     },
     {
       "$id": 468,
@@ -2862,7 +2862,7 @@
       "$id": 475,
       "label": "menu_program_QuestList13",
       "style": 20,
-      "name": "Active Missions"
+      "name": "Quest List"
     },
     {
       "$id": 476,
@@ -2874,7 +2874,7 @@
       "$id": 477,
       "label": "menu_program_QuestList15",
       "style": 21,
-      "name": "(No active missions available.)"
+      "name": "No unfinished quests."
     },
     {
       "$id": 478,
@@ -3054,7 +3054,7 @@
       "$id": 507,
       "label": "menu_program_EquipStatus30",
       "style": 18,
-      "name": "View Primary Gear"
+      "name": "View Regular Gear"
     },
     {
       "$id": 508,
@@ -3318,7 +3318,7 @@
       "$id": 551,
       "label": "menu_program_EquipStatus74",
       "style": 20,
-      "name": "Change Fashion Gear"
+      "name": "Change Fashion Equipment"
     },
     {
       "$id": 552,
@@ -3366,7 +3366,7 @@
       "$id": 559,
       "label": "menu_program_EquipStatus82",
       "style": 20,
-      "name": "Change Gear"
+      "name": "Change Equipment"
     },
     {
       "$id": 560,
@@ -3636,7 +3636,7 @@
       "$id": 604,
       "label": "menu_program_Shop12",
       "style": 16,
-      "name": "Ground Gear"
+      "name": "Inner Gear"
     },
     {
       "$id": 605,
@@ -4194,13 +4194,13 @@
       "$id": 697,
       "label": "menu_program_Shop105",
       "style": 15,
-      "name": "R. Sidearm"
+      "name": "R. Hand Weapon"
     },
     {
       "$id": 698,
       "label": "menu_program_Shop106",
       "style": 15,
-      "name": "L. Sidearm"
+      "name": "L. Hand Weapon"
     },
     {
       "$id": 699,
@@ -4488,19 +4488,19 @@
       "$id": 746,
       "label": "menu_program_RentalChara04",
       "style": 19,
-      "name": "Scout BLADEs"
+      "name": "Scout Other BLADE Members"
     },
     {
       "$id": 747,
       "label": "menu_program_RentalChara05",
       "style": 19,
-      "name": "Release Scouted BLADEs"
+      "name": "Send Scouted BLADE Members Back"
     },
     {
       "$id": 748,
       "label": "menu_program_RentalChara06",
       "style": 20,
-      "name": "Claim Scout Rewards"
+      "name": "Scout History / Claim Rewards"
     },
     {
       "$id": 749,
@@ -4512,7 +4512,7 @@
       "$id": 750,
       "label": "menu_program_RentalChara08",
       "style": 19,
-      "name": "Change Ground Gear"
+      "name": "Change Inner Gear"
     },
     {
       "$id": 751,
@@ -4578,7 +4578,7 @@
       "$id": 761,
       "label": "menu_program_RentalChara19",
       "style": 15,
-      "name": "Level"
+      "name": "Inner Level"
     },
     {
       "$id": 762,
@@ -4650,7 +4650,7 @@
       "$id": 773,
       "label": "menu_program_RentalChara31",
       "style": 13,
-      "name": "Release"
+      "name": "Send Back"
     },
     {
       "$id": 774,
@@ -4662,7 +4662,7 @@
       "$id": 775,
       "label": "menu_program_RentalChara33",
       "style": 20,
-      "name": "Scouting BLADEs"
+      "name": "BLADE Members Who Scouted You"
     },
     {
       "$id": 776,
@@ -4710,7 +4710,7 @@
       "$id": 783,
       "label": "menu_program_RentalChara41",
       "style": 20,
-      "name": "60"
+      "name": "60+"
     },
     {
       "$id": 784,
@@ -4980,13 +4980,13 @@
       "$id": 828,
       "label": "menu_program_WorksGuide01",
       "style": 88,
-      "name": "If you accept this story mission, you will not be able to accept\nany Bonding Quests until the story mission is complete."
+      "name": "If you accept this story quest, you will not be able to accept\nany Bonding Quests until the story quest is complete."
     },
     {
       "$id": 829,
       "label": "menu_program_WorksGuide02",
       "style": 152,
-      "name": "Accept story mission?"
+      "name": "Accept story quest?"
     },
     {
       "$id": 830,
@@ -5004,7 +5004,7 @@
       "$id": 832,
       "label": "menu_program_WorksGuide05",
       "style": 88,
-      "name": "You will be unable to accept any story missions until the Bonding Quest is complete."
+      "name": "You will be unable to accept any story quests until the Bonding Quest is complete."
     },
     {
       "$id": 833,
@@ -5064,7 +5064,7 @@
       "$id": 842,
       "label": "menu_program_WorksGuide15",
       "style": 20,
-      "name": "Story Mission"
+      "name": "Story Quest"
     },
     {
       "$id": 843,
@@ -5160,19 +5160,19 @@
       "$id": 858,
       "label": "menu_program_ItemList01",
       "style": 15,
-      "name": "Ranged Weapons"
+      "name": "Inner Ranged Weapons"
     },
     {
       "$id": 859,
       "label": "menu_program_ItemList02",
       "style": 15,
-      "name": "Melee Weapons"
+      "name": "Inner Melee Weapons"
     },
     {
       "$id": 860,
       "label": "menu_program_ItemList03",
       "style": 15,
-      "name": "Armor"
+      "name": "Inner Armor"
     },
     {
       "$id": 861,
@@ -5220,7 +5220,7 @@
       "$id": 868,
       "label": "menu_program_ItemList11",
       "style": 15,
-      "name": "Appendage Fragments"
+      "name": "Part Fragments"
     },
     {
       "$id": 869,
@@ -5250,7 +5250,7 @@
       "$id": 873,
       "label": "menu_program_ItemList16",
       "style": 15,
-      "name": "Precious Resources"
+      "name": "Rare Resources"
     },
     {
       "$id": 874,
@@ -5310,7 +5310,7 @@
       "$id": 883,
       "label": "menu_program_ItemList26",
       "style": 16,
-      "name": "Order Stored"
+      "name": "Acquisition Order"
     },
     {
       "$id": 884,
@@ -5610,19 +5610,19 @@
       "$id": 933,
       "label": "menu_program_MainMenu_Character",
       "style": 17,
-      "name": "Party"
+      "name": "Characters"
     },
     {
       "$id": 934,
       "label": "menu_program_MainMenu_ItemList",
       "style": 11,
-      "name": "Inventory"
+      "name": "Item List"
     },
     {
       "$id": 935,
       "label": "menu_program_MainMenu_Information",
       "style": 17,
-      "name": "Intel"
+      "name": "Lists"
     },
     {
       "$id": 936,
@@ -5646,7 +5646,7 @@
       "$id": 939,
       "label": "menu_program_MainMenu_BuddyList",
       "style": 20,
-      "name": "Player Lists"
+      "name": "Member List"
     },
     {
       "$id": 940,
@@ -5682,13 +5682,13 @@
       "$id": 945,
       "label": "menu_program_MainMenu_Option",
       "style": 20,
-      "name": "Settings"
+      "name": "Options"
     },
     {
       "$id": 946,
       "label": "menu_program_MainMenu_Inner",
       "style": 20,
-      "name": "Ground Gear"
+      "name": "Inner Gear"
     },
     {
       "$id": 947,
@@ -5700,49 +5700,49 @@
       "$id": 948,
       "label": "menu_program_MainMenu_ArtsSet",
       "style": 20,
-      "name": "Arts"
+      "name": "Arts Setup"
     },
     {
       "$id": 949,
       "label": "menu_program_MainMenu_SkillSet",
       "style": 20,
-      "name": "Skills"
+      "name": "Skill Setup"
     },
     {
       "$id": 950,
       "label": "menu_program_MainMenu_SoulVoice",
       "style": 20,
-      "name": "Soul Voices"
+      "name": "Soul Voice Setup"
     },
     {
       "$id": 951,
       "label": "menu_program_MainMenu_ClassChange",
       "style": 20,
-      "name": "Classes"
+      "name": "Change Class"
     },
     {
       "$id": 952,
       "label": "menu_program_MainMenu_PartyOrganize",
       "style": 17,
-      "name": "Active Members"
+      "name": "Change Party Members"
     },
     {
       "$id": 953,
       "label": "menu_program_MainMenu_QuestList",
       "style": 17,
-      "name": "Missions"
+      "name": "Quests"
     },
     {
       "$id": 954,
       "label": "menu_program_MainMenu_EnemyList",
       "style": 20,
-      "name": "Enemy Index"
+      "name": "Enemy Encyclopedia"
     },
     {
       "$id": 955,
       "label": "menu_program_MainMenu_AchiList",
       "style": 20,
-      "name": "Achievements"
+      "name": "Play Awards"
     },
     {
       "$id": 956,
@@ -5820,7 +5820,7 @@
       "$id": 968,
       "label": "menu_program_MainMenu_InfoList",
       "style": 20,
-      "name": "Info"
+      "name": "Information List"
     },
     {
       "$id": 969,
@@ -5844,7 +5844,7 @@
       "$id": 972,
       "label": "menu_program_MainMenu_DRCPlay",
       "style": 20,
-      "name": "Toggle GamePad Screen"
+      "name": "Switch Game Screen"
     },
     {
       "$id": 973,
@@ -5946,7 +5946,7 @@
       "$id": 989,
       "label": "menu_program_SimpleQuest06",
       "style": 28,
-      "name": "Accept this mission?"
+      "name": "Accept this quest?"
     },
     {
       "$id": 990,
@@ -5964,7 +5964,7 @@
       "$id": 992,
       "label": "menu_program_SimpleQuest09",
       "style": 152,
-      "name": "Abandon this mission?"
+      "name": "Abandon this quest?"
     },
     {
       "$id": 993,
@@ -6246,7 +6246,7 @@
       "$id": 1039,
       "label": "menu_program_DollGarage16",
       "style": 12,
-      "name": "Sell Doll"
+      "name": "Doll Sale"
     },
     {
       "$id": 1040,
@@ -6336,25 +6336,25 @@
       "$id": 1054,
       "label": "menu_program_DollGarage31",
       "style": 12,
-      "name": "Section 01"
+      "name": "Part 01"
     },
     {
       "$id": 1055,
       "label": "menu_program_DollGarage32",
       "style": 12,
-      "name": "Section 02"
+      "name": "Part 02"
     },
     {
       "$id": 1056,
       "label": "menu_program_DollGarage33",
       "style": 12,
-      "name": "Section 03"
+      "name": "Part 03"
     },
     {
       "$id": 1057,
       "label": "menu_program_DollGarage34",
       "style": 12,
-      "name": "Section 04"
+      "name": "Part 04"
     },
     {
       "$id": 1058,
@@ -6426,13 +6426,13 @@
       "$id": 1069,
       "label": "menu_program_DollGarage46",
       "style": 20,
-      "name": "BLADE Home Hangar"
+      "name": "Doll Garage"
     },
     {
       "$id": 1070,
       "label": "menu_program_DollGarage47",
       "style": 12,
-      "name": "Doll Garage"
+      "name": "My Garage"
     },
     {
       "$id": 1071,
@@ -6450,7 +6450,7 @@
       "$id": 1073,
       "label": "menu_program_DollGarage50",
       "style": 14,
-      "name": "Change Gear"
+      "name": "Setup"
     },
     {
       "$id": 1074,
@@ -6468,7 +6468,7 @@
       "$id": 1076,
       "label": "menu_program_DollGarage53",
       "style": 14,
-      "name": "Sell"
+      "name": "Sell Dolls"
     },
     {
       "$id": 1077,
@@ -6672,7 +6672,7 @@
       "$id": 1110,
       "label": "menu_program_HoloFigure02",
       "style": 13,
-      "name": "Display"
+      "name": "Place Randomly"
     },
     {
       "$id": 1111,
@@ -6726,13 +6726,13 @@
       "$id": 1119,
       "label": "menu_program_HoloFigure11",
       "style": 12,
-      "name": "Weapons"
+      "name": "Inner Weapons"
     },
     {
       "$id": 1120,
       "label": "menu_program_HoloFigure12",
       "style": 12,
-      "name": "Armor"
+      "name": "Inner Armor"
     },
     {
       "$id": 1121,
@@ -7044,7 +7044,7 @@
       "$id": 1172,
       "label": "menu_program_HomeCustomize34",
       "style": 18,
-      "name": "Customization Options"
+      "name": "Home Customization"
     },
     {
       "$id": 1173,
@@ -7098,7 +7098,7 @@
       "$id": 1181,
       "label": "menu_program_InfoBoxMini03",
       "style": 185,
-      "name": "Intergalactic"
+      "name": "Galaxy"
     },
     {
       "$id": 1182,
@@ -7182,19 +7182,19 @@
       "$id": 1195,
       "label": "menu_program_InfoBoxMini17",
       "style": 15,
-      "name": "Precious Resource"
+      "name": "Rare Resource"
     },
     {
       "$id": 1196,
       "label": "menu_program_InfoBoxMini18",
       "style": 18,
-      "name": "Weapon Augment"
+      "name": "Inner Weapon Augment"
     },
     {
       "$id": 1197,
       "label": "menu_program_InfoBoxMini19",
       "style": 18,
-      "name": "Armor Augment"
+      "name": "Inner Armor Augment"
     },
     {
       "$id": 1198,
@@ -7224,7 +7224,7 @@
       "$id": 1202,
       "label": "menu_program_InfoBoxMini24",
       "style": 18,
-      "name": "Appendage Fragment"
+      "name": "Part Fragment"
     },
     {
       "$id": 1203,
@@ -7296,13 +7296,13 @@
       "$id": 1214,
       "label": "menu_program_AstralGear01",
       "style": 14,
-      "name": "Overclock Activated"
+      "name": "Start Gear"
     },
     {
       "$id": 1215,
       "label": "menu_program_AstralGear02",
       "style": 14,
-      "name": "Overclock Chain"
+      "name": "Chain Gear"
     },
     {
       "$id": 1216,
@@ -7320,19 +7320,19 @@
       "$id": 1218,
       "label": "menu_program_AstralGear05",
       "style": 13,
-      "name": "Damage x "
+      "name": "Damage × "
     },
     {
       "$id": 1219,
       "label": "menu_program_AstralGear06",
       "style": 13,
-      "name": "Cooldown x "
+      "name": "Recast × "
     },
     {
       "$id": 1220,
       "label": "menu_program_AstralGear07",
       "style": 13,
-      "name": "Resistance - "
+      "name": "Resist - "
     },
     {
       "$id": 1221,
@@ -7434,7 +7434,7 @@
       "$id": 1237,
       "label": "menu_program_ArmsCompany14",
       "style": 152,
-      "name": "Upgrade this battle trait?"
+      "name": "Upgrade this affix?"
     },
     {
       "$id": 1238,
@@ -7584,7 +7584,7 @@
       "$id": 1262,
       "label": "menu_program_ArmsCompany39",
       "style": 16,
-      "name": "Create"
+      "name": "Develop"
     },
     {
       "$id": 1263,
@@ -8346,7 +8346,7 @@
       "$id": 1389,
       "label": "menu_program_Segment01",
       "style": 12,
-      "name": "Change Probe"
+      "name": "Change Data Probe"
     },
     {
       "$id": 1390,
@@ -8358,7 +8358,7 @@
       "$id": 1391,
       "label": "menu_program_Segment03",
       "style": 12,
-      "name": "Change Probe"
+      "name": "Change Data Probe"
     },
     {
       "$id": 1392,
@@ -8508,13 +8508,13 @@
       "$id": 1416,
       "label": "menu_program_EnemyBook03",
       "style": 10,
-      "name": "Category"
+      "name": "Enemy Type"
     },
     {
       "$id": 1417,
       "label": "menu_program_EnemyBook04",
       "style": 15,
-      "name": "Enemies by Category"
+      "name": "Enemy Type"
     },
     {
       "$id": 1418,
@@ -8526,7 +8526,7 @@
       "$id": 1419,
       "label": "menu_program_EnemyBook06",
       "style": 13,
-      "name": "Enemies by Region"
+      "name": "Habitat Zone"
     },
     {
       "$id": 1420,
@@ -8550,7 +8550,7 @@
       "$id": 1423,
       "label": "menu_program_EnemyBook10",
       "style": 11,
-      "name": "Subcategory"
+      "name": "Enemy Genus"
     },
     {
       "$id": 1424,
@@ -8568,7 +8568,7 @@
       "$id": 1426,
       "label": "menu_program_EnemyBook13",
       "style": 14,
-      "name": "Enemies"
+      "name": "Enemy List"
     },
     {
       "$id": 1427,
@@ -8766,7 +8766,7 @@
       "$id": 1459,
       "label": "menu_program_AchieveList_Title_huge",
       "style": 16,
-      "name": "Achievements"
+      "name": "Play Award List"
     },
     {
       "$id": 1460,
@@ -8976,7 +8976,7 @@
       "$id": 1494,
       "label": "menu_program_NewAvatarMake16",
       "style": 13,
-      "name": "Gender Selection"
+      "name": "Select Sex"
     },
     {
       "$id": 1495,
@@ -8994,7 +8994,7 @@
       "$id": 1497,
       "label": "menu_program_NewAvatarMake19",
       "style": 12,
-      "name": "Base Selection"
+      "name": "Select Preset"
     },
     {
       "$id": 1498,
@@ -9132,7 +9132,7 @@
       "$id": 1520,
       "label": "menu_program_NewAvatarMake42",
       "style": 11,
-      "name": "Color"
+      "name": "Skin Color"
     },
     {
       "$id": 1521,
@@ -9162,7 +9162,7 @@
       "$id": 1525,
       "label": "menu_program_NewAvatarMake47",
       "style": 11,
-      "name": "Style"
+      "name": "Hairstyle"
     },
     {
       "$id": 1526,
@@ -9174,31 +9174,31 @@
       "$id": 1527,
       "label": "menu_program_NewAvatarMake49",
       "style": 11,
-      "name": "Roots Color"
+      "name": "Hair Color: Base"
     },
     {
       "$id": 1528,
       "label": "menu_program_NewAvatarMake50",
       "style": 11,
-      "name": "Tips Color"
+      "name": "Hair Color: Tips"
     },
     {
       "$id": 1529,
       "label": "menu_program_NewAvatarMake51",
       "style": 8,
-      "name": "Pupils"
+      "name": "Irises"
     },
     {
       "$id": 1530,
       "label": "menu_program_NewAvatarMake52",
       "style": 11,
-      "name": "Color 1"
+      "name": "Eye Color 01"
     },
     {
       "$id": 1531,
       "label": "menu_program_NewAvatarMake53",
       "style": 11,
-      "name": "Color 2"
+      "name": "Eye Color 02"
     },
     {
       "$id": 1532,
@@ -9216,13 +9216,13 @@
       "$id": 1534,
       "label": "menu_program_NewAvatarMake56",
       "style": 14,
-      "name": "Eye Shadow"
+      "name": "Eyeshadow Color"
     },
     {
       "$id": 1535,
       "label": "menu_program_NewAvatarMake57",
       "style": 12,
-      "name": "Lips"
+      "name": "Lip Color"
     },
     {
       "$id": 1536,
@@ -9300,7 +9300,7 @@
       "$id": 1548,
       "label": "menu_program_NewAvatarMake70",
       "style": 12,
-      "name": "Editing Options"
+      "name": "Submenu"
     },
     {
       "$id": 1549,
@@ -9336,31 +9336,31 @@
       "$id": 1554,
       "label": "menu_program_NewAvatarMake76",
       "style": 18,
-      "name": "Custom Character 1"
+      "name": "Save 01"
     },
     {
       "$id": 1555,
       "label": "menu_program_NewAvatarMake77",
       "style": 18,
-      "name": "Custom Character 2"
+      "name": "Save 02"
     },
     {
       "$id": 1556,
       "label": "menu_program_NewAvatarMake78",
       "style": 18,
-      "name": "Custom Character 3"
+      "name": "Save 03"
     },
     {
       "$id": 1557,
       "label": "menu_program_NewAvatarMake79",
       "style": 18,
-      "name": "Custom Character 4"
+      "name": "Save 04"
     },
     {
       "$id": 1558,
       "label": "menu_program_NewAvatarMake80",
       "style": 18,
-      "name": "Custom Character 5"
+      "name": "Save 05"
     },
     {
       "$id": 1559,
@@ -9402,7 +9402,7 @@
       "$id": 1565,
       "label": "menu_program_NewAvatarMake87",
       "style": 12,
-      "name": "Choose a slot:"
+      "name": "Select Data to Load"
     },
     {
       "$id": 1566,
@@ -9468,7 +9468,7 @@
       "$id": 1576,
       "label": "menu_program_NewAvatarMake98",
       "style": 16,
-      "name": "Return to Base Selection"
+      "name": "Return to Preset Selection"
     },
     {
       "$id": 1577,
@@ -9540,7 +9540,7 @@
       "$id": 1588,
       "label": "menu_program_NewAvatarMake110",
       "style": 15,
-      "name": "Roots & Tips Color"
+      "name": "Hair Color: Base + Tips"
     },
     {
       "$id": 1589,
@@ -9642,7 +9642,7 @@
       "$id": 1605,
       "label": "menu_program_UnionMenu_title_huge",
       "style": 20,
-      "name": "Union Activity"
+      "name": "Union Item Selection"
     },
     {
       "$id": 1606,
@@ -9690,7 +9690,7 @@
       "$id": 1613,
       "label": "menu_program_Union_GramMenu_ThisWeek",
       "style": 17,
-      "name": "Current Rankings"
+      "name": "Current Status"
     },
     {
       "$id": 1614,
@@ -9840,7 +9840,7 @@
       "$id": 1638,
       "label": "menu_program_NewArmsCompany01",
       "style": 16,
-      "name": "Manage AMs"
+      "name": "Support Arms Manufacturers"
     },
     {
       "$id": 1639,
@@ -9852,7 +9852,7 @@
       "$id": 1640,
       "label": "menu_program_NewArmsCompany03",
       "style": 16,
-      "name": "Upgrade Battle Traits"
+      "name": "Upgrade Affixes"
     },
     {
       "$id": 1641,
@@ -9864,7 +9864,7 @@
       "$id": 1642,
       "label": "menu_program_NewArmsCompany05",
       "style": 16,
-      "name": "Engineer Augments"
+      "name": "Request Augment Crafting"
     },
     {
       "$id": 1643,
@@ -9894,7 +9894,7 @@
       "$id": 1647,
       "label": "menu_program_NewArmsCompany10",
       "style": 22,
-      "name": "Select a Gear Category"
+      "name": "Select Item Category"
     },
     {
       "$id": 1648,
@@ -9906,7 +9906,7 @@
       "$id": 1649,
       "label": "menu_program_NewArmsCompany12",
       "style": 15,
-      "name": "Equipped Gear"
+      "name": "Equipped Inner Gear"
     },
     {
       "$id": 1650,
@@ -9918,7 +9918,7 @@
       "$id": 1651,
       "label": "menu_program_NewArmsCompany14",
       "style": 15,
-      "name": "Unequipped Gear"
+      "name": "Owned Items"
     },
     {
       "$id": 1652,
@@ -9936,7 +9936,7 @@
       "$id": 1654,
       "label": "menu_program_NewArmsCompany17",
       "style": 15,
-      "name": "Equipped Gear"
+      "name": "Equipped Item List"
     },
     {
       "$id": 1655,
@@ -9948,7 +9948,7 @@
       "$id": 1656,
       "label": "menu_program_NewArmsCompany19",
       "style": 20,
-      "name": "Unequipped Gear"
+      "name": "Item List"
     },
     {
       "$id": 1657,
@@ -9972,13 +9972,13 @@
       "$id": 1660,
       "label": "menu_program_NewArmsCompany23",
       "style": 17,
-      "name": "Weapon Augments"
+      "name": "Inner Weapon Augments"
     },
     {
       "$id": 1661,
       "label": "menu_program_NewArmsCompany24",
       "style": 17,
-      "name": "Armor Augments"
+      "name": "Inner Armor Augments"
     },
     {
       "$id": 1662,
@@ -10002,7 +10002,7 @@
       "$id": 1665,
       "label": "menu_program_NewArmsCompany28",
       "style": 21,
-      "name": "Product List"
+      "name": "Crafting List"
     },
     {
       "$id": 1666,
@@ -10074,7 +10074,7 @@
       "$id": 1677,
       "label": "menu_program_NewArmsCompany40",
       "style": 13,
-      "name": "Potential Gear"
+      "name": "Development List"
     },
     {
       "$id": 1678,
@@ -10362,7 +10362,7 @@
       "$id": 1725,
       "label": "menu_program_BattleMenu_Order_Free",
       "style": 16,
-      "name": "Do as you please!"
+      "name": "Use Your Own Judgment!"
     },
     {
       "$id": 1726,
@@ -10386,13 +10386,13 @@
       "$id": 1729,
       "label": "menu_program_BattleMenu_Order_Combo",
       "style": 16,
-      "name": "Keep your tension up!"
+      "name": "Maintain Tension!"
     },
     {
       "$id": 1730,
       "label": "menu_program_BattleMenu_Order_NotCatch",
       "style": 16,
-      "name": "Leave binding to me!"
+      "name": "Leave Catch to me!"
     },
     {
       "$id": 1731,
@@ -10488,7 +10488,7 @@
       "$id": 1746,
       "label": "menu_program_NewShop001",
       "style": 8,
-      "name": "Shop Terminal"
+      "name": "Shop"
     },
     {
       "$id": 1747,
@@ -10512,7 +10512,7 @@
       "$id": 1750,
       "label": "menu_program_NewShop005",
       "style": 14,
-      "name": "Ground Gear"
+      "name": "Inner Gear"
     },
     {
       "$id": 1751,
@@ -10542,13 +10542,13 @@
       "$id": 1755,
       "label": "menu_program_NewShop010",
       "style": 11,
-      "name": "Doll Frames"
+      "name": "Dolls"
     },
     {
       "$id": 1756,
       "label": "menu_program_NewShop011",
       "style": 16,
-      "name": "Equipped Gear"
+      "name": "Equipped Inner Gear"
     },
     {
       "$id": 1757,
@@ -10632,7 +10632,7 @@
       "$id": 1770,
       "label": "menu_program_NewShop025",
       "style": 12,
-      "name": "Shop Lineup"
+      "name": "Shop List"
     },
     {
       "$id": 1771,
@@ -10644,7 +10644,7 @@
       "$id": 1772,
       "label": "menu_program_NewShop027",
       "style": 13,
-      "name": "Shop Lineup"
+      "name": "Shop List"
     },
     {
       "$id": 1773,
@@ -10656,7 +10656,7 @@
       "$id": 1774,
       "label": "menu_program_NewShop029",
       "style": 17,
-      "name": "Weapons"
+      "name": "Inner Weapon Category"
     },
     {
       "$id": 1775,
@@ -10668,7 +10668,7 @@
       "$id": 1776,
       "label": "menu_program_NewShop031",
       "style": 16,
-      "name": "Armor"
+      "name": "Inner Armor Category"
     },
     {
       "$id": 1777,
@@ -10956,7 +10956,7 @@
       "$id": 1824,
       "label": "menu_program_NewShop079",
       "style": 20,
-      "name": "Purchase"
+      "name": "Purchase and Send to Item Box"
     },
     {
       "$id": 1825,
@@ -11052,7 +11052,7 @@
       "$id": 1840,
       "label": "menu_program_General14",
       "style": 16,
-      "name": "Confirm"
+      "name": "OK"
     },
     {
       "$id": 1841,
@@ -11154,13 +11154,13 @@
       "$id": 1857,
       "label": "menu_program_General31",
       "style": 11,
-      "name": "Acquired Class"
+      "name": "Class Learned"
     },
     {
       "$id": 1858,
       "label": "menu_program_General32",
       "style": 11,
-      "name": "Acquired Rank"
+      "name": "Rank Learned"
     },
     {
       "$id": 1859,
@@ -11214,7 +11214,7 @@
       "$id": 1867,
       "label": "menu_program_DollEquipStatus01",
       "style": 20,
-      "name": "Change Gear"
+      "name": "Change Equipment"
     },
     {
       "$id": 1868,
@@ -11532,7 +11532,7 @@
       "$id": 1920,
       "label": "menu_program_InfoList14",
       "style": 11,
-      "name": "Mission Info"
+      "name": "Quest Info"
     },
     {
       "$id": 1921,
@@ -11634,13 +11634,13 @@
       "$id": 1937,
       "label": "menu_program_ArtsSet06",
       "style": 13,
-      "name": "Hit Scaling"
+      "name": "Melee Arts Multiplier"
     },
     {
       "$id": 1938,
       "label": "menu_program_ArtsSet07",
       "style": 13,
-      "name": "Hit Scaling"
+      "name": "Ranged Arts Multiplier"
     },
     {
       "$id": 1939,
@@ -11712,7 +11712,7 @@
       "$id": 1950,
       "label": "menu_program_ArtsSet19",
       "style": 12,
-      "name": "Hit Scaling"
+      "name": "Arts Multiplier"
     },
     {
       "$id": 1951,
@@ -12390,7 +12390,7 @@
       "$id": 2063,
       "label": "common_artsinfobox02",
       "style": 11,
-      "name": "Range"
+      "name": "Target"
     },
     {
       "$id": 2064,
@@ -12438,7 +12438,7 @@
       "$id": 2071,
       "label": "common_artsinfobox10",
       "style": 18,
-      "name": "Art Description"
+      "name": "Arts Description"
     },
     {
       "$id": 2072,
@@ -12522,7 +12522,7 @@
       "$id": 2085,
       "label": "common_EquipStatus06",
       "style": 13,
-      "name": "Sidearms"
+      "name": "AUTO"
     },
     {
       "$id": 2086,
@@ -12540,7 +12540,7 @@
       "$id": 2088,
       "label": "common_EquipStatus09",
       "style": 13,
-      "name": "Art Weapons"
+      "name": "Arts Weapons"
     },
     {
       "$id": 2089,
@@ -13788,13 +13788,13 @@
       "$id": 2296,
       "label": "common_Diagram02",
       "style": 17,
-      "name": "Player Bonding"
+      "name": "Bonds with Other Players"
     },
     {
       "$id": 2297,
       "label": "common_Diagram03",
       "style": 17,
-      "name": "Character Bonding"
+      "name": "Bonds with Characters"
     },
     {
       "$id": 2298,
@@ -13812,13 +13812,13 @@
       "$id": 2300,
       "label": "common_Diagram06",
       "style": 20,
-      "name": "Player Bonding"
+      "name": "Players"
     },
     {
       "$id": 2301,
       "label": "common_Diagram07",
       "style": 20,
-      "name": "Character Bonding"
+      "name": "Townspeople"
     },
     {
       "$id": 2302,
@@ -13914,7 +13914,7 @@
       "$id": 2317,
       "label": "common_DiagramPCinfobox03",
       "style": 9,
-      "name": "Gender"
+      "name": "Sex"
     },
     {
       "$id": 2318,
@@ -14928,7 +14928,7 @@
       "$id": 2486,
       "label": "common_Colepedia02",
       "style": 11,
-      "name": "By Region"
+      "name": "By Zone"
     },
     {
       "$id": 2487,
@@ -14952,7 +14952,7 @@
       "$id": 2490,
       "label": "common_Colepedia06",
       "style": 15,
-      "name": "Region Found:"
+      "name": "Available Zones:"
     },
     {
       "$id": 2491,
@@ -15252,13 +15252,13 @@
       "$id": 2540,
       "label": "common_InfoBoxMini12",
       "style": 15,
-      "name": "Region Found"
+      "name": "Available Zones"
     },
     {
       "$id": 2541,
       "label": "common_InfoBoxMini13",
       "style": 15,
-      "name": "Collepedia Status"
+      "name": "Collepedia Registration"
     },
     {
       "$id": 2542,
@@ -15270,7 +15270,7 @@
       "$id": 2543,
       "label": "common_InfoBoxMini15",
       "style": 10,
-      "name": "Force"
+      "name": "Damage Index"
     },
     {
       "$id": 2544,
@@ -15396,7 +15396,7 @@
       "$id": 2564,
       "label": "common_InfoBoxMini36",
       "style": 12,
-      "name": "Appendage HP"
+      "name": "Part HP"
     },
     {
       "$id": 2565,
@@ -15414,19 +15414,19 @@
       "$id": 2567,
       "label": "common_InfoBoxMini39",
       "style": 15,
-      "name": "Production Ability"
+      "name": "Mining Performance"
     },
     {
       "$id": 2568,
       "label": "common_InfoBoxMini40",
       "style": 15,
-      "name": "Income Ability"
+      "name": "Revenue Performance"
     },
     {
       "$id": 2569,
       "label": "common_InfoBoxMini41",
       "style": 15,
-      "name": "Combat Support Ability"
+      "name": "Combat Support Performance"
     },
     {
       "$id": 2570,
@@ -15492,7 +15492,7 @@
       "$id": 2580,
       "label": "common_SoulVoice02",
       "style": 13,
-      "name": "Soul Voices"
+      "name": "Soul Voice Setup"
     },
     {
       "$id": 2581,
@@ -15612,7 +15612,7 @@
       "$id": 2600,
       "label": "common_EnemyBook02",
       "style": 20,
-      "name": "Enemy Index"
+      "name": "Enemy Encyclopedia"
     },
     {
       "$id": 2601,
@@ -15636,7 +15636,7 @@
       "$id": 2604,
       "label": "common_EnemyBook06",
       "style": 20,
-      "name": "Description"
+      "name": "Genus Description"
     },
     {
       "$id": 2605,
@@ -15696,7 +15696,7 @@
       "$id": 2614,
       "label": "common_EnemyBook16",
       "style": 20,
-      "name": "Salvageable Materials"
+      "name": "Dropped Materials"
     },
     {
       "$id": 2615,
@@ -15720,13 +15720,13 @@
       "$id": 2618,
       "label": "common_EnemyBook20",
       "style": 11,
-      "name": "Defeated By"
+      "name": "Times Defeated"
     },
     {
       "$id": 2619,
       "label": "common_EnemyBook21",
       "style": 21,
-      "name": "Full Combat Stats (All BLADEs)"
+      "name": "Combat Results for All BLADE Members"
     },
     {
       "$id": 2620,
@@ -15744,7 +15744,7 @@
       "$id": 2622,
       "label": "common_EnemyBook24",
       "style": 11,
-      "name": "Defeated By"
+      "name": "Times Defeated"
     },
     {
       "$id": 2623,
@@ -15942,7 +15942,7 @@
       "$id": 2655,
       "label": "drc_Segment02",
       "style": 14,
-      "name": "FrontierNet View"
+      "name": "FrontierNET View"
     },
     {
       "$id": 2656,
@@ -15954,7 +15954,7 @@
       "$id": 2657,
       "label": "drc_Segment04",
       "style": 8,
-      "name": "World"
+      "name": "All Areas"
     },
     {
       "$id": 2658,
@@ -15972,7 +15972,7 @@
       "$id": 2660,
       "label": "drc_Segment07",
       "style": 24,
-      "name": "Story Mission can be accepted"
+      "name": "Story Quest can be accepted"
     },
     {
       "$id": 2661,
@@ -16104,7 +16104,7 @@
       "$id": 2682,
       "label": "drc_Segment29",
       "style": 19,
-      "name": "Fast Travel"
+      "name": "Skip Travel"
     },
     {
       "$id": 2683,
@@ -16140,19 +16140,19 @@
       "$id": 2688,
       "label": "drc_Segment35",
       "style": 19,
-      "name": "Combat Support Ability"
+      "name": "Combat Support Performance"
     },
     {
       "$id": 2689,
       "label": "drc_Segment36",
       "style": 19,
-      "name": "Production Ability"
+      "name": "Mining Performance"
     },
     {
       "$id": 2690,
       "label": "drc_Segment37",
       "style": 19,
-      "name": "Revenue Ability"
+      "name": "Revenue Performance"
     },
     {
       "$id": 2691,
@@ -16236,7 +16236,7 @@
       "$id": 2704,
       "label": "drc_Segment51",
       "style": 19,
-      "name": "Sightseeing Spots Found"
+      "name": "Secret Areas / Scenic Views: Found / Nearby"
     },
     {
       "$id": 2705,
@@ -16266,13 +16266,13 @@
       "$id": 2709,
       "label": "drc_Segment56",
       "style": 19,
-      "name": "Required Level"
+      "name": "Required Lv. to Accept"
     },
     {
       "$id": 2710,
       "label": "drc_Segment57",
       "style": 15,
-      "name": "FN Site Info"
+      "name": "FN Spot Information"
     },
     {
       "$id": 2711,
@@ -16284,13 +16284,13 @@
       "$id": 2712,
       "label": "drc_Segment59",
       "style": 13,
-      "name": "Select a Probe"
+      "name": "Select Data Probe to Install"
     },
     {
       "$id": 2713,
       "label": "drc_Segment60",
       "style": 13,
-      "name": "Change Probe"
+      "name": "Change Data Probe"
     },
     {
       "$id": 2714,
@@ -16344,7 +16344,7 @@
       "$id": 2722,
       "label": "hud_catch01",
       "style": 10,
-      "name": "BIND"
+      "name": "CATCH"
     },
     {
       "$id": 2723,
@@ -16650,19 +16650,19 @@
       "$id": 2773,
       "label": "hud_dropsystem02",
       "style": 14,
-      "name": "Unopened Treasures"
+      "name": "Unclaimed Treasure Chests"
     },
     {
       "$id": 2774,
       "label": "hud_dropsystem03",
       "style": 20,
-      "name": "Battle Spoils"
+      "name": "Drop Results"
     },
     {
       "$id": 2775,
       "label": "hud_dropsystem04",
       "style": 20,
-      "name": "Treasures Dropped"
+      "name": "Treasure Box"
     },
     {
       "$id": 2776,
@@ -16680,7 +16680,7 @@
       "$id": 2778,
       "label": "hud_dropsystem07",
       "style": 13,
-      "name": "Manage Items"
+      "name": "View Acquired Items"
     },
     {
       "$id": 2779,
@@ -17172,13 +17172,13 @@
       "$id": 2860,
       "label": "hud_infobox_Quest14",
       "style": 186,
-      "name": "Story Mission"
+      "name": "Story Quest"
     },
     {
       "$id": 2861,
       "label": "hud_infobox_Quest15",
       "style": 186,
-      "name": "Normal Mission"
+      "name": "Normal Quest"
     },
     {
       "$id": 2862,
@@ -17190,7 +17190,7 @@
       "$id": 2863,
       "label": "hud_infobox_Quest17",
       "style": 186,
-      "name": "Basic Mission"
+      "name": "Simple Quest"
     },
     {
       "$id": 2864,
@@ -17256,13 +17256,13 @@
       "$id": 2874,
       "label": "hud_KizunaAction07",
       "style": 189,
-      "name": "FrontierNet Site"
+      "name": "FrontierNET Site"
     },
     {
       "$id": 2875,
       "label": "hud_KizunaAction08",
       "style": 189,
-      "name": "Mission Object"
+      "name": "Quest Object"
     },
     {
       "$id": 2876,
@@ -17538,7 +17538,7 @@
       "$id": 2921,
       "label": "hud_WorksGuide06",
       "style": 13,
-      "name": "Bonding"
+      "name": "Bonding Rank"
     },
     {
       "$id": 2922,
@@ -17640,7 +17640,7 @@
       "$id": 2938,
       "label": "hud_SimpleQuest03",
       "style": 11,
-      "name": "Mission Name"
+      "name": "Quest Name"
     },
     {
       "$id": 2939,
@@ -17658,7 +17658,7 @@
       "$id": 2941,
       "label": "hud_SimpleQuest06",
       "style": 18,
-      "name": "Basic Mission Requests"
+      "name": "Simple Quest Orders"
     },
     {
       "$id": 2942,
@@ -18006,7 +18006,7 @@
       "$id": 2999,
       "label": "hud_PcStatus03",
       "style": 8,
-      "name": "Scout"
+      "name": "Rental"
     },
     {
       "$id": 3000,
@@ -18186,7 +18186,7 @@
       "$id": 3029,
       "label": "hud_SocialInformation_03",
       "style": 16,
-      "name": "Achievement Information"
+      "name": "Play Award Information"
     },
     {
       "$id": 3030,
@@ -18444,7 +18444,7 @@
       "$id": 3072,
       "label": "network_ClanHomeMenu36",
       "style": 17,
-      "name": "Customization Center"
+      "name": "BLADE Home"
     },
     {
       "$id": 3073,
@@ -19020,7 +19020,7 @@
       "$id": 3168,
       "label": "network_DollGarage02",
       "style": 8,
-      "name": "Scout"
+      "name": "Rental"
     },
     {
       "$id": 3169,
@@ -19104,7 +19104,7 @@
       "$id": 3182,
       "label": "network_DollGarage16",
       "style": 10,
-      "name": "Previous"
+      "name": "Original Color"
     },
     {
       "$id": 3183,
@@ -19206,7 +19206,7 @@
       "$id": 3199,
       "label": "network_HoloFigure03",
       "style": 17,
-      "name": "Randomize"
+      "name": "Place Randomly"
     },
     {
       "$id": 3200,
@@ -19284,7 +19284,7 @@
       "$id": 3212,
       "label": "network_HomeCustomize06",
       "style": 10,
-      "name": "Previous"
+      "name": "Original Color"
     },
     {
       "$id": 3213,
@@ -19488,13 +19488,13 @@
       "$id": 3246,
       "label": "other_PartyChange05",
       "style": 14,
-      "name": "Confirm Changes"
+      "name": "Confirm Party"
     },
     {
       "$id": 3247,
       "label": "other_PartyChange06",
       "style": 20,
-      "name": "Active Members"
+      "name": "Change Party Members"
     },
     {
       "$id": 3248,
@@ -20316,7 +20316,7 @@
       "$id": 3384,
       "label": "system_ColorPalette01",
       "style": 10,
-      "name": "Previous"
+      "name": "Original Color"
     },
     {
       "$id": 3385,
@@ -20400,13 +20400,13 @@
       "$id": 3398,
       "label": "room_ClassChange03",
       "style": 16,
-      "name": "Rank Progress:"
+      "name": "Until Next Rank"
     },
     {
       "$id": 3399,
       "label": "room_ClassChange04",
       "style": 12,
-      "name": "Classes"
+      "name": "Change Class"
     },
     {
       "$id": 3400,
@@ -20460,7 +20460,7 @@
       "$id": 3408,
       "label": "room_ClassChange13",
       "style": 12,
-      "name": "Art Description"
+      "name": "Arts Description"
     },
     {
       "$id": 3409,
@@ -20532,7 +20532,7 @@
       "$id": 3420,
       "label": "network_Union_Salary_rank_title",
       "style": 10,
-      "name": "Yesterday:"
+      "name": "Yesterday's Rank"
     },
     {
       "$id": 3421,
@@ -20544,7 +20544,7 @@
       "$id": 3422,
       "label": "network_Union_Change_ChangeText",
       "style": 13,
-      "name": "Union Outline"
+      "name": "Change Union"
     },
     {
       "$id": 3423,
@@ -20586,7 +20586,7 @@
       "$id": 3429,
       "label": "other_NewArmsCompany01",
       "style": 20,
-      "name": "AM Terminal"
+      "name": "Arms Manufacturers"
     },
     {
       "$id": 3430,
@@ -20598,7 +20598,7 @@
       "$id": 3431,
       "label": "other_NewArmsCompany03",
       "style": 18,
-      "name": "AM Level Up"
+      "name": "Manufacturer Level Up"
     },
     {
       "$id": 3432,
@@ -20610,7 +20610,7 @@
       "$id": 3433,
       "label": "other_NewArmsCompany05",
       "style": 20,
-      "name": "Arms Manufacturers"
+      "name": "Manufacturer List"
     },
     {
       "$id": 3434,
@@ -20622,7 +20622,7 @@
       "$id": 3435,
       "label": "other_NewArmsCompany07",
       "style": 12,
-      "name": "R&D Points"
+      "name": "Total Manufacturer Points"
     },
     {
       "$id": 3436,
@@ -20640,7 +20640,7 @@
       "$id": 3438,
       "label": "other_NewArmsCompany10",
       "style": 10,
-      "name": "Description"
+      "name": "Manufacturer Description"
     },
     {
       "$id": 3439,
@@ -20670,7 +20670,7 @@
       "$id": 3443,
       "label": "other_NewArmsCompany15",
       "style": 20,
-      "name": "Battle Trait Details"
+      "name": "Affix Details"
     },
     {
       "$id": 3444,
@@ -20790,7 +20790,7 @@
       "$id": 3463,
       "label": "hud_SquadMissionHUD_03",
       "style": 20,
-      "name": "Squad Tasks"
+      "name": "Squad Mission"
     },
     {
       "$id": 3464,
@@ -20964,7 +20964,7 @@
       "$id": 3492,
       "label": "common_NewTotalStatusinfobox022",
       "style": 9,
-      "name": "Gender"
+      "name": "Sex"
     },
     {
       "$id": 3493,
@@ -21330,7 +21330,7 @@
       "$id": 3553,
       "label": "common_NewArmsCompanyinfobox003",
       "style": 10,
-      "name": "Description"
+      "name": "Manufacturer Description"
     },
     {
       "$id": 3554,
@@ -21438,19 +21438,19 @@
       "$id": 3571,
       "label": "common_NewArtsinfobox011",
       "style": 18,
-      "name": "Secondary Cooldown Bonus"
+      "name": "Double Cooldown"
     },
     {
       "$id": 3572,
       "label": "common_NewArtsinfobox012",
       "style": 18,
-      "name": "Tertiary Cooldown Bonus"
+      "name": "Triple Cooldown"
     },
     {
       "$id": 3573,
       "label": "common_NewArtsinfobox013",
       "style": 18,
-      "name": "Art Description"
+      "name": "Arts Description"
     },
     {
       "$id": 3574,
@@ -21498,7 +21498,7 @@
       "$id": 3581,
       "label": "common_NewArtsSet001",
       "style": 20,
-      "name": "Arts"
+      "name": "Arts Setup"
     },
     {
       "$id": 3582,
@@ -21642,7 +21642,7 @@
       "$id": 3605,
       "label": "common_NewinfoboxTitle04",
       "style": 20,
-      "name": "Complete Overview"
+      "name": "Doll Overview"
     },
     {
       "$id": 3606,
@@ -21654,7 +21654,7 @@
       "$id": 3607,
       "label": "common_NewinfoboxTitle06",
       "style": 17,
-      "name": "AM Information"
+      "name": "Manufacturer Information"
     },
     {
       "$id": 3608,
@@ -21696,7 +21696,7 @@
       "$id": 3614,
       "label": "common_PartyStatus03",
       "style": 15,
-      "name": "Traveling Companion"
+      "name": "Guest Characters"
     },
     {
       "$id": 3615,
@@ -21864,7 +21864,7 @@
       "$id": 3642,
       "label": "common_Newskillset01",
       "style": 20,
-      "name": "Skills"
+      "name": "Skill Setup"
     },
     {
       "$id": 3643,
@@ -22044,7 +22044,7 @@
       "$id": 3672,
       "label": "common_NewEquipStatus01",
       "style": 20,
-      "name": "Ground Gear"
+      "name": "Inner Gear"
     },
     {
       "$id": 3673,
@@ -22464,7 +22464,7 @@
       "$id": 3742,
       "label": "common_InfoList01",
       "style": 11,
-      "name": "Info"
+      "name": "Information List"
     },
     {
       "$id": 3743,
@@ -22506,19 +22506,19 @@
       "$id": 3749,
       "label": "common_InfoList08",
       "style": 11,
-      "name": "Region"
+      "name": "Zone"
     },
     {
       "$id": 3750,
       "label": "common_InfoList09",
       "style": 11,
-      "name": "Classification"
+      "name": "Category"
     },
     {
       "$id": 3751,
       "label": "common_InfoList10",
       "style": 14,
-      "name": "Field Skill"
+      "name": "Skill Classification"
     },
     {
       "$id": 3752,
@@ -22560,7 +22560,7 @@
       "$id": 3758,
       "label": "common_ItemList01",
       "style": 20,
-      "name": "Inventory"
+      "name": "Item List"
     },
     {
       "$id": 3759,
@@ -22584,7 +22584,7 @@
       "$id": 3762,
       "label": "common_ItemList05",
       "style": 20,
-      "name": "Current Stock"
+      "name": "Owned Items"
     },
     {
       "$id": 3763,
@@ -22620,7 +22620,7 @@
       "$id": 3768,
       "label": "common_Clock01",
       "style": 20,
-      "name": "Time Management"
+      "name": "Time Manipulation"
     },
     {
       "$id": 3769,
@@ -22632,7 +22632,7 @@
       "$id": 3770,
       "label": "common_Clock03",
       "style": 12,
-      "name": "Current Time"
+      "name": "Time Manipulation"
     },
     {
       "$id": 3771,
@@ -22728,7 +22728,7 @@
       "$id": 3786,
       "label": "menu_program_Ranking_Type_Friend",
       "style": 16,
-      "name": "Friend List"
+      "name": "Friends"
     },
     {
       "$id": 3787,
@@ -22776,7 +22776,7 @@
       "$id": 3794,
       "label": "menu_program_Ranking_Head_Score",
       "style": 10,
-      "name": "Result"
+      "name": "Score"
     },
     {
       "$id": 3795,
@@ -22818,7 +22818,7 @@
       "$id": 3801,
       "label": "menu_program_Ranking_Sub_Chara_Time",
       "style": 18,
-      "name": "View Saved Avatar"
+      "name": "View Avatar at Time of Record"
     },
     {
       "$id": 3802,
@@ -22866,7 +22866,7 @@
       "$id": 3809,
       "label": "menu_program_BladeReport_Promote",
       "style": 13,
-      "name": "Recommendation Promotion"
+      "name": "Recommend for Promotion"
     },
     {
       "$id": 3810,
@@ -23088,7 +23088,7 @@
       "$id": 3846,
       "label": "menu_program_Emote_ID03",
       "style": 13,
-      "name": "Acknowledge"
+      "name": "Return Greeting"
     },
     {
       "$id": 3847,
@@ -23118,7 +23118,7 @@
       "$id": 3851,
       "label": "menu_program_Emote_ID08",
       "style": 13,
-      "name": "Celebrate"
+      "name": "Celebrate Victory"
     },
     {
       "$id": 3852,
@@ -23154,13 +23154,13 @@
       "$id": 3857,
       "label": "menu_program_Emote_ID14",
       "style": 13,
-      "name": "Sigh"
+      "name": "Show Exasperation"
     },
     {
       "$id": 3858,
       "label": "menu_program_Emote_ID15",
       "style": 13,
-      "name": "Apologize"
+      "name": "Prostrate"
     },
     {
       "$id": 3859,
@@ -23196,13 +23196,13 @@
       "$id": 3864,
       "label": "menu_program_Emote_ID21",
       "style": 13,
-      "name": "Beg"
+      "name": "Pray"
     },
     {
       "$id": 3865,
       "label": "menu_program_Emote_ID22",
       "style": 13,
-      "name": "Blow Kiss"
+      "name": "Blow a Kiss"
     },
     {
       "$id": 3866,
@@ -23286,49 +23286,49 @@
       "$id": 3879,
       "label": "menu_program_MyAvatar_Equip_Title",
       "style": 12,
-      "name": "Gear"
+      "name": "Equipment List"
     },
     {
       "$id": 3880,
       "label": "menu_program_MyAvatar_Equip_Title_huge",
       "style": 12,
-      "name": "Gear"
+      "name": "Equipment List"
     },
     {
       "$id": 3881,
       "label": "menu_program_MyAvatar_Arts_Title",
       "style": 9,
-      "name": "Arts"
+      "name": "Arts List"
     },
     {
       "$id": 3882,
       "label": "menu_program_MyAvatar_Arts_Title_huge",
       "style": 9,
-      "name": "Arts"
+      "name": "Arts List"
     },
     {
       "$id": 3883,
       "label": "menu_program_MyAvatar_SKill_Title",
       "style": 10,
-      "name": "Skills"
+      "name": "Skill List"
     },
     {
       "$id": 3884,
       "label": "menu_program_MyAvatar_Skill_Title_huge",
       "style": 10,
-      "name": "Skills"
+      "name": "Skill List"
     },
     {
       "$id": 3885,
       "label": "menu_program_MyAvatar_SoulVoice_Title",
       "style": 12,
-      "name": "Soul Voices"
+      "name": "Soul Voice List"
     },
     {
       "$id": 3886,
       "label": "menu_program_MyAvatar_SoulVoice_Title_huge",
       "style": 12,
-      "name": "Soul Voices"
+      "name": "Soul Voice List"
     },
     {
       "$id": 3887,
@@ -23508,7 +23508,7 @@
       "$id": 3916,
       "label": "menu_program_Filt_HeadPurpose",
       "style": 15,
-      "name": "Category"
+      "name": "Objective Category"
     },
     {
       "$id": 3917,
@@ -23616,7 +23616,7 @@
       "$id": 3934,
       "label": "menu_program_Filt_Wpn_WAIST",
       "style": 15,
-      "name": "Sidearms"
+      "name": "Hand Weapons"
     },
     {
       "$id": 3935,
@@ -23802,49 +23802,49 @@
       "$id": 3965,
       "label": "menu_program_Filt_Item",
       "style": 15,
-      "name": "Treasure Info"
+      "name": "Treasure"
     },
     {
       "$id": 3966,
       "label": "menu_program_Filt_Enemy",
       "style": 15,
-      "name": "Overed Info"
+      "name": "Overed"
     },
     {
       "$id": 3967,
       "label": "menu_program_Filt_Quest",
       "style": 15,
-      "name": "Mission Info"
+      "name": "Quest"
     },
     {
       "$id": 3968,
       "label": "menu_program_Filt_Other",
       "style": 15,
-      "name": "Bonding Info"
+      "name": "Bonding"
     },
     {
       "$id": 3969,
       "label": "menu_program_Filt_NotClr",
       "style": 15,
-      "name": "Active"
+      "name": "Incomplete"
     },
     {
       "$id": 3970,
       "label": "menu_program_Filt_Talk",
       "style": 8,
-      "name": "Social"
+      "name": "Talk"
     },
     {
       "$id": 3971,
       "label": "menu_program_Filt_Subdue",
       "style": 8,
-      "name": "Bounty"
+      "name": "Defeat"
     },
     {
       "$id": 3972,
       "label": "menu_program_Filt_Col",
       "style": 8,
-      "name": "Gathering"
+      "name": "Collect"
     },
     {
       "$id": 3973,
@@ -23886,7 +23886,7 @@
       "$id": 3979,
       "label": "menu_program_Filt_Battle",
       "style": 10,
-      "name": "Combat"
+      "name": "Battle"
     },
     {
       "$id": 3980,
@@ -23910,7 +23910,7 @@
       "$id": 3983,
       "label": "menu_program_MultiQuestOrder01",
       "style": 20,
-      "name": "Network Console"
+      "name": "Network"
     },
     {
       "$id": 3984,
@@ -23940,7 +23940,7 @@
       "$id": 3988,
       "label": "menu_program_MultiQuestOrder06",
       "style": 13,
-      "name": "Mission Name"
+      "name": "Quest Name"
     },
     {
       "$id": 3989,
@@ -23970,7 +23970,7 @@
       "$id": 3993,
       "label": "menu_program_MultiQuestOrder11",
       "style": 14,
-      "name": "Retries"
+      "name": "Return Count"
     },
     {
       "$id": 3994,
@@ -23982,25 +23982,25 @@
       "$id": 3995,
       "label": "menu_program_MultiQuestOrder13",
       "style": 14,
-      "name": "Max Party Members"
+      "name": "Participant Limit"
     },
     {
       "$id": 3996,
       "label": "menu_program_MultiQuestOrder14",
       "style": 14,
-      "name": "Dolls"
+      "name": "Doll Restrictions"
     },
     {
       "$id": 3997,
       "label": "menu_program_MultiQuestOrder15",
       "style": 12,
-      "name": "Allowed"
+      "name": "No Restrictions"
     },
     {
       "$id": 3998,
       "label": "menu_program_MultiQuestOrder16",
       "style": 10,
-      "name": "Prohibited"
+      "name": "Dolls Prohibited"
     },
     {
       "$id": 3999,
@@ -24042,19 +24042,19 @@
       "$id": 4005,
       "label": "menu_program_MultiQuestOrder23",
       "style": 27,
-      "name": "Global Nemesis RP Remaining"
+      "name": "World Enemy RP Remaining"
     },
     {
       "$id": 4006,
       "label": "menu_program_MultiQuestOrder24",
       "style": 14,
-      "name": "Current Appraisal"
+      "name": "Current Rating"
     },
     {
       "$id": 4007,
       "label": "menu_program_MultiQuestOrder25",
       "style": 15,
-      "name": "Required Appraisal"
+      "name": "Required Rating"
     },
     {
       "$id": 4008,
@@ -24066,7 +24066,7 @@
       "$id": 4009,
       "label": "menu_program_MultiQuestOrder27",
       "style": 27,
-      "name": "Time Until Global Nemesis Flees"
+      "name": "Time Until World Enemy Flees"
     },
     {
       "$id": 4010,
@@ -24096,7 +24096,7 @@
       "$id": 4014,
       "label": "menu_program_MultiQuestOrder32",
       "style": 19,
-      "name": "Class Experience Awarded"
+      "name": "Class EXP Awarded"
     },
     {
       "$id": 4015,
@@ -24114,7 +24114,7 @@
       "$id": 4017,
       "label": "menu_program_MultiQuestOrder35",
       "style": 71,
-      "name": "Accept this mission?"
+      "name": "Accept this quest?"
     },
     {
       "$id": 4018,
@@ -24138,13 +24138,13 @@
       "$id": 4021,
       "label": "menu_program_MultiQuestOrder39",
       "style": 152,
-      "name": "You cannot accept this mission as you\nhaven't reached the required level."
+      "name": "You cannot accept this quest as you\nhaven't reached the required level."
     },
     {
       "$id": 4022,
       "label": "menu_program_MultiQuestOrder40",
       "style": 15,
-      "name": "Time Attack Missions"
+      "name": "Time Attack Quests"
     },
     {
       "$id": 4023,
@@ -24156,7 +24156,7 @@
       "$id": 4024,
       "label": "menu_program_MultiQuestOrder42",
       "style": 15,
-      "name": "Global Nemesis"
+      "name": "World Enemy"
     },
     {
       "$id": 4025,
@@ -24192,7 +24192,7 @@
       "$id": 4030,
       "label": "menu_program_MultiQuestOrder48",
       "style": 15,
-      "name": "Global Nemesis"
+      "name": "World Enemy"
     },
     {
       "$id": 4031,
@@ -24216,7 +24216,7 @@
       "$id": 4034,
       "label": "menu_program_MultiQuestOrder52",
       "style": 20,
-      "name": "Support Missions"
+      "name": "DLC Quest"
     },
     {
       "$id": 4035,
@@ -24234,19 +24234,19 @@
       "$id": 4037,
       "label": "menu_program_MultiQuestOrder55",
       "style": 20,
-      "name": "Active Missions"
+      "name": "Join Quest"
     },
     {
       "$id": 4038,
       "label": "menu_program_MultiQuestOrder56",
       "style": 22,
-      "name": "Active Missions"
+      "name": "Join Quest"
     },
     {
       "$id": 4039,
       "label": "menu_program_MultiQuestOrder57",
       "style": 152,
-      "name": "Join this mission?"
+      "name": "Join this quest?"
     },
     {
       "$id": 4040,
@@ -24306,13 +24306,13 @@
       "$id": 4049,
       "label": "menu_program_MultiQuestOrder67",
       "style": 20,
-      "name": "Global Nemesis Battle Spoils"
+      "name": "Get Tickets"
     },
     {
       "$id": 4050,
       "label": "menu_program_MultiQuestOrder68",
       "style": 22,
-      "name": "Global Nemesis Battle Spoils"
+      "name": "Claim World Enemy Rewards"
     },
     {
       "$id": 4051,
@@ -24354,7 +24354,7 @@
       "$id": 4057,
       "label": "menu_program_MultiQuestOrder75",
       "style": 22,
-      "name": "Abandon Mission"
+      "name": "Abandon Quest"
     },
     {
       "$id": 4058,
@@ -24366,7 +24366,7 @@
       "$id": 4059,
       "label": "menu_program_MultiQuestOrder77",
       "style": 152,
-      "name": "(No missions available to join.)\n\nMissions will appear here when another BLADE\naccepts a mission and recruits members."
+      "name": "(No quests available to join.)\n\nQuests will appear here when another BLADE\naccepts a quest and recruits members."
     },
     {
       "$id": 4060,
@@ -24414,7 +24414,7 @@
       "$id": 4067,
       "label": "menu_program_MultiQuestOrder85",
       "style": 9,
-      "name": "Required"
+      "name": "Required Level"
     },
     {
       "$id": 4068,
@@ -24426,7 +24426,7 @@
       "$id": 4069,
       "label": "menu_program_NetDoor_HostReady",
       "style": 152,
-      "name": "Depart for this mission?"
+      "name": "Depart for this quest?"
     },
     {
       "$id": 4070,
@@ -24486,7 +24486,7 @@
       "$id": 4079,
       "label": "menu_program_MultiQuestResult01",
       "style": 14,
-      "name": "Mission Results"
+      "name": "Quest Results"
     },
     {
       "$id": 4080,
@@ -24510,7 +24510,7 @@
       "$id": 4083,
       "label": "menu_program_MultiQuestResult05",
       "style": 15,
-      "name": "Global Nemesis"
+      "name": "World Enemy"
     },
     {
       "$id": 4084,
@@ -24534,13 +24534,13 @@
       "$id": 4087,
       "label": "menu_program_MultiQuestResult09",
       "style": 16,
-      "name": "RP Claimed"
+      "name": "RP Damage Dealt"
     },
     {
       "$id": 4088,
       "label": "menu_program_MultiQuestResult10",
       "style": 152,
-      "name": "You will be assessed based on the number\nof Global Nemesis RP you can claim.\nThe awarded points are doubled when\na Global Nemesis is defeated."
+      "name": "You will be assessed based on the number\nof World Enemy RP you can claim.\nThe awarded points are doubled when\na World Enemy is defeated."
     },
     {
       "$id": 4089,
@@ -24588,7 +24588,7 @@
       "$id": 4096,
       "label": "menu_program_MultiQuestResult18",
       "style": 13,
-      "name": "Current Time"
+      "name": "Time This Run"
     },
     {
       "$id": 4097,
@@ -24636,13 +24636,13 @@
       "$id": 4104,
       "label": "menu_program_MultiQuestResult26",
       "style": 19,
-      "name": "Reward Experience"
+      "name": "Reward Inner EXP"
     },
     {
       "$id": 4105,
       "label": "menu_program_MultiQuestResult27",
       "style": 19,
-      "name": "Reward Class Experience"
+      "name": "Reward Class EXP"
     },
     {
       "$id": 4106,
@@ -24822,7 +24822,7 @@
       "$id": 4135,
       "label": "menu_program_DollGarage_Salvage_Money",
       "style": 20,
-      "name": "Pay Salvage Fee"
+      "name": "Pay Repair Costs"
     },
     {
       "$id": 4136,
@@ -24852,7 +24852,7 @@
       "$id": 4140,
       "label": "menu_program_DollGarage_Dialog_SLV_Money",
       "style": 152,
-      "name": "Pay the salvage fee to repair this Doll?"
+      "name": "Pay the repair costs for this Doll?"
     },
     {
       "$id": 4141,
@@ -24876,7 +24876,7 @@
       "$id": 4144,
       "label": "menu_program_DollGarage_Material_Title",
       "style": 13,
-      "name": "Change Finish"
+      "name": "Finish:"
     },
     {
       "$id": 4145,
@@ -24942,7 +24942,7 @@
       "$id": 4155,
       "label": "common_NewArtsinfobox021",
       "style": 13,
-      "name": "Effect Range"
+      "name": "Area of Effect"
     },
     {
       "$id": 4156,
@@ -24996,7 +24996,7 @@
       "$id": 4164,
       "label": "common_NewArtsinfobox027",
       "style": 13,
-      "name": "Extra Effects"
+      "name": "Special Effect"
     },
     {
       "$id": 4165,
@@ -25050,13 +25050,13 @@
       "$id": 4173,
       "label": "menu_program_RentalChara46",
       "style": 28,
-      "name": "BLADE Scout Console"
+      "name": "BLADE Scout"
     },
     {
       "$id": 4174,
       "label": "menu_program_RentalChara47",
       "style": 18,
-      "name": "Manage Registered Avatar"
+      "name": "BLADE Scout Entry"
     },
     {
       "$id": 4175,
@@ -25068,25 +25068,25 @@
       "$id": 4176,
       "label": "menu_program_RentalChara49",
       "style": 18,
-      "name": "Scout BLADEs"
+      "name": "Cooperation Request"
     },
     {
       "$id": 4177,
       "label": "menu_program_RentalChara50",
       "style": 18,
-      "name": "Available Operatives"
+      "name": "BLADE List"
     },
     {
       "$id": 4178,
       "label": "menu_program_RentalChara51",
       "style": 18,
-      "name": "Release Scouted BLADEs"
+      "name": "BLADE Return"
     },
     {
       "$id": 4179,
       "label": "menu_program_RentalChara52",
       "style": 18,
-      "name": "Claim Scout Rewards"
+      "name": "Rewards Received"
     },
     {
       "$id": 4180,
@@ -25242,7 +25242,7 @@
       "$id": 4205,
       "label": "other_PartyChange12",
       "style": 20,
-      "name": "Current Party"
+      "name": "Party Member"
     },
     {
       "$id": 4206,
@@ -25296,7 +25296,7 @@
       "$id": 4214,
       "label": "common_MemberList_memberlist_E",
       "style": 20,
-      "name": "Player Lists"
+      "name": "Member List"
     },
     {
       "$id": 4215,
@@ -25494,19 +25494,19 @@
       "$id": 4247,
       "label": "common_MemberList_friendlist_E",
       "style": 20,
-      "name": "Friends"
+      "name": "Friends List"
     },
     {
       "$id": 4248,
       "label": "common_MemberList_favoritelist_E",
       "style": 20,
-      "name": "Favorites"
+      "name": "Favorite List"
     },
     {
       "$id": 4249,
       "label": "common_MemberList_squadlist_E",
       "style": 20,
-      "name": "Squad Members"
+      "name": "Squad Member List"
     },
     {
       "$id": 4250,
@@ -25554,7 +25554,7 @@
       "$id": 4257,
       "label": "common_SquadSelect_selectsquad_E",
       "style": 20,
-      "name": "Squad Select"
+      "name": "Select Squad"
     },
     {
       "$id": 4258,
@@ -25692,7 +25692,7 @@
       "$id": 4280,
       "label": "common_SquadSelect_conquest_E",
       "style": 20,
-      "name": "Conquest Progress"
+      "name": "Conquest Development"
     },
     {
       "$id": 4281,
@@ -25704,7 +25704,7 @@
       "$id": 4282,
       "label": "common_SquadSelect_lastmenace",
       "style": 13,
-      "name": "The Final Menace"
+      "name": "The Last Menace"
     },
     {
       "$id": 4283,
@@ -25746,7 +25746,7 @@
       "$id": 4289,
       "label": "menu_program_NewAvatarMake142",
       "style": 10,
-      "name": "Base Face"
+      "name": "Face Type"
     },
     {
       "$id": 4290,
@@ -25770,13 +25770,13 @@
       "$id": 4293,
       "label": "menu_program_NewAvatarMake146",
       "style": 16,
-      "name": "Gender Selection"
+      "name": "Select Sex"
     },
     {
       "$id": 4294,
       "label": "menu_program_NewAvatarMake147",
       "style": 16,
-      "name": "Body Customization"
+      "name": "Select Parts"
     },
     {
       "$id": 4295,
@@ -25812,43 +25812,43 @@
       "$id": 4300,
       "label": "menu_program_Filt_Simple",
       "style": 13,
-      "name": "Basic"
+      "name": "Simple"
     },
     {
       "$id": 4301,
       "label": "menu_program_Filt_light_Inn",
       "style": 22,
-      "name": "Light Wear"
+      "name": "Light Suit"
     },
     {
       "$id": 4302,
       "label": "menu_program_Filt_Middle_Inn",
       "style": 22,
-      "name": "Medium Wear"
+      "name": "Medium Suit"
     },
     {
       "$id": 4303,
       "label": "menu_program_Filt_Heavy_Inn",
       "style": 22,
-      "name": "Heavy Wear"
+      "name": "Heavy Suit"
     },
     {
       "$id": 4304,
       "label": "menu_program_Filt_Blade_Inn",
       "style": 22,
-      "name": "BLADE Wear"
+      "name": "BLADE Suit"
     },
     {
       "$id": 4305,
       "label": "menu_program_Filt_Pilot_Inn",
       "style": 22,
-      "name": "Doll Wear"
+      "name": "Doll Suit"
     },
     {
       "$id": 4306,
       "label": "menu_program_Filt_Casual_Inn",
       "style": 22,
-      "name": "Casual Wear"
+      "name": "Casual Suit"
     },
     {
       "$id": 4307,
@@ -25914,13 +25914,13 @@
       "$id": 4317,
       "label": "menu_program_WEresult_resulttitle",
       "style": 27,
-      "name": "Appendage Fragment Analysis Results"
+      "name": "Part Fragment Analysis Results"
     },
     {
       "$id": 4318,
       "label": "menu_program_WEresult_hakken",
       "style": 152,
-      "name": "Analysis indicates that the following\nappendage fragments contain rare\nconstituents."
+      "name": "Analysis indicates that the following\npart fragments contain rare\nconstituents."
     },
     {
       "$id": 4319,
@@ -25944,7 +25944,7 @@
       "$id": 4322,
       "label": "menu_program_WEresult_partstotal",
       "style": 27,
-      "name": "Appendage Fragment Total"
+      "name": "Total Part Fragments"
     },
     {
       "$id": 4323,
@@ -25974,7 +25974,7 @@
       "$id": 4327,
       "label": "menu_program_WEresult_eva",
       "style": 15,
-      "name": "Required Appraisal"
+      "name": "Required Rating"
     },
     {
       "$id": 4328,
@@ -25998,7 +25998,7 @@
       "$id": 4331,
       "label": "menu_program_WEresult_myeva",
       "style": 15,
-      "name": "Cumulative Appraisal"
+      "name": "Cumulative Rating"
     },
     {
       "$id": 4332,
@@ -26046,13 +26046,13 @@
       "$id": 4339,
       "label": "drc_Segment70",
       "style": 23,
-      "name": "Scout Rewards Await"
+      "name": "Unclaimed Scout Rewards"
     },
     {
       "$id": 4340,
       "label": "drc_Segment71",
       "style": 23,
-      "name": "Nemesis Results Await"
+      "name": "Unchecked World Enemy Results"
     },
     {
       "$id": 4341,
@@ -26094,7 +26094,7 @@
       "$id": 4347,
       "label": "menu_program_MultiQuestOrder90",
       "style": 22,
-      "name": "Mission Details"
+      "name": "Quest Details"
     },
     {
       "$id": 4348,
@@ -26148,7 +26148,7 @@
       "$id": 4356,
       "label": "menu_program_MultiQuestinvi02",
       "style": 20,
-      "name": "BLADE Quest Invitation"
+      "name": "Multi Quest Invitation"
     },
     {
       "$id": 4357,
@@ -26190,31 +26190,31 @@
       "$id": 4363,
       "label": "AvatarMake_Face_Male03",
       "style": 11,
-      "name": "Boy A"
+      "name": "Young Man A"
     },
     {
       "$id": 4364,
       "label": "AvatarMake_Face_Male04",
       "style": 11,
-      "name": "Boy B"
+      "name": "Young Man B"
     },
     {
       "$id": 4365,
       "label": "AvatarMake_Face_Male05",
       "style": 11,
-      "name": "Man A"
+      "name": "Middle-aged Man A"
     },
     {
       "$id": 4366,
       "label": "AvatarMake_Face_Male06",
       "style": 11,
-      "name": "Man B"
+      "name": "Middle-aged Man B"
     },
     {
       "$id": 4367,
       "label": "AvatarMake_Face_Male07",
       "style": 11,
-      "name": "Old Man"
+      "name": "Older Man"
     },
     {
       "$id": 4368,
@@ -26238,31 +26238,31 @@
       "$id": 4371,
       "label": "AvatarMake_Face_Female04",
       "style": 11,
-      "name": "Girl A"
+      "name": "Young Woman A"
     },
     {
       "$id": 4372,
       "label": "AvatarMake_Face_Female05",
       "style": 11,
-      "name": "Girl B"
+      "name": "Young Woman B"
     },
     {
       "$id": 4373,
       "label": "AvatarMake_Face_Female06",
       "style": 11,
-      "name": "Woman A"
+      "name": "Big Sister Type A"
     },
     {
       "$id": 4374,
       "label": "AvatarMake_Face_Female07",
       "style": 11,
-      "name": "Woman B"
+      "name": "Big Sister Type B"
     },
     {
       "$id": 4375,
       "label": "AvatarMake_Voice_Male01",
       "style": 20,
-      "name": "Chunniboyu (Hoshi Souichirou)"
+      "name": "Chuunibyou (Hoshi Souichirou)"
     },
     {
       "$id": 4376,
@@ -26280,13 +26280,13 @@
       "$id": 4378,
       "label": "AvatarMake_Voice_Male04",
       "style": 20,
-      "name": "Veteran (Namikawa Daisuke)"
+      "name": "Soldier (Namikawa Daisuke)"
     },
     {
       "$id": 4379,
       "label": "AvatarMake_Voice_Male05",
       "style": 20,
-      "name": "Aesthetic (Kakihara Tetsuya)"
+      "name": "Aesthete (Kakihara Tetsuya)"
     },
     {
       "$id": 4380,
@@ -26310,7 +26310,7 @@
       "$id": 4383,
       "label": "AvatarMake_Voice_Male09",
       "style": 20,
-      "name": "Samurai (Tanaka Hideyuki)"
+      "name": "Old Warrior (Tanaka Hideyuki)"
     },
     {
       "$id": 4384,
@@ -26322,7 +26322,7 @@
       "$id": 4385,
       "label": "AvatarMake_Voice_Female01",
       "style": 20,
-      "name": "Traditional (Suzuki Mariko)"
+      "name": "Japanese Style (Suzuki Mariko)"
     },
     {
       "$id": 4386,
@@ -26334,25 +26334,25 @@
       "$id": 4387,
       "label": "AvatarMake_Voice_Female03",
       "style": 20,
-      "name": "Rich Lady (Katsuta Shiori)"
+      "name": "Young Lady (Katsuta Shiori)"
     },
     {
       "$id": 4388,
       "label": "AvatarMake_Voice_Female04",
       "style": 20,
-      "name": "Distant (Ogura Yui)"
+      "name": "Whispering (Ogura Yui)"
     },
     {
       "$id": 4389,
       "label": "AvatarMake_Voice_Female05",
       "style": 20,
-      "name": "Military (Tanaka Atsuko)"
+      "name": "Soldier (Tanaka Atsuko)"
     },
     {
       "$id": 4390,
       "label": "AvatarMake_Voice_Female06",
       "style": 20,
-      "name": "Doofus (Uesaka Sumire)"
+      "name": "Clumsy Airhead (Uesaka Sumire)"
     },
     {
       "$id": 4391,
@@ -26364,13 +26364,13 @@
       "$id": 4392,
       "label": "AvatarMake_Voice_Female08",
       "style": 20,
-      "name": "Kansai-ben (Shiraishi Ryouuko)"
+      "name": "Kansai-ben (Shiraishi Ryouko)"
     },
     {
       "$id": 4393,
       "label": "AvatarMake_Voice_Female09",
       "style": 20,
-      "name": "Darling (Uchida Maaya)"
+      "name": "Coaxing Voice (Uchida Maaya)"
     },
     {
       "$id": 4394,
@@ -26406,7 +26406,7 @@
       "$id": 4399,
       "label": "TitleScreen_Copyright",
       "style": 21,
-      "name": "Unburger Patch 0.3.2"
+      "name": "Unburger Patch 0.5.0"
     },
     {
       "$id": 4400,
@@ -26436,7 +26436,7 @@
       "$id": 4404,
       "label": "menu_Option_HudSet_Title",
       "style": 20,
-      "name": "Display Settings"
+      "name": "HUD Settings"
     },
     {
       "$id": 4405,
@@ -26472,13 +26472,13 @@
       "$id": 4410,
       "label": "menu_Option_DispHeadSet_Title_huge",
       "style": 20,
-      "name": "Headgear"
+      "name": "Equipment Display"
     },
     {
       "$id": 4411,
       "label": "menu_Option_DispHeadSet_Title",
       "style": 19,
-      "name": "Headgear"
+      "name": "Equipment Display"
     },
     {
       "$id": 4412,
@@ -26508,7 +26508,7 @@
       "$id": 4416,
       "label": "menu_Option_CamSet_Item_RotIPO",
       "style": 22,
-      "name": "Manual Camera Tracking Speed"
+      "name": "Manual Camera Interpolation Speed"
     },
     {
       "$id": 4417,
@@ -26520,31 +26520,31 @@
       "$id": 4418,
       "label": "menu_Option_CamSet_Item_AutoIPO",
       "style": 22,
-      "name": "Auto-Camera Tracking Speed"
+      "name": "Auto Camera Tracking Rotation Speed"
     },
     {
       "$id": 4419,
       "label": "menu_Option_CamSet_Item_Near_Inner",
       "style": 22,
-      "name": "Zoomed-In Camera Height (On Foot)"
+      "name": "Zoomed-In Height: Inner"
     },
     {
       "$id": 4420,
       "label": "menu_Option_CamSet_Item_Near_Doll",
       "style": 22,
-      "name": "Zoomed-In Camera Height (In Doll)"
+      "name": "Zoomed-In Height: Doll"
     },
     {
       "$id": 4421,
       "label": "menu_Option_CamSet_Item_Far_Inner",
       "style": 22,
-      "name": "Zoomed-Out Camera Height (On Foot)"
+      "name": "Zoomed-Out Height: Inner"
     },
     {
       "$id": 4422,
       "label": "menu_Option_CamSet_Item_Far_Doll",
       "style": 22,
-      "name": "Zoomed-Out Camera Height (In Doll)"
+      "name": "Zoomed-Out Height: Doll"
     },
     {
       "$id": 4423,
@@ -26556,7 +26556,7 @@
       "$id": 4424,
       "label": "menu_Option_CamSet_Item_RotSPD",
       "style": 22,
-      "name": "Horizontal Rotation Speed"
+      "name": "Camera Rotation Speed"
     },
     {
       "$id": 4425,
@@ -26568,13 +26568,13 @@
       "$id": 4426,
       "label": "menu_Option_CamSet_Item_CntPos_Inner",
       "style": 22,
-      "name": "Character Positioning"
+      "name": "Centering Position: Inner"
     },
     {
       "$id": 4427,
       "label": "menu_Option_CamSet_Item_CntPos_Doll",
       "style": 22,
-      "name": "Doll Positioning"
+      "name": "Centering Position: Doll"
     },
     {
       "$id": 4428,
@@ -26592,7 +26592,7 @@
       "$id": 4430,
       "label": "menu_Option_GammaSet_Item_Gamma",
       "style": 22,
-      "name": "Brightness Level"
+      "name": "Gamma Correction"
     },
     {
       "$id": 4431,
@@ -26658,7 +26658,7 @@
       "$id": 4441,
       "label": "other_PartyChange14",
       "style": 13,
-      "name": "BLADE Scout"
+      "name": "Scouted BLADE"
     },
     {
       "$id": 4442,
@@ -26694,7 +26694,7 @@
       "$id": 4447,
       "label": "menu_program_Filt_NewWPN_OPEN",
       "style": 15,
-      "name": "Schematic Unlocked"
+      "name": "Blueprint Transferred"
     },
     {
       "$id": 4448,
@@ -26706,13 +26706,13 @@
       "$id": 4449,
       "label": "menu_Option_CamSet_Item_YcamSPD",
       "style": 22,
-      "name": "Vertical Rotation Speed"
+      "name": "Vertical Camera Rotation Correction"
     },
     {
       "$id": 4450,
       "label": "menu_Option_CamSet_Item_SlopeAJT",
       "style": 22,
-      "name": "Angle Correction"
+      "name": "Slope Correction"
     },
     {
       "$id": 4451,
@@ -26754,13 +26754,13 @@
       "$id": 4457,
       "label": "menu_Option_DispSet_Title_huge",
       "style": 20,
-      "name": "Menus and UI Elements"
+      "name": "Display Settings"
     },
     {
       "$id": 4458,
       "label": "menu_Option_DispSet_Title",
       "style": 19,
-      "name": "Menus and UI Elements"
+      "name": "Display Settings"
     },
     {
       "$id": 4459,
@@ -26778,13 +26778,13 @@
       "$id": 4461,
       "label": "menu_Option_Switch_NorthUP",
       "style": 10,
-      "name": "Fixed"
+      "name": "North Up"
     },
     {
       "$id": 4462,
       "label": "menu_Option_Switch_HeadingUP",
       "style": 10,
-      "name": "Rotate"
+      "name": "Heading Up"
     },
     {
       "$id": 4463,
@@ -26814,25 +26814,25 @@
       "$id": 4467,
       "label": "menu_Option_HUDSet_Item_SVoiceDSP",
       "style": 19,
-      "name": "Soul Voice Prompts"
+      "name": "Soul Voice Display Size"
     },
     {
       "$id": 4468,
       "label": "menu_Option_Switch_LargeDSP",
       "style": 10,
-      "name": "Normal"
+      "name": "Large"
     },
     {
       "$id": 4469,
       "label": "menu_Option_Switch_SmallDSP",
       "style": 10,
-      "name": "Compact"
+      "name": "Small"
     },
     {
       "$id": 4470,
       "label": "menu_Option_HUDSet_Item_ArtsDSP",
       "style": 19,
-      "name": "Art Descriptions"
+      "name": "Arts Palette Description Display"
     },
     {
       "$id": 4471,
@@ -26856,7 +26856,7 @@
       "$id": 4474,
       "label": "menu_Option_HUDSet_Item_QuestDSP",
       "style": 19,
-      "name": "Mission Objectives"
+      "name": "Quest Progress Display"
     },
     {
       "$id": 4475,
@@ -26868,7 +26868,7 @@
       "$id": 4476,
       "label": "menu_Option_UGC_Title_huge",
       "style": 20,
-      "name": "Custom Greetings"
+      "name": "BLADE Profile"
     },
     {
       "$id": 4477,
@@ -26880,7 +26880,7 @@
       "$id": 4478,
       "label": "menu_Option_SocialSet_Item_Profile",
       "style": 19,
-      "name": "Greeting Sharing"
+      "name": "Usage Settings"
     },
     {
       "$id": 4479,
@@ -26910,7 +26910,7 @@
       "$id": 4483,
       "label": "menu_Option_SocialSet_Item_BLUse",
       "style": 19,
-      "name": "BLADE Report Sharing"
+      "name": "Usage Settings"
     },
     {
       "$id": 4484,
@@ -26982,19 +26982,19 @@
       "$id": 4495,
       "label": "menu_Option_Praivacy_Title_huge",
       "style": 20,
-      "name": "Online Status"
+      "name": "Member List"
     },
     {
       "$id": 4496,
       "label": "menu_Option_Praivacy_Title",
       "style": 19,
-      "name": "Online Status"
+      "name": "Member List"
     },
     {
       "$id": 4497,
       "label": "menu_Option_SocialSet_Item_ListOpen",
       "style": 19,
-      "name": "Reveal Online Status"
+      "name": "Online Visibility Settings"
     },
     {
       "$id": 4498,
@@ -27030,7 +27030,7 @@
       "$id": 4503,
       "label": "menu_Option_SocialSet_Item_BLScout",
       "style": 19,
-      "name": "Automatically Update"
+      "name": "Automatic Registration Settings"
     },
     {
       "$id": 4504,
@@ -27048,31 +27048,31 @@
       "$id": 4506,
       "label": "menu_Option_SocialSet_Item_SocialInfo",
       "style": 19,
-      "name": "Social Notifications"
+      "name": "Social Display Settings"
     },
     {
       "$id": 4507,
       "label": "menu_Option_SocialSet_Item_AwardlInfo",
       "style": 19,
-      "name": "Achievement Notifications"
+      "name": "Award Display Settings"
     },
     {
       "$id": 4508,
       "label": "menu_Option_Switch_OnFull",
       "style": 10,
-      "name": "Squad/Own"
+      "name": "Self/Others"
     },
     {
       "$id": 4509,
       "label": "menu_Option_Switch_OnMine",
       "style": 10,
-      "name": "Just Own"
+      "name": "Self Only"
     },
     {
       "$id": 4510,
       "label": "menu_SimpleMode_Dialog",
       "style": 152,
-      "name": "Lower the difficulty and try again?\n(This will apply only to the boss\nof the current mission.)"
+      "name": "Lower the difficulty and try again?\n(This will apply only to the boss\nof the current quest.)"
     },
     {
       "$id": 4511,
@@ -27180,19 +27180,19 @@
       "$id": 4528,
       "label": "menu_Option_DispTypeSet_Title_huge",
       "style": 20,
-      "name": "Appearance"
+      "name": "Display Type"
     },
     {
       "$id": 4529,
       "label": "menu_Option_DispTypeSet_Title",
       "style": 19,
-      "name": "Appearance"
+      "name": "Display Type"
     },
     {
       "$id": 4530,
       "label": "menu_Option_DispHeadSet_Item_DispElma",
       "style": 19,
-      "name": "Elma's Appearance"
+      "name": "Elma"
     },
     {
       "$id": 4531,
@@ -27210,7 +27210,7 @@
       "$id": 4533,
       "label": "menu_Option_HUDSet_Item_EnemyLvDSP",
       "style": 19,
-      "name": "Enemy Level Indicators"
+      "name": "Enemy Level Above Head"
     },
     {
       "$id": 4534,
@@ -27228,43 +27228,43 @@
       "$id": 4536,
       "label": "menu_program_Filt_EneType_BEAST",
       "style": 15,
-      "name": "Theroid Materials"
+      "name": "Beast Materials"
     },
     {
       "$id": 4537,
       "label": "menu_program_Filt_EneType_INSECT",
       "style": 15,
-      "name": "Insectoid Materials"
+      "name": "Insect Materials"
     },
     {
       "$id": 4538,
       "label": "menu_program_Filt_EneType_FLGHT",
       "style": 15,
-      "name": "Piscinoid Materials"
+      "name": "Mega Fly Materials"
     },
     {
       "$id": 4539,
       "label": "menu_program_Filt_EneType_HUMANOID",
       "style": 15,
-      "name": "Humanoid Materials"
+      "name": "Alien Materials"
     },
     {
       "$id": 4540,
       "label": "menu_program_Filt_EneType_MACHINE",
       "style": 15,
-      "name": "Mechanoid Materials"
+      "name": "Machine Materials"
     },
     {
       "$id": 4541,
       "label": "menu_program_Filt_EneType_KIMERA",
       "style": 15,
-      "name": "Chimeroid Materials"
+      "name": "Chimera Materials"
     },
     {
       "$id": 4542,
       "label": "menu_program_Filt_EneType_NEO",
       "style": 15,
-      "name": "Ultrafauna Materials"
+      "name": "Ultimate Materials"
     },
     {
       "$id": 4543,
@@ -27312,7 +27312,7 @@
       "$id": 4550,
       "label": "menu_program_RespawnHud01",
       "style": 13,
-      "name": "Remaining Retries"
+      "name": "Returns Remaining"
     },
     {
       "$id": 4551,
@@ -27330,13 +27330,13 @@
       "$id": 4553,
       "label": "DRC_SkipTravel_ErrerMS_Event",
       "style": 78,
-      "name": "Unable to Fast Travel at this time."
+      "name": "Unable to Skip Travel at this time."
     },
     {
       "$id": 4554,
       "label": "DRC_SkipTravel_ErrerMS_DollNG",
       "style": 78,
-      "name": "Unable to Fast Travel to this point while riding a Doll.\nDismount your Doll and try again."
+      "name": "Unable to Skip Travel to this point while riding a Doll.\nDismount your Doll and try again."
     },
     {
       "$id": 4555,
@@ -27348,7 +27348,7 @@
       "$id": 4556,
       "label": "menu_program_QuestList16",
       "style": 20,
-      "name": "Missions"
+      "name": "Quests"
     },
     {
       "$id": 4557,
@@ -27492,13 +27492,13 @@
       "$id": 4580,
       "label": "menu_program_DollGarage_Salvage_Fee",
       "style": 14,
-      "name": "Salvage Fee"
+      "name": "Repair Costs"
     },
     {
       "$id": 4581,
       "label": "menu_program_QuestHud_StoryQuestAnnounce",
       "style": 174,
-      "name": "Notice from BLADE HQ:\nTo commence a story mission,\naccept it at the BLADE Home!"
+      "name": "Notice from BLADE HQ:\nTo commence a story quest,\naccept it at the BLADE Home!"
     },
     {
       "$id": 4582,
@@ -27516,7 +27516,7 @@
       "$id": 4584,
       "label": "menu_Option_SocialSet_Item_MnuDisplay",
       "style": 19,
-      "name": "Messages While in Menus"
+      "name": "Information Screen Display Settings"
     },
     {
       "$id": 4585,
@@ -27588,7 +27588,7 @@
       "$id": 4596,
       "label": "menu_program_MultiQuestResult28_2",
       "style": 25,
-      "name": "Reward Tickets (Multiplayer Bonus)"
+      "name": "Reward Tickets (Including Multiplayer Bonus)"
     },
     {
       "$id": 4597,
@@ -27630,7 +27630,7 @@
       "$id": 4603,
       "label": "hud_PartSelection01",
       "style": 12,
-      "name": "Appendage"
+      "name": "Select Part"
     },
     {
       "$id": 4604,
@@ -27678,7 +27678,7 @@
       "$id": 4611,
       "label": "menu_program_MainMenu_2nd04",
       "style": 20,
-      "name": "Ground Gear"
+      "name": "Inner"
     },
     {
       "$id": 4612,
@@ -27744,7 +27744,7 @@
       "$id": 4622,
       "label": "menu_program_MainMenu_2nd15",
       "style": 20,
-      "name": "Achievements"
+      "name": "Play Awards"
     },
     {
       "$id": 4623,
@@ -27780,7 +27780,7 @@
       "$id": 4628,
       "label": "menu_program_MainMenu_SubTitle01",
       "style": 20,
-      "name": "Auto-set"
+      "name": "Auto Equip"
     },
     {
       "$id": 4629,
@@ -27804,19 +27804,19 @@
       "$id": 4632,
       "label": "menu_program_MainMenu_SubTitle05",
       "style": 20,
-      "name": "Manage AMs"
+      "name": "Support Arms Manufacturers"
     },
     {
       "$id": 4633,
       "label": "menu_program_MainMenu_SubTitle06",
       "style": 14,
-      "name": "Upgrade Battle Traits"
+      "name": "Upgrade Affixes"
     },
     {
       "$id": 4634,
       "label": "menu_program_MainMenu_SubTitle07",
       "style": 14,
-      "name": "Engineer Augments"
+      "name": "Create Augments"
     },
     {
       "$id": 4635,
@@ -27942,7 +27942,7 @@
       "$id": 4655,
       "label": "Eff_Message_tuto1001_01",
       "style": 11,
-      "name": "Mira"
+      "name": "Planet Mira"
     },
     {
       "$id": 4656,
@@ -27966,7 +27966,7 @@
       "$id": 4659,
       "label": "Eff_Message_tuto1031_02",
       "style": 15,
-      "name": ""
+      "name": "BLADE"
     },
     {
       "$id": 4660,
@@ -28026,7 +28026,7 @@
       "$id": 4669,
       "label": "Eff_Message_tuto1121_02",
       "style": 15,
-      "name": ""
+      "name": "Central Life"
     },
     {
       "$id": 4670,
@@ -28050,13 +28050,13 @@
       "$id": 4673,
       "label": "Eff_Message_LevelUp_04",
       "style": 17,
-      "name": "Art Acquired"
+      "name": "New Arts Acquired"
     },
     {
       "$id": 4674,
       "label": "Eff_Message_LevelUp_05",
       "style": 17,
-      "name": "Class Skill Acquired"
+      "name": "New Class Skill Acquired"
     },
     {
       "$id": 4675,
@@ -28074,7 +28074,7 @@
       "$id": 4677,
       "label": "Eff_Message_MapAllClear03",
       "style": 0,
-      "name": "Transferred from Eff_Message.mstxt"
+      "name": ""
     },
     {
       "$id": 4678,
@@ -28182,7 +28182,7 @@
       "$id": 4695,
       "label": "menu_program_Tips07",
       "style": 13,
-      "name": "Filtered"
+      "name": "On Demand"
     },
     {
       "$id": 4696,
@@ -28212,7 +28212,7 @@
       "$id": 4700,
       "label": "other_PartyChange101",
       "style": 16,
-      "name": "Party Members"
+      "name": "Battle Members"
     },
     {
       "$id": 4701,
@@ -28224,19 +28224,19 @@
       "$id": 4702,
       "label": "other_PartyChange103",
       "style": 16,
-      "name": "Headhunting"
+      "name": "Recruitment Hint"
     },
     {
       "$id": 4703,
       "label": "menu_program_InnerEquip_PartSelection01",
       "style": 16,
-      "name": "Customize Gear"
+      "name": "Select Equipment Slot"
     },
     {
       "$id": 4704,
       "label": "menu_program_InnerEquip_PartSelection02",
       "style": 12,
-      "name": "Auto-set"
+      "name": "Auto Equip"
     },
     {
       "$id": 4705,
@@ -28266,7 +28266,7 @@
       "$id": 4709,
       "label": "menu_program_QuestList103",
       "style": 14,
-      "name": "Story Mission"
+      "name": "Story Quest"
     },
     {
       "$id": 4710,
@@ -28278,19 +28278,19 @@
       "$id": 4711,
       "label": "menu_program_QuestList105",
       "style": 14,
-      "name": "Normal Mission"
+      "name": "Normal Quest"
     },
     {
       "$id": 4712,
       "label": "menu_program_QuestList106",
       "style": 14,
-      "name": "Basic Mission"
+      "name": "Simple Quest"
     },
     {
       "$id": 4713,
       "label": "menu_program_QuestList107",
       "style": 24,
-      "name": "There are no missions to display."
+      "name": "No Quests Registered"
     },
     {
       "$id": 4714,
@@ -28308,7 +28308,7 @@
       "$id": 4716,
       "label": "menu_program_QuestList110",
       "style": 11,
-      "name": "Experience"
+      "name": "Inner EXP"
     },
     {
       "$id": 4717,
@@ -28326,7 +28326,7 @@
       "$id": 4719,
       "label": "menu_program_ItemInfo_WPN_Pc01",
       "style": 12,
-      "name": "Power Rating"
+      "name": "Weapon Power Rating"
     },
     {
       "$id": 4720,
@@ -28374,7 +28374,7 @@
       "$id": 4727,
       "label": "menu_program_CurrentPurpose01",
       "style": 14,
-      "name": "Missions"
+      "name": "Quests"
     },
     {
       "$id": 4728,
@@ -28392,7 +28392,7 @@
       "$id": 4730,
       "label": "menu_program_CurrentPurpose04",
       "style": 14,
-      "name": "Squad Tasks"
+      "name": "Squad Missions"
     },
     {
       "$id": 4731,
@@ -28404,7 +28404,7 @@
       "$id": 4732,
       "label": "menu_program_CurrentPurpose_Title02",
       "style": 18,
-      "name": "No Recon Available"
+      "name": "No Segment Topics"
     },
     {
       "$id": 4733,
@@ -28428,7 +28428,7 @@
       "$id": 4736,
       "label": "menu_program_CurrentPurpose_Cap02",
       "style": 171,
-      "name": "Set a mission to track from\nMain Menu > Missions."
+      "name": "Set a quest to track from\nMain Menu > Quests."
     },
     {
       "$id": 4737,
@@ -28446,13 +28446,13 @@
       "$id": 4739,
       "label": "menu_program_CurrentPurpose_Cap05",
       "style": 171,
-      "name": "To participate in squad tasks,\nfirst join a squad via Main Menu >\nOnline > Connect to Server."
+      "name": "To participate in squad missions,\nfirst join a squad via Main Menu >\nOnline > Connect to Server."
     },
     {
       "$id": 4740,
       "label": "menu_program_CurrentPurpose_Warning01",
       "style": 108,
-      "name": "No mission registered."
+      "name": "No quest registered."
     },
     {
       "$id": 4741,
@@ -28464,13 +28464,13 @@
       "$id": 4742,
       "label": "menu_program_CurrentPurpose_Target01",
       "style": 195,
-      "name": "New Squad Tasks Issued"
+      "name": "New Mission Start"
     },
     {
       "$id": 4743,
       "label": "menu_program_CurrentPurpose_Target02",
       "style": 191,
-      "name": "Squad Tasks Complete"
+      "name": "Mission Complete"
     },
     {
       "$id": 4744,
@@ -28494,7 +28494,7 @@
       "$id": 4747,
       "label": "menu_program_OGC_03",
       "style": 22,
-      "name": "Overclock Counter Guidance"
+      "name": "Hit Continuation Guide"
     },
     {
       "$id": 4748,
@@ -28512,7 +28512,7 @@
       "$id": 4750,
       "label": "menu_program_OGC_06",
       "style": 16,
-      "name": "Appendage Damage Up"
+      "name": "Part Damage Up"
     },
     {
       "$id": 4751,
@@ -28524,13 +28524,13 @@
       "$id": 4752,
       "label": "menu_program_OGC_08",
       "style": 16,
-      "name": "Debuff Time Extended"
+      "name": "Debuff Duration Up"
     },
     {
       "$id": 4753,
       "label": "menu_program_OGC_09",
       "style": 16,
-      "name": "EXP Up"
+      "name": "Inner EXP Up"
     },
     {
       "$id": 4754,
@@ -28584,7 +28584,7 @@
       "$id": 4762,
       "label": "menu_program_ItemInfo_Device01",
       "style": 19,
-      "name": "Battle Traits"
+      "name": "Affixes"
     },
     {
       "$id": 4763,
@@ -28614,7 +28614,7 @@
       "$id": 4767,
       "label": "menu_program_Clock101",
       "style": 12,
-      "name": "Target Time"
+      "name": "New Time"
     },
     {
       "$id": 4768,
@@ -28686,19 +28686,19 @@
       "$id": 4779,
       "label": "menu_program_BladeSC_02",
       "style": 20,
-      "name": "BLADE Scouting"
+      "name": "BLADE Scout"
     },
     {
       "$id": 4780,
       "label": "menu_program_BladeSC_03",
       "style": 20,
-      "name": "Release Recruited BLADEs"
+      "name": "Return Hired BLADEs"
     },
     {
       "$id": 4781,
       "label": "menu_program_BladeSC_04",
       "style": 20,
-      "name": "Manage Avatar Registration"
+      "name": "Manage My Avatar"
     },
     {
       "$id": 4782,
@@ -28716,7 +28716,7 @@
       "$id": 4784,
       "label": "menu_program_BladeSC_07",
       "style": 16,
-      "name": "Filter"
+      "name": "Search Scope"
     },
     {
       "$id": 4785,
@@ -28794,19 +28794,19 @@
       "$id": 4797,
       "label": "menu_program_BladeSC_20",
       "style": 20,
-      "name": "Register Avatar"
+      "name": "Register My Avatar"
     },
     {
       "$id": 4798,
       "label": "menu_program_BladeSC_21",
       "style": 20,
-      "name": "Check Registered Avatar"
+      "name": "View My Avatar"
     },
     {
       "$id": 4799,
       "label": "menu_program_BladeSC_22",
       "style": 20,
-      "name": "Delete Avatar Registration"
+      "name": "Delete My Avatar"
     },
     {
       "$id": 4800,
@@ -28866,13 +28866,13 @@
       "$id": 4809,
       "label": "menu_program_BladeSC_23",
       "style": 16,
-      "name": "Melee Weapons"
+      "name": "Inner Melee Weapons"
     },
     {
       "$id": 4810,
       "label": "menu_program_BladeSC_24",
       "style": 16,
-      "name": "Ranged Weapons"
+      "name": "Inner Ranged Weapons"
     },
     {
       "$id": 4811,
@@ -28908,7 +28908,7 @@
       "$id": 4816,
       "label": "menu_program_PopUp_Value06",
       "style": 10,
-      "name": "Replenish"
+      "name": "Refuel"
     },
     {
       "$id": 4817,
@@ -29022,7 +29022,7 @@
       "$id": 4835,
       "label": "menu_program_SquadSelect01",
       "style": 18,
-      "name": "Quick Assignment"
+      "name": "Start Now"
     },
     {
       "$id": 4836,
@@ -29100,13 +29100,13 @@
       "$id": 4848,
       "label": "menu_program_SquadSelect06",
       "style": 9,
-      "name": "Passcode"
+      "name": "Password"
     },
     {
       "$id": 4849,
       "label": "menu_program_SquadSelect07",
       "style": 12,
-      "name": "Auto-kick in:"
+      "name": "Auto Disband In:"
     },
     {
       "$id": 4850,
@@ -29142,13 +29142,13 @@
       "$id": 4855,
       "label": "menu_program_SquadSelect08",
       "style": 24,
-      "name": "Please enter a passcode."
+      "name": "Please enter a password."
     },
     {
       "$id": 4856,
       "label": "menu_program_MainMenu_GamePad01",
       "style": 14,
-      "name": "Map Shortcuts"
+      "name": "Switch Map"
     },
     {
       "$id": 4857,
@@ -29166,7 +29166,7 @@
       "$id": 4859,
       "label": "menu_program_MainMenu_GamePad04",
       "style": 14,
-      "name": "FrontierNet"
+      "name": "FrontierNET"
     },
     {
       "$id": 4860,
@@ -29190,7 +29190,7 @@
       "$id": 4863,
       "label": "hud_BattleSign01",
       "style": 9,
-      "name": "Warning!"
+      "name": "CAUTION"
     },
     {
       "$id": 4864,
@@ -29208,7 +29208,7 @@
       "$id": 4866,
       "label": "menu_program_PlayerList02",
       "style": 14,
-      "name": "Time Until Release"
+      "name": "Time Until Return"
     },
     {
       "$id": 4867,
@@ -29268,7 +29268,7 @@
       "$id": 4876,
       "label": "menu_program_PopUp_Timer01",
       "style": 19,
-      "name": "Withdrawing in: "
+      "name": "Time Until Retreat: "
     },
     {
       "$id": 4877,
@@ -29286,7 +29286,7 @@
       "$id": 4879,
       "label": "menu_program_PopUp_huge_Choice06",
       "style": 16,
-      "name": "Wait Until Forced"
+      "name": "Wait for Forced Return"
     },
     {
       "$id": 4880,
@@ -29298,7 +29298,7 @@
       "$id": 4881,
       "label": "menu_program_PopUp_huge_Choice07",
       "style": 16,
-      "name": "Don't Withdraw"
+      "name": "Cancel Retreat"
     },
     {
       "$id": 4882,
@@ -29358,13 +29358,13 @@
       "$id": 4891,
       "label": "menu_program_PopUp_QuestComp01",
       "style": 193,
-      "name": "Story Mission Complete"
+      "name": "Story Quest Complete"
     },
     {
       "$id": 4892,
       "label": "menu_program_PopUp_QuestComp02",
       "style": 187,
-      "name": "Mission Complete"
+      "name": "Quest Complete"
     },
     {
       "$id": 4893,
@@ -29376,7 +29376,7 @@
       "$id": 4894,
       "label": "menu_program_FashionEquip02",
       "style": 8,
-      "name": "???"
+      "name": "????"
     },
     {
       "$id": 4895,
@@ -29394,13 +29394,13 @@
       "$id": 4897,
       "label": "menu_program_ReceiveReward03",
       "style": 19,
-      "name": "Global Nemesis Rewards"
+      "name": "World Enemy Rewards"
     },
     {
       "$id": 4898,
       "label": "menu_program_ReceiveReward04",
       "style": 19,
-      "name": "Material Market"
+      "name": "Material Exchange"
     },
     {
       "$id": 4899,
@@ -29634,13 +29634,13 @@
       "$id": 4937,
       "label": "menu_program_ReceiveReward05",
       "style": 24,
-      "name": "Players Who Recruited You"
+      "name": "Players Who Hired You"
     },
     {
       "$id": 4938,
       "label": "menu_program_ReceiveReward06",
       "style": 11,
-      "name": "Reward"
+      "name": "Reward Money"
     },
     {
       "$id": 4939,
@@ -29664,7 +29664,7 @@
       "$id": 4942,
       "label": "menu_program_InformationList02",
       "style": 20,
-      "name": "Data Acquired"
+      "name": "Information Details"
     },
     {
       "$id": 4943,
@@ -29676,7 +29676,7 @@
       "$id": 4944,
       "label": "menu_program_S_DollGarage02",
       "style": 13,
-      "name": "Change Finish"
+      "name": "Finish:"
     },
     {
       "$id": 4945,
@@ -29694,7 +29694,7 @@
       "$id": 4947,
       "label": "menu_program_PopUp_heading_Choice01",
       "style": 20,
-      "name": "Quick Save"
+      "name": "Temporary Save"
     },
     {
       "$id": 4948,
@@ -29784,7 +29784,7 @@
       "$id": 4962,
       "label": "menu_program_NetworkConsole08",
       "style": 20,
-      "name": "Yggralith Zero Data"
+      "name": "Yegiras, the Zero Emperor Data"
     },
     {
       "$id": 4963,
@@ -29838,7 +29838,7 @@
       "$id": 4971,
       "label": "menu_program_NetworkConsole17",
       "style": 19,
-      "name": "Records"
+      "name": "Ranking Information"
     },
     {
       "$id": 4972,
@@ -29874,7 +29874,7 @@
       "$id": 4977,
       "label": "menu_program_PopUp_huge_Choice16",
       "style": 16,
-      "name": "Accept with This Party"
+      "name": "Accept with Battle Members"
     },
     {
       "$id": 4978,
@@ -29922,7 +29922,7 @@
       "$id": 4985,
       "label": "menu_program_UpdatedTelop01",
       "style": 19,
-      "name": "Objective Updated"
+      "name": "Task Updated"
     },
     {
       "$id": 4986,
@@ -29964,7 +29964,7 @@
       "$id": 4992,
       "label": "menu_program_S_FrontierNet01",
       "style": 24,
-      "name": "Unexplored Territories Found Nearby"
+      "name": "Secret Areas Discovered Nearby"
     },
     {
       "$id": 4993,
@@ -29982,7 +29982,7 @@
       "$id": 4995,
       "label": "menu_program_S_FrontierNet04",
       "style": 17,
-      "name": "No. Available"
+      "name": "Placeable Probes"
     },
     {
       "$id": 4996,
@@ -30060,7 +30060,7 @@
       "$id": 5008,
       "label": "menu_program_QuestBoard01",
       "style": 18,
-      "name": "Basic Missions"
+      "name": "Select Simple Quest"
     },
     {
       "$id": 5009,
@@ -30078,7 +30078,7 @@
       "$id": 5011,
       "label": "menu_program_CurrentPurpose_Cap06",
       "style": 171,
-      "name": "Preparing new squad tasks.\nPlease wait..."
+      "name": "Preparing new squad missions.\nPlease wait..."
     },
     {
       "$id": 5012,
@@ -30138,13 +30138,13 @@
       "$id": 5021,
       "label": "hud_FieldAction01",
       "style": 18,
-      "name": "FN Site"
+      "name": "FN Spot"
     },
     {
       "$id": 5022,
       "label": "hud_FieldAction02",
       "style": 13,
-      "name": "Treasure"
+      "name": "Treasure Box"
     },
     {
       "$id": 5023,
@@ -30168,19 +30168,19 @@
       "$id": 5026,
       "label": "menu_program_S_EnemyBook04",
       "style": 9,
-      "name": "Category"
+      "name": "Species"
     },
     {
       "$id": 5027,
       "label": "menu_program_S_EnemyBook05",
       "style": 9,
-      "name": "Subcat."
+      "name": "Genus"
     },
     {
       "$id": 5028,
       "label": "menu_program_S_EnemyBook06",
       "style": 13,
-      "name": "Region Found"
+      "name": "Habitat Zone"
     },
     {
       "$id": 5029,
@@ -30246,7 +30246,7 @@
       "$id": 5039,
       "label": "menu_program_UnionChange01",
       "style": 15,
-      "name": "Point Attack"
+      "name": "Damage Trial"
     },
     {
       "$id": 5040,
@@ -30264,7 +30264,7 @@
       "$id": 5042,
       "label": "menu_program_PopUp_huge48",
       "style": 152,
-      "name": "Launch Point Attack Simulator?\n(During simulation, some elements of the\nmain menu will be restricted.)"
+      "name": "Start the Damage Trial?\n(Some main menu functions will be unavailable\nafter moving to the trial area.)"
     },
     {
       "$id": 5043,
@@ -30288,13 +30288,13 @@
       "$id": 5046,
       "label": "menu_program_ArtsSetting10",
       "style": 23,
-      "name": "Dual Gun Arts"
+      "name": "Dual Guns Arts"
     },
     {
       "$id": 5047,
       "label": "menu_program_ArtsSetting11",
       "style": 23,
-      "name": "Gatling Gun Arts"
+      "name": "Gatling Arts"
     },
     {
       "$id": 5048,
@@ -30324,7 +30324,7 @@
       "$id": 5052,
       "label": "menu_program_ArtsSetting16",
       "style": 23,
-      "name": "Dual Sword Arts"
+      "name": "Dual Swords Arts"
     },
     {
       "$id": 5053,
@@ -30396,7 +30396,7 @@
       "$id": 5064,
       "label": "hud_FieldButton108",
       "style": 21,
-      "name": "Modify Avatar"
+      "name": "Avatar Creation"
     },
     {
       "$id": 5065,
@@ -30480,13 +30480,13 @@
       "$id": 5078,
       "label": "menu_program_PopUp_huge57",
       "style": 152,
-      "name": "Remove one of this item from your inventory\nand register it in the Collepedia?\n[ST:col p1=red ](It is needed for a mission in progress.)"
+      "name": "Remove one of this item from your inventory\nand register it in the Collepedia?\n[ST:col p1=red ](It is needed for a quest in progress.)"
     },
     {
       "$id": 5079,
       "label": "menu_program_PopUp_DollGarage02",
       "style": 14,
-      "name": "Shop Lineup"
+      "name": "Shop List"
     },
     {
       "$id": 5080,
@@ -30504,19 +30504,19 @@
       "$id": 5082,
       "label": "menu_program_S_ClassChange01",
       "style": 14,
-      "name": "Show Skills"
+      "name": "Show Learned Skills"
     },
     {
       "$id": 5083,
       "label": "menu_program_S_ClassChange02",
       "style": 14,
-      "name": "Show Arts"
+      "name": "Show Learned Arts"
     },
     {
       "$id": 5084,
       "label": "menu_program_ReceiveReward07",
       "style": 14,
-      "name": "Total RP Claimed"
+      "name": "Total RP Damage"
     },
     {
       "$id": 5085,
@@ -30546,7 +30546,7 @@
       "$id": 5089,
       "label": "menu_program_MainMenu_2nd20",
       "style": 20,
-      "name": "Global Nemesis Rewards"
+      "name": "World Enemy Rewards"
     },
     {
       "$id": 5090,
@@ -30564,7 +30564,7 @@
       "$id": 5092,
       "label": "menu_program_UnionChange04",
       "style": 20,
-      "name": "FrontierNet VR"
+      "name": "FrontierNET VR"
     },
     {
       "$id": 5093,
@@ -30600,7 +30600,7 @@
       "$id": 5098,
       "label": "menu_program_DropResult01",
       "style": 17,
-      "name": "Battle Spoils"
+      "name": "Drop Results"
     },
     {
       "$id": 5099,
@@ -30618,7 +30618,7 @@
       "$id": 5101,
       "label": "menu_program_DropResult04",
       "style": 20,
-      "name": "Take Selected"
+      "name": "Take and Close"
     },
     {
       "$id": 5102,
@@ -30690,7 +30690,7 @@
       "$id": 5113,
       "label": "menu_program_MapMode01",
       "style": 19,
-      "name": "Unaccepted Mission"
+      "name": "Unaccepted Quest"
     },
     {
       "$id": 5114,
@@ -30744,7 +30744,7 @@
       "$id": 5122,
       "label": "menu_program_PopUp_heading06",
       "style": 20,
-      "name": "Save Slots"
+      "name": "Select Save Slot"
     },
     {
       "$id": 5123,
@@ -30780,7 +30780,7 @@
       "$id": 5128,
       "label": "menu_program_PopUp_heading07",
       "style": 20,
-      "name": "Select Avatar Data"
+      "name": "Load Avatar Data"
     },
     {
       "$id": 5129,
@@ -30816,7 +30816,7 @@
       "$id": 5134,
       "label": "menu_program_S_Kizunagram01",
       "style": 10,
-      "name": "Bonding"
+      "name": "Relationship"
     },
     {
       "$id": 5135,
@@ -30828,25 +30828,25 @@
       "$id": 5136,
       "label": "hud_FieldButton111",
       "style": 20,
-      "name": "Customization Center"
+      "name": "BLADE Home Console"
     },
     {
       "$id": 5137,
       "label": "menu_program_OperationGuide02",
       "style": 27,
-      "name": "Field Controls (On Foot)"
+      "name": "Field Controls (Inner)"
     },
     {
       "$id": 5138,
       "label": "menu_program_OperationGuide03",
       "style": 27,
-      "name": "Battle Controls (On Foot)"
+      "name": "Battle Controls (Inner)"
     },
     {
       "$id": 5139,
       "label": "menu_program_OperationGuide04",
       "style": 27,
-      "name": "Shift Controls (On Foot)"
+      "name": "Shift Controls (Inner)"
     },
     {
       "$id": 5140,
@@ -30984,7 +30984,7 @@
       "$id": 5162,
       "label": "menu_program_OperationGuide_Caption20",
       "style": 67,
-      "name": "Aerial Cam\n(Field Controls)"
+      "name": "Hopper Camera\n(Field Controls)"
     },
     {
       "$id": 5163,
@@ -31014,13 +31014,13 @@
       "$id": 5167,
       "label": "menu_program_OperationGuide_Caption25",
       "style": 67,
-      "name": "Target Appendage (Left)"
+      "name": "Target Part (Left)"
     },
     {
       "$id": 5168,
       "label": "menu_program_OperationGuide_Caption26",
       "style": 67,
-      "name": "Target Appendage (Right)"
+      "name": "Target Part (Right)"
     },
     {
       "$id": 5169,
@@ -31110,7 +31110,7 @@
       "$id": 5183,
       "label": "menu_program_S_FrontierNet20",
       "style": 17,
-      "name": "Region Intel"
+      "name": "Zone Info"
     },
     {
       "$id": 5184,
@@ -31128,7 +31128,7 @@
       "$id": 5186,
       "label": "menu_program_S_AvatarMake04",
       "style": 12,
-      "name": "Base Type"
+      "name": "Preset"
     },
     {
       "$id": 5187,
@@ -31140,7 +31140,7 @@
       "$id": 5188,
       "label": "menu_program_EnemyStatus01",
       "style": 19,
-      "name": "RP (Resurrection Points)"
+      "name": "RP (Revives)"
     },
     {
       "$id": 5189,
@@ -31164,19 +31164,19 @@
       "$id": 5192,
       "label": "menu_program_NetworkConsole28",
       "style": 22,
-      "name": "Yggralith Zero RP Info"
+      "name": "Yegiras, the Zero Emperor RP Info"
     },
     {
       "$id": 5193,
       "label": "menu_program_NetworkConsole29",
       "style": 28,
-      "name": "Global Nemesis Reward Info"
+      "name": "World Enemy Reward Info"
     },
     {
       "$id": 5194,
       "label": "menu_program_NetworkConsole30",
       "style": 28,
-      "name": "Current Appraisal and Spoils"
+      "name": "Current Rating and Quantity Obtained"
     },
     {
       "$id": 5195,
@@ -31188,7 +31188,7 @@
       "$id": 5196,
       "label": "menu_program_NetworkConsole32",
       "style": 65,
-      "name": "Defeat Yggralith Zero to\nreceive rewards."
+      "name": "Defeat Yegiras, the Zero Emperor to\nreceive rewards."
     },
     {
       "$id": 5197,
@@ -31206,7 +31206,7 @@
       "$id": 5199,
       "label": "menu_program_GeneralInfo02",
       "style": 22,
-      "name": "Bonding Update"
+      "name": "Bonding Up"
     },
     {
       "$id": 5200,
@@ -31224,7 +31224,7 @@
       "$id": 5202,
       "label": "AvatarMake_Voice_E_Male02",
       "style": 20,
-      "name": "Rebel (Keith Silverstein)"
+      "name": "Rival (Keith Silverstein)"
     },
     {
       "$id": 5203,
@@ -31314,7 +31314,7 @@
       "$id": 5217,
       "label": "menu_program_S_FrontierNet24",
       "style": 20,
-      "name": "Normal Mission Start"
+      "name": "Normal Quest Start"
     },
     {
       "$id": 5218,
@@ -31326,25 +31326,25 @@
       "$id": 5219,
       "label": "menu_program_S_FrontierNet26",
       "style": 19,
-      "name": "Normal Mission Objective"
+      "name": "Normal Quest Objective"
     },
     {
       "$id": 5220,
       "label": "menu_program_S_FrontierNet27",
       "style": 22,
-      "name": "Basic Mission Objective"
+      "name": "Simple Quest Objective"
     },
     {
       "$id": 5221,
       "label": "menu_program_S_FrontierNet28",
       "style": 14,
-      "name": "Squad Task"
+      "name": "Squad Mission"
     },
     {
       "$id": 5222,
       "label": "menu_program_S_FrontierNet29",
       "style": 15,
-      "name": "Console/Terminal"
+      "name": "Consoles"
     },
     {
       "$id": 5223,
@@ -31374,7 +31374,7 @@
       "$id": 5227,
       "label": "menu_program_S_Segment03",
       "style": 18,
-      "name": "Normal Mission"
+      "name": "Normal Quest"
     },
     {
       "$id": 5228,
@@ -31392,13 +31392,13 @@
       "$id": 5230,
       "label": "menu_program_S_Segment06",
       "style": 13,
-      "name": "Recon Complete"
+      "name": "Topic Resolved"
     },
     {
       "$id": 5231,
       "label": "menu_program_S_Segment07",
       "style": 21,
-      "name": "Advance Story to Unlock"
+      "name": "Game Progress Required"
     },
     {
       "$id": 5232,
@@ -31434,7 +31434,7 @@
       "$id": 5237,
       "label": "menu_program_TitleLogo03",
       "style": 195,
-      "name": "Unburger Patch 0.3.2"
+      "name": "Unburger Patch 0.5.0"
     },
     {
       "$id": 5238,
@@ -31446,7 +31446,7 @@
       "$id": 5239,
       "label": "menu_program_S_DollGarage10",
       "style": 16,
-      "name": "Pre-Sale Menu Options"
+      "name": "Select Sale Menu"
     },
     {
       "$id": 5240,
@@ -31464,13 +31464,13 @@
       "$id": 5242,
       "label": "menu_program_PopUp_huge_Choice26",
       "style": 20,
-      "name": "Yes (Override Existing Full Slot)"
+      "name": "Save and Start"
     },
     {
       "$id": 5243,
       "label": "menu_program_PopUp_huge_Choice27",
       "style": 20,
-      "name": "No"
+      "name": "Start Without Saving"
     },
     {
       "$id": 5244,
@@ -31494,13 +31494,13 @@
       "$id": 5247,
       "label": "menu_program_PopUp_huge_Choice29",
       "style": 20,
-      "name": "Yes (Override Existing Full Slot)"
+      "name": "Save and Resume"
     },
     {
       "$id": 5248,
       "label": "menu_program_PopUp_huge_Choice30",
       "style": 20,
-      "name": "No"
+      "name": "Resume Without Saving"
     },
     {
       "$id": 5249,
@@ -31524,7 +31524,7 @@
       "$id": 5252,
       "label": "menu_program_S_Segment08",
       "style": 25,
-      "name": "Character Hangout"
+      "name": "Ally Locations"
     },
     {
       "$id": 5253,
@@ -31542,7 +31542,7 @@
       "$id": 5255,
       "label": "menu_program_S_Segment11",
       "style": 22,
-      "name": "Local Mission Map"
+      "name": "Local Quest Map"
     },
     {
       "$id": 5256,
@@ -31554,13 +31554,13 @@
       "$id": 5257,
       "label": "menu_program_SquadSelect12",
       "style": 23,
-      "name": "Time Until Yggralith Zero Spawns"
+      "name": "Time Until Yegiras, the Zero Emperor Spawns"
     },
     {
       "$id": 5258,
       "label": "menu_program_SquadSelect13",
       "style": 23,
-      "name": "Yggralith Zero Active"
+      "name": "Yegiras, the Zero Emperor Active"
     },
     {
       "$id": 5259,
@@ -31620,13 +31620,13 @@
       "$id": 5268,
       "label": "menu_program_S_Segment14",
       "style": 17,
-      "name": "Map of Mission Area"
+      "name": "Map of Quest Area"
     },
     {
       "$id": 5269,
       "label": "menu_program_CurrentPurpose06",
       "style": 171,
-      "name": "Look for an FN Site nearby and\ninstall a data probe there."
+      "name": "Look for an FN Spot nearby and\ninstall a data probe there."
     },
     {
       "$id": 5270,
@@ -31638,7 +31638,7 @@
       "$id": 5271,
       "label": "menu_program_CurrentPurpose08",
       "style": 23,
-      "name": "Advance the story."
+      "name": "Progress the Story Quest."
     },
     {
       "$id": 5272,
@@ -31710,7 +31710,7 @@
       "$id": 5283,
       "label": "menu_program_S_Segment15",
       "style": 9,
-      "name": "Credits"
+      "name": "Money"
     },
     {
       "$id": 5284,
@@ -31788,7 +31788,7 @@
       "$id": 5296,
       "label": "menu_program_NetworkConsole36",
       "style": 11,
-      "name": "Bonding"
+      "name": "Bonding Points"
     },
     {
       "$id": 5297,
@@ -31818,13 +31818,13 @@
       "$id": 5301,
       "label": "menu_program_Archive04",
       "style": 13,
-      "name": "Organizations"
+      "name": "Organizations and Factions"
     },
     {
       "$id": 5302,
       "label": "menu_program_Archive05",
       "style": 13,
-      "name": "Abilities/Weapons"
+      "name": "Technology and Weapons"
     },
     {
       "$id": 5303,
@@ -31866,7 +31866,7 @@
       "$id": 5309,
       "label": "menu_program_Option04",
       "style": 18,
-      "name": "Visual"
+      "name": "Graphics"
     },
     {
       "$id": 5310,
@@ -31884,7 +31884,7 @@
       "$id": 5312,
       "label": "menu_program_Option07",
       "style": 18,
-      "name": "Social Notifications"
+      "name": "Social Information"
     },
     {
       "$id": 5313,
@@ -31920,13 +31920,13 @@
       "$id": 5318,
       "label": "menu_program_ReceiveReward12",
       "style": 24,
-      "name": "Appraisal and Spoils"
+      "name": "Rating and Quantity Obtained"
     },
     {
       "$id": 5319,
       "label": "menu_program_Option12",
       "style": 12,
-      "name": "Marker Display"
+      "name": "Compact Status"
     },
     {
       "$id": 5320,
@@ -32034,7 +32034,7 @@
       "$id": 5337,
       "label": "menu_program_MainMenu_SubTitle11",
       "style": 20,
-      "name": "Global Nemeses"
+      "name": "World Enemies"
     },
     {
       "$id": 5338,
@@ -32070,13 +32070,13 @@
       "$id": 5343,
       "label": "menu_program_PopUp_huge38_02",
       "style": 28,
-      "name": "(Cost is set based on the character's level.)"
+      "name": "(Cost depends on Inner Lv.)"
     },
     {
       "$id": 5344,
       "label": "menu_program_CombatTraining01",
       "style": 17,
-      "name": "Point Attack Menu"
+      "name": "Damage Trial Menu"
     },
     {
       "$id": 5345,
@@ -32100,7 +32100,7 @@
       "$id": 5348,
       "label": "menu_program_CombatTraining05",
       "style": 12,
-      "name": "Duration"
+      "name": "Trial Duration"
     },
     {
       "$id": 5349,
@@ -32112,19 +32112,19 @@
       "$id": 5350,
       "label": "menu_program_CombatTraining07",
       "style": 21,
-      "name": "Set Time Limit"
+      "name": "Trial Duration Settings"
     },
     {
       "$id": 5351,
       "label": "menu_program_CombatTraining08",
       "style": 18,
-      "name": "Party Settings"
+      "name": "Character Settings"
     },
     {
       "$id": 5352,
       "label": "menu_program_CombatTraining09",
       "style": 22,
-      "name": "Exit Simulator"
+      "name": "End Damage Trial"
     },
     {
       "$id": 5353,
@@ -32178,7 +32178,7 @@
       "$id": 5361,
       "label": "menu_program_CombatTraining18",
       "style": 16,
-      "name": "Ground Gear"
+      "name": "Inner Gear"
     },
     {
       "$id": 5362,
@@ -32196,25 +32196,25 @@
       "$id": 5364,
       "label": "menu_program_CombatTraining21",
       "style": 10,
-      "name": "Arts"
+      "name": "Arts Setup"
     },
     {
       "$id": 5365,
       "label": "menu_program_CombatTraining22",
       "style": 10,
-      "name": "Skills"
+      "name": "Skill Setup"
     },
     {
       "$id": 5366,
       "label": "menu_program_CombatTraining23",
       "style": 16,
-      "name": "Classes"
+      "name": "Change Class"
     },
     {
       "$id": 5367,
       "label": "menu_program_CombatTraining24",
       "style": 13,
-      "name": "Soul Voices"
+      "name": "Soul Voice Setup"
     },
     {
       "$id": 5368,
@@ -32226,13 +32226,13 @@
       "$id": 5369,
       "label": "menu_program_CombatTraining26",
       "style": 152,
-      "name": "Exit the Point Attack simulator?"
+      "name": "End the Damage Trial?"
     },
     {
       "$id": 5370,
       "label": "menu_program_CombatTraining27",
       "style": 18,
-      "name": "Challenge Parameters"
+      "name": "Parameter Settings"
     },
     {
       "$id": 5371,
@@ -32334,7 +32334,7 @@
       "$id": 5387,
       "label": "menu_program_CurrentPurpose_Cap07",
       "style": 171,
-      "name": "A story mission can be accepted\nfrom the BLADE Home."
+      "name": "A story quest can be accepted\nfrom the BLADE Home."
     },
     {
       "$id": 5388,
@@ -32346,13 +32346,13 @@
       "$id": 5389,
       "label": "menu_program_SoulStage01",
       "style": 24,
-      "name": "Soul Voice Frequency: "
+      "name": "Soul Voice Trigger Rate: "
     },
     {
       "$id": 5390,
       "label": "menu_program_SoulStage02",
       "style": 20,
-      "name": "Perfect Soul Challenges: "
+      "name": "On Perfect Soul Challenge: "
     },
     {
       "$id": 5391,
@@ -32490,19 +32490,19 @@
       "$id": 5413,
       "label": "menu_program_ArmsCompany108",
       "style": 20,
-      "name": "Upgrading Battle Trait"
+      "name": "Upgrade Affixes"
     },
     {
       "$id": 5414,
       "label": "menu_program_ArmsCompany109",
       "style": 20,
-      "name": "No. of Battle Traits"
+      "name": "No. of Affixes"
     },
     {
       "$id": 5415,
       "label": "menu_program_ArmsCompany110",
       "style": 24,
-      "name": "No armor meets these conditions."
+      "name": "No matching equipment."
     },
     {
       "$id": 5416,
@@ -32526,13 +32526,13 @@
       "$id": 5419,
       "label": "hud_S_AreaTelop03",
       "style": 23,
-      "name": "New unexplored territory discovered"
+      "name": "New Secret Area Discovered"
     },
     {
       "$id": 5420,
       "label": "hud_S_AreaTelop04",
       "style": 20,
-      "name": "New scenic viewpoint discovered"
+      "name": "New Scenic View Discovered"
     },
     {
       "$id": 5421,
@@ -32928,13 +32928,13 @@
       "$id": 5486,
       "label": "menu_program_S_Segment18",
       "style": 16,
-      "name": "Fast Travel"
+      "name": "Skip Travel"
     },
     {
       "$id": 5487,
       "label": "hud_S_AreaTelop13",
       "style": 20,
-      "name": "Region Discovered"
+      "name": "New Zone Discovered"
     },
     {
       "$id": 5488,
@@ -32964,13 +32964,13 @@
       "$id": 5492,
       "label": "menu_program_Filter03",
       "style": 16,
-      "name": "Toggle Filter"
+      "name": "Temporarily Disable"
     },
     {
       "$id": 5493,
       "label": "menu_program_S_Segment19",
       "style": 24,
-      "name": "Show Mission Start Point"
+      "name": "Show Quest Start Location"
     },
     {
       "$id": 5494,
@@ -33000,19 +33000,19 @@
       "$id": 5498,
       "label": "menu_program_CurrentPurpose_Warning03",
       "style": 108,
-      "name": "There is no designated destination for\nthis mission. Navigation cannot be set."
+      "name": "There is no designated destination for\nthis quest. Navigation cannot be set."
     },
     {
       "$id": 5499,
       "label": "menu_program_CurrentPurpose_Warning04",
       "style": 108,
-      "name": "The mission's objective has already\nbeen achieved."
+      "name": "The quest's objective has already\nbeen achieved."
     },
     {
       "$id": 5500,
       "label": "menu_program_CurrentPurpose_Warning05",
       "style": 108,
-      "name": "The mission's navigation target\ncould not be found."
+      "name": "The quest's navigation target\ncould not be found."
     },
     {
       "$id": 5501,
@@ -33030,7 +33030,7 @@
       "$id": 5503,
       "label": "menu_program_CurrentPurpose_Warning08",
       "style": 108,
-      "name": "Precious resources cannot be tracked\nin the navigation panel.\n(Obtain them via FrontierNet.)"
+      "name": "Rare Resources cannot be tracked\nin the navigation panel.\n(Obtain them via FrontierNET.)"
     },
     {
       "$id": 5504,
@@ -33072,31 +33072,31 @@
       "$id": 5510,
       "label": "menu_program_CurrentPurpose_Warning15",
       "style": 108,
-      "name": "You haven't unlocked squad tasks yet."
+      "name": "You haven't unlocked squad missions yet."
     },
     {
       "$id": 5511,
       "label": "menu_program_CurrentPurpose_Warning16",
       "style": 108,
-      "name": "No squad tasks are available.\n(Go online to take part in squad tasks.)"
+      "name": "No squad missions are available.\n(Go online to take part in squad missions.)"
     },
     {
       "$id": 5512,
       "label": "menu_program_CurrentPurpose_Warning17",
       "style": 108,
-      "name": "New squad tasks will be available\nshortly. Please hold..."
+      "name": "New squad missions will be available\nshortly. Please hold..."
     },
     {
       "$id": 5513,
       "label": "menu_program_CurrentPurpose_Warning18",
       "style": 108,
-      "name": "All squad task objectives have already\nbeen achieved."
+      "name": "All squad mission objectives have already\nbeen achieved."
     },
     {
       "$id": 5514,
       "label": "menu_program_CurrentPurpose_Warning19",
       "style": 108,
-      "name": "The squad task's navigation target\ncould not be found."
+      "name": "The squad mission's navigation target\ncould not be found."
     },
     {
       "$id": 5515,
@@ -33138,7 +33138,7 @@
       "$id": 5521,
       "label": "menu_program_PopUp_huge_Choice38",
       "style": 20,
-      "name": "Exit Without Saving"
+      "name": "Exit Avatar Creation"
     },
     {
       "$id": 5522,
@@ -33162,7 +33162,7 @@
       "$id": 5525,
       "label": "menu_program_PopUp_huge96",
       "style": 71,
-      "name": "Close Global Nemesis rewards screen?"
+      "name": "Close World Enemy rewards screen?"
     },
     {
       "$id": 5526,
@@ -33240,7 +33240,7 @@
       "$id": 5538,
       "label": "hud_WorksGuide21",
       "style": 16,
-      "name": "Required Bonding"
+      "name": "Required Bonding Rank"
     },
     {
       "$id": 5539,
@@ -33312,7 +33312,7 @@
       "$id": 5550,
       "label": "menu_program_NewShop103",
       "style": 20,
-      "name": "Buy and Send to Hangar"
+      "name": "Buy and Send to Doll Garage"
     },
     {
       "$id": 5551,
@@ -33324,7 +33324,7 @@
       "$id": 5552,
       "label": "menu_program_AchieveList_Empty",
       "style": 24,
-      "name": "No achievements to display."
+      "name": "No awards to display."
     },
     {
       "$id": 5553,
@@ -33366,13 +33366,13 @@
       "$id": 5559,
       "label": "hud_ReturnLandmark06",
       "style": 19,
-      "name": "Time Until Forced Withdrawal:"
+      "name": "Time Until Forced Return:"
     },
     {
       "$id": 5560,
       "label": "menu_program_PopUp_huge_Choice40",
       "style": 16,
-      "name": "Wait Until Forced"
+      "name": "Wait for Forced Return"
     },
     {
       "$id": 5561,

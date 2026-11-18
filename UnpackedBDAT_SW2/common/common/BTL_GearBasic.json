@@ -1,0 +1,69 @@
+{
+  "schema": [
+    {
+      "name": "ID",
+      "type": 9
+    },
+    {
+      "name": "NeedDM",
+      "type": 2
+    },
+    {
+      "name": "Life",
+      "type": 2
+    },
+    {
+      "name": "FewLife",
+      "type": 2
+    },
+    {
+      "name": "MaxCount",
+      "type": 1
+    },
+    {
+      "name": "RecastBase",
+      "type": 2
+    },
+    {
+      "name": "RecastAccel",
+      "type": 2
+    },
+    {
+      "name": "BlurBase",
+      "type": 1
+    },
+    {
+      "name": "BlurAdd",
+      "type": 1
+    },
+    {
+      "name": "BlurLife",
+      "type": 1
+    },
+    {
+      "name": "SlashBase",
+      "type": 2
+    },
+    {
+      "name": "SlashAccel",
+      "type": 2
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "ID": "EXPORT",
+      "NeedDM": 3000,
+      "Life": 25000,
+      "FewLife": 5000,
+      "MaxCount": 100,
+      "RecastBase": 250,
+      "RecastAccel": 25,
+      "BlurBase": 10,
+      "BlurAdd": 2,
+      "BlurLife": 30,
+      "SlashBase": 150,
+      "SlashAccel": 2
+    }
+  ]
+}

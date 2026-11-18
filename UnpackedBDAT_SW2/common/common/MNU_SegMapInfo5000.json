@@ -1,0 +1,462 @@
+{
+  "schema": [
+    {
+      "name": "ID",
+      "type": 9
+    },
+    {
+      "name": "infoID",
+      "type": 2
+    },
+    {
+      "name": "type",
+      "type": 1
+    },
+    {
+      "name": "icon",
+      "type": 1
+    },
+    {
+      "name": "flag",
+      "type": 2
+    },
+    {
+      "name": "posX",
+      "type": 8
+    },
+    {
+      "name": "posY",
+      "type": 8
+    },
+    {
+      "name": "posZ",
+      "type": 8
+    },
+    {
+      "name": "offsetX",
+      "type": 8
+    },
+    {
+      "name": "offsetY",
+      "type": 8
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "ID": "POINT_END_TAG",
+      "infoID": 0,
+      "type": 0,
+      "icon": 0,
+      "flag": 0,
+      "posX": 0.0,
+      "posY": 0.0,
+      "posZ": 0.0,
+      "offsetX": 0.0,
+      "offsetY": 0.0
+    },
+    {
+      "$id": 2,
+      "ID": "EVENT_POINT_17",
+      "infoID": 1,
+      "type": 3,
+      "icon": 6,
+      "flag": 0,
+      "posX": 0.0,
+      "posY": 1.3260061740875244,
+      "posZ": -4.998000144958496,
+      "offsetX": 0.0,
+      "offsetY": 0.0
+    },
+    {
+      "$id": 3,
+      "ID": "EVENT_POINT_18",
+      "infoID": 18,
+      "type": 3,
+      "icon": 6,
+      "flag": 0,
+      "posX": 5.2789998054504395,
+      "posY": 0.9784969687461853,
+      "posZ": -43.97800064086914,
+      "offsetX": 0.0,
+      "offsetY": 0.0
+    },
+    {
+      "$id": 4,
+      "ID": "EVENT_POINT_19",
+      "infoID": 19,
+      "type": 3,
+      "icon": 8,
+      "flag": 21,
+      "posX": -10.545999526977539,
+      "posY": -1.564286231994629,
+      "posZ": 24.062000274658203,
+      "offsetX": 0.0,
+      "offsetY": 0.0
+    },
+    {
+      "$id": 5,
+      "ID": "EVENT_POINT_20",
+      "infoID": 20,
+      "type": 3,
+      "icon": 9,
+      "flag": 21,
+      "posX": -14.890999794006348,
+      "posY": -1.5643362998962402,
+      "posZ": 24.062000274658203,
+      "offsetX": 0.0,
+      "offsetY": 0.0
+    },
+    {
+      "$id": 6,
+      "ID": "EVENT_POINT_21",
+      "infoID": 22,
+      "type": 3,
+      "icon": 2,
+      "flag": 0,
+      "posX": -4.800000190734863,
+      "posY": 1.7799999713897705,
+      "posZ": -9.920000076293945,
+      "offsetX": 0.0,
+      "offsetY": 0.0
+    },
+    {
+      "$id": 7,
+      "ID": "EVENT_POINT_22",
+      "infoID": 25,
+      "type": 3,
+      "icon": 3,
+      "flag": 0,
+      "posX": -19.25,
+      "posY": 1.25,
+      "posZ": 13.84000015258789,
+      "offsetX": 0.0,
+      "offsetY": 0.0
+    },
+    {
+      "$id": 8,
+      "ID": "EVENT_POINT_23",
+      "infoID": 26,
+      "type": 3,
+      "icon": 3,
+      "flag": 0,
+      "posX": 19.34000015258789,
+      "posY": 1.5,
+      "posZ": -39.20500183105469,
+      "offsetX": 0.0,
+      "offsetY": 0.0
+    },
+    {
+      "$id": 9,
+      "ID": "GUIDE_POINT_25",
+      "infoID": 58,
+      "type": 4,
+      "icon": 5,
+      "flag": 736,
+      "posX": 14.550000190734863,
+      "posY": 1.7999999523162842,
+      "posZ": 4.0,
+      "offsetX": 0.0,
+      "offsetY": 0.0
+    },
+    {
+      "$id": 10,
+      "ID": "GUIDE_POINT_26",
+      "infoID": 59,
+      "type": 4,
+      "icon": 5,
+      "flag": 737,
+      "posX": 14.55000114440918,
+      "posY": 1.8000009059906006,
+      "posZ": 3.999999523162842,
+      "offsetX": 0.0,
+      "offsetY": 0.0
+    },
+    {
+      "$id": 11,
+      "ID": "GUIDE_POINT_27",
+      "infoID": 60,
+      "type": 4,
+      "icon": 5,
+      "flag": 738,
+      "posX": 14.55000114440918,
+      "posY": 1.8000009059906006,
+      "posZ": 3.999999523162842,
+      "offsetX": 0.0,
+      "offsetY": 0.0
+    },
+    {
+      "$id": 12,
+      "ID": "GUIDE_POINT_28",
+      "infoID": 61,
+      "type": 4,
+      "icon": 5,
+      "flag": 739,
+      "posX": 14.55000114440918,
+      "posY": 1.8000009059906006,
+      "posZ": 3.999999523162842,
+      "offsetX": 0.0,
+      "offsetY": 0.0
+    },
+    {
+      "$id": 13,
+      "ID": "GUIDE_POINT_29",
+      "infoID": 62,
+      "type": 4,
+      "icon": 5,
+      "flag": 849,
+      "posX": 14.550000190734863,
+      "posY": 1.7999999523162842,
+      "posZ": 4.0,
+      "offsetX": 0.0,
+      "offsetY": 0.0
+    },
+    {
+      "$id": 14,
+      "ID": "GUIDE_POINT_30",
+      "infoID": 63,
+      "type": 4,
+      "icon": 5,
+      "flag": 850,
+      "posX": 14.550000190734863,
+      "posY": 1.7999999523162842,
+      "posZ": 4.0,
+      "offsetX": 0.0,
+      "offsetY": 0.0
+    },
+    {
+      "$id": 15,
+      "ID": "GUIDE_POINT_31",
+      "infoID": 64,
+      "type": 4,
+      "icon": 5,
+      "flag": 851,
+      "posX": 14.550000190734863,
+      "posY": 1.7999999523162842,
+      "posZ": 4.0,
+      "offsetX": 0.0,
+      "offsetY": 0.0
+    },
+    {
+      "$id": 16,
+      "ID": "GUIDE_POINT_32",
+      "infoID": 65,
+      "type": 4,
+      "icon": 5,
+      "flag": 852,
+      "posX": 14.550000190734863,
+      "posY": 1.7999999523162842,
+      "posZ": 4.0,
+      "offsetX": 0.0,
+      "offsetY": 0.0
+    },
+    {
+      "$id": 17,
+      "ID": "GUIDE_POINT_33",
+      "infoID": 66,
+      "type": 4,
+      "icon": 5,
+      "flag": 853,
+      "posX": 14.550000190734863,
+      "posY": 1.7999999523162842,
+      "posZ": 4.0,
+      "offsetX": 0.0,
+      "offsetY": 0.0
+    },
+    {
+      "$id": 18,
+      "ID": "GUIDE_POINT_34",
+      "infoID": 67,
+      "type": 4,
+      "icon": 5,
+      "flag": 854,
+      "posX": 14.550000190734863,
+      "posY": 1.7999999523162842,
+      "posZ": 4.0,
+      "offsetX": 0.0,
+      "offsetY": 0.0
+    },
+    {
+      "$id": 19,
+      "ID": "GUIDE_POINT_35",
+      "infoID": 68,
+      "type": 4,
+      "icon": 5,
+      "flag": 855,
+      "posX": 14.550000190734863,
+      "posY": 1.7999999523162842,
+      "posZ": 4.0,
+      "offsetX": 0.0,
+      "offsetY": 0.0
+    },
+    {
+      "$id": 20,
+      "ID": "GUIDE_POINT_36",
+      "infoID": 69,
+      "type": 4,
+      "icon": 5,
+      "flag": 856,
+      "posX": 14.550000190734863,
+      "posY": 1.7999999523162842,
+      "posZ": 4.0,
+      "offsetX": 0.0,
+      "offsetY": 0.0
+    },
+    {
+      "$id": 21,
+      "ID": "GUIDE_POINT_37",
+      "infoID": 109,
+      "type": 4,
+      "icon": 5,
+      "flag": 3143,
+      "posX": 17.530000686645508,
+      "posY": 2.7499992847442627,
+      "posZ": -4.860000133514404,
+      "offsetX": 0.0,
+      "offsetY": 0.0
+    },
+    {
+      "$id": 22,
+      "ID": "GUIDE_POINT_38",
+      "infoID": 110,
+      "type": 4,
+      "icon": 5,
+      "flag": 3148,
+      "posX": 19.770000457763672,
+      "posY": 2.749999523162842,
+      "posZ": 6.659999847412109,
+      "offsetX": 0.0,
+      "offsetY": 0.0
+    },
+    {
+      "$id": 23,
+      "ID": "GUIDE_POINT_39",
+      "infoID": 111,
+      "type": 4,
+      "icon": 5,
+      "flag": 3150,
+      "posX": -17.25,
+      "posY": 0.8999993801116943,
+      "posZ": -0.07999999821186066,
+      "offsetX": 0.0,
+      "offsetY": 0.0
+    },
+    {
+      "$id": 24,
+      "ID": "GUIDE_POINT_40",
+      "infoID": 112,
+      "type": 4,
+      "icon": 5,
+      "flag": 3151,
+      "posX": -9.279999732971191,
+      "posY": 0.550000011920929,
+      "posZ": 7.179999828338623,
+      "offsetX": 0.0,
+      "offsetY": 0.0
+    },
+    {
+      "$id": 25,
+      "ID": "GUIDE_POINT_41",
+      "infoID": 113,
+      "type": 4,
+      "icon": 5,
+      "flag": 3155,
+      "posX": 12.180000305175781,
+      "posY": 2.7809066772460938,
+      "posZ": 8.390000343322754,
+      "offsetX": 0.0,
+      "offsetY": 0.0
+    },
+    {
+      "$id": 26,
+      "ID": "GUIDE_POINT_42",
+      "infoID": 114,
+      "type": 4,
+      "icon": 5,
+      "flag": 3156,
+      "posX": 2.930000066757202,
+      "posY": 0.9980360269546509,
+      "posZ": 7.960000038146973,
+      "offsetX": 0.0,
+      "offsetY": 0.0
+    },
+    {
+      "$id": 27,
+      "ID": "GUIDE_POINT_43",
+      "infoID": 115,
+      "type": 4,
+      "icon": 5,
+      "flag": 3157,
+      "posX": -9.960000038146973,
+      "posY": 0.5516694188117981,
+      "posZ": 2.9600000381469727,
+      "offsetX": 0.0,
+      "offsetY": 0.0
+    },
+    {
+      "$id": 28,
+      "ID": "GUIDE_POINT_44",
+      "infoID": 116,
+      "type": 4,
+      "icon": 5,
+      "flag": 3161,
+      "posX": 19.770000457763672,
+      "posY": 2.749999523162842,
+      "posZ": 1.1799999475479126,
+      "offsetX": 0.0,
+      "offsetY": 0.0
+    },
+    {
+      "$id": 29,
+      "ID": "GUIDE_POINT_45",
+      "infoID": 117,
+      "type": 4,
+      "icon": 5,
+      "flag": 3162,
+      "posX": -4.989999771118164,
+      "posY": 0.9980360269546509,
+      "posZ": 4.630000114440918,
+      "offsetX": 0.0,
+      "offsetY": 0.0
+    },
+    {
+      "$id": 30,
+      "ID": "GUIDE_POINT_46",
+      "infoID": 118,
+      "type": 4,
+      "icon": 5,
+      "flag": 3164,
+      "posX": -11.130000114440918,
+      "posY": 0.550000011920929,
+      "posZ": 1.309999942779541,
+      "offsetX": 0.0,
+      "offsetY": 0.0
+    },
+    {
+      "$id": 31,
+      "ID": "GUIDE_POINT_47",
+      "infoID": 119,
+      "type": 4,
+      "icon": 5,
+      "flag": 3165,
+      "posX": 7.380000114440918,
+      "posY": 0.9980359673500061,
+      "posZ": 5.650000095367432,
+      "offsetX": 0.0,
+      "offsetY": 0.0
+    },
+    {
+      "$id": 32,
+      "ID": "GUIDE_POINT_48",
+      "infoID": 120,
+      "type": 4,
+      "icon": 5,
+      "flag": 3166,
+      "posX": 2.5999999046325684,
+      "posY": 1.0120437145233154,
+      "posZ": -6.03000020980835,
+      "offsetX": 0.0,
+      "offsetY": 0.0
+    }
+  ]
+}

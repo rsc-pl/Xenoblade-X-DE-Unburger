@@ -1,0 +1,111 @@
+{
+  "schema": [
+    {
+      "name": "ID",
+      "type": 9
+    },
+    {
+      "name": "Union",
+      "type": 1
+    },
+    {
+      "name": "UnionBuff",
+      "type": 1
+    },
+    {
+      "name": "CoolTime",
+      "type": 1
+    },
+    {
+      "name": "Target",
+      "type": 1
+    },
+    {
+      "name": "TimeOffset",
+      "type": 1
+    }
+  ],
+  "rows": [
+    {
+      "$id": 0,
+      "ID": "UNI_00",
+      "Union": 0,
+      "UnionBuff": 0,
+      "CoolTime": 0,
+      "Target": 0,
+      "TimeOffset": 0
+    },
+    {
+      "$id": 1,
+      "ID": "UNI_01",
+      "Union": 1,
+      "UnionBuff": 225,
+      "CoolTime": 30,
+      "Target": 0,
+      "TimeOffset": 18
+    },
+    {
+      "$id": 2,
+      "ID": "UNI_02",
+      "Union": 2,
+      "UnionBuff": 226,
+      "CoolTime": 30,
+      "Target": 0,
+      "TimeOffset": 6
+    },
+    {
+      "$id": 3,
+      "ID": "UNI_03",
+      "Union": 3,
+      "UnionBuff": 227,
+      "CoolTime": 30,
+      "Target": 0,
+      "TimeOffset": 9
+    },
+    {
+      "$id": 4,
+      "ID": "UNI_04",
+      "Union": 4,
+      "UnionBuff": 228,
+      "CoolTime": 30,
+      "Target": 0,
+      "TimeOffset": 0
+    },
+    {
+      "$id": 5,
+      "ID": "UNI_05",
+      "Union": 5,
+      "UnionBuff": 229,
+      "CoolTime": 30,
+      "Target": 0,
+      "TimeOffset": 15
+    },
+    {
+      "$id": 6,
+      "ID": "UNI_06",
+      "Union": 6,
+      "UnionBuff": 230,
+      "CoolTime": 30,
+      "Target": 0,
+      "TimeOffset": 3
+    },
+    {
+      "$id": 7,
+      "ID": "UNI_07",
+      "Union": 7,
+      "UnionBuff": 231,
+      "CoolTime": 30,
+      "Target": 0,
+      "TimeOffset": 21
+    },
+    {
+      "$id": 8,
+      "ID": "UNI_08",
+      "Union": 8,
+      "UnionBuff": 232,
+      "CoolTime": 30,
+      "Target": 0,
+      "TimeOffset": 12
+    }
+  ]
+}

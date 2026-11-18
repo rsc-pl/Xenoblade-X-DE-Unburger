@@ -1,0 +1,666 @@
+{
+  "schema": [
+    {
+      "name": "label",
+      "type": 9
+    },
+    {
+      "name": "style",
+      "type": 2
+    },
+    {
+      "name": "name",
+      "type": 7
+    }
+  ],
+  "rows": [
+    {
+      "$id": 1,
+      "label": "qev031101_MSG0001",
+      "style": 1,
+      "name": "Hey, Earthling... You're a BLADE, right?\nI have a favor to ask you... But before\nthat, there's one thing I need to ask.[ST:wait ]"
+    },
+    {
+      "$id": 2,
+      "label": "qev031101_MSG0002",
+      "style": 1,
+      "name": "...Are you someone who values trees? Do\nyou feel the life flowing within them?[ST:wait ]"
+    },
+    {
+      "$id": 3,
+      "label": "qev031101_JNK0010",
+      "style": 4,
+      "name": "Affirmation"
+    },
+    {
+      "$id": 4,
+      "label": "qev031101_SEL0011",
+      "style": 3,
+      "name": "Say that nature must be treated with care."
+    },
+    {
+      "$id": 5,
+      "label": "qev031101_JNK0020",
+      "style": 4,
+      "name": "Denial"
+    },
+    {
+      "$id": 6,
+      "label": "qev031101_SEL0021",
+      "style": 3,
+      "name": "State that trees are nothing more than mere resources."
+    },
+    {
+      "$id": 7,
+      "label": "qev031101_MSG0003",
+      "style": 1,
+      "name": "Those words... They don't seem\nto be a lie. I will trust you.[ST:wait ]"
+    },
+    {
+      "$id": 8,
+      "label": "qev031101_MSG0004",
+      "style": 1,
+      "name": "...Then disappear.[ST:wait ]"
+    },
+    {
+      "$id": 9,
+      "label": "qev031101_MSG0005",
+      "style": 1,
+      "name": "I cannot entrust a single fragment of\nhope... that I protected by putting my\nlife on the line, to someone like you.[ST:wait ]"
+    },
+    {
+      "$id": 10,
+      "label": "qev031101_MSG0006",
+      "style": 1,
+      "name": "I am the protector of the Great\nTree, Naz Tenikamonkey...[ST:wait ]"
+    },
+    {
+      "$id": 11,
+      "label": "qev031101_MSG0007",
+      "style": 1,
+      "name": "I want you to help me nurture a\nGreat Tree from this single seed.[ST:wait ]"
+    },
+    {
+      "$id": 12,
+      "label": "qev031101_MSG0008",
+      "style": 1,
+      "name": "...Can I give you the details\nafter you accept the request?[ST:wait ]"
+    },
+    {
+      "$id": 13,
+      "label": "qev031101_MSG0009",
+      "style": 1,
+      "name": "It's the seed of the Great Tree I've\nprotected with my life. I can't carelessly\nleak the story and expose it to danger...[ST:wait ]"
+    },
+    {
+      "$id": 14,
+      "label": "qev031101_MSG0010",
+      "style": 1,
+      "name": "Phew... I'm glad I called out to you. There\nare some good-for-nothings among Earthlings,\ntoo, so it was an all-or-nothing gamble.[ST:wait ]"
+    },
+    {
+      "$id": 15,
+      "label": "qev031101_JNK0030",
+      "style": 4,
+      "name": "Worry"
+    },
+    {
+      "$id": 16,
+      "label": "qev031101_SEL0031",
+      "style": 3,
+      "name": "Ask Naza what happened to her."
+    },
+    {
+      "$id": 17,
+      "label": "qev031101_JNK0040",
+      "style": 4,
+      "name": "Inquire"
+    },
+    {
+      "$id": 18,
+      "label": "qev031101_SEL0041",
+      "style": 3,
+      "name": "Ask for details regarding the Great Tree."
+    },
+    {
+      "$id": 19,
+      "label": "qev031101_MSG0011",
+      "style": 1,
+      "name": "I've faced danger over and over to protect\nthis seed from those Growth bastards.[ST:wait ]"
+    },
+    {
+      "$id": 20,
+      "label": "qev031101_MSG0012",
+      "style": 1,
+      "name": "...But that doesn't matter. As long\nas I can protect the Great Tree, I\ndon't care what happens to my body.[ST:wait ]"
+    },
+    {
+      "$id": 21,
+      "label": "qev031101_MSG0013",
+      "style": 1,
+      "name": "That's why, when the Growth attacked\nour homeland and burned the trees\nhousing the Great One...[ST:wait ]"
+    },
+    {
+      "$id": 22,
+      "label": "qev031101_MSG0014",
+      "style": 1,
+      "name": "I embedded this single seed inside my\nbody and survived to this very day.[ST:wait ]"
+    },
+    {
+      "$id": 23,
+      "label": "qev031101_MSG0015",
+      "style": 1,
+      "name": "It was all to let the lost Great\nTree take root in a new land...[ST:wait ]"
+    },
+    {
+      "$id": 24,
+      "label": "qev031101_MSG0016",
+      "style": 1,
+      "name": "All that's left is to plant this\nseed in the earth here, and my\nmission will be fulfilled...[ST:wait ]"
+    },
+    {
+      "$id": 25,
+      "label": "qev031101_MSG0017",
+      "style": 1,
+      "name": "The Great Tree houses the Great\nOne, and the Great One protects\nthe Tree Clan of that settlement.[ST:wait ]"
+    },
+    {
+      "$id": 26,
+      "label": "qev031101_MSG0018",
+      "style": 1,
+      "name": "That's why we carefully,\ncarefully nurture the Great\nTree in each of our settlements.[ST:wait ]"
+    },
+    {
+      "$id": 27,
+      "label": "qev031101_MSG0019",
+      "style": 1,
+      "name": "...But those Growth bastards\nthoroughly burned the Great\nTrees to destroy our foundation.[ST:wait ]"
+    },
+    {
+      "$id": 28,
+      "label": "qev031101_MSG0020",
+      "style": 1,
+      "name": "The tree protectors who defied them were massacred. In\nthe end, even our comrades began burning the trees\nthemselves, deciding their own lives were more important...[ST:wait ]"
+    },
+    {
+      "$id": 29,
+      "label": "qev031101_MSG0021",
+      "style": 1,
+      "name": "That's why I embedded this single seed\ninside my body and slipped past their\neyes to survive and make it here.[ST:wait ]"
+    },
+    {
+      "$id": 30,
+      "label": "qev031101_MSG0022",
+      "style": 1,
+      "name": "It was a long journey to reach this place, but...\nAll that's left is to plant this seed in the earth\nhere, and my mission will be fulfilled...[ST:wait ]"
+    },
+    {
+      "$id": 31,
+      "label": "qev031101_MSG0023",
+      "style": 1,
+      "name": "However, things are different from our homeland,\nand I'm worried if it'll grow properly... I\nwant to borrow the wisdom of other aliens.[ST:wait ]"
+    },
+    {
+      "$id": 32,
+      "label": "qev031101_MSG0024",
+      "style": 1,
+      "name": "So first, I want you to find an alien\nwho is knowledgeable about trees and\nask them how to grow trees on Mira.[ST:wait ]"
+    },
+    {
+      "$id": 33,
+      "label": "qev031101_JNK0050",
+      "style": 4,
+      "name": "Accept"
+    },
+    {
+      "$id": 34,
+      "label": "qev031101_SEL0051",
+      "style": 3,
+      "name": "Promise to handle everything."
+    },
+    {
+      "$id": 35,
+      "label": "qev031101_JNK0060",
+      "style": 4,
+      "name": "Question"
+    },
+    {
+      "$id": 36,
+      "label": "qev031101_SEL0061",
+      "style": 3,
+      "name": "Ask about any aliens who might be knowledgeable about trees."
+    },
+    {
+      "$id": 37,
+      "label": "qev031101_MSG0025",
+      "style": 1,
+      "name": "Thank you. There might even be some Bias\nwho have forgotten about this, but...[ST:wait ]"
+    },
+    {
+      "$id": 38,
+      "label": "qev031101_MSG0026",
+      "style": 1,
+      "name": "In order for us to survive, the\nprotection of the Great One residing\nin the trees is absolutely necessary.[ST:wait ]"
+    },
+    {
+      "$id": 39,
+      "label": "qev031101_MSG0027",
+      "style": 1,
+      "name": "Even Earthlings wouldn't be able to keep\ngoing when push comes to shove without a\nfinal foundation to rely on, right?[ST:wait ]"
+    },
+    {
+      "$id": 40,
+      "label": "qev031101_MSG0028",
+      "style": 1,
+      "name": "I've heard that those guys called\nMa-non and Orpheans have outstanding\nscientific capabilities, though.[ST:wait ]"
+    },
+    {
+      "$id": 41,
+      "label": "qev031101_MSG0029",
+      "style": 1,
+      "name": "Sorry, I don't really know the details either.\nIt would be best if there was someone like a\nbotanist... Well, just try searching around.[ST:wait ]"
+    },
+    {
+      "$id": 42,
+      "label": "qev031101_MSG0030",
+      "style": 1,
+      "name": "I'm counting on you. The fate of the\nBias rests on this single seed.[ST:wait ]"
+    },
+    {
+      "$id": 43,
+      "label": "qev031101_MSG0031",
+      "style": 1,
+      "name": "Please ask a smart alien about\nhow to grow trees on Mira.[ST:wait ]"
+    },
+    {
+      "$id": 44,
+      "label": "qev031101_MSG0032",
+      "style": 1,
+      "name": "...Also, if there's a surefire method\nto grow the Great Tree, I want you to\nfetch whatever is needed for it.[ST:wait ]"
+    },
+    {
+      "$id": 45,
+      "label": "qev031101_MSG0033",
+      "style": 1,
+      "name": "I only have one seed... I\nabsolutely cannot afford to fail.[ST:wait ]"
+    },
+    {
+      "$id": 46,
+      "label": "qev031101_MSG0034",
+      "style": 1,
+      "name": "I also heard how to grow trees from\nthis Sensei. I just need something\ncalled Deformed Tree Nectar, right?[ST:wait ]"
+    },
+    {
+      "$id": 47,
+      "label": "qev031101_MSG0035",
+      "style": 1,
+      "name": "Hey, I'm counting on you.\nHead to the Divine Roost and\nfetch that for me, alright?[ST:wait ]"
+    },
+    {
+      "$id": 48,
+      "label": "qev031101_MSG0036",
+      "style": 1,
+      "name": "This Orphean Sensei taught me all sorts of things.\nIt seems the Great Tree will grow big in no time\nas long as we have Deformed Tree Nectar.[ST:wait ]"
+    },
+    {
+      "$id": 49,
+      "label": "qev031101_MSG0037",
+      "style": 1,
+      "name": "...Hey, you don't happen to\nhave any on you, do you?[ST:wait ]"
+    },
+    {
+      "$id": 50,
+      "label": "qev031101_MSG0038",
+      "style": 1,
+      "name": "Hmm... Will something\nlike this really work?[ST:wait ]"
+    },
+    {
+      "$id": 51,
+      "label": "qev031101_MSG0039",
+      "style": 1,
+      "name": "It will succeed with a 99.86%\nprobability. The chance of the nectar\nbeing ineffective is extremely low.[ST:wait ]"
+    },
+    {
+      "$id": 52,
+      "label": "qev031101_MSG0040",
+      "style": 1,
+      "name": "He says some complicated things, but\nhe doesn't seem to be a bad person.[ST:wait ]"
+    },
+    {
+      "$id": 53,
+      "label": "qev031101_MSG0041",
+      "style": 1,
+      "name": "...Hey, do you think I should\ntrust what this Sensei is saying?[ST:wait ]"
+    },
+    {
+      "$id": 54,
+      "label": "qev031101_JNK0070",
+      "style": 4,
+      "name": "Affirmation"
+    },
+    {
+      "$id": 55,
+      "label": "qev031101_SEL0071",
+      "style": 3,
+      "name": "Say that Mon'boiton is trustworthy."
+    },
+    {
+      "$id": 56,
+      "label": "qev031101_JNK0080",
+      "style": 4,
+      "name": "Denial"
+    },
+    {
+      "$id": 57,
+      "label": "qev031101_SEL0081",
+      "style": 3,
+      "name": "Say that Mon'boiton seems suspicious."
+    },
+    {
+      "$id": 58,
+      "label": "qev031101_MSG0042",
+      "style": 1,
+      "name": "Yeah, you're right. He's been caring about this\nlike it's his own problem from the start.\nThere's no way a Sensei like this would lie.[ST:wait ]"
+    },
+    {
+      "$id": 59,
+      "label": "qev031101_MSG0043",
+      "style": 1,
+      "name": "...Alright! Then let's use this right\naway to try and grow the Great Tree![ST:wait ]"
+    },
+    {
+      "$id": 60,
+      "label": "qev031101_MSG0044",
+      "style": 1,
+      "name": "I see... Well, if the seed ends\nup ruined because of this guy...[ST:wait ]"
+    },
+    {
+      "$id": 61,
+      "label": "qev031101_MSG0045",
+      "style": 1,
+      "name": "I'll just beat this Sensei until\nhe can't stand up anymore.[ST:wait ]"
+    },
+    {
+      "$id": 62,
+      "label": "qev031101_MSG0046",
+      "style": 1,
+      "name": "The probability of that is zero.\nTherefore, such a threat is meaningless.[ST:wait ]"
+    },
+    {
+      "$id": 63,
+      "label": "qev031101_MSG0047",
+      "style": 1,
+      "name": "...Alright, got it! Let's use this\nto try and grow the Great Tree![ST:wait ]"
+    },
+    {
+      "$id": 64,
+      "label": "qev031101_MSG0048",
+      "style": 1,
+      "name": "Is this good, Sensei?[ST:wait ]"
+    },
+    {
+      "$id": 65,
+      "label": "qev031101_MSG0049",
+      "style": 1,
+      "name": "Yes, there are no problems. If we wait a\nshort while, it will sprout right up.[ST:wait ]"
+    },
+    {
+      "$id": 66,
+      "label": "qev031101_MSG0050",
+      "style": 1,
+      "name": "Amazing! It really is sprouting!\nAt this rate, it'll be a Great\nTree by tomorrow...[ST:wait ]"
+    },
+    {
+      "$id": 67,
+      "label": "qev031101_MSG0051",
+      "style": 1,
+      "name": "The Great One will be\nresurrected here in NLA![ST:wait ]"
+    },
+    {
+      "$id": 68,
+      "label": "qev031101_MSG0052",
+      "style": 1,
+      "name": "Hmm, this is quite a peculiar tree. Well\nthen, let us partake of it at once.[ST:wait ]"
+    },
+    {
+      "$id": 69,
+      "label": "qev031101_MSG0053",
+      "style": 1,
+      "name": "...What!![ST:wait ]"
+    },
+    {
+      "$id": 70,
+      "label": "qev031101_MSG0054",
+      "style": 1,
+      "name": "As expected, a freshly sprouted tree\nis wonderfully crisp and fresh.[ST:wait ]"
+    },
+    {
+      "$id": 71,
+      "label": "qev031101_JNK0090",
+      "style": 4,
+      "name": "Affirmation"
+    },
+    {
+      "$id": 72,
+      "label": "qev031101_SEL0091",
+      "style": 3,
+      "name": "Nod in agreement."
+    },
+    {
+      "$id": 73,
+      "label": "qev031101_JNK0100",
+      "style": 4,
+      "name": "Suggestion"
+    },
+    {
+      "$id": 74,
+      "label": "qev031101_SEL0101",
+      "style": 3,
+      "name": "Suggest that he should probably apologize."
+    },
+    {
+      "$id": 75,
+      "label": "qev031101_MSG0056",
+      "style": 1,
+      "name": "Yes, thank you for the meal. It was a\nGreat Tree with quite a bizarre flavor.[ST:wait ]"
+    },
+    {
+      "$id": 76,
+      "label": "qev031101_MSG0057",
+      "style": 1,
+      "name": "Pardon? That is a word used to show\nremorse, yes? I do not understand the\nmeaning of using it at this timing.[ST:wait ]"
+    },
+    {
+      "$id": 77,
+      "label": "qev031101_MSG0058",
+      "style": 1,
+      "name": "Hey, YOU!! What the hell are you doing?!\nWhy did you eat the Great Tree?![ST:wait ]"
+    },
+    {
+      "$id": 78,
+      "label": "qev031101_MSG0059",
+      "style": 1,
+      "name": "Plants exist in order to be eaten.\nThere is no other meaning to them.[ST:wait ]"
+    },
+    {
+      "$id": 79,
+      "label": "qev031101_MSG0060",
+      "style": 1,
+      "name": "...Pardon? Why are you so angry...\nWere you hungry as well?[ST:wait ]"
+    },
+    {
+      "$id": 80,
+      "label": "qev031101_MSG0061",
+      "style": 1,
+      "name": "Guh! Gwaaaargh![ST:wait ]"
+    },
+    {
+      "$id": 81,
+      "label": "qev031101_MSG0062",
+      "style": 1,
+      "name": "...In other words, you believe that\nsomething defined as a god resides\nwithin that tree from earlier, correct?[ST:wait ]"
+    },
+    {
+      "$id": 82,
+      "label": "qev031101_MSG0063",
+      "style": 1,
+      "name": "However, that is a nonsensical idea, you see?\nListen closely. As a botanist, I have continuously\ninvestigated various trees up until now.[ST:wait ]"
+    },
+    {
+      "$id": 83,
+      "label": "qev031101_MSG0064",
+      "style": 1,
+      "name": "Yet, not once has anything like\na god ever been discovered\nwithin them. That is a fact.[ST:wait ]"
+    },
+    {
+      "$id": 84,
+      "label": "qev031101_MSG0065",
+      "style": 1,
+      "name": "...I see, I understand. Among us Tree\nClan, there's a legend that on the verge\nof death, we can meet the Great One.[ST:wait ]"
+    },
+    {
+      "$id": 85,
+      "label": "qev031101_MSG0066",
+      "style": 1,
+      "name": "Since there's no meaning in me living anymore\nanyway, I'll kill you, and I'll die too. Let's\nconduct that... investigation of yours, shall we?[ST:wait ]"
+    },
+    {
+      "$id": 86,
+      "label": "qev031101_MSG0067",
+      "style": 1,
+      "name": "Ah... My Ovah is clamoring that\nit is not yet time to die.[ST:wait ]"
+    },
+    {
+      "$id": 87,
+      "label": "qev031101_MSG0068",
+      "style": 1,
+      "name": "...You there, Earthling. Don't you\nthink you should stop the tragedy\nthat is about to occur right now?[ST:wait ]"
+    },
+    {
+      "$id": 88,
+      "label": "qev031101_JNK0110",
+      "style": 4,
+      "name": "Explain"
+    },
+    {
+      "$id": 89,
+      "label": "qev031101_SEL0111",
+      "style": 3,
+      "name": "Carefully explain the mistake Mon'boiton made and urge him to reflect on it.[ST:wait ]"
+    },
+    {
+      "$id": 90,
+      "label": "qev031101_JNK0120",
+      "style": 4,
+      "name": "Persuade"
+    },
+    {
+      "$id": 91,
+      "label": "qev031101_SEL0121",
+      "style": 3,
+      "name": "Tell the enraged Naza that you should talk things out."
+    },
+    {
+      "$id": 92,
+      "label": "qev031101_MSG0069",
+      "style": 1,
+      "name": "...I see. Your explanation\nis very easy to understand.[ST:wait ]"
+    },
+    {
+      "$id": 93,
+      "label": "qev031101_MSG0070",
+      "style": 1,
+      "name": "So her treating that tree as\nsacred is... similar to the\nfeelings we hold towards our Ovah...[ST:wait ]"
+    },
+    {
+      "$id": 94,
+      "label": "qev031101_MSG0071",
+      "style": 1,
+      "name": "But he ate it! The final... Great\nTree that we've passed down from\ngeneration to generation![ST:wait ]"
+    },
+    {
+      "$id": 95,
+      "label": "qev031101_MSG0072",
+      "style": 1,
+      "name": "There's no room for talking! There's\nno way I can ever forgive him![ST:wait ]"
+    },
+    {
+      "$id": 96,
+      "label": "qev031101_MSG0073",
+      "style": 1,
+      "name": "Passed down from generation to\ngeneration...? Could it be that this\nis something similar to our Ovah?[ST:wait ]"
+    },
+    {
+      "$id": 97,
+      "label": "qev031101_MSG0074",
+      "style": 1,
+      "name": "I see...[ST:wait ]"
+    },
+    {
+      "$id": 98,
+      "label": "qev031101_MSG0075",
+      "style": 1,
+      "name": "I have done something terrible... I\nhave finally grasped the situation.[ST:wait ]"
+    },
+    {
+      "$id": 99,
+      "label": "qev031101_MSG0076",
+      "style": 1,
+      "name": "...I apologize most deeply. I will\nregenerate your tree for you.[ST:wait ]"
+    },
+    {
+      "$id": 100,
+      "label": "qev031101_MSG0077",
+      "style": 1,
+      "name": "Wh... You can do that?[ST:wait ]"
+    },
+    {
+      "$id": 101,
+      "label": "qev031101_MSG0078",
+      "style": 1,
+      "name": "Yes, for that is my profession. By partaking of it\nearlier, I was able to analyze its components. As long\nas I have the materials, it will be a simple task.[ST:wait ]"
+    },
+    {
+      "$id": 102,
+      "label": "qev031101_MSG0079",
+      "style": 1,
+      "name": "Zeze Plantain and a\nBranch of Longevity...[ST:wait ]"
+    },
+    {
+      "$id": 103,
+      "label": "qev031101_MSG0080",
+      "style": 1,
+      "name": "If you retrieve these for me, I\nwill regenerate your Great Tree\nhere with a 99.12% probability.[ST:wait ]"
+    },
+    {
+      "$id": 104,
+      "label": "qev031101_MSG0081",
+      "style": 1,
+      "name": "Zeze Plantain and a Branch of\nLongevity... Fetch those for me, okay...[ST:wait ]"
+    },
+    {
+      "$id": 105,
+      "label": "qev031101_MSG0082",
+      "style": 1,
+      "name": "If he says he can fix it, I'll test it out.\nIf it doesn't go back to normal, I'll go\nwith him on that... investigation of his.[ST:wait ]"
+    },
+    {
+      "$id": 106,
+      "label": "qev031101_MSG0083",
+      "style": 1,
+      "name": "There was an Orphean staring at\nus intently just a while ago.[ST:wait ]"
+    },
+    {
+      "$id": 107,
+      "label": "qev031101_MSG0084",
+      "style": 1,
+      "name": "It seems he's still wandering\naround this area, but... I've got\na really bad feeling about this.[ST:wait ]"
+    },
+    {
+      "$id": 108,
+      "label": "qev031101_MSG0085",
+      "style": 1,
+      "name": "This feeling... It might be a\nmessage from the Great One.[ST:wait ]"
+    }
+  ]
+}

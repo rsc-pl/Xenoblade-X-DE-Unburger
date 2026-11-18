@@ -18,13 +18,13 @@
       "$id": 1,
       "label": "SVT_P01_TriggerName",
       "style": 19,
-      "name": "Draw Melee"
+      "name": "Melee Draw"
     },
     {
       "$id": 2,
       "label": "SVT_P02_TriggerName",
       "style": 19,
-      "name": "Draw Ranged"
+      "name": "Ranged Draw"
     },
     {
       "$id": 3,
@@ -42,73 +42,73 @@
       "$id": 5,
       "label": "SVT_P05_TriggerName",
       "style": 19,
-      "name": "HP Peril"
+      "name": "High HP Risk"
     },
     {
       "$id": 6,
       "label": "SVT_P06_TriggerName",
       "style": 19,
-      "name": "Last Words"
+      "name": "Incapacitation"
     },
     {
       "$id": 7,
       "label": "SVT_P07_TriggerName",
       "style": 19,
-      "name": "Heavy Hitter"
+      "name": "Critical Chance"
     },
     {
       "$id": 8,
       "label": "SVT_P08_TriggerName",
       "style": 19,
-      "name": "Dismemberer"
+      "name": "Part Destruction"
     },
     {
       "$id": 9,
       "label": "SVT_P09_TriggerName",
       "style": 19,
-      "name": "Underdog"
+      "name": "Big Attack"
     },
     {
       "$id": 10,
       "label": "SVT_P10_TriggerName",
       "style": 19,
-      "name": "Artful Execution"
+      "name": "Arts Special Effect"
     },
     {
       "$id": 11,
       "label": "SVT_P11_TriggerName",
       "style": 19,
-      "name": "Aura Ready"
+      "name": "Aura Activation"
     },
     {
       "$id": 12,
       "label": "SVT_P12_TriggerName",
       "style": 19,
-      "name": "Activate Overclock"
+      "name": "Overclock Activation"
     },
     {
       "$id": 13,
       "label": "SVT_C01_TriggerName",
       "style": 19,
-      "name": "Finishing Blow"
+      "name": "Final Attack"
     },
     {
       "$id": 14,
       "label": "SVT_C02_TriggerName",
       "style": 19,
-      "name": "Untouchable"
+      "name": "Mind's Eye"
     },
     {
       "$id": 15,
       "label": "SVT_C03_TriggerName",
       "style": 19,
-      "name": "Critical Combination"
+      "name": "Critical Zone"
     },
     {
       "$id": 16,
       "label": "SVT_C04_TriggerName",
       "style": 19,
-      "name": "Wayward Weather"
+      "name": "Weather Change"
     },
     {
       "$id": 17,
@@ -120,13 +120,13 @@
       "$id": 18,
       "label": "SVT_C06_TriggerName",
       "style": 19,
-      "name": "Medicine Man"
+      "name": "Backup Man"
     },
     {
       "$id": 19,
       "label": "SVT_C07_TriggerName",
       "style": 19,
-      "name": "Medicine Woman"
+      "name": "Backup Lady"
     },
     {
       "$id": 20,
@@ -144,43 +144,43 @@
       "$id": 22,
       "label": "SVT_C10_TriggerName",
       "style": 19,
-      "name": "Toppler"
+      "name": "Topple Attack"
     },
     {
       "$id": 23,
       "label": "SVT_C11_TriggerName",
       "style": 19,
-      "name": "Stunner"
+      "name": "Stun Attack"
     },
     {
       "$id": 24,
       "label": "SVT_C12_TriggerName",
       "style": 19,
-      "name": "Sandman"
+      "name": "Sleep Attack"
     },
     {
       "$id": 25,
       "label": "SVT_C13_TriggerName",
       "style": 19,
-      "name": "Binder"
+      "name": "Catch Attack"
     },
     {
       "$id": 26,
       "label": "SVT_C14_TriggerName",
       "style": 19,
-      "name": "Doll Crush"
+      "name": "Doll Crash"
     },
     {
       "$id": 27,
       "label": "SVT_C15_TriggerName",
       "style": 19,
-      "name": "Wrecked Doll"
+      "name": "Doll Scrap"
     },
     {
       "$id": 28,
       "label": "SVT_C16_TriggerName",
       "style": 19,
-      "name": "Running on Empty"
+      "name": "Doll Fuel Crisis"
     },
     {
       "$id": 29,
@@ -228,7 +228,7 @@
       "$id": 36,
       "label": "SVT_P08_TriggerCaption",
       "style": 64,
-      "name": "Trigger: Character attacks and\n destroys an enemy appendage"
+      "name": "Trigger: Character attacks and\n destroys an enemy part"
     },
     {
       "$id": 37,
@@ -330,13 +330,13 @@
       "$id": 53,
       "label": "SVT_C13_TriggerCaption",
       "style": 64,
-      "name": "Trigger: Character uses a Doll\n to Bind an enemy"
+      "name": "Trigger: Character uses a Doll\n to Catch an enemy"
     },
     {
       "$id": 54,
       "label": "SVT_C14_TriggerCaption",
       "style": 64,
-      "name": "Trigger: Appendage of character's\n Doll is destroyed"
+      "name": "Trigger: Part of character's\n Doll is destroyed"
     },
     {
       "$id": 55,
